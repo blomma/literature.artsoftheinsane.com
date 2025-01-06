@@ -1,0 +1,35 @@
+[
+  {
+    "time": "06:46",
+    "quoteFirst": "We left Tokio on the 17th, at ",
+    "quoteTime": "6.46 A.M.",
+    "quoteLast": ", for a station called Utsumorama, ninety-three miles. Arrived at noon, and, after an excellent lunch, started in _jinrickishas_ for this place, and a most extraordinary and unique trip it proved to be.",
+    "title": "Around the World in Seven Months",
+    "author": "Gillis, Charles J.",
+    "gutenbergReference": "43495",
+    "matchType": 2,
+    "hash": "806cddffd75711200d68a6be2af0baa44e0a33686bed8ebf6c5ce53827388bfa"
+  },
+  {
+    "time": "06:46",
+    "quoteFirst": "_No. 3 Canadian Hospital._ ",
+    "quoteTime": "6.46 a.m.",
+    "quoteLast": ", H.C.",
+    "title": "A Fortnight at the Front",
+    "author": "Wakefield, Henry Russell (Bishop of Birmingham), 1854-1933",
+    "gutenbergReference": "61370",
+    "matchType": 2,
+    "hash": "bcf2089c590ce13b3588da6d35dc02f19e8a84ef5aeb2aa2df49197ac3e371f8"
+  },
+  {
+    "time": "06:46",
+    "quoteFirst": "“Nine minutes exactly,” said he. “Then Pratt arrived here about ",
+    "quoteTime": "fourteen minutes to seven",
+    "quoteLast": ", and his body was found at five minutes to seven--nine minutes after his arrival. The murderer couldn’t have been far away then.",
+    "title": "The Adventures of Dr. Thorndyke\n(The Singing Bone)",
+    "author": "Freeman, R. Austin (Richard Austin), 1862-1943",
+    "gutenbergReference": "59478",
+    "matchType": 1,
+    "hash": "89643d2df20379e0e17123db3e80d22303a097cf26ce0deb2215116af9c07d21"
+  }
+]

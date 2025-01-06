@@ -1,0 +1,35 @@
+[
+  {
+    "time": "22:33",
+    "quoteFirst": "",
+    "quoteTime": "10:33 P.M.",
+    "quoteLast": "",
+    "title": "Syndrome",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34321",
+    "matchType": 2,
+    "hash": "576762cf72c6d6c2a665924c54de4a7b18c4f3e8572b4366888200e5ac09c677"
+  },
+  {
+    "time": "22:33",
+    "quoteFirst": "[C6-1033] Thereafter, at Ruby’s request, garage attendant Huey Reeves gave Mrs. Carlin $5, and she signed with her stage name “Little Lynn” a receipt which Reeves time-stamped ",
+    "quoteTime": "10:33 p.m.",
+    "quoteLast": ", November 23.[C6-1034] (See Commission Exhibit No. 1476, p. 351.)",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "matchType": 2,
+    "hash": "079e53dc6b3fedc7f921ee2b51cc204f704871786a15467d5d86488e1deda978"
+  },
+  {
+    "time": "22:33",
+    "quoteFirst": "COPY OF RECEIPT GIVEN BY LITTLE LYNN TO HUEY REEVES AT ",
+    "quoteTime": "10:33 P.M.",
+    "quoteLast": ", NOVEMBER 23, 1963",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "matchType": 2,
+    "hash": "fb5466089beaa9151da6d82003cc2fe70930cdcfeb121c1947022092621d8a36"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "time": "10:18",
+    "quoteFirst": "Wednesday ",
+    "quoteTime": "10:18 A.M.",
+    "quoteLast": "",
+    "title": "Project Daedalus",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34320",
+    "matchType": 2,
+    "hash": "6351b1f63e73da2561821a610e47a1342f7b0929ba83b43c4a5d2697e20e1fbb"
+  },
+  {
+    "time": "10:18",
+    "quoteFirst": "to 12:52 p. m.; Omaha, Neb., 10:04 a. m. to 12:51 p. m.; St. Paul, Minn., 10:26 a. m. to 1:13 p. m.; Des Moines, Ia., ",
+    "quoteTime": "10:18 a. m.",
+    "quoteLast": " to 1:04 p. m.; Janesville, Wis., 10:47 a. m. to 1:33 p. m.; Santa Fé, New Mex., 8:59 to 11:49 a. m.; Wheeling, W. Va., 11:32 a. m. to 2:13 p. m.; Washington, D.",
+    "title": "The Chautauquan, Vol. 05, March 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55060",
+    "matchType": 2,
+    "hash": "aa75a6109a04d2c88b8d87595d7e111daa87ad307ee97ca39623a4599d3260ad"
+  },
+  {
+    "time": "10:18",
+    "quoteFirst": "",
+    "quoteTime": "10.18 a.m.",
+    "quoteLast": ", _October 5_.",
+    "title": "The World Crisis, Volume 1 (of 6)",
+    "author": "Churchill, Winston, 1874-1965",
+    "gutenbergReference": "59794",
+    "matchType": 2,
+    "hash": "d61c13bd43c91be54ff97eade800d080860e1ebb6f289e74ba1f07b1324a8232"
+  }
+]

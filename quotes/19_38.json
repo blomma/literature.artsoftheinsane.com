@@ -1,0 +1,35 @@
+[
+  {
+    "time": "19:38",
+    "quoteFirst": "Wednesday ",
+    "quoteTime": "7:38 P.M.",
+    "quoteLast": "",
+    "title": "Project Daedalus",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34320",
+    "matchType": 2,
+    "hash": "c75d1ff1a381fb8f95cd74b528f73cacab891f55dd91e1ef27d2dcceb286de62"
+  },
+  {
+    "time": "19:38",
+    "quoteFirst": "“I was afraid you'd change your mind, or something. Besides, it's now ",
+    "quoteTime": "twenty-two minutes to eight",
+    "quoteLast": ". And will you tell the lady that's a wonderful idea about the chicken? Only she'd better start now.”",
+    "title": "Fanny Herself",
+    "author": "Ferber, Edna, 1885-1968",
+    "gutenbergReference": "350",
+    "matchType": 1,
+    "hash": "1a885d4df7546075c3d99db375752a7b69f79a8748e1430f62d6f54ed48c1457"
+  },
+  {
+    "time": "19:38",
+    "quoteFirst": "\"At ex-actly ",
+    "quoteTime": "twenty-two minutes to eight",
+    "quoteLast": ", sir!\" said Mr. Shrig, and rising to his feet, set off briskly along the path. We had almost reached the wood I have mentioned when Mr. Shrig raised his knobbed stick to point at something that sprawled grotesquely across the path. The hat had fallen and rolled away and staring down into the horror of this face fouled with blood and blackened with powder, I recognised the features of Captain Danby.",
+    "title": "Peregrine's Progress",
+    "author": "Farnol, Jeffery, 1878-1952",
+    "gutenbergReference": "7059",
+    "matchType": 1,
+    "hash": "2853b9baa3ad77e91a975d3f71780aabe5826ea7e495f3a5d1c8a586230ee4df"
+  }
+]

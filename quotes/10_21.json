@@ -1,0 +1,35 @@
+[
+  {
+    "time": "10:21",
+    "quoteFirst": "Lv. 7:00 A.M.  Lv. 1:10 P.M.    .0  Silverton     Ar. 11:10 A.M. Ar. 5:20 P.M. 7:34 A.M.      1:44 P.M.   5.0  Burro Bridge      10:36 A.M.     4:46 P.M. 7:49 A.M.      1:59 P.M.   7.5  Chattanooga       ",
+    "quoteTime": "10:21 A.M.",
+    "quoteLast": "     4:31 P.M.",
+    "title": "Three Little Lines\r\nSilverton Railroad; Silverton, Gladstone and Northerly; Silverton Northern",
+    "author": "Crum, Josie Moore",
+    "gutenbergReference": "62664",
+    "matchType": 2,
+    "hash": "d341d2e1ffc182cecf4423586e24517be2c3cf66e17baadfbe8e02310dbfc9d5"
+  },
+  {
+    "time": "10:21",
+    "quoteFirst": "Ar. Grand Canyon                          ",
+    "quoteTime": "10:21 A.M.",
+    "quoteLast": "   B Lv. Grand Canyon                           1:30 P.M. Ar. Cody Inn                               5:51 P.M.   C",
+    "title": "Yellowstone via Gallatin Gateway Montana",
+    "author": "Chicago, Milwaukee, St. Paul, and Pacific Railroad Company",
+    "gutenbergReference": "46305",
+    "matchType": 2,
+    "hash": "b5504b81c36a3e5ec45ce23c2cc37d35e43767abe8e646c6292571ad36cb2f1d"
+  },
+  {
+    "time": "10:21",
+    "quoteFirst": "Three days ago she confessed, received the sacrament and extreme unction; but since that time she has been constantly delirious and rambling, until this afternoon at twenty-one minutes after five, when she was seized with convulsions, and immediately lost all perception and feeling. I pressed her hand and spoke to her; but she neither saw me, heard me, nor seemed in the least sensible; and in this state she lay for five hours, namely, till ",
+    "quoteTime": "twenty-one minutes past ten",
+    "quoteLast": ", when she departed, no one being present but myself, M. Haine, a good friend of ours whom my father knows, and the nurse.",
+    "title": "Blackwood's Edinburgh Magazine, Volume 62, Number 361, November, 1845.",
+    "author": "Various",
+    "gutenbergReference": "27611",
+    "matchType": 1,
+    "hash": "c96cbf5d0abdc78840cb187c8ce0791132db09816b09efbb8171d58ceab596b8"
+  }
+]

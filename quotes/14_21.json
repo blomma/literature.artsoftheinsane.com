@@ -1,0 +1,46 @@
+[
+  {
+    "time": "14:21",
+    "quoteFirst": "Lv. 7:00 A.M.  Lv. 1:10 P.M.    .0  Silverton     Ar. 11:10 A.M. Ar. 5:20 P.M. 7:34 A.M.      1:44 P.M.   5.0  Burro Bridge      10:36 A.M.     4:46 P.M. 7:49 A.M.      1:59 P.M.   7.5  Chattanooga       10:21 A.M.     4:31 P.M. 8:11 A.M.      ",
+    "quoteTime": "2:21 P.M.",
+    "quoteLast": "  12.5  Summit            9:58 A.M.      4:09 P.M.",
+    "title": "Three Little Lines\r\nSilverton Railroad; Silverton, Gladstone and Northerly; Silverton Northern",
+    "author": "Crum, Josie Moore",
+    "gutenbergReference": "62664",
+    "matchType": 2,
+    "hash": "34583c920b368ce61323b6d1ab3149f3e4b3d404e65a489f3869028e1256616a"
+  },
+  {
+    "time": "14:21",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-one minutes past two",
+    "quoteLast": " on the afternoon of July 30th the _Agamemnon_ signalled that she had passed her one-hundred-and-fifty-mile limit, and at twenty-four minutes of three the same was reported on the _Niagara_. After this there could be no return for another splice; it must be either Trinity Bay or Valentia for the _Niagara_.",
+    "title": "Cyrus W. Field, His Life and Work [1819-1892]",
+    "author": "Judson, Isabella Field, 1846- [Editor]",
+    "gutenbergReference": "43753",
+    "matchType": 1,
+    "hash": "44dbafebc59839d9a7a5da4f20da097b009831613bf0061aa80d73cba8409b4f"
+  },
+  {
+    "time": "14:21",
+    "quoteFirst": "The thing was crazy! It said ",
+    "quoteTime": "twenty-one minutes past two",
+    "quoteLast": "! Of course it couldn’t be that late, he told himself indignantly. But even as he said it he was oppressed by a conviction that it was.",
+    "title": "The Turner Twins",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "37209",
+    "matchType": 1,
+    "hash": "b26ce288701ac40365d1d817e6841423dada0bea344862146be0b7eaea96e7f5"
+  },
+  {
+    "time": "14:21",
+    "quoteFirst": "At 8.30 on this special mornin' there I am, as I said; and at ",
+    "quoteTime": "2.21 P.M.",
+    "quoteLast": "",
+    "title": "Torchy, Private Sec.",
+    "author": "Ford, Sewell, 1868-1946; Lincoln, F. Foster (Frederic Foster) [Illustrator]",
+    "gutenbergReference": "20627",
+    "matchType": 2,
+    "hash": "846f8a35d015c36f61137164dc55973fee2b5ec7c2a0c2209e0d64d91e5ed75d"
+  }
+]

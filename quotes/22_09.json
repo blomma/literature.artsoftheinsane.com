@@ -1,0 +1,46 @@
+[
+  {
+    "time": "22:09",
+    "quoteFirst": "The hour was ",
+    "quoteTime": "nine minutes past ten",
+    "quoteLast": ".",
+    "title": "Jonah and Co.",
+    "author": "Yates, Dornford, 1885-1960",
+    "gutenbergReference": "27079",
+    "matchType": 1,
+    "hash": "599c13e100171fc07fff867dfaf980f71d42b17544ca3cc91fcdd7975ce2b0aa"
+  },
+  {
+    "time": "22:09",
+    "quoteFirst": "\"Flash! The United States Government has just officially released the news that at ",
+    "quoteTime": "10:09 p.m.",
+    "quoteLast": " Eastern Standard Time the U. S. Satellite ejection chamber was successfully returned to earth at the designated location. This was some six hours earlier than expected. The chamber, into which Robert Joy voluntarily had himself strapped, has landed at an undisclosed site and is being raced under heavy guard to the Walter Reed Hospital at Washington, D. C. There is no hope that Joy is still living.",
+    "title": "The Day of the Dog",
+    "author": "Horne, Anderson; Emshwiller, Ed, 1925-1990 [Illustrator]",
+    "gutenbergReference": "30528",
+    "matchType": 2,
+    "hash": "5b3c11cad560eea105be30ccaa9fd97a29e77963a76323b3ed1371aeb178b48f"
+  },
+  {
+    "time": "22:09",
+    "quoteFirst": "S., the wind then W. by S. At forty-",
+    "quoteTime": "nine minutes past ten",
+    "quoteLast": ", the weather being extremely hazy, La Bonne Citoyenne made the signal that the ships seen were of the line, twenty-five in number.",
+    "title": "Memoirs and Correspondence of Admiral Lord de Saumarez, Vol. I",
+    "author": "Ross, John, Sir, 1777-1856",
+    "gutenbergReference": "26031",
+    "matchType": 1,
+    "hash": "1107321841f319ec21729d409a0a7c31845981747dba6c89af4654d7d55b73e6"
+  },
+  {
+    "time": "22:09",
+    "quoteFirst": "Sets at the following times: On the 1st, at 11:49 p. m.; on 16th, at 10:57 p. m.; on the 30th, at ",
+    "quoteTime": "10:09 p. m.",
+    "quoteLast": "; is, therefore, an evening star, and will remain so till the 18th of June. On the 18th, at 8:20 p. m., 4° 1′ north of the moon. Diameter diminishes from 16.6″ to 16″.",
+    "title": "The Chautauquan, Vol. 05, April 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55061",
+    "matchType": 2,
+    "hash": "33b24119dcef84a73636aff0c8933389ee10bb3bff264815e7656af820876818"
+  }
+]

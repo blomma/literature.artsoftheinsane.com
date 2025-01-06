@@ -1,0 +1,35 @@
+[
+  {
+    "time": "04:12",
+    "quoteFirst": "\"It's now exactly ",
+    "quoteTime": "twelve minutes past four",
+    "quoteLast": ".\"",
+    "title": "The Rover Boys on Snowshoe Island; or, The Old Lumberman's Treasure Box",
+    "author": "Stratemeyer, Edward, 1862-1930",
+    "gutenbergReference": "22996",
+    "matchType": 1,
+    "hash": "747605cf706590a8f579b360d5722fe352644990228ad64861d48fa9baf4b4f1"
+  },
+  {
+    "time": "04:12",
+    "quoteFirst": "\"It's ",
+    "quoteTime": "twelve minutes past four",
+    "quoteLast": ", if it comes to that,\" said Eric. \"You were an awful time getting into your clothes, Mag. And why shouldn't we wake father? It's his birthday. He will like us to wake him!\"",
+    "title": "The Children of Wilton Chase",
+    "author": "Meade, L. T., 1854-1914",
+    "gutenbergReference": "26409",
+    "matchType": 1,
+    "hash": "24b7dfef1d172f05c3eb454f90ef709379c58f694b2fb2974d37095b62511bc6"
+  },
+  {
+    "time": "04:12",
+    "quoteFirst": "Finally, at eight o’clock in the evening, the engines were stopped, the ship was hove hull to and allowed to drift. The next day the wind had hauled to the north-northwest and sent us drifting away from the island, towards the Siberian shore. At ",
+    "quoteTime": "4.12 A. M.",
+    "quoteLast": " on the morning of the twenty-seventh, Captain Cochran decided to go back to Nome for a new supply of coal. My feelings at this moment can be easily imagined. The days that followed were days to try a man’s soul.",
+    "title": "The last voyage of the Karluk",
+    "author": "Bartlett, Bob, 1875-1946; Hale, Ralph T. (Ralph Tracy), 1880-1951",
+    "gutenbergReference": "74622",
+    "matchType": 2,
+    "hash": "0733b7200c73759ce1975328687dfb4ce1cce0cee775cff9e24dbd02968c70c9"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "time": "01:42",
+    "quoteFirst": "",
+    "quoteTime": "1.42 A. M.",
+    "quoteLast": ", Wednesday, July 2.",
+    "title": "Aircraft",
+    "author": "David, Evan John, 1877-1961",
+    "gutenbergReference": "74358",
+    "matchType": 2,
+    "hash": "acd835eb35926e680349c5aaee6f828f475c9f7f9d9d58de5c734b894c8e8d4d"
+  },
+  {
+    "time": "01:42",
+    "quoteFirst": "On this day the sun reaches his northern limit, 23° 27′ 3.2″, and at 2:42 a. m. begins his southern journey; or, to put it astronomically, the sun enters _Gemini_, and summer begins, on June 21st, at ",
+    "quoteTime": "1:42 a. m.",
+    "quoteLast": " On the 1st, sun rises at 4:31 a. m., sets at 7:24 p.",
+    "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55394",
+    "matchType": 2,
+    "hash": "bfe60d9b6dc8a01b1c1c317a2fb3b685badb8a1023f0df1a1522aa449d33ac47"
+  },
+  {
+    "time": "01:42",
+    "quoteFirst": "Arrive at Wilna at eight A.M. Get to Eydtkuhnen, the Prussian frontier, at ",
+    "quoteTime": "eighteen minutes to two",
+    "quoteLast": ". Here a form of custom-house examination is gone through. Leave at twenty-two minutes past two, and reach _Berlin_ on May 14th at ten minutes past six A.M.",
+    "title": "In the land of the lion and sun, or, modern Persia",
+    "author": "Wills, C. J. (Charles James), 1842-1912",
+    "gutenbergReference": "72128",
+    "matchType": 1,
+    "hash": "ed29673596aa137524ab75fa077a7aafe1b6cbfd37af22c6b93133404b9059bd"
+  }
+]

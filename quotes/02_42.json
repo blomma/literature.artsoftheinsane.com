@@ -1,0 +1,46 @@
+[
+  {
+    "time": "02:42",
+    "quoteFirst": "30 160   TAUNTON             \"    ----       ----       12.35 p.m. 180   Collumpton          \"    ----       ----        2.42 29 Bagshot               \"   10.47 p.m.  ----       ---- 67 Andover               \"    2.20 a.m.  ",
+    "quoteTime": "2.42 a.m.",
+    "quoteLast": "  ---- 84   SALISBURY           \"    ----       4.27       ---- 126   Yeovil              \"    ----       8.",
+    "title": "An Old Coachman's Chatter, with Some Practical Remarks on Driving",
+    "author": "Corbett, Edward; Sturgess, J. (John), 1839-1903 [Illustrator]",
+    "gutenbergReference": "43895",
+    "matchType": 2,
+    "hash": "857afd00f88af914c24e5f8b332ffa8ba16589a52968256188c9c57798c94657"
+  },
+  {
+    "time": "02:42",
+    "quoteFirst": "But what were Meadville and New York in 1727? June 21st is our longest day, in latitude 41° 30′, a little more than fifteen hours from sunrise to sunset; the night, of course, a little less than nine hours. On this day the sun reaches his northern limit, 23° 27′ 3.2″, and at ",
+    "quoteTime": "2:42 a. m.",
+    "quoteLast": " begins his southern journey; or, to put it astronomically, the sun enters _Gemini_, and summer begins, on June 21st, at 1:42 a. m. On the 1st, sun rises at 4:31 a. m., sets at 7:24 p. m.; on the 16th, rises at 4:29 a. m., sets at 7:32 p. m.",
+    "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55394",
+    "matchType": 2,
+    "hash": "e281e1196bc5bc53928eba60271fd521a23d09a34b4918b33ee1578a8b4202b7"
+  },
+  {
+    "time": "02:42",
+    "quoteFirst": "30  ”  | | 160 |  Taunton        |           |          |           |12.35 p.m.| | 180 |  Cullumpton     |           |          |           | 2.42  ”  | |  29 |Bagshot          |           |10.47 p.m.|           |          | |  67 |Andover          |           | 2.20 a.m.| ",
+    "quoteTime": "2.42 a.m.",
+    "quoteLast": " |          | |  84 |  Salisbury      | 4.52 a.m. |          | 4.27  ”   |          | | 124½|Dorchester       | 8.57  ”   |          | 8.",
+    "title": "Stage-coach and Mail in Days of Yore, Volume 2 (of 2)\nA picturesque history of the coaching age",
+    "author": "Harper, Charles G. (Charles George), 1863-1943",
+    "gutenbergReference": "58668",
+    "matchType": 2,
+    "hash": "4143a96a634b9751be435afedb391a7c31edfbd8470e6d75ffee42dccbd09666"
+  },
+  {
+    "time": "02:42",
+    "quoteFirst": "56  ”   | |   29   | Bagshot     | 11.0   ”   | |   67   | Andover     |  ",
+    "quoteTime": "2.42 a.m.",
+    "quoteLast": " | |   84   | Salisbury   |  4.27  ”   | |  105   | Shaftesbury |  6.",
+    "title": "Stage-coach and Mail in Days of Yore, Volume 2 (of 2)\nA picturesque history of the coaching age",
+    "author": "Harper, Charles G. (Charles George), 1863-1943",
+    "gutenbergReference": "58668",
+    "matchType": 2,
+    "hash": "dcd99873f2f319e5717f6f6acdd56eb0cab57c8f1f5ecd5f743bd54b4ab97ca4"
+  }
+]

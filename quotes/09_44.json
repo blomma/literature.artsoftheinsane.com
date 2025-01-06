@@ -1,0 +1,68 @@
+[
+  {
+    "time": "09:44",
+    "quoteFirst": "Lv. 7:00 A.M.  Lv. 1:10 P.M.    .0  Silverton     Ar. 11:10 A.M. Ar. 5:20 P.M. 7:34 A.M.      1:44 P.M.   5.0  Burro Bridge      10:36 A.M.     4:46 P.M. 7:49 A.M.      1:59 P.M.   7.5  Chattanooga       10:21 A.M.     4:31 P.M. 8:11 A.M.      2:21 P.M.  12.5  Summit            9:58 A.M.      4:09 P.M. 8:25 A.M.      2:35 P.M.  15.0  Red Mountain      9:50 A.M.      4:00 P.M. 8:26 A.M.      2:36 P.M.  15.5  Vanderbilt        ",
+    "quoteTime": "9:44 A.M.",
+    "quoteLast": "      3:54 P.M.",
+    "title": "Three Little Lines\r\nSilverton Railroad; Silverton, Gladstone and Northerly; Silverton Northern",
+    "author": "Crum, Josie Moore",
+    "gutenbergReference": "62664",
+    "matchType": 2,
+    "hash": "42c680283ae056d12f24bfedbd3f4281848864a62296b13a6d39f3f1418387cc"
+  },
+  {
+    "time": "09:44",
+    "quoteFirst": "\"",
+    "quoteTime": "9.44 a.m.",
+    "quoteLast": " Working party seen at ----, fired on, dispersed.\"",
+    "title": "Servants of the Guns",
+    "author": "Jeffery, Jeffery E. (Jeffery Eardley), 1887-",
+    "gutenbergReference": "37628",
+    "matchType": 2,
+    "hash": "71f9a9702251470143d8451073470b56af510070cca58f140354cd4bd67d876d"
+  },
+  {
+    "time": "09:44",
+    "quoteFirst": "Friday ",
+    "quoteTime": "9:44 A.M.",
+    "quoteLast": "",
+    "title": "Project Daedalus",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34320",
+    "matchType": 2,
+    "hash": "af56cb48f57849631b3a12fd45e8fed2562a7eee0f32a8b8eec9294605a7a755"
+  },
+  {
+    "time": "09:44",
+    "quoteFirst": "",
+    "quoteTime": "Sixteen minutes to ten",
+    "quoteLast": ".",
+    "title": "Astounding Stories, February, 1931",
+    "author": "Various; Bates, Harry, 1900-1981 [Editor]",
+    "gutenbergReference": "30124",
+    "matchType": 1,
+    "hash": "d347ce91c5d704ee2e6baf05c250e3b5f7b36a7dfcc9301ec2571cf81f268515"
+  },
+  {
+    "time": "09:44",
+    "quoteFirst": "m., and sets at 10:23 p. m. He has a direct motion of 4° 2′ 31″; and his diameter decreases from 34″ to 31.6″. On the 17th, at ",
+    "quoteTime": "9:44 a. m.",
+    "quoteLast": ", he is 3° 44′ north of the moon. It may interest the general reader to know that while he is admiring, night after night, this beautiful body making its way through the “lesser lights” of the heavens, that the astronomer is laboring diligently to discover its properties and learn with exactness its motions. From the last report of Prof. G. W.",
+    "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55394",
+    "matchType": 2,
+    "hash": "183ab64c9e1d36195164c5a63bdc60df4b8986dd0d2db2b051c2f318e801fc67"
+  },
+  {
+    "time": "09:44",
+    "quoteFirst": "Situated on the left bank of the Gregory River. At ",
+    "quoteTime": "9.44 a.m.",
+    "quoteLast": " steered south and by east for two miles, and by doing so went across a bend of the river; at 9.58 made half a mile in a south by west direction; at 10.",
+    "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
+    "author": "Landsborough, William, 1825-1886",
+    "gutenbergReference": "16243",
+    "matchType": 2,
+    "hash": "96dd1029bad2bfbc9d6d40d39e4d6e11e949a5a99fcfdc1edcd06e10aa30b0fe"
+  }
+]

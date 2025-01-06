@@ -1,0 +1,24 @@
+[
+  {
+    "time": "07:33",
+    "quoteFirst": "Wednesday ",
+    "quoteTime": "7:33 A.M.",
+    "quoteLast": "",
+    "title": "Project Daedalus",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34320",
+    "matchType": 2,
+    "hash": "0a770b5a0c70c27d7b0c1befbb69cf25e4bcd5970ffe1422dd2b8b60d2859d34"
+  },
+  {
+    "time": "07:33",
+    "quoteFirst": "At ",
+    "quoteTime": "thirty-three minutes past seven",
+    "quoteLast": " he stood on the platform of the station at Southampton--a clear hour before the train containing Owen could possibly arrive.",
+    "title": "Desperate Remedies",
+    "author": "Hardy, Thomas, 1840-1928",
+    "gutenbergReference": "3044",
+    "matchType": 1,
+    "hash": "7ce7b785ba86b377627d66551e1cbd49e6088fee59adf60b21f732cc3947f4a4"
+  }
+]

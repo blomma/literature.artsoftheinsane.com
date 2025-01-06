@@ -1,0 +1,46 @@
+[
+  {
+    "time": "20:06",
+    "quoteFirst": "At ",
+    "quoteTime": "six minutes after eight",
+    "quoteLast": " the following evening the Countess Casanova, moved from her professional calm, hurriedly closed the sliding doors between the two rooms of her apartment and sprang to the telephone where she frantically demanded a number. The delay seemed interminable to her, but at last she began to speak.",
+    "title": "Bunker Bean",
+    "author": "Wilson, Harry Leon, 1867-1939; Gruger, Frederic Rodrigo, 1871-1953 [Illustrator]",
+    "gutenbergReference": "15743",
+    "matchType": 1,
+    "hash": "83c3a8779d7c51bc4d32a3fd024e3ecd9439c5e39c3fb6c889a42f357379aff6"
+  },
+  {
+    "time": "20:06",
+    "quoteFirst": "In Fanny's drawing-room the next evening, at ",
+    "quoteTime": "six minutes after eight",
+    "quoteLast": ", Loftus appeared. Although tolerably punctual, others had preceded him. On a sofa with Fanny was Sylvia Waldron. On another sofa were Mrs.",
+    "title": "The Perfume of Eros: A Fifth Avenue Incident",
+    "author": "Saltus, Edgar, 1855-1921",
+    "gutenbergReference": "33207",
+    "matchType": 1,
+    "hash": "dcf64dd97242b22a3515e84be812a69df11b107565378245ddc7880f32009783"
+  },
+  {
+    "time": "20:06",
+    "quoteFirst": "We left St. Paul in the Winnipeg sleeper on the Great Northern Railroad at ",
+    "quoteTime": "8:06 P. M.",
+    "quoteLast": " When we awoke this morning we were flying through the wheatfields of North Dakota, passing Grand Forks at about 9 A. M., and reaching Neche, on the Canadian border, at eleven, and arriving at Winnipeg at 1:40 P. M.",
+    "title": "In to the Yukon",
+    "author": "Edwards, William Seymour, 1856-1915",
+    "gutenbergReference": "42611",
+    "matchType": 2,
+    "hash": "92328442b51f1f80cc395c048b12275cf9747800acc199fc857e830a490bdbd9"
+  },
+  {
+    "time": "20:06",
+    "quoteFirst": "_February 14th._--Well, here am I again in my sleeping-bag at ",
+    "quoteTime": "six minutes past eight p.m.",
+    "quoteLast": " Everything is dead quiet.",
+    "title": "The Secrets of a Kuttite\nAn Authentic Story of Kut, Adventures in Captivity and Stamboul Intrigue",
+    "author": "Mousley, Edward O. (Edward Opotiki), 1886-",
+    "gutenbergReference": "41213",
+    "matchType": 0,
+    "hash": "cc88cfe14801966cc2577990490c2b1a9a52c731b9094192e6fc8cbdd4bb8a72"
+  }
+]

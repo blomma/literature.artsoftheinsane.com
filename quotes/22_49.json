@@ -1,0 +1,46 @@
+[
+  {
+    "time": "22:49",
+    "quoteFirst": "",
+    "quoteTime": "10:49 P.M.",
+    "quoteLast": "",
+    "title": "Syndrome",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34321",
+    "matchType": 2,
+    "hash": "05764b770e672ffe5f2d263e96054d11101694edced7e168e8d1fd6212b4b7c1"
+  },
+  {
+    "time": "22:49",
+    "quoteFirst": "He rises during the day and sets at the following hours: On the 2nd at 12:07 a. m.; on the 15th at 11:30 p. m.; and on the 30th at ",
+    "quoteTime": "10:49 p. m.",
+    "quoteLast": "",
+    "title": "The Chautauquan, Vol. 04, June 1884, No. 9",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55194",
+    "matchType": 2,
+    "hash": "5c265d972076be3d89f2f1f1239c109d61976c8acf633c51960fc83f7f41db70"
+  },
+  {
+    "time": "22:49",
+    "quoteFirst": "S., the wind then W. by S. At ",
+    "quoteTime": "forty-nine minutes past ten",
+    "quoteLast": ", the weather being extremely hazy, La Bonne Citoyenne made the signal that the ships seen were of the line, twenty-five in number.",
+    "title": "Memoirs and Correspondence of Admiral Lord de Saumarez, Vol. I",
+    "author": "Ross, John, Sir, 1777-1856",
+    "gutenbergReference": "26031",
+    "matchType": 1,
+    "hash": "2a6c5c4bdc38623ba82dff24f19320ff91cf11ffe85a6c3c963350e7fece1754"
+  },
+  {
+    "time": "22:49",
+    "quoteFirst": "",
+    "quoteTime": "10:49 P.M.",
+    "quoteLast": "",
+    "title": "Project Cyclops",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34319",
+    "matchType": 2,
+    "hash": "22c3ac457eb139b4520566d60bdc3511eafe8c5bd9fddbbc2554b513cbdd9d7a"
+  }
+]

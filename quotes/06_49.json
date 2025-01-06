@@ -1,0 +1,35 @@
+[
+  {
+    "time": "06:49",
+    "quoteFirst": "",
+    "quoteTime": "6:49 A.M.",
+    "quoteLast": "",
+    "title": "Syndrome",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34321",
+    "matchType": 2,
+    "hash": "4e44f7b4f7fb36c30a383e7f63078a01d20f744d1b33500f858184b8e5a415bc"
+  },
+  {
+    "time": "06:49",
+    "quoteFirst": "It was ",
+    "quoteTime": "eleven minutes to seven",
+    "quoteLast": ". Nevertheless, Arthur felt the pincers, and the feel of the pincers made him look at his watch.",
+    "title": "The Matador of the Five Towns and Other Stories",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "12995",
+    "matchType": 1,
+    "hash": "0aed92ca4141358207b51450b4d41c200bd912d45ed9725837874aece69baa34"
+  },
+  {
+    "time": "06:49",
+    "quoteFirst": "Bulb 6.39 to ",
+    "quoteTime": "6.49 a.m.",
+    "quoteLast": "",
+    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6478",
+    "matchType": 2,
+    "hash": "31900c6b8e3a4f3e9380a5d523162a3294fc7432123e9c361fbfe6673416edc2"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "time": "00:06",
+    "quoteFirst": "At twelve by my clock the room was dark. We were very busy then. I looked up again at ",
+    "quoteTime": "six minutes past twelve",
+    "quoteLast": " by _my_ clock here, a minute past twelve by my own watch, which I always keep right by Greenwich, and it's a good chronometer, as you know----\"",
+    "title": "Miracle Gold: A Novel (Vol. 1 of 3)",
+    "author": "Dowling, Richard, 1846-1898",
+    "gutenbergReference": "42498",
+    "matchType": 1,
+    "hash": "94e3108771499a50ac2a94c18c5b1916241fdcb5ebadc2e95329dad2b7c93f1e"
+  },
+  {
+    "time": "00:06",
+    "quoteFirst": "He looked at the illuminated dial of his watch; the hands, the numerals, greenly phosphorescent, were sharp; it was midnight. After apparently an interminable wait he looked again--",
+    "quoteTime": "six minutes past twelve",
+    "quoteLast": ". The rumble of an elevated train approached, hung about the room, and receded. Death could be no more dragging than this.",
+    "title": "Cytherea",
+    "author": "Hergesheimer, Joseph, 1880-1954",
+    "gutenbergReference": "6847",
+    "matchType": 1,
+    "hash": "47470273bf5433f0c1bc29754ae143f3856a9657401cb0e3c08c781f0577e341"
+  },
+  {
+    "time": "00:06",
+    "quoteFirst": "“Speaks for himself” every evening this month. On the 1st, he rises at 10:34 a. m., and on the 2d sets at ",
+    "quoteTime": "12:06 a. m.",
+    "quoteLast": "; on the 16th, rises at 9:50 a. m., and sets at 11:16 p. m.; and on the 30th, rises at 9:03 a. m., and sets at 10:23 p. m.",
+    "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55394",
+    "matchType": 2,
+    "hash": "8dc8805a21e957b4956f3dcb40f09dd4a9820d5841940de51fe9e498fa4c197f"
+  },
+  {
+    "time": "00:06",
+    "quoteFirst": "On the 31st she sets at 12:12 a. m.; on the 15th, rises at 11:25 p. m.; on the 31st, sets at ",
+    "quoteTime": "12:06 a. m.",
+    "quoteLast": " On the meridian, 1st at 5:56¼ p. m.; on the 15th, at 3:58 a. m.; on 30th, at 5:30 p. m. Farthest from the earth, 10th at 7:24 p. m.; nearest the earth on 24th, at 1:36 p. m.",
+    "title": "The Chautauquan, Vol. 04, May 1884, No. 8",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55158",
+    "matchType": 2,
+    "hash": "c213a41214b672f1827f8e8153d27878532d30d467ead089f0c4a9cf1df58ed2"
+  }
+]

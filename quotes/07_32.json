@@ -1,0 +1,35 @@
+[
+  {
+    "time": "07:32",
+    "quoteFirst": "Willard held the face of his watch to the dim light that came from the open door of the hotel. “",
+    "quoteTime": "Twenty-eight minutes to eight",
+    "quoteLast": ",” he answered.",
+    "title": "Benton's Venture",
+    "author": "Barbour, Ralph Henry, 1870-1944; Chickering, Charles R. (Charles Ransom), 1891-1970 [Illustrator]",
+    "gutenbergReference": "66533",
+    "matchType": 1,
+    "hash": "7aacd5ada02e2f11a2faa0a8243559dfadc80fae21ce1d573766174b507d6950"
+  },
+  {
+    "time": "07:32",
+    "quoteFirst": "Of some interest to many is the ",
+    "quoteTime": "7:32 A.M.",
+    "quoteLast": " accommodation train on the Richmond, Fredericksburg and Potomac Railroad from Ashland to Richmond. It conveys as passengers daily business and professional men to the city.",
+    "title": "Life Gleanings",
+    "author": "Macon, T. J. (Thomas Joseph), 1839-1917",
+    "gutenbergReference": "38167",
+    "matchType": 2,
+    "hash": "47cca5faecf0e94b078010db77fa98b21208e5e01ae0462a03193253a7225c0b"
+  },
+  {
+    "time": "07:32",
+    "quoteFirst": "",
+    "quoteTime": "7.32 a.m.",
+    "quoteLast": "--Ever so distant, but quite distinctly, under the thunder of the bombardment I can hear the sound of far-off rifle firing.",
+    "title": "Letters from France",
+    "author": "Bean, C. E. W. (Charles Edwin Woodrow), 1879-1968",
+    "gutenbergReference": "18390",
+    "matchType": 2,
+    "hash": "a971d06cf90ef2fc6c606ffa629c5f09d5648542e7bb371d18604b9e83490731"
+  }
+]
