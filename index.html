@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
@@ -6,61 +6,95 @@
         <meta name="author" content="Mikael Hultgren" />
 
         <script>
-            let text =
-                "[" +
-                '{ "quoteFirst":"Apologies, a quote has not yet been unearthed for the current time, instead, for now, I leave you with this quote from Douglas Adams.\\n\\n\\n", "quoteLast":"“Time is an illusion. Lunchtime doubly so.”", "title":"The Hitchhiker\'s Guide to the Galaxy", "author":"Douglas Adams" }' +
-                "]";
+            const default_literature_quote = [
+                {
+                    quoteFirst:
+                        "Apologies, a quote has not yet been unearthed for the current time, instead, for now, I leave you with this quote from Douglas Adams.\n\n\n",
+                    quoteLast: "“Time is an illusion. Lunchtime doubly so.”",
+                    title: "The Hitchhiker's Guide to the Galaxy",
+                    author: "Douglas Adams",
+                },
+            ];
+
+            const LiteratureQuote = class {
+                constructor(
+                    quoteFirst,
+                    quoteLast,
+                    quoteTime,
+                    gutenbergReference,
+                    title,
+                    author
+                ) {
+                    this.quoteFirst = quoteFirst;
+                    this.quoteLast = quoteFirst;
+                    this.quoteTime = quoteTime;
+                    this.gutenbergReference = gutenbergReference;
+                    this.title = title;
+                    this.author = author;
+                }
+            };
 
             async function init() {
-                // const date = new Date("Tue Nov 16 2021 03:45:00");
+                // const date = new Date("Tue Nov 16 2021 23:41:00");
                 const date = new Date();
                 const hour = `${date.getHours()}`.padStart(2, "0");
                 const minute = `${date.getMinutes()}`.padStart(2, "0");
 
                 const time = hour + "_" + minute;
 
-                var lit_json = await fetch("quotes/" + time + ".json")
+                const literature_quote_json = await fetch(
+                    "quotes/" + time + ".json"
+                )
                     .then((response) => {
                         if (response.ok) {
                             return response.json();
                         } else {
-                            return JSON.parse(text);
+                            return default_literature_quote;
                         }
+                    })
+                    .then((literature_quotes_json) => {
+                        return literature_quotes_json[
+                            Math.floor(
+                                Math.random() * literature_quotes_json.length
+                            )
+                        ];
                     })
                     .catch((e) => console.log(e));
 
-                var lit_json_single =
-                    lit_json[Math.floor(Math.random() * lit_json.length)];
+                const literature_quote = Object.assign(
+                    new LiteratureQuote(),
+                    literature_quote_json
+                );
 
                 try {
-                    var quote = document.getElementById("quote");
+                    const quote = document.getElementById("quote");
 
-                    quoteFragments(lit_json_single.quoteFirst, quote);
+                    quoteFragments(literature_quote.quoteFirst, quote);
 
-                    if (lit_json_single.quoteTime) {
-                        var em = document.createElement("em");
-                        em.innerText = lit_json_single.quoteTime;
+                    if (literature_quote.quoteTime) {
+                        const em = document.createElement("em");
+                        em.innerText = literature_quote.quoteTime;
                         quote.appendChild(em);
                     }
 
-                    if (lit_json_single.quoteLast) {
-                        quoteFragments(lit_json_single.quoteLast, quote);
+                    if (literature_quote.quoteLast) {
+                        quoteFragments(literature_quote.quoteLast, quote);
                     }
 
-                    var cite = document.getElementById("cite");
+                    const cite = document.getElementById("cite");
                     cite.appendChild(document.createTextNode("-"));
 
-                    var cite_title = document.createElement("span");
+                    const cite_title = document.createElement("span");
                     cite_title.className = "title";
-                    cite_title.innerText = lit_json_single.title;
+                    cite_title.innerText = literature_quote.title;
 
-                    var cite_author = document.createElement("span");
+                    const cite_author = document.createElement("span");
                     cite_author.className = "author";
-                    cite_author.innerText = lit_json_single.author;
+                    cite_author.innerText = literature_quote.author;
 
-                    if (lit_json_single.gutenbergReference) {
-                        var link = document.createElement("a");
-                        link.href = `https://www.gutenberg.org/ebooks/${lit_json_single.gutenbergReference}`;
+                    if (literature_quote.gutenbergReference) {
+                        const link = document.createElement("a");
+                        link.href = `https://www.gutenberg.org/ebooks/${literature_quote.gutenbergReference}`;
 
                         link.appendChild(cite_title);
                         link.appendChild(document.createTextNode(","));
