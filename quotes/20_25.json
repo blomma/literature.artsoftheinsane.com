@@ -1,14 +1,102 @@
 [
   {
     "time": "20:25",
-    "quoteFirst": ", at twenty-eight minutes after four in the afternoon; Portland, Me., by direct connection, at ",
-    "quoteTime": "8:25 p. m.",
-    "quoteLast": " This advertisement is signed by W. F. Parsons, as General Passenger Agent, and by Mr. Britton, as General Manager of the line.",
-    "title": "The Story of the Rome, Watertown, and Ogdensburg Railroad",
-    "author": "Hungerford, Edward, 1875-1948",
-    "gutenbergReference": "39021",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty-five minutes past eight",
+    "quoteLast": ", and a fine October morning, when Mr. Wolff Mason, the popular novelist and editor of _Mayfair_, emerged from the dressing-room of his house in Kensington and came downstairs dabbing his chin with his clean pocket-handkerchief.",
+    "title": "Some Persons Unknown",
+    "author": "Hornung, E. W. (Ernest William), 1866-1921",
+    "gutenbergReference": "45732",
+    "matchType": 1,
+    "hash": "629c7942139236aed9ade77f09f58f2cf197146863c717187898eeaf7f902f98"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "\"DR. SIR: Come at once to Peirce City by train No. 3, leaving St. Louis ",
+    "quoteTime": "8:25 p.m.",
+    "quoteLast": " Inclosed find note to messenger on the train, which you can use for a pass in case you see Mr. Damsel in time. Agent at Peirce City will instruct you further.",
+    "title": "Jim Cummings; Or, The Great Adams Express Robbery",
+    "author": "Pinkerton, A. Frank",
+    "gutenbergReference": "5695",
     "matchType": 2,
-    "hash": "1cede4761de425030fb8acc0148933a1e0c9433282f7ecdddb48297d9ee338a4"
+    "hash": "4228b2f3bef5ec26004a9f97feab59027c3a47fe33ccdf3e542602d009b2af01"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty-five minutes past eight",
+    "quoteLast": ", and a fine October morning, when Mr. Wolff Mason, the popular novelist and editor of _Mayfair_, emerged from the dressing-room of his house in Kensington and came downstairs dabbing his chin with his clean pocket-handkerchief.",
+    "title": "Some Persons Unknown",
+    "author": "Hornung, E. W. (Ernest William), 1866-1921",
+    "gutenbergReference": "45732",
+    "matchType": 1,
+    "hash": "629c7942139236aed9ade77f09f58f2cf197146863c717187898eeaf7f902f98"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty-five minutes past eight",
+    "quoteLast": ", and a fine October morning, when Mr. Wolff Mason, the popular novelist and editor of _Mayfair_, emerged from the dressing-room of his house in Kensington and came downstairs dabbing his chin with his clean pocket-handkerchief.",
+    "title": "Some Persons Unknown",
+    "author": "Hornung, E. W. (Ernest William), 1866-1921",
+    "gutenbergReference": "45732",
+    "matchType": 1,
+    "hash": "629c7942139236aed9ade77f09f58f2cf197146863c717187898eeaf7f902f98"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "She always thinks she can dress in ten minutes, but she takes about double the time.’ True enough, it was nearly ",
+    "quoteTime": "twenty-five minutes after eight",
+    "quoteLast": " before she appeared. She shook hands with the ladies, bowed to the gentlemen, and proceeded to the _salle à manger_. I had to take in Lady Emily de Burgh, and was third on her Majesty’s right--Prince Edward of Saxe-Weimar and my partner being between us.",
+    "title": "The Life and Times of Queen Victoria; vol. 1 of 4",
+    "author": "Wilson, Robert, 1846-1893; Ollier, Edmund, 1827-1886",
+    "gutenbergReference": "61819",
+    "matchType": 1,
+    "hash": "148cb569feb7160ffaf0ddc046946d4b338f6f6d1ee51b031edbcb154d91d452"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "A.M., it were ",
+    "quoteTime": "8:25 P.M.",
+    "quoteLast": ", then 8½ times 14.67 seconds would have to be, not added, but _subtracted_; for, if, at noon, the sun were 1 minute and 26 seconds behind time, and if it were catching up with where it ought to be at the rate of 14.67 seconds per hour, then at 8.25 P.M. it would be much nearer where it ought to be than it had been at noon.",
+    "title": "The cruise of the Snark",
+    "author": "London, Jack, 1876-1916",
+    "gutenbergReference": "2512",
+    "matchType": 2,
+    "hash": "c5f43679edbf3f129fd6ed4247ae45c8129a76dd58ba8c183731d420e7553c79"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "_Fourth Session—",
+    "quoteTime": "8:25 p. m.",
+    "quoteLast": ", October 3._",
+    "title": "Proceedings [of the] fourth National Conservation Congress [at] Indianapolis, October 1-4, 1912",
+    "author": "United States. National Conservation Congress",
+    "gutenbergReference": "69706",
+    "matchType": 2,
+    "hash": "01cb9975b6ae3d85317ce3c1e7b9ec4a855b740204e55ff75b61deba6217b5a8"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "This I propose to do, with your consent, this evening.  It is now ",
+    "quoteTime": "twenty-five minutes past eight",
+    "quoteLast": " by the true time, as my watch has it.",
+    "title": "Complete Project Gutenberg Oliver Wendell Holmes, Sr. Works",
+    "author": "Holmes, Oliver Wendell, 1809-1894",
+    "gutenbergReference": "3252",
+    "matchType": 1,
+    "hash": "f2a983b40e09dfc44e92bb9ad98b8842f3878932b3caa560f7a91dfb1c32246f"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "Quite clearly, then, if, instead of being 8:25 A.M., it were 8:25 P.M., then 8½ times 14.67 seconds would have to be, not added, but _subtracted_; for, if, at noon, the sun were 1 minute and 26 seconds behind time, and if it were catching up with where it ought to be at the rate of 14.67 seconds per hour, then at ",
+    "quoteTime": "8.25 P.M.",
+    "quoteLast": " it would be much nearer where it ought to be than it had been at noon.",
+    "title": "The cruise of the Snark",
+    "author": "London, Jack, 1876-1916",
+    "gutenbergReference": "2512",
+    "matchType": 2,
+    "hash": "ca537fdb8e4e926909b210c29c01388acf7efb93f3962484fb1988cdd49efe8b"
   },
   {
     "time": "20:25",
@@ -34,102 +122,14 @@
   },
   {
     "time": "20:25",
-    "quoteFirst": "Punctually at ",
-    "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": " each morning the bell in the little chapel began to give warning, and by half-past every member of the school was expected to have taken her seat, and to be ready for the short service held there daily by the senior curate of the parish church at Dunscar.",
-    "title": "The New Girl at St. Chad's: A Story of School Life",
-    "author": "Brazil, Angela, 1869-1947",
-    "gutenbergReference": "24025",
-    "matchType": 1,
-    "hash": "78f6f8098ad574e7866ab84c192e028dbfb91b8a2cbc96845aa43e3b9c42b20e"
-  },
-  {
-    "time": "20:25",
-    "quoteFirst": "The taxi appeared at about ",
-    "quoteTime": "8.25 P. M.",
-    "quoteLast": ", and I just got to the station in time. There was half a minute.",
-    "title": "Russia in 1916",
-    "author": "Graham, Stephen, 1884-1975",
-    "gutenbergReference": "67710",
+    "quoteFirst": "A.M., it were ",
+    "quoteTime": "8:25 P.M.",
+    "quoteLast": ", then 8½ times 14.67 seconds would have to be, not added, but _subtracted_; for, if, at noon, the sun were 1 minute and 26 seconds behind time, and if it were catching up with where it ought to be at the rate of 14.67 seconds per hour, then at 8.25 P.M. it would be much nearer where it ought to be than it had been at noon.",
+    "title": "The cruise of the Snark",
+    "author": "London, Jack, 1876-1916",
+    "gutenbergReference": "2512",
     "matchType": 2,
-    "hash": "55945318b626e6ffd7f8151cf81f84e95cfc3a47989ef05dcfae224569f3d125"
-  },
-  {
-    "time": "20:25",
-    "quoteFirst": "",
-    "quoteTime": "25 minutes past 8",
-    "quoteLast": ".\u0097The boys have gone home.",
-    "title": "Punch, or the London Charivari, Volume 1, Complete",
-    "author": "Various",
-    "gutenbergReference": "17216",
-    "matchType": 1,
-    "hash": "02465f81823724d7977d11285aad0b5b30f3af03642f25da08d099d091b1e8e1"
-  },
-  {
-    "time": "20:25",
-    "quoteFirst": "",
-    "quoteTime": "Twenty-five minutes past eight",
-    "quoteLast": ".",
-    "title": "Jonah and Co.",
-    "author": "Yates, Dornford, 1885-1960",
-    "gutenbergReference": "27079",
-    "matchType": 1,
-    "hash": "970dc88288797a60a36bdc822df340aa29e92496988646551dfb480863913a28"
-  },
-  {
-    "time": "20:25",
-    "quoteFirst": "\"My sister says she could be upon her Bible oath, if necessary, that at ",
-    "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": " Martha Ann was still at home. She called out something to her up the stairs, and Martha Ann answered her. She must have crept down directly upon that, and got off, and run all the way along the bank, and across the three-cornered field.",
-    "title": "Mildred Arkell: A Novel. Vol. 1 (of 3)",
-    "author": "Wood, Henry, Mrs., 1814-1887",
-    "gutenbergReference": "39692",
-    "matchType": 1,
-    "hash": "a66aceba7a7b4563bbd8d857588cbb38f7d6397b242d9ffac1a7b2ee622998ef"
-  },
-  {
-    "time": "20:25",
-    "quoteFirst": "The operator made a note of the order and went out, and the superintendent settled himself in his desk-chair for another hour's hard work with the stenographer. At ",
-    "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": " he heard the wheel-grindings of the up-coming service-car, and the weary short-hand man snapped a rubber band upon the notes of the final letter.",
-    "title": "The Taming of Red Butte Western",
-    "author": "Lynde, Francis, 1856-1930",
-    "gutenbergReference": "14844",
-    "matchType": 1,
-    "hash": "94d5862c0d0d71af1a80f7bef882adbbdab6f0e4bf759c84b1948da1fb96f98d"
-  },
-  {
-    "time": "20:25",
-    "quoteFirst": "We had ascended the steps and entered the Charing Cross terminus. The hands of the great clock pointed to ",
-    "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": ".",
-    "title": "A Secret Service: Being Strange Tales of a Nihilist",
-    "author": "Le Queux, William, 1864-1927",
-    "gutenbergReference": "67278",
-    "matchType": 1,
-    "hash": "7b89829923c1a60ed2334d630a3a8d65ffc6d3481cbdcab066eaed45e57fbd69"
-  },
-  {
-    "time": "20:25",
-    "quoteFirst": "Geinitz, for instance, although he says that the origin of the 1877 earthquake was not on the continent but to the west in the ocean, bases all his calculations on the assumption that the _centrum_ was at or near to Iquique, and the time at which that city was disturbed was the time at which the waves commenced to spread across the ocean. This time is ",
-    "quoteTime": "8.25 P.M.",
-    "quoteLast": " At this time, however, it appears that the waves must have been more than double the distance between the true origin and Iquique, from Iquique on their way towards the opposite side of the Pacific. Introducing this element into the various calculations which have been made respecting the depth of the Pacific Ocean as derived from observations on earthquake waves—which element, insomuch as the waves appear to have come in to inundate the land some time after the shock, needs to be introduced—we reduce the velocity of transit of the earthquake wave and, consequently, the",
-    "title": "Earthquakes and other earth movements",
-    "author": "Milne, John, 1850-1913",
-    "gutenbergReference": "60007",
-    "matchType": 2,
-    "hash": "bc16264bd139ec8b788dd89b4213da2a175a57be195a3e5a3bc99a72c5bd3b1f"
-  },
-  {
-    "time": "20:25",
-    "quoteFirst": ", at twenty-eight minutes after four in the afternoon; Portland, Me., by direct connection, at ",
-    "quoteTime": "8:25 p. m.",
-    "quoteLast": " This advertisement is signed by W. F. Parsons, as General Passenger Agent, and by Mr. Britton, as General Manager of the line.",
-    "title": "The Story of the Rome, Watertown, and Ogdensburg Railroad",
-    "author": "Hungerford, Edward, 1875-1948",
-    "gutenbergReference": "39021",
-    "matchType": 2,
-    "hash": "1cede4761de425030fb8acc0148933a1e0c9433282f7ecdddb48297d9ee338a4"
+    "hash": "c5f43679edbf3f129fd6ed4247ae45c8129a76dd58ba8c183731d420e7553c79"
   },
   {
     "time": "20:25",
@@ -144,39 +144,6 @@
   },
   {
     "time": "20:25",
-    "quoteFirst": "Quite clearly, then, if, instead of being 8:25 A.M., it were 8:25 P.M., then 8½ times 14.67 seconds would have to be, not added, but _subtracted_; for, if, at noon, the sun were 1 minute and 26 seconds behind time, and if it were catching up with where it ought to be at the rate of 14.67 seconds per hour, then at ",
-    "quoteTime": "8.25 P.M.",
-    "quoteLast": " it would be much nearer where it ought to be than it had been at noon.",
-    "title": "The cruise of the Snark",
-    "author": "London, Jack, 1876-1916",
-    "gutenbergReference": "2512",
-    "matchType": 2,
-    "hash": "ca537fdb8e4e926909b210c29c01388acf7efb93f3962484fb1988cdd49efe8b"
-  },
-  {
-    "time": "20:25",
-    "quoteFirst": "Punctually at ",
-    "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": " each morning the bell in the little chapel began to give warning, and by half-past every member of the school was expected to have taken her seat, and to be ready for the short service held there daily by the senior curate of the parish church at Dunscar.",
-    "title": "The New Girl at St. Chad's: A Story of School Life",
-    "author": "Brazil, Angela, 1869-1947",
-    "gutenbergReference": "24025",
-    "matchType": 1,
-    "hash": "78f6f8098ad574e7866ab84c192e028dbfb91b8a2cbc96845aa43e3b9c42b20e"
-  },
-  {
-    "time": "20:25",
-    "quoteFirst": "\"We've got it!  We're on the trail at last!\" I exclaimed.  \"I just found out at the club that Woods left his dinner hurriedly and was not seen again until ",
-    "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": ".\"",
-    "title": "32 Caliber",
-    "author": "McGibeny, Donald",
-    "gutenbergReference": "22781",
-    "matchType": 1,
-    "hash": "9cae2c9fe1f9dc9ceebf917a07acff9254c755aed5f03739f54de7221d5d8e9f"
-  },
-  {
-    "time": "20:25",
     "quoteFirst": "It was now ",
     "quoteTime": "twenty-five minutes past eight",
     "quoteLast": ". Valentine sank down on the dusty chair which the boy pushed forward for her, and Suzanne stood impatiently by her side.",
@@ -188,35 +155,68 @@
   },
   {
     "time": "20:25",
-    "quoteFirst": "At first Joe helped him, but gradually he was left to attend to this work alone. By hurrying he was just able to finish it by ",
-    "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": ". Then he raced across the three blocks to the high school and arrived there usually as the gong rang. At half-past twelve there was a half-hour recess for lunch.",
-    "title": "Pitcher Pollock",
-    "author": "Mathewson, Christy, 1880-1925; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
-    "gutenbergReference": "50761",
-    "matchType": 1,
-    "hash": "4d75c94f11e9c951862c2901b1710757dcb00f53e4b0fc6c996cbd251282caea"
-  },
-  {
-    "time": "20:25",
-    "quoteFirst": "There wasn’t probably more than half a dozen people on the east side of the street. There were a good many people on the West Side. It was then about twenty or ",
-    "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": ". When I got up within eight or ten feet of them and they stopped, I stopped too, and looked at them. They were in plain view of me. I don’t think they did see me, though they could see me if they looked up.",
-    "title": "Anarchy and Anarchists\r\nA History of the Red Terror and the Social Revolution in America and Europe; Communism, Socialism, and Nihilism in Doctrine and in Deed; The Chicago Haymarket Conspiracy and the Detection and Trial of the Conspirators",
-    "author": "Schaack, Michael J.",
-    "gutenbergReference": "52811",
-    "matchType": 1,
-    "hash": "53ccd66374ab9f5b74884865da377df0aa6b51202abace8d257d01da4e7e4bbf"
-  },
-  {
-    "time": "20:25",
     "quoteFirst": "",
-    "quoteTime": "25 minutes past 8",
-    "quoteLast": ".\u0097The boys have gone home.",
-    "title": "Punch, or the London Charivari, Volume 1, Complete",
-    "author": "Various",
-    "gutenbergReference": "17216",
+    "quoteTime": "8:25 P.M.",
+    "quoteLast": "",
+    "title": "Syndrome",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34321",
+    "matchType": 2,
+    "hash": "05b9c672406ea15e386c75052ae497da521cb030826ddf3d3891c38a8a31c4b0"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty-five minutes past eight",
+    "quoteLast": ",\" he said. \"You needn't have hurried yourself. You've another half-hour by Irish time. Perhaps you'd like to fill it up by a trip round Ireland,\" he added dryly.",
+    "title": "Round the World in Seven Days",
+    "author": "Strang, Herbert; Michael, A. C. (Arthur C.) [Illustrator]",
+    "gutenbergReference": "15773",
     "matchType": 1,
-    "hash": "02465f81823724d7977d11285aad0b5b30f3af03642f25da08d099d091b1e8e1"
+    "hash": "e8562ae5a894ad996bb80f7bdc9ab6a669d3047d6c63f18b0dbd7e71d55eae69"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "This I propose to do, with your consent, this evening.  It is now ",
+    "quoteTime": "twenty-five minutes past eight",
+    "quoteLast": " by the true time, as my watch has it.",
+    "title": "Complete Project Gutenberg Oliver Wendell Holmes, Sr. Works",
+    "author": "Holmes, Oliver Wendell, 1809-1894",
+    "gutenbergReference": "3252",
+    "matchType": 1,
+    "hash": "f2a983b40e09dfc44e92bb9ad98b8842f3878932b3caa560f7a91dfb1c32246f"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "This I propose to do, with your consent, this evening.  It is now ",
+    "quoteTime": "twenty-five minutes past eight",
+    "quoteLast": " by the true time, as my watch has it.",
+    "title": "Complete Project Gutenberg Oliver Wendell Holmes, Sr. Works",
+    "author": "Holmes, Oliver Wendell, 1809-1894",
+    "gutenbergReference": "3252",
+    "matchType": 1,
+    "hash": "f2a983b40e09dfc44e92bb9ad98b8842f3878932b3caa560f7a91dfb1c32246f"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "\"My sister says she could be upon her Bible oath, if necessary, that at ",
+    "quoteTime": "twenty-five minutes past eight",
+    "quoteLast": " Martha Ann was still at home. She called out something to her up the stairs, and Martha Ann answered her. She must have crept down directly upon that, and got off, and run all the way along the bank, and across the three-cornered field.",
+    "title": "Mildred Arkell: A Novel. Vol. 1 (of 3)",
+    "author": "Wood, Henry, Mrs., 1814-1887",
+    "gutenbergReference": "39692",
+    "matchType": 1,
+    "hash": "a66aceba7a7b4563bbd8d857588cbb38f7d6397b242d9ffac1a7b2ee622998ef"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "as soon as every thing was put to order we Broke out the Band to give us the Star Spangled Baner, and the Crew diden do a thing But yell and whoop her up, so they had to play it over 4 times. The Marietta got in at 7 P.M. The Forts at this place were not going to let her in. But when they see her Signal they let her pass O.K. started to coal up at ",
+    "quoteTime": "8.25 P.M.",
+    "quoteLast": " and we get out of hear as soon as we can. I hear the Spanish has got one of our Merchant ships, the Shanandore, loaded with English goods.",
+    "title": "The Voyage of the Oregon from San Francisco to Santiago in 1898",
+    "author": "Cross, R.",
+    "gutenbergReference": "25723",
+    "matchType": 2,
+    "hash": "5e35b1dfb8640cc383f783dd01536c639dbf191fc902846536cab37815be481c"
   }
 ]

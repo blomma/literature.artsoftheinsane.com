@@ -56,6 +56,17 @@
   },
   {
     "time": "01:54",
+    "quoteFirst": "After a short stay at the Canary Islands, Kruzenstern hunted in vain, as La Pérouse had done before him, for the Island of Ascension, as to the existence of which opinion had been divided for some three hundred years. He then rounded Cape Frio, the position of which he was unable exactly to determine although he was most anxious to do so, the accounts of earlier travellers and the maps hitherto laid down varying from 23 degrees ",
+    "quoteTime": "6 minutes to 2",
+    "quoteLast": "2 degrees 34 minutes. A reconnaissance of the coast of Brazil was succeeded by a sail through the passage between the islands of Gal and Alvaredo, unjustly characterized as dangerous by La Pérouse, and on the 21st December, 1803, St. Catherine was reached.",
+    "title": "Celebrated Travels and Travellers, Part 3.\r\nThe Great Explorers of the Nineteenth Century",
+    "author": "Verne, Jules, 1828-1905; Benett, Léon, 1838-1917 [Illustrator]; D'Anvers, N., 1844-1933 [Translator]",
+    "gutenbergReference": "26658",
+    "matchType": 1,
+    "hash": "c5875bbaa6f3a0d3bdec81739377d19d50e346ead108b5d44d881513e974d294"
+  },
+  {
+    "time": "01:54",
     "quoteFirst": "The _Alcedo_ was sunk, as near as I can estimate, 75 miles west true of north end of Belle Ile. The torpedo struck ship at 1.46 by the officer of the deck's watch, and the same watch stopped at ",
     "quoteTime": "1.54 a. m.",
     "quoteLast": ", November 5, this showing that the ship remained afloat eight minutes.",
@@ -75,16 +86,5 @@
     "gutenbergReference": "19179",
     "matchType": 2,
     "hash": "3103b267fd33c801274762c1a1637c6b45ced01239c949ca76ff82c41c9be96f"
-  },
-  {
-    "time": "01:54",
-    "quoteFirst": "At forty-",
-    "quoteTime": "six minutes to two",
-    "quoteLast": ", the combatants being prepared, set-to.",
-    "title": "Pugilistica: The History of British Boxing, Volume 1 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
-    "author": "Miles, Henry Downes, 1806-1889",
-    "gutenbergReference": "59465",
-    "matchType": 1,
-    "hash": "0640cd389be717e4b5f6c3e7e418afb7d6a9d278374e576aecab8e4187f3753c"
   }
 ]

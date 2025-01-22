@@ -1,36 +1,168 @@
 [
   {
     "time": "07:50",
-    "quoteFirst": "Thursday, 25th April, Attack Creek. Started at ",
-    "quoteTime": "7.50 a.m.",
-    "quoteLast": ", on a course of 294 degrees, to the top of the range, which I have named Whittington Range, after William S. Whittington, Esquire, of Adelaide. At six miles reached the top. At 9.50 changed to north-west, and at 11.",
-    "title": "Explorations in Australia\r\nThe Journals of John McDouall Stuart During the Years 1858, 1859, 1860, 1861, and 1862, When He Fixed the Centre of the Continent and Successfully Crossed It from Sea to Sea",
-    "author": "Stuart, John McDouall, 1815-1866",
-    "gutenbergReference": "8911",
-    "matchType": 2,
-    "hash": "923db9162bd8bdbfc01db0f019a055e55e345065f3e2f017fd0e7e400f9f879f"
+    "quoteFirst": "It was already ",
+    "quoteTime": "ten minutes to eight",
+    "quoteLast": ", and the school sergeant, a whiskered veteran, who visited the different class-rooms during early school, with orders from the Head, and summonses for boys who had been reported, had already passed the museum door without coming in, and David’s heart rose.",
+    "title": "David Blaize",
+    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
+    "gutenbergReference": "48315",
+    "matchType": 1,
+    "hash": "7f2da315b1e8a8def2aa1a983158f93b8625bef7d37942ca71d111a29c41b7c4"
   },
   {
     "time": "07:50",
-    "quoteFirst": "“There is a later train at ",
+    "quoteFirst": "He tossed the paper upon the floor again and sat there, pulling at his beard and glancing impatiently at the clock. Its gold plated hands crept from seven to seven-thirty and, at last, to ",
     "quoteTime": "ten minutes to eight",
-    "quoteLast": ", father,” said Jeanne.",
-    "title": "The Ink-Stain (Tache d'encre) — Complete",
-    "author": "Bazin, René, 1853-1932",
-    "gutenbergReference": "3975",
+    "quoteLast": ". Then he rose and moved toward the front hall.",
+    "title": "The Big Mogul",
+    "author": "Lincoln, Joseph Crosby, 1870-1944",
+    "gutenbergReference": "68048",
     "matchType": 1,
-    "hash": "4f17fb963a9fa713d7e5ea559f920572c614d0e84343adac91d8778fd413cbf5"
+    "hash": "f40e679e6234fc83783dddaec2264bf33878878ff1aa60eae8c013516c067bec"
+  },
+  {
+    "time": "07:50",
+    "quoteFirst": "_",
+    "quoteTime": "Ten minutes to eight",
+    "quoteLast": "_!",
+    "title": "Marcella",
+    "author": "Ward, Humphry, Mrs., 1851-1920",
+    "gutenbergReference": "13728",
+    "matchType": 1,
+    "hash": "c1c4db81c96b5e15dc9a0a8a516727585c3fbefe42129b4498abd62766880849"
+  },
+  {
+    "time": "07:50",
+    "quoteFirst": "“I stood with my Company,” states the Company Commander,[185] “at about ",
+    "quoteTime": "ten minutes to eight",
+    "quoteLast": " in the _Station Square_. I had stood about five minutes, when suddenly, quite unexpectedly, shots were fired at my Company from the surrounding houses, from the windows, and from the attics. Simultaneously I heard lively firing from the _Rue de la Station_, as well as from all the neighbouring streets.",
+    "title": "The German Terror in Belgium: An Historical Record",
+    "author": "Toynbee, Arnold, 1889-1975",
+    "gutenbergReference": "50716",
+    "matchType": 1,
+    "hash": "a879f0b947de32ebfb8c123e1acb27840d6173ff065a8428e8a2cf1ca55f90e4"
+  },
+  {
+    "time": "07:50",
+    "quoteFirst": "On the Monday, however, it was known that arrangements had been agreed on by Dan Dismore on the part of Nat Langham, and Jemmy Shaw and Ben Butler on the part of Ben Caunt, to hire two steamboats between them, one for first and the other for second-class passengers. It was also arranged that the boats should rendezvous at Tilbury, and that the men and their friends should proceed to the same place by the ",
+    "quoteTime": "7.50 a.m.",
+    "quoteLast": " train on the eventful morning. In the course of Monday, however, it seems that apprehensions arose in the minds of Nat’s friends that it would be unsafe to start from Tilbury, and they telegraphed to the owner of the boats to change the venue and muster at Southend.",
+    "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
+    "author": "Miles, Henry Downes, 1806-1889",
+    "gutenbergReference": "64111",
+    "matchType": 2,
+    "hash": "b93c2bd4c5eb8cdf9c42d3cf0037cb8844d148d190274a180993a8a9701ef110"
+  },
+  {
+    "time": "07:50",
+    "quoteFirst": "\"About ",
+    "quoteTime": "ten minutes to eight",
+    "quoteLast": ". I glanced at the clock when the letters were posted, as I wished to be sure of catching the American mail.\"",
+    "title": "The de Bercy Affair",
+    "author": "Tracy, Louis, 1863-1928; Christy, Howard Chandler, 1873-1952 [Illustrator]",
+    "gutenbergReference": "50705",
+    "matchType": 1,
+    "hash": "fd3801703bfbf9a5d83453aae1c1a46f4f704a4bde69e6676d75b3c33beec770"
+  },
+  {
+    "time": "07:50",
+    "quoteFirst": "Friday, April 14, at ",
+    "quoteTime": "7:50 a.m.",
+    "quoteLast": ", the Valley City and Whitehead got under weigh, and proceeded down to Winton, where we met the Wilderness, with Commander Wm. H. Macomb and Lieutenant Commander Earl English aboard, when we received the news that the Confederate forces under General Lee had surrendered to General Grant.",
+    "title": "Reminiscences of Two Years in the United States Navy",
+    "author": "Batten, John M. (John Mullin), 1837-1916",
+    "gutenbergReference": "25764",
+    "matchType": 2,
+    "hash": "1231adc89ba0ccc5b0d3fc24d439eea9ac26f6673b24da40ac57da6265c27df8"
+  },
+  {
+    "time": "07:50",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes to eight",
+    "quoteLast": " Helen rose from the table.",
+    "title": "Polly: A New-Fashioned Girl",
+    "author": "Meade, L. T., 1854-1914",
+    "gutenbergReference": "18666",
+    "matchType": 1,
+    "hash": "06a5c8a3fabb6e6868d12c0c6766b40eeef44c52aca89f8cb22a35e8beadbfa8"
+  },
+  {
+    "time": "07:50",
+    "quoteFirst": "So that it seemed now possible to fix the time of Jem’s death at a time between ",
+    "quoteTime": "ten minutes to eight",
+    "quoteLast": ", which was about the earliest moment by which he could have reached the spot where he was found, and ten minutes past, which was the time at which the boy, Charles Wallett, had discovered the body.",
+    "title": "Mystery of the inn by the shore",
+    "author": "Warden, Florence, 1857-1929; Kendrick, Charles, 1841-1914 [Illustrator]",
+    "gutenbergReference": "73798",
+    "matchType": 1,
+    "hash": "5fa30b810159bb92359c9bbc812527831f370c7fe1cf9f7da931049c6fdb27db"
+  },
+  {
+    "time": "07:50",
+    "quoteFirst": "Mrs. Colgrave objected, upon which he made use of a coarse expression regarding Mrs. Dyson. At ",
+    "quoteTime": "ten minutes to eight",
+    "quoteLast": " he was seen by a man named Brassington, who met Peace walking in front of the Bannercross Hotel.",
+    "title": "Charles Peace, or The Adventures of a Notorious Burglar",
+    "author": "Anonymous",
+    "gutenbergReference": "65464",
+    "matchType": 1,
+    "hash": "254fe88fc30afa25fa38b0feaf50c7f1c675bc2e5d1f25ae5db73ad5fdd3092a"
+  },
+  {
+    "time": "07:50",
+    "quoteFirst": "So that it seemed now possible to fix the time of Jem’s death at a time between ",
+    "quoteTime": "ten minutes to eight",
+    "quoteLast": ", which was about the earliest moment by which he could have reached the spot where he was found, and ten minutes past, which was the time at which the boy, Charles Wallett, had discovered the body.",
+    "title": "Mystery of the inn by the shore",
+    "author": "Warden, Florence, 1857-1929; Kendrick, Charles, 1841-1914 [Illustrator]",
+    "gutenbergReference": "73798",
+    "matchType": 1,
+    "hash": "5fa30b810159bb92359c9bbc812527831f370c7fe1cf9f7da931049c6fdb27db"
+  },
+  {
+    "time": "07:50",
+    "quoteFirst": "They speedily came to an agreement that he should be in the church-porch at ",
+    "quoteTime": "ten minutes to eight",
+    "quoteLast": " on the following morning, awaiting her; and that, immediately after the conclusion of the service which would make them one, Nicholas should set out on his long-deferred educational tour, towards the cost of which she was resolving to bring a substantial subscription with her to church.",
+    "title": "Index of the Project Gutenberg Works of Thomas Hardy",
+    "author": "Hardy, Thomas, 1840-1928; Widger, David, 1932-2021? [Editor]",
+    "gutenbergReference": "58250",
+    "matchType": 1,
+    "hash": "0a4660ebd9a08f18adab6db6e8e0a20d5b78d5b0007cbcb50e91dc57fdcbb756"
   },
   {
     "time": "07:50",
     "quoteFirst": "At ",
     "quoteTime": "7.50 a.m.",
-    "quoteLast": " started with the whole party, and proceeded down the creek to the head of the salt water, and then by a detour among the rocky hills reached the running creek visited yesterday, and encamped at 11.0 a.m.; I then started with Mr. H. Gregory in a southerly direction, and after an hour's ride came to the Fitzmaurice River, which varied from 100 to 300 yards in width, the general course nearly east and west; the channel was full of rocks and banks which were dry at low water, the rise of the tide nearly twenty feet.",
+    "quoteLast": " resumed our journey up the river, steering north-east till 8.25; then east along the north bank, through rich grassy flats timbered with York gum. At 10.",
     "title": "Journals of Australian Explorations",
     "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
     "gutenbergReference": "10461",
     "matchType": 2,
-    "hash": "25684af25d534836fe770a40a9c4bc07bad3d2280457d46f03474ac061677fe4"
+    "hash": "9d3db652d6c99cc52077ec7b78706d2b8f3474cca04ab72c650773cdb769e762"
+  },
+  {
+    "time": "07:50",
+    "quoteFirst": "From ",
+    "quoteTime": "7.50 A.M.",
+    "quoteLast": " to 8.55 A.M.",
+    "title": "Stokers and pokers",
+    "author": "Head, Francis Bond, Sir, 1793-1875",
+    "gutenbergReference": "74809",
+    "matchType": 2,
+    "hash": "cf5fb5ba266607ef9fd330a74f18b849b1b0cadc3de5dfae6d51d4652d71d082"
+  },
+  {
+    "time": "07:50",
+    "quoteFirst": "\"There is a later train at ",
+    "quoteTime": "ten minutes to eight",
+    "quoteLast": ", father,\" said Jeanne.",
+    "title": "The Immortals: Masterpieces of Fiction, Crowned by the French Academy — Complete",
+    "author": "Various",
+    "gutenbergReference": "4000",
+    "matchType": 1,
+    "hash": "01b9e30e2f1d19908cb2e28194792888767dd2e8337caac6d18198e6450891a5"
   },
   {
     "time": "07:50",
@@ -45,113 +177,36 @@
   },
   {
     "time": "07:50",
-    "quoteFirst": "“Motor at ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": ",” said Peter to the servant, glancing at the clock. “Tell me when it comes round.”",
-    "title": "Peter",
-    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
-    "gutenbergReference": "57568",
-    "matchType": 1,
-    "hash": "5c116a9fe417fce2b56bc6138f8d858c9fb267372303c5e286a64b99600c1fa9"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "His range was about 2000 and the big ships 4000 yards. All ships then altered course. ",
+    "quoteFirst": "\"On the 5th December, at ",
     "quoteTime": "7.50 A.M.",
-    "quoteLast": ": dived at full speed. Hit bottom hard at 64 feet, and proceeded along bottom at full speed. 7.53: one depth-charge exploded astern. 7.",
-    "title": "The Story of Our Submarines",
-    "author": "Bower, John Graham, 1886-1940",
-    "gutenbergReference": "40765",
+    "quoteLast": ", I started with a dog-sledge for the village Pidlin, lying on Kolyutschin Bay. I was driven by the Chukch Auango from Irgunnuk. He had a small, light sledge, provided with runners of whalebone, drawn by six dogs, of which the leader was harnessed before the other five, which were fastened abreast in front of the sledge, each with its draught belt.",
+    "title": "The Voyage of the Vega round Asia and Europe, Volume I and Volume II",
+    "author": "Nordenskiöld, A. E. (Adolf Erik), 1832-1901; Leslie, Alexander, active 1879-1882 [Translator]",
+    "gutenbergReference": "24365",
     "matchType": 2,
-    "hash": "71e925b150daa9f02158b9b8d519744743087ad216fef24740b844b60417afee"
+    "hash": "c51310912d0d4d511f6a5c456585b1723ad03cb64defeaa1e612707155927aa0"
   },
   {
     "time": "07:50",
-    "quoteFirst": "We must know what you propose to do; the horses have been waiting for a good five minutes. I beg your pardon, Charles,” he went on, turning to Swann, “but it’s ",
+    "quoteFirst": "On the fifteenth Rosen arrived in Plymouth at ",
     "quoteTime": "ten minutes to eight",
-    "quoteLast": " already. Oriane is always late, and it will take us more than five minutes to get to old Saint-Euverte’s.”",
-    "title": "The Guermantes Way",
-    "author": "Proust, Marcel, 1871-1922; Scott-Moncrieff, C. K. (Charles Kenneth), 1889-1930 [Translator]",
-    "gutenbergReference": "73425",
+    "quoteLast": ".",
+    "title": "Tragedy in Dedham",
+    "author": "Russell, Francis, 1910-1989",
+    "gutenbergReference": "70970",
     "matchType": 1,
-    "hash": "863e244431065e7f21fcf93715fed53aa9f4f04a16760c5caf1c4cef9c176af9"
+    "hash": "303e44e3f2e0945fa7ed1922eb3147472f4fa8b0e34e6e80741b5db257f53e4a"
   },
   {
     "time": "07:50",
-    "quoteFirst": "“Motor at ",
+    "quoteFirst": "\"I will see to that,\" said the nurse.  \"I will tell them to have the carriage here at ",
     "quoteTime": "ten minutes to eight",
-    "quoteLast": ",” said Peter to the servant, glancing at the clock. “Tell me when it comes round.”",
-    "title": "Peter",
-    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
-    "gutenbergReference": "57568",
+    "quoteLast": ".  Then you can drive to the end of the street, slip out, and walk back.  I will let you in myself.\"",
+    "title": "Sketches in Lavender, Blue and Green",
+    "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+    "gutenbergReference": "2234",
     "matchType": 1,
-    "hash": "5c116a9fe417fce2b56bc6138f8d858c9fb267372303c5e286a64b99600c1fa9"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "Mr. WEST. It was about ",
-    "quoteTime": "10 minutes to 8",
-    "quoteLast": ". I always be 5 or 10 minutes early.",
-    "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44006",
-    "matchType": 1,
-    "hash": "e882f2268f663b45f89e081801487b28ec95991e98ecb7cb03b5bc952e991bc9"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "She returned to her room and dressed with feverish haste, trying to gather her wits for an ordeal which she felt it would have killed her to delay. At ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": " she emerged again and glanced anxiously at Mrs. Holt's door; and scarcely had she reached the lower hall before he drove into the circle.",
-    "title": "A Modern Chronicle — Volume 04",
-    "author": "Churchill, Winston, 1871-1947",
-    "gutenbergReference": "5377",
-    "matchType": 1,
-    "hash": "d8e74b9790b3bd6777e9c574dc4f525de5fa27965812b4505b3f357195be8ff6"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "Payot, and at ",
-    "quoteTime": "7.50 A.M.",
-    "quoteLast": " arrived on the top of the so-called pass, at a height, according to Mieulet, of 12,162 feet, and 4530 above our camp on the Couvercle.",
-    "title": "The Ascent of the Matterhorn",
-    "author": "Whymper, Edward, 1840-1911",
-    "gutenbergReference": "38044",
-    "matchType": 2,
-    "hash": "d9699830296bdd7c6347e99f5bb9853fcbc10c6b45a26a70e60ca24b8e55f2fb"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "At ",
-    "quoteTime": "7.50 a.m.",
-    "quoteLast": " attack on the second objective began. The 9th Black Watch on the left held up by the Railway Triangle, so also were the 8/10th Gordons.",
-    "title": "The History of the 7th Battalion Queen's Own Cameron Highlanders",
-    "author": "Sandilands, James Walter; MacLeod, Norman, 1872-1960",
-    "gutenbergReference": "50301",
-    "matchType": 2,
-    "hash": "f1f22e79679b90f63723476b6a18973de0cacd054572d2d778ecb40c47e5e291"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "By ",
-    "quoteTime": "7.50 A.M.",
-    "quoteLast": " it was reported that troops of both brigades had reached the third German line, and many prisoners had been taken, but pockets of Germans were still holding out in various points in the first and second lines. These pockets were, no doubt, formed by parties of the enemy who had come up into the front line out of the various underground tunnels.",
-    "title": "The History of the 51st (Highland) Division 1914-1918",
-    "author": "Bewsher, F. W. (Frederick William), 1886-1950",
-    "gutenbergReference": "45934",
-    "matchType": 2,
-    "hash": "77cf02d81e088890df652ffc9d6aaa97e87323e60ed9831c3906d910b836b8af"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "The way was over an undulating plain of glacier of moderate inclination until the corner leading to the col, from whence a steep secondary glacier led down into the basin of the Talèfre. We experienced no difficulty in making the ascent of this secondary glacier with such ice-men as Croz and Payot, and at ",
-    "quoteTime": "7.50 A.M.",
-    "quoteLast": " arrived on the top of the so-called pass, at a height, according to Mieulet, of 12,162 feet, and 4530 above our camp on the Couvercle.",
-    "title": "Scrambles Amongst the Alps in the Years 1860-69",
-    "author": "Whymper, Edward, 1840-1911",
-    "gutenbergReference": "41234",
-    "matchType": 2,
-    "hash": "6b1867ee7ad169dc919cb49e0aa07f28914a3b5b4aa242a6f52c1a3277e8c1c4"
+    "hash": "b0a92bfabb0a6b737d34d2e650bcd97112c5f5798b2ecf6236a0bdf8d7332bdc"
   },
   {
     "time": "07:50",
@@ -163,60 +218,5 @@
     "gutenbergReference": "10461",
     "matchType": 2,
     "hash": "25684af25d534836fe770a40a9c4bc07bad3d2280457d46f03474ac061677fe4"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "Totteridge had not been dead a year.  \"",
-    "quoteTime": "Ten minutes to eight",
-    "quoteLast": "!  You keep me talking here; it's time I was in my bath.\"",
-    "title": "Complete Project Gutenberg John Galsworthy Works",
-    "author": "Galsworthy, John, 1867-1933",
-    "gutenbergReference": "3254",
-    "matchType": 1,
-    "hash": "89be86d8ab16684ab96b4e9213ccdf5e981ff26b235cddcbc8998b7cee742705"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "\"At ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": ", Mr. Merriam, I will telephone Norman.  I will pretend to be old Schubert, the Mayor’s private secretary.  He has a dry, clipped voice that is easy to imitate.  I will say that the Mayor is sick at his house.  I will imply that he is drunk.  He often is.  I will say he is not too sick to veto the Ordinance before the Council meets at nine, but that he insists on seeing Senator Norman before he does it and asks that Norman come out to his house.",
-    "title": "Mollie's Substitute Husband",
-    "author": "McConn, Max, 1881-",
-    "gutenbergReference": "48626",
-    "matchType": 1,
-    "hash": "6a26968915f923730788b495889926ed1512fbe6b87fe6e1af756b0e0a2b33d2"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "But no; in a dimly-crowded church, before a hundred eyes, he was speaking of divine things.  How did he look in the pulpit?  If she could only see him!  And why not?  She looked at her watch; it lacked ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": ".  She made no pause to reflect; she only felt that she must hurry.  She rang the bell and ordered a carriage, and then, hastening to her room, put on her shawl and bonnet,—the blue crape bonnet of the concert.",
-    "title": "Watch and ward",
-    "author": "James, Henry, 1843-1916",
-    "gutenbergReference": "72355",
-    "matchType": 1,
-    "hash": "e29d4682c17c062fcdb5eee5df0690aeeca2636c561f6f9bf7d232bb600ab234"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "About ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": " snow began to fall slightly, but it soon discontinued, and at five minutes to eight the weather was fine again.",
-    "title": "Charles Peace, or The Adventures of a Notorious Burglar",
-    "author": "Anonymous",
-    "gutenbergReference": "65464",
-    "matchType": 1,
-    "hash": "690fd07a3475995bc43cc662c9253117a5e14ecd647327ff121a4b87578d8ebb"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "Red Cross Christmas dinners. Get away at ",
-    "quoteTime": "7:50 a. m.",
-    "quoteLast": " The lane is full of snow but the winding road through the pines is a wonderfully fine road. For thirteen versts there is hardly a drift.",
-    "title": "The History of the American Expedition Fighting the Bolsheviki\nCampaigning in North Russia 1918-1919",
-    "author": "Moore, Joel R. (Joel Roscoe), 1879-; Jahns, Lewis E.; Mead, Harry H.",
-    "gutenbergReference": "22523",
-    "matchType": 2,
-    "hash": "9f11330f3f973ead616657b4b4e1682fd38ab578921fe3cc694abb0b2245efc8"
   }
 ]

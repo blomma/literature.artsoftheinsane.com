@@ -1,6 +1,17 @@
 [
   {
     "time": "00:09",
+    "quoteFirst": "These islands lie between the latitude of 13 degrees 16 minutes and 14 degrees 10 minutes south: their longitude according to my reckoning 15 degrees ",
+    "quoteTime": "51 minutes to 1",
+    "quoteLast": "7 degrees 6 minutes west from the island Tofoa.* The largest island I judged to be about twenty leagues in circuit, the others five or six. The easternmost is the smallest island and most remarkable, having a high sugar loaf hill.",
+    "title": "A voyage to the South Sea",
+    "author": "Bligh, William, 1754-1817",
+    "gutenbergReference": "15411",
+    "matchType": 1,
+    "hash": "b8c666eb942d9e0eb4cd473f67bc6e9fdc6a7997fcf0eadc7c2bb383c9f2f987"
+  },
+  {
+    "time": "00:09",
     "quoteFirst": "He glanced down for an instant, and then raised his head again. To the right, in the distance, was the clock-tower, and it was now ",
     "quoteTime": "nine minutes past twelve",
     "quoteLast": ". He wondered if the clock had stopped suddenly, for it seemed to him nearly an hour since he had awaked to find himself in peril of his life.",
@@ -12,17 +23,6 @@
   },
   {
     "time": "00:09",
-    "quoteFirst": "\"My heartiest congratulations, boys!\" he exclaimed, as he received their paper.  \"You have arrived just in the nick of time.  Panama time, it is now exactly fifty-",
-    "quoteTime": "nine minutes after twelve",
-    "quoteLast": "!\"",
-    "title": "Around the World in Ten Days",
-    "author": "Fraser, Chelsea Curtis, 1876-",
-    "gutenbergReference": "19907",
-    "matchType": 1,
-    "hash": "dbcd36be74b7d02ae98024ada3feea2ee391372a5da11c1c3125c6ef8a201c5f"
-  },
-  {
-    "time": "00:09",
     "quoteFirst": "Also, despite the heavy volume of migration at this station on this particular night, the flight was sufficiently dispersed horizontally so that only twice in the course of eight hours of continuous observation did more than one bird simultaneously appear before the moon. These were \"a flock of six birds in formation\" seen at ",
     "quoteTime": "12:09 A. M.",
     "quoteLast": "",
@@ -31,16 +31,5 @@
     "gutenbergReference": "37894",
     "matchType": 2,
     "hash": "c912e0cac320a7270a1d1baa02a998b3c777c6c3532d39ad05fe768199336e83"
-  },
-  {
-    "time": "00:09",
-    "quoteFirst": "When is a very angry man like a clock fifty-",
-    "quoteTime": "nine minutes past twelve",
-    "quoteLast": "? When he is just going to strike one.",
-    "title": "Conundrums, Riddles and Puzzles\r\nContaining one thousand of the latest and best conundrums, gathered from every conceivable source, and comprising many that are entirely new and original",
-    "author": "Rivers, Dean",
-    "gutenbergReference": "52598",
-    "matchType": 1,
-    "hash": "c34269d27161f544d6790f2ccffae3fc9d71fda2164fed576a68e6ef5ead2183"
   }
 ]

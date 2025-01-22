@@ -1,69 +1,36 @@
 [
   {
     "time": "15:35",
-    "quoteFirst": "At ",
-    "quoteTime": "twenty-five minutes to four",
-    "quoteLast": " a three-mast ship was hailed to larboard.",
-    "title": "A Floating City, and The Blockade Runners",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "67829",
-    "matchType": 1,
-    "hash": "5714c3901735e828a660cb32b8f15f8b24a0d9c328c581aed65e4d4fbf357b76"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "October 7: 3 p. m., 6.5 cc 2 per cent caffein (0.232 gram per kilo) aqueous solution administered by subcutaneous injection; ",
-    "quoteTime": "3.35 p. m.",
-    "quoteLast": ", reflexes increased.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
+    "quoteFirst": "Exactly thirty-six hours elapsed before the _Goeben_ moved. Meanwhile the light cruiser _Gloucester_, watching off the Southern exit of the Straits of Messina, reported at ",
+    "quoteTime": "3.35 p.m.",
+    "quoteLast": " on August 5 to Sir Berkeley Milne that the strength of the wireless signals she was taking in indicated that the Goeben must be at Messina.",
+    "title": "The World Crisis, Volume 1 (of 6)",
+    "author": "Churchill, Winston, 1874-1965",
+    "gutenbergReference": "59794",
     "matchType": 2,
-    "hash": "7974b9241039c9abc8798d75214e08b3eda95903c6ddabe6864bc68a1ac05f9d"
+    "hash": "e4497cb127e12da1ecc1f80b2dcf21c2ee69a396e6d51577c5c791458b3889f4"
   },
   {
     "time": "15:35",
-    "quoteFirst": "They assured me the \"fun\" was all over, and I was thankful. It was ",
-    "quoteTime": "twenty-five minutes to four",
-    "quoteLast": ", just five and a half hours after I had started for home from work. A white man came along, and my first impulse was to jump on him and beat him up.",
-    "title": "The Negro in Chicago: A Study of Race Relations and a Race Riot",
-    "author": "Chicago Commission on Race Relations",
-    "gutenbergReference": "57343",
-    "matchType": 1,
-    "hash": "d18dd3725492161940252e398ee74761766f8995fea0ea578f20f837686f629c"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "Lv. 7:00 A.M.  Lv. 1:10 P.M.    .0  Silverton     Ar. 11:10 A.M. Ar. 5:20 P.M. 7:34 A.M.      1:44 P.M.   5.0  Burro Bridge      10:36 A.M.     4:46 P.M. 7:49 A.M.      1:59 P.M.   7.5  Chattanooga       10:21 A.M.     4:31 P.M. 8:11 A.M.      2:21 P.M.  12.5  Summit            9:58 A.M.      4:09 P.M. 8:25 A.M.      2:35 P.M.  15.0  Red Mountain      9:50 A.M.      4:00 P.M. 8:26 A.M.      2:36 P.M.  15.5  Vanderbilt        9:44 A.M.      3:54 P.M. 8:27 A.M.      2:37 P.M.  16.0  Yankee Girl       9:43 A.M.      3:53 P.M. 8:45 A.M.      2:55 P.M.  17.0  Paymaster         9:25 A.M.      ",
-    "quoteTime": "3:35 P.M.",
-    "quoteLast": "",
-    "title": "Three Little Lines\r\nSilverton Railroad; Silverton, Gladstone and Northerly; Silverton Northern",
-    "author": "Crum, Josie Moore",
-    "gutenbergReference": "62664",
+    "quoteFirst": "",
+    "quoteTime": "3.35 P.M.",
+    "quoteLast": ", 5th. GLOUCESTER REPORTS GOEBEN AT MESSINA.",
+    "title": "The World Crisis, Volume 1 (of 6)",
+    "author": "Churchill, Winston, 1874-1965",
+    "gutenbergReference": "59794",
     "matchType": 2,
-    "hash": "6dd2e82eed6e5544e146ebc5eab2c739efcf4684cfce5f65cb67270288704a18"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "His mother did die at ",
-    "quoteTime": "twenty-five minutes to four",
-    "quoteLast": " the next morning.",
-    "title": "Lippincott's Magazine of Popular Literature and Science, Vol. 26, November, 1880",
-    "author": "Various",
-    "gutenbergReference": "51453",
-    "matchType": 1,
-    "hash": "33740bc42ad479090f6a9f98733cde25e4296ae70297147915a8b0e1e7461abc"
+    "hash": "1e5967f9146d2f0f23f680006dc4de6cdbb5ff8996c64ba4c744e4e6113736de"
   },
   {
     "time": "15:35",
     "quoteFirst": "CITY POINT, VIRGINIA, March 27, 1865.",
     "quoteTime": "3.35 P.M.",
     "quoteLast": "",
-    "title": "The Papers and Writings of Abraham Lincoln — Volume 7: 1863-1865",
-    "author": "Lincoln, Abraham, 1809-1865; Lapsley, Arthur Brooks [Editor]",
-    "gutenbergReference": "2659",
+    "title": "The Papers and Writings of Abraham Lincoln, Complete",
+    "author": "Lincoln, Abraham, 1809-1865; Choate, Joseph Hodges, 1832-1917 [Contributor]; Roosevelt, Theodore, 1858-1919 [Contributor]; Schurz, Carl, 1829-1906 [Contributor]; Lapsley, Arthur Brooks [Editor]",
+    "gutenbergReference": "3253",
     "matchType": 2,
-    "hash": "93ee384b290b0944daea9bf3276e5a370de76ebbe0339b7807c80f2c806afd02"
+    "hash": "eea1e66d862d39e618a4c1e7537f88f3f7e91e529d38f8be2dc903d719ed4079"
   },
   {
     "time": "15:35",
@@ -78,25 +45,14 @@
   },
   {
     "time": "15:35",
-    "quoteFirst": "They seemed indeed to shew a very indifferent countenance at first, but good words, and a promise of recompence, presently rendered them tractable. By half past twelve we were all safe on the other side, and at ",
-    "quoteTime": "thirty-five minutes past three",
-    "quoteLast": " we arrived at Halifoon, about five miles from the ferry on the east side of the Nile. One mark of the boatmen's attention I cannot but mention: The weather was very hot, and we had plenty of time; the water being clear and tempting, I proposed swimming over to the other side for the pleasure of bathing; but they, one and all, opposed my design with great violence, and would not suffer me to undress.",
-    "title": "Travels to Discover the Source of the Nile, Volume 4 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
-    "author": "Bruce, James, 1730-1794",
-    "gutenbergReference": "56502",
-    "matchType": 1,
-    "hash": "3322316ddfe859192b41ad45ccdf04286670157b8e8f63118765d0eb7633ddb2"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "The jury re-entered the Court at ",
-    "quoteTime": "thirty-five minutes past three",
-    "quoteLast": ", having been absent one hour and seventeen minutes.",
-    "title": "The Most Extraordinary Trial of William Palmer, for the Rugeley Poisonings, which lasted Twelve Days",
-    "author": "Anonymous",
-    "gutenbergReference": "51135",
-    "matchType": 1,
-    "hash": "e933baaaa7e94338601532d745fce6e48a2dc2a0f8134dd875ff34084817b4c5"
+    "quoteFirst": "On August 2, at ",
+    "quoteTime": "3:35 P.M.",
+    "quoteLast": " the surviving members of this loon family--the male and the one young--rested on the water of the lake, approximately 200 feet from shore. The adult dozed with its head tucked under its wing--head end oriented into the wind except for occasional complete turns.",
+    "title": "Birds Found on the Arctic Slope of Northern Alaska",
+    "author": "Bee, James W., 1913-1996",
+    "gutenbergReference": "34337",
+    "matchType": 2,
+    "hash": "3ecce6d351776e9bc72a2849857bd44420bd1d0180fd49852d90c4060b9f3762"
   },
   {
     "time": "15:35",
@@ -111,91 +67,47 @@
   },
   {
     "time": "15:35",
-    "quoteFirst": "They seemed indeed to shew a very indifferent countenance at first, but good words, and a promise of recompence, presently rendered them tractable. By half past twelve we were all safe on the other side, and at ",
-    "quoteTime": "thirty-five minutes past three",
-    "quoteLast": " we arrived at Halifoon, about five miles from the ferry on the east side of the Nile. One mark of the boatmen's attention I cannot but mention: The weather was very hot, and we had plenty of time; the water being clear and tempting, I proposed swimming over to the other side for the pleasure of bathing; but they, one and all, opposed my design with great violence, and would not suffer me to undress.",
-    "title": "Travels to Discover the Source of the Nile, Volume 4 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
-    "author": "Bruce, James, 1730-1794",
-    "gutenbergReference": "56502",
+    "quoteFirst": "As the machine passed out of sight of land at ",
+    "quoteTime": "3.35 p.m.",
+    "quoteLast": ", about ten minutes from the start, the signalman at the marine lookout on the hills above St. Johns reported that it was flying in a north-easterly direction.",
+    "title": "H. G. Hawker, airman: his life and work",
+    "author": "Hawker, Muriel; Moore-Brabazon, John Theodore Cuthbert, 1884-1964 [Author of introduction, etc.]",
+    "gutenbergReference": "64793",
+    "matchType": 2,
+    "hash": "ce0c0501594adf6d6578e8182a82b61d48254baaa63e5260b137601f128f468c"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "",
+    "quoteTime": "3.35 P.M.",
+    "quoteLast": ", 5th. GLOUCESTER REPORTS GOEBEN AT MESSINA.",
+    "title": "The World Crisis, Volume 1 (of 6)",
+    "author": "Churchill, Winston, 1874-1965",
+    "gutenbergReference": "59794",
+    "matchType": 2,
+    "hash": "1e5967f9146d2f0f23f680006dc4de6cdbb5ff8996c64ba4c744e4e6113736de"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "Edwin entered somewhat furtively, and as it were guiltily, though in Crown Square and the streets and the other squares visible therefrom, not a soul could be seen.  The illuminated clock of the Old Town Hall at the top of the square showed ",
+    "quoteTime": "twenty-five minutes to four",
+    "quoteLast": ".  Immediately within the door began a new, very long and rather mean staircase, with which Edwin was acquainted.  He closed the door, shutting out the light and the town, and struck a match in the empty building.",
+    "title": "These Twain",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "40483",
     "matchType": 1,
-    "hash": "3322316ddfe859192b41ad45ccdf04286670157b8e8f63118765d0eb7633ddb2"
+    "hash": "4640e9a4f6969865365de9a6f2d463a59ace700b63fe9595e2838f3900636eb2"
   },
   {
     "time": "15:35",
-    "quoteFirst": "[382] The Prince de Talleyrand died on the 17th of May 1838, at ",
-    "quoteTime": "thirty-five minutes past three in the afternoon",
-    "quoteLast": "; he was horn on the 2nd of February 1754, and was consequently 84 years, 3 months and 15 days old. He was assisted in his last illness by the Abbé Dupanloup, the future Bishop of Orleans, who himself wrote the story of the prince's last moments. On the morning of the 17th of May, M.",
-    "title": "The Memoirs of François René Vicomte de Chateaubriand sometime Ambassador to England. Volume 6 (of 6)\r\nMémoires d'outre-tombe volume 6",
-    "author": "Chateaubriand, François-René, vicomte de, 1768-1848; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
-    "gutenbergReference": "55124",
-    "matchType": 0,
-    "hash": "7e629aefebc01308a29cff0974df3ece4487c27d71832d597b0be86263bc9fe5"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "_",
-    "quoteTime": "3.35 p.m.",
-    "quoteLast": "_--Enemy cleared from Orchard Keep.",
-    "title": "The Fourth Battalion, The King's Own (Royal Lancaster Regiment) and the Great War",
-    "author": "Wadham, W. F. A. (Walter F. A.); Crossley, J.",
-    "gutenbergReference": "67393",
-    "matchType": 2,
-    "hash": "d9399d87604e3a01bce0ef80c680b151c39efb2aed4c9a3e1456692433735e53"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "_",
-    "quoteTime": "3.35 p.m.",
-    "quoteLast": "_--Enemy cleared from Orchard Keep.",
-    "title": "The Fourth Battalion, The King's Own (Royal Lancaster Regiment) and the Great War",
-    "author": "Wadham, W. F. A. (Walter F. A.); Crossley, J.",
-    "gutenbergReference": "67393",
-    "matchType": 2,
-    "hash": "d9399d87604e3a01bce0ef80c680b151c39efb2aed4c9a3e1456692433735e53"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "[382] The Prince de Talleyrand died on the 17th of May 1838, at ",
-    "quoteTime": "thirty-five minutes past three in the afternoon",
-    "quoteLast": "; he was horn on the 2nd of February 1754, and was consequently 84 years, 3 months and 15 days old. He was assisted in his last illness by the Abbé Dupanloup, the future Bishop of Orleans, who himself wrote the story of the prince's last moments. On the morning of the 17th of May, M.",
-    "title": "The Memoirs of François René Vicomte de Chateaubriand sometime Ambassador to England. Volume 6 (of 6)\r\nMémoires d'outre-tombe volume 6",
-    "author": "Chateaubriand, François-René, vicomte de, 1768-1848; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
-    "gutenbergReference": "55124",
-    "matchType": 0,
-    "hash": "7e629aefebc01308a29cff0974df3ece4487c27d71832d597b0be86263bc9fe5"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "[382] The Prince de Talleyrand died on the 17th of May 1838, at ",
-    "quoteTime": "thirty-five minutes past three in the afternoon",
-    "quoteLast": "; he was horn on the 2nd of February 1754, and was consequently 84 years, 3 months and 15 days old. He was assisted in his last illness by the Abbé Dupanloup, the future Bishop of Orleans, who himself wrote the story of the prince's last moments. On the morning of the 17th of May, M.",
-    "title": "The Memoirs of François René Vicomte de Chateaubriand sometime Ambassador to England. Volume 6 (of 6)\r\nMémoires d'outre-tombe volume 6",
-    "author": "Chateaubriand, François-René, vicomte de, 1768-1848; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
-    "gutenbergReference": "55124",
-    "matchType": 0,
-    "hash": "7e629aefebc01308a29cff0974df3ece4487c27d71832d597b0be86263bc9fe5"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "(Whereupon, at ",
+    "quoteFirst": "The testimony of Frank Pizzo was taken at ",
     "quoteTime": "3:35 p.m.",
-    "quoteLast": ", the President's Commission recessed.)",
-    "title": "Warren Commission (05 of 26): Hearings Vol. V (of 15)",
+    "quoteLast": ", on March 31, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Albert E. Jenner, Jr.",
+    "title": "Warren Commission (10 of 26): Hearings Vol. X (of 15)",
     "author": "United States. Warren Commission",
-    "gutenbergReference": "44005",
+    "gutenbergReference": "44010",
     "matchType": 2,
-    "hash": "edef7364ed331c09223a0416db2aa79356609e4c7bdb29427e0db4bee6aa9d35"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "They seemed indeed to shew a very indifferent countenance at first, but good words, and a promise of recompence, presently rendered them tractable. By half past twelve we were all safe on the other side, and at ",
-    "quoteTime": "thirty-five minutes past three",
-    "quoteLast": " we arrived at Halifoon, about five miles from the ferry on the east side of the Nile. One mark of the boatmen's attention I cannot but mention: The weather was very hot, and we had plenty of time; the water being clear and tempting, I proposed swimming over to the other side for the pleasure of bathing; but they, one and all, opposed my design with great violence, and would not suffer me to undress.",
-    "title": "Travels to Discover the Source of the Nile, Volume 4 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
-    "author": "Bruce, James, 1730-1794",
-    "gutenbergReference": "56502",
-    "matchType": 1,
-    "hash": "3322316ddfe859192b41ad45ccdf04286670157b8e8f63118765d0eb7633ddb2"
+    "hash": "1ac60c82895496375f93beab2df11d6b808b685950942b2ae342bcd2ac65e896"
   },
   {
     "time": "15:35",
@@ -210,13 +122,101 @@
   },
   {
     "time": "15:35",
-    "quoteFirst": "Then, looking at his watch, he said, \"It is ",
-    "quoteTime": "twenty-five minutes to four",
-    "quoteLast": ".",
-    "title": "The Adventures of Captain Horn",
-    "author": "Stockton, Frank R., 1834-1902",
-    "gutenbergReference": "12190",
+    "quoteFirst": "\"To come off at three o'clock,\" said the handbills. It is now ",
+    "quoteTime": "thirty-five minutes past three",
+    "quoteLast": ", and no signs of beginning. An American horse and an American woman always keep you waiting an hour at least. One of the judges comes forward, and raps on the front of the stand with a primitive bit of wood resembling a broken boot-jack.",
+    "title": "The International Monthly, Volume 4, No. 1, August, 1851",
+    "author": "Various",
+    "gutenbergReference": "36124",
     "matchType": 1,
-    "hash": "b988a4dbeded64d4f27f36ff560544f70a24dbeffa709c0495bc68369e9e725b"
+    "hash": "21341e076645614b4cc5fb53656f9337438c0c9af74d3c1dacc2e15852629631"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "Then, after a while, the periscope was sighted 500 yards away on the port beam, so _Penshurst_, knowing a torpedo was imminent, waited, and, the torpedo having been sent, altered course to avoid it, just missing by a matter of 10 feet. The ship’s company then went to ‘panic’ stations and the ship was ‘abandoned.’ At ",
+    "quoteTime": "3.35 p.m.",
+    "quoteLast": " the enemy came to the surface 5,000 yards away on the starboard quarter, at 3.39 p.m. opened fire and continued until 4.13 p.m., when _Penshurst_ herself started firing at 4,500 yards, succeeding in hitting the enemy sixteen times, and undoubtedly seriously damaging him.",
+    "title": "Q-Ships and Their Story",
+    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
+    "gutenbergReference": "54338",
+    "matchType": 2,
+    "hash": "cf7de8daff13eb51c253db43ab40f93bf2a10ae7ec4cbea3c1eea920e5e89be3"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "He rises on the 1st at 4:42 p. m. and sets on the 2d at 6:07 a. m.; rises on the 16th at ",
+    "quoteTime": "3:35 p. m.",
+    "quoteLast": " and sets on the 17th at 5:09 a. m.; rises on the 30th at 2:34 p. m. and sets on the 31st at 4:10 a. m.",
+    "title": "The Chautauquan, Vol. 05, March 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55060",
+    "matchType": 2,
+    "hash": "8f9b10bea6275f294e0736c9bd15b386437e1deecf620ab37fdc74786ccbe1ea"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "At 5 p.m. on the 5th Sir Berkeley Milne received the signal sent by the _Gloucester_ at ",
+    "quoteTime": "3.35 p.m.",
+    "quoteLast": " reporting the presence of the _Goeben_ at Messina. Here was certain confirmation of his belief. He was at this moment about 100 miles West of Sicily.",
+    "title": "The World Crisis, Volume 1 (of 6)",
+    "author": "Churchill, Winston, 1874-1965",
+    "gutenbergReference": "59794",
+    "matchType": 2,
+    "hash": "10fa526b7a4e0ed15f3ed041eac544881156a5f93a32141e9f4fbbc6291bc0bb"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "The jury re-entered the Court at ",
+    "quoteTime": "thirty-five minutes past three",
+    "quoteLast": ", having been absent one hour and seventeen minutes.",
+    "title": "The Most Extraordinary Trial of William Palmer, for the Rugeley Poisonings, which lasted Twelve Days",
+    "author": "Anonymous",
+    "gutenbergReference": "51135",
+    "matchType": 1,
+    "hash": "e933baaaa7e94338601532d745fce6e48a2dc2a0f8134dd875ff34084817b4c5"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "On August 2, at ",
+    "quoteTime": "3:35 P.M.",
+    "quoteLast": " the surviving members of this loon family--the male and the one young--rested on the water of the lake, approximately 200 feet from shore. The adult dozed with its head tucked under its wing--head end oriented into the wind except for occasional complete turns.",
+    "title": "Birds Found on the Arctic Slope of Northern Alaska",
+    "author": "Bee, James W., 1913-1996",
+    "gutenbergReference": "34337",
+    "matchType": 2,
+    "hash": "3ecce6d351776e9bc72a2849857bd44420bd1d0180fd49852d90c4060b9f3762"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-five minutes to four",
+    "quoteLast": " a three-mast ship was hailed to larboard.",
+    "title": "A Floating City, and The Blockade Runners",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "67829",
+    "matchType": 1,
+    "hash": "5714c3901735e828a660cb32b8f15f8b24a0d9c328c581aed65e4d4fbf357b76"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "_",
+    "quoteTime": "3.35 p.m.",
+    "quoteLast": "_--Enemy cleared from Orchard Keep.",
+    "title": "The Fourth Battalion, The King's Own (Royal Lancaster Regiment) and the Great War",
+    "author": "Wadham, W. F. A. (Walter F. A.); Crossley, J.",
+    "gutenbergReference": "67393",
+    "matchType": 2,
+    "hash": "d9399d87604e3a01bce0ef80c680b151c39efb2aed4c9a3e1456692433735e53"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "The testimony of Frank Pizzo was taken at ",
+    "quoteTime": "3:35 p.m.",
+    "quoteLast": ", on March 31, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Albert E. Jenner, Jr.",
+    "title": "Warren Commission (10 of 26): Hearings Vol. X (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44010",
+    "matchType": 2,
+    "hash": "1ac60c82895496375f93beab2df11d6b808b685950942b2ae342bcd2ac65e896"
   }
 ]

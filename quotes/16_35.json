@@ -1,47 +1,69 @@
 [
   {
     "time": "16:35",
-    "quoteFirst": "About ",
-    "quoteTime": "4.35 P.M.",
-    "quoteLast": " it was seen that the enemy ships were steering to the west, and I gradually changed my course south-west, the _Scharnhorst_ working up 22 knots, while the _Gneisenau_ and the _Leipzig_ slowed down. The enemy's numerous wireless messages were 'jammed' as far as possible.",
-    "title": "The Battle of the Falkland Islands, Before and After",
-    "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
-    "gutenbergReference": "50265",
-    "matchType": 2,
-    "hash": "6a45d7d704c8bcfc14e7b95adc664f65cde12d5daa80428fd0ce8134daa9f856"
-  },
-  {
-    "time": "16:35",
-    "quoteFirst": "IN the United States heavy rains are less frequent between ",
-    "quoteTime": "4:35 P.M.",
-    "quoteLast": "",
-    "title": "The Galaxy, April, 1877\nVol. XXIII.—April, 1877.—No. 4.",
+    "quoteFirst": "\"'At ",
+    "quoteTime": "twenty-five minutes to five",
+    "quoteLast": ".'",
+    "title": "Blackwood's Edinburgh Magazine - Volume 55, No. 343, May 1844",
     "author": "Various",
-    "gutenbergReference": "32616",
-    "matchType": 2,
-    "hash": "51a8402f6a3d998aa59cfb2bf7338d7323123d0d46eac6364a904b0ef81b2320"
+    "gutenbergReference": "25047",
+    "matchType": 1,
+    "hash": "ee8449972d1b451a7bdffb1614ba7458739190a378d26a133235841a4e4c498e"
   },
   {
     "time": "16:35",
-    "quoteFirst": "Interviews on this day were interrupted by showups where witnesses identified Oswald positively as the man who killed Officer Tippit, and the time that I would have to talk to another witness or to some of the officers. One of these showups was held at ",
-    "quoteTime": "4:35 pm",
-    "quoteLast": " and the next one at 6:30 pm, and at 7:55 pm. At 7:05 pm I signed a complaint before Bill Alexander of the District Attorney’s office, charging Oswald with the Tippit murder. At 7:10 pm Tippit was arraigned before Judge Johnston.",
-    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58031",
-    "matchType": 2,
-    "hash": "f78113b443986f72ae4b1b4455445f17764330afcfffd9aa75eac68d5e927d72"
+    "quoteFirst": "Betty leaned back in her chair and closed her eyes, almost holding her breath that she might hear the advancing step of the butler the sooner. In what seemed to her exactly thirty minutes she looked at the clock again. It was ",
+    "quoteTime": "twenty-five minutes to five",
+    "quoteLast": ". She nestled down, assuring herself that nobody could be expected to come on the moment, but this time she did not close her eyes; she watched the clock.",
+    "title": "Senator North",
+    "author": "Atherton, Gertrude Franklin Horn, 1857-1948",
+    "gutenbergReference": "6091",
+    "matchType": 1,
+    "hash": "c5b3b482fcfd71842be55bba9358a470b10a5ae51f80dde74a462e9fbb001bb2"
   },
   {
     "time": "16:35",
-    "quoteFirst": "March 17: 3.30 p. m., 3.5 cc 2 per cent caffein (127 mg per kilo) injected into peritoneal cavity; ",
+    "quoteFirst": "(Whereupon, at ",
+    "quoteTime": "4:35 p.m.",
+    "quoteLast": ", the Monday afternoon session was closed.)",
+    "title": "Northern Nut Growers Association Report of the Proceedings at the 41st Annual Meeting\nPleasant Valley, New York, August 28, 29 and 30, 1950",
+    "author": "Northern Nut Growers Association [Editor]",
+    "gutenbergReference": "26013",
+    "matchType": 2,
+    "hash": "32313e7d3ad9bf8bc2471e990c3f6cb5bb08f671402a7e405450808e0a83174f"
+  },
+  {
+    "time": "16:35",
+    "quoteFirst": "March 17: 3 p. m., 3.5 cc of 2 per cent caffein injected subcutaneously in the back (0.160 gram per kilo); ",
     "quoteTime": "4.35 p. m.",
-    "quoteLast": ", increased irritability present, but not marked; 5.40 p. m., symptoms about the same as before.",
+    "quoteLast": ", no symptoms; 5.40 p. m., no symptoms.",
     "title": "The Toxicity of Caffein: An experimental study on different species of animals",
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
     "matchType": 2,
-    "hash": "0454d75dc9404f99ef98cff0fd7b767b8e17c416e7abb9a820231942224d8c1e"
+    "hash": "7643ae1bb1461b8c0b32b108881e904023f2b94b0c085b248a48ab29670ce027"
+  },
+  {
+    "time": "16:35",
+    "quoteFirst": "Long columns were seen marching almost due east towards the Ourcq and later in the day other columns were nearing the Marne. Some had already crossed the Marne at Château-Thierry, whilst others were making for crossings west of that town. At ",
+    "quoteTime": "4.35 p.m.",
+    "quoteLast": " General Headquarters sent out the following telegram:",
+    "title": "The War in the Air; Vol. 1\nThe Part played in the Great War by the Royal Air Force",
+    "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
+    "gutenbergReference": "28226",
+    "matchType": 2,
+    "hash": "8b382184bcb029f5b4b4a899247d112586adcf004075baa7632c60784f7c46e7"
+  },
+  {
+    "time": "16:35",
+    "quoteFirst": ", had convulsions occasionally; 4.30 p. m., extremities extended and quite rigid; ",
+    "quoteTime": "4.35 p. m.",
+    "quoteLast": ", convulsions and death.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "matchType": 2,
+    "hash": "eee4760803596ebb551c9cbc42eac1f6cd72813bb0ee68e6da85554223049896"
   },
   {
     "time": "16:35",
@@ -56,6 +78,39 @@
   },
   {
     "time": "16:35",
+    "quoteFirst": "“The U-boats were coming in bunches,” joyously reflected the deck force, and the “black gang” slung the coal with an earnest determination to give her twenty knots or blow the boilers out of her. The ship raced to scan the sea for the other boats of the _Saint Pierre_ and at ",
+    "quoteTime": "4.35 P.M.",
+    "quoteLast": " heard firing in the direction of a tall barkentine whose sails gleamed seven miles to the northward. Here was a second fisherman in trouble and a U-boat actually shelling her within sight of the U.S.S. _Corsair_! Ten minutes more, with speed worked up to eighteen knots, and the submarine could be clearly recognized through the binoculars aimed from bridge and crow’s-nest.",
+    "title": "The Corsair in the war zone",
+    "author": "Paine, Ralph Delahaye, 1871-1925",
+    "gutenbergReference": "72760",
+    "matchType": 2,
+    "hash": "0a9a21cc0bf7183938b936ba6db8400003daee2338e0e88329277649111b4d70"
+  },
+  {
+    "time": "16:35",
+    "quoteFirst": "March 17: 3.30 p. m., 3.5 cc 2 per cent caffein (127 mg per kilo) injected into peritoneal cavity; ",
+    "quoteTime": "4.35 p. m.",
+    "quoteLast": ", increased irritability present, but not marked; 5.40 p. m., symptoms about the same as before.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "matchType": 2,
+    "hash": "0454d75dc9404f99ef98cff0fd7b767b8e17c416e7abb9a820231942224d8c1e"
+  },
+  {
+    "time": "16:35",
+    "quoteFirst": "(Whereupon, at ",
+    "quoteTime": "4:35 p.m.",
+    "quoteLast": ", the Monday afternoon session was closed.)",
+    "title": "Northern Nut Growers Association Report of the Proceedings at the 41st Annual Meeting\nPleasant Valley, New York, August 28, 29 and 30, 1950",
+    "author": "Northern Nut Growers Association [Editor]",
+    "gutenbergReference": "26013",
+    "matchType": 2,
+    "hash": "32313e7d3ad9bf8bc2471e990c3f6cb5bb08f671402a7e405450808e0a83174f"
+  },
+  {
+    "time": "16:35",
     "quoteFirst": "The gale continued about a half hour, after which the Valley City steamed quietly to Plymouth. On Saturday, March 11, at 11:20 a.m., we anchored off Edenton, and at ",
     "quoteTime": "4:35 p.m.",
     "quoteLast": ", proceeded to Plymouth, where we arrived at 7:15 p.m.",
@@ -64,61 +119,6 @@
     "gutenbergReference": "25764",
     "matchType": 2,
     "hash": "fb21f690713533dcd35bb39f205821daab696af749f02a5cce6c697872d00540"
-  },
-  {
-    "time": "16:35",
-    "quoteFirst": "Interviews on this day were interrupted by showups where witnesses identified Oswald positively as the man who killed Officer Tippit, and the time that I would have to talk to another witness or to some of the officers. One of these showups was held at ",
-    "quoteTime": "4:35 pm",
-    "quoteLast": " and the next one at 6:30 pm, and at 7:55 pm. At 7:05 pm I signed a complaint before Bill Alexander of the District Attorney’s office, charging Oswald with the Tippit murder. At 7:10 pm Tippit was arraigned before Judge Johnston.",
-    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58031",
-    "matchType": 2,
-    "hash": "f78113b443986f72ae4b1b4455445f17764330afcfffd9aa75eac68d5e927d72"
-  },
-  {
-    "time": "16:35",
-    "quoteFirst": "IN the United States heavy rains are less frequent between ",
-    "quoteTime": "4:35 P.M.",
-    "quoteLast": " and 11 P.M than at any other part of the day. The greatest number are between 7:35 A.M. and 4:35 P.M.",
-    "title": "The Galaxy, April, 1877\nVol. XXIII.—April, 1877.—No. 4.",
-    "author": "Various",
-    "gutenbergReference": "32616",
-    "matchType": 2,
-    "hash": "9203c7ba3bfd9417d4f3b68d35e03d365aed97aef6e2d079482c42cd813ec661"
-  },
-  {
-    "time": "16:35",
-    "quoteFirst": "\"'At ",
-    "quoteTime": "twenty-five minutes to five",
-    "quoteLast": ".'",
-    "title": "Blackwood's Edinburgh Magazine - Volume 55, No. 343, May 1844",
-    "author": "Various",
-    "gutenbergReference": "25047",
-    "matchType": 1,
-    "hash": "ee8449972d1b451a7bdffb1614ba7458739190a378d26a133235841a4e4c498e"
-  },
-  {
-    "time": "16:35",
-    "quoteFirst": "The route, he saw, was to Bordeaux by the Paris-Orleans line, then on by the Midi to the Spanish frontier at Irun, and so by Medina and Salamanca to Oporto. The first through train from Paris after their arrival at ",
-    "quoteTime": "4.35 p.m.",
-    "quoteLast": " was the 10.22 p.m. from the Gare Quai d’Orsay, and this reached Oporto at shortly after midday on the next day but one, Monday. Oporto to Leixoes was only half an hour’s run, so he had six or seven hours’ margin. Oporto, he decided, was his goal.",
-    "title": "Inspector French's greatest case",
-    "author": "Crofts, Freeman Wills, 1879-1957",
-    "gutenbergReference": "65553",
-    "matchType": 2,
-    "hash": "0c82ed039b6b45749e1b8d9b1aa780c6a288664f2dacb0aec1b33bc67b3cd8ca"
-  },
-  {
-    "time": "16:35",
-    "quoteFirst": "Denbigh, by Margaret, daughter of Sir Thomas Ireland, Knight, of Bewsey, and was born _at his father's house_ about the year 1648. {46} He died on the 19th of April, 1689, at ",
-    "quoteTime": "thirty-five minutes past four",
-    "quoteLast": " in the morning. The tradition that his remains were deposited at Enfield is incorrect. He was first interred in the Tower privately, and after three years, when the day of persecution was past, his friends petitioned that they might be allowed to remove the coffin.",
-    "title": "Notes and Queries, Number 167, January 8, 1853\r\nA Medium of Inter-communication for Literary Men, Artists, Antiquaries, Genealogists, etc.",
-    "author": "Various; Bell, George, 1814-1890 [Editor]",
-    "gutenbergReference": "42782",
-    "matchType": 1,
-    "hash": "d4917c66bda84ffebff77f75c8d5da8d1376f278ef29891feb513180c1fa4649"
   },
   {
     "time": "16:35",
@@ -133,14 +133,14 @@
   },
   {
     "time": "16:35",
-    "quoteFirst": ", stiffness and rigidity of posterior extremities, reflexes increased; 12.30 p. m., hind legs paralyzed, reflexes increased; ",
-    "quoteTime": "4.35 p. m.",
-    "quoteLast": ", no symptoms, guinea pig in good condition.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
+    "quoteFirst": "When the editor showed up at ",
+    "quoteTime": "4:35 P.M.",
+    "quoteLast": ", he seemed a trifle confused.",
+    "title": "The Mistake of Christopher Columbus",
+    "author": "Archer, Jules, 1915-2008; Ruud, Herb [Illustrator]",
+    "gutenbergReference": "65230",
     "matchType": 2,
-    "hash": "01dc7b5578d4e962036efd6249276aae15c3755a9f77333681f68f7b912517d7"
+    "hash": "c41a181b32c3811dca0f362c6b84a48f896a25cc8ceff43049c7d6ee31892729"
   },
   {
     "time": "16:35",
@@ -166,17 +166,6 @@
   },
   {
     "time": "16:35",
-    "quoteFirst": "(Reporter’s note: ",
-    "quoteTime": "4:35 p.m.",
-    "quoteLast": ")",
-    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "56190",
-    "matchType": 2,
-    "hash": "f1ee0f690442af12cce0255552771d314923ea34b5e35bf5dc39265cb7ff44c2"
-  },
-  {
-    "time": "16:35",
     "quoteFirst": "With no British troops on their right nearer than Albert, there was no other alternative left but to break off the engagement and withdraw. Accordingly orders were issued for the Division to concentrate at Colincamps, where Divisional headquarters had opened at ",
     "quoteTime": "4.35 P.M.",
     "quoteLast": "",
@@ -188,35 +177,46 @@
   },
   {
     "time": "16:35",
-    "quoteFirst": "Long columns were seen marching almost due east towards the Ourcq and later in the day other columns were nearing the Marne. Some had already crossed the Marne at Château-Thierry, whilst others were making for crossings west of that town. At ",
-    "quoteTime": "4.35 p.m.",
-    "quoteLast": " General Headquarters sent out the following telegram:",
-    "title": "The War in the Air; Vol. 1\nThe Part played in the Great War by the Royal Air Force",
-    "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
-    "gutenbergReference": "28226",
-    "matchType": 2,
-    "hash": "8b382184bcb029f5b4b4a899247d112586adcf004075baa7632c60784f7c46e7"
-  },
-  {
-    "time": "16:35",
-    "quoteFirst": "IN the United States heavy rains are less frequent between ",
-    "quoteTime": "4:35 P.M.",
+    "quoteFirst": "Urine obtained from bladder before injection, acid, no albumen, no sugar, color normal, tremors and great excitement noticed about 12 noon; 4.30 p. m., when handled, showed unusual restlessness and excitement followed by convulsions with opisthotonos; occasional twitching, condition bad. Died ",
+    "quoteTime": "4.35 p. m.",
     "quoteLast": "",
-    "title": "The Galaxy, April, 1877\nVol. XXIII.—April, 1877.—No. 4.",
-    "author": "Various",
-    "gutenbergReference": "32616",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
     "matchType": 2,
-    "hash": "51a8402f6a3d998aa59cfb2bf7338d7323123d0d46eac6364a904b0ef81b2320"
+    "hash": "34fb1f773b859f64a33e9fb6d3d8ec94c1a9e7e8b0104fbf501927cb9b319487"
   },
   {
     "time": "16:35",
-    "quoteFirst": "Denbigh, by Margaret, daughter of Sir Thomas Ireland, Knight, of Bewsey, and was born _at his father's house_ about the year 1648. {46} He died on the 19th of April, 1689, at ",
-    "quoteTime": "thirty-five minutes past four",
-    "quoteLast": " in the morning. The tradition that his remains were deposited at Enfield is incorrect. He was first interred in the Tower privately, and after three years, when the day of persecution was past, his friends petitioned that they might be allowed to remove the coffin.",
-    "title": "Notes and Queries, Number 167, January 8, 1853\r\nA Medium of Inter-communication for Literary Men, Artists, Antiquaries, Genealogists, etc.",
-    "author": "Various; Bell, George, 1814-1890 [Editor]",
-    "gutenbergReference": "42782",
-    "matchType": 1,
-    "hash": "d4917c66bda84ffebff77f75c8d5da8d1376f278ef29891feb513180c1fa4649"
+    "quoteFirst": "When the editor showed up at ",
+    "quoteTime": "4:35 P.M.",
+    "quoteLast": ", he seemed a trifle confused.",
+    "title": "The Mistake of Christopher Columbus",
+    "author": "Archer, Jules, 1915-2008; Ruud, Herb [Illustrator]",
+    "gutenbergReference": "65230",
+    "matchType": 2,
+    "hash": "c41a181b32c3811dca0f362c6b84a48f896a25cc8ceff43049c7d6ee31892729"
+  },
+  {
+    "time": "16:35",
+    "quoteFirst": "At ",
+    "quoteTime": "4:35 P. M.",
+    "quoteLast": " the cortege reached Washington City. As the train came into the dépôt, there was a hush among the throng, and then every head was uncovered. The scene that followed was impressive in the extreme. Mrs.",
+    "title": "The Life and Work of James A. Garfield, Twentieth President of the United States\r\nEmbracing an Account of the Scenes and Incidents of His Boyhood; the Struggles of His Youth; the Might of His Early Manhood; His Valor As a Soldier; His Career As a Statesman; His Election to the Presidency; and the Tragic Story of His Death.",
+    "author": "Ridpath, John Clark, 1840-1900",
+    "gutenbergReference": "59075",
+    "matchType": 2,
+    "hash": "d263b5bad321c87b6aee0b7617715793e197cd8d6acd50d03699a38cbb1886db"
+  },
+  {
+    "time": "16:35",
+    "quoteFirst": "About ",
+    "quoteTime": "4.35 P.M.",
+    "quoteLast": " it was seen that the enemy ships were steering to the west, and I gradually changed my course south-west, the _Scharnhorst_ working up 22 knots, while the _Gneisenau_ and the _Leipzig_ slowed down. The enemy's numerous wireless messages were 'jammed' as far as possible.",
+    "title": "The Battle of the Falkland Islands, Before and After",
+    "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
+    "gutenbergReference": "50265",
+    "matchType": 2,
+    "hash": "6a45d7d704c8bcfc14e7b95adc664f65cde12d5daa80428fd0ce8134daa9f856"
   }
 ]

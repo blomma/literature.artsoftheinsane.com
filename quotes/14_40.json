@@ -1,58 +1,36 @@
 [
   {
     "time": "14:40",
-    "quoteFirst": "The testimony of Napoleon J. Daniels was taken at ",
-    "quoteTime": "2:40 p.m.",
-    "quoteLast": ", on April 16, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Leon D. Hubert, Jr.",
-    "title": "Warren Commission (12 of 26): Hearings Vol. XII (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44012",
+    "quoteFirst": "\"January 2.--At 8.35 A.M., we started in tow of the steamer. Wind fresh from the north. At ",
+    "quoteTime": "2.40 P.M.",
+    "quoteLast": " we passed the second of the three noggurs that sailed yesterday, and at 3 P.M. we passed the third exactly at the Giraffe junction. We have thus been six hours and twenty-five minutes from the Sobat to the Giraffe junction. Thermometer, 6 A.M., 66 degrees; noon, 86 degrees.",
+    "title": "Ismailia",
+    "author": "Baker, Samuel White, Sir, 1821-1893",
+    "gutenbergReference": "3607",
     "matchType": 2,
-    "hash": "aeafca3408d2eb52eadf8d9dd0c5814fe4798a76c47c6abd4ca87d5867163e5d"
+    "hash": "abd40a47dda8204b8b4126171ad2c1fcce3110407cba4cae9652e604ab11ebdd"
   },
   {
     "time": "14:40",
-    "quoteFirst": "“At ",
-    "quoteTime": "twenty minutes to three",
-    "quoteLast": ", the fire was given from the window, and was received with a tremendous and universal shout through the whole church. On its first appearance, the torch was seized by a boy who rubbed it against his face, hand, and neck, with such vehemence as to extinguish it, for which he was well beaten by those near him. Eight different times was the fire given from the window, and as every pilgrim carried candles in his hand, in bunches of four, six, eight, or twelve, in ten minutes the whole church was in a flame, and in five more nearly every candle was extinguished.",
-    "title": "The Rural Life of England",
-    "author": "Howitt, William, 1792-1879; Bewick, Thomas, 1753-1828 [Illustrator]; Williams, Samuel, 1788-1853 [Illustrator]",
-    "gutenbergReference": "60485",
-    "matchType": 1,
-    "hash": "b3dee0fb1fb325b3e29cf935464a3f616db97ff275ea7fe5d66bce29ab7f1d3c"
-  },
-  {
-    "time": "14:40",
-    "quoteFirst": "461 4       ,,     noon            ,, _  July   62.8  56.2   6.6   .461 5       ,,     ",
+    "quoteFirst": "Yeumtong ",
     "quoteTime": "2.40 p.m.",
-    "quoteLast": "       ,, )  and    58.3  54.5   3.9   .435 6       ,,     4 p.m.          ,, )  Aug.   56.2  54.7   1.5   .438 8       ,,     sunset          ,, )         53.3  52.5   0.8   .",
-    "title": "Himalayan Journals — Volume 2\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
-    "author": "Hooker, Joseph Dalton, 1817-1911",
-    "gutenbergReference": "6477",
-    "matchType": 2,
-    "hash": "0cb1fa4c683434a0d2cf99a7d272315540ac32abdb3474e27cb962fa5899fbf4"
-  },
-  {
-    "time": "14:40",
-    "quoteFirst": "Five-and-",
-    "quoteTime": "twenty minutes to three",
-    "quoteLast": "! ... Well, he had better see what he had to pay; it was no use hoping any longer.  Well, just five minutes!--the last stake.",
-    "title": "Conrad in Quest of His Youth: An Extravagance of Temperament",
-    "author": "Merrick, Leonard, 1864-1939",
-    "gutenbergReference": "56226",
-    "matchType": 1,
-    "hash": "3bea1d8fb4eb8706bd4c05f7d7b4c57394135bdf5dd5445002f8a6659d294d9a"
-  },
-  {
-    "time": "14:40",
-    "quoteFirst": "August 28, 1862. ",
-    "quoteTime": "2.40 P. M.",
     "quoteLast": "",
-    "title": "The Papers and Writings of Abraham Lincoln — Volume 6: 1862-1863",
-    "author": "Lincoln, Abraham, 1809-1865; Lapsley, Arthur Brooks [Editor]",
-    "gutenbergReference": "2658",
+    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6478",
     "matchType": 2,
-    "hash": "c796f9ca99240c54ce4a781f962da3c472b85e7073a7fb7b7604e29236a58a9b"
+    "hash": "daf8158cd176c60241da10b8a2ec0f2c57ffdba3a4278aa3400caae4718d9f29"
+  },
+  {
+    "time": "14:40",
+    "quoteFirst": "The walls are of different colours, here white, there dark red, and there yellow with sulphur. We go to see the Pohutu Geyser, which formerly twice a day sent a majestic column of water high into the air for from ",
+    "quoteTime": "twenty minutes to three",
+    "quoteLast": " hours at a time. But today Pohutu sulks and is entirely unreliable, though a way has been found to make it perform on demand. When some distinguished visitor comes along, the officials give the geyser an emetic of several barrels of soap, and then it plays up in great style.",
+    "title": "Australia, New Zealand and some islands of the South seas",
+    "author": "Carpenter, Frank G. (Frank George), 1855-1924",
+    "gutenbergReference": "74473",
+    "matchType": 1,
+    "hash": "9a2984f33b067770d756f687f9abfee7ece8b5d2892f178980933277e22cdd28"
   },
   {
     "time": "14:40",
@@ -67,69 +45,146 @@
   },
   {
     "time": "14:40",
-    "quoteFirst": "Her ubiquity was the theme of general admiration. She was a stumbling-block in the passage at five-and-twenty minutes past two; a man-trap in the kitchen at half-past two precisely; and a pitfall in the garret at five-and-",
+    "quoteFirst": "The battery went into action at ",
     "quoteTime": "twenty minutes to three",
-    "quoteLast": ". The Baby's head was, as it were, a test and touchstone for every description of matter, animal, vegetable, and mineral. Nothing was in use that day that didn't come, at some time or other, into close acquaintance with it.",
-    "title": "The Cricket on the Hearth",
-    "author": "Dickens, Charles, 1812-1870; Williams, George Alfred, 1875-1932 [Illustrator]",
-    "gutenbergReference": "20795",
+    "quoteLast": ". The guns were masked behind the houses of the village, and Colonel Philemonov climbed up a high tree, so as to get a better view. Knowing how ill he was and that he might have a paroxysm of pain at any moment, my blood ran cold.",
+    "title": "The Puppet Show of Memory",
+    "author": "Baring, Maurice, 1874-1945",
+    "gutenbergReference": "57158",
     "matchType": 1,
-    "hash": "a359f2d56a15ccc2eb74ed7a46b827a80814ebbd2a3774bd2df8fe476840cb40"
+    "hash": "9a1d2c378e63247cb97624ec5d4a13f68ddc567b3dec778be66548181c58f5e5"
   },
   {
     "time": "14:40",
-    "quoteFirst": "April 13: ",
-    "quoteTime": "2.40 p. m.",
-    "quoteLast": ", 16 cc 2 per cent caffein (0.14 gram per kilo) injected subcutaneously in the back; 3.45 p. m., cat died.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
+    "quoteFirst": "| |                   |              | 10.0 P.M.  London                | +-------------------+--------------+----------------------------------+ | Maryport          | Cumberland   |   10 A.M.  Carlisle              | |                   |              |  2.0 P.M.  Carlisle              | |                   |              | 5.50 P.M.  Carlisle              | |                   |              |  9.0 P.M.  Carlisle              | +-------------------+--------------+----------------------------------+ | Matlock Bath      | Derby        | ",
+    "quoteTime": "2.40 P.M.",
+    "quoteLast": "  Derby                 | |                   |              | 4.15 P.M.  Derby                 | |                   |              | 5.50 P.M.  G. & C. S.T.          | |                   |              |  9.0 P.M.  Derby                 | |                   |              | 10.0 P.M.  Leeds                 | +-------------------+--------------+----------------------------------+ | Melksham          | Wiltshire    | 10.0 A.M.  Birmingham            | |                   |              | 2.40 P.M.  Midland T.P.O., F.",
+    "title": "The Royal Mail: Its Curiosities and Romance",
+    "author": "Hyde, James Wilson, 1841-1918",
+    "gutenbergReference": "39978",
     "matchType": 2,
-    "hash": "86d10103e2fb1b43b739cd631e288e4529514430ef103bddfcc81b172119e669"
+    "hash": "8218e1127e8dc3a692e32c20eece9e43eddf2e4166b8fa4b9c87e926c48f002a"
   },
   {
     "time": "14:40",
-    "quoteFirst": "August 28, 1862. ",
-    "quoteTime": "2.40 P. M.",
-    "quoteLast": "",
-    "title": "The Papers and Writings of Abraham Lincoln — Volume 6: 1862-1863",
-    "author": "Lincoln, Abraham, 1809-1865; Lapsley, Arthur Brooks [Editor]",
-    "gutenbergReference": "2658",
-    "matchType": 2,
-    "hash": "c796f9ca99240c54ce4a781f962da3c472b85e7073a7fb7b7604e29236a58a9b"
-  },
-  {
-    "time": "14:40",
-    "quoteFirst": "963 4       ,,    noon              ,,    Sept.  89.5  79.7   9.8   .990 8       ,,    ",
+    "quoteFirst": "If turned on its back with the feet up it would stay so almost indefinitely. Temperature, 103.8°F.; respiration very rapid. At ",
     "quoteTime": "2.40 p.m.",
-    "quoteLast": "         ,,    Sept.  90.0  78.3  11.7   .949 10       ,,    4 p.m.            ,,    Sept.  88.7  77.6  11.1   .928 16       ,,    sunset            ,,    Sept.  84.2  78.4   5.8   .",
+    "quoteLast": " the temperature was 99.8°F., and the animal died a few minutes later. After death the pupils were much contracted.",
+    "title": "Barium: A Cause of the Loco-Weed Disease",
+    "author": "Crawford, Albert Cornelius",
+    "gutenbergReference": "40256",
+    "matchType": 2,
+    "hash": "d9aff1bc4eb1b763054c301519fa8b2f68b2279bd37c28333fd03c1cbc9e09c0"
+  },
+  {
+    "time": "14:40",
+    "quoteFirst": "| |  R.S.O. (_Bangor_)|              |  9.0 P.M.  Liverpool             | |                   |              | 10.0 P.M.  Manchester            | +-------------------+--------------+----------------------------------+ | Merthyr Tydvill   | Glamorgan    | 10.0 A.M.  Birmingham            | |                   |              | ",
+    "quoteTime": "2.40 P.M.",
+    "quoteLast": "  Gloucester            | |                   |              | 5.50 P.M.  G. & C. S.T.          | |                   |              |  9.0 P.M.  Gloucester            | |                   |              | 10.0 P.M.  Manchester            | +-------------------+--------------+----------------------------------+ | Micheldever       | Hants        | 10.0 A.M.  London                | |       Station     |              | 2.40 P.M.  London, S.W. Div.",
+    "title": "The Royal Mail: Its Curiosities and Romance",
+    "author": "Hyde, James Wilson, 1841-1918",
+    "gutenbergReference": "39978",
+    "matchType": 2,
+    "hash": "82b8e686a39e6cc4f79f40be9edab20366f999bf43ea878df352472bc0dd1979"
+  },
+  {
+    "time": "14:40",
+    "quoteFirst": "The landlord glanced up at the clock, the hands of which pointed to five and ",
+    "quoteTime": "twenty minutes to three",
+    "quoteLast": ". “Hallo, I must close the bar, or I’ll be getting into trouble,” he said, reluctantly removing his arms from the counter.",
+    "title": "The murders in Praed Street",
+    "author": "Rhode, John, 1884-1964",
+    "gutenbergReference": "72926",
+    "matchType": 1,
+    "hash": "14e91f6103f2d70210685bf071a67a437efc4137227cc4b39d5f5eafd4af4bc7"
+  },
+  {
+    "time": "14:40",
+    "quoteFirst": "London. It was ",
+    "quoteTime": "forty minutes past two",
+    "quoteLast": ". The express train had left thirty-five minutes before. Phileas Fogg then ordered a special train.",
+    "title": "Around the World in Eighty Days",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "103",
+    "matchType": 1,
+    "hash": "c4afd7fda409f54ab9cebde4d3b407291fca6e510f5f63efe31748015c5676d7"
+  },
+  {
+    "time": "14:40",
+    "quoteFirst": "I had released my insects at about two o'clock; and the first arrivals returned to the nest at ",
+    "quoteTime": "twenty minutes to three",
+    "quoteLast": ". They had therefore taken less than three-quarters of an hour to cover the two miles and a half, a very striking result, especially when we remember that the Bees did some foraging on the road, as was proved by the yellow pollen on their bellies, and that, on the other hand, the travellers' flight must have been hindered by the wind blowing against them.",
+    "title": "The Mason-Bees",
+    "author": "Fabre, Jean-Henri, 1823-1915; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
+    "gutenbergReference": "2884",
+    "matchType": 1,
+    "hash": "3a9c8d1fba84b3c0c1a3f8806c3e9158253299acf07da046805500a0502dc358"
+  },
+  {
+    "time": "14:40",
+    "quoteFirst": "447 7       ,,     noon            ,, )  Aug.   61.6  57.1   4.5   .475 4       ,,     ",
+    "quoteTime": "2.40 p.m.",
+    "quoteLast": "       ,, _  and    58.1  56.4   1.7   .464 7       ,,     4 p.m.          ,, )  Oct.   58.6  53.8   4.8   .424 10       ,,     sunset          ,, )         55.5  54.3   1.2   .",
     "title": "Himalayan Journals — Volume 2\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6477",
     "matchType": 2,
-    "hash": "00e7e1b8b4d6168c7ff290f01c299f53c1723c68329c76fe5c9a19fd5f7f2108"
+    "hash": "0499806fd7988721679dae5072538ea308a21822d485469b0ab54493d007bdf4"
   },
   {
     "time": "14:40",
-    "quoteFirst": "Zemu Samdong, ",
+    "quoteFirst": "In the moonlit valley below could be seen the little fishing village of Horejos. I examined my watch and discovered that it wanted ",
+    "quoteTime": "twenty minutes to three",
+    "quoteLast": " o'clock. Needless to say, I profoundly hoped that Ferguson had received my message, and that we should find the boat awaiting us.",
+    "title": "The Kidnapped President",
+    "author": "Boothby, Guy, 1867-1905; Wood, Stanley L., 1866-1928 [Illustrator]",
+    "gutenbergReference": "36492",
+    "matchType": 1,
+    "hash": "bcaa0b6deac5ff620b0061bf7ecafb553a30e12c722732d688997e33ddb41bc8"
+  },
+  {
+    "time": "14:40",
+    "quoteFirst": "It was not until ",
+    "quoteTime": "2:40 p. m.",
+    "quoteLast": " that we entered the hall, when Governor Oglesby, taking the speaker's chair, rapped for order and briefly addressed the assembly.  I was then introduced and delivered the speech I had prepared, without reading or referring to it.",
+    "title": "Recollections of Forty Years in the House, Senate and Cabinet\nAn Autobiography.",
+    "author": "Sherman, John, 1823-1900",
+    "gutenbergReference": "22036",
+    "matchType": 2,
+    "hash": "8e7af55bc5d782e73d5d6320aaa3a044636f0a1e418649b1978b4ec1d502b965"
+  },
+  {
+    "time": "14:40",
+    "quoteFirst": "- Forward] +-------------------+--------------+----------------------------------+ |      Towns.       |  Counties.   |             How Sent.            | +-------------------+--------------+----------------------------------+ | Martock, R.S.O.   | Somerset     |   10 A.M.  Birmingham            | |      (_Ilminster_)|              | ",
+    "quoteTime": "2.40 P.M.",
+    "quoteLast": "  Midland T.P.O., F. 3  | |                   |              | 5.50 P.M.  G. & C. S.T.          | |                   |              |  9.0 P.M.  B. & E. T.P.O.",
+    "title": "The Royal Mail: Its Curiosities and Romance",
+    "author": "Hyde, James Wilson, 1841-1918",
+    "gutenbergReference": "39978",
+    "matchType": 2,
+    "hash": "09c958f889e7c16621926eced16763f65c729f0617efd6070c8958e4cf1980f3"
+  },
+  {
+    "time": "14:40",
+    "quoteFirst": "… Pacheem 7430 … … … … 7258 9.50 a.m. Noon ",
     "quoteTime": "2.40 p.m.",
     "quoteLast": "",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
     "matchType": 2,
-    "hash": "659855681caa18b8fd64e503fe3edb7de859ee0e1561c04a95bfff1c779870c2"
+    "hash": "3c11f50d71998fc30ca867c16f02c1547e5f3c94e49ba1ca0c52bab371ccfe36"
   },
   {
     "time": "14:40",
-    "quoteFirst": "Zemu Samdong, ",
+    "quoteFirst": "… … … … … 6956 Sunrise 9.50 a.m. Noon ",
     "quoteTime": "2.40 p.m.",
     "quoteLast": "",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
     "matchType": 2,
-    "hash": "659855681caa18b8fd64e503fe3edb7de859ee0e1561c04a95bfff1c779870c2"
+    "hash": "5c13aab940bfa5a5438539b020b800aa104adf6a4fdf026b835b27dd28529d1c"
   },
   {
     "time": "14:40",
@@ -144,50 +199,6 @@
   },
   {
     "time": "14:40",
-    "quoteFirst": "Bernhisel and Brother Wasson went to inform the governor and council of this. At about ",
-    "quoteTime": "twenty minutes to three",
-    "quoteLast": " Dr. Bernhisel returned, and stated that he thought the governor was doing all he could. At about ten minutes to three Hyrum Kimball appeared with news from Nauvoo.",
-    "title": "The City of the Saints, and Across the Rocky Mountains to California",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "66791",
-    "matchType": 1,
-    "hash": "585a70242510fcb1d02417d472f77246d841368358822807c0febd8bb6a0a027"
-  },
-  {
-    "time": "14:40",
-    "quoteFirst": "The next naval victory was won by Captain William Bainbridge, this time in command of the Constitution, forty-four guns, over the British thirty-eight-gun frigate Java, Captain Henry Lambert. The battle began at ",
-    "quoteTime": "2.40 p. m.",
-    "quoteLast": ", and at 4.05 p. m., the British frigate was \"an unmanageable wreck.\" The Java at length surrendered, having lost sixty killed, besides one hundred and one wounded, while the loss of the Constitution was nine killed and twenty-five wounded.",
-    "title": "The Land We Live In\nThe Story of Our Country",
-    "author": "Mann, Henry, 1848-1915",
-    "gutenbergReference": "20105",
-    "matchType": 2,
-    "hash": "22bc0f7d163207d1c768f41df826f521abf9181014de35e7a5cbd5944a6425ee"
-  },
-  {
-    "time": "14:40",
-    "quoteFirst": "957 4      ,,   noon               ,,    Oct.   85.0  78.2   6.8   .944 4      ,,   ",
-    "quoteTime": "2.40 p.m.",
-    "quoteLast": "          ,,    Oct.   86.4  78.8   7.6   .963 4      ,,   4 p.m.             ,,    Oct.   85.9  78.5   7.4   .956 6      ,,   sunset             ,,    Oct.   83.3  78.2   5.1   .",
-    "title": "Himalayan Journals — Volume 2\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
-    "author": "Hooker, Joseph Dalton, 1817-1911",
-    "gutenbergReference": "6477",
-    "matchType": 2,
-    "hash": "85dedc3c0000ce308c1dcb9bf71136a552294ab58a8ebfd8247db1c3e258a2cf"
-  },
-  {
-    "time": "14:40",
-    "quoteFirst": "But the emissary from Tadmor, warned by the minute-hand on the watch, recalled his attention to passing events. “You would do me a kindness,” said Brother Bawkwell, producing a list of names and addresses, “if you could put me in the way of finding the person named, eighth from the top. It’s getting on towards ",
-    "quoteTime": "twenty minutes to three",
-    "quoteLast": ".”",
-    "title": "The Fallen Leaves",
-    "author": "Collins, Wilkie, 1824-1889",
-    "gutenbergReference": "7894",
-    "matchType": 1,
-    "hash": "c21eaa4947f6ddcc166c81b7829f6aa5813e7da500551b1f2c2e6ae7abd76651"
-  },
-  {
-    "time": "14:40",
     "quoteFirst": "| |                   |              | 10.0 P.M.  London                | +-------------------+--------------+----------------------------------+ | Mitcheldean,      | Gloucester   | 10.0 A.M.  Birmingham            | |   R.S.O. (_Ross_) |              | ",
     "quoteTime": "2.40 P.M.",
     "quoteLast": "  Gloucester            | |                   |              | 5.50 P.M.  G. & C. S.T.          | |                   |              |  9.0 P.M.  Gloucester            | |                   |              | 10.0 P.M.  Manchester            | +-------------------+--------------+----------------------------------+",
@@ -199,24 +210,13 @@
   },
   {
     "time": "14:40",
-    "quoteFirst": "The testimony of Austin L. Miller was taken at ",
-    "quoteTime": "2:40 p.m.",
-    "quoteLast": ", on April 8, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. David W.",
-    "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44006",
-    "matchType": 2,
-    "hash": "0e34416353b2d0a7f64d2990c0d78e6916c865e9d6e9d577fa18ed12a175f231"
-  },
-  {
-    "time": "14:40",
-    "quoteFirst": "[423] Sunrise; 9.50 a.m.; noon; ",
+    "quoteFirst": "548 25       1848          ...       Noon       65.0  62.6   2.4   .570 24       ...           ...       ",
     "quoteTime": "2.40 p.m.",
-    "quoteLast": "; 4 p.m., and sunset.",
-    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "quoteLast": "  64.7  62.3   2.4   .565 16       ...           ...       4 p.m.     63.8  61.5   2.3   .550 31     The Dale,*      6952 ft.  6 a.m.     60.2  58.7   1.5   .",
+    "title": "Himalayan Journals — Volume 2\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
-    "gutenbergReference": "6478",
+    "gutenbergReference": "6477",
     "matchType": 2,
-    "hash": "ed3f5cd36a0758ee6f2a1a04899ecc5adc461ebc0905709ba787c09b5d1e661d"
+    "hash": "4956ab9022790f56892e87bd290837707209a67e18083d6976ac044b19f86631"
   }
 ]

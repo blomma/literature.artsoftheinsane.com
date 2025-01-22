@@ -1,6 +1,17 @@
 [
   {
     "time": "01:07",
+    "quoteFirst": "North Wales; and at ",
+    "quoteTime": "7 minutes past 1",
+    "quoteLast": "1, every thing being ready for departure, the balloon was set free, rising gently but steadily, in a direction nearly South; no use being made, for the first half hour, of either the screw or the rudder. We proceed now with the journal, as transcribed by Mr.",
+    "title": "The Works of Edgar Allan Poe — Volume 1",
+    "author": "Poe, Edgar Allan, 1809-1849; Lowell, James Russell, 1819-1891 [Contributor]; Willis, Nathaniel Parker, 1806-1867 [Contributor]",
+    "gutenbergReference": "2147",
+    "matchType": 1,
+    "hash": "89a760db8147dd4cf0157b1aa7aaaf891845b2795e9b4367e520f18e2cb94a80"
+  },
+  {
+    "time": "01:07",
     "quoteFirst": "Thursday ",
     "quoteTime": "1:07 A.M.",
     "quoteLast": "",
@@ -64,6 +75,17 @@
     "gutenbergReference": "70587",
     "matchType": 1,
     "hash": "86f1e966595df7989b0cf44b24b7838826b502b6974ef641f85fdeecf66a5ca2"
+  },
+  {
+    "time": "01:07",
+    "quoteFirst": "North Wales; and at ",
+    "quoteTime": "7 minutes past 1",
+    "quoteLast": "1, every thing being ready for departure, the balloon was set free, rising gently but steadily, in a direction nearly South; no use being made, for the first half hour, of either the screw or the rudder. We proceed now with the journal, as transcribed by Mr.",
+    "title": "The Works of Edgar Allan Poe, The Raven Edition\nTable Of Contents And Index Of The Five Volumes",
+    "author": "Poe, Edgar Allan, 1809-1849",
+    "gutenbergReference": "25525",
+    "matchType": 1,
+    "hash": "ddc137bae6bae32f815cd48dc2c4ebde744ac7d7a5e2298dad4b6f92358c2268"
   },
   {
     "time": "01:07",

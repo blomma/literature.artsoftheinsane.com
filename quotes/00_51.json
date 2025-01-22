@@ -12,17 +12,6 @@
   },
   {
     "time": "00:51",
-    "quoteFirst": "UNITED STATES. The territory of the United States extends from twenty-five to fifty-four degrees north latitude, and from sixty-six degrees forty-",
-    "quoteTime": "nine minutes to one",
-    "quoteLast": " hundred and twenty-five degrees west longitude; comprising one million eight hundred and thirty-two thousand three hundred and fifteen square miles. It is bounded north by Russia and British America; east by the Atlantic and British America; south by the Atlantic, the gulf and territory of Mexico, and west by Mexico, Texas, and the Pacific ocean.",
-    "title": "A Book of the United States\r\nExhibiting its geography, divisions, constitution, and government ... and presenting a view of the republic generally, and of the individual states; together with a condensed history of the land, from its first discovery to the present time. The biography of about two hundred of the leading men: a description of the principal cities and towns; with statistical tables",
-    "author": "Mellen, Grenville, 1799-1841 [Editor]",
-    "gutenbergReference": "58447",
-    "matchType": 1,
-    "hash": "bdf8f21c75d8c63db7dd6e49b74a250d29c6d4cd7fc065d1db8771a9ecb83f00"
-  },
-  {
-    "time": "00:51",
     "quoteFirst": "“My God! ",
     "quoteTime": "nine minutes to one",
     "quoteLast": " and I’ve got to collect the kids from Eaton Place and the bally show begins at one-thirty. Here, I say!”",
@@ -31,5 +20,16 @@
     "gutenbergReference": "68069",
     "matchType": 1,
     "hash": "d5393c160d978555ff264e79ac3262c936dfaecb2d101fd5f610c849a26c5ff8"
+  },
+  {
+    "time": "00:51",
+    "quoteFirst": "The instant at which this line is vertical over the pole is not the same on any two consecutive nights, since the stars advance each day 4 minutes on the sun. On the 21st of March the superior passage takes place at 5 minutes to 11 at night; on the following night four minutes earlier, or at ",
+    "quoteTime": "9 minutes to 1",
+    "quoteLast": "1. In three months the culmination takes place 6 hours earlier, or at 5 minutes to 5. In six months, _i.e._ on Sept. 22, it culminates at 10.",
+    "title": "Astronomical Myths: Based on Flammarions's \"History of the Heavens\"",
+    "author": "Blake, J. F. (John Frederick), 1839-1906; Flammarion, Camille, 1842-1925",
+    "gutenbergReference": "36495",
+    "matchType": 1,
+    "hash": "c09b51e429915695c1657a9a7c2958a4b0ff5b67f8466846b6432fa46a744cf6"
   }
 ]

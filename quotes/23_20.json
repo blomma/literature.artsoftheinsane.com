@@ -1,36 +1,102 @@
 [
   {
     "time": "23:20",
-    "quoteFirst": "Ora watched the clock until ",
-    "quoteTime": "twenty minutes after eleven",
-    "quoteLast": ".",
-    "title": "Perch of the Devil",
-    "author": "Atherton, Gertrude Franklin Horn, 1857-1948",
-    "gutenbergReference": "69429",
+    "quoteFirst": "The night was moonless, but studded with such pure and such glowing stars that the country could be seen spreading far away beneath a soft bluish radiance. Already at ",
+    "quoteTime": "twenty minutes past eleven",
+    "quoteLast": " Marianne found herself on the little bridge crossing the Yeuse, midway between Chantebled, the pavilion where she and her husband lived, and the station of Janville. The children were fast asleep; she had left them in the charge of Zoé, the servant, who sat knitting beside a lamp, the light of which could be seen from afar, showing like a bright spark amid the black line of the woods.",
+    "title": "Fruitfulness",
+    "author": "Zola, Émile, 1840-1902; Vizetelly, Ernest Alfred, 1853-1922 [Translator]",
+    "gutenbergReference": "10330",
     "matchType": 1,
-    "hash": "4550d34cf6905e9afcc3ca38182928f602e62463570ed29e26f51f9d4644a275"
+    "hash": "9b0b76f3f9e9632919060860bd81afb7fe4ce1d2983b70ca7d9281d6ecd97ac9"
   },
   {
     "time": "23:20",
-    "quoteFirst": "Stayed in the dining room till ",
+    "quoteFirst": "It was ",
     "quoteTime": "twenty minutes past eleven",
-    "quoteLast": ", but remained on Mamma's balcony looking at the fireworks in Green Park, which were quite beautiful.",
-    "title": "The Letters of Queen Victoria : A Selection from Her Majesty's Correspondence between the Years 1837 and 1861. Volume 1, 1837-1843",
-    "author": "Victoria, Queen of Great Britain, 1819-1901; Benson, Arthur Christopher, 1862-1925 [Editor]; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
-    "gutenbergReference": "20023",
+    "quoteLast": " when she got down at the glen station, and there was Susie getting down also!  Susie was in the sulks.  Not only had Bessie deliberately lost her in the dancing-hall, but after she had hurried away to catch the ten train, knowing Bessie had promised to return by it, she had had to come back alone!",
+    "title": "The Master of Man: The Story of a Sin",
+    "author": "Caine, Hall, Sir, 1853-1931",
+    "gutenbergReference": "61865",
     "matchType": 1,
-    "hash": "fc0c331bcfabefbb36ebb9e8f262575e19c6d4de819b03d4c0d3e679f1e57c0c"
+    "hash": "7bddcbcf00fdebdadae868c70540a8e33dd0135eb3f0554376aab783dec5f734"
   },
   {
     "time": "23:20",
-    "quoteFirst": "In parts of our route we saw the _Rodo-dendron_, one of the strongest symptoms of the change of our climate. We reached our encampment at ",
+    "quoteFirst": "To carry on the inquiry, he would have to visit Brussels, and he accordingly telephoned to the Gare du Nord engaging a berth on the ",
+    "quoteTime": "11.20 p.m.",
+    "quoteLast": " sleeping car train that night. Then, after calling up the Sûreté, he turned his steps homewards to dine and have a rest till it was time to start.",
+    "title": "The Cask",
+    "author": "Crofts, Freeman Wills, 1879-1957",
+    "gutenbergReference": "59854",
+    "matchType": 2,
+    "hash": "39a77252abfcb8ef73ff27a96e6311410b7925eed6eb034bf66b03447b0ed074"
+  },
+  {
+    "time": "23:20",
+    "quoteFirst": "The window was open at the top so as to ventilate the room. The rain fell softly; the house was quiet. It was ",
     "quoteTime": "twenty minutes past eleven",
-    "quoteLast": ", and we found it pitched near a _Caravanserai_. The village of _Khaumauridge_ is situated on a small plain, and is distant about a mile N. 20 W. from the _Caravanserai_.",
-    "title": "A Journey through Persia, Armenia, and Asia Minor, to Constantinople, in the Years 1808 and 1809\nIn Which is Included, Some Account of the Proceedings of His Majesty's Mission, under Sir Harford Jones, Bart. K. C. to the Court of Persia",
-    "author": "Morier, James Justinian, 1780?-1849",
-    "gutenbergReference": "51819",
+    "quoteLast": " by my watch when the preparations were completed, and I took my place on the chair set apart at the bottom of the bed.",
+    "title": "Library of the World's Best Literature, Ancient and Modern — Volume 09",
+    "author": "Warner, Charles Dudley, 1829-1900 [Editor]; Mabie, Hamilton Wright, 1846-1916 [Editor]; Runkle, Lucia Isabella Gilbert, 1844- [Editor]; Warner, George H., 1833-1919 [Editor]",
+    "gutenbergReference": "34224",
     "matchType": 1,
-    "hash": "5e2c2cfba5d9aad01088802db16381b9a0f9de948747d6f084512fd64f570f86"
+    "hash": "3a00b11349548ddc0336be55db19908339c0249192de7b7494d3fe8b28303dd9"
+  },
+  {
+    "time": "23:20",
+    "quoteFirst": "23 Bombardment 11:30 A. M.; renewed 6:45 P. M.; again 11 to ",
+    "quoteTime": "11:20 P. M.",
+    "quoteLast": "",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "matchType": 2,
+    "hash": "75dfb0b9451808c47acb3414bfbb57de6eb5218ecb01aeaabaa162d2d16140d0"
+  },
+  {
+    "time": "23:20",
+    "quoteFirst": "The child was born at ",
+    "quoteTime": "twenty minutes after eleven at night",
+    "quoteLast": ". Mary had requested that I would not come into the chamber till all was over, and signified her intention of then performing the interesting office of presenting the new-born child to its father. I was sitting in a parlour; and it was not till after two o’clock on Thursday morning, that I received the alarming intelligence, that the placenta was not yet removed, and that the midwife dared not proceed any further, and gave her opinion for calling in a male practitioner.",
+    "title": "Memoirs and Posthumous Works of Mary Wollstonecraft Godwin, Vol. 1",
+    "author": "Wollstonecraft, Mary, 1759-1797; Godwin, William, 1756-1836",
+    "gutenbergReference": "67847",
+    "matchType": 0,
+    "hash": "7774406b79f249af63e343670ab52d5cb5396cc1cfe2170690c58f41d5f9998c"
+  },
+  {
+    "time": "23:20",
+    "quoteFirst": "Hermann began walking up and down near the deserted house; at length he stopped under a lamp, and glanced at his watch: it was ",
+    "quoteTime": "twenty minutes past eleven",
+    "quoteLast": ".  He remained standing under the lamp, his eyes fixed upon the watch impatiently waiting for the remaining minutes to pass.  At half-past eleven precisely Hermann ascended the steps of the house and made his way into the brightly- illuminated vestibule.  The porter was not there.",
+    "title": "The Lock and Key Library: The Most Interesting Stories of All Nations: North Europe — Russian — Swedish — Danish — Hungarian",
+    "author": "Hawthorne, Julian, 1846-1934 [Editor]; Bársony, István, 1855-1928 [Contributor]; Bergsøe, Vilhelm, 1835-1911 [Contributor]; Blicher, Steen Steensen, 1782-1848 [Contributor]; Chekhov, Anton Pavlovich, 1860-1904 [Contributor]; Dostoyevsky, Fyodor, 1821-1881 [Contributor]; Elck, Arthur [Contributor]; Ingemann, Bernhard Severin, 1789-1862 [Contributor]; Jókai, Mór, 1825-1904 [Contributor]; Krestovskii, Vs. Vl. (Vsevolod Vladimirovich), 1840-1895 [Contributor]; Larssen, Otto, 1864-1910 [Contributor]; Molnár, Ferenc, 1878-1952 [Contributor]; Pushkin, Aleksandr Sergeevich, 1799-1837 [Contributor]; Zhelikhovskaia, V. P. (Vera Petrovna), 1835-1896 [Contributor]",
+    "gutenbergReference": "1552",
+    "matchType": 1,
+    "hash": "de80b7a2d275a39cec6be30ca2af0cc6d0b0c8701610f814925adc9a29155111"
+  },
+  {
+    "time": "23:20",
+    "quoteFirst": "£1,000,000 was subscribed by the Bank in their corporate capacity, £400,000 by the directors individually; before the close of the first day £5,000,000 was subscribed by different merchants. At ten o'clock on the Monday the doors were opened, and by ",
+    "quoteTime": "twenty minutes past eleven",
+    "quoteLast": " the subscription was declared to be full; hundreds were reluctantly obliged to go away. By the post innumerable orders came from the country, scarcely one of which could be accepted, and long after the subscription was closed persons continued coming, and were obliged to depart disappointed.",
+    "title": "A History of England, Period III. Constitutional Monarchy",
+    "author": "Bright, J. Franck (James Franck), 1832-1920",
+    "gutenbergReference": "47759",
+    "matchType": 1,
+    "hash": "35bcdfb6e8d86757c7fba3454d32b4d781fb48c42ffba7064e11d0298d2a4f6f"
+  },
+  {
+    "time": "23:20",
+    "quoteFirst": "She could be, it appeared, a Nannie or a Sarah, as she chose, and the time for choosing had arrived. And presently the girls were exclaiming that it was ",
+    "quoteTime": "twenty minutes past eleven",
+    "quoteLast": " and they really _must_ go, but it was Mrs. Wetherby's fault for always giving them such a perfectly wonderful time that they forgot to watch the clock, and Mrs.",
+    "title": "Jane Journeys On",
+    "author": "Mitchell, Ruth Comfort, 1882-1954",
+    "gutenbergReference": "20230",
+    "matchType": 1,
+    "hash": "7014a0f73620be9340db6b77419ebf4e83ae7329e8d8e8bf4e845ae1b61e34b1"
   },
   {
     "time": "23:20",
@@ -45,138 +111,6 @@
   },
   {
     "time": "23:20",
-    "quoteFirst": "I had now been a full fortnight in England, and, though I had certainly not let any grass grow under my feet, I had nevertheless failed as yet to get speech of the Prime Minister. To-day, however, made me ample amends. I went a little before the hour appointed to Downing Street, so as to have time for a few words with Hamilton, who told me his chief had read my letter; and at ",
-    "quoteTime": "twenty minutes past eleven",
-    "quoteLast": " I was received by him. Mr. Gladstone I found looking far better and younger than when I had seen him last, nearly two years before. Then he had seemed on his decline, but now he seemed vigorous and singularly alert in mind and body.",
-    "title": "Secret History of the English Occupation of Egypt\nBeing a Personal Narrative of Events",
-    "author": "Blunt, Wilfrid Scawen, 1840-1922; Urabi, Ahmad, 1841?-1911",
-    "gutenbergReference": "41373",
-    "matchType": 1,
-    "hash": "96bf472e6d5bbd53a63a103c85412cb33a65c9c3723502bfea9ac078040bd98a"
-  },
-  {
-    "time": "23:20",
-    "quoteFirst": "_Nash (E.)_ L.H.--Two Cuckoos at ",
-    "quoteTime": "11.20 P.M.",
-    "quoteLast": " one killed and one caught alive. Four Swifts killed between 11 and 12 P.M. Eight Willow Warblers from 11 to 12 P.M. three killed. (N.W., 3; B. C.)",
-    "title": "Report on the Migration of Birds in the Spring and Autumn of 1886. Eighth Report\r\n(Vol. II, No. 3.)",
-    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
-    "gutenbergReference": "66032",
-    "matchType": 2,
-    "hash": "33e644ba59110bce427697a92b384ea7ad18f67ebe9fd400dace30076e3875be"
-  },
-  {
-    "time": "23:20",
-    "quoteFirst": "We have now reached what is known as “Territorial Line,” about midway between the little stations of Stein’s Pass and San Simon. Conductor Purcell kindly stops the train at this point, giving those who wish the opportunity and privilege of gathering some mementoes of the occasion and locality. I look at my watch; it is ",
-    "quoteTime": "11.20 P. M.",
-    "quoteLast": " “Philadelphia” time, 8.20 P. M. “Territorial Line” time; it is pretty dark for the business on hand, but the post that marks the dividing line is easily found, and in a very short time is so badly cut and splintered by the relic hunters that it looks as though it had been struck by lightning.",
-    "title": "Nine Thousand Miles on a Pullman Train\r\nAn Account of a Tour of Railroad Conductors from Philadelphia to the Pacific Coast and Return",
-    "author": "Shaw, Milton M.",
-    "gutenbergReference": "51341",
-    "matchType": 2,
-    "hash": "03e00a0945a8e13534ad254b4d20565519ac89c0c95afbcdb4499766860beb52"
-  },
-  {
-    "time": "23:20",
-    "quoteFirst": "He had no idea except to shake off pursuit. Verbeck glanced at his watch as they passed beneath a light—it was ",
-    "quoteTime": "twenty minutes after eleven",
-    "quoteLast": ". Events had been occurring rapidly in the last half hour. And he was working under a close time limit, too.",
-    "title": "The Black Star: A Detective Story",
-    "author": "McCulley, Johnston, 1883-1958; Wittmack, E. Franklin (Edgar Franklin), 1894-1956 [Illustrator]",
-    "gutenbergReference": "35833",
-    "matchType": 1,
-    "hash": "3c1f7bd87ede2e96b55c8702db42bb6bab01023c608a121919b3264316aa24f6"
-  },
-  {
-    "time": "23:20",
-    "quoteFirst": "",
-    "quoteTime": "11.20 P.M.",
-    "quoteLast": "--Captain just gone to bed after a long and interesting conversation on general topics. When he chooses he can be a most fascinating companion, being remarkably well-read, and having the power of expressing his opinion forcibly without appearing to be dogmatic.",
-    "title": "The Dealings of Captain Sharkey, and Other Tales of Pirates",
-    "author": "Doyle, Arthur Conan, 1859-1930",
-    "gutenbergReference": "34627",
-    "matchType": 2,
-    "hash": "b5987972944c0963f50cbf5ad00eb4deee8c55049140bdea0389e3aff7eb5360"
-  },
-  {
-    "time": "23:20",
-    "quoteFirst": "The window was open at the top, so as to ventilate the room. The rain fell softly, the house was quiet. It was ",
-    "quoteTime": "twenty minutes past eleven",
-    "quoteLast": ", by my watch, when the preparations were completed, and I took my place on the chair set apart at the bottom of the bed.",
-    "title": "The Moonstone",
-    "author": "Collins, Wilkie, 1824-1889",
-    "gutenbergReference": "155",
-    "matchType": 1,
-    "hash": "b01ce1e969df360c48211eb0e8565b6d5c9cdb2d777c4ba73b8a5c97a6b9a432"
-  },
-  {
-    "time": "23:20",
-    "quoteFirst": "Whether it was the independence of my action or the novelty of the situation that brought it about I do not know, but the return mail brought a command from the Emperor to the Princess of Haarlem Heights to attend a royal _fête_ given in her honor at the Potsdam Palace the next morning at ",
-    "quoteTime": "twenty minutes after eleven",
-    "quoteLast": ".",
-    "title": "Peeps at People\nBeing Certain Papers from the Writings of Anne Warrington Witherup",
-    "author": "Bangs, John Kendrick, 1862-1922; Penfield, Edward, 1866-1925 [Illustrator]",
-    "gutenbergReference": "39945",
-    "matchType": 1,
-    "hash": "f085ad2a4f33b9423f569675495bb229fb10024fe6d78c4084b821e183f97969"
-  },
-  {
-    "time": "23:20",
-    "quoteFirst": "D--d nonsense--it's all that heavy 'bus of Driver's--I'll change that. They leave London at five, and get to Dollington at half-past ten, and Driver never has them in sooner than ",
-    "quoteTime": "twenty minutes past eleven",
-    "quoteLast": "! D--d humbug! I'd undertake to take a dog-cart over the ground in twenty minutes.'",
-    "title": "Wylder's Hand",
-    "author": "Le Fanu, Joseph Sheridan, 1814-1873",
-    "gutenbergReference": "9983",
-    "matchType": 1,
-    "hash": "e32e18ce22c9fdd960ac49079e82307e50f5a71388f5a8b155fc71f38ecb46a4"
-  },
-  {
-    "time": "23:20",
-    "quoteFirst": "In about ten minutes he became a little unconscious and wandering. That was the first time I noticed it. His breathing became slower and sighing, and the heart’s action weaker and weaker, and he died about ",
-    "quoteTime": "twenty minutes after eleven",
-    "quoteLast": ".”",
-    "title": "Reports of Trials for Murder by Poisoning;\r\nby Prussic Acid, Strychnia, Antimony, Arsenic, and Aconita. Including the trials of Tawell, W. Palmer, Dove, Madeline Smith, Dr. Pritchard, Smethurst, and Dr. Lamson, with chemical introduction and notes on the poisons used",
-    "author": "Browne, G. Lathom (George Lathom), 1815-1892; Stewart, C. G. (Charles G.), active 19th century",
-    "gutenbergReference": "50636",
-    "matchType": 1,
-    "hash": "6ff5a7e51bb2089303f301bed43e564abf3d7057be4419012b55d1f5658c09c2"
-  },
-  {
-    "time": "23:20",
-    "quoteFirst": "Finally, that night at ",
-    "quoteTime": "twenty minutes after eleven",
-    "quoteLast": ", the child--not the William talked of for months, but a daughter, afterwards to be Mrs. Shelley--was born.",
-    "title": "Mary Wollstonecraft",
-    "author": "Pennell, Elizabeth Robins, 1855-1936",
-    "gutenbergReference": "22800",
-    "matchType": 1,
-    "hash": "c3fe134b239b1f94c0fdea724ca22022494610f3d9ead762663da0e620606db0"
-  },
-  {
-    "time": "23:20",
-    "quoteFirst": "At ",
-    "quoteTime": "twenty minutes past eleven",
-    "quoteLast": " Melville and the president of the other banks of his chain called loans to Dumont and the Dumont supporting group to the amount of three millions and a quarter. Ten minutes later other banks and trust companies whose loans to Dumont and his allies either were on call or contained provisions permitting a demand for increased collateral, followed Melville's example and aimed and sped their knives for Dumont's vitals.",
-    "title": "The Cost",
-    "author": "Phillips, David Graham, 1867-1911",
-    "gutenbergReference": "478",
-    "matchType": 1,
-    "hash": "5c066f9de51cffd18cb85912e1c85303d53a2782c1b3d8c4b0ff06c01c6f7e45"
-  },
-  {
-    "time": "23:20",
-    "quoteFirst": "Finally, that night at ",
-    "quoteTime": "twenty minutes after eleven",
-    "quoteLast": ", the child--not the William talked of for months, but a daughter, afterwards to be Mrs. Shelley--was born.",
-    "title": "Mary Wollstonecraft",
-    "author": "Pennell, Elizabeth Robins, 1855-1936",
-    "gutenbergReference": "22800",
-    "matchType": 1,
-    "hash": "c3fe134b239b1f94c0fdea724ca22022494610f3d9ead762663da0e620606db0"
-  },
-  {
-    "time": "23:20",
     "quoteFirst": "June 10, 1912. ",
     "quoteTime": "11.20 P. M.",
     "quoteLast": " The investigator counted 12 inmates and estimated 15. The proprietors are X 72 and X 73. Names of inmates on this date are Anna, Grace and Rose.",
@@ -188,14 +122,69 @@
   },
   {
     "time": "23:20",
-    "quoteFirst": "At ",
+    "quoteFirst": "Finally, that night at ",
     "quoteTime": "twenty minutes after eleven",
-    "quoteLast": " Wilbur started on the second flight. The course of this flight was much like that of the first, very much up and down. The speed over the ground was somewhat faster than that of the first flight, due to the lesser wind.",
-    "title": "The Early History of the Airplane",
-    "author": "Wright, Orville, 1871-1948; Wright, Wilbur, 1867-1912",
-    "gutenbergReference": "25420",
+    "quoteLast": ", the child--not the William talked of for months, but a daughter, afterwards to be Mrs. Shelley--was born.",
+    "title": "Mary Wollstonecraft",
+    "author": "Pennell, Elizabeth Robins, 1855-1936",
+    "gutenbergReference": "22800",
     "matchType": 1,
-    "hash": "1c1432c3f2594174c76fac551df19f145b66d9a9f333145a495f17c8146fc8f0"
+    "hash": "c3fe134b239b1f94c0fdea724ca22022494610f3d9ead762663da0e620606db0"
+  },
+  {
+    "time": "23:20",
+    "quoteFirst": "--But,\" Russell added eagerly, \"I can prove I had no idea of hurting her, if that's what you're hinting at. I can prove I never struck her. At ",
+    "quoteTime": "twenty minutes past eleven",
+    "quoteLast": " last night I was four miles from here. Mr. Otis, a Washington commission merchant, picked me up in his automobile, six miles outside of Washington and took me into town.",
+    "title": "\"No Clue!\": A Mystery Story",
+    "author": "Hay, James, 1881-1936",
+    "gutenbergReference": "26396",
+    "matchType": 1,
+    "hash": "21b6ca980a656dd5d87c2fe88ab9d3a2f23d77529ead13a819a879e357ff218e"
+  },
+  {
+    "time": "23:20",
+    "quoteFirst": "He died that night at ",
+    "quoteTime": "twenty minutes past eleven",
+    "quoteLast": ".",
+    "title": "A Journalist's Note-Book",
+    "author": "Moore, Frank Frankfort, 1855-1931",
+    "gutenbergReference": "51952",
+    "matchType": 1,
+    "hash": "1ed50bcac84f5f794a86ce66a492c786167011b18f9dd793242c0ee7b90b60cd"
+  },
+  {
+    "time": "23:20",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes past eleven",
+    "quoteLast": " we started with Helena and Louise in the sociable, Grant on the box, for _Loch Bulig_, passing the farms of _Blairglass_ and of _Dall Dounie_, and the shooting-lodge of _Corndavon_, ten miles distant. Here we found our ponies (mine being “Victoria”), and rode along the edge of the lake, up a beautiful glen by a path winding through the valley, which appeared frequently closed.",
+    "title": "Leaves From the Journal of Our Life in the Highlands, From 1848 to 1861",
+    "author": "Victoria, Queen of Great Britain, 1819-1901; Helps, Arthur, Sir, 1813-1875 [Editor]",
+    "gutenbergReference": "66173",
+    "matchType": 1,
+    "hash": "bf46d88d093b94e3e031af0af18a10d6fde32847b6260c754b7b0682be9fa8ed"
+  },
+  {
+    "time": "23:20",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty minutes after eleven",
+    "quoteLast": " when she got out. The conductor leaned down after her, hanging to the handrail.",
+    "title": "Dangerous Days",
+    "author": "Rinehart, Mary Roberts, 1876-1958",
+    "gutenbergReference": "1693",
+    "matchType": 1,
+    "hash": "0564b8d8808c27a77a6970e16ba97c8eb53752ee10a3b19eb9ecfdd4d3bd0675"
+  },
+  {
+    "time": "23:20",
+    "quoteFirst": "At ",
+    "quoteTime": "11.20 P.M.",
+    "quoteLast": " the visual message transmitted from Fort Vaux, after an opening which the bombardment made it impossible to understand, contains this phrase: “You will intervene before we are utterly exhausted. Long live France!”",
+    "title": "The Last Days of Fort Vaux, March 9-June 7, 1916",
+    "author": "Bordeaux, Henry, 1870-1963; Cohn, Paul V. (Paul Victor) [Translator]",
+    "gutenbergReference": "48532",
+    "matchType": 2,
+    "hash": "a6536c1d9ea683a4036ca4b759b3198b0d67701bca4ad9b588b12b4464da1a39"
   },
   {
     "time": "23:20",
@@ -210,13 +199,24 @@
   },
   {
     "time": "23:20",
-    "quoteFirst": "Expeditious though he was, he kept Ashe waiting for a considerable time. It was not until the hands of the fat clock over the door pointed to ",
+    "quoteFirst": "The window was open at the top so as to ventilate the room. The rain fell softly; the house was quiet. It was ",
     "quoteTime": "twenty minutes past eleven",
-    "quoteLast": " that the office boy's \"Next!\" found him the only survivor. He gave his clothes a hasty smack with the palm of his hand and his hair a fleeting dab to accentuate his good appearance, and turned the handle of the door of fate.",
-    "title": "Something New",
-    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
-    "gutenbergReference": "2042",
+    "quoteLast": " by my watch when the preparations were completed, and I took my place on the chair set apart at the bottom of the bed.",
+    "title": "Library of the World's Best Literature, Ancient and Modern — Volume 09",
+    "author": "Warner, Charles Dudley, 1829-1900 [Editor]; Mabie, Hamilton Wright, 1846-1916 [Editor]; Runkle, Lucia Isabella Gilbert, 1844- [Editor]; Warner, George H., 1833-1919 [Editor]",
+    "gutenbergReference": "34224",
     "matchType": 1,
-    "hash": "51bc89c55526bfc7eb2feacd3023600ea69d278c435c54945a9f4664f1ea87aa"
+    "hash": "3a00b11349548ddc0336be55db19908339c0249192de7b7494d3fe8b28303dd9"
+  },
+  {
+    "time": "23:20",
+    "quoteFirst": "The effects were felt in San Francisco several hours before they are reported to have been observed at any other place north or south. They began here at ",
+    "quoteTime": "twenty minutes past eleven",
+    "quoteLast": ", on the night of the eighth, and continued till thirteen minutes past eight the following morning—six shocks occurring in the interval; while to the south, the first shock noticed at the Tejon, was at six hours thirty minutes, on the ninth.",
+    "title": "Proceedings of the California Academy of Sciences, Volume III, 1863-1867",
+    "author": "Various",
+    "gutenbergReference": "61184",
+    "matchType": 1,
+    "hash": "5ac86175bd716374fa696620cec095c999477c36793ab1e78ec1aa142dd49fd9"
   }
 ]

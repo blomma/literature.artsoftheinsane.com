@@ -1,25 +1,25 @@
 [
   {
     "time": "15:05",
-    "quoteFirst": "It was now ",
-    "quoteTime": "five minutes past three",
-    "quoteLast": ". The car slowed down by the farm, in the yard of which Miss Avery was standing. Henry asked her whether a cab had gone past.",
-    "title": "Howards End",
-    "author": "Forster, E. M. (Edward Morgan), 1879-1970",
-    "gutenbergReference": "2946",
-    "matchType": 1,
-    "hash": "3776353e348d7246c781b1bed33b7839dac4df6850807ddd0e2f230acf25ce52"
+    "quoteFirst": "(Reporter’s note: ",
+    "quoteTime": "3:05 p.m.",
+    "quoteLast": ")",
+    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "56190",
+    "matchType": 2,
+    "hash": "b348eddd83452424e1eb20807c05820866cf79ffe521b85baa56b49a3112ea78"
   },
   {
     "time": "15:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past three",
-    "quoteLast": " the strain was telling, and every one's temper began more or less to show signs of wear and tear.",
-    "title": "Berry and Co.",
-    "author": "Yates, Dornford, 1885-1960",
-    "gutenbergReference": "17469",
-    "matchType": 1,
-    "hash": "20ff2bccd5263ead000da27a97c5fbf86c3e60075d38f8b3fad7c9a444e0a882"
+    "quoteFirst": "“The second leg of the box started at ",
+    "quoteTime": "3:05 P.M.",
+    "quoteLast": " and was quite short, lasting only thirty minutes before the plane had run through the low pressure and then to a place where it was six millibars higher. Low gray ragged clouds increased in this sector and the ceiling lowered. On order from the commander, called Sooky by the crew, the plane went down to two hundred feet.",
+    "title": "The Hurricane Hunters",
+    "author": "Tannehill, Ivan Ray, 1890-1959",
+    "gutenbergReference": "57973",
+    "matchType": 2,
+    "hash": "89d93452076083958c710d67404ea8f6184d1699b64a4e37a5745eee643f868c"
   },
   {
     "time": "15:05",
@@ -34,47 +34,69 @@
   },
   {
     "time": "15:05",
-    "quoteFirst": "Victoria station at ",
+    "quoteFirst": "At ",
     "quoteTime": "five minutes past three",
-    "quoteLast": ", and just outside the gates he met Sir Lucius.",
-    "title": "In Friendship's Guise",
-    "author": "Graydon, William Murray, 1864-1946",
-    "gutenbergReference": "15965",
+    "quoteLast": " came Mr. Thornton and Monsieur Duponnet.",
+    "title": "The Van Roon",
+    "author": "Snaith, J. C. (John Collis), 1876-1936",
+    "gutenbergReference": "68520",
     "matchType": 1,
-    "hash": "8e675784a514c838588923f64e0c0efd71124762ab03d0f2f399e93f5c5d3d34"
+    "hash": "356d44ceb3381c6c14492da644a89860a32d03461f89ae05edd88a1901850320"
+  },
+  {
+    "time": "15:05",
+    "quoteFirst": "DRIVING THE LAST SPIKE, ",
+    "quoteTime": "3.05 P.M.",
+    "quoteLast": " (NEW YORK TIME), MAY 10, 1869                                                      335 Locomotive \"Jupiter\" of the Central Pacific, and \"119\" of the Union Pacific about to meet when last spike is driven.",
+    "title": "Breaking the Wilderness\r\nThe Story of the Conquest of the Far West, From the Wanderings of Cabeza de Vaca, to the First Descent of the Colorado by Powell, and the Completion of the Union Pacific Railway, With Particular Account of the Exploits of Trappers and Traders",
+    "author": "Dellenbaugh, Frederick Samuel, 1853-1935",
+    "gutenbergReference": "58390",
+    "matchType": 2,
+    "hash": "960d0a93503e75dddc0c0580410fec0cfaf071e8a0196d23eb085378313fca95"
+  },
+  {
+    "time": "15:05",
+    "quoteFirst": "Wilson, Charles Hall, and John Wood: the latter two were mortally wounded. The Valley City immediately dropped out of range of said battery, and came to anchor at ",
+    "quoteTime": "3:05 p.m.",
+    "quoteLast": " In the evening the fleet dropped farther down on the near stretch of the river. The Valley City lost her torpedo-fender.",
+    "title": "Reminiscences of Two Years in the United States Navy",
+    "author": "Batten, John M. (John Mullin), 1837-1916",
+    "gutenbergReference": "25764",
+    "matchType": 2,
+    "hash": "6d920e13c41b56f43691ecd959e38e72f356ecb45d0ba6f49ed39197b65df9aa"
+  },
+  {
+    "time": "15:05",
+    "quoteFirst": "“Dear Sir,—I feel it my duty to inform you, as a connection of the family, that Lady Sybil Vermuyden died at ",
+    "quoteTime": "five minutes past three",
+    "quoteLast": " o’clock this afternoon. Her death, which I am led to believe could in no event have been long delayed, was doubtless hastened by the miserable occurrences of the last few days.",
+    "title": "Chippinge Borough",
+    "author": "Weyman, Stanley John, 1855-1928",
+    "gutenbergReference": "38871",
+    "matchType": 1,
+    "hash": "67d6a096535acee56e510f9b0e01e0ee5e22cdea04c876435aafee82b1d8e638"
   },
   {
     "time": "15:05",
     "quoteFirst": "\"",
     "quoteTime": "Five minutes after three",
-    "quoteLast": ",\" said Molly; \"I can remember that.\"",
+    "quoteLast": ",\" she sang until she stopped a moment on the bridge to see some boys fishing. Just about there, a big dog who was a friend of Molly's ran out to say, \"Good afternoon.\"",
     "title": "Boys and Girls Bookshelf; a Practical Plan of Character Building, Volume I (of 17)\nFun and Thought for Little Folk",
     "author": "Various; Baltzell, W. J. (Winton James), 1864-1928 [Editor]; Forbush, William Byron, 1868-1927 [Editor]; Johnson, Rossiter, 1840-1931 [Editor]; Wade, Herbert T. (Herbert Treadwell), 1872- [Editor]; Wheeler, Daniel Edwin, 1880- [Editor]",
     "gutenbergReference": "25359",
     "matchType": 1,
-    "hash": "7e0154f30663339db8e0463e4eba0342c0ecebe2b48f4318859f72caf0778a79"
+    "hash": "118b1ea3a2b4b86cd918f412c9c47fd4cd20672f309d040d2e42fdbccc954edc"
   },
   {
     "time": "15:05",
-    "quoteFirst": "The tides are very regular, flowing and ebbing six hours each. The flood comes from the eastward; and it is high water, at the full and change of the moon, forty-",
-    "quoteTime": "five minutes past three",
-    "quoteLast": ", apparent time. Their greatest rise is two feet seven inches; and we always observed the water to be four inches higher when the moon was above the horizon, than when it was below.",
-    "title": "A General History and Collection of Voyages and Travels, Volume 17\nArranged in Systematic Order: Forming a Complete History\nof the Origin and Progress of Navigation, Discovery, and\nCommerce, by Sea and Land, from the Earliest Ages to the\nPresent Time",
-    "author": "Kerr, Robert, 1755-1813",
-    "gutenbergReference": "15425",
-    "matchType": 1,
-    "hash": "2715c15f526e1d27d93ff10afa42d3f1e685e9ca75bb70735aa7165c7034e1b0"
-  },
-  {
-    "time": "15:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past three",
-    "quoteLast": " by the clock, Guest appeared in the doorway of the hotel, made an inquiry of the porter, and was directed to Cornelia's sheltered seat.  She saw him cast a glance over her neat, walking costume, as he approached, and naughtily determined to prolong his uncertainty.",
-    "title": "Flaming June",
-    "author": "Vaizey, George de Horne, Mrs., 1857-1917",
-    "gutenbergReference": "21119",
-    "matchType": 1,
-    "hash": "99e5061d1c1b57d107bf23f8d8a974af110f1181a7d66552acae3974e251e79e"
+    "quoteFirst": "Wilson, Charles Hall, and John Wood: the latter two were mortally wounded. The Valley City immediately dropped out of range of said battery, and came to anchor at ",
+    "quoteTime": "3:05 p.m.",
+    "quoteLast": " In the evening the fleet dropped farther down on the near stretch of the river. The Valley City lost her torpedo-fender.",
+    "title": "Reminiscences of Two Years in the United States Navy",
+    "author": "Batten, John M. (John Mullin), 1837-1916",
+    "gutenbergReference": "25764",
+    "matchType": 2,
+    "hash": "6d920e13c41b56f43691ecd959e38e72f356ecb45d0ba6f49ed39197b65df9aa"
   },
   {
     "time": "15:05",
@@ -89,25 +111,25 @@
   },
   {
     "time": "15:05",
-    "quoteFirst": "\"",
-    "quoteTime": "Five minutes after three",
-    "quoteLast": ",\" said Molly; \"I can remember that.\"",
-    "title": "Boys and Girls Bookshelf; a Practical Plan of Character Building, Volume I (of 17)\nFun and Thought for Little Folk",
-    "author": "Various; Baltzell, W. J. (Winton James), 1864-1928 [Editor]; Forbush, William Byron, 1868-1927 [Editor]; Johnson, Rossiter, 1840-1931 [Editor]; Wade, Herbert T. (Herbert Treadwell), 1872- [Editor]; Wheeler, Daniel Edwin, 1880- [Editor]",
-    "gutenbergReference": "25359",
-    "matchType": 1,
-    "hash": "7e0154f30663339db8e0463e4eba0342c0ecebe2b48f4318859f72caf0778a79"
+    "quoteFirst": "[Illustration: Driving the Last Spike, ",
+    "quoteTime": "3.05 P.M.",
+    "quoteLast": ", New York Time, May 10, 1869.",
+    "title": "Breaking the Wilderness\r\nThe Story of the Conquest of the Far West, From the Wanderings of Cabeza de Vaca, to the First Descent of the Colorado by Powell, and the Completion of the Union Pacific Railway, With Particular Account of the Exploits of Trappers and Traders",
+    "author": "Dellenbaugh, Frederick Samuel, 1853-1935",
+    "gutenbergReference": "58390",
+    "matchType": 2,
+    "hash": "94b6ea2d54e11e18df40304cca8a7835f0cfc27b93451f00e7d11bfe87cafa20"
   },
   {
     "time": "15:05",
-    "quoteFirst": "Waterman was going back and forth over the time of day, attempting to show that the car was behind its schedule, and exceeding the speed limit, but the man clung to his story stubbornly. It was at exactly ",
-    "quoteTime": "five minutes past three",
-    "quoteLast": "; he was running slowly, and had whistled at all the earlier stops; and when he saw the plaintiff driving upon the right of way ahead of him he put on the brakes as quickly as possible.",
-    "title": "Otherwise Phyllis",
-    "author": "Nicholson, Meredith, 1866-1947; Gibson, Charles Dana, 1867-1944 [Illustrator]",
-    "gutenbergReference": "28017",
+    "quoteFirst": "As it is not likely to last long he'll be gone in a few moments. Have you the right time about you? What do you make it? ",
+    "quoteTime": "Five minutes past three",
+    "quoteLast": " by post office time? The result ought to be here at any moment. Ah, I thought so. Just keep your eye closely upon Chaffey.\"",
+    "title": "Hard Pressed",
+    "author": "White, Fred M. (Fred Merrick), 1859-1935",
+    "gutenbergReference": "33512",
     "matchType": 1,
-    "hash": "9f9514bdce8113b484277fea090262324b675403e560c6b5f31d9aca125a9b6b"
+    "hash": "e9135ab615b74ea7afafd6f91bf2d61b113dab102557ea92c9e9979724a0a425"
   },
   {
     "time": "15:05",
@@ -122,101 +144,79 @@
   },
   {
     "time": "15:05",
-    "quoteFirst": "He was a well-set-up youngster and, in spite of the spills he had made during practice, carried himself like a ball player. The “fans” watched him and reserved judgment, asking each other how Steve had managed to get hold of him at less than a half-hour’s notice. For it had been ",
+    "quoteFirst": "On arriving at the station he consulted the timetable and found the train was due at 2:52. The train, however, was late. At three o'clock it had not arrived; at ",
     "quoteTime": "five minutes past three",
-    "quoteLast": " when the accident had happened that had sent three of the Badgers’ best players to the hospital, Bennett, as was learned later, with a broken leg, Morgan with three ribs caved in, and Pitcher Cotton with enough contusions to keep him out of the game for a week at least.",
-    "title": "Second Base Sloan",
-    "author": "Mathewson, Christy, 1880-1925; Caswell, Edward C., 1879-1963 [Illustrator]",
-    "gutenbergReference": "52407",
+    "quoteLast": ", getting uneasy at the delay, he took paper and pencil in his hand and asked where she was.",
+    "title": "Telepathy and the Subliminal Self",
+    "author": "Mason, R. Osgood (Rufus Osgood), 1830-1903",
+    "gutenbergReference": "37203",
     "matchType": 1,
-    "hash": "dd83a94a56090c09439f5d12837ea601f999ba69f9f78f317934fe46ca8a74d6"
+    "hash": "577646a0b202b5b9419f937082bd70454242193424db8f11993cccb2cc9ea874"
   },
   {
     "time": "15:05",
-    "quoteFirst": "\"Well, ",
-    "quoteTime": "five minutes after three",
-    "quoteLast": ", then,\" laughed Mother. \"And, Molly, so that you won't forget this time, all the way to Miss Eleanor's, say over and over, 'Five minutes after three.' Then, just as soon as you get there, say the words quickly to Miss Eleanor, 'Five minutes after three.'\"",
-    "title": "Boys and Girls Bookshelf; a Practical Plan of Character Building, Volume I (of 17)\nFun and Thought for Little Folk",
-    "author": "Various; Baltzell, W. J. (Winton James), 1864-1928 [Editor]; Forbush, William Byron, 1868-1927 [Editor]; Johnson, Rossiter, 1840-1931 [Editor]; Wade, Herbert T. (Herbert Treadwell), 1872- [Editor]; Wheeler, Daniel Edwin, 1880- [Editor]",
-    "gutenbergReference": "25359",
+    "quoteFirst": "After removing No. 6 from the water, No. 5 was placed on the launching car and immediately prepared for a test. At ",
+    "quoteTime": "3.05 p. m.",
+    "quoteLast": "",
+    "title": "Langley Memoir on Mechanical Flight, Parts I and II\nSmithsonian Contributions to Knowledge, Volume 27 Number 3, Publication 1948, 1911",
+    "author": "Langley, S. P. (Samuel Pierpont), 1834-1906; Manly, Charles M. (Charles Matthews), 1876-1927",
+    "gutenbergReference": "47981",
+    "matchType": 2,
+    "hash": "7f1bdc61684df3bce4eb2db2b1175503b416a50707f4d9565cd27c30f9545205"
+  },
+  {
+    "time": "15:05",
+    "quoteFirst": "Well, of course, he did not need to send the telegram because Göring wrote the telegram. He already had it. It must be recalled that in the first conversation, Part A, held at ",
+    "quoteTime": "3:05 p.m.",
+    "quoteLast": ", Göring had requested Seyss-Inquart to send the telegram agreed upon, but now the matter was so urgent that Göring dictated the exact wording of the telegram over the telephone. And an hour later, at 9:54 p.m. a conversation between Dr.",
+    "title": "Trial of the Major War Criminals Before the International Military Tribunal, Nuremburg, 14 November 1945-1 October 1946, Volume 02",
+    "author": "Various",
+    "gutenbergReference": "51882",
+    "matchType": 2,
+    "hash": "421c9a42523b8007e6c4dd1addbb584a02f5dc4b2c2358ca36d6ca75742a56c8"
+  },
+  {
+    "time": "15:05",
+    "quoteFirst": "Don't forget! It's close by here--along the Rue Royale. Be absolutely punctual, or else I shall think that having _seen_ me, seen how changed I am, you have altered your mind. I shall _quite_ understand; only I _may_ come back at ",
+    "quoteTime": "five minutes past three",
+    "quoteLast": " and accept General Tompkins. Acquaintances ripen quickly in Brussels.\"",
+    "title": "Mrs. Warren's Daughter: A Story of the Woman's Movement",
+    "author": "Johnston, Harry, 1858-1927",
+    "gutenbergReference": "15380",
     "matchType": 1,
-    "hash": "9bb879f9191d5c263807dfb1aae324c864b58d21058b9d112d4ddd287b882de9"
+    "hash": "905ed89e951686c8f1b238c1bf3248d03f6a98b35ffb7e852f4915835bb5922d"
   },
   {
     "time": "15:05",
     "quoteFirst": "At ",
     "quoteTime": "five minutes past three",
-    "quoteLast": " the strain was telling, and every one's temper began more or less to show signs of wear and tear.",
-    "title": "Berry and Co.",
-    "author": "Yates, Dornford, 1885-1960",
-    "gutenbergReference": "17469",
+    "quoteLast": " came Mr. Thornton and Monsieur Duponnet.",
+    "title": "The Van Roon",
+    "author": "Snaith, J. C. (John Collis), 1876-1936",
+    "gutenbergReference": "68520",
     "matchType": 1,
-    "hash": "20ff2bccd5263ead000da27a97c5fbf86c3e60075d38f8b3fad7c9a444e0a882"
+    "hash": "356d44ceb3381c6c14492da644a89860a32d03461f89ae05edd88a1901850320"
   },
   {
     "time": "15:05",
-    "quoteFirst": "February 6: Injection began at ",
+    "quoteFirst": "October 5: Weight, 1,620 grams; 2.50 p. m., 10 cc 2 per cent caffein injected into lumbar muscles; ",
     "quoteTime": "3.05 p. m.",
-    "quoteLast": ", received 3 cc 2 per cent caffein intravenously in three minutes or 31 mg per kilo, no symptoms observed.",
+    "quoteLast": ", reflexes increased.",
     "title": "The Toxicity of Caffein: An experimental study on different species of animals",
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
     "matchType": 2,
-    "hash": "82cd7175e1c961605cb304e676288ab2be23f866dd601300dbfcc786da18b2aa"
+    "hash": "e70d6a9009a8ff9a5c2c91f04d602ae33063c4129259c9d403d4299bce1fa97f"
   },
   {
     "time": "15:05",
-    "quoteFirst": "Mr. HUBERT. One of the questions I want to ask you is how you fixed the time of seeing him, but I noticed that on page 2, the second paragraph, you indicate that you saw him at about ",
-    "quoteTime": "3:05 p.m.",
-    "quoteLast": " You established that time because you knew that you had a schedule that would require you to leave at 3:15, and that that enabled you to fix the time.",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
+    "quoteFirst": "October 5: Weight, 1,425 grams; 2.55 p. m., 9 cc 2 per cent caffein injected into lumbar muscles; ",
+    "quoteTime": "3.05 p. m.",
+    "quoteLast": ", reflexes increased.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
     "matchType": 2,
-    "hash": "2d23d6c0d9f1a03542a3f66b0108b35a45f339bd32c76e8cc73477f5857cb705"
-  },
-  {
-    "time": "15:05",
-    "quoteFirst": "The tides are very regular, flowing and ebbing six hours each. The flood comes from the eastward; and it is high water, at the full and change of the moon, forty-",
-    "quoteTime": "five minutes past three",
-    "quoteLast": ", apparent time. Their greatest rise is two feet seven inches; and we always observed the water to be four inches higher when the moon was above the horizon, than when it was below.",
-    "title": "A General History and Collection of Voyages and Travels, Volume 17\nArranged in Systematic Order: Forming a Complete History\nof the Origin and Progress of Navigation, Discovery, and\nCommerce, by Sea and Land, from the Earliest Ages to the\nPresent Time",
-    "author": "Kerr, Robert, 1755-1813",
-    "gutenbergReference": "15425",
-    "matchType": 1,
-    "hash": "2715c15f526e1d27d93ff10afa42d3f1e685e9ca75bb70735aa7165c7034e1b0"
-  },
-  {
-    "time": "15:05",
-    "quoteFirst": "The testimony of Karen Bennett Carlin was taken at ",
-    "quoteTime": "3:05 p.m.",
-    "quoteLast": ", on April 15, 1964, at the Post Office Building, Fort Worth, Tex., by Mr. Leon D. Hubert, Jr., assistant counsel of the President’s Commission. Mrs.",
-    "title": "Warren Commission (13 of 26): Hearings Vol. XIII (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "57111",
-    "matchType": 2,
-    "hash": "df68de495448200ca2b67e3d9918db45949e5e879ddc765ecd8f97fdadf85533"
-  },
-  {
-    "time": "15:05",
-    "quoteFirst": "The train started at ",
-    "quoteTime": "five minutes past three",
-    "quoteLast": ", and he arrived at Charing Cross at a quarter to three, to find Bensington in heated argument between two policemen and his van-driver outside, and Redwood in the luggage office involved in some technical obscurity about his ammunition.",
-    "title": "The Food of the Gods and How It Came to Earth",
-    "author": "Wells, H. G. (Herbert George), 1866-1946",
-    "gutenbergReference": "11696",
-    "matchType": 1,
-    "hash": "d1c96d41a645711cb4f40ca6a71d7f26906d1565fe740b5ab422b06485cad0af"
-  },
-  {
-    "time": "15:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past three",
-    "quoteLast": " by the clock, Guest appeared in the doorway of the hotel, made an inquiry of the porter, and was directed to Cornelia's sheltered seat.  She saw him cast a glance over her neat, walking costume, as he approached, and naughtily determined to prolong his uncertainty.",
-    "title": "Flaming June",
-    "author": "Vaizey, George de Horne, Mrs., 1857-1917",
-    "gutenbergReference": "21119",
-    "matchType": 1,
-    "hash": "99e5061d1c1b57d107bf23f8d8a974af110f1181a7d66552acae3974e251e79e"
+    "hash": "c008752912a49cf3cbae01ae82e70f147fccd2188d173994a7dc6dde79998020"
   }
 ]

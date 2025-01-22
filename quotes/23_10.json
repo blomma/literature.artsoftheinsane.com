@@ -1,80 +1,14 @@
 [
   {
     "time": "23:10",
-    "quoteFirst": "_",
-    "quoteTime": "11.10 p.m.",
-    "quoteLast": "_--Relief of “D” Company in the left Sector, by “C” Coy. in the Keeps, was reported complete, but this relief was considerably delayed by shell fire.",
-    "title": "The Fourth Battalion, The King's Own (Royal Lancaster Regiment) and the Great War",
-    "author": "Wadham, W. F. A. (Walter F. A.); Crossley, J.",
-    "gutenbergReference": "67393",
+    "quoteFirst": "(Despatched ",
+    "quoteTime": "11.10 P.M.",
+    "quoteLast": ", _May 28_. Received Colonial Office 5.5 A.M., _May 29, 1902_.)",
+    "title": "South Africa and the Transvaal War, Vol. 7 (of 8)\r\nThe Guerilla War, from February 1901 to the Conclusion of Hostilities",
+    "author": "Creswicke, Louis",
+    "gutenbergReference": "47132",
     "matchType": 2,
-    "hash": "a1672f6551f6f1ae177b5438790861af7743b31dbedc60962315ca21a267dd42"
-  },
-  {
-    "time": "23:10",
-    "quoteFirst": "On the 11th at eleven o'clock in the morning we struck soundings on a bank in twelve to fourteen fathoms water and at ",
-    "quoteTime": "ten minutes after eleven",
-    "quoteLast": " had no ground in one hundred and forty fathoms. No land was then in sight, nor did we get any soundings after in the course of the day.",
-    "title": "Voyage of H.M.S. 'Pandora'",
-    "author": "Edwards, Edward, 1728-1815; Hamilton, George, surgeon; Thomson, Basil, 1861-1939 [Commentator]",
-    "gutenbergReference": "22834",
-    "matchType": 1,
-    "hash": "2debaa5bdb7fb8d7df9ccd6ff52d4b070089374d0307e9003aeb2aa69cf4930f"
-  },
-  {
-    "time": "23:10",
-    "quoteFirst": "",
-    "quoteTime": "Ten minutes after eleven",
-    "quoteLast": "—just one hour plus forty-five seconds to wait! His thoughts flew back to his home in the great city beyond the sea.",
-    "title": "Time Telling through the Ages",
-    "author": "Brearley, Harry Chase, 1870-1940",
-    "gutenbergReference": "47928",
-    "matchType": 1,
-    "hash": "c1953bdd7dd9a84abb2e94404a713617b8258406fe7d8dd0560a31c4971ec458"
-  },
-  {
-    "time": "23:10",
-    "quoteFirst": "One further interesting point emerges, namely, that De Craye’s watch, after setting everybody right at breakfast, went hopelessly wrong in the course of the morning. It was ",
-    "quoteTime": "ten minutes past eleven",
-    "quoteLast": " by his watch when he left the Park gate: yet he was at the station in time to meet Clara, and, after some discussion, to drive back with her (11.17 or at most 11.21--see above).",
-    "title": "Walking essays",
-    "author": "Sidgwick, Arthur, 1840-1920",
-    "gutenbergReference": "57558",
-    "matchType": 1,
-    "hash": "695dc3b4ae5f0aa951c4d0217a9f9b77f59849cff2e80c25e7c2e7ef4779a8b1"
-  },
-  {
-    "time": "23:10",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes past eleven",
-    "quoteLast": ", our Light Cavalry brigade advanced.",
-    "title": "The battles of the world",
-    "author": "Borthwick, J. Douglas (John Douglas), 1831-1912",
-    "gutenbergReference": "60652",
-    "matchType": 1,
-    "hash": "ed11de306cf005068e608b89afca3e9b55eb17264efcf42fdf3acf5338b3d1c3"
-  },
-  {
-    "time": "23:10",
-    "quoteFirst": "She came about ",
-    "quoteTime": "ten minutes past eleven",
-    "quoteLast": ", with many expressions of regret at having kept me waiting. The timepiece at the house of her friend had broken its mainspring, or something of the sort, and with the carelessness of a woman she had forgotten to wind her watch the evening before.",
-    "title": "A New Sensation",
-    "author": "Ross, Albert, 1851-1916",
-    "gutenbergReference": "40937",
-    "matchType": 1,
-    "hash": "bad9565fa19d24a339f34af6cf40aca8a4cf29d22f67444ad83c2272f6f8f5b4"
-  },
-  {
-    "time": "23:10",
-    "quoteFirst": "\"Same time--",
-    "quoteTime": "ten minutes past eleven",
-    "quoteLast": "?\"",
-    "title": "The Reminiscences of Sir Henry Hawkins (Baron Brampton)",
-    "author": "Brampton, Henry Hawkins, Baron, 1817-1907; Harris, Richard, 1833-1906 [Editor]",
-    "gutenbergReference": "10392",
-    "matchType": 1,
-    "hash": "63a96e57754aef79d2376443986518c163ab9d85bd05ad42d1483d1a9157ddb2"
+    "hash": "70b9efda2faf31af6808606abe24c510c2fb6acd7ba7ca3cb53646448904ee00"
   },
   {
     "time": "23:10",
@@ -89,14 +23,25 @@
   },
   {
     "time": "23:10",
-    "quoteFirst": "On the 11th of May 1901, at ",
+    "quoteFirst": "At ",
     "quoteTime": "11.10 P.M.",
-    "quoteLast": ", Mrs. Verrall wrote as follows:",
-    "title": "Gleanings from Maeterlinck",
-    "author": "Maeterlinck, Maurice, 1862-1949; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
-    "gutenbergReference": "67625",
+    "quoteLast": ", the fleet then moving at a speed scarcely exceeding the drift of the current, a musketry fire began from the upper batteries of the enemy. At 11.16 the great guns began, slowly at first, but soon more rapidly.",
+    "title": "The Gulf and Inland Waters\nThe Navy in the Civil War. Volume 3.",
+    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+    "gutenbergReference": "21562",
     "matchType": 2,
-    "hash": "49b4b8b2084057b2329cdaaadc38a0e20761a9278735a920d7c4cb0d381f5eac"
+    "hash": "2274382a0b4bc8391075b48dfab9d86d377c8642112fc37ede4c01f7e2c4a3bd"
+  },
+  {
+    "time": "23:10",
+    "quoteFirst": "The real facts on which this incident is founded were, that the horse (not mare) remained in the Post Office yard quietly from ",
+    "quoteTime": "11.10 p.m.",
+    "quoteLast": "",
+    "title": "The Bristol Royal Mail: Post, Telegraph, and Telephone",
+    "author": "Tombs, Robert Charles, 1842-1923",
+    "gutenbergReference": "34197",
+    "matchType": 2,
+    "hash": "ea99398cd19ff8d78397055c0d919d639f27f9d762e964295ac7cbd95a3fccf1"
   },
   {
     "time": "23:10",
@@ -111,25 +56,14 @@
   },
   {
     "time": "23:10",
-    "quoteFirst": "The thing is very extraordinary. Where did the girl go? She walked out of the hotel, fully dressed, about ",
-    "quoteTime": "ten minutes past eleven",
-    "quoteLast": ", and she was never seen again. The idea of suicide seems impossible. She was one of those energetic young women who are in love with life, and have not the faintest intention of quitting it.",
-    "title": "The Man in the Brown Suit",
-    "author": "Christie, Agatha, 1890-1976",
-    "gutenbergReference": "61168",
-    "matchType": 1,
-    "hash": "d02a3bea5461815f8fd701a74c012c312c6d4b03c6f6dcd495f12b5c6c7f3afe"
-  },
-  {
-    "time": "23:10",
-    "quoteFirst": "I went down the street to my car and started the engine and kept it going to be ready while I watched. ",
-    "quoteTime": "Ten minutes past eleven",
-    "quoteLast": ", I saw a light in Win Scofield’s garage; a black car came out and a girl got into it. I waited until it was in the street and then, stepping on my gas, I charged up the road and gave that black car all I had.",
-    "title": "Keeban",
-    "author": "Balmer, Edwin, 1883-1959",
-    "gutenbergReference": "66114",
-    "matchType": 1,
-    "hash": "542ca596d4f17527022130e7fb7d4fd97a5f539999b28afedf3785b582837b27"
+    "quoteFirst": "Do. Sat'days do. ",
+    "quoteTime": "11.10 p.m.",
+    "quoteLast": "         Do. Sat'days do. 10.50 p.m.",
+    "title": "All about Battersea",
+    "author": "Simmonds, Henry S.",
+    "gutenbergReference": "55045",
+    "matchType": 2,
+    "hash": "d1c00a2ed26660d9d86e02b27dcb96417b6f6acca628978ddd31f3b48db334a7"
   },
   {
     "time": "23:10",
@@ -144,58 +78,80 @@
   },
   {
     "time": "23:10",
-    "quoteFirst": "At ",
+    "quoteFirst": "\"It's ",
     "quoteTime": "ten minutes past eleven",
-    "quoteLast": ", our Light Cavalry brigade advanced.",
-    "title": "The battles of the world",
-    "author": "Borthwick, J. Douglas (John Douglas), 1831-1912",
-    "gutenbergReference": "60652",
+    "quoteLast": "!\" somebody yelled.",
+    "title": "We Were There at the Oklahoma Land Run",
+    "author": "Kjelgaard, Jim, 1910-1959; Kenyon, Chris A. [Illustrator]; Lottinville, Savoie, 1906-1997 [Other]",
+    "gutenbergReference": "34720",
     "matchType": 1,
-    "hash": "ed11de306cf005068e608b89afca3e9b55eb17264efcf42fdf3acf5338b3d1c3"
+    "hash": "1f03c0e1be81f999fa6e06d2a69df952fbf6d6eee15e5adaf52a7ff7736529c1"
   },
   {
     "time": "23:10",
-    "quoteFirst": "“",
-    "quoteTime": "Ten minutes past eleven",
-    "quoteLast": "!—damnation! damnation!” suddenly exclaimed Auguste, who never swore.",
-    "title": "Piping hot! (Pot-bouille)",
-    "author": "Zola, Émile, 1840-1902; Moore, George, 1852-1933 [Author of introduction, etc.]; Bellenger, Georges, 1847-1918 [Illustrator]",
-    "gutenbergReference": "54686",
+    "quoteFirst": "",
+    "quoteTime": "Ten minutes after eleven",
+    "quoteLast": "!",
+    "title": "A Woman Intervenes",
+    "author": "Barr, Robert, 1850-1912",
+    "gutenbergReference": "9379",
     "matchType": 1,
-    "hash": "137393533222bd05a1ca62dea5bf127229c984a0d898f928261486e005f8843d"
+    "hash": "f41114a91cb041ec63598a10fe0d71deec43a6891ab4041869b3226a57b3f3a8"
   },
   {
     "time": "23:10",
-    "quoteFirst": "Her guess regarding their speedy arrival at the bus stand was an accurate one. It was precisely ",
+    "quoteFirst": "This took place at ",
     "quoteTime": "ten minutes past eleven",
-    "quoteLast": " when Robin brought the car to a stop before the drug store. The rain was still driving down in misty sheets as the trio emerged from the automobile and made a frantic dash across the sidewalk to the shelter of the drug store.",
-    "title": "Marjorie Dean, Marvelous Manager",
-    "author": "Chase, Josephine, -1931",
-    "gutenbergReference": "53213",
+    "quoteLast": ". When he awoke again dawn was breaking and Otter was calling to him in a loud, hoarse voice.",
+    "title": "The People of the Mist",
+    "author": "Haggard, H. Rider (Henry Rider), 1856-1925",
+    "gutenbergReference": "6769",
     "matchType": 1,
-    "hash": "134dd22a83abc4a2286c6f021e41bcb0bacafb5d7677d708ae8a3f7ab3c4abbc"
+    "hash": "c78919fe3bc2e554fd8c6982e5e39d1bbd8e9d403facf98aa4f1fc5da3371966"
   },
   {
     "time": "23:10",
-    "quoteFirst": "On the 11th at eleven o'clock in the morning we struck soundings on a bank in twelve to fourteen fathoms water and at ",
-    "quoteTime": "ten minutes after eleven",
-    "quoteLast": " had no ground in one hundred and forty fathoms. No land was then in sight, nor did we get any soundings after in the course of the day.",
-    "title": "Voyage of H.M.S. 'Pandora'",
-    "author": "Edwards, Edward, 1728-1815; Hamilton, George, surgeon; Thomson, Basil, 1861-1939 [Commentator]",
-    "gutenbergReference": "22834",
-    "matchType": 1,
-    "hash": "2debaa5bdb7fb8d7df9ccd6ff52d4b070089374d0307e9003aeb2aa69cf4930f"
-  },
-  {
-    "time": "23:10",
-    "quoteFirst": "These sandwiches, the assistants’ usual supper, were supplied by a small shop a few doors off at twopence each. The soldier rolled in; silently, rapidly, took off his clothes and threw himself into bed. At ",
+    "quoteFirst": "Do Craye drew out his watch. The time was ",
     "quoteTime": "ten minutes past eleven",
-    "quoteLast": " the gas gave a big jump and five minutes later went out. The soldier went to sleep, but the others crowded round the big window in their pyjamas and night-shirts and, throwing remains of their sandwiches at the women who passed in the street below, shouted to them facetious remarks.",
-    "title": "Of Human Bondage",
-    "author": "Maugham, W. Somerset (William Somerset), 1874-1965",
-    "gutenbergReference": "351",
+    "quoteLast": ". If the surmise he had distantly spied was correct, Miss Middleton would have been caught in the storm midway to her destination. By his guess at her character (knowledge of it, he would have said), he judged that no storm would daunt her on a predetermined expedition.",
+    "title": "Complete Project Gutenberg Works of George Meredith",
+    "author": "Meredith, George, 1828-1909",
+    "gutenbergReference": "4500",
     "matchType": 1,
-    "hash": "2315812a43e56036da1c9cb7a63c2dea16f977fc4a6e37ccedd2e1c8373b2c7d"
+    "hash": "0c0aa6bc6a32e8cd61ee58bd13847ce3a09cf3d57e306352258230d239859cca"
+  },
+  {
+    "time": "23:10",
+    "quoteFirst": "",
+    "quoteTime": "Ten minutes after eleven",
+    "quoteLast": "—just one hour plus forty-five seconds to wait! His thoughts flew back to his home in the great city beyond the sea.",
+    "title": "Time Telling through the Ages",
+    "author": "Brearley, Harry Chase, 1870-1940",
+    "gutenbergReference": "47928",
+    "matchType": 1,
+    "hash": "c1953bdd7dd9a84abb2e94404a713617b8258406fe7d8dd0560a31c4971ec458"
+  },
+  {
+    "time": "23:10",
+    "quoteFirst": "",
+    "quoteTime": "11.10p.m.",
+    "quoteLast": "29.46 90     -     -     -3     At Wady el-Kubbah, under tree.",
+    "title": "The Land of Midian (Revisited) — Volume 2",
+    "author": "Burton, Richard Francis, Sir, 1821-1890",
+    "gutenbergReference": "7113",
+    "matchType": 2,
+    "hash": "2dcb4eb51105767ef2e4fd5dee2aa006b66e0c2b03f23bd75fdf866878a57d18"
+  },
+  {
+    "time": "23:10",
+    "quoteFirst": "\"It's ",
+    "quoteTime": "ten minutes past eleven",
+    "quoteLast": "!\" somebody yelled.",
+    "title": "We Were There at the Oklahoma Land Run",
+    "author": "Kjelgaard, Jim, 1910-1959; Kenyon, Chris A. [Illustrator]; Lottinville, Savoie, 1906-1997 [Other]",
+    "gutenbergReference": "34720",
+    "matchType": 1,
+    "hash": "1f03c0e1be81f999fa6e06d2a69df952fbf6d6eee15e5adaf52a7ff7736529c1"
   },
   {
     "time": "23:10",
@@ -210,13 +166,57 @@
   },
   {
     "time": "23:10",
-    "quoteFirst": "Or perhaps she had arrived just before he died. Such were his stammered comments. And he repeated a score of times that she had taken the train at ",
+    "quoteFirst": "She rightly conjectured that, after the affair of the store-cupboard in the garden-room, there could be nothing of lesser importance than \"the duel\" which could take that lady through those abhorred portals. Finally, at ",
     "quoteTime": "ten minutes past eleven",
-    "quoteLast": " and must have reached Batignolles about half-past twelve. As she had handed in the telegram at twenty minutes past one it seemed more likely that she had found the lad already dead.",
-    "title": "Fruitfulness",
-    "author": "Zola, Émile, 1840-1902; Vizetelly, Ernest Alfred, 1853-1922 [Translator]",
-    "gutenbergReference": "10330",
+    "quoteLast": ", Major Flint and Captain Puffin were seen by one or two fortunate people (the morning having cleared up) walking together to the tram, and, without exception, everybody knew that they were on their way to fight their duel in some remote hollow of the sand-dunes.",
+    "title": "Miss Mapp",
+    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
+    "gutenbergReference": "25919",
     "matchType": 1,
-    "hash": "123298dadb77e752e7e7fcea7a7f916f31ac9406a9117b0a17f483554eaef4a6"
+    "hash": "d130b0ad1647efe64a0636f90e6f99bf09ce79d3f215044fed9035764aff2ddd"
+  },
+  {
+    "time": "23:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past eleven",
+    "quoteLast": " our Light Cavalry Brigade advanced. The whole Brigade scarcely made one effective regiment, according to the numbers of continental armies; and yet it was more than we could spare. They swept proudly past, glittering in the morning sun in all the pride and splendour of war.",
+    "title": "The British Expedition to the Crimea",
+    "author": "Russell, William Howard, Sir, 1820-1907",
+    "gutenbergReference": "46242",
+    "matchType": 1,
+    "hash": "f2f523b85a649f206fdb1d0990342ccc50c87a3a322810ef26a150f749fd7a82"
+  },
+  {
+    "time": "23:10",
+    "quoteFirst": "Mr. JENNER. It is now ",
+    "quoteTime": "10 minutes after 11",
+    "quoteLast": " and we arrived here at 7:30 this evening. Mrs. Paine, again I express to you my personal appreciation of the length to which you have gone to be cooperative with me and with the Commission and with all of us undertaking this sometimes gruesome work.",
+    "title": "Warren Commission (09 of 26): Hearings Vol. IX (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44009",
+    "matchType": 1,
+    "hash": "2ccfd429eaf51a8013e52341a52de44e450d03eaef4ed9aea841f38ddcd6b14a"
+  },
+  {
+    "time": "23:10",
+    "quoteFirst": "On Saturday, Nov. 30, I arrived at Trier on a second-class ticket at about 10:30 P.M. There I bought a third-class ticket and boarded a train leaving about ",
+    "quoteTime": "11:10 P.M.",
+    "quoteLast": " and reached Luxemburg at about 12:15 A.M. I did not go into the railroad station, but, trusting to my papers, boarded a military train leaving at 12:45 A.M., going over Longwy to Longuyon, where I arrived at 3:30 A.M., Sunday.",
+    "title": "The New York Times Current History: the European War, February, 1915",
+    "author": "Various",
+    "gutenbergReference": "18880",
+    "matchType": 2,
+    "hash": "7f629ec0062fe5d355ddb8a3cdd52286c16ae99a9bf29fdf8ffa8bea654b58ee"
+  },
+  {
+    "time": "23:10",
+    "quoteFirst": "“",
+    "quoteTime": "Ten minutes past eleven",
+    "quoteLast": "!—damnation! damnation!” suddenly exclaimed Auguste, who never swore.",
+    "title": "Piping hot! (Pot-bouille)",
+    "author": "Zola, Émile, 1840-1902; Moore, George, 1852-1933 [Author of introduction, etc.]; Bellenger, Georges, 1847-1918 [Illustrator]",
+    "gutenbergReference": "54686",
+    "matchType": 1,
+    "hash": "137393533222bd05a1ca62dea5bf127229c984a0d898f928261486e005f8843d"
   }
 ]
