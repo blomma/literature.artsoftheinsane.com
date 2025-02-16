@@ -1,25 +1,80 @@
 [
   {
     "time": "01:03",
-    "quoteFirst": "One night he left Mercer's ",
-    "quoteTime": "about 1 a.m.",
-    "quoteLast": ", accompanied by another doctor.",
-    "title": "The Sinn Fein Rebellion as I Saw It.",
-    "author": "Norway, Hamilton, Mrs., -1932",
-    "gutenbergReference": "43470",
+    "quoteFirst": "“Say, boy!” cried Bennie. “This beats sleeping on old hemlock boughs, the way we have to at home, eh, Spider? Remember the way the boughs used to get all full of sticks ",
+    "quoteTime": "about one A. M.",
+    "quoteLast": " last summer?”",
+    "title": "Boy Scouts at Crater Lake\nA Story of Crater Lake National Park and the High Cascades",
+    "author": "Eaton, Walter Prichard, 1878-1957",
+    "gutenbergReference": "54536",
     "matchType": 0,
-    "hash": "5079209554adb9e500d3a085b44c83546f25637fb858c965e126d00385b315f6"
+    "hash": "de262a132a6c1caf43df54900c0c7d00ddbc82efdad5c21c942632b75153806f"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "Dawn came at ",
+    "quoteTime": "about 1 A.M.",
+    "quoteLast": " New York time and the temperature had risen until there was practically no remaining danger of sleet.",
+    "title": "\"We\"",
+    "author": "Lindbergh, Charles A. (Charles Augustus), 1902-1974; Herrick, Myron T. (Myron Timothy), 1854-1929 [Author of introduction, etc.]; Green, Fitzhugh, 1888-1947 [Contributor]",
+    "gutenbergReference": "73142",
+    "matchType": 0,
+    "hash": "1ffe62f0e02a9e0dfaa6ea1f0e30cee87aec4c972a9880ec9f47b2f55205932b"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "On the 9th they broke up, and retired from their position; and on the 10th they had re-crossed the Agueda without having accomplished the relief of Almeida. On the morning of the 11th, however, ",
+    "quoteTime": "about one o’clock A.M.",
+    "quoteLast": ", the garrison having blown up part of the fortifications, made their escape past the troops who had blockaded them, in consequence of the darkness of the night—some said the carelessness of the regiments on that duty. One regiment in particular was blamed, but the excuse might be more properly sought for in the masterly dispositions which the governor (General Brenier) had made, both for the escape of the garrison, and the subsequent retreat.",
+    "title": "Recollections of the eventful life of a soldier",
+    "author": "Donaldson, Joseph, 1793-1830",
+    "gutenbergReference": "70866",
+    "matchType": 0,
+    "hash": "60a85c2b6102adf378fd78664ea7235d67787b7c66ac54ffd98e5b0f603f6f40"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "The train arrived at Rugby at 11 o’clock, where the Duke of Sussex and his suite alighted, and proceeded by carriage to the place of his destination.  The directors remained at Rugby 10 minutes, and arrived at Birmingham ",
+    "quoteTime": "3 minutes past 1",
+    "quoteLast": "2, having performed the whole journey, including stoppages, in 4 hours 48 minutes, and, exclusive of stoppages, in 4 hours 14 minutes.  This is, unquestionably, the shortest time in which the journey from London to Birmingham has ever been performed, being upwards of two hours less than the time occupied by Marshal Soult and attendants a few weeks ago.",
+    "title": "Gossip in the First Decade of Victoria's Reign",
+    "author": "Ashton, John, 1834-1911",
+    "gutenbergReference": "30665",
+    "matchType": 1,
+    "hash": "2ad25cf7e070dbf35ca335b6da8d8c8e6c919cd946deeb48157e8b0ad2e34cc8"
   },
   {
     "time": "01:03",
     "quoteFirst": "",
-    "quoteTime": "About one o’clock that night",
-    "quoteLast": " three clear, sharp cries of an owl, wonderfully well imitated, echoed through the square. Pierrette heard them in her feverish sleep; she jumped up, moist with perspiration, opened her window, saw Brigaut, and flung down a ball of silk, to which he fastened a letter.",
-    "title": "Pierrette",
-    "author": "Balzac, Honoré de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
-    "gutenbergReference": "1704",
+    "quoteTime": "About 1 A.M.",
+    "quoteLast": " I was waked up by some one inquiring for Gen.",
+    "title": "Two Wars: An Autobiography of General Samuel G. French\r\nMexican War; War between the States, a Diary; Reconstruction Period, His Experience; Incidents, Reminiscences, etc.",
+    "author": "French, Samuel Gibbs, 1818-1910",
+    "gutenbergReference": "45603",
     "matchType": 0,
-    "hash": "c0f065645a2769e128f0ab358aee4fc2f8bc3b4e054d779fd229e981290bad95"
+    "hash": "6068c9c70327da4a55ed199a2d9563f600a6ab6858217979b8c1c724e1baa805"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "As the steamer was expected to get under weigh ",
+    "quoteTime": "about 1 a.m.",
+    "quoteLast": ", I started with my men a little before midnight. Upon this occasion the very elements seemed to favour our design.",
+    "title": "Ti-Ping Tien-Kwoh: The History of the Ti-Ping Revolution (Volume II)",
+    "author": "Lindley, Augustus F.",
+    "gutenbergReference": "39735",
+    "matchType": 0,
+    "hash": "dbff8cb7b197761c9bc823acc8980a137de7525c82805332713f6163ed766541"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "According to this account, ",
+    "quoteTime": "about one o’clock that night",
+    "quoteLast": " Mr. Watkins, filled with the responsibility of his position as acting division superintendent, had been making a round of the railroad buildings to see that every thing was all right. Near one of the car-shops he noticed a man evidently trying to conceal himself in its shadow. Mr.",
+    "title": "Under Orders: The story of a young reporter",
+    "author": "Munroe, Kirk, 1850-1930; Snyder, W. P. [Illustrator]",
+    "gutenbergReference": "49492",
+    "matchType": 0,
+    "hash": "bc1fc8b2ad5c776dbd0291b7f74a92194993c5630f0c6a0812e00e74908deaf7"
   },
   {
     "time": "01:03",
@@ -34,6 +89,17 @@
   },
   {
     "time": "01:03",
+    "quoteFirst": "Late on Wednesday afternoon once more the warning glass fell rapidly, and the breeze that had been fresh and steady suddenly dropped. Towards evening we were almost becalmed, little puffs of hot air only occasionally fanning us as the yacht rose slowly on the heaving sea. But ",
+    "quoteTime": "about one o'clock that night",
+    "quoteLast": ", the gale came upon us with all its force, preceded by an icy wind that seemed to freeze the ropes into bits of iron.",
+    "title": "Turkish Harems & Circassian Homes",
+    "author": "Hope, Andrée, -1898",
+    "gutenbergReference": "48737",
+    "matchType": 0,
+    "hash": "5dc97c5afc8acb12fcba98167511df1e3fc7f50cc052da8a23a5ef34641e3aee"
+  },
+  {
+    "time": "01:03",
     "quoteFirst": "For many days it seems his main hobby was in trying to make his bearer precede him through a door which did not exist at the foot of his bed. Another diversion was in seating himself on the window-sill stark naked ",
     "quoteTime": "about 1 a.m.",
     "quoteLast": " in the night and mimicking, often with ghastly relish, the sounds and noises of various members of the Turkish artillery from Windy Lizzie to Naughty Nellie, the buzzing howitzer. I believe he was quite good at the bullets, and very promising on Frolicsome Fanny, which was easy, and only required an awful noise without warning--for as I have noted Fanny's jokes sometimes held fire for minutes.",
@@ -45,6 +111,105 @@
   },
   {
     "time": "01:03",
+    "quoteFirst": "The heat was oppressive; clouds of dust filled the atmosphere, and almost choked the unfortunate victims exposed to its irritating influence; provisions were painfully scarce, and Colonel Weimam absolutely refused to sell or give a grain of barley to the traveller’s starving horses.  At last, ",
+    "quoteTime": "about one a.m.",
+    "quoteLast": " on the 14th of May, the Russian detachment marched out of camp, and struck to the westward, in the direction of Adam-Kurulgan and the Amu-Daria.  Mr. MacGahan and his men were on the alert.",
+    "title": "Some Heroes of Travel\r\nor, Chapters from the History of Geographical Discovery and Enterprise",
+    "author": "Adams, W. H. Davenport (William Henry Davenport), 1828-1891",
+    "gutenbergReference": "42749",
+    "matchType": 0,
+    "hash": "96359ab5270c8fbb9cfe3cfa045f840ec45fd9877c4fc569ab7517dbb06938e9"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "\"My father, Sir Willoughby Jones, died very suddenly of heart disease ",
+    "quoteTime": "about 1 A.M.",
+    "quoteLast": " on August 21st. He was not in his room at the moment, but was carried back to his room and restoratives applied, but in vain.",
+    "title": "Apparitions and thought-transference: an examination of the evidence for telepathy",
+    "author": "Podmore, Frank, 1856-1910",
+    "gutenbergReference": "56489",
+    "matchType": 0,
+    "hash": "be7fb24876d9a5fbd25da1763a3de723292ae7631d91e093621015502ec25728"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "\"Then our next chance to get back will be at ",
+    "quoteTime": "three minutes after one",
+    "quoteLast": ",\" nodded Vic. \"I wonder if there is any chance of--\"",
+    "title": "The Infra-Medians",
+    "author": "Wright, Sewell Peaslee, 1897-1970",
+    "gutenbergReference": "20838",
+    "matchType": 1,
+    "hash": "b5b3f174803ba3c68d7a8d60a44e6fa48b873e3e17219325c146ca22268b8b58"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "Tennyson died ",
+    "quoteTime": "about one o'clock a.m.",
+    "quoteLast": " A great and good light extinguished.",
+    "title": "Lady John Russell: A Memoir with Selections from Her Diaries and Correspondence",
+    "author": "MacCarthy, Desmond, 1877-1952 [Editor]; Harrison, Frederic, 1831-1923 [Contributor]; McCarthy, Justin, 1830-1912 [Contributor]; Russell, Agatha, lady, 1853- [Editor]",
+    "gutenbergReference": "10980",
+    "matchType": 0,
+    "hash": "7741b4884f0d7390dec86e76b295a45c29a2bfbee60649bf4b4da36e0e56d3a3"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "",
+    "quoteTime": "About 1 a.m.",
+    "quoteLast": " they sounded off quarters, having seen ships ahead. They let the ships get nearer, and then there began....",
+    "title": "From Libau to Tsushima\r\nA narrative of the voyage of Admiral Rojdestvensky's fleet to eastern seas, including a detailed account of the Dogger Bank incident",
+    "author": "Politovskii, Evgenii Sigizmundovich, 1874-1905; Godfrey, Frederick Rowlandson, 1867- [Translator]",
+    "gutenbergReference": "49735",
+    "matchType": 0,
+    "hash": "8689ee2402575dfc8b9b7694482a9c804e2d4ae92bba2b998f0b201b45723f1b"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "There was a fine specimen of a British working man, who for six days of the week was a credit to his country; clean, punctual, honest, and hard working. But on Saturday night he invariably got partially drunk, and after eleven P.M. amused himself until ",
+    "quoteTime": "about 1 A.M.",
+    "quoteLast": " by stamping heavily up and down stairs, along the passage, past my door, out of the front door, slamming it behind him with great violence, immediately re-entering and repeating the performance, and all the time uttering the most bloodthirsty and blasphemous threats against me.",
+    "title": "Confessions of a Tradesman",
+    "author": "Bullen, Frank Thomas, 1857-1915",
+    "gutenbergReference": "63556",
+    "matchType": 0,
+    "hash": "136dca25468d4e9ce540b13f46fc8fd55c5b5f3dceae1bcb0a72b2202aad854c"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "",
+    "quoteTime": "About one at night",
+    "quoteLast": " the cavalry returned, reporting the road occupied in force by the enemy, with whose advance-guard they skirmished, driving them back--about a mile, taking two prisoners, and having their chief guide, Thomas Maxwell, Esq., and three men of the Fourth Illinois wounded.",
+    "title": "Memoirs of General W. T. Sherman, Volume I., Part 2",
+    "author": "Sherman, William T. (William Tecumseh), 1820-1891",
+    "gutenbergReference": "5851",
+    "matchType": 0,
+    "hash": "f7165830c0431b3861b237b2ade2ad983e07a8241651da8d247be9f9bb6ad91d"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "If the rays of light are evenly divided north and south of the line between the observer and the radiating point, and continue so till they have faded out, the cloud is approaching. A few years since the writer, becoming interested in an exhibition of this phenomena, sat up to watch the results of his calculations. ",
+    "quoteTime": "About 1 a. m.",
+    "quoteLast": " the storm (a moderate cyclone) reached the Mississippi River, about five miles north of his residence, having, according to telegraphic reports, crossed the State of Iowa in five hours and a half. When “heat lightning” is visible you may be sure that there is a storm-cloud in the same direction, though you may neither see it nor hear the thunder.",
+    "title": "The inter ocean curiosity shop for the year 1883",
+    "author": "Various; Jones, William P. [Editor]",
+    "gutenbergReference": "70718",
+    "matchType": 0,
+    "hash": "9187a26bdd693b2ddb6f11ba8ccb4bc5a4352123eb9cd037aa604dcc6e2bfcec"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "At ",
+    "quoteTime": "about one that night",
+    "quoteLast": " Caleb Morton reached the cottage breathless with running, and before a word was spoken between them, Anastasia had fallen on his shoulder and had fainted. As soon as she was in the arms of her lover, all her power had gone from her.",
+    "title": "Tales of All Countries",
+    "author": "Trollope, Anthony, 1815-1882",
+    "gutenbergReference": "55147",
+    "matchType": 0,
+    "hash": "8792dc7a671776f430114e2d9ae9c64679bc4943729a3fb38c9a5c9506e91536"
+  },
+  {
+    "time": "01:03",
     "quoteFirst": "The next minute the lamp was alight again. The occupants of the room looked at their watches; it was ",
     "quoteTime": "about 1 A.M.",
     "quoteLast": " The next night they sat up again and one of them with a revolver. At about one in the morning this particular individual pointed his revolver at one of the windows.",
@@ -53,170 +218,5 @@
     "gutenbergReference": "17113",
     "matchType": 0,
     "hash": "c1df04f4bf1a8aadfd43af888e7600b93db259acfe3ef88f2dbaff515b7664c7"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "On that day, we guarded artillery from attacks. Late at night, we marched to what was known as the \"rail barricade,\" on the extreme right of the Union army, arriving ",
-    "quoteTime": "about 1 a. m.",
-    "quoteLast": " The General had told me I would find two regiments of our troops there. What I did find there was nothing but a picket of sixteen Irishmen and a sergeant, posted in a clump of small trees at the right end of a steep and very high hill, quite level on top, which seemed to extend a great way to the left.",
-    "title": "History of the Fifty-Seventh Regiment, Pennsylvania Veteran Volunteer Infantry\r\nFirst Brigade, First Division, Third Corps and Second Brigade, Third Division, Second Corps, Army of the Potomac",
-    "author": "Various",
-    "gutenbergReference": "58315",
-    "matchType": 0,
-    "hash": "47fc785a77b0650f5c7893870d0022434eda826856d53bd08b0e05379b362be8"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "After satisfying the inner man, we strolled into the lounge or writing-room, which we found most convenient and pleasant—writing material, newspapers and bills of concerts, plays, etc.; also, here I could enjoy my pull at the weed.  We were not late in retiring to rest; rest we could, but not sleep for a time; I thought, O! restless Paris!  The only time that is quiet from tram, ’bus and cab seems to be from ",
-    "quoteTime": "about 1 a.m.",
-    "quoteLast": " to 3 a.m.; after this early hour, wagons begin to lumber past, farmers from the country, I think, with produce which must be in the market early.  We slept, however, a few hours, rising fairly early for dejeuner, we were able to enjoy a cup of coffee made in Paris; coffee here is perfect; roll and butter, fish, eggs, etc.",
-    "title": "From the Thames to the Tiber\nor, My visit to Paris, Rome, Florence, Venice, Milan, Switzerland, etc.",
-    "author": "Wardle, Joseph",
-    "gutenbergReference": "38183",
-    "matchType": 0,
-    "hash": "5cf25a078a0469d7917873443557c7c796a1d71bc69fde3cc25d92d43c859726"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "had to propose \"The Sisters,\" and after a few trembling, solemn words about \"we all know the good work they do,\" he suddenly giggled hopelessly, and it ended in a healthy splodge all round. Orders just come to be at St Omer by 10 P.M. If that means loading-up further on ",
-    "quoteTime": "about 1 A.M.",
-    "quoteLast": " I think we shall all die! Too noisy here to sleep this afternoon. And the men are just now so merry with Tipperary, and dressing up, that they will surely drop the patients off the stretchers, but we'll hope for the best.",
-    "title": "Diary of a Nursing Sister on the Western Front, 1914-1915",
-    "author": "Anonymous",
-    "gutenbergReference": "18910",
-    "matchType": 0,
-    "hash": "3e6fb430640624ab29a6e64c94ebc021d2f3832ed47ea7165c8c9b6a69be97f4"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "At the end of the second day I felt I must make an effort to move on, and therefore called John and the camel-men to my couch upon the sand, and bade them prepare to start at midnight, even if it was found necessary to rope me to my camel so that I should not collapse and fall to the ground from weakness. This resolution was carried out, and ",
-    "quoteTime": "about 1 a.m.",
-    "quoteLast": " the caravan was _en route_ under the blessed coolness of the night, and aided by the light of the moon, which rose about the time the men commenced to load up the camels.",
-    "title": "Exploration of Aïr",
-    "author": "Buchanan, Angus, 1886-1954",
-    "gutenbergReference": "70323",
-    "matchType": 0,
-    "hash": "5dca82f2975b43bab1b06af78982d84fb090cf3a74aa8b862df70b6423d05a7f"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "One little incident I remember at this spot. ",
-    "quoteTime": "About 1 A.M.",
-    "quoteLast": " an elderly R.E. officer came into our shelter, and told us in a voice shaking with joyful emotion that he had just blown up a German counter-mine which had been threatening our mine galleries at Hill 60.",
-    "title": "Q.6.a and Other places: Recollections of 1916, 1917 and 1918",
-    "author": "Buckley, Francis, 1881-1949",
-    "gutenbergReference": "25528",
-    "matchType": 0,
-    "hash": "7f6cdd1c994744096a374c667dcf398ea434327239157957cd87148c9f99175e"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "Reaching the little houses in their lonely crossway, we were startled by the appearance of a gutted house; the walls alone having remained to present to us, on the higher ground, the semblance of a white cottage. The old thatch, fallen in, and timber, were still smouldering visibly, though the house was fired ",
-    "quoteTime": "about one A.M.",
-    "quoteLast": " yesterday morning.",
-    "title": "Blackwood's Edinburgh Magazine - Volume 54, No. 338, December 1843",
-    "author": "Various",
-    "gutenbergReference": "25193",
-    "matchType": 0,
-    "hash": "d1a31638469e418b903e7b5527a69992b3fed2e06c267e3e8848c556010ca6b5"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "There are some gardens sloping down the hill. I found an old sort of summer-house in one of these and went to sleep. It was ",
-    "quoteTime": "about 1 a.m.",
-    "quoteLast": ", and none too warm.",
-    "title": "The Tunnellers of Holzminden (with a side-issue)",
-    "author": "Durnford, H. G. (Hugh George)",
-    "gutenbergReference": "52308",
-    "matchType": 0,
-    "hash": "b695119999abe198d2e70178d665ce8201a2c11d419f386ff119d9ad298fd5cb"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "I was on guard that night, and my post was at the gangway, with instructions to prevent, at all hazards, any attempt of prisoners to go ashore. ",
-    "quoteTime": "About 1 o'clock at night",
-    "quoteLast": " a rebel Captain stepped up to me, and addressing me by name, said, \"How are you?\"",
-    "title": "Four Years a Scout and Spy\r\n\"General Bunker\", One of Lieut. General Grant's Most Daring and Successful Scouts, Being a Narrative of ... the Experience of Corporal Ruggles During Four Years' Service as a Scout and Spy for the Federal Army",
-    "author": "Downs, E. C. (Edward C.)",
-    "gutenbergReference": "38948",
-    "matchType": 0,
-    "hash": "e53b2fe82dccaf45b0af8427e0b066ba370406e514773c807141e26ae48e2490"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "",
-    "quoteTime": "About 1 A.M.",
-    "quoteLast": " we came to a railroad track and after looking carefully in case there should be a sentry on guard, we crossed and came up on a carefully graded road.  It was difficult travelling this night because, owing to the clouds, we had to depend entirely on our compass.",
-    "title": "Into the Jaws of Death",
-    "author": "O'Brien, Jack",
-    "gutenbergReference": "18963",
-    "matchType": 0,
-    "hash": "40bad09fffa32ef8e408df4c8d6d57fc67eb715f412716004a7ade38817b9f55"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "February 23rd, at ",
-    "quoteTime": "about 1 A.M.",
-    "quoteLast": "; at which time the tide-gauge at Genoa recorded some abnormal oscillations. An hour later, a more important, though by no means a strong, shock occurred; this was perceptible all over the Riviera, in Piedmont, and in Corsica; in other words, it disturbed a region agreeing closely with the central area of the disastrous shock. At about 5 A.M., a fifth shock, somewhat weaker than the preceding, was felt over the same area, concurrently, or nearly so, with another abnormal oscillation of the tide-gauge at Genoa; while a sixth shock was noticed at several places a few minutes",
-    "title": "A Study of Recent Earthquakes",
-    "author": "Davison, Charles, 1858-1940",
-    "gutenbergReference": "25062",
-    "matchType": 0,
-    "hash": "8530c77133cc159ea58cc2ed19fd5f81d2d1bfe4d717344d31469d3eeb46a5a7"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "She raised her voice.  \"You see, Madame Zattiany, I was running round loose at ",
-    "quoteTime": "about one o'clock A. M.",
-    "quoteLast": " when whom should I run into but dear old Uncle Lee.  He looked all shot to pieces when he saw me.  Girls in his day didn't stay out late unless they had a beau.",
-    "title": "Black Oxen",
-    "author": "Atherton, Gertrude Franklin Horn, 1857-1948",
-    "gutenbergReference": "25542",
-    "matchType": 0,
-    "hash": "1c3a089a8c879d23ca5f1104a219ad0eb9f84eba62ebcf23b5e815232cff6285"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "Lieutenant Moore, hearing in hospital word of this impending attack, rejoined us. The Battalion marched off at 6 p.m., and relief was completed in the trenches ",
-    "quoteTime": "about 1 a.m.",
-    "quoteLast": " This time we took over the fire and support trenches from the 1/6th Black Watch. We found the trenches very much drier than when we left them. There was some shelling at the time of relief.",
-    "title": "The War History of the 1st/4th Battalion, the Loyal North Lancashire Regiment\nnow the Loyal Regiment (North Lancashire), 1914-1918",
-    "author": "Anonymous",
-    "gutenbergReference": "65369",
-    "matchType": 0,
-    "hash": "9ee64d5878f4825e3d0c6f13d5bf2773c141976b739e159b6242925154a804ec"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "Here the river has worn a narrow channel into the upper edge of a rock-stream, forming a deep pool, in which iris and long aquatic grasses flourish. The light here was much better, and I rapidly reduced my experienced companion’s lead in captures. At ",
-    "quoteTime": "about one a.m.",
-    "quoteLast": "",
-    "title": "In Lakeland Dells and Fells",
-    "author": "Palmer, William T., 1877-1954",
-    "gutenbergReference": "62607",
-    "matchType": 0,
-    "hash": "85981b7d6eeef8c036353f78de771aa7d3d23935cf0049cc18bd8d45779eadaa"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "Alas, though, it had to end. ",
-    "quoteTime": "About one A.M.",
-    "quoteLast": " we geared up. She retrieved her coat; I banked the fire; and we straggled out into the sleet. After finally managing a cab, we headed uptown.",
-    "title": "The Samurai Strategy",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34323",
-    "matchType": 0,
-    "hash": "510346739ff187e0efcdb283d5f54bf2bcf68f345278e751f23e8883f42e681a"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "Not long were we to rest. Our ears were soon assailed with--'_Attention, First brigade!_' and we were soon in line, and moving around to the right, to the support of Hooker and Sumner, where we arrived ",
-    "quoteTime": "about one A.M.",
-    "quoteLast": ", and bivouacked upon the ground held by the rebels scarce six hours previous. An occasional shot or volley, in an adjoining piece of woods, reminded us of the close proximity of the enemy.",
-    "title": "The Seventh Regiment: A Record",
-    "author": "Wood, George L., 1837-1867",
-    "gutenbergReference": "44783",
-    "matchType": 0,
-    "hash": "5df95048bb1e762945634a5809b697b07f2bf9f4fa5fb005a59e424b6c52be32"
   }
 ]

@@ -1,69 +1,58 @@
 [
   {
     "time": "12:20",
-    "quoteFirst": "The Lord of Imola, possessing, as he had stipulated, what was then called high and low justice, sat upon the raised seat at the end of the hall, and by his side appeared the young Prefect of Romagna, whom he had asked to assist him by his advice in a case which seemed to present some difficulties. The hour was about ",
-    "quoteTime": "twenty minutes after noon",
-    "quoteLast": ", and the testimony had all been taken.",
-    "title": "Leonora D'Orco: A Historical Romance",
-    "author": "James, G. P. R. (George Payne Rainsford), 1801?-1860",
-    "gutenbergReference": "50964",
-    "matchType": 0,
-    "hash": "5664ca52afd9c6d111d2fa177c07a39b6985b4df0dc76bbfdb3ebd9acd06bbed"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "So I tidyed my house in a rough kind o' way, and then I looked at that very clock up yonder,\" pointing at one that hung against the wall, \"and I seed it were nine o'clock, so, thinks I, th' potatoes shall be well boiled at any rate, and I gets 'em on th' fire in a jiffy (that's to say, as soon as I could peel 'em, which were a tough job at first), and then I fell to unpacking my boxes! and at ",
-    "quoteTime": "twenty minutes past twelve",
-    "quoteLast": " he comes home, and I had th' beef ready on th' table, and I went to take the potatoes out o' th' pot; but oh! Mary, th' water had boiled away, and they were all a nasty brown mass, as smelt through all the house. He said nought, and were very gentle; but, oh, Mary, I cried so that afternoon.",
-    "title": "Mary Barton",
-    "author": "Gaskell, Elizabeth Cleghorn, 1810-1865",
-    "gutenbergReference": "2153",
-    "matchType": 1,
-    "hash": "b4ec87b98f2112b9ddee4ea4db57c646700521a73d7307da724f09ae3fd85b00"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "At about ",
-    "quoteTime": "twenty minutes past twelve",
-    "quoteLast": " I heard a low voice calling to me at the window. This I had left open, so that there might be a means of communication if anyone could get to the other side.",
-    "title": "A Modern Legionary",
-    "author": "Le Poer, John Patrick",
-    "gutenbergReference": "59084",
-    "matchType": 1,
-    "hash": "ddab181c4b5a7080a087c687877483e3ec1218f731fe7e969a52f4478148e1e4"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "But all of this took time and it was quite long before he was able to rejoin his leading ships. By ",
-    "quoteTime": "twenty minutes past twelve",
-    "quoteLast": " he had got aboard the _Princess Royal_.",
-    "title": "The Story of the Great War, Volume III (of 12)\nThe War Begins, Invasion of Belgium, Battle of the Marne",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
-    "gutenbergReference": "18213",
-    "matchType": 1,
-    "hash": "a12781fa1e705746d899c4cf663f713dbc62db0f8d1f1026485b553b4ae783b5"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "Standing towards the enemy’s van with all sail set. At 4 minutes past 12, opened our fire on the enemy’s van in keeping down their line. At ",
-    "quoteTime": "20 minutes past 12",
-    "quoteLast": ", in attempting to pass through the enemy’s line, we fell on board of the 10th and 11th ships, when the action became general. About 1.15, the Right Honourable Lord Viscount Nelson, K.B., and Commander-in-Chief was wounded in the shoulder.",
-    "title": "Champions of the fleet",
-    "author": "Fraser, Edward",
-    "gutenbergReference": "65978",
-    "matchType": 1,
-    "hash": "5009e4271f2a24b91acceb66a093801afa21b30d3a42cd269554bc545928667c"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "Saturday, January 5, 1889-",
-    "quoteTime": "12.20 P.M.",
-    "quoteLast": " At this moment I have seen a line of movable type spaced and justified by machinery! This is the first time in the history of the world that this amazing thing has ever been done. Present: J. W.",
-    "title": "Mark Twain: A Biography. Complete",
-    "author": "Paine, Albert Bigelow, 1861-1937",
-    "gutenbergReference": "2988",
+    "quoteFirst": "At noon it seems suddenly to have occurred to Alec in Birmingham to try for a correspondence test; so he motored up from his office, extracted some sisters from the Lady Mayoress's Depot, where they were making surgical bandages, and took them to Mariemont for a brief table sitting. It lasted about ten minutes, between 12.10 and ",
+    "quoteTime": "12.20 p.m.",
+    "quoteLast": " And the test which he then and there suggested was to ask Raymond to get Feda in London to say the word \"Honolulu.\" This task, I am told, was vigorously accepted and acquiesced in.",
+    "title": "Raymond; or, Life and Death\r\nWith examples of the evidence for survival of memory and affection after death.",
+    "author": "Lodge, Oliver, Sir, 1851-1940",
+    "gutenbergReference": "51086",
     "matchType": 2,
-    "hash": "546198d6fcbce9e73de4b7cfb312e5ea91114ac1604f365fdf62742def0f45cc"
+    "hash": "3a5a429e630d9644465a8f09331a15bcf65bff7df24a6421a2da0f00f5e21fdc"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "Permission was also given to the _Penelope_ to fire at the rifled guns in the batteries with her 40-pounders. At ",
+    "quoteTime": "12.20 p.m.",
+    "quoteLast": " the _Monarch_ ceased firing, signalling that she had driven about 200 soldiers out of the works. At 12.50 p.m. the _Penelope_ was ordered to get under way, and taking advantage of her light draught, to try to dismount the guns at Mex.",
+    "title": "The Egyptian campaigns, 1882 to 1885",
+    "author": "Royle, Charles, 1882-1936",
+    "gutenbergReference": "41744",
+    "matchType": 2,
+    "hash": "e28021e36cdd8a97c588d70a8c9ef5effffc10b76b9a73ea68290f53640baf07"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "",
+    "quoteTime": "12.20 p.m.",
+    "quoteLast": " 20.80   79    70        In dead calm. Sea oily, like mirror.",
+    "title": "The Land of Midian (Revisited) — Volume 2",
+    "author": "Burton, Richard Francis, Sir, 1821-1890",
+    "gutenbergReference": "7113",
+    "matchType": 2,
+    "hash": "73b718795d59adcff6083b3e8c1b4df501986fb9819cf589cf8dbb38c885c88e"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "The soil is a hard ironstone gravel and clay. Passing several dry beds of shallow lagoons, came to a small dry watercourse coming from the east; at ",
+    "quoteTime": "12.20 p.m.",
+    "quoteLast": "",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "matchType": 2,
+    "hash": "0906512bcc06693f8779ff533f522dab6b8ac5aa1fab6b1ced51b779d76f466e"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "The testimony of James L. Ritchie was taken at ",
+    "quoteTime": "12:20 p.m.",
+    "quoteLast": ", on June 17, 1964, at 200 Maryland Avenue NE., Washington, D.C., by Messrs. William T. Coleman, Jr., and W.",
+    "title": "Warren Commission (11 of 26): Hearings Vol. XI (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44011",
+    "matchType": 2,
+    "hash": "6bb2e24ca6c29eb4870e6f5de63eb45848683bb3e2f0bf8c27858257b920336e"
   },
   {
     "time": "12:20",
@@ -78,14 +67,146 @@
   },
   {
     "time": "12:20",
-    "quoteFirst": "Jarman at approximately ",
-    "quoteTime": "12:20 pm",
-    "quoteLast": ".[C3-43]",
+    "quoteFirst": "The testimony of Billy A. Rea was taken at ",
+    "quoteTime": "12:20 p.m.",
+    "quoteLast": ", on June 26, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Leon D. Hubert, Jr.",
+    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58030",
+    "matchType": 2,
+    "hash": "1de6301df03ee1e2dd121f2238abed917b4aa388c92640ec3e0ee740d4a9e2e0"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "At noon it seems suddenly to have occurred to Alec in Birmingham to try for a correspondence test; so he motored up from his office, extracted some sisters from the Lady Mayoress's Depot, where they were making surgical bandages, and took them to Mariemont for a brief table sitting. It lasted about ten minutes, between 12.10 and ",
+    "quoteTime": "12.20 p.m.",
+    "quoteLast": " And the test which he then and there suggested was to ask Raymond to get Feda in London to say the word \"Honolulu.\" This task, I am told, was vigorously accepted and acquiesced in.",
+    "title": "Raymond; or, Life and Death\r\nWith examples of the evidence for survival of memory and affection after death.",
+    "author": "Lodge, Oliver, Sir, 1851-1940",
+    "gutenbergReference": "51086",
+    "matchType": 2,
+    "hash": "3a5a429e630d9644465a8f09331a15bcf65bff7df24a6421a2da0f00f5e21fdc"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "Whatever the movements back and forth, or the absence of movement, by the Spanish ships during the night, at 7.10 A.M. the next day, May 12th, while Sampson's division was still engaged with the forts at San Juan, they were close to Martinique, \"four miles from Diamond Rock,\" a detached islet at its southern end. The next entry, the first for the sea-day of May 13th, is: \"At ",
+    "quoteTime": "12.20 P.M.",
+    "quoteLast": " lost sight of Martinique.\" As the land there is high enough to be visible forty or fifty miles under favorable conditions, and as the squadron on its way to Curaçao averaged 11 knots per hour, it seems reasonable to infer that the Spanish Admiral, having received news of the attack on San Juan, though possibly not of the result, had determined upon a hasty departure and a hurried run to the end of his journey, before he could be intercepted by Sampson, the original speed of whose ships was inferior to that of his own, and whom he knew to be hampered by",
+    "title": "Lessons of the war with Spain and other articles",
+    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+    "gutenbergReference": "28377",
+    "matchType": 2,
+    "hash": "03b70b8f8c69e2d5bcefc8452933d99343fcffb5bb5f259819c044f79a6b6fbd"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "Bus No. 5121, departing New Orleans at ",
+    "quoteTime": "12:20 p.m.",
+    "quoteLast": " on September 25, and scheduled to arrive in Houston at 10:50 p.m.; that bus is the only one on which Oswald could have left New Orleans after noon on September 25[A13-1126] and arrived in Houston before midnight.[A13-1127] Sometime in the evening he called the home of Horace Elroy Twiford, a member of the Socialist Labor Party who had received Oswald’s name from the party’s headquarters in New York and sent him a copy of its official publication, the “Weekly People.”[A13-1128] Mrs.",
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
     "matchType": 2,
-    "hash": "ab375496f985d4f0546ca9a0bf1318d6b127c4095ae02f7c22dda9aaf348b7bf"
+    "hash": "032c5d69f48896e9df070b93149a1a2c3801c57d669060f1a2e4045c02b745a8"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "Japanese to file across their bows. At ",
+    "quoteTime": "12.20 p.m.",
+    "quoteLast": " the _Chen-yuen_ and _Ting-yuen_ opened at 5800 yards on Tsuboi's squadron, which held its fire until at 3000 yards or closer it swung around the Chinese right wing.",
+    "title": "A History of Sea Power",
+    "author": "Stevens, William Oliver, 1878-1955; Westcott, Allan F. (Allan Ferguson), 1882-1953",
+    "gutenbergReference": "24797",
+    "matchType": 2,
+    "hash": "a145f83afdb8e21ce8120e28fec5553c69030928d21984493b169736bc12da22"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "(Whereupon, at ",
+    "quoteTime": "12:20 p.m.",
+    "quoteLast": ", the Commission recessed.)",
+    "title": "Warren Commission (03 of 26): Hearings Vol. III (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44003",
+    "matchType": 2,
+    "hash": "a0cc65767fc8041b181a2c20b8f58efc3a7137783ab0b0a7ffb3e996731bf104"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "She was growing nervous, wondering what she had better do, when he hove in sight walking quickly toward the house. A glance at her wrist watch told her it was ",
+    "quoteTime": "twenty minutes past twelve",
+    "quoteLast": "—Miss Maitland and Bébita might not be back for another half hour yet. She would chance it, for she was extremely anxious to see him, and anyway, if they should come in before he left, she could tell him to go into the drawing room and slip out after they had gone.",
+    "title": "Miss Maitland, Private Secretary",
+    "author": "Bonner, Geraldine, 1870-1930; Keller, Arthur Ignatius, 1866-1924 [Illustrator]",
+    "gutenbergReference": "35504",
+    "matchType": 1,
+    "hash": "02a38d7bbfdc875a2500b9df494352e796ca64fae746fde7d412cf8640339866"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "The execution of the plan was intrusted to general Wayne, and the troops employed on this service were chiefly from New England. At half-past eleven on the night of the 15th of July, the columns moved on to the charge at opposite points of the works, the van of each with unloaded muskets and fixed bayonets; and at ",
+    "quoteTime": "twenty minutes after twelve",
+    "quoteLast": " both columns rushed forward under a tremendous fire of musketry and grape-shot, entered the works at the point of the bayonet, and, arriving in the centre of them at nearly the same instant, compelled the garrison to surrender at discretion. A more gallant exploit has seldom been performed, and the humanity of the victors was equal to their valor.",
+    "title": "A Book of the United States\r\nExhibiting its geography, divisions, constitution, and government ... and presenting a view of the republic generally, and of the individual states; together with a condensed history of the land, from its first discovery to the present time. The biography of about two hundred of the leading men: a description of the principal cities and towns; with statistical tables",
+    "author": "Mellen, Grenville, 1799-1841 [Editor]",
+    "gutenbergReference": "58447",
+    "matchType": 1,
+    "hash": "8e6fec254bc378153e76253ce39fd06965b6f719b009aa48e919da6f61a14484"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "When she fell out of the line it was necessary for Admiral Beatty to leave her, and he transferred his flag to the destroyer _Attack_. But all of this took time and it was quite long before he was able to rejoin his leading ships. By ",
+    "quoteTime": "twenty minutes past twelve",
+    "quoteLast": " he had got aboard the _Princess Royal_.",
+    "title": "The Story of the Great War, Volume 2\r\nHistory of the European War from Official Sources",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
+    "gutenbergReference": "29270",
+    "matchType": 1,
+    "hash": "3739bbdf29f3cbf7e71b03a22151de7c24dd5b1a2d4d7972a2db1debee3b99d8"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "Permission was also given to the _Penelope_ to fire at the rifled guns in the batteries with her 40-pounders. At ",
+    "quoteTime": "12.20 p.m.",
+    "quoteLast": " the _Monarch_ ceased firing, signalling that she had driven about 200 soldiers out of the works. At 12.50 p.m. the _Penelope_ was ordered to get under way, and taking advantage of her light draught, to try to dismount the guns at Mex.",
+    "title": "The Egyptian campaigns, 1882 to 1885",
+    "author": "Royle, Charles, 1882-1936",
+    "gutenbergReference": "41744",
+    "matchType": 2,
+    "hash": "e28021e36cdd8a97c588d70a8c9ef5effffc10b76b9a73ea68290f53640baf07"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "“At ",
+    "quoteTime": "twenty minutes after twelve",
+    "quoteLast": " she opened her fire, and continued it for an hour and ten minutes. As I observed that the light breeze she had was destroyed by her firing, we did not return a gun,[13] but kept a steady course until we had brought the enemy to bear south, when we bore up north, leaving him the choice of yawing to continue his fire, or to confine it to his bow guns.",
+    "title": "Memoir of the Life and Services of Vice-Admiral Sir Jahleel Brenton, Baronet, K.C.B.",
+    "author": "Raikes, Henry, 1782-1854 [Editor]",
+    "gutenbergReference": "58746",
+    "matchType": 1,
+    "hash": "ca98ac39f6393872145ef145f6c02a11936cc44e7ffb51a6c7b225fece84e91e"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "I took my watch from my pocket. It was ",
+    "quoteTime": "twenty minutes past twelve",
+    "quoteLast": ". But how did he know it? He had been lying before me with his eyes closed and his ears apparently impervious to sound for about two hours. Twenty-five minutes later he remarked, \"It is a quarter to one.",
+    "title": "Lippincott's Magazine of Popular Literature and Science, Vol. 26, November, 1880",
+    "author": "Various",
+    "gutenbergReference": "51453",
+    "matchType": 1,
+    "hash": "7ead8308e65557bff4fc8802e8b595f0a56646a18db6d7bfc374c3a57ab652d1"
+  },
+  {
+    "time": "12:20",
+    "quoteFirst": "",
+    "quoteTime": "Twenty minutes past twelve",
+    "quoteLast": ".",
+    "title": "Mohawks: A Novel. Volume 3 of 3",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "41376",
+    "matchType": 1,
+    "hash": "969cfe8de50f62c8130940e2efbfcc2317f70c2913d183d33332ebe284913489"
   },
   {
     "time": "12:20",
@@ -97,126 +218,5 @@
     "gutenbergReference": "50320",
     "matchType": 2,
     "hash": "e01afcf55415731104a902bf9f3606badb1abbd01f6fb45f76cb702224740db4"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "Garnet also was to join the excursion and she promised to call for Winona, so that they might walk to the station together. The latter had an early lunch, and was ready dressed and waiting for her friend by ",
-    "quoteTime": "twenty minutes past twelve",
-    "quoteLast": ". Garnet's tram was late, and by the time she reached Abbey Close the clock pointed to the half-hour.",
-    "title": "The Luckiest Girl in the School",
-    "author": "Brazil, Angela, 1869-1947",
-    "gutenbergReference": "18019",
-    "matchType": 1,
-    "hash": "b75aee9e37b44510ee6cedb780a75ef370f230b5aaa5f4eae6372197c6fd6942"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "They were each preceded by a forlorn hope of twenty men, the one commanded by Lieutenant Gibbon, and the other by Lieutenant Knox. They reached the marsh undiscovered; and, at ",
-    "quoteTime": "twenty minutes after twelve",
-    "quoteLast": ", commenced the assault.",
-    "title": "The Life of George Washington, Vol. 3\r\nCommander in Chief of the American Forces During the War\r\nwhich Established the Independence of his Country and First\r\nPresident of the United States",
-    "author": "Marshall, John, 1755-1835",
-    "gutenbergReference": "18593",
-    "matchType": 1,
-    "hash": "560d8fa934e8f3768908f70f67e6acbfe17e24617046ea99cb5544bc4fe41cc8"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "Laine looked at his watch.  ",
-    "quoteTime": "Twenty minutes past twelve",
-    "quoteLast": ".  Christmas was over.  Two days after were over also, and in the morning most of the guests were going away.",
-    "title": "The Man in Lonely Land",
-    "author": "Bosher, Kate Langley, 1865-1932",
-    "gutenbergReference": "12971",
-    "matchType": 1,
-    "hash": "c06b83cfbc5c326b51ff1340bc13b39dfd12fc1acc0eab057d6ba89ea679b452"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "But all of this took time and it was quite long before he was able to rejoin his leading ships. By ",
-    "quoteTime": "twenty minutes past twelve",
-    "quoteLast": " he had got aboard the _Princess Royal_.",
-    "title": "The Story of the Great War, Volume III (of 12)\nThe War Begins, Invasion of Belgium, Battle of the Marne",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
-    "gutenbergReference": "18213",
-    "matchType": 1,
-    "hash": "a12781fa1e705746d899c4cf663f713dbc62db0f8d1f1026485b553b4ae783b5"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "\"The window is open, sir, and last night at ",
-    "quoteTime": "twenty minutes after twelve",
-    "quoteLast": " I locked it.  Mr. Cavendish came in at twelve and locking the window was the last thing I did before he told me I could go.\"",
-    "title": "The Strange Case of Cavendish",
-    "author": "Parrish, Randall, 1858-1923",
-    "gutenbergReference": "17647",
-    "matchType": 1,
-    "hash": "5c16bf164347ff3ee4d9d12b23496e5014d75d39f8e20b7a1ebaca871d0bd529"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "The guard was turned out and inspected by the officer of the day at about ",
-    "quoteTime": "12.20 P.M.",
-    "quoteLast": " After the inspection I retired, and was awakened between 1 and 2 P.M. by my junior, who then retired for the night.",
-    "title": "Henry Ossian Flipper, the Colored Cadet at West Point\r\nAutobiography of Lieut. Henry Ossian Flipper, U.S.A., First Graduate of Color from the U.S. Military Academy",
-    "author": "Flipper, Henry Ossian, 1856-1940",
-    "gutenbergReference": "2448",
-    "matchType": 2,
-    "hash": "4e49633e6afd27a0c5ae9b1e74b317ea92713729e58ea1a4d861be396bbb913f"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "I told him he always used to ring the bell for the warming-pan, and that it was for that purpose he had rung; and he said that I ought always to go and answer the bell first, to see what he wanted. He took off his clothes, and I came down stairs again with the warming-pan, and I waited there until about ",
-    "quoteTime": "twenty minutes past twelve",
-    "quoteLast": ". He rang again for me to warm his bed. He told me, rather crossly, that I should take more notice of what I was doing, and what he was telling me, and pay him more attention.",
-    "title": "The Chronicles of Crime or The New Newgate Calendar. v. 2/2\r\nbeing a series of memoirs and anecdotes of notorious characters who have outraged the laws of Great Britain from the earliest period to 1841",
-    "author": "Pelham, Camden; Browne, Hablot Knight, 1815-1882 [Illustrator]",
-    "gutenbergReference": "46595",
-    "matchType": 1,
-    "hash": "a36452b0764c28317c01c6e843cd0940277efa956aa6de57c23b5da6886f92cf"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "Witness. \"I asked him at what time on the previous night the prisoner returned home. He said at about ",
-    "quoteTime": "twenty minutes past twelve",
-    "quoteLast": ", and that the prisoner entered his house accompanied by a lady, opening the street door with his latch-key. I asked him if he had seen the prisoner since, and he replied that he had not.",
-    "title": "The Nine of Hearts: A Novel",
-    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
-    "gutenbergReference": "53085",
-    "matchType": 1,
-    "hash": "12e137a201c7f803c1a7916a403ed8f1d2d5622c7e59e2958a7c83ff2df2ec20"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "Just after the Supreme Court was seated the President and Justice Clifford rose, advanced toward each other, and cordially shook hands.  This made it ",
-    "quoteTime": "twenty minutes past twelve",
-    "quoteLast": ", and, as all were present, Major French, the Commissioner of Public Buildings, gave a signal, and the Marine Band performed, with impressive effect, the _Miserere_, from the opera \"Il Trovatore.\"  The Chaplain of the House, Rev. Dr.",
-    "title": "Perley's reminiscences of sixty years in the national metropolis, v. 1-2",
-    "author": "Poore, Benjamin Perley, 1820-1887",
-    "gutenbergReference": "20290",
-    "matchType": 1,
-    "hash": "287d80481f40945a49bd3b4b8d123ca27ceba627398ef6d22f1fee9d20ec846a"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "It is said to contain from three to four thousand inhabitants, who are chiefly occupied in fishing; haddocks and lobsters are very abundant in its immediate neighbourhood, which are taken in great numbers to the Hamburgh as well as the London markets. The island is said to be nearly a mile in length, and about half a mile in breadth, and now belongs to the British government. At ",
-    "quoteTime": "twenty minutes past twelve",
-    "quoteLast": " o'clock we entered the Elbe, where two light ships are stationed, in consequence of the sandbanks, which are rather dangerous in that part of the passage.",
-    "title": "Journal of a Horticultural Tour through Germany, Belgium, and part of France, in the Autumn of 1835\r\nTo which is added, a Catalogue of the different Species of Cacteæ in the Gardens at Woburn Abbey.",
-    "author": "Forbes, James, 1773-1861",
-    "gutenbergReference": "40554",
-    "matchType": 1,
-    "hash": "0396555b21a25c5cd0e601673dc5e32bd21f1094d869ca7665cb0b521a065dc0"
-  },
-  {
-    "time": "12:20",
-    "quoteFirst": "Just after the Supreme Court was seated the President and Justice Clifford rose, advanced toward each other, and cordially shook hands.  This made it ",
-    "quoteTime": "twenty minutes past twelve",
-    "quoteLast": ", and, as all were present, Major French, the Commissioner of Public Buildings, gave a signal, and the Marine Band performed, with impressive effect, the _Miserere_, from the opera \"Il Trovatore.\"  The Chaplain of the House, Rev. Dr.",
-    "title": "Perley's reminiscences of sixty years in the national metropolis, v. 1-2",
-    "author": "Poore, Benjamin Perley, 1820-1887",
-    "gutenbergReference": "20290",
-    "matchType": 1,
-    "hash": "287d80481f40945a49bd3b4b8d123ca27ceba627398ef6d22f1fee9d20ec846a"
   }
 ]

@@ -1,47 +1,25 @@
 [
   {
     "time": "15:55",
-    "quoteFirst": "It was ",
-    "quoteTime": "five minutes to four",
-    "quoteLast": " when she purchased her ticket to New York.",
-    "title": "Grace Harlowe's Return to Overton Campus",
-    "author": "Chase, Josephine, -1931",
-    "gutenbergReference": "9901",
-    "matchType": 1,
-    "hash": "a4af35852adde7e1dbc48c7d9a99d06091849c0c16507c26d24d396279aa4cc9"
-  },
-  {
-    "time": "15:55",
-    "quoteFirst": "Thucydides questions. 'At ",
-    "quoteTime": "five minutes to four",
-    "quoteLast": " I shall begin to collect your papers, but those who wish may go on till ten past. Write only on one side of the paper, and put your names in the top right-hand corner.",
-    "title": "Tales of St. Austin's",
-    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
-    "gutenbergReference": "6980",
-    "matchType": 1,
-    "hash": "02c7e32bb53343c9e0dde0667021d2e387485f4134f25253feb113d39f97bbe5"
-  },
-  {
-    "time": "15:55",
-    "quoteFirst": "Dresden; arrived there at ",
-    "quoteTime": "5 minutes to 4 in the afternoon",
-    "quoteLast": ", and in the evening went to the Scotch Church, where he preached in English to a very small congregation compared with the multitudes who had thronged the church at Lodz. On the 8th we proceeded to Hanover; remained there until the 11th, and then, continuing our journey to England (after passing one night at Cologne, a day and a half at Antwerp, and sleeping at Calais, where we arrived at one o'clock in the middle of the night), on the afternoon of May 14th, at half past one, embarked in the \"Calais-Douvres,\" and landed at Dover at 3 o'clock.",
-    "title": "The Preaching Tours and Missionary Labours of George Müller (of Bristol)",
-    "author": "Müller, Susannah Grace Sanger",
-    "gutenbergReference": "34377",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes to four that afternoon",
+    "quoteLast": " I entered the big Gambrinus Café, which was nearly opposite my hotel on the other side of the piazza, and I took a seat just inside the door. The orchestra was playing, and the place was well filled with a gay cosmopolitan crowd, many of them winter idlers.",
+    "title": "The Stretton Street Affair",
+    "author": "Le Queux, William, 1864-1927",
+    "gutenbergReference": "27147",
     "matchType": 0,
-    "hash": "02455e471ed1b1f35a86a03df79e1df02aaeadf914f5631b99319d3bd6ad06d9"
+    "hash": "bf0d8a6c7c335c86527d51e52f7380791283d2d5f5e912e0194bb80fe38d5fdd"
   },
   {
     "time": "15:55",
-    "quoteFirst": "The hands of her watch pointed to ",
+    "quoteFirst": "I had just glanced at the cabin clock and observed that it exactly wanted ",
     "quoteTime": "five minutes to four",
-    "quoteLast": ".",
-    "title": "The Secret Tomb",
-    "author": "Leblanc, Maurice, 1864-1941; Gage, George W., 1887-1957 [Illustrator]",
-    "gutenbergReference": "59072",
+    "quoteLast": " when my ears were caught by the sound of oars working in their pins. A moment later we were hailed in a voice thin with distance. I answered with a \"Halloa!\" at the top of my lungs.",
+    "title": "The Tragedy of Ida Noble",
+    "author": "Russell, William Clark, 1844-1911",
+    "gutenbergReference": "50372",
     "matchType": 1,
-    "hash": "d9c0ca45723da32e81e0f27f054be4eba24d0ffc50f576c933919de45b5cf268"
+    "hash": "6cb8e3049589695dbae4f6198149d3589d74bc512b2a59a7e1af5f31f213619a"
   },
   {
     "time": "15:55",
@@ -56,14 +34,47 @@
   },
   {
     "time": "15:55",
-    "quoteFirst": "Came over some seven and a half miles of country to Watthiegurtie, which is also salt and bitter, and started then for Caunboogonannie. At 2 p.m. passed in my way two salt lakes to the south with salt-water in them, respectively named Anodhampa and Thoorpalinnie; passed also to north a recently dried up lake named Gnooloomacannie, well timbered round its shores, with abundance of grass all over it. Arrived at this splendid lake (Caunboogonannie) at ",
+    "quoteFirst": "‘",
+    "quoteTime": "Five minutes to four",
+    "quoteLast": ". That’s one way of passing a middle watch at any rate. Can’t reckon on it every night, though.’",
+    "title": "Under the periscope",
+    "author": "Bennett, Mark Herbert Joseph, 1892-; Cornford, L. Cope (Leslie Cope), 1867-1927 [Author of introduction, etc.]",
+    "gutenbergReference": "69750",
+    "matchType": 1,
+    "hash": "732e9853da7fe744c7d3416e4135f8cb8dbd8b5a4e4b22d110be83faa3a907ad"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "I had just glanced at the cabin clock and observed that it exactly wanted ",
+    "quoteTime": "five minutes to four",
+    "quoteLast": " when my ears were caught by the sound of oars working in their pins. A moment later we were hailed in a voice thin with distance. I answered with a \"Halloa!\" at the top of my lungs.",
+    "title": "The Tragedy of Ida Noble",
+    "author": "Russell, William Clark, 1844-1911",
+    "gutenbergReference": "50372",
+    "matchType": 1,
+    "hash": "6cb8e3049589695dbae4f6198149d3589d74bc512b2a59a7e1af5f31f213619a"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "METZ, _August 2, ",
     "quoteTime": "3.55 p.m.",
-    "quoteLast": " Splendid water and feed. This lake also is nearly circular and about two and a half to three miles in diameter.",
-    "title": "McKinlay's Journal of Exploration in the Interior of Australia",
-    "author": "McKinlay, John, 1819-1872",
-    "gutenbergReference": "13248",
+    "quoteLast": "_",
+    "title": "The Comedy & Tragedy of the Second Empire\r\nParis Society in the Sixties; Including Letters of Napoleon III., M. Pietri, and Comte de la Chapelle, and Portraits of the Period",
+    "author": "Legge, Edward, -1927",
+    "gutenbergReference": "57554",
     "matchType": 2,
-    "hash": "e8b9e2c4cb7f33af72603fc5ae669e148174d244e6d6fdff39555b150251d70c"
+    "hash": "b646baa9a7575570ede0d4f88ff35e4bc7c00b9434bae30b9b03fe9a03c7caa3"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "Bidelia hoped that by having her tea continue from four to six she would escape crowding her parlour, in which there was not any too much room; but, by ",
+    "quoteTime": "five minutes to four",
+    "quoteLast": ", there was a stirring in the streets, heads poking out of windows and doors to see if any one were starting, and before the French clock on Bidelia’s parlour cabinet had struck half-past four, all her guests had arrived.",
+    "title": "Pussy-Cat Town",
+    "author": "Taggart, Marion Ames, 1866-1945; Chase, Rebecca [Illustrator]",
+    "gutenbergReference": "63458",
+    "matchType": 1,
+    "hash": "d18e2db8f3aa30d36ce40ffd87eb06da65a519d695cdccb55d812b890a860302"
   },
   {
     "time": "15:55",
@@ -78,69 +89,14 @@
   },
   {
     "time": "15:55",
-    "quoteFirst": "When we went into Bideford we met this ornament of the Sixth--is that decent enough?--hanging about on the road with a nasty look in his eye. We didn’t know _then_ why he was so anxious to stop us, _but_ at ",
+    "quoteFirst": "He hurried upstairs, glancing at his watch as he did so. The time was nearly ",
     "quoteTime": "five minutes to four",
-    "quoteLast": ", when we were in Yeo’s shop, we saw Tulke in broad daylight, _with_ his house-cap on, kissin’ an’ huggin’ a woman on the pavement. Is that decent enough for you?”",
-    "title": "Stalky & Co.",
-    "author": "Kipling, Rudyard, 1865-1936",
-    "gutenbergReference": "3006",
+    "quoteLast": ". He scurried down the passage to Alec’s room.",
+    "title": "The Layton Court mystery",
+    "author": "Berkeley, Anthony, 1893-1971",
+    "gutenbergReference": "72883",
     "matchType": 1,
-    "hash": "190092c758789786f1225951d251d1b36e1f70a1e47a214fd8543a0894481505"
-  },
-  {
-    "time": "15:55",
-    "quoteFirst": "'Two three minutes past four. It had ",
-    "quoteTime": "five minutes to four",
-    "quoteLast": " when I came upstairs,' answered she, without interrupting her examination of a piece of darned lace which she was holding close to her eyes at the window.",
-    "title": "Uncle Silas: A Tale of Bartram-Haugh",
-    "author": "Le Fanu, Joseph Sheridan, 1814-1873",
-    "gutenbergReference": "14851",
-    "matchType": 1,
-    "hash": "dbca3d43e428f62c7c1bb0318a6e564250d352cb4641eb7a0c371588bd671c3a"
-  },
-  {
-    "time": "15:55",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes to four",
-    "quoteLast": " I looked at Louis.",
-    "title": "The Corsican Brothers",
-    "author": "Dumas, Alexandre, 1802-1870; Frith, Henry, 1840- [Translator]",
-    "gutenbergReference": "41881",
-    "matchType": 1,
-    "hash": "4062c111f73b735a12206fe851b6f053e063b27c6df8d4cd81541a876b4409d4"
-  },
-  {
-    "time": "15:55",
-    "quoteFirst": "“",
-    "quoteTime": "Five minutes to four",
-    "quoteLast": ".”",
-    "title": "Little Dinners With the Sphinx, and Other Prose Fancies",
-    "author": "Le Gallienne, Richard, 1866-1947",
-    "gutenbergReference": "64854",
-    "matchType": 1,
-    "hash": "61b0d657c11a3fc21620b3b02f071955bd650ecb749ed8d0a47dc144638e14e0"
-  },
-  {
-    "time": "15:55",
-    "quoteFirst": "Bidelia hoped that by having her tea continue from four to six she would escape crowding her parlour, in which there was not any too much room; but, by ",
-    "quoteTime": "five minutes to four",
-    "quoteLast": ", there was a stirring in the streets, heads poking out of windows and doors to see if any one were starting, and before the French clock on Bidelia’s parlour cabinet had struck half-past four, all her guests had arrived.",
-    "title": "Pussy-Cat Town",
-    "author": "Taggart, Marion Ames, 1866-1945; Chase, Rebecca [Illustrator]",
-    "gutenbergReference": "63458",
-    "matchType": 1,
-    "hash": "d18e2db8f3aa30d36ce40ffd87eb06da65a519d695cdccb55d812b890a860302"
-  },
-  {
-    "time": "15:55",
-    "quoteFirst": "",
-    "quoteTime": "Five minutes to four",
-    "quoteLast": ".",
-    "title": "Long Live the King!",
-    "author": "Rinehart, Mary Roberts, 1876-1958",
-    "gutenbergReference": "2714",
-    "matchType": 1,
-    "hash": "737114ffaa8e57a041e4eb329a3262610aa1c1b661bf2417f8978de67e7e2c44"
+    "hash": "0aa75289d44162d91d056f5720cc11bb43c627f8a2905cb4370a06902d35d6ca"
   },
   {
     "time": "15:55",
@@ -155,25 +111,69 @@
   },
   {
     "time": "15:55",
-    "quoteFirst": "At 3.40 p.m. the temperature was 102.5°F. On September 25 the animal weighed 1,800 grams. Temperature, 102.2°F. at 10.39 a.m. The dose of barium was repeated. At ",
-    "quoteTime": "3.55 p.m.",
-    "quoteLast": " the temperature was 101.4°F. On September 26 at 9.38 a.m. the temperature was 101.1°F., and again the barium was given. At 3.57 p.m. the temperature was 101.5°F.",
-    "title": "Barium: A Cause of the Loco-Weed Disease",
-    "author": "Crawford, Albert Cornelius",
-    "gutenbergReference": "40256",
-    "matchType": 2,
-    "hash": "10472ea90b776b032550fa7afdee0458d61f99d465a92997c5e0da36d25eac36"
+    "quoteFirst": "‘",
+    "quoteTime": "Five minutes to four",
+    "quoteLast": ". That’s one way of passing a middle watch at any rate. Can’t reckon on it every night, though.’",
+    "title": "Under the periscope",
+    "author": "Bennett, Mark Herbert Joseph, 1892-; Cornford, L. Cope (Leslie Cope), 1867-1927 [Author of introduction, etc.]",
+    "gutenbergReference": "69750",
+    "matchType": 1,
+    "hash": "732e9853da7fe744c7d3416e4135f8cb8dbd8b5a4e4b22d110be83faa3a907ad"
   },
   {
     "time": "15:55",
-    "quoteFirst": "They get the best work and the best pay; but I can work as well as most of them, and sometimes mine goes in in place of what some idle, pleasure-loving scamp has neglected. Let me see\"--pulling out her watch--\"",
+    "quoteFirst": "The wind continued in force from the west and at ",
+    "quoteTime": "3.55 P.M.",
+    "quoteLast": " the convoy and escort anchored at Quiberon Peninsula to await more favorable weather.",
+    "title": "The Corsair in the war zone",
+    "author": "Paine, Ralph Delahaye, 1871-1925",
+    "gutenbergReference": "72760",
+    "matchType": 2,
+    "hash": "73dd77281c39c930ede12a1205005d1649eb373c27701526d0745aa2ee8be7e4"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "And as he wandered he indulged in his usual alternations between self-derision and passion. He appeared at the house at ",
     "quoteTime": "five minutes to four",
-    "quoteLast": ". I must not stay. I have to look in at Mrs.",
-    "title": "A Crooked Path: A Novel",
-    "author": "Alexander, Mrs., 1825-1902",
-    "gutenbergReference": "18418",
+    "quoteLast": ". Patrick, who with Molly his wife looked after the domestic affairs, was at the front gate gazing down the street in the direction from which he always came. At sight of him Pat came running.",
+    "title": "The Grain of Dust: A Novel",
+    "author": "Phillips, David Graham, 1867-1911; Wenzell, A. B. (Albert Beck), 1864-1917 [Illustrator]",
+    "gutenbergReference": "430",
     "matchType": 1,
-    "hash": "77c01ec4e864ff8243a6e5ca75ccba923d0158e96a8e0521f23166a8462505c3"
+    "hash": "0f3493c6118a2af44d9a538901117aa234011c98a0ba7c1e1265971d7f6d9023"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "Moreover, if the case had been grave, she would not have put the telegram in the interrogative; she would have written, 'Please come at once.' No, Hilda was not unduly disturbed. Nevertheless, she had an odd idea that she ought to rush to the station and catch the next train, which left Knype at ",
+    "quoteTime": "five minutes to four",
+    "quoteLast": "; this idea did not spring from her own conscience, but rather from the old-fashioned collective family conscience. But at a quarter to four, when it was already too late to catch the local train at Turnhill, the men had not emerged from the inner room; nor had Hilda come to any decision.",
+    "title": "Hilda Lessways",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "10658",
+    "matchType": 1,
+    "hash": "881974a2e1a11a28afc7d59fd6d3de4ad7f89ab9c3f8e783f98cd1bc94febb72"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "Then the vision was hidden by a scarlet circle, and a voice said, \"Mr\u00A0H. has got it.\" Through the red mist of the scarlet circle I looked at my watch (the movement to do so had begun in my mind before I was hit); it was spattered with blood; the hands showed ",
+    "quoteTime": "five minutes to four",
+    "quoteLast": ". The voice which had spoken before said, \"Mr\u00A0H. is killed.\"",
+    "title": "Wounded and a Prisoner of War, by an Exchanged Officer",
+    "author": "Hay, Malcolm V. (Malcolm Vivian), 1881-1962",
+    "gutenbergReference": "45931",
+    "matchType": 1,
+    "hash": "3d791a065b02c2c838d86b8bd4fa6cfe7cbd3cdbe874cfb77cd4231c0fc4adeb"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "",
+    "quoteTime": "Five minutes to four",
+    "quoteLast": ".",
+    "title": "Long Live the King!",
+    "author": "Rinehart, Mary Roberts, 1876-1958",
+    "gutenbergReference": "2714",
+    "matchType": 1,
+    "hash": "737114ffaa8e57a041e4eb329a3262610aa1c1b661bf2417f8978de67e7e2c44"
   },
   {
     "time": "15:55",
@@ -188,35 +188,35 @@
   },
   {
     "time": "15:55",
-    "quoteFirst": "\"It is ",
-    "quoteTime": "five minutes to four",
-    "quoteLast": ", sir--it will be quite impossible to finish that pile of papers to-day--And I _did_ come from Bindon's Green--and I am going back there by the six o'clock train from Victoria, to a supper party at my home--That is why my hair is crimped and I have on this new blouse.\"",
-    "title": "The Career of Katherine Bush",
-    "author": "Glyn, Elinor, 1864-1943; Frederick, Edmund, 1870-1949 [Illustrator]",
-    "gutenbergReference": "40893",
-    "matchType": 1,
-    "hash": "b8333cd5a10df34573f338954e8f1be732a73fa52fa588c40b9908c87517b7c7"
+    "quoteFirst": "Came over some seven and a half miles of country to Watthiegurtie, which is also salt and bitter, and started then for Caunboogonannie. At 2 p.m. passed in my way two salt lakes to the south with salt-water in them, respectively named Anodhampa and Thoorpalinnie; passed also to north a recently dried up lake named Gnooloomacannie, well timbered round its shores, with abundance of grass all over it. Arrived at this splendid lake (Caunboogonannie) at ",
+    "quoteTime": "3.55 p.m.",
+    "quoteLast": " Splendid water and feed. This lake also is nearly circular and about two and a half to three miles in diameter.",
+    "title": "McKinlay's Journal of Exploration in the Interior of Australia",
+    "author": "McKinlay, John, 1819-1872",
+    "gutenbergReference": "13248",
+    "matchType": 2,
+    "hash": "e8b9e2c4cb7f33af72603fc5ae669e148174d244e6d6fdff39555b150251d70c"
   },
   {
     "time": "15:55",
-    "quoteFirst": "\"",
-    "quoteTime": "Five minutes to four",
-    "quoteLast": ",\" he said. \"Time to be moving back.\"",
-    "title": "The Boy Allies Under the Sea; Or, The Vanishing Submarines",
-    "author": "Hayes, Clair W. (Clair Wallace), 1887-",
-    "gutenbergReference": "14711",
+    "quoteFirst": "It was ",
+    "quoteTime": "five minutes to four",
+    "quoteLast": " when Frank arrived, and the lady had not yet appeared.  He stood near the door and waited.  Presently a hansom rattled into the narrow street, and there she sat framed in its concavity.",
+    "title": "A Duet, with an Occasional Chorus",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "gutenbergReference": "5260",
     "matchType": 1,
-    "hash": "fe0f1219c4a8ebe9544c7118d26eaf546a9c7ebdd235e7d77dd69d0abb7684b6"
+    "hash": "c70fe50cc0fb0133b1829e47b911cd9c96dd8aa13f018cab921858e6524b34ea"
   },
   {
     "time": "15:55",
-    "quoteFirst": "The hands of her watch pointed to ",
+    "quoteFirst": "It was ",
     "quoteTime": "five minutes to four",
-    "quoteLast": ".",
-    "title": "The Secret Tomb",
-    "author": "Leblanc, Maurice, 1864-1941; Gage, George W., 1887-1957 [Illustrator]",
-    "gutenbergReference": "59072",
+    "quoteLast": " when she purchased her ticket to New York.",
+    "title": "Grace Harlowe's Return to Overton Campus",
+    "author": "Chase, Josephine, -1931",
+    "gutenbergReference": "9901",
     "matchType": 1,
-    "hash": "d9c0ca45723da32e81e0f27f054be4eba24d0ffc50f576c933919de45b5cf268"
+    "hash": "a4af35852adde7e1dbc48c7d9a99d06091849c0c16507c26d24d396279aa4cc9"
   }
 ]

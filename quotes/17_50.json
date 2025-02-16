@@ -1,80 +1,47 @@
 [
   {
     "time": "17:50",
-    "quoteFirst": "We talked all night pretty near, and then, at ha'-past five, arf an hour afore the 'ands came on, I made up my mind to fetch a cab and drive 'em to my 'ouse.  I wanted Rupert to go somewhere else, but 'e said he 'ad got nowhere else to go, and it was the only thing to get 'em off the wharf.  I opened the gates at ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": ", and just as the fust man come on and walked down the wharf we slipped in and drove away.",
-    "title": "Deserted\nSailor's Knots, Part 1.",
-    "author": "Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]",
-    "gutenbergReference": "10781",
-    "matchType": 1,
-    "hash": "ef111d22a92c73832ba105aad570f09a215f7e45fdb84bd95d898d91b1727ba7"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "In the meadow-land below he could see larger and smaller pools of what must be water already accumulated there; but the stone pathway was decidedly passable. In the comparative lightness of his post of observation he could see his watch now; it wanted ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": ", and there was not a moment to be lost. He would go back through the park to the castle and find out if Valerie had arrived, or perhaps the General. Then, if necessary, back through the park over the causeway to the village; he would hunt up a carriage of some sort, and then--to the devil with this miserable country of barbarians, he would leave it for ever!",
-    "title": "The Breaking of the Storm, Vol. III.",
-    "author": "Spielhagen, Friedrich, 1829-1911; Stephenson, S. E. A. H. [Translator]",
-    "gutenbergReference": "34659",
-    "matchType": 1,
-    "hash": "e943f03912e12bad7489fa93902592e5b5a8cd3754116d3fde252ee3a6654b54"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "It will be observed that there are seven times in the day at which despatches are made to England. Letters for Martock, in Somersetshire, for example, in accordance with the hour at which they may be posted, would be sent thus: to Birmingham at 10.0 A.M.; to the Midland Travelling Post-office Forward, third division, at 2.40 P.M.; no circulation at 4.15 P.M.; to the Glasgow and Carlisle Sorting Tender (a sorting carriage running between these towns) at ",
+    "quoteFirst": "| |                   |              | 10.0 P.M.  London                | +-------------------+--------------+----------------------------------+ | Maryport          | Cumberland   |   10 A.M.  Carlisle              | |                   |              |  2.0 P.M.  Carlisle              | |                   |              | ",
     "quoteTime": "5.50 P.M.",
-    "quoteLast": "; no circulation at 7.20 P.M.; to the Bristol and Exeter Travelling Post-office at 9.0 P.M.; and to London at 10.0 P.M. Then if we take Mitcheldean, at the foot of the sheet, its circulation is this: to Birmingham at 10.0 A.M.; to Gloucester at 2.40 P.M.; to the Glasgow and Carlisle Sorting Tender at 5.50 P.M.; to Gloucester at 9.0 P.M.; and to Manchester at 10.0 P.M. And so on throughout the book, which contains the names of some 1300 places in England.",
+    "quoteLast": "  Carlisle              | |                   |              |  9.0 P.M.  Carlisle              | +-------------------+--------------+----------------------------------+ | Matlock Bath      | Derby        | 2.40 P.M.  Derby                 | |                   |              | 4.15 P.M.  Derby                 | |                   |              | 5.50 P.M.  G. & C. S.T.",
     "title": "The Royal Mail: Its Curiosities and Romance",
     "author": "Hyde, James Wilson, 1841-1918",
     "gutenbergReference": "39978",
     "matchType": 2,
-    "hash": "abaa3ddf7223c00eb521248f133fe9e341dd35032fc5bb629763eb2de8c89242"
+    "hash": "0bfde97920e22341fd257f1733bc39eeddb231c4c7b344bf58309fabfbbac301"
   },
   {
     "time": "17:50",
-    "quoteFirst": "Washington terminal at ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": ". He neatly avoided the row of taxicabs standing before the entrance and found a parking place. Hurrying, he pushed his way through the milling crowds on the concourse and went into the waiting room.",
-    "title": "Jean Craig, Graduate Nurse",
-    "author": "Lyttleton, Kay; Orbaan, Albert, 1913-1983 [Illustrator]",
-    "gutenbergReference": "66017",
-    "matchType": 1,
-    "hash": "a24d3c58e4dfd997f1275fbcb1f42da2f8346e5b631f6defe91f71fafb9dbb44"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "\"",
-    "quoteTime": "Ten minutes to six",
-    "quoteLast": ",\" he said, \"but I dare say Sarah is waiting for us.\"",
-    "title": "A Search For A Secret: A Novel. Vol. 2",
-    "author": "Henty, G. A. (George Alfred), 1832-1902",
-    "gutenbergReference": "35265",
-    "matchType": 1,
-    "hash": "0c1632970681b257081c6a766b6ae0c64bdd40a34a5253577a5dbef7833e4594"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "The testimony of Gertrude Hunter, was taken at ",
-    "quoteTime": "5:50 p.m.",
-    "quoteLast": ", on July 22, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Wesley J.",
-    "title": "Warren Commission (11 of 26): Hearings Vol. XI (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44011",
-    "matchType": 2,
-    "hash": "a669c1152e90133f3aa5c37a3cee52d55cd7204f123a6683ad1a1df2a0b6b45d"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "12   |    ?    | no record            | Aug. 18 | 6:00 to 6:30 a. m. 13   | Aug. 17 | 8:00 to 8:20 a. m.   | Aug. 17 | 5:30 to ",
+    "quoteFirst": "At ",
     "quoteTime": "5:50 p. m.",
-    "quoteLast": "",
-    "title": "Natural History of the Racer Coluber constrictor",
-    "author": "Fitch, Henry S. (Henry Sheldon), 1909-2009",
-    "gutenbergReference": "42676",
+    "quoteLast": ", while _Conyngham_ was alongside starboard side of _Orama_ passing her recognition signals, a torpedo crossing _Clan Lindsay's_ bow struck _H. M. S. Orama_ in port side, about No. 3 hold.",
+    "title": "Our Navy at war",
+    "author": "Daniels, Josephus, 1862-1948",
+    "gutenbergReference": "63596",
     "matchType": 2,
-    "hash": "85ee07fb0a18e052ab275fdf8aebb0d37c8f0837ef5adb3ef5551cfd94142097"
+    "hash": "ae21b11eba6e0c250a58b12c28a57d7504ad59f930f605c019dfe93f7b605692"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "Painfully on the alert, Ignace had watched vainly all day for the \"som'thin'.\" He had had no trouble in avoiding Schnitzel. The latter had not come near the four Brothers. When at ",
+    "quoteTime": "ten minutes to six",
+    "quoteLast": " Ignace saw him go down the squad-room stairs, he was in a fever of dread. The time had come and the \"so cross major\" had done nothing.",
+    "title": "The Khaki Boys at Camp Sterling; Or, Training for the Big Fight in France",
+    "author": "Chase, Josephine, -1931",
+    "gutenbergReference": "46027",
+    "matchType": 1,
+    "hash": "d26afcc0bcf85043f85ae63442e4b32cbbdc10ae69d9ad56fa6b1f391d0fa711"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "Response to aureomycin treatment favorable.... 3:10 P.M. Hematocrit reading remains high at 101.... 3:55 P.M. Lab reports show karyorrhexis developing swiftly as more and more cells are ionized by 'hot' isotopes in patient's body.... 4:40 P.M. Geiger counter set up at bedside to check progressive radioactivity of the human atomic pile.... 5:10 P.M. Guided by hematocrit readings, blood transfusions increased, supplemented by albumen.... ",
+    "quoteTime": "5:50 P.M.",
+    "quoteLast": " Patient conscious. Suffers violent spasms of pain. Morphine barely suffices. He appears thoughtful, moves head weakly....",
+    "title": "Stopwatch on the world",
+    "author": "Gilgannon, Daniel R.; Poulton, Peter, 1914-1972 [Illustrator]",
+    "gutenbergReference": "70583",
+    "matchType": 2,
+    "hash": "7593f9045c0c45f48579ce4d7f36becbb2ced372ee1c918f5796ca0f1f60bd79"
   },
   {
     "time": "17:50",
@@ -89,25 +56,36 @@
   },
   {
     "time": "17:50",
-    "quoteFirst": "_Second Round: Beatty luring Scheer and Hipper on towards Jellicoe: 4.38 to ",
-    "quoteTime": "5.50 P.M.",
-    "quoteLast": "_",
-    "title": "Flag and Fleet: How the British Navy Won the Freedom of the Seas",
-    "author": "Wood, William, 1864-1947",
-    "gutenbergReference": "19849",
-    "matchType": 2,
-    "hash": "f87ee475cf65399562ba894207be47ef2f08ab08d7dd8a7368ab838654ddbc2a"
+    "quoteFirst": "Harris, Lucille, and the Judge, an acquaintance made on the ship, soon joined them. Their watches agreed that it was ",
+    "quoteTime": "ten minutes to six",
+    "quoteLast": " o 'clock. The decks had been washed and put in order, engines were running at full speed, the eastern sky was flushed with crimson and golden bands that shot out of the horizon, and fan-like in shape faded up in the zenith. With watches in hand, all eyes were fixed on a pathway of intensely lighted sea and sky in the east.",
+    "title": "The Harris-Ingram Experiment",
+    "author": "Bolton, Charles E. (Charles Edward), 1841-1901",
+    "gutenbergReference": "16834",
+    "matchType": 1,
+    "hash": "2948d0ad4f0a897fbf179e4317a3772ebc136eecaa8fa8b8f442b8ebf2528083"
   },
   {
     "time": "17:50",
-    "quoteFirst": "At ",
-    "quoteTime": "5.50 p.m.",
-    "quoteLast": " orders came to endeavour to make good Epehy and Peiziere.",
-    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
-    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
-    "gutenbergReference": "73159",
-    "matchType": 2,
-    "hash": "b14cb2a7183b38c1eff577ea14bc990c86414805feb1e540c1bb77d93c9eaa6e"
+    "quoteFirst": "For two days his guns had not been silent; the enemy’s garrisons were forced into tunnels and deep dug-outs, and the transport of food and ammunition was made all but impossible.  The Germans were, therefore, in a state of confusion and fatigue when Haig attacked at ",
+    "quoteTime": "10 minutes to 6",
+    "quoteLast": " on the morning of Sunday, the 29th.",
+    "title": "Days to Remember: The British Empire in the Great War",
+    "author": "Buchan, John, 1875-1940; Newbolt, Henry John, Sir, 1862-1938",
+    "gutenbergReference": "49540",
+    "matchType": 1,
+    "hash": "8061d477380dfdc310a4149db62f7a9142e65f0d9d80b1b3de009dee66b13391"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "“You read the literature I shall send you.” He pulled out his watch. “Dear me! it is ",
+    "quoteTime": "ten minutes to six",
+    "quoteLast": ", and I promised to meet Lady Milmo and Miss Defries at the quarter by the statue. They are my two most enthusiastic disciples. Shall we turn and seek them?”",
+    "title": "The White Dove",
+    "author": "Locke, William John, 1863-1930",
+    "gutenbergReference": "56013",
+    "matchType": 1,
+    "hash": "237e65241a25a5f6f4d949871eb2bacc95a0c7d5358dbb51350ef25afede1961"
   },
   {
     "time": "17:50",
@@ -122,36 +100,58 @@
   },
   {
     "time": "17:50",
-    "quoteFirst": "In the meadow-land below he could see larger and smaller pools of what must be water already accumulated there; but the stone pathway was decidedly passable. In the comparative lightness of his post of observation he could see his watch now; it wanted ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": ", and there was not a moment to be lost. He would go back through the park to the castle and find out if Valerie had arrived, or perhaps the General. Then, if necessary, back through the park over the causeway to the village; he would hunt up a carriage of some sort, and then--to the devil with this miserable country of barbarians, he would leave it for ever!",
-    "title": "The Breaking of the Storm, Vol. III.",
-    "author": "Spielhagen, Friedrich, 1829-1911; Stephenson, S. E. A. H. [Translator]",
-    "gutenbergReference": "34659",
-    "matchType": 1,
-    "hash": "e943f03912e12bad7489fa93902592e5b5a8cd3754116d3fde252ee3a6654b54"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "It also appears that with this species cold will produce change if applied after the chrysalis has hardened. The same experiments were attempted in 1878 with pupæ of _Grapta Comma_. They were put on ice at from ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": " hours after forming, and subjected to a temperature of about 0°-1° R. for eighteen to twenty days, but every pupa was killed.",
-    "title": "Studies in the Theory of Descent, Volume I",
-    "author": "Weismann, August, 1834-1914; Darwin, Charles, 1809-1882 [Author of introduction, etc.]; Meldola, Raphael, 1849-1915 [Translator]",
-    "gutenbergReference": "47847",
-    "matchType": 1,
-    "hash": "4ebd9426665d3a0d2effe485989fab896bc9ebfce14979ebe17e529657586ab1"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "In this latitude, near the equator, there are only a few minutes of twilight, so it was soon bright enough for him to look at the watch that had been left on the stone ledge. ",
+    "quoteFirst": "",
     "quoteTime": "Ten minutes to six",
-    "quoteLast": "! He could soon call the others. The generous impulse came to let them sleep for another hour, but it was followed by the thought that the Indians were undoubtedly awakening, and as they might at once march up the river, it would be well for all to be on the alert.",
-    "title": "Incaland\nA Story of Adventure in the Interior of Peru and the Closing Chapters of the War with Chile",
-    "author": "Wetmore, Claude H., 1863-1944; Burgess, H. [Illustrator]",
-    "gutenbergReference": "53204",
+    "quoteLast": ".",
+    "title": "Cosmic Saboteur",
+    "author": "Robinson, Frank M., 1926-2014; Terry, W. E., 1921-1992 [Illustrator]",
+    "gutenbergReference": "66540",
     "matchType": 1,
-    "hash": "39cbf4e305de3ddacd23058fa6a3855fe72c2e98882cb6bc1cc4df084bee477e"
+    "hash": "e17a3c0376ca5df3425276dac0e75a9588e396cc2da8a92ba48958a68f7ff0e0"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "",
+    "quoteTime": "Ten minutes to six",
+    "quoteLast": ". Perhaps he had made it up with Mrs Raymond?... For the next ten minutes she suffered extraordinary mental tortures, then her anger consoled her a little. He had treated her too rudely! It was amazing--extraordinary! He was not worth caring for.",
+    "title": "Love's Shadow",
+    "author": "Leverson, Ada, 1862-1933",
+    "gutenbergReference": "9786",
+    "matchType": 1,
+    "hash": "b810b2146fd1e47a1e1f3c05177d4cab0cf17446c7a1cf0821b99f6d5fd9f0d2"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "| |                   |              | 10.0 P.M.  Liverpool             | +-------------------+--------------+----------------------------------+ | Midhurst          | Sussex       | 10.0 A.M.  London                | |                   |              | 2.40 P.M.  London, S.W. Div.     | |                   |              | ",
+    "quoteTime": "5.50 P.M.",
+    "quoteLast": "  London, S.W. Div.     | |                   |              | 7.20 P.M.  London                | |                   |              |  9.0 P.M.  London, S.W. Div.     | |                   |              | 10.0 P.M.  London                | +-------------------+--------------+----------------------------------+ | Milford Haven     | Pembroke     | 10.0 A.M.  Birmingham            | |                   |              | 2.40 P.M.  Gloucester            | |                   |              | 5.50 P.M.  G. & C. S.T.",
+    "title": "The Royal Mail: Its Curiosities and Romance",
+    "author": "Hyde, James Wilson, 1841-1918",
+    "gutenbergReference": "39978",
+    "matchType": 2,
+    "hash": "0231e0b8ef828f6445df0a7f8594e7b93001999e34e6ac2a1548e894ff7c4fd2"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "Washington terminal at ",
+    "quoteTime": "ten minutes to six",
+    "quoteLast": ". He neatly avoided the row of taxicabs standing before the entrance and found a parking place. Hurrying, he pushed his way through the milling crowds on the concourse and went into the waiting room.",
+    "title": "Jean Craig, Graduate Nurse",
+    "author": "Lyttleton, Kay; Orbaan, Albert, 1913-1983 [Illustrator]",
+    "gutenbergReference": "66017",
+    "matchType": 1,
+    "hash": "a24d3c58e4dfd997f1275fbcb1f42da2f8346e5b631f6defe91f71fafb9dbb44"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "The testimony of Gertrude Hunter, was taken at ",
+    "quoteTime": "5:50 p.m.",
+    "quoteLast": ", on July 22, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Wesley J.",
+    "title": "Warren Commission (11 of 26): Hearings Vol. XI (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44011",
+    "matchType": 2,
+    "hash": "a669c1152e90133f3aa5c37a3cee52d55cd7204f123a6683ad1a1df2a0b6b45d"
   },
   {
     "time": "17:50",
@@ -166,57 +166,57 @@
   },
   {
     "time": "17:50",
-    "quoteFirst": "A description of the sounding made in the Bay of Biscay on the 22d of July, 1869, will give an idea of the process. When the depth had been ascertained, the dredge was let go about 4:45 p.m., the vessel drifting slowly before a moderate breeze. At ",
+    "quoteFirst": "He looks at his watch again. \"It is ",
+    "quoteTime": "ten minutes to six",
+    "quoteLast": ",\" he replies with punctilious politeness.",
+    "title": "Red as a Rose is She: A Novel",
+    "author": "Broughton, Rhoda, 1840-1920",
+    "gutenbergReference": "45178",
+    "matchType": 1,
+    "hash": "954ebdd22657244e79b5ed2ed9dc4351a9fa60f3728defc3b4abf132656dc687"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "It also appears that with this species cold will produce change if applied after the chrysalis has hardened. The same experiments were attempted in 1878 with pupæ of _Grapta Comma_. They were put on ice at from ",
+    "quoteTime": "ten minutes to six",
+    "quoteLast": " hours after forming, and subjected to a temperature of about 0°-1° R. for eighteen to twenty days, but every pupa was killed.",
+    "title": "Studies in the Theory of Descent, Volume I",
+    "author": "Weismann, August, 1834-1914; Darwin, Charles, 1809-1882 [Author of introduction, etc.]; Meldola, Raphael, 1849-1915 [Translator]",
+    "gutenbergReference": "47847",
+    "matchType": 1,
+    "hash": "4ebd9426665d3a0d2effe485989fab896bc9ebfce14979ebe17e529657586ab1"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "Carlisle Sorting Tender at ",
+    "quoteTime": "5.50 P.M.",
+    "quoteLast": "; to Gloucester at 9.0 P.M.; and to Manchester at 10.0 P.M. And so on throughout the book, which contains the names of some 1300 places in England. Nor, as regards England, is this all.",
+    "title": "The Royal Mail: Its Curiosities and Romance",
+    "author": "Hyde, James Wilson, 1841-1918",
+    "gutenbergReference": "39978",
+    "matchType": 2,
+    "hash": "183adbe73bac327536c25e9bc0c0feb699fca9fb8d1dfa49887787ba8277f711"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "He discovered nothing suspicious. But, at ",
+    "quoteTime": "ten minutes to six",
+    "quoteLast": ", Chief-inspector Blanchon, who was with him, said:",
+    "title": "The Crystal Stopper",
+    "author": "Leblanc, Maurice, 1864-1941",
+    "gutenbergReference": "1563",
+    "matchType": 1,
+    "hash": "c89fe0fb67d3175947b537a11bdb96be88d377e74b80695b6c972e32016f10ba"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "The testimony of Gertrude Hunter, was taken at ",
     "quoteTime": "5:50 p.m.",
-    "quoteLast": " the whole 3,000 fathoms of rope were out.",
-    "title": "Ocean's Story; or, Triumphs of Thirty Centuries\r\nMaritime Adventures, Achievements, Explorations, Discoveries and Inventions; and of the Rise and Progress of Ship-Building and Ocean Navigation, from the Ark to the Iron Steamships",
-    "author": "Goodrich, Frank B. (Frank Boott), 1826-1894; Howland, Edward [Contributor]",
-    "gutenbergReference": "46372",
+    "quoteLast": ", on July 22, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Wesley J.",
+    "title": "Warren Commission (11 of 26): Hearings Vol. XI (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44011",
     "matchType": 2,
-    "hash": "feecbff220865cfa354dd1d1bac5e2f58426510d234587c09b4e1dddf7b3745e"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "The _Chesapeake_ frigate (36) commanded by Lawrence, lay in the harbour; and Broke, having detached the _Tenedos_ in order to tempt her out, sent a challenge to Lawrence on the morning of June 1, but before it could be delivered the _Chesapeake_ had sailed. She steered for the _Shannon_, who waited for her. The fight began at ",
-    "quoteTime": "5.50 P.M.",
-    "quoteLast": " about six leagues out from Boston; it was brief and bloody. After ten minutes' firing the _Chesapeake_ fell on board the _Shannon_, and was immediately boarded.",
-    "title": "The Political History of England - Vol XI\r\nFrom Addington's Administration to the close of William IV.'s Reign (1801-1837)",
-    "author": "Brodrick, George C. (George Charles), 1831-1903; Fotheringham, John Knight, 1874-1936",
-    "gutenbergReference": "26727",
-    "matchType": 2,
-    "hash": "cc82403d758b67d8da626bc02b7f6fbc0885a4c9215f408c3b7ec6b666d29f39"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "\"I should say time _was_ flying!\" exclaimed Grace, casting a hurried glance at her watch. \"It's ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": " now. It will take us fifteen minutes to walk to Vinton's. That leaves twenty-five minutes in which to get ready.",
-    "title": "Grace Harlowe's Second Year at Overton College",
-    "author": "Chase, Josephine, -1931",
-    "gutenbergReference": "6858",
-    "matchType": 1,
-    "hash": "976ccc97f48b1e6a15cd6808ab433ada1957cd07c3e63613f88ac3d263da18b4"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "To her satisfaction Jerry walked into the room at ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": ".",
-    "title": "Marjorie Dean, College Junior",
-    "author": "Chase, Josephine, -1931",
-    "gutenbergReference": "37176",
-    "matchType": 1,
-    "hash": "30fd9947716d0ce59e87d244278a19e61877e1e1f9863e370eedd3f0daf252ad"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "At ",
-    "quoteTime": "5.50 P.M.",
-    "quoteLast": " \"Cease fire\" was made.",
-    "title": "The Battle of the Falkland Islands, Before and After",
-    "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
-    "gutenbergReference": "50265",
-    "matchType": 2,
-    "hash": "1d47015910280406f7f6433d385e99c4b6ece410f11980f875589c5205fceca3"
+    "hash": "a669c1152e90133f3aa5c37a3cee52d55cd7204f123a6683ad1a1df2a0b6b45d"
   }
 ]

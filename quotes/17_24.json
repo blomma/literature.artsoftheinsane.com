@@ -12,17 +12,6 @@
   },
   {
     "time": "17:24",
-    "quoteFirst": "",
-    "quoteTime": "5.24 p.m.",
-    "quoteLast": ", answering to Kilimanjaro midnight, passed.",
-    "title": "The Purchase of the North Pole\nA sequel to \"From the earth to the moon\"",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "60242",
-    "matchType": 2,
-    "hash": "d0bd7e9c0c548fb09e453dc7c4a7515aef927de15cd5898b0e85ca93d3743f96"
-  },
-  {
-    "time": "17:24",
     "quoteFirst": "From Kilimanjaro to Baltimore is one hundred and fourteen degrees, or a difference in time of four hundred and fifty-six minutes. At the moment of discharge it would be ",
     "quoteTime": "twenty-four minutes past five in the afternoon",
     "quoteLast": " in the great city of Maryland.",
@@ -31,6 +20,17 @@
     "gutenbergReference": "60242",
     "matchType": 0,
     "hash": "e03861181f718bfadbc65b61e15f933d258aec5937d8820fad37ede73278ae09"
+  },
+  {
+    "time": "17:24",
+    "quoteFirst": "",
+    "quoteTime": "5.24 p.m.",
+    "quoteLast": ", answering to Kilimanjaro midnight, passed.",
+    "title": "The Purchase of the North Pole\nA sequel to \"From the earth to the moon\"",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "60242",
+    "matchType": 2,
+    "hash": "d0bd7e9c0c548fb09e453dc7c4a7515aef927de15cd5898b0e85ca93d3743f96"
   },
   {
     "time": "17:24",
