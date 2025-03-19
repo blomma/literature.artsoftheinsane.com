@@ -1,6 +1,17 @@
 [
   {
     "time": "09:14",
+    "quoteFirst": "The _Tiger_ opened fire at 9.20 A.M. on the rear ship, the _Lion_ shifted to No. 3 in the line, at 18,000 yards, this ship being hit by several salvoes. The enemy returned our fire at ",
+    "quoteTime": "9.14 A.M.",
+    "quoteLast": "",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "matchType": 2,
+    "hash": "a524b224929c66250cca0629d46a83e2ce4f05cd179c9079885bca75e925fb40"
+  },
+  {
+    "time": "09:14",
     "quoteFirst": "The enemy returned our fire at ",
     "quoteTime": "9.14 A. M.",
     "quoteLast": ", the Princess Royal, on coming into range, opened fire on the Blucher. The New Zealand was also within range of the Blucher which had dropped somewhat astern, and opened fire on her.",

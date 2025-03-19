@@ -42,5 +42,16 @@
     "gutenbergReference": "33146",
     "matchType": 2,
     "hash": "806f9301c215dd1778f847cc00898829f02a6187e8d7d5b8ec8a95dcbb85d711"
+  },
+  {
+    "time": "01:22",
+    "quoteFirst": "Anthony made a gesture with his arm towards another part of the garden before he answered. “At ",
+    "quoteTime": "twenty-two minutes past one",
+    "quoteLast": " this morning I awoke very suddenly. I’m a very light sleeper and the slightest sound is sufficient to wake me.",
+    "title": "The case of the Black Twenty-Two",
+    "author": "Flynn, Brian, 1885-1958",
+    "gutenbergReference": "75209",
+    "matchType": 1,
+    "hash": "bf6a3f7ce3d0f2b758df0a221151b54bc213d7984ba8004b2fb5576c43dffed4"
   }
 ]

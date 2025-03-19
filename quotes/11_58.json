@@ -1,6 +1,17 @@
 [
   {
     "time": "11:58",
+    "quoteFirst": "The night wore on, and _Cinderella_ danced with the stateliest of the land, and again and again with the _Prince_. And when supper was over, and the _Prince_ had claimed her for yet another dance, she almost fainted in his arms when she happened to glance at the clock and saw that it was just ",
+    "quoteTime": "two minutes to twelve",
+    "quoteLast": ". Alas! her godmother's warning! She had fallen madly in love with the _Prince_, as he with her, and she had forgotten everything beside. But now it was a case of quick action or she would soon be in rags and coachless; how they would all laugh at her then!",
+    "title": "Edmund Dulac's Picture-Book for the French Red Cross",
+    "author": "Dulac, Edmund, 1882-1953",
+    "gutenbergReference": "45907",
+    "matchType": 1,
+    "hash": "69339752317820be2af9a4146d55e0173447e95ceccf5084c827a66b37673191"
+  },
+  {
+    "time": "11:58",
     "quoteFirst": "11.36 a.m.  CURARE given. ",
     "quoteTime": "11.58 a.m.",
     "quoteLast": "  Electrical stimulation of sciatic (nerve).  RISE OF BLOOD-PRESSURE. 12.48 p.m.  Sciatic nerve stimulated.  RISE OF BLOOD-PRESSURE.",
@@ -12,58 +23,80 @@
   },
   {
     "time": "11:58",
-    "quoteFirst": "Ah Wu’s opium den has been already described--except that we saw it before at night, when the place was crowded.  On this occasion there was only one man asleep upon a couch in the lower room.  It was ",
-    "quoteTime": "about twelve o’clock in the morning",
-    "quoteLast": ", and at this hour, as a general rule, Chinese opium dens are empty, the smokers of the previous evening having departed and the day’s customers not having arrived.",
-    "title": "Held by Chinese Brigands",
-    "author": "Gilson, Charles, 1878-1943; De Walton, John [Illustrator]",
-    "gutenbergReference": "39254",
+    "quoteFirst": "We rounded the northernmost point of Sark, a rock called Bec du Nez, ",
+    "quoteTime": "about twelve a.m.",
+    "quoteLast": ", and with a fair wind ran into Port Jument, where we hove to for dinner; then creeping round Point Moie de Mouton, anchored off the famous Gouilot caves, and took a sketch, but could not by reason of my compact enter them. This was very annoying, for I had heard so much about them and their wonderful pools and anemonæ.",
+    "title": "Jethou; or, Crusoe Life in the Channel Isles",
+    "author": "Suffling, Ernest R. (Ernest Richard), 1855-1911",
+    "gutenbergReference": "17618",
     "matchType": 0,
-    "hash": "a312f4cf1ed1ca5eff4a24cb47d19aacd2eb77264a97495b8768c0b30dcb926c"
+    "hash": "fc85fd43eb9350bf094d861b1e507af2b634d94a6a5ef744fab995549e3d6dd4"
   },
   {
     "time": "11:58",
-    "quoteFirst": "8 Fine clear dawn. No wind. Great heat. Whirlwind bad at night till ",
-    "quoteTime": "about 12 a.m.",
-    "quoteLast": "",
-    "title": "Zanzibar; city, island, and coast. Vol. 2 (of 2)",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "70032",
-    "matchType": 0,
-    "hash": "7d4e6402ac44ba82c748a2f563312b42a54502b17848daaabc513b92c411f4ac"
-  },
-  {
-    "time": "11:58",
-    "quoteFirst": "But freight cars loaded with raw lumber and furniture and all manner of household goods, as well as houses themselves, ready to be put together like the joints of a trout rod, were allowed free entry, and stood for a mile along the side-track awaiting their owners, who were hugging the border lines from fifteen to thirty miles away. Captain D. F. Stiles, of the Tenth Infantry, who had been made provost marshal of the new Territory, and whose soldiers guarded the land before and maintained peace after the invasion, raised his telescope at ",
-    "quoteTime": "two minutes to twelve",
-    "quoteLast": " on the eventful 22d of April, and saw nothing from the station to the horizon but an empty green prairie of high waving grass. It would take the first horse (so he and General Merritt and his staff in their private car on the side-track decided) at least one hour and a quarter to cover the fifteen miles from the nearest border.",
-    "title": "The West from a car window",
-    "author": "Davis, Richard Harding, 1864-1916; Remington, Frederic, 1861-1909 [Illustrator]",
-    "gutenbergReference": "69118",
+    "quoteFirst": "This is your signature, not mine. It is your honesty that is at stake, not mine. The villainous old usurer, the devil that is not so black as he is painted, wants only his rights--nothing more. ",
+    "quoteTime": "Two minutes to twelve",
+    "quoteLast": "; another minute gone. I demand my money, my three thousand florins!\"",
+    "title": "Self-Doomed: A Novel",
+    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+    "gutenbergReference": "53096",
     "matchType": 1,
-    "hash": "94a5849c1922363f6fb5a8af2a148b07c077e2d6c41c292a1990b9e83a29a3b9"
+    "hash": "f301c713858ee06250204793c55e50d94f69c57651a8611097d3638d409eee73"
+  },
+  {
+    "time": "11:58",
+    "quoteFirst": "",
+    "quoteTime": "Two minutes to twelve",
+    "quoteLast": "!",
+    "title": "The Purchase of the North Pole\nA sequel to \"From the earth to the moon\"",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "60242",
+    "matchType": 1,
+    "hash": "21b7fcb479093bab7f381d2a4af949de884f4a271bdd3eeb2f34d79c0812889c"
+  },
+  {
+    "time": "11:58",
+    "quoteFirst": "Oswald then said, \"As you are known, Master Pemberton, you had better stop here; for it will take some picking before Roger is suited. As it is but ",
+    "quoteTime": "two minutes to twelve",
+    "quoteLast": ", I must hurry back to Lord Talbot's tent.\"",
+    "title": "Both Sides the Border: A Tale of Hotspur and Glendower",
+    "author": "Henty, G. A. (George Alfred), 1832-1902; Peacock, Ralph, 1868-1946 [Illustrator]",
+    "gutenbergReference": "19070",
+    "matchType": 1,
+    "hash": "a9552427ed6c765a310cc1f5900d7f44ae74ff498080d62a79c51d17a536a829"
+  },
+  {
+    "time": "11:58",
+    "quoteFirst": ": magic, because they opened to the world regions that seemed destined never to know the touch of civilisation. The few inhabitants of the fort were gathered at the store; the dogs and loaded sleds were at the door. It wanted but ",
+    "quoteTime": "two minutes to twelve",
+    "quoteLast": " when Hume came from his house, dressed also in the white blanket costume, and followed by his dog, Bouche. In a moment more he had placed Bouche at the head of the first team of dogs. They were to have their leader too.",
+    "title": "The March of the White Guard",
+    "author": "Parker, Gilbert, 1862-1932",
+    "gutenbergReference": "6223",
+    "matchType": 1,
+    "hash": "2931220f6d2f414e78dfe9c9396cf6ffe9c4db82d1fb1a81da490ea44d1c97cc"
   },
   {
     "time": "11:58",
     "quoteFirst": "At ",
-    "quoteTime": "11.58 a.m.",
-    "quoteLast": " the animal retched. The animal was lying with the fore legs wide apart and could not support itself. At 12.05 p.m. the temperature was 98°F. and the rabbit died shortly after.",
-    "title": "Barium: A Cause of the Loco-Weed Disease",
-    "author": "Crawford, Albert Cornelius",
-    "gutenbergReference": "40256",
-    "matchType": 2,
-    "hash": "cd1dbe5934d78dfc02903a67159c0d5b5f473f2818442738af81d423aa5e3298"
+    "quoteTime": "two minutes to twelve",
+    "quoteLast": ", as the whistle boomed its warning to visitors to go ashore, Haggerty put his hard-palmed hand on Mason's shoulder. The man, intent on watching the gangplank, turned quickly, sagged, and fell back against the rail.",
+    "title": "The Voice in the Fog",
+    "author": "MacGrath, Harold, 1871-1932",
+    "gutenbergReference": "16051",
+    "matchType": 1,
+    "hash": "0c4d3e6d3e026959a2da18ab611708218c381767c38e3938249c751f5791a110"
   },
   {
     "time": "11:58",
-    "quoteFirst": "He actually appeared at ",
-    "quoteTime": "about twelve o'clock in the morning",
-    "quoteLast": ". The doors were closed and guarded by four detectives and he was unable to obtain admission. But at three o'clock an official from the Prefecture of Police arrived, armed with full powers of negotiation.",
-    "title": "The Three Eyes",
-    "author": "Leblanc, Maurice, 1864-1941; Gage, George W., 1887-1957 [Illustrator]; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
-    "gutenbergReference": "34653",
-    "matchType": 0,
-    "hash": "09081a395297e267fbcd892092364f5b9c451834011025a8bdf372fe7007888a"
+    "quoteFirst": "Rises at 12:58 p. m. on the 1st and sets at 3:34 a. m. on the 2d; rises at ",
+    "quoteTime": "11:58 a. m.",
+    "quoteLast": " on the 16th and sets at 2:35 a. m. on the 17th; rises at 11:12 a. m. on the 28th and sets at 1:48 a. m. on March 1st. On the 16th, at 4:00 a. m., stationary; on 23d, at 3:21 a. m.",
+    "title": "The Chautauquan, Vol. 05, February 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55053",
+    "matchType": 2,
+    "hash": "83d032cf6bb0bf0748763243fb09a494e22c482c0982f5031e2a1b82304a083d"
   },
   {
     "time": "11:58",
@@ -78,14 +111,47 @@
   },
   {
     "time": "11:58",
-    "quoteFirst": "C., ",
-    "quoteTime": "11:58 a. m.",
-    "quoteLast": " to 2:31 p. m.; Louisville, Ky., 11:03 a. m. to 1:44 p.",
-    "title": "The Chautauquan, Vol. 05, March 1885",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55060",
-    "matchType": 2,
-    "hash": "9fcdfe13f1a999bc177960d4d492f75f1f2ee81b76b8f3b0595ab179bbccea6f"
+    "quoteFirst": "Then came the breakfast,--that dullest, saddest hour of all. To feed heavily ",
+    "quoteTime": "about twelve in the morning",
+    "quoteLast": " is always a nuisance,--a nuisance so abominable that it should be avoided under any other circumstances than a wedding in your own family. But that wedding-breakfast, when it does come, is the worst of all feeding.",
+    "title": "Mr. Scarborough's Family",
+    "author": "Trollope, Anthony, 1815-1882",
+    "gutenbergReference": "12234",
+    "matchType": 0,
+    "hash": "3b289537bdd85a84d8cb32fa943c3a09c0cdf8b8447a9639089fb96b1aae44d2"
+  },
+  {
+    "time": "11:58",
+    "quoteFirst": "tables which are deftly covered with table-cloths by the waiters in the usual French garb of white aprons and short jackets when the meal-times approach, the partitions of brass rail, the marble columns, the panels of glazed tiles, and, at the end of the room, the grill with a clock above it, where, shielded by a transparent screen, a stout cook all in white stands and turns the chops and the steaks on the great gridiron where the fat drips through and fizzles on the coals beneath. The great janitors, both of mighty girth, who stand at the outer doors, look in occasionally to give a message, for from ",
+    "quoteTime": "about twelve in the morning",
+    "quoteLast": " to midnight the American Bar is as busy as a beehive, and each edition of the evening papers is anxiously bought and scanned by most of the habitués, who have, as a rule, a tinge of the racing man about them.",
+    "title": "Dinners and Diners: Where and How to Dine in London",
+    "author": "Newnham-Davis, Lieut.-Col. (Nathaniel), 1854-1917",
+    "gutenbergReference": "53079",
+    "matchType": 0,
+    "hash": "20671654b46680608c1f62bbc33621bdf92d21d2dd24405b9899a8bd3c479f71"
+  },
+  {
+    "time": "11:58",
+    "quoteFirst": "",
+    "quoteTime": "About twelve o'clock A.M.",
+    "quoteLast": " our first battery opened and played handsomely upon Fort Picurina.",
+    "title": "A British Rifle Man\nThe Journals and Correspondence of Major George Simmons, Rifle Brigade, During the Peninsular War and the Campaign of Waterloo",
+    "author": "Simmons, George, 1785-1858; Verner, William Willoughby Cole, 1852-1922 [Editor]",
+    "gutenbergReference": "50744",
+    "matchType": 0,
+    "hash": "20d31df53a3257d467bbe0eceb6b82c0ad2eb70ae6dad4b056e1cdeb3ba273f8"
+  },
+  {
+    "time": "11:58",
+    "quoteFirst": "The night wore on, and _Cinderella_ danced with the stateliest of the land, and again and again with the _Prince_. And when supper was over, and the _Prince_ had claimed her for yet another dance, she almost fainted in his arms when she happened to glance at the clock and saw that it was just ",
+    "quoteTime": "two minutes to twelve",
+    "quoteLast": ". Alas! her godmother's warning! She had fallen madly in love with the _Prince_, as he with her, and she had forgotten everything beside. But now it was a case of quick action or she would soon be in rags and coachless; how they would all laugh at her then!",
+    "title": "Edmund Dulac's Picture-Book for the French Red Cross",
+    "author": "Dulac, Edmund, 1882-1953",
+    "gutenbergReference": "45907",
+    "matchType": 1,
+    "hash": "69339752317820be2af9a4146d55e0173447e95ceccf5084c827a66b37673191"
   },
   {
     "time": "11:58",
@@ -100,28 +166,6 @@
   },
   {
     "time": "11:58",
-    "quoteFirst": "Grand Central Station that it was ",
-    "quoteTime": "two minutes to twelve",
-    "quoteLast": ". At the same moment a trace broke. The driver sprang from his seat, but before he could reach the ground McAllister had leaped out.",
-    "title": "McAllister and His Double",
-    "author": "Train, Arthur Cheney, 1875-1945",
-    "gutenbergReference": "34597",
-    "matchType": 1,
-    "hash": "7dfc3df5acc99976b31e9013700ff90c3a09ce219d496660b1433b0181ee7d71"
-  },
-  {
-    "time": "11:58",
-    "quoteFirst": ": magic, because they opened to the world regions that seemed destined never to know the touch of civilisation. The few inhabitants of the fort were gathered at the store; the dogs and loaded sleds were at the door. It wanted but ",
-    "quoteTime": "two minutes to twelve",
-    "quoteLast": " when Hume came from his house, dressed also in the white blanket costume, and followed by his dog, Bouche. In a moment more he had placed Bouche at the head of the first team of dogs. They were to have their leader too.",
-    "title": "The March of the White Guard",
-    "author": "Parker, Gilbert, 1862-1932",
-    "gutenbergReference": "6223",
-    "matchType": 1,
-    "hash": "2931220f6d2f414e78dfe9c9396cf6ffe9c4db82d1fb1a81da490ea44d1c97cc"
-  },
-  {
-    "time": "11:58",
     "quoteFirst": "At ",
     "quoteTime": "about twelve o’clock in the morning",
     "quoteLast": " of the next day Mr. Petre was walking slowly along the Embankment, looking at the tide that rushed past and communing with his own soul. It was a breezy, sunny, spring day.",
@@ -130,28 +174,6 @@
     "gutenbergReference": "75030",
     "matchType": 0,
     "hash": "6db4dfb1f4039b385b72bc9319d2168a4f55f8cfd26695992e40fb38f1f3a088"
-  },
-  {
-    "time": "11:58",
-    "quoteFirst": "11.36 a.m.  CURARE given. ",
-    "quoteTime": "11.58 a.m.",
-    "quoteLast": "  Electrical stimulation of sciatic (nerve).  RISE OF BLOOD-PRESSURE. 12.48 p.m.  Sciatic nerve stimulated.  RISE OF BLOOD-PRESSURE.",
-    "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
-    "author": "Leffingwell, Albert, 1845-1916",
-    "gutenbergReference": "20222",
-    "matchType": 2,
-    "hash": "262f53985b5c7e26bbb39cef638ee4cf2c90884bd9c88d26565a9a3e2ba43e5d"
-  },
-  {
-    "time": "11:58",
-    "quoteFirst": "At ",
-    "quoteTime": "two minutes to twelve",
-    "quoteLast": " some days later he stepped out of the elevator and entered the library, where Charlie and Jack were waiting in no little dismay. The meeting was a joyful one all around.",
-    "title": "The rogue elephant",
-    "author": "Whitney, Elliott, 1863-1913; Arting, Fred J., 1875-1922 [Illustrator]",
-    "gutenbergReference": "25450",
-    "matchType": 1,
-    "hash": "477cb413d1940c3e4e6c189b33b4c713a76125c794a69b4d73c4cc610dc98af6"
   },
   {
     "time": "11:58",
@@ -166,28 +188,6 @@
   },
   {
     "time": "11:58",
-    "quoteFirst": "",
-    "quoteTime": "Two minutes to twelve",
-    "quoteLast": "!",
-    "title": "The Purchase of the North Pole\nA sequel to \"From the earth to the moon\"",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "60242",
-    "matchType": 1,
-    "hash": "21b7fcb479093bab7f381d2a4af949de884f4a271bdd3eeb2f34d79c0812889c"
-  },
-  {
-    "time": "11:58",
-    "quoteFirst": ": magic, because they opened to the world regions that seemed destined never to know the touch of civilisation. The few inhabitants of the fort were gathered at the store; the dogs and loaded sleds were at the door. It wanted but ",
-    "quoteTime": "two minutes to twelve",
-    "quoteLast": " when Hume came from his house, dressed also in the white blanket costume, and followed by his dog, Bouche. In a moment more he had placed Bouche at the head of the first team of dogs. They were to have their leader too.",
-    "title": "The March of the White Guard",
-    "author": "Parker, Gilbert, 1862-1932",
-    "gutenbergReference": "6223",
-    "matchType": 1,
-    "hash": "2931220f6d2f414e78dfe9c9396cf6ffe9c4db82d1fb1a81da490ea44d1c97cc"
-  },
-  {
-    "time": "11:58",
     "quoteFirst": "\"",
     "quoteTime": "Two minutes to twelve",
     "quoteLast": "; nothing _can_ help it now. _Wandaroo is mine!_\"",
@@ -199,24 +199,24 @@
   },
   {
     "time": "11:58",
-    "quoteFirst": "But freight cars loaded with raw lumber and furniture and all manner of household goods, as well as houses themselves, ready to be put together like the joints of a trout rod, were allowed free entry, and stood for a mile along the side-track awaiting their owners, who were hugging the border lines from fifteen to thirty miles away. Captain D. F. Stiles, of the Tenth Infantry, who had been made provost marshal of the new Territory, and whose soldiers guarded the land before and maintained peace after the invasion, raised his telescope at ",
+    "quoteFirst": "\"Waldemar, set the hands at ",
     "quoteTime": "two minutes to twelve",
-    "quoteLast": " on the eventful 22d of April, and saw nothing from the station to the horizon but an empty green prairie of high waving grass. It would take the first horse (so he and General Merritt and his staff in their private car on the side-track decided) at least one hour and a quarter to cover the fifteen miles from the nearest border.",
-    "title": "The West from a car window",
-    "author": "Davis, Richard Harding, 1864-1916; Remington, Frederic, 1861-1909 [Illustrator]",
-    "gutenbergReference": "69118",
+    "quoteLast": " again. Oh, no, old chap, not backwards! The way the hands go! .\u00A0.\u00A0. Yes, I know, it will take rather long .\u00A0.\u00A0. but it can't be helped.\"",
+    "title": "813",
+    "author": "Leblanc, Maurice, 1864-1941; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
+    "gutenbergReference": "34758",
     "matchType": 1,
-    "hash": "94a5849c1922363f6fb5a8af2a148b07c077e2d6c41c292a1990b9e83a29a3b9"
+    "hash": "fac1f97ec76984c90935ce43837714d06c91a78a5fdae80154d4e5c8a633830b"
   },
   {
     "time": "11:58",
-    "quoteFirst": "",
-    "quoteTime": "Two minutes to twelve",
-    "quoteLast": "!",
-    "title": "The Purchase of the North Pole\nA sequel to \"From the earth to the moon\"",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "60242",
+    "quoteFirst": "I seemed myself to have become that sharp, quivering hand which marked the seconds. Ten, eight minutes ... three ... ",
+    "quoteTime": "two minutes to twelve",
+    "quoteLast": ".... Of course! I was late! Oh, how I hated her, yet I had to wait to prove that I....",
+    "title": "We",
+    "author": "Zamiatin, Evgenii Ivanovich, 1884-1937; Zilboorg, Gregory, 1890-1959 [Translator]",
+    "gutenbergReference": "61963",
     "matchType": 1,
-    "hash": "21b7fcb479093bab7f381d2a4af949de884f4a271bdd3eeb2f34d79c0812889c"
+    "hash": "abcaf57e272d824f45c75e2de3b75beaa28298ae0f9216382bf160fab836d1d9"
   }
 ]

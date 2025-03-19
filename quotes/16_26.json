@@ -34,6 +34,28 @@
   },
   {
     "time": "16:26",
+    "quoteFirst": "At about ",
+    "quoteTime": "4.26 P.M.",
+    "quoteLast": " a second disaster befell the British battle cruisers. A salvo fired from one of the enemy’s battle cruisers hit the _Queen Mary_ abreast of “Q” turret and a terrific explosion resulted, evidently caused by a magazine blowing up.",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "matchType": 2,
+    "hash": "9771dd98234ced68fc7bc8375cd38d1dd85d327249bf9848137e30f9d8f4e404"
+  },
+  {
+    "time": "16:26",
+    "quoteFirst": "“At ",
+    "quoteTime": "4.26 P.M.",
+    "quoteLast": " there was a violent explosion in _Queen Mary_; she was enveloped in clouds of grey smoke and disappeared. Eighteen of her officers and men were subsequently picked up by _Laurel_.",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "matchType": 2,
+    "hash": "771adce6441eba7556f69218007a24907240b723c9c7880865f2363037597b2c"
+  },
+  {
+    "time": "16:26",
     "quoteFirst": "If the two time-curves in Fig. 70 are continued to the right until they meet the time-scale, it will be seen that they intersect it near the point corresponding to ",
     "quoteTime": "4.26 P.M.",
     "quoteLast": ", implying that this would be approximately the time at which the shock was felt within the epicentral area. This agrees closely with the observed times of about 4.25 at Parbatipur and Kuch Bihar, 4.26 at Siliguri, and 4.",

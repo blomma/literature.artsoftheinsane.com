@@ -1,36 +1,47 @@
 [
   {
     "time": "09:05",
-    "quoteFirst": "Leave Tacoma       ",
-    "quoteTime": "9.05 A.M.",
-    "quoteLast": " and  1.50 P.M.",
-    "title": "The Mountain that was 'God'\r\nBeing a Little Book About the Great Peak Which the Indians Named 'Tacoma' but Which is Officially Called 'Rainier'",
-    "author": "Williams, John H. (John Harvey), 1864-",
-    "gutenbergReference": "22056",
-    "matchType": 2,
-    "hash": "25f2216411ceadbc25b41d8f42685d57b8cfe3c27d3f90756d401e1a588ea910"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "On the next morning, Sunday the 29th, Heany arrived at Mafeking, and after making the purchases detailed above, left by special cart for the camp at Pitsani, where he probably arrived about eight o'clock a.m. At ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": " Dr. Jameson telegraphed to Harris, Charter, Capetown: 'Shall leave to-night for the Transvaal. My reason is the final arrangement with writers of letter was that, without further reference to them, in case I should hear at some future time that suspicions have been aroused as to their intention among the Transvaal authorities, I was to start immediately to prevent loss of lives, as letter states. Reuter only just received.",
-    "title": "The Transvaal from Within: A Private Record of Public Affairs",
-    "author": "Fitzpatrick, Percy, 1862-1931",
-    "gutenbergReference": "16494",
-    "matchType": 1,
-    "hash": "c569f89711daae728d52d641da77e916666b70594de4f08b5661186bc0f52ad9"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "\"Just ",
+    "quoteFirst": "It was ",
     "quoteTime": "five minutes after nine",
-    "quoteLast": ".  No charge--keep your blessing.\"",
-    "title": "The Entire Project Gutenberg Works of Mark Twain",
-    "author": "Twain, Mark, 1835-1910",
-    "gutenbergReference": "3200",
+    "quoteLast": " by the Doctor's watch, which was confirmed by later investigations, when this letter was brought into his room; the barometer was rising; light, feathery clouds fleeted across the sky, and the moon's pale crescent shone forth from among them.",
+    "title": "The Lost Manuscript: A Novel",
+    "author": "Freytag, Gustav, 1816-1895",
+    "gutenbergReference": "33857",
     "matchType": 1,
-    "hash": "ff336d4fcaa5f516f9d830e4652f8657400bd047958c5e3d4136f2ebbc8a705f"
+    "hash": "04db0accbc2113ce10691e2a167220fff640d8fdd484c15cdbcd04c6e86bc26d"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "(The subscription list will open on Saturday next at Four o’clock in the afternoon, and will close at ",
+    "quoteTime": "five minutes past Nine",
+    "quoteLast": " on Monday morning.)",
+    "title": "Parodies of the works of English & American authors, vol. VI",
+    "author": "Hamilton, Walter, 1844-1899 [Compiler]",
+    "gutenbergReference": "70548",
+    "matchType": 1,
+    "hash": "9fb4f52f18ce46b9fd56b95c613563bd17ab530869c34153c2891eb6a201ebe0"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "There was no row, as I disdained to reply to Lanwin's coarse language. Madame Marie left the library at ",
+    "quoteTime": "five minutes after nine",
+    "quoteLast": "; by fifteen minutes past I left it also, and by the window, on my way to Folkstone. What happened after I left I cannot say.",
+    "title": "The Sacred Herb",
+    "author": "Hume, Fergus, 1859-1932",
+    "gutenbergReference": "55642",
+    "matchType": 1,
+    "hash": "a2312e6fe0f411f5f418f2f4b3800db8e2c5893a04afbdd2ab30800615e4642f"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "It was ",
+    "quoteTime": "five minutes after nine",
+    "quoteLast": " by the Doctor's watch, which was confirmed by later investigations, when this letter was brought into his room; the barometer was rising; light, feathery clouds fleeted across the sky, and the moon's pale crescent shone forth from among them.",
+    "title": "The Lost Manuscript: A Novel",
+    "author": "Freytag, Gustav, 1816-1895",
+    "gutenbergReference": "33857",
+    "matchType": 1,
+    "hash": "04db0accbc2113ce10691e2a167220fff640d8fdd484c15cdbcd04c6e86bc26d"
   },
   {
     "time": "09:05",
@@ -42,160 +53,6 @@
     "gutenbergReference": "40928",
     "matchType": 1,
     "hash": "c800ddc330270b00671a14923759f783ecc5d92884cf9b9df54ca6ae116fc56e"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": " there was a careful tap at the door. The messenger had returned from Adelphi Terrace. Mr. Redgrave was not at his rooms.",
-    "title": "Teresa of Watling Street: A Fantasia on Modern Themes",
-    "author": "Bennett, Arnold, 1867-1931; Gillett, Frank, 1874-1927 [Illustrator]",
-    "gutenbergReference": "55114",
-    "matchType": 1,
-    "hash": "b08cd65139a4593196b9cdbd0a8cf38392b39ea2ead47c909019b083185290da"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "“And it's now ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": ",” moaned the merrymakers.",
-    "title": "Suburban Sketches",
-    "author": "Howells, William Dean, 1837-1920",
-    "gutenbergReference": "7141",
-    "matchType": 1,
-    "hash": "1478a3fb8c2e5e04b8e92f2306a6ea86adcd181532f594da5ab476381edda4c6"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "\"I hope the damned town falls ",
-    "quoteTime": "five minutes after nine",
-    "quoteLast": ",\" growled Warren, \"if it's got to fall. Let it fall for the morning papers. What the hell are they for, anyway? I've got a rotten headache.",
-    "title": "Erik Dorn",
-    "author": "Hecht, Ben, 1894-1964",
-    "gutenbergReference": "22358",
-    "matchType": 1,
-    "hash": "e1a761bdc33510699ad6a57e9c26572205fee2714c2b3c8369ffe7dff4e1c003"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "The second wasp came up head first to the entrance of her hole at two minutes after nine, as though she had been influenced, in some subtle way, by her neighbor’s example; but after looking about for a moment she went back. She repeated this observation several times, and finally, at twenty–",
-    "quoteTime": "five minutes after nine",
-    "quoteLast": ", came out and flew to a leaf near by. Then she circled around, alighting a number of times, and at last departed.",
-    "title": "Wasps, Social and Solitary",
-    "author": "Peckham, George W. (George Williams), 1845-1914; Peckham, E. G. (Elizabeth Gifford), 1854-; Emerton, J. H. (James Henry), 1847-1930 [Illustrator]",
-    "gutenbergReference": "47508",
-    "matchType": 1,
-    "hash": "368c380e09dcb4b5e1994df6bad20f0ba517d1d24512855c324d49d8f7caffd1"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "It was ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": " when Sir Michael came down-stairs, followed by his valet, grave and gray-haired like himself. The baronet was pale, but calm and self-possessed. The hand which he gave to his nephew was as cold as ice, but it was with a steady voice that he bade the young man good-by.",
-    "title": "Lady Audley's Secret",
-    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
-    "gutenbergReference": "8954",
-    "matchType": 1,
-    "hash": "36c01c1abdf4b694907a5086a977114dd0030c7996d9879c5303db8e999a17b6"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "\"Nevil said in his telegram that he would be here about a quarter past seven, and it is now ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": ",\" said Mrs. Arbuthnot tearfully.",
-    "title": "Mrs. Fitz",
-    "author": "Snaith, J. C. (John Collis), 1876-1936",
-    "gutenbergReference": "34398",
-    "matchType": 1,
-    "hash": "d4fc92ebf5c501c9e984d883c013cf2074f91e419105a2fbb7d473d82843c8f3"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "The vapid and irreflective would call these things accidents, but she knows better. If she arrives at a station at ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": " to catch a train which has already left at nine minutes past five, she knows that it is her Henry who is responsible, just as he was responsible the day before for a shower of rain coming on when she was wearing her new hat.",
-    "title": "Sam in the Suburbs",
-    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
-    "gutenbergReference": "67368",
-    "matchType": 1,
-    "hash": "291a3b9a5a2dc64b55982c7b23a1cc07a9e2bd5502ebef35b5fd4ecf1760474c"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "\"Well, I know I met Greenfield senior coming out of the Doctor's study on Saturday evening, about ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": ".  I'm positive of that,\" said Simon.",
-    "title": "The Fifth Form at Saint Dominic's: A School Story",
-    "author": "Reed, Talbot Baines, 1852-1893",
-    "gutenbergReference": "24632",
-    "matchType": 1,
-    "hash": "4f21ad672d916f8c4a5c367d532f13a50d530b10e7b4b67dcd4e237c1b665620"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "Thursday morning at ",
-    "quoteTime": "five minutes after nine",
-    "quoteLast": ". \"Any news from Sanderson?\"",
-    "title": "Murder at Bridge",
-    "author": "Austin, Anne, 1895-1975",
-    "gutenbergReference": "19403",
-    "matchType": 1,
-    "hash": "26f58c523d636292c5935ac03cc12f6396c92402b78041afc5f4f9d7ba0bd915"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": ", a violent ring at the bell called the Steward in haste to the door. This was the summons of a turnkey who came to remove the new prisoners to the respective departments of the establishment to which they belonged.",
-    "title": "The Mysteries of London, v. 1/4",
-    "author": "Reynolds, George W. M. (George William MacArthur), 1814-1879",
-    "gutenbergReference": "47312",
-    "matchType": 1,
-    "hash": "fa23405a5551a1c9d6bc88c7bd9dd916aa470f12b9a4668c28606835f08743b2"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "He got up, murmuring, �Just ",
-    "quoteTime": "five minutes after nine",
-    "quoteLast": ",� and faced his clock. �Ah,� said he, �you are doing better than usual. You are only thirty-four minutes wrong. Let me see... let me see....",
-    "title": "Alonzo Fitz, and Other Stories",
-    "author": "Twain, Mark, 1835-1910",
-    "gutenbergReference": "3184",
-    "matchType": 1,
-    "hash": "1c20ce0bfcd6237eb53260d37310fa68ae82f46d38d9e2e66bb0e8d9c067bd6c"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "Friday ",
-    "quoteTime": "9:05 A.M.",
-    "quoteLast": "",
-    "title": "Project Daedalus",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34320",
-    "matchType": 2,
-    "hash": "9bba85da7e1651fe5fdd93214a23680d421d10436494fe0efd8cb8ae2f6b2253"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "Guard Mounting Assembly of Details                           ",
-    "quoteTime": "9:05 A.M.",
-    "quoteLast": "",
-    "title": "Fort Robinson: Outpost on the Plains",
-    "author": "Grange, Roger T., 1927-",
-    "gutenbergReference": "60245",
-    "matchType": 2,
-    "hash": "0829c9bcc5383a82b737fb2037d450109b1d85436961a005dfb3895b4235e98b"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": " next morning, Mr. Byrne and his daughter, together with sundry boxes of luggage, drove away from Spur Alley in a four-wheeler for Euston Square. Three minutes later Pringle was following on their heels in a hansom.",
-    "title": "A Secret of the Sea: A Novel. Vol. 2 (of 3)",
-    "author": "Speight, T. W. (Thomas Wilkinson), 1830-1915",
-    "gutenbergReference": "57814",
-    "matchType": 1,
-    "hash": "dea2ad04b23b7cf34ea5903e46d1190cfcd06027ba8d7e1dc843ab7784be2179"
   },
   {
     "time": "09:05",
@@ -218,5 +75,148 @@
     "gutenbergReference": "54338",
     "matchType": 1,
     "hash": "99654f96411af8d841f553c0fe928a153fbc3f178b146120dec324b5cc4844bb"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "\"Nevil said in his telegram that he would be here about a quarter past seven, and it is now ",
+    "quoteTime": "five minutes past nine",
+    "quoteLast": ",\" said Mrs. Arbuthnot tearfully.",
+    "title": "Mrs. Fitz",
+    "author": "Snaith, J. C. (John Collis), 1876-1936",
+    "gutenbergReference": "34398",
+    "matchType": 1,
+    "hash": "d4fc92ebf5c501c9e984d883c013cf2074f91e419105a2fbb7d473d82843c8f3"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "\"You poor fellow! I'm very glad to see you,\" she said, shaking hands with Allan. \"I hope your father is better. Of course he is, though, or you wouldn't be here. It's ",
+    "quoteTime": "five minutes past nine",
+    "quoteLast": ", Suzie, and as I am accustomed to get my dinner at half-past seven, I hope your cook means to be punctual. Oh, here's my brother, and dinner is announced. Thank goodness!\"",
+    "title": "Sons of fire, Vol. II.",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "75174",
+    "matchType": 1,
+    "hash": "f0a34c57e0739069978c3b19960252e555bfc9b9a02f9f4fb8ae044f5bcc0077"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "Yesterday she wrote to the French consul: “Lady S. informs Mr. P. that she will give to-day a charming English dinner, and that she will be delighted to see him afterwards, at ",
+    "quoteTime": "five minutes after nine",
+    "quoteLast": ".” She wrote to Madame Vigier, formerly Mademoiselle Cruvelli: “Lady Shelley would be charmed to see Madame Vigier, if she would kindly bring her music along.” To which the ex-Cruvelli replied: “Madame Vigier would be charmed to see Lady Shelley if she would kindly come to her house, and conduct herself there like a well-bred woman.",
+    "title": "Letters to an Unknown",
+    "author": "Mérimée, Prosper, 1803-1870; Saintsbury, George, 1845-1933 [Editor]",
+    "gutenbergReference": "43553",
+    "matchType": 1,
+    "hash": "eec4361162ecb9c59199cb1286af54d2059741b430ee81aef4cef88c44bacf52"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "On the evening, when at ",
+    "quoteTime": "five minutes past nine",
+    "quoteLast": " she came into the front room clad for Mrs. Prockter's party, he perceived that the tramcar would have been unsuitable. A cab might hold her.",
+    "title": "Helen with the High Hand (2nd ed.)",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "12779",
+    "matchType": 1,
+    "hash": "4ebc2ab9dd3b1b241dff9a20e386265ed860eaac4432431c498fe66d7e67fbdc"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "'Hey, this will never do, my dear Madam--he'll be here and nothing ready; and you'll do well to send over to the mess-room for a lump of ice. 'Tis ",
+    "quoteTime": "five minutes past nine",
+    "quoteLast": ". If you'll see to these things, I'll sit here, Madam, and take the best care of the patient--and, d'ye see, Mistress Sturk, 'twill be necessary that you take care that Toole hears nothing of Dr. Dillon's coming.'",
+    "title": "The House by the Church-Yard",
+    "author": "Le Fanu, Joseph Sheridan, 1814-1873",
+    "gutenbergReference": "17769",
+    "matchType": 1,
+    "hash": "8b82091a786611d5e935f8a92a1fa25dbe8e023eca770d9474c4e5afd4f3121f"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "I had put my opened watch on the table before me, a night watch with a luminous dial. At ",
+    "quoteTime": "five minutes after nine",
+    "quoteLast": " I felt the top of the table waver under my fingers, a curious, fluid-like motion.",
+    "title": "Sight Unseen",
+    "author": "Rinehart, Mary Roberts, 1876-1958",
+    "gutenbergReference": "1960",
+    "matchType": 1,
+    "hash": "0a10c09e955800dc5b0acb502869620b36a3384f5ce313dc93e7f1ecd6fe517d"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "The battle thus assumed the phase of two fleets passing each other in opposite directions, on parallel lines; a condition usually unproductive of results, and amounting to little more than a brush, as had been the case in two rencounters between Rodney and De Guichen in the prolonged chase of May, 1780. Chance permitted a different issue on this occasion. The wind at the moment of first collision, shortly before 8 A.M., was east, and so continued till ",
+    "quoteTime": "five minutes past nine",
+    "quoteLast": ", when it shifted suddenly to the southeastward, ahead for the French, abaft for the British. The former, being already close to the wind, could keep their sails full only by bearing away, which broke up their line ahead, the order of battle as ranged for mutual support; while the British being able to luff could stand into the enemy's line.",
+    "title": "Types of Naval Officers, Drawn from the History of the British Navy",
+    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+    "gutenbergReference": "18314",
+    "matchType": 1,
+    "hash": "70b49a8aedd5857e0f805e2c5350c4b7833c2a0da1c26daad9928e8e351e5e19"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "It was ",
+    "quoteTime": "five minutes past nine",
+    "quoteLast": " when Sir Michael came down-stairs, followed by his valet, grave and gray-haired like himself. The baronet was pale, but calm and self-possessed. The hand which he gave to his nephew was as cold as ice, but it was with a steady voice that he bade the young man good-by.",
+    "title": "Lady Audley's Secret",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "8954",
+    "matchType": 1,
+    "hash": "36c01c1abdf4b694907a5086a977114dd0030c7996d9879c5303db8e999a17b6"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes past nine",
+    "quoteLast": ", a violent ring at the bell called the Steward in haste to the door. This was the summons of a turnkey who came to remove the new prisoners to the respective departments of the establishment to which they belonged.",
+    "title": "The Mysteries of London, v. 1/4",
+    "author": "Reynolds, George W. M. (George William MacArthur), 1814-1879",
+    "gutenbergReference": "47312",
+    "matchType": 1,
+    "hash": "fa23405a5551a1c9d6bc88c7bd9dd916aa470f12b9a4668c28606835f08743b2"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "'Hey, this will never do, my dear Madam--he'll be here and nothing ready; and you'll do well to send over to the mess-room for a lump of ice. 'Tis ",
+    "quoteTime": "five minutes past nine",
+    "quoteLast": ". If you'll see to these things, I'll sit here, Madam, and take the best care of the patient--and, d'ye see, Mistress Sturk, 'twill be necessary that you take care that Toole hears nothing of Dr. Dillon's coming.'",
+    "title": "The House by the Church-Yard",
+    "author": "Le Fanu, Joseph Sheridan, 1814-1873",
+    "gutenbergReference": "17769",
+    "matchType": 1,
+    "hash": "8b82091a786611d5e935f8a92a1fa25dbe8e023eca770d9474c4e5afd4f3121f"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "Her bright chatter and good looks, her innocence, strangely blended with worldly wisdom, her daring garb; all combined to divert Mr. Stiffson's mind from the thoughts of his wife, apart from which the clock pointed to ",
+    "quoteTime": "five minutes past nine",
+    "quoteLast": ", and Mrs.",
+    "title": "Adventures of Bindle",
+    "author": "Jenkins, Herbert George, 1876-1923",
+    "gutenbergReference": "32285",
+    "matchType": 1,
+    "hash": "9f22dd983a2e1843c2702cb66d0c4f609717b1e7c4bdc7db92a0bde8a91651d0"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "\"Just ",
+    "quoteTime": "five minutes after nine",
+    "quoteLast": ".  No charge--keep your blessing.\"",
+    "title": "The Entire Project Gutenberg Works of Mark Twain",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3200",
+    "matchType": 1,
+    "hash": "ff336d4fcaa5f516f9d830e4652f8657400bd047958c5e3d4136f2ebbc8a705f"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes past nine",
+    "quoteLast": " precisely, six mornings out of every seven, Mirpah Madgin sat down in her father's office and proceeded to open the letters. Mr. Madgin's business was a multifarious one. Not only was he Lady Chillington's general agent and man of business, although that was his most onerous and lucrative appointment, and the one that engaged most of his time and thoughts, but he was also agent for several lesser concerns, always contriving to have a number of small irons in the fire at one time. Much of Mr.",
+    "title": "The Argosy, Vol. 51, No. 6, June, 1891",
+    "author": "Various; Wood, Charles W. (Charles William), 1841-1919 [Editor]",
+    "gutenbergReference": "17052",
+    "matchType": 1,
+    "hash": "3f814b40df78b8e51f4cb423f0e1d42c66224856458a6a654b867fed3051a12a"
   }
 ]

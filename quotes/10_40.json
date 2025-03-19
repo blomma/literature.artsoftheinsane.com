@@ -1,190 +1,124 @@
 [
   {
     "time": "10:40",
-    "quoteFirst": "\"Now, it is known,\" added Mr. Mitchell, \"from the testimony of a boatman, whose boat passed Camden Bridge at ",
+    "quoteFirst": "On June 7 the temperature was 103.7°F. and the sheep still refused to eat. On the 8th the temperature was 103.2°F. at ",
+    "quoteTime": "10.40 a.m.",
+    "quoteLast": ", and the stools were still numerous and soft.",
+    "title": "Barium: A Cause of the Loco-Weed Disease",
+    "author": "Crawford, Albert Cornelius",
+    "gutenbergReference": "40256",
+    "matchType": 2,
+    "hash": "20bfbc263d44bbcfefa80babb08b17e4ec11fb28eddf9be7b41eb040a74c05b3"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "La Blanche to bear down and engage the other. At ",
     "quoteTime": "forty minutes past ten",
-    "quoteLast": " in the evening, that the bridge was closed according to regulation, after his passage.\"",
-    "title": "In Search of the Castaways\nA Romantic Narrative of the Loss of Captain Grant of the Brig Britannia and of the Adventures of His Children and Friends in His Discovery and Rescue",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "46597",
+    "quoteLast": ", La Minerve brought it's opponent to close action; and the fire continued, without intermission, till half past one in the morning, when the Spaniard struck. It proved to be La Sabina Spanish frigate of forty guns; twenty-eight of them, on the main deck, being eighteen pounders; with two hundred and eighty-six men, commanded by Captain Don Jacobo Stuart.",
+    "title": "The Life of the Right Honourable Horatio Lord Viscount Nelson, Volume 1",
+    "author": "Harrison, James",
+    "gutenbergReference": "16912",
     "matchType": 1,
-    "hash": "6ff4c78034b3afab4eba7bcf711ccdd3a26b5473fc1107d0720b6775d8a63a8c"
+    "hash": "304e4f88054414b6e71856e2637f32a0ccd9df7dfbf949d7d0c2de3f8e1a0b36"
   },
   {
     "time": "10:40",
-    "quoteFirst": "Her hand was still in mine when I knew the end had come. I looked at my watch on the camp table. ",
-    "quoteTime": "Twenty minutes to eleven",
-    "quoteLast": ".",
-    "title": "I Walked in Arden",
-    "author": "Crawford, Jack Randall, 1878-1968",
-    "gutenbergReference": "35796",
-    "matchType": 1,
-    "hash": "89cf040e3dc30c2c583435d62ce2f95c3c50301c73bf54c49f2b853aa9a81364"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "I glanced up at the clock. It wanted ",
-    "quoteTime": "twenty minutes to eleven",
-    "quoteLast": ".",
-    "title": "The Four Faces: A Mystery",
-    "author": "Le Queux, William, 1864-1927",
-    "gutenbergReference": "9795",
-    "matchType": 1,
-    "hash": "1cc9277feca884254f50841a8bb304eb70ad9fa5e0dbc2796e720d95751c726f"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "(_g_) Take train from Castleconnell Station at ",
-    "quoteTime": "10.40 a.m.",
-    "quoteLast": " for Nenagh, drive from Nenagh to Dromineer, take Steamer from Dromineer to Killaloe, thence rail or car to Castleconnell.",
-    "title": "The Sunny Side of Ireland\nHow to see it by the Great Southern and Western Railway",
-    "author": "O'Mahony, John, 1816-1877; Praeger, R. Lloyd (Robert Lloyd), 1865-1953 [Contributor]",
-    "gutenbergReference": "19329",
-    "matchType": 2,
-    "hash": "6143f50eb77ad18950af5654cd3cc99f3588be6eea5eee60123a71af16b0fd80"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "(_h_) Or take train from Castleconnell Station at ",
-    "quoteTime": "10.40 a.m.",
-    "quoteLast": " for Killaloe, take Steamer Killaloe to Dromineer, drive from Dromineer to Nenagh, thence rail to Castleconnell.",
-    "title": "The Sunny Side of Ireland\nHow to see it by the Great Southern and Western Railway",
-    "author": "O'Mahony, John, 1816-1877; Praeger, R. Lloyd (Robert Lloyd), 1865-1953 [Contributor]",
-    "gutenbergReference": "19329",
-    "matchType": 2,
-    "hash": "c990e50a608348ce7ce513389375f217deb046571b1e0b9612e4dbb9f2f81df4"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "At ",
+    "quoteFirst": "The Commodore (T) reconnoitred Heligoland and reported at ",
     "quoteTime": "10.40 A.M.",
-    "quoteLast": " Erches was captured and at 12.30 troops of the 30th Division were driven out of Bouchoir. Brig.-General Duncan therefore ordered the 12th R.B.",
-    "title": "The history of the Twentieth (Light) Division",
-    "author": "Inglefield, Valentine Erskine, 1886-1947; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]",
-    "gutenbergReference": "74129",
-    "matchType": 2,
-    "hash": "454fe059b080c0aa159675a7fc0be2a0f3a3e31660eb1cb726106e506b91e20f"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "\"Well, you'll need it,\" said Carlton, grimly.  \"This is going to be a long trip.  It is ",
-    "quoteTime": "twenty minutes to eleven",
-    "quoteLast": " now; you will have to hurry.",
-    "title": "The Princess Aline",
-    "author": "Davis, Richard Harding, 1864-1916",
-    "gutenbergReference": "327",
-    "matchType": 1,
-    "hash": "1135c14037c26a537500e051fec8f279b8867a49781acbed429a8fe84427fc20"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "Still, he took out a cigar, bit off the end, and put it back in his pocket. And where the deuce had Hillard gone? ",
-    "quoteTime": "Twenty minutes to eleven",
-    "quoteLast": ", and no sign of him since the play began.",
-    "title": "The Lure of the Mask",
-    "author": "MacGrath, Harold, 1871-1932; Anderson, Karl, 1874-1956 [Illustrator]; Fisher, Harrison, 1875-1934 [Illustrator]",
-    "gutenbergReference": "22158",
-    "matchType": 1,
-    "hash": "8565c6fe74a4560ab2149885a3ade7e5611b689154f5d5376514e63af6869cb3"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "Dick drove into Bathgate at ",
-    "quoteTime": "twenty minutes to eleven",
-    "quoteLast": ". He always liked to give himself plenty of time to catch a train, but hated waiting about on the platform. So he stopped at the George Hotel and went into the hall for a whisky-and-soda.",
-    "title": "The Squire's Daughter: Being the First Book in the Chronicles of the Clintons",
-    "author": "Marshall, Archibald, 1866-1934",
-    "gutenbergReference": "31381",
-    "matchType": 1,
-    "hash": "c14a75b847e60229137dd4a0e5484bc599ab674a335a271e5276fd6b925e56ed"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "\"The Assistant Commissioner told me to take charge of the inquiry without delay, sir,\" explained Winter. He glanced at his watch. \"We have not been long on the road. It is only ",
-    "quoteTime": "twenty minutes to eleven",
-    "quoteLast": ".\"",
-    "title": "The Strange Case of Mortimer Fenley",
-    "author": "Tracy, Louis, 1863-1928",
-    "gutenbergReference": "26447",
-    "matchType": 1,
-    "hash": "065103a6a0adabce954b37593b7412b9479b79beca48fad1b63ae6f645cbe673"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "At ",
-    "quoteTime": "forty minutes past ten",
-    "quoteLast": " the signal was made to form line of battle ahead and astern of the Victory, and to steer S.S.W. The fog was now cleared off, and the British fleet were seen admirably formed in the closest order; while the Spaniards were stretching in two straggling bodies across the horizon, leaving an open space between.",
-    "title": "Blackwood's Edinburgh Magazine — Volume 55, No. 342, April, 1844",
-    "author": "Various",
-    "gutenbergReference": "13633",
-    "matchType": 1,
-    "hash": "58944de6f3312bc3cd40cdf25560f2c050fd4448e7567622ae6ddf9af47105c5"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "The door that opened into the tape-room was swinging constantly now, for it wanted ",
-    "quoteTime": "twenty minutes to eleven",
-    "quoteLast": ".  Five tickers chattered incessantly, and there was a constant procession of agency boys and telegraph messengers passing in and out the vestibule of the silent building.  And the pneumatic tubes that ran from the front hall to the subs' room hissed and exploded periodically, and little leathern carriers rattled into the wire basket at the chief sub's elbow.",
-    "title": "The Other Man",
-    "author": "Wallace, Edgar, 1875-1932; Fogarty, Thomas, 1873-1938 [Illustrator]",
-    "gutenbergReference": "64907",
-    "matchType": 1,
-    "hash": "6e1d8b7f3b83884be441b9b2fc382a558e9f9f36de9b479e47ef9ba7a081bdef"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "It was ",
-    "quoteTime": "10.40 a.m.",
-    "quoteLast": " when Colonel Grant Duff advanced to seize and picket the heights north of the valley of the Petit Morin and to safeguard the advance of the column down the valley to Sablonnières. This main guard crossed the Petit Morin at 11 a.m., and shortly afterwards the advance guard was in contact with some 250 of the enemy's jäger of the Guard in the thick woods north of the ravine.",
-    "title": "1914",
-    "author": "French, John Denton Pinkstone, Earl of Ypres, 1852-1925",
-    "gutenbergReference": "24538",
-    "matchType": 2,
-    "hash": "1b0dbc43b56ceff01ab342f11488f2c90cf3bf31e26c73373e420c829165c8bc"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "At ten minutes to three this morning we were on the parade ground at ---- over a thousand strong. At ",
-    "quoteTime": "twenty minutes to eleven",
-    "quoteLast": " we marched down the wharf here at ----, well, somewhere in France; and soon after twelve the cook-house bugle went in this camp, high up on a hill outside the town, and we had our first meal in France--less than eight hours from our huts on the Plain; not quite the Front yet, but La Belle France, all the same.",
-    "title": "A \"Temporary Gentleman\" in France",
-    "author": "Dawson, A. J. (Alec John), 1872-1952",
-    "gutenbergReference": "50247",
-    "matchType": 1,
-    "hash": "54bf14c018f0216cd7a8af1fa19b8232cda891a110103d57691de776ff40b2bf"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "Leaving Fort Providence at ",
-    "quoteTime": "10.40 A.M.",
-    "quoteLast": " we soon entered “The Little Lake,” one of the numerous expansions of the Upper Mackenzie, and at 10 P.M. reached a point known as “The End of the Line,” so named from being the place where the boatmen coming up the river could dispense with the tracking line.",
-    "title": "Down the Mackenzie and up the Yukon in 1906",
-    "author": "Stewart, Elihu, 1844-1935; Brown, Ernest, 1877-1951 [Photographer]",
-    "gutenbergReference": "69836",
-    "matchType": 2,
-    "hash": "51d0345cfa09e15c631289a1590f00e5f05ec1f05a25e5a1b9f9739820b38676"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "30 resumed our journey to the south-south-west, and reached the head of the creek at 8.0 a.m. Ascending the tableland by an abrupt slope of 100 feet, our course was south one mile, when the southern slope was reached, and a large shallow valley extended across our course, beyond which a vast and slightly undulating plain extended to the horizon with scarcely a rising ground to relieve its extreme monotony. Descending by a very gentle slope into the valley, at 9.40 a.m. crossed a small watercourse trending south-east, and then passed through a plain densely covered with kangaroo-grass seven to nine feet high, and at ",
-    "quoteTime": "10.40 a.m.",
     "quoteLast": "",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
     "matchType": 2,
-    "hash": "7fc4a960ac48470e7caf49bcc4dec4e965ead33d4045625b05fb6c11d7bf30c3"
+    "hash": "787003fd07d16d22bf6eca09e8447ffe5f3414b4de9d92eb4fd6b16e5f960ee6"
   },
   {
     "time": "10:40",
-    "quoteFirst": "_Putney to Mortlake, Monday, March 22, ",
+    "quoteFirst": "_Putney to Mortlake, April 8, ",
     "quoteTime": "10.40 a.m.",
     "quoteLast": "_",
     "title": "Boating",
     "author": "Woodgate, Walter Bradford, 1842-1920; Dadd, Frank, 1851-1929 [Illustrator]",
     "gutenbergReference": "37462",
     "matchType": 2,
-    "hash": "4efba152c849daf7a2219b3f1b95ff2d5d09e0510a67a67f8dd78cd8a866168b"
+    "hash": "f3a1d963d898fa972fcfc27509a7b50dbc4519ca07bc63430aafaccd753f184c"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "ERUPTIVE PROMINENCE AT ",
+    "quoteTime": "10.40 A.M.",
+    "quoteLast": "",
+    "title": "McClure's Magazine, Vol. 6, No. 2, January, 1896",
+    "author": "Various",
+    "gutenbergReference": "13637",
+    "matchType": 2,
+    "hash": "9897c2acd57ac3eaf77c3d7b05c059bcc0d3c90f304f3df98f72b551a694f125"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "On passing her Captain Flinders hailed us and told me to be ready at 8 o'clock in the morning to proceed to the south-east up the arm on Broad Sound. At 8 A.M. Captain Flinders and Mr. Brown on board. At half-past 8 A.M. weighed and made sail, at ",
+    "quoteTime": "40 minutes past 10 A.M.",
+    "quoteLast": " grounded in 8 feet of water, at 40 minutes past 11 A.M. weighed and made sail across the entrance of the river. From noon until 40 minutes past 1 P.M. stretching across the flats of this arm, sounding from 9 feet to 3 1/4 fathoms, where we anchored. Immediately moored with the kedge which in a little time she brought home, moored with the bowers per cable one way and 25 fathoms the other, found the tide of ebb to run at 4 P.M. 5 knots and 6 fathoms. At 5 P.M. we began to touch the ground and perceived that our main keel was gone, part of it coming up alongside.",
+    "title": "The Logbooks of the Lady Nelson\r\nWith the journal of her first commander Lieutenant James Grant",
+    "author": "Lee, Ida, 1865-1943",
+    "gutenbergReference": "7509",
+    "matchType": 0,
+    "hash": "c4977c600a1c960bd38b137d735bef41ed66c5ec7214f583597eeac3b7fcb231"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "The meeting of the Ways and Means Committee which had been called for a quarter past ten was of more than local importance. It was of national importance as the Mayor was careful to inform its members, among whom were the picked brains of the community, when he informally opened the business. But it was not until ",
+    "quoteTime": "twenty minutes to eleven",
+    "quoteLast": " that he was able to do so. It was not that the Committee itself was unpunctual; it was simply that one and all had seen that morning's _Tribune_ and that the common task had perforce to yield for the nonce to their hearty congratulations.",
+    "title": "The Undefeated",
+    "author": "Snaith, J. C. (John Collis), 1876-1936",
+    "gutenbergReference": "63546",
+    "matchType": 1,
+    "hash": "617d5b780539b2903cb44a3e3ebb31893f8a1c17b46201e2d3919842ed4254f2"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "Dogs occupied the gangways of every train arriving at Putney Bridge station between 10 a.m. and ",
+    "quoteTime": "10.40 a.m.",
+    "quoteLast": "  Dogs growled, fawned, and quarrelled.",
+    "title": "Bindle: Some Chapters in the Life of Joseph Bindle",
+    "author": "Jenkins, Herbert George, 1876-1923",
+    "gutenbergReference": "33261",
+    "matchType": 2,
+    "hash": "be5622fbd2e22e5ac6092c386200ef8ca8abdab725a2faa387e924660d56b7ff"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "Brigadier. At ",
+    "quoteTime": "forty minutes after ten",
+    "quoteLast": ", the Fourth Division also took up their position in advance of Balaklava. The cavalry were then on the left front of our position, facing the enemy; the Light Cavalry Brigade _en échelon_ in reserve, with guns, on the right; the 4th Royal Irish, the 5th Dragoon Guards, and Greys on the left of the brigade, the Enniskillens and 1st Royals on the right.",
+    "title": "The British Expedition to the Crimea",
+    "author": "Russell, William Howard, Sir, 1820-1907",
+    "gutenbergReference": "46242",
+    "matchType": 1,
+    "hash": "8a21ff745d7b96bd4c630bd1829b1776a926276dd24e6dc89cd3b89293734072"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "It was summoned for a quarter to eight, and at half-past ten somebody’s carriage would be announced, and she would say, “I hope nobody is thinking of going away yet,” in consequence of which everybody would go away at ",
+    "quoteTime": "twenty minutes to eleven",
+    "quoteLast": " instead. If anybody expected to play cards or smoke in the drawing-room, he would be disappointed, because these diversions did not form part of the curriculum. The gentlemen had one cigarette in the dining-room after their wine and with their coffee: then they followed the ladies and indulged in the pleasures of conversation. Mrs.",
+    "title": "Mrs. Ames",
+    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
+    "gutenbergReference": "60168",
+    "matchType": 1,
+    "hash": "e4c780f6b935076a074f14552f3c5976ac0d23db7db835c99a6121acce773ec3"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "March 1: 10.10 a. m., 8 cc 2 per cent caffein (0.1 gram per kilo) solution injected into peritoneal cavity; ",
+    "quoteTime": "10.40 a. m.",
+    "quoteLast": ", rabbit urinated, reflexes increased, but no other symptoms; 10.50 a. m., no urine obtained from bladder; 2 p. m.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "matchType": 2,
+    "hash": "eeb52982ba84c0b484bfcfc0ef9a6fe4d99121f39b14eebacb832d3e680546eb"
   },
   {
     "time": "10:40",
@@ -199,14 +133,14 @@
   },
   {
     "time": "10:40",
-    "quoteFirst": "\"It must be late,\" said he. \"En vérité, it is ",
-    "quoteTime": "twenty minutes to eleven",
-    "quoteLast": "! I should not have thought it.\"",
-    "title": "To Leeward",
-    "author": "Crawford, F. Marion (Francis Marion), 1854-1909",
-    "gutenbergReference": "40181",
+    "quoteFirst": "At ",
+    "quoteTime": "forty minutes past ten",
+    "quoteLast": " the signal was made to form line of battle ahead and astern of the Victory, and to steer S.S.W. The fog was now cleared off, and the British fleet were seen admirably formed in the closest order; while the Spaniards were stretching in two straggling bodies across the horizon, leaving an open space between.",
+    "title": "Blackwood's Edinburgh Magazine — Volume 55, No. 342, April, 1844",
+    "author": "Various",
+    "gutenbergReference": "13633",
     "matchType": 1,
-    "hash": "1125ff5b2cfcfc8a3834655e13a067150966f26b05945747eab1439dd5b7e67e"
+    "hash": "58944de6f3312bc3cd40cdf25560f2c050fd4448e7567622ae6ddf9af47105c5"
   },
   {
     "time": "10:40",
@@ -218,5 +152,71 @@
     "gutenbergReference": "58884",
     "matchType": 1,
     "hash": "82c6ab157ff4c17874ceaef19d0871ca4a3a5a9043adafb271f4c741f5e161a0"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty minutes to eleven",
+    "quoteLast": ".",
+    "title": "Kingsford, Quarter",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "57740",
+    "matchType": 1,
+    "hash": "885d5fd3f1719b1aafec082ef85907191e370fa143e76f9a13b1320348c501dd"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "David had warned Gaveston that ",
+    "quoteTime": "twenty minutes to eleven",
+    "quoteLast": " was generally considered the “right” hour of the evening to knock for the first time at the door of the sempiternal Dean. But for his first visit, modestly postponed until his second night, Gav was careful of effect.",
+    "title": "The Oxford Circus: A Novel of Oxford and Youth",
+    "author": "Miles, Hamish, 1894-1937; Mortimer, Raymond, 1895-1980; Kettelwell, John [Illustrator]",
+    "gutenbergReference": "50358",
+    "matchType": 1,
+    "hash": "5443957824bbd6e8a5b40eae132542ec023855ee0241dc177fc136a94d4d6ef1"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "A good performance in long distance railway running was established by the Great Western Railway Company in connection with the visit in 1903 of the Prince and Princess of Wales to Cornwall. Their Royal Highnesses left Paddington in a special division of the Cornishman at ",
+    "quoteTime": "10.40 a.m.",
+    "quoteLast": ", the train being timed to do the non-stop run to North Road, Plymouth, a distance of 245 miles, in four hours and a half. This time was, however, reduced to the extent of 36-1/4 min.",
+    "title": "The King's Post\r\nBeing a volume of historical facts relating to the posts, mail coaches, coach roads, and railway mail services of and connected with the ancient city of Bristol from 1580 to the present time",
+    "author": "Tombs, Robert Charles, 1842-1923",
+    "gutenbergReference": "28533",
+    "matchType": 2,
+    "hash": "5d06cc43cad95e8679cde9dd4ca290b5f665f8e2191b1e5563e2147599527e55"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "Dove was out—had gone out about a quarter to half an hour. _She then moaned and screamed; her body was quite arched and her feet projected right from her body, and she was in that state till ",
+    "quoteTime": "twenty minutes to eleven",
+    "quoteLast": ", when she died._ Before she died she grasped the hands of Mrs. Wood and Mrs. Witham, who were holding hers, so hard that it hurt them.",
+    "title": "Reports of Trials for Murder by Poisoning;\r\nby Prussic Acid, Strychnia, Antimony, Arsenic, and Aconita. Including the trials of Tawell, W. Palmer, Dove, Madeline Smith, Dr. Pritchard, Smethurst, and Dr. Lamson, with chemical introduction and notes on the poisons used",
+    "author": "Browne, G. Lathom (George Lathom), 1815-1892; Stewart, C. G. (Charles G.), active 19th century",
+    "gutenbergReference": "50636",
+    "matchType": 1,
+    "hash": "a5be6f180073b7685ffce32e3f468b7dbe4fafb62a48ec1d3194e8a95a5ff4b8"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "“Only ",
+    "quoteTime": "twenty minutes to eleven",
+    "quoteLast": ". We dined early.”",
+    "title": "In the Wilderness",
+    "author": "Hichens, Robert, 1864-1950",
+    "gutenbergReference": "4603",
+    "matchType": 1,
+    "hash": "1cbfd9d29184e5c9a39f5e4d7d83f14263dc389d24f2e402bd3b5b9146736ae7"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "|Leeds          | 196 0 |    \"    |11.25 P.M.|  7-8/16  |Bristol      | |Liverpool      | 207 4 |    \"    |12.10 A.M.|  7-6/16  |coach        | |Norwich by     |       |         |          |          |travelled at | |  Ipswich      | 114 4 |    \"    |11.0  A.M.|  7-14/16 |the rate of  | |Ipswich to     |       |         |          |          |nine miles an| |  Yarmouth     |  54 2 |    --   |11.56 A.M.|  7-15/16 |hour.        | |Poole          | 117 4 | 8.0 P.M.|11.20 A.M.|  7-14/16 |             | |Portsmouth     |  72 6 |    \"    | 6.45 A.M.|  7-1/16  |             | |Worcester      | 114 4 |    \"    |",
+    "quoteTime": "10.40 A.M.",
+    "quoteLast": "|  8-7/16  |             | +---------------+-------+---------+----------+----------+-------------+",
+    "title": "The History of the Post Office, from Its Establishment Down to 1836",
+    "author": "Joyce, Herbert",
+    "gutenbergReference": "38328",
+    "matchType": 2,
+    "hash": "1b085140cc4db8b9426698a2c309fbeae5cac333dc1d9e530c44994e4d9a7f79"
   }
 ]

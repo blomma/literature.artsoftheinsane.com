@@ -23,6 +23,17 @@
   },
   {
     "time": "16:08",
+    "quoteFirst": "Abbershaw glanced at the grandfather clock at the head of the staircase. It showed the hour at ",
+    "quoteTime": "eight minutes past four",
+    "quoteLast": ". Mr Campion followed the direction of his eyes.",
+    "title": "The crime at Black Dudley",
+    "author": "Allingham, Margery, 1904-1966",
+    "gutenbergReference": "75359",
+    "matchType": 1,
+    "hash": "1a69213eadea7da7cd91cd3dbdf6a3a1ef3abfe90557a8b263d270420616232c"
+  },
+  {
+    "time": "16:08",
     "quoteFirst": "_At ",
     "quoteTime": "eight minutes past four",
     "quoteLast": ",_ THE JANITOR, _after smoothing his hair with his hands and putting on a pair of detachable cuffs, emerges from the wings and crosses the stage, his shoes squeaking hideously at each step. Arriving at the piano, he opens it with solemn slowness. The job seems so absurdly trivial, even to so mean an understanding, that he can't refrain from glorifying it with a bit of hocus-pocus.",
@@ -104,9 +115,9 @@
     "quoteTime": "eight minutes after four",
     "quoteLast": ". Hood's ship, the _Barfleur_, flagship of the van squadron, suddenly made a signal that she saw them. Enthusiastic cheers burst out in response from ship to ship all down the line.",
     "title": "Famous Fighters of the Fleet\nGlimpses through the Cannon Smoke in the Days of the Old Navy",
-    "author": "Fraser, Edward",
+    "author": "Fraser, Edward, 1859?-",
     "gutenbergReference": "59423",
     "matchType": 1,
-    "hash": "5114772504794c5b0ad699d2334bce8d3e90e1eacddaa0570e93ccb869d253b7"
+    "hash": "adc9ed4f750738133398d380809f66350074045783195300b65771e56427691f"
   }
 ]

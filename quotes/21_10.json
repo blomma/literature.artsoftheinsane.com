@@ -1,36 +1,80 @@
 [
   {
     "time": "21:10",
-    "quoteFirst": "In the evening we had three sharp jerking shocks of an earthquake in quick succession, at 9.8 p.m., appearing to come up from the southward: they were accompanied by a hollow rumbling sound like that of a waggon passing over a wooden bridge. The shock was felt strongly at Dorjiling, and registered by Mr. Muller at ",
+    "quoteFirst": "At ",
     "quoteTime": "9.10 p.m.",
-    "quoteLast": ": we had accurately adjusted our watches (chronometers) the previous morning, and the motion may therefore fairly be assumed to have been transmitted northwards through the intervening distance of forty miles, in two minutes. Both Mr. Muller and Mr.",
-    "title": "Himalayan Journals — Volume 1\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
-    "author": "Hooker, Joseph Dalton, 1817-1911",
-    "gutenbergReference": "6476",
+    "quoteLast": " earthquake from north to south; lasted twenty seconds; followed by strong north wind, which lasted only a short time. So end the Equinoctials.",
+    "title": "The Land of Midian (Revisited) — Volume 2",
+    "author": "Burton, Richard Francis, Sir, 1821-1890",
+    "gutenbergReference": "7113",
     "matchType": 2,
-    "hash": "bfbd328335e2d0d2e01cc29b117611c349ed3aed620cbc96ee69b44dc3756d26"
+    "hash": "35c633f5e1fdc795ca97c80b08dc4455539364b5a04dbbec5a5482bf7c6dbfa8"
   },
   {
     "time": "21:10",
-    "quoteFirst": "The _trial trip_ of the _Great Eastern_ was an event that excited intense interest all over the kingdom.  For the first time, she cast off her moorings on Wednesday morning, (the 7th September), and reached the Nore on Thursday, where she anchored for the night before proceeding to sea.  On Friday morning, at ",
+    "quoteFirst": "\"It's ",
     "quoteTime": "ten minutes past nine",
-    "quoteLast": ", she started on her first salt-water voyage.  A conviction of the extreme steadiness of the vessel must speedily have seized everyone on board.",
-    "title": "Man on the Ocean: A Book about Boats and Ships",
-    "author": "Ballantyne, R. M. (Robert Michael), 1825-1894; Richardson, R. [Illustrator]",
-    "gutenbergReference": "21749",
+    "quoteLast": ",\" retorted the shrew, craning her long neck around over her shoulder to see the face of the tall clock that stood against the wall near the bureau, upon which a solitary tallow candle gave a smoky yellow light.",
+    "title": "Belford's Magazine, Vol. II, No. 3, February 1889\nDec 1888-May 1889",
+    "author": "Various",
+    "gutenbergReference": "41678",
     "matchType": 1,
-    "hash": "4d40f5d6cd9f3ad5d23dcd6f938e8f15add20610144fe7371ca61182267615eb"
+    "hash": "6893105e3b03b4d4f8bf899340b7e0bc8e0bf2d5ff8736b4044a1148dfa23127"
   },
   {
     "time": "21:10",
-    "quoteFirst": "Some one in the Charlotte Square house may have been her accomplice and killed and robbed Lady Donaldson while Edith Crawford waited outside for the jewels. David Graham left his godmother at 8.30 p.m. If the accomplice was one of the servants in the house, he or she would have had plenty of time for any amount of villainy, and Edith Crawford could have yet caught the ",
+    "quoteFirst": "The day ended with a sudden trembling of the ship, as if straining at anchor; but the crew was again performing fantasia, and the earthquake or sea-quake rolled unheededly away. Apparently the direction was from north to south: I noted the hour, ",
     "quoteTime": "9.10 p.m.",
-    "quoteLast": " train from the Caledonian Station.\"",
-    "title": "The Old Man in the Corner",
-    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-    "gutenbergReference": "10556",
+    "quoteLast": ", and the duration, twenty seconds. According to the Arabs the Zilzilah is not uncommon in Midian, especially about the vernal equinox: on this occasion it ended the spell of damp and muggy weather which began on March 19th, and which may have been connected with it.",
+    "title": "The Land of Midian (Revisited) — Volume 2",
+    "author": "Burton, Richard Francis, Sir, 1821-1890",
+    "gutenbergReference": "7113",
     "matchType": 2,
-    "hash": "74abc73bbc526549e50e28b162dcd6a607618252d6edc2dabef5ebe2fea108cd"
+    "hash": "cdd45323a6e31c95a834b136ddbdb3a013850c7f92f89ad60a87da5ea6d17bef"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "Betty turned involuntarily to consult the grandfather's clock in the hall. The hands stood at ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": "; but, in the same moment, she remembered that the clock was not going. Armathwaite followed her glance, and looked at his watch.",
+    "title": "The House 'Round the Corner",
+    "author": "Tracy, Louis, 1863-1928",
+    "gutenbergReference": "39432",
+    "matchType": 1,
+    "hash": "75b4541362d7777c3639ceb01e088f3299943a628b4355d2ff97d213371f1467"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "It was very nice once, but now it is little better than a London suburb. My brother is a distiller. He goes to town every day by the ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": " and he returns by the six o'clock. I've heard of nothing but those two trains all my life.",
+    "title": "Celibates",
+    "author": "Moore, George, 1852-1933",
+    "gutenbergReference": "6005",
+    "matchType": 1,
+    "hash": "bdfefc7739b88a1a05487485ac9a2b7b3f991bc3e9f18e383c09eb5fabacb8de"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "And in this resolution she persisted. Nine o'clock struck, and she never moved. Then she began to picture Walter's face of disappointment and his unhappiness. At ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": " she tied a handkerchief round her head and went.",
+    "title": "A Perilous Secret",
+    "author": "Reade, Charles, 1814-1884",
+    "gutenbergReference": "12470",
+    "matchType": 1,
+    "hash": "53000cfa90ad04e4a785451528548775ff41d03bc353ff9db0ab7d76a692ba3d"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "It was ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": ", and Tom,[5] with sonorous voice, was ordering all College gates to be shut, when the wine party, which had just left Mr. Bouncer's room, passed round the corner of St. Mary's, and dashed across the High. The Town and Grown had already begun.",
+    "title": "The Further Adventures of Mr. Verdant Green, an Oxford Under-Graduate\r\nBeing a Continuation of \"The Adventures of Mr. Verdant Green, an Oxford Freshman\"",
+    "author": "Bede, Cuthbert, 1827-1889",
+    "gutenbergReference": "40338",
+    "matchType": 1,
+    "hash": "74576bc85df7db0cc735bbe556830f6900b6a26afcd8a27fcd96be72ad17b7cc"
   },
   {
     "time": "21:10",
@@ -45,28 +89,6 @@
   },
   {
     "time": "21:10",
-    "quoteFirst": "It was not for his scholarship, but for his peculiarities, that the school loved him; not because he edited a \"Cæsar\" and compiled a set of Latin exercises, for which perfectly unnecessary and disgusting labours the school hated him, but because he used to arrive at ",
-    "quoteTime": "ten minutes past nine",
-    "quoteLast": ", and his form was able to jeer at Bulldog's boys as they hastened into their class-room with much discretion at one minute before the hour. Because he used to be so much taken up with a happy phrase in Horace that he would forget the presence of his class, and walk up and down before the fireplace, chortling aloud; and because sometimes he was so hoarse that he could only communicate with the class by signs, which they unanimously misunderstood.",
-    "title": "Young Barbarians",
-    "author": "Maclaren, Ian, 1850-1907",
-    "gutenbergReference": "30089",
-    "matchType": 1,
-    "hash": "62d139a42725e2f830925b8e8f94ef9a68889aadd0f25e4fe6175cadf532acf8"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "Jimmie Dale looked at his watch--it was ",
-    "quoteTime": "ten minutes after nine",
-    "quoteLast": "--and, reaching up, turned out the light. A minute more and the French window was silently opened and closed again, and Jimmie Dale was once more on the street.",
-    "title": "The Further Adventures of Jimmie Dale",
-    "author": "Packard, Frank L. (Frank Lucius), 1877-1942",
-    "gutenbergReference": "9440",
-    "matchType": 1,
-    "hash": "243bc73daf5d499c14dd644338af3c544b218cc9245e34e565f056e2c6039e91"
-  },
-  {
-    "time": "21:10",
     "quoteFirst": "At ",
     "quoteTime": "ten minutes past nine",
     "quoteLast": " Gorman mounted the platform, the narrow strip of platform left for him in front of the pits occupied by Tim’s apparatus. The clatter of general conversation ceased, and the Cabinet Ministers, sitting in the front row with Ascher, clapped their hands.",
@@ -78,80 +100,91 @@
   },
   {
     "time": "21:10",
-    "quoteFirst": "",
-    "quoteTime": "9:10 PM",
-    "quoteLast": ", E.S.T.: Eastern Airlines six-engine jet makes wheels-up landing on roof of Pentagon, breaking some 1500 windows but causing no other major damage (except to the people aboard the jet); record of this incident fragmentary because entire site charred black in fusion attack two hours later.",
-    "title": "Plague of Pythons",
-    "author": "Pohl, Frederik, 1919-2013; Ritter, Bob [Illustrator]",
-    "gutenbergReference": "51804",
-    "matchType": 2,
-    "hash": "dc12a4a79ba992259a3c8324f950dbca6196b8cda840c17b4181ff927dd765ee"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "Just before he saw Mr. Horbury and his companion, he heard the clock at Scarnham Parish Church strike nine, and after they had passed him he had gone on to the Green Archer public-house, and had noticed that it was ",
+    "quoteFirst": "You are all balled up, I see, and can't work loose, but take him upstairs; don't let your aunt come across him or she'll have a fit.” Here he glanced at the bronze clock. “What!--",
     "quoteTime": "ten minutes past nine",
-    "quoteLast": " when he entered. Further questioned, he said he saw no one else on the Hollow but the two gentlemen.",
-    "title": "The Chestermarke Instinct",
-    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
-    "gutenbergReference": "27965",
+    "quoteLast": "! Parkins, see if my cab is at the door.... Jack, you ride down with me. I walked when I was your age, and got up at daylight.",
+    "title": "Peter: A Novel of Which He is Not the Hero",
+    "author": "Smith, Francis Hopkinson, 1838-1915",
+    "gutenbergReference": "4516",
     "matchType": 1,
-    "hash": "d41a32c7f39e51d37422e13f850619470ebf47bbf0c1e9b37105fb467cbbdf2a"
+    "hash": "df3b3bfc194e75a23c0b085a1a81fd12544c0baf5db032be84a40467628aafc2"
   },
   {
     "time": "21:10",
-    "quoteFirst": "Napier had stood outside the entrance to the dock, waiting for Nan, since ",
+    "quoteFirst": "At ",
     "quoteTime": "ten minutes past nine",
-    "quoteLast": ". At twenty minutes to ten there she was at last.",
-    "title": "The Messenger",
-    "author": "Robins, Elizabeth, 1862-1952; Giguere, George [Illustrator]",
-    "gutenbergReference": "35671",
+    "quoteLast": ", exactly, the door opened, and a thick-set, florid man, buttoned up in a fawn colored raincoat and wearing a bowler hat of obsolete build, entered. He possessed a black mustache, a breezy, bustling manner, and humorous blue eyes; furthermore, when he took off his hat, he revealed the possession of a head of very bristly, upstanding, black hair.",
+    "title": "The Yellow Claw",
+    "author": "Rohmer, Sax, 1883-1959",
+    "gutenbergReference": "2028",
     "matchType": 1,
-    "hash": "4edaf74d476626bcce9e8308275d2900df0a5fb5f19f292dfce46ef99a2555e6"
+    "hash": "5cf38d178a315c4a1d3dc6864b67dac6c88c9602a6787fadd6a33a5c2433d09a"
   },
   {
     "time": "21:10",
-    "quoteFirst": "“It is ",
+    "quoteFirst": "It was not for his scholarship, but for his peculiarities, that the school loved him; not because he edited a \"Cæsar\" and compiled a set of Latin exercises, for which perfectly unnecessary and disgusting labours the school hated him, but because he used to arrive at ",
     "quoteTime": "ten minutes past nine",
-    "quoteLast": ".”",
-    "title": "A private chivalry",
-    "author": "Lynde, Francis, 1856-1930",
-    "gutenbergReference": "72849",
+    "quoteLast": ", and his form was able to jeer at Bulldog's boys as they hastened into their class-room with much discretion at one minute before the hour. Because he used to be so much taken up with a happy phrase in Horace that he would forget the presence of his class, and walk up and down before the fireplace, chortling aloud; and because sometimes he was so hoarse that he could only communicate with the class by signs, which they unanimously misunderstood.",
+    "title": "Young Barbarians",
+    "author": "Maclaren, Ian, 1850-1907",
+    "gutenbergReference": "30089",
     "matchType": 1,
-    "hash": "2a498947413369b4b8554be3fdbae36507c2ecb6994f18ef768901777a26ec62"
+    "hash": "62d139a42725e2f830925b8e8f94ef9a68889aadd0f25e4fe6175cadf532acf8"
   },
   {
     "time": "21:10",
-    "quoteFirst": "‘Well, the ordinary letter-boxes are clear at half-past six, but if you are late you can post in the van of the English mail at the Gare du Nord up till ",
+    "quoteFirst": "The Temple Association, commanded by Captain Graham, was the first that entered the Park; it arrived at seven o’clock, during a heavy shower of rain, which continued incessantly from the time it left the Temple Gardens. Several other corps followed soon after; and, at half past eight, the whole were on the ground. The necessary dispositions, agreeable to the official regulations, were then made; and, about ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": ", his Majesty appeared, attended by the Prince of Wales, the Dukes of York, Kent, Cumberland and Gloucester, a number of general officers, and a formidable detachment of the Life Guards.",
+    "title": "Hyde Park from Domesday-book to Date",
+    "author": "Ashton, John, 1834-1911",
+    "gutenbergReference": "51438",
+    "matchType": 1,
+    "hash": "636cc35944bad636e26b52decad3634e506a28b48b239880ced4344deb206052"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "\"Yes; ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": ". Looked at my watch. You see, I wondered if the Chalmerses were expecting anyone, didn't think they were. Anyhow, all the talk you hear about juvenile delinquents in parked cars, naturally I--\" her voice dwindled and came alive again briskly: \"My watch runs good.",
+    "title": "The Trial of Callista Blake",
+    "author": "Pangborn, Edgar, 1909-1976",
+    "gutenbergReference": "39826",
+    "matchType": 1,
+    "hash": "2defc12e8e09d0ea6a8f0dfdada11639e0f8309e3d57bb106cea95a1a2739e44"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": " a tremendous explosion shook the air. One of the _Kentucky's_ shells had struck the principal magazine. The concussion and the fire that followed caused the vast oil reservoirs to ignite, and in a few moments the whole of the central portion of the rock seemed one mass of flames.",
+    "title": "The Sea-girt Fortress: A Story of Heligoland",
+    "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Wigfull, W. Edward, 1875-1944 [Illustrator]",
+    "gutenbergReference": "50050",
+    "matchType": 1,
+    "hash": "37a1f33aeb538b9529f988828b6b563e8f506a9f12331e5746acd8145f36a906"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "“Great Tom,” the biggest bell in England—the custodian says, in the world,—hangs in the cupola over the gateway. It weighs 17,000 pounds, and at ",
+    "quoteTime": "ten minutes past nine P.M.",
+    "quoteLast": " strikes one hundred and ten times, the number of students “on the foundation.” The pride of this college is the immense refectory, or dining-hall.",
+    "title": "Loitering in Pleasant Paths",
+    "author": "Harland, Marion, 1830-1922",
+    "gutenbergReference": "50511",
+    "matchType": 0,
+    "hash": "057c7e525a3c54676e212486092b8c860480f4844938779648b3e8abc3d64e20"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "Some one in the Charlotte Square house may have been her accomplice and killed and robbed Lady Donaldson while Edith Crawford waited outside for the jewels. David Graham left his godmother at 8.30 p.m. If the accomplice was one of the servants in the house, he or she would have had plenty of time for any amount of villainy, and Edith Crawford could have yet caught the ",
     "quoteTime": "9.10 p.m.",
-    "quoteLast": ", so you have plenty of time for that later.",
-    "title": "The Cask",
-    "author": "Crofts, Freeman Wills, 1879-1957",
-    "gutenbergReference": "59854",
+    "quoteLast": " train from the Caledonian Station.\"",
+    "title": "The Old Man in the Corner",
+    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+    "gutenbergReference": "10556",
     "matchType": 2,
-    "hash": "578e76324131770ccfd41d060a641af5fd4644416a14b9d259d7fcdbb5fad31f"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "\"",
-    "quoteTime": "Ten minutes past nine",
-    "quoteLast": ",\" replied Louis, after looking at his watch.",
-    "title": "American boys afloat",
-    "author": "Optic, Oliver, 1822-1897",
-    "gutenbergReference": "75149",
-    "matchType": 1,
-    "hash": "9f47ab330088c476a438359da878fb77f24e374caaaade6e02247f57f0ab78e5"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "“It is ",
-    "quoteTime": "ten minutes past nine",
-    "quoteLast": ".”",
-    "title": "A private chivalry",
-    "author": "Lynde, Francis, 1856-1930",
-    "gutenbergReference": "72849",
-    "matchType": 1,
-    "hash": "2a498947413369b4b8554be3fdbae36507c2ecb6994f18ef768901777a26ec62"
+    "hash": "74abc73bbc526549e50e28b162dcd6a607618252d6edc2dabef5ebe2fea108cd"
   },
   {
     "time": "21:10",
@@ -166,57 +199,24 @@
   },
   {
     "time": "21:10",
-    "quoteFirst": "Dacres looked at his watch. It was ",
-    "quoteTime": "ten minutes past nine",
-    "quoteLast": ".",
-    "title": "The Dreadnought of the Air",
-    "author": "Westerman, Percy F. (Percy Francis), 1876-1959",
-    "gutenbergReference": "46117",
-    "matchType": 1,
-    "hash": "a1a241a3ff14d28e8157d39016b74939105106ff62b4b6d95c9e3e220e49a8da"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "\"I do not ask who it was,\" I went on, with a quiet wave of my hand that immediately restored him to himself, \"for I know you will not tell me. But what I do hope to know is the name of the man who entered that same house at just ",
-    "quoteTime": "ten minutes after nine",
-    "quoteLast": ". He was one of the funeral guests, and he arrived in a carriage that was immediately preceded by a coach from which four persons alighted, two ladies and two gentlemen.\"",
-    "title": "That Affair Next Door",
-    "author": "Green, Anna Katharine, 1846-1935",
-    "gutenbergReference": "21617",
-    "matchType": 1,
-    "hash": "88184ac9d3adf5d2367c48b4f6e025a752d0f16980ff1a6dd44c453384b83473"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "\"",
-    "quoteTime": "Ten minutes after nine",
-    "quoteLast": ",\" said Doctor Hugh, all too soon.  \"I must help you get your sleeping outfit together.\"",
-    "title": "Rainbow Hill",
-    "author": "Lawrence, Josephine, 1897?-1978; Gooch, Thelma, 1895-1973 [Illustrator]",
-    "gutenbergReference": "26533",
-    "matchType": 1,
-    "hash": "b789da40c2a6dc89d792a895c2cfeb914f83c2048cf6b7234212508f2c7857a5"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "Accordingly at 7.30 P.M. the exact position of our troops was reported to the Forty-seventh Division, which informed us that the 99th Brigade was at Manancourt and Equancourt in reserve. This brigade was placed under the orders of the Ninth at ",
+    "quoteFirst": "Outside Ischia, the shock was felt distinctly in all the island of Procida and in Vivara; on the mainland, by some as far as Pozzuoli and by several persons in Naples, which is twenty miles from Casamicciola. The seismograph at the university of this city registered two small shocks, the first at ",
     "quoteTime": "9.10 P.M.",
-    "quoteLast": ", and one of its battalions was ordered to extend from the left of the 26th Brigade to a point about 1000 yards north of Fins. The stretch of front held by the Division, with the 99th Brigade attached, on the night of the 22nd/23rd amounted to 7500 yards.",
-    "title": "The history of the 9th (Scottish) Division, 1914-1919",
-    "author": "Ewing, John, M.C.; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator]",
-    "gutenbergReference": "75001",
+    "quoteLast": ", and the second and stronger at 9.25 P.M.; and De Rossi states that at about 9.30 P.M. the seismographs at Ceccano, Velletri, and Rome recorded a shock consisting of very slow undulations. There are again no materials for estimating the size of the disturbed area, but there can be no doubt that it was much less than that of a moderately strong British earthquake.",
+    "title": "A Study of Recent Earthquakes",
+    "author": "Davison, Charles, 1858-1940",
+    "gutenbergReference": "25062",
     "matchType": 2,
-    "hash": "9f4dc299eac58d72c5d935115cbb8fb15f6c2dab51d20d711ef5b63bef74a1b9"
+    "hash": "fc0f73f6eb5268252a5cb2f87bc3e172cb215a01e475814f566f25748ed33c49"
   },
   {
     "time": "21:10",
-    "quoteFirst": "Within ",
-    "quoteTime": "ten minutes after Nine",
-    "quoteLast": "ty-four was ready for work word came to \"shut off,\" and the men set about disconnecting the hose.",
-    "title": "An Amateur Fireman",
-    "author": "Otis, James, 1848-1912; Cary, William de la Montagne, 1840-1922 [Illustrator]",
-    "gutenbergReference": "33242",
-    "matchType": 1,
-    "hash": "c48e56afacfffbf3fe766f4afc88dd61110b3ea4a6c4201f0263ff5e4407d2a4"
+    "quoteFirst": "Some one in the Charlotte Square house may have been her accomplice and killed and robbed Lady Donaldson while Edith Crawford waited outside for the jewels. David Graham left his godmother at 8.30 p.m. If the accomplice was one of the servants in the house, he or she would have had plenty of time for any amount of villainy, and Edith Crawford could have yet caught the ",
+    "quoteTime": "9.10 p.m.",
+    "quoteLast": " train from the Caledonian Station.\"",
+    "title": "The Old Man in the Corner",
+    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+    "gutenbergReference": "10556",
+    "matchType": 2,
+    "hash": "74abc73bbc526549e50e28b162dcd6a607618252d6edc2dabef5ebe2fea108cd"
   }
 ]

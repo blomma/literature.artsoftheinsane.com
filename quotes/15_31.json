@@ -1,6 +1,28 @@
 [
   {
     "time": "15:31",
+    "quoteFirst": "The course of the Battle Cruiser Fleet was then altered to the eastward and N.E. towards the smoke, the enemy being sighted at ",
+    "quoteTime": "3.31 P.M.",
+    "quoteLast": " and identified as five battle cruisers accompanied by destroyers.",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "matchType": 2,
+    "hash": "ad1750ef7d4a588391ed138e6d214880678bd4ad0312fc150cc94115a0163f1a"
+  },
+  {
+    "time": "15:31",
+    "quoteFirst": "This made it clear that the enemy was to the northward and eastward, and that it would be impossible for him to round the Horn Reef without being brought to action. Course was accordingly altered the eastward and north-eastward, the enemy being sighted at ",
+    "quoteTime": "3.31 P.M.",
+    "quoteLast": " They appeared to be five battle cruisers.",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "matchType": 2,
+    "hash": "966c48839c84c893b1cec38a057d791e7d125436982a77a60c63df9e2554c1b2"
+  },
+  {
+    "time": "15:31",
     "quoteFirst": "This made it clear that the enemy was to the northward and eastward, and that it would be impossible for him to round the Horn Reef without being brought to action. Course was accordingly altered to the eastward and subsequently to north-eastward, the enemy being sighted at ",
     "quoteTime": "3.31 p.m.",
     "quoteLast": " Their force consisted of five battle-cruisers.",

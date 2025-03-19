@@ -1,91 +1,36 @@
 [
   {
     "time": "07:40",
-    "quoteFirst": "Steering a general course 200 degrees from ",
+    "quoteFirst": "Under the portrait of that bold, handsome, unscrupulous Warden of King's a faithful clock ticked to the passing of time. The time it showed now was ",
+    "quoteTime": "twenty minutes to eight",
+    "quoteLast": ". Both ladies in silence had turned to the fire and they were now both standing each with one foot on the fender and were looking up at the portrait and not at the clock. Neither of them, however, thought of the portrait.",
+    "title": "The New Warden",
+    "author": "Ritchie, David G. (David George), Mrs.",
+    "gutenbergReference": "32388",
+    "matchType": 1,
+    "hash": "c4048e58b2a28ffd669af69ac8db637edc26dc01af591f2742f718e16609689d"
+  },
+  {
+    "time": "07:40",
+    "quoteFirst": "The support company put up a good fight--Hettler was hit early--and eventually was nearly surrounded; but it cut its way out and managed also to gain the Cachy Switch. The Divisional records time our retirement to the Cachy Switch at ",
     "quoteTime": "7.40 a.m.",
-    "quoteLast": " to 8.40, again reached the shore of the lake, followed it south-east till 9.45, then 80 degrees till 12.15 p.m., when we halted for one and a half hours under a very remarkable solitary gum-tree; we then steered 173 degrees till 2.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
+    "quoteLast": ", but there seems no doubt that the Battalion's resistance was much more prolonged than this would indicate. Certainly Morton was not able to report the organisation of his new position till 10.15 a.m. By this time only about one hundred men of the Battalion with three subalterns, Prince, Sheppard and Ewing, were under Morton's hand, though others rejoined later.",
+    "title": "The War History of the 4th Battalion, the London Regiment (Royal Fusiliers), 1914-1919",
+    "author": "Grimwade, F. Clive",
+    "gutenbergReference": "50098",
     "matchType": 2,
-    "hash": "b38d897d6f6dca87a4941ab87650f2fc50bd9336c653a96f5a0a24f941ac0d28"
+    "hash": "125cbb4c2563ef21caa448f6a0367c435c72c7147d0ccea706dcdae32c3938f4"
   },
   {
     "time": "07:40",
-    "quoteFirst": "Melladew's custom on Saturday mornings to take half-an-hour extra in the way of sleep, and Mr. Melladew would prepare his own breakfast on these occasions. He did so on this morning, and left his house at ",
+    "quoteFirst": "There! my Tony.  To-morrow night we start.  You will meet me-shall I call here?-- well, then at the railway station, the South-Eastern, for Paris: say, ",
     "quoteTime": "twenty minutes to eight",
-    "quoteLast": ".",
-    "title": "Devlin the Barber",
-    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
-    "gutenbergReference": "53044",
+    "quoteLast": ".  I have your pledge?  You will come?'",
+    "title": "Diana of the Crossways — Volume 3",
+    "author": "Meredith, George, 1828-1909",
+    "gutenbergReference": "4467",
     "matchType": 1,
-    "hash": "fc5b96d02fd311fbe6250aa5303c62902fc70e9c018641b07e7978abde83b44b"
-  },
-  {
-    "time": "07:40",
-    "quoteFirst": "\"Too good: a man does not want eight or nine hours' sleep. I dropped asleep the minute I got into bed last night; did not even hear my clock strike eleven, though it only wanted a few minutes to it; and I never woke until ",
-    "quoteTime": "twenty minutes to eight",
-    "quoteLast": " this morning. I was very tired last night.\"",
-    "title": "Anne Hereford: A Novel",
-    "author": "Wood, Henry, Mrs., 1814-1887",
-    "gutenbergReference": "57875",
-    "matchType": 1,
-    "hash": "5c7352dbac4818499d6f423de6052ec87227f6cc6dc235e68c09753d1ef56bca"
-  },
-  {
-    "time": "07:40",
-    "quoteFirst": "\"Don't think about me: I must go out for a little while.\" He left them on the terrace and started on his mysterious errand. As he let himself out into the road by a little side-gate of which he had pocketed the key, it was five-and-",
-    "quoteTime": "twenty minutes to eight",
-    "quoteLast": ". He had abundance of time. It was not three miles to the white gate into Langley Wood, a little more than three miles to the milestone beyond which he was on no account to go, and he had almost an hour to do it in. Nevertheless, he started on his walk like a man in haste.",
-    "title": "Lippincott's Magazine of Popular Literature and Science, Volume 20. December, 1877",
-    "author": "Various",
-    "gutenbergReference": "37946",
-    "matchType": 1,
-    "hash": "ee32e8b5596fce9a12cbd4c66c4576a35a8c3dcbaec522ab0c8b45ee8b1a7915"
-  },
-  {
-    "time": "07:40",
-    "quoteFirst": "About ",
-    "quoteTime": "7:40 A.M.",
-    "quoteLast": " the motor was started and at 7:52 I took-off on the flight for Paris.",
-    "title": "\"We\"",
-    "author": "Lindbergh, Charles A. (Charles Augustus), 1902-1974; Herrick, Myron T. (Myron Timothy), 1854-1929 [Author of introduction, etc.]; Green, Fitzhugh, 1888-1947 [Contributor]",
-    "gutenbergReference": "73142",
-    "matchType": 2,
-    "hash": "9524dd5f9291fea60396e1356ec443c3f282ca3f18f9423345134918eba34110"
-  },
-  {
-    "time": "07:40",
-    "quoteFirst": "I was co-editor of the _Arbeiter-Zeitung_. On the evening of May 4th I left home ",
-    "quoteTime": "twenty minutes to eight",
-    "quoteLast": ", went to the _Arbeiter-Zeitung_ and reached there about eight o’clock. I left about ten minutes later. While I was there a telephone message was received asking Mr.",
-    "title": "Anarchy and Anarchists\r\nA History of the Red Terror and the Social Revolution in America and Europe; Communism, Socialism, and Nihilism in Doctrine and in Deed; The Chicago Haymarket Conspiracy and the Detection and Trial of the Conspirators",
-    "author": "Schaack, Michael J.",
-    "gutenbergReference": "52811",
-    "matchType": 1,
-    "hash": "e5515078bbcba3015d266073f14b55ed913d31b7320510e99e669b583b09dadd"
-  },
-  {
-    "time": "07:40",
-    "quoteFirst": "The van and centre, engaging at ",
-    "quoteTime": "forty minutes past seven",
-    "quoteLast": ", wore to the southward. The topsail-yard being fished, set the fore topsail standing for the enemy's fleet; people employed repairing the rigging.",
-    "title": "Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II",
-    "author": "Ross, John, Sir, 1777-1856",
-    "gutenbergReference": "27151",
-    "matchType": 1,
-    "hash": "d729610ac5783d32412b1ea2625c4aa62c9e84a628ea577089a962a785bb8d30"
-  },
-  {
-    "time": "07:40",
-    "quoteFirst": "On the washstand beside him lay a large, ungainly silver watch, its case worn smooth with years of service. It had a hunting-case, and it was open. Hawkins glanced at it. It was ",
-    "quoteTime": "twenty minutes to eight",
-    "quoteLast": ".",
-    "title": "Pawned",
-    "author": "Packard, Frank L. (Frank Lucius), 1877-1942",
-    "gutenbergReference": "51965",
-    "matchType": 1,
-    "hash": "31e52ea4720efb366888bd44ee5181c7ce5d904fe60db64ec2dbc7e2e34dd0bd"
+    "hash": "4605776296aa14b78569e77527db831e2832f338061ce1653ca85e27b6d56fbd"
   },
   {
     "time": "07:40",
@@ -100,69 +45,58 @@
   },
   {
     "time": "07:40",
-    "quoteFirst": "“I went at ",
-    "quoteTime": "twenty minutes to eight",
-    "quoteLast": " on the Saturday evening and found her sitting up; her husband and Mrs. Witham were with her. About eight she asked her husband for her medicine; he went out of the room to get it, and returned in about a minute with it, and gave it to her. She said it was very bitter, very hot, and very nasty, and that she thought she would get better if the attack did not return.",
-    "title": "Reports of Trials for Murder by Poisoning;\r\nby Prussic Acid, Strychnia, Antimony, Arsenic, and Aconita. Including the trials of Tawell, W. Palmer, Dove, Madeline Smith, Dr. Pritchard, Smethurst, and Dr. Lamson, with chemical introduction and notes on the poisons used",
-    "author": "Browne, G. Lathom (George Lathom), 1815-1892; Stewart, C. G. (Charles G.), active 19th century",
-    "gutenbergReference": "50636",
-    "matchType": 1,
-    "hash": "35f79603b897c2a85f38f9874852debc169040def0b13f49f5114b44f83491d7"
-  },
-  {
-    "time": "07:40",
-    "quoteFirst": "\"",
-    "quoteTime": "Twenty minutes to eight",
-    "quoteLast": ",\" was the reply, \"so you've twenty-five minutes. Rowland is allowed to wait five minutes, I know.\"",
-    "title": "Englefield Grange; or, Mary Armstrong's Troubles",
-    "author": "Paull, H. B., Mrs., 1812-1888",
-    "gutenbergReference": "34794",
-    "matchType": 1,
-    "hash": "601fbd775f0eec307af36a01bab8796c228052bc5b7380c06d0d2c7f053c156f"
-  },
-  {
-    "time": "07:40",
-    "quoteFirst": "At daylight on the 21st the belligerent fleets were within twelve miles of each other. Nelson was on deck early, and at ",
+    "quoteFirst": "Dray started at ",
     "quoteTime": "7.40 a.m.",
-    "quoteLast": " made the signal \"To form the order of sailing,\" and \"To prepare for battle.\" Then the signal was made to \"Bear up,\" the _Victory_ and _Royal Sovereign_ leading the way in two lines; Nelson took the weather line with his ships, and the other division followed, but the wind being light, many had barely steerage way.",
-    "title": "Drake, Nelson and Napoleon",
-    "author": "Runciman, Walter Runciman, Baron, 1847-1937",
-    "gutenbergReference": "15299",
+    "quoteLast": " and at six and three-quarter miles distant got to Mallapoorponannie sand range, the southern end of which is called Cookorda; about two miles off its northern end dwindles down to nothing in the desert. To the northern end of Coontarie sand range a creek and well by the same name; about twelve miles off a detached sand range in the desert, at the north-west end of which are two waters named respectively Dhooramoorco and Moongaara; also on north-east side of sand range another water in creek called Caddryyerra, also a sand range about four to five miles distant.",
+    "title": "McKinlay's Journal of Exploration in the Interior of Australia",
+    "author": "McKinlay, John, 1819-1872",
+    "gutenbergReference": "13248",
     "matchType": 2,
-    "hash": "26a711a36296a4c36166e1ba8ac217368a7dafc86ec4a2216766249132b0ee8f"
+    "hash": "39cadb1f2378d09b26379a70d9a4f27b31eebe7c5a2a53285352b480b75e8ac3"
   },
   {
     "time": "07:40",
-    "quoteFirst": "Perry’s fence promptly at ",
+    "quoteFirst": "The occupants, when the thieves arrived, had not yet all left for the night, but the offices on the second floor were empty, and to these three of the robbers at once ascended by means of the common staircase, and there took up their first position, the other two remaining in the street to watch and give signals. At ",
     "quoteTime": "twenty minutes to eight",
-    "quoteLast": " and whistling his doleful signal. Perry joined him without his cap and spoke subduedly.",
-    "title": "The Purple Pennant",
-    "author": "Barbour, Ralph Henry, 1870-1944; Rockwell, Norman, 1894-1978 [Illustrator]",
-    "gutenbergReference": "65819",
+    "quoteLast": " the signal was given by the confederates outside the house that Mr. Walker’s foreman, who appears to have been the last on the premises, was gone, and their operations commenced.",
+    "title": "Protection from Fire and Thieves\r\nIncluding the construction of locks, safes, strong-rooms, and fireproof buildings; burglary, and the means of preventing it; fire, its detection, prevention, and extinction; etc.",
+    "author": "Chubb, George Hayter",
+    "gutenbergReference": "49704",
     "matchType": 1,
-    "hash": "e3e0ca5446059fa71b320478d28270516c472eb3e22893bb93d4e6c57871e13d"
+    "hash": "d2f84b5f87d756083d98429c55a0cf945ebc883726fe79926142d5b455e89ffe"
   },
   {
     "time": "07:40",
-    "quoteFirst": "Steering a general course 200 degrees from ",
+    "quoteFirst": "Left the camp at ",
     "quoteTime": "7.40 a.m.",
-    "quoteLast": " to 8.40, again reached the shore of the lake, followed it south-east till 9.45, then 80 degrees till 12.15 p.m., when we halted for one and a half hours under a very remarkable solitary gum-tree; we then steered 173 degrees till 2.",
+    "quoteLast": ", steering north-west. Made the stream previously called the Buller at 9.0; followed it downwards to the south-south-west till 11.",
     "title": "Journals of Australian Explorations",
     "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
     "gutenbergReference": "10461",
     "matchType": 2,
-    "hash": "b38d897d6f6dca87a4941ab87650f2fc50bd9336c653a96f5a0a24f941ac0d28"
+    "hash": "342019622b348bce385cddd8c4d33fc11bd6b1b8cae91878e4fab29c0bf927e8"
   },
   {
     "time": "07:40",
-    "quoteFirst": "Started at ",
-    "quoteTime": "7.40 a.m.",
-    "quoteLast": ", and, steering 240 degrees, crossed the river, left the grassy flats, and entered the sandy downs; at 8.45 ascended a steep sandstone cliff, and from the top had a distant view of the sea; the river about one and a half miles to the south, where a large branch joined it from the east about two miles below the bivouac. At 9.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
+    "quoteFirst": "",
+    "quoteTime": "7:40 A.M.",
+    "quoteLast": " Took 5 drops of tincture. At once have a full feeling in head, especially vertex, pressing from within.",
+    "title": "New, Old, and Forgotten Remedies: Papers by Many Writers",
+    "author": "Anshutz, Edward Pollock, 1846-1918 [Editor]",
+    "gutenbergReference": "38757",
     "matchType": 2,
-    "hash": "0bd0ec6566f24e88f1a56e151d6507f892a92a4d6bd89a3659938fedefed7679"
+    "hash": "466a08fa4978e78a3a5f62d6a72769c7c1f4d9feaf2ad87c2aeef9fc2c6db7b1"
+  },
+  {
+    "time": "07:40",
+    "quoteFirst": "Melladew's custom on Saturday mornings to take half-an-hour extra in the way of sleep, and Mr. Melladew would prepare his own breakfast on these occasions. He did so on this morning, and left his house at ",
+    "quoteTime": "twenty minutes to eight",
+    "quoteLast": ".",
+    "title": "Devlin the Barber",
+    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+    "gutenbergReference": "53044",
+    "matchType": 1,
+    "hash": "fc5b96d02fd311fbe6250aa5303c62902fc70e9c018641b07e7978abde83b44b"
   },
   {
     "time": "07:40",
@@ -177,36 +111,47 @@
   },
   {
     "time": "07:40",
-    "quoteFirst": "Paris: say, ",
+    "quoteFirst": "“Yesterday morning, at ",
     "quoteTime": "twenty minutes to eight",
-    "quoteLast": ". I have your pledge? You will come?'",
-    "title": "Diana of the Crossways — Complete",
-    "author": "Meredith, George, 1828-1909",
-    "gutenbergReference": "4470",
+    "quoteLast": ".”",
+    "title": "A waif's progress",
+    "author": "Broughton, Rhoda, 1840-1920",
+    "gutenbergReference": "73654",
     "matchType": 1,
-    "hash": "f19c5059093a8f113b10d1b4b943f09ba729e029b541346e81acf5099eb6362a"
+    "hash": "ade0d5e73b2b2cae99efe017426335a06a362b9b39d7319aa1510510e6809ac0"
   },
   {
     "time": "07:40",
-    "quoteFirst": "So, with an excuse for his absence to Ralph, at ",
+    "quoteFirst": "Heralds' College. Time, ",
     "quoteTime": "twenty minutes to eight",
-    "quoteLast": " Hugh strolled out of the house, and hailing a hansom in Oxford street, drove to Blank street, Bloomsbury.",
-    "title": "Dr. Paull's Theory: A Romance",
-    "author": "Diehl, Alice M. (Alice Mangold), 1844-1912",
-    "gutenbergReference": "67437",
+    "quoteLast": "._ Mrs. TIDMARSH _is seated, flushed and expectant, near the fire, her little daughter_, GWENDOLEN, _aged seven, is apparently absorbed in a picture-book close by._ Miss SEATON _is sitting by a side-table, at some distance from them. Enter_ Mr.",
+    "title": "Punch, or the London Charivari, Volume 104, January 28, 1893",
+    "author": "Various; Burnand, F. C. (Francis Cowley), 1836-1917 [Editor]",
+    "gutenbergReference": "20333",
     "matchType": 1,
-    "hash": "6817232d47cb6dd26035202232dfe28016c5bdf7d0c101ddeb625efabfb11620"
+    "hash": "5bb762944c09cd7815a98cd989b2781aa9a766b5df6c2c8c0981feffc25c148d"
   },
   {
     "time": "07:40",
-    "quoteFirst": "Wednesday, 24th April, Hayward Creek. Started at ",
-    "quoteTime": "7.40 a.m.",
-    "quoteLast": "; course 17 degrees. At 9.30 changed to 14 degrees 30 minutes west of north, and at 12.",
-    "title": "Explorations in Australia\r\nThe Journals of John McDouall Stuart During the Years 1858, 1859, 1860, 1861, and 1862, When He Fixed the Centre of the Continent and Successfully Crossed It from Sea to Sea",
-    "author": "Stuart, John McDouall, 1815-1866",
-    "gutenbergReference": "8911",
-    "matchType": 2,
-    "hash": "ecdc2c799fb0faf2f845575b2248a62ecb0c265ac9434111a421a30a8108c921"
+    "quoteFirst": "I remember,\" he says, \"many cases, but perhaps no better illustration need be looked for than the case of a cotton mill in Lancashire about two years ago (1901). The fire was seen to start at a few minutes past seven; a fuse blew out, and sparked some cotton; but it looked such a simple job that the operatives elected to deal with it. At ",
+    "quoteTime": "twenty minutes to eight",
+    "quoteLast": " it dawned upon somebody that the brigade had better be sent for, because the fire was getting away; and in due course they arrived; but the mill, already doomed, became a total loss. In every centre similar instances can be quoted. There is nothing in any automatic system to discourage individual effort.",
+    "title": "The Romance of Modern Mechanism\r\nWith Interesting Descriptions in Non-technical Language of Wonderful Machinery and Mechanical Devices and Marvellously Delicate Scientific Instruments",
+    "author": "Williams, Archibald, 1871-1934",
+    "gutenbergReference": "46094",
+    "matchType": 1,
+    "hash": "777f592f7a9b2206f82949c068b9fa877b63f1e7a29da36c74bf53bb824c4910"
+  },
+  {
+    "time": "07:40",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty minutes to eight",
+    "quoteLast": ".\"",
+    "title": "Lippincott's Magazine of Popular Literature and Science, December 1878",
+    "author": "Various",
+    "gutenbergReference": "26945",
+    "matchType": 1,
+    "hash": "82b263398b7dfd9a442c6f084aca63193ff24b1b3a750a7014118a682806b0b3"
   },
   {
     "time": "07:40",
@@ -218,5 +163,60 @@
     "gutenbergReference": "30864",
     "matchType": 1,
     "hash": "e4c2187f54b770e52626b180d07988101bb66ff600ec9d5ddc3e6a8ac99d8542"
+  },
+  {
+    "time": "07:40",
+    "quoteFirst": "“Not since dinner. I left him playing in the drawing-room at five-and-",
+    "quoteTime": "twenty minutes to eight",
+    "quoteLast": ", and he told me to call him at nine.",
+    "title": "The house on the marsh",
+    "author": "Warden, Florence, 1857-1929",
+    "gutenbergReference": "71788",
+    "matchType": 1,
+    "hash": "bc579fd79482bfd7aea13bcaa5cdb0bb263fd23bece2b7db640e4751f471fc0b"
+  },
+  {
+    "time": "07:40",
+    "quoteFirst": "December 13, ",
+    "quoteTime": "7.40 A. M.",
+    "quoteLast": "",
+    "title": "The Boys of '61\nor, Four Years of Fighting, Personal Observations with the Army and Navy",
+    "author": "Coffin, Charles Carleton, 1823-1896",
+    "gutenbergReference": "34843",
+    "matchType": 2,
+    "hash": "9e2309c01445bb00322bf42bb4f334e48d9251d1c41b976fab8088f7ca01b79d"
+  },
+  {
+    "time": "07:40",
+    "quoteFirst": "They planned the day.  Miriam had to lay in her stock of eatables, and of course must call on her aunt.  At ",
+    "quoteTime": "twenty minutes to eight",
+    "quoteLast": " Andrew started.  The way was easy to find, and he was at his uncle's five minutes before his time.",
+    "title": "Miriam's Schooling and Other Papers",
+    "author": "White, William Hale, 1831-1913",
+    "gutenbergReference": "15525",
+    "matchType": 1,
+    "hash": "52a46256099caba9d83b3cebadd1db746c13cd3e040c1670d24a6d932a3104d5"
+  },
+  {
+    "time": "07:40",
+    "quoteFirst": "Bags are forwarded by Day Mail to the places marked ‡ at ",
+    "quoteTime": "7.40 a.m.",
+    "quoteLast": ", and letters may be posted till 7.30 a.m., and, with an extra stamp affixed, till the bags close.",
+    "title": "Mason's Norwich General and Commercial Directory & Handbook\r\nIncluding the hamlets of Earlham, Eaton, Heigham, Hellesdon, Lakenham, Pockthorpe, Thorpe, Trowse, Carrow and Bracondale.",
+    "author": "Mason, R. Hindry (Robert Hindry)",
+    "gutenbergReference": "62401",
+    "matchType": 2,
+    "hash": "d30ee19d6094c4b94728880c844c3e54891d4978a37aa84f29218017592332cc"
+  },
+  {
+    "time": "07:40",
+    "quoteFirst": "December 13, ",
+    "quoteTime": "7.40 A. M.",
+    "quoteLast": "",
+    "title": "The Boys of '61\nor, Four Years of Fighting, Personal Observations with the Army and Navy",
+    "author": "Coffin, Charles Carleton, 1823-1896",
+    "gutenbergReference": "34843",
+    "matchType": 2,
+    "hash": "9e2309c01445bb00322bf42bb4f334e48d9251d1c41b976fab8088f7ca01b79d"
   }
 ]

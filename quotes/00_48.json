@@ -4,11 +4,11 @@
     "quoteFirst": "The town seems old & there is a fine abbey before it. The country is very bleak & chalky. ",
     "quoteTime": "12 minutes to 1",
     "quoteLast": "2. We have just changed horses at Brickhill.",
-    "title": "The girlhood of Queen Victoria",
-    "author": "Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]; Britain, Victoria Queen of Great",
+    "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
+    "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "75138",
     "matchType": 1,
-    "hash": "73fa1dca9cd07a02b5df6e1add2bb56b29be62e4b90b49b40435a8d6c39738c9"
+    "hash": "d59ac205ece9265d35c5e1ea185593811499a49e763945c6cc2f83196b5fcdd5"
   },
   {
     "time": "00:48",
@@ -108,6 +108,17 @@
     "gutenbergReference": "66032",
     "matchType": 0,
     "hash": "fc8421e20a88e746507ceb70a7cd73f96c13072374e026f7219e6d9b832f94eb"
+  },
+  {
+    "time": "00:48",
+    "quoteFirst": "“",
+    "quoteTime": "Twelve minutes to one",
+    "quoteLast": ".” Anthony Collyer turned into the Tube station. He was lunching with Mrs. Luke Bechcombe and the Tube would get him there in time and be cheaper than a taxi. Anthony was inclined to be economical these days. He paused at the bookstall to buy a paper.",
+    "title": "The Crow's Inn tragedy",
+    "author": "Haynes, Annie, 1864-1929",
+    "gutenbergReference": "75307",
+    "matchType": 1,
+    "hash": "72ace4abf4887beb2b05c96696cfce0d0b75ed0b4be5babf69777c7d092b4ee0"
   },
   {
     "time": "00:48",

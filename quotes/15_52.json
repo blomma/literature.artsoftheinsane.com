@@ -23,17 +23,6 @@
   },
   {
     "time": "15:52",
-    "quoteFirst": "“That means then that the murderer left the Maze at some time not much earlier than four o’clock, since Miss Forrest heard him in the Maze after Neville’s body was found by Torrance at ",
-    "quoteTime": "3.52 p.m.",
-    "quoteLast": "”",
-    "title": "Murder in the maze",
-    "author": "Connington, J. J., 1880-1947",
-    "gutenbergReference": "71351",
-    "matchType": 2,
-    "hash": "864c157860fa89726308187dd937308e5413ace593744bd5506cf38667ae7360"
-  },
-  {
-    "time": "15:52",
     "quoteFirst": "“If you take the facts as we know them,” he went on, “it’s clear that Neville Shandon could not have reached the Maze before 3.37 p.m.; and the second murder was over before 4.5 p.m. As a matter of fact, the times really allow less margin than that, for Neville’s body was found at ",
     "quoteTime": "3.52 p.m.",
     "quoteLast": " and both were probably dead by that time.”",
@@ -42,6 +31,17 @@
     "gutenbergReference": "71351",
     "matchType": 2,
     "hash": "9701053a7879d8af54f236da1efc81f1a4780600a45a2a135de1d9bf86023050"
+  },
+  {
+    "time": "15:52",
+    "quoteFirst": "“That means then that the murderer left the Maze at some time not much earlier than four o’clock, since Miss Forrest heard him in the Maze after Neville’s body was found by Torrance at ",
+    "quoteTime": "3.52 p.m.",
+    "quoteLast": "”",
+    "title": "Murder in the maze",
+    "author": "Connington, J. J., 1880-1947",
+    "gutenbergReference": "71351",
+    "matchType": 2,
+    "hash": "864c157860fa89726308187dd937308e5413ace593744bd5506cf38667ae7360"
   },
   {
     "time": "15:52",

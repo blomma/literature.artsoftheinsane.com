@@ -1,25 +1,58 @@
 [
   {
     "time": "18:05",
-    "quoteFirst": "“That’s right, it’s ",
+    "quoteFirst": "He rattled the dice and shot them across the hardpacked ground near the doorstep. Then he struck a match to see what he had thrown. \"I'm hittin' the road ",
     "quoteTime": "five minutes after six",
-    "quoteLast": ". Come on, fellows. I’ll find a place for you at our table, Herb. Are you hungry?”",
-    "title": "Double Play: A Story of School and Baseball",
-    "author": "Barbour, Ralph Henry, 1870-1944; Biggs, Walter, 1886-1968 [Illustrator]",
-    "gutenbergReference": "56752",
+    "quoteLast": ", to-morrow mornin',\" he declared, as he picked up the dice.",
+    "title": "Partners of Chance",
+    "author": "Knibbs, Henry Herbert, 1874-1945",
+    "gutenbergReference": "14085",
     "matchType": 1,
-    "hash": "66d635ca44061a25f1130a7b5cf43de87c210315d8ec186c6f9e6b3221f39e2e"
+    "hash": "94416d1769d44bb0160ad76f1702fa2e229ef1942354710172ca40be413f4e70"
   },
   {
     "time": "18:05",
-    "quoteFirst": "Assembly, ",
-    "quoteTime": "6.05 p.m.",
-    "quoteLast": "",
-    "title": "Military Instructors Manual",
-    "author": "Cole, J. P. (James Perry), 1889-; Schoonmaker, Oliver, 1882-1968",
-    "gutenbergReference": "14625",
-    "matchType": 2,
-    "hash": "41062c5b068f6f5562e03c327308aa2fa88662e981be5b88ff496cd8264cc765"
+    "quoteFirst": "At last, while they are taking a moment's rest, I add that I shall weigh anchor at six o'clock in the evening. 'I will wait for you until ",
+    "quoteTime": "five minutes past six",
+    "quoteLast": ",' I say; and then I go off to my business.",
+    "title": "French and Oriental Love in a Harem",
+    "author": "Uchard, Mario, 1824-1893; Avril, Paul, 1849-1928 [Illustrator]",
+    "gutenbergReference": "21868",
+    "matchType": 1,
+    "hash": "a302915bf39842f9272a8634a4c2894ce00aa566c08608976c0593ea57164a2b"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "Quincy took his dinner at Parker's, caught the ",
+    "quoteTime": "five minutes past six",
+    "quoteLast": " express, and reached Eastborough Centre at half-past seven. Abbott Smith drove him home to the Pettengill house.",
+    "title": "Quincy Adams Sawyer and Mason's Corner Folks\nA Picture of New England Home Life",
+    "author": "Pidgin, Charles Felton, 1844-1923",
+    "gutenbergReference": "16414",
+    "matchType": 1,
+    "hash": "366af2cf2d2cb05b251967435288d021aa5184b011c2e4cd3a3c1ddef8480ea7"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "It was ",
+    "quoteTime": "five minutes past six",
+    "quoteLast": ". Dulcie pressed the electric button.",
+    "title": "The Four Faces: A Mystery",
+    "author": "Le Queux, William, 1864-1927",
+    "gutenbergReference": "9795",
+    "matchType": 1,
+    "hash": "37be0cb3c581aa50ed47dd396a7f5e6b65dbb0a80c7af9638886244b17ac5437"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "The chairs were of mahogany, upholstered in sleek and slippery hair cloth. Upon the huge sarcophagus which served for mantelpiece, a gilt clock, under a glass dome, registered ",
+    "quoteTime": "five minutes past six",
+    "quoteLast": ", with stationary hands. This started one's mind irresistibly backward, in quest of the precise point in time at which the clock had stopped, and set one to speculating upon what the condition of the world was then.. Years ago, or only months? In summer, or winter? Morning or afternoon? What of moment was happening then? Who was President? Where was I, and what doing? Perhaps--it was such an old-fashioned clock--perhaps I had not yet been born.",
+    "title": "The Yoke of the Thorah",
+    "author": "Harland, Henry, 1861-1905",
+    "gutenbergReference": "54854",
+    "matchType": 1,
+    "hash": "0ae58bd3c73244fc945c1832f3aab83f4dd7b8336cdcda39336cf13ff618dea0"
   },
   {
     "time": "18:05",
@@ -34,6 +67,28 @@
   },
   {
     "time": "18:05",
+    "quoteFirst": "Dumont. Then, at ",
+    "quoteTime": "five minutes past six",
+    "quoteLast": ", he jumped into a cab and was driven to the Place de la Sorbonne.",
+    "title": "A Son of the Immortals",
+    "author": "Tracy, Louis, 1863-1928; Christy, Howard Chandler, 1873-1952 [Illustrator]",
+    "gutenbergReference": "25017",
+    "matchType": 1,
+    "hash": "a94a26a4cc1d9ab915760facaebf3e7150d170d8a3128395174ed4bc6b3759ec"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": ", for a tour of the park by way of Grand Lake and Estes Park to Denver, leaving Granby at 12 noon daily. Auto service is available also, leaving Grand Lake at 5:35 p.m. and arriving at Granby at ",
+    "quoteTime": "6:05 p.m.",
+    "quoteLast": "",
+    "title": "Rocky Mountain National Park [Colorado]",
+    "author": "United States. Department of the Interior",
+    "gutenbergReference": "37918",
+    "matchType": 2,
+    "hash": "37015c14e9efbd3faf96c23f9ef63c09b12b9873c8cbfd839768a15ed833f280"
+  },
+  {
+    "time": "18:05",
     "quoteFirst": "Quincy took his dinner at Parker's, caught the ",
     "quoteTime": "five minutes past six",
     "quoteLast": " express, and reached Eastborough Centre at half-past seven. Abbott Smith drove him home to the Pettengill house.",
@@ -45,47 +100,25 @@
   },
   {
     "time": "18:05",
-    "quoteFirst": "Quincy had intended after seeing a publisher to leave the manuscripts for examination, then to take tea with his mother and sisters, and go back to Eastborough on the ",
+    "quoteFirst": "She saw that it was ",
     "quoteTime": "five minutes past six",
-    "quoteLast": " express. But he was prone to yield to fate, which is simply circumstances, and he accepted his old college chum's invitation with alacrity. He could get the opinion of an expert speedily, and that fact carried the day with him.",
-    "title": "Quincy Adams Sawyer and Mason's Corner Folks\nA Picture of New England Home Life",
-    "author": "Pidgin, Charles Felton, 1844-1923",
-    "gutenbergReference": "16414",
+    "quoteLast": ". \"I must go,\" she said.",
+    "title": "The Captives",
+    "author": "Walpole, Hugh, 1884-1941",
+    "gutenbergReference": "3601",
     "matchType": 1,
-    "hash": "2b81e990735e9e5f8bd896db7735d346add06d0c1d4e047a597bd7ed6932b9c0"
+    "hash": "f2b3af92746668185278cbc396da9740e0c6b58dedb58d74e44bcd1813e84a43"
   },
   {
     "time": "18:05",
-    "quoteFirst": "",
-    "quoteTime": "Five minutes after six",
-    "quoteLast": "!....",
-    "title": "Cyrano de Bergerac: An Heroic Comedy in Five Acts",
-    "author": "Rostand, Edmond, 1868-1918; Renauld, Charles [Translator]",
-    "gutenbergReference": "41949",
-    "matchType": 1,
-    "hash": "7f8032d48b72ad4b054995a722314c4842410accd1eface5eec90aebe1700d97"
-  },
-  {
-    "time": "18:05",
-    "quoteFirst": "Then the telephone wires on both sides are broken, and the Staff signal officer goes out to repair them under fire. At last, precisely at the moment appointed, ",
+    "quoteFirst": "The coming dawn had lightened the sky, and everything showed ghostly in the faint mixture of moonlight and dawn. I looked at my watch. It was ",
     "quoteTime": "five minutes past six",
-    "quoteLast": ", in the rainy autumn dawn, our own guns--an enormous concentration of them--open a tremendous fire, and the earth-shaking noise \"helps men to forget themselves, and go blind for the enemy.\" Then steadily the artillery barrage goes forward, one hundred yards every four minutes, and the infantry advance behind it, past the German front trench, to a ravine about three hundred yards further, which is known to be strongly held.",
-    "title": "Fields of Victory",
-    "author": "Ward, Humphry, Mrs., 1851-1920",
-    "gutenbergReference": "13827",
+    "quoteLast": ".",
+    "title": "Harilek",
+    "author": "Gompertz, Martin Louis Alan, 1886-1951",
+    "gutenbergReference": "70913",
     "matchType": 1,
-    "hash": "d963f318a20a5ba8c9a3c9ae2ebdf4a061fb1fb70843f8930ffcab6fb3edc04c"
-  },
-  {
-    "time": "18:05",
-    "quoteFirst": "Recollection began to whisper that when he had gone to sleep the previous evening it was dusk, and that ere that dusk had well subsided into the darkness of midnight he had expected to be at his destination, \"Gren-haub;\" whereas--was he asleep still, and dreaming it?--or was it really morning, and he still in the diligence?--or had some unexampled phenomenon of nature caused the sun to shine out at midnight? WHAT was it? In the greatest perturbation he tore his watch from his pocket, and found it was ",
-    "quoteTime": "five minutes past six",
-    "quoteLast": "; but he knew that he was rather slower than French time.",
-    "title": "Mildred Arkell: A Novel. Vol. 2 (of 3)",
-    "author": "Wood, Henry, Mrs., 1814-1887",
-    "gutenbergReference": "39377",
-    "matchType": 1,
-    "hash": "d14546524cb93982049a8ce3d12257fab23a2d00487e81e5428bb82aeadb9a88"
+    "hash": "8d85f18589481c6188e9145f303d5c352e2bf2028cb66e417cc99ad22924a743"
   },
   {
     "time": "18:05",
@@ -100,102 +133,14 @@
   },
   {
     "time": "18:05",
-    "quoteFirst": "“I set my watch by the hall clock in order to be sure of getting up in time; then I lay awake nearly all night so I would not oversleep myself. When I reached the station it was ",
-    "quoteTime": "five minutes past six",
-    "quoteLast": ".”",
-    "title": "The Teacup Club",
-    "author": "Bengough, Elisa Armstrong, -1929",
-    "gutenbergReference": "50751",
-    "matchType": 1,
-    "hash": "f6dcd04e03425d31a5db5403324eef3ef8f06381800a685517d3071c9eecb7a0"
-  },
-  {
-    "time": "18:05",
-    "quoteFirst": "_",
-    "quoteTime": "6:05 P.M.",
-    "quoteLast": " Patient rapidly weakening. White cell count now barely 100. Pulse very feeble. Transfusions now given continuously. Emergency call to Vancouver to fly in fresh supply.... 6:10 P.M. Pain more intense.",
-    "title": "Stopwatch on the world",
-    "author": "Gilgannon, Daniel R.; Poulton, Peter, 1914-1972 [Illustrator]",
-    "gutenbergReference": "70583",
+    "quoteFirst": "In answer to particular questions of fact, the jury found that the accident occurred at 5.35 P. M.; that immediately one of the railway employees telephoned to police headquarters for help for the injured man; that the ambulance started at ",
+    "quoteTime": "6.05 P. M.",
+    "quoteLast": " and reached the nearest hospital with Ezelle at 6.20 P. M., where he received proper medical and surgical treatment.",
+    "title": "A Selection of Cases on the Law of Torts",
+    "author": "Ames, James Barr, 1846-1910 [Editor]; Pound, Roscoe, 1870-1964 [Editor]; Smith, Jeremiah, 1837-1921 [Editor]",
+    "gutenbergReference": "67258",
     "matchType": 2,
-    "hash": "9c6c72a7e3e47162efc9588c72618f681dd1b6a1517c26f11c42d8196fe607c4"
-  },
-  {
-    "time": "18:05",
-    "quoteFirst": "Quincy took his dinner at Parker's, caught the ",
-    "quoteTime": "five minutes past six",
-    "quoteLast": " express, and reached Eastborough Centre at half-past seven. Abbott Smith drove him home to the Pettengill house.",
-    "title": "Quincy Adams Sawyer and Mason's Corner Folks\nA Picture of New England Home Life",
-    "author": "Pidgin, Charles Felton, 1844-1923",
-    "gutenbergReference": "16414",
-    "matchType": 1,
-    "hash": "366af2cf2d2cb05b251967435288d021aa5184b011c2e4cd3a3c1ddef8480ea7"
-  },
-  {
-    "time": "18:05",
-    "quoteFirst": "There and then I took leave of this true friend, and with a sense of devout thankfulness that I was no worse off than I was, continued the journey to the Grand Central station.  When at last we came to that well-known terminus the great clock over the entrance was pointing to ",
-    "quoteTime": "five minutes past six",
-    "quoteLast": ".",
-    "title": "Mrs. Fitz",
-    "author": "Snaith, J. C. (John Collis), 1876-1936",
-    "gutenbergReference": "34398",
-    "matchType": 1,
-    "hash": "fe0c18077377b51154bc31e57c1a0ad9318f78240f449b1f19e4d0c0ab3a4463"
-  },
-  {
-    "time": "18:05",
-    "quoteFirst": "_",
-    "quoteTime": "6:05 P.M.",
-    "quoteLast": " Patient rapidly weakening. White cell count now barely 100. Pulse very feeble. Transfusions now given continuously. Emergency call to Vancouver to fly in fresh supply.... 6:10 P.M. Pain more intense.",
-    "title": "Stopwatch on the world",
-    "author": "Gilgannon, Daniel R.; Poulton, Peter, 1914-1972 [Illustrator]",
-    "gutenbergReference": "70583",
-    "matchType": 2,
-    "hash": "9c6c72a7e3e47162efc9588c72618f681dd1b6a1517c26f11c42d8196fe607c4"
-  },
-  {
-    "time": "18:05",
-    "quoteFirst": "An interesting scene was caused recently by the blowing up of the two immense chimneys on Borsig’s machine works in Berlin. A large number of spectators were present to witness the ceremony, including several officers of the army, the trustees of the Borsig estates, and the employes of the works. Punctually at ",
-    "quoteTime": "five minutes past six P. M.",
-    "quoteLast": ", the signal to “Look out!” was given; then came the word of command, “Fire!” and at this moment the vast chimney, towering to a height of say 120 feet 9 inches, quietly collapsed. The noise occasioned by the fall was not very great, ditches two meters in breadth having been dug all round the chimney and filled with straw.",
-    "title": "Scientific American Architects and Builders Edition, No. 26, Dec., 1887",
-    "author": "Various",
-    "gutenbergReference": "50927",
-    "matchType": 0,
-    "hash": "2669a9605543a2a30d4cbd2f085e91e31e36f48dfe57453a0385200587e28e97"
-  },
-  {
-    "time": "18:05",
-    "quoteFirst": "“That’s right, it’s ",
-    "quoteTime": "five minutes after six",
-    "quoteLast": ". Come on, fellows. I’ll find a place for you at our table, Herb. Are you hungry?”",
-    "title": "Double Play: A Story of School and Baseball",
-    "author": "Barbour, Ralph Henry, 1870-1944; Biggs, Walter, 1886-1968 [Illustrator]",
-    "gutenbergReference": "56752",
-    "matchType": 1,
-    "hash": "66d635ca44061a25f1130a7b5cf43de87c210315d8ec186c6f9e6b3221f39e2e"
-  },
-  {
-    "time": "18:05",
-    "quoteFirst": "\"Why did you keep me waiting?\" she said. \"It is ",
-    "quoteTime": "five minutes past six",
-    "quoteLast": ", and I have barely another five minutes to stay with you, and there's a lot to talk over.\"",
-    "title": "Girls of the Forest",
-    "author": "Meade, L. T., 1854-1914",
-    "gutenbergReference": "25872",
-    "matchType": 1,
-    "hash": "13ce36574c21c8c6c0076c3aab9d804cb70a0d0b74820e8b1012c8310b075471"
-  },
-  {
-    "time": "18:05",
-    "quoteFirst": "She rose at ",
-    "quoteTime": "five minutes past six",
-    "quoteLast": ", and in a subsidiary way she helped to get the breakfast, to eat it, to wash up the dishes, to work in the garden, to quilt, to sew, to visit and receive, and no one could have tried harder than she did to keep awake when the widow read aloud in the evening.",
-    "title": "International Short Stories: American",
-    "author": "Patten, William, 1868-1936 [Editor]",
-    "gutenbergReference": "32845",
-    "matchType": 1,
-    "hash": "e056fdbd772a95fc240a96a2884f2ba2a8ece17035786f2b0e6940c8834523fa"
+    "hash": "694498070a2a05bfe94761460d98d9767b4c734ff224dbf5c737b20261a5d78d"
   },
   {
     "time": "18:05",
@@ -210,13 +155,68 @@
   },
   {
     "time": "18:05",
-    "quoteFirst": "“That’s right, it’s ",
+    "quoteFirst": "It was the last Thursday in June, and the train to Buffalo was to leave at ",
+    "quoteTime": "6:05 P.M.",
+    "quoteLast": " Cincinnati was steaming with heat during one of those days which the beautiful Queen City can serve to its inhabitants in summer. Perspiration shone on faces and trickled down backs.",
+    "title": "The Greycliff Girls in Camp",
+    "author": "Grove, Harriet Pyne",
+    "gutenbergReference": "62654",
+    "matchType": 2,
+    "hash": "8064d49b81f2c544060d1032e2dedf2212ac15e1d5d7ec3c9e8345297792b384"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "We're got to be there by ",
     "quoteTime": "five minutes after six",
-    "quoteLast": ". Come on, fellows. I’ll find a place for you at our table, Herb. Are you hungry?”",
-    "title": "Double Play: A Story of School and Baseball",
-    "author": "Barbour, Ralph Henry, 1870-1944; Biggs, Walter, 1886-1968 [Illustrator]",
-    "gutenbergReference": "56752",
+    "quoteLast": ".\"",
+    "title": "Astounding Stories, March, 1931",
+    "author": "Various; Bates, Harry, 1900-1981 [Editor]",
+    "gutenbergReference": "30166",
     "matchType": 1,
-    "hash": "66d635ca44061a25f1130a7b5cf43de87c210315d8ec186c6f9e6b3221f39e2e"
+    "hash": "aea3e386f49ee8d5d592ddf659642e6f46e5f0e232833dc8f0f970fc81430140"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "The enemy had counter-attacked the 6th Black Watch at 3.45 P.M., 4 P.M., and 4.30 P.M., but in every case the battalion had held their ground and broken up each attack. At a low estimate eighty Germans were killed and wounded by rifle and Lewis gun fire during these actions. At ",
+    "quoteTime": "6.05 P.M.",
+    "quoteLast": ", after a heavy bombardment, including a lavish use of gas shells, a further and more serious attack was delivered. Owing to the casualties they had sustained in the previous attacks and to the withdrawal of troops on their left, the 6th Black Watch were forced to return to the south bank of the Steenbeek, where they again dug in.",
+    "title": "The History of the 51st (Highland) Division 1914-1918",
+    "author": "Bewsher, F. W. (Frederick William), 1886-1950",
+    "gutenbergReference": "45934",
+    "matchType": 2,
+    "hash": "07dddef1e2686cb0e879ee163506eee4a470403dcff48695ae05a6b1c85f69d8"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "She saw that it was ",
+    "quoteTime": "five minutes past six",
+    "quoteLast": ". \"I must go,\" she said.",
+    "title": "The Captives",
+    "author": "Walpole, Hugh, 1884-1941",
+    "gutenbergReference": "3601",
+    "matchType": 1,
+    "hash": "f2b3af92746668185278cbc396da9740e0c6b58dedb58d74e44bcd1813e84a43"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "",
+    "quoteTime": "Five minutes after six",
+    "quoteLast": "!. . .'I touch!' (He straightens himself): . . .Oh! to write a ballade!",
+    "title": "Cyrano de Bergerac",
+    "author": "Rostand, Edmond, 1868-1918; Guillemard, Mary F. [Translator]; Thomas, Gladys [Translator]",
+    "gutenbergReference": "1254",
+    "matchType": 1,
+    "hash": "5f1982f072135b2a0e0cb055018690fc822b644c0acf8f5ba0bf246047a1f105"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "She rose at ",
+    "quoteTime": "five minutes past six",
+    "quoteLast": ", and in a subsidiary way she helped to get the breakfast, to eat it, to wash up the dishes, to work in the garden, to quilt, to sew, to visit and receive, and no one could have tried harder than she did to keep awake when the widow read aloud in the evening.",
+    "title": "International Short Stories: American",
+    "author": "Patten, William, 1868-1936 [Editor]",
+    "gutenbergReference": "32845",
+    "matchType": 1,
+    "hash": "e056fdbd772a95fc240a96a2884f2ba2a8ece17035786f2b0e6940c8834523fa"
   }
 ]

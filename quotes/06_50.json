@@ -1,25 +1,47 @@
 [
   {
     "time": "06:50",
-    "quoteFirst": "& C. train. Trains leave Portland for Tacoma at 2.00 a.m. and 11.05 a.m. daily. Arrive at Tacoma at 8.35 a.m. and 6.30 p.m., connecting with O. R. & N. Co’s boats for all points on Puget sound. Trains arrive from Seattle at ",
+    "quoteFirst": "We were still in considerable danger from falling stones which the sun was loosening in increasing numbers from the Grenz Gipfel. Numerous parties, spread out over the ridge leading from the Grenz Sattel to the Grenz Gipfel, also added their little contributions in this respect, in their eagerness to watch our advance. At ",
     "quoteTime": "6.50 a.m.",
-    "quoteLast": " and 5.00 p.m.",
-    "title": "Tacoma and Vicinity",
-    "author": "Oakland Land, Loan and Trust Company",
-    "gutenbergReference": "53708",
+    "quoteLast": " we grasped the warm rocks of the east ridge of the Grenz Gipfel, and, climbing on to a ledge, we felt, for the first time since leaving the Marinelli hut, that we were at last in safety. The ascent of the final ice slope had cost forty minutes.",
+    "title": "The making of a mountaineer",
+    "author": "Finch, George Ingle, 1888-1970",
+    "gutenbergReference": "69128",
     "matchType": 2,
-    "hash": "499d72dd182f0463b5353b57271ff4b78c8f25c3b94ffacbc8d88013dc5bf186"
+    "hash": "ce44d9593b5fb477da5a4054cf50e52979c77645b483e0ad7155b64722de2f90"
   },
   {
     "time": "06:50",
-    "quoteFirst": "“It is ",
+    "quoteFirst": "“I can,” I answered. “The rain started about ",
     "quoteTime": "ten minutes to seven",
-    "quoteLast": ". To-day is Monday, the fifth of August, and the sun sets in sixteen minutes past seven. It will be dark when we get to headquarters.”",
-    "title": "The Boy Patrol on Guard",
-    "author": "Ellis, Edward Sylvester, 1840-1916; Prittie, Edwin John, 1879-1963 [Illustrator]",
-    "gutenbergReference": "43079",
+    "quoteLast": ".”",
+    "title": "The Billiard Room Mystery",
+    "author": "Flynn, Brian, 1885-1958",
+    "gutenbergReference": "58413",
     "matchType": 1,
-    "hash": "7bf0b1e92ca37206b3e0990597c180716b4606a702221d002cd088d7588d04aa"
+    "hash": "155416c1cabed742a95bebc3633fea0fa0e763ac6b17e33c988f4b72fb6339a0"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "I thought of grasping her ... and I don't know what.... I had to do something, mattered little what; automatically I looked at my golden badge, glanced at my watch,--",
+    "quoteTime": "ten minutes to seven",
+    "quoteLast": "teen!",
+    "title": "We",
+    "author": "Zamiatin, Evgenii Ivanovich, 1884-1937; Zilboorg, Gregory, 1890-1959 [Translator]",
+    "gutenbergReference": "61963",
+    "matchType": 1,
+    "hash": "efc3962177d8075e2d2d4e1a119ab4600d898085e65b4e2067bb6a7663e73763"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "Scattered bushes looked in the mirage like enemy patrols. We were escorted by Fritz, whose kindly interest in our movements never flagged. We started late, at ",
+    "quoteTime": "6.50 a.m.",
+    "quoteLast": ", and without breakfast, the distance being under-estimated. A zigzagging course made the journey into over ten miles, in dreadful heat; we were marching till past noon.",
+    "title": "The Leicestershires beyond Baghdad",
+    "author": "Thompson, Edward John, 1886-1946",
+    "gutenbergReference": "19379",
+    "matchType": 2,
+    "hash": "33c95afd070eaef1a6e4453c554d779859db175c7fa20a2069cf957c317b48b0"
   },
   {
     "time": "06:50",
@@ -34,47 +56,113 @@
   },
   {
     "time": "06:50",
-    "quoteFirst": "In order to emphasize the fact that people at Tuskegee during its early history were not idle, I give the daily program which was in effect in January, 1886: 5 a. m., rising bell; 5:50 a. m., warning breakfast bell; 6 a. m., breakfast bell; 6:20 a. m., breakfast over; 6:20 to ",
-    "quoteTime": "6:50 a. m.",
-    "quoteLast": ", rooms are cleaned; 6:50, work bell; 7:30, morning study hour; 8:20, morning school bell; 8:25, inspection of young men’s toilet in ranks; 8:40, devotional exercises in chapel; 8:55, “5 minutes” with the daily news; 9 a. m., class work begins; 12, class work closes; 12:15 p. m.",
-    "title": "The Story of My Life and Work",
-    "author": "Washington, Booker T., 1856-1915; Curry, J. L. M. (Jabez Lamar Monroe), 1825-1903 [Author of introduction, etc.]; Beard, Frank, 1842-1905 [Illustrator]",
-    "gutenbergReference": "61953",
+    "quoteFirst": "Life is strenuous in this school. Here is an outline of the daily work: “5 A.M., rising bell; 5:50 A.M., warning breakfast bell; 6:00 A.M., breakfast bell; 6:20 A.M., breakfast over; 6:20–",
+    "quoteTime": "6:50 A.M.",
+    "quoteLast": ", rooms cleaned; 6:50 A.M., work bell; 7:30 A.M., morning study hour; 8:20 A.M., morning school bell; 8:25 A.M., inspection of young men’s dress in ranks; 8:40 A.M., devotional exercises in chapel; 8:55 A.M., ‘five minutes with the daily news’; 9:00 A.M., class work begins; 12:00 M., class work ends; 12:15 P.M., dinner; 1:00 P.M., work bell; 1:30 P.M., class work begins; 3:30 P.M., class work ends; 5:30 P.M., bell to ‘knock off’ work; 6:00 P.M., supper; 7:10 P.M., evening prayers; 7:30 P.M., evening study hour: 8:45 P.M., evening study hour closes; 9:20 P.M., warning bell; 9:30 P.M., retiring bell.",
+    "title": "A boys' life of Booker T. Washington",
+    "author": "Jackson, Walter Clinton, 1879-1959",
+    "gutenbergReference": "75144",
     "matchType": 2,
-    "hash": "a30f5bdabe3e31a7e5e356f2ae016fc2a581cd5cd154205d070cdce0e611b116"
+    "hash": "a87d154a6f029e619bb336698005ebf58d38ae2159136db1995d2e95bbde2d8d"
   },
   {
     "time": "06:50",
-    "quoteFirst": "She glanced at her watch,--one of Sophy Lansing’s numerous dainty trifles--“Keep it in exchange,” Sophy had said, “for yours which your bereaved parents are going to send me as an ‘In Memoriam’!” It was ",
-    "quoteTime": "ten minutes to seven",
-    "quoteLast": ". Looking about her to take note of her bearings, she saw on the left-hand side a deep bend in the road, which curved towards a fine gateway of wrought iron, surmounted by a curious device representing two crossed spears springing from the centre of a star,--and she knew she had arrived at her destination.",
-    "title": "The Young Diana: An Experiment of the Future",
-    "author": "Corelli, Marie, 1855-1924",
-    "gutenbergReference": "66320",
+    "quoteFirst": "We then discovered the sternmost ship wearing also; wore ship immediately after her, and gave her a stern rake, she luffing to on our starboard bow and giving us her larboard broadside. We ranged upon her larboard quarter, within hail, and were about to give her our starboard broadside, when she struck her colours, fired a lee gun and yielded. At ",
+    "quoteTime": "fifty minutes past six",
+    "quoteLast": " took possession of His Britannic Majesty's ship Cyane, Captain Gordon Falcon, mounting 34 guns. At 8 P.M. filled away after her consort, which was still in sight to leeward. At half-past eight found her standing towards us, with her starboard tacks close hauled, with top-gallant sails set and colours flying.",
+    "title": "The Medallic History of the United States of America 1776-1876",
+    "author": "Loubat, J. F. (Joseph Florimond), 1831-1927; Jacquemart, Jules-Ferdinand, 1837-1880 [Illustrator]",
+    "gutenbergReference": "21880",
     "matchType": 1,
-    "hash": "e0da218d30733e8b60d983612d04ed22606474704a03112ece50831131624f9f"
+    "hash": "57b4f135ba00bf23a3e9ebf41654327933548a6758b4f9b132fbe7bb54e2367e"
   },
   {
     "time": "06:50",
-    "quoteFirst": "On 19th March we started at ",
-    "quoteTime": "6.50 a.m.",
-    "quoteLast": ", all our carriers being well provided with food. The country was as usual a well-watered undulating prairie, abounding in game.",
-    "title": "Ismailia",
-    "author": "Baker, Samuel White, Sir, 1821-1893",
-    "gutenbergReference": "3607",
-    "matchType": 2,
-    "hash": "01894563db6cc4f26ad9a4cc43c9b1051ef93f12e40a89a805865447f1c6c16a"
+    "quoteFirst": "Punctually at ",
+    "quoteTime": "ten minutes to seven",
+    "quoteLast": ", I was in readiness on the scene.",
+    "title": "Death at the Excelsior, and Other Stories",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "8176",
+    "matchType": 1,
+    "hash": "49b8abcd6c1075b62acc9c851cdb64cbc75eb65ff86746f0ad40cda23167ece8"
   },
   {
     "time": "06:50",
-    "quoteFirst": "Steering a south-east course from ",
+    "quoteFirst": "Continued an east course; at ",
     "quoteTime": "6.50 a.m.",
-    "quoteLast": ", crossed a sandy tableland, with paper-bark and melaleuca with broad leaves; passed a small creek with pools trending north-east, and at 10.0 a low rocky ridge; then descended into a wide valley, with melaleuca and a few box-trees. At 1.",
+    "quoteLast": " crossed some wooded ridges, from which ranges of hills were imperfectly seen about twelve miles to the east; descending the ridges, entered a brigalow scrub, and at 11.40 came to the Dawson River, about eighty yards wide, with long shallow pools of water, the scrub coming close to the bank on both sides, leaving a narrow grassy flat; followed the river upwards to the southward till 2.50 p.m., and camped on the left bank of the river.",
     "title": "Journals of Australian Explorations",
     "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
     "gutenbergReference": "10461",
     "matchType": 2,
-    "hash": "32d0ddacbdd140d60ccb008d1a61a359f4a3528b32feb811722d321183ee5fdc"
+    "hash": "6ca7fc940b8e9672817098a9f273c087df69f9126f505564d834769599e366ea"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "“",
+    "quoteTime": "Ten minutes to seven",
+    "quoteLast": ".” Father said.",
+    "title": "The sound and the fury",
+    "author": "Faulkner, William, 1897-1962",
+    "gutenbergReference": "75170",
+    "matchType": 1,
+    "hash": "ec1ca70dd258de983f9faefcab6e52610ad7214a15a3577917b6466fa544f437"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "\"Never mind. At ",
+    "quoteTime": "ten minutes to seven",
+    "quoteLast": " I took a cab from here to the Primordial Club, where I dined at seven precisely.\"",
+    "title": "The Brass Bowl",
+    "author": "Vance, Louis Joseph, 1879-1933",
+    "gutenbergReference": "8741",
+    "matchType": 1,
+    "hash": "be8af038355321a38b1c578482f2e5d6f367bf7c5f1e72d35e1fa92ecac0e321"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "It was a cold evening, and Reggie wandered in and out of his bedroom, in a state of betwixt and between, now clad only in a bath towel, later on in a pair of trousers and socks, in the fulness of time completely clothed. It still wanted five or ",
+    "quoteTime": "ten minutes to seven",
+    "quoteLast": ", and he stood in front of the fire warming himself till Hall time, feeling in that deliciously half-tired, half-lazy mood which is the inimitable result of violent exercise. He rummaged aimlessly in the débris on the mantel-piece, and suffering the deserved fate of idle hands, found the Dean’s note about which he had genuinely forgotten.",
+    "title": "The Babe, B.A. : being the uneventful history of a young gentleman at Cambridge University",
+    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
+    "gutenbergReference": "56986",
+    "matchType": 1,
+    "hash": "21ccc22dbf87239c75e69800459274915b731fde2d9582654c6256f4de2d8220"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "\"Well, sir, about ",
+    "quoteTime": "ten minutes to seven",
+    "quoteLast": " I went along to the charge office for a few minutes--five or six minutes. Then at about a quarter to eight I went downstairs into the cellar to get some paraffin for a lamp--I might be away as long, then, sir.\"",
+    "title": "In the Mayor's Parlour",
+    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
+    "gutenbergReference": "25424",
+    "matchType": 1,
+    "hash": "755dcd94f03cf87f30da1acc3f25424324aea505b673d82adfc3b0b20cf510a5"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "'Mr. (puff) Sponge must be (wheeze), I think,' observed Jog, hauling his great silver watch out, like a bucket, from his fob, on seeing that it only wanted ",
+    "quoteTime": "ten minutes to seven",
+    "quoteLast": ".",
+    "title": "Mr. Sponge's Sporting Tour",
+    "author": "Surtees, Robert Smith, 1805-1864",
+    "gutenbergReference": "16957",
+    "matchType": 1,
+    "hash": "cccc8cb0bfd303b8778fb589105c83e2381ac1cc1abfce3747c1afc1534b9662"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "15 P.M. it depended vertically. The dotted line ought to have been prolonged much lower down in the figure. By ",
+    "quoteTime": "6.50 A.M.",
+    "quoteLast": " on the following morning (14th) the leaf had risen greatly, and continued to rise till 7.50 A.M., after which hour it redescended. It should be observed that the lines traced on this second morning would have coincided with and confused those previously traced, had not the pot been slided a very little to the left.",
+    "title": "The Power of Movement in Plants",
+    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "5605",
+    "matchType": 2,
+    "hash": "aa3b355e16f2fcc8e638599fc57fb4bf31e2847f77866a06a77335f042118025"
   },
   {
     "time": "06:50",
@@ -89,134 +177,46 @@
   },
   {
     "time": "06:50",
-    "quoteFirst": "The boys reached the General’s tent at ",
+    "quoteFirst": "A far better proportion of hits was now being obtained, and the effect of the lyddite became immediately apparent. First one and then another of _Leipzig’s_ guns ceased firing, and by ",
     "quoteTime": "ten minutes to seven",
-    "quoteLast": ", and although they knew that the great man had been up for a couple of hours, they sat quietly outside until their watches told off the very tick of the expected hour. Then, just as they saw the guard bringing up the prisoner, they tapped on the tent flap, and at a word of summons entered.",
-    "title": "The Boy Scout pathfinders",
-    "author": "Durston, George",
-    "gutenbergReference": "68497",
+    "quoteLast": " a big fire started forward. A few minutes before _Cornwall_ had heard the news by wireless of the sinking of _Scharnhorst_ and _Gneisenau_, and officers and men redoubled their efforts. The range was closed still more, the hitting became more intense, but the enemy in spite of his losses and damages kept every gun that could still work firing, and was actually hitting _Cornwall_ frequently right up to five minutes past seven, but in another five minutes two of her funnels were gone and the ship was blazing fore and aft.",
+    "title": "The British Navy in Battle",
+    "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
+    "gutenbergReference": "54441",
     "matchType": 1,
-    "hash": "573db68f7e5e11e50a61d566baaeebc5ac6522c9e0b3f617497636ec4087e3bb"
-  },
-  {
-    "time": "06:50",
-    "quoteFirst": "“",
-    "quoteTime": "Ten minutes to seven",
-    "quoteLast": ",” answered Dan. “Let’s go for a walk before Chapel. What do you say?”",
-    "title": "Double Play: A Story of School and Baseball",
-    "author": "Barbour, Ralph Henry, 1870-1944; Biggs, Walter, 1886-1968 [Illustrator]",
-    "gutenbergReference": "56752",
-    "matchType": 1,
-    "hash": "1b8e3633ac86ea6d1cd023682a49f31cb44ad6e9d2ac0467cd172509b08b7a77"
-  },
-  {
-    "time": "06:50",
-    "quoteFirst": "On 19th March we started at ",
-    "quoteTime": "6.50 a.m.",
-    "quoteLast": ", all our carriers being well provided with food. The country was as usual a well-watered undulating prairie, abounding in game.",
-    "title": "Ismailia",
-    "author": "Baker, Samuel White, Sir, 1821-1893",
-    "gutenbergReference": "3607",
-    "matchType": 2,
-    "hash": "01894563db6cc4f26ad9a4cc43c9b1051ef93f12e40a89a805865447f1c6c16a"
-  },
-  {
-    "time": "06:50",
-    "quoteFirst": "Constable Neil, who passed the house at ",
-    "quoteTime": "ten minutes to seven",
-    "quoteLast": ", saw no one there; and Lambie, who left the house promptly at seven, or, as she said in America, “perhaps a few minutes before seven,” saw no one there. Further, Mrs. Liddell did not observe where the man went to; according to her he merely glided away; and although she was in Miss Gilchrist’s house that night and saw the body, and would naturally be greatly concerned over the murder, she did not recollect having seen this man until the Wednesday after the murder.",
-    "title": "The case of Oscar Slater",
-    "author": "Doyle, Arthur Conan, 1859-1930",
-    "gutenbergReference": "69704",
-    "matchType": 1,
-    "hash": "2d61c667ffabf763ae20a6f1fd6ef0ebf56143e1d74515c5285108b5e2758732"
-  },
-  {
-    "time": "06:50",
-    "quoteFirst": "With a start of apprehension, she glanced at the clock and saw that the hands marked ",
-    "quoteTime": "ten minutes to seven",
-    "quoteLast": ". Moving to the fireplace, she once more pressed the bell; and as Norris answered, turned to her, heedless for perhaps the first time in her life of outward appearances.",
-    "title": "The Mystics: A Novel",
-    "author": "Thurston, Katherine Cecil, 1875-1911",
-    "gutenbergReference": "21127",
-    "matchType": 1,
-    "hash": "a72b577853ae4b70e69b6c62f43922c24d7f4497f1238053d71f144b8c729802"
+    "hash": "55c0d96720b6de22e0d10c209ecef531f23bfd23acf116872787a8e6e22b5f84"
   },
   {
     "time": "06:50",
     "quoteFirst": "At ",
     "quoteTime": "6.50 a.m.",
-    "quoteLast": " on the 1st March, 1917, while the British trawler _Redcap_ was hauling in her trawl, a U-boat appeared and fired several shells at her. One deck-hand was killed, the mate had his leg blown off, and two other hands were injured.",
-    "title": "The German pirate",
-    "author": "Ajax",
-    "gutenbergReference": "50865",
-    "matchType": 2,
-    "hash": "545ccd85e2bf1565dd86c13b0136856ee8360cce49ee431e64d75c2cf42a4f31"
-  },
-  {
-    "time": "06:50",
-    "quoteFirst": "Australian might have thought them friendly. When we started at ",
-    "quoteTime": "6.50 a.m.",
-    "quoteLast": "",
+    "quoteLast": " followed the valley of the creek to the west, passing some fine flats with high grass, but the country generally very poor and thinly wooded with white-gum and silver-leafed ironbark; at 10.40 halted at a small waterhole at the foot of a low granite ridge; at 3.0 p.m. ascended the granite hills, which rose abruptly 100 to 150 feet above the plain, and extended about five miles to the south and east; to the west the sandstone covered the granite and formed a level tableland or plain; to the north a valley trended to the west, on the northern side of which the hills appeared to be granitic.",
     "title": "Journals of Australian Explorations",
     "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
     "gutenbergReference": "10461",
     "matchType": 2,
-    "hash": "3a9d1ef1610e7794a394a4c058294f371dde77cfe22df3c51f78e4fee18d6c14"
+    "hash": "c96a5fe4f2bbffcd4dcb82231a6212db058d913b5a07488ce5a0017dc42fe9b6"
   },
   {
     "time": "06:50",
-    "quoteFirst": "Proceeded down the river, leaving the camp at ",
-    "quoteTime": "6.50 a.m.",
-    "quoteLast": ", and at 2.15 p.m.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "matchType": 2,
-    "hash": "166495c9a2da76f97565cc20260b00432e1c5a688521e4a9484148147107430c"
-  },
-  {
-    "time": "06:50",
-    "quoteFirst": "\"It is ",
-    "quoteTime": "ten minutes to seven",
-    "quoteLast": ".\"",
-    "title": "The Halo",
-    "author": "Von Hutten, Bettina, 1874-1957; Justice, Martin, 1869-1961 [Illustrator]",
-    "gutenbergReference": "16909",
+    "quoteFirst": "At Annamooka it is high water, on the full and change days, nearly at six o'clock; and the tide rises and falls there, upon a perpendicular, about six feet. In the harbour of Tongataboo, it is high water on the full and change days, at ",
+    "quoteTime": "fifty minutes past six",
+    "quoteLast": ". The tide rises and falls on those days, four feet nine inches, and three feet six inches at the Quadratures. In the channels between the islands, which lie in this harbour, it flows near tide and half-tide, that is, the flood continues to run up near three hours, after it is high water by the shore, and the ebb continues to run down, after it is flood by the shore.",
+    "title": "A General History and Collection of Voyages and Travels — Volume 15\r\nForming A Complete History Of The Origin And Progress Of Navigation, Discovery, And Commerce, By Sea And Land, From The Earliest Ages To The Present Time",
+    "author": "Kerr, Robert, 1755-1813",
+    "gutenbergReference": "14611",
     "matchType": 1,
-    "hash": "e1ba74225241e151861e3084c3eb6ccfb303d2d20f7228639076e9eb244a4fa8"
+    "hash": "5c05415a8714bcf27702626c52c233639ba5668f5cb9a4816acc4e04ffac65fe"
   },
   {
     "time": "06:50",
-    "quoteFirst": "There had been lightning and thunder towards south-east and south ever since noon yesterday. The rain was incessant and very heavy for an hour and a half, which made the ground so boggy that the animals could scarcely walk over it; we nevertheless started at ",
-    "quoteTime": "ten minutes to seven A.M.",
-    "quoteLast": ", and after floundering along for half an hour halted for breakfast. We then moved on again, but soon found that the travelling was too heavy for the camels, so camped for the remainder of the day.",
-    "title": "Successful Exploration Through the Interior of Australia\r\nFrom Melbourne to the Gulf of Carpentaria",
-    "author": "Wills, William John, 1834-1861",
-    "gutenbergReference": "5816",
-    "matchType": 0,
-    "hash": "9f4bdb9801e43468c1fce3c9fa53c33c88702af7a2bf6e24ba61241928f351a6"
-  },
-  {
-    "time": "06:50",
-    "quoteFirst": "CAMPBELL goes on till hand of clock points to ",
+    "quoteFirst": "Sitting, debate automatically suspended at ",
     "quoteTime": "ten minutes to seven",
-    "quoteLast": ".",
-    "title": "Punch, or the London Charivari, Volume 100, April 18, 1891",
+    "quoteLast": "; two hours and five minutes for everyone else to speak. SINCLAIR long waiting chance to thrust in his nose.",
+    "title": "Punch, Or The London Charivari, Volume 102, April 2, 1892",
     "author": "Various",
-    "gutenbergReference": "13323",
+    "gutenbergReference": "14390",
     "matchType": 1,
-    "hash": "34451878e57fac9f17a49919486d7cf0e556267a703864ebc80eb0081ed47180"
-  },
-  {
-    "time": "06:50",
-    "quoteFirst": "Burnside was ordered, if he should succeed in breaking the enemy’s centre, to swing around to the left and envelop the right of Lee’s army. He arrived at the Wilderness Tavern at ",
-    "quoteTime": "6.50 A. M.",
-    "quoteLast": ", and at that time was directed to send a division to the support of Hancock, but to continue with the remainder of his command in the execution of his previous order. Burnside had great difficulty in making his way through the dense forests which retarded his progress, but he finally succeeded in getting into the position assigned him.",
-    "title": "The History of Battery H First Regiment Rhode Island Light Artillery in the War to Preserve the Union 1861-1865",
-    "author": "Fenner, Earl, 1841-",
-    "gutenbergReference": "58681",
-    "matchType": 2,
-    "hash": "7363b98ea5f860af7e4c5e721d1a9fdfe43012010e162633bb1f225dc70658c9"
+    "hash": "5c6a953827f14cd755f6ef449377a8a20d6cdb4b42b2a6584258aaf5cd8c0138"
   }
 ]

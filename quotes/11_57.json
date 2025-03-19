@@ -1,25 +1,36 @@
 [
   {
     "time": "11:57",
-    "quoteFirst": "Meads at ",
-    "quoteTime": "11.57 a.m.",
-    "quoteLast": ", are on delivery in the private box renters' office at about 12.30 p.m. The postmen start out with the letters at 1.10 p.m. As the hour of posting for the outward Continental night mails is 2.10 p.m., it is only the private box renters who have time, brief though it be, to reply to their correspondence on the day of receiving it.",
-    "title": "The Bristol Royal Mail: Post, Telegraph, and Telephone",
-    "author": "Tombs, Robert Charles, 1842-1923",
-    "gutenbergReference": "34197",
-    "matchType": 2,
-    "hash": "4e917c368f089960df7a46298d68f5a4ca5224147a66692406a57009927f208c"
+    "quoteFirst": "",
+    "quoteTime": "About twelve o'clock A.M.",
+    "quoteLast": " our first battery opened and played handsomely upon Fort Picurina.",
+    "title": "A British Rifle Man\nThe Journals and Correspondence of Major George Simmons, Rifle Brigade, During the Peninsular War and the Campaign of Waterloo",
+    "author": "Simmons, George, 1785-1858; Verner, William Willoughby Cole, 1852-1922 [Editor]",
+    "gutenbergReference": "50744",
+    "matchType": 0,
+    "hash": "cf24c783c9fe4da3a9ee7681bdfe6c6c7a294d3aaa1d01eeb6f9c71a9cb1a78a"
   },
   {
     "time": "11:57",
-    "quoteFirst": "Then I shook in my glee. Someone had pushed on the hands of the clock, and it was ",
-    "quoteTime": "three minutes to twelve",
-    "quoteLast": ". There was a rustle of excitement in the room. The silence of expectancy followed. \"Two-minutes-to\" narrowed into \"One-minute-to\"; and after a premonitory click, which produced sufficient excitement to interfere with our breath, the clock struck twelve.",
-    "title": "Tell England: A Study in a Generation",
-    "author": "Raymond, Ernest, 1888-1974",
-    "gutenbergReference": "15033",
-    "matchType": 1,
-    "hash": "a3f8e5b40a996890e0da5fb32c4fd27a2f802d3ea57416baaa985d78b3714c6c"
+    "quoteFirst": "We rounded the northernmost point of Sark, a rock called Bec du Nez, ",
+    "quoteTime": "about twelve a.m.",
+    "quoteLast": ", and with a fair wind ran into Port Jument, where we hove to for dinner; then creeping round Point Moie de Mouton, anchored off the famous Gouilot caves, and took a sketch, but could not by reason of my compact enter them. This was very annoying, for I had heard so much about them and their wonderful pools and anemonæ.",
+    "title": "Jethou; or, Crusoe Life in the Channel Isles",
+    "author": "Suffling, Ernest R. (Ernest Richard), 1855-1911",
+    "gutenbergReference": "17618",
+    "matchType": 0,
+    "hash": "cc439b035b65981c3af481110fec727ab683df98d10bfe3caa51fb945f0ac168"
+  },
+  {
+    "time": "11:57",
+    "quoteFirst": "tables which are deftly covered with table-cloths by the waiters in the usual French garb of white aprons and short jackets when the meal-times approach, the partitions of brass rail, the marble columns, the panels of glazed tiles, and, at the end of the room, the grill with a clock above it, where, shielded by a transparent screen, a stout cook all in white stands and turns the chops and the steaks on the great gridiron where the fat drips through and fizzles on the coals beneath. The great janitors, both of mighty girth, who stand at the outer doors, look in occasionally to give a message, for from ",
+    "quoteTime": "about twelve in the morning",
+    "quoteLast": " to midnight the American Bar is as busy as a beehive, and each edition of the evening papers is anxiously bought and scanned by most of the habitués, who have, as a rule, a tinge of the racing man about them.",
+    "title": "Dinners and Diners: Where and How to Dine in London",
+    "author": "Newnham-Davis, Lieut.-Col. (Nathaniel), 1854-1917",
+    "gutenbergReference": "53079",
+    "matchType": 0,
+    "hash": "101108a20bf1758be26acfbbdbc6dec889fef986c03f1363e89ae5442517c58c"
   },
   {
     "time": "11:57",
@@ -34,17 +45,6 @@
   },
   {
     "time": "11:57",
-    "quoteFirst": "8 Fine clear dawn. No wind. Great heat. Whirlwind bad at night till ",
-    "quoteTime": "about 12 a.m.",
-    "quoteLast": "",
-    "title": "Zanzibar; city, island, and coast. Vol. 2 (of 2)",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "70032",
-    "matchType": 0,
-    "hash": "a6d7c6cb27e523984cc4c0c8410f49693380c2effb448d412463b28e2781e512"
-  },
-  {
-    "time": "11:57",
     "quoteFirst": "Then came the breakfast,--that dullest, saddest hour of all. To feed heavily ",
     "quoteTime": "about twelve in the morning",
     "quoteLast": " is always a nuisance,--a nuisance so abominable that it should be avoided under any other circumstances than a wedding in your own family. But that wedding-breakfast, when it does come, is the worst of all feeding.",
@@ -67,80 +67,25 @@
   },
   {
     "time": "11:57",
-    "quoteFirst": "",
-    "quoteTime": "About twelve o'clock A.M.",
-    "quoteLast": " our first battery opened and played handsomely upon Fort Picurina.",
-    "title": "A British Rifle Man\nThe Journals and Correspondence of Major George Simmons, Rifle Brigade, During the Peninsular War and the Campaign of Waterloo",
-    "author": "Simmons, George, 1785-1858; Verner, William Willoughby Cole, 1852-1922 [Editor]",
-    "gutenbergReference": "50744",
+    "quoteFirst": "On the 6th, at 11:00 a. m. he is 1° 15′ north of Venus; and on the 14th, at ",
+    "quoteTime": "11:57 a. m.",
+    "quoteLast": ", 4° 42′ north of the moon.",
+    "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55218",
+    "matchType": 2,
+    "hash": "fcf6358459c89aa9ec12968a97d08c0bf4c903bff12059c42d23739ba4c26f50"
+  },
+  {
+    "time": "11:57",
+    "quoteFirst": "One night, ",
+    "quoteTime": "about twelve o'clock in the morning",
+    "quoteLast": ", as the good folks say, who tell this good tale, Dame ---- the _sage femme_ of Tavistock, had just got comfortably into bed, when rap, rap, rap, came on her cottage door, with such bold and continued noise, that there was a sound of authority in every individual knock.",
+    "title": "The Fairy Mythology\nIllustrative of the Romance and Superstition of Various Countries",
+    "author": "Keightley, Thomas, 1789-1872",
+    "gutenbergReference": "41006",
     "matchType": 0,
-    "hash": "cf24c783c9fe4da3a9ee7681bdfe6c6c7a294d3aaa1d01eeb6f9c71a9cb1a78a"
-  },
-  {
-    "time": "11:57",
-    "quoteFirst": "It was just exactly ",
-    "quoteTime": "three minutes to twelve",
-    "quoteLast": " when Lord Hastings, having taken his bearings and found he was in the designated spot, gave the command to come to the surface.",
-    "title": "The Boy Allies Under the Sea; Or, The Vanishing Submarines",
-    "author": "Hayes, Clair W. (Clair Wallace), 1887-",
-    "gutenbergReference": "14711",
-    "matchType": 1,
-    "hash": "c0e2339a697c37a84772af95da8d72c9970fa53929cc47659d49940bdc8729bc"
-  },
-  {
-    "time": "11:57",
-    "quoteFirst": "Read the words for yourself. You stand by the bond, you know, to the letter--the exact words you spoke to me. Another minute gone; ",
-    "quoteTime": "three minutes to twelve",
-    "quoteLast": ". I demand my money, my three thousand florins!\"",
-    "title": "Self-Doomed: A Novel",
-    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
-    "gutenbergReference": "53096",
-    "matchType": 1,
-    "hash": "8ac72d2077f5effa3166f1c17545151cce324db7f6e157b38a6765e17b0823a0"
-  },
-  {
-    "time": "11:57",
-    "quoteFirst": "It was just exactly ",
-    "quoteTime": "three minutes to twelve",
-    "quoteLast": " when Lord Hastings, having taken his bearings and found he was in the designated spot, gave the command to come to the surface.",
-    "title": "The Boy Allies Under the Sea; Or, The Vanishing Submarines",
-    "author": "Hayes, Clair W. (Clair Wallace), 1887-",
-    "gutenbergReference": "14711",
-    "matchType": 1,
-    "hash": "c0e2339a697c37a84772af95da8d72c9970fa53929cc47659d49940bdc8729bc"
-  },
-  {
-    "time": "11:57",
-    "quoteFirst": "\"Yes, it's just ",
-    "quoteTime": "three minutes to twelve",
-    "quoteLast": ",\" she declared in an awe-struck voice.  \"That's marvellous--how wonderful you are!\"",
-    "title": "The World for Sale, Volume 3.",
-    "author": "Parker, Gilbert, 1862-1932",
-    "gutenbergReference": "6283",
-    "matchType": 1,
-    "hash": "bd4ef41d6a3a8619ca7bf2a9880ea97f0fccf5e62d08fe289f8ca66f67f5adcd"
-  },
-  {
-    "time": "11:57",
-    "quoteFirst": "",
-    "quoteTime": "Three minutes to twelve",
-    "quoteLast": "!",
-    "title": "The Purchase of the North Pole\nA sequel to \"From the earth to the moon\"",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "60242",
-    "matchType": 1,
-    "hash": "cf50879a72a930a340f1f95d9a572fc2802fdd859821c271bb0e3ee53c2bf83a"
-  },
-  {
-    "time": "11:57",
-    "quoteFirst": "On the evening of the 31st December the members of the club muster in force at their snug quarters in Twenty-fourth Street. At two or ",
-    "quoteTime": "three minutes to twelve",
-    "quoteLast": " all the lights are put out, and \"Auld lang syne\" is sung in chorus, to bid good-bye to the year that is passing away. As soon as the clock has struck the midnight hour[5], the lights are relit, all the company strike up \"He's a jolly good fellow,\" and there is a general hand-shaking and wishing of good wishes for the coming year.",
-    "title": "Jonathan and His Continent: Rambles Through American Society",
-    "author": "O'Rell, Max, 1848-1903; Allyn, Jack; Blouët, Mary Bartlett [Translator]",
-    "gutenbergReference": "34679",
-    "matchType": 1,
-    "hash": "df15a6f4f9290aa5cc45d980c9012656b01689e17f018cdbcad7112f5f84f435"
+    "hash": "a2efd8a094136f2dcbab82dd6c5f444e513b166958685ac6702d791c6c54ae27"
   },
   {
     "time": "11:57",
@@ -155,47 +100,47 @@
   },
   {
     "time": "11:57",
-    "quoteFirst": "“Yes, it’s just ",
-    "quoteTime": "three minutes to twelve",
-    "quoteLast": ",” she declared in an awe-struck voice. “That’s marvellous--how wonderful you are!”",
-    "title": "The World for Sale, Complete",
-    "author": "Parker, Gilbert, 1862-1932",
-    "gutenbergReference": "6284",
-    "matchType": 1,
-    "hash": "109cba75159b0ffc6fac68fd373523607121c188bd31e867ef2900a0893b75fe"
-  },
-  {
-    "time": "11:57",
-    "quoteFirst": "Then came the breakfast,--that dullest, saddest hour of all. To feed heavily ",
-    "quoteTime": "about twelve in the morning",
-    "quoteLast": " is always a nuisance,--a nuisance so abominable that it should be avoided under any other circumstances than a wedding in your own family. But that wedding-breakfast, when it does come, is the worst of all feeding.",
-    "title": "Mr. Scarborough's Family",
-    "author": "Trollope, Anthony, 1815-1882",
-    "gutenbergReference": "12234",
+    "quoteFirst": "Quebec ",
+    "quoteTime": "about 12 o'clock a.m.",
+    "quoteLast": " I had an intermediate ticket: it was quite as good as first-class. The captain sent a sailor to look after me; he dressed, fed, and attended to me in every way he possibly could.",
+    "title": "The Strand Magazine, Vol. 07, Issue 39, March 1894\r\nAn Illustrated Monthly",
+    "author": "Various; Newnes, George, 1851-1910 [Editor]",
+    "gutenbergReference": "47374",
     "matchType": 0,
-    "hash": "fa70c9d43a3e3279d04d4dad22c006b5f0a6049deacd7a5451039818389bc46d"
+    "hash": "6113b77e0187ab9415d1a5cebe3c2720121887106e315ceb77733b3f3ba8f46e"
   },
   {
     "time": "11:57",
-    "quoteFirst": "8 Fine clear dawn. No wind. Great heat. Whirlwind bad at night till ",
+    "quoteFirst": "At about 9 a.m. they began carrying the fuel--wood and kerosene--that was to be used for the cremation, and at ",
     "quoteTime": "about 12 a.m.",
-    "quoteLast": "",
-    "title": "Zanzibar; city, island, and coast. Vol. 2 (of 2)",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "70032",
+    "quoteLast": " one Londoño, by order of the criminal Macedo, set fire to the unfortunate victims of the Ocainas tribe. This smouldering pile of human flesh remained there until about 10 a.m. on the next day.",
+    "title": "The Putumayo, the Devil's Paradise\r\nTravels in the Peruvian Amazon Region and an Account of the Atrocities Committed upon the Indians Therein",
+    "author": "Hardenburg, W. E. (Walter Ernest), 1886-1942; Casement, Roger, 1864-1916 [Contributor]; Enock, C. Reginald (Charles Reginald), 1868-1970 [Editor]",
+    "gutenbergReference": "45204",
     "matchType": 0,
-    "hash": "a6d7c6cb27e523984cc4c0c8410f49693380c2effb448d412463b28e2781e512"
+    "hash": "2344f48883c449244cb3435b977398332310eedb368d02b2a9db58680b27a922"
   },
   {
     "time": "11:57",
-    "quoteFirst": "",
-    "quoteTime": "About twelve o'clock A.M.",
-    "quoteLast": " our first battery opened and played handsomely upon Fort Picurina.",
-    "title": "A British Rifle Man\nThe Journals and Correspondence of Major George Simmons, Rifle Brigade, During the Peninsular War and the Campaign of Waterloo",
-    "author": "Simmons, George, 1785-1858; Verner, William Willoughby Cole, 1852-1922 [Editor]",
-    "gutenbergReference": "50744",
+    "quoteFirst": "One night, ",
+    "quoteTime": "about twelve o'clock in the morning",
+    "quoteLast": ", as the good folks say, who tell this good tale, Dame ---- the _sage femme_ of Tavistock, had just got comfortably into bed, when rap, rap, rap, came on her cottage door, with such bold and continued noise, that there was a sound of authority in every individual knock.",
+    "title": "The Fairy Mythology\nIllustrative of the Romance and Superstition of Various Countries",
+    "author": "Keightley, Thomas, 1789-1872",
+    "gutenbergReference": "41006",
     "matchType": 0,
-    "hash": "cf24c783c9fe4da3a9ee7681bdfe6c6c7a294d3aaa1d01eeb6f9c71a9cb1a78a"
+    "hash": "a2efd8a094136f2dcbab82dd6c5f444e513b166958685ac6702d791c6c54ae27"
+  },
+  {
+    "time": "11:57",
+    "quoteFirst": "Quality looked at the clock. It wanted but ",
+    "quoteTime": "three minutes to twelve",
+    "quoteLast": ".",
+    "title": "The Cornhill Magazine (vol. XLI, no. 242 new series, August 1916)",
+    "author": "Various",
+    "gutenbergReference": "71982",
+    "matchType": 1,
+    "hash": "44dec32c4566ad42905aa20cb826e263fa52bf2b7fdb403c5b09f93af57d6fef"
   },
   {
     "time": "11:57",
@@ -210,6 +155,39 @@
   },
   {
     "time": "11:57",
+    "quoteFirst": "Then came the breakfast,--that dullest, saddest hour of all. To feed heavily ",
+    "quoteTime": "about twelve in the morning",
+    "quoteLast": " is always a nuisance,--a nuisance so abominable that it should be avoided under any other circumstances than a wedding in your own family. But that wedding-breakfast, when it does come, is the worst of all feeding.",
+    "title": "Mr. Scarborough's Family",
+    "author": "Trollope, Anthony, 1815-1882",
+    "gutenbergReference": "12234",
+    "matchType": 0,
+    "hash": "fa70c9d43a3e3279d04d4dad22c006b5f0a6049deacd7a5451039818389bc46d"
+  },
+  {
+    "time": "11:57",
+    "quoteFirst": "He actually appeared at ",
+    "quoteTime": "about twelve o'clock in the morning",
+    "quoteLast": ". The doors were closed and guarded by four detectives and he was unable to obtain admission. But at three o'clock an official from the Prefecture of Police arrived, armed with full powers of negotiation.",
+    "title": "The Three Eyes",
+    "author": "Leblanc, Maurice, 1864-1941; Gage, George W., 1887-1957 [Illustrator]; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
+    "gutenbergReference": "34653",
+    "matchType": 0,
+    "hash": "f658941b888d73ecec2e383fc70751494965b095f4e15353d5ac175a0031a8bc"
+  },
+  {
+    "time": "11:57",
+    "quoteFirst": "On the 6th, at 11:00 a. m. he is 1° 15′ north of Venus; and on the 14th, at ",
+    "quoteTime": "11:57 a. m.",
+    "quoteLast": ", 4° 42′ north of the moon.",
+    "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55218",
+    "matchType": 2,
+    "hash": "fcf6358459c89aa9ec12968a97d08c0bf4c903bff12059c42d23739ba4c26f50"
+  },
+  {
+    "time": "11:57",
     "quoteFirst": "Meads at ",
     "quoteTime": "11.57 a.m.",
     "quoteLast": ", are on delivery in the private box renters' office at about 12.30 p.m. The postmen start out with the letters at 1.10 p.m. As the hour of posting for the outward Continental night mails is 2.10 p.m., it is only the private box renters who have time, brief though it be, to reply to their correspondence on the day of receiving it.",
@@ -218,5 +196,27 @@
     "gutenbergReference": "34197",
     "matchType": 2,
     "hash": "4e917c368f089960df7a46298d68f5a4ca5224147a66692406a57009927f208c"
+  },
+  {
+    "time": "11:57",
+    "quoteFirst": "He actually appeared at ",
+    "quoteTime": "about twelve o'clock in the morning",
+    "quoteLast": ". The doors were closed and guarded by four detectives and he was unable to obtain admission. But at three o'clock an official from the Prefecture of Police arrived, armed with full powers of negotiation.",
+    "title": "The Three Eyes",
+    "author": "Leblanc, Maurice, 1864-1941; Gage, George W., 1887-1957 [Illustrator]; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
+    "gutenbergReference": "34653",
+    "matchType": 0,
+    "hash": "f658941b888d73ecec2e383fc70751494965b095f4e15353d5ac175a0031a8bc"
+  },
+  {
+    "time": "11:57",
+    "quoteFirst": "Ah Wu’s opium den has been already described--except that we saw it before at night, when the place was crowded.  On this occasion there was only one man asleep upon a couch in the lower room.  It was ",
+    "quoteTime": "about twelve o’clock in the morning",
+    "quoteLast": ", and at this hour, as a general rule, Chinese opium dens are empty, the smokers of the previous evening having departed and the day’s customers not having arrived.",
+    "title": "Held by Chinese Brigands",
+    "author": "Gilson, Charles, 1878-1943; De Walton, John [Illustrator]",
+    "gutenbergReference": "39254",
+    "matchType": 0,
+    "hash": "8cdfae2b042797541c8aecc1e52d915c155536f10a2d69d83f86242d8b59552c"
   }
 ]
