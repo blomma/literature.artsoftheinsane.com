@@ -1,47 +1,25 @@
 [
   {
     "time": "05:57",
-    "quoteFirst": "Coming to the surface ",
-    "quoteTime": "about six o'clock A.M.",
-    "quoteLast": ", I found a daylight as cheerful as need be upon the appointments of the elegant cabin, and upon the good-natured face of the steward when he brought me the caffè latte, and the buttered toast for my breakfast. He said \"_Servitor suo_!\" in a loud and comfortable voice, and I perceived the absurdity of having thought that he was in any way related to the Nightmare-Death-in-life-that-thicks-man's-blood-with-cold.",
-    "title": "Italian Journeys",
-    "author": "Howells, William Dean, 1837-1920",
-    "gutenbergReference": "14276",
-    "matchType": 0,
-    "hash": "3bc42fcbfdb3f1e0b569cbb7ad62c0f112b43dd6d8197106003b9fa98f0f580e"
-  },
-  {
-    "time": "05:57",
-    "quoteFirst": "At Burlington you rush to a wharf and go on board a steamboat, two hundred and thirty-two miles from Boston. We left Concord at twenty minutes before eight in the morning, and were in Burlington ",
-    "quoteTime": "about six at night",
-    "quoteLast": ", but too late to see the lake. We got our first fair view of the lake at dawn, just before reaching Plattsburg, and saw blue ranges of mountains on either hand, in New York and in Vermont, the former especially grand.",
-    "title": "A Yankee in Canada, with Anti-slavery and reform papers.",
-    "author": "Thoreau, Henry David, 1817-1862; Emerson, Ralph Waldo, 1803-1882 [Contributor]; Channing, William Ellery, 1817-1901 [Editor]; Thoreau, Sophia E., 1819-1876 [Editor]",
-    "gutenbergReference": "70123",
-    "matchType": 0,
-    "hash": "56ce7488427af5b17a77eda4497972127d6922ba4955641702a0480d051792fc"
-  },
-  {
-    "time": "05:57",
-    "quoteFirst": "Received ",
+    "quoteFirst": "_November 24th.--Ten A.M._--We set off this morning at ",
     "quoteTime": "about 6 A.M.",
-    "quoteLast": ", and answered before 7 A.M.            120",
-    "title": "The Campaign of Waterloo: A Military History\r\nThird Edition",
-    "author": "Ropes, John Codman, 1836-1899",
-    "gutenbergReference": "56995",
+    "quoteLast": " In passing the fleet we begged from the commander the loan of a pilot. He proves to be a Cantonese, so that the active spirits on both sides seem to come from that quarter.",
+    "title": "Letters and Journals of James, Eighth Earl of Elgin",
+    "author": "Elgin, James Bruce, Earl of, 1811-1863",
+    "gutenbergReference": "10610",
     "matchType": 0,
-    "hash": "3cfce2d1874e05f9bd5d9dcd939e27008943dadc2cd8a579834dd3614097dbc5"
+    "hash": "a4f8390a2c34f72513af37c4ce182ed11f5d4052829c457c9c92931484e8ccf0"
   },
   {
     "time": "05:57",
-    "quoteFirst": "At ",
-    "quoteTime": "5.57 a.m.",
-    "quoteLast": " (British summer time) R 34 set out on her return voyage, steering for New York, to fly over the city before heading out into the Atlantic.  She was picked up by the searchlights and was distinctly visible to an enormous concourse of spectators.",
-    "title": "British Airships, Past, Present, and Future",
-    "author": "Whale, George",
-    "gutenbergReference": "762",
-    "matchType": 2,
-    "hash": "1680d3bdfca52173e3dbee98da9248ad43f75f798810c850378961dac3d0cdb5"
+    "quoteFirst": "From that prearranged message, they knew they’d only to open an envelope and carry out their sealed orders which I’d left with them. They came up to the Maze during the night; watched Ernest into it ",
+    "quoteTime": "about 6 a.m.",
+    "quoteLast": "—I’d been keeping an eye on his room during the night, so he couldn’t have given us the slip anyhow. Then, as soon as he went into the Maze my men closed the gates behind him—and the game was up!",
+    "title": "Murder in the maze",
+    "author": "Connington, J. J., 1880-1947",
+    "gutenbergReference": "71351",
+    "matchType": 0,
+    "hash": "ff8ae5a74d2b002e5b14d34217c7976fc06bd9d7f70c1de3fd0c8ca458ee7235"
   },
   {
     "time": "05:57",
@@ -56,6 +34,50 @@
   },
   {
     "time": "05:57",
+    "quoteFirst": "m. bridge-train began to arrive. About 4.30, bridge (pontoon) was completed and last of General Cutler's division crossed. ",
+    "quoteTime": "About 6 a. m.",
+    "quoteLast": "",
+    "title": "The Thirty-Ninth Regiment Massachusetts Volunteers, 1862-1865",
+    "author": "Roe, Alfred S. (Alfred Seelye), 1844-1917",
+    "gutenbergReference": "51250",
+    "matchType": 0,
+    "hash": "733e71eeeed9ddb207c8fdfcb13771849fece8c66b0c2c0b382537ee948729c2"
+  },
+  {
+    "time": "05:57",
+    "quoteFirst": "Sir Edward and his staff and the British correspondents left next morning early, ",
+    "quoteTime": "about six A. M.",
+    "quoteLast": " No untoward incidents occurred at the time of their departure which was, of course, unknown to the populace of Berlin.",
+    "title": "My Four Years in Germany",
+    "author": "Gerard, James W. (James Watson), 1867-1951",
+    "gutenbergReference": "7238",
+    "matchType": 0,
+    "hash": "82d7764ad0ad0b658df49fe91c98c01a2f1dbb67ad6bec09ec7db0c93ec90833"
+  },
+  {
+    "time": "05:57",
+    "quoteFirst": "An express arrived ",
+    "quoteTime": "about six o'clock at night",
+    "quoteLast": ", 'very particularly drunk,' the maid-servant said, with a packet from Colonel Mannering, dated four days back, at a town about a hundred miles' distance from Kippletringan, containing full powers to Mr. Mac-Morlan, or any one whom he might employ, to make the intended purchase, and stating that some family business of consequence called the Colonel himself to Westmoreland, where a letter would find him, addressed to the care of Arthur Mervyn, Esq., of Mervyn Hall.",
+    "title": "Guy Mannering, Or, the Astrologer — Complete",
+    "author": "Scott, Walter, 1771-1832",
+    "gutenbergReference": "5355",
+    "matchType": 0,
+    "hash": "5c79ea65db4af5266683d9836a1dff423d14b4660ef7b931bc4a141f04b53247"
+  },
+  {
+    "time": "05:57",
+    "quoteFirst": "For some days and nights cars have been arriving and departing very frequently, especially in the night; but last night (the 29th) more so than usual, and my suspicions were aroused. Before daybreak I instructed the brigade commanders and the field-officer of the day to feel forward as far as possible; but all reported the enemy's pickets still in force in the dense woods to our front. But ",
+    "quoteTime": "about 6 A.M.",
+    "quoteLast": " a curious explosion, sounding like a volley of large siege-pieces, followed by others, singly, and in twos and threes, arrested our attention, and soon after a large smoke arose from the direction of Corinth, when I telegraphed to General Halleck to ascertain the cause.",
+    "title": "The Rise and Fall of the Confederate Government, Volume 2",
+    "author": "Davis, Jefferson, 1808-1889",
+    "gutenbergReference": "42315",
+    "matchType": 0,
+    "hash": "4b5ca1b94a949453bdc88815ddd71e6cecd4f8b6e2580424edb5a93acc27565e"
+  },
+  {
+    "time": "05:57",
     "quoteFirst": "On Monday noon we reached Staunton and remained there two hours, and then took the cars for Richmond, a distance of one hundred and thirty-six miles, which we passed over during the night, arriving at our destination ",
     "quoteTime": "about six o’clock A. M.",
     "quoteLast": ", June 23d. We were immediately marched to the Libby Prison, where we were searched, and our rubber coats, blankets, etc. taken from us. The most of us managed to secrete our money, so that it was not discovered.",
@@ -67,146 +89,47 @@
   },
   {
     "time": "05:57",
-    "quoteFirst": "On the 25th the enemy made a general attack along the whole of our line. This was evidently paving the way for the surprise birthday gift to the Kaiser on the 27th. ",
-    "quoteTime": "About 6 a.m.",
-    "quoteLast": " on the 25th the attack was started with a heavy rifle and machine-gun fire, and then all our positions were shelled with heavy guns. Under the fire of these the attack was pressed home, but although some Regiments had to vacate their trenches owing to force of numbers, counter attacks were made and the positions re-taken.",
-    "title": "The Story of the Munsters at Etreux, Festubert, Rue du Bois and Hulloch",
-    "author": "Rickard, Jessie Louisa Moore, 1879-1963",
-    "gutenbergReference": "45625",
+    "quoteFirst": "The first shot on that eventful day was fired at a Boer scout by Lieutenant Lucy of the 58th, but the General, hearing it, sent word to \"stop that firing.\" Silence again reigned. But in the meantime the Boers were crawling cautiously up the hill after leaving their horses safely under cover. ",
+    "quoteTime": "About 6 A.M.",
+    "quoteLast": " they opened a steady fire, to which the British troops responded cordially. The Boer bullets, though doubling those of the British, did little damage, as the troops were partially sheltered within the basin of the hilltop.",
+    "title": "South Africa and the Transvaal War, Vol. 1 (of 8)\r\nFrom the Foundation of Cape Colony to the Boer Ultimatum of 9th Oct. 1899",
+    "author": "Creswicke, Louis",
+    "gutenbergReference": "23692",
     "matchType": 0,
-    "hash": "fdad0616bf67cc8b4d7714e966f2590e35e421b72dc0bab98a8710d6fd3bfeaf"
+    "hash": "619d416875b93488625069bd1132c1faa93173893e6a2d4a568a687eb07d15d2"
   },
   {
     "time": "05:57",
-    "quoteFirst": "At ",
+    "quoteFirst": "24th.  Up, and all the morning at the office, and at noon with my clerks to dinner, and then to the office again, busy at the office till six at night, and then by coach to St. James's, it being ",
+    "quoteTime": "about six at night",
+    "quoteLast": "; my design being to see the ceremonys, this night being the eve of Christmas, at the Queen's chapel.  But it being not begun I to Westminster Hall, and there staid and walked, and then to the Swan, and there drank and talked, and did banter a little Frank, and so to White Hall, and sent my coach round, I through the Park to chapel, where I got in up almost to the rail, and with a great deal of patience staid from nine at night to two in the morning, in a very great crowd; and there expected, but found nothing extraordinary, there being nothing but a high masse.",
+    "title": "Diary of Samuel Pepys — Volume 60: December 1667",
+    "author": "Pepys, Samuel, 1633-1703; Braybrooke, Richard Griffin, Baron, 1783-1858 [Editor]; Wheatley, Henry B. (Henry Benjamin), 1838-1917 [Editor]; Bright, Mynors, 1818-1883 [Translator]",
+    "gutenbergReference": "4183",
+    "matchType": 0,
+    "hash": "3bd3bf5eaf9f99faea397c0298ea6fd9cc074443ad6b16065f9383112dafe24b"
+  },
+  {
+    "time": "05:57",
+    "quoteFirst": "The midday aspect of such yards as Sherman’s “Bull and Mouth,” Chaplin’s “Swan with Two Necks,” the “Belle Sauvage,” the “Cross Keys,” the “Golden Cross,” and others was one of repose, but from unearthly hours in the forenoon until nine or ten, or from three o’clock in the afternoon until nine at night, they were the scenes of bustling activity. Any reference to old coaching time-bills will show that the majority of the day stage-coaches to places distant a hundred miles or more from London started ",
     "quoteTime": "about 6 a.m.",
-    "quoteLast": " a further development began, one which might have proved fatal to the British force had the Boers then possessed the discipline and vigour in counter-attacks they acquired in the later stages of the war. Grobelaar and Steinkamp with the Burghersdorp commando had been roused by the sound of the guns from their bivouac on the Steynsburg road, and, riding back, lined the crest of the hill to the west of Bamboosberg Spruit, and thence opened a long-range fire threatening the line of retreat.",
-    "title": "History of the War in South Africa 1899-1902 v. 1 (of 4)\nCompiled by Direction of His Majesty's Government",
-    "author": "Great Britain. War Office; Maurice, John Frederick, 1841-1912 [Compiler]",
-    "gutenbergReference": "28158",
+    "quoteLast": " Thus in 1824, among the coaches from London to Birmingham, eight are found timed from London between five and a quarter to eight in the morning; leaving the rest of the day blank until 3 p.m., when the earliest of the night coaches set out. The “Sovereign” went in 1824 from the “Bull,” Whitechapel, at 5 a.m. Half an hour later went the “Crown Prince” from the “Belle Sauvage,” and the “Aurora,” from the “Bull and Mouth”; followed by the “Courier,” from the “Swan with Two Necks,” and the “Light Coach” from the “Cross Keys” and “Golden Cross” at 6. At 6.",
+    "title": "Stage-coach and Mail in Days of Yore, Volume 1 (of 2)\nA picturesque history of the coaching age",
+    "author": "Harper, Charles G. (Charles George), 1863-1943",
+    "gutenbergReference": "58667",
     "matchType": 0,
-    "hash": "665a36349d7b10669fa63902ca3016eb1f90bf97eacbdeea01ac31a63f85ebed"
+    "hash": "174d868fb13d5f6244be20459416580f0d0eb8c1226847d2c0dd5f2a5931cff4"
   },
   {
     "time": "05:57",
-    "quoteFirst": "6  |30 .00 |    |    |NE by E|       |        | 7  |       |    |    |       |       |        |",
-    "quoteTime": "About 6 A.M.",
-    "quoteLast": " we got underweigh, 8  |30 .04 | 75 | 78 |       |       |        |and stood to the Northward. |       |    |-1/2|       |       |        | 9  |       |    |    |       |       |        | 10  |30 .",
-    "title": "Account of a voyage of discovery to the west coast of Corea, and the great Loo-Choo Island",
-    "author": "Hall, Basil, 1788-1844",
-    "gutenbergReference": "29051",
+    "quoteFirst": "'Supper being ended ",
+    "quoteTime": "about 6 at night",
+    "quoteLast": " the Master went to his Cabin to rest, the Gunner asked leave to go ashore, (the ship riding but half a mile from landing.) Afterwards Robert Rawlinson and Perks walked upon the quarter deck; and the devilish Java perceiving the Master to be absent, he asked the Boyes where he was, who answered he was gone to sleepe.",
+    "title": "The Pictorial Press: Its Origin and Progress",
+    "author": "Jackson, Mason, 1819-1903",
+    "gutenbergReference": "36417",
     "matchType": 0,
-    "hash": "c94c006e72adcf2ea6e4aa7d9d086def87f8581aa5a1adbb4f29095537405d88"
-  },
-  {
-    "time": "05:57",
-    "quoteFirst": "For a day and a night they had chased him, when off Cape St. Vincent at ",
-    "quoteTime": "about six a.m.",
-    "quoteLast": " Shard took that step that decided his retirement from active life, he turned for the Mediterranean. Had he held on Southwards down the African coast it is doubtful whether in face of the interference of England, Russia, France, Denmark and Spain, he could have made piracy pay; but in turning for the Mediterranean he took what we may call the penultimate step of his life which meant for him settling down.",
-    "title": "Tales of Wonder",
-    "author": "Dunsany, Lord, 1878-1957",
-    "gutenbergReference": "13821",
-    "matchType": 0,
-    "hash": "e77ba8640589ab35636a16c4f5ecd6c22794578d46bf38e941e3b5b20b7414a3"
-  },
-  {
-    "time": "05:57",
-    "quoteFirst": "_Friday, 6th._--My servant awoke me with the tidings that our voyage was complete, and we at Natchy-under-hill, where all things destined for the upper region are landed. It was ",
-    "quoteTime": "about six o'clock A.M.",
-    "quoteLast": ", the rain coming down merrily, when I took leave of the Superior and her captain, much pleased with both, and landed ankle-deep in choice mud.",
-    "title": "Impressions of America During the Years 1833, 1834 and 1835. Volume 2 (of 2)",
-    "author": "Power, Tyrone, 1797-1841",
-    "gutenbergReference": "23284",
-    "matchType": 0,
-    "hash": "745eda5c4dc6244ea516bd25b7079becb3857026b5b3a3f210d19d68ff6ba359"
-  },
-  {
-    "time": "05:57",
-    "quoteFirst": "Battalion, Royal Naval Division. ",
-    "quoteTime": "About 6 a.m.",
-    "quoteLast": " H.M.S. _Implacable_, with a boldness much admired by the Army, stood quite close in to the beach, firing very rapidly with every gun she could bring to bear. Thus seconded, the Royal Fusiliers made good their landing with but little loss.",
-    "title": "Sir Ian Hamilton's Despatches from the Dardanelles, etc.",
-    "author": "Hamilton, Ian, 1853-1947; Wood, Evelyn, 1838-1919 [Author of introduction, etc.]",
-    "gutenbergReference": "53959",
-    "matchType": 0,
-    "hash": "1f23f4befe94952072f70d8de9dc22209b83b842a27e1db711b42057c17b0983"
-  },
-  {
-    "time": "05:57",
-    "quoteFirst": "Early next morning (17th) the clouds broke for a brief interval, as they have a way of doing ",
-    "quoteTime": "about 6 A.M.",
-    "quoteLast": ", even in the worst weather.",
-    "title": "With ski & sledge over Arctic glaciers",
-    "author": "Conway, William Martin, Sir, 1856-1937; Garwood, Edmund Johnston, 1864-1949 [Illustrator]",
-    "gutenbergReference": "52435",
-    "matchType": 0,
-    "hash": "04dd22778d431e4be9e4563f717688202851d8dcc9c4ad53e5b126028ab0c64b"
-  },
-  {
-    "time": "05:57",
-    "quoteFirst": "We do not know what answer Marshal Ney returned to these interrogatories, but he told Reille,[264] in the course of the conversation to which we have before referred, shortly before seven o’clock in the morning, that he had rendered to the Emperor an account of his situation. This first order, therefore, must have arrived ",
-    "quoteTime": "about 6 A.M.",
-    "quoteLast": "; and from its contents, and also from the hour when it was sent, as well as from the tenor of the orders to d’Erlon of the day before, we can see how carefully the operations of the left wing were watched at the headquarters of the army.",
-    "title": "The Campaign of Waterloo: A Military History\r\nThird Edition",
-    "author": "Ropes, John Codman, 1836-1899",
-    "gutenbergReference": "56995",
-    "matchType": 0,
-    "hash": "419d25abe565d50a29a5434d32325e1505ce29d63f18f9448f705a2155916b31"
-  },
-  {
-    "time": "05:57",
-    "quoteFirst": "We sighted the Tola at about nine o’clock on the morning of the 31st of August, and must have passed at least a dozen caravans of fifty or sixty camels each, before we reached its banks, from the time we started, ",
-    "quoteTime": "about six a.m.",
-    "quoteLast": " The reports we got as to the state of the river were not encouraging. Heavy rains had made the ford impassable, and all traffic was now being carried on by means of the ferry, some five miles lower down the stream.",
-    "title": "From Pekin to Calais by Land",
-    "author": "De Windt, Harry, 1856-1933",
-    "gutenbergReference": "48992",
-    "matchType": 0,
-    "hash": "38dffa89b8660badd9123773cc06132c35f30dc47044437df6a74a5dd338728a"
-  },
-  {
-    "time": "05:57",
-    "quoteFirst": "The arrangements for observing were simple. Four assistants divided the work between them thus: an assistant was on duty with the transit circle one day, his watch beginning ",
-    "quoteTime": "about six a.m.",
-    "quoteLast": " or a little later, and ending about three the following morning; a watch of twenty-one hours in maximum length. The second day his duties were entirely computational, and were only two or three hours in length.",
-    "title": "The Royal Observatory, Greenwich: A Glance at Its History and Work",
-    "author": "Maunder, E. Walter (Edward Walter), 1851-1928",
-    "gutenbergReference": "44167",
-    "matchType": 0,
-    "hash": "e4d5d84233f4314beac683e9d40dee9a144a678e3297cb3bf2778b930e1ac96e"
-  },
-  {
-    "time": "05:57",
-    "quoteFirst": "_Brook Farm_, June 1st, 1841--",
-    "quoteTime": "nearly 6 A.M.",
-    "quoteLast": "",
-    "title": "Love Letters of Nathaniel Hawthorne, Volume 2 (of 2)",
-    "author": "Hawthorne, Nathaniel, 1804-1864",
-    "gutenbergReference": "41368",
-    "matchType": 0,
-    "hash": "d2e6766c806377b4614bd3ce65b1834ee54c121fe2e22041e67da960debee970"
-  },
-  {
-    "time": "05:57",
-    "quoteFirst": "6  |30 .00 |    |    |NE by E|       |        | 7  |       |    |    |       |       |        |",
-    "quoteTime": "About 6 A.M.",
-    "quoteLast": " we got underweigh, 8  |30 .04 | 75 | 78 |       |       |        |and stood to the Northward. |       |    |-1/2|       |       |        | 9  |       |    |    |       |       |        | 10  |30 .",
-    "title": "Account of a voyage of discovery to the west coast of Corea, and the great Loo-Choo Island",
-    "author": "Hall, Basil, 1788-1844",
-    "gutenbergReference": "29051",
-    "matchType": 0,
-    "hash": "c94c006e72adcf2ea6e4aa7d9d086def87f8581aa5a1adbb4f29095537405d88"
-  },
-  {
-    "time": "05:57",
-    "quoteFirst": "_The curtain-mist_; The battle began ",
-    "quoteTime": "about 6 A.M.",
-    "quoteLast": " under heavy mist and drizzling rain, which lasted for several hours.  Through this curtain the Russian forces coming down from the hill were seen only when near enough to darken the mist by their masses.",
-    "title": "The Visions of England\nLyrics on leading men and events in English History",
-    "author": "Palgrave, Francis Turner, 1824-1897; Morley, Henry, 1822-1894 [Editor]",
-    "gutenbergReference": "17923",
-    "matchType": 0,
-    "hash": "222adaf16f0608056b46eee7ec4e3c53b5272dfc5fee29971dd1bfdd281bac4b"
+    "hash": "97af16f8e79ba4ffcd2f434d4d25fbe0f683f9f3f41a03e0b3b359557b172671"
   },
   {
     "time": "05:57",
@@ -218,5 +141,82 @@
     "gutenbergReference": "48534",
     "matchType": 0,
     "hash": "d10010ba539cf978c6412abd9b887e20e41c9d92d3f23b95d0ccd674482378f0"
+  },
+  {
+    "time": "05:57",
+    "quoteFirst": "",
+    "quoteTime": "About six o'clock at night",
+    "quoteLast": " a telegram was delivered. The uncle was dying: Mrs. Clement-Pell must come as soon as possible, to be in time to see him: as to bringing the children she must do as she pleased about that. In Mrs.",
+    "title": "Johnny Ludlow, First Series",
+    "author": "Wood, Henry, Mrs., 1814-1887",
+    "gutenbergReference": "40915",
+    "matchType": 0,
+    "hash": "c62b4a71c4d3c0f080900161f0a2863db3dd7ceda822a45288b37a38bbaceb11"
+  },
+  {
+    "time": "05:57",
+    "quoteFirst": "Only yesterday he asked me again to do so. But Cockie generally has two or more rounds with Curra Mirali and pursues him round the yard, leaving the door open--every morning ",
+    "quoteTime": "about 6 a.m.",
+    "quoteLast": " when I am doing my best to have one other dream.",
+    "title": "The Secrets of a Kuttite\nAn Authentic Story of Kut, Adventures in Captivity and Stamboul Intrigue",
+    "author": "Mousley, Edward O. (Edward Opotiki), 1886-",
+    "gutenbergReference": "41213",
+    "matchType": 0,
+    "hash": "23e4c423453fbf105a228faad540f9b2024c0dc3ab9ec0096b9813df94cc1137"
+  },
+  {
+    "time": "05:57",
+    "quoteFirst": "Only yesterday he asked me again to do so. But Cockie generally has two or more rounds with Curra Mirali and pursues him round the yard, leaving the door open--every morning ",
+    "quoteTime": "about 6 a.m.",
+    "quoteLast": " when I am doing my best to have one other dream.",
+    "title": "The Secrets of a Kuttite\nAn Authentic Story of Kut, Adventures in Captivity and Stamboul Intrigue",
+    "author": "Mousley, Edward O. (Edward Opotiki), 1886-",
+    "gutenbergReference": "41213",
+    "matchType": 0,
+    "hash": "23e4c423453fbf105a228faad540f9b2024c0dc3ab9ec0096b9813df94cc1137"
+  },
+  {
+    "time": "05:57",
+    "quoteFirst": "24th. Up, and all the morning at the office, and at noon with my clerks to dinner, and then to the office again, busy at the office till six at night, and then by coach to St. James’s, it being ",
+    "quoteTime": "about six at night",
+    "quoteLast": "; my design being to see the ceremonys, this night being the eve of Christmas, at the Queen’s chapel. But it being not begun I to Westminster Hall, and there staid and walked, and then to the Swan, and there drank and talked, and did banter a little Frank, and so to White Hall, and sent my coach round, I through the Park to chapel, where I got in up almost to the rail, and with a great deal of patience staid from nine at night to two in the morning, in a very great crowd; and there expected, but found nothing extraordinary, there being nothing but a",
+    "title": "The Diary of Samuel Pepys — Complete",
+    "author": "Pepys, Samuel, 1633-1703; Braybrooke, Richard Griffin, Baron, 1783-1858 [Editor]; Wheatley, Henry B. (Henry Benjamin), 1838-1917 [Editor]; Bright, Mynors, 1818-1883 [Translator]",
+    "gutenbergReference": "4200",
+    "matchType": 0,
+    "hash": "d357f5ef75f56dfef3aa0d2d143c2830e0665f3d8df553818e27aa62d14d8dc7"
+  },
+  {
+    "time": "05:57",
+    "quoteFirst": "75-84, for a detailed discussion of this passage. Several commentators have held that lines 1 to 6 describe the dawn of day _elsewhere_; and it is true that it would be ",
+    "quoteTime": "nearly 6 a.m.",
+    "quoteLast": " and Pisces would be on the horizon in Italy when the hour was nearly 9 p.m. in Purgatory. ------------------------------------------------------------------------",
+    "title": "Dante and the early astronomers",
+    "author": "Orr, M. A. (Mary Acworth), 1867-1949",
+    "gutenbergReference": "64489",
+    "matchType": 0,
+    "hash": "1a9de36ce68fc0443512ded3ad718e8eff4c8c6bbdcda4239ba90f7fd5de5978"
+  },
+  {
+    "time": "05:57",
+    "quoteFirst": "An express arrived ",
+    "quoteTime": "about six o'clock at night",
+    "quoteLast": ", 'very particularly drunk,' the maid-servant said, with a packet from Colonel Mannering, dated four days back, at a town about a hundred miles' distance from Kippletringan, containing full powers to Mr. Mac-Morlan, or any one whom he might employ, to make the intended purchase, and stating that some family business of consequence called the Colonel himself to Westmoreland, where a letter would find him, addressed to the care of Arthur Mervyn, Esq., of Mervyn Hall.",
+    "title": "Guy Mannering, Or, the Astrologer — Volume 01",
+    "author": "Scott, Walter, 1771-1832",
+    "gutenbergReference": "5353",
+    "matchType": 0,
+    "hash": "92563d9b1ba50238668e1fefcacf5a595081974f5d68e8f508f28d4e2c893506"
+  },
+  {
+    "time": "05:57",
+    "quoteFirst": "The _Bear_ had to turn back once more last night; ice too heavy. Anchored, however, not far to south. This morning very cloudy, rainy, chilly, but wind from near to east, and so from ",
+    "quoteTime": "about 6 a. m.",
+    "quoteLast": " we are once more laboriously on our way.",
+    "title": "Anthropological Survey in Alaska",
+    "author": "Hrdlička, Aleš, 1869-1943",
+    "gutenbergReference": "50752",
+    "matchType": 0,
+    "hash": "e5a2727a59336bcf8cf24c971cde8f5eeac3aec5bbc39fe7019e3304f85e743f"
   }
 ]

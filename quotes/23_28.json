@@ -42,5 +42,27 @@
     "gutenbergReference": "55134",
     "matchType": 2,
     "hash": "4cb94bf7cab983ce9a92c2c3232648aecde4946b0c6d26f6d74fba7d6708465d"
+  },
+  {
+    "time": "23:28",
+    "quoteFirst": "VIII. ",
+    "quoteTime": "11:28 p. m.",
+    "quoteLast": "—Mrs. Endicott Screams IX. 11:55 p. m.—Queer Deeps X. 12:06 a. m.",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "matchType": 2,
+    "hash": "06758887d22b2682d17b908816731a2fab7a3d6dc6d98123602fdb38138ff9c8"
+  },
+  {
+    "time": "23:28",
+    "quoteFirst": "",
+    "quoteTime": "11:28 p. m.",
+    "quoteLast": "—Mrs. Endicott Screams",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "matchType": 2,
+    "hash": "437712aa8fa419deb51917472b215fc399491cd809604a5fa5fb28f4f72b85b1"
   }
 ]

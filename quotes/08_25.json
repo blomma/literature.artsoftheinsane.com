@@ -1,17 +1,6 @@
 [
   {
     "time": "08:25",
-    "quoteFirst": "“",
-    "quoteTime": "Twenty-five minutes past eight",
-    "quoteLast": "!” exclaimed Marillac, as he looked at his watch a second time; “I should like to know what this little miniature rose takes me for? It was hardly worth the trouble of over-straining this poor horse, who looks as wet as if he had come out of the river. It is enough to give him inflammation of the lungs. If Bergenheim were to see him sweating and panting like this in this bleak wind, he would give me a sound blowing-up.",
-    "title": "Gerfaut — Complete",
-    "author": "Bernard, Charles de, 1804-1850",
-    "gutenbergReference": "3985",
-    "matchType": 1,
-    "hash": "b12ae7c4a1807d654b70b53d56df815442dde4857fc98bfa027b5ae8900b0231"
-  },
-  {
-    "time": "08:25",
     "quoteFirst": "They floated into Biarritz at ",
     "quoteTime": "twenty-five minutes past eight",
     "quoteLast": ". . . .",
@@ -23,25 +12,91 @@
   },
   {
     "time": "08:25",
-    "quoteFirst": "All her torpedo tubes were disabled and all but one of her guns, and for a few minutes she was on fire. At ",
-    "quoteTime": "8.25 A.M.",
-    "quoteLast": ", however, she shot away the fore bridge of the two-funnelled cruiser, which made off towards Heligoland. The four-funnelled cruiser had meanwhile turned on the _Fearless_, but the Germans drew off and retreated into the haze.",
-    "title": "The Annual Register 1914\nA Review of Public Events at Home and Abroad for the Year 1914",
-    "author": "Anonymous",
-    "gutenbergReference": "46471",
-    "matchType": 2,
-    "hash": "3c6e66c8e91adf6c44f63ec6719a83d05bce3a162915e20fca2da1c8a16e14c8"
+    "quoteFirst": "This I propose to do, with your consent, this evening.  It is now ",
+    "quoteTime": "twenty-five minutes past eight",
+    "quoteLast": " by the true time, as my watch has it.",
+    "title": "Complete Project Gutenberg Oliver Wendell Holmes, Sr. Works",
+    "author": "Holmes, Oliver Wendell, 1809-1894",
+    "gutenbergReference": "3252",
+    "matchType": 1,
+    "hash": "04e06ee4e5b36c8cc619608d5439f46eb584c067070f8b24d532e65bf5f0e6d7"
   },
   {
     "time": "08:25",
-    "quoteFirst": "Infantry reached the foot of the hills at about ",
-    "quoteTime": "8.25 a.m.",
-    "quoteLast": " The 17th and 24th Companies Royal Engineers, the Madras Sappers, and the 70th East Surrey Regiment, were ordered to commence work at once. The enemy had fallen back on Dihilibat and the Beehive Hill, exchanging shots with my advance guard at about eight a.m. I now determined to clear these hills, and gave orders to the Infantry to advance in the following order:--2nd Brigade in first line, Indian Contingent in support, Guards in reserve; the Horse Artillery to take up a position on Beehive Hill.",
-    "title": "The Egyptian campaigns, 1882 to 1885",
-    "author": "Royle, Charles, 1882-1936",
-    "gutenbergReference": "41744",
+    "quoteFirst": "was ordered into the fire trench to prepare for assault, with “B” and “C” in support, while “A” Company was detailed to work on the sap. The actual order to assault was sent to “D” Company at 8.10 A.M. but telephone communication with the front line had broken down, and the message had to go by orderly and so did not arrive till ",
+    "quoteTime": "8.25 A.M.",
+    "quoteLast": " when the assault began.",
+    "title": "The history of the Twentieth (Light) Division",
+    "author": "Inglefield, Valentine Erskine, 1886-1947; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]",
+    "gutenbergReference": "74129",
     "matchType": 2,
-    "hash": "15ff104e2e3c6ee0d620e0e4d1eee7e41ccacd800be7470f95e8fc9a90bea4ef"
+    "hash": "87ac6196170fa1eddd8e10e540f83eaaaeea89c2abba6930e4a63582bfd05ac8"
+  },
+  {
+    "time": "08:25",
+    "quoteFirst": "“I left home that evening about half-past seven o’clock and walked down with my brother Henry, arriving at the Haymarket about twenty or ",
+    "quoteTime": "twenty-five minutes after eight",
+    "quoteLast": ". I had understood from the invitation that I should address the meeting in German; and, knowing that the English speeches would come first, I did not go there in time to reach the opening of the meeting. When I got there, there was no meeting in progress, however; simply crowds were standing around the corners here and there, talking together. I called them together.",
+    "title": "Anarchy and Anarchists\r\nA History of the Red Terror and the Social Revolution in America and Europe; Communism, Socialism, and Nihilism in Doctrine and in Deed; The Chicago Haymarket Conspiracy and the Detection and Trial of the Conspirators",
+    "author": "Schaack, Michael J.",
+    "gutenbergReference": "52811",
+    "matchType": 1,
+    "hash": "17713e9b2a33baf3d0172943ce081283a01fb73610d6b1e9ab26e59a4505c67d"
+  },
+  {
+    "time": "08:25",
+    "quoteFirst": "The operator made a note of the order and went out, and the superintendent settled himself in his desk-chair for another hour's hard work with the stenographer. At ",
+    "quoteTime": "twenty-five minutes past eight",
+    "quoteLast": " he heard the wheel-grindings of the up-coming service-car, and the weary short-hand man snapped a rubber band upon the notes of the final letter.",
+    "title": "The Taming of Red Butte Western",
+    "author": "Lynde, Francis, 1856-1930",
+    "gutenbergReference": "14844",
+    "matchType": 1,
+    "hash": "78d7adfc22ddcdeff61aa49acd7ff44ff5dd8f19958bf2a3c90c56009dc85936"
+  },
+  {
+    "time": "08:25",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty-five minutes past eight",
+    "quoteLast": "!\"  exclaimed Marillac, as he looked at his watch a second time; \"I should like to know what this little miniature rose takes me for?  It was hardly worth the trouble of over- straining this poor horse, who looks as wet as if he had come out of the river.  It is enough to give him inflammation of the lungs.",
+    "title": "Gerfaut — Volume 2",
+    "author": "Bernard, Charles de, 1804-1850",
+    "gutenbergReference": "3982",
+    "matchType": 1,
+    "hash": "8d59d085198725e1f5d5b66eea03be2ad121b806d1f2dc5a6b435387a68bfab1"
+  },
+  {
+    "time": "08:25",
+    "quoteFirst": "",
+    "quoteTime": "8.25 A.M.",
+    "quoteLast": "--Barrel-organ at the corner. Banjo in the distance.",
+    "title": "Mr. Punch at the Seaside",
+    "author": "Hammerton, J. A. (John Alexander), 1871-1949 [Editor]",
+    "gutenbergReference": "37166",
+    "matchType": 2,
+    "hash": "8d3bf30186cc45108ebb6f8a67a805005a765f28020dac6e01fab48c3ab209cd"
+  },
+  {
+    "time": "08:25",
+    "quoteFirst": "Faint   | |  double arch.            | 8.30 P.M. ”    ”       28| 6 P.M. and 7 to 9 P.M.   | |  Faint flashes.          | 7.20 P.M. ”    ”       30| 8 P.M. Streak.           | 7.50 to 9 P.M. ”    ”       31| 8.30 A.M. and 7.30       | |  P.M. Very faint.        | ",
+    "quoteTime": "8.25 A.M.",
+    "quoteLast": ", 5.30 P.M.",
+    "title": "Auroræ: Their Characters and Spectra",
+    "author": "Capron, J. Rand, 1829-1888",
+    "gutenbergReference": "56159",
+    "matchType": 2,
+    "hash": "a4ae0b2e83b6ab90036c17395a73a52bd15be1ef89ca42f0aa8f985d20f6628c"
+  },
+  {
+    "time": "08:25",
+    "quoteFirst": "They reported only a few of the enemy there and do not appear to have suffered any casualties themselves. But the 1st Cavalry Division, which had been concentrated in the neighbourhood of Equancourt, had      179 been ordered at ",
+    "quoteTime": "8.25 a.m.",
+    "quoteLast": " to move forward with their head on Metz, ready to advance. This they did. About 11 o’clock they were ordered to push forward through the Hindenburg Support Line, but found that Flesquières was still in the hands of the enemy, and they were unable to pass. About 2.30 p.m. they were ordered to pass at least two regiments by Ribecourt and Premy Chapel and work round Flesquières from the north-east and assist the 51st Division in their attack from the south.",
+    "title": "The 56th Division (1st London Territorial Division)",
+    "author": "Dudley Ward, C. H. (Charles Humble), 1879-; Horne, Henry, 1861-1929 [Author of introduction, etc.]",
+    "gutenbergReference": "50379",
+    "matchType": 2,
+    "hash": "aedc147e1541a78c745c9e2418464c5a4b897b44bf66c37490e9e66852291b3a"
   },
   {
     "time": "08:25",
@@ -56,102 +111,58 @@
   },
   {
     "time": "08:25",
-    "quoteFirst": "\"_Friday_, Feb. 9.--Feeling first rate. At ",
-    "quoteTime": "8.25 A. M.",
-    "quoteLast": " weighed 180 pounds. Heart action normal. No enlargement of the spleen or liver.",
-    "title": "The No Breakfast Plan and the Fasting-Cure",
-    "author": "Dewey, Edward Hooker, 1837?-1904",
-    "gutenbergReference": "27128",
-    "matchType": 2,
-    "hash": "e71e375355ba6d618f1c894411b2f5b7d8c62247c2c4e01e8b8d59fc5df301b6"
-  },
-  {
-    "time": "08:25",
-    "quoteFirst": "",
-    "quoteTime": "25 minutes past 8",
-    "quoteLast": ".\u0097The boys have gone home.",
-    "title": "Punch, or the London Charivari, Volume 1, Complete",
-    "author": "Various",
-    "gutenbergReference": "17216",
-    "matchType": 1,
-    "hash": "e68b0619dbf8e08c5ef992aa77c05794a6ce18d6440843eba778256ea70db008"
-  },
-  {
-    "time": "08:25",
-    "quoteFirst": "The operator made a note of the order and went out, and the superintendent settled himself in his desk-chair for another hour's hard work with the stenographer. At ",
+    "quoteFirst": "We had ascended the steps and entered the Charing Cross terminus. The hands of the great clock pointed to ",
     "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": " he heard the wheel-grindings of the up-coming service-car, and the weary short-hand man snapped a rubber band upon the notes of the final letter.",
-    "title": "The Taming of Red Butte Western",
-    "author": "Lynde, Francis, 1856-1930",
-    "gutenbergReference": "14844",
+    "quoteLast": ".",
+    "title": "A Secret Service: Being Strange Tales of a Nihilist",
+    "author": "Le Queux, William, 1864-1927",
+    "gutenbergReference": "67278",
     "matchType": 1,
-    "hash": "78d7adfc22ddcdeff61aa49acd7ff44ff5dd8f19958bf2a3c90c56009dc85936"
+    "hash": "b07d6f24da652f74c997900de47056711d614540e3c4d22520550014bdcec8a7"
   },
   {
     "time": "08:25",
-    "quoteFirst": "Colonel English arrived before Naklain at ",
-    "quoteTime": "8.25 a.m.",
-    "quoteLast": " on October 7th, after pushing back the enemy, who disputed the passage of a difficult gorge for some time. He then proceeded to destroy the place, and at 11.15 a.m. started on his return march.",
-    "title": "The Second Battalion Royal Dublin Fusiliers in the South African War\nWith a Description of the Operations in the Aden Hinterland",
-    "author": "Romer, Cecil Francis, 1869-; Mainwaring, Arthur Edward, 1864-",
-    "gutenbergReference": "25618",
-    "matchType": 2,
-    "hash": "38f2a85540bcecbd2c8fda1753ebcbc106c68a731c19ad5600d474d1fc3eb60e"
-  },
-  {
-    "time": "08:25",
-    "quoteFirst": "The operator made a note of the order and went out, and the superintendent settled himself in his desk-chair for another hour's hard work with the stenographer. At ",
-    "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": " he heard the wheel-grindings of the up-coming service-car, and the weary short-hand man snapped a rubber band upon the notes of the final letter.",
-    "title": "The Taming of Red Butte Western",
-    "author": "Lynde, Francis, 1856-1930",
-    "gutenbergReference": "14844",
-    "matchType": 1,
-    "hash": "78d7adfc22ddcdeff61aa49acd7ff44ff5dd8f19958bf2a3c90c56009dc85936"
-  },
-  {
-    "time": "08:25",
-    "quoteFirst": "At 8:35 a. m. he rises and at 5:33 p. m. sets on the 1st; on the 16th, rises at ",
-    "quoteTime": "8:25 a. m.",
-    "quoteLast": ", and sets at 5:25 p. m.; and on the 31st, rises at 8:11 a.",
-    "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55250",
-    "matchType": 2,
-    "hash": "aaf0cbdb681048ff7baef8dc5223bc50ed2340bc99ece06d2ee5765b7df06322"
-  },
-  {
-    "time": "08:25",
-    "quoteFirst": "angle which it formed with the horizon 14 times between 9 A.M. and 11.50 P.M. The temperature of the hot-house varied during the two days of observation between 18½° and 23½° C. At 9 A.M. the filament stood at 32° above the horizon; at 3.34 P.M. at 10° and at 11.50 P.M. at 55°; these two latter angles being the highest and the lowest observed during the day, showing a difference of 45°. The rising did not become strongly marked until between 5 and 6 P.M. On the next day the leaf stood at only 10° above the horizon at ",
+    "quoteFirst": "All her torpedo tubes were disabled and all but one of her guns, and for a few minutes she was on fire. At ",
     "quoteTime": "8.25 A.M.",
-    "quoteLast": ", and it remained at about 15° till past 3 P.M.; at 5.40 P.M. it was 23°, and at 9.30 P.M. 58°; so that the rise was more sudden this evening than on the previous one, and the difference in the angle amounted to 48°. The movement is obviously periodical, and as the leaf stood on the first night at 55°, and on the second night at 58° above the horizon, it appeared very steeply inclined.",
-    "title": "The Power of Movement in Plants",
-    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
-    "gutenbergReference": "5605",
+    "quoteLast": ", however, she shot away the fore bridge of the two-funnelled cruiser, which made off towards Heligoland. The four-funnelled cruiser had meanwhile turned on the _Fearless_, but the Germans drew off and retreated into the haze.",
+    "title": "The Annual Register 1914\nA Review of Public Events at Home and Abroad for the Year 1914",
+    "author": "Anonymous",
+    "gutenbergReference": "46471",
     "matchType": 2,
-    "hash": "e5ae6b43117e6a3cde5c3f488dcc0c3ce8c4f9ea9f2b7488e52dfb558b084a64"
+    "hash": "3c6e66c8e91adf6c44f63ec6719a83d05bce3a162915e20fca2da1c8a16e14c8"
   },
   {
     "time": "08:25",
-    "quoteFirst": "But Captain Nemo knew that he could not hasten too much, and that minutes were worth ages to us. At ",
+    "quoteFirst": "It was ",
     "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": " a second shock took place, this time from behind. I turned pale. My companions were close by my side. I seized Conseil’s hand.",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "164",
+    "quoteLast": " when he concluded his leisurely toilet; so he stepped out of his room, passed round two sides of the porched patio, and entered the dining-room.  The long dining-table, hewed by hand from fir logs by the first of the Noriagas, had its rough defects of manufacture mercifully hidden by a snow-white cloth, and he noted with satisfaction that places had been set for five persons.",
+    "title": "The Pride of Palomar",
+    "author": "Kyne, Peter B. (Peter Bernard), 1880-1957; Ballinger, Harry Russell, 1892-1993 [Illustrator]; Cornwell, Dean, 1892-1960 [Illustrator]",
+    "gutenbergReference": "16674",
     "matchType": 1,
-    "hash": "03aaf9a5b49cfca6e6f60f53749fd9c0463518bb62803e9f4e0a5823139f9648"
+    "hash": "aa35b59aec04ab423d89361206224e49cf9f8b21a1d02b8f7f5ccd679f6ea2b6"
   },
   {
     "time": "08:25",
-    "quoteFirst": "Middleton's foot a little easier; thought of returning as he is quite unfit for work, but have made up my mind now to go on and ascertain the facts I went out to obtain. I therefore started at ",
-    "quoteTime": "8.25 a.m.",
-    "quoteLast": " for the upper waters of the creek, keeping on the south bank; crossed several creeks until 12 o'clock, when we found in the camp, a little above Pardulli, a gum tree marked W.J. Wills, N.N.W., xlv. yds., A.H. Turned out our horses here for some time; between the last crossing of the creek and this I got a view of a couple of red sand bluffs and distant sandhills, or hills of some kind, to north-west.",
-    "title": "McKinlay's Journal of Exploration in the Interior of Australia",
-    "author": "McKinlay, John, 1819-1872",
-    "gutenbergReference": "13248",
+    "quoteFirst": "Faint   | |  double arch.            | 8.30 P.M. ”    ”       28| 6 P.M. and 7 to 9 P.M.   | |  Faint flashes.          | 7.20 P.M. ”    ”       30| 8 P.M. Streak.           | 7.50 to 9 P.M. ”    ”       31| 8.30 A.M. and 7.30       | |  P.M. Very faint.        | ",
+    "quoteTime": "8.25 A.M.",
+    "quoteLast": ", 5.30 P.M.",
+    "title": "Auroræ: Their Characters and Spectra",
+    "author": "Capron, J. Rand, 1829-1888",
+    "gutenbergReference": "56159",
     "matchType": 2,
-    "hash": "0a122f3bef2617769f70e3a7adc2f760de8d965dee58f6e0fcb0f5bec99e5ff0"
+    "hash": "a4ae0b2e83b6ab90036c17395a73a52bd15be1ef89ca42f0aa8f985d20f6628c"
+  },
+  {
+    "time": "08:25",
+    "quoteFirst": "This I propose to do, with your consent, this evening. It is now ",
+    "quoteTime": "twenty-five minutes past eight",
+    "quoteLast": " by the true time, as my watch has it.",
+    "title": "The Guardian Angel",
+    "author": "Holmes, Oliver Wendell, 1809-1894",
+    "gutenbergReference": "2697",
+    "matchType": 1,
+    "hash": "9b95ede312c9f750149579b3d167d2753d6b793bbedae5d29ad9d3bba26a0157"
   },
   {
     "time": "08:25",
@@ -166,57 +177,46 @@
   },
   {
     "time": "08:25",
-    "quoteFirst": "events may be shortly described here. At 6.53 A.M. Commodore Tyrwhitt, commanding the Harwich force, which had swept into the Heligoland Bight during the night to cut off enemy vessels, sighted a destroyer and chased her. From 7.20 to 8 A.M. the _Arethusa_ and the 3rd Flotilla were in action with destroyers and torpedo-boats making for Heligoland, sinking one destroyer. At 7.57 the _Arethusa_, Commodore Tyrwhitt’s flagship, which had been in commission only a few days, sighted two enemy light cruisers, and engaged them, assisted a little later by the light cruiser _Fearless_. At ",
-    "quoteTime": "8.25 A.M.",
-    "quoteLast": " a hit from the _Arethusa_ wrecked the fore bridge of one of the enemy ships, and they both steamed at once for Heligoland, which was then sighted, and our ships turned to the westward. The _Arethusa_ had been considerably damaged during the action and had suffered several casualties.",
-    "title": "The Grand Fleet, 1914-1916",
-    "author": "Jellicoe, John Rushworth, 1859-1935",
-    "gutenbergReference": "75323",
-    "matchType": 2,
-    "hash": "a6a451bb3364a2b07087c84d5a475388842fee4b8887bddfb78b19fcfeea118e"
-  },
-  {
-    "time": "08:25",
-    "quoteFirst": "angle which it formed with the horizon 14 times between 9 A.M. and 11.50 P.M. The temperature of the hot-house varied during the two days of observation between 18½° and 23½° C. At 9 A.M. the filament stood at 32° above the horizon; at 3.34 P.M. at 10° and at 11.50 P.M. at 55°; these two latter angles being the highest and the lowest observed during the day, showing a difference of 45°. The rising did not become strongly marked until between 5 and 6 P.M. On the next day the leaf stood at only 10° above the horizon at ",
-    "quoteTime": "8.25 A.M.",
-    "quoteLast": ", and it remained at about 15° till past 3 P.M.; at 5.40 P.M. it was 23°, and at 9.30 P.M. 58°; so that the rise was more sudden this evening than on the previous one, and the difference in the angle amounted to 48°. The movement is obviously periodical, and as the leaf stood on the first night at 55°, and on the second night at 58° above the horizon, it appeared very steeply inclined.",
-    "title": "The Power of Movement in Plants",
-    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
-    "gutenbergReference": "5605",
-    "matchType": 2,
-    "hash": "e5ae6b43117e6a3cde5c3f488dcc0c3ce8c4f9ea9f2b7488e52dfb558b084a64"
-  },
-  {
-    "time": "08:25",
-    "quoteFirst": "Punctually at ",
+    "quoteFirst": "There wasn’t probably more than half a dozen people on the east side of the street. There were a good many people on the West Side. It was then about twenty or ",
     "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": " each morning the bell in the little chapel began to give warning, and by half-past every member of the school was expected to have taken her seat, and to be ready for the short service held there daily by the senior curate of the parish church at Dunscar.",
-    "title": "The New Girl at St. Chad's: A Story of School Life",
-    "author": "Brazil, Angela, 1869-1947",
-    "gutenbergReference": "24025",
+    "quoteLast": ". When I got up within eight or ten feet of them and they stopped, I stopped too, and looked at them. They were in plain view of me. I don’t think they did see me, though they could see me if they looked up.",
+    "title": "Anarchy and Anarchists\r\nA History of the Red Terror and the Social Revolution in America and Europe; Communism, Socialism, and Nihilism in Doctrine and in Deed; The Chicago Haymarket Conspiracy and the Detection and Trial of the Conspirators",
+    "author": "Schaack, Michael J.",
+    "gutenbergReference": "52811",
     "matchType": 1,
-    "hash": "696e262eceee8951429a56eedc6bf0f0b4f7cefb8f33ae2aabb6e3dbe24366d7"
+    "hash": "4fbd8903b0828d4fee2166a6aa83a5da5de1425e24782ee458a040a62777c4fc"
   },
   {
     "time": "08:25",
-    "quoteFirst": "--After having slept seven and one-half hours took a sponge bath and brisk rubdown. Came to the city, and at ",
-    "quoteTime": "8.25 A. M.",
-    "quoteLast": " weighed 195 pounds. Feeling good, with no fever nor appetite. 4.45 P. M., weighed 193 pounds. At home during the evening drank two and one-half glasses of water.",
-    "title": "The No Breakfast Plan and the Fasting-Cure",
-    "author": "Dewey, Edward Hooker, 1837?-1904",
-    "gutenbergReference": "27128",
-    "matchType": 2,
-    "hash": "98a3e802a012b92a45caa42d1151eda3074828e27c61397425eddfb37e8d31d3"
-  },
-  {
-    "time": "08:25",
-    "quoteFirst": "This I propose to do, with your consent, this evening. It is now ",
+    "quoteFirst": "This I propose to do, with your consent, this evening.  It is now ",
     "quoteTime": "twenty-five minutes past eight",
     "quoteLast": " by the true time, as my watch has it.",
-    "title": "The Guardian Angel",
+    "title": "Complete Project Gutenberg Oliver Wendell Holmes, Sr. Works",
     "author": "Holmes, Oliver Wendell, 1809-1894",
-    "gutenbergReference": "2697",
+    "gutenbergReference": "3252",
     "matchType": 1,
-    "hash": "9b95ede312c9f750149579b3d167d2753d6b793bbedae5d29ad9d3bba26a0157"
+    "hash": "04e06ee4e5b36c8cc619608d5439f46eb584c067070f8b24d532e65bf5f0e6d7"
+  },
+  {
+    "time": "08:25",
+    "quoteFirst": "“I left home that evening about half-past seven o’clock and walked down with my brother Henry, arriving at the Haymarket about twenty or ",
+    "quoteTime": "twenty-five minutes after eight",
+    "quoteLast": ". I had understood from the invitation that I should address the meeting in German; and, knowing that the English speeches would come first, I did not go there in time to reach the opening of the meeting. When I got there, there was no meeting in progress, however; simply crowds were standing around the corners here and there, talking together. I called them together.",
+    "title": "Anarchy and Anarchists\r\nA History of the Red Terror and the Social Revolution in America and Europe; Communism, Socialism, and Nihilism in Doctrine and in Deed; The Chicago Haymarket Conspiracy and the Detection and Trial of the Conspirators",
+    "author": "Schaack, Michael J.",
+    "gutenbergReference": "52811",
+    "matchType": 1,
+    "hash": "17713e9b2a33baf3d0172943ce081283a01fb73610d6b1e9ab26e59a4505c67d"
+  },
+  {
+    "time": "08:25",
+    "quoteFirst": "There wasn’t probably more than half a dozen people on the east side of the street. There were a good many people on the West Side. It was then about twenty or ",
+    "quoteTime": "twenty-five minutes past eight",
+    "quoteLast": ". When I got up within eight or ten feet of them and they stopped, I stopped too, and looked at them. They were in plain view of me. I don’t think they did see me, though they could see me if they looked up.",
+    "title": "Anarchy and Anarchists\r\nA History of the Red Terror and the Social Revolution in America and Europe; Communism, Socialism, and Nihilism in Doctrine and in Deed; The Chicago Haymarket Conspiracy and the Detection and Trial of the Conspirators",
+    "author": "Schaack, Michael J.",
+    "gutenbergReference": "52811",
+    "matchType": 1,
+    "hash": "4fbd8903b0828d4fee2166a6aa83a5da5de1425e24782ee458a040a62777c4fc"
   }
 ]

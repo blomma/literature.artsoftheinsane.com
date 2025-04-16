@@ -1,36 +1,36 @@
 [
   {
     "time": "18:54",
-    "quoteFirst": "Zölss' data for q show also a double daily period, but the apparent range is small, and the hourly variation is somewhat irregular. At Karasjok, Simpson found a+ and a- both larger between noon and 1 P.M. than between either 8 and 9 A.M. or 6 and 7 P.M. The ",
-    "quoteTime": "6 to 7 P.M.",
-    "quoteLast": " values were in general the smallest, especially in the case of a+; the evening value for q on the average exceeded the values from the two earlier hours by some 7%.",
-    "title": "Encyclopaedia Britannica, 11th Edition, \"Atherstone\" to \"Austria\"\r\nVolume 2, Slice 8",
-    "author": "Various",
-    "gutenbergReference": "34312",
+    "quoteFirst": "5. ",
+    "quoteTime": "SIX TO SEVEN P.M.",
+    "quoteLast": "",
+    "title": "Desperate Remedies",
+    "author": "Hardy, Thomas, 1840-1928",
+    "gutenbergReference": "3044",
     "matchType": 0,
-    "hash": "054c33058dbe6e7532a7efa949a8c39ad6e03e0d2e775f2aa94751e94fefb885"
+    "hash": "929066c6209e3b76a7a6a4095e27096b11f259b5a2a6dddac13ca2893e471d8f"
   },
   {
     "time": "18:54",
-    "quoteFirst": "12 Bombardment continued, more than 400 shells (15 at 7:30 A. M.; 30 at 9 A. M.; 159 at 5 P. M.; 132 from ",
+    "quoteFirst": "Rowing ",
     "quoteTime": "6 to 7 P. M.",
-    "quoteLast": "; 79 in the night).",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
+    "quoteLast": "",
+    "title": "Practical Training for Running, Walking, Rowing, Wrestling, Boxing, Jumping, and All Kinds of Athletic Feats\r\nTogether with tables of proportional measurement for height and weight of men in and out of condition; etc. etc.",
+    "author": "James, Ed.",
+    "gutenbergReference": "56398",
     "matchType": 0,
-    "hash": "23b15c7646a9ea114713755013fdaf902f53e33222d0fce6b2868a3af818f749"
+    "hash": "da9e0c320ddbe9d196a6f2f1211db6688b6cc26202f00dfc621f800e5608684f"
   },
   {
     "time": "18:54",
-    "quoteFirst": "From ",
-    "quoteTime": "six to seven p. m.",
-    "quoteLast": " the czarevitch took lessons with me or with Gilliard. From seven to eight p. m. he prepared his lessons for the next day. Dinner was served at eight p. m.",
-    "title": "The Last Days of the Romanovs",
-    "author": "Sokolov, N. (Nikolai), 1882-1924; Wilton, Robert, correspondent of The Times at Petrograd [Contributor]; Tel'berg, G. G. (Georgii Gustavovich), 1882?-1954 [Translator]",
-    "gutenbergReference": "65453",
+    "quoteFirst": "[72] In these experiments Mr. Marconi instructed his assistants at Poldhu to send signals at a certain rate from 12 to 1 a.m., from 6 to 7 a.m., from 12 to 1 p.m., and from ",
+    "quoteTime": "6 to 7 p.m.",
+    "quoteLast": ", Greenwich mean time, every day for a week. He has stated that on board the _Philadelphia_ he did not notice any apparent difference between the signals received in the day and those received at night until after the vessel had reached a distance of 500 statute miles from Poldhu.",
+    "title": "Hertzian Wave Wireless Telegraphy",
+    "author": "Fleming, J. A. (John Ambrose), Sir, 1849-1945",
+    "gutenbergReference": "38526",
     "matchType": 0,
-    "hash": "476237ce1acd01695a3481dcba2ec1d8b0b9dfb4b5fc95b33236d5a60763e104"
+    "hash": "b192f61a6afb8c7be3f8a37ad0de9e793aed0c1641d405881d58b7c0093b18ac"
   },
   {
     "time": "18:54",
@@ -56,14 +56,25 @@
   },
   {
     "time": "18:54",
-    "quoteFirst": "01 5 to 6 p. m.                .10 ",
-    "quoteTime": "6 to 7 p. m.",
-    "quoteLast": "                .02 7 to 8 p. m.                .93 8 to 9 p. m.                .",
-    "title": "The Passaic Flood of 1903",
-    "author": "Leighton, Marshall Ora, 1874-1958",
-    "gutenbergReference": "19878",
+    "quoteFirst": "Rowing ",
+    "quoteTime": "6 to 7 P. M.",
+    "quoteLast": "",
+    "title": "Practical Training for Running, Walking, Rowing, Wrestling, Boxing, Jumping, and All Kinds of Athletic Feats\r\nTogether with tables of proportional measurement for height and weight of men in and out of condition; etc. etc.",
+    "author": "James, Ed.",
+    "gutenbergReference": "56398",
     "matchType": 0,
-    "hash": "eddb9ffef2748215b0d6406b34300368ee21c8a27ee9f08301b66bd1db429358"
+    "hash": "da9e0c320ddbe9d196a6f2f1211db6688b6cc26202f00dfc621f800e5608684f"
+  },
+  {
+    "time": "18:54",
+    "quoteFirst": "The infant slumbers away the greater part of its time. Young children should sleep from ",
+    "quoteTime": "six to seven in the evening",
+    "quoteLast": ", until morning, and for the first three or four years of their life should also rest in the middle of the day. Up to their fourteenth or fifteenth year the hour of retiring should not be later than nine o’clock, while adults require from seven to nine hours.",
+    "title": "Progress and Achievements of the Colored People\r\nContaining the Story of the Wonderful Advancement of the Colored Americans—the Most Marvelous in the History of Nations—Their Past Accomplishments, Together With Their Present-day Opportunities and a Glimpse Into the Future for Further Developments—the Dawn of a Triumphant Era. A Handbook for Self-improvement Which Leads to Greater Success",
+    "author": "Miller, Kelly, 1863-1939; Gay, Joseph R.",
+    "gutenbergReference": "65692",
+    "matchType": 0,
+    "hash": "a8a85c0434f038bd0c82e2b84397024ec8c1e323c5ddcbfd4ff26c9f8e3606b6"
   },
   {
     "time": "18:54",
@@ -75,72 +86,6 @@
     "gutenbergReference": "19878",
     "matchType": 0,
     "hash": "5c012dae25b7521b31cc7c0c921a0f304353c6394daa3129b0a843164b02a923"
-  },
-  {
-    "time": "18:54",
-    "quoteFirst": "The infant slumbers away the greater part of its time. Young children should sleep from ",
-    "quoteTime": "six to seven in the evening",
-    "quoteLast": ", until morning, and for the first three or four years of their life should also rest in the middle of the day. Up to their fourteenth or fifteenth year the hour of retiring should not be later than nine o’clock, while adults require from seven to nine hours.",
-    "title": "Progress and Achievements of the Colored People\r\nContaining the Story of the Wonderful Advancement of the Colored Americans—the Most Marvelous in the History of Nations—Their Past Accomplishments, Together With Their Present-day Opportunities and a Glimpse Into the Future for Further Developments—the Dawn of a Triumphant Era. A Handbook for Self-improvement Which Leads to Greater Success",
-    "author": "Miller, Kelly, 1863-1939; Gay, Joseph R.",
-    "gutenbergReference": "65692",
-    "matchType": 0,
-    "hash": "a8a85c0434f038bd0c82e2b84397024ec8c1e323c5ddcbfd4ff26c9f8e3606b6"
-  },
-  {
-    "time": "18:54",
-    "quoteFirst": "5. ",
-    "quoteTime": "SIX TO SEVEN P.M.",
-    "quoteLast": "",
-    "title": "Desperate Remedies",
-    "author": "Hardy, Thomas, 1840-1928",
-    "gutenbergReference": "3044",
-    "matchType": 0,
-    "hash": "929066c6209e3b76a7a6a4095e27096b11f259b5a2a6dddac13ca2893e471d8f"
-  },
-  {
-    "time": "18:54",
-    "quoteFirst": "The infant slumbers away the greater part of its time. Young children should sleep from ",
-    "quoteTime": "six to seven in the evening",
-    "quoteLast": ", until morning, and for the first three or four years of their life should also rest in the middle of the day. Up to their fourteenth or fifteenth year the hour of retiring should not be later than nine o’clock, while adults require from seven to nine hours.",
-    "title": "Progress and Achievements of the Colored People\r\nContaining the Story of the Wonderful Advancement of the Colored Americans—the Most Marvelous in the History of Nations—Their Past Accomplishments, Together With Their Present-day Opportunities and a Glimpse Into the Future for Further Developments—the Dawn of a Triumphant Era. A Handbook for Self-improvement Which Leads to Greater Success",
-    "author": "Miller, Kelly, 1863-1939; Gay, Joseph R.",
-    "gutenbergReference": "65692",
-    "matchType": 0,
-    "hash": "a8a85c0434f038bd0c82e2b84397024ec8c1e323c5ddcbfd4ff26c9f8e3606b6"
-  },
-  {
-    "time": "18:54",
-    "quoteFirst": "8 Bombardment continued, 141 shells (29 from 10 to 11 A. M.; 20 from 4 to 4:30 P. M.; 92 from ",
-    "quoteTime": "6 to 7 P. M.",
-    "quoteLast": ").",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "matchType": 0,
-    "hash": "c20840d0e611b3cf57204ff6d63c3d842c6e894cc5821181655492a375936006"
-  },
-  {
-    "time": "18:54",
-    "quoteFirst": "[72] In these experiments Mr. Marconi instructed his assistants at Poldhu to send signals at a certain rate from 12 to 1 a.m., from 6 to 7 a.m., from 12 to 1 p.m., and from ",
-    "quoteTime": "6 to 7 p.m.",
-    "quoteLast": ", Greenwich mean time, every day for a week. He has stated that on board the _Philadelphia_ he did not notice any apparent difference between the signals received in the day and those received at night until after the vessel had reached a distance of 500 statute miles from Poldhu.",
-    "title": "Hertzian Wave Wireless Telegraphy",
-    "author": "Fleming, J. A. (John Ambrose), Sir, 1849-1945",
-    "gutenbergReference": "38526",
-    "matchType": 0,
-    "hash": "b192f61a6afb8c7be3f8a37ad0de9e793aed0c1641d405881d58b7c0093b18ac"
-  },
-  {
-    "time": "18:54",
-    "quoteFirst": "[72] In these experiments Mr. Marconi instructed his assistants at Poldhu to send signals at a certain rate from 12 to 1 a.m., from 6 to 7 a.m., from 12 to 1 p.m., and from ",
-    "quoteTime": "6 to 7 p.m.",
-    "quoteLast": ", Greenwich mean time, every day for a week. He has stated that on board the _Philadelphia_ he did not notice any apparent difference between the signals received in the day and those received at night until after the vessel had reached a distance of 500 statute miles from Poldhu.",
-    "title": "Hertzian Wave Wireless Telegraphy",
-    "author": "Fleming, J. A. (John Ambrose), Sir, 1849-1945",
-    "gutenbergReference": "38526",
-    "matchType": 0,
-    "hash": "b192f61a6afb8c7be3f8a37ad0de9e793aed0c1641d405881d58b7c0093b18ac"
   },
   {
     "time": "18:54",
@@ -155,47 +100,14 @@
   },
   {
     "time": "18:54",
-    "quoteFirst": "[72] In these experiments Mr. Marconi instructed his assistants at Poldhu to send signals at a certain rate from 12 to 1 a.m., from 6 to 7 a.m., from 12 to 1 p.m., and from ",
-    "quoteTime": "6 to 7 p.m.",
-    "quoteLast": ", Greenwich mean time, every day for a week. He has stated that on board the _Philadelphia_ he did not notice any apparent difference between the signals received in the day and those received at night until after the vessel had reached a distance of 500 statute miles from Poldhu.",
-    "title": "Hertzian Wave Wireless Telegraphy",
-    "author": "Fleming, J. A. (John Ambrose), Sir, 1849-1945",
-    "gutenbergReference": "38526",
-    "matchType": 0,
-    "hash": "b192f61a6afb8c7be3f8a37ad0de9e793aed0c1641d405881d58b7c0093b18ac"
-  },
-  {
-    "time": "18:54",
-    "quoteFirst": "1 Bombardment 5 to 6 A. M., 55 shells; renewed ",
+    "quoteFirst": "Rowing ",
     "quoteTime": "6 to 7 P. M.",
-    "quoteLast": ", 54 shells; French artillery 10 P. M. to 1 A. M.",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "matchType": 0,
-    "hash": "3ad9784d8e95a2c8cb02e0e7a1535f137b42603852482ec48675b020602bbbd5"
-  },
-  {
-    "time": "18:54",
-    "quoteFirst": "5. ",
-    "quoteTime": "SIX TO SEVEN P.M.",
     "quoteLast": "",
-    "title": "Desperate Remedies",
-    "author": "Hardy, Thomas, 1840-1928",
-    "gutenbergReference": "3044",
+    "title": "Practical Training for Running, Walking, Rowing, Wrestling, Boxing, Jumping, and All Kinds of Athletic Feats\r\nTogether with tables of proportional measurement for height and weight of men in and out of condition; etc. etc.",
+    "author": "James, Ed.",
+    "gutenbergReference": "56398",
     "matchType": 0,
-    "hash": "929066c6209e3b76a7a6a4095e27096b11f259b5a2a6dddac13ca2893e471d8f"
-  },
-  {
-    "time": "18:54",
-    "quoteFirst": "05 5 to 6 p. m.                .45 ",
-    "quoteTime": "6 to 7 p. m.",
-    "quoteLast": "               1.20 7 to 8 p. m.                .60 8 to 9 p. m.                .",
-    "title": "The Passaic Flood of 1903",
-    "author": "Leighton, Marshall Ora, 1874-1958",
-    "gutenbergReference": "19878",
-    "matchType": 0,
-    "hash": "5c012dae25b7521b31cc7c0c921a0f304353c6394daa3129b0a843164b02a923"
+    "hash": "da9e0c320ddbe9d196a6f2f1211db6688b6cc26202f00dfc621f800e5608684f"
   },
   {
     "time": "18:54",
@@ -218,5 +130,93 @@
     "gutenbergReference": "3044",
     "matchType": 0,
     "hash": "929066c6209e3b76a7a6a4095e27096b11f259b5a2a6dddac13ca2893e471d8f"
+  },
+  {
+    "time": "18:54",
+    "quoteFirst": "Rowing ",
+    "quoteTime": "6 to 7 P. M.",
+    "quoteLast": "",
+    "title": "Practical Training for Running, Walking, Rowing, Wrestling, Boxing, Jumping, and All Kinds of Athletic Feats\r\nTogether with tables of proportional measurement for height and weight of men in and out of condition; etc. etc.",
+    "author": "James, Ed.",
+    "gutenbergReference": "56398",
+    "matchType": 0,
+    "hash": "da9e0c320ddbe9d196a6f2f1211db6688b6cc26202f00dfc621f800e5608684f"
+  },
+  {
+    "time": "18:54",
+    "quoteFirst": "1 Bombardment 5 to 6 A. M., 55 shells; renewed ",
+    "quoteTime": "6 to 7 P. M.",
+    "quoteLast": ", 54 shells; French artillery 10 P. M. to 1 A. M.",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "matchType": 0,
+    "hash": "3ad9784d8e95a2c8cb02e0e7a1535f137b42603852482ec48675b020602bbbd5"
+  },
+  {
+    "time": "18:54",
+    "quoteFirst": "[Probably from description the immature of some species of large Gull.--J. A. H. B.]. Numerous small parties of two or three of the Little Auk, and two large Puffins. From ",
+    "quoteTime": "6 to 7 p.m.",
+    "quoteLast": ", saw numerous parties of ten to twelve of some kind of (apparently) Plover, flying south. No Petrels. Lat. 42° 28′, long. 43° 39′; wind light N.E.",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1884. Sixth Report\r\n(Vol. II No. 1)",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "65700",
+    "matchType": 0,
+    "hash": "f425c4a342ea618b6fc912f5a14d72367d5bc29493febb035292ec05a10cee6f"
+  },
+  {
+    "time": "18:54",
+    "quoteFirst": "Like the independent gentleman in this one thing, the labourer dines late in the day. His midday meal, which is the farmer's dinner, is his luncheon. The labourer's dinner is taken at half-past ",
+    "quoteTime": "six to seven in the evening",
+    "quoteLast": ", after he has got home, unlaced his heavy and cumbrous boots, combed his hair, and washed himself. His table is always well supplied with vegetables, potatoes, and particularly greens, of which he is peculiarly fond.",
+    "title": "The Toilers of the Field",
+    "author": "Jefferies, Richard, 1848-1887",
+    "gutenbergReference": "27516",
+    "matchType": 0,
+    "hash": "3eb016d4f4cb38953e3330ba1e472dc8e398dff3deed79fa3c6d24b724ce5fc2"
+  },
+  {
+    "time": "18:54",
+    "quoteFirst": "Pratt opened a lunch-room, a most sensible department, especially for those who live at some distance from the Institute. Dinners at a reasonable price are served from twelve to two o'clock, and suppers three nights a week from ",
+    "quoteTime": "six to seven P.M.",
+    "quoteLast": "",
+    "title": "Famous Givers and Their Gifts",
+    "author": "Bolton, Sarah Knowles, 1841-1916",
+    "gutenbergReference": "50772",
+    "matchType": 0,
+    "hash": "a8f2efbcc7e5ab21f9d558cc58c9f325c4aeedf6c7a96f0c0fb264dfdbc52a2a"
+  },
+  {
+    "time": "18:54",
+    "quoteFirst": "22 Bombardment ",
+    "quoteTime": "6 to 7 P. M.",
+    "quoteLast": "",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "matchType": 0,
+    "hash": "64ea260e9aed238416328a8260d0e3dafaaaf99b1b66b0dcebf2c23cf3b175c3"
+  },
+  {
+    "time": "18:54",
+    "quoteFirst": "01 5 to 6 p. m.                .10 ",
+    "quoteTime": "6 to 7 p. m.",
+    "quoteLast": "                .02 7 to 8 p. m.                .93 8 to 9 p. m.                .",
+    "title": "The Passaic Flood of 1903",
+    "author": "Leighton, Marshall Ora, 1874-1958",
+    "gutenbergReference": "19878",
+    "matchType": 0,
+    "hash": "eddb9ffef2748215b0d6406b34300368ee21c8a27ee9f08301b66bd1db429358"
+  },
+  {
+    "time": "18:54",
+    "quoteFirst": "Rowing ",
+    "quoteTime": "6 to 7 P. M.",
+    "quoteLast": "",
+    "title": "Practical Training for Running, Walking, Rowing, Wrestling, Boxing, Jumping, and All Kinds of Athletic Feats\r\nTogether with tables of proportional measurement for height and weight of men in and out of condition; etc. etc.",
+    "author": "James, Ed.",
+    "gutenbergReference": "56398",
+    "matchType": 0,
+    "hash": "da9e0c320ddbe9d196a6f2f1211db6688b6cc26202f00dfc621f800e5608684f"
   }
 ]

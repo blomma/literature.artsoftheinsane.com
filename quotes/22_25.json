@@ -1,36 +1,102 @@
 [
   {
     "time": "22:25",
-    "quoteFirst": "\"This term,\" said she, \"Mr. Scrafton is coming at half-past ten instead of at eleven, and those boys who are to go to him will be in their places in the upper schoolroom at ",
+    "quoteFirst": "May the sixth, at ",
     "quoteTime": "twenty-five minutes past ten",
-    "quoteLast": " each morning.\"",
-    "title": "Young Blood",
-    "author": "Hornung, E. W. (Ernest William), 1866-1921",
-    "gutenbergReference": "42902",
+    "quoteLast": ", he breathed his last. He was slightly indisposed the Monday previous; but until the evening of that day he did not appear to be seriously ill. He complained of no particular pain, but of a general restlessness and _malaise_.",
+    "title": "Discourse of the Life and Character of the Hon. Littleton Waller Tazewell",
+    "author": "Grigsby, Hugh Blair, 1806-1881",
+    "gutenbergReference": "16906",
     "matchType": 1,
-    "hash": "23874212e6d0d279ca0f6c177d6df0ca63aa9403c4e730ea543f0bfa7332f544"
+    "hash": "7fe28385563613d00b773147002776d3cca84d1dcd04c1ed8c6af0bfc53823f1"
   },
   {
     "time": "22:25",
-    "quoteFirst": "It was close on the ",
+    "quoteFirst": "Ah,” said she, suddenly interrupting herself, “I shall not have a moment to myself this morning, and I have an appointment at eleven o’clock!”.... She looked at the timepiece on her table, which indicated ",
     "quoteTime": "twenty-five minutes past ten",
-    "quoteLast": ", and so alarmed was I at the difficulties which, now we were actually on the spot ready to overcome them, loomed so desperately large, that I would willingly have sacrificed half my income to be allowed to leave without even making the attempt.",
-    "title": "The Sack of Monte Carlo: An Adventure of To-day",
-    "author": "Frith, Walter",
-    "gutenbergReference": "50515",
+    "quoteLast": ". She had heard the door open.",
+    "title": "Cosmopolis — Complete",
+    "author": "Bourget, Paul, 1852-1935",
+    "gutenbergReference": "3967",
     "matchType": 1,
-    "hash": "5f91efa24337d67edcdb1bd49ee430a925a8ccde59adb992da8353cd08e27cc5"
+    "hash": "ac5aba3dfd40c7b51d5170cdfca821b54c40507151cb6dd994975d25b2912292"
   },
   {
     "time": "22:25",
-    "quoteFirst": "“Not at nine o’clock. I dropped in just now to see Abe on business, and he said you didn’t turn up till ",
-    "quoteTime": "twenty-five minutes past ten",
-    "quoteLast": ", because of some mistake in a message. If you were at home and didn’t hear the ’phone bell yourself, you shouldn’t be so quick to blame Annie.",
-    "title": "Children of No Man's Land",
-    "author": "Stern, G. B. (Gladys Bronwyn), 1890-1973",
-    "gutenbergReference": "74256",
+    "quoteFirst": "\"12th July, 2 A.M.: Dived off Borkum. ",
+    "quoteTime": "10.25 P.M.",
+    "quoteLast": ": dived to avoid destroyer. 10.50: surface, proceeding east, sighted enemy patrol vessel, but steamed round her without being seen.",
+    "title": "The Story of Our Submarines",
+    "author": "Bower, John Graham, 1886-1940",
+    "gutenbergReference": "40765",
+    "matchType": 2,
+    "hash": "92693e4778a963c7caa8f56155a8b508cd880906a2645a5c267f6e51d3fae18b"
+  },
+  {
+    "time": "22:25",
+    "quoteFirst": "A.M. and ",
+    "quoteTime": "10.25 P.M.",
+    "quoteLast": "; the direction during the night is indicated by the broken line. Movement of bead magnified 14 times.",
+    "title": "The Power of Movement in Plants",
+    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "5605",
+    "matchType": 2,
+    "hash": "8ce2bf02f12111767d3c990e3ff5de0d8bdcb0850561a1e31d3d0fcee480729d"
+  },
+  {
+    "time": "22:25",
+    "quoteFirst": "Bidding adieu to big-hearted, genial Captain Hale, who has been with us for 357 miles, we leave Hope at ",
+    "quoteTime": "10.25 P. M.",
+    "quoteLast": " Eastern (8.25 P. M.",
+    "title": "Nine Thousand Miles on a Pullman Train\r\nAn Account of a Tour of Railroad Conductors from Philadelphia to the Pacific Coast and Return",
+    "author": "Shaw, Milton M.",
+    "gutenbergReference": "51341",
+    "matchType": 2,
+    "hash": "29ef0f0da94932e4520d69ee195024b7ace2f03ea1c834f9c2c80d6bd8cf7083"
+  },
+  {
+    "time": "22:25",
+    "quoteFirst": "On September 11th of this year, the _Gross_ air ship left Berlin at ",
+    "quoteTime": "10.25 P.M.",
+    "quoteLast": ", carrying four passengers, and returned the next day at 11.30 A.M., having covered 176 miles in the period of a little over 13 hours. This is the longest trip, both in point of time and distance, ever made by any air ship returning to the starting point.",
+    "title": "Aërial Navigation\r\nA Popular Treatise on the Growth of Air Craft and on Aëronautical Meteorology",
+    "author": "Zahm, Albert Francis, 1862-1954",
+    "gutenbergReference": "60277",
+    "matchType": 2,
+    "hash": "e5f8414285c45c571cc7824a342ff248d9914b9f89d922ddd0dcb63d3be1cad7"
+  },
+  {
+    "time": "22:25",
+    "quoteFirst": "",
+    "quoteTime": "10.25 P.M.",
+    "quoteLast": "--Charing Cross! At last, here I am. The luggage is on the platform. I recognize my trunk and portmanteau.",
+    "title": "John Bull, Junior; or, French as She is Traduced",
+    "author": "O'Rell, Max, 1848-1903; Eggleston, George Cary, 1839-1911 [Author of introduction, etc.]",
+    "gutenbergReference": "33564",
+    "matchType": 2,
+    "hash": "12f207a9f270e563a3b62b38daa2b058188aeece1a70eb0c09cf98a65654556b"
+  },
+  {
+    "time": "22:25",
+    "quoteFirst": "Mr. Chattaway took out his watch. \"",
+    "quoteTime": "Twenty-five minutes past ten",
+    "quoteLast": ",\" he said, in his hard, impassive manner--a manner which imparted the idea that he was utterly destitute of sympathy for the whole human race. \"Mr. Rupert must be quick if he intends to be admitted to-night; Give your mother her bed-candle.",
+    "title": "Trevlyn Hold: A Novel",
+    "author": "Wood, Henry, Mrs., 1814-1887",
+    "gutenbergReference": "36106",
     "matchType": 1,
-    "hash": "72eb0950167ad01d5e5915b7f607b6a6190f009e8e4c28a8d9f1b75e9737d4a2"
+    "hash": "31698c679ed975bb819ddacf95aa5ff50b2a4e5986cd278b884541f34c2bd860"
+  },
+  {
+    "time": "22:25",
+    "quoteFirst": "He breathed thick and hard when the various aliases he had assumed-- Howard, Cavendish, Jackson, etc.,--were read; but smiled with an unaccountable expression when the list was completed, as if exulting at the varieties of his ingenuity.  At ",
+    "quoteTime": "twenty-five minutes past ten",
+    "quoteLast": " Mr.",
+    "title": "Paul Clifford — Volume 07",
+    "author": "Lytton, Edward Bulwer Lytton, Baron, 1803-1873",
+    "gutenbergReference": "7734",
+    "matchType": 1,
+    "hash": "7ad1c6570a1067c637ef924aafa35ac6b74f443e7eea5a7dcc1b55e924d0d8c3"
   },
   {
     "time": "22:25",
@@ -56,58 +122,25 @@
   },
   {
     "time": "22:25",
-    "quoteFirst": "Ah,” said she, suddenly interrupting herself, “I shall not have a moment to myself this morning, and I have an appointment at eleven o’clock!”.... She looked at the timepiece on her table, which indicated ",
+    "quoteFirst": "\"To-morrow morning at ",
     "quoteTime": "twenty-five minutes past ten",
-    "quoteLast": ". She had heard the door open.",
-    "title": "Cosmopolis — Complete",
-    "author": "Bourget, Paul, 1852-1935",
-    "gutenbergReference": "3967",
+    "quoteLast": ", if Heaven spares my life, I purpose to issue a Proclamation. It has been the work of my life, and is about half finished. With the assistance of a whisky and soda, I shall conclude the other half to-night, and my people will receive it to-morrow. All these boroughs where you were born, and hope to lay your bones, shall be reinstated in their ancient magnificence,--Hammersmith, Kensington, Bayswater, Chelsea, Battersea, Clapham, Balham, and a hundred others.",
+    "title": "The Napoleon of Notting Hill",
+    "author": "Chesterton, G. K. (Gilbert Keith), 1874-1936; Robertson, W. Graham (Walford Graham), 1866-1948 [Illustrator]",
+    "gutenbergReference": "20058",
     "matchType": 1,
-    "hash": "ac5aba3dfd40c7b51d5170cdfca821b54c40507151cb6dd994975d25b2912292"
+    "hash": "68b02f96f7b48af9b28d729f5b95034e5bbc485840d50201c879d4d9b740facd"
   },
   {
     "time": "22:25",
-    "quoteFirst": "He breathed thick and hard when the various aliases he had assumed-- Howard, Cavendish, Jackson, etc.,--were read; but smiled with an unaccountable expression when the list was completed, as if exulting at the varieties of his ingenuity.  At ",
+    "quoteFirst": "It was now ",
     "quoteTime": "twenty-five minutes past ten",
-    "quoteLast": " Mr.",
-    "title": "Paul Clifford — Volume 07",
-    "author": "Lytton, Edward Bulwer Lytton, Baron, 1803-1873",
-    "gutenbergReference": "7734",
+    "quoteLast": ", and he gave them five minutes longer. Some of the company, however, withdrew at once. Rougon went to the door with M. Kahn and M.",
+    "title": "His Excellency [Son Exc. Eugène Rougon]",
+    "author": "Zola, Émile, 1840-1902; Vizetelly, Ernest Alfred, 1853-1922 [Translator]",
+    "gutenbergReference": "56654",
     "matchType": 1,
-    "hash": "7ad1c6570a1067c637ef924aafa35ac6b74f443e7eea5a7dcc1b55e924d0d8c3"
-  },
-  {
-    "time": "22:25",
-    "quoteFirst": "One of these consists of the under-sheriff (who is deeply affected), the medical officer, and a _nonchalant_ person in a wideawake hat, who is said to be the governor, but who takes no part in the proceedings, and who is poking up the ground with his walking-stick in a very _degagé_ manner. The other knot is formed of Calcraft, his assistant, and two of the warders who are chatting together. At ",
-    "quoteTime": "twenty-five minutes past ten",
-    "quoteLast": " the party--consisting of four reporters of the London journals, six from various local papers, a carpenter who is in attendance lest his service should be required in connection with the arrangements of the drop, and a warder in plain clothes who has been sitting up all night with the prisoner--is summoned from the round-house and ushered into a narrow vaulted ante-room, whence, after five minutes’ delay, they are led through a narrow passage into the presence of the gallows.",
-    "title": "Curiosities of Street Literature",
-    "author": "Hindley, Charles, -1893 [Editor]",
-    "gutenbergReference": "49128",
-    "matchType": 1,
-    "hash": "6054b9360bea07f73f219f6a48fef973e49c9adb85d3dc9460af30e258902af4"
-  },
-  {
-    "time": "22:25",
-    "quoteFirst": "A.M. and ",
-    "quoteTime": "10.25 P.M.",
-    "quoteLast": "; the direction during the night is indicated by the broken line. Movement of bead magnified 14 times.",
-    "title": "The Power of Movement in Plants",
-    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
-    "gutenbergReference": "5605",
-    "matchType": 2,
-    "hash": "8ce2bf02f12111767d3c990e3ff5de0d8bdcb0850561a1e31d3d0fcee480729d"
-  },
-  {
-    "time": "22:25",
-    "quoteFirst": "",
-    "quoteTime": "10:25 P.M.",
-    "quoteLast": "",
-    "title": "Knock three-one-two",
-    "author": "Brown, Fredric, 1906-1972",
-    "gutenbergReference": "70944",
-    "matchType": 2,
-    "hash": "a76fdd7a1138da048c908153f9fdb1e2504c64e83476b1e2926d9a3a6f760846"
+    "hash": "22abf35ad3ea887ac060b0dddffbc04dfeff2e823869b51cec9ea3bc93ca37bf"
   },
   {
     "time": "22:25",
@@ -122,25 +155,36 @@
   },
   {
     "time": "22:25",
-    "quoteFirst": "One of these consists of the under-sheriff (who is deeply affected), the medical officer, and a _nonchalant_ person in a wideawake hat, who is said to be the governor, but who takes no part in the proceedings, and who is poking up the ground with his walking-stick in a very _degagé_ manner. The other knot is formed of Calcraft, his assistant, and two of the warders who are chatting together. At ",
+    "quoteFirst": "I had never in my life seen in a man's face so much despondency, gloom, and moroseness. He looked as though he were expecting the destruction of the world, and not at some indefinite time in accordance with prophecies, which might never be fulfilled, but quite definitely, as though it were to be the day after to-morrow at ",
     "quoteTime": "twenty-five minutes past ten",
-    "quoteLast": " the party--consisting of four reporters of the London journals, six from various local papers, a carpenter who is in attendance lest his service should be required in connection with the arrangements of the drop, and a warder in plain clothes who has been sitting up all night with the prisoner--is summoned from the round-house and ushered into a narrow vaulted ante-room, whence, after five minutes’ delay, they are led through a narrow passage into the presence of the gallows.",
-    "title": "Curiosities of Street Literature",
-    "author": "Hindley, Charles, -1893 [Editor]",
-    "gutenbergReference": "49128",
+    "quoteLast": ". We hardly said a word to one another on that occasion, but had simply shaken hands like two conspirators. I was most struck by his ears, which were of unnatural size, long, broad, and thick, sticking out in a peculiar way.",
+    "title": "The possessed",
+    "author": "Dostoyevsky, Fyodor, 1821-1881; Garnett, Constance, 1861-1946 [Translator]",
+    "gutenbergReference": "8117",
     "matchType": 1,
-    "hash": "6054b9360bea07f73f219f6a48fef973e49c9adb85d3dc9460af30e258902af4"
+    "hash": "058bf6507fb1d225063705e1c491a749cec8777d2b92a3362267c4af78802527"
   },
   {
     "time": "22:25",
-    "quoteFirst": "“Not at nine o’clock. I dropped in just now to see Abe on business, and he said you didn’t turn up till ",
+    "quoteFirst": "A.M. and ",
+    "quoteTime": "10.25 P.M.",
+    "quoteLast": "; the direction during the night is indicated by the broken line. Movement of bead magnified 14 times.",
+    "title": "The Power of Movement in Plants",
+    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "5605",
+    "matchType": 2,
+    "hash": "8ce2bf02f12111767d3c990e3ff5de0d8bdcb0850561a1e31d3d0fcee480729d"
+  },
+  {
+    "time": "22:25",
+    "quoteFirst": "Ah,” said she, suddenly interrupting herself, “I shall not have a moment to myself this morning, and I have an appointment at eleven o’clock!”.... She looked at the timepiece on her table, which indicated ",
     "quoteTime": "twenty-five minutes past ten",
-    "quoteLast": ", because of some mistake in a message. If you were at home and didn’t hear the ’phone bell yourself, you shouldn’t be so quick to blame Annie.",
-    "title": "Children of No Man's Land",
-    "author": "Stern, G. B. (Gladys Bronwyn), 1890-1973",
-    "gutenbergReference": "74256",
+    "quoteLast": ". She had heard the door open.",
+    "title": "Cosmopolis — Complete",
+    "author": "Bourget, Paul, 1852-1935",
+    "gutenbergReference": "3967",
     "matchType": 1,
-    "hash": "72eb0950167ad01d5e5915b7f607b6a6190f009e8e4c28a8d9f1b75e9737d4a2"
+    "hash": "ac5aba3dfd40c7b51d5170cdfca821b54c40507151cb6dd994975d25b2912292"
   },
   {
     "time": "22:25",
@@ -155,68 +199,24 @@
   },
   {
     "time": "22:25",
-    "quoteFirst": "",
+    "quoteFirst": "POST OFFICE—_At Mr. Benjamin Smith’s_, _New street_.  Letters arrive from London and the south at 2.30 A.M. and 3 P.M., and from Shrewsbury and the north at 6.25 A.M. and ",
     "quoteTime": "10.25 P.M.",
-    "quoteLast": "--Charing Cross! At last, here I am. The luggage is on the platform. I recognize my trunk and portmanteau.",
-    "title": "John Bull, Junior; or, French as She is Traduced",
-    "author": "O'Rell, Max, 1848-1903; Eggleston, George Cary, 1839-1911 [Author of introduction, etc.]",
-    "gutenbergReference": "33564",
+    "quoteLast": "; and are despatched at 6.25 A.M. and 10.25 P.M. to all parts of the kingdom.",
+    "title": "History, Gazetteer, and Directory of Shropshire [1851]",
+    "author": "Bagshaw, Samuel",
+    "gutenbergReference": "62250",
     "matchType": 2,
-    "hash": "12f207a9f270e563a3b62b38daa2b058188aeece1a70eb0c09cf98a65654556b"
+    "hash": "4ed00caf7b0dd65b9e0fc543a98b705b029994c695055ed7d54c1e52ad2d40ff"
   },
   {
     "time": "22:25",
-    "quoteFirst": "October 3rd, 1874. This spectrum was examined, and diagram made between 10 and ",
+    "quoteFirst": "Fortunately for the Prussians, Moltke at Mainz took a different view. Receiving absolutely no intelligence from the front during the 7th, he telegraphed orders to the I. and II. armies (",
     "quoteTime": "10.25 P.M.",
-    "quoteLast": " Five lines only are indicated.",
-    "title": "Auroræ: Their Characters and Spectra",
-    "author": "Capron, J. Rand, 1829-1888",
-    "gutenbergReference": "56159",
+    "quoteLast": ") to halt on the 8th, and impressed on Steinmetz the necessity of employing his cavalry to clear up the situation. The I. army had already begun the marches ordered by Steinmetz.",
+    "title": "Encyclopaedia Britannica, 11th Edition, \"Franciscans\" to \"French Language\"\r\nVolume 11, Slice 1",
+    "author": "Various",
+    "gutenbergReference": "37806",
     "matchType": 2,
-    "hash": "0fcffdf02eb11bbfa9d45c9ce8ab75a85bcb893c14a756214d2fdb03074ae7cd"
-  },
-  {
-    "time": "22:25",
-    "quoteFirst": "| |   of Conjunction                   | 31 22 25 | Sun’s Equation   3 32 add | |                                    +----------+---------------------------+ |                                                                           | | Which true time answers to the first of _April_, at ",
-    "quoteTime": "25 minutes past 10",
-    "quoteLast": " in | |   the forenoon: for, as the Astronomical Day begins at Noon, then 22      | |   hours 25 min. after the Noon of _March 31_, is _April 1_, at 10 hours   | |   25 min. in the Forenoon.",
-    "title": "Astronomy Explained Upon Sir Isaac Newton's Principles\nAnd made easy to those who have not studied mathematics",
-    "author": "Ferguson, James, 1710-1776",
-    "gutenbergReference": "60619",
-    "matchType": 1,
-    "hash": "1266e65d75971029cfa33d3026c483711800c05974dbc70e088a3daa67aee9c2"
-  },
-  {
-    "time": "22:25",
-    "quoteFirst": "When they emerged from it it was half-past nine, thus necessitating a quick hike to the campus. Jane and Judith made port in their room at exactly ",
-    "quoteTime": "twenty-five minutes past ten",
-    "quoteLast": ".",
-    "title": "Jane Allen, Right Guard",
-    "author": "Bancroft, Edith",
-    "gutenbergReference": "19015",
-    "matchType": 1,
-    "hash": "22f848b20104728982d55eba2de74fd67a82568b4ac7301ef96928bd3ed6bad3"
-  },
-  {
-    "time": "22:25",
-    "quoteFirst": "October 3rd, 1874. This spectrum was examined, and diagram made between 10 and ",
-    "quoteTime": "10.25 P.M.",
-    "quoteLast": " Five lines only are indicated.",
-    "title": "Auroræ: Their Characters and Spectra",
-    "author": "Capron, J. Rand, 1829-1888",
-    "gutenbergReference": "56159",
-    "matchType": 2,
-    "hash": "0fcffdf02eb11bbfa9d45c9ce8ab75a85bcb893c14a756214d2fdb03074ae7cd"
-  },
-  {
-    "time": "22:25",
-    "quoteFirst": "It was close on the ",
-    "quoteTime": "twenty-five minutes past ten",
-    "quoteLast": ", and so alarmed was I at the difficulties which, now we were actually on the spot ready to overcome them, loomed so desperately large, that I would willingly have sacrificed half my income to be allowed to leave without even making the attempt.",
-    "title": "The Sack of Monte Carlo: An Adventure of To-day",
-    "author": "Frith, Walter",
-    "gutenbergReference": "50515",
-    "matchType": 1,
-    "hash": "5f91efa24337d67edcdb1bd49ee430a925a8ccde59adb992da8353cd08e27cc5"
+    "hash": "03dc0afb50c735e477c4d7fc2da871a4c5592e0b011f67aa0db683cd3c457639"
   }
 ]

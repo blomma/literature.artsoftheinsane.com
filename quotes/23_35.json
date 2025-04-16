@@ -1,6 +1,17 @@
 [
   {
     "time": "23:35",
+    "quoteFirst": "John wrote out the order and gave it to the cashier, glancing at the clock as he did so. It was now ",
+    "quoteTime": "twenty-five minutes to twelve",
+    "quoteLast": ". He rushed to the telegraph-office with all the speed of which he was capable, but met only a blank look again from the chief operator.",
+    "title": "A Woman Intervenes",
+    "author": "Barr, Robert, 1850-1912",
+    "gutenbergReference": "9379",
+    "matchType": 1,
+    "hash": "5b6eb139c2a6dec9da6f671262c678a0daff0195ddcf0145d793e33466c801af"
+  },
+  {
+    "time": "23:35",
     "quoteFirst": "Salary £1, 4 shillings and 4 pence halfpenny per annum. Apply between half-past eleven and ",
     "quoteTime": "twenty-five minutes to twelve",
     "quoteLast": " at No. 41 A Decimal Six, Belgravia Terrace. The Countess of Nosh.”",
@@ -12,58 +23,69 @@
   },
   {
     "time": "23:35",
-    "quoteFirst": "At ",
-    "quoteTime": "11:35 p. m.",
-    "quoteLast": ", the _Wellington's_ position was sent to the _Warrington_ (Lieutenant Commander Van der Veer). To aid the destroyer in her search, rockets were sent up at fifteen-minute intervals, and at 2:30 a. m., answering rockets were seen.",
-    "title": "Our Navy at war",
-    "author": "Daniels, Josephus, 1862-1948",
-    "gutenbergReference": "63596",
+    "quoteFirst": "Colonel Shewell, of the Eighth Hussars, whose attention was drawn to them by Lieutenant Phillips, saw the danger, and rode his few men straight at them, cutting his way through with fearful loss..... It was as much as our heavy cavalry brigade could do to cover the retreat of the miserable remnants of that band of heroes as they returned to the place they had so lately quitted in all the pride of life. At ",
+    "quoteTime": "thirty-five minutes past eleven",
+    "quoteLast": " not a British soldier, except the dead and dying, was left in front of these bloody Muscovite guns.",
+    "title": "Ten Englishmen of the Nineteenth Century",
+    "author": "Joy, James Richard, 1863-1957",
+    "gutenbergReference": "5876",
+    "matchType": 1,
+    "hash": "7fc39abd494584970370128d44aab1333d4b94d17793b184dae99464140cfcd8"
+  },
+  {
+    "time": "23:35",
+    "quoteFirst": "On January 26th it was ordered to stand by, ready for a sudden move; this order was cancelled at 1.30 A.M. on January 27th, was revived again at 5.30 the same evening with the additional information that it must be ready to move at two hours' notice, and was finally cancelled at ",
+    "quoteTime": "11.35 P.M.",
+    "quoteLast": " that night. Nothing immediate came of these rumours, and all through February the same training, now grown very tedious after the interest of a first visit to the Line, was carried on. A somewhat ambitious plan of two-day manœuvres was carried out in the First Army area around Estrée-Blanche and Therouane on the last days of January by those batteries which were not at the time undergoing training in the Line, but February 1st saw a resumption of the old billet life again.",
+    "title": "The History of the 33rd Divisional Artillery, in the War, 1914-1918.",
+    "author": "Macartney-Filgate, John Victor; Horne, Henry, 1861-1929 [Author of introduction, etc.]",
+    "gutenbergReference": "51776",
     "matchType": 2,
-    "hash": "ecf313e564eef021401f98df09f9d1d54283dd962a0e381b51b71999fed059a3"
+    "hash": "2b3116767d623fcd5ad63aa4bfacee1ab99ab1f18da7e387282f361f76e86c6e"
   },
   {
     "time": "23:35",
-    "quoteFirst": "He took her out with him gravely and silently, when the cab was announced to be ready. “Double your fare,” he said, when he gave the driver his instructions, “if you get there in a quarter of an hour.” It wanted ",
+    "quoteFirst": "The battle began late; for Napoleon, as we have explained, was accustomed to hold all his artillery in hand like a pistol, aiming first at one point, then at another of the battle, and he resolved to wait until the field batteries could gallop freely, and for this purpose it was necessary that the sun should appear and dry the ground. But the sun did not come out; it was no longer the rendezvous of Austerlitz. When the first cannon-shot was fired, the English General Colville drew out his watch, and saw that it was ",
     "quoteTime": "twenty-five minutes to twelve",
-    "quoteLast": " when the cab left the cottage.",
-    "title": "The Fallen Leaves",
-    "author": "Collins, Wilkie, 1824-1889",
-    "gutenbergReference": "7894",
+    "quoteLast": ".",
+    "title": "Les Misérables, v. 2/5: Cosette",
+    "author": "Hugo, Victor, 1802-1885; Wraxall, Lascelles, Sir, 1828-1865 [Translator]",
+    "gutenbergReference": "48732",
     "matchType": 1,
-    "hash": "86bd384766b43aad0161914a522925005ec6fb3c63ba1b34568f6b268ecea9c3"
+    "hash": "be75efef1948556ff018de1c650fe94aa8fbe4d9fe19b74871189f341c29e337"
   },
   {
     "time": "23:35",
-    "quoteFirst": "At ",
-    "quoteTime": "11:35 p. m.",
-    "quoteLast": ", the _Wellington's_ position was sent to the _Warrington_ (Lieutenant Commander Van der Veer). To aid the destroyer in her search, rockets were sent up at fifteen-minute intervals, and at 2:30 a. m., answering rockets were seen.",
-    "title": "Our Navy at war",
-    "author": "Daniels, Josephus, 1862-1948",
-    "gutenbergReference": "63596",
+    "quoteFirst": "“I want to go,” I said, “because I wish to look for work over in Stepney, and every hour lessens my chance of finding work. It is now ",
+    "quoteTime": "twenty-five minutes to twelve",
+    "quoteLast": ". I did not think when I came in that it would take so long to get a breakfast.”",
+    "title": "The People of the Abyss",
+    "author": "London, Jack, 1876-1916",
+    "gutenbergReference": "1688",
+    "matchType": 1,
+    "hash": "49fd00999a67f6a7e89280db4fa757d3b94bb79e84fabd5696dec75dde159aa3"
+  },
+  {
+    "time": "23:35",
+    "quoteFirst": "Colonel Shewell, of the Eighth Hussars, whose attention was drawn to them by Lieutenant Phillips, saw the danger, and rode his few men straight at them, cutting his way through with fearful loss..... It was as much as our heavy cavalry brigade could do to cover the retreat of the miserable remnants of that band of heroes as they returned to the place they had so lately quitted in all the pride of life. At ",
+    "quoteTime": "thirty-five minutes past eleven",
+    "quoteLast": " not a British soldier, except the dead and dying, was left in front of these bloody Muscovite guns.",
+    "title": "Ten Englishmen of the Nineteenth Century",
+    "author": "Joy, James Richard, 1863-1957",
+    "gutenbergReference": "5876",
+    "matchType": 1,
+    "hash": "7fc39abd494584970370128d44aab1333d4b94d17793b184dae99464140cfcd8"
+  },
+  {
+    "time": "23:35",
+    "quoteFirst": "Our position 170 miles |               |   north of Titanic.\" |               | ",
+    "quoteTime": "11.35 p. m.",
+    "quoteLast": "|   1.25 a. m.  | Caronia tells Titanic, \"Baltic coming |               |   to your assistance.\" |               | Do.      |   do.         | Olympic sends position to Titanic 4.",
+    "title": "Loss of the Steamship \"Titanic\"",
+    "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
+    "gutenbergReference": "39415",
     "matchType": 2,
-    "hash": "ecf313e564eef021401f98df09f9d1d54283dd962a0e381b51b71999fed059a3"
-  },
-  {
-    "time": "23:35",
-    "quoteFirst": "Kensington, at ",
-    "quoteTime": "twenty-five minutes to twelve",
-    "quoteLast": ". She has occupied a flat there for some time now. Yesterday evening she had been to the theatre and reached home about the same time as the previous evening.",
-    "title": "The mystery of the Peacock's Eye",
-    "author": "Flynn, Brian, 1885-1958",
-    "gutenbergReference": "75195",
-    "matchType": 1,
-    "hash": "2c4a5dbc70ed3a4cce4f1e99b17e1aebe4d50b25e4855448b65d8413abee856b"
-  },
-  {
-    "time": "23:35",
-    "quoteFirst": "'The Church of St. Monica,' said I, 'and half a sovereign if you reach it in twenty minutes.'  It was ",
-    "quoteTime": "twenty-five minutes to twelve",
-    "quoteLast": ", and of course it was clear enough what was in the wind.",
-    "title": "Great short stories, Volume 1 (of 3)",
-    "author": "Patten, William, 1868-1936 [Editor]",
-    "gutenbergReference": "74548",
-    "matchType": 1,
-    "hash": "4d7ba36567619961cdba1af2a31a48d60636851177330d02b61138fddc33b03b"
+    "hash": "ef78ce7094f531fe637b7fcdc8fca2c42dd61b2cd66c9906688ea03321b4c8f8"
   },
   {
     "time": "23:35",
@@ -78,69 +100,14 @@
   },
   {
     "time": "23:35",
-    "quoteFirst": "The driver looked twice at such a shabby fare; but I jumped in before he could object. 'The Church of St. Monica,' said I, 'and half a sovereign if you reach it in twenty minutes.' It was ",
-    "quoteTime": "twenty-five minutes to twelve",
-    "quoteLast": ", and of course it was clear enough what was in the wind.",
-    "title": "Masterpieces of Mystery in Four Volumes: Detective Stories",
-    "author": "French, Joseph Lewis, 1858-1936 [Editor]",
-    "gutenbergReference": "27523",
-    "matchType": 1,
-    "hash": "55feaa80dfc3a280c14d0ef5fe832ed4c8545e26d50ad87909c3bcd1e55abab7"
-  },
-  {
-    "time": "23:35",
-    "quoteFirst": "They saw their own cavalry mingled with the troopers who had just ridden over them, and, to the eternal disgrace of the Russian name, the miscreants poured a murderous volley of grape and canister on the mass of struggling men and horses, mingling friend and foe in one common ruin. It was as much as our Heavy Cavalry brigade could do to cover the retreat of the miserable remnants of that band of heroes as they returned to the place they had so lately quitted in all the pride of life. At ",
-    "quoteTime": "thirty-five minutes past eleven",
-    "quoteLast": " not a British soldier, except the dead and dying, was left in front of these bloody Muscovite guns.",
-    "title": "The battles of the world",
-    "author": "Borthwick, J. Douglas (John Douglas), 1831-1912",
-    "gutenbergReference": "60652",
-    "matchType": 1,
-    "hash": "ea012eac810eb49e651873203ddedcff0b7127868d0bb83eb12bb4a59e447c7f"
-  },
-  {
-    "time": "23:35",
-    "quoteFirst": "On the 18th August, 1915, the Norwegian schooner _Magda_ was torpedoed by a German submarine without warning. It was ",
-    "quoteTime": "11.35 p.m.",
-    "quoteLast": ", the weather being fine. The ship had the Norwegian flag painted on her sides, which were brilliantly illuminated.",
-    "title": "The German pirate",
-    "author": "Ajax",
-    "gutenbergReference": "50865",
+    "quoteFirst": "10: trance   | |         |         |           |  too tardy.                |  ? 19     |  \"    21|   do.   |",
+    "quoteTime": "11.35 P.M.",
+    "quoteLast": " |Attempt at trance during    | |         |         |           |  sleep.                    |  0 20     |  \"    22|   do.   | 11 A.M.   |Asleep 11.",
+    "title": "Apparitions and thought-transference: an examination of the evidence for telepathy",
+    "author": "Podmore, Frank, 1856-1910",
+    "gutenbergReference": "56489",
     "matchType": 2,
-    "hash": "775b47fec97d514860a2621fbd5b7687f83b4f61de54d38f7cdb2eb54a823958"
-  },
-  {
-    "time": "23:35",
-    "quoteFirst": "Monica,' said I, 'and half a sovereign if you reach it in twenty minutes.' It was ",
-    "quoteTime": "twenty-five minutes to twelve",
-    "quoteLast": ", and of course it was clear enough what was in the wind.",
-    "title": "The Lock and Key Library: Classic Mystery and Detective Stories: Modern English",
-    "author": "Hawthorne, Julian, 1846-1934 [Editor]; Castle, Egerton, 1858-1920 [Contributor]; Collins, Wilkie, 1824-1889 [Contributor]; Doyle, Arthur Conan, 1859-1930 [Contributor]; Kipling, Rudyard, 1865-1936 [Contributor]; Stevenson, Robert Louis, 1850-1894 [Contributor]; Weyman, Stanley John, 1855-1928 [Contributor]",
-    "gutenbergReference": "2038",
-    "matchType": 1,
-    "hash": "550a846e35e75a836b12a39d771c6d973c4480b12dc0932ddd833e1d1b878f98"
-  },
-  {
-    "time": "23:35",
-    "quoteFirst": "It seemed a madly impossible thing, to Birrel. The year was nineteen-fifty-seven and it was ",
-    "quoteTime": "twenty-five minutes to midnight",
-    "quoteLast": " on the eighth of July, and this couldn't be happening but it was.",
-    "title": "The Sinister Invasion",
-    "author": "Hamilton, Edmond, 1904-1977; Rognan, Lloyd, 1923-2005 [Illustrator]",
-    "gutenbergReference": "65483",
-    "matchType": 0,
-    "hash": "86ccc83dd345b04416f18b893d51cc416fdd690812e7a8e9c8ecfc1412116a2c"
-  },
-  {
-    "time": "23:35",
-    "quoteFirst": "Salary £1, 4 shillings and 4 pence halfpenny per annum. Apply between half-past eleven and ",
-    "quoteTime": "twenty-five minutes to twelve",
-    "quoteLast": " at No. 41 A Decimal Six, Belgravia Terrace. The Countess of Nosh.”",
-    "title": "Nonsense Novels",
-    "author": "Leacock, Stephen, 1869-1944",
-    "gutenbergReference": "4682",
-    "matchType": 1,
-    "hash": "3b16b2efa62c6c44a7a5e852bc5ce71b1911ecf5e6f94e772fcdd8290afc2681"
+    "hash": "f15f6a1f312c2e2d29161c4eba4b724a488b5e3ea7f3904f2a8039fd9f504c44"
   },
   {
     "time": "23:35",
@@ -155,47 +122,58 @@
   },
   {
     "time": "23:35",
-    "quoteFirst": "They saw their own cavalry mingled with the troopers who had just ridden over them, and, to the eternal disgrace of the Russian name, the miscreants poured a murderous volley of grape and canister on the mass of struggling men and horses, mingling friend and foe in one common ruin. It was as much as our Heavy Cavalry brigade could do to cover the retreat of the miserable remnants of that band of heroes as they returned to the place they had so lately quitted in all the pride of life. At ",
+    "quoteFirst": "“It is ",
+    "quoteTime": "twenty-five minutes to twelve",
+    "quoteLast": ".”",
+    "title": "Count Bunker\r\nBeing a Bald Yet Veracious Chronicle Containing Some Further Particulars of Two Gentlemen Whose Previous Careers Were Touched Upon in a Tome Entitled \"The Lunatic at Large\"",
+    "author": "Clouston, J. Storer (Joseph Storer), 1870-1944",
+    "gutenbergReference": "1613",
+    "matchType": 1,
+    "hash": "0998452ce8491fe86eb463fc02380e20734e586354169fc14a66a22b18cc5843"
+  },
+  {
+    "time": "23:35",
+    "quoteFirst": "Colonel Shewell, of the Eighth Hussars, whose attention was drawn to them by Lieutenant Phillips, saw the danger, and rode his few men straight at them, cutting his way through with fearful loss..... It was as much as our heavy cavalry brigade could do to cover the retreat of the miserable remnants of that band of heroes as they returned to the place they had so lately quitted in all the pride of life. At ",
     "quoteTime": "thirty-five minutes past eleven",
     "quoteLast": " not a British soldier, except the dead and dying, was left in front of these bloody Muscovite guns.",
-    "title": "The battles of the world",
-    "author": "Borthwick, J. Douglas (John Douglas), 1831-1912",
-    "gutenbergReference": "60652",
+    "title": "Ten Englishmen of the Nineteenth Century",
+    "author": "Joy, James Richard, 1863-1957",
+    "gutenbergReference": "5876",
     "matchType": 1,
-    "hash": "ea012eac810eb49e651873203ddedcff0b7127868d0bb83eb12bb4a59e447c7f"
+    "hash": "7fc39abd494584970370128d44aab1333d4b94d17793b184dae99464140cfcd8"
   },
   {
     "time": "23:35",
-    "quoteFirst": "He wondered, too, as he drove the little drill home for the last time, and cautiously pried open the great, heavy door, if she had sent any signal in from the street front, and he had missed it. He even wondered, quakingly, if daylight would not overtake them at their work—when his startled eyes, chancing to fall on a nearby clock-dial, saw that the hour was only ",
+    "quoteFirst": "The bomb was placed inside the vestibule. The girl there heard a taxicab drive up about ",
     "quoteTime": "twenty-five minutes to twelve",
-    "quoteLast": ".",
-    "title": "The Wire Tappers",
-    "author": "Stringer, Arthur, 1874-1950",
-    "gutenbergReference": "50203",
+    "quoteLast": " and stop for a few minutes and start off again. About six minutes after the taxicab stopped, the explosion came, and in about five minutes there were not less than 300 people on the street in front of the place asking questions.",
+    "title": "The Negro in Chicago: A Study of Race Relations and a Race Riot",
+    "author": "Chicago Commission on Race Relations",
+    "gutenbergReference": "57343",
     "matchType": 1,
-    "hash": "6197c856e7c98c0766492cc2c618ff245461a386f5f094116f188f382438351a"
+    "hash": "cffc511f394ae7d30d07bb6ceac8287521fe381cb6f7cc5b9768a22b364b6561"
   },
   {
     "time": "23:35",
-    "quoteFirst": "Kensington, at ",
+    "quoteFirst": "It was as much as our heavy cavalry could do to cover the retreat of the miserable remnants of the band of heroes as they returned to the place they had so lately quitted. At ",
+    "quoteTime": "thirty-five minutes past eleven",
+    "quoteLast": " not a British soldier, except the dead and the dying, was left in front of those guns.",
+    "title": "The Ontario Readers: Fourth Book",
+    "author": "Ontario. Department of Education",
+    "gutenbergReference": "18702",
+    "matchType": 1,
+    "hash": "2db7792c3ccee60285d2266b00bee9f65ecdab0b780de3bdcfb4a48829415cb3"
+  },
+  {
+    "time": "23:35",
+    "quoteFirst": "The driver looked twice at such a shabby fare, but I jumped in before he could object. ‘The Church of St. Monica,’ said I, ‘and half a sovereign if you reach it in twenty minutes.’ It was ",
     "quoteTime": "twenty-five minutes to twelve",
-    "quoteLast": ". She has occupied a flat there for some time now. Yesterday evening she had been to the theatre and reached home about the same time as the previous evening.",
-    "title": "The mystery of the Peacock's Eye",
-    "author": "Flynn, Brian, 1885-1958",
-    "gutenbergReference": "75195",
+    "quoteLast": ", and of course it was clear enough what was in the wind.",
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "gutenbergReference": "1661",
     "matchType": 1,
-    "hash": "2c4a5dbc70ed3a4cce4f1e99b17e1aebe4d50b25e4855448b65d8413abee856b"
-  },
-  {
-    "time": "23:35",
-    "quoteFirst": "On the 18th August, 1915, the Norwegian schooner _Magda_ was torpedoed by a German submarine without warning. It was ",
-    "quoteTime": "11.35 p.m.",
-    "quoteLast": ", the weather being fine. The ship had the Norwegian flag painted on her sides, which were brilliantly illuminated.",
-    "title": "The German pirate",
-    "author": "Ajax",
-    "gutenbergReference": "50865",
-    "matchType": 2,
-    "hash": "775b47fec97d514860a2621fbd5b7687f83b4f61de54d38f7cdb2eb54a823958"
+    "hash": "3e224fda9d90e4b503232c42c0d5850caa68727f3f47d3f242c3dfac3f377431"
   },
   {
     "time": "23:35",
@@ -210,13 +188,35 @@
   },
   {
     "time": "23:35",
-    "quoteFirst": "Salary £1, 4 shillings and 4 pence halfpenny per annum. Apply between half-past eleven and ",
+    "quoteFirst": "On the 18th August, 1915, the Norwegian schooner _Magda_ was torpedoed by a German submarine without warning. It was ",
+    "quoteTime": "11.35 p.m.",
+    "quoteLast": ", the weather being fine. The ship had the Norwegian flag painted on her sides, which were brilliantly illuminated.",
+    "title": "The German pirate",
+    "author": "Ajax",
+    "gutenbergReference": "50865",
+    "matchType": 2,
+    "hash": "775b47fec97d514860a2621fbd5b7687f83b4f61de54d38f7cdb2eb54a823958"
+  },
+  {
+    "time": "23:35",
+    "quoteFirst": "'The Church of St. Monica,' said I, 'and half a sovereign if you reach it in twenty minutes.'  It was ",
     "quoteTime": "twenty-five minutes to twelve",
-    "quoteLast": " at No. 41 A Decimal Six, Belgravia Terrace. The Countess of Nosh.”",
-    "title": "Nonsense Novels",
-    "author": "Leacock, Stephen, 1869-1944",
-    "gutenbergReference": "4682",
+    "quoteLast": ", and of course it was clear enough what was in the wind.",
+    "title": "Great short stories, Volume 1 (of 3)",
+    "author": "Patten, William, 1868-1936 [Editor]",
+    "gutenbergReference": "74548",
     "matchType": 1,
-    "hash": "3b16b2efa62c6c44a7a5e852bc5ce71b1911ecf5e6f94e772fcdd8290afc2681"
+    "hash": "4d7ba36567619961cdba1af2a31a48d60636851177330d02b61138fddc33b03b"
+  },
+  {
+    "time": "23:35",
+    "quoteFirst": "Our position 170 miles |               |   north of Titanic.\" |               | ",
+    "quoteTime": "11.35 p. m.",
+    "quoteLast": "|   1.25 a. m.  | Caronia tells Titanic, \"Baltic coming |               |   to your assistance.\" |               | Do.      |   do.         | Olympic sends position to Titanic 4.",
+    "title": "Loss of the Steamship \"Titanic\"",
+    "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
+    "gutenbergReference": "39415",
+    "matchType": 2,
+    "hash": "ef78ce7094f531fe637b7fcdc8fca2c42dd61b2cd66c9906688ea03321b4c8f8"
   }
 ]

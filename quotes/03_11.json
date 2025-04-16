@@ -46,6 +46,17 @@
   {
     "time": "03:11",
     "quoteFirst": "At ",
+    "quoteTime": "eleven minutes past three",
+    "quoteLast": " Gypo was condemned to death. The three judges went away, leaving Gallagher in charge of the execution of the sentence.",
+    "title": "The informer",
+    "author": "O'Flaherty, Liam, 1896-1984",
+    "gutenbergReference": "75583",
+    "matchType": 1,
+    "hash": "119e699a039f85a09bb6972e04eaacf441ab5180de04078744066144ea0a88b0"
+  },
+  {
+    "time": "03:11",
+    "quoteFirst": "At ",
     "quoteTime": "3:11 a.m.",
     "quoteLast": ", the following morning the first calf arrived, followed in rapid order by a dozen more.",
     "title": "Make Mine Homogenized",

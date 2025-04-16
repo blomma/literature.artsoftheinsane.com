@@ -1,69 +1,14 @@
 [
   {
     "time": "19:35",
-    "quoteFirst": "I looked at my watch; it was exactly ",
-    "quoteTime": "twenty-five minutes to eight",
-    "quoteLast": ".",
-    "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
-    "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
-    "gutenbergReference": "46006",
-    "matchType": 1,
-    "hash": "e08096334b1e0e4d96ef77b2b6c474e97d77e179fa0a18b10d1e47f9d1a5907c"
-  },
-  {
-    "time": "19:35",
-    "quoteFirst": "We had such a beautiful lesson to-day about the world. I miss you very. I wish you would come back again. It is now ",
-    "quoteTime": "twenty-five minutes to eight",
-    "quoteLast": "; it was very dark, and I and Harriet put a farthing together, and sent L. and S. out for a halfpenny candle....",
-    "title": "Life of Octavia Hill as Told in Her Letters",
-    "author": "Hill, Octavia, 1838-1912; Maurice, C. Edmund (Charles Edmund), 1843-1927 [Editor]",
-    "gutenbergReference": "61159",
-    "matchType": 1,
-    "hash": "a885e03d42e0a1f8a1c9c6cb93b31adbf4a0ad08c76b253ffa6615d4e6c6ac0d"
-  },
-  {
-    "time": "19:35",
-    "quoteFirst": "We had such a beautiful lesson to-day about the world. I miss you very. I wish you would come back again. It is now ",
-    "quoteTime": "twenty-five minutes to eight",
-    "quoteLast": "; it was very dark, and I and Harriet put a farthing together, and sent L. and S. out for a halfpenny candle....",
-    "title": "Life of Octavia Hill as Told in Her Letters",
-    "author": "Hill, Octavia, 1838-1912; Maurice, C. Edmund (Charles Edmund), 1843-1927 [Editor]",
-    "gutenbergReference": "61159",
-    "matchType": 1,
-    "hash": "a885e03d42e0a1f8a1c9c6cb93b31adbf4a0ad08c76b253ffa6615d4e6c6ac0d"
-  },
-  {
-    "time": "19:35",
-    "quoteFirst": "",
-    "quoteTime": "Thirty-five minutes past seven",
-    "quoteLast": ": Smoke arises from the stacks of the warships, which are getting under way and will soon be within range of the engines.",
-    "title": "Facing the Flag",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "11556",
-    "matchType": 1,
-    "hash": "ab278b3c37d68b607c9f5462062f92c7f36885a6d2e60996662f01251133848e"
-  },
-  {
-    "time": "19:35",
-    "quoteFirst": "The clock before her eyes said ",
-    "quoteTime": "thirty-five minutes past seven",
-    "quoteLast": ". Rain beat against the heavy cloth of the curtains, water swished and splashed under the wheels, and above the purring of the engine they could hear the clinking fall of the chains. There was no other sound except when Derry caught a moaning breath.",
-    "title": "The Heart of Rachael",
-    "author": "Norris, Kathleen Thompson, 1880-1966",
-    "gutenbergReference": "4915",
-    "matchType": 1,
-    "hash": "3d19cbcc71fd052bc807ff1de0607bae4b8e0d92e76d12136bc64119ef97c1fa"
-  },
-  {
-    "time": "19:35",
-    "quoteFirst": "The train for Galicia started at ",
-    "quoteTime": "thirty-five minutes past seven",
-    "quoteLast": ", and at that pleasant twilight hour the platform of the Northern Depot was filled with a hurried and animated crowd of travelers and their friends who had come to see them off, the latter envying those who were going to see beautiful scenery, to breathe the sea air, to enjoy a cool temperature, and to spend a few months pleasantly in a healthy and",
-    "title": "Morriña (Homesickness)",
-    "author": "Pardo Bazán, Emilia, condesa de, 1852-1921; Serrano, Mary J. (Mary Jane), -1923 [Translator]",
-    "gutenbergReference": "54742",
-    "matchType": 1,
-    "hash": "392888710be5604a88dc6600cfd86590a48809662920f47882697d1611077510"
+    "quoteFirst": "The information as to the visibility of the tracks did not reach me until the return of the Fleet to harbour, as although one torpedo was reported by observers on board the destroyer _Oak_ to have passed close ahead of the _Iron Duke_ at about ",
+    "quoteTime": "7.35 P.M.",
+    "quoteLast": ", finishing its run 2,000 yards beyond that ship, and a second was observed by the _Benbow_ to pass apparently ahead of the _Iron Duke_ at 8.30 P.M., neither of them was seen on board the flagship by the trained look-outs specially stationed for the purpose.",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "matchType": 2,
+    "hash": "44d19b08529932761f52d3a706fdefec3f67881fc91050ee54750723418ea848"
   },
   {
     "time": "19:35",
@@ -79,46 +24,46 @@
   {
     "time": "19:35",
     "quoteFirst": "",
-    "quoteTime": "Thirty-five minutes past seven",
-    "quoteLast": ": Smoke arises from the stacks of the warships, which are getting under way and will soon be within range of the engines.",
-    "title": "Facing the Flag",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "11556",
-    "matchType": 1,
-    "hash": "ab278b3c37d68b607c9f5462062f92c7f36885a6d2e60996662f01251133848e"
-  },
-  {
-    "time": "19:35",
-    "quoteFirst": "The hospital received the President’s body for autopsy at approximately ",
-    "quoteTime": "7:35 p.m.",
-    "quoteLast": "[C2-277] X-rays and photographs were taken preliminarily and the pathological examination began at about 8 p.m.[C2-278] The autopsy report noted that President Kennedy was 46 years of age, 72½ inches tall, weighed 170 pounds, had blue eyes and reddish-brown hair.",
-    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58031",
+    "quoteTime": "7:35 P.M.",
+    "quoteLast": ", Blackstone, Virginia. A round, shiny object with a golden glow sighted, moving south.",
+    "title": "The World of Flying Saucers: A Scientific Examination of a Major Myth of the Space Age",
+    "author": "Menzel, Donald H. (Donald Howard), 1901-1976; Boyd, Lyle Gifford, 1907-1982",
+    "gutenbergReference": "66639",
     "matchType": 2,
-    "hash": "35acea502e3c3d5201f6e4492eeee6c75e1f10a44b934c7ab0dd01432e325c01"
+    "hash": "61f54b3013dbe3260a17ba57e3b9eed3e2fcc7e99d3911acfb7781393e2ab72a"
   },
   {
     "time": "19:35",
-    "quoteFirst": "It took them nearly two hours to go down an easy slope of 1,000 feet.  They reached the base of the dome, guiding themselves only by the direction of the wind, and at last at ",
-    "quoteTime": "7.35 p.m.",
-    "quoteLast": " crawled into their upper camp.  All their apparel down to their underclothes was filled with ice.  They were beaten by the wind, and by the wind only.",
-    "title": "The Last Secrets: The Final Mysteries of Exploration",
-    "author": "Buchan, John, 1875-1940",
-    "gutenbergReference": "60948",
-    "matchType": 2,
-    "hash": "afe9ac4e93a71d60fd3c8a4dbce8a311a8b539087fd37ab9cacc2293f769e535"
-  },
-  {
-    "time": "19:35",
-    "quoteFirst": "“",
-    "quoteTime": "Twenty-five minutes to eight",
-    "quoteLast": ",” he muttered. “Time I was getting――”",
-    "title": "Lefty o' the Big League",
-    "author": "Standish, Burt L., 1866-1945",
-    "gutenbergReference": "75250",
+    "quoteFirst": "At ",
+    "quoteTime": "thirty-five minutes past seven",
+    "quoteLast": " Francis Joseph McPhillip shot himself dead while trying to escape from No. 44 Titt Street, his father’s house.",
+    "title": "The informer",
+    "author": "O'Flaherty, Liam, 1896-1984",
+    "gutenbergReference": "75583",
     "matchType": 1,
-    "hash": "64f3eaa5b513014a742cbb8c69fba4ce6ec2e5ea560c148acf2669c12f20170d"
+    "hash": "762fd5b51bb2395429b3bb743e14db86c45250c8549c9307a5ffeff352deebb7"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "Francis Markrute was still seated in his library; he had taken out his watch and was calculating the time. It was ",
+    "quoteTime": "twenty-five minutes to eight",
+    "quoteLast": "; his guests would be coming to dine at eight o'clock and he had not begun to dress. Would his niece have made up her mind by then?",
+    "title": "The Reason Why",
+    "author": "Glyn, Elinor, 1864-1943",
+    "gutenbergReference": "12450",
+    "matchType": 1,
+    "hash": "323f9527e504b380411b3966a4f08103cc4824247179114e832ddcbedf090fc8"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "\"POPLAR GROVE, _March 7_ (",
+    "quoteTime": "7.35 P.M.",
+    "quoteLast": ").",
+    "title": "South Africa and the Transvaal War, Vol. 4 (of 8)\r\nFrom Lord Roberts' Entry into the Free State to the Battle of Karree",
+    "author": "Creswicke, Louis",
+    "gutenbergReference": "38768",
+    "matchType": 2,
+    "hash": "890fe40d6821ad3112121c06431b2f988c01fb048d4d6a2c16596b62b8e58f27"
   },
   {
     "time": "19:35",
@@ -130,17 +75,6 @@
     "gutenbergReference": "11556",
     "matchType": 1,
     "hash": "ab278b3c37d68b607c9f5462062f92c7f36885a6d2e60996662f01251133848e"
-  },
-  {
-    "time": "19:35",
-    "quoteFirst": "I was at the Haymarket Square on the evening of May 4th. I walked west on Randolph Street about half past seven o’clock, and somebody handed me a circular headed ‘Revenge,’ and signed ‘Your Brothers.’ About ",
-    "quoteTime": "twenty-five minutes to eight",
-    "quoteLast": " I got to the corner of Desplaines and Randolph. I met Mr. Brazleton of the _Inter-Ocean_. We talked about fifteen minutes. I asked the time.",
-    "title": "Anarchy and Anarchists\r\nA History of the Red Terror and the Social Revolution in America and Europe; Communism, Socialism, and Nihilism in Doctrine and in Deed; The Chicago Haymarket Conspiracy and the Detection and Trial of the Conspirators",
-    "author": "Schaack, Michael J.",
-    "gutenbergReference": "52811",
-    "matchType": 1,
-    "hash": "790d864589f713979da9e4bdbeef1220aa084fec8eaff7b1cd21458279fcecc2"
   },
   {
     "time": "19:35",
@@ -155,47 +89,36 @@
   },
   {
     "time": "19:35",
-    "quoteFirst": "After a fatiguing march of eight hours and ten minutes through a perfectly flat country interspersed with trees, we halted at a little well of excessively bad water at ",
+    "quoteFirst": "The information as to the visibility of the tracks did not reach me until the return of the Fleet to harbour, as although one torpedo was reported by observers on board the destroyer _Oak_ to have passed close ahead of the _Iron Duke_ at about ",
     "quoteTime": "7.35 P.M.",
-    "quoteLast": " The horses were so much in advance that the main party did not arrive until 11 P.M. completely fatigued. The night being fine, we slept on a hillock of sand a few yards from the well, rejoiced to be away from the mosquitoes of Gondokoro.",
-    "title": "The Albert N'Yanza, Great Basin of the Nile, And Explorations of the Nile Sources",
-    "author": "Baker, Samuel White, Sir, 1821-1893",
-    "gutenbergReference": "3668",
-    "matchType": 2,
-    "hash": "00768a8e73d90f0918a639e17867d6f14ca9aa4cc8844af848916c815c006a5e"
-  },
-  {
-    "time": "19:35",
-    "quoteFirst": "We had such a beautiful lesson to-day about the world. I miss you very. I wish you would come back again. It is now ",
-    "quoteTime": "twenty-five minutes to eight",
-    "quoteLast": "; it was very dark, and I and Harriet put a farthing together, and sent L. and S. out for a halfpenny candle....",
-    "title": "Life of Octavia Hill as Told in Her Letters",
-    "author": "Hill, Octavia, 1838-1912; Maurice, C. Edmund (Charles Edmund), 1843-1927 [Editor]",
-    "gutenbergReference": "61159",
-    "matchType": 1,
-    "hash": "a885e03d42e0a1f8a1c9c6cb93b31adbf4a0ad08c76b253ffa6615d4e6c6ac0d"
-  },
-  {
-    "time": "19:35",
-    "quoteFirst": "it having been reported from aloft and course altered”; and again, “at 7.38 P.M. tracks of two torpedoes running parallel were observed approaching; course altered to avoid torpedoes which passed ahead; and at 8.25 P.M. torpedo track on starboard side, turned at full speed; torpedo broke surface at about 150 yards on the starboard bow”; the _Revenge_ remarked, “at ",
-    "quoteTime": "7.35 P.M.",
-    "quoteLast": " altered course to port to avoid two torpedoes, one passed about ten yards ahead and the other about twenty yards astern, and at 7.43 P.M. altered course to avoid torpedoes, two passing astern”; the _Colossus_ stated, “at 7.35 P.M. turned to port to avoid a torpedo coming from starboard side”; the _Barham_ at this period reported that “at least four torpedoes passed through the line close to the _Barham_”; the _Collingwood_ reported, “torpedo track was seen 20 degrees abaft the beam and coming straight at the ship; large helm was put on and the torpedo passed very close astern; at the same time another was seen to pass about thirty yards ahead.",
+    "quoteLast": ", finishing its run 2,000 yards beyond that ship, and a second was observed by the _Benbow_ to pass apparently ahead of the _Iron Duke_ at 8.30 P.M., neither of them was seen on board the flagship by the trained look-outs specially stationed for the purpose.",
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
     "matchType": 2,
-    "hash": "be7e6416bac23732c7e72a6ebc62e127b95480f137b811ec7d69bb4e84c23ee2"
+    "hash": "44d19b08529932761f52d3a706fdefec3f67881fc91050ee54750723418ea848"
   },
   {
     "time": "19:35",
-    "quoteFirst": "At ",
-    "quoteTime": "7:35P.M.",
-    "quoteLast": " many people in Blackstone, Virginia, about 80 miles south of Gordonsville, reported it. It was a \"round, shiny object with a golden glow\" moving from north to south.",
-    "title": "The Report on Unidentified Flying Objects",
-    "author": "Ruppelt, Edward J., 1922-1960",
-    "gutenbergReference": "17346",
-    "matchType": 2,
-    "hash": "79d2bc998082557307ef57b0ab6d1871f43727e2b5c1870f4e6320348253121c"
+    "quoteFirst": "I was at the Haymarket Square on the evening of May 4th. I walked west on Randolph Street about half past seven o’clock, and somebody handed me a circular headed ‘Revenge,’ and signed ‘Your Brothers.’ About ",
+    "quoteTime": "twenty-five minutes to eight",
+    "quoteLast": " I got to the corner of Desplaines and Randolph. I met Mr. Brazleton of the _Inter-Ocean_. We talked about fifteen minutes. I asked the time.",
+    "title": "Anarchy and Anarchists\r\nA History of the Red Terror and the Social Revolution in America and Europe; Communism, Socialism, and Nihilism in Doctrine and in Deed; The Chicago Haymarket Conspiracy and the Detection and Trial of the Conspirators",
+    "author": "Schaack, Michael J.",
+    "gutenbergReference": "52811",
+    "matchType": 1,
+    "hash": "790d864589f713979da9e4bdbeef1220aa084fec8eaff7b1cd21458279fcecc2"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "Francis Markrute was still seated in his library; he had taken out his watch and was calculating the time. It was ",
+    "quoteTime": "twenty-five minutes to eight",
+    "quoteLast": "; his guests would be coming to dine at eight o'clock and he had not begun to dress. Would his niece have made up her mind by then?",
+    "title": "The Reason Why",
+    "author": "Glyn, Elinor, 1864-1943",
+    "gutenbergReference": "12450",
+    "matchType": 1,
+    "hash": "323f9527e504b380411b3966a4f08103cc4824247179114e832ddcbedf090fc8"
   },
   {
     "time": "19:35",
@@ -210,13 +133,90 @@
   },
   {
     "time": "19:35",
-    "quoteFirst": "The hospital received the President’s body for autopsy at approximately ",
-    "quoteTime": "7:35 p.m.",
-    "quoteLast": "[C2-277] X-rays and photographs were taken preliminarily and the pathological examination began at about 8 p.m.[C2-278] The autopsy report noted that President Kennedy was 46 years of age, 72½ inches tall, weighed 170 pounds, had blue eyes and reddish-brown hair.",
-    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58031",
+    "quoteFirst": "June 4, 1912. ",
+    "quoteTime": "7.35 P. M.",
+    "quoteLast": " Investigator counted 6 street walkers on Seventh Avenue between ---- and ---- Streets. All approached men. He was solicited by one at the corner of Seventh Avenue and ---- Street to enter premises.",
+    "title": "Commercialized Prostitution in New York City",
+    "author": "Kneeland, George J. (George Jackson), 1872-; Rockefeller, John D., Jr. (John Davison), 1874-1960 [Author of introduction, etc.]; Davis, Katharine Bement, 1860-1935 [Contributor]",
+    "gutenbergReference": "36506",
     "matchType": 2,
-    "hash": "35acea502e3c3d5201f6e4492eeee6c75e1f10a44b934c7ab0dd01432e325c01"
+    "hash": "70b02bebc879968323e564f60dbdc57bee96674199090d1b7985ef130547712d"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "“",
+    "quoteTime": "7:35 P. M.",
+    "quoteLast": "—The President this evening is not so comfortable. He does not suffer so much from pain in the feet. The tympanitis is again more noticeable. Pulse, 126; temperature, 101.9; respiration, 24. Another bulletin will be issued at 10 P. M., after which, in order not to disturb the President unnecessarily, no further bulletins will be issued until to-morrow morning.",
+    "title": "The Life and Work of James A. Garfield, Twentieth President of the United States\r\nEmbracing an Account of the Scenes and Incidents of His Boyhood; the Struggles of His Youth; the Might of His Early Manhood; His Valor As a Soldier; His Career As a Statesman; His Election to the Presidency; and the Tragic Story of His Death.",
+    "author": "Ridpath, John Clark, 1840-1900",
+    "gutenbergReference": "59075",
+    "matchType": 2,
+    "hash": "a8fad3423b3956356825d04898c92d2f1b943c82068ffa1fec1c36d0b0043b2e"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "I looked at my watch; it was exactly ",
+    "quoteTime": "twenty-five minutes to eight",
+    "quoteLast": ".",
+    "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
+    "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
+    "gutenbergReference": "46006",
+    "matchType": 1,
+    "hash": "e08096334b1e0e4d96ef77b2b6c474e97d77e179fa0a18b10d1e47f9d1a5907c"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "It took them nearly two hours to go down an easy slope of 1,000 feet.  They reached the base of the dome, guiding themselves only by the direction of the wind, and at last at ",
+    "quoteTime": "7.35 p.m.",
+    "quoteLast": " crawled into their upper camp.  All their apparel down to their underclothes was filled with ice.  They were beaten by the wind, and by the wind only.",
+    "title": "The Last Secrets: The Final Mysteries of Exploration",
+    "author": "Buchan, John, 1875-1940",
+    "gutenbergReference": "60948",
+    "matchType": 2,
+    "hash": "afe9ac4e93a71d60fd3c8a4dbce8a311a8b539087fd37ab9cacc2293f769e535"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "June 4, 1912. ",
+    "quoteTime": "7.35 P. M.",
+    "quoteLast": " Investigator counted 6 street walkers on Seventh Avenue between ---- and ---- Streets. All approached men. He was solicited by one at the corner of Seventh Avenue and ---- Street to enter premises.",
+    "title": "Commercialized Prostitution in New York City",
+    "author": "Kneeland, George J. (George Jackson), 1872-; Rockefeller, John D., Jr. (John Davison), 1874-1960 [Author of introduction, etc.]; Davis, Katharine Bement, 1860-1935 [Contributor]",
+    "gutenbergReference": "36506",
+    "matchType": 2,
+    "hash": "70b02bebc879968323e564f60dbdc57bee96674199090d1b7985ef130547712d"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "After a fatiguing march of eight hours and ten minutes through a perfectly flat country interspersed with trees, we halted at a little well of excessively bad water at ",
+    "quoteTime": "7.35 P.M.",
+    "quoteLast": " The horses were so much in advance that the main party did not arrive until 11 P.M. completely fatigued. The night being fine, we slept on a hillock of sand a few yards from the well, rejoiced to be away from the mosquitoes of Gondokoro.",
+    "title": "The Albert N'Yanza, Great Basin of the Nile, And Explorations of the Nile Sources",
+    "author": "Baker, Samuel White, Sir, 1821-1893",
+    "gutenbergReference": "3668",
+    "matchType": 2,
+    "hash": "00768a8e73d90f0918a639e17867d6f14ca9aa4cc8844af848916c815c006a5e"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "“",
+    "quoteTime": "Thirty-five minutes after seven",
+    "quoteLast": ",” said Athos, “by which you perceive I am five minutes faster than you.”",
+    "title": "The three musketeers",
+    "author": "Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888",
+    "gutenbergReference": "1257",
+    "matchType": 1,
+    "hash": "a85c2ea01128cc5e64d1f451b14be31574f9ba93543139b2e4690864683736ab"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "During the afternoon several propositions were made to Colonel Torres by the representatives of the new government, and he was finally persuaded by them to embark on the Royal Mail steamer _Orinoco_ with all his troops and return to Cartagena. The _Orinoco_ left her dock with the troops—474 all told—at ",
+    "quoteTime": "7.35 P.M.",
+    "quoteLast": "",
+    "title": "Presidential addresses and state papers, Volume 2 (of 7)",
+    "author": "Roosevelt, Theodore, 1858-1919",
+    "gutenbergReference": "74680",
+    "matchType": 2,
+    "hash": "f020b3f1588ac11aec72b4289539e98bf8cb56de1b8b2a5a95e05542acf1462e"
   }
 ]

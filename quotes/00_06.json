@@ -34,6 +34,28 @@
   },
   {
     "time": "00:06",
+    "quoteFirst": "X. ",
+    "quoteTime": "12:06 a. m.",
+    "quoteLast": "—The Stillness of a Grave XI. 12:15 a. m.—To Watch by Night XII. 12:30 a. m.",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "matchType": 2,
+    "hash": "404465ad0535e1ffb4dfe37eba66127faa1c5cd79ad2e8a33bc07fadc2f72312"
+  },
+  {
+    "time": "00:06",
+    "quoteFirst": "",
+    "quoteTime": "12:06 a. m.",
+    "quoteLast": "—The Stillness of a Grave",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "matchType": 2,
+    "hash": "2c632a66ed9068cbae61757262447d2072b5e38b299cde24bb90686e0b59fd34"
+  },
+  {
+    "time": "00:06",
     "quoteFirst": "On the 31st she sets at 12:12 a. m.; on the 15th, rises at 11:25 p. m.; on the 31st, sets at ",
     "quoteTime": "12:06 a. m.",
     "quoteLast": " On the meridian, 1st at 5:56¼ p. m.; on the 15th, at 3:58 a. m.; on 30th, at 5:30 p. m. Farthest from the earth, 10th at 7:24 p. m.; nearest the earth on 24th, at 1:36 p. m.",

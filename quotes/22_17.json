@@ -53,5 +53,27 @@
     "gutenbergReference": "558",
     "matchType": 2,
     "hash": "a78593b69c97315f475e1cb3b24bb80c876953d920f89258e746be4101efe826"
+  },
+  {
+    "time": "22:17",
+    "quoteFirst": "V. ",
+    "quoteTime": "10:17 p. m.",
+    "quoteLast": "—Living or Dead? VI. 10:32 p. m.—Pictures in Dust VII. 11:01 p. m.",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "matchType": 2,
+    "hash": "1240255a311653b3448e09d4375a518e94032644486775dcd3f17fcede12eacf"
+  },
+  {
+    "time": "22:17",
+    "quoteFirst": "",
+    "quoteTime": "10:17 p. m.",
+    "quoteLast": "—Living or Dead?",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "matchType": 2,
+    "hash": "0b97704cf5291f7d2521180fcc674146cd79b0a9efb377cff102b6a9bb8ff624"
   }
 ]

@@ -12,6 +12,28 @@
   },
   {
     "time": "03:24",
+    "quoteFirst": "XX.  ",
+    "quoteTime": "3:24 a. m.",
+    "quoteLast": "—On Private Heights XXI.  3:51 a. m.—A Woman’s Slipper XXII.  4:14 a. m.",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "matchType": 2,
+    "hash": "d79506f36da0c3398b1a189292a47eaccc32a65d7886d0d11e8c16c6fc2cee96"
+  },
+  {
+    "time": "03:24",
+    "quoteFirst": "",
+    "quoteTime": "3:24 a. m.",
+    "quoteLast": "—On Private Heights",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "matchType": 2,
+    "hash": "28e9ee5ce845e19d5e98d9916bdc58c53d4559f0c5ebd714b3f2e802d7c36d88"
+  },
+  {
+    "time": "03:24",
     "quoteFirst": "|               | La Provence to Celtic, \"Nobody has heard the |               |   Titanic for about 2 hours.\" |               | ",
     "quoteTime": "3.24 a. m.",
     "quoteLast": "|               | SBA. (Birma) says we are 30 miles S. W. off |               |   Titanic. |               | 3.36 a. m.",
