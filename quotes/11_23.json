@@ -7,7 +7,6 @@
     "title": "Combed Out",
     "author": "Voigt, F. A. (Frederick Augustus), 1892-1957",
     "gutenbergReference": "16355",
-    "matchType": 1,
     "hash": "f47e950e6af0d6914caabcff9b93123d62e8fc9603289dc378d5bef2c40af3e3"
   },
   {
@@ -18,7 +17,6 @@
     "title": "We're Friends, Now",
     "author": "Hasse, Henry, 1913-1977; Varga, Mel [Illustrator]",
     "gutenbergReference": "29488",
-    "matchType": 2,
     "hash": "ddd76ffbbbdb556be4a1c06280ad5aa6a342bd5d86f2edbd29b35ad6934c2c88"
   },
   {
@@ -29,7 +27,6 @@
     "title": "A Man Obsessed",
     "author": "Nourse, Alan Edward, 1928-1992",
     "gutenbergReference": "49531",
-    "matchType": 2,
     "hash": "c7d946fa15eff8ec16ebb2b4fedbed9087bf7ce279705ec53a565e5d06f01abe"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The New Astronomy",
     "author": "Langley, S. P. (Samuel Pierpont), 1834-1906",
     "gutenbergReference": "64577",
-    "matchType": 1,
     "hash": "759cd584d38085f6b340d919eafe7a769df829aed032fdce7f331e212164f99e"
   }
 ]

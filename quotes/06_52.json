@@ -7,7 +7,6 @@
     "title": "Astronomy for Young Australians",
     "author": "Bonwick, James, 1817-1906",
     "gutenbergReference": "57091",
-    "matchType": 1,
     "hash": "399ad8a6b1a1c75642b7a4a1af41df858b95ecebe77ec1a48e0ee664a48ade3c"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Every-day Book and Table Book. v. 3 (of 3)\r\nEverlasting Calerdar of Popular Amusements, Sports, Pastimes, Ceremonies, Manners, Customs and Events, Incident to Each of the Three Hundred and Sixty-five Days, in past and Present Times; Forming a Complete History of the Year, Month, and Seasons, and a Perpetual Key to the Almanac",
     "author": "Hone, William, 1780-1842",
     "gutenbergReference": "53277",
-    "matchType": 1,
     "hash": "e8a77f8d25c4d4b94ff6b3323a82088ab6b52760c89d97ea13cf37aa549208ac"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Benton's Venture",
     "author": "Barbour, Ralph Henry, 1870-1944; Chickering, Charles R. (Charles Ransom), 1891-1970 [Illustrator]",
     "gutenbergReference": "66533",
-    "matchType": 1,
     "hash": "860bb975cd87d2fc340132983f0f13d15ef571d5ede4ce1ba485ab8025756846"
   },
   {
@@ -40,7 +37,6 @@
     "title": "At the Sign of the Silver Flagon",
     "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
     "gutenbergReference": "53062",
-    "matchType": 1,
     "hash": "bdeebf9dd8138da005bab15f8d4539357bdec01a23f4ab5a6f6278f862a17fe7"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "1ef8c345ca5ef18c8177164ca48035a2170e391f9b5bc6d46ded80368990f7ee"
   },
   {
@@ -62,7 +57,6 @@
     "title": "War in the Underseas",
     "author": "Wheeler, Harold, 1877-",
     "gutenbergReference": "63060",
-    "matchType": 1,
     "hash": "50b2e9729fc058d0c930bb87f0c23595de980c7e9f64b54196bd4a5c75ec45f4"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Scientific American Supplement, No. 358, November 11, 1882",
     "author": "Various",
     "gutenbergReference": "8504",
-    "matchType": 2,
     "hash": "892930ccfb997ac31d337d98dbaba81884325cdb123bd2bf1eaa9797e02858cc"
   }
 ]

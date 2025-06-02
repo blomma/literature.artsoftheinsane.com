@@ -7,7 +7,6 @@
     "title": "The conspirators; or, The chevalier d'Harmental",
     "author": "Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888",
     "gutenbergReference": "27385",
-    "matchType": 1,
     "hash": "7f79700a78afe2ef6ac9c7a1677322160932bcf428ddd721908d6b97063c6a46"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Huey Long Murder Case",
     "author": "Deutsch, Hermann B. (Hermann Bacher), 1889-1970",
     "gutenbergReference": "62864",
-    "matchType": 2,
     "hash": "f35bebb4de1b6e7e4406bc074561c3fae91820cbbfed40e122e8548a6052ae43"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Great Round World and What Is Going On In It, Vol. 1, No. 60, December 30, 1897\nA Weekly Magazine for Boys and Girls",
     "author": "Various; Bishop, Julia Truitt [Editor]",
     "gutenbergReference": "16580",
-    "matchType": 1,
     "hash": "bf0167238c3658f156751625d9f6be3e4a28c8a461e437eabeb8c011f5046239"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Great Frozen Sea: A Personal Narrative of the Voyage of the \"Alert\"",
     "author": "Markham, Albert Hastings, Sir, 1841-1918",
     "gutenbergReference": "43608",
-    "matchType": 1,
     "hash": "b83bbf7fb25596d119289dd5aa9e26aaa2b40010b4a1e129feabb2e7fceb8226"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Mysteries of London, v. 4/4",
     "author": "Reynolds, George W. M. (George William MacArthur), 1814-1879",
     "gutenbergReference": "51649",
-    "matchType": 1,
     "hash": "1bd494ea862ed4857b346d9cf6a4b0a97c34538107430fd26097996f634cbb76"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Mysterious Island",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "1268",
-    "matchType": 1,
     "hash": "30b807dfaddce2e6c629c4b231d4f650e7120f9caeda5913ee85f3024eb80d1c"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The English of military communications",
     "author": "Ganoe, William Addleman, 1881-1966",
     "gutenbergReference": "71741",
-    "matchType": 1,
     "hash": "ceb9a4b1746a0bad7733cca5c507c25fe0cbfb1357b31e47d18321e2f03560ab"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Secret of the Island",
     "author": "Verne, Jules, 1828-1905; Kingston, William Henry Giles, 1814-1880 [Translator]",
     "gutenbergReference": "21489",
-    "matchType": 1,
     "hash": "e66e90c75b947ddd2d0c5842e265cc6d1da47aabbad40eb7bb5d39edaf5097f4"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "bd2fea6bc704ab6b817601e3575c3002704dc40afbd6842b05f88fd3a9b08615"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Cupid of Campion",
     "author": "Finn, Francis J. (Francis James), 1859-1928",
     "gutenbergReference": "52583",
-    "matchType": 1,
     "hash": "7f8eeba451e7abb8769ddf13afff531051e2e2e7be76ddfa36666a74d25b006f"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Cupid of Campion",
     "author": "Finn, Francis J. (Francis James), 1859-1928",
     "gutenbergReference": "52583",
-    "matchType": 1,
     "hash": "6b6767b715e57926307c3dfe6a7086d3b899adbe2048f60e0100a41d0a98e7a3"
   }
 ]

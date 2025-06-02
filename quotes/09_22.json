@@ -7,7 +7,6 @@
     "title": "The Bābur-nāma in English (Memoirs of Bābur)",
     "author": "Babur, Emperor of Hindustan, 1483-1530; Beveridge, Annette Susannah, 1842-1929 [Translator]",
     "gutenbergReference": "44608",
-    "matchType": 2,
     "hash": "86491a6cb5c189b4e2ddeab20e69e000072091d300b890a7781f033f19471787"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Preaching Tours and Missionary Labours of George Müller (of Bristol)",
     "author": "Müller, Susannah Grace Sanger",
     "gutenbergReference": "34377",
-    "matchType": 2,
     "hash": "4c12d49c2a2f620fd9283e814faf29aaf023a8b4cb59d50f06100e22253f014a"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Life of David Belasco; Vol. 1",
     "author": "Winter, William, 1836-1917; Winter, William Jefferson, 1878-1929",
     "gutenbergReference": "62448",
-    "matchType": 2,
     "hash": "d5ed1e49fe022ed4312aa1d557417b9553776abfbbd7eab6431fba22e275da34"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The History of the 2/6th (Rifle) Battalion, \"the King's\" (Liverpool Regiment) 1914-1919",
     "author": "Wurtzburg, C. E. (Charles Edward), 1891-1952",
     "gutenbergReference": "49875",
-    "matchType": 2,
     "hash": "f3c2febece85d8e7cac6903399f534d07285666dc201134688f711c2b3468893"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Heroes of the Goodwin Sands",
     "author": "Treanor, Thomas Stanley",
     "gutenbergReference": "24685",
-    "matchType": 2,
     "hash": "7843b691c8e40d65894ab521920bcd384915f8b6a54967b60d2dc8de1ce8e0f3"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Bombardment of Reims",
     "author": "Ferree, Barr, 1862-1924",
     "gutenbergReference": "49649",
-    "matchType": 2,
     "hash": "f27e7b1721e6bd9fc8b959ba16e7b14d3d2bf0cd0d87e7b8d551080d76fd2201"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Home; Or, Life in Sweden",
     "author": "Bremer, Fredrika, 1801-1865; Howitt, Mary (Mary Botham), 1799-1888 [Translator]",
     "gutenbergReference": "20746",
-    "matchType": 1,
     "hash": "e7a148f91ffe36af40b928ea7b01c4a2aa958556dbe5e4a23727427ac3067fba"
   }
 ]

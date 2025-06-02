@@ -7,7 +7,6 @@
     "title": "Voyage to Jupiter",
     "author": "Morrison, David, 1940-; Samz, Jane",
     "gutenbergReference": "58915",
-    "matchType": 2,
     "hash": "5435d1cf3021551ad4241fb47d403ee83c66bde85efcd44a29cbd6043be4c800"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Amateur Army",
     "author": "MacGill, Patrick, 1890?-1963",
     "gutenbergReference": "16078",
-    "matchType": 1,
     "hash": "38823799cb0a13d75df71a65babfb3b7a23845b863f9d3e0074157fab327cbea"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Golden Fleece: The American Adventures of a Fortune Hunting Earl",
     "author": "Phillips, David Graham, 1867-1911; Fisher, Harrison, 1875-1934 [Illustrator]",
     "gutenbergReference": "64301",
-    "matchType": 1,
     "hash": "347c21d789d3e1ad7309fa5bdabdf770c6fa722b645707ca4515366062409088"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The World Crisis, Volume 1 (of 6)",
     "author": "Churchill, Winston, 1874-1965",
     "gutenbergReference": "59794",
-    "matchType": 2,
     "hash": "484be34fe90b0825d52c2279f12275199ccaf017bb57da0c5e74a94098a37520"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "In Jeopardy",
     "author": "Sutphen, Van Tassel, 1861-1945",
     "gutenbergReference": "38477",
-    "matchType": 1,
     "hash": "5b96b264c78b5684e06c2ec9c97e6821f24b98bf759272b66547dce68b00ada6"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The A B C of Relativity",
     "author": "Russell, Bertrand, 1872-1970",
     "gutenbergReference": "67104",
-    "matchType": 2,
     "hash": "c40018dd04d5e2ce870862000cd8ef9a29c7b40189684690914371e8f3baaa92"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Malvina of Brittany",
     "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
     "gutenbergReference": "2023",
-    "matchType": 1,
     "hash": "b2ecfb9c9e591c339829a690993393868db908659fd9878f2a59bb39b3addef4"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Allan Quatermain",
     "author": "Haggard, H. Rider (Henry Rider), 1856-1925",
     "gutenbergReference": "711",
-    "matchType": 1,
     "hash": "6ab96901f0bde47309a65f2e8195446650aeb36fa9db26032077377a33e0d34f"
   }
 ]

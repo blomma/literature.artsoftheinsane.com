@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "36ed133eb1474ac54b59d4f874482b8ec1c8e4f97234638f946d192ba295db66"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Stopwatch on the world",
     "author": "Gilgannon, Daniel R.; Poulton, Peter, 1914-1972 [Illustrator]",
     "gutenbergReference": "70583",
-    "matchType": 2,
     "hash": "11f94e3a19129cd9b45d4f1bb4d4780394ca4a09aa601b3a0e016b1aba333384"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Benton's Venture",
     "author": "Barbour, Ralph Henry, 1870-1944; Chickering, Charles R. (Charles Ransom), 1891-1970 [Illustrator]",
     "gutenbergReference": "66533",
-    "matchType": 1,
     "hash": "28a1fd62004737e1288675b608ef77a20b4be51f4be3f0bbeef352312ee24376"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "7007c2bebb5f4a744f659b648abd9d0efcf24907e318d54115ac05fc1c51f5aa"
   },
   {
@@ -49,9 +45,8 @@
     "quoteTime": "7.32 p.m.",
     "quoteLast": " my course was SW., speed 18 knots, the leading enemy battleship bearing NW. by W. Again, after a very short time, the enemy showed signs of punishment, one ship being on fire, while another appeared to drop right astern.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "3872f1ff739d56cbbaa2b7c5a1ce51ab3e94cdefbc7fbc3ab455593b880e41a4"
+    "hash": "5c1a72c8f6a43540b517699fd1b641d4b49e3bbfe33149a368023df16aa87592"
   }
 ]

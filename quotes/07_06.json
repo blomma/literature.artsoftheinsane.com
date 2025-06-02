@@ -7,7 +7,6 @@
     "title": "Campfire and Battlefield\nAn Illustrated History of the Campaigns and Conflicts of the Great Civil War",
     "author": "Johnson, Rossiter, 1840-1931; Connor, Selden, 1839-; Gordon, John Brown, 1832-1904; Howard, Henry W. B. (Henry Ward Beecher), 1849-1906; Howard, O. O. (Oliver Otis), 1830-1909; Morgan, John Tyler, 1824-1907; Ridpath, John Clark, 1840-1900",
     "gutenbergReference": "47746",
-    "matchType": 1,
     "hash": "8f5382de429940910b20529dff74edd267fcc00aa9ab446e9251c9f94a78fafd"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "75138",
-    "matchType": 1,
     "hash": "76b04d30c61185cdf4d9947cbcf867e583d7a300b2395d93fa469bcd8337978d"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Great Men and Famous Women. Vol. 2\r\nA series of pen and pencil sketches of the lives of more than 200 of the most prominent personages in History",
     "author": "Horne, Charles F. (Charles Francis), 1870-1942 [Editor]",
     "gutenbergReference": "26422",
-    "matchType": 1,
     "hash": "08476ad94e76b6c9ed340e88c827086f67c0c98ce254e97c9234d281f27863d0"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Quaint and Historic Forts of North America",
     "author": "Hammond, John Martin, 1886-1939",
     "gutenbergReference": "54746",
-    "matchType": 1,
     "hash": "7c34e3b51739d8a31cd83fce4dd24f0f8a589cd447e1d6c166325ca7193fdead"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Mark Twain's Letters — Complete (1853-1910)",
     "author": "Twain, Mark, 1835-1910; Paine, Albert Bigelow, 1861-1937 [Compiler]",
     "gutenbergReference": "3199",
-    "matchType": 1,
     "hash": "f14a644b6045bc32a0b29918be4a1f83610024c37fb82de1bd408ea2e2561afd"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Mark Twain's Letters — Volume 4 (1886-1900)",
     "author": "Twain, Mark, 1835-1910; Paine, Albert Bigelow, 1861-1937 [Compiler]",
     "gutenbergReference": "3196",
-    "matchType": 1,
     "hash": "46cbbdcdd795b218e4ccb24cd78848263799ccd8a1f724b13b40d903924b0025"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Astronomy for Amateurs",
     "author": "Flammarion, Camille, 1842-1925; Welby, Frances A. (Frances Alice), 1862-1947 [Translator]",
     "gutenbergReference": "25267",
-    "matchType": 2,
     "hash": "382c77d85ffb9bfb624b9b754632f7af2ec83bea5918c5185c3420d9d0e4a0f8"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Entire Project Gutenberg Works of Mark Twain",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3200",
-    "matchType": 1,
     "hash": "8f36eefd078d8ec439d38c2f64564ac4e82a7294e6408763a2ea3836df273e29"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "6ae191bbada35e261e6660d081ecd4446bc1f4a5d4c8490141f5907e5b213d5a"
   },
   {
@@ -18,7 +17,6 @@
     "title": "A Knyght Ther Was",
     "author": "Young, Robert F., 1915-1986; Summers, Leo, 1925-1985 [Illustrator]",
     "gutenbergReference": "30963",
-    "matchType": 2,
     "hash": "68bc12cbb0ca2b20a5e6474df2db842dc2b485ad67e5e990b74296daf45add88"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "dfd25fc4ae8e8c13f2f27e6e5e5b73e8e25a5f458610404b2dc34dc34a57a6d9"
   }
 ]

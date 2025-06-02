@@ -7,7 +7,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "8edfa5ce91de1d261469114b6b63392eca88cae45ea07fac0d12b56cf2faf404"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Thirty-Nine Steps",
     "author": "Buchan, John, 1875-1940",
     "gutenbergReference": "558",
-    "matchType": 2,
     "hash": "ba8efdd17d18e1c4b7fddae62c4b821ca60445a2fd11e75f497f46965c5093b1"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Campaign of Sedan: The Downfall of the Second Empire, August-September 1870",
     "author": "Hooper, George, 1824-1890",
     "gutenbergReference": "54823",
-    "matchType": 2,
     "hash": "3e163d1ea4a577a7bd3878148aaabc93205991a21cbadbdbd17e21bf47a9b424"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The History of the British Post Office",
     "author": "Hemmeon, Joseph Clarence, 1880-",
     "gutenbergReference": "42983",
-    "matchType": 2,
     "hash": "c2fa30ecbb8199ad0bb83e891f20d919074f62e38f2911ec7fa8df9932696025"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Railroad Accidents, Their Cause and Prevention",
     "author": "Richards, R. C. (Ralph Coffin), 1855-",
     "gutenbergReference": "38731",
-    "matchType": 2,
     "hash": "4c2a22582d14fcecfc84d4b66a6a1a8bd36b5565019661902be02873ef260f63"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "63a0cc21a9cd9849478a9ad208b489ea2acf1419cf12603ce92a945cd4f4d2b7"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Round the Block: An American Novel",
     "author": "Bouton, John Bell, 1830-1902",
     "gutenbergReference": "12243",
-    "matchType": 1,
     "hash": "2b6536991377354abf9e45d9610e9933401736702da987d9cd8a4b14186ad695"
   },
   {
@@ -29,7 +27,6 @@
     "title": "At the Sign of the Silver Flagon",
     "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
     "gutenbergReference": "53062",
-    "matchType": 1,
     "hash": "869541348674256bb03b3844d631d3aac8f2dbde329c13d62875488a50ae4ddf"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Birds of Heaven, and Other Stories",
     "author": "Korolenko, Vladimir Galaktionovich, 1853-1921; Manning, Clarence Augustus, 1893-1972 [Translator]",
     "gutenbergReference": "60256",
-    "matchType": 1,
     "hash": "045ea0835b0bbf867d37fc57c1b5a55e56d486d81e4f1c2542c3567c251e0b88"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Strange Case of Mortimer Fenley",
     "author": "Tracy, Louis, 1863-1928",
     "gutenbergReference": "26447",
-    "matchType": 2,
     "hash": "b66b40a535c1a02122828c391a16552bb1b54b38964299a17c73febabc9af893"
   }
 ]

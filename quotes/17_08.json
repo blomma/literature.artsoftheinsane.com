@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, July 1885, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55444",
-    "matchType": 2,
     "hash": "19b301adf0415a73e5fc27c9a64b034241c1fa055586fcb34b3cd5c25823db07"
   },
   {
@@ -16,10 +15,9 @@
     "quoteTime": "eight minutes after five",
     "quoteLast": ". I'd just come up to take a look-see, and saw him just about two miles away, on the surface, and moving right along. So I went under to get into a good position, came up again, and let him have one.",
     "title": "World's War Events $v Volume 3\r\nBeginning with the departure of the first American destroyers for service abroad in April, 1917, and closing with the treaties of peace in 1919.",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "16513",
-    "matchType": 1,
-    "hash": "6df580313fbdcfde7d44457b655e2dc2b8a93eb9e7ec2ec3f47f07147909daa6"
+    "hash": "5f2461b557d298fcad7198cdf4da0f7fe2a45d79a23626a0692056f60ae9a578"
   },
   {
     "time": "17:08",
@@ -29,7 +27,6 @@
     "title": "My Memoirs, Vol. VI, 1832 to 1833",
     "author": "Dumas, Alexandre, 1802-1870; Waller, E. M. (Emily Mary) [Translator]",
     "gutenbergReference": "51105",
-    "matchType": 1,
     "hash": "5916dcf48831d81482315d769d7c4e24c9beb6d7dba3c7741bb947a6d2eab779"
   },
   {
@@ -40,7 +37,6 @@
     "title": "History of the World War",
     "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945",
     "gutenbergReference": "18993",
-    "matchType": 2,
     "hash": "ccbcb713973511a54eefdfbf9fe5476a9acbd774b447d8767a6cf7167689a990"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Vivisectors' Directory\r\nBeing a list of the licensed vivisectors in the United Kingdom, together with the leading physiologists in foreign laboratories",
     "author": "Bryan, Benjamin, 1840- [Editor]; Cobbe, Frances Power, 1822-1904 [Author of introduction, etc.]",
     "gutenbergReference": "54233",
-    "matchType": 2,
     "hash": "52115a7671713de0124b875b0244e2692ce002ae037dcbc5ffe429a5dd5202a1"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Yellowstone via Gallatin Gateway Montana",
     "author": "Chicago, Milwaukee, St. Paul, and Pacific Railroad Company",
     "gutenbergReference": "46305",
-    "matchType": 2,
     "hash": "b7534879d38354d9925fee29151ea2f40da6e323cf5b8fcf269b4563ea53e67d"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Chautauquan, Vol. 04, January 1884\r\nA Monthly Magazine Devoted to the Promotion of True Culture.\r\nOrgan of the Chautauqua Literary and Scientific Circle.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "53652",
-    "matchType": 2,
     "hash": "302214f0617f81f86e8c2e45d8fc3486bdb03230fc8b91ca229d3dcd0c6c5370"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Beyond These Voices",
     "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
     "gutenbergReference": "54247",
-    "matchType": 1,
     "hash": "2954263b8407a1bf5757679df3dc9132a01d549f947e9dccdfe872f668e55dff"
   },
   {
@@ -95,7 +87,6 @@
     "title": "New York Times Current History; The European War, Vol 2, No. 2, May, 1915\nApril-September, 1915",
     "author": "Various",
     "gutenbergReference": "15479",
-    "matchType": 2,
     "hash": "d9e208d0fbd4f3d5087b2fb690f0542592c6662c4970eab7c3ca8e5b111232a9"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Desert Mounted Corps\r\nAn Account of the Cavalry Operations in Palestine and Syria 1917-1918",
     "author": "Preston, R. M. P. (Richard Martin Peter), 1884-1965; Chauvel, Henry George, Sir, 1865-1945 [Author of introduction, etc.]",
     "gutenbergReference": "54964",
-    "matchType": 1,
     "hash": "cb092f13e00cf0522828e3dc203fffef2141b0ecb165f635750420dd08797813"
   },
   {
@@ -117,7 +107,6 @@
     "title": "The Chautauquan, Vol. 05, November 1884, No. 2",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55241",
-    "matchType": 2,
     "hash": "88034cf7a20235b3f24930e772e2292c2e83552c9af2e8515e7ac1848b2b3e74"
   },
   {
@@ -128,7 +117,6 @@
     "title": "History of the World War, Volume 2 (of 7)",
     "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945; Hare, James H., 1856-1946 [Photographer]; Thompson, Donald C., 1885-1947 [Photographer]",
     "gutenbergReference": "74727",
-    "matchType": 2,
     "hash": "43b9a5fa92e949bd8166f3f386181394c5ca4dd780fdb884e70e503488d3673c"
   }
 ]

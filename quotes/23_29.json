@@ -7,7 +7,6 @@
     "title": "Around the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "103",
-    "matchType": 1,
     "hash": "6ac1c4f440fc54e4ee71e1b4c4478af328db5b66c5b5db3b392fcd7a513f904b"
   },
   {
@@ -18,7 +17,6 @@
     "title": "David Blaize and the Blue Door",
     "author": "Benson, E. F. (Edward Frederic), 1867-1940; Ford, H. J. (Henry Justice), 1860-1941 [Illustrator]",
     "gutenbergReference": "48505",
-    "matchType": 2,
     "hash": "2eba6049c9f260e4ff34b0d9cf9784384d6fc44f5516854ca25f7a38684148ac"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
-    "matchType": 2,
     "hash": "ba4a61235cced0d09b281a6729f4393310bd6c71c5a5397c63c236ef441812eb"
   }
 ]

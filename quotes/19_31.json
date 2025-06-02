@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "2a4ed446a8bd8987793f785259ec726d9d94688414f0d8f64dd08fe0f17fa821"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "ed959ad3170295a3597ccc6309c7365e09018cdca84e9a30865194f7b9428305"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Boy Travellers in the Far East, Part Third\r\nAdventures of Two Youths in a Journey to Ceylon and India; With Descriptions of Borneo, the Philippine Islands and Burmah",
     "author": "Knox, Thomas Wallace, 1835-1896",
     "gutenbergReference": "58608",
-    "matchType": 0,
     "hash": "8acdd1fde6f504fe2fb7b184819ed103a03ffc3d9dc97ede34b6ee157209dd52"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "765bb9bf2fa8085c63a3589a6d8e9d583f57b42ca9b2392b657011be17a255ff"
   },
   {
@@ -51,7 +47,6 @@
     "title": "A Sketch of how \"The Diamond Anthem\" was Sung around the World\nThe 60th Anniversary of the Accession Day of Her Majesty Queen Victoria",
     "author": "Cumberland, Barlow, 1846-1913",
     "gutenbergReference": "49034",
-    "matchType": 2,
     "hash": "eff2f8fb2a5f4d236ea6c371bacbc8f4da827f67a18adf0acb9edaf561573e59"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "From the Earth to the Moon; and, Round the Moon",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "83",
-    "matchType": 1,
     "hash": "1f822f7eed7f3c7ac727c88441113ab8824507fd3cac224bda48ffa82f01bb6c"
   },
   {
@@ -18,7 +17,6 @@
     "title": "From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes: and a Trip Round It",
     "author": "Verne, Jules, 1828-1905; Hildibrand, Henri Théophile, 1824-1897 [Engraver]; Bayard, Émile Antoine, 1837-1891 [Illustrator]; Neuville, Alphonse Marie de, 1835-1885 [Illustrator]",
     "gutenbergReference": "44278",
-    "matchType": 1,
     "hash": "b96055310afeb0a5f3e1a9e26d7de322909401dfb38bb353fb655e78383ce2b3"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Moon-Voyage",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "12901",
-    "matchType": 1,
     "hash": "b9b343d0dbd6cca08bd22c732d5559a6b897de83995dfd9df487ded58ea59c5b"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Report on Unidentified Flying Objects",
     "author": "Ruppelt, Edward J., 1922-1960",
     "gutenbergReference": "17346",
-    "matchType": 2,
     "hash": "f861e54fa83346be7f05abdd3dbfaa6e337de9e2d82e70d3c696109f886949aa"
   }
 ]

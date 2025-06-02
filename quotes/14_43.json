@@ -7,7 +7,6 @@
     "title": "A voyage to the South Sea",
     "author": "Bligh, William, 1754-1817",
     "gutenbergReference": "15411",
-    "matchType": 1,
     "hash": "332c9f5444d59ca7fa3c3eef60127a694d02f37e061272467f96fb6c07ed1dc9"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Silverthorns",
     "author": "Molesworth, Mrs., 1839-1921; Paton, J. Noël (Joseph Noël), Sir, 1821-1901 [Illustrator]",
     "gutenbergReference": "43122",
-    "matchType": 1,
     "hash": "0c131f8e37a577fc204c92b64a428b547b0ceeec71251176aff9cb3ec5428b18"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Story of Our Submarines",
     "author": "Bower, John Graham, 1886-1940",
     "gutenbergReference": "40765",
-    "matchType": 2,
     "hash": "7b989ee52c0855cb21aa354a0c03c5b45a4e0fe870a2da68447e5dc8d5835406"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Judith of Blue Lake Ranch",
     "author": "Gregory, Jackson, 1882-1943; Dunton, W. Herbert, 1878-1936 [Illustrator]",
     "gutenbergReference": "18926",
-    "matchType": 1,
     "hash": "7833059fa6232b3a12cf44154b49a243cdd1b836937378c338c683a3ace6f78d"
   },
   {
@@ -51,7 +47,6 @@
     "title": "With the Battle Fleet\r\nCruise of the Sixteen Battleships of the United States Atlantic Fleet from Hampton Roads to the Golden Gate, December, 1907-May, 1908",
     "author": "Matthews, Franklin, 1858-1917; Reuterdahl, Henry, 1871-1925 [Illustrator]",
     "gutenbergReference": "41244",
-    "matchType": 2,
     "hash": "02d45b0bdc3e42df66fccb460567d15f6732eaf2439176d63e84c52710ea9cbe"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "f518cff0267283635017a428f654bb3b8faafe7c3aaada74d9ab09ceeaff9861"
   }
 ]

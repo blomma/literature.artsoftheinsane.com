@@ -7,7 +7,6 @@
     "title": "About orchids",
     "author": "Boyle, Frederick, 1841-1914",
     "gutenbergReference": "17155",
-    "matchType": 2,
     "hash": "d55e65fcf6abd0e8f2db57a24e1bda957f5734f39f366f816b87848b2261dae2"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Boating",
     "author": "Woodgate, Walter Bradford, 1842-1920; Dadd, Frank, 1851-1929 [Illustrator]",
     "gutenbergReference": "37462",
-    "matchType": 2,
     "hash": "b94b64ba0c6a3d844e86b99a37ef3eace84c2883287c865df6b089ce63597217"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Channings: A Story",
     "author": "Wood, Henry, Mrs., 1814-1887",
     "gutenbergReference": "9192",
-    "matchType": 1,
     "hash": "728f32eab004704fa940e00584e13410598a3ab875ef5a7effffbcdb4b25d72f"
   }
 ]

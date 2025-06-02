@@ -7,7 +7,6 @@
     "title": "The Letters of Robert Louis Stevenson — Volume 2",
     "author": "Stevenson, Robert Louis, 1850-1894",
     "gutenbergReference": "637",
-    "matchType": 2,
     "hash": "079368f8492f00a24e20ed3ef7d4e8f6743612620b32d6b8f532d52fcf7e3974"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "c6a1984cd2ae9bdf9446a4fda214d3dfcae0882006da2da9394a7cf146e90d33"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "90f4f747f7064ee7c3daf50e10fc738f9218771c56af5565f2482f2335e82aed"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Works of Robert Louis Stevenson - Swanston Edition, Vol. 24",
     "author": "Stevenson, Robert Louis, 1850-1894; Colvin, Sidney, 1845-1927 [Editor]; Lang, Andrew, 1844-1912 [Other]",
     "gutenbergReference": "31809",
-    "matchType": 2,
     "hash": "e6bd13a8c558ac0275c29efe3433ab99595ea2da1a32dd5f5c24cc57f4b3e4ab"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Red Thumb Mark",
     "author": "Freeman, R. Austin (Richard Austin), 1862-1943",
     "gutenbergReference": "11128",
-    "matchType": 2,
     "hash": "f3c29fad213d850dd31d26c825c96f022904fe3f63a0ddbbb206379945dea5e0"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Mr. Punch's Railway Book",
     "author": "May, Phil, 1864-1903 [Illustrator]; Hammerton, J. A. (John Alexander), 1871-1949 [Editor]; Cleaver, Reginald, 1870-1954 [Illustrator]; Du Maurier, George, 1834-1896 [Illustrator]; Keene, Charles, 1823-1891 [Illustrator]; Leech, John, 1817-1864 [Illustrator]; Partridge, Bernard, 1861-1945 [Illustrator]; Raven-Hill, L. (Leonard), 1867-1942 [Illustrator]; Reed, Edward Tennyson, 1860-1933 [Illustrator]; Tenniel, John, 1820-1914 [Illustrator]",
     "gutenbergReference": "35027",
-    "matchType": 2,
     "hash": "f62825ebf2ff7ed419ea1a692ba8a4195f15ad47293baaf3758285fd50827fd0"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Raemaekers' Cartoon History of the War, Volume 1\nThe First Twelve Months of War",
     "author": "Raemaekers, Louis, 1869-1956 [Illustrator]; Allison, James Murray, 1877-1929 [Editor]",
     "gutenbergReference": "34031",
-    "matchType": 1,
     "hash": "8e7b5213def005c8af68c3a44a3a768521e7fb7b7aca537398932f5825fa0a4d"
   }
 ]

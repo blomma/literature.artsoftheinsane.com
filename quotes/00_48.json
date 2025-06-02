@@ -7,7 +7,6 @@
     "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "75138",
-    "matchType": 1,
     "hash": "d59ac205ece9265d35c5e1ea185593811499a49e763945c6cc2f83196b5fcdd5"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Desperate Remedies",
     "author": "Hardy, Thomas, 1840-1928",
     "gutenbergReference": "3044",
-    "matchType": 0,
     "hash": "73bb88097ded11809e6d8c0be3c9bd60a668b241603bf327dd5c4f67432affed"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58030",
-    "matchType": 1,
     "hash": "156f3fbfe0c1f18d58d1cc0a53975135c14913d30b2dc69c5001ef45d341745e"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Passaic Flood of 1903",
     "author": "Leighton, Marshall Ora, 1874-1958",
     "gutenbergReference": "19878",
-    "matchType": 0,
     "hash": "58b8300747c4a385737835efa5a4075d2c874bce45bc358121b638edf53b90fe"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Passaic Flood of 1903",
     "author": "Leighton, Marshall Ora, 1874-1958",
     "gutenbergReference": "19878",
-    "matchType": 0,
     "hash": "d74d50eb11addeb26eb1fa4da0abae7cb0b9145b549ac671c1fae4ad8223290d"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Passaic Flood of 1903",
     "author": "Leighton, Marshall Ora, 1874-1958",
     "gutenbergReference": "19878",
-    "matchType": 0,
     "hash": "6979207c74591170bb1f814478f9e76da2f4451dac78233cfcf5522e009aaff9"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The World of Flying Saucers: A Scientific Examination of a Major Myth of the Space Age",
     "author": "Menzel, Donald H. (Donald Howard), 1901-1976; Boyd, Lyle Gifford, 1907-1982",
     "gutenbergReference": "66639",
-    "matchType": 2,
     "hash": "0dca39b3cb7e30cb7ae56dd72e3371e29df6ae3373843b42cd7551fbcf136552"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Report on the Migration of Birds in the Spring and Autumn of 1886. Eighth Report\r\n(Vol. II, No. 3.)",
     "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
     "gutenbergReference": "66032",
-    "matchType": 0,
     "hash": "5eee18a34cd9b4f93003826fbce2e6366d8e1f3ffff4355f948a2afa3fda0022"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Report on the Migration of Birds in the Spring and Autumn of 1886. Eighth Report\r\n(Vol. II, No. 3.)",
     "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
     "gutenbergReference": "66032",
-    "matchType": 0,
     "hash": "6cc9ecddb0c53e3efdabfce4c673d0ab43271245ff1fc906bf97e0a62c660eb5"
   },
   {
@@ -106,7 +97,6 @@
     "title": "Report on the Migration of Birds in the Spring and Autumn of 1886. Eighth Report\r\n(Vol. II, No. 3.)",
     "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
     "gutenbergReference": "66032",
-    "matchType": 0,
     "hash": "fc8421e20a88e746507ceb70a7cd73f96c13072374e026f7219e6d9b832f94eb"
   },
   {
@@ -117,7 +107,6 @@
     "title": "The Crow's Inn tragedy",
     "author": "Haynes, Annie, 1864-1929",
     "gutenbergReference": "75307",
-    "matchType": 1,
     "hash": "72ace4abf4887beb2b05c96696cfce0d0b75ed0b4be5babf69777c7d092b4ee0"
   },
   {
@@ -128,7 +117,6 @@
     "title": "Hertzian Wave Wireless Telegraphy",
     "author": "Fleming, J. A. (John Ambrose), Sir, 1849-1945",
     "gutenbergReference": "38526",
-    "matchType": 0,
     "hash": "b209bbc1f147e07be6c9c1814159c1b270be048de163ab809d8ff9d76a0838db"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Money Moon: A Romance",
     "author": "Farnol, Jeffery, 1878-1952",
     "gutenbergReference": "10418",
-    "matchType": 1,
     "hash": "7a975763ab203cfb1277840955a26a216e203bc6b4f088ec1e131b179a1ec049"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, May 1884, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55158",
-    "matchType": 2,
     "hash": "74e776be221acaa316f07fdc9b58926fc3358134ef82db729344a0ef5d19a263"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Story of the Atlantic Telegraph",
     "author": "Field, Henry M. (Henry Martyn), 1822-1907",
     "gutenbergReference": "34765",
-    "matchType": 1,
     "hash": "2f495d74f81f17e50ac2f751dffd8df5ec45727c01db1b8f6df7ea9432733658"
   }
 ]

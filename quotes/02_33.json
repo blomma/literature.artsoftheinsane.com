@@ -7,7 +7,6 @@
     "title": "Around the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "103",
-    "matchType": 1,
     "hash": "6d50a9a126dc6fc26cc878109be72fe06ebf659f62441800762b8430f4714621"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Ancient Britain and the Invasions of Julius Caesar",
     "author": "Holmes, T. Rice (Thomas Rice), 1855-1933",
     "gutenbergReference": "57336",
-    "matchType": 2,
     "hash": "bd9d75643cf8dbbd0e1ad7f6358f233bfd381c1c383683849ed5719b7e8c1a50"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Strictly Business: More Stories of the Four Million",
     "author": "Henry, O., 1862-1910",
     "gutenbergReference": "2141",
-    "matchType": 1,
     "hash": "a68c438cce02951838f9ea3b1eae486c771f3b62af7d2bd6b26841aa82b7965f"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "79d4a736ea14d3cf5703057268cd319e665daa6071670003155c807cbf2d9db0"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Around the World in Eighty Days. Junior Deluxe Edition",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "2154",
-    "matchType": 1,
     "hash": "d60a5ac9d0e6dc54a1e39895bb8770166937c631b508a31ab52190e04dca570a"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Rudin: A Novel",
     "author": "Turgenev, Ivan Sergeevich, 1818-1883; Garnett, Constance, 1861-1946 [Translator]",
     "gutenbergReference": "6900",
-    "matchType": 1,
     "hash": "76c77c8a9e0be8c967b45610857d68d964b83534ea90fd232450f8eab4fcb088"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Story of the Rome, Watertown, and Ogdensburg Railroad",
     "author": "Hungerford, Edward, 1875-1948",
     "gutenbergReference": "39021",
-    "matchType": 2,
     "hash": "9d92d0851bdfdce7953a96c47462dceebcbbe8c8d0b7fd2ffbb5d439daa03110"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Fanny Herself",
     "author": "Ferber, Edna, 1885-1968",
     "gutenbergReference": "350",
-    "matchType": 1,
     "hash": "71606df26214e615d8999e40a158d275c951a56d137239261545fb67ba574d26"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Through British Guiana to the summit of Roraima",
     "author": "Clementi, Cecil, Mrs.",
     "gutenbergReference": "62513",
-    "matchType": 2,
     "hash": "5e9cdb75c28f7f7130faae111f6c4ac333b575924bbc731c6a0d9d63cde902db"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "0747ade4326c7de6eeea508f72b84323a655cae23af9428306e5fec75bd6dfaf"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Peregrine's Progress",
     "author": "Farnol, Jeffery, 1878-1952",
     "gutenbergReference": "7059",
-    "matchType": 1,
     "hash": "b251b083877bd8b6d2b3bb3d2e748a3757aec74980ad6a4da5d6fedcd94a023c"
   }
 ]

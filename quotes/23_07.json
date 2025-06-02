@@ -7,7 +7,6 @@
     "title": "The Works of Edgar Allan Poe — Volume 1",
     "author": "Poe, Edgar Allan, 1809-1849; Lowell, James Russell, 1819-1891 [Contributor]; Willis, Nathaniel Parker, 1806-1867 [Contributor]",
     "gutenbergReference": "2147",
-    "matchType": 1,
     "hash": "4ac6c927449e7da0ea449013862b937c15a9c11639378e792dec893572d62993"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Adventure Club Afloat",
     "author": "Barbour, Ralph Henry, 1870-1944; Caswell, Edward C., 1879-1963 [Illustrator]",
     "gutenbergReference": "13897",
-    "matchType": 1,
     "hash": "7f39b204811b34e6b5d3d16898a15997f3bb16c4fb4c592ae7a688c432c79fbf"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Natural History of Cottonmouth Moccasin, Agkistrodon piscovorus (Reptilia)",
     "author": "Burkett, Ray D., 1938-",
     "gutenbergReference": "38308",
-    "matchType": 2,
     "hash": "01256a7c86b6cae073c6e255bb7cfe63a256a165c8f10f324da8c89568749075"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Works of Lord Byron: Letters and Journals. Vol. 2",
     "author": "Byron, George Gordon Byron, Baron, 1788-1824; Prothero, Rowland E. (Rowland Edmund), Baron Ernle, 1851-1937 [Editor]",
     "gutenbergReference": "9921",
-    "matchType": 1,
     "hash": "649993f267886c71ce94a8a743bd7a74985af343e744317219ae765e73263222"
   },
   {
@@ -51,7 +47,6 @@
     "title": "\"No Clue!\": A Mystery Story",
     "author": "Hay, James, 1881-1936",
     "gutenbergReference": "26396",
-    "matchType": 1,
     "hash": "e2921f5d0cefce31eea7c807ddfa5a28e81d1dfccf0616659df8709592cf000e"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Love Romances of the Aristocracy",
     "author": "Hall, Thornton, 1858-",
     "gutenbergReference": "14193",
-    "matchType": 1,
     "hash": "91e5098f7f66e679a1388d08830a1cc499682814ced58f70858a31341b21d017"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Wives of the Prime Ministers, 1844-1906",
     "author": "Lee, Elizabeth, 1858?-1920; Masterman, Lucy, 1884-1977",
     "gutenbergReference": "50035",
-    "matchType": 1,
     "hash": "41c74db9ad1e4f593785fedfec75e1bee0f87fcf3de253bbdfc60fda9bb626db"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Works of Edgar Allan Poe, The Raven Edition\nTable Of Contents And Index Of The Five Volumes",
     "author": "Poe, Edgar Allan, 1809-1849",
     "gutenbergReference": "25525",
-    "matchType": 1,
     "hash": "bf3b2dbc991f529d570b717376778fae077580cbdce088cf89e37cc438f40514"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Cruise of the Alabama and the Sumter\r\nFrom the Private Journals and Other Papers of Commander R. Semmes, C.S.N., and Other Officers",
     "author": "Semmes, Raphael, 1809-1877",
     "gutenbergReference": "13163",
-    "matchType": 1,
     "hash": "1a8339d515902fe32d9eac4eaeaae047a612b4d8c877f369d78767e004cb9d62"
   }
 ]

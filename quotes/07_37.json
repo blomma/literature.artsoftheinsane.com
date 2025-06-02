@@ -7,7 +7,6 @@
     "title": "The Joy of Life [La joie de vivre]",
     "author": "Zola, Émile, 1840-1902; Vizetelly, Ernest Alfred, 1853-1922 [Editor]",
     "gutenbergReference": "56541",
-    "matchType": 1,
     "hash": "7bdd0fd15a49cb8d3ce769e59985d3058e428d64ac99ad023b2b767364abd6fa"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Joy of Life [La joie de vivre]",
     "author": "Zola, Émile, 1840-1902; Vizetelly, Ernest Alfred, 1853-1922 [Editor]",
     "gutenbergReference": "56541",
-    "matchType": 1,
     "hash": "9d3bdb41cf28dba2c751ebd0bf46d36861582f822f3661f571217c940532bd9e"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Story of Eclipses",
     "author": "Chambers, George F. (George Frederick), 1841-1915",
     "gutenbergReference": "24222",
-    "matchType": 2,
     "hash": "fbfe818da75c1ff6e6867f243f554913a2228f82460e89c756b51c18879f6be0"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
-    "matchType": 2,
     "hash": "8f3622f57bfa6431cfac104b0079ff3c6cb9613d569ef7126a575ff8102729b8"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Canada in Flanders, Volume II",
     "author": "Beaverbrook, Max Aitken, Baron, 1879-1964",
     "gutenbergReference": "46115",
-    "matchType": 2,
     "hash": "63b48547dbea058ee12b67342087201630efeaf8c4ca659c08b21aec9b93355a"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Three Men and a Maid",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "6836",
-    "matchType": 1,
     "hash": "73375c18fd7e1673e503ae8e8a3fc20bca767eef5b36419cd8cf9054b6d15d88"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Murder by the clock",
     "author": "King, Rufus, 1893-1966",
     "gutenbergReference": "75500",
-    "matchType": 2,
     "hash": "650deb23956129e57cbc1cc74262105381be78fe7ef5fb6b061dccec069e766a"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Murder by the clock",
     "author": "King, Rufus, 1893-1966",
     "gutenbergReference": "75500",
-    "matchType": 2,
     "hash": "280614124c690c1d84872e417f8cc5cb25ce6721aab79d8b1c8217d43af9f7e9"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Girl on the Boat",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "20717",
-    "matchType": 1,
     "hash": "ebb805b2abb6cfc0c55c9c4b8952742f1a7382471024f95d5997785f45f5e814"
   }
 ]

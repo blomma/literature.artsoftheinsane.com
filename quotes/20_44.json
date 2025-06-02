@@ -7,7 +7,6 @@
     "title": "Around the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "103",
-    "matchType": 1,
     "hash": "3a43d35e81fc8fbc4949b865724b4df0809c35d7b7efdb13dd9e42a8e1a348ff"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The House of Mystery: An Episode in the Career of Rosalie Le Grange, Clairvoyant",
     "author": "Irwin, Will, 1873-1948; Yohn, F. C. (Frederick Coffay), 1875-1933 [Illustrator]",
     "gutenbergReference": "12678",
-    "matchType": 1,
     "hash": "8bd0acfe5492e786087c8051c312cd8361ac148f1fcc7ec48af522cbf5002a56"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Story of Our Submarines",
     "author": "Bower, John Graham, 1886-1940",
     "gutenbergReference": "40765",
-    "matchType": 2,
     "hash": "f1e6c550f7ae1498ac238cc077ff3ec5f06c654481047264e46895ea13707b20"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Around the World in Eighty Days. Junior Deluxe Edition",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "2154",
-    "matchType": 1,
     "hash": "6c8aee4350ecd10233efc77be843d79ca4cafe54df2eed35a16ef99a68119567"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Leardo Map of the World, 1452 or 1453\nIn the Collections of the American Geographical Society",
     "author": "Wright, John Kirtland, 1891-1969; Hoen, Albert Berthold [Contributor]",
     "gutenbergReference": "53480",
-    "matchType": 2,
     "hash": "cddd50322405ba72a2f93a8f0f7637d37121cad7fc3ddc4f1a16995ee37e471e"
   }
 ]

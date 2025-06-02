@@ -7,7 +7,6 @@
     "title": "Norfolk Annals, Vol. 1\r\nA Chronological Record of Remarkable Events in the Nineteeth Century",
     "author": "Mackie, Charles, 1858?-1940",
     "gutenbergReference": "34439",
-    "matchType": 2,
     "hash": "9a9a15b2918c85a9e07006e9e47204214ced333243fe180e4290d3da9d8e706b"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55331",
-    "matchType": 2,
     "hash": "801261eed211c89c37cfb6986d76734c3f4307bfbc1e15f45113ce76853c64a0"
   },
   {
@@ -29,7 +27,6 @@
     "title": "When Sarah Went to School",
     "author": "Singmaster, Elsie, 1879-1958",
     "gutenbergReference": "47614",
-    "matchType": 1,
     "hash": "ead554b5c182e3a904d128818b6bcaf798358c95419508d9e87ad52919e47081"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "d96a6879812204e0e9eb90276023eb1b55d8cf4325290bb8fdcea2d0c677a2b2"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Story of Louis Riel: The Rebel Chief",
     "author": "Collins, J. E. (Joseph Edmund), 1855-1892",
     "gutenbergReference": "10399",
-    "matchType": 1,
     "hash": "cc1c975d0c4049d72b510fa5c0aabf180caed31b75527bae11b6f86a0f43f62a"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The English of military communications",
     "author": "Ganoe, William Addleman, 1881-1966",
     "gutenbergReference": "71741",
-    "matchType": 2,
     "hash": "55093d58ba20c19708740fa32ddd823173d169d0a50547b5f506f3b5dbc9986d"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "9cd9424530814a89b528c01158d712a08c802ed2cd8f2b59182cf63ef4ba8bb5"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Hong Kong",
     "author": "Gleason, Gene, 1914-1987",
     "gutenbergReference": "62191",
-    "matchType": 2,
     "hash": "99e9d0b095db5bfba24b139390ee140a8f70b628db42ff129837ebf4aee4770b"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Plague of Pythons",
     "author": "Pohl, Frederik, 1919-2013; Ritter, Bob [Illustrator]",
     "gutenbergReference": "51804",
-    "matchType": 2,
     "hash": "c82084d1c9b74afcdd4b8913d82a305ac68e8f806d478dd284c0de3a7be16708"
   },
   {
@@ -106,7 +97,6 @@
     "title": "Plague of Pythons",
     "author": "Pohl, Frederik, 1919-2013; Ritter, Bob [Illustrator]",
     "gutenbergReference": "51804",
-    "matchType": 2,
     "hash": "7f0d32b712c262aeac2fc0ef68300ac23843c3f9a952f2bd2542d38a64e1af3c"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "37d47a586db8da0fa27243d91289e835888899afb899e94af9dc504f63efa72b"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Boy Patrol on Guard",
     "author": "Ellis, Edward Sylvester, 1840-1916; Prittie, Edwin John, 1879-1963 [Illustrator]",
     "gutenbergReference": "43079",
-    "matchType": 1,
     "hash": "84bb8053063b5e205aef063b6ace000eb8cb16feda6fa377e990f10ed08b0bf1"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Mosquito Fleet",
     "author": "Keating, Bern, 1915-2004",
     "gutenbergReference": "65550",
-    "matchType": 2,
     "hash": "012bf2684a87c8bbb76ac41c4cd8e2f6696441819cc5d434a38938b2e4868f77"
   }
 ]

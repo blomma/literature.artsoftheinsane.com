@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "1c26dc9897559018efa2ee2ce3f27fe5fe8836376e268cbceaa42d6616e9769f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "84685afb02a8787e0b4aadcd0e74bb740e15185f3d291f0d787b72f02d4145c3"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Immortals: Masterpieces of Fiction, Crowned by the French Academy — Complete",
     "author": "Various",
     "gutenbergReference": "4000",
-    "matchType": 1,
     "hash": "45b6d30e531efb345a324e7f75381705788fab4d1a70cffbe663e389b744cb82"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Rapids",
     "author": "Sullivan, Alan, 1868-1947",
     "gutenbergReference": "25774",
-    "matchType": 1,
     "hash": "e09b3cb249063adf7cacfcb7f24112c9812d7ecb6c355f3f3465614ec5740f9d"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Are Parents People?",
     "author": "Miller, Alice Duer, 1874-1942",
     "gutenbergReference": "64917",
-    "matchType": 1,
     "hash": "71467a37788e1f3c1274e9d5b51c03a9f45b0ce768ac8cba1a3e5d1160dc01e8"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Ink-Stain (Tache d'encre) — Volume 2",
     "author": "Bazin, René, 1853-1932",
     "gutenbergReference": "3973",
-    "matchType": 1,
     "hash": "48797fe04be5aa1b10359861935c66b38995bac9de546ae573d407e6611a2459"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Ink-Stain (Tache d'encre) — Complete",
     "author": "Bazin, René, 1853-1932",
     "gutenbergReference": "3975",
-    "matchType": 1,
     "hash": "86cefdbeae4b77635754a7c46019183bb1f1de8a6197bea34eb90d1da6026372"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Pee-wee Harris in camp",
     "author": "Fitzhugh, Percy Keese, 1876-1950; Barbour, Harold S., 1889-1961 [Illustrator]",
     "gutenbergReference": "72220",
-    "matchType": 1,
     "hash": "99303dea41bb15f9c61d50a16849c5999c3bbd38fc822c99b0cec992de28bfab"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Sins of Séverac Bablon",
     "author": "Rohmer, Sax, 1883-1959",
     "gutenbergReference": "21879",
-    "matchType": 1,
     "hash": "98a39383c2b0b0fcf31d671af3d0546120f38c56255e633de55e738038156a53"
   }
 ]

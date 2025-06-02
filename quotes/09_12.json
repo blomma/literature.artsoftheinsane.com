@@ -7,7 +7,6 @@
     "title": "Coaching, with Anecdotes of the Road",
     "author": "Lennox, William Pitt, Lord, 1799-1881",
     "gutenbergReference": "43093",
-    "matchType": 1,
     "hash": "2d641588de7b8e548b087ed1121319187b6fdc7d924e8059344fd44d8c9301ad"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Galaxy Primes",
     "author": "Smith, E. E. (Edward Elmer), 1890-1965",
     "gutenbergReference": "20898",
-    "matchType": 1,
     "hash": "1881bc3e4fc3a361c60cf050fff957d163af0735d57599fced18e0a51b48716c"
   },
   {
@@ -29,7 +27,6 @@
     "title": "McKinlay's Journal of Exploration in the Interior of Australia",
     "author": "McKinlay, John, 1819-1872",
     "gutenbergReference": "13248",
-    "matchType": 2,
     "hash": "efd519cf34b3454aff43d822f7fd3d0db25b4f7fea19e78c9242fea2ec3dae46"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Botchan (Master Darling)",
     "author": "Natsume, Soseki, 1867-1916; Mori, Yasotaro, 1882-1959 [Translator]",
     "gutenbergReference": "8868",
-    "matchType": 1,
     "hash": "326b389341e208118be318723b05120b671168e1bf8e882ffbd9b4fc33908d21"
   },
   {
@@ -51,7 +47,6 @@
     "title": "An Englishman in Paris: Notes and Recollections",
     "author": "Vandam, Albert D. (Albert Dresden), 1843-1903",
     "gutenbergReference": "32343",
-    "matchType": 2,
     "hash": "be9b59744f875c7081d13de1b509e8d2b4036a0d1e5b8364e9f5ea4f0c0e3528"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Warren Commission (13 of 26): Hearings Vol. XIII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "57111",
-    "matchType": 2,
     "hash": "939c32a3d05780f5630c7e66c17164ac94cbd7f80867eb7dae102865c36f140e"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Adventures of Jimmie Dale",
     "author": "Packard, Frank L. (Frank Lucius), 1877-1942",
     "gutenbergReference": "1218",
-    "matchType": 1,
     "hash": "ae86ff21cf21fbecdd5b20baf326686299432bdf2ac422f35890373497396d3b"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Immortals: Masterpieces of Fiction, Crowned by the French Academy — Complete",
     "author": "Various",
     "gutenbergReference": "4000",
-    "matchType": 1,
     "hash": "a05bf8c64c602d4158af54a41ae93a7c4a5b44815eaa35e33cafa4f99d6522a7"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Creatures of the Abyss",
     "author": "Leinster, Murray, 1896-1975",
     "gutenbergReference": "42901",
-    "matchType": 1,
     "hash": "ca126e40dfd41e756f692e2df92fe51f38f7c5226cb3cb696dfc53a2b5cb4fc9"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Ink-Stain (Tache d'encre) — Complete",
     "author": "Bazin, René, 1853-1932",
     "gutenbergReference": "3975",
-    "matchType": 1,
     "hash": "41c722834ea5c28dbfca6afdaba3f70e57510ab3d2d5fc880ef17d2e782c1b6c"
   },
   {
@@ -117,7 +107,6 @@
     "title": "Four Afloat: Being the Adventures of the Big Four on the Water",
     "author": "Barbour, Ralph Henry, 1870-1944",
     "gutenbergReference": "37021",
-    "matchType": 1,
     "hash": "4eedef1c1ea073385adddb42ca91e0d2b4707126226091be605d45c11b3f0a8f"
   },
   {
@@ -128,7 +117,6 @@
     "title": "The Ink-Stain (Tache d'encre) — Volume 3",
     "author": "Bazin, René, 1853-1932",
     "gutenbergReference": "3974",
-    "matchType": 1,
     "hash": "492b755f70119d91f4cecf4e4252dc33ef443d33b607b7b23ec578e1cf0ee1aa"
   }
 ]

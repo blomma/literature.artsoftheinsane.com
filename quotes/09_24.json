@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "23e31de473b19bf6cd691b745c0b7d151d1022a239b2e28061edc8f9dc513f5f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "cc46de17dafeaea686952ce9588c23e86059573066fbe268ceb4aa2bc5c5cb7b"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Memoirs of Jacques Casanova de Seingalt, Vol. V (of VI), \"In London and Moscow\"\r\nThe First Complete and Unabridged English Translation, Illustrated with Old Engravings",
     "author": "Casanova, Giacomo, 1725-1798; Machen, Arthur, 1863-1947 [Translator]",
     "gutenbergReference": "39305",
-    "matchType": 1,
     "hash": "9a45d289c5119cc1cf9325af8f337c79e2c5df858e29ec4100cc413b9d122abe"
   },
   {
@@ -40,7 +37,6 @@
     "title": "How It Flies; or, The Conquest of the Air\r\nThe Story of Man's Endeavors to Fly and of the Inventions by Which He Has Succeeded",
     "author": "Ferris, Richard",
     "gutenbergReference": "55268",
-    "matchType": 2,
     "hash": "3b3348ea3d64257b63e2068939705a7389c9cfb36a7f556fe832d41c83cf8dfd"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "8603792d82eb7ca9f15951fa9d68d6536ac001797fb23cb95d69a85b3c5b31fe"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Letters of Felix Mendelssohn to Ignaz and Charlotte Moscheles",
     "author": "Mendelssohn-Bartholdy, Felix, 1809-1847; Moscheles, Felix, 1833-1917 [Translator]",
     "gutenbergReference": "51750",
-    "matchType": 1,
     "hash": "4367423711135427bfc13880fab98d01c2f913112e7ad34126b884cc6029e550"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Complete",
     "author": "Casanova, Giacomo, 1725-1798; Machen, Arthur, 1863-1947 [Translator]",
     "gutenbergReference": "2981",
-    "matchType": 1,
     "hash": "4bdb577404af5d022be4beba34e1b82a8d42ef41322ff5d2ec8b42fa976f15ec"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Volume 25: Russia and Poland",
     "author": "Casanova, Giacomo, 1725-1798; Machen, Arthur, 1863-1947 [Translator]",
     "gutenbergReference": "2975",
-    "matchType": 1,
     "hash": "57c7eb567f566c42fd35f3358ab9efbb34e579f2055f79ea6e115393ee67c1e0"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Fragments of an Autobiography",
     "author": "Moscheles, Felix, 1833-1917",
     "gutenbergReference": "33185",
-    "matchType": 1,
     "hash": "7a23d3691f74b6d0a61d9bd5ef3ff959dc41bf9723eba0342434df5b10b2e3f3"
   }
 ]

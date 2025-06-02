@@ -1,179 +1,63 @@
 [
   {
     "time": "18:15",
-    "quoteFirst": "In the evening about a ",
-    "quoteTime": "quarter past six",
-    "quoteLast": " eight infantrymen climbed over the high railings of the garden and crept across the lawn to the house. They entered by the back door.",
-    "title": "An outlaw's diary: revolution",
-    "author": "Tormay, Cécile, 1876-1937; Northumberland, Alan Ian Percy, Duke of, 1880-1930 [Author of introduction, etc.]",
-    "gutenbergReference": "69121",
-    "matchType": 1,
-    "hash": "f43c14bf67c81c4045f2adb6c408c6958e09622372a968b8265079dca90a2346"
+    "quoteFirst": "\"",
+    "quoteTime": "Quarter-past six",
+    "quoteLast": ",\" replied the Sub, without making the least effort to stifle a prodigious yawn.",
+    "title": "The Pirate Submarine",
+    "author": "Westerman, Percy F. (Percy Francis), 1876-1959",
+    "gutenbergReference": "61899",
+    "hash": "1fb9697aa3f29c64dd155f65ebfe79843051f98e68465bdd53b065d76a92635a"
   },
   {
     "time": "18:15",
-    "quoteFirst": "\"Pere Lactance at last reached Notre-Dame des Andilliers; but however numerous were the miracles there performed, the remission of the doom pronounced by the martyr on Pere Lactance was not added to their number; and at a ",
-    "quoteTime": "quarter-past six",
-    "quoteLast": " on September 18th, exactly a month to the very minute after Grandier’s death, Pere Lactance expired in excruciating agony.\"",
-    "title": "Celebrated Crimes (Complete)",
-    "author": "Dumas, Alexandre, 1802-1870",
-    "gutenbergReference": "2760",
-    "matchType": 1,
-    "hash": "0e18da811a678e6d917b252ef14768ea6274fe28777b1c91287ea8766b12df2a"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "They started at a ",
-    "quoteTime": "quarter-past six",
-    "quoteLast": " on the morning of the 7th, and marched to Aggemamu. The stream before entering this village had been bridged over by Captain Cope, and steps had been cut by him in the steep path ascending from it.",
-    "title": "The History of the Rifle Brigade (the Prince Consort's Own) Formerly the 95th",
-    "author": "Cope, William Henry, 1811-1892",
-    "gutenbergReference": "60048",
-    "matchType": 1,
-    "hash": "651750733ee9c57bb0fc3c77ce091ea5f0955ee2b3c5012ef8c706272453b5fe"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "POST OFFICE, MADELEY, Thomas Munday, _Post Master_.—Letters from LONDON and all parts arrive every morning at half-past six, and are despatched at a ",
-    "quoteTime": "quarter-past six in the evening",
-    "quoteLast": ".",
-    "title": "Slater's [1859] Shropshire Directory",
-    "author": "Slater, I. (Isaac), 1803-1883",
-    "gutenbergReference": "60729",
-    "matchType": 0,
-    "hash": "3900dfb219bced90b624a7a7380d0c79520e8fc3d294e655566418dc3510ccef"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "I can judge. Starting at about a ",
-    "quoteTime": "quarter past six",
-    "quoteLast": ", as soon as the day was done, it was about three in the morning when we decided to rest, so that if we had really done three hundred yards we had crawled at the rate of only thirty-three yards an hour!",
-    "title": "In the Line of Battle: Soldiers' Stories of the War",
-    "author": "Wood, Walter, 1866-1961 [Editor]",
-    "gutenbergReference": "48107",
-    "matchType": 1,
-    "hash": "fe4dcfd442a863dd3f94466cedec3baf9194e0fbfbe317a7209fd14e1e7e24d9"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "The whole stretch of his stay after Cornelia’s withdrawal had been consumed by his almost ostentatiously treating himself to the opportunity of which he was to make nothing. It was as if he had sat and watched himself--that came back to him: Shall I now or sha’n’t I? Will I now or won’t I? “Say within the next three minutes, say by a ",
-    "quoteTime": "quarter past six",
-    "quoteLast": ", or by twenty minutes past, at the furthest--always if nothing more comes up to prevent.”",
-    "title": "The Finer Grain",
-    "author": "James, Henry, 1843-1916",
-    "gutenbergReference": "21968",
-    "matchType": 1,
-    "hash": "d6ddb321a6d7c5650d5c5bfb4166f53440d3b26d40c6b9c89d94a3bb3b2454b6"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "About a ",
-    "quoteTime": "quarter past six",
-    "quoteLast": " he went back home, and met his neighbour Noah.",
-    "title": "Memoirs of a Surrey Labourer: A Record of the Last Years of Frederick Bettesworth",
-    "author": "Sturt, George, 1863-1927",
-    "gutenbergReference": "42092",
-    "matchType": 1,
-    "hash": "af3bbc44e2aed48b16c0ba03d2e183ff077d0cc9eb7ee336bc51e4267a21bcf7"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "It was ",
-    "quoteTime": "quarter after six",
-    "quoteLast": " before Miss Rawson descended the stairs to the hall again. She had deliberately made up her mind--she would go and drive with the count.",
-    "title": "The Point of View",
-    "author": "Glyn, Elinor, 1864-1943",
-    "gutenbergReference": "5310",
-    "matchType": 1,
-    "hash": "32f0c72c79c64a08e44d5cd7d03d9362d595e401d13a48b29aae3b095b4b83e6"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "POST OFFICE, MADELEY, Thomas Munday, _Post Master_.—Letters from LONDON and all parts arrive every morning at half-past six, and are despatched at a ",
-    "quoteTime": "quarter-past six in the evening",
-    "quoteLast": ".",
-    "title": "Slater's [1859] Shropshire Directory",
-    "author": "Slater, I. (Isaac), 1803-1883",
-    "gutenbergReference": "60729",
-    "matchType": 0,
-    "hash": "3900dfb219bced90b624a7a7380d0c79520e8fc3d294e655566418dc3510ccef"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "On the morning of the King's execution, according to the narrative of Madame Royale, his family rose at six: \"The night before, my mother had scarcely strength enough to put my brother to bed; She threw herself, dressed as she was, on her own bed, where we heard her shivering with cold and grief all night long.  At a ",
-    "quoteTime": "quarter-past six",
-    "quoteLast": " the door opened; we believed that we were sent for to the King, but it was only the officers looking for a prayer-book for him.  We did not, however, abandon the hope of seeing him, till shouts of joy from the infuriated populace told us that all was over.",
-    "title": "Memoirs of the Court of Marie Antoinette, Queen of France, Volume 7\r\nBeing the Historic Memoirs of Madam Campan, First Lady in Waiting to the Queen",
-    "author": "Campan, Mme. (Jeanne-Louise-Henriette), 1752-1822",
-    "gutenbergReference": "3890",
-    "matchType": 1,
-    "hash": "ecca165c662b291ae68c76242cedb5a640afc0fa52f9d8bfd2cc5713490d81c6"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "(_A_), when the works began to raise the pressure little by little, in order to compensate for the increased loss due to increased flow through the mains. At ",
-    "quoteTime": "6.15 P. M.",
-    "quoteLast": " (_B_), the works ceased increasing the pressure. While this increase lasted--from 6.15 P. M.",
-    "title": "The Popular Science Monthly, June, 1900\nVol. 57, May, 1900 to October, 1900",
-    "author": "Various; Cattell, James McKeen, 1860-1944 [Editor]",
-    "gutenbergReference": "47227",
-    "matchType": 2,
-    "hash": "7400f80d1fa65d3a37602a0e669ae42871aa0c85c463d4da6a61b8ec18202689"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "It was a ",
-    "quoteTime": "quarter past six",
-    "quoteLast": " when we left Baker Street, and it still wanted ten minutes to the hour when we found ourselves in Serpentine Avenue. It was already dusk, and the lamps were just being lighted as we paced up and down in front of Briony Lodge, waiting for the coming of its occupant.",
-    "title": "The Lock and Key Library: Classic Mystery and Detective Stories: Modern English",
-    "author": "Hawthorne, Julian, 1846-1934 [Editor]; Castle, Egerton, 1858-1920 [Contributor]; Collins, Wilkie, 1824-1889 [Contributor]; Doyle, Arthur Conan, 1859-1930 [Contributor]; Kipling, Rudyard, 1865-1936 [Contributor]; Stevenson, Robert Louis, 1850-1894 [Contributor]; Weyman, Stanley John, 1855-1928 [Contributor]",
-    "gutenbergReference": "2038",
-    "matchType": 1,
-    "hash": "b4e196e52d00c25b583a4899cb91771dfbfdbcb3430a7d0c4f61c5cb27384466"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "In spite of the rain, they left the window open, and one of them went to listen from time to time, and at a ",
-    "quoteTime": "quarter past six",
-    "quoteLast": " the baron said he heard a rumbling in the distance. They all rushed down, and soon the wagon drove up at a gallop with its four horses, which were splashed up to their backs, steaming and panting, and five women got out at the bottom of the steps, five handsome girls whom a comrade of the captain, to whom _Le Devoir_ had taken his card, had selected with care.",
-    "title": "The Works of Guy de Maupassant, Volume 2",
-    "author": "Maupassant, Guy de, 1850-1893",
-    "gutenbergReference": "17375",
-    "matchType": 1,
-    "hash": "0f51dcd52d4597d08edb2810e01a07762f5acec5f49dce5d8795b405a784aeb6"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "\"Tuesday afternoon, yes. I think, Tom, that Miss Deane didn't leave until a ",
-    "quoteTime": "quarter after six",
-    "quoteLast": ".\"",
-    "title": "Find the Woman",
-    "author": "Roche, Arthur Somers, 1883-1935; Cornwell, Dean, 1892-1960 [Illustrator]",
-    "gutenbergReference": "42740",
-    "matchType": 1,
-    "hash": "2556f847c8b3e95429b1513c9a84dd1a902e3b82a13e8af94539be9456722983"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "I found that I had been struck on the right leg and received a severe contusion on the head, but in a few minutes I was able to stand.  The midshipman also was wounded in the arm by the same shell, and he and I were the only two people able to walk out of the battery.  Of the others several died before they were removed.  I left it at a ",
-    "quoteTime": "quarter-past six",
-    "quoteLast": ", and on my way past the redoubt, where he had been the greater part of the time, I received the thanks of my Lord Cornwallis for what he was pleased to call my gallantry and determination.",
-    "title": "Hurricane Hurry",
-    "author": "Kingston, William Henry Giles, 1814-1880; De Lacy, Charles J. [Illustrator]",
-    "gutenbergReference": "21465",
-    "matchType": 1,
-    "hash": "13319d5fa4e3b73cc09aee13cdd903505fdaa9db3ba8881f69fbba47e608f8eb"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "",
+    "quoteFirst": "The right brigade front was penetrated, but the left brigade formed a defensive flank from Hallebast Corner to the southern end of Dickebusch Lake. All day long the batteries fired on their S.O.S. lines, a steady rate being maintained until ",
     "quoteTime": "6.15 P.M.",
-    "quoteLast": "--Ultimatum from the servants: the puppy must be killed for reasons which cannot be specified in an American magazine.",
-    "title": "The Intelligence of Woman",
-    "author": "George, Walter Lionel, 1882-1926",
-    "gutenbergReference": "32479",
-    "matchType": 2,
-    "hash": "bc5b3388608e1ea881d453691006fa1491ffa575d1f22ac210e9e624223d2606"
+    "quoteLast": ", when a quarter of an hour's intense bombardment was followed by a counter-attack on the part of the 19th Infantry Brigade. By this counter-attack all objectives were regained except on the extreme left where the situation remained obscure, and, after a night of intermittent harassing fire with counter-preparation fired at 3.30 A.M. in the morning (9th), the remainder of the 162nd Brigade withdrew from the line and marched to Winnezeele for a short period of rest.",
+    "title": "The History of the 33rd Divisional Artillery, in the War, 1914-1918.",
+    "author": "Macartney-Filgate, John Victor; Horne, Henry, 1861-1929 [Author of introduction, etc.]",
+    "gutenbergReference": "51776",
+    "hash": "2dba8b305a76dbd5b278cbc42cfe86d53ed223a9a95bacaceca2851449abee69"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "But the fatigue of going in deep snow for three hours up the glacier, though we had been no higher than 19,100 feet, had been too great, and again we had noticed only a slight relief in coming down; it was a tired party that dragged back over the glacier crossing and into camp at ",
+    "quoteTime": "6.15 p.m.",
+    "quoteLast": ", thirteen hours after starting.",
+    "title": "Mount Everest, the Reconnaissance, 1921",
+    "author": "Howard-Bury, Charles, 1881-1963; Mallory, George, 1886-1924; Wollaston, A. F. R. (Alexander Frederick Richmond), 1875-1930",
+    "gutenbergReference": "39421",
+    "hash": "33c0f1d7b4a95f7739082a71f9744bba94b32c649839c39b3cc57ae067121890"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "Here and there a rocky projection, but it was quite impossible to tell if we were not suspended on it hundreds of meters over a yawning abyss. It was impossible to see anything through that fog. And at a ",
+    "quoteTime": "quarter past six",
+    "quoteLast": " it was pitch dark.",
+    "title": "Picturesque Spain: Architecture, landscape, life of the people.",
+    "author": "Hielscher, Kurt, 1881-1948",
+    "gutenbergReference": "64959",
+    "hash": "f911b9fd25cc4ab82eaa3aa536dc770671236ec3a310b3611f4a6cf6ed0d317d"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "At ",
+    "quoteTime": "6.15 P.M.",
+    "quoteLast": " he telegraphed as follows:--",
+    "title": "The Philippines: Past and Present (Volume 1 of 2)",
+    "author": "Worcester, Dean C. (Dean Conant), 1866-1924",
+    "gutenbergReference": "12077",
+    "hash": "8e9298c90ac8cd5c6e7ea257512dbc4204bf9d5020c1d42870dd3c0ea5ad4715"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "NED. ",
+    "quoteTime": "Quarter past six",
+    "quoteLast": ". The Dozeys not come yet?",
+    "title": "The Silver Shield: An Original Comedy in Three Acts",
+    "author": "Grundy, Sydney, 1848-1914",
+    "gutenbergReference": "41033",
+    "hash": "d6c0422d022a15e10d79fb71f04dbd0bef9fad1cd8adbbaa2a924f18f19531e8"
   },
   {
     "time": "18:15",
@@ -183,40 +67,136 @@
     "title": "Hemming, the adventurer",
     "author": "Roberts, Theodore Goodridge, 1877-1953; Learned, A. G. (Arthur Garfield), 1872-1959 [Illustrator]",
     "gutenbergReference": "74158",
-    "matchType": 1,
     "hash": "d560f8542c82a4559d5c922382c59aa4838470a2d6e4f86a03e1f199d71144b2"
   },
   {
     "time": "18:15",
-    "quoteFirst": "|   6  | |         |                      |     |    |          |        |      | |  ”  9th | 2.45a.m. to 10a.m.   |  7¼ | 29 | 10.30a.m.| 1½ gal.|   6  | |         | 2p.m. to 6p.m.       |  4  | 16 |  ",
-    "quoteTime": "6.15p.m.",
-    "quoteLast": "|  ½  ”  |      | |         |                      |     |    |          |        |      | |  ” 10th | 3a.m. to 9am.        |  6  | 24 | ...  ... |   ...  |   6  | |         |12.15p.m. to 4.30p.m. |  4½ | 17 |  4.45p.m.|  ¼ gal.",
-    "title": "The Nineteenth and Their Times\nBeing an Account of the Four Cavalry Regiments in the British Army That Have Borne the Number Nineteen and of the Campaigns in Which They Served",
-    "author": "Biddulph, J. (John), 1840-1921",
-    "gutenbergReference": "60290",
-    "matchType": 2,
-    "hash": "6abd359aa89a492c535cca927c1d0fcf24e3e13687c0070bbdbc0c88980ec1ae"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "Bass, who had returned promptly at a ",
-    "quoteTime": "quarter-past six",
-    "quoteLast": ", was already busy in the back bedroom washing and dressing preparatory to going down-town.",
-    "title": "Jennie Gerhardt: A Novel",
-    "author": "Dreiser, Theodore, 1871-1945",
-    "gutenbergReference": "28988",
-    "matchType": 1,
-    "hash": "3910970d81a18dff98686e0ef9ff619c145318b2db72661ef7293fd5baf3ddcf"
-  },
-  {
-    "time": "18:15",
-    "quoteFirst": "A ",
+    "quoteFirst": "The part soon became painfully swollen, and the patient began to feel giddy. Other natives came to his help; he was lifted into a Malabar cart and brought to the Military Hospital, whence he was sent to my house, where he arrived about a ",
     "quoteTime": "quarter past six",
-    "quoteLast": "!....",
-    "title": "Cyrano de Bergerac: An Heroic Comedy in Five Acts",
-    "author": "Rostand, Edmond, 1868-1918; Renauld, Charles [Translator]",
-    "gutenbergReference": "41949",
-    "matchType": 1,
-    "hash": "5eb536d505dfcf1339e3888233390f42bf0d7fa2fc6b6dc097da7e9114dd752d"
+    "quoteLast": ".",
+    "title": "Venoms: Venomous Animals and Antivenomous Serum-therapeutics",
+    "author": "Calmette, A. (Albert), 1863-1933; Austen, E. E. (Ernest Edward), 1867-1938 [Translator]",
+    "gutenbergReference": "51078",
+    "hash": "f3a4997050f545c66da2ce923c8272007a34d235312eed805520ceb95db96aed"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "FOR PIERMONT, MONSEY AND WAY, from Twenty-third  Street Depot, at 8:45 A.M.; 12:45, {3:15 4:15, 4:46 and {",
+    "quoteTime": "6:15 P.M.",
+    "quoteLast": ", and, Saturdays only, {12  midnight. From Chambers Street Depot, at 9:00 A.M.; 1:00, {3:30, 4:15, 5:00 and {6:30 P.M. Saturdays,  only, {12:00 midnight.",
+    "title": "Punchinello, Volume 1, No. 14, July 2, 1870",
+    "author": "Various",
+    "gutenbergReference": "9819",
+    "hash": "5bc53239b76e89546f8b8afc9b45f9bf038a276b194df8d80a5f2ed6d525ce65"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "The later one of ",
+    "quoteTime": "6.15 P.M.",
+    "quoteLast": ", suggesting the probability of your being overwhelmed by two hundred thousand, and talking of where the responsibility will belong, pains me very much. I give you all I can, and act on the presumption that you will do the best you can with what you have, while you continue, ungenerously I think, to assume that I could give you more if I would.",
+    "title": "The Papers and Writings of Abraham Lincoln — Volume 6: 1862-1863",
+    "author": "Lincoln, Abraham, 1809-1865; Lapsley, Arthur Brooks [Editor]",
+    "gutenbergReference": "2658",
+    "hash": "0098e097fb0f1b892ca35d5e9abf3501a86133f056dfeceab62640e2d561c899"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "_Sunday, October 1._ The wind changed, and lulled before morning, so we left at a ",
+    "quoteTime": "quarter past six",
+    "quoteLast": ". The skies looked rather better, nevertheless we had several showers. Passed the [Big] Sioux River at twenty minutes past eleven. Heard a Pileated Woodpecker, and saw Fish Crows.",
+    "title": "Audubon and His Journals, Volume 2",
+    "author": "Audubon, John James, 1785-1851; Coues, Elliott, 1842-1899 [Annotator]; Audubon, Maria R. (Maria Rebecca), 1843-1925 [Editor]",
+    "gutenbergReference": "39979",
+    "hash": "8be4c121ab611d32e0c57777041604132af49f68713f29d5b5ecad2e7790d462"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "After dark General Polk got a message from Cheetham, to say that the enemy had after all advanced in heavy force about ",
+    "quoteTime": "6.15 P.M.",
+    "quoteLast": ", and obliged him to retire to Guy's Gap. We also heard that General Cleburne, who had advanced from Wartrace, had had his horse shot under him.",
+    "title": "Three Months in the Southern States, April-June 1863",
+    "author": "Fremantle, Arthur James Lyon, Sir, 1835-1901",
+    "gutenbergReference": "20928",
+    "hash": "21af70f5585e0dc21d10bf9a32a6730d00ed07ab19300d15d981aab13f8c5965"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "A day of brilliant sunshine followed the three days’ rain. Johnny passed Jim’s stand on his way from school, reproached Jim for his absence, told him of the contract, and secured his promise to come that evening at a ",
+    "quoteTime": "quarter past six",
+    "quoteLast": ", sharp. Tiny carefully practised a little song for which she could herself play the accompaniment, and both the children had their stock of seeds in readiness, before tea.",
+    "title": "Little Helpers",
+    "author": "Vandegrift, Margaret, 1845-1913",
+    "gutenbergReference": "63793",
+    "hash": "c5d23b1b89535c5a2c610a1404be6379e48e1bfddecdf89f84a64cc4e0dab9e7"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "_August 16th._—Well seen. ",
+    "quoteTime": "6.15 p.m.",
+    "quoteLast": ", daylight.",
+    "title": "New Edition of Hints on Silver-Glass Reflecting Telescopes Manufactured by Mr. G. Calver, F.R.A.S.\nwith Directions for Silvering, Adjusting, &c.",
+    "author": "Calver, George, 1834-1927",
+    "gutenbergReference": "53494",
+    "hash": "2a2582cddb15b5bdb25486ada1ce7020766b2e1236d85f71aa2d2a8488f6531b"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "That's the way I've marked out for you. Don't forget--we start up at seven. You can breakfast with me at a ",
+    "quoteTime": "quarter past six",
+    "quoteLast": ", and we'll come down together.\"",
+    "title": "The Second Generation",
+    "author": "Phillips, David Graham, 1867-1911",
+    "gutenbergReference": "11614",
+    "hash": "80100a18da251153af9d6cabcdfd6349fa0c58dc4b5b8a9dbf291a9c18b8dbb6"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "He had barely two hours’ sleep, for by a ",
+    "quoteTime": "quarter past six",
+    "quoteLast": " he was breaking his fast. At twenty minutes past seven he was driving his car slowly through London.",
+    "title": "The rasp",
+    "author": "MacDonald, Philip, 1901?-1980",
+    "gutenbergReference": "72462",
+    "hash": "06cd9c37f8ecebb5b478654e2372d1042e03ccae6a1a359b40c592f62e86895d"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "The rolling of carriage wheels upon gravel walks, the opening and shutting of doors, announced the return of the general's party from the inspection; but for a time no one appeared, and already the hands of the ormolu clock indicated a ",
+    "quoteTime": "quarter past six",
+    "quoteLast": ".",
+    "title": "The King's Own Borderers: A Military Romance, Volume 3 (of 3)",
+    "author": "Grant, James, 1822-1887",
+    "gutenbergReference": "67228",
+    "hash": "ac9d9b04be2da0a55ca747c73bda418395c82cc22fd7138afa21349dd6d5228c"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "They pointed to fifteen minutes to seven. Mrs. Drabdump's devotion to the kitchen fire invariably terminated at ",
+    "quoteTime": "fifteen minutes past six",
+    "quoteLast": ". What was the matter with the clock?",
+    "title": "The Grey Wig: Stories and Novelettes",
+    "author": "Zangwill, Israel, 1864-1926",
+    "gutenbergReference": "16408",
+    "hash": "3dc9cffc51a74d9932718aecbe1c296cc93884775ea4477948eab504c1108c62"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "18. The First Battle Squadron, under Vice-Admiral Sir Cecil Burney, came into action at ",
+    "quoteTime": "6.15 P.M.",
+    "quoteLast": " with the enemy’s Third Battle Squadron, at a range of about 11,000 yards, and administered severe punishment, both to the battleships and to the battle cruisers and light cruisers which were also engaged. The fire of _Marlborough_ (Captain George P. Ross) was particularly rapid and effective.",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "hash": "8736b9908259a72197280689311e60f37cdd790d130109dfc20fb30d483c7210"
+  },
+  {
+    "time": "18:15",
+    "quoteFirst": "“One of the fellows, a conscript, that came to fill a vacant place in our lines, he was only over in France two weeks, and it was his first time in a trench. He landed there at six o’clock in the evening, and just like I’m telling you, at a ",
+    "quoteTime": "quarter past six",
+    "quoteLast": " a shell up and exploded and buried him right where he stood. Yes, ma’am, you certainly do see some very peculiar things in this war.",
+    "title": "The Day of Glory",
+    "author": "Fisher, Dorothy Canfield, 1879-1958",
+    "gutenbergReference": "61147",
+    "hash": "cdd4472195554a0f09ac799f09496fb7d9adf2688e3f56295cb474974c985a35"
   }
 ]

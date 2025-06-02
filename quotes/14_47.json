@@ -7,7 +7,6 @@
     "title": "The Toxicity of Caffein: An experimental study on different species of animals",
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
-    "matchType": 2,
     "hash": "b1077726984ed7989eb525c0feebc25327223e56962c22f7b3c5f2a9630a1bd2"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Mrs. Ames",
     "author": "Benson, E. F. (Edward Frederic), 1867-1940",
     "gutenbergReference": "60168",
-    "matchType": 1,
     "hash": "a0e791cef6e8d36246ea440426e7e2fd69f85e35f8fc2dec0f275390a2786a9d"
   },
   {
@@ -29,7 +27,6 @@
     "title": "History, Gazetteer, and Directory of Shropshire [1851]",
     "author": "Bagshaw, Samuel",
     "gutenbergReference": "62250",
-    "matchType": 2,
     "hash": "02ed78db397c9393bbd403478354ddafac1391150249d7903f2132c480348135"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The story of the first trans-continental railroad",
     "author": "Bailey, William Francis, 1861-",
     "gutenbergReference": "22598",
-    "matchType": 2,
     "hash": "12e80107b934ed7273c8f4ebc2bd4029f337ae14d2a21b5c74b81b33a1b06e65"
   }
 ]

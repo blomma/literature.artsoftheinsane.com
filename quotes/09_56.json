@@ -7,7 +7,6 @@
     "title": "Tangled Trails: A Western Detective Story",
     "author": "Raine, William MacLeod, 1871-1954",
     "gutenbergReference": "17066",
-    "matchType": 1,
     "hash": "d628d9aa4ec4fce8bb118dcd9ab74e6c8475038d57795f70a1f64c152f4cdd9a"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Syndrome",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34321",
-    "matchType": 2,
     "hash": "bdeda0ec3f8554ad7259e8270e58a7bacc68a8ef804e0aef0a2b245570dd459e"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Natural History of the Ornate Box Turtle, Terrapene ornata ornata Agassiz",
     "author": "Legler, John M.",
     "gutenbergReference": "37566",
-    "matchType": 2,
     "hash": "f0cad6431979a8472a98ff46ee96f76e0456b3224c249d1c06361d873b9ad74b"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Toronto by Gaslight: The Night Hawks of a Great City\r\nAs Seen by the Reporters of \"The Toronto News\"",
     "author": "Toronto News",
     "gutenbergReference": "57700",
-    "matchType": 1,
     "hash": "534e2403258f6894c5c24c435052e83633f805e538fb0317b6483aac889562cd"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "3f02a04bc5884f1392354c0b64a7f8017ec04c53cca26f7c35ebc25938560f6f"
   }
 ]

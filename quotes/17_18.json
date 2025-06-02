@@ -7,7 +7,6 @@
     "title": "The Confessions of Arsène Lupin",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "28093",
-    "matchType": 1,
     "hash": "ef7bdac7e52f67ba4b90ad4c805dbd4892d34470c6d64300529a79cb464fdbac"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "cdeb69150f017ff990789ef098b1c0e040c6c24035356fbd079b2d5a16a14c0f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55134",
-    "matchType": 2,
     "hash": "4e086abb962d7dec52197ca0b6ea0dd22bfc302c692bd2745945b4f0518acf31"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "c2511ee11cd6c0df95df345ac8870d5cae4fdae7d903b535b32178567629f653"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Aërial Navigation\r\nA Popular Treatise on the Growth of Air Craft and on Aëronautical Meteorology",
     "author": "Zahm, Albert Francis, 1862-1954",
     "gutenbergReference": "60277",
-    "matchType": 2,
     "hash": "fa4511b03923203bf416d3e5768d396602c53f34219a6ae0b1b372e751108490"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "bf304a5b18987b1e3de87401bba667217cbf69e1c89c1eb1c8cb922c17951fb0"
   }
 ]

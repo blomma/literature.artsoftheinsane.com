@@ -7,7 +7,6 @@
     "title": "Three Little Lines\r\nSilverton Railroad; Silverton, Gladstone and Northerly; Silverton Northern",
     "author": "Crum, Josie Moore",
     "gutenbergReference": "62664",
-    "matchType": 2,
     "hash": "072b08d0efbc5936c04ab27826b1e4c29500d8e663cda1c4ccabbc54984980d4"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "fcbeecde081a22d12d8bddacaecda28985750f6622ad5ad39ae0e3e07c45dea8"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "09a50f4828b6264890bdb925baa763ff3d9d5e174e051aaaf73763efee0ab436"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Boys of '98",
     "author": "Otis, James, 1848-1912",
     "gutenbergReference": "30684",
-    "matchType": 2,
     "hash": "1685870729e60cfea1b65c77bd59d03a6dd6eb27825306dec46d6ad92dc1158e"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44006",
-    "matchType": 2,
     "hash": "abb539970b1c7c98ed5134b271882ec2bdf46b39b23c96ecff2060b58ed4f69d"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "43f2ab38853fc2edb71d0c4d47bfe00e1878c678510bcda6b1c7bd4b489e91d0"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Loot of Cities\r\nBeing the Adventures of a Millionaire in Search of Joy (a Fantasia); and Other Stories",
     "author": "Bennett, Arnold, 1867-1931",
     "gutenbergReference": "63580",
-    "matchType": 1,
     "hash": "c24d60e9b5ea864c605c708e58e82bafef5b15b6991ebeb18abc3b0b4b1c51b6"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Eliza",
     "author": "Pain, Barry, 1864-1928; Goldsmith, Wallace, 1873-1945 [Illustrator]",
     "gutenbergReference": "23783",
-    "matchType": 1,
     "hash": "f103fa6e9c2ffc712fa73c9b58e959dc0ae919e36b0969c6e9720bf1a165f00c"
   }
 ]

@@ -1,135 +1,43 @@
 [
   {
     "time": "14:45",
-    "quoteFirst": "\"I reached his house about a ",
-    "quoteTime": "quarter to three",
-    "quoteLast": ", and I left about half-past three.\"",
-    "title": "The Immortals: Masterpieces of Fiction, Crowned by the French Academy — Complete",
-    "author": "Various",
-    "gutenbergReference": "4000",
-    "matchType": 1,
-    "hash": "2ffe0e601dc4c60a66f63bc51cfaf8dacc74480dd208ddfcb1fd38119587cb5d"
-  },
-  {
-    "time": "14:45",
-    "quoteFirst": "As the ward clock struck a ",
-    "quoteTime": "quarter to three",
-    "quoteLast": ", an attendant appeared and announced:",
-    "title": "The Exploits of Juve\nBeing the Second of the Series of the \"Fantômas\" Detective Tales",
-    "author": "Souvestre, Pierre, 1874-1914; Allain, Marcel, 1885-1969",
-    "gutenbergReference": "30586",
-    "matchType": 1,
-    "hash": "d4cff71fdfe703e2dbd33da2f0f71d57cfa3c031cf4bf6fcfca1c486d687b9a6"
-  },
-  {
-    "time": "14:45",
-    "quoteFirst": "“That is strange!” said Phil Evans. “At a ",
-    "quoteTime": "quarter to three",
-    "quoteLast": " it ought still to be night.”",
-    "title": "Robur the Conqueror",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "3808",
-    "matchType": 1,
-    "hash": "2707844c439cf300930eb299f238eb6e677493180aa1de2141bdec7492d32628"
-  },
-  {
-    "time": "14:45",
-    "quoteFirst": "_Re_ hydrotherapy, Mott has found the continuous warm bath of great value in Shell-shock cases coming back from France. He keeps the patient in the water from a ",
-    "quoteTime": "quarter to three",
-    "quoteLast": "-quarters of an hour, or longer. A warm bath and a drink of warm milk at bedtime may permit a man to get on without hypnotics, or to get on with lesser amounts of hypnotics. The effect of these baths is doubtless largely somatic.",
-    "title": "Shell-shock and other neuropsychiatric problems",
-    "author": "Southard, Elmer Ernest, 1876-1920",
-    "gutenbergReference": "52105",
-    "matchType": 1,
-    "hash": "a9ae471a7c62707468b8211f123e34bc82ea7b9725222a0f610abd8602d75382"
-  },
-  {
-    "time": "14:45",
-    "quoteFirst": "When he woke up it was already night, and the moon was shining into the room. He looked at his watch: it was a ",
-    "quoteTime": "quarter to three",
-    "quoteLast": ". Sleep had left him; he sat down upon his bed and thought of the funeral of the old Countess.",
-    "title": "The Prose Tales of Alexander Pushkin",
-    "author": "Pushkin, Aleksandr Sergeevich, 1799-1837; Keane, T. [Translator]",
-    "gutenbergReference": "55219",
-    "matchType": 1,
-    "hash": "2590b8246e45e6d4074ed7208881d2b20a81e1c00e7f8ce27436f663119272ce"
-  },
-  {
-    "time": "14:45",
-    "quoteFirst": "Punctually every half-hour the Colonel and Matthew Strux silently relieved guard at the telescope, each desiring to be the first to discover the light. But hours passed on, and no light appeared. At last, at a ",
-    "quoteTime": "quarter to three",
-    "quoteLast": ", Colonel Everest arose, and calmly said.",
-    "title": "Meridiana: The Adventures of Three Englishmen and Three Russians\nIn  South Africa",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "63650",
-    "matchType": 1,
-    "hash": "e2d3db0d3b006038edaf1c0e34c42feafbcae723ba88fc90e995e61b3b039fdd"
-  },
-  {
-    "time": "14:45",
-    "quoteFirst": "This engine was apparently called both the “Lilliputian” and the “Little Wonder.” It was constructed in 1847, and made its first trip to Cambridge on Saturday, October 23rd, leaving London at 10.30 a.m., and reaching the University town at ",
+    "quoteFirst": "8 grams was fed February 18, 1906, at 2.26 p.m., with a concentrated aqueous extract of 250 grams of fresh _Astragalus mollissimus_ collected in September, 1905, and preserved in chloroform water. The temperature of this rabbit was 102.6°F. The fluid given was 40 c.c. At ",
     "quoteTime": "2.45 p.m.",
-    "quoteLast": " Stops were made at three intermediate stations for water, etc., which occupied about half an hour, so that the 57½ miles were covered in about 105 minutes’ running time.",
-    "title": "The evolution of the steam locomotive (1803 to 1898)",
-    "author": "Nokes, George Augustus, 1867-1948",
-    "gutenbergReference": "73518",
-    "matchType": 2,
-    "hash": "b7210e9827a2061d5ca3f168288f384fc82f9e232787e4252bebe59d5e335d6c"
+    "quoteLast": " the rabbit urinated and at 2.57 p.m. was dull and the respiration became rapid. The animal then aborted and had three young, two of which showed some movement after birth, but were apparently premature.",
+    "title": "Barium: A Cause of the Loco-Weed Disease",
+    "author": "Crawford, Albert Cornelius",
+    "gutenbergReference": "40256",
+    "hash": "77d07cfa9de6605e4b1c6e31a172a9fa5e96422697900f6a7f9413d6592c0973"
   },
   {
     "time": "14:45",
-    "quoteFirst": "At 1:25 he simply turned sufficiently to bring his broadside to bear. This time he turned not less but much more than a right angle, and Admiral Sturdee was considerably behind him when he opened fire at a ",
+    "quoteFirst": "Board is obtained at prices varying from a dollar and a ",
+    "quoteTime": "quarter to 3",
+    "quoteLast": " dollars a week. To a majority of the students, the cost of board is less than 2 dollars a week, or, reckoning the dollar at 4_s._ 2_d.",
+    "title": "American Scenes, and Christian Slavery\nA Recent Tour of Four Thousand Miles in the United States",
+    "author": "Davies, Ebenezer, 1808-1882",
+    "gutenbergReference": "10898",
+    "hash": "1ad0e2861571fb405d360d8ea93d7185dd81410ab255ee0c162d48760b5fe7d4"
+  },
+  {
+    "time": "14:45",
+    "quoteFirst": "At half-past two I began to listen. A ",
     "quoteTime": "quarter to three",
-    "quoteLast": ".",
-    "title": "The British Navy in Battle",
-    "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
-    "gutenbergReference": "54441",
-    "matchType": 1,
-    "hash": "7a7007c72bc64d05cd4666f02fa59fd0e82af6c0d278ef71d67ce5f04a1486cf"
+    "quoteLast": ", three, a quarter past three——",
+    "title": "The Little Match Man",
+    "author": "Barzini, Luigi, 1874-1947; Longstreet, Hattie [Illustrator]; Woodruff, S. F. [Translator]",
+    "gutenbergReference": "54678",
+    "hash": "5ebc2cc9b490757b21aa7edf1a00f4c0b0bd14aaadd8515072463843b1e5c862"
   },
   {
     "time": "14:45",
-    "quoteFirst": "\"During the morning Browning and I examined the ice-face forming the eastern face of the bight. We found it to be made of clear ice of grain from a ",
-    "quoteTime": "quarter to three",
-    "quoteLast": "-eighths of an inch in size and full of bubbles.",
-    "title": "The Worst Journey in the World: Antarctic, 1910-1913",
-    "author": "Cherry-Garrard, Apsley, 1886-1959",
-    "gutenbergReference": "14363",
-    "matchType": 1,
-    "hash": "bbcf386e11008695a8b37380d46136600a41f0efdb8d74173f8648e91bfcaf64"
-  },
-  {
-    "time": "14:45",
-    "quoteFirst": "For the soles no rubber compares with steel points—_i.e._, small nails about five-eighths of an inch long, driven into the sole of the shoe, and protruding from it about one-",
-    "quoteTime": "quarter to three",
-    "quoteLast": "-eighths of an inch.",
-    "title": "Lawn-tennis",
-    "author": "Dwight, James, 1852-1917",
-    "gutenbergReference": "58137",
-    "matchType": 1,
-    "hash": "933f391317fca9713336ad65638875934ba7ab6f55e6ec0b226ddb31609d1fea"
-  },
-  {
-    "time": "14:45",
-    "quoteFirst": "At ",
-    "quoteTime": "2.45 P.M.",
-    "quoteLast": " we came to Nutschoitjin (Coregonus Lake).",
-    "title": "The Voyage of the Vega round Asia and Europe, Volume I and Volume II",
-    "author": "Nordenskiöld, A. E. (Adolf Erik), 1832-1901; Leslie, Alexander, active 1879-1882 [Translator]",
-    "gutenbergReference": "24365",
-    "matchType": 2,
-    "hash": "4f7701bb128b42a4f9c567f473ed084030e616ac10a078ea4c898d5836b7dcbc"
-  },
-  {
-    "time": "14:45",
-    "quoteFirst": "At a ",
-    "quoteTime": "quarter to three",
-    "quoteLast": " I started to walk across the Common to the old Soames house on Beacon Hill.  It occurred to me then that if for the living it is a strange sensation when the dead come back, for the dead it is a stranger sensation still.",
-    "title": "The Thread of Flame",
-    "author": "King, Basil, 1859-1928",
-    "gutenbergReference": "45898",
-    "matchType": 1,
-    "hash": "a1e54feef606ea4a410261e081e8a71eb35ad0f1cc6eae01ef235e29dbf85ad6"
+    "quoteFirst": "Validity                           ",
+    "quoteTime": "2:45 P. M.",
+    "quoteLast": "",
+    "title": "The Robinson Telegraphic Cipher",
+    "author": "Robinson, Stephen L. (Telegrapher)",
+    "gutenbergReference": "48232",
+    "hash": "eda6266078e6770d63dee919104391f8696211cf442b0f0ea26a48af0b40edfe"
   },
   {
     "time": "14:45",
@@ -139,52 +47,137 @@
     "title": "The Disentanglers",
     "author": "Lang, Andrew, 1844-1912",
     "gutenbergReference": "17031",
-    "matchType": 2,
     "hash": "283ad6a31537a21c4e770e1a22e2796622c57ecbd06b4cce2df3335b18488877"
   },
   {
     "time": "14:45",
-    "quoteFirst": "Several fine-sized olive-trees were shown to us for sale, and said to be good fruit-bearers, (no olive bears fruit under ten years,) for twenty-five scudi per tree. These trees were computed to yield about two and a ",
-    "quoteTime": "quarter to three",
-    "quoteLast": " sacks of berries; whereof every sack yielded a profit of three scudi for one hundred to one hundred and ten pounds of oil, which represents about the quantity generally expressed. In retail, Lucca oil, at the present moment, is about one paul, and olives about three farthings per pound.",
-    "title": "Blackwood's Edinburgh Magazine, Volume 62, Number 361, November, 1845.",
-    "author": "Various",
-    "gutenbergReference": "27611",
-    "matchType": 1,
-    "hash": "25151fa1a94c195fc944c9b26d331a52a3d12a62c7b6e7d84be5ddeef4c38730"
+    "quoteFirst": "15 to the Suburban Districts within about four miles of the General Post Office.  The third despatch is at 11.45 a.m., and comprises, with a few exceptions, every part of the London district.  The fourth despatch, at ",
+    "quoteTime": "2.45 pm",
+    "quoteLast": "., is to places within about six miles of the General Post Office, isolated localities excepted.  The fifth despatch, at 4.45 p.m., extends to the whole of the Suburban Districts, and, except in the remoter rural places, the letters are delivered the same evening.",
+    "title": "Allen & Morton's West-London Directory for 1867",
+    "author": "Allen & Morton",
+    "gutenbergReference": "51104",
+    "hash": "03412dc29d61d1b7a9d18079c191c101477b019af003af049cc77805ebc68d0a"
   },
   {
     "time": "14:45",
-    "quoteFirst": "They resemble leucite in their shape, but have not yet been proved to have its crystalline outlines. The \"pseudo-leucites,\" as they have been called, measure one-",
+    "quoteFirst": "At this hour each passenger is furnished with a candle, and requested to get up; and at a ",
     "quoteTime": "quarter to three",
-    "quoteLast": "-quarters of an inch across. The dark matrix consists of biotite, aegirine-augite and melanite. Connected with the borolanite there are other types of nepheline-syenite and pegmatite.",
-    "title": "Encyclopaedia Britannica, 11th Edition, \"Borgia, Lucrezia\" to \"Bradford, John\"\r\nVolume 4, Slice 3",
-    "author": "Various",
-    "gutenbergReference": "33698",
-    "matchType": 1,
-    "hash": "a401ebaa4174a8cb61853e615e693d5a3ef0d8253d0d9e30fced37ae3b3f1713"
+    "quoteLast": " the _muchacha_ (chambermaid) reappears, bearing in her hand a plate, on which, after rubbing his eyes, the traveller may discover, if it be allowed so to speak, an imperceptible cup, a _xicara_,--since, having the thing, they have a name for it, which is of course untranslateable,--of excellent chocolate, an _azucarillo_ (almost transparent sugar prepared for instantaneous melting), a glass of water, and a piece of bread.",
+    "title": "The Picturesque Antiquities of Spain\r\nDescribed in a series of letters, with illustrations representing Moorish palaces, cathedrals, and other monuments of art, contained in the cities of Burgos, Valladolid, Toledo, and Seville.",
+    "author": "Wells, Nathaniel Armstrong",
+    "gutenbergReference": "32821",
+    "hash": "97a7af217402e49d9ffa38d215ffb9fa215e81e117e57b9bbf7f1ad71ef74a69"
   },
   {
     "time": "14:45",
-    "quoteFirst": "The troops advanced on the run, preceded by a barrage-fire. On the left, the objective points were reached at ",
+    "quoteFirst": "In the meantime the 7th Lancashire Fusiliers had been moved up to the old fire trenches when these were vacated by the second wave, and at ",
     "quoteTime": "2.45 p.m.",
-    "quoteLast": ", and the village of Douaumont captured. The fort was stormed at 3 o'clock by the Moroccan Colonials, and the few Germans who held out there surrendered when night came on.",
-    "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
-    "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "306cdbe5e1871311b46e6a9a1f43b0cdbf3d1a67f67f643925c92ed8620537bc"
+    "quoteLast": " two companies of the 8th L.F. were sent to fill the gap between the right of the 127th Brigade and the R.N. Division. At 3.35 p.m. it was seen that the enemy was massing troops in a nullah on this flank, seriously threatening the foremost line.",
+    "title": "The 42nd (East Lancashire) Division 1914-1918",
+    "author": "Gibbon, Frederick P.",
+    "gutenbergReference": "73544",
+    "hash": "4334316c9d96215b6fe9471de730ec6bd2fde832c3d1612f77a8d7c6d2d59f08"
   },
   {
     "time": "14:45",
-    "quoteFirst": "Promptly at ",
+    "quoteFirst": "Ronald Tressidar kept his plans to himself, but one of the first things he did was to consult a railway time-table. In it he found that the earliest train the girl could take was at ",
+    "quoteTime": "2.45 p.m.",
+    "quoteLast": " That meant that she would probably set out on her return at a quarter past three, since Nedderburn was only nine miles from Auldhaig and the railway journey took twenty minutes.",
+    "title": "A Watch-dog of the North Sea: A Naval Story of the Great War",
+    "author": "Westerman, Percy F. (Percy Francis), 1876-1959",
+    "gutenbergReference": "49267",
+    "hash": "12f507c6016dc283e47d75554c80153379a5cc46bd4b338030c5b8802ca6c451"
+  },
+  {
+    "time": "14:45",
+    "quoteFirst": "Ronald Tressidar kept his plans to himself, but one of the first things he did was to consult a railway time-table. In it he found that the earliest train the girl could take was at ",
+    "quoteTime": "2.45 p.m.",
+    "quoteLast": " That meant that she would probably set out on her return at a quarter past three, since Nedderburn was only nine miles from Auldhaig and the railway journey took twenty minutes.",
+    "title": "A Watch-dog of the North Sea: A Naval Story of the Great War",
+    "author": "Westerman, Percy F. (Percy Francis), 1876-1959",
+    "gutenbergReference": "49267",
+    "hash": "12f507c6016dc283e47d75554c80153379a5cc46bd4b338030c5b8802ca6c451"
+  },
+  {
+    "time": "14:45",
+    "quoteFirst": "The testimony of Geneva L. Hine was taken at ",
+    "quoteTime": "2:45 p.m.",
+    "quoteLast": ", on April 7, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Messrs. Joseph A.",
+    "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44006",
+    "hash": "ee7694ad84c48dabe0d1dbb00bac13371cb9de450cfdfa5259112acf53d7a15a"
+  },
+  {
+    "time": "14:45",
+    "quoteFirst": "“About a ",
     "quoteTime": "quarter to three",
-    "quoteLast": " the other members of the club appeared in a body, and the seven went across to the Trent’s side door, where several pairs of rubbers showed that they were not the first arrivals.",
-    "title": "A Texas Blue Bonnet",
-    "author": "Jacobs, Caroline Emilia, 1872-1909; Goss, John, 1886-1963 [Illustrator]",
-    "gutenbergReference": "53192",
-    "matchType": 1,
-    "hash": "e85c72296ad2cea3db6e698f955f662a49e887f62325e619350750ba6ea58696"
+    "quoteLast": ", sir. There was――h’m――a misunderstanding about trains, sir, and I was obliged to engage a fly at the Junction.”",
+    "title": "Rivals for the Team: A Story of School Life and Football",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "67805",
+    "hash": "6f2fd51119450ecf8db68dc5a8bea4581c47ee3cbc3106c09973eccefa1538f6"
+  },
+  {
+    "time": "14:45",
+    "quoteFirst": "So at ",
+    "quoteTime": "2.45 p.m.",
+    "quoteLast": " the enemy opened fire at the _Queen Charlotte_. Before the sound of the firing reached his ears, and while the first smoke was visible, Lord Exmouth gave the order to fire, and then three broadsides were fired in about six minutes, the rest of the fleet following the example.",
+    "title": "Daring Deeds of Famous Pirates\nTrue stories of the stirring adventures, bravery and resource of pirates, filibusters & buccaneers",
+    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
+    "gutenbergReference": "64954",
+    "hash": "d9b19fb773b96da92f28043d30246f1e646faa6c2301533366401691241d27b6"
+  },
+  {
+    "time": "14:45",
+    "quoteFirst": "By eleven o’clock the next forenoon the thaw had begun in earnest, but it was too late to cancel the game. Rock Hill appeared on the scene promptly and at a ",
+    "quoteTime": "quarter to three",
+    "quoteLast": " the game began. The ice was soft along the boards and there was a film of water everywhere, but it was possible to play for all of that. Felder was out of the game with tonsilitis and Sanderson took his place at cover point.",
+    "title": "Winning His \"Y\": A Story of School Athletics",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "58192",
+    "hash": "d42f7ead0a2e4181b9a89c4f499f06c01033dd86857679085d7d82294b77332d"
+  },
+  {
+    "time": "14:45",
+    "quoteFirst": "But it was a good baseball day, for after one has once begun to perspire freely he can play ball to the King's taste. Hammond trotted on to the diamond soon after Ferry Hill and went to work practicing Ferry Hill remaining at the batting net until a ",
+    "quoteTime": "quarter to three",
+    "quoteLast": ". Then the two nines changed places and Mr. Cobb began knocking out the ball.",
+    "title": "The Crimson Sweater",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "33425",
+    "hash": "0d4d22a3e43b6cef0007c943901fc7b17117297e20820955e8d29f16407c18a3"
+  },
+  {
+    "time": "14:45",
+    "quoteFirst": "On securing possession of the station, however, the Germans still found there about 200 vans and carriages, and at least a dozen locomotive engines. The last train left at ",
+    "quoteTime": "2.45 p.m.",
+    "quoteLast": " I myself got away (as I shall presently relate) shortly after two o'clock, when the station was already being bombarded.",
+    "title": "My Days of Adventure\r\nThe Fall of France, 1870-71",
+    "author": "Vizetelly, Ernest Alfred, 1853-1922",
+    "gutenbergReference": "9896",
+    "hash": "1572bbcca32726c993663501222b93fe1d4f3dbd66ca756343a186e7f952cff0"
+  },
+  {
+    "time": "14:45",
+    "quoteFirst": "The motor was ordered for the Princess at a ",
+    "quoteTime": "quarter to three",
+    "quoteLast": ". She wished to arrive early at Mrs. Winter's, in order to have her chat with Miss Grant before tea time.",
+    "title": "The guests of Hercules",
+    "author": "Williamson, C. N. (Charles Norris), 1859-1920; Williamson, A. M. (Alice Muriel), 1869-1933; Bracker, M. Leone, 1885-1937 [Illustrator]; Buckland, Arthur H., 1870-1927 [Illustrator]",
+    "gutenbergReference": "19569",
+    "hash": "31bc953b680ca58ce8709d98f02482c8ef3d75561c4e3b7e4261c875c687c742"
+  },
+  {
+    "time": "14:45",
+    "quoteFirst": "“At a ",
+    "quoteTime": "quarter to three",
+    "quoteLast": " I paid my visit to Lord Ripon, feeling rather nervous about it beforehand, but I have every reason to be satisfied with the result. I had a good hour’s conversation, first about the state of the agricultural districts which I described, and afterwards about the really important business of Hyderabad. I set the whole state of the case before him, the reversal by the Peishkar and Kurshid Jah of all Sir Salar Jung’s policy; the dismissal of the skilled administrators; the consequent breakdown of the administration; the return to old practices of corruption",
+    "title": "India under Ripon: A Private Diary",
+    "author": "Blunt, Wilfrid Scawen, 1840-1922",
+    "gutenbergReference": "49177",
+    "hash": "83163f282e20f8b9812212f0c336e3a4b65538a5992aa709ea96c049c65ba9de"
   },
   {
     "time": "14:45",
@@ -194,29 +187,16 @@
     "title": "A Change in the Cabinet",
     "author": "Belloc, Hilaire, 1870-1953",
     "gutenbergReference": "60967",
-    "matchType": 1,
     "hash": "f3f61b27212118b7b6b94a98dfd0b6c31f74f08b18970e2b33e1caae991ebcb8"
   },
   {
     "time": "14:45",
-    "quoteFirst": "30 a.m., sales, amusements, business events; 9.45 to 10 a.m., personal news, small notices; 10 to 10.30 a.m., New York Stock Exchange and market news; 11.30 a.m. to 12 noon, local news, miscellaneous; 12 noon, exact astronomical time, latest telegrams, military and parliamentary news; 2 to 2.15 p.m., European cables; 1.15 to 2.30 p.m., Washington news; 2.30 to ",
-    "quoteTime": "2.45 p.m.",
-    "quoteLast": ", fashions, ladies’ news; 2.45 to 3.15 p.m., sporting and theatrical news; 3.15 to 3.30 p.m., closing news from Wall Street; 3.30 to 5 p.m., musical news, recitals, etc.; 5 to 6 p.m., feuilleton sketches, literary news; 8 to 10.30 p.m., selected evening performance--music, opera, recitations.",
-    "title": "Electricity",
-    "author": "McCormick, W. H. (William Henry), 1884-1952",
-    "gutenbergReference": "72062",
-    "matchType": 2,
-    "hash": "3b14757f9e7a281270ee808de190e8fb2a841a1148f0845e6dc8d9fd6425efbe"
-  },
-  {
-    "time": "14:45",
-    "quoteFirst": "The proceedings reconvened at ",
+    "quoteFirst": "Mr. MARTIN. In New York. December 16 at ",
     "quoteTime": "2:45 p.m.",
     "quoteLast": "",
-    "title": "Warren Commission (09 of 26): Hearings Vol. IX (of 15)",
+    "title": "Warren Commission (02 of 26): Hearings Vol. II (of 15)",
     "author": "United States. Warren Commission",
-    "gutenbergReference": "44009",
-    "matchType": 2,
-    "hash": "2d8f8688a1fc574f9440f5aa41b4d3171fdf636a18c15b120e51121350a23d85"
+    "gutenbergReference": "44002",
+    "hash": "1070850e4cef242fe2905bd66be1627d836414850f03b0c9aec319127302abb4"
   }
 ]

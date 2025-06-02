@@ -7,7 +7,6 @@
     "title": "Kid Scanlan",
     "author": "Witwer, H. C. (Harry Charles), 1890-1929",
     "gutenbergReference": "29764",
-    "matchType": 1,
     "hash": "876ead1fe84ec0e6537bf1b0962dfbe03c6612fe1efd906016841f36849f3203"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Warren Commission (12 of 26): Hearings Vol. XII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44012",
-    "matchType": 1,
     "hash": "3bc36e2244abf949a426aa3b811168972e0057a2aeba288fe3eebababfbfebec"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "928c3f3d4e41d8cac0518ef6f7eacc37203d0570da40bc2d3154d65839c2bee3"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Don't Panic!",
     "author": "Krepps, Robert W., 1919-1980; Terry, W. E., 1921-1992 [Illustrator]",
     "gutenbergReference": "66463",
-    "matchType": 2,
     "hash": "4232a479a0b4a2efeabf3c0bba33ff467091cfce9a20a9868b7202c6502fe4a6"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Daughter of Anderson Crow",
     "author": "McCutcheon, George Barr, 1866-1928; Justice, Martin, 1869-1961 [Illustrator]",
     "gutenbergReference": "14818",
-    "matchType": 1,
     "hash": "259f6f637a53cb0ec6a76dc2f2270adeb6fdee6fac227089470a5702c92ef7ea"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The inter ocean curiosity shop for the year 1883",
     "author": "Various; Jones, William P. [Editor]",
     "gutenbergReference": "70718",
-    "matchType": 2,
     "hash": "720c2a6fec86e15baeb93bc1d7bbc8555c83f5e0f7b9cb3ac62fab95d1fe0337"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The New Astronomy",
     "author": "Langley, S. P. (Samuel Pierpont), 1834-1906",
     "gutenbergReference": "64577",
-    "matchType": 1,
     "hash": "cabf56def8036ca56f8297c682f3216cf9ac5e1df449807c86a1425d54f7984c"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Mr. Prohack",
     "author": "Bennett, Arnold, 1867-1931",
     "gutenbergReference": "12773",
-    "matchType": 1,
     "hash": "a1e0c6b1a17a4741d2c156502b5f6575d985b226a57cf5e58aa2d37e53cdf73d"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Sniping in France: With notes on the scientific training of scouts, observers, and snipers",
     "author": "Hesketh-Prichard, H. (Hesketh), 1876-1922; Horne, Henry, 1861-1929 [Author of introduction, etc.]; Blaikley, Ernest, 1885-1965 [Illustrator]",
     "gutenbergReference": "68964",
-    "matchType": 2,
     "hash": "0d00dd369cce21029ed703f70de54d275c13810bb4a3c0f2f69e899bc5b08734"
   },
   {
@@ -106,7 +97,6 @@
     "title": "Marjorie Dean, Marvelous Manager",
     "author": "Chase, Josephine, -1931",
     "gutenbergReference": "53213",
-    "matchType": 1,
     "hash": "7a9cb182ab74fc58e58c3b0c1b5f354bbdf7865c40befc46533ec3ac40f22a60"
   },
   {
@@ -117,7 +107,6 @@
     "title": "Letters from France",
     "author": "Bean, C. E. W. (Charles Edwin Woodrow), 1879-1968",
     "gutenbergReference": "18390",
-    "matchType": 1,
     "hash": "efd04309cb735412103700e5d95ca3ddd8c10ffa4ca3a1ceeb134d29b09b959f"
   }
 ]

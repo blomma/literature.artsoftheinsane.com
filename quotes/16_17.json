@@ -7,7 +7,6 @@
     "title": "The Rover Boys on Snowshoe Island; or, The Old Lumberman's Treasure Box",
     "author": "Stratemeyer, Edward, 1862-1930",
     "gutenbergReference": "22996",
-    "matchType": 1,
     "hash": "ce5a8e5dc6e0c1d586bc8577263ab7c5ef46abae0676ab803d3b7cba180e93f4"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Putnam Hall Cadets; or, Good Times in School and Out",
     "author": "Stratemeyer, Edward, 1862-1930; Shute, A. B., 1851-1906 [Illustrator]",
     "gutenbergReference": "45517",
-    "matchType": 1,
     "hash": "a993dbd512e1cb649596c2dfdd3b8fd4aa3207c79d73618099ccad006cfd8eb5"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Passenger from Calais",
     "author": "Griffiths, Arthur, 1838-1908",
     "gutenbergReference": "16339",
-    "matchType": 2,
     "hash": "53d1e63abae73baf00124144f162535e10b4347c98d06cc797dec7120c385103"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Twenty Thousand Leagues under the Sea",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "164",
-    "matchType": 0,
     "hash": "7ff30a05efb7d506d868ab2ca23b2da3454b1a94fc8f931c4ddbe6b90bef29a1"
   },
   {
@@ -51,7 +47,6 @@
     "title": "History of the World War",
     "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945",
     "gutenbergReference": "18993",
-    "matchType": 2,
     "hash": "47114b69cc0b84efa45e314b32c8a6cb9da2776945867a3e367e2816de0fa624"
   },
   {
@@ -62,7 +57,6 @@
     "title": "History of the World War",
     "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945",
     "gutenbergReference": "18993",
-    "matchType": 2,
     "hash": "212c48eb9506dc84bb6acefa17a773dd820f626af58d3567b94ad077c5890923"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Story of the Rome, Watertown, and Ogdensburg Railroad",
     "author": "Hungerford, Edward, 1875-1948",
     "gutenbergReference": "39021",
-    "matchType": 2,
     "hash": "5e51d8cfd07d8788a008880c5d5c7d1598f125c388d6d1e5b1afdaf94998f904"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Battle of the Falkland Islands, Before and After",
     "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
     "gutenbergReference": "50265",
-    "matchType": 2,
     "hash": "4bfb9fffa3ac9b70af7fe4055ccf3896767152f971d2b7d3a79f72925c42435b"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Battle of the Falkland Islands, Before and After",
     "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
     "gutenbergReference": "50265",
-    "matchType": 2,
     "hash": "f43a668b0c81370d1e3f24442c565609a8973eeec4902c90db68fcda8df4ea80"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Battle of the Falkland Islands, Before and After",
     "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
     "gutenbergReference": "50265",
-    "matchType": 2,
     "hash": "04e0489c73749feaf2836ad4c7cc23585614de4af55a4b6fd703cbfc616c8f3b"
   },
   {
@@ -117,7 +107,6 @@
     "title": "The British Navy in Battle",
     "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
     "gutenbergReference": "54441",
-    "matchType": 2,
     "hash": "430af3482467597ef27a7a0944a3b4f1136972c02e0efad68a95aedddd7beee5"
   },
   {
@@ -128,7 +117,6 @@
     "title": "The British Navy in Battle",
     "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
     "gutenbergReference": "54441",
-    "matchType": 2,
     "hash": "6582115817161d64f198ec9044371ceeb5182948f3c5a64563748bcd3f7c5a3f"
   },
   {
@@ -139,7 +127,6 @@
     "title": "The British Navy in Battle",
     "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
     "gutenbergReference": "54441",
-    "matchType": 1,
     "hash": "16183ec0aa753320a3512179b7d6ea9d4c0c618f2ccf12a62ab79f96e7cab95d"
   },
   {
@@ -150,7 +137,6 @@
     "title": "New York Times Current History; The European War, Vol 2, No. 2, May, 1915\nApril-September, 1915",
     "author": "Various",
     "gutenbergReference": "15479",
-    "matchType": 2,
     "hash": "e1eecffe13baacb92f43537412eddcedb70f3eb20974e374c0740c5a0cf118dd"
   },
   {
@@ -161,8 +147,17 @@
     "title": "New York Times Current History; The European War, Vol 2, No. 2, May, 1915\nApril-September, 1915",
     "author": "Various",
     "gutenbergReference": "15479",
-    "matchType": 2,
     "hash": "41876ba0429bcbbf1034267b6e2feaa332eb54f3b13dd313938599ebc09014cc"
+  },
+  {
+    "time": "16:17",
+    "quoteFirst": "The continent is crossed from Montreal to Vancouver, in British Columbia, in five days and fourteen hours; and this will soon be reduced to one hundred and twenty hours. Good time is kept. The first east-bound trans-continental train that was met in transit, passed Sudbury, going eastward, at ",
+    "quoteTime": "4.17 P.M.",
+    "quoteLast": ", after being about five days on the journey. Before its arrival, there was some curiosity to learn whether it was in time, and bets were made on the time it would arrive.",
+    "title": "Chambers's Journal of Popular Literature, Science, and Art, fifth series, no. 152, vol. III, November 27, 1886",
+    "author": "Various",
+    "gutenbergReference": "75818",
+    "hash": "97087d81f6413b4d420281151e9c2f1a5bb6759620d1581965ab1daac546d2b2"
   },
   {
     "time": "16:17",
@@ -172,7 +167,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "deb9474d5122c6bc461ca7a54b21720ac05f9c4aff9a71f836027b16dcffd1c6"
   },
   {
@@ -183,7 +177,6 @@
     "title": "The World Crisis, Volume 1 (of 6)",
     "author": "Churchill, Winston, 1874-1965",
     "gutenbergReference": "59794",
-    "matchType": 2,
     "hash": "3bb7ac0611fa3ceb444c4aab410eec400f30e1d71396d887f4614f93ef7fef21"
   },
   {
@@ -194,7 +187,6 @@
     "title": "History of the World War, Volume 2 (of 7)",
     "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945; Hare, James H., 1856-1946 [Photographer]; Thompson, Donald C., 1885-1947 [Photographer]",
     "gutenbergReference": "74727",
-    "matchType": 2,
     "hash": "35c0b7befb7eefeb6e9c87197ec08c37832a3a02e9bede200296f94f13b56906"
   }
 ]

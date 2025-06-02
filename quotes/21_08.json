@@ -7,7 +7,6 @@
     "title": "The Corsair in the war zone",
     "author": "Paine, Ralph Delahaye, 1871-1925",
     "gutenbergReference": "72760",
-    "matchType": 2,
     "hash": "8125fce10d7f07637a021d0abcfc0a34f88467abd9beaf74b6073cb7007fd9a5"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Lusitania's Last Voyage\r\nBeing a narrative of the torpedoing and sinking of the R. M. S. Lusitania by a German submarine off the Irish coast, May 7, 1915",
     "author": "Lauriat, Charles Emelius, Jr., 1874-1937",
     "gutenbergReference": "53251",
-    "matchType": 1,
     "hash": "12cb453133d498a7a32017f6386f987be090ea6976262831e5f2473a874fa5d8"
   },
   {
@@ -29,7 +27,6 @@
     "title": "An account of a useful discovery to distill double the usual quantity of sea-water, by blowing showers of air up through the distilling liquor",
     "author": "Hales, Stephen, 1677-1761",
     "gutenbergReference": "71081",
-    "matchType": 1,
     "hash": "98e0892f751faa6d4f963461f0a3e9a4a16fe6d370dd085f964beb208b4b5a09"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Harmsworth Magazine, Vol. 1, 1898-1899, No. 6",
     "author": "Various",
     "gutenbergReference": "40711",
-    "matchType": 1,
     "hash": "7fb6d7a74ecdad9e0c008ee6e6a346f81366eb1629ed1434e8aa717e33618e06"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The perfume of the lady in black",
     "author": "Leroux, Gaston, 1868-1927; Simont [Illustrator]",
     "gutenbergReference": "75258",
-    "matchType": 1,
     "hash": "ac7b6d1511826f63c489607a74a5c847af60c153c5d74d35fe05d15f973c4cad"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The city in the sea",
     "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
     "gutenbergReference": "75608",
-    "matchType": 1,
     "hash": "ebdcc49e58c95a714eac6e9e50b38dc23a257a1d2b3fb3db55aa88ba5cdde2fc"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Schwatka's Search: Sledging in the Arctic in Quest of the Franklin Records",
     "author": "Gilder, William H. (William Henry), 1838-1900",
     "gutenbergReference": "6594",
-    "matchType": 1,
     "hash": "ea7f649388b622e64c803def0966395a6d5277402e65827a5fd7f7acae2afb44"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Life Blood",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34318",
-    "matchType": 2,
     "hash": "f196c5d44d2f97324600cc5e593b8f02481e39d8729bdda089a4a225ddeaa14d"
   }
 ]

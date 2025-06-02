@@ -7,7 +7,6 @@
     "title": "The Aeroplane",
     "author": "Grahame-White, Claude, 1879-1959; Harper, Harry, 1880-1960",
     "gutenbergReference": "45825",
-    "matchType": 2,
     "hash": "dfd7810baebd3b781acb434300a8764cdecfa47a71c792d3d5894d5248e97f7c"
   },
   {
@@ -18,7 +17,6 @@
     "title": "My Memoirs, Vol. VI, 1832 to 1833",
     "author": "Dumas, Alexandre, 1802-1870; Waller, E. M. (Emily Mary) [Translator]",
     "gutenbergReference": "51105",
-    "matchType": 1,
     "hash": "06516fb3b6e807473c180e993c7a04a26dfa01b1b1933c7efe887799b8c7a339"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Matador of the Five Towns and Other Stories",
     "author": "Bennett, Arnold, 1867-1931",
     "gutenbergReference": "12995",
-    "matchType": 1,
     "hash": "238a511c8ba6cbee390985947ecd006cfb6e22ecf468904149050cfe6f038b73"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Aeroplane in War",
     "author": "Grahame-White, Claude, 1879-1959; Harper, Harry, 1880-1960",
     "gutenbergReference": "63597",
-    "matchType": 2,
     "hash": "a9e919e43af9b17ff782ec87dd08c432ddad6203434e81549058dbe864996976"
   }
 ]

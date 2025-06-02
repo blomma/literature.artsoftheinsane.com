@@ -7,7 +7,6 @@
     "title": "Star-Dust: A Story of an American Girl",
     "author": "Hurst, Fannie, 1889-1968",
     "gutenbergReference": "9858",
-    "matchType": 1,
     "hash": "3cdf3fcfd7fa987f4a98ed3cc9f8fc14e338c2fc61a57707775c262bab0d66d2"
   },
   {
@@ -18,7 +17,6 @@
     "title": "A History of the Republican Party",
     "author": "Platt, George Washington, 1875-",
     "gutenbergReference": "37737",
-    "matchType": 2,
     "hash": "1814634929117aef3559c4544c6e24ed0bc0f681505bf8d699738891024e8834"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "772eb15933798c776e9f5098f25f9e0160bff2985c6458a6c2ecb1e7a9edd94b"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "e08de638a129129ac9c582ff22478669ef35afe39a6eb1f9da79e4e2097c99d2"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "3df0ce395b660d52d48ca8a7b1af8640e765f53b000480653a1fae59d7d17a8c"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The German pirate",
     "author": "Ajax",
     "gutenbergReference": "50865",
-    "matchType": 2,
     "hash": "131c6b15115102bced8db59c9f8ffc672935e55a3f5706d61b81976db5dddfcd"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Mr. Togo: Maid of all Work",
     "author": "Irwin, Wallace, 1876-1959; Irvin, Rea, 1881-1972 [Illustrator]",
     "gutenbergReference": "65614",
-    "matchType": 2,
     "hash": "fff1484c4d7905837fcd6a6fbfa8964e64528bd0c3ba8b901d64239e8780ea47"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The unpleasantness at the Bellona Club",
     "author": "Sayers, Dorothy L. (Dorothy Leigh), 1893-1957",
     "gutenbergReference": "72855",
-    "matchType": 2,
     "hash": "c44ba3a66d426b29b1e884365b6a54ee7be3dfc4cb359d6622e316ed1c3e7dcb"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, February 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55053",
-    "matchType": 2,
     "hash": "34dae0e4e267d43d62f0346d770137f77c070a56e37f06eada4ffff84d9b2224"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Buchanan's Journal of Man, April 1887\nVolume 1, Number 3",
     "author": "Buchanan, Joseph R. (Joseph Rodes), 1814-1899 [Editor]",
     "gutenbergReference": "25890",
-    "matchType": 2,
     "hash": "d883995db39253cf24c1c18fbd07e9f65d667e42e36d4893066e043f00d0d808"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Three Men and a Maid",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "6836",
-    "matchType": 1,
     "hash": "3275230ec655bc51c2ca021514a08f1b9b964fb1542ff9812680b01e92e4fe84"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Girl on the Boat",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "20717",
-    "matchType": 1,
     "hash": "d0c1e3d7ac0e7b526ab08eafc97d7a4ec889bee9190c5b700a701e5c833be1ab"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The post office and its story",
     "author": "Bennett, Edward, 1858?-",
     "gutenbergReference": "55685",
-    "matchType": 2,
     "hash": "e62b9122b8eb6fbfe16c7cbe1719253b77f373621f75c10864dd8b9628fb97ba"
   }
 ]

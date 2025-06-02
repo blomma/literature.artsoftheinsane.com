@@ -7,7 +7,6 @@
     "title": "My Airships; The Story of My Life",
     "author": "Santos-Dumont, Alberto, 1873-1932",
     "gutenbergReference": "42344",
-    "matchType": 2,
     "hash": "4a9627d35e3e17dd2c1ee21744a082ec9c57e58b92606fedad1158eacd5b7ce6"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Stories of Inventors: The Adventures of Inventors and Engineers",
     "author": "Doubleday, Russell, 1872-1949",
     "gutenbergReference": "11368",
-    "matchType": 2,
     "hash": "1474c2fc1e188b11ef739d7ecdc4883919563e845cd8e5d0c916bcd08d29fc95"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "41755be49d41b7e317d53807b1aca97abffba639121e32cbce5a00f83903edc5"
   }
 ]

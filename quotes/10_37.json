@@ -7,7 +7,6 @@
     "title": "The unpleasantness at the Bellona Club",
     "author": "Sayers, Dorothy L. (Dorothy Leigh), 1893-1957",
     "gutenbergReference": "72855",
-    "matchType": 2,
     "hash": "c3cef7176fd088a1c7693a7f102dd61bbfac89c578ea164e5c3214e400b0b905"
   },
   {
@@ -18,7 +17,6 @@
     "title": "History of a World of Immortals without a God\r\nTranslated from an unpublished manuscript in the library of a continental university",
     "author": "Barlow, James William, 1826-1913 [Translator]",
     "gutenbergReference": "67548",
-    "matchType": 1,
     "hash": "0b38dd0356ba10ecd94d03780fa0bfce0600869a6c0028659effe47f16c7267b"
   },
   {
@@ -29,7 +27,6 @@
     "title": "History of a World of Immortals without a God\r\nTranslated from an unpublished manuscript in the library of a continental university",
     "author": "Barlow, James William, 1826-1913 [Translator]",
     "gutenbergReference": "67548",
-    "matchType": 1,
     "hash": "7529934084bed121991359a22b246177f51ebb3d47fec6ca18a99d990e22ea78"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Yachting, Vol. 2",
     "author": "Pritchett, R. T. (Robert Taylor), 1828-1907; Blake, G. L.; Dufferin and Ava, Frederick Temple Blackwood, Marquis of, 1826-1902; McFerran, James; Middleton, T. B.",
     "gutenbergReference": "41973",
-    "matchType": 2,
     "hash": "456328f98a0ff4c41fd89c98879909901ed2c2c588a02ebf97a993cf997e8239"
   },
   {
@@ -49,10 +45,9 @@
     "quoteTime": "10.37 a. m.",
     "quoteLast": ", when a towing line was received from H. M. S. _Snowdrop_, various attempts were made by the _Tamarisk_ and two trawlers and a tug to tow the _Cassin_.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "c5212a4186ea8ade387305282a4132adf24e882da648408202ee84fb3db3cd98"
+    "hash": "be905529403764180646a3af9c6a9052ff9b5f3d2eda97b67b8df17490bbb16c"
   },
   {
     "time": "10:37",
@@ -62,7 +57,6 @@
     "title": "Our Navy at war",
     "author": "Daniels, Josephus, 1862-1948",
     "gutenbergReference": "63596",
-    "matchType": 2,
     "hash": "f571e9b324f7b51c46a095e6829057033f76e482101024e14fa755de8c226830"
   },
   {
@@ -73,7 +67,6 @@
     "title": "He Knew He Was Right",
     "author": "Trollope, Anthony, 1815-1882",
     "gutenbergReference": "5140",
-    "matchType": 2,
     "hash": "610a11a29222e86e2e11923779c6321939191b6bb1d2ef4a546df40f8f4c6c97"
   }
 ]

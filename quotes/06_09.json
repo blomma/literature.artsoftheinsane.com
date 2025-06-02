@@ -7,7 +7,6 @@
     "title": "The secret spring",
     "author": "Benoît, Pierre, 1886-1962",
     "gutenbergReference": "69281",
-    "matchType": 1,
     "hash": "4ccde2e5875bfad0d8bffe6bf81256b941c4e63672c454e7b4acf77d7ec3e076"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "fa608350874f434a08b6c7664870dd2cbe9d8c766aba449f03a0f31a353fe1de"
   }
 ]

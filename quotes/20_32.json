@@ -7,7 +7,6 @@
     "title": "Werwolves",
     "author": "O'Donnell, Elliott, 1872-1965",
     "gutenbergReference": "26629",
-    "matchType": 2,
     "hash": "e9517d91c539433c1b666850f66af010bb7d5a521119c7e36bd500c0bd3a9b5b"
   },
   {
@@ -18,7 +17,6 @@
     "title": "My Brother, Theodore Roosevelt",
     "author": "Robinson, Corinne Roosevelt, 1861-1933",
     "gutenbergReference": "51831",
-    "matchType": 1,
     "hash": "78421b3eff44da9f3a3bb01e22ac2af154f95ce9d4567858ab1ad15c8575b848"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Wonderful Balloon Ascents; Or, The Conquest of the Skies\r\nA History of Balloons and Balloon Voyages",
     "author": "Marion, Fulgence",
     "gutenbergReference": "899",
-    "matchType": 1,
     "hash": "695652ff0fed60a51c4b66e6c5d23bd06b07442cd6aede9ebe056792bbaf677e"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Working North from Patagonia\r\nBeing the Narrative of a Journey, Earned on the Way, Through Southern and Eastern South America",
     "author": "Franck, Harry Alverson, 1881-1962",
     "gutenbergReference": "55455",
-    "matchType": 2,
     "hash": "583c5c4d88e26afdee2ace8c7c824a755b8776d97126e27468c3dfa245a3f2be"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Boy Patrol on Guard",
     "author": "Ellis, Edward Sylvester, 1840-1916; Prittie, Edwin John, 1879-1963 [Illustrator]",
     "gutenbergReference": "43079",
-    "matchType": 1,
     "hash": "c9a00cd82160674c9094acb6807b4f27bff2067347d42649b32be0fc86b5f3e4"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 3",
     "author": "Humboldt, Alexander von, 1769-1859; Bonpland, Aimé, 1773-1858; Ross, Thomasina [Translator]",
     "gutenbergReference": "7254",
-    "matchType": 1,
     "hash": "8fb342708b2854a298e7cbb8e75ec3395b84e9eb717e408239dfa3417fd613a3"
   }
 ]

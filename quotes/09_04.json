@@ -7,7 +7,6 @@
     "title": "The Corsair in the war zone",
     "author": "Paine, Ralph Delahaye, 1871-1925",
     "gutenbergReference": "72760",
-    "matchType": 2,
     "hash": "37a6098109cbcc194c29f14527b890d355bce1fab9f20222e0675ac40d5248fd"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Corsair in the war zone",
     "author": "Paine, Ralph Delahaye, 1871-1925",
     "gutenbergReference": "72760",
-    "matchType": 2,
     "hash": "547127cf95ad07de9a9441fb94321a1457504e394d367e4a826fdacc03782b28"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Wandering Jew — Complete",
     "author": "Sue, Eugène, 1804-1857",
     "gutenbergReference": "3350",
-    "matchType": 0,
     "hash": "db9cdbbf4266bfbf77c73a39ebdf933f7f143d9af193833b4065cb545ea80717"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Wonderful Balloon Ascents; Or, The Conquest of the Skies\r\nA History of Balloons and Balloon Voyages",
     "author": "Marion, Fulgence",
     "gutenbergReference": "899",
-    "matchType": 1,
     "hash": "1257be00662e65b3aeb36312e757139236eadeaf6b997b0263e3ba6d86c332cb"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Mrs. Fitz",
     "author": "Snaith, J. C. (John Collis), 1876-1936",
     "gutenbergReference": "34398",
-    "matchType": 1,
     "hash": "600652773fb3259d7ce859b5c00da2237904446b73311e91c34f4a1ff0761ac0"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Wandering Jew — Volume 01",
     "author": "Sue, Eugène, 1804-1857",
     "gutenbergReference": "3339",
-    "matchType": 0,
     "hash": "8f0c969cd72211ce8e09c7a3a12d59a815806161aef6c8ac69490fe471bdab7d"
   }
 ]

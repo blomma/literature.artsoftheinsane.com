@@ -7,7 +7,6 @@
     "title": "Around the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "103",
-    "matchType": 1,
     "hash": "4820cd307d619f109356af5ef7bdb134835e240543d009ffa0cae8cb602a7f5e"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "ecebeae3249b49e80b3333d7ec8d580f8bfb520a4a09c609c45de9a07a6eeb09"
   },
   {
@@ -29,7 +27,6 @@
     "title": "McKinlay's Journal of Exploration in the Interior of Australia",
     "author": "McKinlay, John, 1819-1872",
     "gutenbergReference": "13248",
-    "matchType": 2,
     "hash": "b07a31009dd1c2657301a09f4d2ed8ba25561c0eaa4c083ce60d72c729c61a27"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Apes and Angels",
     "author": "Connell, Richard Edward, 1893-1949",
     "gutenbergReference": "65201",
-    "matchType": 1,
     "hash": "6e5d23b13669a896bf942ea9ff9fd59460a994b6783fe294dd6168de4c4f18c7"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Round the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905; Frith, Henry, 1840- [Translator]",
     "gutenbergReference": "32972",
-    "matchType": 1,
     "hash": "a426f703d5a2073bd9e1ff4ed6f163260d55d09be43ff4f84482ac8c435b7b90"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "5f767aa29e55b677205d277ead94f93665ee7f043a59c35541de8853d899204f"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Tragedy in Dedham",
     "author": "Russell, Francis, 1910-1989",
     "gutenbergReference": "70970",
-    "matchType": 2,
     "hash": "436dd86f02d4d022bfc5c326705f4f46404fdb64cb24425c87afc69d6ddfd2af"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Voyage to Jupiter",
     "author": "Morrison, David, 1940-; Samz, Jane",
     "gutenbergReference": "58915",
-    "matchType": 2,
     "hash": "1a18b5b3fe91f7c1260151f8b9ece8dc482ce9acb2f01045e830e0bcb28e5b68"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Voyage to Jupiter",
     "author": "Morrison, David, 1940-; Samz, Jane",
     "gutenbergReference": "58915",
-    "matchType": 2,
     "hash": "c41c47a34f50c94c2056ac368ffb5a89cafc70b219c0502adb22e2c3edd47a81"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Life of Florence Nightingale, vol. 1 of 2",
     "author": "Cook, Edward Tyas, Sir, 1857-1919",
     "gutenbergReference": "40057",
-    "matchType": 0,
     "hash": "9aa2a95738e491aa4d4964b18d9bd05843e8c929039d487bf9aa7d85ef1ee4e6"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The play that won",
     "author": "Barbour, Ralph Henry, 1870-1944; Louderback, Walt, 1887-1941 [Illustrator]",
     "gutenbergReference": "68062",
-    "matchType": 1,
     "hash": "0f73ea11e375fe40b82e59a96bb9cba93ffab5656ac8b29fc6799c4bc8a0a5da"
   },
   {
@@ -62,7 +57,6 @@
     "title": "A General History and Collection of Voyages and Travels — Volume 09\r\nArranged in Systematic Order: Forming a Complete History of the Origin and Progress of Navigation, Discovery, and Commerce, by Sea and Land, from the Earliest Ages to the Present Time",
     "author": "Kerr, Robert, 1755-1813",
     "gutenbergReference": "13055",
-    "matchType": 0,
     "hash": "2295dced414ac143538ad76539d99308b237735a3e36a10e4e20b719b6a23274"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Bombardment of Reims",
     "author": "Ferree, Barr, 1862-1924",
     "gutenbergReference": "49649",
-    "matchType": 0,
     "hash": "18e8249f988ddf00271a0947d064dc79bee039b20bf8b0e2719e3e8dab651d03"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Bombardment of Reims",
     "author": "Ferree, Barr, 1862-1924",
     "gutenbergReference": "49649",
-    "matchType": 0,
     "hash": "b1055b4f78d8c8f485888b241dc5888fc8057f3ed56f114157de625fbb66ed37"
   }
 ]

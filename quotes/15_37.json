@@ -7,7 +7,6 @@
     "title": "The History of Korea (vol. 2 of 2)",
     "author": "Hulbert, Homer B. (Homer Bezaleel), 1863-1949",
     "gutenbergReference": "52749",
-    "matchType": 1,
     "hash": "6a58a4e5e08f43afb5471fe5c7cefa4c5dc34c5e655b10f5f4fa1f28d1b2c3f2"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Pedestrianism; or, An Account of the Performances of Celebrated Pedestrians During the Last and Present Century.\r\nWith a full narrative of Captain Barclay's public and private matches; and an essay on training.",
     "author": "Thom, Walter, 1770-1824",
     "gutenbergReference": "55644",
-    "matchType": 0,
     "hash": "ce682aa1a75bf337c6c8edd221dc35dd1aa761c8e688857d8247eee4f65ddf43"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Murder in the maze",
     "author": "Connington, J. J., 1880-1947",
     "gutenbergReference": "71351",
-    "matchType": 2,
     "hash": "2540fd419e890691fac8513edfb9271f8c2be5b39734df6ec3b51897d46c801a"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Illustrators of Montmartre",
     "author": "Emanuel, Frank L. (Frank Lewis), 1865-1948",
     "gutenbergReference": "65929",
-    "matchType": 2,
     "hash": "128429c6d4e4d8cc8127210e2a5e72a832e12e7cfb26f920c221fa2b2e828bc5"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, February 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55053",
-    "matchType": 2,
     "hash": "9ac2d1b04ebcea854a239ee35e539a82ca85e66ef7306c6c3cbaeabd08912e1e"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Flaming Sword in Serbia and Elsewhere",
     "author": "Stobart, M. A. (Mabel Annie), 1862-1954",
     "gutenbergReference": "43124",
-    "matchType": 2,
     "hash": "1b8e51a6b387acb7f0d281f826fea7415c5cdf38e68c71003c75f9e4545f38d6"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Flying Mercury",
     "author": "Ingram, Eleanor M. (Eleanor Marie), 1886-1921; Frederick, Edmund, 1870-1949 [Illustrator]; Stuart, Bertha, 1869-1953 [Illustrator]",
     "gutenbergReference": "29166",
-    "matchType": 1,
     "hash": "97a608369634c58aed4abe2adee621fe5ed36f8cbc5b220f4427f0c2f06d6b5c"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Ten Days That Shook the World",
     "author": "Reed, John, 1887-1920",
     "gutenbergReference": "3076",
-    "matchType": 2,
     "hash": "0f6bb912e65da806eec05af2925c8c22597b71177c6bc789b08011f40ddcf17b"
   }
 ]

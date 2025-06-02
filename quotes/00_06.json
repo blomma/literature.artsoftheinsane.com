@@ -7,7 +7,6 @@
     "title": "Miracle Gold: A Novel (Vol. 1 of 3)",
     "author": "Dowling, Richard, 1846-1898",
     "gutenbergReference": "42498",
-    "matchType": 1,
     "hash": "94e3108771499a50ac2a94c18c5b1916241fdcb5ebadc2e95329dad2b7c93f1e"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Cytherea",
     "author": "Hergesheimer, Joseph, 1880-1954",
     "gutenbergReference": "6847",
-    "matchType": 1,
     "hash": "47470273bf5433f0c1bc29754ae143f3856a9657401cb0e3c08c781f0577e341"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "8dc8805a21e957b4956f3dcb40f09dd4a9820d5841940de51fe9e498fa4c197f"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Murder by the clock",
     "author": "King, Rufus, 1893-1966",
     "gutenbergReference": "75500",
-    "matchType": 2,
     "hash": "404465ad0535e1ffb4dfe37eba66127faa1c5cd79ad2e8a33bc07fadc2f72312"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Murder by the clock",
     "author": "King, Rufus, 1893-1966",
     "gutenbergReference": "75500",
-    "matchType": 2,
     "hash": "2c632a66ed9068cbae61757262447d2072b5e38b299cde24bb90686e0b59fd34"
   },
   {
@@ -62,8 +57,17 @@
     "title": "The Chautauquan, Vol. 04, May 1884, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55158",
-    "matchType": 2,
     "hash": "c213a41214b672f1827f8e8153d27878532d30d467ead089f0c4a9cf1df58ed2"
+  },
+  {
+    "time": "00:06",
+    "quoteFirst": "",
+    "quoteTime": "Six minutes after midnight",
+    "quoteLast": " the mail-train came thundering out of nowhere.",
+    "title": "The end of the trail",
+    "author": "Powell, E. Alexander (Edward Alexander), 1879-1957",
+    "gutenbergReference": "75697",
+    "hash": "9823df182ba2cea22902ca9d2f7ea61c266cbb46252f29d58bebbf5938ca6312"
   },
   {
     "time": "00:06",
@@ -73,7 +77,6 @@
     "title": "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 3",
     "author": "Humboldt, Alexander von, 1769-1859; Bonpland, Aimé, 1773-1858; Ross, Thomasina [Translator]",
     "gutenbergReference": "7254",
-    "matchType": 1,
     "hash": "722dd482dfdc66f0386a390e1206c3be55357af75f88014ad51149755e9e394e"
   }
 ]

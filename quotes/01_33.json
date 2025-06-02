@@ -7,7 +7,6 @@
     "title": "The weight of the name",
     "author": "Bourget, Paul, 1852-1935; Ives, George Burnham, 1856-1930 [Translator]",
     "gutenbergReference": "68859",
-    "matchType": 1,
     "hash": "9b22cbf5a19064592746a0af4a8b6c6a77ca7b7cc40e0fcb6ad9cc4e98c34407"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Silver Poppy",
     "author": "Stringer, Arthur, 1874-1950",
     "gutenbergReference": "42184",
-    "matchType": 1,
     "hash": "60994909e6613b8286e86da125d71eb01810c7d020592557c13bc555d7a30425"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, February 1884, No. 5.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55132",
-    "matchType": 2,
     "hash": "f603cf8626c73c510e21335401cbadbcd026e069237a69808baec594a21a2513"
   }
 ]

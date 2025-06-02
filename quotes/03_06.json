@@ -7,7 +7,6 @@
     "title": "The Airship Boys' Ocean Flyer; Or, New York to London in Twelve Hours",
     "author": "Sayler, H. L. (Harry Lincoln), 1863-1913; Riesenberg, Sidney H., 1885-1971 [Illustrator]",
     "gutenbergReference": "49416",
-    "matchType": 1,
     "hash": "bdabaaac259f9c8dbf899b1bfb3c4cd88c7043cca6f6b38fd7b15c55bd08e730"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "c17ad1b9afbe12c4c3e5da8697fccf68bd8981e3c2f44a2762dcaa2d24108d50"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Spectator, Volume 2.",
     "author": "Addison, Joseph, 1672-1719; Steele, Richard, Sir, 1672-1729",
     "gutenbergReference": "11010",
-    "matchType": 1,
     "hash": "6df5b366a067f8184a88629b430c0b1364944dc0affc1c8236f6821e0d12881c"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Spectator, Volume 2.",
     "author": "Addison, Joseph, 1672-1719; Steele, Richard, Sir, 1672-1729",
     "gutenbergReference": "11010",
-    "matchType": 1,
     "hash": "8da7ff9d6350bf7ac7c58a63942b68986235d27c80da948d7104fd5a2082b389"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Spectator, Volumes 1, 2 and 3\nWith Translations and Index for the Series",
     "author": "Addison, Joseph, 1672-1719; Steele, Richard, Sir, 1672-1729; Morley, Henry, 1822-1894 [Editor]",
     "gutenbergReference": "12030",
-    "matchType": 1,
     "hash": "91e366308c56ec78bf673a759de53e4167e89cd3a5235cc1781f12a301110406"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Spectator, Volumes 1, 2 and 3\nWith Translations and Index for the Series",
     "author": "Addison, Joseph, 1672-1719; Steele, Richard, Sir, 1672-1729; Morley, Henry, 1822-1894 [Editor]",
     "gutenbergReference": "12030",
-    "matchType": 1,
     "hash": "89d0cdeaeeb8a3feb3135c0c9fa0f8ac7f1fc363867879d75cc18a1e83be2172"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Apartment Next Door",
     "author": "Johnston, William, 1871-1929",
     "gutenbergReference": "11240",
-    "matchType": 1,
     "hash": "5bd71f7b1acba642db76f09538d25ecdda3f432f1c80024bfce5ffdb8b1ddda5"
   },
   {
@@ -84,7 +77,6 @@
     "title": "When William Came",
     "author": "Saki, 1870-1916",
     "gutenbergReference": "14540",
-    "matchType": 1,
     "hash": "e4bbdc30dacceabb3f3358fa21842b6945e916edb3f87a52a49085bbb0a89743"
   }
 ]

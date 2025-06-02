@@ -7,7 +7,6 @@
     "title": "The Dominion of the Air: The Story of Aerial Navigation",
     "author": "Bacon, John M. (John Mackenzie), 1846-1904",
     "gutenbergReference": "861",
-    "matchType": 2,
     "hash": "4ed5107ba7666077f0ec44c9f11eefb930d20184f3b88392be207747c0251383"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Wonderful Balloon Ascents; Or, The Conquest of the Skies\r\nA History of Balloons and Balloon Voyages",
     "author": "Marion, Fulgence",
     "gutenbergReference": "899",
-    "matchType": 1,
     "hash": "fdafb2976b987dc41002f48e13a88c5439454f968827e64070c3d59f2093a245"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Great Men and Famous Women. Vol. 3\r\nA series of pen and pencil sketches of the lives of more than 200 of the most prominent personages in History",
     "author": "Horne, Charles F. (Charles Francis), 1870-1942 [Editor]",
     "gutenbergReference": "26423",
-    "matchType": 0,
     "hash": "076cc42e05bab3a6b854cbf56a32ddc807c6dedc18237f0c1b4ecd6b2104887e"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Medieval People",
     "author": "Power, Eileen, 1889-1940",
     "gutenbergReference": "13144",
-    "matchType": 0,
     "hash": "e57ac15e2012e0a0b8fd54d8f9e7c94dfbdb336ab305fda5ab7ab51e1b7c65cc"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
     "author": "Miles, Henry Downes, 1806-1889",
     "gutenbergReference": "64111",
-    "matchType": 1,
     "hash": "645fdadea04976b5791118b7ae0711d8ff58e829a8b255490bbb2ff016291e08"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Samurai Strategy",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34323",
-    "matchType": 2,
     "hash": "e1a5547a726dddca7755874c5ef71a1a162372638d535db46084e2b662cf087d"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Bombardment of Reims",
     "author": "Ferree, Barr, 1862-1924",
     "gutenbergReference": "49649",
-    "matchType": 0,
     "hash": "bec343764875ea44cf5eec73cc6719c511038733fede6f891c594ac8882e601e"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Bombardment of Reims",
     "author": "Ferree, Barr, 1862-1924",
     "gutenbergReference": "49649",
-    "matchType": 0,
     "hash": "6cfcc65a91c6915bd21404a62b9f5a250e7b3e359391ff26a35017dc4b20e336"
   }
 ]

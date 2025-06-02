@@ -7,7 +7,6 @@
     "title": "Erema; Or, My Father's Sin",
     "author": "Blackmore, R. D. (Richard Doddridge), 1825-1900",
     "gutenbergReference": "7112",
-    "matchType": 1,
     "hash": "03825bfcfcb5744a7a9b265f32b440900e6303f8f9c00672bcf59bbc2569b002"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, May 1884, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55158",
-    "matchType": 2,
     "hash": "e1af46b43bf2b13837e247afd1e631fcbc4b94a72de912078bf2f47da4637bb1"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "f84c5ca6621f3727d09023a5aa3699bf5c72ed506f63a5c29a147fb0461abcb9"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The World Crisis, Volume 1 (of 6)",
     "author": "Churchill, Winston, 1874-1965",
     "gutenbergReference": "59794",
-    "matchType": 2,
     "hash": "eb807411d5eba4c5af4d386e315d7ac9565f97b6aeb7e7f94b9ebb89324d73f4"
   }
 ]

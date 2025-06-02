@@ -7,7 +7,6 @@
     "title": "The Chartreuse of Parma\nTranslated from the French of Stendhal (Henri Beyle)",
     "author": "Stendhal, 1783-1842; Loyd, Mary, Lady, 1853-1936 [Translator]",
     "gutenbergReference": "57638",
-    "matchType": 1,
     "hash": "5e80c1b1590d143202bfcc93132c48cf067f3c62bcecee62ad6000c75d7ad904"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Purchase of the North Pole\nA sequel to \"From the earth to the moon\"",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "60242",
-    "matchType": 2,
     "hash": "f9ca6814c199a4aa39eae77303a32341106dd7b1961c5ed49a7f108a70f8132c"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Mirror of Literature, Amusement, and Instruction. Volume 13, No. 377, June 27, 1829",
     "author": "Various",
     "gutenbergReference": "11361",
-    "matchType": 1,
     "hash": "f1049aa26dbabb6328ea3882d43e26cb9ee4df0f04384f8df8cdbc303595ce62"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Charterhouse of Parma, Volume 1",
     "author": "Stendhal, 1783-1842; Balzac, Honoré de, 1799-1850 [Contributor]; Scott-Moncrieff, C. K. (Charles Kenneth), 1889-1930 [Translator]",
     "gutenbergReference": "66374",
-    "matchType": 1,
     "hash": "969b6deb6e4d37af1d17875ffdf34945fa9ae6fea542331a205c181e22e21034"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Pictorial Press: Its Origin and Progress",
     "author": "Jackson, Mason, 1819-1903",
     "gutenbergReference": "36417",
-    "matchType": 1,
     "hash": "d739e4d14789071b59711c75d56a33eb4542d2c4bd9c8f95332a55f9bb48151c"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Tanks in the Great War, 1914-1918",
     "author": "Fuller, J. F. C. (John Frederick Charles), 1878-1966",
     "gutenbergReference": "49808",
-    "matchType": 2,
     "hash": "ad8d48e5e6fc02419d615a0a80caebf736a5f763a29ab5a6419088029899541d"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Letters from France",
     "author": "Bean, C. E. W. (Charles Edwin Woodrow), 1879-1968",
     "gutenbergReference": "18390",
-    "matchType": 2,
     "hash": "e9e18d43a9934165c1047784429e2a420de9b9a9d93db0a2cbd0fe1dc5764e96"
   }
 ]

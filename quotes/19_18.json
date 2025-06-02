@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "972d240bd4befb31e9ac45f575aae08c35f567d09d6078b6f9df7d16011f9580"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
-    "matchType": 2,
     "hash": "2bba047c2a2f4686b903190a48171ad65b0732964b9f71e71997d6ac1d10440f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Natural History of the Bell Vireo, Vireo bellii Audubon",
     "author": "Barlow, Jon C.",
     "gutenbergReference": "32855",
-    "matchType": 2,
     "hash": "d7bbff3f291cc2f3bf3f4e877c9d063273780d963c842581a587cf3bb2944de0"
   },
   {
@@ -40,7 +37,6 @@
     "title": "My attainment of the Pole",
     "author": "Cook, Frederick Albert, 1865-1940",
     "gutenbergReference": "36962",
-    "matchType": 1,
     "hash": "94821d9394f7f789799489d896aa94888ae2f10fd4fbabd2097037d1ebf29319"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Journeys and Experiences in Argentina, Paraguay, and Chile\nIncluding a Side Trip to the Source of the Paraguay River in the State of Matto Grosso, Brazil, and a Journey Across the Andes to the Rio Tambo in Peru",
     "author": "Stephens, Henry, 1883-",
     "gutenbergReference": "44692",
-    "matchType": 2,
     "hash": "9175560665d1aff42eb182496c44ba7d40959ebe62fa4f277c7acbb9168bbcad"
   }
 ]

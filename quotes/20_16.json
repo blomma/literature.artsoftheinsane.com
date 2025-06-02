@@ -7,7 +7,6 @@
     "title": "Mystery of the inn by the shore",
     "author": "Warden, Florence, 1857-1929; Kendrick, Charles, 1841-1914 [Illustrator]",
     "gutenbergReference": "73798",
-    "matchType": 1,
     "hash": "8cb1c08246b5bf57cca27ae3c1ea8570cb42a8a489dacac71082137fc063708e"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Clubfoot the Avenger\r\nBeing some further adventures of Desmond Oakwood, of the Secret Service",
     "author": "Williams, Valentine, 1883-1946",
     "gutenbergReference": "65416",
-    "matchType": 1,
     "hash": "eb453fdc65ae87631e63c42b76c1f1d92481ca4273e25fd7373b8b86a096da12"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Ancient Britain and the Invasions of Julius Caesar",
     "author": "Holmes, T. Rice (Thomas Rice), 1855-1933",
     "gutenbergReference": "57336",
-    "matchType": 2,
     "hash": "4fb7b5cdead5f070bed02a18c3399eea994e9745a5ac3fd0980a5c827aff53f1"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "bab6115761b849a2c09feb8fb94c244320dd5906c86bebaaca52c0918aa9d85f"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Warren Commission (07 of 26): Hearings Vol. VII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44007",
-    "matchType": 2,
     "hash": "1ac334af5e800513e458406715191fee26bf4c04ba09dda053109df11fd06923"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 04, March 1884, No. 6",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55133",
-    "matchType": 2,
     "hash": "1d38709d071f6addc1bd8ab525a2c0667e50305cc39c6e8b792626cad2bb06bf"
   }
 ]

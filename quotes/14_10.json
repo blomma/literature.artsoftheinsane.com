@@ -1,179 +1,23 @@
 [
   {
     "time": "14:10",
-    "quoteFirst": "Westover looked at his watch. \"It's ",
+    "quoteFirst": "\"At ",
     "quoteTime": "ten minutes past two",
-    "quoteLast": ".\"",
-    "title": "The Landlord at Lion's Head — Volume 2",
-    "author": "Howells, William Dean, 1837-1920",
-    "gutenbergReference": "3376",
-    "matchType": 1,
-    "hash": "0cc3732eaa2d9104e91535b6662874bd44d636aea7434b76d7f7e5184c121df7"
-  },
-  {
-    "time": "14:10",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes after two",
-    "quoteLast": ", from the main cross-roads of Guernsey, you start another message in which you let your Commanding Officer know that you have seen nothing of the enemy, and that the roads have been patrolled to a distance of eight hundred yards on each side. You keep on going south along the railroad.",
-    "title": "The English of military communications",
-    "author": "Ganoe, William Addleman, 1881-1966",
-    "gutenbergReference": "71741",
-    "matchType": 1,
-    "hash": "94f89de9063ebdadcddbac8e1b220c2d45c6a07ab2f4ec36b71d88c2f468c2e9"
-  },
-  {
-    "time": "14:10",
-    "quoteFirst": "Amazed and puzzled I got into bed again, and sat some time ruminating on the extraordinary circumstance, when it occurred to me that I had not looked under the bed; so I got out again, fully expecting to find my visiter, whoever he was, there; but I was disappointed. So, after looking at my watch, and ascertaining that it was ",
-    "quoteTime": "ten minutes past two",
-    "quoteLast": ", I stepped into bed again, hoping now to get some rest. But, alas! sleep was banished for that night; and after turning from side to side, and making vain endeavors at forgetfulness, I gave up the point, and lay till the clocks struck seven, perplexing my brain with the question of who my midnight visiter could be, and also how he had got in and how he had got out of my room.",
-    "title": "The Night-Side of Nature; Or, Ghosts and Ghost-Seers",
-    "author": "Crowe, Catherine, 1790-1876",
-    "gutenbergReference": "54532",
-    "matchType": 1,
-    "hash": "4066ff5445be668e0535973d439e11071685d36431874d2e3a2575d19d836d18"
-  },
-  {
-    "time": "14:10",
-    "quoteFirst": "January 31: 2 p. m., 11 cc 2 per cent caffein (134 mg per kilo) injected into ear vein, in about 11 minutes; ",
-    "quoteTime": "2.10 p. m.",
-    "quoteLast": ", convulsions, rabbit remained lying on its side; during the rest of the hour it had convulsions occasionally; 3.20 p. m., convulsions and died. Rabbit did not urinate after the injection of caffein.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
-    "matchType": 2,
-    "hash": "ed09a5b6b2f907ef3bbd72815bc27f14e0e39c842a7f0f80ce1e4d8e7549834e"
-  },
-  {
-    "time": "14:10",
-    "quoteFirst": "This seems, quite naturally, to suggest the Closure; sort of automatic procedure; CONYBEARE--Closure. One more division just to wind up, and at ",
-    "quoteTime": "ten minutes past two",
-    "quoteLast": " Vote carried and House up.",
-    "title": "Punch, Or The London Charivari, Volume 102, March 26, 1892",
+    "quoteLast": ". The hackman noted the time to see what hour he could hope to get back for another fare.\"",
+    "title": "Belford's Magazine, Vol II, No. 10, March 1889",
     "author": "Various",
-    "gutenbergReference": "14389",
-    "matchType": 1,
-    "hash": "8f8214221f9b5fe01b238944f344379b608a67cc1cde134de499ade6c2ba3bca"
+    "gutenbergReference": "41823",
+    "hash": "3dba2e2ec65297931ad67992898089507ebe3da29debbc6b4e820934f35c40d7"
   },
   {
     "time": "14:10",
-    "quoteFirst": "At one o’clock an onshore wind sprang up and I went off to the ship. We got away at ",
-    "quoteTime": "ten minutes past two",
-    "quoteLast": " but spent all the next day at Port Clarence, looking for water. I was feeling easier in my mind now because I felt sure that Mr.",
-    "title": "The last voyage of the Karluk",
-    "author": "Bartlett, Bob, 1875-1946; Hale, Ralph T. (Ralph Tracy), 1880-1951",
-    "gutenbergReference": "74622",
-    "matchType": 1,
-    "hash": "4ceecd087817006fb04e8ec232c61c4020cbf9c11730b6a70b7e46d062caa798"
-  },
-  {
-    "time": "14:10",
-    "quoteFirst": "Strolling out on the balcony,  Lawrence folded his arms on the balustrade.  The night was hot: perhaps that was why he could not sleep.  By his watch it was ",
-    "quoteTime": "ten minutes past two",
-    "quoteLast": ".  The moon was near her setting.    She lay on her back with tumbled clouds all round her: mother & pearl clouds, quilted, and tinged with a sheen of opal.",
-    "title": "Nightfall",
-    "author": "Pryde, Anthony",
-    "gutenbergReference": "14489",
-    "matchType": 1,
-    "hash": "f2ff849c6f978c3deefb87d47491c6709bb9368e2c4d8643bcae2afa7a2ebb82"
-  },
-  {
-    "time": "14:10",
-    "quoteFirst": "He thought for a moment, and then said, \"Nothing beyond the fact that all three died precisely at the same time--",
-    "quoteTime": "ten minutes past two",
-    "quoteLast": " in the morning.\"",
-    "title": "Haunted Places in England",
-    "author": "O'Donnell, Elliott, 1872-1965",
-    "gutenbergReference": "44397",
-    "matchType": 1,
-    "hash": "fc9bec16a1b6c7db81618fe8adbe0d44b0763ade9e5e7dd9a0370179b97df342"
-  },
-  {
-    "time": "14:10",
-    "quoteFirst": "He glanced at the luminous dial of his wristwatch, and caught up the receiver. It was then exactly ",
-    "quoteTime": "ten minutes past two",
-    "quoteLast": ".",
-    "title": "Bill Bolton and the Winged Cartwheels",
-    "author": "Sainsbury, Noel, 1884-",
-    "gutenbergReference": "58407",
-    "matchType": 1,
-    "hash": "95cc874683fdf94da9b15113ef543c09e5a149ab3099806d1925ff8442280f5e"
-  },
-  {
-    "time": "14:10",
-    "quoteFirst": "\"Selo Pulkovo. General Staff ",
-    "quoteTime": "2:10 P. M.",
-    "quoteLast": " The night of October 30th-31st will go down in history. Kerensky's attempt to march counter-revolutionary forces upon the capital of the revolution has received a decisive check. Kerensky is retreating, we are advancing. The soldiers, sailors and workingmen of Petrograd have shown that they can and will, gun in hand, affirm the will and power of proletarian democracy.",
-    "title": "From October to Brest-Litovsk",
-    "author": "Trotsky, Leon, 1879-1940",
-    "gutenbergReference": "6413",
-    "matchType": 2,
-    "hash": "de063247be8861ea890ba7460669a7cbf7c04662fdc782ff5799ce25a88c58b9"
-  },
-  {
-    "time": "14:10",
-    "quoteFirst": "“By the way, Babe, you are corrupting the youth of the college. Two men went into their lodgings last night at ",
-    "quoteTime": "ten minutes past two",
-    "quoteLast": ". It transpired that they had been playing cards with you.”",
-    "title": "The Babe, B.A. : being the uneventful history of a young gentleman at Cambridge University",
-    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
-    "gutenbergReference": "56986",
-    "matchType": 1,
-    "hash": "1fafd6d853d0709f29f893a3fe460ce38c23814050bb9e4a1ee37addd712025e"
-  },
-  {
-    "time": "14:10",
-    "quoteFirst": "",
-    "quoteTime": "2.10 P.M.",
-    "quoteLast": "--It is delightfully cool, breezy, shady (under the canopy), and still. Much smoking and lazy reflecting. There is no sound but the rippling of the current and the moaning of far-off breaks, except that now and then the Admiral dips a screechy oar to change the course half a point.",
-    "title": "Europe and elsewhere",
-    "author": "Twain, Mark, 1835-1910; Paine, Albert Bigelow, 1861-1937 [Author of introduction, etc.]; Matthews, Brander, 1852-1929 [Contributor]",
-    "gutenbergReference": "68604",
-    "matchType": 2,
-    "hash": "2e191533ef3e3d4e9af0befa2fe92194b4d3496159c4db0c15c259acb0abe1e4"
-  },
-  {
-    "time": "14:10",
-    "quoteFirst": "Westover looked at his watch. \"It's ",
-    "quoteTime": "ten minutes past two",
-    "quoteLast": ".\"",
-    "title": "The Landlord at Lion's Head — Volume 2",
-    "author": "Howells, William Dean, 1837-1920",
-    "gutenbergReference": "3376",
-    "matchType": 1,
-    "hash": "0cc3732eaa2d9104e91535b6662874bd44d636aea7434b76d7f7e5184c121df7"
-  },
-  {
-    "time": "14:10",
-    "quoteFirst": "It was only a few minutes past eleven; she had heard the church-clocks chime the hour while she listened at the _salon_ door. The Folkestone boat did not leave until ",
-    "quoteTime": "ten minutes past two",
-    "quoteLast": "; if Armstrong and her father had their luncheon served to them at twelve, they would not think of her until past one. She would tell Bénoîte that she was going to call upon some friends before leaving Boulogne, and that she would be back in time for the boat; she would lock her bedroom-door and throw away the key in order to still further delay pursuit.",
-    "title": "Her fairy prince",
-    "author": "Warden, Gertrude, 1859-1925",
-    "gutenbergReference": "70582",
-    "matchType": 1,
-    "hash": "2a597c4fbaed85d28d736c5f288688274ef8ff617d4be4a18a10d19fe73ad77a"
-  },
-  {
-    "time": "14:10",
-    "quoteFirst": "Scotia 7.55 a.m., San Francisco 4.5 a.m., St., Petersburg ",
-    "quoteTime": "2.10 p.m.",
-    "quoteLast": ", Sydney 10.12 p.m., and at Washington just seven o'clock in the morning.",
-    "title": "Showell's Dictionary of Birmingham\r\nA History and Guide, Arranged Alphabetically",
-    "author": "Harman, Thomas T.; Showell, Walter, 1836?-1901",
-    "gutenbergReference": "14472",
-    "matchType": 2,
-    "hash": "426f604efa6439ca4659b84c37825373caa519631d416a8564515bb575589a1c"
-  },
-  {
-    "time": "14:10",
-    "quoteFirst": "“At ",
-    "quoteTime": "ten minutes after two",
-    "quoteLast": " this morning,” the reader continued, “a scout, Harry Arnold by name, leader of the Beaver Patrol, 1st Oakwood, N. J., Troop, brought to camp and delivered to Mr. E. C. Wade, Scoutmaster, a wallet containing two letters and forty dollars belonging to Walter Lee.”",
-    "title": "Along the Mohawk Trail; Or, Boy Scouts on Lake Champlain",
-    "author": "Fitzhugh, Percy Keese, 1876-1950; West, James E. (James Edward), 1876-1948 [Author of introduction, etc.]; Schuyler, Remington, 1884-1955 [Illustrator]",
-    "gutenbergReference": "60269",
-    "matchType": 1,
-    "hash": "12ee4b65b7d4d1341466fe7c0e3a6daf3f7e6978b7351169663d7cca6f0d7405"
+    "quoteFirst": "The hard, lonely bench became harder, lonelier. Joe’s legs began to shake and twitch. ",
+    "quoteTime": "Ten minutes past two",
+    "quoteLast": ", and he was still alone in this tomb of a fifth floor. So this was radio, was it? Two-fifteen. A trickling river of sweat ran down his back.",
+    "title": "You're on the Air",
+    "author": "Heyliger, William, 1884-1955; O'Keeffe, Neil [Illustrator]",
+    "gutenbergReference": "56660",
+    "hash": "eebd7c52706e4040fb413bb18a7eae9b1dbcfcf5ca70392da099f264573e3e2c"
   },
   {
     "time": "14:10",
@@ -183,40 +27,176 @@
     "title": "He Walked Around the Horses",
     "author": "Piper, H. Beam, 1904-1964; Cartier, Edd, 1914-2008 [Illustrator]",
     "gutenbergReference": "18807",
-    "matchType": 1,
     "hash": "eb0afd6fb8b72441769a9a4cd1a8d3c015a7dc7af3d0b38f8e096456440db9e8"
   },
   {
     "time": "14:10",
-    "quoteFirst": "Third whistle. Final rush; we are warped out. The deck passengers are dissolved in oily and spirituous tears. At ",
+    "quoteFirst": "“By the way, Babe, you are corrupting the youth of the college. Two men went into their lodgings last night at ",
     "quoteTime": "ten minutes past two",
-    "quoteLast": " we paddle off. No sea in the bay. Half-past four, tea. Half-past six, dinner. Heavy swell on.",
-    "title": "In the land of the lion and sun, or, modern Persia",
-    "author": "Wills, C. J. (Charles James), 1842-1912",
-    "gutenbergReference": "72128",
-    "matchType": 1,
-    "hash": "b486c4070cd775674b77fe11615b81b4899280f5528e0a50fb8725439cf9321c"
+    "quoteLast": ". It transpired that they had been playing cards with you.”",
+    "title": "The Babe, B.A. : being the uneventful history of a young gentleman at Cambridge University",
+    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
+    "gutenbergReference": "56986",
+    "hash": "1fafd6d853d0709f29f893a3fe460ce38c23814050bb9e4a1ee37addd712025e"
+  },
+  {
+    "time": "14:10",
+    "quoteFirst": "Antwerp and Brussels after ",
+    "quoteTime": "2.10 P. M.",
+    "quoteLast": "_",
+    "title": "The Train Wire: A Discussion of the Science of Train Dispatching\r\n(Second Edition)",
+    "author": "Anderson, John Alexander, 1829-1917",
+    "gutenbergReference": "51158",
+    "hash": "b592cfe4ce706a05798abd6439f477aab0bd17becd7621e7e820117fe0283290"
+  },
+  {
+    "time": "14:10",
+    "quoteFirst": "This, if you will, you can convey to Inspector Hill, Scotland Yard. It may save time. Start, if possible, by the ",
+    "quoteTime": "2.10 p.m.",
+    "quoteLast": " train.",
+    "title": "Disappeared From Her Home: A Novel",
+    "author": "Pirkis, Catherine Louisa, 1839-1910",
+    "gutenbergReference": "65012",
+    "hash": "f476765af7aaf89fc4fd29f54238f54298e4cb1ae8ccd7ae65132f9bcb60b18f"
+  },
+  {
+    "time": "14:10",
+    "quoteFirst": "Babiche was sitting up and begging with her paws crossed. Felicia made her sit down by tapping her head with the thimble. At ",
+    "quoteTime": "ten minutes past two",
+    "quoteLast": " Felicia had mended two pairs of short white cotton socks.",
+    "title": "Little Miss By-The-Day",
+    "author": "Van Slyke, Lucille, 1880-",
+    "gutenbergReference": "6002",
+    "hash": "c10ea7862ec657684479ecce735ac4503dc83b1fcfe275146981ac9ef32e3511"
+  },
+  {
+    "time": "14:10",
+    "quoteFirst": "At one o’clock an onshore wind sprang up and I went off to the ship. We got away at ",
+    "quoteTime": "ten minutes past two",
+    "quoteLast": " but spent all the next day at Port Clarence, looking for water. I was feeling easier in my mind now because I felt sure that Mr.",
+    "title": "The last voyage of the Karluk",
+    "author": "Bartlett, Bob, 1875-1946; Hale, Ralph T. (Ralph Tracy), 1880-1951",
+    "gutenbergReference": "74622",
+    "hash": "4ceecd087817006fb04e8ec232c61c4020cbf9c11730b6a70b7e46d062caa798"
+  },
+  {
+    "time": "14:10",
+    "quoteFirst": "Antwerp and Brussels after ",
+    "quoteTime": "2.10 P. M.",
+    "quoteLast": "_",
+    "title": "The Train Wire: A Discussion of the Science of Train Dispatching\r\n(Second Edition)",
+    "author": "Anderson, John Alexander, 1829-1917",
+    "gutenbergReference": "51158",
+    "hash": "b592cfe4ce706a05798abd6439f477aab0bd17becd7621e7e820117fe0283290"
+  },
+  {
+    "time": "14:10",
+    "quoteFirst": "Dos Palmas at ",
+    "quoteTime": "2:10 P. M.",
+    "quoteLast": " third night.",
+    "title": "Arizona ghost trails",
+    "author": "Hinton, Richard J. (Richard Josiah), 1830-1901",
+    "gutenbergReference": "69526",
+    "hash": "bce0a2b7b6f7fbabbfb12a59727c08625261d2dd4955dde7c599b0f5d64c2732"
   },
   {
     "time": "14:10",
     "quoteFirst": "At ",
-    "quoteTime": "ten minutes past two",
-    "quoteLast": " they both sat up with a start at the sound of sleigh bells. An instant later there was a vigorous pounding on the door.",
-    "title": "Chicken Little Jane on the Big John",
-    "author": "Ritchie, Lily Munsell",
-    "gutenbergReference": "30629",
-    "matchType": 1,
-    "hash": "ae7f1c6cc6b65d3d479740ee689e3f5afede7eaf7d4285818fd7af1790037b20"
+    "quoteTime": "2:10 P.M.",
+    "quoteLast": ", when ten to fifteen miles off the Old Head of Kinsale, the weather being then clear and the sea smooth, the Captain, who was on the port side of the lower bridge, heard the call, “There is a torpedo coming, sir,” given by the second officer. He looked to starboard and then saw a streak of foam in the wake of a torpedo travelling towards his ship.",
+    "title": "The Lusitania's Last Voyage\r\nBeing a narrative of the torpedoing and sinking of the R. M. S. Lusitania by a German submarine off the Irish coast, May 7, 1915",
+    "author": "Lauriat, Charles Emelius, Jr., 1874-1937",
+    "gutenbergReference": "53251",
+    "hash": "542562a37aac86f07008328f7677506ff392807a0d60f8c0556e7f7c325ce43f"
   },
   {
     "time": "14:10",
-    "quoteFirst": ") _Corton_ L.V., flocks Black Crows at intervals to W. _Varne_ L.V., about 5000 Sparrows, ",
-    "quoteTime": "2.10 P.M.",
-    "quoteLast": ", S.E. to N. (N.N.E, 5.)",
-    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
-    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
-    "gutenbergReference": "66152",
-    "matchType": 2,
-    "hash": "4a50b08c3ed6b5f059682b091c36a70d77b7f7146d37a9f3d75012180b72198b"
+    "quoteFirst": "30 steered north 150 degrees east magnetic up the valley of the creek till 11.0, when, crossing a low rocky ridge, we descended into Beagle Valley, and, steering 160 degrees till ",
+    "quoteTime": "2.10 p.m.",
+    "quoteLast": ", halted at a small creek. The country is now covered with fine grass, and water is abundant, though the smaller watercourses have ceased to flow. In the evening walked to a hill about a mile from the camp; it was only 150 feet high, but gave a fine view of the distant ranges.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "5ffac6007670e636eec78c5cdec4abd3190c241eab8478522efe2872a5c5d485"
+  },
+  {
+    "time": "14:10",
+    "quoteFirst": "Westover looked at his watch. \"It's ",
+    "quoteTime": "ten minutes past two",
+    "quoteLast": ".\"",
+    "title": "The Landlord at Lion's Head — Volume 2",
+    "author": "Howells, William Dean, 1837-1920",
+    "gutenbergReference": "3376",
+    "hash": "0cc3732eaa2d9104e91535b6662874bd44d636aea7434b76d7f7e5184c121df7"
+  },
+  {
+    "time": "14:10",
+    "quoteFirst": "The Prince of Wales’s yacht was followed by the _Carthage_, with the foreign Princes and Court functionaries; the _Enchantress_, with the Lords of the Admiralty; the _Wildfire_, with the Colonial Premiers and Mr. and Mrs. Chamberlain; the _El Dorado_, with the Ambassadors; the _Danube_, with the Members of the House of Lords; and the _Campania_, with the Members of the Commons. At ",
+    "quoteTime": "ten minutes past two",
+    "quoteLast": " the Royal Squadron reached Spithead, and there came out of the lace of gray mist a symphony of explosions. The salute of the fleet to His Royal Highness had begun.",
+    "title": "The Queen's Reign and Its Commemoration\r\nA literary and pictorial review of the period; the story of the Victorian transformation",
+    "author": "Besant, Walter, 1836-1901",
+    "gutenbergReference": "58786",
+    "hash": "146de76b2fb197a4061b8f5dd9d412fbe28438949fd4e9d17b434a457fc67a06"
+  },
+  {
+    "time": "14:10",
+    "quoteFirst": "",
+    "quoteTime": "Ten minutes past two",
+    "quoteLast": "!... Ah, the lifetime she had lived in the past seventy minutes! And the futility of it all!",
+    "title": "The Brass Bowl",
+    "author": "Vance, Louis Joseph, 1879-1933",
+    "gutenbergReference": "8741",
+    "hash": "d431966fda95da578e0fd4881620eea8a7743d05fac0998cb76881854d4804fc"
+  },
+  {
+    "time": "14:10",
+    "quoteFirst": "_Q._ You say it was ",
+    "quoteTime": "ten minutes past two",
+    "quoteLast": " when you saw Cabanis break from the copse and go down towards the road?",
+    "title": "The skeleton key",
+    "author": "Capes, Bernard, 1854-1918; Chesterton, G. K. (Gilbert Keith), 1874-1936 [Author of introduction, etc.]",
+    "gutenbergReference": "68628",
+    "hash": "a1a79083f6f19c991d23466210646c3407fd1f131e7ffa4441fd5a9b00ebaddd"
+  },
+  {
+    "time": "14:10",
+    "quoteFirst": "At Grimsby at ",
+    "quoteTime": "2.10 p. m.",
+    "quoteLast": " intelligence was given of Colonel Booker having passed on his way to Hamilton. I inferred that excessive zeal for the good of his battalion, nothing to the contrary in his conduct or character being known to me, had induced the journey to urge up provisions and field equipments.",
+    "title": "Narrative of the Fenian invasion of Canada",
+    "author": "Somerville, Alexander, 1811-1885",
+    "gutenbergReference": "70425",
+    "hash": "f99659001c1c88b5b974206629525c16acff4eb6c4062095e2b4ef04e87f8801"
+  },
+  {
+    "time": "14:10",
+    "quoteFirst": "Those days of fast coaches and slow coaches seem very remote from these railway times, when by a quick train you may reach Shrewsbury from London in three hours and thirty-five minutes, arriving, without turning a hair, at the castellated building that serves for a railway station, say, by the ",
+    "quoteTime": "2.10 p.m.",
+    "quoteLast": " train from Paddington, bringing you to the capital of the “proud Salopians” at 5.45, not too late for tea. Thus, between lunch and the afternoon cup you have accomplished what the “Wonder” at its best took fourteen hours and three-quarters to do.",
+    "title": "The Holyhead Road: The Mail-coach Road to Dublin. Vol. 2",
+    "author": "Harper, Charles G. (Charles George), 1863-1943",
+    "gutenbergReference": "58841",
+    "hash": "b1dbad1aa8a1dd941d8fc8ef62bda5b0da69e84f3309e621f412a7e26f990b9f"
+  },
+  {
+    "time": "14:10",
+    "quoteFirst": "The advance guard reached the river Ordah at ",
+    "quoteTime": "2:10 p.m.",
+    "quoteLast": "  It was found to be fifty feet wide and waist deep.  Russell's regiment at once passed over, forming a covering party to the Engineers, who immediately set to work to throw a bridge across for the passage of the European troops, while clearings were made on the south bank, and rush huts thrown up in which the British soldiers bivouacked.",
+    "title": "Our Soldiers: Gallant Deeds of the British Army during Victoria's Reign",
+    "author": "Kingston, William Henry Giles, 1814-1880",
+    "gutenbergReference": "23052",
+    "hash": "efc4c388ddb9cf8e8595129993d09f5683915437457217dd5f86d59d34b53fd9"
+  },
+  {
+    "time": "14:10",
+    "quoteFirst": "From last camp we came here in about the following courses: 11.12 a.m. east for five miles; 11.30 a.m. east-south-east for three-quarters of a mile; 12.15 p.m. ----; 1.15 p.m. east-south-east half south for two and three quarter miles to where we crossed a well-watered creek; ",
+    "quoteTime": "2.10 p.m.",
+    "quoteLast": " east for one and a half miles; 5.30 p.m. south-south-east for six miles; 9 p.m. south-east for eight miles: twenty-five miles.",
+    "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
+    "author": "Landsborough, William, 1825-1886",
+    "gutenbergReference": "16243",
+    "hash": "3ec1a47567a1725d4c24e63c721b1a8c028ed24eb29a3df8e663a29ba71da85c"
   }
 ]

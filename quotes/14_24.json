@@ -7,7 +7,6 @@
     "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58030",
-    "matchType": 2,
     "hash": "a43b60e3b2b525f9fa971eb180c72490619085eacf98ea9df9c778c379e99ff7"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Winning Clue",
     "author": "Hay, James, 1881-1936",
     "gutenbergReference": "20152",
-    "matchType": 1,
     "hash": "fca4637b51211e824adaee9867947d40760d41ff512908b0369735d41369bdd1"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Don't Panic!",
     "author": "Krepps, Robert W., 1919-1980; Terry, W. E., 1921-1992 [Illustrator]",
     "gutenbergReference": "66463",
-    "matchType": 2,
     "hash": "bd99f20b24a57a347cd10fdf917553ffeb3927c1a6efe0881b744b3119bc12cb"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "matchType": 2,
     "hash": "dfee52e044225d582e6521aaf8f00150a04d7c6606ef111337601868dd3221e5"
   }
 ]

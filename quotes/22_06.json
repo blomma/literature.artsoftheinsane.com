@@ -7,7 +7,6 @@
     "title": "Jean-Christophe, Volume I",
     "author": "Rolland, Romain, 1866-1944; Cannan, Gilbert, 1884-1955 [Translator]",
     "gutenbergReference": "7979",
-    "matchType": 1,
     "hash": "e737d2c2340e7371152296cf6c3680967870f4e7763f4627e68fb2fe15c525e5"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Mariner Mission to Venus",
     "author": "Jet Propulsion Laboratory (U.S.)",
     "gutenbergReference": "54585",
-    "matchType": 2,
     "hash": "2e4eb8831e0af2fc6072cd2171e35f63ad40e5ceadc2b2676c143e2fd1611de4"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 3",
     "author": "Humboldt, Alexander von, 1769-1859; Bonpland, Aimé, 1773-1858; Ross, Thomasina [Translator]",
     "gutenbergReference": "7254",
-    "matchType": 1,
     "hash": "e109d7dc6d9f1b05a4e38b1630090f2f28b90d3cc7870613ab9181ae211a1dbb"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Three in Norway, by Two of Them",
     "author": "Lees, J. A. (James Arthur), 1852-; Clutterbuck, Walter J., 1853-1937",
     "gutenbergReference": "36597",
-    "matchType": 1,
     "hash": "13f03eb2f2a8d2d6d01028e371e16a732ad589f26da688daaf6015a6807daa10"
   }
 ]

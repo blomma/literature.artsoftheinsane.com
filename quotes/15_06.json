@@ -7,7 +7,6 @@
     "title": "Mary-'Gusta",
     "author": "Lincoln, Joseph Crosby, 1870-1944",
     "gutenbergReference": "2473",
-    "matchType": 2,
     "hash": "fc1e5b73d76c0321dac8e2ba5977f6336d55ec7d77ce1bc0274a3454c3abd873"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Airship Boys' Ocean Flyer; Or, New York to London in Twelve Hours",
     "author": "Sayler, H. L. (Harry Lincoln), 1863-1913; Riesenberg, Sidney H., 1885-1971 [Illustrator]",
     "gutenbergReference": "49416",
-    "matchType": 1,
     "hash": "2f7956720a8b803ae4c18ec52e4f1d586667207eaa32088f3268b7c44584e2f9"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Spectator, Volume 2.",
     "author": "Addison, Joseph, 1672-1719; Steele, Richard, Sir, 1672-1729",
     "gutenbergReference": "11010",
-    "matchType": 1,
     "hash": "531be048ffe1a6029fd0e1024fae7f53d1d437805d4056081974a7ff311c2b22"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Spectator, Volume 2.",
     "author": "Addison, Joseph, 1672-1719; Steele, Richard, Sir, 1672-1729",
     "gutenbergReference": "11010",
-    "matchType": 1,
     "hash": "a5968d67c2f269f788f71d529dd5552a7dec8e83354f3f3c05dd591d8ea04b1f"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Spectator, Volumes 1, 2 and 3\nWith Translations and Index for the Series",
     "author": "Addison, Joseph, 1672-1719; Steele, Richard, Sir, 1672-1729; Morley, Henry, 1822-1894 [Editor]",
     "gutenbergReference": "12030",
-    "matchType": 1,
     "hash": "1314ecfc62b7064a4d495e74d48074a0fcb65054ff82d12d330ea9d376ff7897"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Spectator, Volumes 1, 2 and 3\nWith Translations and Index for the Series",
     "author": "Addison, Joseph, 1672-1719; Steele, Richard, Sir, 1672-1729; Morley, Henry, 1822-1894 [Editor]",
     "gutenbergReference": "12030",
-    "matchType": 1,
     "hash": "6c885e1049a2acbd7a20a8e759c96a5b8ed74540bbd0c94cf7cc41509d76aac5"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Apartment Next Door",
     "author": "Johnston, William, 1871-1929",
     "gutenbergReference": "11240",
-    "matchType": 1,
     "hash": "e1f30a58f40525f6b9239be883bdb93457298e0bb4c35626f3950f7823c126a5"
   },
   {
@@ -84,7 +77,6 @@
     "title": "When William Came",
     "author": "Saki, 1870-1916",
     "gutenbergReference": "14540",
-    "matchType": 1,
     "hash": "97ec096e4e2142cc339d856934cc2bffb0a8f651615c34c5649252f6ab39fedc"
   }
 ]

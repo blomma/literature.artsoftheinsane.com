@@ -7,7 +7,6 @@
     "title": "The Papers and Writings of Abraham Lincoln, Complete",
     "author": "Lincoln, Abraham, 1809-1865; Choate, Joseph Hodges, 1832-1917 [Contributor]; Roosevelt, Theodore, 1858-1919 [Contributor]; Schurz, Carl, 1829-1906 [Contributor]; Lapsley, Arthur Brooks [Editor]",
     "gutenbergReference": "3253",
-    "matchType": 2,
     "hash": "d8f8909c14e27323bebb2938807600fd702924501a6028bdb2d97406a11a4152"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Papers and Writings of Abraham Lincoln — Volume 6: 1862-1863",
     "author": "Lincoln, Abraham, 1809-1865; Lapsley, Arthur Brooks [Editor]",
     "gutenbergReference": "2658",
-    "matchType": 2,
     "hash": "c690f19897fe9d20dd95683bd88b5eeab2ad00a3fc240d71e288caff1b960af0"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Three Men and a Maid",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "6836",
-    "matchType": 1,
     "hash": "bb0659fd9585c6d18be6a1aabb1275134343b1bec9fdccd26f0b673e1f3a36e7"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "e183b0ef1b65df9adf0cac2abfe89018fd87c7ae1e9c34cc52bded3e56590d66"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "8c951a5383e5f187d626876980c316269466f0dacf6e9304fe075afc4bca554b"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
-    "matchType": 2,
     "hash": "c2d1847277e6c7fd356f741c6cd8ca10f2a12bc3a23b7beaf81cceef877ae4d1"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Girl on the Boat",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "20717",
-    "matchType": 1,
     "hash": "ee1db70629f4f77d4b0afb33d469ffbe1eb21e82fc98c811f1cb6551beaab5bb"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "matchType": 2,
     "hash": "af63feb0e939506bcee3a2d9c80faed320a40b31809984c91793e0b1d95c74d1"
   }
 ]

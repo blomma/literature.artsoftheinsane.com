@@ -7,7 +7,6 @@
     "title": "Atlantic Narratives: Modern Short Stories; Second Series",
     "author": "Thomas, Charles Swain, 1868-1943 [Editor]; Antin, Mary, 1881-1949; Ashe, Elizabeth, 1885-1974; Carman, Kathleen, 1875-1959; Comer, Cornelia A. P. (Cornelia Atwood Pratt), 1865-1929; De la Roche, Mazo, 1879-1961; Donnell, Annie Hamilton, 1862-1943; Dunning, James Edmund, 1873-1931; Eastman, Rebecca Hooper; Ganoe, William Addleman, 1881-1966; Huffaker, Lucy; Husband, Joseph, 1885-1938; Kemper, S. H.; Krysto, Christina; Mackubin, Ellen, -1915; Mirrielees, Edith Ronald, 1878-1962; Montague, Margaret Prescott, 1878-1955; Morlae, Edward; Nicholson, Meredith, 1866-1947; Norris, Kathleen Thompson, 1880-1966; Portor, Laura Spencer, 1872-1957; Pratt, Lucy; Singmaster, Elsie, 1879-1958; Townsend, Charles Haskins, 1859-1944; Wyatt, Edith, 1873-1958",
     "gutenbergReference": "40718",
-    "matchType": 1,
     "hash": "708062388236c3522a0c267145f4de2a3c51535088ffe1140bc5c833da2b63ab"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Voyage of Captain Popanilla",
     "author": "Disraeli, Benjamin, Earl of Beaconsfield, 1804-1881",
     "gutenbergReference": "7816",
-    "matchType": 1,
     "hash": "39ee7c28956b77a8f912ef83054c98cd752d9622d3d286ea55829b4d34b75842"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Frédérique, vol. 2",
     "author": "Kock, Paul de, 1793-1871",
     "gutenbergReference": "38332",
-    "matchType": 1,
     "hash": "c17b2c429bcc7642562d07f8fce2e1dc3631936de530af39b4e53e3984abd223"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Q-Ships and Their Story",
     "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
     "gutenbergReference": "54338",
-    "matchType": 2,
     "hash": "d3a071e21eb4ffe9c0265a66bd844232e9de0df150df04ac989aadb1cc995590"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "matchType": 2,
     "hash": "0ed5f3624d6427c66edf39d24a85c64a3d4b92fbb2cd1921e7c6622a15d40d34"
   },
   {
@@ -62,7 +57,6 @@
     "title": "In the land of the lion and sun, or, modern Persia",
     "author": "Wills, C. J. (Charles James), 1842-1912",
     "gutenbergReference": "72128",
-    "matchType": 1,
     "hash": "4d8fcd7764d554fe3dca17781ee83052bd1e6085d65942dfebb5edebb4322977"
   }
 ]

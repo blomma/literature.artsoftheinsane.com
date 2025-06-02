@@ -7,7 +7,6 @@
     "title": "The Corsair in the war zone",
     "author": "Paine, Ralph Delahaye, 1871-1925",
     "gutenbergReference": "72760",
-    "matchType": 2,
     "hash": "bab2ded1291662e194f8eb5b0fc762aa2f338bbd24da5429cf451e872a925bdd"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Boy Scouts of Lakeville High",
     "author": "Quirk, Leslie W., 1882-; Kirkpatrick, William Arber-Brown, 1880- [Illustrator]",
     "gutenbergReference": "45740",
-    "matchType": 1,
     "hash": "7bc0b000f118eecf73fea23f01ae421d1e97409c229d1a58cb60ae112a469ddb"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Last Words",
     "author": "Crane, Stephen, 1871-1900",
     "gutenbergReference": "33579",
-    "matchType": 1,
     "hash": "53eef830ec4d0b745f590c2f1d8e4d9a0f939157a23e43d0d78ed634fd6c6ad6"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Four Bells: A Tale of the Caribbean",
     "author": "Paine, Ralph Delahaye, 1871-1925; Schoonover, Frank E., 1877-1972 [Illustrator]",
     "gutenbergReference": "65385",
-    "matchType": 1,
     "hash": "77f5e308fbefdf5af32aa4a452f6689f83331eef69c47be1335ad3e8913bd0fe"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Quill's Window",
     "author": "McCutcheon, George Barr, 1866-1928",
     "gutenbergReference": "6044",
-    "matchType": 1,
     "hash": "93f53ad345e1fcb3e06738cbf1a159d40e652d578aa5f1e749b6716eddbebbb3"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The ships and sailors of old Salem",
     "author": "Paine, Ralph Delahaye, 1871-1925",
     "gutenbergReference": "73759",
-    "matchType": 1,
     "hash": "96885a416eb82e605fb7409a00a48841bf9e75957788052c7dc746518a332a85"
   }
 ]

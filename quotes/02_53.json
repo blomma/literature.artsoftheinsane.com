@@ -7,7 +7,6 @@
     "title": "The Book of Susan: A Novel",
     "author": "Dodd, Lee Wilson, 1879-1933",
     "gutenbergReference": "33400",
-    "matchType": 1,
     "hash": "bf63e0225c9f9d11da337b0011f7d985232875bcb28c67589921c477c8dd6016"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Weird Tales, Volume 1, Number 2, April, 1923: The unique magazine",
     "author": "Various; Baird, Edwin, 1886-1957 [Editor]",
     "gutenbergReference": "69606",
-    "matchType": 2,
     "hash": "13a3fc436bea7b6ed6e6b38cbf5a7b2128e24c1fd802c579ba6d4823ea5eb9d1"
   }
 ]

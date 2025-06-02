@@ -7,7 +7,6 @@
     "title": "The Australian Victories in France in 1918",
     "author": "Monash, John, Sir, 1865-1931",
     "gutenbergReference": "51163",
-    "matchType": 2,
     "hash": "51e72b09d2237fded2db2b0bbc53cac95b894ab176b4a8609cf9566a70106142"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, February 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55053",
-    "matchType": 2,
     "hash": "ab5582de188334be254f9980fd154265d313606ca9fe01868c828c68c8753a83"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Warren Commission (13 of 26): Hearings Vol. XIII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "57111",
-    "matchType": 2,
     "hash": "d8f145246ac3060e90256574a8e9c7d85c6e5c488a8400db620a60fa9220879e"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "c64a8a2b21c2497f0ebd26f8aadb2b14ab22be6545d1d7f1a7f9c40ee83620f8"
   },
   {
@@ -51,7 +47,6 @@
     "title": "A Short History of English Agriculture",
     "author": "Curtler, W. H. R. (William Henry Ricketts), 1862-1925",
     "gutenbergReference": "16594",
-    "matchType": 2,
     "hash": "e152295ef784b543963b3d49b06e01bc5a648fc1a4ebc50c0d0e45d1d612a748"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
-    "matchType": 2,
     "hash": "220ff2020bcb4648d2817aab14dbca4234fa7fd8f7649f8f3a786daf17f131c8"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Astronomy for Amateurs",
     "author": "Flammarion, Camille, 1842-1925; Welby, Frances A. (Frances Alice), 1862-1947 [Translator]",
     "gutenbergReference": "25267",
-    "matchType": 2,
     "hash": "b62ac48692a90929bbb33e1c6f8cceb8c49129f0a8e7b627c133d877471ad512"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Henry Irving's Impressions of America\r\nNarrated in a Series of Sketches, Chronicles, and Conversations",
     "author": "Hatton, Joseph, 1841-1907",
     "gutenbergReference": "52357",
-    "matchType": 1,
     "hash": "4e3960bad51d84f22458cd0ec5c8ef70c4ed08ed6e82eedf19473ef62e25d08d"
   }
 ]

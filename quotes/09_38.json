@@ -7,7 +7,6 @@
     "title": "Barium: A Cause of the Loco-Weed Disease",
     "author": "Crawford, Albert Cornelius",
     "gutenbergReference": "40256",
-    "matchType": 2,
     "hash": "52fc00d550fa29dcfba3a2f8dbf25672924f2f310687ebe81b6761deb4efe157"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The wonders of the world",
     "author": "Abbott, John Loraine",
     "gutenbergReference": "75040",
-    "matchType": 0,
     "hash": "adad80abe9ad6d9eac6d03fb6ac19c771b514d669451117e2ede26e31bc6021b"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Letters of Henry James (Vol. I)",
     "author": "James, Henry, 1843-1916; Lubbock, Percy, 1879-1965 [Editor]",
     "gutenbergReference": "38776",
-    "matchType": 2,
     "hash": "a19fc95049449542147ee36a8df12efef52a5df3dca81cc73b280907a5813bfc"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Ten Days That Shook the World",
     "author": "Reed, John, 1887-1920",
     "gutenbergReference": "3076",
-    "matchType": 0,
     "hash": "82fe10a9eb0d12c6ab1a40b28716458565feca6521c7f7424df6fd62c6c986a0"
   }
 ]

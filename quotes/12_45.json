@@ -1,212 +1,43 @@
 [
   {
     "time": "12:45",
-    "quoteFirst": "\"I arrived at Wilhelmshöhe on the morning of September 5th, and I was asked to 'report' to the Kaiser at ",
-    "quoteTime": "12.45 p.m.",
-    "quoteLast": " This expression was chosen because the new head of the Kaiser's Civil Cabinet, Herr v. Berg, evidently wished to invest my visit with an official character which would enable him to be in attendance.",
-    "title": "Albert Ballin",
-    "author": "Huldermann, Bernhard; Eggers, Wilhelm Johann [Translator]",
-    "gutenbergReference": "44135",
-    "matchType": 2,
-    "hash": "94a60349a46476fb8b58e9ed371c06a2c5f4dd8211eb67a9a82605181f0d52fc"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "They were poorly clad, and apparently the sprinkling of German N.C.O.’s had kept up their morale until the sight of our bayonets. By ",
-    "quoteTime": "12.45 p.m.",
-    "quoteLast": " the position was in our hands, and a line some 800 yards beyond the trenches was immediately consolidated. Patrols pushed forward, but little was seen of the Turk; only small groups could be seen in the distance running away as fast as their legs could take them.",
-    "title": "The History of the Prince of Wales' Civil Service Rifles",
-    "author": "Anonymous",
-    "gutenbergReference": "51387",
-    "matchType": 2,
-    "hash": "c80c0bebfc424cd79e1e9df5e226e92cde6b00556abff118064a220d36f72cbf"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "Leesburg to Hooker's headquarters dated June 26, ",
-    "quoteTime": "12.45 P.M.",
-    "quoteLast": ", he significantly says that all is _quiet_ towards the Blue Ridge, and that only a few cavalry videttes were seen about Middleburg, and none on the Snickersville Pike. If his flank and rear had been harassed, all would not have been _quiet_. Again, Gen.",
-    "title": "Mosby's War Reminiscences; Stuart's Cavalry Campaigns",
-    "author": "Mosby, John Singleton, 1833-1916",
-    "gutenbergReference": "45436",
-    "matchType": 2,
-    "hash": "176e065c4988760f210dd6a94a4623006cddff192f8dd55fd9b31c07426b50fe"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "_Thursday, ",
-    "quoteTime": "12.45 p.m.",
-    "quoteLast": ", July 21st, 1836._",
-    "title": "Juliette Drouet's Love-Letters to Victor Hugo\nEdited with a Biography of Juliette Drouet",
-    "author": "Drouet, Juliette, 1806-1883; Guimbaud, Louis, 1869-; Davidson, Theodora, Lady [Translator]",
-    "gutenbergReference": "44034",
-    "matchType": 2,
-    "hash": "867e668b821f7fe2f86665c8d6932b9a02290ed810d04f398c1baf77d9ad6485"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "0 passed a large sandy hill, covered with short scrub, and halted at 11.0 in a grassy gully in the bottom of a wide scrubby valley; at ",
-    "quoteTime": "12.45 p.m.",
-    "quoteLast": " again resumed our journey, and ascending the sandy downs, at 1.15 gained the highest ridge.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "matchType": 2,
-    "hash": "16b6752f8fd14d4067823a4067bc56d55e9f9b04adc4632e41a5c16145ff4044"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "Adjourned at ",
-    "quoteTime": "12.45 p.m.",
-    "quoteLast": "",
-    "title": "Papers and Proceedings of the Twenty-Third General Meeting of the American Library Association\r\nHeld at Waukesha, Wisconsin, July 4-10, 1901",
-    "author": "American Library Association. General Meeting [Editor]",
-    "gutenbergReference": "44406",
-    "matchType": 2,
-    "hash": "f9c15d9a0158cfb497e444260899ca83301413c68b96d3c0d3d3d5d04df22371"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "The talk soon fell again upon the probabilities of the day. Penhallow listened. Meade grave and silent sat on a cracker-box and ate in an absent way, or scribbled orders, and at last directed that the picked body of men, the provost's guards, should join their regimental commands. About a ",
-    "quoteTime": "quarter to noon",
-    "quoteLast": " the generals one by one rode away.",
-    "title": "Westways: A Village Chronicle",
-    "author": "Mitchell, S. Weir (Silas Weir), 1829-1914",
-    "gutenbergReference": "14153",
-    "matchType": 0,
-    "hash": "1ec2843d1b537de28ef742a4480d2b0c7153bb88abbd12d5f79a4fbbacfafb99"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "",
-    "quoteTime": "12.45p.m.",
-    "quoteLast": "28.82 71     25  On march up Wady Sadr, under tree. Cold sea-breeze. Sky quite clear; sun warm. Awful east winds down these Wadys form the Goz or sand-heaps.",
-    "title": "The Land of Midian (Revisited) — Volume 2",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "7113",
-    "matchType": 2,
-    "hash": "33b37676aa59094b6a6e1f55339a6a905fd99c9cbf254aae9e2e0146e435f60c"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "At ",
-    "quoteTime": "12.45 P.M.",
-    "quoteLast": " the 5th and 6th Seaforth Highlanders began their advance, guided by troops of King Edward's Horse. It was the intention of the officer commanding 6th Seaforth Highlanders to place two companies in Lacouture.",
-    "title": "The History of the 51st (Highland) Division 1914-1918",
-    "author": "Bewsher, F. W. (Frederick William), 1886-1950",
-    "gutenbergReference": "45934",
-    "matchType": 2,
-    "hash": "45278fdef7a43509f1e7949d8ba8eb1c87fd5d587ace22dc588fbf933c6c5be2"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "Leesburg to Hooker's headquarters dated June 26, ",
-    "quoteTime": "12.45 P.M.",
-    "quoteLast": ", he significantly says that all is _quiet_ towards the Blue Ridge, and that only a few cavalry videttes were seen about Middleburg, and none on the Snickersville Pike. If his flank and rear had been harassed, all would not have been _quiet_. Again, Gen.",
-    "title": "Mosby's War Reminiscences; Stuart's Cavalry Campaigns",
-    "author": "Mosby, John Singleton, 1833-1916",
-    "gutenbergReference": "45436",
-    "matchType": 2,
-    "hash": "176e065c4988760f210dd6a94a4623006cddff192f8dd55fd9b31c07426b50fe"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "Mr. CURRY. This shows at the end the broadcast to be ",
+    "quoteFirst": "Brennan thought he might be able to identify the man since he had noticed him in the window a few minutes before the motorcade made the turn onto Elm Street. At 12:34 p.m., the Dallas police radio mentioned the Depository Building as a possible source of the shots, and at ",
     "quoteTime": "12:45 p.m.",
-    "quoteLast": " It would be on November 22d.",
-    "title": "Warren Commission (04 of 26): Hearings Vol. IV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44004",
-    "matchType": 2,
-    "hash": "cb0012ab236282977cb2add87d245815d394c85d543c2482ab490ae276fefa30"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "They were poorly clad, and apparently the sprinkling of German N.C.O.’s had kept up their morale until the sight of our bayonets. By ",
-    "quoteTime": "12.45 p.m.",
-    "quoteLast": " the position was in our hands, and a line some 800 yards beyond the trenches was immediately consolidated. Patrols pushed forward, but little was seen of the Turk; only small groups could be seen in the distance running away as fast as their legs could take them.",
-    "title": "The History of the Prince of Wales' Civil Service Rifles",
-    "author": "Anonymous",
-    "gutenbergReference": "51387",
-    "matchType": 2,
-    "hash": "c80c0bebfc424cd79e1e9df5e226e92cde6b00556abff118064a220d36f72cbf"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "Monday, 15th April, The Bonney. Cloudy; wind still variable. Mount Fisher, bearing 120 degrees. Started at 7.15 a.m., bearing 290 degrees; at 11.40 changed to 264 degrees, to some rising ground; at ",
-    "quoteTime": "12.45 p.m.",
-    "quoteLast": ", after crossing stony hills, we crossed a gum creek on the west side, with long reaches of water in it running north-west, which I supposed to be the Bonney; but as there appeared to be more and larger gum-trees farther on, I continued, to see if there were not another channel.",
-    "title": "Explorations in Australia\r\nThe Journals of John McDouall Stuart During the Years 1858, 1859, 1860, 1861, and 1862, When He Fixed the Centre of the Continent and Successfully Crossed It from Sea to Sea",
-    "author": "Stuart, John McDouall, 1815-1866",
-    "gutenbergReference": "8911",
-    "matchType": 2,
-    "hash": "70d9d470ca86dfae8a2054e680ee1e6037830889a36a431df017f30e4c60e1be"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "_Thursday, ",
-    "quoteTime": "12.45 p.m.",
-    "quoteLast": ", July 21st, 1836._",
-    "title": "Juliette Drouet's Love-Letters to Victor Hugo\nEdited with a Biography of Juliette Drouet",
-    "author": "Drouet, Juliette, 1806-1883; Guimbaud, Louis, 1869-; Davidson, Theodora, Lady [Translator]",
-    "gutenbergReference": "44034",
-    "matchType": 2,
-    "hash": "867e668b821f7fe2f86665c8d6932b9a02290ed810d04f398c1baf77d9ad6485"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "Within minutes of the assassination, Brennan described the man to the police.[C4-254] This description most probably led to the radio alert sent to police cars at approximately ",
-    "quoteTime": "12:45 p.m.",
-    "quoteLast": ", which described the suspect as white, slender, weighing about 165 pounds, about 5’10” tall, and in his early thirties.[C4-255] In his sworn statement to the police later that day, Brennan described the man in similar terms, except that he gave the weight as between 165 and 175 pounds and the height was omitted.",
+    "quoteLast": ", the police radio broadcast a description of the suspected assassin based primarily on Brennan’s observations.",
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "matchType": 2,
-    "hash": "570ca5dd61704740386f3fb077853d219c09e24a570143998e77beb4c0985a5f"
+    "hash": "4847e613ba0ec61fa637f9cbc9bb76f6039c8a6ac405159d2d62ac091db8c7a9"
   },
   {
     "time": "12:45",
-    "quoteFirst": "Monday, 15th April, The Bonney. Cloudy; wind still variable. Mount Fisher, bearing 120 degrees. Started at 7.15 a.m., bearing 290 degrees; at 11.40 changed to 264 degrees, to some rising ground; at ",
+    "quoteFirst": "(Whereupon, at ",
+    "quoteTime": "12:45 p.m.",
+    "quoteLast": ", the President's Commission recessed.)",
+    "title": "Warren Commission (04 of 26): Hearings Vol. IV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44004",
+    "hash": "42d345acd49b1f8c3747d0533f7125423ab61cebec038e1a81f6cdd66fa96563"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "Our day's journey commenced at 7.0 a.m., and following the right bank of the river to the east-south-east till ",
     "quoteTime": "12.45 p.m.",
-    "quoteLast": ", after crossing stony hills, we crossed a gum creek on the west side, with long reaches of water in it running north-west, which I supposed to be the Bonney; but as there appeared to be more and larger gum-trees farther on, I continued, to see if there were not another channel.",
-    "title": "Explorations in Australia\r\nThe Journals of John McDouall Stuart During the Years 1858, 1859, 1860, 1861, and 1862, When He Fixed the Centre of the Continent and Successfully Crossed It from Sea to Sea",
-    "author": "Stuart, John McDouall, 1815-1866",
-    "gutenbergReference": "8911",
-    "matchType": 2,
-    "hash": "70d9d470ca86dfae8a2054e680ee1e6037830889a36a431df017f30e4c60e1be"
+    "quoteLast": ", encamped in the bed of the river, which was nearly half a mile wide from bank to bank, the principal channel, eighty yards wide, was shallow and sandy, with a few small pools of water at intervals. The side channels of similar character, but smaller and without water.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "fb926bcaa7a841aec901f6c05554a4ff5e00e4ce0e01a9da21a0f00e14ba8e0e"
   },
   {
     "time": "12:45",
-    "quoteFirst": "3 was first slit between 7:00 and 9:00 a. m., and three more slits appeared in it between 9:15 and 10:15 a. m. At ",
-    "quoteTime": "12:45 p. m.",
-    "quoteLast": " a hatchling was found in the act of emerging from egg no. 4, and approximately the anterior one-fourth of its body protruded.",
-    "title": "Natural History of the Racer Coluber constrictor",
-    "author": "Fitch, Henry S. (Henry Sheldon), 1909-2009",
-    "gutenbergReference": "42676",
-    "matchType": 2,
-    "hash": "5a8917a19f2b8cc6669bc4f29238e92449382eebd44003ec8b6455df128c62fe"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "_Friday, October 28th._--In the afternoon Moltke sent the Chief a telegram which reported that the capitulation of Metz was signed to-day at ",
+    "quoteFirst": "The 28th we had on Lake Marsh a brisk rain and thunder shower, lasting from ",
     "quoteTime": "12.45 P.M.",
-    "quoteLast": " The French army thus made prisoners number in all 173,000 men, including 16,000 sick and wounded. Bennigsen, Friedenthal, and Von Blankenburg, a friend of the Chancellor’s in his youth, joined us at dinner.",
-    "title": "Bismarck",
-    "author": "Busch, Moritz, 1821-1899",
-    "gutenbergReference": "68651",
-    "matchType": 2,
-    "hash": "08d447e62801e5aa186cfc14dd97099aa8ba9e79e3f66607b98d9dc4d7c9195a"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "Artillery preparation began at 12.30 p.m. It was reported to be very short on our right. Our two blocks were removed at ",
-    "quoteTime": "12.45 p.m.",
-    "quoteLast": "",
-    "title": "The War History of the 4th Battalion, the London Regiment (Royal Fusiliers), 1914-1919",
-    "author": "Grimwade, F. Clive",
-    "gutenbergReference": "50098",
-    "matchType": 2,
-    "hash": "fe2ee925eaefb23987649d32b94ad6424c0eea995953eca957bf212dfed76c35"
+    "quoteLast": " to 2.15 P.M., directly overhead, which was, I believe, the first thunderstorm recorded on the Yukon, thunder being unknown on the lower river, according to all accounts. Our Camp 15 was on a soft, boggy shore covered with reeds, where a tent could not be pitched and blankets could not be spread.",
+    "title": "Along Alaska's Great River\r\nA Popular Account of the Travels of an Alaska Exploring Expedition along the Great Yukon River, from Its Source to Its Mouth, in the British North-West Territory, and in the Territory of Alaska",
+    "author": "Schwatka, Frederick, 1849-1892",
+    "gutenbergReference": "47402",
+    "hash": "66f278ff3b86ef2d7e32d33169f51950bd7dfa2fc517516a764f41a553add81f"
   },
   {
     "time": "12:45",
@@ -216,7 +47,156 @@
     "title": "The War in the Air; Vol. 1\nThe Part played in the Great War by the Royal Air Force",
     "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
     "gutenbergReference": "28226",
-    "matchType": 2,
     "hash": "47adb57a288fd193ca1b1030230ca9314f3eab4592ebd8d99477c32a3fdf603e"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "At Great Cotes, Dec. 9th, many, \"second rush.\" At Corton L.V., Oct. 5th, one over ship, E. to W. Jan. 15th, ",
+    "quoteTime": "12.45 p.m.",
+    "quoteLast": ", high overhead, W.S.W. At Galloper L.V., Nov. 1st, 9 a.m., fifteen, S.E. to N.W. At Yarmouth, Oct. 17th and 18th, early morning, very high. Mr. T.",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1880. [Second Report]",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Cordeaux, John, 1831-1899; Kermode, P. M. C. (Philip Moore Callow), 1855?-1932",
+    "gutenbergReference": "65411",
+    "hash": "c1192a373fe3440280b2bf9422c733d3409dcd9ffb8c266d573583a86ba69043"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "Coronation day. It was at ",
+    "quoteTime": "12.45 P.M.",
+    "quoteLast": " on June 24th, when the streets were packed with moving, happy, holiday crowds and the decorations were nearing completion and their full effect and force becoming apparent to the on-lookers, that an official bulletin was posted at the Mansion House which seemed to reach every one in London at the same instant--so rapidly was the news spread.",
+    "title": "The Life of King Edward VII\nwith a sketch of the career of King George V",
+    "author": "Hopkins, J. Castell (John Castell), 1864-1923",
+    "gutenbergReference": "25112",
+    "hash": "9785779929085307a5ab5d7fb373475bef6eea09449f861d20e9035133028149"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "Mr. BELIN. Then the statement is made sometime before ",
+    "quoteTime": "12:45 p.m.",
+    "quoteLast": ", and after the 12:43 p.m., call, \"Attention all squads, description was broadcast and no further information at this time.\"",
+    "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44006",
+    "hash": "4e01beb417699f2a19cb1dd386642c2c3f245a03e08c60d4dc740a44f0a81d35"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "The testimony of Dial Duwayne Ryder was taken at ",
+    "quoteTime": "12:45 p.m.",
+    "quoteLast": ", on April 1, 1964, at the Irving Sports Shop, 221 East Irving Boulevard, Irving, Tex., by Mr. Wesley J. Liebeler, assistant counsel of the President's Commission.",
+    "title": "Warren Commission (11 of 26): Hearings Vol. XI (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44011",
+    "hash": "6f997ef872277dc4078e50327119c973b1de5ea845a8263848024a1f514af944"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "PENNY POSTS.—For Birkenhead,               11.0 a.m.        ",
+    "quoteTime": "12.45 p.m.",
+    "quoteLast": "",
+    "title": "Drake's Road Book of the Grand Junction Railway\nfrom Birmingham to Liverpool and Manchester",
+    "author": "Drake, James, active 1825",
+    "gutenbergReference": "43367",
+    "hash": "288a0f9308400287a2050d4d8bb81013ba5f3b0d72e6a9d7e7fadbc4b3ebc9e0"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "Do.        |     25|",
+    "quoteTime": "12.45 p.m.",
+    "quoteLast": "|...|...|    ...|...|...|SE.    |Rain.",
+    "title": "Exploration of the Valley of the Amazon, Part 2 (of 2)",
+    "author": "Herndon, William Lewis, 1813-1857; Gibbon, Lardner, 1819-1910",
+    "gutenbergReference": "57771",
+    "hash": "620e1fcdc61f7c02db36636425233e74206ad8e716828c92e8a153711b2a25d0"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "North Beckley at ",
+    "quoteTime": "12:45 p.m.",
+    "quoteLast": " Whaley testified that he did not keep an accurate time record of his trips but recorded them by the quarter hour, and that sometimes he made his entry right after a trip while at other times he waited to record three or four trips.[C4-464] As he unloaded his Continental bus station passenger in front of Greyhound, he started to get out to buy a package of cigarettes.",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "31865ee7f410881284771ed4549985fdc7471e8b769f9b616950c7c2f4cb6c17"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "\"I arrived at Wilhelmshöhe on the morning of September 5th, and I was asked to 'report' to the Kaiser at ",
+    "quoteTime": "12.45 p.m.",
+    "quoteLast": " This expression was chosen because the new head of the Kaiser's Civil Cabinet, Herr v. Berg, evidently wished to invest my visit with an official character which would enable him to be in attendance.",
+    "title": "Albert Ballin",
+    "author": "Huldermann, Bernhard; Eggers, Wilhelm Johann [Translator]",
+    "gutenbergReference": "44135",
+    "hash": "94a60349a46476fb8b58e9ed371c06a2c5f4dd8211eb67a9a82605181f0d52fc"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "The talk soon fell again upon the probabilities of the day. Penhallow listened. Meade grave and silent sat on a cracker-box and ate in an absent way, or scribbled orders, and at last directed that the picked body of men, the provost's guards, should join their regimental commands. About a ",
+    "quoteTime": "quarter to noon",
+    "quoteLast": " the generals one by one rode away.",
+    "title": "Westways: A Village Chronicle",
+    "author": "Mitchell, S. Weir (Silas Weir), 1829-1914",
+    "gutenbergReference": "14153",
+    "hash": "1ec2843d1b537de28ef742a4480d2b0c7153bb88abbd12d5f79a4fbbacfafb99"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "During this phase the 179th Brigade, led by the 2/14th and 2/15th Battalions were gradually moving forward for the attack on the main positions in conjunction with the 181st Brigade. At 10 a.m. the latter had reorganised and were reported ready for the next phase, which was preceded by wire-cutting on the part of the Artillery. This having been completed by 11 a.m., orders were received from the 20th Corps for the assault to take place in conjunction with the 74th Division on the left at 12.15 p.m. By ",
+    "quoteTime": "12.45 p.m.",
+    "quoteLast": " the whole of the enemy main positions were in our hands, and our left artillery group were left free to assist the attack of the 74th Division, who were slightly checked on our left.",
+    "title": "The History of the Prince of Wales' Civil Service Rifles",
+    "author": "Anonymous",
+    "gutenbergReference": "51387",
+    "hash": "15e9b1e366a05030006cce76c1e3cdf76acb015da78b60af77a885749d517ae1"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "On Friday, May 31, 1889, at ",
+    "quoteTime": "12:45 p. m.",
+    "quoteLast": ", the stones in the center of the dam which confined the waters of Conemaugh Lake began to sink because of leaks in the masonry; at 1 o'clock the dam broke and the flood rushed fiercely down the beautiful Conemaugh Valley to Johnstown, two and a half miles directly to the southwest--but thirteen miles by way of the winding valley--and within a few minutes nearly 2,300 men, women and children (this many, it is known, perished, although it is probable the loss of life was much greater) were lying dead in the wreckage of the city; millions of dollars' worth of property were destroyed and thousands of",
+    "title": "The Complete Story of the Galveston Horror",
+    "author": "Coulter, John [Editor]",
+    "gutenbergReference": "34304",
+    "hash": "be7af248b53a60a55b4a20edb590d36cbf63d996c8f732fcdcb1ca5e1a8bcdd4"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "They were poorly clad, and apparently the sprinkling of German N.C.O.’s had kept up their morale until the sight of our bayonets. By ",
+    "quoteTime": "12.45 p.m.",
+    "quoteLast": " the position was in our hands, and a line some 800 yards beyond the trenches was immediately consolidated. Patrols pushed forward, but little was seen of the Turk; only small groups could be seen in the distance running away as fast as their legs could take them.",
+    "title": "The History of the Prince of Wales' Civil Service Rifles",
+    "author": "Anonymous",
+    "gutenbergReference": "51387",
+    "hash": "c80c0bebfc424cd79e1e9df5e226e92cde6b00556abff118064a220d36f72cbf"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "",
+    "quoteTime": "12.45p.m.",
+    "quoteLast": "28.82 71     25  On march up Wady Sadr, under tree. Cold sea-breeze. Sky quite clear; sun warm. Awful east winds down these Wadys form the Goz or sand-heaps.",
+    "title": "The Land of Midian (Revisited) — Volume 2",
+    "author": "Burton, Richard Francis, Sir, 1821-1890",
+    "gutenbergReference": "7113",
+    "hash": "33b37676aa59094b6a6e1f55339a6a905fd99c9cbf254aae9e2e0146e435f60c"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "(Whereupon, at ",
+    "quoteTime": "12:45 p.m.",
+    "quoteLast": ", the President's Commission recessed.)",
+    "title": "Warren Commission (02 of 26): Hearings Vol. II (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44002",
+    "hash": "362205a26a3da1d071db2ff46101ae44c5d19edb50650ab990584bbd9ffa585b"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "This was at ",
+    "quoteTime": "12:45 p.m.",
+    "quoteLast": "",
+    "title": "Warren Commission (04 of 26): Hearings Vol. IV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44004",
+    "hash": "6d220f3ac2564618cb690503bc2d1a2b276fb83460665fdfd3a2500e7b722aea"
   }
 ]

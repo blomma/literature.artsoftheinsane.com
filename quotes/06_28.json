@@ -7,7 +7,6 @@
     "title": "The Life of the Right Honourable Horatio Lord Viscount Nelson, Volume 2",
     "author": "Harrison, James",
     "gutenbergReference": "16913",
-    "matchType": 1,
     "hash": "ea6b82634104b7930aeb6bf6e6ad50e3adbc4380e27086421d21494d1e86544b"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "ff58638848a8ec94b43c6ee9c8a0179fd5150085fa75ef2f74e7f7d21bbc4d5f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "a8b707dae048766bd999be802bb91309d60dd14515d3619cd0d9bf6872b88952"
   }
 ]

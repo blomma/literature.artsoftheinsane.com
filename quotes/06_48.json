@@ -7,7 +7,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "ee698003e9af218542678f4072826c477419f0e08651e2d1360a0cf701e98dba"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Every-day Book and Table Book. v. 3 (of 3)\r\nEverlasting Calerdar of Popular Amusements, Sports, Pastimes, Ceremonies, Manners, Customs and Events, Incident to Each of the Three Hundred and Sixty-five Days, in past and Present Times; Forming a Complete History of the Year, Month, and Seasons, and a Perpetual Key to the Almanac",
     "author": "Hone, William, 1780-1842",
     "gutenbergReference": "53277",
-    "matchType": 1,
     "hash": "cee2ed477565376926aef20862aba00e112a54794d054a3318bf3dd83217b385"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Fighting Scrub",
     "author": "Barbour, Ralph Henry, 1870-1944; Rahn, A. D. [Illustrator]",
     "gutenbergReference": "73435",
-    "matchType": 1,
     "hash": "00d7551f4bbc513485bd182135bcf171631eaa510ed5d9bf34d579769895abdb"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "dbab00b3e2612b25e54eb273a16cdceb541156fa66b829c8c23483122aa4388f"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Virginian: A Horseman of the Plains",
     "author": "Wister, Owen, 1860-1938",
     "gutenbergReference": "1298",
-    "matchType": 1,
     "hash": "a84bb719784de173f722438ea91e4e135024319df8e23f7df4f7b1e939a9eae0"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Punch, or the London Charivari, Volume 100, May 9, 1891",
     "author": "Various",
     "gutenbergReference": "13313",
-    "matchType": 1,
     "hash": "1c6202c725fa78899dcbad2a644da9b15d177bdb150f04a4da9d658c277d903e"
   },
   {
@@ -73,7 +67,6 @@
     "title": "When shadows die",
     "author": "Southworth, Emma Dorothy Eliza Nevitte, 1819-1899",
     "gutenbergReference": "75317",
-    "matchType": 1,
     "hash": "5896b0d6acea82b1ac3910863cdee39a239a1c0455344f1ba839480a1ce65b2c"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Punch, or the London Charivari, Volume 100, April 18, 1891",
     "author": "Various",
     "gutenbergReference": "13323",
-    "matchType": 1,
     "hash": "06bac7705f1191d9e024efac429e0dfd7601a64379aaeda1b1bb093aabf11528"
   }
 ]

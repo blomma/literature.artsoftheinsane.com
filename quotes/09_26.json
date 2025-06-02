@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "864f5c0a673252b31027e0b83164691cedd88d4cddf7a6afcb5d0c393e3cc25d"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Railroad Problem",
     "author": "Hungerford, Edward, 1875-1948",
     "gutenbergReference": "40125",
-    "matchType": 2,
     "hash": "532e06d769ba5f317ac5b8143fa5032ca752dbabc2bb051b584f62fbfe7df3b0"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Boy Scouts of Lakeville High",
     "author": "Quirk, Leslie W., 1882-; Kirkpatrick, William Arber-Brown, 1880- [Illustrator]",
     "gutenbergReference": "45740",
-    "matchType": 1,
     "hash": "0240a9bc3f7b7550e5e2ea943ac3e027c33233d9aeee8a59dbc3f136240dcf2b"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 04, June 1884, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55194",
-    "matchType": 2,
     "hash": "7f0ea13d1c518e544acd48cb5624c2efacbef141c3f2964c9b2cbc6a10423c8e"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Venusian Invader",
     "author": "Sternig, Larry, 1908-1999",
     "gutenbergReference": "63657",
-    "matchType": 1,
     "hash": "d621acd003f6071a66f2d71090e4c4c95b1570cc86c8a2ecd41078d12d3cd7e1"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "matchType": 2,
     "hash": "5e6f4e2f8a9c340f0fc9d09cb454f7633e249be06964caa03b037018d1091a8c"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Every-day Science: Volume 7. The Conquest of Time and Space",
     "author": "Williams, Henry Smith, 1863-1943; Williams, Edward Huntington, 1868-1944",
     "gutenbergReference": "43819",
-    "matchType": 2,
     "hash": "0559b3cffccbe0d78b7a6405be8f7701a503f4cb44e8f8823fff9d31c8d8bd76"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Wire Tappers",
     "author": "Stringer, Arthur, 1874-1950",
     "gutenbergReference": "50203",
-    "matchType": 1,
     "hash": "bfda3d7d384fbada764910a50d7245fd046adec241389bdf84f3402c74943e57"
   }
 ]

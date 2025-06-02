@@ -7,7 +7,6 @@
     "title": "London to Ladysmith via Pretoria",
     "author": "Churchill, Winston, 1874-1965",
     "gutenbergReference": "14426",
-    "matchType": 1,
     "hash": "8902554f01bee752b1fadf786af5c9131731c8367bb5f92981cd74e097451344"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "fbca278c9432152b656b6156ec3182b8745f02be96f667cbca6c3206644a58d3"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "fbca278c9432152b656b6156ec3182b8745f02be96f667cbca6c3206644a58d3"
   }
 ]

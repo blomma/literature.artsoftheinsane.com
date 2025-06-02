@@ -7,7 +7,6 @@
     "title": "A Merry Scout",
     "author": "Brett, Edna Payson; Riley, Garada Clark [Illustrator]",
     "gutenbergReference": "66888",
-    "matchType": 1,
     "hash": "08aded0451062facd1a522f40b864d28b1832b83250e53f209b3117e81874f03"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "0cd6030b1ac1935bc285d8e568989861bd72e762ef9634c254ac92eb7c23da78"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "a2726eae8c94768c4b5fbed3ec62cc9bdd22e758b74695e37e3b322473b96a4b"
   }
 ]

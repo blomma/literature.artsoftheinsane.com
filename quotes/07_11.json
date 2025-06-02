@@ -7,7 +7,6 @@
     "title": "Murder by the clock",
     "author": "King, Rufus, 1893-1966",
     "gutenbergReference": "75500",
-    "matchType": 2,
     "hash": "3f6551f0fc7550c294005c01ff013222bd0cf181030c230461e275d7e52040d5"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Murder by the clock",
     "author": "King, Rufus, 1893-1966",
     "gutenbergReference": "75500",
-    "matchType": 2,
     "hash": "a4d13f1d12af0f1fe74be1a9ac2d9d527ea759ce9d02f909d2b393a825cd7e29"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, January 1884\r\nA Monthly Magazine Devoted to the Promotion of True Culture.\r\nOrgan of the Chautauqua Literary and Scientific Circle.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "53652",
-    "matchType": 2,
     "hash": "c030fb4c6f361644a455b4946c6714ad046917fe185184f54b3df3f259140549"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
-    "matchType": 2,
     "hash": "4b54df94b83fa6dde69a9db0442e0b25aa3113436862e7569fb6b49ddf10d940"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Egholm and his God",
     "author": "Buchholtz, Johannes, 1882-1940; Worster, W. J. Alexander (William John Alexander), 1882-1929 [Translator]",
     "gutenbergReference": "46913",
-    "matchType": 1,
     "hash": "36147e932a30c5566821a5e5ef9b20fc950b492486181bf5fb0fb13310d8538d"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "932cc2346ffad94edeb98dd5119664b06ae72fe41b4bd6a74c69eb1234cdec43"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "1d19026777cac23326efa228201388f3dfedce970c33fea9c7598a44ec757af1"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Showell's Dictionary of Birmingham\r\nA History and Guide, Arranged Alphabetically",
     "author": "Harman, Thomas T.; Showell, Walter, 1836?-1901",
     "gutenbergReference": "14472",
-    "matchType": 2,
     "hash": "89c4cf6a6f8c1d2cfffb78d3ac82fce3c5929685c3c10be5831598919efc0da5"
   }
 ]

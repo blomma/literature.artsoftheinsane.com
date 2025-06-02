@@ -7,7 +7,6 @@
     "title": "A voyage to the South Sea",
     "author": "Bligh, William, 1754-1817",
     "gutenbergReference": "15411",
-    "matchType": 1,
     "hash": "0ab061a473ccb25bc73fbc8107d44e18d36cd9bd0d14cc82af7cc528748515d1"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Facing the Flag",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "11556",
-    "matchType": 1,
     "hash": "a4660e68edbb012d883e8aae7e8682cec4062f1fe341ee2f68f656f10f18b115"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "53573254944e440afad1d1f37d8128dcee4bf81b65354bff88df55832f6a220a"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Vistas in Sicily",
     "author": "Riggs, Arthur Stanley, 1879-1952",
     "gutenbergReference": "40381",
-    "matchType": 1,
     "hash": "953c4133fa043ba74183169756886036297d85b92bde6dd4e38883c7fd0941ed"
   }
 ]

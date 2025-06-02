@@ -7,7 +7,6 @@
     "title": "Makers of Japan",
     "author": "Morris, J. (John) (Writer on Japan)",
     "gutenbergReference": "70710",
-    "matchType": 2,
     "hash": "4d3f0cb612ac2e54f8ba9a0a304c9211df16fd51a9d490dee16d2916daaf8d01"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "9bd7f9c679ea24e76f3bd8f1ed656c1bec09b784fe980a4ec6507e454f129d3a"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Aircraft in war",
     "author": "Bruce, Eric Stuart, 1855-1935",
     "gutenbergReference": "71736",
-    "matchType": 2,
     "hash": "5d71283167171bc18600da9d9ef6bebebb386b16188f753ff539fae106dd0d56"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Following the Equator: A Journey Around the World",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "2895",
-    "matchType": 2,
     "hash": "7e341202ae37263c173cbc905d4454853a7974570e053c5f3798f7e2bd581c73"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Life histories of North American wood warblers, Part 1 (of 2)",
     "author": "Bent, Arthur Cleveland, 1866-1954; Tyler, Winsor Marrett, 1876-1954 [Contributor]",
     "gutenbergReference": "40100",
-    "matchType": 2,
     "hash": "9391a1fcfc2fca77d8e03b6aefed62e13917583158cdfc8e64f94d8150e7b06b"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Pictorial Press: Its Origin and Progress",
     "author": "Jackson, Mason, 1819-1903",
     "gutenbergReference": "36417",
-    "matchType": 1,
     "hash": "6df1b1944bad49a3b2ef63193bf46bfc43c3c3f0d18f6a7c7132ac72f31c0249"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Genius",
     "author": "Potter, Margaret Horton, 1881-1911",
     "gutenbergReference": "22004",
-    "matchType": 1,
     "hash": "55d2c483ba4cb9155da6f244fa0cfa5f4ae1bfa131d630c3f43abefef8384933"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Entire Project Gutenberg Works of Mark Twain",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3200",
-    "matchType": 2,
     "hash": "7df21aab1b7bac7b81dfb3a1c6556a6c15ff067116b1ea698fb6f8b93ef2d9b3"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "cce9f1a3e6037814600f67bcd04282400c0820eafb56a8812683f2431e8f9bdd"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Alps",
     "author": "Lunn, Arnold, 1888-1974",
     "gutenbergReference": "56358",
-    "matchType": 2,
     "hash": "5dd3f066936197d6a053b2910ca757e190ded5c21dfa2f88e27ed05942ea6a5f"
   },
   {
@@ -117,7 +107,6 @@
     "title": "Following the Equator: A Journey Around the World. Part 7",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "5814",
-    "matchType": 2,
     "hash": "de412b2565ed24fb3cb81e8fbf546ade3e52f705f92118898853bf6ef4961d64"
   },
   {
@@ -128,7 +117,6 @@
     "title": "The A.B.-Z. of our own nutrition",
     "author": "Fletcher, Horace, 1849-1919; Higgins, Hubert [Contributor]; Someren, Ernest van [Contributor]",
     "gutenbergReference": "67326",
-    "matchType": 2,
     "hash": "045ba91cff1ec94e410c0d233dc3114f52a5bf0c6f36ec9fb96b3071a1dded1e"
   },
   {
@@ -139,7 +127,6 @@
     "title": "The A.B.-Z. of our own nutrition",
     "author": "Fletcher, Horace, 1849-1919; Higgins, Hubert [Contributor]; Someren, Ernest van [Contributor]",
     "gutenbergReference": "67326",
-    "matchType": 2,
     "hash": "34b52ec80c6c10f671e697704146f2046976879863108f73d1eac8c3b576f6f4"
   }
 ]

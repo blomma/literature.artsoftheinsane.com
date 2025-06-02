@@ -7,7 +7,6 @@
     "title": "The Disentanglers",
     "author": "Lang, Andrew, 1844-1912",
     "gutenbergReference": "17031",
-    "matchType": 2,
     "hash": "857aaf9e2611c662463f98017acbc3b8ea83f2ba5f1f318debfcb87cc225d594"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Mark Twain: A Biography. Volume II, Part 2: 1886-1900",
     "author": "Paine, Albert Bigelow, 1861-1937",
     "gutenbergReference": "2985",
-    "matchType": 2,
     "hash": "e4e45fb79295e7822b8ad59889b89647fa2b79e2907223686e17b2edc47c9d71"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Mark Twain: A Biography. Complete",
     "author": "Paine, Albert Bigelow, 1861-1937",
     "gutenbergReference": "2988",
-    "matchType": 2,
     "hash": "ad0afde63301dcc864d0f27e63a3470a06536f762f1961d3599483f65e8b7df7"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "660bf1b484f246bbbc513f3b3c586bb7df96a65b2d76ae887c7d9073082b8c6d"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Mary Olivier: a Life",
     "author": "Sinclair, May, 1863-1946",
     "gutenbergReference": "9366",
-    "matchType": 1,
     "hash": "bb2c8f93a02e5fb4cb83700bc5139cec243d9a4dbf5cb8b70db1a44a12a659ab"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Yellow Poppy",
     "author": "Broster, D. K. (Dorothy Kathleen), 1877-1950",
     "gutenbergReference": "59937",
-    "matchType": 1,
     "hash": "5380e3cbf64674f8ba34595aee5a4e297ef0868e8cc1ed08dbe5c130a8d0b8d8"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Boys of '98",
     "author": "Otis, James, 1848-1912",
     "gutenbergReference": "30684",
-    "matchType": 2,
     "hash": "fb8ad709b0dfc6621970275e118e3631b0713a31a3e6aa545a0536002d477228"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Warren Commission (13 of 26): Hearings Vol. XIII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "57111",
-    "matchType": 2,
     "hash": "964c890a505c91af7d5805651311c531533f9ae897afd3023331475033e0eb86"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
-    "matchType": 2,
     "hash": "ca578981319081eef9ab233619aed72c46988ffdd621677bb49981e7fa19b16c"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Submarines, Mines and Torpedoes in the War",
     "author": "Domville-Fife, Charles W. (Charles William), 1886-1960",
     "gutenbergReference": "51347",
-    "matchType": 2,
     "hash": "73a36525b2b1a3feb0515a7722879a758788653dbbfe8f2c0f5d38d631f486f9"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "50b97673ba0ceac9790c301a60306fa08d2673f59d3f82b6afda87f0c21a3b2e"
   },
   {
@@ -16,10 +15,9 @@
     "quoteTime": "5.24 a. m.",
     "quoteLast": ", fired on submarine.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "8615b184020f1c253b255c2d960904ded44cc9631016dc729a7e493d42af6152"
+    "hash": "521e673e2f7cccb2b214e504ad5f911025c76fdd83d1be5ae6a73d87ba3b6276"
   },
   {
     "time": "05:24",
@@ -27,10 +25,9 @@
     "quoteTime": "5.24 a. m.",
     "quoteLast": " encountered a submarine, presumably German, in Latitude 50·30 degrees North, Longitude 32 degrees West; 9 miles South 37 degrees East true from the Overs Light vessel.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "2642a1a112f2b5bbac04814c52897a6d873d61cf795bb0625b0c86766eb4e8d0"
+    "hash": "525548898d9b2f521fb9a86220d87443ba475db747671772aa66a05221d394c8"
   },
   {
     "time": "05:24",
@@ -40,7 +37,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "46faea24556a8bf5ef994a8b095c751b9b024d65d2f7a9f54e7961a3c74a36b4"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Red-Blooded Heroes of the Frontier",
     "author": "Bronson, Edgar Beecher, 1856-1917",
     "gutenbergReference": "22350",
-    "matchType": 2,
     "hash": "9a2c50f8074fcc34e5a0b4c5903daf61bafd25eb9dbdc47b8c825bac0fbb2533"
   }
 ]

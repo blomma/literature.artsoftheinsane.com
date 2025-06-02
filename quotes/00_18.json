@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55218",
-    "matchType": 2,
     "hash": "4faf3821509dadc1bd33108db81d9792c95cc3bc38263966b407777d86b5d6d9"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "8aab4dc9963726bc2a9b887c103b85701d18651d98ace5d7ef31b878021c2dc7"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Mariner Mission to Venus",
     "author": "Jet Propulsion Laboratory (U.S.)",
     "gutenbergReference": "54585",
-    "matchType": 2,
     "hash": "32e6a9bf9780761cc2897228bad09f4f9bd18e4be80b8fdef50e779a03721f4f"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Omega: The Last days of the World",
     "author": "Flammarion, Camille, 1842-1925",
     "gutenbergReference": "57489",
-    "matchType": 0,
     "hash": "9eaea8a3f96379b5f64536e2a3a00cf271b4f6423af522ac506857c21064c911"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Pugilistica: The History of British Boxing, Volume 1 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
     "author": "Miles, Henry Downes, 1806-1889",
     "gutenbergReference": "59465",
-    "matchType": 1,
     "hash": "d4bd5fae84318a6a00fc104eeadb8616891c3a8628203dcfc9d08f9ee7eec219"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "ae98b0fa43f621965c24343977b985819b58072aab9c0abc9d1352611f9539f0"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Loss of the Steamship \"Titanic\"",
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
-    "matchType": 2,
     "hash": "fb673be550c76a413085c4990b9074499c6d3d24b3aa76df78a4f9b92d0268e4"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Bunker Bean",
     "author": "Wilson, Harry Leon, 1867-1939; Gruger, Frederic Rodrigo, 1871-1953 [Illustrator]",
     "gutenbergReference": "15743",
-    "matchType": 1,
     "hash": "83c3a8779d7c51bc4d32a3fd024e3ecd9439c5e39c3fb6c889a42f357379aff6"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "75138",
-    "matchType": 1,
     "hash": "cfefcae661d86cd47e8a5232013fcde84b63062f9467a853b6429e48f754ef9f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Perfume of Eros: A Fifth Avenue Incident",
     "author": "Saltus, Edgar, 1855-1921",
     "gutenbergReference": "33207",
-    "matchType": 1,
     "hash": "dcf64dd97242b22a3515e84be812a69df11b107565378245ddc7880f32009783"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The purple sickle murders",
     "author": "Crofts, Freeman Wills, 1879-1957",
     "gutenbergReference": "75488",
-    "matchType": 2,
     "hash": "3d6a5adf89907ab1594477444f8c1153a8e940386fdb7e2a4150c10b432521b6"
   },
   {
@@ -51,7 +47,6 @@
     "title": "In to the Yukon",
     "author": "Edwards, William Seymour, 1856-1915",
     "gutenbergReference": "42611",
-    "matchType": 2,
     "hash": "92328442b51f1f80cc395c048b12275cf9747800acc199fc857e830a490bdbd9"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Secrets of a Kuttite\nAn Authentic Story of Kut, Adventures in Captivity and Stamboul Intrigue",
     "author": "Mousley, Edward O. (Edward Opotiki), 1886-",
     "gutenbergReference": "41213",
-    "matchType": 0,
     "hash": "cc88cfe14801966cc2577990490c2b1a9a52c731b9094192e6fc8cbdd4bb8a72"
   }
 ]

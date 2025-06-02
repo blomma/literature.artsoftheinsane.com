@@ -7,7 +7,6 @@
     "title": "The Dominion of the Air: The Story of Aerial Navigation",
     "author": "Bacon, John M. (John Mackenzie), 1846-1904",
     "gutenbergReference": "861",
-    "matchType": 2,
     "hash": "d3c9092ebb02b6f191882627bee94eb7b3fe2fefd3d967dfd82606701303aedf"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Barium: A Cause of the Loco-Weed Disease",
     "author": "Crawford, Albert Cornelius",
     "gutenbergReference": "40256",
-    "matchType": 2,
     "hash": "982bc3057c59d60f33f4f2ede281234a143f96a7b3f05d7ee3f171f44d1d728a"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Multitude and Solitude",
     "author": "Masefield, John, 1878-1967",
     "gutenbergReference": "58436",
-    "matchType": 1,
     "hash": "a5d93fad8d56f3cdc844cfc4f161332e611426b5fb80a6945c592a87a41f1b3b"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Arundel",
     "author": "Benson, E. F. (Edward Frederic), 1867-1940",
     "gutenbergReference": "45719",
-    "matchType": 2,
     "hash": "5f285d880d14c0bfca880e6bf3c2d5134147fe10d59c785edc36aad889e9949b"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Arundel",
     "author": "Benson, E. F. (Edward Frederic), 1867-1940",
     "gutenbergReference": "45719",
-    "matchType": 2,
     "hash": "490f6cfc3552e5bec264f0e81403ee72f6ec942c4973d911330ee82022a3e0c2"
   }
 ]

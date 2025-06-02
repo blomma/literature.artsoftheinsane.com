@@ -7,7 +7,6 @@
     "title": "Mad Shepherds, and Other Human Studies",
     "author": "Jacks, L. P. (Lawrence Pearsall), 1860-1955; Brooke, L. Leslie (Leonard Leslie), 1862-1940 [Illustrator]",
     "gutenbergReference": "31386",
-    "matchType": 2,
     "hash": "8afc6a72aeb71c975f06211e44dcdc9ec4b88e6b7401f23ba1d9cf045edf7438"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, January 1884\r\nA Monthly Magazine Devoted to the Promotion of True Culture.\r\nOrgan of the Chautauqua Literary and Scientific Circle.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "53652",
-    "matchType": 2,
     "hash": "2b9f1eaff6e8f1fc4479a0d6ec91ac6a921aa49b970bc13b2f20add787bd5933"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Dear Enemy",
     "author": "Webster, Jean, 1876-1916",
     "gutenbergReference": "238",
-    "matchType": 2,
     "hash": "012e81d0e63b3fbb8fed947dc9f7c2fbbaa26f94a1ae9713e2ed1d4b9693f0be"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 04, December 1883",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55112",
-    "matchType": 2,
     "hash": "8d7b0546cbd05bb74d822f5c5b384ea94fb4dde60b81fbf59d3b3d3bbab343fd"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Mr. Togo: Maid of all Work",
     "author": "Irwin, Wallace, 1876-1959; Irvin, Rea, 1881-1972 [Illustrator]",
     "gutenbergReference": "65614",
-    "matchType": 2,
     "hash": "ba7b3d233a1ddeaa1b755f2d1d03791bbfaaf2f3ecf1cc5b5395869be25b8e62"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Araminta",
     "author": "Snaith, J. C. (John Collis), 1876-1936",
     "gutenbergReference": "73133",
-    "matchType": 1,
     "hash": "48e534dc742a5991e9baee9a12837f1d40b91cd95e2afa1b18e1dfa32c2a22be"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Araminta",
     "author": "Snaith, J. C. (John Collis), 1876-1936",
     "gutenbergReference": "73133",
-    "matchType": 1,
     "hash": "f2d35e0c60776bf656db935e351f2d112cc87e327eeb5a538efef339f46c8ff3"
   }
 ]

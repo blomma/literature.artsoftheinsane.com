@@ -7,7 +7,6 @@
     "title": "The Life of the Right Honourable Horatio Lord Viscount Nelson, Volume 2",
     "author": "Harrison, James",
     "gutenbergReference": "16913",
-    "matchType": 1,
     "hash": "cc77964ef2dc915a75773212706d8d2e4aa11514caec6c0a320a0f2c68470fe9"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "a8af020f986980cd55c5f979759f2a38f4c6389e768f5af70dd979ac7c27db9e"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Trial of the Major War Criminals Before the International Military Tribunal, Nuremburg, 14 November 1945-1 October 1946, Volume 02",
     "author": "Various",
     "gutenbergReference": "51882",
-    "matchType": 2,
     "hash": "5f40f9e1827dcbfa138abd63d40675743a221e967f1f0591f09d0444224bc6ef"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Nazi Conspiracy and Aggression, Volume 01 (of 11)",
     "author": "United States. Office of Chief of Counsel for the Prosecution of Axis Criminality",
     "gutenbergReference": "55368",
-    "matchType": 2,
     "hash": "81918ee1145eb64e94d0e2ebc97db7f1343897d7356c950de6e2dfd747612d48"
   }
 ]

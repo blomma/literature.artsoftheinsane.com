@@ -7,7 +7,6 @@
     "title": "San Francisco Relief Survey; the organization and methods of relief used after the earthquake and fire of April 18, 1906",
     "author": "O'Connor, Charles J. (Charles James), 1870- [Contributor]; Artieda, Helen Swett, 1875-1938 [Contributor]; Coolidge, Mary Roberts, 1860-1945 [Contributor]; McLean, Francis H. (Francis Herbert), 1869-1945 [Contributor]; Motley, James M. (James Marvin), 1877-1954 [Contributor]; Peixotto, Jessica B. (Jessica Blanche), 1864-1941 [Contributor]",
     "gutenbergReference": "56217",
-    "matchType": 1,
     "hash": "c4dd1dd2d9bd3fe06ef22e091bc2fd5332f2c710c42a3b786a5bc32ea66c7f95"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Aërial Navigation\r\nA Popular Treatise on the Growth of Air Craft and on Aëronautical Meteorology",
     "author": "Zahm, Albert Francis, 1862-1954",
     "gutenbergReference": "60277",
-    "matchType": 1,
     "hash": "c1653f11a9954832358816611e8dc49b1defe05561941e60f370e1ae9bb512ad"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
     "author": "Miles, Henry Downes, 1806-1889",
     "gutenbergReference": "64111",
-    "matchType": 1,
     "hash": "7d65bf28fd77bb02f166eb5fc39906efd15f116d050453d13a870ba0cc67b08e"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Short stories from Life: The 81 prize stories in \"Life's\" Shortest Story Contest",
     "author": "Masson, Thomas L., 1866-1934 [Author of introduction, etc.]",
     "gutenbergReference": "68085",
-    "matchType": 1,
     "hash": "4f94ca03f92cf128dd6c360f9dc5eb0971a2e7925a69bc9afc90b6d69e38ba6d"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Tanks in the Great War, 1914-1918",
     "author": "Fuller, J. F. C. (John Frederick Charles), 1878-1966",
     "gutenbergReference": "49808",
-    "matchType": 2,
     "hash": "fefc7893b3ce571782336860b2056c19e720a1632b694890a7fed43883039130"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Wonder Book of Volcanoes and Earthquakes",
     "author": "Houston, Edwin J. (Edwin James), 1847-1914",
     "gutenbergReference": "43320",
-    "matchType": 1,
     "hash": "fda0cff55e47322392eba04382e507947bf2dd81cb932888e7e73a65d83dbbaf"
   },
   {
@@ -73,7 +67,6 @@
     "title": "A History of Aeronautics",
     "author": "Vivian, Evelyn Charles, 1882-1947; Marsh, W. Lockwood (William Lockwood), 1886-1963",
     "gutenbergReference": "874",
-    "matchType": 2,
     "hash": "ac97c0eb8f3850b885e3934e168187d52d85c5aea34ed59672b67dec58fb2275"
   },
   {
@@ -84,7 +77,6 @@
     "title": "A History of Aeronautics",
     "author": "Vivian, Evelyn Charles, 1882-1947; Marsh, W. Lockwood (William Lockwood), 1886-1963",
     "gutenbergReference": "58347",
-    "matchType": 2,
     "hash": "33f2ba449db8106ac169cab2530bc121bdd05e2ef54421e16e4b9fac18e037c3"
   }
 ]

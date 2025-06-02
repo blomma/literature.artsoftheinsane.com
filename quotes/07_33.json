@@ -7,7 +7,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "0a770b5a0c70c27d7b0c1befbb69cf25e4bcd5970ffe1422dd2b8b60d2859d34"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Desperate Remedies",
     "author": "Hardy, Thomas, 1840-1928",
     "gutenbergReference": "3044",
-    "matchType": 1,
     "hash": "7ce7b785ba86b377627d66551e1cbd49e6088fee59adf60b21f732cc3947f4a4"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Yankee mining squadron",
     "author": "Belknap, Reginald Rowan, 1871-1959",
     "gutenbergReference": "74827",
-    "matchType": 2,
     "hash": "295714efc528f680c3246257bfdbd1e5bd93d24a47dff1cf222b70af2ed950c6"
   }
 ]

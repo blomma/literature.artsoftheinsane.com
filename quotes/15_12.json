@@ -7,7 +7,6 @@
     "title": "Tragedy in Dedham",
     "author": "Russell, Francis, 1910-1989",
     "gutenbergReference": "70970",
-    "matchType": 1,
     "hash": "0d28003bf3f6583890099f072255d8d75baec3e6f1df0fea9627e84c6f8b90e9"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Ralph, the Train Dispatcher; Or, The Mystery of the Pay Car",
     "author": "Chapman, Allen",
     "gutenbergReference": "38969",
-    "matchType": 2,
     "hash": "3973b9a5d83cc8b5485b390a08ba46ba7fc6011e13fc93f973bcd5af30f5ed82"
   },
   {
@@ -29,7 +27,6 @@
     "title": "McKinlay's Journal of Exploration in the Interior of Australia",
     "author": "McKinlay, John, 1819-1872",
     "gutenbergReference": "13248",
-    "matchType": 2,
     "hash": "ff2f0271c9391a213be5a1850cdbaf02fe1ce94092ac8e07396df908ca326c1b"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Barium: A Cause of the Loco-Weed Disease",
     "author": "Crawford, Albert Cornelius",
     "gutenbergReference": "40256",
-    "matchType": 2,
     "hash": "441d0a4df9daea53d66e25b67f821dbe42ea22f5a8874c88658efd8f78f41640"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Turner Twins",
     "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
     "gutenbergReference": "37209",
-    "matchType": 1,
     "hash": "d9fe42f935fb169b33d03fde83791195f22f42302202bbe8d57277d8d8d950aa"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Through South Africa\nHis Visit to Rhodesia, the Transvaal, Cape Colony, Natal",
     "author": "Stanley, Henry M. (Henry Morton), 1841-1904",
     "gutenbergReference": "32913",
-    "matchType": 2,
     "hash": "59ad7a21f9e9a3d9cd6e43c1b3e5b8a65ede351c717499cc1afc92e3117c36a8"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Mariner Mission to Venus",
     "author": "Jet Propulsion Laboratory (U.S.)",
     "gutenbergReference": "54585",
-    "matchType": 2,
     "hash": "cb82e0e218583bbc4ef762c45be21df4a2753d2d4fa098fe9747bbb51d947e13"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
-    "matchType": 2,
     "hash": "f914a8fb9550881913c7c923f2339b676ebc46d11bce2227648369d7ae97cef6"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Nothing But the Truth",
     "author": "Isham, Frederic Stewart, 1866-1922",
     "gutenbergReference": "43916",
-    "matchType": 0,
     "hash": "1d0157fa7c301d893ec5f6f0c844a71841039cbbd28633fcc6a423297cb8a40a"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Rat Race",
     "author": "Franklin, Jay, 1897-1967",
     "gutenbergReference": "51854",
-    "matchType": 2,
     "hash": "bdc5827c2ed0dc8d8d79d8ac8edc74433b027302600e54f9ff03080ba3dfbdb5"
   },
   {
@@ -117,7 +107,6 @@
     "title": "The informer",
     "author": "O'Flaherty, Liam, 1896-1984",
     "gutenbergReference": "75583",
-    "matchType": 1,
     "hash": "1135d31fffc4b48ceb91eb1edabcc939bcb5104b639c720b1f0cdef60511458a"
   },
   {
@@ -128,7 +117,6 @@
     "title": "The Chautauquan, Vol. 04, February 1884, No. 5.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55132",
-    "matchType": 1,
     "hash": "34c35cd34f2ee2eda1bc9b43447cffec42fe9383ec6d87acc5b9886d9d25592c"
   },
   {
@@ -139,7 +127,6 @@
     "title": "Ismailia",
     "author": "Baker, Samuel White, Sir, 1821-1893",
     "gutenbergReference": "3607",
-    "matchType": 2,
     "hash": "4e126ffa95f2423472d5de0d6e145603aea18778c6744f8e2a77fc7353eb0b2b"
   },
   {
@@ -150,7 +137,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "95063111eed1f34614ad67677313c96c54b47b44cdd9ef0919c09af1d4577240"
   },
   {
@@ -161,7 +147,6 @@
     "title": "\"Barbarous Soviet Russia\"",
     "author": "McBride, Isaac",
     "gutenbergReference": "49055",
-    "matchType": 1,
     "hash": "c375d4def6bd7d821dddc976b72fb21ee8f3493d16cd0fd1b284e54b19bf897c"
   }
 ]

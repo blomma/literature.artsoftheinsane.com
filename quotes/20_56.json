@@ -7,7 +7,6 @@
     "title": "The play that won",
     "author": "Barbour, Ralph Henry, 1870-1944; Louderback, Walt, 1887-1941 [Illustrator]",
     "gutenbergReference": "68062",
-    "matchType": 1,
     "hash": "3f42b0116a6639d242684c5852e29dc0bea32a84703f9ed9073311c43b4adff2"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Hurricane Hunters",
     "author": "Tannehill, Ivan Ray, 1890-1959",
     "gutenbergReference": "57973",
-    "matchType": 2,
     "hash": "295788aca763563d38f0ebb2118ce21851e5b269b405588f7ed8d53b854d35b7"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Bombardment of Reims",
     "author": "Ferree, Barr, 1862-1924",
     "gutenbergReference": "49649",
-    "matchType": 0,
     "hash": "2644a86cabbf3b370467cb8571a93181415f48985345f22d324f8b8e9d57dfa6"
   }
 ]

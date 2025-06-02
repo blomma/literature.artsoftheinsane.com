@@ -7,7 +7,6 @@
     "title": "A Book of the United States\r\nExhibiting its geography, divisions, constitution, and government ... and presenting a view of the republic generally, and of the individual states; together with a condensed history of the land, from its first discovery to the present time. The biography of about two hundred of the leading men: a description of the principal cities and towns; with statistical tables",
     "author": "Mellen, Grenville, 1799-1841 [Editor]",
     "gutenbergReference": "58447",
-    "matchType": 1,
     "hash": "66ed8a17f616049f2648de13cca28ebbe8d093815d0b89413d549bcbed057b85"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Rival Submarines",
     "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Williams, C. Fleming [Illustrator]",
     "gutenbergReference": "40866",
-    "matchType": 1,
     "hash": "b6cd6914e2e560b56cad9160f25c9cb0f36193ac8ee05c3ef6b8de2309900485"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "5f1b8c2252ea63f263cab92d148e1404d417ac544040c09a9a49d1157b2c81f7"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Free Air",
     "author": "Lewis, Sinclair, 1885-1951",
     "gutenbergReference": "26732",
-    "matchType": 1,
     "hash": "614fd88ad2d8e941e63af1f261ea479ff329b52432408a2e54a783ad289a31f0"
   }
 ]

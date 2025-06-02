@@ -7,7 +7,6 @@
     "title": "Voyage to Jupiter",
     "author": "Morrison, David, 1940-; Samz, Jane",
     "gutenbergReference": "58915",
-    "matchType": 2,
     "hash": "bb3e98622ebe83b51b159b76547cd1d92522322346d2e6c73f2163e5e8621d43"
   },
   {
@@ -18,7 +17,6 @@
     "title": "American boys afloat",
     "author": "Optic, Oliver, 1822-1897; Bridgman, L. J. (Lewis Jesse), 1857-1931 [Illustrator]",
     "gutenbergReference": "75149",
-    "matchType": 1,
     "hash": "591c40ac42619fef3a7075c4234e8e66e9e82ba00c5a32e43c0cd024046bbff9"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "7539dab093da93e97895ca850a5a938abf4dd487d189c19c111923fe56c1e045"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "de81df45b8258d280ec9a4723d0cc75ae05a6b18ea9b0214dbcf5bf25564761d"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 04, May 1884, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55158",
-    "matchType": 2,
     "hash": "a392f6e54252ce129e78aa0ce7b529165eb89f3853df4a21ae52570987b2e991"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "f8c58dd959bd8924ebe110cba9f6bf51d0ab59e28b83c05d5ae4de87fe3d4c61"
   },
   {
@@ -73,7 +67,6 @@
     "title": "James Lusk: Letters & Memories",
     "author": "Lusk, James, 1878-1915",
     "gutenbergReference": "59757",
-    "matchType": 2,
     "hash": "785928959f399f8bdba7930f6d99692a74d755188c87950e1396cfd2aacb3ff2"
   }
 ]

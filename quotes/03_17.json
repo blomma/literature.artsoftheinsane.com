@@ -7,7 +7,6 @@
     "title": "The Jack-Knife Man",
     "author": "Butler, Ellis Parker, 1869-1937; Booth, Hanson, 1885-1944 [Illustrator]",
     "gutenbergReference": "44150",
-    "matchType": 1,
     "hash": "b9559554707da82604fa1520a00005055a8a497cbdbb199745971f767f468c5c"
   },
   {
@@ -15,22 +14,20 @@
     "quoteFirst": "But I could not sleep after three o'clock in the morning in that room--a quarter past, to be accurate--as a matter of fact, I timed it with my old pocket chronometer, which still keeps good time, and it was always at exactly ",
     "quoteTime": "seventeen minutes past three",
     "quoteLast": ". I wonder whether that was the hour when she died?",
-    "title": "Wandering Ghosts",
-    "author": "Crawford, F. Marion (Francis Marion), 1854-1909",
+    "title": "Wandering ghosts",
+    "author": "Crawford, F. Marion (Francis Marion), 1854-1909; Bracker, M. Leone, 1885-1937 [Illustrator]",
     "gutenbergReference": "40386",
-    "matchType": 1,
-    "hash": "117308f264938dbe72326e523fe7250ee796f0876752705e877338e385585b98"
+    "hash": "bb4cc819596985467ddf9f7075cec7794a6b42da1b1eed0376fef8c2fdc1bb2c"
   },
   {
     "time": "03:17",
     "quoteFirst": "For I did not understand; I just supposed that the cupboard had some communication with the outside air, and that the wind had got in and was moaning through it with a sort of very faint screech. I struck a light and looked at my watch, and it was ",
     "quoteTime": "seventeen minutes past three",
     "quoteLast": ". Then I turned over and went to sleep on my right ear. That's my good one; I'm pretty deaf with the other, for I struck the water with it when I was a lad in diving from the foretopsail yard.",
-    "title": "Wandering Ghosts",
-    "author": "Crawford, F. Marion (Francis Marion), 1854-1909",
+    "title": "Wandering ghosts",
+    "author": "Crawford, F. Marion (Francis Marion), 1854-1909; Bracker, M. Leone, 1885-1937 [Illustrator]",
     "gutenbergReference": "40386",
-    "matchType": 1,
-    "hash": "b2b760613d4c8be1212116806e1fc07d355addc9821b3f7d37f13b9a08e606ad"
+    "hash": "7ababb4b9182e1aaa7632d48f43e359325055f5fd70b64c6db8f8a0e7fa9bbf0"
   },
   {
     "time": "03:17",
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "a95b29d5da42a8b80eabbd4f31fb08b75de81430bcd5c5443e44f49cc2f8e2fe"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Empire Annual for Girls, 1911",
     "author": "Various; Buckland, A. R. (Augustus Robert), 1857-1942 [Editor]",
     "gutenbergReference": "18661",
-    "matchType": 1,
     "hash": "9955b6c9fb88f4fb484cc354640678f80a021fd6191667de5cda04af5820ac77"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55218",
-    "matchType": 2,
     "hash": "9a54994a28b40260476eade151824556a63de6c141ea9ca6f5b0ca0dd57eb506"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Plays",
     "author": "Glaspell, Susan, 1882?-1948; Cook, George Cram, 1873-1924 [Contributor]",
     "gutenbergReference": "59432",
-    "matchType": 1,
     "hash": "9e2f2f095002313ace44900a983e87867f3ee7012f6e429047ef1bd01dea00c7"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Lady of Lynn",
     "author": "Besant, Walter, 1836-1901",
     "gutenbergReference": "42618",
-    "matchType": 1,
     "hash": "1fb712500e573f939f0daef94fa970a41d3cc582b82157aa8a00035cd2248253"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Bay State Monthly — Volume 1, No. 1, January, 1884",
     "author": "Various",
     "gutenbergReference": "9174",
-    "matchType": 2,
     "hash": "206e9adaf34635739081390fac05c0b0a7f0809836f381acd7f6af56d7b605fa"
   }
 ]

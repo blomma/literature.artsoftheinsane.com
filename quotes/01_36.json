@@ -7,7 +7,6 @@
     "title": "Dr. B. Mure's materia medica",
     "author": "Mure, Benoît, 1809-1858; Hempel, Charles J. (Charles Julius), 1811-1879 [Translator]",
     "gutenbergReference": "70350",
-    "matchType": 1,
     "hash": "9b2e79e394ee6dac54fd42e32762f5a1761d2bc5ee858339a0af378714e22c16"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "matchType": 2,
     "hash": "9d8d319d6662d41d690efeecc610a6261e57bf8b10faeb835b34bc24a74c46be"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "c39858b23a57a940764653305e44b77a6b08f322b313c0b2be77eca00b1c45aa"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "1228d0c369e54468c454122837c3e2c47ccc40632a7a59440ae92c1c6ae31085"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Vengeance From the Past",
     "author": "Krepps, Robert W., 1919-1980; Terry, W. E., 1921-1992 [Illustrator]",
     "gutenbergReference": "66438",
-    "matchType": 2,
     "hash": "4bbfcb32fe0fdbe3646b2be27748e67ebed3fe35e9069e8bf5b68b4d50aceb5c"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Hurricane Hurry",
     "author": "Kingston, William Henry Giles, 1814-1880; De Lacy, Charles J. [Illustrator]",
     "gutenbergReference": "21465",
-    "matchType": 1,
     "hash": "a9c7b4e0339acbed2f29e5eca1b702c1547c46b6493e6973c193331d64ad8b6a"
   }
 ]

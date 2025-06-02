@@ -7,7 +7,6 @@
     "title": "NetWorld! What People Are Really Doing on the Internet and What It Means to You",
     "author": "Rothman, David H.",
     "gutenbergReference": "55002",
-    "matchType": 2,
     "hash": "d7cf4d7047adb6306a498c0b49a9efd122d50c70fd96a1de92dd4d442265c2f5"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Plunderers: A Novel",
     "author": "Lefevre, Edwin, 1871-1943; Bracker, M. Leone, 1885-1937 [Illustrator]",
     "gutenbergReference": "51970",
-    "matchType": 1,
     "hash": "d2d025feb463a9340c34e849bc3badae0f7e1ee874248c11518fb86dfd650de0"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Daughter of Anderson Crow",
     "author": "McCutcheon, George Barr, 1866-1928; Justice, Martin, 1869-1961 [Illustrator]",
     "gutenbergReference": "14818",
-    "matchType": 1,
     "hash": "572a00063273adda3bc7129fceda4da200c9b4c6e95506875da3026171c4985d"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Poems of Jonathan Swift, D.D., Volume 2",
     "author": "Swift, Jonathan, 1667-1745; Ernst Browning, William, 1830- [Editor]",
     "gutenbergReference": "13621",
-    "matchType": 1,
     "hash": "8736461ed31fb0be7913e1bc7aa6fba2c6188a38843ab8a4985b68b4af2ef96a"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 04, December 1883",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55112",
-    "matchType": 2,
     "hash": "d40e76857aafed34768dc2e5428ff2dbc85921b8a43cdccf1c3dbbddeaa451ac"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 05, November 1884, No. 2",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55241",
-    "matchType": 2,
     "hash": "e9aa6dada2ed30fc34d52288cb6240b52c19884798220dfaad4e9205c31e9c1c"
   }
 ]

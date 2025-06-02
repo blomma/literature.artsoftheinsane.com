@@ -7,7 +7,6 @@
     "title": "The Riddle of the Rhine: Chemical Strategy in Peace and War",
     "author": "Lefebure, Victor",
     "gutenbergReference": "1272",
-    "matchType": 2,
     "hash": "e302e0e16d62e1ce5ea7f549bb89c8ead4f291c8fe2cd2c0d87c49094cbeaec9"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Kid Scanlan",
     "author": "Witwer, H. C. (Harry Charles), 1890-1929",
     "gutenbergReference": "29764",
-    "matchType": 1,
     "hash": "515c2ad2a4beac408c351b545bd063333b1c468ddbf1aefc0126dc48cc77ecc4"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58030",
-    "matchType": 2,
     "hash": "01c006b1a29ba3b98e29423471186e7cd3064bf4d6ca78278fa1c2cd333be76d"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Warren Commission (12 of 26): Hearings Vol. XII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44012",
-    "matchType": 1,
     "hash": "3227b1790b8f8817b5186c9eed32f95fbe7ad618fadd5fa8f4508c2179745fe4"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "matchType": 2,
     "hash": "bb079527696cf1a0314943234173ef12dacd784ac89ed761fa1398f498d708bc"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Daughter of Anderson Crow",
     "author": "McCutcheon, George Barr, 1866-1928; Justice, Martin, 1869-1961 [Illustrator]",
     "gutenbergReference": "14818",
-    "matchType": 1,
     "hash": "04d1248eb924d4fc7a7c3a7dcfa3b98cde50de99aafe9c3f923dd42c33f0e7ec"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The New Astronomy",
     "author": "Langley, S. P. (Samuel Pierpont), 1834-1906",
     "gutenbergReference": "64577",
-    "matchType": 1,
     "hash": "46eb54b167240d8edf65e9d92f104f01e53d8c0bb98c8c06f0c8b5ef3a64371e"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Mr. Prohack",
     "author": "Bennett, Arnold, 1867-1931",
     "gutenbergReference": "12773",
-    "matchType": 1,
     "hash": "44cbdb3865bf1cb581ad1d822ec34487fac8515e9fed043f1758cb3599b88f49"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Marjorie Dean, Marvelous Manager",
     "author": "Chase, Josephine, -1931",
     "gutenbergReference": "53213",
-    "matchType": 1,
     "hash": "755e53429af6c6fcaa7b48e3f934fa98a484fe02b6b42650a87567dc02fc073d"
   },
   {
@@ -106,7 +97,6 @@
     "title": "Letters from France",
     "author": "Bean, C. E. W. (Charles Edwin Woodrow), 1879-1968",
     "gutenbergReference": "18390",
-    "matchType": 1,
     "hash": "7b67f01a940320d564854cd8d667f9ee57d478c0eed2c90cc16706d8b4ba338e"
   }
 ]

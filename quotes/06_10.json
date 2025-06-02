@@ -2,13 +2,12 @@
   {
     "time": "06:10",
     "quoteFirst": "At ",
-    "quoteTime": "6.10 a.m.",
-    "quoteLast": " resumed our journey up the creek in a southerly direction, the valley gradually narrowing, and in one part of the sandstone rocks came close to the banks of the creek, leaving scarcely space to pass between them and the deep pools of water; at 12.30 p.m. camped on the right bank.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "matchType": 2,
-    "hash": "8308ef3647424a384a675daf3711029a5a62f3919b771d23b0c9cfe0620e7e9c"
+    "quoteTime": "6.10 A.M.",
+    "quoteLast": " the tanks were in their allotted positions, clearly marked out by tapes which Jumbo had laid earlier in the night....",
+    "title": "A Company of Tanks",
+    "author": "Watson, William Henry Lowe, 1891-1932",
+    "gutenbergReference": "44451",
+    "hash": "6f9a2fd83f170b38dfee4c62a9fd964fcca91d52a8c8e7789c73a1541e09637a"
   },
   {
     "time": "06:10",
@@ -18,30 +17,47 @@
     "title": "Khartoum Campaign, 1898; or the Re-Conquest of the Soudan",
     "author": "Burleigh, Bennet, 1840?-1914",
     "gutenbergReference": "25504",
-    "matchType": 2,
     "hash": "7e704059f94d68e1ac3830fd1e673f10445c745ae8fc693faafdd0f7044204f5"
   },
   {
     "time": "06:10",
-    "quoteFirst": "“The time seems to move slowly with you, mamma. It is scarcely a quarter of an hour since I told you it was but ",
+    "quoteFirst": "Charles Dickens remained in the same unconscious state until the evening of this day, when, at ",
     "quoteTime": "ten minutes past six",
-    "quoteLast": ".”",
-    "title": "East Lynne",
-    "author": "Wood, Henry, Mrs., 1814-1887",
-    "gutenbergReference": "3322",
-    "matchType": 1,
-    "hash": "f545fdabfaeb0a4c1a1ed4596315181aa480631a30e4f02ed44e629fd7382762"
+    "quoteLast": ", the watchers saw a shudder pass over him, heard him give a deep sigh, saw one tear roll down his cheek, and he was gone from them. And as they saw the dark shadow steal across his calm, beautiful face, not one among them--could they have been given such a power--would have recalled his sweet spirit back to earth.",
+    "title": "The Letters of Charles Dickens. Vol. 2, 1857-1870",
+    "author": "Dickens, Charles, 1812-1870; Dickens, Mamie, 1838-1896 [Editor]; Hogarth, Georgina, 1827-1917 [Editor]",
+    "gutenbergReference": "25853",
+    "hash": "08e7dca2586fcdead08c9da1ebdd533564c842bda4927bec97e361fa134ee921"
   },
   {
     "time": "06:10",
-    "quoteFirst": "It was ",
-    "quoteTime": "ten minutes after six",
-    "quoteLast": " when Bowen's partner, the day man, came in.",
-    "title": "Revenge!",
-    "author": "Barr, Robert, 1850-1912",
-    "gutenbergReference": "8668",
-    "matchType": 1,
-    "hash": "9626722923050da703aff78bd8a168ad87f717de453a0ce3de6154c0343a9319"
+    "quoteFirst": "We therefore gave in finally, and in order to settle the matter we agreed to share the outlay between us. The artistes accepted our invitation with the most charming good grace, and we took the train for Buffalo, where we arrived at ",
+    "quoteTime": "ten minutes past six in the morning",
+    "quoteLast": ". We had telegraphed beforehand for carriages and coffee to be in readiness, and to have food provided for us, as it is simply madness for thirty-two persons to arrive on a Sunday in such towns as these without giving notice of such an event. We had a special train going at full speed over the lines, which were entirely clear on Sundays, and it was decorated with festoons of flowers.",
+    "title": "My Double Life: The Memoirs of Sarah Bernhardt",
+    "author": "Bernhardt, Sarah, 1844-1923",
+    "gutenbergReference": "9100",
+    "hash": "26a69140a1cbd2a7afe65ef799031f19ac99c6b7a3fb3002fccc49adb3ce1806"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "Walker, his family, and his habits under the closest surveillance for seven weeks before, night and day, until at last everything connected with his business and his practice was thoroughly known. This information being complete, a party of five of the robbers repaired to the premises at ",
+    "quoteTime": "ten minutes past six",
+    "quoteLast": " on the evening of Saturday, February 4, 1865. The house was let and occupied in floors, Mr. Walker’s shop being on the ground-floor, Sir C.",
+    "title": "Protection from fire and thieves",
+    "author": "Chubb, George Hayter, 1848-1946",
+    "gutenbergReference": "49704",
+    "hash": "8178c6fce82d1d025f248f85e59b1aeb552d4af67e5eb0f579c205335cada0ea"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past six",
+    "quoteLast": " the parrots vanished in the dusk and true to its name a “six o’clock bee,” a species of large cicada, sent out its shrill whistle from the mangrove to which our canoe was tied. Here for the first time since we left Farnum’s we encountered mosquitoes and sand flies, but oil of tar did much to discourage them.",
+    "title": "Our search for a wilderness",
+    "author": "Niles, Blair, 1880-1959; Beebe, William, 1877-1962",
+    "gutenbergReference": "75453",
+    "hash": "89ff2bd0057e28188e62ca87d82e054c7b4cc9cb024777960999606ac10ad5c9"
   },
   {
     "time": "06:10",
@@ -51,85 +67,17 @@
     "title": "The Entire Project Gutenberg Works of Mark Twain",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3200",
-    "matchType": 1,
     "hash": "1b89eb6ae483fbb660db50bb4197d39170a9323380cfc4924262100bbd5334f2"
   },
   {
     "time": "06:10",
-    "quoteFirst": "But at ",
+    "quoteFirst": "The meal ended at last, however, by which time Hal’s watch indicated ",
     "quoteTime": "ten minutes past six",
-    "quoteLast": ", as there were still no signs of anyone coming out of the conning-tower hatch, and as the U-boat seemed about to make for _Stonecrop’s_ boats, Captain Blackwood decided this was the critical moment and gave the order. From the 4-inch gun and all howitzers there suddenly poured across the intervening 600 yards a very hot fire, which had unmistakable effect: for the fourth shot hit the base of the conning-tower, causing a large explosion and splitting the conning-tower in two.",
-    "title": "Q-Ships and Their Story",
-    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
-    "gutenbergReference": "54338",
-    "matchType": 1,
-    "hash": "345b9092c7dbca80dbbff47443ce955976b30d5e6d577bef2a159cfc047bbacf"
-  },
-  {
-    "time": "06:10",
-    "quoteFirst": "",
-    "quoteTime": "Ten minutes after six",
-    "quoteLast": ".",
-    "title": "Cyrano de Bergerac",
-    "author": "Rostand, Edmond, 1868-1918; Guillemard, Mary F. [Translator]; Thomas, Gladys [Translator]",
-    "gutenbergReference": "1254",
-    "matchType": 1,
-    "hash": "297f4c119208340e5f2116e3d88b43a3527db0b87fe8536e274759d9caeb9b08"
-  },
-  {
-    "time": "06:10",
-    "quoteFirst": "Starting down the river to fish soon after breakfast, he became so engrossed in his sport that he forgot all about lunch, and did not return till dinner-time, when he walked abstractedly into the room where we were sitting, and pulled out his watch; then after studying it and making calculations for a short time he remarked slowly, ‘I\u00A0left here at six minutes past ten, and hanged if it isn’t ",
-    "quoteTime": "ten minutes past six",
-    "quoteLast": " now; my watch must have stopped.’ Then he wandered off upstairs to his room, still ruminating over this extraordinary occurrence to his watch; but in his absence Ragnild had changed all his things into another cabin without telling him anything about it, so that he found his old habitation swept and garnished, and began to think, like Clever Alice, ‘This is none of I.",
-    "title": "Three in Norway, by Two of Them",
-    "author": "Lees, J. A. (James Arthur), 1852-; Clutterbuck, Walter J., 1853-1937",
-    "gutenbergReference": "36597",
-    "matchType": 1,
-    "hash": "c9410ab8e4acf271c2b59dffc4d5324b140ec782296349719619b531e7b9adf4"
-  },
-  {
-    "time": "06:10",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes past six",
-    "quoteLast": ", a welcome sound reached his ears. The Ramblers were ascending the stairs.",
-    "title": "The Rambler Club Afloat",
-    "author": "Sheppard, W. Crispin (William Crispin), 1871-",
-    "gutenbergReference": "67989",
-    "matchType": 1,
-    "hash": "e40026353570353108f571b0edf386dddfa0014a0c928c5c4beab86c72876bf4"
-  },
-  {
-    "time": "06:10",
-    "quoteFirst": "“",
-    "quoteTime": "Ten minutes past six",
-    "quoteLast": ",” Amherst replied.",
-    "title": "Crowded Out! and Other Sketches",
-    "author": "Harrison, S. Frances (Susie Frances), 1859-1935",
-    "gutenbergReference": "8652",
-    "matchType": 1,
-    "hash": "fc378f21bffb879de795eaf907084f0a6d4832facae4742f7ced45b27251b467"
-  },
-  {
-    "time": "06:10",
-    "quoteFirst": "The signal was made and at once acknowledged by the vessels, which had all been awaiting it, and the seamen began to heave round on the cables. The taking their assigned positions in the column by the different pairs consumed some time, during which the flag-ship crossed the bar, at ",
-    "quoteTime": "ten minutes past six",
-    "quoteLast": ". At half-past six the column of wooden vessels was formed, and the monitors were standing down from Sand Island into their stations, in gaining which some little further delay was caused. At this time all the ships hoisted the United States flag, not only at the peak where it commonly flies, but at every mast-head as well.",
-    "title": "Admiral Farragut",
-    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
-    "gutenbergReference": "27750",
-    "matchType": 1,
-    "hash": "7584e5ed7e9e75838794b41c8966d6ed236e730eb13898f383799728ba958800"
-  },
-  {
-    "time": "06:10",
-    "quoteFirst": "It was ",
-    "quoteTime": "ten minutes past six",
-    "quoteLast": ". I generally go to bed at eleven-thirty.",
-    "title": "The holiday round",
-    "author": "Milne, A. A. (Alan Alexander), 1882-1956",
-    "gutenbergReference": "5675",
-    "matchType": 1,
-    "hash": "080c0f46d18c69b9a349225aad91e6a2fb4f36b22b1204cb4fd1290f52878860"
+    "quoteLast": ". It had been twelve minutes before five when he had stood at the window and seen that dark form speed away down the lake. Of course, Sheriff Collins couldn’t by any possibility reach the scene until well after the robbers had gone on, but there was snow on the ground now and it ought not to be hard to trail them.",
+    "title": "Follow the Ball",
+    "author": "Barbour, Ralph Henry, 1870-1944",
+    "gutenbergReference": "60540",
+    "hash": "c555b3bf80dfb0d1968742f482ac0a1f9a48fd91bb1f5ae9b83398e87a62990c"
   },
   {
     "time": "06:10",
@@ -139,84 +87,116 @@
     "title": "The Egyptian campaigns, 1882 to 1885",
     "author": "Royle, Charles, 1882-1936",
     "gutenbergReference": "41744",
-    "matchType": 2,
     "hash": "1a963261cef213db8f86597dc7feb95582abe384559616110a8488c5ec756f62"
   },
   {
     "time": "06:10",
-    "quoteFirst": "",
-    "quoteTime": "Ten minutes after six",
-    "quoteLast": ".",
-    "title": "Cyrano de Bergerac: An Heroic Comedy in Five Acts",
-    "author": "Rostand, Edmond, 1868-1918; Renauld, Charles [Translator]",
-    "gutenbergReference": "41949",
-    "matchType": 1,
-    "hash": "027d233df121d23160e4c441c4b8e01d9879a8fd4eba95adf8fa8d96f8f7648c"
-  },
-  {
-    "time": "06:10",
-    "quoteFirst": "Accordingly these intermediate numbers are expressed by a unit followed by the partitive case of an ordinal number, =viisiyhdeksättä=, _five of the ninth_ (set of ten), that is, 85. An exactly similar way of calculating can be traced in the Russian method of computing time, e.g. ",
+    "quoteFirst": "“It’s now ",
     "quoteTime": "ten minutes past six",
-    "quoteLast": " is represented by",
-    "title": "A Finnish Grammar",
-    "author": "Eliot, Charles, 1862-1931",
-    "gutenbergReference": "59795",
-    "matchType": 1,
-    "hash": "07801821af476f45f846b93db448a27e4e6a84139217d311274f231ed94db827"
+    "quoteLast": ", and there is daylight till nine or after. When do you wish to be home?”",
+    "title": "The Odd Women",
+    "author": "Gissing, George, 1857-1903",
+    "gutenbergReference": "4313",
+    "hash": "89cbb3e97f98065606017899802cb631f0cb00459e305a690216662dd7cbf42a"
   },
   {
     "time": "06:10",
-    "quoteFirst": "About ",
-    "quoteTime": "6.10 a.m.",
-    "quoteLast": " he was hit in the leg by a ricochet. The wound was dressed, and Mackenzie stuck to his post. At 6.30 a.m., when the action was almost in full swing, as Private Davis and Corporal Taylor, R.A.M.C., were carrying a wounded soldier upon a stretcher to the dressing hospital, Davis was shot through the head and killed, and Taylor was severely wounded in the shoulder.",
-    "title": "Khartoum Campaign, 1898; or the Re-Conquest of the Soudan",
-    "author": "Burleigh, Bennet, 1840?-1914",
-    "gutenbergReference": "25504",
-    "matchType": 2,
-    "hash": "7e704059f94d68e1ac3830fd1e673f10445c745ae8fc693faafdd0f7044204f5"
+    "quoteFirst": "Neither man was disposed to be talkative, and tea would have proceeded in sombre silence but for the hostess. At ",
+    "quoteTime": "ten minutes past six",
+    "quoteLast": " Mr. Glover rose and with great unwillingness said he must go.",
+    "title": "The skipper's wooing, and The brown man's servant",
+    "author": "Jacobs, W. W. (William Wymark), 1863-1943",
+    "gutenbergReference": "21336",
+    "hash": "6fcc3f075e030c0ad70b8c1c868adb92685191be86efddb184b1dda75279efc8"
   },
   {
     "time": "06:10",
-    "quoteFirst": "Left our waterless camp at ",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past six",
+    "quoteLast": " we reached the Kaltbad station, where there is a spacious hotel with great verandas which command a majestic expanse of lake and mountain scenery. We were pretty well fagged out, now, but as we did not wish to miss the Alpine sunrise, we got through our dinner as quickly as possible and hurried off to bed.",
+    "title": "The Entire Project Gutenberg Works of Mark Twain",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3200",
+    "hash": "1b89eb6ae483fbb660db50bb4197d39170a9323380cfc4924262100bbd5334f2"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "On the 12th, at ",
+    "quoteTime": "ten minutes past six",
+    "quoteLast": " we set out from Sit el Bet, and a few minutes after came to a village called Ageda, and five miles further to another, whose name is Usheta. At half past nine we passed a third village, and at half after eleven encamped near a pool of water, called Wed Hydar, or the River of the Lion.",
+    "title": "Travels to Discover the Source of the Nile, Volume 4 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
+    "author": "Bruce, James, 1730-1794",
+    "gutenbergReference": "56502",
+    "hash": "ce209454afe2b5a662428fd4a71ad1167750b427c06f5b40a2325e64e2b9238f"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "May 14th at ",
+    "quoteTime": "ten minutes past six A.M.",
+    "quoteLast": "",
+    "title": "In the land of the lion and sun, or, modern Persia",
+    "author": "Wills, C. J. (Charles James), 1842-1912",
+    "gutenbergReference": "72128",
+    "hash": "fe528775b240f5f2e14a5c9ace7735169a66fc47172a98c0a590181b6356faf0"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past six",
+    "quoteLast": " we reached the Kaltbad station, where there is a spacious hotel with great verandas which command a majestic expanse of lake and mountain scenery. We were pretty well fagged out, now, but as we did not wish to miss the Alpine sunrise, we got through our dinner as quickly as possible and hurried off to bed.",
+    "title": "The Entire Project Gutenberg Works of Mark Twain",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3200",
+    "hash": "1b89eb6ae483fbb660db50bb4197d39170a9323380cfc4924262100bbd5334f2"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "Charles Dickens remained in the same unconscious state until the evening of this day, when, at ",
+    "quoteTime": "ten minutes past six",
+    "quoteLast": ", the watchers saw a shudder pass over him, heard him give a deep sigh, saw one tear roll down his cheek, and he was gone from them. And as they saw the dark shadow steal across his calm, beautiful face, not one among them--could they have been given such a power--would have recalled his sweet spirit back to earth.",
+    "title": "The Letters of Charles Dickens. Vol. 2, 1857-1870",
+    "author": "Dickens, Charles, 1812-1870; Dickens, Mamie, 1838-1896 [Editor]; Hogarth, Georgina, 1827-1917 [Editor]",
+    "gutenbergReference": "25853",
+    "hash": "08e7dca2586fcdead08c9da1ebdd533564c842bda4927bec97e361fa134ee921"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "",
     "quoteTime": "6.10 a.m.",
-    "quoteLast": ", steering north 50 degrees east magnetic over a level grassy plain; at 9.40 reached a fine river of fresh water 100 yards wide, but very shallow; pelicans, ducks, and other water-fowl were numerous, but very shy and wild; here we camped, although the grass was very inferior on the immediate banks of the river, the surface of the soil being very much furrowed by the rain; small fragments of limestone and a few quartz pebbles have been observed on the surface of the plain for the past twenty miles, and a dark limestone rock is exposed in the bed of the river, where it has horizontal stratification;",
+    "quoteLast": " again found us in the saddle, and crossing the right bank followed it to the south-south-east till 7.20, when it turned to the south-south-west, and changing our course to the east, passed through a fine grassy plain for two miles, and entered a level open box-flat, well grassed, the soil a brown loam; this continued till 2.30 p.m., when we entered a belt of terminalia, and at 1.",
     "title": "Journals of Australian Explorations",
     "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
     "gutenbergReference": "10461",
-    "matchType": 2,
-    "hash": "c0819fcfee828b70e0d6f40896312e9e90a5ec068322c0b5f607ac4a054ed1d3"
+    "hash": "724e39c82c6fddb4e4c64b00ec506393ee4ab5d002734490182055b5104d074a"
   },
   {
     "time": "06:10",
-    "quoteFirst": "Steamship _Alnwick Castle_ torpedoed at ",
-    "quoteTime": "6.10 a.m.",
-    "quoteLast": " 19.3.17. Crew rescued by Steamship _Venezia_ 23/3/17, and landed at New York:--B. Chave, master; H. Macdougall, chief engineer; R. G. D. Speedy, doctor; R. E.",
-    "title": "The Fleets Behind the Fleet\nThe Work of the Merchant Seamen and Fishermen in the War",
-    "author": "Dixon, W. MacNeile (William MacNeile), 1866-1945",
-    "gutenbergReference": "48305",
-    "matchType": 2,
-    "hash": "5a4c54dd9db35c173e14ab45240534c43782c58875d1d29204741677799050d9"
-  },
-  {
-    "time": "06:10",
-    "quoteFirst": "About ",
-    "quoteTime": "6.10 a.m.",
-    "quoteLast": " he was hit in the leg by a ricochet. The wound was dressed, and Mackenzie stuck to his post. At 6.30 a.m., when the action was almost in full swing, as Private Davis and Corporal Taylor, R.A.M.C., were carrying a wounded soldier upon a stretcher to the dressing hospital, Davis was shot through the head and killed, and Taylor was severely wounded in the shoulder.",
-    "title": "Khartoum Campaign, 1898; or the Re-Conquest of the Soudan",
-    "author": "Burleigh, Bennet, 1840?-1914",
-    "gutenbergReference": "25504",
-    "matchType": 2,
-    "hash": "7e704059f94d68e1ac3830fd1e673f10445c745ae8fc693faafdd0f7044204f5"
-  },
-  {
-    "time": "06:10",
-    "quoteFirst": "Starting down the river to fish soon after breakfast, he became so engrossed in his sport that he forgot all about lunch, and did not return till dinner-time, when he walked abstractedly into the room where we were sitting, and pulled out his watch; then after studying it and making calculations for a short time he remarked slowly, ‘I\u00A0left here at six minutes past ten, and hanged if it isn’t ",
+    "quoteFirst": "But at ",
     "quoteTime": "ten minutes past six",
-    "quoteLast": " now; my watch must have stopped.’ Then he wandered off upstairs to his room, still ruminating over this extraordinary occurrence to his watch; but in his absence Ragnild had changed all his things into another cabin without telling him anything about it, so that he found his old habitation swept and garnished, and began to think, like Clever Alice, ‘This is none of I.",
-    "title": "Three in Norway, by Two of Them",
-    "author": "Lees, J. A. (James Arthur), 1852-; Clutterbuck, Walter J., 1853-1937",
-    "gutenbergReference": "36597",
-    "matchType": 1,
-    "hash": "c9410ab8e4acf271c2b59dffc4d5324b140ec782296349719619b531e7b9adf4"
+    "quoteLast": ", as there were still no signs of anyone coming out of the conning-tower hatch, and as the U-boat seemed about to make for _Stonecrop’s_ boats, Captain Blackwood decided this was the critical moment and gave the order. From the 4-inch gun and all howitzers there suddenly poured across the intervening 600 yards a very hot fire, which had unmistakable effect: for the fourth shot hit the base of the conning-tower, causing a large explosion and splitting the conning-tower in two.",
+    "title": "Q-Ships and Their Story",
+    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
+    "gutenbergReference": "54338",
+    "hash": "345b9092c7dbca80dbbff47443ce955976b30d5e6d577bef2a159cfc047bbacf"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "Via Pennsylvania Lines. 8100    Ar. Pittsburg, Pa.            (_Central time_) ",
+    "quoteTime": "6.10 A.M.",
+    "quoteLast": "",
+    "title": "Nine Thousand Miles on a Pullman Train\r\nAn Account of a Tour of Railroad Conductors from Philadelphia to the Pacific Coast and Return",
+    "author": "Shaw, Milton M.",
+    "gutenbergReference": "51341",
+    "hash": "d9ed14625790dcb6f5c4e6ba8d8fa885e7c99ce1a5ec571f1db8dbba5ab48a88"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "By daylight the 2nd Brigade and the 1st Egyptian Battalion had taken up a strong position on the heights above Kosheh, at a distance of about 1,200 yards from, and directly opposite, the village. At ",
+    "quoteTime": "6.10 a.m.",
+    "quoteLast": " the British battery attached to this brigade began to shell Kosheh. A quarter of an hour later the Cameron Highlanders and two companies of the 9th Soudanese rushed the houses in gallant style.",
+    "title": "The Egyptian campaigns, 1882 to 1885",
+    "author": "Royle, Charles, 1882-1936",
+    "gutenbergReference": "41744",
+    "hash": "1a963261cef213db8f86597dc7feb95582abe384559616110a8488c5ec756f62"
   }
 ]

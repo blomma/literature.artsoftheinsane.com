@@ -1,14 +1,53 @@
 [
   {
     "time": "21:55",
-    "quoteFirst": "The clock in the car pointed at ",
+    "quoteFirst": "In this connection the following telegram sent by Captain Zialcita from Santa Ana on February 4, 1899, at ",
+    "quoteTime": "9.55 P.M.",
+    "quoteLast": ", to Major Gray, San Juan del Monte, is highly interesting:",
+    "title": "The Philippines: Past and Present (Volume 1 of 2)",
+    "author": "Worcester, Dean C. (Dean Conant), 1866-1924",
+    "gutenbergReference": "12077",
+    "hash": "a295f8363c819144745e32ecb221c98a7de9ef8872f30f5e8da050ca1fa9c356"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "At ",
+    "quoteTime": "9.55 P.M.",
+    "quoteLast": ", when he had hardly steadied _Lorna_ on her new course, he sighted the periscope of a submarine. It was steering due west, almost directly towards the approaching steamer, and seeing the position of the two ships, and their converging courses, he assumed rightly that the enemy was manœuvring for an attack of the usual kind, without warning.",
+    "title": "Submarine and Anti-submarine",
+    "author": "Newbolt, Henry John, Sir, 1862-1938; Wilkinson, Norman, 1882-1934 [Illustrator]",
+    "gutenbergReference": "52425",
+    "hash": "90540ca8c8d2cb26453bf541090da98741d074e81d4973f8656e71b32355a6fd"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "Mr. Brookes went to London every day by the ",
     "quoteTime": "five minutes to ten",
-    "quoteLast": " when their headlights finally fell upon the bridge. As they drew nearer they could hear nothing in the darkness but the thunder of the water.",
-    "title": "Mary Minds Her Business",
-    "author": "Weston, George, 1880-1965",
-    "gutenbergReference": "13034",
-    "matchType": 1,
-    "hash": "20ff3e3918d16c277e4b02b64b1bb8062dc075f969cc2d140b7293b060cf14f6"
+    "quoteLast": "; Willy walked into Brighton. There he had been for some time striving to found an agency for artificial manures, and in the twilight of a small office he brooded over the different means of making money that were open to him. The young ladies worked or played as it struck their fancy.",
+    "title": "Spring Days",
+    "author": "Moore, George, 1852-1933",
+    "gutenbergReference": "6029",
+    "hash": "7af6aa85ac77a1022ff0da986aca3800dd527b2ce92f40bd384101276fbc9397"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "Suddenly, at ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": ", in the very midst of a duke's speech, the Regent, with dizzy brain, was on his feet: there was a few moments' gasp and breathlessness; and then--all at once--it was as though a wind from hell swept through that House, whirling in its vehemence Regent, lords, Gallery, Black Rod, Clerk, Usher, and all; and every face was marble, and every eye a blaze.",
+    "title": "The Lord of the Sea",
+    "author": "Shiel, M. P. (Matthew Phipps), 1865-1947",
+    "gutenbergReference": "6993",
+    "hash": "5ea49a1a0b04a4f4b9f06b43b72758a0726a877ae276499e159b43d1842abf2a"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "Are you serious?\" said Mr. Graham, while the doctor said, \"You don't mean to tell us he isn't here. Why, it only lacks ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": ".\"",
+    "title": "Dick Randall, the Young Athlete",
+    "author": "Clark, Ellery H. (Ellery Harding), 1874-1949; Biggs, Walter, 1886-1968 [Illustrator]",
+    "gutenbergReference": "38471",
+    "hash": "e27fae8cf54fa3ffaab84bb6fb0c9ee7cb9f5a41ad9fbb8e2cfa8a97dd5bc4f3"
   },
   {
     "time": "21:55",
@@ -18,30 +57,17 @@
     "title": "Susan Lenox: Her Fall and Rise",
     "author": "Phillips, David Graham, 1867-1911",
     "gutenbergReference": "450",
-    "matchType": 1,
     "hash": "f767195222de28e4e478431ec7e61b9a4d5e8fec8f4ce16452ebafd2d889e7fd"
   },
   {
     "time": "21:55",
-    "quoteFirst": "She changed into a thick skirt and heavy sweater and discarded the fur coat in favor of a dark warm cape she had bought the year before to wear when she prowled in her woods at night. At ",
-    "quoteTime": "five minutes to ten",
-    "quoteLast": " she walked swiftly but alertly down the avenue, feeling less romantic than conspiratorial.",
-    "title": "The Crystal Cup",
-    "author": "Atherton, Gertrude Franklin Horn, 1857-1948",
-    "gutenbergReference": "65310",
-    "matchType": 1,
-    "hash": "0ffe6fb3c04fac0b7fb07a39f3aba3e439a863492c1eac6cfdd2cfa11abda6cf"
-  },
-  {
-    "time": "21:55",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes to ten",
-    "quoteLast": ", a lady, habited as a Circassian slave, and wearing an ample white veil, so thick that it was impossible to obtain a glimpse of her countenance, alighted from a cab at the principal entrance of the theatre.",
-    "title": "The Mysteries of London, v. 2/4",
-    "author": "Reynolds, George W. M. (George William MacArthur), 1814-1879",
-    "gutenbergReference": "51294",
-    "matchType": 1,
-    "hash": "40d9bd9a3e1814ff3f7702c8157176ee260320efcc006ae3961af390e5dfbac1"
+    "quoteFirst": "The pavement is slippery, rain is beginning to fall--fortunately the Palais Royal is not far off. At the end of his fourteenth tour round the arcades, Monsieur looks at his watch. ",
+    "quoteTime": "Five minutes to ten",
+    "quoteLast": ", he will be late. He rushes home.",
+    "title": "The Immortals: Masterpieces of Fiction, Crowned by the French Academy — Complete",
+    "author": "Various",
+    "gutenbergReference": "4000",
+    "hash": "f8327ea4debbc56644f36521944c67b181906e683610ce1cb5aa3d952400f0ec"
   },
   {
     "time": "21:55",
@@ -51,30 +77,37 @@
     "title": "Anna of the Five Towns",
     "author": "Bennett, Arnold, 1867-1931",
     "gutenbergReference": "35505",
-    "matchType": 1,
     "hash": "016968311039207eef84b519c30c2aeb0ec29e4580718bec14908c08c3f28c2d"
   },
   {
     "time": "21:55",
-    "quoteFirst": "She began to feel anxious about her mother. It was ",
+    "quoteFirst": "At ",
     "quoteTime": "five minutes to ten",
-    "quoteLast": "; what on earth was she doing? In another five minutes Elizabeth would come with the fly. Her mother had told her to wait in the drawing-room, but she could not wait much longer, she must go and find her.",
-    "title": "The unlit lamp",
-    "author": "Hall, Radclyffe, 1886-1943",
-    "gutenbergReference": "69137",
-    "matchType": 1,
-    "hash": "fdb59cef3c167848c82b133649722e3de95be9c90ea824ff3f10ab82c93728cb"
+    "quoteLast": " the next morning Audrey was leaning against the Manor House gates. These were of wrought iron and great beauty.",
+    "title": "As Other Men Are",
+    "author": "Yates, Dornford, 1885-1960",
+    "gutenbergReference": "65387",
+    "hash": "9468734a70b8f85de09a0e9e8d3630a4096eaa73281edb5e6bc582b9be4bbae1"
   },
   {
     "time": "21:55",
-    "quoteFirst": "It was, however, some time before the \"great fight\" ceased to be a subject of conversation among the boys. At ",
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes to ten",
+    "quoteLast": ",\" said he. \"Well, it is not so long to wait.\"",
+    "title": "The Watchers: A Novel",
+    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+    "gutenbergReference": "38693",
+    "hash": "09968b05c896c01a0437b140b7644e47ba731639baff6298de133270578db1f4"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "All this information I have from Miss Murgatroyd. I sometimes sit with them in the reception-room after dinner, where they wind wool and knit--endless winding; perpetual knitting! At ",
     "quoteTime": "five minutes to ten",
-    "quoteLast": " on the morning when Dr. Litter had put a stop to fields, two of the younger boys--who were as usual, just before school-time, standing in the archway leading into Little Dean's Yard to warn the School of the issuing out of the head-master--were talking of the fight of the evening before; both had been present, having been fagging out at cricket for their masters.",
-    "title": "Captain Bayley's Heir: A Tale of the Gold Fields of California",
-    "author": "Henty, G. A. (George Alfred), 1832-1902; Paget, H. M. (Henry Marriott), 1857-1936 [Illustrator]",
-    "gutenbergReference": "28857",
-    "matchType": 1,
-    "hash": "b1530b85e437dfd3e3c3ede6ad241e2a2c7997da32d974bfd2aaa4093c459c58"
+    "quoteLast": ", Miss Murgatroyd says; \"Now, my dear Eliza. Now, Susannah,\" which is the signal for bestowing all their goods and chattels into black satin work-bags.",
+    "title": "The Mistress of Shenstone",
+    "author": "Barclay, Florence L. (Florence Louisa), 1862-1921",
+    "gutenbergReference": "26235",
+    "hash": "0c2895303461db09587fd7bb8f6acb12a71bdccdeb98eca56c2660612908ae34"
   },
   {
     "time": "21:55",
@@ -84,118 +117,77 @@
     "title": "The Bellamy trial",
     "author": "Hart, Frances Noyes, 1890-1943",
     "gutenbergReference": "75325",
-    "matchType": 1,
     "hash": "365686b1c8e53182d5af8b032cfaab30e25f89f47aea7d0d9f8584ce7498e1e9"
   },
   {
     "time": "21:55",
+    "quoteFirst": "It was, however, some time before the \"great fight\" ceased to be a subject of conversation among the boys. At ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": " on the morning when Dr. Litter had put a stop to fields, two of the younger boys--who were as usual, just before school-time, standing in the archway leading into Little Dean's Yard to warn the School of the issuing out of the head-master--were talking of the fight of the evening before; both had been present, having been fagging out at cricket for their masters.",
+    "title": "Captain Bayley's Heir: A Tale of the Gold Fields of California",
+    "author": "Henty, G. A. (George Alfred), 1832-1902; Paget, H. M. (Henry Marriott), 1857-1936 [Illustrator]",
+    "gutenbergReference": "28857",
+    "hash": "b1530b85e437dfd3e3c3ede6ad241e2a2c7997da32d974bfd2aaa4093c459c58"
+  },
+  {
+    "time": "21:55",
     "quoteFirst": "At ",
-    "quoteTime": "five minutes to ten that night",
-    "quoteLast": " a locomotive lay, the steam roaring in clouds through her safety valve, on the siding by the freight depot; and stretching off behind her was a long string of empties. Carhart, Tiffany, and Peet, walking up alongside the train, could distinguish, through the dark, men sitting on brake wheels, or swinging their legs out of box-car doors or standing in groups in the gondola cars.",
-    "title": "The Road Builders",
-    "author": "Merwin, Samuel, 1874-1936; Masters, F. B. (Frank B.), 1873-1955 [Illustrator]",
-    "gutenbergReference": "41825",
-    "matchType": 0,
-    "hash": "53b94eafd613446969a18cdd78c798812f4d7bdb555a9c7c376a8d7092e609a4"
+    "quoteTime": "five minutes to ten",
+    "quoteLast": " the next morning Audrey was leaning against the Manor House gates. These were of wrought iron and great beauty.",
+    "title": "As Other Men Are",
+    "author": "Yates, Dornford, 1885-1960",
+    "gutenbergReference": "65387",
+    "hash": "9468734a70b8f85de09a0e9e8d3630a4096eaa73281edb5e6bc582b9be4bbae1"
   },
   {
     "time": "21:55",
-    "quoteFirst": "This was launched on the 23rd at 2.30 P.M. and was very successful. The infantry of the 8th Division, which by ",
-    "quoteTime": "9.55 P.M.",
-    "quoteLast": " had gained all its objectives, reported that the artillery barrage was excellent. At the end of the month this Division was relieved by the 17th.",
-    "title": "The history of the Twentieth (Light) Division",
-    "author": "Inglefield, Valentine Erskine, 1886-1947; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]",
-    "gutenbergReference": "74129",
-    "matchType": 2,
-    "hash": "12986addeacf72c4ab7ff8691efdbeea287049b96f27ad653b11b4aca440211a"
-  },
-  {
-    "time": "21:55",
-    "quoteFirst": "So, in this quiet room, the sick woman sleeping and the old man working, the minutes pass swiftly, and the click of the little Swiss clock is heard again. ",
-    "quoteTime": "Five minutes to ten",
-    "quoteLast": ". The old man, who has been growing restless, and who has several times gone to the bed to see if the woman is awake, grows more restless still as he hears the last click. \"Alfred promised to be here by this time,\" he says, with an anxious look at the door as he lays his work aside.",
-    "title": "London's Heart: A Novel",
-    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
-    "gutenbergReference": "45792",
-    "matchType": 1,
-    "hash": "144f38b39ea519be5f81baeb5369f9f8004c4c35922b2b6c47ef5592a173ff7e"
-  },
-  {
-    "time": "21:55",
-    "quoteFirst": "But a tick of the clock to announce an hour about to strike made her look up, and she saw it wanted but ",
+    "quoteFirst": "their way through the back gates of the Thorne place to the little road that led to the cottage, got out, entered the cottage, became involved in a bitter and violent scene with Mimi Bellamy which culminated in her death by murder; remained there long enough to map out a campaign which involved removing her jewels from her dead body, while fabricating an elaborate alibi—and also long enough to permit Mr. Thorne, who has arrived on the piazza, ample time to get well on his way; came out, got back into the invisible automobile and arrived at Mr. Bellamy’s house, three miles away, at ",
     "quoteTime": "five minutes to ten",
     "quoteLast": ".",
-    "title": "Mrs. Craddock",
-    "author": "Maugham, W. Somerset (William Somerset), 1874-1965",
-    "gutenbergReference": "47470",
-    "matchType": 1,
-    "hash": "3e66456c73a95229185eb546af5ea15366caab3574aca88e6a2bb87903ab6583"
-  },
-  {
-    "time": "21:55",
-    "quoteFirst": "A little way down the road was a church with a clock in the tower. It was ",
-    "quoteTime": "five minutes to ten",
-    "quoteLast": " by this clock. Bert said to himself that when it was ten he would make another start.",
-    "title": "The Ragged Trousered Philanthropists",
-    "author": "Tressell, Robert, 1870-1911",
-    "gutenbergReference": "3608",
-    "matchType": 1,
-    "hash": "e21db078c04442cd3fd0e2597baae32167471a78179b0d5d9fbbc70076be1121"
-  },
-  {
-    "time": "21:55",
-    "quoteFirst": "To-morrow's Saturday,\" he added, practically, \"and there's no school, so you're free.\" He rose.... \"Better leave a letter for your aunt. I'll be here at ",
-    "quoteTime": "five minutes to ten",
-    "quoteLast": ". Be ready!\" He paused and looked hard at her; caught her roughly in his arms, kissed her on her mouth, and walked out of the room.",
-    "title": "The Vehement Flame",
-    "author": "Deland, Margaret Wade Campbell, 1857-1945",
-    "gutenbergReference": "15927",
-    "matchType": 1,
-    "hash": "0124f8ce9b4bcd5ebd6cde6da6b9d1b8ca2398c15fcc5bba588876bab29497da"
+    "title": "The Bellamy trial",
+    "author": "Hart, Frances Noyes, 1890-1943",
+    "gutenbergReference": "75325",
+    "hash": "264a1c199a36bb008a98e1deb95cc56f0fe25ee0a5ae31b6367b89d3883668f8"
   },
   {
     "time": "21:55",
     "quoteFirst": "At ",
     "quoteTime": "five minutes to ten",
-    "quoteLast": " by the wristlet watch there came a cough from the other side of the ground sheet, and Dan picked himself up.",
-    "title": "With Haig on the Somme",
-    "author": "Parry, D. H.; Webb, Archibald, 1887-1944 [Illustrator]",
-    "gutenbergReference": "26982",
-    "matchType": 1,
-    "hash": "ca1cce5c062f938a012b7e0319152b33ce60246edf01e93aaa472eb948ee9d44"
+    "quoteLast": ", when Constance had yawned, he threw a bomb among them on the hearthrug.",
+    "title": "The Old Wives' Tale",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "5247",
+    "hash": "d2b86a2cdc7040f2bed460e459ea528741d06ceba50c5d356f790e37ba99d946"
   },
   {
     "time": "21:55",
-    "quoteFirst": "\"",
-    "quoteTime": "Five minutes to ten",
-    "quoteLast": ", John. Don't forget the lemons.\"",
-    "title": "The Blunders of a Bashful Man",
-    "author": "Victor, Metta Victoria Fuller, 1831-1885",
-    "gutenbergReference": "20754",
-    "matchType": 1,
-    "hash": "144bff7113c290a6850c51fef1cb64cf32cdf18e847b55d5fea7097340a1f488"
+    "quoteFirst": "She began to feel anxious about her mother. It was ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": "; what on earth was she doing? In another five minutes Elizabeth would come with the fly. Her mother had told her to wait in the drawing-room, but she could not wait much longer, she must go and find her.",
+    "title": "The unlit lamp",
+    "author": "Hall, Radclyffe, 1886-1943",
+    "gutenbergReference": "69137",
+    "hash": "fdb59cef3c167848c82b133649722e3de95be9c90ea824ff3f10ab82c93728cb"
   },
   {
     "time": "21:55",
-    "quoteFirst": "“I put it at that because I'd gone in for the morning service, which is at ten. I saw him go up the inside stair to the clerestory gallery--he was looking about him. ",
-    "quoteTime": "Five minutes to ten",
-    "quoteLast": "--and it must have happened immediately afterwards.”",
-    "title": "The Paradise Mystery",
-    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
-    "gutenbergReference": "5308",
-    "matchType": 1,
-    "hash": "8485d26eb4c4475d8de10523459dc67551f49648e6fc8b7873dd51297587e982"
+    "quoteFirst": "Are you serious?\" said Mr. Graham, while the doctor said, \"You don't mean to tell us he isn't here. Why, it only lacks ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": ".\"",
+    "title": "Dick Randall, the Young Athlete",
+    "author": "Clark, Ellery H. (Ellery Harding), 1874-1949; Biggs, Walter, 1886-1968 [Illustrator]",
+    "gutenbergReference": "38471",
+    "hash": "e27fae8cf54fa3ffaab84bb6fb0c9ee7cb9f5a41ad9fbb8e2cfa8a97dd5bc4f3"
   },
   {
     "time": "21:55",
-    "quoteFirst": "So, in this quiet room, the sick woman sleeping and the old man working, the minutes pass swiftly, and the click of the little Swiss clock is heard again. ",
-    "quoteTime": "Five minutes to ten",
-    "quoteLast": ". The old man, who has been growing restless, and who has several times gone to the bed to see if the woman is awake, grows more restless still as he hears the last click. \"Alfred promised to be here by this time,\" he says, with an anxious look at the door as he lays his work aside.",
-    "title": "London's Heart: A Novel",
-    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
-    "gutenbergReference": "45792",
-    "matchType": 1,
-    "hash": "144f38b39ea519be5f81baeb5369f9f8004c4c35922b2b6c47ef5592a173ff7e"
+    "quoteFirst": "Rosemont at about ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": ", and the theatre was dark. There were no cars in front of it and the doors were locked. I said, ‘She’ll probably be at the house,’ and Sue said, ‘If she isn’t, I think that it will look decidedly queer to have me dropping in there at this time of night.",
+    "title": "The Bellamy trial",
+    "author": "Hart, Frances Noyes, 1890-1943",
+    "gutenbergReference": "75325",
+    "hash": "365686b1c8e53182d5af8b032cfaab30e25f89f47aea7d0d9f8584ce7498e1e9"
   },
   {
     "time": "21:55",
@@ -205,18 +197,6 @@
     "title": "The Vehement Flame",
     "author": "Deland, Margaret Wade Campbell, 1857-1945",
     "gutenbergReference": "15927",
-    "matchType": 1,
     "hash": "0124f8ce9b4bcd5ebd6cde6da6b9d1b8ca2398c15fcc5bba588876bab29497da"
-  },
-  {
-    "time": "21:55",
-    "quoteFirst": "_Oct. 14 (",
-    "quoteTime": "9.55 p.m.",
-    "quoteLast": ")_",
-    "title": "From Capetown to Ladysmith: An Unfinished Record of the South African War",
-    "author": "Steevens, G. W. (George Warrington), 1869-1900; Blackburn, Vernon, 1866-1907 [Editor]",
-    "gutenbergReference": "16337",
-    "matchType": 2,
-    "hash": "7db5e241437fc83e043c5b3591f8a930d5bfd45fbcdf8e8a4b51e4b32c07c54b"
   }
 ]

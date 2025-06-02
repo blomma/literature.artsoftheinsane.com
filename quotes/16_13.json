@@ -7,7 +7,6 @@
     "title": "The Ashiel mystery",
     "author": "Bryce, Marion",
     "gutenbergReference": "9746",
-    "matchType": 1,
     "hash": "7c06bb343f9e770911c8cd0809ccaa7b9a2b4b4864ea030ef99005e0ff5c6a91"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Mark Twain's Speeches",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3188",
-    "matchType": 1,
     "hash": "d66df376e877d647b93fed8e915c3d84f1937bd69366e87454931cbbc19aafb5"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Mark Twain: A Biography. Complete",
     "author": "Paine, Albert Bigelow, 1861-1937",
     "gutenbergReference": "2988",
-    "matchType": 1,
     "hash": "e5b02c59133c7a1d7f5a92fbf74dc564b12a4abacef3713debdb2221d28f222f"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Essays on things",
     "author": "Phelps, William Lyon, 1865-1943",
     "gutenbergReference": "72395",
-    "matchType": 2,
     "hash": "5ca57d5941e38dfa8b83e9926c170a526447606465ba0f8d09f45f060c41db9a"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Betsy Baker! or, Too Attentive by Half; A Farce, in One Act",
     "author": "Morton, John Maddison, 1811-1891",
     "gutenbergReference": "64794",
-    "matchType": 1,
     "hash": "2a37fd668da613be97f201b2d43258efabd029f2b0a3bdbc971d815be1c955af"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Mark Twain: A Biography. Volume III, Part 2: 1907-1910",
     "author": "Paine, Albert Bigelow, 1861-1937",
     "gutenbergReference": "2987",
-    "matchType": 1,
     "hash": "b3728a35fe71d669c6f66c89464956568ffc36188752abbf719779c3e51e3583"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Q-Ships and Their Story",
     "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
     "gutenbergReference": "54338",
-    "matchType": 2,
     "hash": "fe0dba64c22142564279bd4b4a600faa5f4b5f4ed3cf03514730326aba1325b4"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Chapters from My Autobiography",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "19987",
-    "matchType": 1,
     "hash": "1885996a35b46529cd08bc014d17ae8ad2604368b2d18fdd23117e7d3373069f"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Entire Project Gutenberg Works of Mark Twain",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3200",
-    "matchType": 1,
     "hash": "a04e65d63f27f9f356c26aa3597949fd526c47c12a506599df7f79423bf69eea"
   },
   {
@@ -106,7 +97,6 @@
     "title": "Twentieth Century Standard Puzzle Book\nThree Parts in One Volume",
     "author": "Pearson, A. Cyril (Arthur Cyril), 1838-1916 [Editor]",
     "gutenbergReference": "63884",
-    "matchType": 1,
     "hash": "77dce54f5adc0a7d46573de5f1d80d3a97dbf10969439855c177164598c31dcc"
   }
 ]

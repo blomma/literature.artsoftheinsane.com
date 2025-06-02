@@ -7,7 +7,6 @@
     "title": "Wylder's Hand",
     "author": "Le Fanu, Joseph Sheridan, 1814-1873",
     "gutenbergReference": "9983",
-    "matchType": 1,
     "hash": "5d455c354c5f03cd29d430a7ddd4f00444483f29ce8e273b2b1930f774e75c64"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "fe836648865aef11c1061a716afb1d4f0455e12443042ee95159706a6fb37e2c"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The informer",
     "author": "O'Flaherty, Liam, 1896-1984",
     "gutenbergReference": "75583",
-    "matchType": 1,
     "hash": "5a6a5fa2de9e8480701068b436596328df9e0764bd5314ad7b273f3ec3928f11"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The A.B.-Z. of our own nutrition",
     "author": "Fletcher, Horace, 1849-1919; Higgins, Hubert [Contributor]; Someren, Ernest van [Contributor]",
     "gutenbergReference": "67326",
-    "matchType": 2,
     "hash": "fb11135fc2cd019ac516a540bbf1b3e68b64c330591cc890c6ffd9af4d18cc29"
   }
 ]

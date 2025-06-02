@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "e6879cabeb84bd5e657bcc64f5289f6e36a37fdd68809240dcd1fdc7108cba44"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55331",
-    "matchType": 2,
     "hash": "d5438fb050db5bf030a03ae72119f10dfb9363aec17295816387e2d5a21d8ce8"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
-    "matchType": 2,
     "hash": "679aec62c9a660d152ef3997cb2d2d2fda807708ff672bc9332b354a151d81ff"
   }
 ]

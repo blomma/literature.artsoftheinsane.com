@@ -7,7 +7,6 @@
     "title": "The Brass Check: A Study of American Journalism",
     "author": "Sinclair, Upton, 1878-1968; Rolland, Romain, 1866-1944 [Author of introduction, etc.]",
     "gutenbergReference": "64657",
-    "matchType": 2,
     "hash": "7153b3549229b4e2ce9386fee644629988b7b78029ad5cad2055242f991fa17f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, February 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55053",
-    "matchType": 2,
     "hash": "fa021cce79b878a9dd3b3fa3846c341bf9bd1a42b6b0d7efc8825dc2c086a7a1"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "089a931a51c79101126b7c64421317d6ce8755b60d14f5093783e01eb465e188"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Careers of Danger and Daring",
     "author": "Moffett, Cleveland, 1863-1926; Hambidge, Jay, 1867-1924 [Illustrator]; Varian, George, 1865-1923 [Illustrator]",
     "gutenbergReference": "33146",
-    "matchType": 2,
     "hash": "806f9301c215dd1778f847cc00898829f02a6187e8d7d5b8ec8a95dcbb85d711"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The case of the Black Twenty-Two",
     "author": "Flynn, Brian, 1885-1958",
     "gutenbergReference": "75209",
-    "matchType": 1,
     "hash": "bf6a3f7ce3d0f2b758df0a221151b54bc213d7984ba8004b2fb5576c43dffed4"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55331",
-    "matchType": 2,
     "hash": "e6efcd773120edda31fcc30626a073f2b1d994173ce7dde676b9a1ffe61adb80"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Boys' Nelson",
     "author": "Wheeler, Harold, 1877-",
     "gutenbergReference": "50731",
-    "matchType": 1,
     "hash": "fa0716552243ad76e77c44da96b8572d53ca7327902fab906468e5620d5136fd"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Pictorial Press: Its Origin and Progress",
     "author": "Jackson, Mason, 1819-1903",
     "gutenbergReference": "36417",
-    "matchType": 1,
     "hash": "5eb3380d533f21c331942c3c84d0880350a62176b7f3d5d6021010c293a139a0"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "ec90b1ae9c844c9b036eed367edd67fac79bf92d5f36fc363edd2bbd215f3ff2"
   }
 ]

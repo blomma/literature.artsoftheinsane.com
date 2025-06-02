@@ -7,7 +7,6 @@
     "title": "The Clevedon Case",
     "author": "Oakley, Nancy (Novelist); Oakley, John, 1868-1945",
     "gutenbergReference": "68091",
-    "matchType": 1,
     "hash": "72e5e4f2919c0b927571e498b9d7f49f2234a119b207974d85cbdb00f4b9ae97"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Outing; Vol. XIII.; October, 1888 to March, 1889\nAn Illustrated Monthly Magazine of Recreation.",
     "author": "Various",
     "gutenbergReference": "63593",
-    "matchType": 1,
     "hash": "23c0ab21e08f11923c86f876cdc15fca197851679f2b3ef2a2b0d3c96afd45f4"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Lands of the Tamed Turk; or, the Balkan States of to-day\r\nA narrative of travel through Servia, Bulgaria, Montenegro, Dalmatia and the recently acquired Austrian provinces of Bosnia and the Herzegovina; with observations of the peoples, their races, creeds, institutions and politics, and of the geographical, historical and commercial aspects of the several countries",
     "author": "Jaekel, Blair, 1881-",
     "gutenbergReference": "62731",
-    "matchType": 1,
     "hash": "a35b048487a3d271e1c7a3e36b589b1696e6d1fc18947e2c8e754d8217594eb6"
   },
   {
@@ -40,7 +37,6 @@
     "title": "A Quantitative Study of the Nocturnal Migration of Birds",
     "author": "Lowery, George H., Jr., 1913-1978",
     "gutenbergReference": "37894",
-    "matchType": 2,
     "hash": "0133b89c9c9c3db4b08bf398f7b65096fffad2d305e4e4f43a5818cf29bbb4e5"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Czar's Spy: The Mystery of a Silent Love",
     "author": "Le Queux, William, 1864-1927",
     "gutenbergReference": "10102",
-    "matchType": 2,
     "hash": "a11048e66bc9f1a7a67d7c0b66c7e5d6f7e4713db2d72613d7196fc72e7b072c"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "17334bfea77c8b838e7307df9888494673c70fbf31bb8bea713f72a54409aeaa"
   }
 ]

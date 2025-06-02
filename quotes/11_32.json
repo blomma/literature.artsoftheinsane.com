@@ -7,7 +7,6 @@
     "title": "The history of our Navy from its origin to the present day, 1775-1897, vol. 2 (of 4)",
     "author": "Spears, John Randolph, 1850-1936",
     "gutenbergReference": "71795",
-    "matchType": 2,
     "hash": "0ca49faa8357faedf77122fbfdc9ac879a2ad1d775fa5cfb70164a9b66fb3a14"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Memoirs of the Generals, Commodores and other Commanders, who distinguished themselves in the American army and navy during the wars of the Revolution and 1812, and who were presented with medals by Congress for their gallant services",
     "author": "Wyatt, Thomas",
     "gutenbergReference": "50377",
-    "matchType": 1,
     "hash": "6219c7b9f86f598d97c6e68c56beafc2ee207bb5d188e3f8ac3672eb489cc23b"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "1c7f929d2440c25703636a292624f72c20d6291499554482a7e17a95f27eff00"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "b3650ad9f6027bbb9d0eb343ef72f4ffc5a62095befbb029f59af83452bb7286"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Abridgment of the Debates of Congress, from 1789 to 1856, Vol. 4 (of 16)",
     "author": "United States. Congress; Benton, Thomas Hart, 1782-1858 [Editor]",
     "gutenbergReference": "47289",
-    "matchType": 0,
     "hash": "5524dc1c40e91bb89ecc7ff26913b9d35455b678d65c02c213c6300eb742f107"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Précis writing for beginners",
     "author": "Pocock, Guy Noel, 1880-1955",
     "gutenbergReference": "53680",
-    "matchType": 2,
     "hash": "8221d5485e0f029f4b6b046f1c6f2ead670c69c3fba74d5f73c54023c2cecbda"
   }
 ]

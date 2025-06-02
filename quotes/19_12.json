@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "369d04934e021a6c2cb6cf736adad212f7e4dbb2b14ef1b8de12c16e7ba6362e"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "2664bf92f9097f4e824969aeff2b89484e9835aaf1053dfe5afd28307a525842"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "0721cf40d956536290145d56ad878ab4a8680a67cac7092754e049d18f1eef5f"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "78fd558603460c59414513afd1ffaa0b6e76e56478593ef2ca1d30fd6d5c5385"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "fcbc7c16402fa87dd549a3cc2397f2cef6b913b325586d08195e89b19aed400d"
   },
   {
@@ -60,10 +55,9 @@
     "quoteTime": "7.12 p.m.",
     "quoteLast": " we hauled round gradually to SW. by S. to regain touch with the enemy, and at 7.14 p.m. again sighted them at a range of about 15,000 yards. The ships sighted at this time were two battle-cruisers and two battleships, apparently of the _Koenig_ class. No doubt more continued the line to the northward, but that was all that could be seen.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "039151e9d398593673eb11065d747398135b246849b33621778b1873012c82fe"
+    "hash": "f370e15aa9a3d85c8c89af03048d68bbfa1d2c97ec5b83d7cdd8a363d74a0a4a"
   },
   {
     "time": "19:12",
@@ -71,10 +65,9 @@
     "quoteTime": "7.12 p.m.",
     "quoteLast": " fired fourteen rapid salvoes at a ship of the _Koenig_ class, hitting her frequently until she turned out of the line. The manner in which this effective fire was kept up in spite of the disadvantages due to the injury caused by the torpedo was most creditable to the ship and a very fine example to the squadron.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "d67a432aad8eaa47641d97a671bae699f41e991f1996c8cacc960cea3174c5d4"
+    "hash": "d37c49cc471eee70a5e3ad509330d048ac4a35535d5682c05fc177d6a07fa7e2"
   },
   {
     "time": "19:12",
@@ -84,7 +77,6 @@
     "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
-    "matchType": 2,
     "hash": "87d54ac16c0dc6e9bd5b08a05158933241526d763e4ccb3719d43ecddbb3f303"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Full-Back Foster",
     "author": "Barbour, Ralph Henry, 1870-1944; Caswell, Edward C., 1879-1963 [Illustrator]",
     "gutenbergReference": "42653",
-    "matchType": 1,
     "hash": "4d525ac7228e7a4a97a576fa2d86047aedc83be09be115e0f969f46f7333f9d4"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Adventures of Dr. Thorndyke\n(The Singing Bone)",
     "author": "Freeman, R. Austin (Richard Austin), 1862-1943",
     "gutenbergReference": "59478",
-    "matchType": 1,
     "hash": "bdce3e0acc6fc418a30d79d24b16a6cf7138163b2edf46a342593402a14dab14"
   },
   {
@@ -117,7 +107,6 @@
     "title": "Astrology: How to Make and Read Your Own Horoscope",
     "author": "Sepharial, 1864-1929",
     "gutenbergReference": "46963",
-    "matchType": 2,
     "hash": "39f8c60807daaddbc01b405afdf4c1dd5e25dfe4c8f9793fd25252d8dd4893f1"
   },
   {
@@ -128,7 +117,6 @@
     "title": "Astrology: How to Make and Read Your Own Horoscope",
     "author": "Sepharial, 1864-1929",
     "gutenbergReference": "46963",
-    "matchType": 2,
     "hash": "a89466c1bc9b6b1d723d567d77cedf6604d206f31dd24960201cba3144db1c0b"
   }
 ]

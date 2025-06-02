@@ -7,7 +7,6 @@
     "title": "Syndrome",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34321",
-    "matchType": 2,
     "hash": "f7db52c07133939eff7a9e679cda3a82af6838b52acb7b4f221546ec30e02963"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "0100c457b5b9b9f84a1d94319c9f9705f194e892d71882e0730f42a7b5a019b1"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Human Nature in Politics\nThird Edition",
     "author": "Wallas, Graham, 1858-1932",
     "gutenbergReference": "11634",
-    "matchType": 2,
     "hash": "37e9d990d7e0f30713f7cb73a89bb34e61407e8054e83385d0ed7b864b5542f8"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Daughter of the sky",
     "author": "Briand, Paul L., Jr., 1920-1986",
     "gutenbergReference": "70263",
-    "matchType": 2,
     "hash": "40e263e1c6d2433658d09915ed76225dbde02ea09c3e00af0cfaea4ab38ea925"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Battle of the Falkland Islands, Before and After",
     "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
     "gutenbergReference": "50265",
-    "matchType": 2,
     "hash": "0c020d874a835d4f074a201950ed517f0345d2244ebaae460a6fdd1c6263f047"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The British Navy in Battle",
     "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
     "gutenbergReference": "54441",
-    "matchType": 2,
     "hash": "b720d2fadd89fd332d568639ab7ed4b11be63bd9107a3340818a5f398fa53091"
   },
   {
@@ -73,7 +67,6 @@
     "title": "New York Times Current History; The European War, Vol 2, No. 2, May, 1915\nApril-September, 1915",
     "author": "Various",
     "gutenbergReference": "15479",
-    "matchType": 2,
     "hash": "6164efe1196a1fe88939d7eec5b6a4af214bd6ac6b5a9eae327c0c0d8ace6173"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
-    "matchType": 2,
     "hash": "b8802c86821bf0b0389af3e584fcd3e9899e61839a4f6ed1eb0b0eab1dcb63f2"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Passionate Elopement",
     "author": "MacKenzie, Compton, 1883-1972",
     "gutenbergReference": "38177",
-    "matchType": 1,
     "hash": "412daf4df83c81de2ff3b66b1e4195679e75dee51af0d6fad0d86bb90ef8d2fd"
   }
 ]

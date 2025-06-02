@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "413c41ea506deff9d785a2fab995bf26fc9b504833c8ccb6e9ff2d3c3b2d0e63"
   },
   {
@@ -16,10 +15,9 @@
     "quoteTime": "6.21 p.m.",
     "quoteLast": " in accordance with the orders of the Vice-Admiral Commanding Battle-cruiser Fleet. He reports as follows:",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "b7df7713a70e35668aa47d6ea285f907e52e2dd7b6083d39b315fe4c80ad0af3"
+    "hash": "130b2d3d0196d0ec76ef61370f78e17f18602e0a5ea35471bbd65d2a7d9bed94"
   },
   {
     "time": "18:21",
@@ -29,7 +27,6 @@
     "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
     "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
     "gutenbergReference": "46006",
-    "matchType": 1,
     "hash": "558c7a523e8a9c3c3d76da577ee17f2729ad9f3b05c8428920289f2a98ee92d2"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
     "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
     "gutenbergReference": "46006",
-    "matchType": 1,
     "hash": "66ba661aefa15a9da88c3400dd585ac2df2935911c5073a33c02359480ad96e9"
   }
 ]

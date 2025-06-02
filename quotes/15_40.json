@@ -1,212 +1,83 @@
 [
   {
     "time": "15:40",
-    "quoteFirst": "'It always seems to me so unlike you,' Aylmer said (he had arrived punctually at ",
-    "quoteTime": "twenty minutes to four",
-    "quoteLast": ")--'your extreme fondness for newspapers. You're quite celebrated as a collector of Last Editions, aren't you?'",
-    "title": "Tenterhooks",
-    "author": "Leverson, Ada, 1862-1933",
-    "gutenbergReference": "10021",
-    "matchType": 1,
-    "hash": "7a11546ba56e99a1c5ba51e5197a1c3ec78be59bfa8211b60e2879f58eeba307"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": "1_st._--Rathlin Island, six Gannets, 9 a.m., wind strong S., clear, going E. Rathlin O'Birne, five Barnacle, ",
-    "quoteTime": "3.40 p.m.",
-    "quoteLast": ", wind strong S., overcast. Broadhaven, twenty Barnacle, 1.10 p.m., wind fresh S.W., rain. Slyne Head North, flock of Barnacle going S., 11 a.m., wind fresh S.W., showers.",
-    "title": "Report on the Migration of Birds in the Spring and Autumn of 1881. Third Report",
-    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Cordeaux, John, 1831-1899; Kermode, P. M. C. (Philip Moore Callow), 1855?-1932; More, Alexander Goodman, 1830-1895",
-    "gutenbergReference": "65471",
-    "matchType": 2,
-    "hash": "8fbb0d68a08c4c1430dcc673f7182d9b6b4ebb1116ce5602ed4416addad0b12f"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": "This cablegram was received at 2.35 P.M., and at ",
-    "quoteTime": "3.40 P.M.",
-    "quoteLast": " Mr. Loomis sent the telegram which he had already prepared to both Panama and Colon. Apparently, however, the consul-general at Panama had not received the information embodied in the Associated Press bulletin, upon which the Assistant Secretary of State based his dispatch; for his answer was that there was no uprising, although the situation was critical, this answer being received at 8.15 P.M. Immediately afterward he sent another dispatch, which was received at 9.50 P.M., saying that the uprising had occurred, and had been successful, with",
-    "title": "Presidential addresses and state papers, Volume 2 (of 7)",
-    "author": "Roosevelt, Theodore, 1858-1919",
-    "gutenbergReference": "74680",
-    "matchType": 2,
-    "hash": "774ba291f071703e0941309abe4f2559de7c55cfcb95b9def6c403cd79b362d0"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": "\"Exactly ",
-    "quoteTime": "twenty minutes to four",
-    "quoteLast": ",\" said Percy, consulting his watch.",
-    "title": "A Pair of Schoolgirls: A Story of School Days",
-    "author": "Brazil, Angela, 1869-1947; Campbell, John W. (John William), 1886-1935 [Illustrator]",
-    "gutenbergReference": "33389",
-    "matchType": 1,
-    "hash": "008aad3ba33d6eae93251a483aca5ba98fdd661a146f6bc03857ae2eb5d8717c"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": "7   | Aug. 17 | 4:15 p. m.           | Aug. 20 | 1:00 to 7:00 a. m. 8   | Aug. 17 | ",
-    "quoteTime": "3:40 p. m.",
-    "quoteLast": "           | Aug. 18 | 5:00 to 6:00 p. m.",
-    "title": "Natural History of the Racer Coluber constrictor",
-    "author": "Fitch, Henry S. (Henry Sheldon), 1909-2009",
-    "gutenbergReference": "42676",
-    "matchType": 2,
-    "hash": "3129d39202903a723c4fbabc3687adc1b2affe2eff0ddf596f2144508f4d396a"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": "Next day, about ",
-    "quoteTime": "3.40 P.M.",
-    "quoteLast": ", a hansom drew up at the corner of Albany Grove.  The fare alighted, and sauntered past Mr. Fulton's house. Rangoon, the Siamese puss, was sitting in a scornful and leonine attitude, in a tree of the garden above the railings, outside the open kitchen windows, whence came penetrating and hospitable smells of good fare.",
-    "title": "The Disentanglers",
-    "author": "Lang, Andrew, 1844-1912",
-    "gutenbergReference": "17031",
-    "matchType": 2,
-    "hash": "c280899e26ea2e60e96c59e1b318ef94f8d59071421ba93db1fd0c1d1343b0e4"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": "A.M., and he had been bitten at about ",
-    "quoteTime": "3.40 P. M.",
-    "quoteLast": ": about 16 and a half hours had elapsed. My men dug a grave and buried the poor animal, who had been a faithful dog and an excellent retriever.",
-    "title": "Cyprus, as I Saw It in 1879",
-    "author": "Baker, Samuel White, Sir, 1821-1893",
-    "gutenbergReference": "3656",
-    "matchType": 2,
-    "hash": "865dd059308aac45a418c241a733bbf1b3e5b7d69219a4c95c75737fe4ab7a89"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": "_Denver, Colo._--Dec. 25; 2.",
-    "quoteTime": "20 to 4 P. M.",
-    "quoteLast": "  Partly cloudy; ground with some snow; wind west, strong; temperature 45 degrees to 55 degrees. Ring-necked Pheasant, 11; Marsh Hawk, 1; Orange-shafted Flicker, 9; Magpie, 75; Red-winged Blackbird, 750; Meadowlark, 4; House Finch, 35; Tree Sparrow, 60; Shufeldt's Junco, 3; Pink-sided Junco, 1; Gray-headed Junco, 18.  Total, 11 species, 967 individuals.--W. H. BERGTOLD.",
-    "title": "The Bird Study Book",
-    "author": "Pearson, T. Gilbert (Thomas Gilbert), 1873-1943",
-    "gutenbergReference": "21007",
-    "matchType": 0,
-    "hash": "2a595621ab3ab5b4b372db18e7f84503a2302a7942bd8214ad1d2fff338b7567"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": "July 7th, ",
-    "quoteTime": "3:40 p.m.",
-    "quoteLast": " Leave Birmingham for Stratford on the Avon (pron.",
-    "title": "The Youthful Wanderer\r\nAn Account of a Tour through England, France, Belgium, Holland, Germany and the Rhine, Switzerland, Italy, and Egypt, Adapted to the Wants of Young Americans Taking Their First Glimpses at the Old World",
-    "author": "Heffner, George H.",
-    "gutenbergReference": "10638",
-    "matchType": 2,
-    "hash": "c05fa947b72247c328ecfe04d05f9b2d26d3a9292baa862576474338585dc87c"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": ", no urine obtained from bladder; 2 p. m., 105 cc of clear pale urine collected; no albumen, no reduction; ",
-    "quoteTime": "3.40 p. m.",
-    "quoteLast": ", no symptoms.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
-    "matchType": 2,
-    "hash": "a34cdda3d520179cc447d86b9ebf331e02acd9335e1b2a4b6f6a84f0fce259bc"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": "February 5th.--_Newarp_ L.V., ten Crows to W., 8 A.M. (S.W., 3.) _Languard_ L.H., Large flock Wood Pigeons, ",
-    "quoteTime": "3.40 P.M.",
-    "quoteLast": ", to N.",
-    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
-    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
-    "gutenbergReference": "66152",
-    "matchType": 2,
-    "hash": "67fd5fe5a2f77233464585a053ec3d2b77384c71e2a30414f7917dd554b10d2f"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": "",
-    "quoteTime": "3:40 P.M.",
-    "quoteLast": " Hotel switchboard operator: \"I'm sorry, sir, that number still doesn't answer. Shall I keep trying?\"",
-    "title": "30-day wonder",
-    "author": "Wilson, Richard, 1920-1987; Powers, Richard M., 1921-1996 [Illustrator]",
-    "gutenbergReference": "73375",
-    "matchType": 2,
-    "hash": "6474cef7878435d67ae15bc2df6949a83822de8f54fd4d0514626121908bf543"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": "On November 10, _Red-legged Kaw_ seen flying south at ",
-    "quoteTime": "3.40 P.M.",
-    "quoteLast": ", close to lighthouse. (Is this still of the native breed, or a migrant from further north?--J. A. H. B.",
-    "title": "Report on the Migration of Birds in the Spring and Autumn of 1885. Seventh Report\r\n(Vol. II No. 2)",
-    "author": "Clarke, William Eagle, 1853-1938; Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
-    "gutenbergReference": "65840",
-    "matchType": 2,
-    "hash": "82ca0836b7b6e371adcbf45263e56374be3d40c4a675e36dd5cd77b9a22f8596"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": "July 7th, ",
-    "quoteTime": "3:40 p.m.",
-    "quoteLast": " Leave Birmingham for Stratford on the Avon (pron.",
-    "title": "The Youthful Wanderer\r\nAn Account of a Tour through England, France, Belgium, Holland, Germany and the Rhine, Switzerland, Italy, and Egypt, Adapted to the Wants of Young Americans Taking Their First Glimpses at the Old World",
-    "author": "Heffner, George H.",
-    "gutenbergReference": "10638",
-    "matchType": 2,
-    "hash": "c05fa947b72247c328ecfe04d05f9b2d26d3a9292baa862576474338585dc87c"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": "\"January 3.--Last midnight stopped at a forest cutting wood; we started at 3.50 P.M. One of the rear boats came in sight at 11 A.M., which reached us at ",
-    "quoteTime": "3.40 P.M.",
-    "quoteLast": "",
-    "title": "Ismailia",
-    "author": "Baker, Samuel White, Sir, 1821-1893",
-    "gutenbergReference": "3607",
-    "matchType": 2,
-    "hash": "dca84a00ce1e03c28a1842456179377587d4549ba9b5727b072f2fb717f148b5"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": "At ",
-    "quoteTime": "twenty minutes to four",
-    "quoteLast": ", the parsonage family clustered excitedly in the sitting-room, which the sunshine flooded cheerily.  They were waiting for the hero of Prudence's romance.",
-    "title": "Prudence of the Parsonage",
-    "author": "Hueston, Ethel, 1887-1971; Brown, Arthur William, 1881-1966 [Illustrator]",
-    "gutenbergReference": "18413",
-    "matchType": 1,
-    "hash": "2833828afd77e043a47ae2342ca49db4044bd49706de118768a00653b9093c27"
-  },
-  {
-    "time": "15:40",
-    "quoteFirst": "The conflict between these five ships, two British and three French, was one of the bloodiest in naval annals; the loss of the _Superb_, 59 killed and 96 wounded, and of the _Monmouth_, 45 killed and 102 wounded, equalling that of the much larger vessels which bore the flags of Nelson and Collingwood at Trafalgar. The loss of the three French was 52 killed and 142 wounded; but to this should be added properly that of the _Sphinx_, 64, the _Monmouth's_ first adversary: 22 killed and 74 wounded. At ",
-    "quoteTime": "3.40 P.M.",
-    "quoteLast": ", fearing that if he continued steering west he would get entangled with the shore, Hughes wore his ships, forming line on the port tack, heading off shore. The French also wore, and Suffren hoped to secure the _Monmouth_, which was left between the two lines; but the quickness of a British captain, Hawker, of the _Hero_, ran a tow-rope to her in time, and she was thus dragged out of danger.",
-    "title": "The Major Operations of the Navies in the War of American Independence",
-    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
-    "gutenbergReference": "16602",
-    "matchType": 2,
-    "hash": "8abb0a6c49c9af4ea50aab4125df9cbffaeffc69032123d3a739623f20c6f243"
-  },
-  {
-    "time": "15:40",
     "quoteFirst": "_9th October: ",
     "quoteTime": "Twenty minutes to four",
     "quoteLast": ", two kilomètres from Estaires, scouting amongst beetroot fields._—Has the supreme moment come? A little while ago I firmly believed that it had; now I am out of my reckoning, so incomprehensible and widespread is the struggle which surrounds us.",
     "title": "Impressions and Experiences of a French Trooper, 1914-1915",
     "author": "Mallet, Christian",
     "gutenbergReference": "62629",
-    "matchType": 1,
     "hash": "babfd18fa3bb02dcce79fc2751eecfff2907bc9990c826a9b0fdcbe21f10c6b4"
   },
   {
     "time": "15:40",
-    "quoteFirst": "On November 10, _Red-legged Kaw_ seen flying south at ",
+    "quoteFirst": "Left Reykir ",
     "quoteTime": "3.40 P.M.",
-    "quoteLast": ", close to lighthouse. (Is this still of the native breed, or a migrant from further north?--J. A. H. B.",
-    "title": "Report on the Migration of Birds in the Spring and Autumn of 1885. Seventh Report\r\n(Vol. II No. 2)",
-    "author": "Clarke, William Eagle, 1853-1938; Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
-    "gutenbergReference": "65840",
-    "matchType": 2,
-    "hash": "82ca0836b7b6e371adcbf45263e56374be3d40c4a675e36dd5cd77b9a22f8596"
+    "quoteLast": " Circled round south of hill spine dividing Varmá and Ölfusá. Forded two small streams and trotted over causeway (Brú), here common, with some dwarf bridges.",
+    "title": "Ultima Thule; or, A Summer in Iceland. vol. 2/2",
+    "author": "Burton, Richard Francis, Sir, 1821-1890",
+    "gutenbergReference": "59585",
+    "hash": "9a0cbd45b98e864a589e648b4ec50fc981cb08b90ac043ee606f2257a126fbdc"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "At about ",
+    "quoteTime": "twenty minutes to four",
+    "quoteLast": " the gates of the Hall were thrown open to admit the procession on its return.",
+    "title": "Coronation Anecdotes",
+    "author": "Gossip, Giles",
+    "gutenbergReference": "27589",
+    "hash": "fc0d33ebfc655b9f835239a53c6d3d503986d0347ead1af58cd5a00826c83e24"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "May 19th, ",
+    "quoteTime": "3:40 P. M.",
+    "quoteLast": "—heart—House & E.S. Jr.—failed to murder but ruined E.S. Jr.",
+    "title": "The Hospital Murders",
+    "author": "Davis, Means",
+    "gutenbergReference": "54445",
+    "hash": "42e7f3da8ad9b88af518df72fb72902f452e6ac38410f27389f58730fb64b2fc"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "It was now ",
+    "quoteTime": "forty minutes past three",
+    "quoteLast": ", and before time could be called for the next round, “police!” was again the cry of the multitude――a cry which, as at the first ring, proved to be only too true. Several individuals, clad in blue array, connected with the Suffolk constabulary, forced their way to the arena, and ordered the combatants to desist in the Queen’s name.",
+    "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
+    "author": "Miles, Henry Downes, 1806-1889",
+    "gutenbergReference": "64111",
+    "hash": "b9e25d28ca32d97dbffcd6eb7356ffe032b18883497e2b009829859e43671070"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "Sands and myself went ashore, and called on Mr. Samuel B.'s family, and spent a very pleasant time. At ",
+    "quoteTime": "3:40 p.m.",
+    "quoteLast": " we returned aboard, and proceeded to our old anchorage at the mouth of Roanoke river. The weather was cloudy and hazy. On Friday 23d, at 12-1/2 p.m., the ram Albemarle made her appearance at the mouth of Roanoke river.",
+    "title": "Reminiscences of Two Years in the United States Navy",
+    "author": "Batten, John M. (John Mullin), 1837-1916",
+    "gutenbergReference": "25764",
+    "hash": "ddbbd1d5486d0924ef0b84eb46376e359323ced4614b54d26fd60f531aa4352b"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "We drove along for eight miles to the Chequered Sheds, a small village so called; at ",
+    "quoteTime": "twenty minutes to four",
+    "quoteLast": " reached Burford, two miles further on, which is another small place on Burford Plains, with a church; and at a quarter past four reached a very neat establishment, a short distance beyond a small creek, and called the Burford Exchange Inn. The country is well settled, with good houses and farms.",
+    "title": "Canada and the Canadians, Vol. 2",
+    "author": "Bonnycastle, Richard Henry, Sir, 1791-1847",
+    "gutenbergReference": "21260",
+    "hash": "a2553a6013612a57d602fe877b71ebe45bf6e6c71edc7796b8b68733b38e18fc"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty minutes to four",
+    "quoteLast": ",\" he said half-aloud. \"I wish to goodness people would keep their appointments punctually, or else not come at all.\"",
+    "title": "The Ashiel mystery",
+    "author": "Bryce, Marion",
+    "gutenbergReference": "9746",
+    "hash": "57b209aac6c71a2bab1f72b0001bf70fee353bc1afdd4e954388dc44cebd1a04"
   },
   {
     "time": "15:40",
@@ -216,7 +87,116 @@
     "title": "Randolph Caldecott: A Personal Memoir of His Early Art Career",
     "author": "Blackburn, Henry, 1830-1897; Caldecott, Randolph, 1846-1886 [Illustrator]",
     "gutenbergReference": "41086",
-    "matchType": 2,
     "hash": "38d782fbd1a145fac6c7d28e1087eb93c6b1a4e5b9e4d460c3bc00fab9007d5d"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "Promptly at ",
+    "quoteTime": "twenty minutes to four",
+    "quoteLast": " the next afternoon Timothy and Nancy drove off in the open buggy to meet the expected guest. Timothy was Old Tom's son.",
+    "title": "Pollyanna",
+    "author": "Porter, Eleanor H. (Eleanor Hodgman), 1868-1920",
+    "gutenbergReference": "1450",
+    "hash": "1c87c6e5d50aa8233e5a7c13068e40c1d212395bb4ed7c4640ae1e7d1a6fed9b"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "July 7th, ",
+    "quoteTime": "3:40 p.m.",
+    "quoteLast": " Leave Birmingham for Stratford on the Avon (pron.",
+    "title": "The Youthful Wanderer\r\nAn Account of a Tour through England, France, Belgium, Holland, Germany and the Rhine, Switzerland, Italy, and Egypt, Adapted to the Wants of Young Americans Taking Their First Glimpses at the Old World",
+    "author": "Heffner, George H.",
+    "gutenbergReference": "10638",
+    "hash": "c05fa947b72247c328ecfe04d05f9b2d26d3a9292baa862576474338585dc87c"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "An altitude of 12,440 feet, or 366 feet greater than any attained before, was reached in the kite-flying experiments at Blue Hill Observatory, Massachusetts, on February 21st. The flight was begun at ",
+    "quoteTime": "twenty minutes to four in the afternoon",
+    "quoteLast": ", with a temperature of 40° and a wind velocity of seventeen miles an hour at the surface. At the highest point reached by the kite the temperature was 12° and the wind velocity fifty miles an hour.",
+    "title": "Appletons' Popular Science Monthly, October 1899\nVol. LV, May to October, 1899",
+    "author": "Various; Youmans, William Jay, 1838-1901 [Editor]",
+    "gutenbergReference": "46710",
+    "hash": "28b70108cbbac8c2963772c6f6dc0c1515ca43119cdd6ebf8be2365e4ac67f91"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "Left Reykir ",
+    "quoteTime": "3.40 P.M.",
+    "quoteLast": " Circled round south of hill spine dividing Varmá and Ölfusá. Forded two small streams and trotted over causeway (Brú), here common, with some dwarf bridges.",
+    "title": "Ultima Thule; or, A Summer in Iceland. vol. 2/2",
+    "author": "Burton, Richard Francis, Sir, 1821-1890",
+    "gutenbergReference": "59585",
+    "hash": "9a0cbd45b98e864a589e648b4ec50fc981cb08b90ac043ee606f2257a126fbdc"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "",
+    "quoteTime": "3:40 P.M.",
+    "quoteLast": "--Recarburizing material added: 130 lb. ground electrodes. 25 lb. ferromanganese.",
+    "title": "The Working of Steel\nAnnealing, Heat Treating and Hardening of Carbon and Alloy Steel",
+    "author": "Colvin, Fred H. (Fred Herbert), 1867-1965; Juthe, K. A. (Kristian A.)",
+    "gutenbergReference": "20282",
+    "hash": "5d8d1c32c623596e3fcf850757c4b01abe8228cfc971e0030619c9ae343d0a7f"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "We had with us a friendly Zulu, who, in answer to my inquiries, said no Zulus were about. I trusted in him, but still kept a sharp look-out, telescope in hand. In about an hour—that is, at ",
+    "quoteTime": "3.40 p.m.",
+    "quoteLast": "—the prince ordered us to saddle up.",
+    "title": "History of the Zulu War",
+    "author": "Wilmot, Alexander, 1836-1924",
+    "gutenbergReference": "46166",
+    "hash": "e63444bcdbb58226ec55fe70177a75fd486acbdf76160bb5219823636652578f"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "Sink area at ",
+    "quoteTime": "3:40P.M.",
+    "quoteLast": " They had no record of the presence of aircraft in that area.",
+    "title": "The Report on Unidentified Flying Objects",
+    "author": "Ruppelt, Edward J., 1922-1960",
+    "gutenbergReference": "17346",
+    "hash": "8ed76f5754cae5f895a48a69312892685d6eaf7d3b19122936b07aa804e98eca"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "\"Exactly ",
+    "quoteTime": "twenty minutes to four",
+    "quoteLast": ",\" said Percy, consulting his watch.",
+    "title": "A Pair of Schoolgirls: A Story of School Days",
+    "author": "Brazil, Angela, 1869-1947; Campbell, John W. (John William), 1886-1935 [Illustrator]",
+    "gutenbergReference": "33389",
+    "hash": "008aad3ba33d6eae93251a483aca5ba98fdd661a146f6bc03857ae2eb5d8717c"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "The 'Héros' continued in her position, giving and receiving a severe fire for nine minutes, and then stood on, greatly damaged, to attack the 'Monmouth,' at that time engaged with another of the enemy's ships, making room for the ships in his rear to come up to the attack of our centre, where the engagement was hottest. At three the 'Monmouth' had her mizzen-mast shot away, and in a few minutes her mainmast, and bore out of the line to leeward (C, c); and at ",
+    "quoteTime": "forty minutes past three",
+    "quoteLast": " the wind unexpectedly continuing far northerly without any sea-breeze, and being careful not to entangle our ships with the land, I made signal to wear and haul by the wind in a line-of-battle on the larboard tack, still engaging the enemy.",
+    "title": "The Influence of Sea Power Upon History, 1660-1783",
+    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+    "gutenbergReference": "13529",
+    "hash": "93b18cd632f0c87fc931306b155ef6a560273ab86f7fdc1e4a225f8da1a713e1"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "At 6.25 a.m. recommenced our journey and followed the creek, which turned to the west, and the country became extremely rugged, and at length, as the valley became impassable, we ascended the hills and steered south-west across a very rocky sandstone country to the basaltic plains. Changing the course to west-north-west, crossed two tributary creeks, and at ",
+    "quoteTime": "3.40 p.m.",
+    "quoteLast": " camped on the bank of the creek, which was now much reduced in size. The country to the north of the creek consisted of very rough and rocky hills of red sandstone, extremely barren in appearance, while to the south it rose into the basaltic plain which forms Roe's Downs.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "2a7a308a6766f4deaef400e35aee5a763e892f77c78775353524e6c9bff15f5f"
+  },
+  {
+    "time": "15:40",
+    "quoteFirst": "Conservative; by five-and-",
+    "quoteTime": "twenty minutes to four",
+    "quoteLast": " she had made of him a fuming Radical. He was saying something about South Square and Merton Lane.",
+    "title": "A Crooked Mile",
+    "author": "Onions, Oliver, 1873-1961",
+    "gutenbergReference": "37584",
+    "hash": "39a1681cf6fbd1b4c6de0f9965cd13e8f670fc09b1a0965483a298ad75cd0987"
   }
 ]

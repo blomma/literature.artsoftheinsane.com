@@ -7,7 +7,6 @@
     "title": "State of the Union Addresses (1790-2006)",
     "author": "United States. Presidents",
     "gutenbergReference": "5050",
-    "matchType": 2,
     "hash": "eb67729e28549a98e44a8d97def55f9c0aaa14e6a5788429971857b53e2d8ff0"
   },
   {
@@ -18,7 +17,6 @@
     "title": "State of the Union Addresses",
     "author": "Reagan, Ronald, 1911-2004",
     "gutenbergReference": "5046",
-    "matchType": 2,
     "hash": "c915dec6d70a0f85591687d18c332b0eb6764da08868a660a79fbaafb929691d"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The house on the marsh",
     "author": "Warden, Florence, 1857-1929",
     "gutenbergReference": "71788",
-    "matchType": 1,
     "hash": "68a1f2704f130b1e0aed1f10887b4b3742fdd6764f492bd27b5de2f4645db3aa"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Won in the ninth",
     "author": "Mathewson, Christy, 1880-1925; Aulick, W. W. (Will Wroth), 1873-1913 [Editor]; Mahony, Felix, 1867-1939 [Illustrator]",
     "gutenbergReference": "49568",
-    "matchType": 2,
     "hash": "24388cd4f928e12f4f24fa48547d644eac21386e18529113e88a500e4da6c62b"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Charles Peace, or The Adventures of a Notorious Burglar",
     "author": "Anonymous",
     "gutenbergReference": "65464",
-    "matchType": 1,
     "hash": "e47558267bdd5349ef0657c04b13d43a348d52239f30472c3d3f93321d1b114f"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Life histories of North American wood warblers, Part 1 (of 2)",
     "author": "Bent, Arthur Cleveland, 1866-1954; Tyler, Winsor Marrett, 1876-1954 [Contributor]",
     "gutenbergReference": "40100",
-    "matchType": 2,
     "hash": "a2313ac8cc02dea6d07e8e9b03bbdfbc3e0174e1c304181b1f0ae0a95aa68cd1"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Report on Unidentified Flying Objects",
     "author": "Ruppelt, Edward J., 1922-1960",
     "gutenbergReference": "17346",
-    "matchType": 2,
     "hash": "a50e60abd5be6a1e152733384f03cb4c7bf0dc02de153425f8a7c417d04f37f9"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Pee-wee Harris in camp",
     "author": "Fitzhugh, Percy Keese, 1876-1950; Barbour, Harold S., 1889-1961 [Illustrator]",
     "gutenbergReference": "72220",
-    "matchType": 1,
     "hash": "901583085f04428ee9bc97becd4b5df5e526ea4346e135f34eade78334a973d6"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Make Mine Homogenized",
     "author": "Raphael, Rick, 1919-1994; Freas, Kelly, 1922-2005 [Illustrator]",
     "gutenbergReference": "24119",
-    "matchType": 2,
     "hash": "9ea0e1c8431de35c94fb38ac4c6dd8569343fb51b94bbcd9fdd05aeb3cb5d383"
   }
 ]

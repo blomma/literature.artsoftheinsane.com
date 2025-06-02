@@ -7,7 +7,6 @@
     "title": "Three Little Lines\r\nSilverton Railroad; Silverton, Gladstone and Northerly; Silverton Northern",
     "author": "Crum, Josie Moore",
     "gutenbergReference": "62664",
-    "matchType": 2,
     "hash": "d341d2e1ffc182cecf4423586e24517be2c3cf66e17baadfbe8e02310dbfc9d5"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Yellowstone via Gallatin Gateway Montana",
     "author": "Chicago, Milwaukee, St. Paul, and Pacific Railroad Company",
     "gutenbergReference": "46305",
-    "matchType": 2,
     "hash": "b5504b81c36a3e5ec45ce23c2cc37d35e43767abe8e646c6292571ad36cb2f1d"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Blackwood's Edinburgh Magazine, Volume 62, Number 361, November, 1845.",
     "author": "Various",
     "gutenbergReference": "27611",
-    "matchType": 1,
     "hash": "c96cbf5d0abdc78840cb187c8ce0791132db09816b09efbb8171d58ceab596b8"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Ashiel mystery",
     "author": "Bryce, Marion",
     "gutenbergReference": "9746",
-    "matchType": 1,
     "hash": "499b605aa549913eaed6ddc6620e63d31db73fe1deadfe26151568aa6b9d1ca7"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Mark Twain's Speeches",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3188",
-    "matchType": 1,
     "hash": "b57e643500139be0b22a8f01bf8b15924375480dae25ab490249ece9eda16470"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Mark Twain: A Biography. Complete",
     "author": "Paine, Albert Bigelow, 1861-1937",
     "gutenbergReference": "2988",
-    "matchType": 1,
     "hash": "048b810ebdaf40f0768b4334659f0d21f9a4d744b13ab75b3bbf782c9e4973db"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "86cd60be41e0d74b36882eb6efcf19fe7d4deae4a048e681099113c4b79db10a"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55134",
-    "matchType": 2,
     "hash": "02250b498e3450449adc14b9545f95bad6f43d4d81c8f54e9497cb69370a3829"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Betsy Baker! or, Too Attentive by Half; A Farce, in One Act",
     "author": "Morton, John Maddison, 1811-1891",
     "gutenbergReference": "64794",
-    "matchType": 1,
     "hash": "095e57f8477b00e417204fbbcc610b37df34cf2db2e29e483396a4114482fad8"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Mark Twain: A Biography. Volume III, Part 2: 1907-1910",
     "author": "Paine, Albert Bigelow, 1861-1937",
     "gutenbergReference": "2987",
-    "matchType": 1,
     "hash": "32ae5e007fd4ad64d5312dce3639019e2eab6ea1d9fa73ebc6f137f20c41db85"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Chapters from My Autobiography",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "19987",
-    "matchType": 1,
     "hash": "2538e29eeb90930a9cd126e669512944ea9d876589976edb695de6cc189c0f78"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Entire Project Gutenberg Works of Mark Twain",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3200",
-    "matchType": 1,
     "hash": "6d8e778308ee67292dd9bd5cff1cfaf4f54b3142aab93737602589572f409926"
   },
   {
@@ -106,7 +97,6 @@
     "title": "Twentieth Century Standard Puzzle Book\nThree Parts in One Volume",
     "author": "Pearson, A. Cyril (Arthur Cyril), 1838-1916 [Editor]",
     "gutenbergReference": "63884",
-    "matchType": 1,
     "hash": "d528cf63e15be709f6f3aa2c748bd34216585316896de49f3ff3a50eaf83af04"
   }
 ]

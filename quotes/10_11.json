@@ -7,7 +7,6 @@
     "title": "Three Men and a Maid",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "6836",
-    "matchType": 1,
     "hash": "a6fbdb3dc44d7ad08d323d4c620bec4e834c7d8c9e112f056306420c64b4f36a"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Dumbells of Business",
     "author": "Reed, Louis Custer Martin, 1879-",
     "gutenbergReference": "48842",
-    "matchType": 1,
     "hash": "6176b2960ab14aeed8f072427da003014d38f0b09159185a8895e0d2f21bc565"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Belford's Magazine, Vol. II, No. 3, February 1889\nDec 1888-May 1889",
     "author": "Various",
     "gutenbergReference": "41678",
-    "matchType": 1,
     "hash": "35b64f81c0442ab2ed39de8a3e489d54c50abe3abbbec11991642e1f3a16aeaf"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Girl on the Boat",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "20717",
-    "matchType": 1,
     "hash": "dceda0c92ca0a20f99ca221d64ec07297fc3d08c2738a34392ff384e13392390"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Egypt of the Hebrews and Herodotos",
     "author": "Sayce, A. H. (Archibald Henry), 1845-1933",
     "gutenbergReference": "38843",
-    "matchType": 2,
     "hash": "7b149c47ac07e0f275677bd6167c59d642795cd8fd19aeb1e28b5ea74d3edcf8"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Gunner's Examiner",
     "author": "Cloke, Harold E. (Harold Edward)",
     "gutenbergReference": "47895",
-    "matchType": 2,
     "hash": "90344901285fab7e07c6d507dc32ba29b25680815961463444d925a514fca889"
   }
 ]

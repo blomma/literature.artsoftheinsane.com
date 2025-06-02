@@ -7,7 +7,6 @@
     "title": "Tragedy in Dedham",
     "author": "Russell, Francis, 1910-1989",
     "gutenbergReference": "70970",
-    "matchType": 1,
     "hash": "95a217be8627f91a1aa7cdce61cb689c726b88d091abf1434ff8ed50b34d2021"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Turner Twins",
     "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
     "gutenbergReference": "37209",
-    "matchType": 1,
     "hash": "b270ae43da31e778dc98fcea03123fd3093fc5ab0e8b5464d9423f0e3c545042"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The informer",
     "author": "O'Flaherty, Liam, 1896-1984",
     "gutenbergReference": "75583",
-    "matchType": 1,
     "hash": "368c9bd4fb25a518e1cc3b69b3e36f76cf7ab8a16b7b14a3dd11862e53d8de56"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 04, February 1884, No. 5.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55132",
-    "matchType": 1,
     "hash": "472e2d52dd398c47b910d14fd33421d28498b0bf6b3900886497c2c5c4f9e23a"
   },
   {
@@ -51,7 +47,6 @@
     "title": "\"Barbarous Soviet Russia\"",
     "author": "McBride, Isaac",
     "gutenbergReference": "49055",
-    "matchType": 1,
     "hash": "ca70e113de1da3c4aec7db830892d591fbfe01780c58f07095d7f79949b66fa6"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 04, March 1884, No. 6",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55133",
-    "matchType": 2,
     "hash": "c2aba2c4a5df73580232205965ab720cbff03237011fac687361fe2f4e9d9cca"
   }
 ]

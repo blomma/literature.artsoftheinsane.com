@@ -7,7 +7,6 @@
     "title": "The Lion's Mouse",
     "author": "Williamson, C. N. (Charles Norris), 1859-1920; Williamson, A. M. (Alice Muriel), 1869-1933",
     "gutenbergReference": "21998",
-    "matchType": 1,
     "hash": "6d8f0e700932e9ecf429f4061e6b72e9f84c841b6222abe79028697335595b21"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "cf0f278c64f2d7b5c461d6c2187f9a14b390b33c9118b06be2da999360125b38"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Edina: A Novel",
     "author": "Wood, Henry, Mrs., 1814-1887",
     "gutenbergReference": "58701",
-    "matchType": 1,
     "hash": "4f6465024c72c36d7072cac4f2aac4d89dcc6f07e92cef922c1af3760fab9468"
   }
 ]

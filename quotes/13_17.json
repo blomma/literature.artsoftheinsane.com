@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55331",
-    "matchType": 2,
     "hash": "f15347e0a5d431311bf58b9656739adcaa88111a83590571cdb389553098923a"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
     "author": "Levy, Donald M.",
     "gutenbergReference": "59328",
-    "matchType": 2,
     "hash": "50afc09b41fb563635f1c551a17ef0e550300f15d2250377deae00f4ff002bf3"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
     "author": "Levy, Donald M.",
     "gutenbergReference": "59328",
-    "matchType": 2,
     "hash": "3b8b813b2d694e6fd90f4b6659f402d43f583f7860ac184fc20331097010693e"
   },
   {
@@ -40,7 +37,6 @@
     "title": "From the Earth to the Moon; and, Round the Moon",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "83",
-    "matchType": 1,
     "hash": "cd7e437e9c0cec251ca1e1503d10ce58872d94de02a6ff4a2f910e648de601ca"
   },
   {
@@ -51,7 +47,6 @@
     "title": "From the Earth to the Moon; and, Round the Moon",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "83",
-    "matchType": 1,
     "hash": "760d62be6ed1c631158a0a9de31aebbea3e451862a9268e962ecd92ed861ce24"
   },
   {
@@ -62,7 +57,6 @@
     "title": "From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes: and a Trip Round It",
     "author": "Verne, Jules, 1828-1905; Hildibrand, Henri Théophile, 1824-1897 [Engraver]; Bayard, Émile Antoine, 1837-1891 [Illustrator]; Neuville, Alphonse Marie de, 1835-1885 [Illustrator]",
     "gutenbergReference": "44278",
-    "matchType": 1,
     "hash": "9ffa4f241070a1cd674dac112a26ed94066081394776151a3fc9db0f958bab52"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Barium: A Cause of the Loco-Weed Disease",
     "author": "Crawford, Albert Cornelius",
     "gutenbergReference": "40256",
-    "matchType": 2,
     "hash": "fef65b7d9058191a2e6e6a4a8062eeb76baab892119cf453c467e9642cd97674"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Number Seventeen",
     "author": "Tracy, Louis, 1863-1928",
     "gutenbergReference": "4996",
-    "matchType": 2,
     "hash": "c51fc9864b41658aa97853aeec06fac9f0d3fcf0dc4c658c04b01cf63a71be51"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Former Philippines Thru Foreign Eyes",
     "author": "Craig, Austin, 1872-1949 [Editor]; Comyn, Tomás de; Jagor, Fedor, 1816-1900; Virchow, Rudolf, 1821-1902; Wilkes, Charles, 1798-1877",
     "gutenbergReference": "10770",
-    "matchType": 1,
     "hash": "bc685ba09b0b1d8c5f7a267c5044f8e4a88a088b778f006a7d045a25bbb927ab"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Diamond Ship",
     "author": "Pemberton, Max, 1863-1950",
     "gutenbergReference": "55993",
-    "matchType": 1,
     "hash": "e64c8eeeb8985d982761f22edef0a8125ce0d64f02829372b44257c50dee25d3"
   },
   {
@@ -117,7 +107,6 @@
     "title": "Invention and Discovery: Curious Facts and Characteristic Sketches",
     "author": "Anonymous",
     "gutenbergReference": "46644",
-    "matchType": 1,
     "hash": "011d56871d57a2c86a513a910c29b74fa6b1250dcf5465992f819aa9c123a610"
   },
   {
@@ -128,7 +117,6 @@
     "title": "Memoirs and Correspondence of Admiral Lord de Saumarez, Vol. I",
     "author": "Ross, John, Sir, 1777-1856",
     "gutenbergReference": "26031",
-    "matchType": 1,
     "hash": "19cc4c9507bd99e23b5114cc590d6552bad662efc1154bad1db5f62f8f584d0b"
   },
   {
@@ -139,7 +127,6 @@
     "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
-    "matchType": 2,
     "hash": "6581a04ac4891f2e6a8c42bfe944e057498f348c8d69fb941ddda3e7f062be77"
   },
   {
@@ -150,7 +137,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "faae9868f6eb74e5cfba9d608c481a4f42d03b4a90ecf60041e3c4b677ed5ad8"
   }
 ]

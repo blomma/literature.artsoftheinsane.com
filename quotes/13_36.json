@@ -7,7 +7,6 @@
     "title": "Dr. B. Mure's materia medica",
     "author": "Mure, Benoît, 1809-1858; Hempel, Charles J. (Charles Julius), 1811-1879 [Translator]",
     "gutenbergReference": "70350",
-    "matchType": 1,
     "hash": "b61ed3befae59d8b198e8224a9dbe52e5fbaa5a61b0edf6130f8052ff6367b29"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Hurricane Hurry",
     "author": "Kingston, William Henry Giles, 1814-1880; De Lacy, Charles J. [Illustrator]",
     "gutenbergReference": "21465",
-    "matchType": 1,
     "hash": "0d6db029a8c66eee4eb0df380b68d959689f6778b0446c191c2445cd1c1471db"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, May 1884, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55158",
-    "matchType": 2,
     "hash": "24c431b85975aec10b867f5123c77155104fb7117b2ddf64a7d51936641a492f"
   }
 ]

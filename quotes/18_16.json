@@ -7,7 +7,6 @@
     "title": "Voyage to Jupiter",
     "author": "Morrison, David, 1940-; Samz, Jane",
     "gutenbergReference": "58915",
-    "matchType": 2,
     "hash": "6b0688473c29aaa8fdd8ed2c33c4983cac6aa227b353aefb99a98f199409aea7"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "3083657e480eca8a2b945c54e883b6cb69135161f1c7d4e43547fb7ffa8eab47"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "563c94c1df5ebfa1c0a3efbd9f7bb39af8da9e1278c5f4f72c5c484acf52f4fc"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "dd4606f7e84a53237ebdf2444301c3aea06226b28a6f9161f660db23bfc7ca8a"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "75fc86dec223ffcdab209722d320fc42feef3b399a5153a7a532d4008bce9ece"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "abea6b49c37758a5b9d0998dbfe451d5d89de36dd3c4a99f648df786f3be9345"
   },
   {
@@ -73,7 +67,6 @@
     "title": "My Memoirs, Vol. VI, 1832 to 1833",
     "author": "Dumas, Alexandre, 1802-1870; Waller, E. M. (Emily Mary) [Translator]",
     "gutenbergReference": "51105",
-    "matchType": 1,
     "hash": "128b9226a7d7ac22aa90e20cae8088d9510051730afedb455e98e8b2ac4a29fb"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Matador of the Five Towns and Other Stories",
     "author": "Bennett, Arnold, 1867-1931",
     "gutenbergReference": "12995",
-    "matchType": 1,
     "hash": "98ccf8326c8efdec8dfbc430943d35e2612d1f4aeeace18f8b045ab0830da02b"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Sinking of the Titanic and Great Sea Disasters",
     "author": "Marshall, Logan, 1884-1937 [Editor]",
     "gutenbergReference": "781",
-    "matchType": 2,
     "hash": "336c31e419a0bfead1078330a893509d81113b1b8dacf4fe343bc9f4cfef5a7d"
   },
   {
@@ -104,9 +95,8 @@
     "quoteTime": "6.16 p.m.",
     "quoteLast": " _Defence_ and _Warrior_ were observed passing down between the British and German Battle Fleets under a very heavy fire. _Defence_ disappeared, and _Warrior_ passed to rear disabled.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "01a20a83b081a0083f061b4a3f4c23602d39baf0669e038e4c830e7539d5c0db"
+    "hash": "6501e1e89fd7adedcebdbdcb190672554dad36bf96b7bb2dbe61b529c1092013"
   }
 ]

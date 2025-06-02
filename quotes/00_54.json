@@ -7,7 +7,6 @@
     "title": "What Germany Thinks; Or, The War as Germans see it",
     "author": "Smith, Thomas F. A., 1875-",
     "gutenbergReference": "10166",
-    "matchType": 1,
     "hash": "12328e11b087a965783389543a0cc6ad8799669ca9d037d7fdccc6ab79d4ec8b"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "75138",
-    "matchType": 1,
     "hash": "5e3acdc34f64d8044b4f7cc7e5449e043778666bd8aa618cde77b58c3ddbeb20"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Van Roon",
     "author": "Snaith, J. C. (John Collis), 1876-1936",
     "gutenbergReference": "68520",
-    "matchType": 1,
     "hash": "4e69776e7f1aac61452e49ae2ea7c349f1c0db25856411890c735ae68790e31a"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "b3350772f6ba702f1884029ad4b4164e340ebf14631d1eeb2bf9df0a1f5e2395"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Romance of Modern Mechanism\r\nWith Interesting Descriptions in Non-technical Language of Wonderful Machinery and Mechanical Devices and Marvellously Delicate Scientific Instruments",
     "author": "Williams, Archibald, 1871-1934",
     "gutenbergReference": "46094",
-    "matchType": 1,
     "hash": "233d57e68e17b90afae7db1039d3421671e3f3eb225d174cb946f0a57b8fcda9"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The inter ocean curiosity shop for the year 1883",
     "author": "Various; Jones, William P. [Editor]",
     "gutenbergReference": "70718",
-    "matchType": 2,
     "hash": "dd8ae21c5c1d7bdc2cf2e7647ce95e928bfdf0a71d344ccab7029d1a2eca893b"
   },
   {
@@ -73,7 +67,6 @@
     "title": "A Double Barrelled Detective Story",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3180",
-    "matchType": 1,
     "hash": "da0479ded6dd8371d47a594361573011c98651089c4bafbbc26050572264c070"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Entire Project Gutenberg Works of Mark Twain",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3200",
-    "matchType": 1,
     "hash": "352fad875dbdf409231fd11a57d8c7a60a7668a1b57a8f40288cd55961ad35fc"
   }
 ]

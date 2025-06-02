@@ -7,7 +7,6 @@
     "title": "The Disentanglers",
     "author": "Lang, Andrew, 1844-1912",
     "gutenbergReference": "17031",
-    "matchType": 2,
     "hash": "10545482a802f21e1904d1ce017a4aee65ca286b700aab5bb6556b7699f6d711"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Syndrome",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34321",
-    "matchType": 2,
     "hash": "350379af61f9675548f4ee5387570b94b1d56255b15e3488f5d2477703c1c3c0"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Memoirs and Correspondence of Admiral Lord de Saumarez, Vol. I",
     "author": "Ross, John, Sir, 1777-1856",
     "gutenbergReference": "26031",
-    "matchType": 1,
     "hash": "508c0635387db3eebb421ea3dca7cd1909974e195c7d649cd9afdfbcb10a17a8"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Olga Romanoff",
     "author": "Griffith, George Chetwynd, 1857-1906; Jane, Fred T. (Frederick Thomas), 1865-1916 [Illustrator]",
     "gutenbergReference": "54096",
-    "matchType": 1,
     "hash": "12a0a33df873e81887a733105ef9ef59a9585e8787adde67b690893980e9f6f4"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The history of the 9th (Scottish) Division, 1914-1919",
     "author": "Ewing, John, M.C.; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator]",
     "gutenbergReference": "75001",
-    "matchType": 2,
     "hash": "c0d3e08e5409ff97f085ba84b77831aa1f939bb15a77fa06ad3c8821b4d5db27"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Little Jack Rabbit and Uncle John Hare",
     "author": "Cory, David, 1872-1966; Barbour, Harold S., 1889-1961 [Illustrator]",
     "gutenbergReference": "36052",
-    "matchType": 1,
     "hash": "be3d556b212e0742bca88b9688bbb68c2bc0600a403f728fea9f4ae13bca8185"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Her Majesty's Mails\nAn Historical and Descriptive Account of the British Post-Office",
     "author": "Lewins, William",
     "gutenbergReference": "42129",
-    "matchType": 2,
     "hash": "961f7e91ae761a4739b5a45ab069eaf6844f79afab7460b92d5d9f6e338fcf41"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "13a379d2810805fcb9858096d3c4d0aba0600ba0a9e013f830b29ee62832b958"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "49d4b723f4e57337be2963e04e36f348fc3fd6e081987e58dafe66dfca41ef37"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "950e504e3bf9757d1fcd585d75f377ce7ef01abab3ccdaa2747836da245db207"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Travels to Discover the Source of the Nile, Volume 4 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
     "author": "Bruce, James, 1730-1794",
     "gutenbergReference": "56502",
-    "matchType": 1,
     "hash": "65762cd97327efd04deca3a62519c030639b19cde4fc7c236c6eb5d84793628e"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
-    "matchType": 2,
     "hash": "e5bf37cdd3cfb42b87f4d72cbb356c969bdc76f95c214c1afcf14b3d1abda8a2"
   }
 ]

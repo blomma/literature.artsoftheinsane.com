@@ -7,7 +7,6 @@
     "title": "One of Our Conquerors — Complete",
     "author": "Meredith, George, 1828-1909",
     "gutenbergReference": "4476",
-    "matchType": 1,
     "hash": "9038fb05194c1bb3f577b9455a1f9ea850363f448f298921c177355df9a0c1ff"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Little Match Man",
     "author": "Barzini, Luigi, 1874-1947; Longstreet, Hattie [Illustrator]; Woodruff, S. F. [Translator]",
     "gutenbergReference": "54678",
-    "matchType": 1,
     "hash": "a1340fa18d12e29e5f61acf54c18620dce9ef36efeab0a8307a92b9eb48fc5bf"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Complete Project Gutenberg Works of George Meredith",
     "author": "Meredith, George, 1828-1909",
     "gutenbergReference": "4500",
-    "matchType": 1,
     "hash": "c89d988c52f4e653ed25ba2cbd6548493f3fb4b07dc3123e98996eaa3bd2c4a2"
   },
   {
@@ -40,7 +37,6 @@
     "title": "One of Our Conquerors — Volume 5",
     "author": "Meredith, George, 1828-1909",
     "gutenbergReference": "4475",
-    "matchType": 1,
     "hash": "b354eb873ac70cfb05f99035dad662175c109b3833e6e83fa60d96a54ab731a1"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "d65cf17e7ef68a58ed55ac797db14851691ce770c69509a73d14445bbf5cfe77"
   }
 ]

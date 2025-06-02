@@ -7,7 +7,6 @@
     "title": "The Blonde Lady\nBeing a Record of the Duel of Wits between Arsène Lupin and the English Detective",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "24839",
-    "matchType": 1,
     "hash": "035cd73fdd3a3058e635f9dcd3e10ee1b934edc59466491a5623e687b49b6c7d"
   },
   {
@@ -18,7 +17,6 @@
     "title": "A. D. 2000",
     "author": "Fuller, Alvarado M. (Alvarado Mortimer), 1851-1924; Bretsnyder, W. [Illustrator]",
     "gutenbergReference": "44307",
-    "matchType": 1,
     "hash": "94d918e679f8e8d02f20a8cc6492f55105ecc2328753645803129fa5f977f8fc"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Invasion of 1910, with a full account of the siege of London",
     "author": "Le Queux, William, 1864-1927",
     "gutenbergReference": "51905",
-    "matchType": 1,
     "hash": "c876a4b9a9aafd6feec2a587c5ba3781e67504ad5c58f1f6cf14d2b5c5f75539"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55134",
-    "matchType": 2,
     "hash": "64b4c984953efa7bb17d94447f43857c3d970ef0e9fa92c09f78783dbede6b4b"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
-    "matchType": 2,
     "hash": "2b74fb82f0e727030798c3eabf5e4842631abb1bacaa8a4d05ddbfde9851f5d3"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Invasion",
     "author": "Le Queux, William, 1864-1927",
     "gutenbergReference": "36155",
-    "matchType": 1,
     "hash": "baa57c6ea483321b9dea7e2417ace95e24e0f4a9f88939f7ee5b9d7a5adcdc07"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Arsène Lupin versus Herlock Sholmes",
     "author": "Leblanc, Maurice, 1864-1941; Morehead, George [Translator]",
     "gutenbergReference": "40203",
-    "matchType": 1,
     "hash": "f851cb1673f5a2f83ea1e8a52b896740e06f8b8fd96125818a81ba2f7daa05c3"
   }
 ]

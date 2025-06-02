@@ -7,7 +7,6 @@
     "title": "The Boy Allies in the Trenches; Or, Midst Shot and Shell Along the Aisne",
     "author": "Hayes, Clair W. (Clair Wallace), 1887-",
     "gutenbergReference": "12571",
-    "matchType": 1,
     "hash": "34522f99db2e29fc9bf2cc8118655bfc38dddce72b5633269c3ab2b75cc7e353"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Peaks of Shala",
     "author": "Lane, Rose Wilder, 1886-1968",
     "gutenbergReference": "67568",
-    "matchType": 1,
     "hash": "7a38448acca1182b20496d595f8ab7ca94724bde63b38eb626d18c707bcf408e"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Purchase of the North Pole\nA sequel to \"From the earth to the moon\"",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "60242",
-    "matchType": 1,
     "hash": "8ad1a00033adc81cb84d30c0f74df9e5e1dbe40db98ed4b5dd6b89446067ff20"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Former Philippines Thru Foreign Eyes",
     "author": "Craig, Austin, 1872-1949 [Editor]; Comyn, Tomás de; Jagor, Fedor, 1816-1900; Virchow, Rudolf, 1821-1902; Wilkes, Charles, 1798-1877",
     "gutenbergReference": "10770",
-    "matchType": 1,
     "hash": "7fd4887e5d01c3665b09822d3b7bd60838cce741d11a1fa4302a605f3ddd7fb0"
   },
   {
@@ -51,7 +47,6 @@
     "title": "My sweetheart's the Man in the Moon",
     "author": "Marlowe, Stephen, 1928-2008; Stallman, Emmanuel, 1927-1997 [Illustrator]",
     "gutenbergReference": "68393",
-    "matchType": 0,
     "hash": "ff609cb9c8ea6e980f018f6658eaa72ced9f13e6f3be5e66bd3399dbbe062403"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Notices on the outlasting war sites",
     "author": "Belgium. Ministère de la défense nationale",
     "gutenbergReference": "75081",
-    "matchType": 2,
     "hash": "1b377adc521ce693ba2c6c44c8311ca54b1e889cbce9b6aef70d5d567f587b5c"
   },
   {
@@ -73,7 +67,6 @@
     "title": "A Short History of Astronomy",
     "author": "Berry, Arthur, 1862-1929",
     "gutenbergReference": "59212",
-    "matchType": 1,
     "hash": "05a816ab9f830b30ba206e989094a994d1150476eb90962878c9d7f2b840a683"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Letters of Wolfgang Amadeus Mozart — Volume 01",
     "author": "Mozart, Wolfgang Amadeus, 1756-1791; Nohl, Ludwig, 1831-1885 [Compiler]; Wallace, Grace, Lady, 1804-1878 [Translator]",
     "gutenbergReference": "5307",
-    "matchType": 0,
     "hash": "4b739cca59837b855532d9a53482fc75e1fe374b702531101fc2e09efaa6e9e1"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Self-Doomed: A Novel",
     "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
     "gutenbergReference": "53096",
-    "matchType": 1,
     "hash": "7303109481a3ea70bf2d5ef541beb21ea46dbc68cdeee9b5ab8c8208e6d71e59"
   },
   {
@@ -106,7 +97,6 @@
     "title": "Pixie O'Shaughnessy",
     "author": "Vaizey, George de Horne, Mrs., 1857-1917; Groome, William H. C., 1860-1914 [Illustrator]",
     "gutenbergReference": "21101",
-    "matchType": 1,
     "hash": "60d358c80b0c48c9655f792790844ce2f6d4d6a08ecc1b32d1d817dcab1dafcb"
   },
   {
@@ -117,7 +107,6 @@
     "title": "The Corner House",
     "author": "White, Fred M. (Fred Merrick), 1859-1935; Smith, A. T. (A. Talbot), 1877- [Illustrator]",
     "gutenbergReference": "57066",
-    "matchType": 1,
     "hash": "e49b5e42c8dadc12c2a0184196fe08152acf4fb6073542fa74a0f6089d113d45"
   },
   {
@@ -128,7 +117,6 @@
     "title": "Through These Eyes\r\nThe courageous struggle to find meaning in a life stressed with cancer",
     "author": "Isaacson, Lauren Ann, 1961-1986",
     "gutenbergReference": "37060",
-    "matchType": 2,
     "hash": "3c2cd3663f121201fbb76035ed93776464c40acf66b95c852f608dfac745fb29"
   }
 ]

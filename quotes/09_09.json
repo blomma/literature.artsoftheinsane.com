@@ -7,7 +7,6 @@
     "title": "The British Navy Book",
     "author": "Field, Cyril, 1859-1942",
     "gutenbergReference": "41677",
-    "matchType": 1,
     "hash": "cdece643cfffb3dc6ac5d80e8e56bfd32675a1ad6b97356bc4215cfd66d7c27f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Submarine U93",
     "author": "Gilson, Charles, 1878-1943; Soper, George, 1870-1942 [Illustrator]",
     "gutenbergReference": "39387",
-    "matchType": 1,
     "hash": "87d501bbf7ef1cd4dfa22cce06b78647dc506ba774658a3f1988412ab443be04"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Plunderers: A Novel",
     "author": "Lefevre, Edwin, 1871-1943; Bracker, M. Leone, 1885-1937 [Illustrator]",
     "gutenbergReference": "51970",
-    "matchType": 1,
     "hash": "b83a9281f7a005d1ec5c4769418cf8eb25afd0c9ba7e0b0069fc2ed010bbb50a"
   },
   {
@@ -40,7 +37,6 @@
     "title": "New York Times Current History; The European War, Vol 2, No. 2, May, 1915\nApril-September, 1915",
     "author": "Various",
     "gutenbergReference": "15479",
-    "matchType": 2,
     "hash": "14bb7eff969db239fab11a98a2a5aadaeb0856a063c4fc63f990b3e04e69e876"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Star-Dust: A Story of an American Girl",
     "author": "Hurst, Fannie, 1889-1968",
     "gutenbergReference": "9858",
-    "matchType": 1,
     "hash": "40fbd0037b03c61db21422ef578de3bfd0a9b364a12ac174e8a7f8f010ad767f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Astronomy Explained Upon Sir Isaac Newton's Principles\nAnd made easy to those who have not studied mathematics",
     "author": "Ferguson, James, 1710-1776",
     "gutenbergReference": "60619",
-    "matchType": 0,
     "hash": "3a75720f396e7026712c78652f1b35c9dcdd5ef94bcf51a07e31f6a9d409f617"
   },
   {
@@ -29,7 +27,6 @@
     "title": "History of the Thirty-sixth Regiment Massachusetts Volunteers. 1862-1865",
     "author": "Burrage, Henry S. (Henry Sweetser), 1837-1926; Hodgkins, William H. (William Henry), 1840-1905; Noyes, Edmund W.; Ranlett, S. Alonzo; White, Alonzo A.",
     "gutenbergReference": "50422",
-    "matchType": 2,
     "hash": "8827eefac3cd3f9727b4cbed0d750230e191a68eb502ace6450ccf8fcef1c804"
   }
 ]

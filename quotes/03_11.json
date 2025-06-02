@@ -7,7 +7,6 @@
     "title": "The Railroad Problem",
     "author": "Hungerford, Edward, 1875-1948",
     "gutenbergReference": "40125",
-    "matchType": 2,
     "hash": "9f48753a3eb5ea7a9bc09e1e4e43ac3d22e4e36afddbbfd8af13fe38d047fa52"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55218",
-    "matchType": 2,
     "hash": "e72c6f671e0884615549bc07e45955ec99e13f606e0d4872a5a0cee055053063"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, June 1884, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55194",
-    "matchType": 2,
     "hash": "1e8deb024fb6a57dc468055e28d60123421cadcae2ef9921b4ee6df424733735"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Wylder's Hand",
     "author": "Le Fanu, Joseph Sheridan, 1814-1873",
     "gutenbergReference": "9983",
-    "matchType": 1,
     "hash": "2c2126f558c1efff48e3dd45dfef1b959820e7ef6e735caab51f9fd11fb21b70"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The informer",
     "author": "O'Flaherty, Liam, 1896-1984",
     "gutenbergReference": "75583",
-    "matchType": 1,
     "hash": "119e699a039f85a09bb6972e04eaacf441ab5180de04078744066144ea0a88b0"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Make Mine Homogenized",
     "author": "Raphael, Rick, 1919-1994; Freas, Kelly, 1922-2005 [Illustrator]",
     "gutenbergReference": "24119",
-    "matchType": 2,
     "hash": "1823df638af1d1f4e6ecd1e871fa3721b367052eb243b992164ca304b0947799"
   }
 ]

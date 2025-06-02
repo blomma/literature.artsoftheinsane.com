@@ -7,7 +7,6 @@
     "title": "True Stories of the Great War, Volume 3 (of 6)\r\nTales of Adventure--Heroic Deeds--Exploits Told by the Soldiers, Officers, Nurses, Diplomats, Eye Witnesses",
     "author": "Miller, Francis Trevelyan, 1877-1959 [Editor]",
     "gutenbergReference": "49099",
-    "matchType": 0,
     "hash": "ff9b0160bad7f93eb3ef28aa6ab3a43c957b054e8d53d1a2e95ad2924b445af4"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Graham's Magazine, Vol. XIX, No. 1, July 1841",
     "author": "Various; Graham, George R., 1813-1894 [Editor]",
     "gutenbergReference": "65155",
-    "matchType": 0,
     "hash": "6665afc050b4c6bb55c0e0496b48cb78a5f222c4e931c5379dc57154713b3c95"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Educational Writings of Richard Mulcaster",
     "author": "Mulcaster, Richard, 1530?-1611; Oliphant, James, 1855-1921 [Editor]",
     "gutenbergReference": "61900",
-    "matchType": 0,
     "hash": "dd3c1da505f39dd18013c27a0e9de27c43172bee94bd6c4908988db7353c458d"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Glacières; or, Freezing Caverns",
     "author": "Balch, Edwin Swift, 1856-1927",
     "gutenbergReference": "52216",
-    "matchType": 2,
     "hash": "4c05e90f99c7c4a4aa67a29fdea43572af683d91431868acfd8224f9af0fece3"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "2ccf3b27bb82ad15fe43491a3f2959632dbe1d990481cd89fbd42a1be4f86d4e"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Ice-Caves of France and Switzerland",
     "author": "Browne, G. F. (George Forrest), 1833-1930",
     "gutenbergReference": "14012",
-    "matchType": 2,
     "hash": "23cf63b9f73c66174ecbeaadaadf17747762f533b5cc7f60a2fdf1b2c644f49e"
   },
   {
@@ -73,7 +67,6 @@
     "title": "A thousand miles on an elephant in the Shan States",
     "author": "Hallett, Holt S. (Holt Samuel), 1841-1911",
     "gutenbergReference": "73607",
-    "matchType": 2,
     "hash": "1b6440c3fb665ee2ab2ad3e4a3eaa382d0f358045184dd0f5ac3883e6322735e"
   },
   {
@@ -84,7 +77,6 @@
     "title": "A thousand miles on an elephant in the Shan States",
     "author": "Hallett, Holt S. (Holt Samuel), 1841-1911",
     "gutenbergReference": "73607",
-    "matchType": 2,
     "hash": "2baaeb1cae8815a97a00f53c12ee9c4299bb4a3132d614dc73447210cbebcab0"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Bombardment of Reims",
     "author": "Ferree, Barr, 1862-1924",
     "gutenbergReference": "49649",
-    "matchType": 0,
     "hash": "8830b716e22c1f403d2cdd659837e954604889417f01287dfa6133dc4c0722eb"
   },
   {
@@ -106,7 +97,6 @@
     "title": "War in the Underseas",
     "author": "Wheeler, Harold, 1877-",
     "gutenbergReference": "63060",
-    "matchType": 2,
     "hash": "b80a8a3903daa6b9e4a00f59a6ebc8909a1a45af4fb4de410e8d3be61c698e7d"
   },
   {
@@ -117,7 +107,6 @@
     "title": "The Paston Letters, A.D. 1422-1509. Volume 4 (of 6)\r\nNew Complete Library Edition",
     "author": "Gairdner, James, 1828-1912 [Editor]",
     "gutenbergReference": "41081",
-    "matchType": 0,
     "hash": "7b571255864aa6a7dd608d1ea45482629b38483395d3ff940039933d7bf01ea6"
   }
 ]

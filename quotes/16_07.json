@@ -7,7 +7,6 @@
     "title": "Ecological Studies of the Timber Wolf in Northeastern Minnesota",
     "author": "Mech, L. David; Frenzel, Louis Daniel; Karns, P. D.; Ream, Robert R.; Winship, John W.",
     "gutenbergReference": "37595",
-    "matchType": 2,
     "hash": "4829626b61a69fab462f9ced3e3d5ca1435136d7fa896c7d9f4621f2af5c1912"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The American Red Cross Bulletin (Vol. IV, No. 2, April 1909)",
     "author": "American National Red Cross",
     "gutenbergReference": "72072",
-    "matchType": 2,
     "hash": "d1cd7afde639b5379b7d5b0f9354bbd6ddece194ab51fc4f2721d8501b998ea9"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 1",
     "author": "Humboldt, Alexander von, 1769-1859; Bonpland, Aimé, 1773-1858; Ross, Thomasina [Translator]",
     "gutenbergReference": "6322",
-    "matchType": 1,
     "hash": "5c7f36a16f9914aefb15743d0e03df26c82f2458563acb296c708f6125f4b30e"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Warren Commission (12 of 26): Hearings Vol. XII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44012",
-    "matchType": 2,
     "hash": "2fbd546811399c6b310dc2ff78315296bf0dc195479087bb3b6112b1bd27bc31"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Scientific American Supplement, No. 458, October 11, 1884",
     "author": "Various",
     "gutenbergReference": "11647",
-    "matchType": 1,
     "hash": "91c36ea4ee5363295e8cfdd12ea51df1a3772bf822d345dcc9b04565f68dd9d9"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "An Old Coachman's Chatter, with Some Practical Remarks on Driving",
     "author": "Corbett, Edward; Sturgess, J. (John), 1839-1903 [Illustrator]",
     "gutenbergReference": "43895",
-    "matchType": 2,
     "hash": "671489dbb6f10c7dad96d0034b9b63e6094edc881a7c566dcc75d294c2234a24"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Psmith in the City",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "6753",
-    "matchType": 1,
     "hash": "90968ca6f9337ada505d881240cbe6daaa965daedd0099b3267f3d114d04eb4f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Life of Lyman Trumbull",
     "author": "White, Horace, 1834-1916",
     "gutenbergReference": "38043",
-    "matchType": 2,
     "hash": "7c16be2a3c04595295bcc524a3626a62a778d707e4adfa52dbfb15c87a73b255"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Stage-coach and Mail in Days of Yore, Volume 2 (of 2)\nA picturesque history of the coaching age",
     "author": "Harper, Charles G. (Charles George), 1863-1943",
     "gutenbergReference": "58668",
-    "matchType": 2,
     "hash": "bbcfce5bd5009222998ea81607fdea487892d1c2bd3cddb2e0319602db8611fe"
   }
 ]

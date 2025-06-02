@@ -7,7 +7,6 @@
     "title": "The house on the marsh",
     "author": "Warden, Florence, 1857-1929",
     "gutenbergReference": "71788",
-    "matchType": 1,
     "hash": "329b5e0d307738dcb2041a442f58697cd588e2a9834dea488be022894153386c"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Lectures in Navigation",
     "author": "Draper, Ernest Gallaudet, 1885-1954",
     "gutenbergReference": "27642",
-    "matchType": 2,
     "hash": "fdd5378528126a713dc9b5380bcadec43a3287c166d7c840d9d4d34d6f0a1084"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Charles Peace, or The Adventures of a Notorious Burglar",
     "author": "Anonymous",
     "gutenbergReference": "65464",
-    "matchType": 1,
     "hash": "50251b4014404c99717b48f3b7b0388b3be03a280970552e2d6e8438657fd9c2"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Pee-wee Harris in camp",
     "author": "Fitzhugh, Percy Keese, 1876-1950; Barbour, Harold S., 1889-1961 [Illustrator]",
     "gutenbergReference": "72220",
-    "matchType": 1,
     "hash": "5f21d6c5266fe080c6deee95c44253d40a18a577c895464fd7c94b417dd847b0"
   }
 ]

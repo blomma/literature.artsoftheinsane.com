@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, July 1885, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55444",
-    "matchType": 2,
     "hash": "59ad8daf1d266cef4b007e1b3f95fdea138968f710095d1eb55c480d168e06f0"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Amphibians and Reptiles of Michoacán, México",
     "author": "Duellman, William Edward, 1930-2022",
     "gutenbergReference": "33543",
-    "matchType": 2,
     "hash": "983c262de365eb88c50cd5b9202dcaf62986d03284ae4ba3719ed38fd724fd28"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Anthony Lyveden",
     "author": "Yates, Dornford, 1885-1960",
     "gutenbergReference": "27684",
-    "matchType": 1,
     "hash": "b0a75a0fea28875e2957af22021f6350a0e8012d35c8583888592bda20b719c1"
   }
 ]

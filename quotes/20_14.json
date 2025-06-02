@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "429c8eb0c709e0afefaeea0e912bea6d8c57d29e212886b6bb0b8b45ef3f6093"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Creatures of the Abyss",
     "author": "Leinster, Murray, 1896-1975",
     "gutenbergReference": "42901",
-    "matchType": 1,
     "hash": "a0c0c8a05d439ce48698d085ff3bac0092197cfac7d3e690d7d7469a5190a2b2"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Sin of Monsieur Pettipon, and other humorous tales",
     "author": "Connell, Richard Edward, 1893-1949",
     "gutenbergReference": "37430",
-    "matchType": 1,
     "hash": "61a5f6255db8c169e8a400e7e96e7155ea3386003699ce68ca097db975d0716a"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, November 1884, No. 2",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55241",
-    "matchType": 2,
     "hash": "eedb2739d32e59736503495f319a059986513acbfd31b11fa14ff0ebe4c6926d"
   }
 ]

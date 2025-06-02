@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "b6cb797eeffeb498a8f7ea4ed7d875cb8d437ad9ccca2c1cdb417694d5f85bfe"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "b1856f8da0af5c0c2f86037e05516e9deffbc58b6cd8acca31bb9e0aad6790c4"
   },
   {
@@ -27,10 +25,9 @@
     "quoteTime": "7.14 p.m.",
     "quoteLast": " again sighted them at a range of about 15,000 yards. The ships sighted at this time were two battle-cruisers and two battleships, apparently of the _Koenig_ class.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "0c706736ea067b0114b984a33fb3169c019d649cabec45809065ef9c259b9bc6"
+    "hash": "38520c6f1c2520c9ae8708d92d5443a30013ee01daa76e106b5129c96eb5d22a"
   },
   {
     "time": "19:14",
@@ -40,7 +37,6 @@
     "title": "Travels to Discover the Source of the Nile, Volume 4 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
     "author": "Bruce, James, 1730-1794",
     "gutenbergReference": "56502",
-    "matchType": 1,
     "hash": "b4cc505d12f7533269cef34f4eea5cba66c6ce33ea92fcb7f47e8b08f8159974"
   }
 ]

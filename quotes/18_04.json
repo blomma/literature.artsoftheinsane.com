@@ -7,7 +7,6 @@
     "title": "Alonzo Fitz, and Other Stories",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3184",
-    "matchType": 1,
     "hash": "33017cce588a42f2f83f2da79e6363900a79991fb854b3b9b36dbbe746f6d724"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Wailing Octopus: A Rick Brant Science-Adventure Story",
     "author": "Goodwin, Harold L. (Harold Leland), 1914-1990",
     "gutenbergReference": "31495",
-    "matchType": 1,
     "hash": "7efa45e89d4ea893cf0ff6fdafb01168f45bcc75869ba6dbc63c84515d75a0c9"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Ralph the Heir",
     "author": "Trollope, Anthony, 1815-1882",
     "gutenbergReference": "25579",
-    "matchType": 1,
     "hash": "187f5de239a5f2a160aae0dbefd7274c1b15a448d793210470e1d6f8e27aafc4"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Entire Project Gutenberg Works of Mark Twain",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3200",
-    "matchType": 1,
     "hash": "dbadcb3f24735d44fda19c5e5877e8433ace2e3683d6136ab51cad4bed653e05"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 05, November 1884, No. 2",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55241",
-    "matchType": 2,
     "hash": "c693c1666852c59bacca5d4106ef8b0bdec7e6b445f290af3d280a9f022e5a91"
   }
 ]

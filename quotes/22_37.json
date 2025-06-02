@@ -7,7 +7,6 @@
     "title": "The Glebe 1913/11 (Vol. 1, No. 2): Diary of a Suicide",
     "author": "Baker, Wallace E., -1913",
     "gutenbergReference": "49261",
-    "matchType": 2,
     "hash": "c3a98601a22e96245c71ff709a3b35e653ecee297dd7efe4757c8e51d8eb6ce9"
   },
   {
@@ -18,7 +17,6 @@
     "title": "History of a World of Immortals without a God\r\nTranslated from an unpublished manuscript in the library of a continental university",
     "author": "Barlow, James William, 1826-1913 [Translator]",
     "gutenbergReference": "67548",
-    "matchType": 1,
     "hash": "ce88e5f58a35ba35029ca4a6a5960b9060f88745ff68806694181b3b5f80c287"
   },
   {
@@ -29,7 +27,6 @@
     "title": "History of a World of Immortals without a God\r\nTranslated from an unpublished manuscript in the library of a continental university",
     "author": "Barlow, James William, 1826-1913 [Translator]",
     "gutenbergReference": "67548",
-    "matchType": 1,
     "hash": "40b60c18e81810a7cf38359c6c6548202b9609eafc3a97e20aa07d19ad07aaef"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Loss of the Steamship \"Titanic\"",
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
-    "matchType": 2,
     "hash": "3dfecb25ba31b48ad4a59cc650a4fffec6f98279598096cf219926d18a5b7aee"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The World Crisis, Volume 1 (of 6)",
     "author": "Churchill, Winston, 1874-1965",
     "gutenbergReference": "59794",
-    "matchType": 2,
     "hash": "ad5399f5f3231c3c9239db54327837fe09281a776e43cd9dab73d2946d1b73ef"
   }
 ]

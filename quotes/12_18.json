@@ -7,7 +7,6 @@
     "title": "Syndrome",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34321",
-    "matchType": 2,
     "hash": "bbd7c643ee36e79bc195ea87090c6694873f2f70206e5510eb0c8d2734c44824"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
     "author": "Levy, Donald M.",
     "gutenbergReference": "59328",
-    "matchType": 2,
     "hash": "a4edad115223425bd38d2864e9b8284c7f590e442c02f7e7ad5448937d91456e"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
     "author": "Levy, Donald M.",
     "gutenbergReference": "59328",
-    "matchType": 2,
     "hash": "eebc5e05c551a853e09df7466cd0a68c83729d8666d90a9a2219bda98c30cdb1"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "e419e00111e45f6336cfde36e84d5136c58524dc4f761b27e16eae014f8a68df"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Boys of '98",
     "author": "Otis, James, 1848-1912",
     "gutenbergReference": "30684",
-    "matchType": 2,
     "hash": "d9b33a381da60aa9c313c44f367364d108b6c5b5d84c0b183d454a6115c90e97"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Q-Ships and Their Story",
     "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
     "gutenbergReference": "54338",
-    "matchType": 2,
     "hash": "d7e040db1fa66e9b53e34ea08db50ca617077ca0e143dd06855bd2a89b54e169"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Pugilistica: The History of British Boxing, Volume 1 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
     "author": "Miles, Henry Downes, 1806-1889",
     "gutenbergReference": "59465",
-    "matchType": 1,
     "hash": "bb7bb0303c8c8527719bfed9f29193a47658b6e370de3668407092b1b1ddc351"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Astronomy for Amateurs",
     "author": "Flammarion, Camille, 1842-1925; Welby, Frances A. (Frances Alice), 1862-1947 [Translator]",
     "gutenbergReference": "25267",
-    "matchType": 0,
     "hash": "9d0805454c567b5c4072a15f185f1f7ff29a506c2146a05fdaa84680e5813e0c"
   }
 ]

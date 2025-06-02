@@ -7,7 +7,6 @@
     "title": "The Works of Edgar Allan Poe — Volume 1",
     "author": "Poe, Edgar Allan, 1809-1849; Lowell, James Russell, 1819-1891 [Contributor]; Willis, Nathaniel Parker, 1806-1867 [Contributor]",
     "gutenbergReference": "2147",
-    "matchType": 1,
     "hash": "fa5974e1ee2f253891b032c8abfd477172bbd11998d84e52e4cb4e805414e0ef"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Adventure Club Afloat",
     "author": "Barbour, Ralph Henry, 1870-1944; Caswell, Edward C., 1879-1963 [Illustrator]",
     "gutenbergReference": "13897",
-    "matchType": 1,
     "hash": "0fe3257c862072566676695af6333647a33bb5512d118e02c8795ce1e4189714"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Works of Lord Byron: Letters and Journals. Vol. 2",
     "author": "Byron, George Gordon Byron, Baron, 1788-1824; Prothero, Rowland E. (Rowland Edmund), Baron Ernle, 1851-1937 [Editor]",
     "gutenbergReference": "9921",
-    "matchType": 1,
     "hash": "848fb66879f6f4f106acb3738b1999090599dddc9d3c0ef233dd9dbffc5d7af6"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "99803498f09b4548c8fa83485bfbb657e60cb24445ed9e1384469fc198d50d9e"
   },
   {
@@ -51,7 +47,6 @@
     "title": "\"No Clue!\": A Mystery Story",
     "author": "Hay, James, 1881-1936",
     "gutenbergReference": "26396",
-    "matchType": 1,
     "hash": "e78a115836d681b7d66e2f6504e198b4dc9498db2264aace8c1866a8b1ee4734"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Love Romances of the Aristocracy",
     "author": "Hall, Thornton, 1858-",
     "gutenbergReference": "14193",
-    "matchType": 1,
     "hash": "46eaf7743b545fc9c6ba79ade599dcdae9c1b1ca1eb785c84a299ecbb7fbb044"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Wives of the Prime Ministers, 1844-1906",
     "author": "Lee, Elizabeth, 1858?-1920; Masterman, Lucy, 1884-1977",
     "gutenbergReference": "50035",
-    "matchType": 1,
     "hash": "feb180aa993a3588300a49fcf21eb81b7d62f13bc2a3451a7690584705f9dbde"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Works of Edgar Allan Poe, The Raven Edition\nTable Of Contents And Index Of The Five Volumes",
     "author": "Poe, Edgar Allan, 1809-1849",
     "gutenbergReference": "25525",
-    "matchType": 1,
     "hash": "f166b5257264c5a8741f97df9d14511d6dfaa969c997650621493bda20830097"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Constitutional Amendment: or, The Sunday, the Sabbath, the Change, and Restitution\r\nA discussion between W. H. Littlejohn, Seventh-day Adventist, and the editor of the Christian Statesman",
     "author": "Littlejohn, Wolcott H., 1834-1916",
     "gutenbergReference": "61071",
-    "matchType": 0,
     "hash": "871b0f16a945aab61e745f63180e1590dcd1dc96e1f68378e955e9e86dd91628"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Cruise of the Alabama and the Sumter\r\nFrom the Private Journals and Other Papers of Commander R. Semmes, C.S.N., and Other Officers",
     "author": "Semmes, Raphael, 1809-1877",
     "gutenbergReference": "13163",
-    "matchType": 1,
     "hash": "06b373a356b6e10c762634e0050d348de6b27f6980acf6b2f790e8e19b83ccae"
   }
 ]

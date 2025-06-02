@@ -7,7 +7,6 @@
     "title": "Right Half Hollins",
     "author": "Barbour, Ralph Henry, 1870-1944; Crump, Leslie, 1894-1962 [Illustrator]",
     "gutenbergReference": "53986",
-    "matchType": 1,
     "hash": "433d38706e9572a716402841944e39c51b744a344af47a87030609b9a0d5f18e"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Mysterious Stranger: A Romance",
     "author": "Twain, Mark, 1835-1910; Wyeth, N. C. (Newell Convers), 1882-1945 [Illustrator]",
     "gutenbergReference": "50109",
-    "matchType": 1,
     "hash": "fba79e059f6c8d6ca4d099fe62f8798d7398ad1eb9833a9beeaddd22fa31deba"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The perfume of the lady in black",
     "author": "Leroux, Gaston, 1868-1927; Simont [Illustrator]",
     "gutenbergReference": "75258",
-    "matchType": 1,
     "hash": "4a3079d388cd916bb05bee8b302896041650a598567382dff7c498cdae0d7fd7"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 04, February 1884, No. 5.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55132",
-    "matchType": 2,
     "hash": "599abef6c93bd5e91ec29b57704f7ceb157cc79acaf8b78d168e2ea5e9f00b7c"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Entire Project Gutenberg Works of Mark Twain",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3200",
-    "matchType": 1,
     "hash": "9ab58e4184089396d453abdab472e19d47d6aeed0056586dc2932654eef1eb2e"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "5d3028635da64c0a243fa4db1ebbc92b415091e691439f7485d1b99912f9e6b6"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Hampstead Mystery",
     "author": "Watson, John R. (John Reay), 1872-; Rees, Arthur J. (Arthur John), 1872-1942",
     "gutenbergReference": "10082",
-    "matchType": 1,
     "hash": "b29f5939a1673d3be997db0b8b2cfdc80df88ee653d11e44b4c1002ef8c13769"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Mysterious Stranger, and Other Stories",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3186",
-    "matchType": 1,
     "hash": "7278d4b8c9da009f4f716d0bae38bd56f9e74db8aa0445e004baeff0774ea90f"
   }
 ]

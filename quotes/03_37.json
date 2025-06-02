@@ -7,7 +7,6 @@
     "title": "The History of Korea (vol. 2 of 2)",
     "author": "Hulbert, Homer B. (Homer Bezaleel), 1863-1949",
     "gutenbergReference": "52749",
-    "matchType": 1,
     "hash": "f4707683255a81584d1a1cf23eab9ef3f846d322f66bc84815cdd7762c513378"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Australian Victories in France in 1918",
     "author": "Monash, John, Sir, 1865-1931",
     "gutenbergReference": "51163",
-    "matchType": 2,
     "hash": "4e5beef23342d233b32d29c527cd7625b326d4738507995493e3a2e6da7b686b"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, June 1884, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55194",
-    "matchType": 2,
     "hash": "588e9186c9864925ddf19f174e5185f10f468bc664e09df6e386a4623603031e"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Underground: Hacking, madness and obsession on the electronic frontier",
     "author": "Dreyfus, Suelette; Assange, Julian, 1971- [Researcher]",
     "gutenbergReference": "4686",
-    "matchType": 2,
     "hash": "4aada5eea34f2fe1edffcb9463ddaa66ed0eeceb614b7f4bcf6be1debb96246b"
   }
 ]

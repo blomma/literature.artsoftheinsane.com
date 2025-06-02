@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, July 1885, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55444",
-    "matchType": 2,
     "hash": "4befd1ebbec569cc16908c64b54997d02c1d5e3dac3192a861894d2a32d9ddd5"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "c08aae6d01be69b90a63f044268d0db1b97ad72c2df09772ac1b0f259abef5fc"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Apparitions and thought-transference: an examination of the evidence for telepathy",
     "author": "Podmore, Frank, 1856-1910",
     "gutenbergReference": "56489",
-    "matchType": 2,
     "hash": "e42d11aa725b0de5dc9db1dc0ccfa95c15b98103b533623be5c88d42e80a03ef"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Table d'Hôte",
     "author": "Ridge, W. Pett (William Pett), 1859-1930",
     "gutenbergReference": "57349",
-    "matchType": 2,
     "hash": "5880055b6e4a6b8b1f3aa06d41e384f9f70fa93e06da10717afb8fe88f536973"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Raemaekers' Cartoon History of the War, Volume 1\nThe First Twelve Months of War",
     "author": "Raemaekers, Louis, 1869-1956 [Illustrator]; Allison, James Murray, 1877-1929 [Editor]",
     "gutenbergReference": "34031",
-    "matchType": 1,
     "hash": "ef75870e7ad9094c58d75b1bc0e7a9ba0d97192c06a7d262f03b9da953f0edd5"
   }
 ]

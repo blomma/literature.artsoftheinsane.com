@@ -7,7 +7,6 @@
     "title": "From the Earth to the Moon; and, Round the Moon",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "83",
-    "matchType": 1,
     "hash": "2e93c5cd3ef78fd5385d388b2c1089e066473377ae9687953c5a3dbe6240146e"
   },
   {
@@ -18,7 +17,6 @@
     "title": "From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes: and a Trip Round It",
     "author": "Verne, Jules, 1828-1905; Hildibrand, Henri Théophile, 1824-1897 [Engraver]; Bayard, Émile Antoine, 1837-1891 [Illustrator]; Neuville, Alphonse Marie de, 1835-1885 [Illustrator]",
     "gutenbergReference": "44278",
-    "matchType": 0,
     "hash": "a8b86b4865bbc2d1025cc338907ca8061c02691f2ffbe66622675234e9fc55a1"
   },
   {
@@ -29,7 +27,6 @@
     "title": "An Old Coachman's Chatter, with Some Practical Remarks on Driving",
     "author": "Corbett, Edward; Sturgess, J. (John), 1839-1903 [Illustrator]",
     "gutenbergReference": "43895",
-    "matchType": 2,
     "hash": "bbb546e7e71756fd1631389b54888f9646b01ee739cbb69ab51f109ad156e4e5"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Loss of the Steamship \"Titanic\"",
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
-    "matchType": 2,
     "hash": "d7f61b9b486f517934718d7b53f273caa41731cff86390cae31c7b35d39dcf0f"
   }
 ]

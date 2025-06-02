@@ -1,47 +1,143 @@
 [
   {
     "time": "23:45",
-    "quoteFirst": "Everything was quiet till about a ",
+    "quoteFirst": "Hallow E'en drew on stormy and dark, and Elliot at the inn began to regret that he had ever accepted the wager, though for very shame he could not now withdraw from his forbidding task. At a ",
     "quoteTime": "quarter to twelve",
-    "quoteLast": ", when Dease, who was in a shelter near the tents of the reserve, heard a distant challenge, followed almost immediately by the report of a rifle. Nothing happened, and as nervous sentries often fired at imaginary enemies, no one was disturbed by the single shot, though, as it turned out, it was fired not by a British soldier but by a burgher, who when the sentry at the north-east trench challenged, shot him dead.",
-    "title": "The Campaigns and History of the Royal Irish Regiment, [v. 1,] from 1684 to 1902",
-    "author": "Gretton, G. le M. (George Le Mesurier), -1934",
-    "gutenbergReference": "59779",
-    "matchType": 1,
-    "hash": "5e230273b24fd0771ef8e4cef17753179f20fa1d7ed6526a667565f8202c9367"
+    "quoteLast": " then precisely, having fortified himself with a final dram and lighted a cigar, he set forth upon his mission. He knew the path quite well, and could make no pretence at missing his way, but when he had crossed the burn by the shaking little wire suspension bridge sudden fear assailed him.",
+    "title": "Border Ghost Stories",
+    "author": "Pease, Howard, 1863-1928",
+    "gutenbergReference": "27449",
+    "hash": "781dadf1ce379bbc81975a8a3a77c29a27ad319c5165dc21bf6af79188590521"
   },
   {
     "time": "23:45",
-    "quoteFirst": "Mogley looked at the illuminated clock on the steeple across the way. A ",
+    "quoteFirst": "At ",
+    "quoteTime": "11:45P.M.",
+    "quoteLast": ", according to the logbook in the tower, one of the operators called a nearby radar site and asked if they had an unidentified target on their scopes. They did.",
+    "title": "The Report on Unidentified Flying Objects",
+    "author": "Ruppelt, Edward J., 1922-1960",
+    "gutenbergReference": "17346",
+    "hash": "60d2bf7b8de3fc2ba81ba00f9acf028394b7c3d03004450b7adc821e103986c4"
+  },
+  {
+    "time": "23:45",
+    "quoteFirst": "We remained till a ",
+    "quoteTime": "quarter to twelve",
+    "quoteLast": "; and, just as I was undressing, all the people came down under the windows, the pipes playing, the people singing, firing off guns, and cheering--first for me, then for Albert, the Emperor of the French, and the “downfall of _Sevastopol_.”",
+    "title": "Leaves From the Journal of Our Life in the Highlands, From 1848 to 1861",
+    "author": "Victoria, Queen of Great Britain, 1819-1901; Helps, Arthur, Sir, 1813-1875 [Editor]",
+    "gutenbergReference": "66173",
+    "hash": "cd97b59b1f85620dfe6b0ea580e2e7888c73d2532e89a8427f7ceb151d0f6996"
+  },
+  {
+    "time": "23:45",
+    "quoteFirst": "15. What was the nature of the casualty which happened to the _Titanic_ at or about ",
+    "quoteTime": "11.45 p. m.",
+    "quoteLast": " on April 14 last? In what latitude and longitude did the casualty occur?",
+    "title": "Loss of the Steamship \"Titanic\"",
+    "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
+    "gutenbergReference": "39415",
+    "hash": "21f0b32893e232459d89b81ea2a51949f38a47a46202c5316d3aae6bbbf90f3d"
+  },
+  {
+    "time": "23:45",
+    "quoteFirst": "As they entered the room \"Attention!\" was called, when all the prisoners out of bed stood up, and as the doctors passed, noting down on a ticket the date and remarks on each man's complaint, they were saluted by the patients in the military fashion. The doctors' visit over, the patients were assembled for prayers; after which, and until the dinner-hour--a ",
+    "quoteTime": "quarter to twelve",
+    "quoteLast": "--the time was spent in out-door exercise. From twelve till two the patients sat on their stools reading or gossiping. At two they went out again to exercise.",
+    "title": "Six Years in the Prisons of England",
+    "author": "Henderson, Frank, of London [Editor]",
+    "gutenbergReference": "21284",
+    "hash": "09ae5a7a73e03d67101733bb4279483ffd47bf2f6cd46faade14cb5602f2f210"
+  },
+  {
+    "time": "23:45",
+    "quoteFirst": "The next hour passed pleasantly enough; there was plenty for the cousins to discuss, and Roger had not by any means yet got over his elation at triumphing over the inspector. He talked at considerable length. The second hour passed more slowly. By a ",
+    "quoteTime": "quarter to twelve",
+    "quoteLast": " both were frankly yawning.",
+    "title": "The mystery at lovers' cave",
+    "author": "Berkeley, Anthony, 1893-1971",
+    "gutenbergReference": "70877",
+    "hash": "a61a21c4f64bf8d23dedc271a01d00335a5cfe63211695e5f53bd0980c81aa54"
+  },
+  {
+    "time": "23:45",
+    "quoteFirst": "You have five thousand men, and we sixty thousand, with right on our side as well.\" Here he drew out a watch set with brilliants. \"It wants a ",
+    "quoteTime": "quarter to midnight",
+    "quoteLast": ",\" he continued; \"if within twelve hours, that is to say to-morrow at noon, Paris has not received full satisfaction, the hall which shelters you to-night will be torn down stone by stone, and fire will be set to the four corners of the Tuileries, that the royal dwelling may be purified of your sojourn in it. I have spoken.",
+    "title": "The Whites and the Blues",
+    "author": "Dumas, Alexandre, 1802-1870",
+    "gutenbergReference": "59938",
+    "hash": "386f65342b70394d50060fae97b2d362c351f3e50d494a69d3c6ef1db55c8703"
+  },
+  {
+    "time": "23:45",
+    "quoteFirst": "'Shall we go into the gallery,' said Doll, 'and watch the unmasking from there? It is a ",
+    "quoteTime": "quarter to twelve",
+    "quoteLast": " now, and every one unmasks at twelve.'",
+    "title": "A Devotee: An Episode in the Life of a Butterfly",
+    "author": "Cholmondeley, Mary, 1859-1925",
+    "gutenbergReference": "40408",
+    "hash": "3da6719fd582bca7fd72e7c7090631c18b5081a462af4b393c4a3f8be1d40a98"
+  },
+  {
+    "time": "23:45",
+    "quoteFirst": "It was still about ",
+    "quoteTime": "quarter to twelve",
+    "quoteLast": ", and Jimmy had the taxi run slowly on to the Old Ferry lane. Lois was already there, and he lost no time in putting her in possession of the facts.",
+    "title": "The Ponson case",
+    "author": "Crofts, Freeman Wills, 1879-1957",
+    "gutenbergReference": "72235",
+    "hash": "2c1376647e44d808629c818e0f7a4ac5e3298b32f8e68d8a02c8959341a7e9d5"
+  },
+  {
+    "time": "23:45",
+    "quoteFirst": "The lights-out bugle sounded at ten o'clock; the last post at ten-thirty. At a ",
+    "quoteTime": "quarter to twelve",
+    "quoteLast": " the three adventurers, who had been keeping themselves awake by the exercise of great pains, satisfied themselves that the other occupants of the tent were asleep, and stole out.",
+    "title": "The Head of Kay's",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "6877",
+    "hash": "1d92e50b8b19f41b79e3e7f0a7be9410e3ae0d97f4aad6599cac45ed74ef7860"
+  },
+  {
+    "time": "23:45",
+    "quoteFirst": "The hand slowly made its inevitable way to the figures which told that the ten minutes were past. It was exactly a ",
+    "quoteTime": "quarter to twelve",
+    "quoteLast": " when my lady took her lamp in her hand, and stole softly from the room. Her footfall was as light as that of some graceful wild animal, and there was no fear of that airy step awakening any echo upon the carpeted stone corridors and staircase. She did not pause until she reached the vestibule upon the ground floor. Several doors opened out of the vestibule, which was octagon, like my lady's ante-chamber. One of these doors led into the library, and it was this door which Lady Audley opened softly and cautiously.",
+    "title": "Lady Audley's Secret",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "8954",
+    "hash": "950f673e27a499a8e5ccc33745976c84cb3f29c9fac932b2d37183554e8884fb"
+  },
+  {
+    "time": "23:45",
+    "quoteFirst": "I looked at the clock. It was a ",
+    "quoteTime": "quarter to twelve",
+    "quoteLast": ". This could not be a visitor at so late an hour. A patient, evidently, and possibly an all-night sitting.",
+    "title": "The Memoirs of Sherlock Holmes",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "gutenbergReference": "834",
+    "hash": "d65c081587b211d33cc147f8ebee8bb437eaa35ad964edc964c41dd428a6d714"
+  },
+  {
+    "time": "23:45",
+    "quoteFirst": "It was ",
+    "quoteTime": "quarter to twelve",
+    "quoteLast": " when the service ended. The bishop went to bed as soon as he reached home, without even saying his prayers. As he pulled his blanket up over him, he suddenly wished that he were abroad; he passionately wished it.",
+    "title": "Russian Silhouettes: More Stories of Russian Life",
+    "author": "Chekhov, Anton Pavlovich, 1860-1904; Fell, Marian [Translator]",
+    "gutenbergReference": "66790",
+    "hash": "cfe28eb397b3216fb438d157486f283b85fabbc1db5d6fc05d00214e357cc454"
+  },
+  {
+    "time": "23:45",
+    "quoteFirst": "It was nearly a ",
     "quoteTime": "quarter to twelve",
     "quoteLast": ".",
-    "title": "Tales from Bohemia",
-    "author": "Stephens, Robert Neilson, 1867-1906",
-    "gutenbergReference": "8869",
-    "matchType": 1,
-    "hash": "212edc391d4b56c64cdfe9852948afddf4c8cc543d7e7ea9f42d3c73bfbd5799"
-  },
-  {
-    "time": "23:45",
-    "quoteFirst": "",
-    "quoteTime": "Quarter to twelve",
-    "quoteLast": "! I must go, Mrs. Eppingwell. Good-by.",
-    "title": "Scorn of Women: A Play In Three Acts",
-    "author": "London, Jack, 1876-1916",
-    "gutenbergReference": "48474",
-    "matchType": 1,
-    "hash": "3f5900e18dc2e8bbc36c8f051d8f7bfdc0fd32865eeb12c8d57eb3d4f4a7f8fb"
-  },
-  {
-    "time": "23:45",
-    "quoteFirst": "Far in the stillness there sounded the sweet mad voice of the Garlands' clock. It struck seven, and then two, and then fell silent. V. Vivian glanced at his watch. It seemed to be ",
-    "quoteTime": "quarter to twelve",
-    "quoteLast": ", though he did not see how that was possible. He opened his office door, and stood listening.",
-    "title": "V. V.'s Eyes",
-    "author": "Harrison, Henry Sydnor, 1880-1930; Crosby, Raymond Moreau, 1876-1945 [Illustrator]",
-    "gutenbergReference": "13985",
-    "matchType": 1,
-    "hash": "7accec463c30fecb5109f6b0ff108f25c8c55cd34aa39add30eccb28029579d4"
+    "title": "The King Who Went on Strike",
+    "author": "Choate, Pearson, 1886?-1960",
+    "gutenbergReference": "67147",
+    "hash": "7fb12d3782a1ba3891fc76fb9eec1ee31bb3e25c460c604409cfd183f287a7f3"
   },
   {
     "time": "23:45",
@@ -51,52 +147,37 @@
     "title": "Riceyman Steps: A Novel",
     "author": "Bennett, Arnold, 1867-1931",
     "gutenbergReference": "58666",
-    "matchType": 1,
     "hash": "5410b75e1e07be9dcc29205943a24dea91193df0b2776152838ff10a0fb61f12"
   },
   {
     "time": "23:45",
-    "quoteFirst": "It was natural that they should take precautions against a direct sortie without looking for an attack from the quarter in which they had themselves come.  Leaving fifty carriers, picked up at the block-houses, to take charge of the food and ammunition, Tom started with his men at a ",
+    "quoteFirst": "Three steps--an elaborately carved door which also seemed to open of itself--a dim, elegant hall--colored panes of glass--the sound of a grand piano--a screeching parrot somewhere in a room--a servant in green and gold on whose foot Hans Unwirrsch stepped in his confusion and who scorned to take any notice of the stammered apology--an opened door--a young lady in violet--a melodious ejaculation of pleased surprise and the young lady's clear laugh--a ",
     "quoteTime": "quarter to twelve",
-    "quoteLast": ".",
-    "title": "Tom Burnaby: A Story of Uganda and the Great Congo Forest",
-    "author": "Strang, Herbert",
-    "gutenbergReference": "42017",
-    "matchType": 1,
-    "hash": "69204d5e82f162e299360240c46a1618c8cf1c94c83cf773ddee5db08783a393"
+    "quoteLast": "!",
+    "title": "The German Classics of the Nineteenth and Twentieth Centuries, Volume 11\nMasterpieces of German Literature Translated Into English",
+    "author": "Francke, Kuno, 1855-1930 [Editor]",
+    "gutenbergReference": "45788",
+    "hash": "c20b9139ddb4f187e75424284f1045e3f6d2fb5ca1b8ab67fef049b7bd543aa6"
   },
   {
     "time": "23:45",
-    "quoteFirst": "“Why, when it’s too stormy for the children to go to school in the afternoon the fire-bells ring twenty-two at ",
+    "quoteFirst": "Justine came down about eleven, she said good-night to me as she went by ... while Marie Pascal didn't go up before eleven-thirty or a ",
     "quoteTime": "quarter to twelve",
-    "quoteLast": ". They keep all the classes in until one o’clock though.”",
-    "title": "Maida's Little Shop",
-    "author": "Gillmore, Inez Haynes, 1873-1970",
-    "gutenbergReference": "17530",
-    "matchType": 1,
-    "hash": "b1b06a196509fe6cbd67d3c783ce93d40552c5c0af80d8b50251cc48fb2a674e"
+    "quoteLast": ".\"",
+    "title": "A Royal Prisoner",
+    "author": "Souvestre, Pierre, 1874-1914; Allain, Marcel, 1885-1969",
+    "gutenbergReference": "27789",
+    "hash": "ac96d83efa113f0c4b2c59606bb24c15f64af4d912f34d09fd61615f52e0ad34"
   },
   {
     "time": "23:45",
-    "quoteFirst": "“‘Ten minutes to twelve. I looked at my watch as I crossed the foot-bridge, and had heard a ",
+    "quoteFirst": "“It’s only about a ",
     "quoteTime": "quarter to twelve",
-    "quoteLast": " strike five minutes before.’",
-    "title": "The case of Miss Elliott",
-    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947; Brock, H. M. (Henry Matthew), 1875-1960 [Illustrator]",
-    "gutenbergReference": "75461",
-    "matchType": 1,
-    "hash": "e6606126b9f02259b576594bc07166944313b58af338fcc58aafd096f12cb8fa"
-  },
-  {
-    "time": "23:45",
-    "quoteFirst": "\"A ",
-    "quoteTime": "quarter to twelve",
-    "quoteLast": ",\" Verbeck whispered. \"The chief is to meet us here. The sergeants know where he is to be in case he is needed quickly.\"",
-    "title": "Black Star's Campaign: A Detective Story",
-    "author": "McCulley, Johnston, 1883-1958",
-    "gutenbergReference": "40484",
-    "matchType": 1,
-    "hash": "b722dbb7fd43fc1647437eb95312103d57da450255cf3f87347f46b7819dc2a1"
+    "quoteLast": ". We don’t have to get there until six if we don’t want to.”",
+    "title": "The Turner Twins",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "37209",
+    "hash": "4e340cbe862ec76740c9a197291b0105642752dff4c5c5b30ded9c7c816355cc"
   },
   {
     "time": "23:45",
@@ -106,117 +187,16 @@
     "title": "30 Strange Stories",
     "author": "Wells, H. G. (Herbert George), 1866-1946",
     "gutenbergReference": "59774",
-    "matchType": 1,
     "hash": "7ee735ef39abcc6fc3732754ffce90475a8000c77b8e0657972cacb4db5ec39f"
   },
   {
     "time": "23:45",
-    "quoteFirst": "The clocks struck for the third time. It was a ",
-    "quoteTime": "quarter to twelve",
-    "quoteLast": ". The vigil had lasted too long--Andrea was growing tired and cross. In Elena's apartments, in the left wing of the palace, there was no light but that which came from outside.",
-    "title": "The Child of Pleasure",
-    "author": "D'Annunzio, Gabriele, 1863-1938; Boyd, Ernest Augustus, 1887-1946 [Commentator]; Harding, Georgina [Translator]; Symons, Arthur, 1865-1945 [Translator]",
-    "gutenbergReference": "20015",
-    "matchType": 1,
-    "hash": "839e249f75931cdbfe2861fed39e908d43fce16d1fb9a84296482601f07492fd"
-  },
-  {
-    "time": "23:45",
-    "quoteFirst": "\"",
-    "quoteTime": "Quarter to twelve",
-    "quoteLast": ".\"",
-    "title": "Miss Gibbie Gault",
-    "author": "Bosher, Kate Langley, 1865-1932",
-    "gutenbergReference": "6075",
-    "matchType": 1,
-    "hash": "c01d0c2021003fe293e63900d155840edd309583fcbe3c6ab06e0ed629170593"
-  },
-  {
-    "time": "23:45",
-    "quoteFirst": "April 18th, about a ",
-    "quoteTime": "quarter to twelve",
-    "quoteLast": ", he had a severe attack and passed into a faint, from which he was brought back to consciousness with great difficulty. He seemed to recognise the approach of death, and said, \"I am not the least afraid to die.",
-    "title": "Charles Darwin: His Life Told in an Autobiographical Chapter, and in a Selected Series of His Published Letters",
-    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925 [Editor]",
-    "gutenbergReference": "38629",
-    "matchType": 1,
-    "hash": "d861ef0462e69894773ad9287b05974eb388eb9d4ea8078b0cc4e68fdcca4b7c"
-  },
-  {
-    "time": "23:45",
-    "quoteFirst": "She had not long to wait. At a ",
-    "quoteTime": "quarter to twelve",
-    "quoteLast": " the bars once more fell with a clang, the door was opened, and the two officers entered to conduct her before the magistrates. With her fettered hands she managed to put on her bonnet, but could not contrive to arrange her shawl; but Sims performed this service for her with gentleness and delicacy, folding the shawl so as to conceal the manacles.",
-    "title": "Allworth Abbey",
-    "author": "Southworth, Emma Dorothy Eliza Nevitte, 1819-1899",
-    "gutenbergReference": "69675",
-    "matchType": 1,
-    "hash": "5c3c21375fa31f8716f86409d8e2dc7a45927fe537fdebf01296008198017a44"
-  },
-  {
-    "time": "23:45",
-    "quoteFirst": "To-morrow the Klosters come over, and are going to stay the night, and to-morrow I may play my fiddle again.  I've faithfully kept my promise and not touched it.  Really, as it's a ",
-    "quoteTime": "quarter to twelve",
-    "quoteLast": " now and at midnight my week's fasting will be over, I might begin and play it quite soon.  I wonder what would happen if I sat on my window-sill and played Ravel to the larkspurs and the stars!  I believe it would make even the Graf say something.",
-    "title": "Christine",
-    "author": "Von Arnim, Elizabeth, 1866-1941",
-    "gutenbergReference": "12683",
-    "matchType": 1,
-    "hash": "e8188d0f97c14e7c06783a3601d9e28ec535fed47f3d207b4902eacd771bfcb4"
-  },
-  {
-    "time": "23:45",
-    "quoteFirst": "“It was not raining,” I said, “at a ",
-    "quoteTime": "quarter to twelve",
-    "quoteLast": ".”",
-    "title": "The Billiard Room Mystery",
-    "author": "Flynn, Brian, 1885-1958",
-    "gutenbergReference": "58413",
-    "matchType": 1,
-    "hash": "164a586b9f57ae2783c9f9b4a24684b16607410921df465b7fe16109317ad2bb"
-  },
-  {
-    "time": "23:45",
-    "quoteFirst": "\"You cannot complain of my early rising,\" laughed Eleanor, glancing at the clock, whose hands pointed to a ",
-    "quoteTime": "quarter to twelve",
-    "quoteLast": ".",
-    "title": "The Man Inside",
-    "author": "Lincoln, Natalie Sumner, 1881-1935",
-    "gutenbergReference": "63223",
-    "matchType": 1,
-    "hash": "edb2fb2dbbf9f12aaf66029aa720a96685dd50483df6e610c044754e56f2d903"
-  },
-  {
-    "time": "23:45",
-    "quoteFirst": "“",
-    "quoteTime": "Quarter to twelve",
-    "quoteLast": ",” they said together.",
-    "title": "The Companions of Jehu",
-    "author": "Dumas, Alexandre, 1802-1870",
-    "gutenbergReference": "7079",
-    "matchType": 1,
-    "hash": "b959db7588e16645879ea6c2bad9491cd830e55840ca4f586d5abeeaffe43fed"
-  },
-  {
-    "time": "23:45",
-    "quoteFirst": "He left me two shells and the envelope that Detective Sims and I had previously marked. It was then that I scratched my name on the two shells that were released at ",
-    "quoteTime": "11:45 p.m.",
-    "quoteLast": " to Agent Vince Drain along with the rifle and other evidence.",
-    "title": "Warren Commission (07 of 26): Hearings Vol. VII (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44007",
-    "matchType": 2,
-    "hash": "ae6cfb00e11acce07e9cdc46456b468e18f77eb2208c8f9c33caa9ee88766af3"
-  },
-  {
-    "time": "23:45",
-    "quoteFirst": "'At a ",
-    "quoteTime": "quarter to twelve at night",
-    "quoteLast": "!' sneered the Countess, still imagining that he, like herself, must be partly acting.",
-    "title": "Evan Harrington — Volume 6",
-    "author": "Meredith, George, 1828-1909",
-    "gutenbergReference": "4432",
-    "matchType": 0,
-    "hash": "dba78bc57c4acd6a580d82c85794635a015d57e624720ff04617c9b8ca364150"
+    "quoteFirst": "At all events, Mr. Vernon, as Mr. Maunders was cold-shouldered he came to me and I had the burden of him from ten o'clock up to the time Ida discovered the murder, at a ",
+    "quoteTime": "quarter to midnight",
+    "quoteLast": ". Mr. Maunders never left me alone all that time, so if he had seen anyone suspicious he would have told me.\"",
+    "title": "The Spider",
+    "author": "Hume, Fergus, 1859-1932",
+    "gutenbergReference": "55831",
+    "hash": "47046a36c0961663671e7915bd3ca0ea7c6855977169c735f45010465ccd51ef"
   }
 ]

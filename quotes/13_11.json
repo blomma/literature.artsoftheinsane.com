@@ -7,7 +7,6 @@
     "title": "McKinlay's Journal of Exploration in the Interior of Australia",
     "author": "McKinlay, John, 1819-1872",
     "gutenbergReference": "13248",
-    "matchType": 2,
     "hash": "5311251dd42d73103527ceacf01e7c564f9104aab2eb7c540ebf594e352fb2c4"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "199dc65f04615bd1dcbb57a04055eb5fd8643fa09686cd28773e70ecf63c923b"
   },
   {
@@ -29,7 +27,6 @@
     "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
     "author": "Leffingwell, Albert, 1845-1916",
     "gutenbergReference": "20222",
-    "matchType": 2,
     "hash": "b26235ab1bfffcbdde3aebd8b85c98535a5c60a6c6fe4c8ace520b675d841435"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Cask",
     "author": "Crofts, Freeman Wills, 1879-1957",
     "gutenbergReference": "59854",
-    "matchType": 2,
     "hash": "769af8b8f1102258a99f49d4911bb5193d47f83b6afa61963a50cd9424304980"
   }
 ]

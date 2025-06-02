@@ -7,7 +7,6 @@
     "title": "Syndrome",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34321",
-    "matchType": 2,
     "hash": "5e9547294d8b1d7a98219e2793fef3147232e8ea607f4b2efecd3d0de20faf04"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Mysterious Stranger: A Romance",
     "author": "Twain, Mark, 1835-1910; Wyeth, N. C. (Newell Convers), 1882-1945 [Illustrator]",
     "gutenbergReference": "50109",
-    "matchType": 1,
     "hash": "7ae0ff93f79eea9b374efa14912c6660fce011223e147a4f70143c2e297d2f12"
   },
   {
@@ -29,7 +27,6 @@
     "title": "From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes: and a Trip Round It",
     "author": "Verne, Jules, 1828-1905; Hildibrand, Henri Théophile, 1824-1897 [Engraver]; Bayard, Émile Antoine, 1837-1891 [Illustrator]; Neuville, Alphonse Marie de, 1835-1885 [Illustrator]",
     "gutenbergReference": "44278",
-    "matchType": 1,
     "hash": "5f48fff32d211840fc48bb6e9ad810f0ded4516a232e73b75a1a82eff9241e90"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Arrowsmith",
     "author": "Lewis, Sinclair, 1885-1951",
     "gutenbergReference": "70875",
-    "matchType": 1,
     "hash": "b39e4dd10cc9df82682ed6093c2be586ba864a0b5f5e41be81cd594f156835ce"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Missing Link in Modern Spiritualism",
     "author": "Underhill, A. Leah (Ann Leah), 1814-1890",
     "gutenbergReference": "40485",
-    "matchType": 1,
     "hash": "c89897d284e8ef5d41582cbab7c99089ca5c976d31343b713002719199a6a074"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Sans-Cravate; or, The Messengers; Little Streams",
     "author": "Kock, Paul de, 1793-1871",
     "gutenbergReference": "38001",
-    "matchType": 1,
     "hash": "05efd1c509691ffea1b60221712d9fbee80c1c28a7d2334018674be4e0ac07b8"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Sans-Cravate; or, The Messengers; Little Streams",
     "author": "Kock, Paul de, 1793-1871",
     "gutenbergReference": "38001",
-    "matchType": 1,
     "hash": "4935853601c3b7c7dc8420da6f41f3ff9d8596bbe2f96fe5e6af77c4e4a69192"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Entire Project Gutenberg Works of Mark Twain",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3200",
-    "matchType": 1,
     "hash": "5971ecbbc51b4feece2c0d96470f492b42715e7ed485f8eedcfb9674d4c1ccb1"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Boy Scouts' First Camp Fire; or, Scouting with the Silver Fox Patrol",
     "author": "Carter, Herbert, active 1909-1917",
     "gutenbergReference": "20434",
-    "matchType": 1,
     "hash": "e2224aa954523e73212c26bc76e0a15ad1c58f9e933d0cacce1f37f23b5dc75c"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Mysterious Stranger, and Other Stories",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3186",
-    "matchType": 1,
     "hash": "5f2cf8f0b7e1d5ac32adc7343770094345b0a2c1395a248be26f8c700117563a"
   }
 ]

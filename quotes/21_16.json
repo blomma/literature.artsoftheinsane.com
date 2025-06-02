@@ -7,7 +7,6 @@
     "title": "Werwolves",
     "author": "O'Donnell, Elliott, 1872-1965",
     "gutenbergReference": "26629",
-    "matchType": 2,
     "hash": "ace2f7d58ab5d5f1dd4dd73fb0d443f22b570590a89f988c056dd4b2e29ca117"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55331",
-    "matchType": 2,
     "hash": "5d34363e6ad18fb4448366526a40f6d99e2d375bf072fff125aeb173f778f901"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Best Short Stories of 1918, and the Yearbook of the American Short Story",
     "author": "O'Brien, Edward J. (Edward Joseph), 1890-1941 [Editor]",
     "gutenbergReference": "39635",
-    "matchType": 1,
     "hash": "4051f4bc3e241d9f1f3915fde6767b3ab4c82ac8cb8a4d1621377e22428f5d7b"
   }
 ]

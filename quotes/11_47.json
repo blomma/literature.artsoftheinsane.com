@@ -7,7 +7,6 @@
     "title": "The Toxicity of Caffein: An experimental study on different species of animals",
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
-    "matchType": 2,
     "hash": "05f77f69950fb4519fc835725950b9071e1353b3522d55d2afda372e8405cf12"
   },
   {
@@ -18,7 +17,6 @@
     "title": "An Englishman in Paris: Notes and Recollections",
     "author": "Vandam, Albert D. (Albert Dresden), 1843-1903",
     "gutenbergReference": "32343",
-    "matchType": 1,
     "hash": "af07333b8a4160a878f31bbc75354293080bc18f03a8efdb877247085ebd5ee5"
   },
   {
@@ -27,10 +25,9 @@
     "quoteTime": "thirteen minutes to twelve",
     "quoteLast": ".”",
     "title": "In the night",
-    "author": "Barnes, R. Gorell",
+    "author": "Gorell, Ronald Gorell Barnes, Baron, 1884-1963",
     "gutenbergReference": "75628",
-    "matchType": 1,
-    "hash": "cf769b214c560b58cfbd0dc9a1418586962197b5c69bac24796029ad61a0f3a7"
+    "hash": "477782291cc0839b97dd9084bf5282b9f682a2ccc8e6bdb67c3a09160fea603c"
   },
   {
     "time": "11:47",
@@ -40,7 +37,6 @@
     "title": "H. G. Hawker, airman: his life and work",
     "author": "Hawker, Muriel; Moore-Brabazon, John Theodore Cuthbert, 1884-1964 [Author of introduction, etc.]",
     "gutenbergReference": "64793",
-    "matchType": 2,
     "hash": "08cb9e9c94e81c53e22c239debbaf2317d9c5684a21e5b13308ab6cb5be73fd3"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Modern Railroad",
     "author": "Hungerford, Edward, 1875-1948",
     "gutenbergReference": "40242",
-    "matchType": 2,
     "hash": "0c08d290d3436569ca5b33c2e86ea46c7138f138f631eda13bfc3fd38b97dec8"
   }
 ]

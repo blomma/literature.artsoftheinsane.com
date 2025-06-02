@@ -7,7 +7,6 @@
     "title": "The Triumphs of Eugène Valmont",
     "author": "Barr, Robert, 1850-1912",
     "gutenbergReference": "19369",
-    "matchType": 1,
     "hash": "21d3c5c38f0971cb76ead4f38688c3a540f2cddae2040a1f28b01509be20fd94"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, March 1884, No. 6",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55133",
-    "matchType": 2,
     "hash": "ffb9a917e504aaa6ca2cdffec796884c498c191466186a69032254497c837257"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, November 1884, No. 2",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55241",
-    "matchType": 2,
     "hash": "3749c46706a741906b47060050a64bae46880e71f3334cf2abcf859127a85cc1"
   }
 ]

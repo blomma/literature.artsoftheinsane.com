@@ -7,7 +7,6 @@
     "title": "From the Earth to the Moon; and, Round the Moon",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "83",
-    "matchType": 2,
     "hash": "8b44399ad331a7a9f346416ed39e8f5c8d47e2326498971d640c75a2a060770e"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Moon-Voyage",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "12901",
-    "matchType": 2,
     "hash": "795e86ca74b3bd2cf0d9cc0a42087433a6829c5cf30b11b9c2833329a3969ad2"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Moon-Voyage",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "12901",
-    "matchType": 2,
     "hash": "132f99afaae0dde7db5b904cc5437cf6810a07492dd01b0546906538014cf287"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Knock three-one-two",
     "author": "Brown, Fredric, 1906-1972",
     "gutenbergReference": "70944",
-    "matchType": 2,
     "hash": "58ad4889ae5cbe15464153353c73823379d44f0528a7505cecc6555c65c99d1f"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Passionate Elopement",
     "author": "MacKenzie, Compton, 1883-1972",
     "gutenbergReference": "38177",
-    "matchType": 1,
     "hash": "5df9d0d4453e78fd0a7cfc8aa26ad7ae6afc60ca672067876ad3faa9e8bfe688"
   }
 ]

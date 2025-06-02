@@ -7,7 +7,6 @@
     "title": "Captains of the Civil War: A Chronicle of the Blue and the Gray",
     "author": "Wood, William, 1864-1947",
     "gutenbergReference": "2649",
-    "matchType": 2,
     "hash": "3f1bfe50f0280ccf8d130ce2003ac61de51e1f8a16ddfc96bf7e461a529e1a14"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Joyce's Investments: A Story for Girls",
     "author": "Newberry, Fannie E. (Fannie Ellsworth), 1848-1942",
     "gutenbergReference": "21857",
-    "matchType": 1,
     "hash": "bdf53e9798ad361040b92265f66f07a06b1ea7d2ffcd7f13b3bef2720e8b5ecd"
   },
   {
@@ -29,7 +27,6 @@
     "title": "A Backward Glance at Eighty: Recollections & Comment",
     "author": "Murdock, Charles A. (Charles Albert), 1841-1928",
     "gutenbergReference": "12911",
-    "matchType": 1,
     "hash": "ae7c9e81b64d640bc142c66f55cc9a2085a6a26625d417c3cae1583a3dc9b059"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Fifth Leicestershire\r\nA Record of the 1/5th Battalion the Leicestershire Regiment, T.F., During the War, 1914-1919.",
     "author": "Hills, John David",
     "gutenbergReference": "17369",
-    "matchType": 2,
     "hash": "18243876c4b879e69172df9d722a4e18b85214f62d33732fda1bf0f9b3886437"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Astronomy for Amateurs",
     "author": "Flammarion, Camille, 1842-1925; Welby, Frances A. (Frances Alice), 1862-1947 [Translator]",
     "gutenbergReference": "25267",
-    "matchType": 2,
     "hash": "ac1623dbdf82153f0e36822f7f94295193aa13f7ae8a788e8ccaa2bc0d1ca52f"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 04, March 1884, No. 6",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55133",
-    "matchType": 2,
     "hash": "c2681c2c04a78dd2e4862446447dced0a6bc9ead68f9bebbc7d76f07b04118af"
   }
 ]

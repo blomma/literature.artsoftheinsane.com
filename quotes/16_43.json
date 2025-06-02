@@ -7,7 +7,6 @@
     "title": "The Dominion of the Air: The Story of Aerial Navigation",
     "author": "Bacon, John M. (John Mackenzie), 1846-1904",
     "gutenbergReference": "861",
-    "matchType": 2,
     "hash": "14d85a9426220ef7822c7af9205ea60cb2663f1e9d7aa1f72dbac2818c7e83af"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "5673587cb63daa72b3ad737e5735ebb365dc3536bbc3006c672cfecc27dd0dfa"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "afcfc866a1622183e42ca1088fc9e78e426f516b609efbbf23ce0a024ce958f1"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The World of Flying Saucers: A Scientific Examination of a Major Myth of the Space Age",
     "author": "Menzel, Donald H. (Donald Howard), 1901-1976; Boyd, Lyle Gifford, 1907-1982",
     "gutenbergReference": "66639",
-    "matchType": 2,
     "hash": "606a99663b819661d64547c7ad22e1cd4c4616d1adb113d161d33dc92eeaa16a"
   },
   {
@@ -49,10 +45,9 @@
     "quoteTime": "4.43 p.m.",
     "quoteLast": " the conflict between the opposing battle-cruisers was of a very fierce and resolute character. The 5th Battle Squadron was engaging the enemy's rear ships, unfortunately at very long range. Our fire began to tell, the accuracy and rapidity of that of the enemy depreciating considerably. At 4.18 p.m. the third enemy ship was seen to be on fire.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "ce3ba96d219b317fe64c8d4047074dc1947855eba07cabded158456c3120f587"
+    "hash": "0952d462fd50dded2420aab68428507fca18ccfedaf7504d76389b1aadd3f3df"
   },
   {
     "time": "16:43",
@@ -62,7 +57,6 @@
     "title": "The Report on Unidentified Flying Objects",
     "author": "Ruppelt, Edward J., 1922-1960",
     "gutenbergReference": "17346",
-    "matchType": 2,
     "hash": "2b2cc65d4190fc00b8b495819df6b0167c89b45e3f5b4cbe858780df50cb9d20"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Earthquakes and other earth movements",
     "author": "Milne, John, 1850-1913",
     "gutenbergReference": "60007",
-    "matchType": 2,
     "hash": "5cd7eca429838aa2a8bfd87a314ce879f5f5b06292c2539ef3ae7eb177178d0b"
   }
 ]

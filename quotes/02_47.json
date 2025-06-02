@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "fe11912b038d34ebd720f3e7c8f41781173608bfc19e657bf334ce5bbc00285e"
   },
   {
@@ -18,7 +17,6 @@
     "title": "White House gossip",
     "author": "Colman, Edna M. (Edna Mary), -1951",
     "gutenbergReference": "73748",
-    "matchType": 2,
     "hash": "8b34c7f973231b2d6a67b6a4345b3072586b374c481bb3bcb4fd537aa97b27ee"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Mrs. Ames",
     "author": "Benson, E. F. (Edward Frederic), 1867-1940",
     "gutenbergReference": "60168",
-    "matchType": 1,
     "hash": "caa7ef7b37ced61eb3fa3ca81df9d5573bbc1dfdf4223d45ff48b020bac44845"
   },
   {
@@ -40,7 +37,6 @@
     "title": "A True Account of the Battle of Jutland, May 31, 1916",
     "author": "Frothingham, Thomas Goddard, 1865-1945",
     "gutenbergReference": "47949",
-    "matchType": 2,
     "hash": "da49b3fbfdbbe1af9c997699e1040968908930bf6ccd9645f4122d80d6ac01b7"
   },
   {
@@ -51,7 +47,6 @@
     "title": "A True Account of the Battle of Jutland, May 31, 1916",
     "author": "Frothingham, Thomas Goddard, 1865-1945",
     "gutenbergReference": "47949",
-    "matchType": 2,
     "hash": "bd1d4361391cd4b8eec89b13b70506b5d6cd83eb4266a7beefb3852e9fac4d34"
   }
 ]

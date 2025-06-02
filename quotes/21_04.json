@@ -7,7 +7,6 @@
     "title": "Wonderful Balloon Ascents; Or, The Conquest of the Skies\r\nA History of Balloons and Balloon Voyages",
     "author": "Marion, Fulgence",
     "gutenbergReference": "899",
-    "matchType": 1,
     "hash": "29e35ce778766c2ffdb9ce65a37a7ef9ecd8e9293fd56f3b602a665c77ead2b9"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Mrs. Fitz",
     "author": "Snaith, J. C. (John Collis), 1876-1936",
     "gutenbergReference": "34398",
-    "matchType": 1,
     "hash": "fff4713fb48175af7ceeb6d92c7998b86345cb4ed2fc575f0ad2f99107a32517"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "ce4a4d4efaacec2610b95a90b407974b3270588d45db33a97ee5386a75791d1d"
   }
 ]

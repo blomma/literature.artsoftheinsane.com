@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55331",
-    "matchType": 2,
     "hash": "6ca2526a5920c3e504230aee009c252701709b24199084129a2bb6da1087ef16"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Huey Long Murder Case",
     "author": "Deutsch, Hermann B. (Hermann Bacher), 1889-1970",
     "gutenbergReference": "62864",
-    "matchType": 2,
     "hash": "cdd0f1907ef766ee3912e57e16c66ff0356cfbb22c24cd123e1054784557416c"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Auld Licht Idylls",
     "author": "Barrie, J. M. (James Matthew), 1860-1937",
     "gutenbergReference": "20918",
-    "matchType": 1,
     "hash": "ac0f00e8cb10a209cd74fa90c8a07798b92578fc70e86ff1789a0e53794f9bb9"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Belgians Under the German Eagle",
     "author": "Massart, Jean, 1865-1925; Miall, Bernard, 1876-1953 [Translator]",
     "gutenbergReference": "51716",
-    "matchType": 2,
     "hash": "1301e4d433ed761e3b0750f3bbc4353fed588c47ba0dc0c8b898e39040c4cc94"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Auld Licht Idyls",
     "author": "Barrie, J. M. (James Matthew), 1860-1937",
     "gutenbergReference": "8590",
-    "matchType": 1,
     "hash": "6383375b2140cef535fc9fed8331df12ce7c029e6ffa0071ae09ee7b51ea6b49"
   }
 ]

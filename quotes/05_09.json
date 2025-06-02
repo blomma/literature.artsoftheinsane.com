@@ -7,7 +7,6 @@
     "title": "Sam in the Suburbs",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "67368",
-    "matchType": 1,
     "hash": "5ef4b3da4e651c8b0dc7e63385649053ea399b52a681a631e8e9d3ef9f48572d"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55134",
-    "matchType": 2,
     "hash": "fc52a043f0c37656d9016eaaf706f8e8228ff730cc57ff62683e8c9b13f83064"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Cornish Coast (South), and the Isles of Scilly",
     "author": "Harper, Charles G. (Charles George), 1863-1943",
     "gutenbergReference": "47763",
-    "matchType": 1,
     "hash": "c64cedcd6da3bfaf7da0e0a4fde3d335cf4f0a6e2b0ba8e74a98c8ef29f4dfd7"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "388b60d16f9e2854b5dd24c103e6b34be479cc3c94262c458b9e0cf2423d4b64"
   }
 ]

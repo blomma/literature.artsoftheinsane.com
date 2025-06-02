@@ -7,7 +7,6 @@
     "title": "The Unknown Guest",
     "author": "Maeterlinck, Maurice, 1862-1949; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
     "gutenbergReference": "2033",
-    "matchType": 2,
     "hash": "212cd05371a75878be4f3d2f16ba2e62118a7b18da60293f1f4b010f49e4be88"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "6133c58bfab08f76f94af64cdae2e0631eeaf7b9716094b0f9d566461d01f9ba"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "316bde8a69f6c5436d2764ae1c1b4cc02a6fa8984f446bb220cb6217ff5aa13f"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Dominion in 1983",
     "author": "Centennius, Ralph",
     "gutenbergReference": "4290",
-    "matchType": 0,
     "hash": "2eb174d7d1c956585d5dc17cb25dd768e52e4fadb86b6538984ef488e485f277"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Gleanings from Maeterlinck",
     "author": "Maeterlinck, Maurice, 1862-1949; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
     "gutenbergReference": "67625",
-    "matchType": 2,
     "hash": "6715101e00ad34c81b8395e29f11328d941131a41d2ffa316a0bf5bef9ceedde"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55218",
-    "matchType": 2,
     "hash": "c4802316ebedfb5406e9cc9fc0761f48cbfb44830b0496a906b6bdae135315eb"
   },
   {
@@ -18,7 +17,6 @@
     "title": "An Unsinkable Titanic: Every Ship its own Lifeboat",
     "author": "Walker, John Bernard, 1858-",
     "gutenbergReference": "46219",
-    "matchType": 2,
     "hash": "9475bc07bdef54580e72ff866266e96c6c0f90af7ae8168b3fb1ee1ac7351eae"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Man Upstairs and Other Stories",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "6768",
-    "matchType": 1,
     "hash": "5637d47498efbd8855050e017fb2333499128e53f472960d865c23dbb92da408"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
     "author": "Miles, Henry Downes, 1806-1889",
     "gutenbergReference": "64111",
-    "matchType": 1,
     "hash": "cfd132d650ebf841eb62d275ddf883feefefcdc81cd35510e074ef3be23c8d17"
   }
 ]

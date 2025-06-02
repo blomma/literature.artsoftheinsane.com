@@ -7,7 +7,6 @@
     "title": "Syndrome",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34321",
-    "matchType": 2,
     "hash": "0fd3ca849746c8694fa17c58823b2c82e7ce53463eadfe8a73a17eee5586f4db"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Little Folks (December 1884)\nA Magazine for the Young",
     "author": "Various",
     "gutenbergReference": "28007",
-    "matchType": 0,
     "hash": "d6218af0348e312b9c51bbdadf566ad33fb95478d814dc33ae3866bab5e78ee6"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Olga Romanoff",
     "author": "Griffith, George Chetwynd, 1857-1906; Jane, Fred T. (Frederick Thomas), 1865-1916 [Illustrator]",
     "gutenbergReference": "54096",
-    "matchType": 1,
     "hash": "345b284d68c1f7f59ba29b0a13d0ded0e4d6e8839d32fd2ca97b6e9bd168f214"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Little Jack Rabbit and Uncle John Hare",
     "author": "Cory, David, 1872-1966; Barbour, Harold S., 1889-1961 [Illustrator]",
     "gutenbergReference": "36052",
-    "matchType": 1,
     "hash": "01af93c5b3972773e3da88848df3888aa0231f87bcce1eeaae0d17d34b807a45"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "1e32036955adb1e37bd64c655ebe12723d6117b78a05c86965ef7eb99709c016"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Travels to Discover the Source of the Nile, Volume 4 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
     "author": "Bruce, James, 1730-1794",
     "gutenbergReference": "56502",
-    "matchType": 1,
     "hash": "cec5f0e789f968676c7e0e7653dd1693215a030388e8d565c721f11467d18ae1"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Astronomy for Young Australians",
     "author": "Bonwick, James, 1817-1906",
     "gutenbergReference": "57091",
-    "matchType": 1,
     "hash": "d95ad737f26a85fa9717e26af59871e159d2f3e940e696520f6d086417458516"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Norfolk Annals, Vol. 1\r\nA Chronological Record of Remarkable Events in the Nineteeth Century",
     "author": "Mackie, Charles, 1858?-1940",
     "gutenbergReference": "34439",
-    "matchType": 2,
     "hash": "804f9e3e5de09fc34138feeb8b4cae9d00e412026fe36ab04e9d67fd9b6f585d"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
     "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
     "gutenbergReference": "66152",
-    "matchType": 0,
     "hash": "542a8c78c6bba1b8e428b4d0bfbb15e6b1837d6bbb8511b20f1ed137363c96b8"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Driftwood Spars\r\nThe Stories of a Man, a Boy, a Woman, and Certain Other People Who Strangely Met Upon the Sea of Life",
     "author": "Wren, Percival Christopher, 1885-1941",
     "gutenbergReference": "11691",
-    "matchType": 1,
     "hash": "c92b54a819d81f288ea9b4775ee9bedc669f3548e12e4188a4866c677eb255e1"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Tales of St. Austin's",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "6980",
-    "matchType": 1,
     "hash": "31781856d99b91e71bd5791430e18a85b95803914958dd94d9e9ff30282598a7"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Young Dragoon: Every Day Life of a Soldier",
     "author": "Drayson, Alfred W. (Alfred Wilks), 1827-1901; Huttula, R. (Richard), 1838?- [Illustrator]",
     "gutenbergReference": "37255",
-    "matchType": 0,
     "hash": "de45909bb549153c533274d522fb1906dc179386b4c10935e11ff9ddc6c60f84"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Every-day Book and Table Book. v. 3 (of 3)\r\nEverlasting Calerdar of Popular Amusements, Sports, Pastimes, Ceremonies, Manners, Customs and Events, Incident to Each of the Three Hundred and Sixty-five Days, in past and Present Times; Forming a Complete History of the Year, Month, and Seasons, and a Perpetual Key to the Almanac",
     "author": "Hone, William, 1780-1842",
     "gutenbergReference": "53277",
-    "matchType": 1,
     "hash": "8b6e832a1cefec83220237a7ade6dfad65a9601aa9a927a7daf40f7df3998482"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Report on the Migration of Birds in the Spring and Autumn of 1886. Eighth Report\r\n(Vol. II, No. 3.)",
     "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
     "gutenbergReference": "66032",
-    "matchType": 0,
     "hash": "71bca416ae17b41b7fa6a9c9191088883b62d19136fd651f3a0e4fd698b4f145"
   },
   {
@@ -95,7 +87,6 @@
     "title": "In the Land of Mosques & Minarets",
     "author": "Mansfield, M. F. (Milburg Francisco), 1871-; McManus, Blanche, 1869-1935 [Illustrator]",
     "gutenbergReference": "46705",
-    "matchType": 0,
     "hash": "fe9abfe278c86fe26ae8b9f830b25e4a889c9ea72c25f85e0c57a36f8e9a79e3"
   }
 ]

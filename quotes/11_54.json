@@ -7,7 +7,6 @@
     "title": "Allworth Abbey",
     "author": "Southworth, Emma Dorothy Eliza Nevitte, 1819-1899",
     "gutenbergReference": "69675",
-    "matchType": 0,
     "hash": "7aee3ba56a1a8cc0a7531494cacaf1381ed13edf44f39ec869f590ae910d12ef"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
     "author": "Levy, Donald M.",
     "gutenbergReference": "59328",
-    "matchType": 2,
     "hash": "019f666e51c004d2bae94a7cdcedd88f76426bcbd20c1057f2386a6c0c5b4342"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
     "author": "Levy, Donald M.",
     "gutenbergReference": "59328",
-    "matchType": 2,
     "hash": "ed8ccee9b8bd3630f875878f594ab3ff9890149ace4ae1cc441dd6290f84930d"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "75138",
-    "matchType": 1,
     "hash": "0cb55e9bef414121995dcad6ea6eb9fe626837122828ffe55e8424121d49769b"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Peaks of Shala",
     "author": "Lane, Rose Wilder, 1886-1968",
     "gutenbergReference": "67568",
-    "matchType": 1,
     "hash": "a0e440eb81c1c6a0954d16a43a9507c1301b67279b7b2e986a7d6c6a113cde90"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55134",
-    "matchType": 2,
     "hash": "ee5a5d48b6da84c90e02c578343a34da073459b586af8cba2e5fada5d7855b85"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
     "author": "Miles, Henry Downes, 1806-1889",
     "gutenbergReference": "64111",
-    "matchType": 1,
     "hash": "533b49dbdc73aa5d51b620290ae8a2a4d2c3470dfd585be24ea8c23738ae5565"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Fun Library, vol. 8: Stage, Study & Studio",
     "author": "Hammerton, J. A. (John Alexander), 1871-1949 [Editor]; Barnard, Frederick, 1846-1896 [Illustrator]; Bateman, H. M. (Henry Mayo), 1887-1970 [Illustrator]; Baynes, Philip [Illustrator]; Booth, J. L. C., 1876-1915 [Illustrator]; Brunton, W. S. [Illustrator]; Du Maurier, George, 1834-1896 [Illustrator]; Griset, Ernest Henry, 1844-1907 [Illustrator]; Haselden, William, 1872-1953 [Illustrator]; Keene, Charles, 1823-1891 [Illustrator]; Leech, John, 1817-1864 [Illustrator]; Maybank, Thomas, 1869-1929 [Illustrator]; May, Phil, 1864-1903 [Illustrator]; Pears, Charles, 1873-1958 [Illustrator]; Thomson, J. Gordon [Illustrator]",
     "gutenbergReference": "52614",
-    "matchType": 0,
     "hash": "5514260ef392e5c000e7752e31ef7d045be3f7189fc38a948cb1bfcc9440d7d9"
   }
 ]

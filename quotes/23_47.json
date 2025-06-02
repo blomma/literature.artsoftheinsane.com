@@ -7,7 +7,6 @@
     "title": "Sense of Obligation",
     "author": "Harrison, Harry, 1925-2012",
     "gutenbergReference": "35204",
-    "matchType": 0,
     "hash": "61bb8d9c52c0bb70b800cdbb0954b7080e23b2da4c8f63eb90226331d0101bbb"
   },
   {
@@ -18,7 +17,6 @@
     "title": "An Englishman in Paris: Notes and Recollections",
     "author": "Vandam, Albert D. (Albert Dresden), 1843-1903",
     "gutenbergReference": "32343",
-    "matchType": 1,
     "hash": "f34f8d252d3a0f8df8b7d11251c00fc44f976b4d385412ecbdf36f7a79986597"
   },
   {
@@ -29,7 +27,6 @@
     "title": "My Escape from Germany",
     "author": "Keith, Eric A.",
     "gutenbergReference": "49509",
-    "matchType": 2,
     "hash": "3f66a0fe7d0292dc520ab8a55ff2f0b8702ec2448ce5e4dbe26d0b77438de2ab"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Planet of the Damned",
     "author": "Harrison, Harry, 1925-2012",
     "gutenbergReference": "21873",
-    "matchType": 0,
     "hash": "903f1749f76c0a142faf3986ad7f0c3fd899a590bb88af66c9b0a2250063cbc8"
   },
   {
@@ -49,10 +45,9 @@
     "quoteTime": "thirteen minutes to twelve",
     "quoteLast": ".”",
     "title": "In the night",
-    "author": "Barnes, R. Gorell",
+    "author": "Gorell, Ronald Gorell Barnes, Baron, 1884-1963",
     "gutenbergReference": "75628",
-    "matchType": 1,
-    "hash": "16a5890bf0e0da32fe5799dc27a562f8255177eb56f0632e121f651c17d3eea7"
+    "hash": "6479b5bfab6ae5ad13a37f9be4bec851d5f697c3325058aba64110d9818418c5"
   },
   {
     "time": "23:47",
@@ -62,7 +57,6 @@
     "title": "Rasputin the Rascal Monk\r\nDisclosing the Secret Scandal of the Betrayal of Russia by the Mock-Monk Grichka and the Consequent Ruin of the Romanoffs. With official documents revealed and recorded for the first time.",
     "author": "Le Queux, William, 1864-1927",
     "gutenbergReference": "41452",
-    "matchType": 2,
     "hash": "e38028d2289f44af232dbbf4501de2a3b254536e5280557960cd6179a35ba88a"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "b25b208f8ede3767090a4b1492c437bed3413cafe01d5ce49c35ea12e663ed02"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Loss of the Steamship \"Titanic\"",
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
-    "matchType": 2,
     "hash": "dc97f59ad2f1440b698767b79c70db9a83528a7a568fe8cf9f6db963629a1a7f"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Chautauquan, Vol. 04, March 1884, No. 6",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55133",
-    "matchType": 2,
     "hash": "ce0d7c5002a40088ce7831c8d7330a94a9953dc0cbbd198d64e112a35616694e"
   }
 ]

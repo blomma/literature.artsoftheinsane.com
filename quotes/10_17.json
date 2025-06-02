@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, July 1885, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55444",
-    "matchType": 2,
     "hash": "d65df52dea62373d737e4e2fa85e252cf21b3e6e19f9ce851b867bcb087b90a6"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Michael Strogoff; Or, The Courier of the Czar",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "1842",
-    "matchType": 1,
     "hash": "5f140e65e75367a00a7b34e20c0c023c8df20c8af779687092f87e1b9639c4fc"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Ancient Britain and the Invasions of Julius Caesar",
     "author": "Holmes, T. Rice (Thomas Rice), 1855-1933",
     "gutenbergReference": "57336",
-    "matchType": 2,
     "hash": "4856b6468fa0d1f4f7b5fc95bc56ad4d21c93eb36b9f29b427d1a3d69ab92e5a"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The War History of the 4th Battalion, the London Regiment (Royal Fusiliers), 1914-1919",
     "author": "Grimwade, F. Clive",
     "gutenbergReference": "50098",
-    "matchType": 2,
     "hash": "f4c23c6980353fd92b60b5d4be9b921c5af851e7d18ebbb9dfdfa7b9705d0ebb"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "777b3231a233e45309abe6a52b10059458ce07d97640c54730daa7aa6b85b614"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Don't Panic!",
     "author": "Krepps, Robert W., 1919-1980; Terry, W. E., 1921-1992 [Illustrator]",
     "gutenbergReference": "66463",
-    "matchType": 2,
     "hash": "6942361054d1892d02d0aa9de180bfb9536f6ac43de6682ba89b6fb7ff781ae8"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Report on Unidentified Flying Objects",
     "author": "Ruppelt, Edward J., 1922-1960",
     "gutenbergReference": "17346",
-    "matchType": 2,
     "hash": "f7ec315ba963d3c7431f76237ff867973c06a2b850c4c40500f8c334913c3a86"
   }
 ]

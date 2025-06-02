@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "2e2f6ca020435a99525225cd44e6fb1409dd6b90f168ada2d6812d2910ed0ba0"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, July 1885, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55444",
-    "matchType": 2,
     "hash": "d07646cf762cda4ade9a4f62b3eeece531a1c725228d29dc69a751dc3f07924c"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Mariner Mission to Venus",
     "author": "Jet Propulsion Laboratory (U.S.)",
     "gutenbergReference": "54585",
-    "matchType": 2,
     "hash": "e9e164661c0e0268c23717bfa581d2f2bd2aaa6b919a7aa5b5f8b9b3b12fdade"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Oswald Cray: A Novel",
     "author": "Wood, Henry, Mrs., 1814-1887",
     "gutenbergReference": "58188",
-    "matchType": 1,
     "hash": "e6777e3c85c5331597b40cd0494a82224f22d60ed49c5458a0246efc38282fa5"
   }
 ]

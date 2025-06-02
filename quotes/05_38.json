@@ -7,7 +7,6 @@
     "title": "From Midshipman to Field Marshal",
     "author": "Wood, Evelyn, 1838-1919",
     "gutenbergReference": "61812",
-    "matchType": 2,
     "hash": "b686176b7aedb52910fd000872fcdeb083be5aacdf9a0f0a77c47498f3f97c3a"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "1d91973f586286f8e121b999600e8fbbde9e0e10cd104c1b5d9f7c402e7335f1"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Touring in 1600: A Study in the Development of Travel as a Means of Education",
     "author": "Bates, E. S. (Ernest Stuart), 1876-1944",
     "gutenbergReference": "48594",
-    "matchType": 2,
     "hash": "111e100e4150be88567cd16e5e1f5383e8e8b2b14aeb198711081a5dc50dea25"
   }
 ]

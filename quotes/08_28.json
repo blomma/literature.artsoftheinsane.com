@@ -7,7 +7,6 @@
     "title": "When Sarah Went to School",
     "author": "Singmaster, Elsie, 1879-1958",
     "gutenbergReference": "47614",
-    "matchType": 1,
     "hash": "375b426016d4cd6f934c76e4da2870d64582b746ba933cb40ee579f8e2fb6c72"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Story of Louis Riel: The Rebel Chief",
     "author": "Collins, J. E. (Joseph Edmund), 1855-1892",
     "gutenbergReference": "10399",
-    "matchType": 1,
     "hash": "86d17f815c1c76bd7bb4288a09c3946404718db4a96169a350a536e3141885da"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "1db81f83fd1241edd385c3abf73e0ab5a08a8b81655df11137fbd7dad67572e0"
   },
   {
@@ -40,7 +37,6 @@
     "title": "With the Battle Fleet\r\nCruise of the Sixteen Battleships of the United States Atlantic Fleet from Hampton Roads to the Golden Gate, December, 1907-May, 1908",
     "author": "Matthews, Franklin, 1858-1917; Reuterdahl, Henry, 1871-1925 [Illustrator]",
     "gutenbergReference": "41244",
-    "matchType": 2,
     "hash": "4cfaa57827abe9dd543d0c1ef3c80e8ebc188227c3c946781824b7787ec9fafb"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "matchType": 2,
     "hash": "5f65b6ffcf4985e4b5373dc6624308d2c83bc6496a8f5159f18973a2a5095791"
   }
 ]

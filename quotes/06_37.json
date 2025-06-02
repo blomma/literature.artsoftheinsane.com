@@ -7,7 +7,6 @@
     "title": "A Study of Recent Earthquakes",
     "author": "Davison, Charles, 1858-1940",
     "gutenbergReference": "25062",
-    "matchType": 2,
     "hash": "ed1494b9f863516a6bde937daf0766bf573b2f8e40a79fbe02a6099cf8c17257"
   },
   {
@@ -18,7 +17,6 @@
     "title": "History of the U.S.S. Leviathan, cruiser and transport forces, United States Atlantic fleet\r\nCompiled from the ship's log and data gathered by the history committee on board the ship",
     "author": "U.S.S. Leviathan History Committee",
     "gutenbergReference": "59699",
-    "matchType": 2,
     "hash": "6751927133bce73ff85d270a98197ea941f186f241ee8c5d10114f40a33b9fcd"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "1a24b808d64127444a1949a8f3a1b1a219c93d4b4eb0b2e77787b47b577cfb9d"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Oswald Cray: A Novel",
     "author": "Wood, Henry, Mrs., 1814-1887",
     "gutenbergReference": "58188",
-    "matchType": 1,
     "hash": "2127c26fd8c368bae370baccb28b6b3d069112a3eaf1e4936619cf4cb3519e05"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "5c31abd130c6c083ee44406b629d491760f63bee556aac71d5f4dabe73670d8d"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The World Crisis, Volume 1 (of 6)",
     "author": "Churchill, Winston, 1874-1965",
     "gutenbergReference": "59794",
-    "matchType": 2,
     "hash": "cf064633eee262a0465df4af65fbc8c2c6446f4cbb950a569696f797ec86a4f0"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Mysterious Stranger: A Romance",
     "author": "Twain, Mark, 1835-1910; Wyeth, N. C. (Newell Convers), 1882-1945 [Illustrator]",
     "gutenbergReference": "50109",
-    "matchType": 1,
     "hash": "ac2fcf03be9d546b9504c73115570e1e8f9b488e236a07e7451bb593dd563223"
   },
   {
@@ -18,7 +17,6 @@
     "title": "From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes: and a Trip Round It",
     "author": "Verne, Jules, 1828-1905; Hildibrand, Henri Théophile, 1824-1897 [Engraver]; Bayard, Émile Antoine, 1837-1891 [Illustrator]; Neuville, Alphonse Marie de, 1835-1885 [Illustrator]",
     "gutenbergReference": "44278",
-    "matchType": 1,
     "hash": "846eb3d8b89974cdb9b99cb48cddf22e941e4a2e9e31313f51d59c0f105ee8cc"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Arrowsmith",
     "author": "Lewis, Sinclair, 1885-1951",
     "gutenbergReference": "70875",
-    "matchType": 1,
     "hash": "2587e0776dfecbf8c89bc8eeec887edb54c7899d16c6a433792cb9a6ee5a14d5"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Missing Link in Modern Spiritualism",
     "author": "Underhill, A. Leah (Ann Leah), 1814-1890",
     "gutenbergReference": "40485",
-    "matchType": 1,
     "hash": "a330b17e71609385049e26e938f93140d29ddf7cbfecd1da5b915d08bc4a3856"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Sans-Cravate; or, The Messengers; Little Streams",
     "author": "Kock, Paul de, 1793-1871",
     "gutenbergReference": "38001",
-    "matchType": 1,
     "hash": "61ade4cc9ea45f50de7b7fb483b4490fc260b70b4c239f4094e12f4376409e5f"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Sans-Cravate; or, The Messengers; Little Streams",
     "author": "Kock, Paul de, 1793-1871",
     "gutenbergReference": "38001",
-    "matchType": 1,
     "hash": "68750f2dfc3abd7bf828e7ec17c0932fb891c4880a8dcbfa1fb5881d0bfa107e"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Chautauquan, Vol. 04, February 1884, No. 5.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55132",
-    "matchType": 2,
     "hash": "ed86853cffd2dc128cbf2181fef7d891bbcef67cb90b7a61df8d42b2345bd7b2"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Entire Project Gutenberg Works of Mark Twain",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3200",
-    "matchType": 1,
     "hash": "7adad8063ea70d9046a9e08bf9d0a7570b49239ffae551a646694113a3865148"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "28c6e0f3c02349ec5e6c0b99eba032ca720d8ac778ac9d331689404385c616b3"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Boy Scouts' First Camp Fire; or, Scouting with the Silver Fox Patrol",
     "author": "Carter, Herbert, active 1909-1917",
     "gutenbergReference": "20434",
-    "matchType": 1,
     "hash": "b1467779b8f16086bb3df09f61ede06b2300c94dac8bfd9992d74e81ce1ea45f"
   },
   {
@@ -117,7 +107,6 @@
     "title": "The Mysterious Stranger, and Other Stories",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3186",
-    "matchType": 1,
     "hash": "011b45cf55c4ec972b5984ad298b6f685dd8efc0c0ae98dc76c658c18008c938"
   }
 ]

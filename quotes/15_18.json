@@ -7,7 +7,6 @@
     "title": "Syndrome",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34321",
-    "matchType": 2,
     "hash": "1f7846abeeb52c0305b8bee8702f931b5b0cd604cd377de37c2ca46e918af2d8"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Murder in the maze",
     "author": "Connington, J. J., 1880-1947",
     "gutenbergReference": "71351",
-    "matchType": 1,
     "hash": "2670d153b9dda0c8606c4588ac4c69322be79a79dd9b7637542e9d6185533a25"
   },
   {
@@ -29,7 +27,6 @@
     "title": "History of merchant shipping and ancient commerce, Volume 4 (of 4)",
     "author": "Lindsay, W. S. (William Schaw), 1816-1877",
     "gutenbergReference": "74393",
-    "matchType": 2,
     "hash": "61ef6e6dee76afe23da7c689248a236c20de63e109d53764c91622869ce96f57"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The informer",
     "author": "O'Flaherty, Liam, 1896-1984",
     "gutenbergReference": "75583",
-    "matchType": 1,
     "hash": "669ac2340f284e38c50ec39c6a26996cefbe8f8dc01c4afe6657a5b904592243"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "ba9f69cf27285bcb2e187d20e756e0a2cfa55471a7eab0a5aa109b259a0d87f1"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Story Teller of the Desert—\"Backsheesh!\"\nor, Life and Adventures in the Orient",
     "author": "Knox, Thomas Wallace, 1835-1896",
     "gutenbergReference": "50700",
-    "matchType": 2,
     "hash": "96619f9ec94e5b6994defc536da18b73da2bd7b0e50a4143c16b9ec8ba22d021"
   }
 ]

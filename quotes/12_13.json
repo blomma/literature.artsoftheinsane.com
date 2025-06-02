@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "79e65de7a3c7dd849e16822de9ee756d56f57b580505da302a061bd144773237"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Six Girls and Bob: A Story of Patty-Pans and Green Fields",
     "author": "Taggart, Marion Ames, 1866-1945; Stecher, William F. (William Frederick), 1864-1940 [Illustrator]",
     "gutenbergReference": "47655",
-    "matchType": 1,
     "hash": "3ac2e9f792964dd0357dedb1716bcb1883cfda6190488b4a88c2b613f48ee753"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Vignettes of Manhattan; Outlines in Local Color",
     "author": "Matthews, Brander, 1852-1929; Brownell, W. C. (William Crary), 1851-1928 [Author of introduction, etc.]; Smedley, W. T. (William Thomas), 1858-1920 [Illustrator]",
     "gutenbergReference": "38918",
-    "matchType": 1,
     "hash": "c8d49692bbec89fe58f74474c0257d857c037e50134e6b6b92910123af4d3d19"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "c32b1708a0713ff666495da9262922190d6e3d9833abdcc4bdf6c2bb15a018b2"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "e9cab89d008616b3719bb8b27c3355dcfbf043ff209ff9a52898468ff96f13de"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "matchType": 2,
     "hash": "c49caf04d44e81ebd7cabc1327a9e7cc6beb10cc10c13795ca8ecc879d4cf24f"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
     "author": "Miles, Henry Downes, 1806-1889",
     "gutenbergReference": "64111",
-    "matchType": 1,
     "hash": "e3c2c24b4de0d7dac09560ed0483c1eb7764cd034b81aece8768883b04b90ce4"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Bristol Royal Mail: Post, Telegraph, and Telephone",
     "author": "Tombs, Robert Charles, 1842-1923",
     "gutenbergReference": "34197",
-    "matchType": 2,
     "hash": "993df22be97abbb8601b503a838dcf08b2af0ec0a809696a1f845e0fb6b4e321"
   }
 ]

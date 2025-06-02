@@ -7,7 +7,6 @@
     "title": "Sturdy and Strong; Or, How George Andrews Made His Way",
     "author": "Henty, G. A. (George Alfred), 1832-1902",
     "gutenbergReference": "33939",
-    "matchType": 1,
     "hash": "07259592d38f13910fd182062eff2a66e5fbe9a79078c19657dc1a434229807d"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "75138",
-    "matchType": 1,
     "hash": "cd2f652691ed55af4dc4d537a95fa7817223f802d7456000873b57ddedf7f8ca"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Stories by American Authors, Volume 3",
     "author": "Various",
     "gutenbergReference": "31095",
-    "matchType": 1,
     "hash": "b6b0b9d55a0780a295d3e39513533549c994a5fd1c8f6c8430b9253155e17d14"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Captain Cook's Journal During His First Voyage Round the World\r\nMade in H. M. Bark \"Endeavour\", 1768-71",
     "author": "Cook, James, 1728-1779; Wharton, W. J. L. (William James Lloyd), 1843-1905 [Editor]",
     "gutenbergReference": "8106",
-    "matchType": 1,
     "hash": "53ce2948017e3b146c668d54e8effc570fdba700e15acf838f60008f4fe16405"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Pugilistica: The History of British Boxing, Volume 2 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-1740, to the Last Championship Battle Between King and Heenan, in December 1863",
     "author": "Miles, Henry Downes, 1806-1889",
     "gutenbergReference": "61649",
-    "matchType": 1,
     "hash": "8613372fd0ae0efd9957e93cb026e61d85538c1e3fe9fcfeca1350f95cc597b3"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
     "author": "Miles, Henry Downes, 1806-1889",
     "gutenbergReference": "64111",
-    "matchType": 1,
     "hash": "a212ddff9398b90919bcc2f29b84a1c366aad296266070963c85e504449d7c0c"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Story of the Atlantic Telegraph",
     "author": "Field, Henry M. (Henry Martyn), 1822-1907",
     "gutenbergReference": "34765",
-    "matchType": 0,
     "hash": "a27c201c74d8d50da9e6b6a53f4a70c8f715065135c2fab271e7c74ab50f5519"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Loss of the Steamship \"Titanic\"",
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
-    "matchType": 2,
     "hash": "2007eeaefab6ff3ed5884ded054ec87d4940476412054e31257f46f736389696"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Chautauquan, Vol. 05, November 1884, No. 2",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55241",
-    "matchType": 2,
     "hash": "5517770e2bd177f5fe0bae9d5ebb04c86eb4d2e991234c591f872462161ad0ac"
   }
 ]

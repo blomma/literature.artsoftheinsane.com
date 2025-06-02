@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55331",
-    "matchType": 2,
     "hash": "a447de41c98344018c7fd791d55666d62f9e5ea2ec06e46f59ce48a8a6ae5b8d"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Warren Commission (12 of 26): Hearings Vol. XII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44012",
-    "matchType": 1,
     "hash": "5bb20c1ef087b1014d105ae1a39a40de54652ec05f768d27d27315dcc4452a6b"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Monomaniac (La bête humaine)",
     "author": "Zola, Émile, 1840-1902; Vizetelly, Edward [Translator]",
     "gutenbergReference": "57038",
-    "matchType": 1,
     "hash": "4b76962265ada118df27791bf4e9ca2b0169cbd5c59c24526c289c804caf34d2"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Underground: Hacking, madness and obsession on the electronic frontier",
     "author": "Dreyfus, Suelette; Assange, Julian, 1971- [Researcher]",
     "gutenbergReference": "4686",
-    "matchType": 2,
     "hash": "14f044cc5c34fbf931a05ebdddd74825539b497fb93e9427d0b9706a3dd1cf93"
   }
 ]

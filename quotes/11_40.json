@@ -1,69 +1,83 @@
 [
   {
     "time": "11:40",
+    "quoteFirst": "We lost in general officers one killed and three or four wounded, all brigadiers, while, according to the rebel accounts which we have, they lost six killed and eight wounded: of the killed one major-general and five brigadiers including your brother-in-law, Helm; and of the wounded three major-generals and five brigadiers. This list may be reduced two in number by corrections of confusion in names. At ",
+    "quoteTime": "11.40 A.M.",
+    "quoteLast": " yesterday General Rosecrans telegraphed from Chattanooga: \"We hold this point, and I cannot be dislodged except by very superior numbers and after a great battle.\" A despatch leaving there after night yesterday says, \"No fight to-day.",
+    "title": "The Papers and Writings of Abraham Lincoln — Volume 6: 1862-1863",
+    "author": "Lincoln, Abraham, 1809-1865; Lapsley, Arthur Brooks [Editor]",
+    "gutenbergReference": "2658",
+    "hash": "5e3eaf14af17f6e7d2a2349b8f9e8921cfc005f5c231b7f2e73dd68a67e76392"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "\"It is ",
+    "quoteTime": "twenty minutes to twelve",
+    "quoteLast": ".\"",
+    "title": "Miscellanea",
+    "author": "Ewing, Juliana Horatia, 1841-1885",
+    "gutenbergReference": "16347",
+    "hash": "cd5c607ce9afde9b7ef5a0f1ea23d692894836746deb80841d51f9883c20d757"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "' This child was 'still-born,' and after considerable effort by artificial respiration it breathed and came around 'all right.' The third girl was born at ",
+    "quoteTime": "11.40 A.M.",
+    "quoteLast": "  This was the smallest one of the four. In attempting to take away the placenta, to my astonishment I found the feet of another child. At 1 P.M. this one was born; the head of this child got firmly impacted at the lower strait, and it was with a great deal of difficulty and much patient effort that it was finally disengaged; it was blocked by a mass of placenta and cords.",
+    "title": "Anomalies and Curiosities of Medicine",
+    "author": "Gould, George M. (George Milbrey), 1848-1922; Pyle, Walter L. (Walter Lytle), 1871-1921",
+    "gutenbergReference": "747",
+    "hash": "06fb2c6a73f1f3b857951351957c6f956ab04902b5285a4d114dcf2afeac9c3a"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "As soon as the wounded had been attended to, the force advanced to the banks of the stream near Ulundi, whilst the cavalry swept the country beyond. Ulundi was fired at ",
+    "quoteTime": "11.40 A.M.",
+    "quoteLast": ", and the adjacent kraals shortly afterwards. At 2 P.M., the return march to the camp commenced. Every military kraal in the valley that had not previously been destroyed was in flames; and not a sign of the Zulu army was to be perceived.",
+    "title": "History of the Zulu war and its origin",
+    "author": "Colenso, Frances E. (Frances Ellen), 1849-1887; Durnford, Edward [Contributor]",
+    "gutenbergReference": "75320",
+    "hash": "e13dc221a092b0d00f55b7480b79f34c32a79ab434db419ea768dcd4e4932642"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "'I bet you a fiver you won't,' says Carville. 'Done,' said the other. It was about ",
+    "quoteTime": "twenty minutes to twelve",
+    "quoteLast": " then, and in the buzz of conversation and a couple of games of cards Carville forgot his bet for a moment. Suddenly he saw that the fellow was gone.",
+    "title": "Aliens",
+    "author": "McFee, William, 1881-1966",
+    "gutenbergReference": "31241",
+    "hash": "92d404042357a1f42efb310d17cccec78b31a284c7d34a2cff2f59ba246291f0"
+  },
+  {
+    "time": "11:40",
     "quoteFirst": "Five months later (October 24th) they lost it again after a heavy bombardment and attack, during which a French 16-inch shell pierced the superstructure of the fort and started a fire. A dense fog overhung the fort when, at ",
     "quoteTime": "11.40 a.m.",
     "quoteLast": ", the signal for the attack, directed by General Mangin, was given. When, at about 2.30 p.m. the fog lifted, French observers perceived the Moroccan Colonials of the Nicolaï battalion scaling the ruins of the fort. On arriving there, the latter found units of the 321st line regiment which, operating _in liaison_ on their right, had preceded them and already hoisted the French flag on the ruins of the fort. Two sappers of the 19-2 Co.",
     "title": "The Battle of Verdun (1914-1918)",
     "author": "Pneu Michelin (Firm) [Publisher]",
     "gutenbergReference": "53408",
-    "matchType": 2,
     "hash": "6d7ba06d3b188f7a60f8e308aef9e21d257ce12f2e2bc903b8bfdda33b1e37a8"
   },
   {
     "time": "11:40",
-    "quoteFirst": "“Jonathan,” he said to the old servant, as soon as he lay in bed, “give me half a drop of laudanum on a piece of sugar, and don’t wake me to-morrow till ",
+    "quoteFirst": "Upon our side much delay occurred in getting up the artillery and the Nineteenth Corps, during which time we were exposed to an incessant fire from the enemy's guns.  The Nineteenth did not make a close connection on the right of the Sixth.  Not until ",
+    "quoteTime": "11.40 A.M.",
+    "quoteLast": "",
+    "title": "Slavery and four years of war",
+    "author": "Keifer, Joseph Warren, 1836-1932",
+    "gutenbergReference": "22100",
+    "hash": "8c93f35cdaca95d2d45f09cde45be1ba85e1b56d62fd80a3735e3efda83c755a"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "At ",
     "quoteTime": "twenty minutes to twelve",
-    "quoteLast": ".”",
-    "title": "The Magic Skin",
-    "author": "Balzac, Honoré de, 1799-1850; Marriage, Ellen, 1865-1946 [Translator]",
-    "gutenbergReference": "1307",
-    "matchType": 1,
-    "hash": "de2f36e7818965f91449189d7907f94a48d53f05ca504dd8fb373177fa877f8a"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "The third act takes place at ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": " on the same night.",
-    "title": "The Return of Peter Grimm",
-    "author": "Belasco, David, 1853-1931; Moses, Montrose Jonas, 1878-1934 [Editor]",
-    "gutenbergReference": "13319",
-    "matchType": 1,
-    "hash": "a0b0015dfaf3c23cb7705778fbd060b3506ea28f3398213ccd2e93f3cef8e2f0"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "15 Bombardment 10 to ",
-    "quoteTime": "11:40 A. M.",
-    "quoteLast": "; renewed 2 to 5:30 P. M.; again 8:30 P. M.",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "matchType": 2,
-    "hash": "8c62e04ff4a288983d4b598294d3c186e1c9d611e7a8c277bdfd1f6bcb3534b8"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "\"",
-    "quoteTime": "Twenty minutes to twelve",
-    "quoteLast": "! and we are now entering the creek,\" he whispered to me.",
-    "title": "The Congo Rovers: A Story of the Slave Squadron",
-    "author": "Collingwood, Harry, 1851-1922; Schönberg, John [Illustrator]",
-    "gutenbergReference": "21060",
-    "matchType": 1,
-    "hash": "32246c0953c7c27c0f5b8ad743a15cef7b99183fe84fea262ed1f21452d33558"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "“And, Markham, there are other reasons why we may eliminate strangers or casual prowlers. The person who sent Robin to his Maker must have been privy to the exact state of affairs in the Dillard house this morning between a quarter past eleven and ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": ". He knew that Pyne and the old professor were alone there. He knew that Belle Dillard was not roaming about the premises.",
-    "title": "The Bishop murder case",
-    "author": "Van Dine, S. S., 1888-1939",
-    "gutenbergReference": "75157",
-    "matchType": 1,
-    "hash": "3c51684905d4d2be32da94307b7bf5ecd7976d5da37fc213079ee6bd2575e52f"
+    "quoteLast": ", Madame Danglars, tired of waiting, returned home. Women of a certain grade are like prosperous grisettes in one respect, they seldom return home after twelve o’clock.",
+    "title": "The Count of Monte Cristo",
+    "author": "Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888",
+    "gutenbergReference": "1184",
+    "hash": "473be4d5a9efcd36a08185eae61da026f7115b0137792d1e5bd6250e0050c6fe"
   },
   {
     "time": "11:40",
@@ -73,150 +87,116 @@
     "title": "The Fundamental Principles of Old and New World Civilizations\r\nA Comparative Research Based on a Study of the Ancient Mexican Religious, Sociological, and Calendrical Systems",
     "author": "Nuttall, Zelia, 1858-1933",
     "gutenbergReference": "32066",
-    "matchType": 2,
     "hash": "e0d85ae507f863e9d1c530d1d737bd4c4862a82e01ea7f9697bd42f4595389be"
   },
   {
     "time": "11:40",
-    "quoteFirst": "The 7th Argyll and Sutherland Highlanders had moved off at ",
-    "quoteTime": "11.40 A.M.",
-    "quoteLast": " on the 9th, and after various vicissitudes and alterations of plans, due to rapidly changing circumstances, were finally disposed with the 7th Argyll and Sutherland Highlanders along the west bank of the Lawe from Pont Tournant inclusive to Boundary Bridge.",
-    "title": "The History of the 51st (Highland) Division 1914-1918",
-    "author": "Bewsher, F. W. (Frederick William), 1886-1950",
-    "gutenbergReference": "45934",
-    "matchType": 2,
-    "hash": "6bdb6cc6063738a9ff4280d3d61dbdde1478b2f503fe0b0247fff72b2f9d7f4b"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "The third act takes place at ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": " on the same night.",
-    "title": "The Return of Peter Grimm",
-    "author": "Belasco, David, 1853-1931; Moses, Montrose Jonas, 1878-1934 [Editor]",
-    "gutenbergReference": "13319",
-    "matchType": 1,
-    "hash": "a0b0015dfaf3c23cb7705778fbd060b3506ea28f3398213ccd2e93f3cef8e2f0"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "“At ",
+    "quoteFirst": "In my Note on the Ancient Mexican Calendar System, communicated to the International Congress of Americanists at Stockholm, in 1894, I stated certain historical and astronomical facts which showed that the New Cycle, which began in 1507 with the year Acatl, had commenced on March 14th three days after the vernal equinox and that this delay had obviously been intentional, in order to wait for the new moon, which fell on March 13th at ",
     "quoteTime": "11.40 A. M.",
-    "quoteLast": "”",
-    "title": "The Young Train Master",
-    "author": "Stevenson, Burton Egbert, 1872-1962; Goss, Henry [Illustrator]",
-    "gutenbergReference": "55880",
-    "matchType": 2,
-    "hash": "2c876f3069be04147eee0c01a6fea3fedaa774eb7ad63673c4f8108ca0370aaf"
+    "quoteLast": ", and the planet Venus, “which was possibly visible both as morning and evening star between March 14th and 18th.” The above facts, which have remained unchallenged since their publication, afford an insight into the astronomical attainments of the sun-priests and moon and star-priests and show an evident desire to begin a new era at a favorable time, when there was a conjunction of the heavenly bodies.",
+    "title": "The Fundamental Principles of Old and New World Civilizations\r\nA Comparative Research Based on a Study of the Ancient Mexican Religious, Sociological, and Calendrical Systems",
+    "author": "Nuttall, Zelia, 1858-1933",
+    "gutenbergReference": "32066",
+    "hash": "e0d85ae507f863e9d1c530d1d737bd4c4862a82e01ea7f9697bd42f4595389be"
   },
   {
     "time": "11:40",
-    "quoteFirst": "Lost for a time in this reverie, he was dead to the passing of the precious moments. Recalled to himself, he turned quickly to the clock--it still wanted five and ",
+    "quoteFirst": "“About ",
     "quoteTime": "twenty minutes to twelve",
-    "quoteLast": ".",
-    "title": "A Fool in Spots",
-    "author": "Rives, Hallie Erminie, 1876-1956",
-    "gutenbergReference": "65018",
-    "matchType": 1,
-    "hash": "38b1f8997c3a75958822d4c1b1731940a3d4880adfb4c4d0c1a6251de52c89ca"
+    "quoteLast": " a trunk-light flashed on the board, and when I answered it, a man asked for Miss Odell. I plugged the connection through, and after a short wait the receiver was lifted from her phone—you can tell when a receiver’s taken off the hook, because the guide-light on the board goes out—and a man’s voice answered ‘Hello.",
+    "title": "The \"Canary\" murder case",
+    "author": "Van Dine, S. S., 1888-1939",
+    "gutenbergReference": "70788",
+    "hash": "0bea5c39e6558589b5eccdc1cf100bc7e9e3ec01da5d867014fbbfd6fbefbb54"
   },
   {
     "time": "11:40",
-    "quoteFirst": "\"Eightieth day, ",
+    "quoteFirst": "|         |           |                            | 1      |October 3| Gibert  | 11.30 A.M.|She washes hands and        | |         |         |           |  wards off trance.         |  ? 2      |  \"     9|   do.   | ",
+    "quoteTime": "11.40 A.M.",
+    "quoteLast": "|Found entranced 11.45.      |  1 3      |  \"    14|   do.   |  4.15 P.M.|Found entranced 4.30:       | |         |         |           |  had been asleep about     | |         |         |           |  15 minutes.",
+    "title": "Apparitions and thought-transference: an examination of the evidence for telepathy",
+    "author": "Podmore, Frank, 1856-1910",
+    "gutenbergReference": "56489",
+    "hash": "0456e07feb5516639010c6de886843a679bb54cace96f82d7e481ad61aba35fb"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "\"The letter finished, I replaced it in its envelope and turned my attention to the manuscript. When I began to read, the hands of the clock upon the chimneypiece stood at ",
+    "quoteTime": "twenty minutes to twelve",
+    "quoteLast": ", and they had reached a quarter past five before I had completed my task. All that time I read on without stopping, filled with amazement at the story my poor friend had to tell, and consumed with a great sorrow that his brilliant career should have terminated in such an untoward manner.",
+    "title": "Pharos, The Egyptian: A Romance",
+    "author": "Boothby, Guy, 1867-1905",
+    "gutenbergReference": "33610",
+    "hash": "183d01d919180064ef1b733cf3ab8374c41253589f3052b79c30b41aaf42c40b"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "We lost in general officers one killed and three or four wounded, all brigadiers, while, according to the rebel accounts which we have, they lost six killed and eight wounded: of the killed one major-general and five brigadiers including your brother-in-law, Helm; and of the wounded three major-generals and five brigadiers. This list may be reduced two in number by corrections of confusion in names. At ",
+    "quoteTime": "11.40 A.M.",
+    "quoteLast": " yesterday General Rosecrans telegraphed from Chattanooga: \"We hold this point, and I cannot be dislodged except by very superior numbers and after a great battle.\" A despatch leaving there after night yesterday says, \"No fight to-day.",
+    "title": "The Papers and Writings of Abraham Lincoln — Volume 6: 1862-1863",
+    "author": "Lincoln, Abraham, 1809-1865; Lapsley, Arthur Brooks [Editor]",
+    "gutenbergReference": "2658",
+    "hash": "5e3eaf14af17f6e7d2a2349b8f9e8921cfc005f5c231b7f2e73dd68a67e76392"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "“Oh, quite,” murmured Vance. “Still, looking at it mathematically, if you phoned Miss Odell at ",
+    "quoteTime": "twenty minutes to twelve",
+    "quoteLast": ", and then entered the Subway, rode to 72d Street, walked a block to 71st, went into the building, listened at her door, and departed at five minutes to twelve—making the total time consumed only fifteen minutes—you’d scarcely have sufficient leeway to stop en route and phone to any one.",
+    "title": "The \"Canary\" murder case",
+    "author": "Van Dine, S. S., 1888-1939",
+    "gutenbergReference": "70788",
+    "hash": "822a8ce580264d9f05d0ae8e0a1c44450c89734a8f16cee9d747eb22a9e680fc"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "“80th day, ",
     "quoteTime": "11.40 a.m.",
-    "quoteLast": "\"",
-    "title": "Round the World in Eighty Days",
-    "author": "Verne, Jules, 1828-1905; Frith, Henry, 1840- [Translator]",
-    "gutenbergReference": "32972",
-    "matchType": 2,
-    "hash": "a2196d3b1ec96d4ed027966249ca9459790b9d16b2544beef5076c2626af1bb7"
+    "quoteLast": ",” and waited.",
+    "title": "Around the World in Eighty Days",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "103",
+    "hash": "0e705997759af87f2446315e2bf12e537f678ee75b9ce4117d118202ad340514"
   },
   {
     "time": "11:40",
-    "quoteFirst": "‘About ",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty minutes to twelve",
+    "quoteLast": ", sir.\"",
+    "title": "In Quest of Gold; Or, Under the Whanga Falls",
+    "author": "St. Johnston, Alfred, 1858?-1891; Browne, Gordon, 1858-1932 [Illustrator]",
+    "gutenbergReference": "42829",
+    "hash": "2060e527e37fc383535168dc62060987c7d17fe63878f409573aa875ec317ea3"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "‘_",
+    "quoteTime": "Twenty minutes to twelve",
+    "quoteLast": "_.",
+    "title": "Mudfog and Other Sketches",
+    "author": "Dickens, Charles, 1812-1870",
+    "gutenbergReference": "912",
+    "hash": "0ec3b8871bdb9ee8b154ff95a66c782c225f86f225df3df9e7b99e1a253bf77a"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "Twenty minutes after Lieutenant George Boyle took off from Potomac Park, Washington, with 350 pounds of mail, he lost his course, and in landing near Waldorf, Maryland, the plane nosed over, breaking the propeller. Lieutenant Leroy Webb, who took off from the old Belmont Race Track near New York City at ",
+    "quoteTime": "11:40 A.M.",
+    "quoteLast": ", had better luck, however, and reached Philadelphia an hour and twenty minutes later. Lieutenant J. C. Edgerton took over the controls and flew on from there, landing in Washington at 4:00 P.M. Within another half hour Boy Scouts had completed delivery of the 500 letters and parcels consigned to Washington, and air mail service in the United States had begun.",
+    "title": "The Story of American Aviation",
+    "author": "Ray, Jim, 1893-1955",
+    "gutenbergReference": "58033",
+    "hash": "46516b28329222c680a110c95c2b83bb5427fb9ea34098db0bf1499dd70c754e"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "“That, I think, explains Jessup’s report of the brief phone call to the Odell apartment at ",
     "quoteTime": "twenty minutes to twelve",
-    "quoteLast": ", I think,’ replied Vandeloup, ‘at least, I reached the “Wattle Tree” at about twelve o’clock, and I think it did take twenty minutes to walk there. Monsieur Villiers stopped behind with the theatre people to enjoy himself.",
-    "title": "Madame Midas",
-    "author": "Hume, Fergus, 1859-1932",
-    "gutenbergReference": "4946",
-    "matchType": 1,
-    "hash": "ed8b33bed1c2c2d4735ac4c82ca85468b2f63a4724c1b850bde14c9ddf2c53e5"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "",
-    "quoteTime": "11.40 A. M.",
-    "quoteLast": ", arterial blood contained 7,061.",
-    "title": "The American Therapist. Vol. II. No. 7. Jan. 15th, 1894\r\nA Monthly Record of Modern Therapeutics, with Practical Suggestions Relating to the Clinical Applications of Drugs.",
-    "author": "Various; Aulde, John, 1846- [Editor]",
-    "gutenbergReference": "59908",
-    "matchType": 2,
-    "hash": "7d8871a3b9b6dae72d7781c8ff91ed84003e892f7e10f2178703c5a823e0f2f2"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "\"The King was to have been here at eleven,\" said Geoffrey to him at last. \"It is now ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": ". Can anything have happened, Dacre?\"",
-    "title": "The King's Men: A Tale of To-morrow",
-    "author": "Grant, Robert, 1852-1940; O'Reilly, John Boyle, 1844-1890; Stimson, Frederic Jesup, 1855-1943; Wheelwright, John T. (John Tyler), 1856-1925",
-    "gutenbergReference": "18960",
-    "matchType": 1,
-    "hash": "e0f3a8b5d079a4dd09f767c8748046c09299e33be82fe0dba294f6476ea97aea"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "The testimony of Colin Barnhorst was taken at ",
-    "quoteTime": "11:40 a.m.",
-    "quoteLast": ", on April 1, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Albert E. Jenner, Jr.",
-    "title": "Warren Commission (10 of 26): Hearings Vol. X (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44010",
-    "matchType": 2,
-    "hash": "b660116b7943eedf88a3b49ab15314c97712fe04ac6dcc8c9fb19f6c7ee9c0f1"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "_25th July, 1868._--Strong S.E. wind still blowing, but having paid the canoe-men amply for four days with beads, and given Masantu a hoe and beads too, we embarked at ",
-    "quoteTime": "11.40 A.M.",
-    "quoteLast": " in a fine canoe, 45 feet long, 4 feet deep, and 4 feet broad. The waves were high, but the canoe was very dry and five stout men propelled her quickly towards an opening in Lifungé Island, on our S.E.",
-    "title": "The Last Journals of David Livingstone, in Central Africa, from 1865 to His Death, Volume I (of 2), 1866-1868",
-    "author": "Livingstone, David, 1813-1873; Waller, Horace, 1833-1896 [Editor]",
-    "gutenbergReference": "16672",
-    "matchType": 2,
-    "hash": "cd74634cb5dc4a16456a07bc04e8734b53e9bcfeb696a0d8fdacb30fb4a18330"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "On the morning of the first of May he breakfasted about half-past eight, and then, without seeing his father, drove to Roxham to catch a train that got him up to London about ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": ". As he steamed slowly into Paddington Station, another train steamed out, and had he been careful to examine the occupants of the first-class carriages as they passed him in a slow procession, he might have seen something that would have interested him; but he was, not unnaturally, too much occupied with his own thoughts to allow of the indulgence of an idle curiosity.",
-    "title": "Dawn",
-    "author": "Haggard, H. Rider (Henry Rider), 1856-1925",
-    "gutenbergReference": "10892",
-    "matchType": 1,
-    "hash": "84ddf96108930ecab0488cb900eacdd9c230543527cd8d6b29e7c5b0328caac8"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "One was of course wet through the whole time in a sweater and trousers and sea boots, and every two hours one took these off and hurried in for a rest in a greatcoat, to turn out again in two hours and put in the same cold sopping clothes, and so on until 4 A.M. on Saturday, when we had baled out between four and five tons of water and had so lowered it that it was once more possible to light fires and try the engines and the steam pump again and to clear the valves and the inlet which was once more within reach. The fires had been put out at ",
-    "quoteTime": "11.40 A.M.",
-    "quoteLast": " and were then out for twenty-two hours while we baled. It was a weird' night's work with the howling gale and the darkness and the immense seas running over the ship every few minutes and no engines and no sail, and we all in the engine-room, black as ink with the engine-room oil and bilge water, singing chanties as we passed up slopping buckets full of bilge, each man above' slopping a little over the heads of all below him; wet through to the skin, so much so that some of the party worked altogether naked like Chinese coolies; and the rush of the wave backwards and forwards at the bottom grew",
-    "title": "Scott's Last Expedition, Volume I\r\nBeing the journals of Captain R. F. Scott",
-    "author": "Scott, Robert Falcon, 1868-1912",
-    "gutenbergReference": "11579",
-    "matchType": 2,
-    "hash": "d4f0c358c8a3797a6ba079885677f509c44327e4fcf64bbac725a18ae351cce1"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "At ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": " the silence of the night was broken by three sharp strokes on the gong sounding from the crow’s nest—a signal for something right ahead; while almost simultaneously came a voice through the telephone from the look-out announcing the presence of ice. There was a kind of haze in front of the ship the colour of the sea, but nothing could be distinguished from the bridge. Mr.",
-    "title": "Titanic",
-    "author": "Young, Filson, 1876-1938",
-    "gutenbergReference": "31992",
-    "matchType": 1,
-    "hash": "27230d32b2d9e8cbe6985f1578d318881405dd2a66e49a165ce3495ad3750d50"
+    "quoteLast": ".”",
+    "title": "The \"Canary\" murder case",
+    "author": "Van Dine, S. S., 1888-1939",
+    "gutenbergReference": "70788",
+    "hash": "266006658bf69f7b852379a211a7b12497911a4fcdb55f018f115bf0d3284fbb"
   }
 ]

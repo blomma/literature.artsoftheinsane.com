@@ -7,7 +7,6 @@
     "title": "The Rover Boys on Snowshoe Island; or, The Old Lumberman's Treasure Box",
     "author": "Stratemeyer, Edward, 1862-1930",
     "gutenbergReference": "22996",
-    "matchType": 1,
     "hash": "26bb1741e80f5e03e3407d25b6807738a373e9521154f1c6e1b34b59437423a4"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Toxicity of Caffein: An experimental study on different species of animals",
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
-    "matchType": 2,
     "hash": "4bea43ed862729259f662325cb5a1e6d5235770203f35efb7b9417a5a572fdfc"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The War in the Air; Vol. 1\nThe Part played in the Great War by the Royal Air Force",
     "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
     "gutenbergReference": "28226",
-    "matchType": 2,
     "hash": "aee0138e26866b7751a59f458b15b09ecc7742d4283722fa147686757a4b9eb8"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Children of Wilton Chase",
     "author": "Meade, L. T., 1854-1914",
     "gutenbergReference": "26409",
-    "matchType": 1,
     "hash": "ed8f9a6f69c579dcd17ee3de1aeff6f14aa07c14927bab6f7b38d171f18b634f"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "3d13301464ce08b167ff1b0e6b79329e82de5e374fb29294c40ff88223f70d2d"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Hooded Detective, Volume III No. 2, January, 1942",
     "author": "Various",
     "gutenbergReference": "38466",
-    "matchType": 2,
     "hash": "e07a5cf6f430ef4db2e650448b7be52580257bc1a8732d453a0bb6813097a65c"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
-    "matchType": 2,
     "hash": "9f4713d37951acea1ea2c1ffcdc78937fe5e7778448ae4b74de63d972a07f428"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Q-Ships and Their Story",
     "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
     "gutenbergReference": "54338",
-    "matchType": 2,
     "hash": "7624e7e238dcba21d4ee5b3752d33dae4ddb0186b6aff2406691911ac48d5bb7"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Ascent of the Matterhorn",
     "author": "Whymper, Edward, 1840-1911",
     "gutenbergReference": "38044",
-    "matchType": 2,
     "hash": "57be259f47b043c236f94c908a3bcc0fadc92d901f310e5b5d3f1c5f5cad914c"
   },
   {
@@ -106,7 +97,6 @@
     "title": "Scrambles Amongst the Alps in the Years 1860-69",
     "author": "Whymper, Edward, 1840-1911",
     "gutenbergReference": "41234",
-    "matchType": 2,
     "hash": "af459491ccb025fbc217772d9302fb94f095cd0030fad8bc622fcdd3f62c6131"
   }
 ]

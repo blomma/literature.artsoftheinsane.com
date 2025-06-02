@@ -1,13 +1,22 @@
 [
   {
     "time": "12:19",
+    "quoteFirst": "They’d been discussing the matter for some time when Pentecost stopped them with a quick motion of his hand and sat listening. After a moment he glanced at his watch. The time was ",
+    "quoteTime": "nineteen minutes after twelve",
+    "quoteLast": ".",
+    "title": "The astounding crime on Torrington Road",
+    "author": "Gillette, William, 1853-1937",
+    "gutenbergReference": "75646",
+    "hash": "414d33fe1d0b599ba5f65b5ace1d610224f842146de1b5c8399e9961b235e029"
+  },
+  {
+    "time": "12:19",
     "quoteFirst": "Is morning star throughout the month, rising November 30th at 11:07 p. m., and setting December 1st, at ",
     "quoteTime": "12:19 p. m.",
     "quoteLast": "; on the 15th, rising at 10:10 p. m.; setting next day at 11:22 a. m.; and on the 30th rising at 9:10 p. m., and setting on the 31st at 10:23 a. m.",
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "70c7a7b3a185692081e0c0abbe8dbca66111ea6598afd1fd82bb73b92c43efa0"
   },
   {
@@ -18,7 +27,6 @@
     "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
     "author": "Leffingwell, Albert, 1845-1916",
     "gutenbergReference": "20222",
-    "matchType": 2,
     "hash": "0264c82508cdcacd4c92c79f9fa26d7c944c398b8f623a4e57f9c8a601706e21"
   }
 ]

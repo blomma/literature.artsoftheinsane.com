@@ -7,7 +7,6 @@
     "title": "Encyclopaedia Britannica, 11th Edition, \"Dyer, Sir Edward\" to \"Echidna\"\r\nVolume 8, Slice 9",
     "author": "Various",
     "gutenbergReference": "34878",
-    "matchType": 2,
     "hash": "0847b3a348b8a2b60cdeba1f87b81c1c5909478458e8a0b11d508f18828a79cf"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Sketches and Studies",
     "author": "Hawthorne, Nathaniel, 1804-1864",
     "gutenbergReference": "8091",
-    "matchType": 1,
     "hash": "0510b411f088fbe6e65fd41ff7e0a25c960e433fc6396f97263fd547c7b49b48"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Ancestral Footstep (fragment)\r\nOutlines of an English Romance",
     "author": "Hawthorne, Nathaniel, 1804-1864",
     "gutenbergReference": "8429",
-    "matchType": 1,
     "hash": "9c08d67ba525ffba676ca6752e59dde353cfc0a1466820eee51827d96eb1cc86"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "4df655b51bb9898cc4f506b5cf6cc2588f60f27baa58c248d7845e2b7187956c"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "131819e051638218ccc9e0133ad250bf04ba1343fd6acd67c33d068dc0560bc2"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Wire Tappers",
     "author": "Stringer, Arthur, 1874-1950",
     "gutenbergReference": "50203",
-    "matchType": 1,
     "hash": "884c6af34c0561c02afee3e6ba7bdeb063d604f23b89f8b73e0025bd35f873ec"
   }
 ]

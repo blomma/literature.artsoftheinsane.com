@@ -7,7 +7,6 @@
     "title": "Three Little Lines\r\nSilverton Railroad; Silverton, Gladstone and Northerly; Silverton Northern",
     "author": "Crum, Josie Moore",
     "gutenbergReference": "62664",
-    "matchType": 2,
     "hash": "35768b0eba568e6aa3735733a2294c286320d7aca29ab9582762d83478c5675f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Aeroplanes and Dirigibles of War",
     "author": "Talbot, Frederick Arthur Ambrose, 1880-1924",
     "gutenbergReference": "793",
-    "matchType": 2,
     "hash": "7d572560438369f1b049cc7da10868d5677fca30a8c265671a34c448897a31e1"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Temptress",
     "author": "Le Queux, William, 1864-1927",
     "gutenbergReference": "40833",
-    "matchType": 1,
     "hash": "bffdf2c1a74a1a8661ddbd1ac3dec5f8ec036a7e7ac41934216904591ceab678"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, November 1884, No. 2",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55241",
-    "matchType": 2,
     "hash": "497508c46807dddac5001fc848224b9c967259c69fbff4d4d2b57326c3764521"
   }
 ]

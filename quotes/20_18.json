@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "df7202c3e1a8c821c5a175b4d24ec985bf7bdb77a1ed634d042c872827ea1a22"
   },
   {
@@ -16,10 +15,9 @@
     "quoteTime": "8.18 p.m.",
     "quoteLast": ", when they supported the Eleventh Flotilla, which had moved out under Commodore James R. P. Hawksley, M.V.O., to attack.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "e38b6e2936c0c182bd946206b13a47fac62988922a9072469d4b587106e9e61e"
+    "hash": "3c8e70b087fe1e16ebd6117b1c640288593904569ca6c696cac1810dc9afe654"
   },
   {
     "time": "20:18",
@@ -29,7 +27,6 @@
     "title": "Lincoln Day Entertainments\r\nRecitations, Plays, Dialogues, Drills, Tableaux, Pantomimes, Quotations, Songs, Tributes, Stories, Facts",
     "author": "Sindelar, Joseph C. (Joseph Charles), 1885- [Editor]",
     "gutenbergReference": "48273",
-    "matchType": 2,
     "hash": "234eb15760cffb5d198a3c666709875c21a495c1cfc9f92e8c957791ebdf217e"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
-    "matchType": 2,
     "hash": "22a6de345a70c454c90d2b83963b6978dd04f7ed0c46e746b1269b2179c607f9"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 04, March 1884, No. 6",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55133",
-    "matchType": 2,
     "hash": "eae0f8bd34862928942ddf449c1c7b3da717aa57ebfa5c6a83d6923b9b927ecf"
   }
 ]

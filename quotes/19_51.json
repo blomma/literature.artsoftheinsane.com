@@ -7,7 +7,6 @@
     "title": "Olga Romanoff",
     "author": "Griffith, George Chetwynd, 1857-1906; Jane, Fred T. (Frederick Thomas), 1865-1916 [Illustrator]",
     "gutenbergReference": "54096",
-    "matchType": 1,
     "hash": "19645c9938103e8ffb9f1d65af6749562b9fb46c80f383bc5a54ba5a48980d7b"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Sinking of the Titanic and Great Sea Disasters",
     "author": "Marshall, Logan, 1884-1937 [Editor]",
     "gutenbergReference": "781",
-    "matchType": 2,
     "hash": "da1edd2e524c70fc1251bcb06679063da739b93710fc274bf5ffd67bbddf936f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, June 1884, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55194",
-    "matchType": 2,
     "hash": "0098ea3aad19951d0f9ddd24edf2123705cfb9699b31346137ad28dddb8301f0"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "65e74cc2c9111fde6be2cdc499e89624bb85e7cf1ff889c1f9b4c06ea68a5afa"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "39a44e34ab04bd851f33ca3d3c6d5adaa06c0e01ce87f913808948a0313d9508"
   }
 ]

@@ -1,80 +1,13 @@
 [
   {
     "time": "10:05",
-    "quoteFirst": "\"",
-    "quoteTime": "Five minutes past ten",
-    "quoteLast": ".\"",
-    "title": "The Seventh Noon",
-    "author": "Bartlett, Frederick Orin, 1876-1945; Frederick, Edmund, 1870-1949 [Illustrator]",
-    "gutenbergReference": "20429",
-    "matchType": 1,
-    "hash": "49fd3de8ebe36e0be5d316988fca2ee93205b435d3dac5041340972f4ab4dfae"
-  },
-  {
-    "time": "10:05",
-    "quoteFirst": "\"",
-    "quoteTime": "Five minutes past ten",
-    "quoteLast": ".\"",
-    "title": "Officer 666",
-    "author": "Currie, Barton Wood, 1877-1962; McHugh, Augustin, 1877-1928",
-    "gutenbergReference": "30228",
-    "matchType": 1,
-    "hash": "ddc3961d295fd42ca0f36bd91da9a782e99e45d153bf5cfbf77a25bc08a49d91"
-  },
-  {
-    "time": "10:05",
-    "quoteFirst": "A few minutes later he was following an attendant up the broad flight of carpeted stairs.  It was then ",
+    "quoteFirst": "There was less trouble in his classes nowadays, possibly because the whole school was so much interested in football, and it began to look as though the instructor’s troubles were over. But on the following Tuesday, Brandon Gary, realizing possibly, that he had neglected his duties as a cut-up, gave his attention again to Mr. Hanks. That was at ",
     "quoteTime": "five minutes past ten",
-    "quoteLast": " by the clock which stood ticking sonorously in a corner of the landing.",
-    "title": "The Princess Galva: A Romance",
-    "author": "Whitelaw, David, 1875-1970",
-    "gutenbergReference": "34130",
-    "matchType": 1,
-    "hash": "54fd98ab2db97dd9201b54eb1251c3c119331da55e4d2644497ad3bd0f8500e7"
-  },
-  {
-    "time": "10:05",
-    "quoteFirst": "A train at seven-fifteen will get there a little after nine. There are other trains through the evening, the latest being at ",
-    "quoteTime": "five minutes after ten",
-    "quoteLast": ". Should this reach you in time to enable you to take one of them, you will be wise to do so; but in case it may be too late, you may count on me to do all that can be done. Let some one be ready to answer the telephone all night. I shall communicate with the house from the Bay Tree Inn.",
-    "title": "The Inner Shrine",
-    "author": "King, Basil, 1859-1928",
-    "gutenbergReference": "14393",
-    "matchType": 1,
-    "hash": "2adadcdd34d91fd32730bbd8b95d5b2beb6d2a367503537e0322e12cc9e2c716"
-  },
-  {
-    "time": "10:05",
-    "quoteFirst": "Now, it is of some concern to us to know that the earth holds within itself similar forces, on an incomparably greater scale. For instance, the explosion which occurred at Krakatao, at ",
-    "quoteTime": "five minutes past ten",
-    "quoteLast": ", on the 27th of August, 1883, according to official evidence, was heard at a distance of eighteen hundred miles, and the puff of its air-wave injured dwellings two hundred miles distant, and, we repeat, carried into the highest regions of the atmosphere and around the world matter which it is at least possible still affects the aspect of the sun to-day from New York or Chicago.",
-    "title": "The New Astronomy",
-    "author": "Langley, S. P. (Samuel Pierpont), 1834-1906",
-    "gutenbergReference": "64577",
-    "matchType": 1,
-    "hash": "b1ac2c90c9a9fe6d2bc75f7c9ffc2f461f6c021137883f478ba67824d6c9a936"
-  },
-  {
-    "time": "10:05",
-    "quoteFirst": "Poor Blanche sat down by her in the darkness, and mingled her tears with those of the affectionate servant. She began to get hopeless now. After a while she went down again to Cousin Charlie, and was surprised to find it so late; the clock pointed to ",
-    "quoteTime": "five minutes past ten",
-    "quoteLast": "; and with trembling hands she closed the windows, listening for an instant to the dash of the waves outside, with a strange, wild feeling that they never sounded so before. Then she covered up “Bully,” who had been whistling ever since the lights were brought; but she had not the heart to exchange a syllable with Cousin Charlie; and that poor lad, affecting a composure that his face belied, was pretending to spell over the evening paper, of which he was vacantly staring at the advertisement sheet.",
-    "title": "General Bounce; Or, The Lady and the Locusts",
-    "author": "Whyte-Melville, G. J. (George John), 1821-1878; Ewan, Frances [Illustrator]",
-    "gutenbergReference": "41828",
-    "matchType": 1,
-    "hash": "3b8949b5e41a6728e28292794c72f62293742a14a232774b3e623c8b53be1ea3"
-  },
-  {
-    "time": "10:05",
-    "quoteFirst": "I consulted my train schedule. At ",
-    "quoteTime": "five minutes after ten",
-    "quoteLast": ", with McKnight not yet in sight, Blobs knocked at the door, the double rap we had agreed upon, and on being admitted slipped in and quietly closed the door behind him. His eyes were glistening with excitement, and a purple dab of typewriter ink gave him a peculiarly villainous and stealthy expression.",
-    "title": "The Man in Lower Ten",
-    "author": "Rinehart, Mary Roberts, 1876-1958",
-    "gutenbergReference": "1869",
-    "matchType": 1,
-    "hash": "685955d9c401299ad9a34f5c4cccf616fb33fcd31dede573e5a33de8493c8db0"
+    "quoteLast": ".",
+    "title": "Crofton Chums",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "60894",
+    "hash": "95def634687fc24b934dbca08a13968494a93cdbb2c1238f0f06f5d37e443589"
   },
   {
     "time": "10:05",
@@ -84,85 +17,37 @@
     "title": "The Mary Frances first aid book",
     "author": "Fryer, Jane Eayre, 1876-; Boyer, Jane Allen, 1875-1940 [Illustrator]",
     "gutenbergReference": "54216",
-    "matchType": 2,
     "hash": "e7f17bc546609f7121e7eb8eecabf528fe6c833be5031d4de17de2c8e43daf61"
   },
   {
     "time": "10:05",
-    "quoteFirst": "It was ",
+    "quoteFirst": "At ",
     "quoteTime": "five minutes past ten",
-    "quoteLast": ", and they prudently turned out the lights.",
-    "title": "Molly Brown's Junior Days",
-    "author": "Speed, Nell, 1878-1913; Wrenn, Charles L. (Charles Lewis), 1880-1952 [Illustrator]",
-    "gutenbergReference": "36717",
-    "matchType": 1,
-    "hash": "61352ca3b61d983d59a9c472640c724551c2a29f62fd840a0f7beb0d49a9a1c2"
+    "quoteLast": " the editor of _The Chieftain_ handed his printer a slip of paper, and the name of the winner of Claim Number One was put in type. The news was carried by one who pushed through the throng, his hat on the back of his head, sweat drenching his face.",
+    "title": "Claim Number One",
+    "author": "Ogden, George W. (George Washington), 1871-1966; St. John, J. Allen (James Allen), 1872-1957 [Illustrator]",
+    "gutenbergReference": "30558",
+    "hash": "b042354fa738eeeab2d4fbfd45b45da41935594e10bd8f3918d4aea3268eb69a"
   },
   {
     "time": "10:05",
-    "quoteFirst": "For example: Suppose at ",
-    "quoteTime": "10:05 A.M.",
-    "quoteLast": " the reading is 62 miles, and at 10:11 A.M. the reading is 63 miles. If in six minutes it goes one mile, in sixty minutes it will go ten times, or ten miles per hour.",
-    "title": "The Gunner's Examiner",
-    "author": "Cloke, Harold E. (Harold Edward)",
-    "gutenbergReference": "47895",
-    "matchType": 2,
-    "hash": "29d3042e78deaee885ea7a2445dbad8e77d0c99bb41371294d9c88ec5862344d"
-  },
-  {
-    "time": "10:05",
-    "quoteFirst": "For example: Suppose at ",
-    "quoteTime": "10:05 A.M.",
-    "quoteLast": " the reading is 62 miles, and at 10:11 A.M. the reading is 63 miles. If in six minutes it goes one mile, in sixty minutes it will go ten times, or ten miles per hour.",
-    "title": "The Gunner's Examiner",
-    "author": "Cloke, Harold E. (Harold Edward)",
-    "gutenbergReference": "47895",
-    "matchType": 2,
-    "hash": "29d3042e78deaee885ea7a2445dbad8e77d0c99bb41371294d9c88ec5862344d"
-  },
-  {
-    "time": "10:05",
-    "quoteFirst": "He started from the 14th mile-stone to go to the 85th, and back, at seven in the morning, on the 26th of December, and arrived at his journey’s end next day, at a quarter before one o’clock in the afternoon. He went off at the rate of six miles an hour, and reached Twyford at ",
+    "quoteFirst": "This was precisely what I expected. A vagabond like Mr. Jay knows the importance of giving himself a respectable look when he is going to run the risk of changing a stolen bank-note. At ",
     "quoteTime": "five minutes past ten",
-    "quoteLast": ", where he took a basin of soup. He refreshed again at Marlborough, and arrived at the 85th mile-stone at ten minutes past eight in the evening.",
-    "title": "Pedestrianism; or, An Account of the Performances of Celebrated Pedestrians During the Last and Present Century.\r\nWith a full narrative of Captain Barclay's public and private matches; and an essay on training.",
-    "author": "Thom, Walter, 1770-1824",
-    "gutenbergReference": "55644",
-    "matchType": 1,
-    "hash": "e2d9a8750488f3fd921027884074dc4793c3a6f1ac868d6372dd377c7ca86112"
+    "quoteLast": " o’clock he had given the last brush to his shabby hat and the last scouring with bread-crumb to his dirty gloves. At ten minutes past ten he was in the street, on his way to the nearest cab-stand, and I and my subordinates were close on his heels.",
+    "title": "The Queen of Hearts",
+    "author": "Collins, Wilkie, 1824-1889",
+    "gutenbergReference": "1917",
+    "hash": "e50bf3d2d0e72dc70770dd74ac9013a9eaa9dab804aa845d20f480a7d58addb6"
   },
   {
     "time": "10:05",
-    "quoteFirst": "Wednesday ",
-    "quoteTime": "10:05 A.M.",
-    "quoteLast": "",
-    "title": "Project Daedalus",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34320",
-    "matchType": 2,
-    "hash": "fe223851259068f26cbfc0128a49f53b84caed3aa6beb20fec55a8b8b4efd5a4"
-  },
-  {
-    "time": "10:05",
-    "quoteFirst": "I went back to my own room, changed my dress, and carrying my boots in one hand and my candle in the other, went softly down the stairs. By the clock in the hall I could see that it was ",
-    "quoteTime": "five minutes after ten",
-    "quoteLast": " o'clock. I drew on my boots in the porch, saddled the horse by the candle-light, led it past the house along a strip of grass, and when I thought the sound of its hoofs would be no longer heard, I mounted and rode up the pathway.",
-    "title": "Lawrence Clavering",
-    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
-    "gutenbergReference": "38718",
-    "matchType": 1,
-    "hash": "2cf57dd3b7156d257589dcb6811f45d898e962b3335f374b86b88d527ed6725f"
-  },
-  {
-    "time": "10:05",
-    "quoteFirst": "\"It'll be about ",
+    "quoteFirst": "At ",
     "quoteTime": "five minutes past ten",
-    "quoteLast": ", your honour, by my watch.\"",
-    "title": "The Adventures of a Three-Guinea Watch",
-    "author": "Reed, Talbot Baines, 1852-1893",
-    "gutenbergReference": "21035",
-    "matchType": 1,
-    "hash": "9edfbc477b8659eb6f10bcb3be431a787b3ab67831ccf38616120245147423c6"
+    "quoteLast": " he shook his fingers with joy. He heard the Hartwig family discursively lumbering up to bed. He stood at the door, unmoving, till the house was quiet, while Mother nervously hung their farewell note on the electric light, and slipped into her overcoat and the small black hat that was no longer new and would scarce be impressive to Matilda Tubbs now.",
+    "title": "The Innocents: A Story for Lovers",
+    "author": "Lewis, Sinclair, 1885-1951",
+    "gutenbergReference": "25430",
+    "hash": "a4e4bd2beab6ad714bdfd5b78faafb8655bbe3ab1699e97d407e4e39d7870da8"
   },
   {
     "time": "10:05",
@@ -172,51 +57,146 @@
     "title": "Famous leaders among men",
     "author": "Bolton, Sarah Knowles, 1841-1916",
     "gutenbergReference": "57666",
-    "matchType": 1,
     "hash": "49f643d6fc407d0088b52c2d3cbeab321e92d263b162abe36223fce8c3ccb225"
   },
   {
     "time": "10:05",
-    "quoteFirst": "At ten o’clock next morning, he found himself in Pacific Avenue, asking his way. At ",
+    "quoteFirst": "It was ",
     "quoteTime": "five minutes past ten",
-    "quoteLast": ", he was coming up the steps of a residence with Purbeckian marble pillars to the door-way.",
-    "title": "Vanderdecken",
+    "quoteLast": "; most of the servants had gone up to bed, and nobody saw them as they went down the passage to the room, where, lit by a candle burning on the chest of drawers, a coil of rope, a huge pulley, some carpenter’s tools, and half a dozen long screws lay on the bed.",
+    "title": "Patsy",
     "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
-    "gutenbergReference": "54473",
-    "matchType": 1,
-    "hash": "69d59ef1268e08f8969c5832f87e94dbeafceee200220d5ff971a4c506f0e037"
+    "gutenbergReference": "56142",
+    "hash": "1b286055f379cc4dfe30cf15a9cdb1060e166636bead5efcce7de9e020c0b05e"
   },
   {
     "time": "10:05",
-    "quoteFirst": "Let us now briefly glance at the progress of the main battle. It commenced exactly at ",
-    "quoteTime": "five minutes after ten A.M.",
-    "quoteLast": ", and in about an hour it was general on both sides. The Danes fought--as they ever have fought, and ever will fight--like worthy descendants of their Scandinavian forefathers, and for awhile the result seemed doubtful.",
-    "title": "Chambers's Edinburgh Journal, No. 457\nVolume 18, New Series, October 2, 1852",
-    "author": "Various; Chambers, Robert, 1802-1871 [Editor]; Chambers, William, 1800-1883 [Editor]",
-    "gutenbergReference": "23963",
-    "matchType": 0,
-    "hash": "94d15ad1b9d432d3094926d20d6a5ee4d9afe11a82e1d712dae050debaeefee3"
-  },
-  {
-    "time": "10:05",
-    "quoteFirst": "This was precisely what I expected. A vagabond like Mr. Jay knows the importance of giving himself a respectable look when he is going to run the risk of changing a stolen bank-note. At ",
+    "quoteFirst": "E. M. It is no trouble, madam, I assure you. (_Looks at watch._) It is about (_hesitates_) ",
     "quoteTime": "five minutes past ten",
-    "quoteLast": " o'clock he had given the last brush to his shabby hat and the last scouring with bread-crumb to his dirty gloves. At ten minutes past ten he was in the street, on his way to the nearest cab-stand, and I and my subordinates were close on his heels.",
-    "title": "Masterpieces of Mystery in Four Volumes: Detective Stories",
-    "author": "French, Joseph Lewis, 1858-1936 [Editor]",
-    "gutenbergReference": "27523",
-    "matchType": 1,
-    "hash": "e2a854f1a5367e51986800ca60bbce259b3c82dcc2ec3f925279189ec3eb02b6"
+    "quoteLast": ".",
+    "title": "Seeking his fortune, and other dialogues",
+    "author": "Alger, Horatio, Jr., 1832-1899; Cheney, O. Augusta (Olive Augusta), 1833-1916",
+    "gutenbergReference": "64607",
+    "hash": "21c093feaae6108650540e5e31d62b6b790bdfdece99b8bafd9d8bb3ca3cb004"
   },
   {
     "time": "10:05",
-    "quoteFirst": "\"Yes, I get you, Louis,\" replied Holmes, as he glanced at his watch impatiently. \"It's ",
-    "quoteTime": "five minutes after ten",
-    "quoteLast": " already, and the diamond baubles haven't been found yet. If you'll kindly stand aside, and let somebody else without such a large supply of easily outrageable pride have the floor, I'll examine them.",
-    "title": "The Adventures of the Eleven Cuff-Buttons\r\nBeing one of the exciting episodes in the career of the famous detective Hemlock Holmes, as recorded by his friend Dr. Watson",
-    "author": "Thierry, James Francis",
-    "gutenbergReference": "31135",
-    "matchType": 1,
-    "hash": "0c354dce93734d98136087dc8c3639fbe31105bc55bcac8a17c1f6715b1eb0c8"
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes past ten",
+    "quoteLast": ".\"",
+    "title": "Officer 666",
+    "author": "Currie, Barton Wood, 1877-1962; McHugh, Augustin, 1877-1928",
+    "gutenbergReference": "30228",
+    "hash": "ddc3961d295fd42ca0f36bd91da9a782e99e45d153bf5cfbf77a25bc08a49d91"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "\"At ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": " a man of mine, still a little out of breath from his haste, comes to us in the Grande Taverne and tells us that Jean Cladel has just reached home.  He reached home then at five minutes to ten.\"",
+    "title": "The House of the Arrow",
+    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+    "gutenbergReference": "67514",
+    "hash": "043a6736b7d827a7d38e165b8b0f4bb7579ee2d0a0a02eada8f8907ec85ce2aa"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "A few minutes later he was following an attendant up the broad flight of carpeted stairs.  It was then ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": " by the clock which stood ticking sonorously in a corner of the landing.",
+    "title": "The Princess Galva: A Romance",
+    "author": "Whitelaw, David, 1875-1970",
+    "gutenbergReference": "34130",
+    "hash": "54fd98ab2db97dd9201b54eb1251c3c119331da55e4d2644497ad3bd0f8500e7"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes past ten",
+    "quoteLast": ", George. They'll come and carry me out if I don't go.\"",
+    "title": "The Creators: A Comedy",
+    "author": "Sinclair, May, 1863-1946; Keller, Arthur Ignatius, 1866-1924 [Illustrator]",
+    "gutenbergReference": "25971",
+    "hash": "aae956351a7317ee834c472ef8084e7169b6627c97dfd52ebba8918cf1b42fc5"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "\"Oh!  ",
+    "quoteTime": "Five minutes after ten",
+    "quoteLast": "!\" she cried.  She rose too.  \"You must hurry.\"",
+    "title": "Mollie's Substitute Husband",
+    "author": "McConn, Max, 1881-",
+    "gutenbergReference": "48626",
+    "hash": "2031234b3c1703f2f9078f5717edb0e65c6eccb264adfd56ded42f2b0f509a13"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "He started from the 14th mile-stone to go to the 85th, and back, at seven in the morning, on the 26th of December, and arrived at his journey’s end next day, at a quarter before one o’clock in the afternoon. He went off at the rate of six miles an hour, and reached Twyford at ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": ", where he took a basin of soup. He refreshed again at Marlborough, and arrived at the 85th mile-stone at ten minutes past eight in the evening.",
+    "title": "Pedestrianism; or, An Account of the Performances of Celebrated Pedestrians During the Last and Present Century.\r\nWith a full narrative of Captain Barclay's public and private matches; and an essay on training.",
+    "author": "Thom, Walter, 1770-1824",
+    "gutenbergReference": "55644",
+    "hash": "e2d9a8750488f3fd921027884074dc4793c3a6f1ac868d6372dd377c7ca86112"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes past ten",
+    "quoteLast": ".\"",
+    "title": "Officer 666",
+    "author": "Currie, Barton Wood, 1877-1962; McHugh, Augustin, 1877-1928",
+    "gutenbergReference": "30228",
+    "hash": "ddc3961d295fd42ca0f36bd91da9a782e99e45d153bf5cfbf77a25bc08a49d91"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": " a youth entered with the \"Times\" under his arm. Richard waited for him to speak, but he merely stared and took off his overcoat.",
+    "title": "A Man from the North",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "52247",
+    "hash": "a07aa7400aaf3a203d9a7842237db738dd4c0f48a25aed672dc39352c6a2b1c0"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "\"At last!\" said Dick. \"At last a ray of light! What's the time?\" He looked at a clock in a baker's shop. \"",
+    "quoteTime": "Five minutes past ten",
+    "quoteLast": ". Ought I to go to her at once? No, I think not. Had she wanted me earlier she would have said, 'Come to me the moment you get this letter.",
+    "title": "Samuel Boyd of Catchpole Square: A Mystery",
+    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+    "gutenbergReference": "43198",
+    "hash": "e4d268fc82a57d45d892c2f2e8996b8eb1c9dbe5e663ac0a2c96131d89b2e1fd"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "On the morning of April 1, the British fleet anchored within two leagues of Copenhagen. On April 2, at ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": " in the forenoon, the battle began. Nelson's squadron being received with the fire of more than a thousand guns.",
+    "title": "Famous leaders among men",
+    "author": "Bolton, Sarah Knowles, 1841-1916",
+    "gutenbergReference": "57666",
+    "hash": "49f643d6fc407d0088b52c2d3cbeab321e92d263b162abe36223fce8c3ccb225"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "10.00 A. M.  Bugle Call to Village Green. ",
+    "quoteTime": "10.05 A. M.",
+    "quoteLast": "  Music by Town Band.",
+    "title": "The Mary Frances first aid book",
+    "author": "Fryer, Jane Eayre, 1876-; Boyer, Jane Allen, 1875-1940 [Illustrator]",
+    "gutenbergReference": "54216",
+    "hash": "e7f17bc546609f7121e7eb8eecabf528fe6c833be5031d4de17de2c8e43daf61"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "This plan my friends readily conceived, by the signals--for which we are principally, if not entirely, indebted to your lordship--and we always keep a superior force to the enemy. At twenty-eight minutes past six, the sun in the horizon, the firing commenced. At ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": ", when L'Orient blew up, having burnt seventy minutes, the six van ships had surrendered. I then pressed forward, towards the rear; and, had it pleased God, that I had not been wounded, and stone-blind, there cannot be a doubt but that every ship would how have been in our possession.",
+    "title": "The Life of the Right Honourable Horatio Lord Viscount Nelson, Volume 2",
+    "author": "Harrison, James",
+    "gutenbergReference": "16913",
+    "hash": "c12f97c596588e63e7c8ff4c96b003848e8028f6473589e334e53a26bc83998b"
   }
 ]

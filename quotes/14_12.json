@@ -7,7 +7,6 @@
     "title": "Queen Victoria",
     "author": "Browne, E. Gordon (Edgar Gordon), 1871-",
     "gutenbergReference": "16965",
-    "matchType": 1,
     "hash": "2df43946c833dae2fc347fafc8edbd49a6a092a4566c51655e2adf1e900cfe3f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Ice-Caves of France and Switzerland",
     "author": "Browne, G. F. (George Forrest), 1833-1930",
     "gutenbergReference": "14012",
-    "matchType": 2,
     "hash": "bfa144334a6b40d18a36a896646b7d76a7fbc99b75386efaa4c446cc3cf43448"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The letters of Queen Victoria, vol. 1, 1837-1843",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Benson, Arthur Christopher, 1862-1925 [Editor]; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "20023",
-    "matchType": 1,
     "hash": "5ffc0959286db1b4ad7da20b0bf56a33939ce50d5f37929a3b53a4cb9f906d85"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The letters of Queen Victoria, vol. 1, 1837-1843",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Benson, Arthur Christopher, 1862-1925 [Editor]; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "20023",
-    "matchType": 1,
     "hash": "8f038b816d9554eee56d8a0f9eb2e5ca28b963bdc11c9355863182837c8b4092"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Arrival of Jimpson, and Other Stories for Boys about Boys",
     "author": "Barbour, Ralph Henry, 1870-1944",
     "gutenbergReference": "45689",
-    "matchType": 1,
     "hash": "d39552f1ff8dd6fb4bbce950010dd7c9b4865e500e66e5f135316d5f9f1cea3a"
   }
 ]

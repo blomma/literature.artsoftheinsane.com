@@ -7,7 +7,6 @@
     "title": "Carter, and Other People",
     "author": "Marquis, Don, 1878-1937",
     "gutenbergReference": "51913",
-    "matchType": 1,
     "hash": "59c75daa2af633e37326296c187e9d6bf837893ec8a7d632dcf14d63b3f71712"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Our Navy at war",
     "author": "Daniels, Josephus, 1862-1948",
     "gutenbergReference": "63596",
-    "matchType": 2,
     "hash": "ead0a14375ad4b0ffea9b969f4bd45ca502f81664078971ad2fbaadfc1476465"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Days to Remember: The British Empire in the Great War",
     "author": "Buchan, John, 1875-1940; Newbolt, Henry John, Sir, 1862-1938",
     "gutenbergReference": "49540",
-    "matchType": 2,
     "hash": "398cf9431191cb408049ccca497591de912fd173eab3fe0675eb1d032c3e8658"
   }
 ]

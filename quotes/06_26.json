@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "4821513fde15ba411cd44e24f63c7d72cb0b39bda9e86a6931277d5f055fcad2"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "66bd76f6a80df372a1096571362bfbcb62c0873230a07ed7446a51e7da12c44d"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "5d02f3c97199c4a81a041a2361ca2fce7b7ac8f2fa698ef9f5653c13d249d45c"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Narrative of a Survey of the Intertropical and Western Coasts of Australia — Vol. 2\r\nPerformed between the years 1818 and 1822",
     "author": "King, Philip Parker, 1793-1856",
     "gutenbergReference": "12046",
-    "matchType": 1,
     "hash": "4d94dc5c33eca49416d6651f444907e5693c2fd50e96a5dec11d6531882c76be"
   }
 ]

@@ -1,69 +1,83 @@
 [
   {
     "time": "17:50",
-    "quoteFirst": "| |                   |              | 10.0 P.M.  London                | +-------------------+--------------+----------------------------------+ | Mitcham           | Surrey       | 10.0 A.M.  London                | |                   |              | 2.40 P.M.  London Sub.           | |                   |              | ",
+    "quoteFirst": "\"At ",
+    "quoteTime": "5.50 p.m.",
+    "quoteLast": " British cruisers were sighted on the port bow, and at 5.56 p.m. the leading battleships of the Battle Fleet, bearing north 5 miles. I thereupon altered course to east, and proceeded at utmost speed. This brought the range of the enemy down to 12,000 yards. I made a report to you that the enemy battle-cruisers bore south-east. At this time only three of the enemy battle-cruisers were visible, closely followed by battleships of the _Koenig_ class.",
+    "title": "World's War Events, Vol. II",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
+    "gutenbergReference": "25963",
+    "hash": "2c68b49317f904e6868f34196331fa5f99773cfd586a37a24d76b33c3588a829"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "| |                   |              | 10.0 P.M.  London                | +-------------------+--------------+----------------------------------+ | Mitcheldean,      | Gloucester   | 10.0 A.M.  Birmingham            | |   R.S.O. (_Ross_) |              | 2.40 P.M.  Gloucester            | |                   |              | ",
     "quoteTime": "5.50 P.M.",
-    "quoteLast": "  London Sub.           | |                   |              | 7.20 P.M.  London                | |                   |              |  9.0 P.M.  London Sub.           | |                   |              | 10.0 P.M.  London                | +-------------------+--------------+----------------------------------+ | Mitcheldean,      | Gloucester   | 10.0 A.M.  Birmingham            | |   R.S.O. (_Ross_) |              | 2.40 P.M.  Gloucester            | |                   |              | 5.50 P.M.  G. & C. S.T.",
+    "quoteLast": "  G. & C. S.T.          | |                   |              |  9.0 P.M.  Gloucester            | |                   |              | 10.0 P.M.  Manchester            | +-------------------+--------------+----------------------------------+",
     "title": "The Royal Mail: Its Curiosities and Romance",
     "author": "Hyde, James Wilson, 1841-1918",
     "gutenbergReference": "39978",
-    "matchType": 2,
-    "hash": "9a8efdf4776bf34129aeb854bf69093910cb643cf007773ec83a6f6519f9d968"
+    "hash": "0292b82b8abd46b94df42114a200287d1dcdde189826d1ba96b630bdf3214f4d"
   },
   {
     "time": "17:50",
-    "quoteFirst": "[Illustration: FIG. 3.--Jupiter, 1906, April 15, ",
+    "quoteFirst": "\"At ",
     "quoteTime": "5.50 p.m.",
-    "quoteLast": "]",
-    "title": "Encyclopaedia Britannica, 11th Edition, \"Joints\" to \"Justinian I.\"\r\nVolume 15, Slice 5",
-    "author": "Various",
-    "gutenbergReference": "40956",
-    "matchType": 2,
-    "hash": "0924a5ce5fd44270859f5b7d73bd29ca6fbad6de06a787e9df6790ac37588291"
+    "quoteLast": " British cruisers were sighted on the port bow, and at 5.56 p.m. the leading battleships of the Battle Fleet, bearing north 5 miles. I thereupon altered course to east, and proceeded at utmost speed. This brought the range of the enemy down to 12,000 yards. I made a report to you that the enemy battle-cruisers bore south-east. At this time only three of the enemy battle-cruisers were visible, closely followed by battleships of the _Koenig_ class.",
+    "title": "World's War Events, Vol. II",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
+    "gutenbergReference": "25963",
+    "hash": "2c68b49317f904e6868f34196331fa5f99773cfd586a37a24d76b33c3588a829"
   },
   {
     "time": "17:50",
-    "quoteFirst": "",
-    "quoteTime": "Ten minutes to six",
-    "quoteLast": ". Perhaps he had made it up with Mrs Raymond?... For the next ten minutes she suffered extraordinary mental tortures, then her anger consoled her a little. He had treated her too rudely! It was amazing--extraordinary! He was not worth caring for.",
-    "title": "Love's Shadow",
-    "author": "Leverson, Ada, 1862-1933",
-    "gutenbergReference": "9786",
-    "matchType": 1,
-    "hash": "b810b2146fd1e47a1e1f3c05177d4cab0cf17446c7a1cf0821b99f6d5fd9f0d2"
+    "quoteFirst": "The hands of the station clock pointed to ",
+    "quoteTime": "ten minutes to six",
+    "quoteLast": ". The platform was a confused mass of travellers, porters, baggage, trucks, boys with buns and fruits, boys with magazines, friends, relatives, and Bayliss the butler, standing like a faithful watchdog beside a large suitcase.",
+    "title": "Piccadilly Jim",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "2005",
+    "hash": "c731e832492795b80c395cb18a92d9a9642908a16b4af418c0b730b6faac3329"
   },
   {
     "time": "17:50",
-    "quoteFirst": "[Illustration: FIG. 3.--Jupiter, 1906, April 15, ",
+    "quoteFirst": "I am advised that with the knowledge of the proximity of ice which the master had, two courses were open to him: The one was to stand well to the southward instead of turning up to a westerly course; the other was to reduce speed materially as night approached. He did neither. The alteration of the course at ",
+    "quoteTime": "5.50 p. m.",
+    "quoteLast": " was so insignificant that it can not be attributed to any intention to avoid ice. This deviation brought the vessel back to within about 2 miles of the customary route before 11.",
+    "title": "Loss of the Steamship \"Titanic\"",
+    "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
+    "gutenbergReference": "39415",
+    "hash": "38a19700c7106445388e81f69dfb1b341997682236fbd4b59a2c6fa5f0390a02"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "“(Copy from Butterfield, at Falmouth, to Sedgwick, ",
     "quoteTime": "5.50 p.m.",
-    "quoteLast": "]",
-    "title": "Encyclopaedia Britannica, 11th Edition, \"Joints\" to \"Justinian I.\"\r\nVolume 15, Slice 5",
-    "author": "Various",
-    "gutenbergReference": "40956",
-    "matchType": 2,
-    "hash": "0924a5ce5fd44270859f5b7d73bd29ca6fbad6de06a787e9df6790ac37588291"
+    "quoteLast": ").”",
+    "title": "Stonewall Jackson and the American Civil War",
+    "author": "Henderson, G. F. R. (George Francis Robert), 1854-1903; Wolseley, Garnet Wolseley, Viscount, 1833-1913 [Author of introduction, etc.]",
+    "gutenbergReference": "12233",
+    "hash": "c51e9291877488e5467b7253c1a1bbeafa15e27fbca4b4b6298eb1f08eedb5df"
   },
   {
     "time": "17:50",
-    "quoteFirst": "\"_Voila!_ We are ready. Let us advance!\" proclaimed Adrienne with a smothered chuckle, when at ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": " a determined trio left Adrienne's room on the fateful errand to the room next door.",
-    "title": "Jane Allen, Right Guard",
-    "author": "Bancroft, Edith",
-    "gutenbergReference": "19015",
-    "matchType": 1,
-    "hash": "abae5daf68de25e9f895e22977b1f74e2f4d75046e7b096693f454060c191dd2"
+    "quoteFirst": "| |                   |              | 10.0 P.M.  London                | +-------------------+--------------+----------------------------------+ | Milnehead, R.S.O. | Somerset     | 10.0 A.M.  Birmingham            | |      (_Taunton_)  |              | 2.40 P.M.  Midland T.P.O., F. 1  | |                   |              | ",
+    "quoteTime": "5.50 P.M.",
+    "quoteLast": "  G. & C. S.T.          | |                   |              |  9.0 P.M.  B. & E. T.P.O.        | |                   |              | 10.0 P.M.  London                | +-------------------+--------------+----------------------------------+ | Mitcham           | Surrey       | 10.0 A.M.  London                | |                   |              | 2.40 P.M.  London Sub.",
+    "title": "The Royal Mail: Its Curiosities and Romance",
+    "author": "Hyde, James Wilson, 1841-1918",
+    "gutenbergReference": "39978",
+    "hash": "94c441118be6340946eb156a79f46900f73b18a59103592e5ff2f6e4e2953268"
   },
   {
     "time": "17:50",
-    "quoteFirst": "He returned to his desk and there spent the afternoon solemnly poring over figures, casting accounts, comparing balance-sheets, writing letters, occasionally going for some purpose or another into the clerks' office or into the room of one of the partners. At ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": " he wiped his pens and put them back in the tray, tidied his desk and locked his drawer. He took off his paper cuffs, washed his hands, wiped his face, brushed his hair, arranging the long whisps over the occipital baldness, and combed his whiskers.",
-    "title": "Orientations",
-    "author": "Maugham, W. Somerset (William Somerset), 1874-1965",
-    "gutenbergReference": "31308",
-    "matchType": 1,
-    "hash": "bb136b98d26de53710630b7c88bff1c82689f9379382bddb7c62784e3cb6e971"
+    "quoteFirst": "Though the German guns maintained a rapid fire upon them, they were going so fast that they escaped out of effective range without any serious damage, regained their station on their enemy’s bow, and then reduced speed till they were within easy range for their little guns. But in the interval the _Kincardineshire_ had perceptibly gained on the German ship, and was now within extreme range. About ",
+    "quoteTime": "5.50 p.m.",
+    "quoteLast": " she fired a shot from her fore-turret, and, as it passed over the German ship, opened a slow but precise fire from all her 6-inch guns that would bear at about 9000 yards range.",
+    "title": "The Invasion of 1910, with a full account of the siege of London",
+    "author": "Le Queux, William, 1864-1927",
+    "gutenbergReference": "51905",
+    "hash": "0f3a7161114b3d0555f24c786e6680ae6e236e1f930a64628280c9a901c14d19"
   },
   {
     "time": "17:50",
@@ -73,150 +87,116 @@
     "title": "The Royal Mail: Its Curiosities and Romance",
     "author": "Hyde, James Wilson, 1841-1918",
     "gutenbergReference": "39978",
-    "matchType": 2,
     "hash": "73592e5a153c9dcaf66ba6641c645ead8ab68efbf8b67c065e8bc9e06771d06f"
   },
   {
     "time": "17:50",
-    "quoteFirst": "\"Mrs. Chepstow is down for five-thirty. It is now\"--he pulled out his watch--\"nearly ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": ". Hasn't she come?\"",
-    "title": "Bella Donna: A Novel",
-    "author": "Hichens, Robert, 1864-1950",
-    "gutenbergReference": "17698",
-    "matchType": 1,
-    "hash": "efabe1b32c7a675d5fa902a4752e0fc55f2b76600a2c3247039e48a9c5a940d9"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "| |                   |              |  9.0 P.M.  Gloucester            | |                   |              | 10.0 P.M.  Manchester            | +-------------------+--------------+----------------------------------+ | Milnthorpe        | Westmorland  | 10.0 A.M.  Birmingham            | |                   |              | 2.40 P.M.  Midland T.P.O., F. 3  | |                   |              | ",
-    "quoteTime": "5.50 P.M.",
-    "quoteLast": "  G. & C. S.T.          | |                   |              |  9.0 P.M.  B. & E. T.P.O.        | |                   |              | 10.0 P.M.  London                | +-------------------+--------------+----------------------------------+ | Milverton, R.S.O. | Somerset     | 10.0 A.M.  Birmingham            | |      (_Taunton_)  |              | 2.40 P.M.  Midland T.P.O., F.",
-    "title": "The Royal Mail: Its Curiosities and Romance",
-    "author": "Hyde, James Wilson, 1841-1918",
-    "gutenbergReference": "39978",
-    "matchType": 2,
-    "hash": "44d6a59203b438ed4465381e6983773afe27f546f4df1c505fbe187553ee0f66"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "_August 13th._--I awoke very sick. At ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": " Euphemia went upstairs to see England. After we had had some tea I went on deck, where I lay down, very glad to leave the close, hot cabin.",
-    "title": "The Diary of a Girl in France in 1821",
-    "author": "Browne, Mary, 1807-1833; Browne, Euphemia Stewart [Author of introduction, etc.]; Shore, Henry N., 1847-1926 [Editor]",
-    "gutenbergReference": "53908",
-    "matchType": 1,
-    "hash": "c739e77176767408558f2840c9fbe9260dd5f89618747fe29a1e2b255c39f765"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "The gilt hands of the church clock made it ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": " when Erskine shook his head and bent it attentively. When the hour struck he had opened his mouth only once, to answer her question as to how much he knew of her affair with Lord Manister in Melbourne.",
-    "title": "Tiny Luttrell",
-    "author": "Hornung, E. W. (Ernest William), 1866-1921",
-    "gutenbergReference": "37320",
-    "matchType": 1,
-    "hash": "4b2f9d05ac39b50f631f9798081f005703a02ae07f193cd7e1e052c6c8b6831b"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "“Friedrich Strasse! ",
-    "quoteTime": "Ten minutes to six",
-    "quoteLast": "! I must find the restaurant and have breakfast.” There is no sense in neglecting the inner man; no experienced campaigner will voluntarily risk it.",
-    "title": "My Escape from Germany",
-    "author": "Keith, Eric A.",
-    "gutenbergReference": "49509",
-    "matchType": 1,
-    "hash": "f6018c010380a9f6d56a6e8fd736b3b9b6b690d07c78f30ed6c7d26fbb9f631a"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "These were pointed questions, and so sharply did the lads' foreign counsellor apply them, that at ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": " Albert drew forth the satchel from its place of concealment, and Rudolph expressed his determination of becoming an officer in the German army.",
-    "title": "Harper's Young People, May 3, 1881\nAn Illustrated Weekly",
-    "author": "Various",
-    "gutenbergReference": "45345",
-    "matchType": 1,
-    "hash": "bca7e81458dc1c95301c9731859ae554cc3484bb878c201fd8bc73b025b0c3ff"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "At precisely ",
-    "quoteTime": "5.50 P.M.",
-    "quoteLast": " Windham pulled the lanyard of his gun and the battle was on. The other guns of the _Shannon_ were fired in quick succession and the _Chesapeake_ replied with a full broadside.",
-    "title": "The history of our Navy from its origin to the present day, 1775-1897, vol. 2 (of 4)",
-    "author": "Spears, John Randolph, 1850-1936",
-    "gutenbergReference": "71795",
-    "matchType": 2,
-    "hash": "47dc18698bbc188ce3598209a7f84d1e47a7af4658878f7948db089cf66e7b00"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "That night I didn't sleep much. I was up and dressed by five-thirty. I hid beneath the shadow of a wall near the barracks and struck matches to look at my watch. At ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": " the street was full of unseen, hurrying feet which sounded ghostly in the darkness. I followed them into the parade-ground.",
-    "title": "The Glory of the Trenches",
-    "author": "Dawson, Coningsby, 1883-1959",
-    "gutenbergReference": "7515",
-    "matchType": 1,
-    "hash": "c3532715ffe4db5fa4822d90161ce65d8d2ce03a09455110d712c53b6bcfe302"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "| |                   |              |  9.0 P.M.  Gloucester            | |                   |              | 10.0 P.M.  Manchester            | +-------------------+--------------+----------------------------------+ | Milnthorpe        | Westmorland  | 10.0 A.M.  Birmingham            | |                   |              | 2.40 P.M.  Midland T.P.O., F. 3  | |                   |              | ",
-    "quoteTime": "5.50 P.M.",
-    "quoteLast": "  G. & C. S.T.          | |                   |              |  9.0 P.M.  B. & E. T.P.O.        | |                   |              | 10.0 P.M.  London                | +-------------------+--------------+----------------------------------+ | Milverton, R.S.O. | Somerset     | 10.0 A.M.  Birmingham            | |      (_Taunton_)  |              | 2.40 P.M.  Midland T.P.O., F.",
-    "title": "The Royal Mail: Its Curiosities and Romance",
-    "author": "Hyde, James Wilson, 1841-1918",
-    "gutenbergReference": "39978",
-    "matchType": 2,
-    "hash": "44d6a59203b438ed4465381e6983773afe27f546f4df1c505fbe187553ee0f66"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "| |                   |              | 10.0 P.M.  London                | +-------------------+--------------+----------------------------------+ | Mitcham           | Surrey       | 10.0 A.M.  London                | |                   |              | 2.40 P.M.  London Sub.           | |                   |              | ",
-    "quoteTime": "5.50 P.M.",
-    "quoteLast": "  London Sub.           | |                   |              | 7.20 P.M.  London                | |                   |              |  9.0 P.M.  London Sub.           | |                   |              | 10.0 P.M.  London                | +-------------------+--------------+----------------------------------+ | Mitcheldean,      | Gloucester   | 10.0 A.M.  Birmingham            | |   R.S.O. (_Ross_) |              | 2.40 P.M.  Gloucester            | |                   |              | 5.50 P.M.  G. & C. S.T.",
-    "title": "The Royal Mail: Its Curiosities and Romance",
-    "author": "Hyde, James Wilson, 1841-1918",
-    "gutenbergReference": "39978",
-    "matchType": 2,
-    "hash": "9a8efdf4776bf34129aeb854bf69093910cb643cf007773ec83a6f6519f9d968"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "Harris, Lucille, and the Judge, an acquaintance made on the ship, soon joined them. Their watches agreed that it was ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": " o 'clock. The decks had been washed and put in order, engines were running at full speed, the eastern sky was flushed with crimson and golden bands that shot out of the horizon, and fan-like in shape faded up in the zenith. With watches in hand, all eyes were fixed on a pathway of intensely lighted sea and sky in the east.",
-    "title": "The Harris-Ingram Experiment",
-    "author": "Bolton, Charles E. (Charles Edward), 1841-1901",
-    "gutenbergReference": "16834",
-    "matchType": 1,
-    "hash": "2948d0ad4f0a897fbf179e4317a3772ebc136eecaa8fa8b8f442b8ebf2528083"
-  },
-  {
-    "time": "17:50",
-    "quoteFirst": "At ",
+    "quoteFirst": "About this time it was noticed that the Germans were massing near the Martinpuich-Pozieres road, but our artillery soon brought their fire on to them and broke them up. Our counter-attack was launched at ",
     "quoteTime": "5.50 p.m.",
-    "quoteLast": " orders came to endeavour to make good Epehy and Peiziere.",
-    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
-    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
-    "gutenbergReference": "73159",
-    "matchType": 2,
-    "hash": "b14cb2a7183b38c1eff577ea14bc990c86414805feb1e540c1bb77d93c9eaa6e"
+    "quoteLast": ", and was entirely successful.",
+    "title": "The History of the 7th Battalion Queen's Own Cameron Highlanders",
+    "author": "Sandilands, James Walter; MacLeod, Norman, 1872-1960",
+    "gutenbergReference": "50301",
+    "hash": "0eceaab8a95862bbd5c39e98df3954c9778f7440e9fe5e1d5e79b2af29a76327"
   },
   {
     "time": "17:50",
-    "quoteFirst": "Here and there a belated customer might be seen wandering from counter to counter, but the day's business was practically finished and the saleswomen were busily counting their sales or conversing with their nearest neighbors in low tones. It was ",
+    "quoteFirst": "\"_Voila!_ We are ready. Let us advance!\" proclaimed Adrienne with a smothered chuckle, when at ",
     "quoteTime": "ten minutes to six",
-    "quoteLast": " when Grace, inwardly congratulating herself on having been able to do so much shopping in so short a space of time, hurried to the ribbon counter. Blue velvet ribbon was the last item on her list.",
-    "title": "Grace Harlowe's Fourth Year at Overton College",
-    "author": "Chase, Josephine, -1931",
-    "gutenbergReference": "20474",
-    "matchType": 1,
-    "hash": "895b2e66f719310f510fb7ba1b7e7c93576d692a41a35aec97b04334d26c5670"
+    "quoteLast": " a determined trio left Adrienne's room on the fateful errand to the room next door.",
+    "title": "Jane Allen, Right Guard",
+    "author": "Bancroft, Edith",
+    "gutenbergReference": "19015",
+    "hash": "abae5daf68de25e9f895e22977b1f74e2f4d75046e7b096693f454060c191dd2"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "There was a chorus of farewell shouts and she glided up into the air, a long row of people waving farewells from the windows. Prince Shan glanced at his watch,--twenty minutes to six. He paced the wooden boards and looked again,--",
+    "quoteTime": "ten minutes to six",
+    "quoteLast": ".",
+    "title": "The Great Prince Shan",
+    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+    "gutenbergReference": "13123",
+    "hash": "bbfdc049c59fb4178709d8d64d794b1b19de3fb83a4108944ffdccc65659dcb1"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "On August 27, about ",
+    "quoteTime": "5:50 p.m.",
+    "quoteLast": ", a majority (say half a dozen) of a small band of Caribou were lying down on a slope near the mouth of Little River. They faced down wind to watch for enemies in that direction, while their noses would warn them of any approaching from the opposite direction.",
+    "title": "The Barren Ground Caribou of Keewatin",
+    "author": "Harper, Francis, 1886-1972",
+    "gutenbergReference": "33721",
+    "hash": "3fb8adf83f32b708353d9c011928f9c4e243df2cb19f29d2f81c3d1799051602"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "Washington terminal at ",
+    "quoteTime": "ten minutes to six",
+    "quoteLast": ". He neatly avoided the row of taxicabs standing before the entrance and found a parking place. Hurrying, he pushed his way through the milling crowds on the concourse and went into the waiting room.",
+    "title": "Jean Craig, Graduate Nurse",
+    "author": "Lyttleton, Kay; Orbaan, Albert, 1913-1983 [Illustrator]",
+    "gutenbergReference": "66017",
+    "hash": "a24d3c58e4dfd997f1275fbcb1f42da2f8346e5b631f6defe91f71fafb9dbb44"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "But is it altogether impossible that Scheer began his gradual easterly turn before suspecting that the Grand Fleet was out? Was he not, perhaps, already aware of the dangers of getting too far afield, and beginning that gradual turn which might keep Sir David Beatty’s ships in play as long as daylight lasted, without giving the openings which a direct attempt at flight would offer? Whatever the explanation of the movements, the enemy began this gradual turn and Sir David turned with him, increasing speed, so as to maintain his general relation to the head of the German line. At ",
+    "quoteTime": "ten minutes to six",
+    "quoteLast": " some of the Grand Fleet’s cruisers were observed ahead, and six minutes later the leading battleships came into view. The moment for which every movement since 2:20 had been a preparation had now arrived--the Grand Fleet and the German Fleet were to meet.",
+    "title": "The British Navy in Battle",
+    "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
+    "gutenbergReference": "54441",
+    "hash": "c9c04643a6336db9dd1ab96ec0d4dc439c566acb61206cba78454e7cd21f4a0b"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "| |                   |              |  9.0 P.M.  Gloucester            | |                   |              | 10.0 P.M.  Manchester            | +-------------------+--------------+----------------------------------+ | Micheldever       | Hants        | 10.0 A.M.  London                | |       Station     |              | 2.40 P.M.  London, S.W. Div.     | |                   |              | ",
+    "quoteTime": "5.50 P.M.",
+    "quoteLast": "  London, S.W. Div.     | |                   |              | 7.20 P.M.  London                | |                   |              |  9.0 P.M.  London, S.W. Div.     | |                   |              | 10.0 P.M.  London                | +-------------------+--------------+----------------------------------+ | Middlesborough    | York         | 10.0 A.M.  Darlington            | |                   |              | 10.0 P.M.  Bag                   | +-------------------+--------------+----------------------------------+ | Middleton-on-the- | York         | 10.0 A.M.  York                  |",
+    "title": "The Royal Mail: Its Curiosities and Romance",
+    "author": "Hyde, James Wilson, 1841-1918",
+    "gutenbergReference": "39978",
+    "hash": "1e4baaa6542abb0d71898ec94cb39bb274bc2f73c7ec193ddd62a2d9b1341913"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "40, crossing low ironstone ridges and wide grassy plains, with belts of box, terminalia, white-gum, and silver-leafed ironbark of small size; the grass very inferior, with patches of triodia on the ridges; then traversed a level country covered with small trees and dry grass for two hours, after which we followed a dry watercourse, with large hollows in its bed, to the north-north-west for one hour; the shells of large unios abundant, but no water; altered the course to the east; passed two lines of box-trees crossing the plain from the south to the north, and at ",
+    "quoteTime": "5.50 p.m.",
+    "quoteLast": " camped in the plain without water; a strong breeze from the south-east during the day had rendered the heat less oppressive than usual.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "94e257bf1e8e0a2051800828fe458cd273db40ad9a5d22a61dbb69ee171b8313"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "At half-past five in the afternoon the _Chesapeake_, with a large flag flying, on which was inscribed the words, \"Sailor's rights and free trade,\" approached the _Shannon_, and soon afterwards, luffing up within about fifty yards of her starboard-quarter, gave three cheers.  At ",
+    "quoteTime": "5:50 p.m.",
+    "quoteLast": " the _Shannon's_ aftermost main-deck gun was fired, and the two combatants exchanged broadsides.  The _Chesapeake_, however, coming sharply up to the wind, in consequence of all the men at her helm being killed, was exposed to a shot from the _Shannon's_ aftermost gun, which took a diagonal direction along her decks, beating in her stern-ports and sweeping the men from their quarters.",
+    "title": "How Britannia Came to Rule the Waves\nUpdated to 1900",
+    "author": "Kingston, William Henry Giles, 1814-1880",
+    "gutenbergReference": "23496",
+    "hash": "3b7f4886f6a468e8695547e1593270edde48eb47fc5410ebf774b1519a24ab9f"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "\"",
+    "quoteTime": "Ten minutes to six",
+    "quoteLast": ",\" remarked Tignol. \"My train leaves at six forty.\"",
+    "title": "Through the Wall",
+    "author": "Moffett, Cleveland, 1863-1926",
+    "gutenbergReference": "11373",
+    "hash": "611445793dac079f0f21ac18d0abed5912a4ff2d189225f733787bcfb768c7c3"
+  },
+  {
+    "time": "17:50",
+    "quoteFirst": "On August 27, about ",
+    "quoteTime": "5:50 p.m.",
+    "quoteLast": ", a majority (say half a dozen) of a small band of Caribou were lying down on a slope near the mouth of Little River. They faced down wind to watch for enemies in that direction, while their noses would warn them of any approaching from the opposite direction.",
+    "title": "The Barren Ground Caribou of Keewatin",
+    "author": "Harper, Francis, 1886-1972",
+    "gutenbergReference": "33721",
+    "hash": "3fb8adf83f32b708353d9c011928f9c4e243df2cb19f29d2f81c3d1799051602"
   }
 ]

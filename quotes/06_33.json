@@ -7,7 +7,6 @@
     "title": "Voyage to Jupiter",
     "author": "Morrison, David, 1940-; Samz, Jane",
     "gutenbergReference": "58915",
-    "matchType": 2,
     "hash": "b15013bbdb6a89febb022083c8032cb570d35b6239cc30d0935eb4f62aaf079b"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, February 1884, No. 5.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55132",
-    "matchType": 2,
     "hash": "ce13b45acbcb68e6b6ee41814e9080f174e60011e4e28390273f313b955e9600"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "e4e1fd174d882c00dd30e739d19581ca711f61e51b9d4cce1918828b8c5f4426"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Garden Party, and Other Stories",
     "author": "Mansfield, Katherine, 1888-1923",
     "gutenbergReference": "1429",
-    "matchType": 1,
     "hash": "919a6ef4fd8e8854678b13cc007e6e99175d3295f2744ea4ca6aca31e6f402b0"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grenadier Guards in the Great War of 1914-1918, Vol. 2 of 3",
     "author": "Ponsonby, Frederick, 1867-1935",
     "gutenbergReference": "61216",
-    "matchType": 2,
     "hash": "d6252d070eecad73019cfd999a9b8747c8aca3a11a4fa1fcddcf6588c363a3c9"
   },
   {
@@ -29,7 +27,6 @@
     "title": "History of the Thirty-sixth Regiment Massachusetts Volunteers. 1862-1865",
     "author": "Burrage, Henry S. (Henry Sweetser), 1837-1926; Hodgkins, William H. (William Henry), 1840-1905; Noyes, Edmund W.; Ranlett, S. Alonzo; White, Alonzo A.",
     "gutenbergReference": "50422",
-    "matchType": 0,
     "hash": "f4a30640c5a90bf7be1bda0df2ce519716c34ee29059bd808ffe3a033c1f6588"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Cosmic symbolism",
     "author": "Sepharial, 1864-1929",
     "gutenbergReference": "70749",
-    "matchType": 2,
     "hash": "45723f796e963115e877176ea7f2b3453608cf3bc2d0f9c49e7e313f0ca701a0"
   }
 ]

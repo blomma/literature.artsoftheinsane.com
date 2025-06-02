@@ -1,179 +1,23 @@
 [
   {
     "time": "10:10",
-    "quoteFirst": "10.00 A. M.  Bugle Call to Village Green. 10.05 A. M.  Music by Town Band. ",
-    "quoteTime": "10.10 A. M.",
-    "quoteLast": "  Reading of Declaration of Independence.",
-    "title": "The Mary Frances first aid book",
-    "author": "Fryer, Jane Eayre, 1876-; Boyer, Jane Allen, 1875-1940 [Illustrator]",
-    "gutenbergReference": "54216",
-    "matchType": 2,
-    "hash": "abb942a3b8e99eb5dbd1d3529158d2a277651d09505ecdbbb3647517015e1065"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes past ten",
-    "quoteLast": " the great red Mercedes drew up outside the block of flats where Spencer Hastings lived. Anthony had broken his own record of that afternoon for the Kensington-Marling journey.",
-    "title": "The rasp",
-    "author": "MacDonald, Philip, 1901?-1980",
-    "gutenbergReference": "72462",
-    "matchType": 1,
-    "hash": "f02dc358ea304f0dcfccc0b65f8abfd1302074b906ae234bed9612ca39c00f31"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "; much of the ground passed over having been sandy and dry. We now found water in every hollow, a great blessing brought by the rain, and affording some prospect of relief from one great difficulty for some time to come. At ",
-    "quoteTime": "10 minutes past 10",
-    "quoteLast": " P.M. a very extraordinary meteor alarmed the camp, and awoke every man in it. First, a rushing wind from the west shook the tents; next, a blaze of light from the same quarter drew attention to a whirling mass, or revolving ball of red light, passing to the southward.",
-    "title": "Journal of an Expedition into the Interior of Tropical Australia, in Search of a Route from Sydney to the Gulf of Carpentaria (1848)",
-    "author": "Mitchell, T. L. (Thomas Livingstone), 1792-1855",
-    "gutenbergReference": "9943",
-    "matchType": 1,
-    "hash": "464826c88950a95b9ec78f30426e2e91082a709097fe369735e9e4ef58867a74"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "On the 15th of August, 1895, after early coffee, made by the _portier_ of the Hotel Belvedère at Interlaken, I drove to Merligen, on the north shore of the lake, with Emil Von Allmen, an excellent guide. We left Merligen on foot at a quarter before seven, and, making no stops on the way, reached the Schafloch at ",
-    "quoteTime": "ten minutes past ten",
-    "quoteLast": ". The path mounts gently up the Wüste Thal, which higher up is called the Justiz Thal. The track through the latter is almost on a level, over grassy alps.",
-    "title": "Glacières; or, Freezing Caverns",
-    "author": "Balch, Edwin Swift, 1856-1927",
-    "gutenbergReference": "52216",
-    "matchType": 1,
-    "hash": "e86d6a0761282f352ecfa4b0437147dae2785007c46ac1f40f5b87eaf24bcac1"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "Emma. ",
-    "quoteTime": "Ten minutes past ten",
-    "quoteLast": " dear beloved Sir William left me.\" Emma was poorly provided for; only £700 a year jointure and £100 a year for her mother for life. She and Nelson appealed to Lord Minto to urge on Mr. Addington her claim for a pension, and she vowed to Minto that her connection with Nelson was pure, and he says he can believe it, which is hardly consistent with the description he gives his wife as to \"their open and disgusting proceedings,\" or with his comments on a visit paid to the Duke of Marlborough at Blenheim, where the Duke had treated the gallant naval chief and his party as though they were mere",
-    "title": "Drake, Nelson and Napoleon",
-    "author": "Runciman, Walter Runciman, Baron, 1847-1937",
-    "gutenbergReference": "15299",
-    "matchType": 1,
-    "hash": "e26ab09af8c5764f64935f01fdda3f09627c917cc82ede30b014dd8a5cb34e77"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "Hungerford, you again trust yourself to the tender mercies of the London and North-Western line with the intention of calling on Miss Jessie Fothergill, author of \"The First Violin,\" etc., in her own home. Starting at ",
-    "quoteTime": "10.10 a.m.",
-    "quoteLast": " from Euston, and having prudently taken another of the young writer's works, \"Kith and Kin,\" to beguile the time during the long journey, you arrive punctually at 2.20 p.m. at the busy, bustling town of Manchester, having found that with the fascinating novel, combined with the smoothly-running and comfortable carriages and a good luncheon basket, four hours have passed like one; so deeply absorbing is the story that you have lost all count of time, and utterly neglected to notice the scenery through which you have been so rapidly carried.",
-    "title": "Notable Women Authors of the Day: Biographical Sketches",
-    "author": "Black, Helen C., 1838-1906",
-    "gutenbergReference": "38596",
-    "matchType": 2,
-    "hash": "790d611442c69cd2bb8a5a6d7b31ce9f1a799973907e656bbbeae34bbacabb26"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "Several times, despite the spell of Swift, he glanced at his watch.  The hand went from nine to ",
-    "quoteTime": "ten minutes past ten",
-    "quoteLast": ".  And then he thought he heard the sound for which he had been listening.  He jumped up, abandoned the book with its marker, opened the window wide, and lifting the blind by its rod, put his head out.",
-    "title": "Clayhanger",
-    "author": "Bennett, Arnold, 1867-1931",
-    "gutenbergReference": "21249",
-    "matchType": 1,
-    "hash": "9eb8e8c951a337c61da72ad191eb25dbabd312468ad0dd06052a77bb21aec2f2"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "The two boys reached Wall Street about ",
-    "quoteTime": "ten minutes past ten",
-    "quoteLast": ". They turned the corner and entered the great financial artery of New York.",
-    "title": "The Young Salesman",
-    "author": "Alger, Horatio, Jr., 1832-1899",
-    "gutenbergReference": "56798",
-    "matchType": 1,
-    "hash": "fd803316cda0be439eca81bc694eefbecb81d6333c7ba80457588af5f09f8fe7"
-  },
-  {
-    "time": "10:10",
     "quoteFirst": "EXECUTIVE MANSION, WASHINGTON, APRIL 23, 1863 ",
     "quoteTime": "10.10am",
     "quoteLast": "",
     "title": "The Papers and Writings of Abraham Lincoln — Volume 6: 1862-1863",
     "author": "Lincoln, Abraham, 1809-1865; Lapsley, Arthur Brooks [Editor]",
     "gutenbergReference": "2658",
-    "matchType": 2,
     "hash": "48830a550e480825e5f9e744cfa8ef6f6687e98c6ce9d79163938f44d14da691"
   },
   {
     "time": "10:10",
-    "quoteFirst": "Then suddenly I looked at my watch. It was ",
+    "quoteFirst": "'Seven minutes, or ",
     "quoteTime": "ten minutes past ten",
-    "quoteLast": ". I still had some minutes, and I used them for a sort of cadenza to whatever my performance might have been. Then, rising abruptly, I said I must be off.",
-    "title": "The Debit Account",
-    "author": "Onions, Oliver, 1873-1961",
-    "gutenbergReference": "37479",
-    "matchType": 1,
-    "hash": "f79c8ea8eb4f4c1e49efb94caaee725120e0e9c9bdfac42b1e4717fc68831bed"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "She asked me to come too, but I had to refuse because my dressmaker--I mean, Susannah couldn't be left by herself, she smashes things so. She fell on the kitchen stairs this morning, bringing the breakfast things up--are you busy? and are you sure I'm not bothering you or interfering with clients and things? I arrived here really at ",
-    "quoteTime": "ten minutes past ten",
-    "quoteLast": ", and walked up and down outside till people began to stare at me, so I came in.\"",
-    "title": "Fanny Lambert: A Novel",
-    "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
-    "gutenbergReference": "55454",
-    "matchType": 1,
-    "hash": "1a70092c5cc53cb76e2d7cfb7eb404edeaea6b4bb8d5bd1cfe658d27c922e8ce"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "Desert, ",
-    "quoteTime": "10:10 a.m.",
-    "quoteLast": " (EDT) (T46N-R40W-Sec 36)",
-    "title": "An Experimental Translocation of the Eastern Timber Wolf",
-    "author": "Weise, Thomas F.; Hook, Richard A.; Mech, L. David; Robinson, William Laughlin, 1933-",
-    "gutenbergReference": "35006",
-    "matchType": 2,
-    "hash": "c9bb53e1fe0eef205e385947e74df4915eae180c75214f9a8cfa9196beacb3ee"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "\"We shall prove to your entire satisfaction, by competent and credible witnesses, that at that time the prisoner at the bar was then present, aiding and abetting that murder; and that at ",
-    "quoteTime": "ten minutes past ten",
-    "quoteLast": " o'clock that night he was in front of that theatre in company with Booth. You shall hear what he then said and did. You shall know that his cool and calculating malice was the director of the bullet that pierced the brain of the President and the knife that fell upon the venerable Secretary of State.",
-    "title": "Assassination of Lincoln: a History of the Great Conspiracy\r\nTrial of the Conspirators by a Military Commission, and a Review of the Trial of John H. Surratt",
-    "author": "Harris, T. M. (Thomas Mealey), 1817-1906",
-    "gutenbergReference": "42855",
-    "matchType": 1,
-    "hash": "a1bbe19416c45ccf449112eff2172bed6c8665c4f7fbbc36d156a0afb953137a"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "After marching about six miles, we entered a gorge called Umm el-Bíbán, \"the Mother of Gates,\" formed by the stony spurs of the Wady bank: the number of birds and trees, especially in the syenitic valleys, showed that water could not be far off. At ",
-    "quoteTime": "10.10 a.m.",
-    "quoteLast": " a halt was called at the half-way place, a bay or hollow in the left cliff, El-Humayrah--\"the Little Red\"--an overhanging wall of ruddy grit some eighty feet high, with strata varying in depth from a few lines to as many fathoms, all differing in colour, and all honeycombed, fretted, and sculptured by wind and rain.",
-    "title": "The Land of Midian (Revisited) — Volume 1",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "7111",
-    "matchType": 2,
-    "hash": "d378d0a79248f5dd64cafe7733e4b9aa629d4802fd8ff15fbaefbf4eb682ec64"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "\"Tomorrow will decide that. It is now ",
-    "quoteTime": "ten minutes past ten",
-    "quoteLast": "; how many potions have you given?\"",
-    "title": "Beulah",
-    "author": "Evans, Augusta J. (Augusta Jane), 1835-1909",
-    "gutenbergReference": "4246",
-    "matchType": 1,
-    "hash": "444716e33d0bb45a1f0dfe0eb1b4217209a3865f4387e39ca58887a7d091f2f2"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes past ten in the morning",
-    "quoteLast": ", a dull rumor, drawing nearer and nearer, announced the arrival of the condemned. My sister and I were not far from the scaffold, behind a line of Municipal Guards.",
-    "title": "The Sword of Honor; or, The Foundation of the French Republic\r\nA Tale of The French Revolution",
-    "author": "Sue, Eugène, 1804-1857; De Leon, Daniel, 1852-1914 [Translator]; De Leon, Solon, 1883- [Translator]",
-    "gutenbergReference": "35633",
-    "matchType": 0,
-    "hash": "17038cf2d8a34aa63e162a0c0e6ad027fb0646543e7579386c469e75f3f47c47"
+    "quoteLast": ".'",
+    "title": "The Romany Rye\nA Sequel to 'Lavengro'",
+    "author": "Borrow, George, 1803-1881; Sampson, John, 1862-1931 [Editor]",
+    "gutenbergReference": "25071",
+    "hash": "bf9047ddb87fabc90c89600c63b3b04d4d9b5c9fd74c40674155541927c2da3c"
   },
   {
     "time": "10:10",
@@ -183,40 +27,176 @@
     "title": "Journals of Australian Explorations",
     "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
     "gutenbergReference": "10461",
-    "matchType": 2,
     "hash": "0a9724540e23d0c7b5cd23edfa452e89aa81d17547d615cac0d8fa85ed7a5cc2"
   },
   {
     "time": "10:10",
-    "quoteFirst": "\"The kitchen clock says ",
+    "quoteFirst": "Several times, despite the spell of Swift, he glanced at his watch.  The hand went from nine to ",
     "quoteTime": "ten minutes past ten",
-    "quoteLast": ".\"",
-    "title": "The Girl at Central",
-    "author": "Bonner, Geraldine, 1870-1930; Brown, Arthur William, 1881-1966 [Illustrator]",
-    "gutenbergReference": "35503",
-    "matchType": 1,
-    "hash": "b63bfb679562eb66993ca4c86570258512ae6def18276d7a0fc2be0f5d968fe2"
+    "quoteLast": ".  And then he thought he heard the sound for which he had been listening.  He jumped up, abandoned the book with its marker, opened the window wide, and lifting the blind by its rod, put his head out.",
+    "title": "Clayhanger",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "21249",
+    "hash": "9eb8e8c951a337c61da72ad191eb25dbabd312468ad0dd06052a77bb21aec2f2"
   },
   {
     "time": "10:10",
-    "quoteFirst": "Louis sat composedly ",
+    "quoteFirst": "; much of the ground passed over having been sandy and dry. We now found water in every hollow, a great blessing brought by the rain, and affording some prospect of relief from one great difficulty for some time to come. At ",
+    "quoteTime": "10 minutes past 10",
+    "quoteLast": " P.M. a very extraordinary meteor alarmed the camp, and awoke every man in it. First, a rushing wind from the west shook the tents; next, a blaze of light from the same quarter drew attention to a whirling mass, or revolving ball of red light, passing to the southward.",
+    "title": "Journal of an Expedition into the Interior of Tropical Australia, in Search of a Route from Sydney to the Gulf of Carpentaria (1848)",
+    "author": "Mitchell, T. L. (Thomas Livingstone), 1792-1855",
+    "gutenbergReference": "9943",
+    "hash": "464826c88950a95b9ec78f30426e2e91082a709097fe369735e9e4ef58867a74"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "\"Why, it's ",
+    "quoteTime": "ten minutes past Ten",
+    "quoteLast": ",\" replied LIBBY, glancing at the face of the watch as it appeared in the mirror, and wondering what would come next.",
+    "title": "The Orpheus C. Kerr Papers, Series 2",
+    "author": "Newell, R. H. (Robert Henry), 1836-1901",
+    "gutenbergReference": "34754",
+    "hash": "88b08b6adc535425d8ad166f56cd7457929d0d84d81892c909bdfee04acde916"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": " the carriage stopped. Louis XVI., rising briskly, stepped out into the Place. Three executioners came up; he refused their assistance, and took off his clothes himself. But, perceiving that they were going to bind his hands, he made a movement of indignation, and seemed ready to resist. M. Edgeworth gave him a last look, and said, \"Suffer this outrage, as a last resemblance to that God who is about to be your reward.\" At these words the King suffered himself to be bound and conducted to the scaffold. All at once Louis hurriedly advanced to address the people. \"Frenchmen,\" said he, in a firm voice, \"I die innocent of the crimes which are imputed to me; I forgive the authors of my death, and I pray that my blood may not fall upon France.\" He would have continued, but the drums were instantly ordered to beat: their rolling drowned his voice; the executioners laid hold of him, and M. Edgeworth took his leave in these memorable words: \"Son of Saint Louis, ascend to heaven!\" As soon as the blood flowed, furious wretches dipped their pikes and handkerchiefs in it, then dispersed throughout Paris, shouting \"Vive la Republique! Vive la Nation!\" and even went to the gates of the Temple to display brutal and factious joy.",
+    "title": "Court Memoirs of France Series — Complete",
+    "author": "Various",
+    "gutenbergReference": "3900",
+    "hash": "8acca3e745f6766dc52640eca7957da86bd8d1581658d411335e15e0fd344092"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "Hervey got up to see them off, but was just too late; they caught sight of him, panting and blinking on the platform, in the dull flicker of the gas-lamps, just as their train steamed out of the station. They had a dreadful, slow, stopping journey, and reached Paddington at ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": ", benumbed with cold, sleepy, and depressed. It was Deborah’s first visit to London, and the sensations she experienced as they drove in a shaky four-wheeled cab across the town between Praed street and Trafalgar-square were mingled bewilderment and disappointment.",
+    "title": "The fog princes",
+    "author": "Warden, Florence, 1857-1929",
+    "gutenbergReference": "72077",
+    "hash": "757d5179d9e0ad911f1a77cc82d7233512778da08eaac6cfdf20ef38e46cba5f"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": " the great red Mercedes drew up outside the block of flats where Spencer Hastings lived. Anthony had broken his own record of that afternoon for the Kensington-Marling journey.",
+    "title": "The rasp",
+    "author": "MacDonald, Philip, 1901?-1980",
+    "gutenbergReference": "72462",
+    "hash": "f02dc358ea304f0dcfccc0b65f8abfd1302074b906ae234bed9612ca39c00f31"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "At 6.0 a.m. ascended the trap plain and steered north 190 degrees east; at 6.45 a.m. came to a large creek from the west, which joined the Victoria three-quarters of a mile to the east; but the deep and rocky character of the valley, or rather ravine, in which it ran precluded our approaching it, and we had to turn to the west, and descend from the basalt to the sandstone before the creek could be passed. Continuing an average south course, at ",
+    "quoteTime": "10.10 a.m.",
+    "quoteLast": " came to the Victoria River; the whole channel did not exceed 150 yards in breadth, of which only twenty to fifty were now occupied by water, and the rest by dry rocks and gravel, overgrown by bushes. With great difficulty we followed the river upwards, and were compelled to follow up a tributary creek for about a mile, and then encamped.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "0a9724540e23d0c7b5cd23edfa452e89aa81d17547d615cac0d8fa85ed7a5cc2"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "The prisoner admitted that he had walked in the direction of Slough Station with the idea of meeting a friend. But he was certainly in company with a man named Harris in Eton Square a little before 6.30, and the two remained together until ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": ".",
+    "title": "Mysteries of Police and Crime, Vol. 1 (of 3)",
+    "author": "Griffiths, Arthur, 1838-1908",
+    "gutenbergReference": "46846",
+    "hash": "78be3df9e948d8422e413780707a3b825c7c0d905c480513ee01811e9a3c6cca"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "Thursday, June 24. We went long into the night, then stopped at a lone cabin. Up timely, but slow start--it is ",
+    "quoteTime": "10.10 a. m.",
+    "quoteLast": " before we go.",
+    "title": "Anthropological Survey in Alaska",
+    "author": "Hrdlička, Aleš, 1869-1943",
+    "gutenbergReference": "50752",
+    "hash": "c9ad471425b587694435f02a1a56db110ae5524b1dbea5a5d3b0f459d9369dbb"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "She asked me to come too, but I had to refuse because my dressmaker--I mean, Susannah couldn't be left by herself, she smashes things so. She fell on the kitchen stairs this morning, bringing the breakfast things up--are you busy? and are you sure I'm not bothering you or interfering with clients and things? I arrived here really at ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": ", and walked up and down outside till people began to stare at me, so I came in.\"",
+    "title": "Fanny Lambert: A Novel",
+    "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
+    "gutenbergReference": "55454",
+    "hash": "1a70092c5cc53cb76e2d7cfb7eb404edeaea6b4bb8d5bd1cfe658d27c922e8ce"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": " he left the colonel, carrying with him a written order that made him virtual master of all the outlets of Algeria; he went to his room, fetched his blue overcoat, and going to the garage, secured a motor-car.  A few minutes later he was being driven to Oran, where he arrived shortly before one o'clock in the morning.",
+    "title": "Corporal Jacques of the Foreign Legion",
+    "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
+    "gutenbergReference": "66453",
+    "hash": "dfebbffa8f612cfefabea5c961108fc6099965b22bdc1ad46cc902ff1fbc343d"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "He ascended the scaffold with a firm step, knelt to receive the benediction of the priest, who is recorded to have said, \"Son of Saint Louis, ascend to heaven!\" With some repugnance he submitted to the binding of his hands, and walked hastily to the left of the scaffold; \"I die innocent,\" said he; \"I forgive my enemies; and you, unfortunate people...\" Here, at a signal, the drums and trumpets drowned his voice, and the three executioners seized him. At ",
     "quoteTime": "ten minutes after ten",
-    "quoteLast": " minutes, but at last his impatience to know why he was brought to so deserted an abode, and who he was to see, got the better of his determination to quietly await events, and he rose to ring the bell. He took one of the candles to seek for this indispensible piece of furniture, but in no corner of the grim-visaged tapestry could he find even its remains.",
-    "title": "The Pastor's Fire-side Vol. 1 (of 4)",
-    "author": "Porter, Jane, 1776-1850",
-    "gutenbergReference": "46570",
-    "matchType": 1,
-    "hash": "30ed00c88b939f6844a2248e04b52d323763093ed952a57e2605fcb2015f87cc"
+    "quoteLast": " he had ceased to live.",
+    "title": "History of the French Revolution from 1789 to 1814",
+    "author": "Mignet, M. (François-Auguste-Marie-Alexis), 1796-1884",
+    "gutenbergReference": "9602",
+    "hash": "f2c3945ecb17d93fa378648ec620c87131b0ff0dea5d72ae5ed95410f2ca1a10"
   },
   {
     "time": "10:10",
-    "quoteFirst": "In addition to this double movement each day, there was a similar one of accommodation trains; No. 1, leaving Rome at 2:35 o'clock each morning, arriving and leaving Watertown at 6:20 and 6:40 a. m., respectively, and reaching Ogdensburgh at ",
-    "quoteTime": "10:10 a. m.",
-    "quoteLast": " As No. 8, the accommodation returned, leaving Ogdensburgh at 4:30 p. m., passing Watertown at 8:20 p. m., and arriving at Rome at 12:20 a. m.",
-    "title": "The Story of the Rome, Watertown, and Ogdensburg Railroad",
-    "author": "Hungerford, Edward, 1875-1948",
-    "gutenbergReference": "39021",
-    "matchType": 2,
-    "hash": "a1d54410f37b2921d534d73b3035aa05b315362cdad8b3b5b5516c4c6f92e63d"
+    "quoteFirst": "The world never lost a more upright and accomplished gentleman.\" Lady Hamilton, with ready tears, recorded: \"Unhappy day for the forlorn Emma. ",
+    "quoteTime": "Ten minutes past ten",
+    "quoteLast": " dear blessed Sir William left me.\" The grouping of figures and emotions at that death-bed was odd almost beyond comprehension; one of the most singular studies which human nature has presented to itself of its powers of self-cajolement.",
+    "title": "The Life of Nelson, Volume 2\r\nThe Embodiment of the Sea Power of Great Britain",
+    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+    "gutenbergReference": "16915",
+    "hash": "97b2944ab9b003a64c7fae7a58cd6fcea5615d043a92b3fccbd19e2e537e1acf"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "The white light before my left eye was growing dim, but I remembered the room perfectly. On the left there was a chest of drawers, on the right a mantelpiece surmounted by a damaged clock without a pendulum, the hands of which marked ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": ". The window overlooked the Rue Dauphine, a long, dark street. All Paris seemed to pass below, and the noise was so great that the window shook.",
+    "title": "Four Short Stories By Emile Zola",
+    "author": "Zola, Émile, 1840-1902",
+    "gutenbergReference": "1069",
+    "hash": "0c857369062763fc8c1893a2d7005253ef5ae929751b4f34eb5470d5790946b9"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": " the great red Mercedes drew up outside the block of flats where Spencer Hastings lived. Anthony had broken his own record of that afternoon for the Kensington-Marling journey.",
+    "title": "The rasp",
+    "author": "MacDonald, Philip, 1901?-1980",
+    "gutenbergReference": "72462",
+    "hash": "f02dc358ea304f0dcfccc0b65f8abfd1302074b906ae234bed9612ca39c00f31"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "\"Why, it's ",
+    "quoteTime": "ten minutes past Ten",
+    "quoteLast": ",\" replied LIBBY, glancing at the face of the watch as it appeared in the mirror, and wondering what would come next.",
+    "title": "The Orpheus C. Kerr Papers, Series 2",
+    "author": "Newell, R. H. (Robert Henry), 1836-1901",
+    "gutenbergReference": "34754",
+    "hash": "88b08b6adc535425d8ad166f56cd7457929d0d84d81892c909bdfee04acde916"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "They were standing in a group, almost where Police Constable Farrow had stood at ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": " the previous morning. Hence they were aware of this addition to the day's horrors before the house servants, who, headed by Tomlinson, were gathered on and near the flight of steps at the entrance. Every female servant in the establishment was there as well, not outside the door, but quaking in the hall.",
+    "title": "The Strange Case of Mortimer Fenley",
+    "author": "Tracy, Louis, 1863-1928",
+    "gutenbergReference": "26447",
+    "hash": "70438ca7cb2faefbf77160d8a22eb3e6647bf8aa2b525a8950100509b10e2d46"
   }
 ]

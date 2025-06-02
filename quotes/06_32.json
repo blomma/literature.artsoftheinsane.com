@@ -7,7 +7,6 @@
     "title": "The Dead-Line",
     "author": "Tuttle, W. C. (Wilbur C.), 1883-1969",
     "gutenbergReference": "66821",
-    "matchType": 1,
     "hash": "7a999168709925dffeffacb999486c6195c10dfe3eecd1479a8276db474c6d66"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "db40a36695ca2e8c44d335ddc0776b5e4db83140a1de3b97c4ae3b50e54fbe9b"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Aeroplane in War",
     "author": "Grahame-White, Claude, 1879-1959; Harper, Harry, 1880-1960",
     "gutenbergReference": "63597",
-    "matchType": 2,
     "hash": "511fe74806144e83bb947d6d79a5a9fed86c0ee9b5a34da08701e2ce7fdaceb1"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "085c83f8551562359055dd5ff71a8d0412197327b8809c1f6b2f1a9cb006fe50"
   }
 ]

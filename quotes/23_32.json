@@ -7,7 +7,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "5891418b86186fce57e4377648166e15eb4157eba9f109697f66123b03b51552"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "cc53127957d8a5b1a41179b414cdacab0f4cb7aa865441ec25305640acfb62c5"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Memoirs of the Generals, Commodores and other Commanders, who distinguished themselves in the American army and navy during the wars of the Revolution and 1812, and who were presented with medals by Congress for their gallant services",
     "author": "Wyatt, Thomas",
     "gutenbergReference": "50377",
-    "matchType": 1,
     "hash": "875cc7627a187dd75ecd8d918df6739fda71fc7fe200cd088360bff6705742d8"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Skylark of Space",
     "author": "Smith, E. E. (Edward Elmer), 1890-1965; Garby, Lee Hawkins, 1892-1953",
     "gutenbergReference": "20869",
-    "matchType": 2,
     "hash": "8350f8b226b28c62db3fd10b0114e6eebe80e73dea27f3763fe91d57c7690990"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "a2854459a1ffe79bbd2782b3fe4afe7eb7d9fd6869d46c3e19f769c73725d949"
   }
 ]

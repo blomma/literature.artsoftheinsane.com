@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55218",
-    "matchType": 2,
     "hash": "1a304bf80a8b31cf965470a1f3645fe829ff8c6207961bd3011379774a1acb22"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Celebrated Travels and Travellers, Part 2.\r\nThe Great Navigators of the Eighteenth Century",
     "author": "Verne, Jules, 1828-1905; Benett, Léon, 1838-1917 [Illustrator]; Matthis, Charles Émile, 1838- [Illustrator]; Philippoteaux, Paul, 1846-1923 [Illustrator]",
     "gutenbergReference": "25784",
-    "matchType": 0,
     "hash": "9662b9f580e62d0c006f88984ada61926076141df18661c3e7266e9417b18506"
   },
   {
@@ -29,7 +27,6 @@
     "title": "London Labour and the London Poor, Vol. 3",
     "author": "Mayhew, Henry, 1812-1887",
     "gutenbergReference": "57060",
-    "matchType": 1,
     "hash": "743cbd79d9b0f0bcc5478a495073e9862e7891c018476a62cf9a76af8eb71cf1"
   }
 ]

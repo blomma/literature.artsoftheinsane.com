@@ -7,7 +7,6 @@
     "title": "Project Gutenberg Complete Works of Winston Churchill",
     "author": "Churchill, Winston, 1871-1947",
     "gutenbergReference": "5400",
-    "matchType": 1,
     "hash": "8a6624484e528dcd9c4a7e4d0c0538dea60aae237d4f36a7baf1c58b03e85d5d"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Coniston — Complete",
     "author": "Churchill, Winston, 1871-1947",
     "gutenbergReference": "3766",
-    "matchType": 1,
     "hash": "b134a0ecde411134873b9f23ada05bb72690cea15d6c8d557caf4f58f6091cdc"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "5152af4f00232ef6c8f56b55adb39ff44c8b55fc006448165e2f063a613e1c5a"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Coniston — Volume 04",
     "author": "Churchill, Winston, 1871-1947",
     "gutenbergReference": "3765",
-    "matchType": 1,
     "hash": "e4ccfc253c931308c3df2898806551893736efdfcc8a1c9b9f14a2f08d564122"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 04, February 1884, No. 5.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55132",
-    "matchType": 2,
     "hash": "0dfae2a7f9c06bfbc22d0dfdd6cf99d4dad6ae0474711a3a02bd1674e68503ed"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "53446ef509c9c20eb693d8f22dc497d09a8fd07fa753a051a9d1d88900c00ee4"
   }
 ]

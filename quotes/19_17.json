@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, July 1885, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55444",
-    "matchType": 2,
     "hash": "bc3023cd8506231534b5f3c786d5ed9892230d2fe3b24c7ebc2d5ad19edf7a8a"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "39ba0f38da2a505be949d16b6fad0703a7c7af072fc5639b634fef04e1d8bfdf"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "51fdb754605e617a13e6d7eeb4b3a7c43bc117fd10e04ed2254f0df739a93728"
   },
   {
@@ -40,7 +37,6 @@
     "title": "History of the World War",
     "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945",
     "gutenbergReference": "18993",
-    "matchType": 2,
     "hash": "6dee8d274ee6483a6c2322c8e0eb5e0aa1de09b8e27329dde4d94b1af249be78"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Riddle of the Sands",
     "author": "Childers, Erskine, 1870-1922",
     "gutenbergReference": "2360",
-    "matchType": 2,
     "hash": "2984b999a985509e1b8ff527baa7a406099e70c2422267e8814063323d85fb29"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "9dc72127be6c2aba929a2239d387aa46ac4f85c94af2614ecf1366dc6d102196"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Battle of the Falkland Islands, Before and After",
     "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
     "gutenbergReference": "50265",
-    "matchType": 2,
     "hash": "e671cba595634f9239af22f7d6938fe9956399e72865f0003cc4165630dba371"
   },
   {
@@ -82,10 +75,9 @@
     "quoteTime": "7.17 p.m.",
     "quoteLast": " and increased speed to 22 knots. At 7.32 p.m. my course was SW., speed 18 knots, the leading enemy battleship bearing NW. by W.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "99f47ffdb2e6b5741651dc8b0c65b2c9c63ede9ab04f71a077a9ec4fcb095eb4"
+    "hash": "36350fd0f924c36d8c8387bee6bb883c8e62e9d02b5b7d75a58e81ea0932feee"
   },
   {
     "time": "19:17",
@@ -95,7 +87,6 @@
     "title": "The British Navy in Battle",
     "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
     "gutenbergReference": "54441",
-    "matchType": 2,
     "hash": "504d2f32bf76119ee489db7149dff6e9f203f91ec4d3b16fcd7bab39ed1612c7"
   },
   {
@@ -106,7 +97,6 @@
     "title": "New York Times Current History; The European War, Vol 2, No. 2, May, 1915\nApril-September, 1915",
     "author": "Various",
     "gutenbergReference": "15479",
-    "matchType": 2,
     "hash": "cbdf361e34d46450fb6ae0c505491fae1052af600e5053e77e7c603de4150947"
   },
   {
@@ -117,7 +107,6 @@
     "title": "The Chautauquan, Vol. 04, May 1884, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55158",
-    "matchType": 2,
     "hash": "03fba2cc0bd4b1c1b50705c8c1b839c97bee11c02f4dd6fdd226d738dd483ebd"
   },
   {
@@ -128,7 +117,6 @@
     "title": "A True Account of the Battle of Jutland, May 31, 1916",
     "author": "Frothingham, Thomas Goddard, 1865-1945",
     "gutenbergReference": "47949",
-    "matchType": 2,
     "hash": "7901f488df192c902b7f9d91a616bb5561380ba2c937d34928dec30ede66977e"
   },
   {
@@ -139,7 +127,6 @@
     "title": "History of the World War, Volume 2 (of 7)",
     "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945; Hare, James H., 1856-1946 [Photographer]; Thompson, Donald C., 1885-1947 [Photographer]",
     "gutenbergReference": "74727",
-    "matchType": 2,
     "hash": "af00c03f5550a60bd2a398afb196a3d1e3d0565000394e7bde252fb43d2a9a75"
   }
 ]

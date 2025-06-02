@@ -7,7 +7,6 @@
     "title": "The House of the Arrow",
     "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
     "gutenbergReference": "67514",
-    "matchType": 1,
     "hash": "aa4f3b94d7bab9e5e4f58169d5f4a763b2fbde8d1be6e27dd245e4edc2c9facb"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Wonderful Balloon Ascents; Or, The Conquest of the Skies\r\nA History of Balloons and Balloon Voyages",
     "author": "Marion, Fulgence",
     "gutenbergReference": "899",
-    "matchType": 1,
     "hash": "f364598c1d93b029e0f9389b83ed3bcfdb5aa5e952c7d07c8831ad4a9623d4be"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "d3a065cf525b67c0c08b9b06264251179a19ba787c1be892cbf600b0786e6b6c"
   }
 ]

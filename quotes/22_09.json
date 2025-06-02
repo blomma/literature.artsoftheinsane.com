@@ -7,7 +7,6 @@
     "title": "Jonah and Co.",
     "author": "Yates, Dornford, 1885-1960",
     "gutenbergReference": "27079",
-    "matchType": 1,
     "hash": "599c13e100171fc07fff867dfaf980f71d42b17544ca3cc91fcdd7975ce2b0aa"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Day of the Dog",
     "author": "Horne, Anderson; Emshwiller, Ed, 1925-1990 [Illustrator]",
     "gutenbergReference": "30528",
-    "matchType": 2,
     "hash": "5b3c11cad560eea105be30ccaa9fd97a29e77963a76323b3ed1371aeb178b48f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "33b24119dcef84a73636aff0c8933389ee10bb3bff264815e7656af820876818"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Pieces of Hate; And Other Enthusiasms",
     "author": "Broun, Heywood, 1888-1939",
     "gutenbergReference": "35679",
-    "matchType": 1,
     "hash": "2854380d3b94ad4bdae1d365c3252d7ac4ddd7384ad7593022561f4095dd2903"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Something about sugar",
     "author": "Rolph, George M. (George Morrison), 1873-1932",
     "gutenbergReference": "73616",
-    "matchType": 1,
     "hash": "c5c7f149c6ebbbd26928d641a0e559e69a3be6a9809b100296cbb156d9e05b48"
   },
   {
@@ -29,7 +27,6 @@
     "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
     "author": "Leffingwell, Albert, 1845-1916",
     "gutenbergReference": "20222",
-    "matchType": 2,
     "hash": "5adce2d5af04d573b3743b88356b9016e3e6ba72852e965f504999b3847f0e28"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 04, March 1884, No. 6",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55133",
-    "matchType": 2,
     "hash": "c2dd87ef164191522e20ab943092450ee63f4f5bd66cc222220bbc39654dcc68"
   }
 ]

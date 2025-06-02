@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55331",
-    "matchType": 2,
     "hash": "c65653eda5f2cfacd8ed43dcbde8d95eae4bca8ff7e6ba5bc0e752270e6e99ed"
   },
   {
@@ -18,7 +17,6 @@
     "title": "A voyage to the South Sea",
     "author": "Bligh, William, 1754-1817",
     "gutenbergReference": "15411",
-    "matchType": 1,
     "hash": "3237d108a954dcb42e9614ce733f3a7e7f66789f91e4616dc89cf7ed9168bd7a"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Silverthorns",
     "author": "Molesworth, Mrs., 1839-1921; Paton, J. Noël (Joseph Noël), Sir, 1821-1901 [Illustrator]",
     "gutenbergReference": "43122",
-    "matchType": 1,
     "hash": "4c21c82855ee53ab841dfe2a3457cf9bafdc60e5f9db380025f17e70b016e512"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Judith of Blue Lake Ranch",
     "author": "Gregory, Jackson, 1882-1943; Dunton, W. Herbert, 1878-1936 [Illustrator]",
     "gutenbergReference": "18926",
-    "matchType": 1,
     "hash": "67d3fea7086f373168c921ed6b59ef378c5b75659a0611feeb2fa481a6c66bf6"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Danger signals",
     "author": "Hill, John A. (John Alexander), 1858-1916; Brady, Jasper Ewing, 1866-1940",
     "gutenbergReference": "19007",
-    "matchType": 2,
     "hash": "682508c97f3814b6963f79931ace522ce3b8a3af81852b5f49b55f7edb918ebd"
   }
 ]

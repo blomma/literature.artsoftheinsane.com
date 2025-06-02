@@ -1,25 +1,53 @@
 [
   {
     "time": "12:50",
-    "quoteFirst": "\"March 25.--Started, with the steamer towing a noggur and my diahbeeah with about fifty hours' fuel on board, at ",
-    "quoteTime": "12.50 P.M.",
-    "quoteLast": "",
-    "title": "Ismailia",
-    "author": "Baker, Samuel White, Sir, 1821-1893",
-    "gutenbergReference": "3607",
-    "matchType": 2,
-    "hash": "f27c89d40a6a5a0f4e85b477802997361b04254a0bed6241465f3294530ed3c9"
+    "quoteFirst": "At ",
+    "quoteTime": "12.50 p.m.",
+    "quoteLast": ", in very thick weather, on the 9th February, the British trawler _Benbow_ was fired upon by a German submarine. As the fog lifted two shots were fired, followed by four more while the boat was being got out.",
+    "title": "The German pirate",
+    "author": "Ajax",
+    "gutenbergReference": "50865",
+    "hash": "c2f8f75be752581f927a84d7f06dc4edbc8175a51da59e50ae4179b4bcd7e5f8"
   },
   {
     "time": "12:50",
-    "quoteFirst": "\"Washington, ",
-    "quoteTime": "12:50 P.M.",
-    "quoteLast": " \"The committee from St. Louis--Henry T. Blow, John C. Vogle, and Thomas O'Reilley--told me, in presence of the President, that they were authorized by you to ask for Gen.",
-    "title": "Forty-Six Years in the Army",
-    "author": "Schofield, John McAllister, 1831-1906",
-    "gutenbergReference": "21417",
-    "matchType": 2,
-    "hash": "461f51edd77740297d367a4d2445f7e21645b4e8e60893c12250cbdb9789d00f"
+    "quoteFirst": "9_th._--Barrels Rock Lt.-ship, flocks of Linnets and Gulls, ",
+    "quoteTime": "12.50 p.m.",
+    "quoteLast": "",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1881. Third Report",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Cordeaux, John, 1831-1899; Kermode, P. M. C. (Philip Moore Callow), 1855?-1932; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "65471",
+    "hash": "671fa6a537f8e1f62040b09a6e766357cfd22e86007c351d790ffcc40e2b5d4d"
+  },
+  {
+    "time": "12:50",
+    "quoteFirst": "Douglass, the chief engineer of the Trinity House, was good enough to undertake the observations N.E. of the Foreland; while Mr. Ayers, the assistant engineer, walked in the other direction. At ",
+    "quoteTime": "12.50 P.M.",
+    "quoteLast": " the wind blew a gale, and broke into a thunderstorm with violent rain. Inside and outside the Cornhill Coast-guard Station, a mile from the instruments in the direction of Dover, Mr.",
+    "title": "Sound",
+    "author": "Tyndall, John, 1820-1893",
+    "gutenbergReference": "54969",
+    "hash": "324648b0d18ccc4600f7a1efe5090c247ec475bb2f8f91ba505bd53a77ae91f6"
+  },
+  {
+    "time": "12:50",
+    "quoteFirst": "By that time it was ",
+    "quoteTime": "12.50 P. M.",
+    "quoteLast": " so I come out of the Observatory as that was the time it was supposed to be Total, but there wasn’t a Soul on the Streets or outside any place. Everybody was on the inside looking at the Eclipse.",
+    "title": "The Illiterate Digest",
+    "author": "Rogers, Will, 1879-1935; Collier, Nate, 1883-1961 [Illustrator]",
+    "gutenbergReference": "72717",
+    "hash": "6690e04fc4d369f0b751986aad92e337c0d63b68968a2a4ac3ec83b66cab5f23"
+  },
+  {
+    "time": "12:50",
+    "quoteFirst": "Fig. 40. Quercus (American sp.): circumnutation of young stem, traced on horizontal glass, from ",
+    "quoteTime": "12.50 P.M.",
+    "quoteLast": " Feb. 22nd to 12.50 P.M. 24th.",
+    "title": "The Power of Movement in Plants",
+    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "5605",
+    "hash": "4681052781d159666004cd0d4e1caf3717a28326c6db963fb4e09108a8d85bd7"
   },
   {
     "time": "12:50",
@@ -29,8 +57,27 @@
     "title": "The soul of Lilith",
     "author": "Corelli, Marie, 1855-1924",
     "gutenbergReference": "68771",
-    "matchType": 0,
     "hash": "13bb0771737e5affef9607d027402ee2d1328c96b89c00e9b979cd04dd39f39f"
+  },
+  {
+    "time": "12:50",
+    "quoteFirst": "El-Râmi bent his dark flashing eyes on his visitor, who seemed a little confused by the close scrutiny. It was the morning after the circumstances narrated in the previous chapter,--the clock marked ",
+    "quoteTime": "ten minutes to noon",
+    "quoteLast": ",--the weather was brilliant and sunshiny, and the temperature warm for the uncertain English month of May. El-Râmi rose suddenly and threw open the window nearest him, as if he found the air oppressive.",
+    "title": "The soul of Lilith",
+    "author": "Corelli, Marie, 1855-1924",
+    "gutenbergReference": "68771",
+    "hash": "13bb0771737e5affef9607d027402ee2d1328c96b89c00e9b979cd04dd39f39f"
+  },
+  {
+    "time": "12:50",
+    "quoteFirst": "By that time it was ",
+    "quoteTime": "12.50 P. M.",
+    "quoteLast": " so I come out of the Observatory as that was the time it was supposed to be Total, but there wasn’t a Soul on the Streets or outside any place. Everybody was on the inside looking at the Eclipse.",
+    "title": "The Illiterate Digest",
+    "author": "Rogers, Will, 1879-1935; Collier, Nate, 1883-1961 [Illustrator]",
+    "gutenbergReference": "72717",
+    "hash": "6690e04fc4d369f0b751986aad92e337c0d63b68968a2a4ac3ec83b66cab5f23"
   },
   {
     "time": "12:50",
@@ -40,30 +87,67 @@
     "title": "Epistles from Pap: Letters from the man known as 'The Will Rogers of Indiana'",
     "author": "Durham, Andrew Everett, 1882-1954; Durham, J. Frank, 1915- [Compiler]; Hay, Douglas (Douglas N.) [Editor]",
     "gutenbergReference": "2677",
-    "matchType": 2,
     "hash": "c41c89da4e5240c1e678a67472d72c99ceb0baa98fb04af2a3dc749e4dfdb96a"
   },
   {
     "time": "12:50",
-    "quoteFirst": "Douglass, the chief engineer of the Trinity House, was good enough to undertake the observations N.E. of the Foreland; while Mr. Ayers, the assistant engineer, walked in the other direction. At ",
-    "quoteTime": "12.50 P.M.",
-    "quoteLast": " the wind blew a gale, and broke into a thunderstorm with violent rain. Inside and outside the Cornhill Coast-guard Station, a mile from the instruments in the direction of Dover, Mr.",
-    "title": "Sound",
-    "author": "Tyndall, John, 1820-1893",
-    "gutenbergReference": "54969",
-    "matchType": 2,
-    "hash": "324648b0d18ccc4600f7a1efe5090c247ec475bb2f8f91ba505bd53a77ae91f6"
+    "quoteFirst": "Greencastle, Ind., at ",
+    "quoteTime": "12:50 p.m.",
+    "quoteLast": "(?)3-29-49 on N.Y.C. No. 12 (Southwestern). The old pappy and his meat will probably part company at Buffalo, where his car will be transferred to N.Y.C.",
+    "title": "Epistles from Pap: Letters from the man known as 'The Will Rogers of Indiana'",
+    "author": "Durham, Andrew Everett, 1882-1954; Durham, J. Frank, 1915- [Compiler]; Hay, Douglas (Douglas N.) [Editor]",
+    "gutenbergReference": "2677",
+    "hash": "c41c89da4e5240c1e678a67472d72c99ceb0baa98fb04af2a3dc749e4dfdb96a"
   },
   {
     "time": "12:50",
-    "quoteFirst": "The testimony of Thayer Waldo was taken at ",
-    "quoteTime": "12:50 p.m.",
-    "quoteLast": ", on June 27, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Leon D. Hubert, Jr.",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
-    "matchType": 2,
-    "hash": "7ac260d239916e9174dfccdfb44170395159a95f835f4341410c203b39ad5692"
+    "quoteFirst": "20 left the river and entered the sandy downs; at 10.30 crossed a small stream with some fine springs; at 11.0 changed the course to east by south; at noon altered the course to 83 degrees, crossing the river at ",
+    "quoteTime": "12.50 p.m.",
+    "quoteLast": ", where it is joined by the east branch, which is of equal size with the northern one; followed the east branch up through wide grassy flats till 2.0, and camped.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "8b6e28670c04387a6f2a33844dd7b9a4a8d8d24d350e1019c57a9e6f0efe9d67"
+  },
+  {
+    "time": "12:50",
+    "quoteFirst": "The country then became sandy, producing little besides scrub and a few banksia trees. At 10.0 passed about one mile west of Mount Hill; passed a small pool of water in a watercourse trending south-west. At ",
+    "quoteTime": "12.50 p.m.",
+    "quoteLast": " altered the course to 170 degrees magnetic; at 3.0 entered a thick forest of York gum; at 3.25 changed the course to 130 degrees magnetic and entered a grassy flat extending to the Irwin River, which we reached at 3.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "a5eaaa8d12eaa3a3e13f5032ae0338591a7529df6da80e70d36b4ea323a1122f"
+  },
+  {
+    "time": "12:50",
+    "quoteFirst": "Thorneycroft was ordered to take command on the summit with the local rank of Brigadier-General, although there were several officers present senior to him: but many hours elapsed before the appointment was made known to all of those whom it most concerned. Coke, who was now on the S.W. spur, was unaware of it, and without communicating with Thorneycroft, sent at ",
+    "quoteTime": "12.50 p.m.",
+    "quoteLast": " to Warren a message which was not delivered till 2.20 p.m., that as the summit was crowded and the defence was maintaining itself, he had stopped further reinforcements.",
+    "title": "A Handbook of the Boer War\r\nWith General Map of South Africa and 18 Sketch Maps and Plans",
+    "author": "",
+    "gutenbergReference": "15699",
+    "hash": "5a82c4d86d7799d68fc39d3f6713420f317628ed10e223f2b453b99b2ece1a60"
+  },
+  {
+    "time": "12:50",
+    "quoteFirst": "At 9.15 a.m., accompanied by the Band and Transport, we marched out of camp and proceeding via Etricourt--where we marched past the G.O.C. 55th Division--Manancourt--where the Brigadier-General Commanding 164th Brigade watched the Battalion marching--Nurlu--Aizecourt-le-Bas to Longavesnes where we arrived in billets at ",
+    "quoteTime": "12.50 p.m.",
+    "quoteLast": " The weather set in cold and wet and was a disagreeable change from the perfect conditions we had enjoyed for several weeks. Captain A. P. Procter was temporarily in command of the Battalion.",
+    "title": "The Fourth Battalion, The King's Own (Royal Lancaster Regiment) and the Great War",
+    "author": "Wadham, W. F. A. (Walter F. A.); Crossley, J.",
+    "gutenbergReference": "67393",
+    "hash": "94150ddbb7dd5451913065042babb5a2c3bf7c183f3916cbc68ded2b37005eec"
+  },
+  {
+    "time": "12:50",
+    "quoteFirst": "85″; and from the 22nd to the end of the month a direct motion of 13′ 37.9″. On the 1st, he rises at 1:48 in the afternoon; sets next morning at 4:26; on the 15th, rises at ",
+    "quoteTime": "12:50 p. m.",
+    "quoteLast": ", setting next morning at 3:50, and on the 31st rises at 11:48 a. m., setting at 2:58 a. m., April 1st. On the 7th, at 8:16 p. m., is 5° 54′ north of the moon.",
+    "title": "The Chautauquan, Vol. 04, March 1884, No. 6",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55133",
+    "hash": "23cafaffaf8a450fa1b3c0d2006c806ea6f73b870abafb33524b6bac97e3aeb5"
   },
   {
     "time": "12:50",
@@ -73,129 +157,17 @@
     "title": "Mariner Mission to Venus",
     "author": "Jet Propulsion Laboratory (U.S.)",
     "gutenbergReference": "54585",
-    "matchType": 2,
     "hash": "07a8e918391a8045856ff1761f273f5de4306008f0375b758e05c7c85cea7866"
   },
   {
     "time": "12:50",
-    "quoteFirst": "\"March 25.--Started, with the steamer towing a noggur and my diahbeeah with about fifty hours' fuel on board, at ",
-    "quoteTime": "12.50 P.M.",
-    "quoteLast": "",
-    "title": "Ismailia",
-    "author": "Baker, Samuel White, Sir, 1821-1893",
-    "gutenbergReference": "3607",
-    "matchType": 2,
-    "hash": "f27c89d40a6a5a0f4e85b477802997361b04254a0bed6241465f3294530ed3c9"
-  },
-  {
-    "time": "12:50",
-    "quoteFirst": "(Whereupon, at ",
-    "quoteTime": "12:50 p.m.",
-    "quoteLast": " the proceeding recessed.)",
-    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "56190",
-    "matchType": 2,
-    "hash": "2d8b1b400d200080c14efc7ac6fe289bf9e37a5577dd316d1200ff871c9aeed5"
-  },
-  {
-    "time": "12:50",
-    "quoteFirst": "The testimony of Thayer Waldo was taken at ",
-    "quoteTime": "12:50 p.m.",
-    "quoteLast": ", on June 27, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Leon D. Hubert, Jr.",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
-    "matchType": 2,
-    "hash": "7ac260d239916e9174dfccdfb44170395159a95f835f4341410c203b39ad5692"
-  },
-  {
-    "time": "12:50",
-    "quoteFirst": "The country was well grassed, but very stony; but this, though very inconvenient to the traveller, does not render it less valuable for pasture, as stony land always stands feeding better than any other. At 8.20 altered the course to nearly east towards a low ridge of hills. The plain was well grassed till ",
-    "quoteTime": "12.50 p.m.",
-    "quoteLast": ", when the sandstone prevailed on the surface and triodia prevailed in the valleys. At 1.50 followed down a rocky ravine, and at 2.15 encamped.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "matchType": 2,
-    "hash": "a6cbaa5e917c109ac1ea426971eb732a722d86ab835374d7cb5ebbb369417f80"
-  },
-  {
-    "time": "12:50",
-    "quoteFirst": "Proceeded down the creek, and at 7.20 a.m. came to a small pool of water, which the horses consumed in the space of a few minutes, but farther on came to a more abundant supply, and some of the pools appeared to be permanent, having a belt of water-pandanus and reeds round them; below this the channel was perfectly dry and sandy, but was much enlarged by numerous tributary gullies. At ",
-    "quoteTime": "12.50 p.m.",
-    "quoteLast": " came to a shallow pool, at which we camped. The country through which this creek passes is poor and stony, low hills of sandstone schist and limestone rising immediately behind the narrow strip of grassy land, which is fertilised by the overflow of the creek in the rainy season.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "matchType": 2,
-    "hash": "4c95bb86a5dec0fa5ed753ffca82494d50040259333d6de22e6d43db40b1ac80"
-  },
-  {
-    "time": "12:50",
-    "quoteFirst": "(Whereupon, at ",
-    "quoteTime": "12:50 p.m.",
-    "quoteLast": ", the President's Commission recessed.)",
-    "title": "Warren Commission (05 of 26): Hearings Vol. V (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44005",
-    "matchType": 2,
-    "hash": "b69f58c30e47943ce2199a96de62b3c9c31de5da9f29ddd64faf495627da2f9a"
-  },
-  {
-    "time": "12:50",
-    "quoteFirst": "m. the animal looked dull but resisted handling. At 3.30 p.m. it urinated. At 4.15 p.m. the temperature was 98.5°F., the pupils were about the same size as before feeding, and the animal became much duller. The next day at ",
-    "quoteTime": "12.50 p.m.",
-    "quoteLast": " the temperature was 102.4°F., and at this time the animal could be handled with greater ease. The animal ate in the morning. The same amount of extract was again fed at 1.24 p.",
-    "title": "Barium: A Cause of the Loco-Weed Disease",
-    "author": "Crawford, Albert Cornelius",
-    "gutenbergReference": "40256",
-    "matchType": 2,
-    "hash": "7aa86a917c7d3d9bac493e6484f35606a9391e0b509b5dc0116b66d0151d71a1"
-  },
-  {
-    "time": "12:50",
-    "quoteFirst": "Douglass, the chief engineer of the Trinity House, was good enough to undertake the observations N.E. of the Foreland; while Mr. Ayers, the assistant engineer, walked in the other direction. At ",
-    "quoteTime": "12.50 P.M.",
-    "quoteLast": " the wind blew a gale, and broke into a thunderstorm with violent rain. Inside and outside the Cornhill Coast-guard Station, a mile from the instruments in the direction of Dover, Mr.",
-    "title": "Sound",
-    "author": "Tyndall, John, 1820-1893",
-    "gutenbergReference": "54969",
-    "matchType": 2,
-    "hash": "324648b0d18ccc4600f7a1efe5090c247ec475bb2f8f91ba505bd53a77ae91f6"
-  },
-  {
-    "time": "12:50",
-    "quoteFirst": "\"Washington, ",
-    "quoteTime": "12:50 P.M.",
-    "quoteLast": " \"The committee from St. Louis--Henry T. Blow, John C. Vogle, and Thomas O'Reilley--told me, in presence of the President, that they were authorized by you to ask for Gen.",
-    "title": "Forty-Six Years in the Army",
-    "author": "Schofield, John McAllister, 1831-1906",
-    "gutenbergReference": "21417",
-    "matchType": 2,
-    "hash": "461f51edd77740297d367a4d2445f7e21645b4e8e60893c12250cbdb9789d00f"
-  },
-  {
-    "time": "12:50",
-    "quoteFirst": "(Whereupon, at ",
-    "quoteTime": "12:50 p.m.",
-    "quoteLast": ", the President's Commission recessed.)",
-    "title": "Warren Commission (05 of 26): Hearings Vol. V (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44005",
-    "matchType": 2,
-    "hash": "b69f58c30e47943ce2199a96de62b3c9c31de5da9f29ddd64faf495627da2f9a"
-  },
-  {
-    "time": "12:50",
-    "quoteFirst": "\"_Wednesday, 19 May 1915, ",
-    "quoteTime": "12.50 p.m.",
-    "quoteLast": "_",
-    "title": "Raymond; or, Life and Death\r\nWith examples of the evidence for survival of memory and affection after death.",
-    "author": "Lodge, Oliver, Sir, 1851-1940",
-    "gutenbergReference": "51086",
-    "matchType": 2,
-    "hash": "e470019f6478108aa8c06efd492071f7c5ed065494f4d282fb53468c5346e9cf"
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes to noon",
+    "quoteLast": " the Vicomte arrived, with Eloise on his arm. How charming she looked, in that simple, old-fashioned wedding-gown which she had made for herself! And how charming the Vicomte was, insisting on being introduced to everyone, chatting, laughing, immeasurably above everyone else, yet suffusing the wedding-party with his own grace and greatness so that everyone felt elevated instead of dwarfed!",
+    "title": "The Drums of War",
+    "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
+    "gutenbergReference": "55148",
+    "hash": "fc0f4cc1b65a0c5586fb8f50eed98d86ca33af8c65412e30a82fcb328e9bcdab"
   },
   {
     "time": "12:50",
@@ -205,18 +177,26 @@
     "title": "The Truth About Port Arthur",
     "author": "Nozhin, E. K. (Evgenii Konstantinovich); Swinton, E. D. (Ernest Dunlop), 1868-1951 [Editor]; Lindsay, A. B. (Alexander Bertram), 1872-1914 [Translator]",
     "gutenbergReference": "59972",
-    "matchType": 2,
     "hash": "34037edbf5d2324732fb4df67b4100314f2fd00119ace4b06eee108eb6d7923a"
   },
   {
     "time": "12:50",
-    "quoteFirst": "Aug. 20th, Pentland Skerries, one \"Chaser\" flying S.E., ",
+    "quoteFirst": "At 9.15 a.m., accompanied by the Band and Transport, we marched out of camp and proceeding via Etricourt--where we marched past the G.O.C. 55th Division--Manancourt--where the Brigadier-General Commanding 164th Brigade watched the Battalion marching--Nurlu--Aizecourt-le-Bas to Longavesnes where we arrived in billets at ",
     "quoteTime": "12.50 p.m.",
-    "quoteLast": "; strong S.E., haze.",
-    "title": "Report on the Migration of Birds in the Spring and Autumn of 1883. Fifth Report",
-    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
-    "gutenbergReference": "65609",
-    "matchType": 2,
-    "hash": "13e6f490ddeff2dfb025eee4f02c1b783d8a81982577e25ad2c4d269009e4843"
+    "quoteLast": " The weather set in cold and wet and was a disagreeable change from the perfect conditions we had enjoyed for several weeks. Captain A. P. Procter was temporarily in command of the Battalion.",
+    "title": "The Fourth Battalion, The King's Own (Royal Lancaster Regiment) and the Great War",
+    "author": "Wadham, W. F. A. (Walter F. A.); Crossley, J.",
+    "gutenbergReference": "67393",
+    "hash": "94150ddbb7dd5451913065042babb5a2c3bf7c183f3916cbc68ded2b37005eec"
+  },
+  {
+    "time": "12:50",
+    "quoteFirst": "(Whereupon, at ",
+    "quoteTime": "12:50 p.m.",
+    "quoteLast": ", the President's Commission recessed.)",
+    "title": "Warren Commission (05 of 26): Hearings Vol. V (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44005",
+    "hash": "b69f58c30e47943ce2199a96de62b3c9c31de5da9f29ddd64faf495627da2f9a"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Adventures of Dr. Thorndyke\n(The Singing Bone)",
     "author": "Freeman, R. Austin (Richard Austin), 1862-1943",
     "gutenbergReference": "59478",
-    "matchType": 1,
     "hash": "9e3b12c0966cf4ae582246aeb95b32fb145031260ac1b317e95689a0dc430412"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The World Crisis, Volume 1 (of 6)",
     "author": "Churchill, Winston, 1874-1965",
     "gutenbergReference": "59794",
-    "matchType": 2,
     "hash": "1d51c6d3488fca29fb03c456040a8dc602a3dce25c82c17f630021d61c716b56"
   }
 ]

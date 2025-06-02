@@ -1,190 +1,153 @@
 [
   {
     "time": "01:45",
-    "quoteFirst": "| 1437-38   | England. Wheat rose from its ordinary price of 4s. to 4s. |   6d. per ",
-    "quoteTime": "quarter to 2",
-    "quoteLast": "6s. 8d.",
-    "title": "The Storehouses of the King; Or, the Pyramids of Egypt\r\nWhat They Are and Who Built Them",
-    "author": "Gelder, Jane (Trill) van",
-    "gutenbergReference": "47291",
-    "matchType": 1,
-    "hash": "ebc6e9d4268918df56209b9ff553cbf7f7af0f736a0e5c231788508726fb1d06"
+    "quoteFirst": "December 31, 1805, at a ",
+    "quoteTime": "quarter to two",
+    "quoteLast": " in the morning. This entrance in the night, lit up by torches, was very impressive. The next day, January 1, 1806, a herald-at-arms, escorted by numerous horsemen, passed through the different quarters of the city, and read the following proclamation, after a flourish of drums and trumpets, while an immense crowd gathering in every street and crossway loudly applauded: \"By the grace of God, the dignity of the sovereign of Bavaria having recovered its old-time splendor, and this State having resumed the rank it formerly held for the happiness of its subjects and the glory of the country, be it known that",
+    "title": "The Court of the Empress Josephine",
+    "author": "Imbert de Saint-Amand, 1834-1900; Perry, Thomas Sergeant, 1845-1928 [Translator]",
+    "gutenbergReference": "9831",
+    "hash": "d0adbb12052046dd1d7f30995d8c21e4e0299e924bb33b41a1f4552e8b415e36"
   },
   {
     "time": "01:45",
-    "quoteFirst": "The woman, children, and man waited till eleven when another message came to say the cars would not be in till 2 a.m. So they went over to the hotel and got a sleep till a ",
+    "quoteFirst": "And so home. And my dreams that night were filled with visions of a huge Monster, reeking with strange odours, issuing hoarse-sounds of malicious laughter and standing for ever and ever in the middle of Edgware Road with the clock opposite pointing to a ",
     "quoteTime": "quarter to two",
-    "quoteLast": " when the man woke them up and the procession trailed back and got aboard. Trainman interested: \"Where's she goin'?\" \"Europe,\" said the man.",
-    "title": "A Tramp's Scraps",
-    "author": "Self, H. I. M.",
-    "gutenbergReference": "50558",
-    "matchType": 1,
-    "hash": "1889d1362c2cc8c28ffd7f173f92c220e6672f711d7003c0e5778cfe3a1139ca"
+    "quoteLast": ", a rueful face in the corner staring fixedly at a big bag and a tipsy gentleman in a tall hat finding his way back to Baker Street in happy converse with a policeman.",
+    "title": "Windfalls",
+    "author": "Gardiner, A. G. (Alfred George), 1865-1946; Gardiner, Clive, 1891-1960 [Illustrator]",
+    "gutenbergReference": "47429",
+    "hash": "0314998a8a4e19266bee11157a500fb3a3d990ae242302c807159ef60779e4a6"
   },
   {
     "time": "01:45",
-    "quoteFirst": "They cheered to that extent after it was over that I was obliged to huddle on my clothes (for I was undressing to prepare for the journey) and go back again. After so heavy a week, it _was_ rather stiff to start on this long journey at a ",
+    "quoteFirst": "The court adjourned at ",
+    "quoteTime": "fifteen minutes to two",
+    "quoteLast": ". Hastings and a different, softer, more charming than ever Margaret Warren were given lunch by Anthony in his sitting-room at the Bear and Key.",
+    "title": "The rasp",
+    "author": "MacDonald, Philip, 1901?-1980",
+    "gutenbergReference": "72462",
+    "hash": "0378b507fe0072b4672bd87095a496998973749c2faea9412191dc6aea1f50b7"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "\"That's what. Fell in love about a ",
     "quoteTime": "quarter to two",
-    "quoteLast": " in the morning; but I got more sleep than I ever got in a railway-carriage before. . . . I have, as I had in the last series of readings, a curious feeling of soreness all round the body--which I suppose to arise from the great exertion of voice . . .\"",
-    "title": "The Life of Charles Dickens, Vol. I-III, Complete",
-    "author": "Forster, John, 1812-1876",
-    "gutenbergReference": "25851",
-    "matchType": 1,
-    "hash": "44db1c991b7aad0d974b0e29f7b328dcdcae1ea26ee77ad71a126d80e68f5000"
+    "quoteLast": ", last Sunday was a week. What are you doin' with that boiled shirt lyin' out there? Goin' to put it on?\"",
+    "title": "A Yankee from the West: A Novel",
+    "author": "Read, Opie Percival, 1852-1939",
+    "gutenbergReference": "33773",
+    "hash": "a017d2f320d6620f922c9efe3bf04acd29cc3e914181859e7a11770549aaf2e2"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "It seemed as if the corroboration of this letter disappointed him. \"A quarter to three in Mme. Gobin's house would be a ",
+    "quoteTime": "quarter to two",
+    "quoteLast": " by our watches here.\"",
+    "title": "At the Villa Rose",
+    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+    "gutenbergReference": "4745",
+    "hash": "789f42689f74ed896fdc89d9a5cd8375259fdacfa5be6d63eb7feb836c092327"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "Well, the border of huge mountains is here, but the lake itself is not a basin.  It is as crooked as any brook, and only from one-",
+    "quoteTime": "quarter to two",
+    "quoteLast": "-thirds as wide as the Mississippi.  There is not a yard of low ground on either side of it --nothing but endless chains of mountains that spring abruptly from the water's edge and tower to altitudes varying from a thousand to two thousand feet.",
+    "title": "The Entire Project Gutenberg Works of Mark Twain",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3200",
+    "hash": "7377bd16a7868763f72b9046d29358d6bdfb5f2d0d9d91910d4dbab029bdfe5c"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "Reaching a hand to the watch over his head, he caught sight of the unearthly hour.  'A ",
+    "quoteTime": "quarter to two",
+    "quoteLast": "?  Gentleman downstairs?  Can't be that infernal apothecary who broke 's engagement to dine with me last night? By George, if it is I'll souse him; I'll drench him from head to heel as though the rascal 'd been drawn through the duck-pond.  Two o'clock in the morning?  Why, the man's drunk.",
+    "title": "The Adventures of Harry Richmond — Volume 1",
+    "author": "Meredith, George, 1828-1909",
+    "gutenbergReference": "4444",
+    "hash": "9a82839ae78f422a98abf02870c230dc48d7a66bcc19bd55b0d12cc53026e169"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "We shall ride into Aberdeen as by that means we shall minimise the chance of being seen. There we will catch the eight train to Carlisle where we shall arrive about a ",
+    "quoteTime": "quarter to two",
+    "quoteLast": ". Mrs. Jack will be there ready for you and will have the dress you will want to-morrow.\"",
+    "title": "The Mystery of the Sea",
+    "author": "Stoker, Bram, 1847-1912",
+    "gutenbergReference": "42455",
+    "hash": "723613af77ac99d8ced55e0609b3bf81b8063e061b1a469de538074f5baa48e8"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "In stating these particulars I am giving our own average with complicated boxes, tents, loads of trophies, and so forth, a Somáli caravan taking probably less time. The usual rate of marching is from two and a ",
+    "quoteTime": "quarter to two",
+    "quoteLast": " and three-quarter miles an hour, not counting short halts to adjust loads. The fastest rate, for a short distance, which I have tested has been three and a quarter miles an hour.",
+    "title": "Seventeen trips through Somáliland\nA record of exploration & big game shooting, 1885 to 1893",
+    "author": "Swayne, H. G. C. (Harald G. C.), 1860-1940",
+    "gutenbergReference": "57907",
+    "hash": "6c34f6c4fc8162ff3f9d330b4944565b2b6dfe092b97b071b1e23e2d6d1d3398"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "The hour was a ",
+    "quoteTime": "quarter to two",
+    "quoteLast": ". London's pulse was dimmed now, and around about us that great city slept as soundly as it ever sleeps. Other sounds came vaguely through the fog, and beside Nayland Smith I sat and watched him at work upon the Tûlun-Nûr box.",
+    "title": "The Hand of Fu-Manchu\r\nBeing a New Phase in the Activities of Fu-Manchu, the Devil Doctor",
+    "author": "Rohmer, Sax, 1883-1959",
+    "gutenbergReference": "17959",
+    "hash": "fea981966ddc3d8ad9a90dc68ebad35fc1609fc60517d0b0911e25611c53ba2b"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "She will call me anywhere, you know, when it's handy--if she comes up in town to eat, it may be about 10 minutes until 2. If she takes her lunch and eats there, it may be ",
+    "quoteTime": "15 minutes to 2",
+    "quoteLast": ", but I would always wait--I would give her a chance to call me before I would leave and I never would leave before 2 o'clock.",
+    "title": "Warren Commission (11 of 26): Hearings Vol. XI (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44011",
+    "hash": "5fbac91da888bd007e3c2d815ce0e0aa809a7b03a23672b33f86da8c43c95482"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "The “guajiro,” or cane-cutter, is the autocrat of the situation; he knows he is scarce and, therefore, believes that he is indispensable. As a result, his efficiency has fallen from three and a ",
+    "quoteTime": "quarter to two",
+    "quoteLast": " and a quarter tons a day; while his earnings, on a tonnage basis, have risen from 150% to 200%, when compared with pre-war conditions. The only solution for this unfavorable situation seems to depend upon the provision of continuous employment for labor, and the effecting of a rearrangement of the Colono system so as to permit of the performance of all heavy work, such as plowing and preparing the lands for planting, and hauling the cane from the fields, by the owners of the sugar-producing properties.",
+    "title": "The History of Cuba, vol. 5",
+    "author": "Johnson, Willis Fletcher, 1857-1931",
+    "gutenbergReference": "41267",
+    "hash": "f12a03a1cba44ac1fa5b5d97019f1010936bddf8ae3ca0c355bcbe6180b09f00"
   },
   {
     "time": "01:45",
     "quoteFirst": "And the whole house seemed resounding with his shouts. When it was ten or ",
     "quoteTime": "fifteen minutes to two",
     "quoteLast": " the deacon would come in; he was a lanky young man of twenty-two, with long hair, with no beard and a hardly perceptible moustache. Going into the drawing-room, he crossed himself before the ikon, smiled, and held out his hand to Von Koren.",
-    "title": "Project Gutenberg Compilation of Short Stories by Chekhov",
-    "author": "Chekhov, Anton Pavlovich, 1860-1904; Widger, David, 1932-2021? [Editor]",
-    "gutenbergReference": "57333",
-    "matchType": 1,
-    "hash": "b1af45e891e3a859c879fcca944b6a8c2b3643768a9ba06ec466478140ec47c5"
+    "title": "The Duel and Other Stories",
+    "author": "Chekhov, Anton Pavlovich, 1860-1904; Garnett, Constance, 1861-1946 [Translator]",
+    "gutenbergReference": "13505",
+    "hash": "9f7e210fd0948d88d58b9faee8ced27656cad0efb071b36aac1f6d2fc8dc1453"
   },
   {
     "time": "01:45",
-    "quoteFirst": "At or about ",
-    "quoteTime": "1.45 a. m.",
-    "quoteLast": ", November 5, while sleeping in emergency cabin, immediately under upper bridge, I was awakened by a commotion and immediately received a report from some man unknown, \"Submarine, captain.\" I jumped out of bed and went to the upper bridge, and the officer of the deck, Lieutenant Paul, stated he had sounded \"general quarters,\" had seen submarine on surface about 300 yards on port bow, and submarine had fired a torpedo, which was approaching.",
-    "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
-    "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "dab1bc4d0d159244c3eb2f6727dbb28f716a25c3d96ba895582409ac9a1a80a7"
-  },
-  {
-    "time": "01:45",
-    "quoteFirst": "The battalions assembled in the southern portion of the valley at 12.30 A.M., each being in mass, in single rank, on a front of 225 yards. At ",
-    "quoteTime": "1.45 A.M.",
-    "quoteLast": " the 11th Royal Scots moved along the centre tape to their final position, and were followed by the 9th Scottish Rifles and the 12th Royal Scots. Though there was intermittent shelling, there were only five casualties, but these included Lieut.-Colonel H.",
-    "title": "The history of the 9th (Scottish) Division, 1914-1919",
-    "author": "Ewing, John, M.C.; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator]",
-    "gutenbergReference": "75001",
-    "matchType": 2,
-    "hash": "481b4179cc940b1f1c741137aeb5918bf17174add03524c454b7a8cc65e282a0"
-  },
-  {
-    "time": "01:45",
-    "quoteFirst": "All over Paris, all day, every day, they sit and estimate the contents of trays, which waiters present to their practised gaze for an instant only, and receive the value of the drinks in bone discs, and write down columns of figures in long ledgers. They never take exercise, nor see the sun; they even eat in the _café_. Mystic careers!... A ",
+    "quoteFirst": "MARSHAL: The Court will remain adjourned until a ",
     "quoteTime": "quarter to two",
-    "quoteLast": ". Now the chairs had been brought in from the terrace, and there was only one waiter, and no other customer that I could see. The waiter, his face nearly as pale as his apron, eyed us with patient and bland resignation, sure from his deep knowledge of human habits that sooner or later we should in fact depart, and well inured to the great Parisian principle that a _café_ exists for the convenience of its _habitués_.",
-    "title": "Paris Nights, and Other Impressions of Places and People",
-    "author": "Bennett, Arnold, 1867-1931; Rickards, Edwin Alfred, 1872-1920 [Illustrator]",
-    "gutenbergReference": "55116",
-    "matchType": 1,
-    "hash": "fab3706063301643c617ea02253a81001dc38ed2faa0cdf17ea9550660975ee2"
+    "quoteLast": ".",
+    "title": "Trial of the major war criminals before the International Military Tribunal, Nuremburg, 14 November 1945-1 October 1946, volume 18",
+    "author": "Various",
+    "gutenbergReference": "75266",
+    "hash": "ea8f963ca94601aa6576040ca0a461db4736729ad1e8eb541b85c613c6047bfa"
   },
   {
     "time": "01:45",
-    "quoteFirst": "They proceeded slowly, stopping from time to time. Harvey was puzzled by this unpunctuality; it would soon be a ",
+    "quoteFirst": "I kin build cheaper 'n you, and I know the country and kin git the labor. You pay the new railroad a set price for haulin' pulpwood--say dollar 'n a ",
     "quoteTime": "quarter to two",
-    "quoteLast": ". He began to feel hungry, and his companion looked tired. Of a sudden they heard the sound of a vehicle approaching behind them.",
-    "title": "The Whirlpool",
-    "author": "Gissing, George, 1857-1903",
-    "gutenbergReference": "4299",
-    "matchType": 1,
-    "hash": "cd9c84ce29b73adb3f2627549e28b46ea8ebcf0278f6742f6f3baab985ac0bab"
-  },
-  {
-    "time": "01:45",
-    "quoteFirst": "\"The last I saw of Miss Bracely,\" she said exactly as if she had been told to describe something on oath in the witness-box, \"was a little after half-past one today. It must have been after half-past because when I got home it was close on a ",
-    "quoteTime": "quarter to two",
-    "quoteLast": ", and I wasn't a hundred yards from my house when I saw her. As soon as I saw her I said to my gardener boy, Henry Luton, who was pushing me--he's the son of old Mrs Luton who kept the fish shop, and when she died last year, I began to get my fish from Brinton, for I didn't fancy the look of the new person who took on the business, and Henry went to live with his aunt.",
-    "title": "Queen Lucia",
-    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
-    "gutenbergReference": "6840",
-    "matchType": 1,
-    "hash": "30f481c569cb54ad760f384cb94250dd80940d97ecd271cb0c1e01a14dd06e8b"
-  },
-  {
-    "time": "01:45",
-    "quoteFirst": "\"No,\" said Patty, \"it was ",
-    "quoteTime": "quarter to two",
-    "quoteLast": ".\"",
-    "title": "Patty's Friends",
-    "author": "Wells, Carolyn, 1862-1942",
-    "gutenbergReference": "25847",
-    "matchType": 1,
-    "hash": "96608b5ff28632d1e6102eb912681aa87f0de15548af7ef24d34bf1c02239652"
-  },
-  {
-    "time": "01:45",
-    "quoteFirst": "‘A ",
-    "quoteTime": "quarter to two",
-    "quoteLast": ",’ said Pell, looking at the parlour clock. ‘If we are with Mr. Flasher at a quarter past, we shall just hit the best time.’",
-    "title": "The Pickwick Papers",
-    "author": "Dickens, Charles, 1812-1870",
-    "gutenbergReference": "580",
-    "matchType": 1,
-    "hash": "6771269d148bb68a9029c4e4ef3b01a2a1d30e2fdd32b287750e350f5b1c21d2"
-  },
-  {
-    "time": "01:45",
-    "quoteFirst": "| 1437-38   | England. Wheat rose from its ordinary price of 4s. to 4s. |   6d. per ",
-    "quoteTime": "quarter to 2",
-    "quoteLast": "6s. 8d.",
-    "title": "The Storehouses of the King; Or, the Pyramids of Egypt\r\nWhat They Are and Who Built Them",
-    "author": "Gelder, Jane (Trill) van",
-    "gutenbergReference": "47291",
-    "matchType": 1,
-    "hash": "ebc6e9d4268918df56209b9ff553cbf7f7af0f736a0e5c231788508726fb1d06"
-  },
-  {
-    "time": "01:45",
-    "quoteFirst": "\"LANDSHUT, MONDAY, 23d JUNE, About a ",
-    "quoteTime": "quarter to two",
-    "quoteLast": " in the morning, Loudon, who had gathered 31,000 horse and foot for the business, and taken his measures, fired aloft, by way of signal, four howitzers into the gray of the summer morning; and burst loose upon Fouquet, in various columns, on his southward front, on both flanks, ultimately in his rear too: columns all in the height of fighting humor, confident as three to one,--and having brandy in them, it is likewise said.",
-    "title": "History of Friedrich II of Prussia — Volume 20",
-    "author": "Carlyle, Thomas, 1795-1881",
-    "gutenbergReference": "2120",
-    "matchType": 1,
-    "hash": "6986311462da215b0fa120e05c9d10288595356af8d91c09dd12c4b11861178d"
-  },
-  {
-    "time": "01:45",
-    "quoteFirst": "The beet-sugar refineries are in the midst of the beet-growing districts. So nearly perfect and economically managed are these processes, that raw sugar imported from Europe or from the West Indies, at a cost of from two and a ",
-    "quoteTime": "quarter to two",
-    "quoteLast": " and a half cents per pound, is refined and sold at retail at about five cents.",
-    "title": "Commercial Geography\nA Book for High Schools, Commercial Courses, and Business Colleges",
-    "author": "Redway, Jacques W. (Jacques Wardlaw), 1849-1942",
-    "gutenbergReference": "24884",
-    "matchType": 1,
-    "hash": "d772856041d9c5991b2a6156e9b9401808942dbbd22a1f48af9c739f3fc25dcb"
-  },
-  {
-    "time": "01:45",
-    "quoteFirst": "He set out to meet her far too early in the day, and when he had covered the couple of miles that lay between the inn on the hill and the railway-station at the foot, he was obliged to loiter about the sleepy little town for over an hour. But gradually the time ticked away; the hands of his watch pointed to a ",
-    "quoteTime": "quarter to two",
-    "quoteLast": ", and presently he found himself on the shadeless, sandy station which lay at the end of a long, sandy street, edged with two rows of young and shadeless trees; found himself looking along the line of rail that was to bring her to him.",
-    "title": "Maurice Guest",
-    "author": "Richardson, Henry Handel, 1870-1946",
-    "gutenbergReference": "3727",
-    "matchType": 1,
-    "hash": "a4353b8d309b76cc780b98eb40e681ce7d27f9571d3b2cd62f1a82b15f980078"
-  },
-  {
-    "time": "01:45",
-    "quoteFirst": "Lucinda still out for a walk—still! At twelve, no Lucinda! At half-past, anxiety—at one, consternation—and for Mrs. Knyvett, sherry and biscuits. At about a ",
-    "quoteTime": "quarter to two",
-    "quoteLast": ", despair. And then—the note! I never went through such a morning! However, she’s in bed now—with a hot-water bottle. Oh, I don’t blame her! Paget, you’re smoking too many cigarettes!”",
-    "title": "Lucinda",
-    "author": "Hope, Anthony, 1863-1933",
-    "gutenbergReference": "51642",
-    "matchType": 1,
-    "hash": "0855e787e506f415a94ab2808dae730d1ddb04d89af3dc413d8b495ba96a4c09"
-  },
-  {
-    "time": "01:45",
-    "quoteFirst": "And the whole house seemed resounding with his shouts. When it was ten or ",
-    "quoteTime": "fifteen minutes to two",
-    "quoteLast": " the deacon would come in; he was a lanky young man of twenty-two, with long hair, with no beard and a hardly perceptible moustache. Going into the drawing-room, he crossed himself before the ikon, smiled, and held out his hand to Von Koren.",
-    "title": "Project Gutenberg Compilation of Short Stories by Chekhov",
-    "author": "Chekhov, Anton Pavlovich, 1860-1904; Widger, David, 1932-2021? [Editor]",
-    "gutenbergReference": "57333",
-    "matchType": 1,
-    "hash": "b1af45e891e3a859c879fcca944b6a8c2b3643768a9ba06ec466478140ec47c5"
+    "quoteLast": " dollars a cord, as we figger it later.... Then I'll take the job of loggin' for you and layin' down the pulpwood at sidings. It'll save you labor and expense and trouble.",
+    "title": "Scattergood Baines",
+    "author": "Kelland, Clarence Budington, 1881-1964",
+    "gutenbergReference": "13307",
+    "hash": "86661b4f77a25ae23a014f1bf1bd3c505e49885622c692341c4cd275eee1458c"
   },
   {
     "time": "01:45",
@@ -194,29 +157,46 @@
     "title": "Alone on a Wide Wide Sea, Vol. 3 (of 3)",
     "author": "Russell, William Clark, 1844-1911",
     "gutenbergReference": "63387",
-    "matchType": 1,
     "hash": "c71a2d30bf1d1ec3b11228326c461c90396c9079ee5ca4b31deabe86c001c288"
   },
   {
     "time": "01:45",
-    "quoteFirst": "Batty, arrived, and we three gave each other the usual friendly greeting. By a quarter to one it was evident I was well ahead and that it was not possible that either of the other candidates could win. About a ",
+    "quoteFirst": "Bottles, with mouths from an inch and a ",
     "quoteTime": "quarter to two",
-    "quoteLast": " the counting was completed and the High Sheriff announced the figures.",
-    "title": "From Crow-Scaring to Westminster: An Autobiography",
-    "author": "Edwards, George, Sir, 1850-1933",
-    "gutenbergReference": "35160",
-    "matchType": 1,
-    "hash": "c0c4b56f09f60b3c429a4c6c69e10e315651b532ebc082b9993477a11965cfa5"
+    "quoteLast": " inches in diameter, must also be procured, and these must be three-fourths full of spirits, such as weak brandy, rum, gin or whisky.",
+    "title": "How to stuff birds and animals",
+    "author": "Warford, Aaron A.",
+    "gutenbergReference": "43090",
+    "hash": "fb954b9a77c93d48ed2a5a32121da4b1d1c96039921cbdf870032c916b7718ef"
   },
   {
     "time": "01:45",
-    "quoteFirst": "Batty, arrived, and we three gave each other the usual friendly greeting. By a quarter to one it was evident I was well ahead and that it was not possible that either of the other candidates could win. About a ",
+    "quoteFirst": "But given that all these signs and portents are favorable, there is really no reason why muffins and salt and Chayney tea should not be perfectly delectable in Granny’s withdrawing-room at twenty minutes past four, even after a champagne luncheon at Pagani’s at a ",
     "quoteTime": "quarter to two",
-    "quoteLast": " the counting was completed and the High Sheriff announced the figures.",
-    "title": "From Crow-Scaring to Westminster: An Autobiography",
-    "author": "Edwards, George, Sir, 1850-1933",
-    "gutenbergReference": "35160",
-    "matchType": 1,
-    "hash": "c0c4b56f09f60b3c429a4c6c69e10e315651b532ebc082b9993477a11965cfa5"
+    "quoteLast": ".",
+    "title": "The principal girl",
+    "author": "Snaith, J. C. (John Collis), 1876-1936",
+    "gutenbergReference": "68069",
+    "hash": "aab6e16faecb0227c801cdebb80f89cfc10fbf011a0ff18e3d9460c60f1d83b4"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "'Aline' continued to work the Island shore by short boards, but 'Livonia' made one or two longer tacks over to the north shore, and when they again neared each other off Osborne, 'Aline' just cleared her rival to windward, immediately went round, and planted herself on her opponent's weather-bow. This was fatal to 'Livonia's' chance, even of the honour of coming in first, for 'Aline' had her pinned and never let her go in the few more tacks which were made before they crossed the winning line, 'Aline' at ",
+    "quoteTime": "1.45 A.M.",
+    "quoteLast": ", and 'Livonia' a minute and a half later. It was a remarkably closely contested and fast-sailed race, the wind being strong, and the tide favourable both ways.",
+    "title": "Yachting, Vol. 1",
+    "author": "Sullivan, Edward, Sir, 1852-1928; Brassey, Thomas Brassey, Earl, 1836-1918; Pritchett, R. T. (Robert Taylor), 1828-1907; Seth-Smith, C. E.; Watson. G. L. (George Lennox), 1851-1904",
+    "gutenbergReference": "41971",
+    "hash": "03cdf7fd292ade6d6be899fbb6d9d60375d0f0ad0a7ab12415331861bfb74b9a"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "I was in the King's Road, without a penny. It was a ",
+    "quoteTime": "quarter to two",
+    "quoteLast": " when I passed the Post Office near Sloane Square, and it was twenty past by the time I reached Park Lane. After Park Lane I lost count of the time. I came out of the doze in which I walked to find myself at various times in Upper Baker Street, near Lords, and, I don't know how long after that, on the point of missing the turning into Fitzjohns Avenue.",
+    "title": "The Debit Account",
+    "author": "Onions, Oliver, 1873-1961",
+    "gutenbergReference": "37479",
+    "hash": "11f6ec52c6cdf0f71bf4928b90871e024e07452925547e58ad1740c751993dcd"
   }
 ]

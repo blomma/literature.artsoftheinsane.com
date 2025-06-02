@@ -7,7 +7,6 @@
     "title": "The Toxicity of Caffein: An experimental study on different species of animals",
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
-    "matchType": 2,
     "hash": "7de0da7e6b1fb8a0059eba4f66e10e83511af6cd48f783be546d53bdd98ce1ff"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Pueblo pottery making: a study at the village of San Ildefonso",
     "author": "Guthe, Carl E. (Carl Eugen), 1893-1974",
     "gutenbergReference": "67221",
-    "matchType": 0,
     "hash": "d4fe4619e63015a62d1cc692206770ef874ec569b24fc99501644c3b7d5a3863"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The crime at Black Dudley",
     "author": "Allingham, Margery, 1904-1966",
     "gutenbergReference": "75359",
-    "matchType": 1,
     "hash": "1a69213eadea7da7cd91cd3dbdf6a3a1ef3abfe90557a8b263d270420616232c"
   },
   {
@@ -40,7 +37,6 @@
     "title": "A Book of Burlesques",
     "author": "Mencken, H. L. (Henry Louis), 1880-1956",
     "gutenbergReference": "22145",
-    "matchType": 1,
     "hash": "764068e95b2fcf696617771632ebfc716dedb8a4d5ecc114fdbf66967a59ac3f"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Warren Commission (12 of 26): Hearings Vol. XII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44012",
-    "matchType": 2,
     "hash": "5bd2d0b4fe5e6f9978496215c297235dea0350dbb421c8b5dea509956af56673"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Silent Watchers\nEngland's Navy during the Great War: What It Is, and What We Owe to It",
     "author": "Copplestone, Bennet, 1867-1932",
     "gutenbergReference": "48497",
-    "matchType": 1,
     "hash": "3e49197a61e2b7e70d7e1931defb17138769c2b60b2feeaf2ea58365dd81f267"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Irrational Knot\nBeing the Second Novel of His Nonage",
     "author": "Shaw, Bernard, 1856-1950",
     "gutenbergReference": "11354",
-    "matchType": 1,
     "hash": "52eb95d4e93e2833958beac23e0ef66f3900537e2b14b43cba17673060e6c7ce"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "8d78e2ea63d154f186f25fc422ed5bcdecbd337b97c968ec8e0fe5901f2dd9e5"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
-    "matchType": 2,
     "hash": "8efd4f8fb4f32f033d444807f771f42a87ea30d145a0a893d9f177d8b599ab67"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The British Navy in Battle",
     "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
     "gutenbergReference": "54441",
-    "matchType": 1,
     "hash": "5974a3283b94cbd6e6987a7b33a701cc5b72c1d9ced9bdfce17e235062a75877"
   },
   {
@@ -117,7 +107,6 @@
     "title": "Famous Fighters of the Fleet\nGlimpses through the Cannon Smoke in the Days of the Old Navy",
     "author": "Fraser, Edward, 1859?-",
     "gutenbergReference": "59423",
-    "matchType": 1,
     "hash": "adc9ed4f750738133398d380809f66350074045783195300b65771e56427691f"
   }
 ]

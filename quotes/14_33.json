@@ -7,7 +7,6 @@
     "title": "Around the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "103",
-    "matchType": 1,
     "hash": "5151aa31a4284e19505869acb4833a8405fc39db0502a72eef5f2f4bbbbcc447"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Runaway Asteroid",
     "author": "Cooper, Michael D.",
     "gutenbergReference": "11583",
-    "matchType": 2,
     "hash": "9ad59dbd4364dc6902b5960a5e89b6c2d1abdd8ee2488dcd7c71460a72f23e76"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Strictly Business: More Stories of the Four Million",
     "author": "Henry, O., 1862-1910",
     "gutenbergReference": "2141",
-    "matchType": 1,
     "hash": "f59eb11a0d595aa990ad7eba219a47a841673ddff47887e723c355fc005488d7"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Encyclopaedia Britannica, 11th Edition, \"Baconthorpe\" to \"Bankruptcy\"\r\nVolume 3, Part 1, Slice 2",
     "author": "Various",
     "gutenbergReference": "27479",
-    "matchType": 2,
     "hash": "3ff7d2760382320a5449a92a20fe0caeb97cde878b5b14cdfb4ddced8b1b89f4"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Around the World in Eighty Days. Junior Deluxe Edition",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "2154",
-    "matchType": 1,
     "hash": "3f2ec4143b18dd2525db494e820568e885db8977776db0e8b4c55478d2d935eb"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Rudin: A Novel",
     "author": "Turgenev, Ivan Sergeevich, 1818-1883; Garnett, Constance, 1861-1946 [Translator]",
     "gutenbergReference": "6900",
-    "matchType": 1,
     "hash": "e4fc0b9458548260a8074dd1edbeebc50888fba2eee6efed0cc91d3713a91cad"
   }
 ]

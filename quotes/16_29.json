@@ -7,7 +7,6 @@
     "title": "Opportunities in Aviation",
     "author": "Sweetser, Arthur, 1888-1968; Lamont, Gordon",
     "gutenbergReference": "23581",
-    "matchType": 2,
     "hash": "e09bf188df914053c31f983cdfada6808b3f29bd9a24478c690b09064c0ca3cc"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Rebecca of Sunnybrook Farm",
     "author": "Wiggin, Kate Douglas Smith, 1856-1923",
     "gutenbergReference": "498",
-    "matchType": 1,
     "hash": "bbe803477ff744e5e9e6e72ef802dcddc9e5763532a1e6928594b5b3bc1864c1"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Miss Billy's Decision",
     "author": "Porter, Eleanor H. (Eleanor Hodgman), 1868-1920",
     "gutenbergReference": "362",
-    "matchType": 1,
     "hash": "99698b22f70a815b18160a2c2dcd0b1483a085ef97a68a02bdfb6617a06292e7"
   },
   {
@@ -38,10 +35,9 @@
     "quoteTime": "4.29 p. m.",
     "quoteLast": " (about eight minutes after being torpedoed). As I saw her settling rapidly, I ran along the deck and ordered everybody I saw to jump overboard.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "46239755008dad7252660062a235ad969aa55ddaaf74280cbc4cd1b88571e5e5"
+    "hash": "e794ceb5840ae75e6fdac1f89a5e5de6e4fdbac2638623d0df1552fa967da52b"
   },
   {
     "time": "16:29",
@@ -51,7 +47,6 @@
     "title": "Kelly Miller's History of the World War for Human Rights",
     "author": "Miller, Kelly, 1863-1939",
     "gutenbergReference": "19179",
-    "matchType": 2,
     "hash": "b0eb9f69a6446978460677dbe0b1435f789190987532b7e2671786c8c9be51a0"
   }
 ]

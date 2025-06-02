@@ -7,7 +7,6 @@
     "title": "The Youth of Jefferson\r\nOr, a Chronicle of College Scrapes at Williamsburg, in Virginia, A.D. 1764",
     "author": "Cooke, John Esten, 1830-1886",
     "gutenbergReference": "23283",
-    "matchType": 1,
     "hash": "e65e331bd68b48dd169cb8d904e251abc5766d5a2991b1d814f87a35683745fe"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "90b6843b204168e2f0f799e153b6306f347ba664946b7fa8f843f5c6f1c7f069"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The castles and abbeys of England; Vol. 2 of 2\r\nfrom the national records, early chronicles, and other standard authors",
     "author": "Beattie, William, 1793-1875; Bartlett, W. H. (William Henry), 1809-1854 [Illustrator]; Bentley, Joseph Clayton, 1809-1851 [Illustrator]; Bradshaw, Samuel (Engraver) [Illustrator]; Brandard, Edward Paxman, 1819-1898 [Illustrator]; Cousen, Charles, 1819-1889 [Illustrator]; Davis, S. T. (Samuel T.), 1838-1908 [Illustrator]; Deebles, W. [Illustrator]; Whimper, W. [Illustrator]; Willmore, Arthur, 1814-1888 [Illustrator]",
     "gutenbergReference": "63832",
-    "matchType": 2,
     "hash": "4a40473d0c1fa5ba904cf1314f259a052c852b85258d31db7a5573578b5d70bc"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The history of the 9th (Scottish) Division, 1914-1919",
     "author": "Ewing, John, M.C.; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator]",
     "gutenbergReference": "75001",
-    "matchType": 2,
     "hash": "8f8f8a7256d5cf17b0e5d737c7fea1a7f0c34fb6618f9671f5c36e3117e53cfe"
   },
   {
@@ -51,7 +47,6 @@
     "title": "A Fortnight at the Front",
     "author": "Wakefield, Henry Russell (Bishop of Birmingham), 1854-1933",
     "gutenbergReference": "61370",
-    "matchType": 2,
     "hash": "4d6b1093e9da11ab1b0180a9f0e5677e96c1dea57bf4bc95a2b5176b4f47951a"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "matchType": 2,
     "hash": "9f6eba3bf8d01ec92a4889a0c8214255d57492821a71b3886cec85b6f25f2414"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Works of Edgar Allan Poe — Volume 1",
     "author": "Poe, Edgar Allan, 1809-1849; Lowell, James Russell, 1819-1891 [Contributor]; Willis, Nathaniel Parker, 1806-1867 [Contributor]",
     "gutenbergReference": "2147",
-    "matchType": 1,
     "hash": "89a760db8147dd4cf0157b1aa7aaaf891845b2795e9b4367e520f18e2cb94a80"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "75138",
-    "matchType": 1,
     "hash": "701a996edc3c858de0221fe00330c57c4a6422225a5562d76f7f8dc95b474bf3"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "344f85b640f840e9a82ca48320083df658d313bee0d3e6c7f0797b1c25d81bbe"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Pedestrianism; or, An Account of the Performances of Celebrated Pedestrians During the Last and Present Century.\r\nWith a full narrative of Captain Barclay's public and private matches; and an essay on training.",
     "author": "Thom, Walter, 1770-1824",
     "gutenbergReference": "55644",
-    "matchType": 1,
     "hash": "21a4bbd7d0c760dbaa929b19c3b5c64bb5043f9ffa5a5dd825eeeb4c6c754bfc"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The wonders of the world",
     "author": "Abbott, John Loraine",
     "gutenbergReference": "75040",
-    "matchType": 1,
     "hash": "b8b910cc7ff6ae1e794d8a28fbf5cd761cfe11d638af8f0c7553508544e2209e"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Former Philippines Thru Foreign Eyes",
     "author": "Craig, Austin, 1872-1949 [Editor]; Comyn, Tomás de; Jagor, Fedor, 1816-1900; Virchow, Rudolf, 1821-1902; Wilkes, Charles, 1798-1877",
     "gutenbergReference": "10770",
-    "matchType": 1,
     "hash": "b088ce44886449a11267937b24f2a21c7bbec1b7b930fa86ebe56f893027624f"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Chautauquan, Vol. 04, June 1884, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55194",
-    "matchType": 2,
     "hash": "eb7dade7458d2663f92241fa9b54ef6f108200d2542ab703306a6545892d2851"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Terry",
     "author": "Hilton, James, 1900-1954",
     "gutenbergReference": "70587",
-    "matchType": 1,
     "hash": "86f1e966595df7989b0cf44b24b7838826b502b6974ef641f85fdeecf66a5ca2"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Works of Edgar Allan Poe, The Raven Edition\nTable Of Contents And Index Of The Five Volumes",
     "author": "Poe, Edgar Allan, 1809-1849",
     "gutenbergReference": "25525",
-    "matchType": 1,
     "hash": "ddc137bae6bae32f815cd48dc2c4ebde744ac7d7a5e2298dad4b6f92358c2268"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Trail of '98: A Northland Romance",
     "author": "Service, Robert W. (Robert William), 1874-1958",
     "gutenbergReference": "22063",
-    "matchType": 1,
     "hash": "c698e654c085a31e7ad0ab259ec5d15e80116c13c39d0378ab391e1eabf06f84"
   }
 ]

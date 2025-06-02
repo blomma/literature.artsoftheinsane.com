@@ -7,7 +7,6 @@
     "title": "Across the Equator: A Holiday Trip in Java",
     "author": "Reid, Thomas H.",
     "gutenbergReference": "27556",
-    "matchType": 2,
     "hash": "36ef6164989291b8aaabf0489b4d6cfe5efd81cce36276702cc513be490ce568"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Three Men and a Maid",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "6836",
-    "matchType": 1,
     "hash": "92219a0c51948a0feab0b0475e7581ff642e44da5167c006743168365d7711d6"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Girl on the Boat",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "20717",
-    "matchType": 1,
     "hash": "d6a091569b42d003155bdeb8c9cc78f8fa57c5c82c4ecaa5d3caac214ff09bea"
   }
 ]

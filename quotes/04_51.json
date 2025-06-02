@@ -5,10 +5,9 @@
     "quoteTime": "9 minutes to 5",
     "quoteLast": " a fierce French box barrage--in front and behind the enemy trenches and from the flanks--was opened on the enemy trenches, and the Italian and British artillery on either side started a distracting bombardment. At 5 o'clock precisely the barrage lifted and the French infantry rushed forward to find a smashed trench in front of them, fuming with smoke and dust and strewn with dead and wounded men.",
     "title": "The Story of the Great War, Volume 8\r\nVictory with the Allies; Armistice; Peace Congress; Canada's War Organizations and vast War Industries; Canadian Battles Overseas",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
     "gutenbergReference": "34444",
-    "matchType": 1,
-    "hash": "c053b595f1c3f6a725fad6b9f37885921a2e59ac0bb2de629685d256a2a89edf"
+    "hash": "19a76d08def726208239818f3b55f688baeec514fe7c21fdc7ac137f8f93f9db"
   },
   {
     "time": "04:51",
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, June 1884, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55194",
-    "matchType": 2,
     "hash": "c6fc57d995942acf29b7fc77ff64d9b1167be02d2b19d72ac721db5751567aa8"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "b2d0a7deb784d26499e26c6ca14948c8d5d3921e746d6810245ab2b1d7c96585"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The inter ocean curiosity shop for the year 1883",
     "author": "Various; Jones, William P. [Editor]",
     "gutenbergReference": "70718",
-    "matchType": 2,
     "hash": "7741d7f4ba4b5ace852b35cdbde8b7d00e25ff5d707669b27ad6289e67b30a3a"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "28d8660a8258a957d04d2eddec57787744f2309ccd45d9322d35092e7164fc8c"
   }
 ]

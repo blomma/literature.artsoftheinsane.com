@@ -7,7 +7,6 @@
     "title": "Syndrome",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34321",
-    "matchType": 2,
     "hash": "ee05f7d6d19a70b7767182da7af47229ec67c123b9a45908f90588019e2be162"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Danny's Own Story",
     "author": "Marquis, Don, 1878-1937",
     "gutenbergReference": "587",
-    "matchType": 1,
     "hash": "f306e69bb052727f3905e5026099996bfb9f6b778f84e51ea628abb2c8d89d47"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Danny's Own Story",
     "author": "Marquis, Don, 1878-1937; Kemble, E. W. (Edward Windsor), 1861-1933 [Illustrator]",
     "gutenbergReference": "51925",
-    "matchType": 1,
     "hash": "d103fdd383f5d4da2c20fe897b6aeaa1d706c2570869d7f56d20626d589db081"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "edb6f1573428b803a8c4111dc97455f8a00500c70c3a2b6e1f2c66b005a16c5f"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Knock three-one-two",
     "author": "Brown, Fredric, 1906-1972",
     "gutenbergReference": "70944",
-    "matchType": 2,
     "hash": "ec966903fe8f84e5c35951ceaf2ba9319bec6a43a65d1d035c0944a8eda8b79d"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "a4643b7276330777a1bbee1f53f74eee65036aa3f4f8fb2b1f1c68ef01f33426"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "a4643b7276330777a1bbee1f53f74eee65036aa3f4f8fb2b1f1c68ef01f33426"
   }
 ]

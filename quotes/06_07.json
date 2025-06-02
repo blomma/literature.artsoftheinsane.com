@@ -7,7 +7,6 @@
     "title": "The Black Ghost of the Highway",
     "author": "Linnell, Gertrude, -1933",
     "gutenbergReference": "55242",
-    "matchType": 1,
     "hash": "fed77f1f0226d6ed0c776dc0bf1b75fa86ca7091a5da47d9a303d000347db7f3"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Arrowsmith",
     "author": "Lewis, Sinclair, 1885-1951",
     "gutenbergReference": "70875",
-    "matchType": 1,
     "hash": "526efae0c02a604dd77d17f9b3a60fbd0c21b60b77d1bb356e57d64e83ecc387"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Valley of Content",
     "author": "Upright, Blanche, 1880-1948",
     "gutenbergReference": "67728",
-    "matchType": 1,
     "hash": "854ffd5f9328c775a38348c82fba3a602103168de69926a7e78841146c039a67"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "7eb2df17aa1b7b40d8a2cec5dae466270bfe2a50653a35dc13f403c7166e56c4"
   }
 ]

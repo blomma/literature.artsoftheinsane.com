@@ -7,7 +7,6 @@
     "title": "McKinlay's Journal of Exploration in the Interior of Australia",
     "author": "McKinlay, John, 1819-1872",
     "gutenbergReference": "13248",
-    "matchType": 2,
     "hash": "73e5e8918eb364dc4765de8f5b9053ca8d1df3c0b699a46feab5cf5f1b0e1e8f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58030",
-    "matchType": 2,
     "hash": "8f64b5750574029fe19fc3a1121da8d12012e685c7e02bf229555c149169e43f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Century Vocabulary Builder",
     "author": "Greever, Garland, 1883-1967; Bachelor, Joseph M. (Joseph Morris), 1889-1947",
     "gutenbergReference": "10073",
-    "matchType": 1,
     "hash": "0824b648a5de96071b6873137559f77f8f33982e54e8b2e86b23a7fab87dc346"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Charterhouse of Parma, Volume 1",
     "author": "Stendhal, 1783-1842; Balzac, Honoré de, 1799-1850 [Contributor]; Scott-Moncrieff, C. K. (Charles Kenneth), 1889-1930 [Translator]",
     "gutenbergReference": "66374",
-    "matchType": 1,
     "hash": "672016673b9c119c19b50f09be7f357fac1ca71069cfafa708f5229af4b38fb0"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Adventures of a Three-Guinea Watch",
     "author": "Reed, Talbot Baines, 1852-1893",
     "gutenbergReference": "21035",
-    "matchType": 1,
     "hash": "004095bcd3a527388245e0d979c5dd2def6337a8de6c2ccc17ad0cc1a8ccbd11"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Pictorial Press: Its Origin and Progress",
     "author": "Jackson, Mason, 1819-1903",
     "gutenbergReference": "36417",
-    "matchType": 1,
     "hash": "344ec5afa040cb694a2be9ef4af92eb75f9195f984c964b6f73bc04b2305be0f"
   }
 ]

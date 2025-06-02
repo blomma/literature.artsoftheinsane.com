@@ -7,7 +7,6 @@
     "title": "Toilers of the Sea",
     "author": "Hugo, Victor, 1802-1885; Rhys, Ernest, 1859-1946 [Editor]; Thomas, W. Moy (William Moy), 1828-1910 [Translator]",
     "gutenbergReference": "32338",
-    "matchType": 1,
     "hash": "29999d56e5cf850a74729cfd0b417467cdadadc1c752101d701f9c60d6cf798f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "39b1e3e20a5b1bcd800875a4d684f88db30de4017f223b4385b555a027158e2d"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Something about sugar",
     "author": "Rolph, George M. (George Morrison), 1873-1932",
     "gutenbergReference": "73616",
-    "matchType": 1,
     "hash": "0636161aa5c1f2e82566325fd3fe3835fa389a084d85bfb18d96f7f8111a404a"
   }
 ]

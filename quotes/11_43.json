@@ -7,7 +7,6 @@
     "title": "Syndrome",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34321",
-    "matchType": 2,
     "hash": "16beb6f872570f62222e0e4413ca33bceee6157610c44f8fed78362391a3ea25"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Voyage to Jupiter",
     "author": "Morrison, David, 1940-; Samz, Jane",
     "gutenbergReference": "58915",
-    "matchType": 2,
     "hash": "07f8ccbb239b7d9736629c86e89c971336a52149b11e089bd468a9b5befcfb3f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Teeth of the Tiger",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "13058",
-    "matchType": 1,
     "hash": "842d18550ea2556f210ccf59be001e40b6a963771c689e8e669ac4c250879f67"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Clarion",
     "author": "Adams, Samuel Hopkins, 1871-1958; Stevens, William Dodge, 1870-1942 [Illustrator]",
     "gutenbergReference": "16447",
-    "matchType": 2,
     "hash": "3fbb99db8c4c6ee4767b5325ea0eb304faaf4b3560006759187d97ec86d0d4eb"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Life histories of North American wood warblers, Part 1 (of 2)",
     "author": "Bent, Arthur Cleveland, 1866-1954; Tyler, Winsor Marrett, 1876-1954 [Contributor]",
     "gutenbergReference": "40100",
-    "matchType": 2,
     "hash": "83e76b05ee9f19357b1f9e2d1a2041dca90488a038d18a9afdfacd62586e0b5f"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Fur Country: Or, Seventy Degrees North Latitude",
     "author": "Verne, Jules, 1828-1905; D'Anvers, N., 1844-1933 [Translator]",
     "gutenbergReference": "8991",
-    "matchType": 1,
     "hash": "a33c0f59a6badda2330c30505162f9f5b9fd4b4aa58a6283653640f123a2fc53"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Fur Country: Or, Seventy Degrees North Latitude",
     "author": "Verne, Jules, 1828-1905; D'Anvers, N., 1844-1933 [Translator]",
     "gutenbergReference": "8991",
-    "matchType": 1,
     "hash": "7c1a333ff4d8d7365726030b9bfba063e61656052c88e60cc8d600253771fc45"
   }
 ]

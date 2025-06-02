@@ -7,7 +7,6 @@
     "title": "Around the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "103",
-    "matchType": 1,
     "hash": "492f763eaa300006bc4f03b5a24842e6ba8db1ab53f48cbd5985b751f960be5d"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "6d29d88ef1e02e81c9d1710b94cbefbb8e2dd3f6ec9069e4985ca84b916f8693"
   }
 ]

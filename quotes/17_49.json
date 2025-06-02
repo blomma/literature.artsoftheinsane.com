@@ -7,7 +7,6 @@
     "title": "A Book of Marionettes",
     "author": "Joseph, Helen Haiman, 1888-1978",
     "gutenbergReference": "66391",
-    "matchType": 1,
     "hash": "95967f77d7742ab71baa7cf5c36811cbe03441e597a9f948e83044e9a534ee91"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Pictures from Italy",
     "author": "Dickens, Charles, 1812-1870; Stone, Marcus, 1840-1921 [Illustrator]",
     "gutenbergReference": "650",
-    "matchType": 1,
     "hash": "ef287e575ae9309c69306369024f327694f7aaf70ba0bba2a68137a8114b51d2"
   },
   {
@@ -29,7 +27,6 @@
     "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
     "author": "Leffingwell, Albert, 1845-1916",
     "gutenbergReference": "20222",
-    "matchType": 2,
     "hash": "27d86abc98c20b97d0a86734b397fbf72263a410df15e40e6de056d67f573b3d"
   }
 ]

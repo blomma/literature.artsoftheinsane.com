@@ -7,7 +7,6 @@
     "title": "The Blonde Lady\nBeing a Record of the Duel of Wits between Arsène Lupin and the English Detective",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "24839",
-    "matchType": 1,
     "hash": "9134cf8aba7aad1c16082b013f4011f124beb3e7c593c5507e7eaa6d6a84bf17"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Barium: A Cause of the Loco-Weed Disease",
     "author": "Crawford, Albert Cornelius",
     "gutenbergReference": "40256",
-    "matchType": 2,
     "hash": "683733c9897f7a3fd2ee966bc8fd5591197667b167fc586a5944859cb01c9f67"
   },
   {
@@ -29,7 +27,6 @@
     "title": "A. D. 2000",
     "author": "Fuller, Alvarado M. (Alvarado Mortimer), 1851-1924; Bretsnyder, W. [Illustrator]",
     "gutenbergReference": "44307",
-    "matchType": 1,
     "hash": "8d573613d7d5e11fe717437ed5b17fa4cd1dd86afe02a6b395ca7a3c04901bf8"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Invasion of 1910, with a full account of the siege of London",
     "author": "Le Queux, William, 1864-1927",
     "gutenbergReference": "51905",
-    "matchType": 1,
     "hash": "0dd7ef022127d419286a4ae066b99af02986e7d074882abdebec90e829080f83"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Invasion",
     "author": "Le Queux, William, 1864-1927",
     "gutenbergReference": "36155",
-    "matchType": 1,
     "hash": "7a9eec8c2c02909ff30a3946747e9ba8331c5f9612a915e33a791abf7c8e708d"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 04, May 1884, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55158",
-    "matchType": 2,
     "hash": "60f2bad135f488c21cafae03f104970ae67fbc0b81f867bcab80f01178f0b6ef"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Arsène Lupin versus Herlock Sholmes",
     "author": "Leblanc, Maurice, 1864-1941; Morehead, George [Translator]",
     "gutenbergReference": "40203",
-    "matchType": 1,
     "hash": "664f70c68867d9ea614bb3737aa9f089eda5b07e629a5ccf383d1aba36d46e25"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "From the Earth to the Moon; and, Round the Moon",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "83",
-    "matchType": 1,
     "hash": "923d9ca95699c1576458356e28104d8d372b4f5b496782e499c42a8830e4cae3"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Papers and Writings of Abraham Lincoln, Complete",
     "author": "Lincoln, Abraham, 1809-1865; Choate, Joseph Hodges, 1832-1917 [Contributor]; Roosevelt, Theodore, 1858-1919 [Contributor]; Schurz, Carl, 1829-1906 [Contributor]; Lapsley, Arthur Brooks [Editor]",
     "gutenbergReference": "3253",
-    "matchType": 2,
     "hash": "095615971f446062a038f882f079aa5958d2e1c9db9abeeb8dffde039950900e"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Moon-Voyage",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "12901",
-    "matchType": 2,
     "hash": "dacbee7abc1495d4ca9734fba5b6a52fdfc19a10f23bf2fc6a31360c89408182"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Yankee mining squadron",
     "author": "Belknap, Reginald Rowan, 1871-1959",
     "gutenbergReference": "74827",
-    "matchType": 2,
     "hash": "593a4b878476be551b52d2fdd42adbd9d3584aa08e379fb28060ba9191215bbc"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "matchType": 2,
     "hash": "7c12f5ae750dd19ae25f2540d4a662adbf459f87fb2355e20f5f83b3f8ab29a4"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Papers and Writings of Abraham Lincoln — Volume 6: 1862-1863",
     "author": "Lincoln, Abraham, 1809-1865; Lapsley, Arthur Brooks [Editor]",
     "gutenbergReference": "2658",
-    "matchType": 2,
     "hash": "180869257d69128eb39d3a9df4a762179500442eedc5826273d909877d7460ed"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "6f90c03ed4823e72f5ee087ee278f667f034918da5835f220d2b3ada61e1e87e"
   }
 ]

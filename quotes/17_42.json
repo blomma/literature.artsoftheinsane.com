@@ -7,7 +7,6 @@
     "title": "New York Times Current History; The European War, Vol 2, No. 4, July, 1915\nApril-September, 1915",
     "author": "Various",
     "gutenbergReference": "26377",
-    "matchType": 2,
     "hash": "f1b43b951366c86cd2f98a4cbfe2e734b7ebd71a4d515dcdb401acb25e1f1c16"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Dodge Club; Or, Italy in MDCCCLIX",
     "author": "De Mille, James, 1833-1880",
     "gutenbergReference": "27086",
-    "matchType": 1,
     "hash": "c720e7caf8c26bf9ee0a70d2b2ebd04e4a903521766a85a0e8e31487a5767189"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Langley Memoir on Mechanical Flight, Parts I and II\nSmithsonian Contributions to Knowledge, Volume 27 Number 3, Publication 1948, 1911",
     "author": "Langley, S. P. (Samuel Pierpont), 1834-1906; Manly, Charles M. (Charles Matthews), 1876-1927",
     "gutenbergReference": "47981",
-    "matchType": 2,
     "hash": "38e204d4a7cc5febf70e013f165aefb16d232dd82621cec7f77c984bef67b56f"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Scientific American Supplement, No. 324, March 18, 1882",
     "author": "Various",
     "gutenbergReference": "8483",
-    "matchType": 2,
     "hash": "0d004d1aea1fae2e12be14a039ac28051ce9e862bee1042dbc9c28e9da04bd4a"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "f20e85d90d0793b9681b1bbdd86c15be8a3c9ac57a865f0b1ead66c2bf9435d6"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "c6ead3c9a4071a46b779ffeb60573fe72237e7741fc762da8e3dfb3087e8e428"
   },
   {
@@ -29,7 +27,6 @@
     "title": "A narrative of the mutiny, on board His Majesty's ship Bounty",
     "author": "Bligh, William, 1754-1817",
     "gutenbergReference": "20337",
-    "matchType": 0,
     "hash": "ea076524b286c3bb9d18c0e9d60f3a5b2fee3d4e69d9e4e2c1b563048b7acaaf"
   }
 ]

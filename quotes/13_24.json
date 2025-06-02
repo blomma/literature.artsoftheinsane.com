@@ -7,7 +7,6 @@
     "title": "Sir Ian Hamilton's Despatches from the Dardanelles, etc.",
     "author": "Hamilton, Ian, 1853-1947; Wood, Evelyn, 1838-1919 [Author of introduction, etc.]",
     "gutenbergReference": "53959",
-    "matchType": 2,
     "hash": "482000ff49df96f0a793a1c2cadb9369181124aba6f4897408e2e005dcaa6606"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Notes and Queries, Number 219, January 7, 1854\r\nA Medium of Inter-communication for Literary Men, Artists, Antiquaries, Genealogists, etc.",
     "author": "Various",
     "gutenbergReference": "27614",
-    "matchType": 1,
     "hash": "ca675cb814f98ee6ae09043df2192063f77a962ec47882f9eadbd37779bffaa7"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "matchType": 2,
     "hash": "71b9ddfb5ff5547ed0f9156499714eee0477a4a561bba61ce8795a504cb6707a"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "9b41e42ffe5f3c799f0ffffff4d31f44f6034dba1f0b5c0e4ef0445709d7187d"
   },
   {
@@ -51,7 +47,6 @@
     "title": "A Writer's Recollections — Volume 1",
     "author": "Ward, Humphry, Mrs., 1851-1920",
     "gutenbergReference": "9820",
-    "matchType": 0,
     "hash": "c710ef06c2d91a2348a19d8a4bf7e7357c14d59eb6d8cc9a328bafd5a29a07e8"
   }
 ]

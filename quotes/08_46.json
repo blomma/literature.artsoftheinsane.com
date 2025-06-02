@@ -7,7 +7,6 @@
     "title": "A Great Man: A Frolic",
     "author": "Bennett, Arnold, 1867-1931",
     "gutenbergReference": "29860",
-    "matchType": 1,
     "hash": "7f06ebcc7b0f4f3add251691fe8f9cf2baeb5c1cf54e26dab6e8fee3570fc281"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55218",
-    "matchType": 2,
     "hash": "07b05abe107579b6d0ca031796dd5f1c18bf91290a3450306997d2ae08cc769f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Lonesome Land",
     "author": "Bower, B. M., 1871-1940",
     "gutenbergReference": "8537",
-    "matchType": 1,
     "hash": "649b2e08ad82d93b613bf066bc4147cf9a4273c61d4c75dbe73b6e1d097fab5e"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Trials of war criminals before the Nuernberg military tribunals under control council law no. 10, volume I",
     "author": "Various",
     "gutenbergReference": "54899",
-    "matchType": 2,
     "hash": "67d99c68b360b9064de2c924baa0d09156cf91cf32617132063fe2897cbf82ac"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Trials of war criminals before the Nuernberg military tribunals under control council law no. 10, volume I",
     "author": "Various",
     "gutenbergReference": "54899",
-    "matchType": 2,
     "hash": "3ec30786fa6c96013069997ffd7d5286085bbbfc7a8beef5aea9c3cbf9b11f62"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Curiosities of Great Britain: England and Wales Delineated Vol.1-11\r\nHistorical, Entertaining & Commercial; Alphabetically Arranged. 11 Volume set.",
     "author": "Dugdale, Thomas; Burnett, William [Other]",
     "gutenbergReference": "37519",
-    "matchType": 2,
     "hash": "be4c5128eb487e2d85e87b93770d95b41fc8f8edea473f5e0cb229a632c36b76"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The History of the 33rd Divisional Artillery, in the War, 1914-1918.",
     "author": "Macartney-Filgate, John Victor; Horne, Henry, 1861-1929 [Author of introduction, etc.]",
     "gutenbergReference": "51776",
-    "matchType": 2,
     "hash": "764e7dfcd419fca3b9a10f8f5e5611ef59f5deaefa56d37dc0c41b5fce2ad318"
   }
 ]

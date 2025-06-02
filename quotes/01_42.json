@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "acd835eb35926e680349c5aaee6f828f475c9f7f9d9d58de5c734b894c8e8d4d"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "bfe60d9b6dc8a01b1c1c317a2fb3b685badb8a1023f0df1a1522aa449d33ac47"
   },
   {
@@ -29,7 +27,6 @@
     "title": "In the land of the lion and sun, or, modern Persia",
     "author": "Wills, C. J. (Charles James), 1842-1912",
     "gutenbergReference": "72128",
-    "matchType": 1,
     "hash": "ed29673596aa137524ab75fa077a7aafe1b6cbfd37af22c6b93133404b9059bd"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "9acbf2e300f9c6194173dc364937fad38c40fe0314e3ce41b8d048fbe1aced81"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Boy Allies in the Trenches; Or, Midst Shot and Shell Along the Aisne",
     "author": "Hayes, Clair W. (Clair Wallace), 1887-",
     "gutenbergReference": "12571",
-    "matchType": 1,
     "hash": "7430dfd7f962881c2e76cbc462dd3789c5688dfcfebf14c0576cb19d2e07c938"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Peaks of Shala",
     "author": "Lane, Rose Wilder, 1886-1968",
     "gutenbergReference": "67568",
-    "matchType": 1,
     "hash": "b09e58bb5ad5a09ae72618dfdc96a06a814d13d7aaeadace29b053dc25d91ff4"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Purchase of the North Pole\nA sequel to \"From the earth to the moon\"",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "60242",
-    "matchType": 1,
     "hash": "d536698064210f7d2e0348f0a4086cf42031cf56ce5f1ca4247bd5e7f64c9cfc"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The History of the Post Office, from Its Establishment Down to 1836",
     "author": "Joyce, Herbert",
     "gutenbergReference": "38328",
-    "matchType": 2,
     "hash": "fc80a963d839df32184281d34523429cfa20b6594e967b88ed59d3a403f9f65d"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Former Philippines Thru Foreign Eyes",
     "author": "Craig, Austin, 1872-1949 [Editor]; Comyn, Tomás de; Jagor, Fedor, 1816-1900; Virchow, Rudolf, 1821-1902; Wilkes, Charles, 1798-1877",
     "gutenbergReference": "10770",
-    "matchType": 1,
     "hash": "6d068c2aad5cd76bc4ab355086f2a1ab1b66c17a9b07a247882a91b59038db0d"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "970a97cce8fabedc1220238eb8a260e17cf9751074006a459b6dd61fefbb2a62"
   },
   {
@@ -84,7 +77,6 @@
     "title": "A Short History of Astronomy",
     "author": "Berry, Arthur, 1862-1929",
     "gutenbergReference": "59212",
-    "matchType": 1,
     "hash": "3cadef44e5542da8b9ddec0c3a1e16045ac4a8e233180f56a7a1a68e5518fc34"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Self-Doomed: A Novel",
     "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
     "gutenbergReference": "53096",
-    "matchType": 1,
     "hash": "8f3c2ebedfd7556c4d508fe2400154565dffa21a4a099d73c96dc813ad28e4e2"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Chautauquan, Vol. 04, May 1884, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55158",
-    "matchType": 2,
     "hash": "edd6313f037ef190d2b72a01c4a42e8762f0720e808cb0b0cb1cea9a4e136f04"
   },
   {
@@ -117,7 +107,6 @@
     "title": "Pixie O'Shaughnessy",
     "author": "Vaizey, George de Horne, Mrs., 1857-1917; Groome, William H. C., 1860-1914 [Illustrator]",
     "gutenbergReference": "21101",
-    "matchType": 1,
     "hash": "4119500ad808524c61e915cb6a936aa6526f7290065c9a1fb26f34736f083679"
   },
   {
@@ -128,7 +117,6 @@
     "title": "The Corner House",
     "author": "White, Fred M. (Fred Merrick), 1859-1935; Smith, A. T. (A. Talbot), 1877- [Illustrator]",
     "gutenbergReference": "57066",
-    "matchType": 1,
     "hash": "029313014e0b4a045a3b766f3463a379c196ad0aec871a1aad0c2ffcac7c124f"
   }
 ]

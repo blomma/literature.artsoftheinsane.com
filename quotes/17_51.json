@@ -7,7 +7,6 @@
     "title": "The Worst Journey in the World: Antarctic, 1910-1913",
     "author": "Cherry-Garrard, Apsley, 1886-1959",
     "gutenbergReference": "14363",
-    "matchType": 2,
     "hash": "8d5ff1527cb9eee4c7244dcdd261e03dccac882104193ac51aee20b3bc5892f2"
   },
   {
@@ -18,7 +17,6 @@
     "title": "History of the U.S.S. Leviathan, cruiser and transport forces, United States Atlantic fleet\r\nCompiled from the ship's log and data gathered by the history committee on board the ship",
     "author": "U.S.S. Leviathan History Committee",
     "gutenbergReference": "59699",
-    "matchType": 2,
     "hash": "f0cb77e2d9eb48aff81c588a9307d848ec9c626c14fb27e1b700935a6853afbb"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Yellowstone via Gallatin Gateway Montana",
     "author": "Chicago, Milwaukee, St. Paul, and Pacific Railroad Company",
     "gutenbergReference": "46305",
-    "matchType": 2,
     "hash": "b3845c4e31b9576a2afa868b75c1cb02eaeea5aa562f7a7349417ab96eb2ffc5"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Syndrome",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34321",
-    "matchType": 2,
     "hash": "1289ea23d5e88a389871edf121ee19ac6fb26b1e58ea9498c47331b0048e6743"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Glacières; or, Freezing Caverns",
     "author": "Balch, Edwin Swift, 1856-1927",
     "gutenbergReference": "52216",
-    "matchType": 2,
     "hash": "3fb95e33f63bf6a9097e2b3661f99a52f05186532ef4652ea2541050a5aa2a95"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The atom curtain",
     "author": "Williams, Nick B. (Nick Boddie), 1906-1992",
     "gutenbergReference": "73135",
-    "matchType": 2,
     "hash": "acb18313a3708fb95e92e37881d790696b236af0a9298b2b606f4f289a56a921"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Ice-Caves of France and Switzerland",
     "author": "Browne, G. F. (George Forrest), 1833-1930",
     "gutenbergReference": "14012",
-    "matchType": 2,
     "hash": "03a1a6f6d5b3fad199bd249a3cb47e3ffdaaf4e431152fee021f4f1faf94244e"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Memoir of the Life and Services of Vice-Admiral Sir Jahleel Brenton, Baronet, K.C.B.",
     "author": "Raikes, Henry, 1782-1854 [Editor]",
     "gutenbergReference": "58746",
-    "matchType": 1,
     "hash": "b7c9d31820cc027e6453a9a802f86c99b64a45440a7f195655c1561f69c05bf0"
   },
   {
@@ -62,7 +57,6 @@
     "title": "A Journal of the Disasters in Affghanistan, 1841-2",
     "author": "Sale, Florentia Wynch, 1790-1853",
     "gutenbergReference": "50219",
-    "matchType": 0,
     "hash": "ad6e38f934f860d8184c5a18c63084f19c622a7264d70806e33860f7c37ad054"
   }
 ]

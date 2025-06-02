@@ -7,7 +7,6 @@
     "title": "The Corsair in the war zone",
     "author": "Paine, Ralph Delahaye, 1871-1925",
     "gutenbergReference": "72760",
-    "matchType": 2,
     "hash": "31593ffe98bc288338f7db0d2fbaf378ecb4f7cb4224ad79f8003a3b1697e666"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58030",
-    "matchType": 2,
     "hash": "b9aa041f22c4da188d2e813ddd4b70a33739ae28798b04162b0f2ffbc9cb8287"
   },
   {
@@ -29,7 +27,6 @@
     "title": "What Katy Did",
     "author": "Coolidge, Susan, 1835-1905",
     "gutenbergReference": "8994",
-    "matchType": 1,
     "hash": "9f309964ef9620e2bb42e400178126fbe0770f4cb404c77e19d07e615ffde849"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Rockets, Missiles, and Spacecraft of the National Air and Space Museum, Smithsonian Institution",
     "author": "Murphy, Lynne C.; Collins, Michael, 1930- [Author of introduction, etc.]",
     "gutenbergReference": "57421",
-    "matchType": 2,
     "hash": "de7b79c44c8074e65f217bcabba34e4edf8dd1ea268e23112e67f342fb4095e8"
   }
 ]

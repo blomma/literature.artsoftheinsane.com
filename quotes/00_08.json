@@ -7,7 +7,6 @@
     "title": "In Jeopardy",
     "author": "Sutphen, Van Tassel, 1861-1945",
     "gutenbergReference": "38477",
-    "matchType": 1,
     "hash": "b667046fbcd6b235a1157a5368af210afac440af6b5c0a2b727ff1622361371c"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Cat o' mountain",
     "author": "Friel, Arthur O. (Arthur Olney), 1885-1959; Humphreys, Donald S. [Illustrator]",
     "gutenbergReference": "68896",
-    "matchType": 0,
     "hash": "9223c50aafadc2186a19378908375813eae1553e36c6000b17d467b428d34938"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "babf14f690f43099427691a73cfca065e279a234b6130d05ab15fa8bb89c92f1"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Malvina of Brittany",
     "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
     "gutenbergReference": "2023",
-    "matchType": 1,
     "hash": "2e1686a4cd286abe7374cb890288d578eb5cf0b12884f23ab293a392264fc959"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Allan Quatermain",
     "author": "Haggard, H. Rider (Henry Rider), 1856-1925",
     "gutenbergReference": "711",
-    "matchType": 1,
     "hash": "dbbc93853df3fe17f615750574f9cf3c83d62e1c428c1d8361147b7f5643c94f"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The World Crisis, Volume 1 (of 6)",
     "author": "Churchill, Winston, 1874-1965",
     "gutenbergReference": "59794",
-    "matchType": 0,
     "hash": "649b9e3b0b29bf11bec77cbf83a0ced87844387e6a1dc8ac2f11bfb0f052dbbc"
   }
 ]

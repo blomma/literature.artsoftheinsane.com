@@ -7,7 +7,6 @@
     "title": "Three Little Lines\r\nSilverton Railroad; Silverton, Gladstone and Northerly; Silverton Northern",
     "author": "Crum, Josie Moore",
     "gutenbergReference": "62664",
-    "matchType": 2,
     "hash": "34583c920b368ce61323b6d1ab3149f3e4b3d404e65a489f3869028e1256616a"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Cyrus W. Field, His Life and Work [1819-1892]",
     "author": "Judson, Isabella Field, 1846- [Editor]",
     "gutenbergReference": "43753",
-    "matchType": 1,
     "hash": "44dbafebc59839d9a7a5da4f20da097b009831613bf0061aa80d73cba8409b4f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Turner Twins",
     "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
     "gutenbergReference": "37209",
-    "matchType": 1,
     "hash": "b26ce288701ac40365d1d817e6841423dada0bea344862146be0b7eaea96e7f5"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Torchy, Private Sec.",
     "author": "Ford, Sewell, 1868-1946; Lincoln, F. Foster (Frederic Foster) [Illustrator]",
     "gutenbergReference": "20627",
-    "matchType": 2,
     "hash": "846f8a35d015c36f61137164dc55973fee2b5ec7c2a0c2209e0d64d91e5ed75d"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Cynthia Steps Out",
     "author": "Berry, Erick, 1892-1974",
     "gutenbergReference": "53197",
-    "matchType": 1,
     "hash": "d02a1567a825242803dce171692bf333ae55562fae04c9a7b5d7fc58f09836e4"
   },
   {
@@ -18,7 +17,6 @@
     "title": "A Study of Recent Earthquakes",
     "author": "Davison, Charles, 1858-1940",
     "gutenbergReference": "25062",
-    "matchType": 2,
     "hash": "956ec51fa5674edb1cb187a7afc3cd970ee2bc9a8b47506c80d96401d0e53f85"
   },
   {
@@ -29,7 +27,6 @@
     "title": "A Study of Recent Earthquakes",
     "author": "Davison, Charles, 1858-1940",
     "gutenbergReference": "25062",
-    "matchType": 2,
     "hash": "5c3c0d97ad1cc2eb41dcca11578040f7c85b8a9602066fac23bea6643480332d"
   }
 ]

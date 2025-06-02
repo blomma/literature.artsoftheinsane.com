@@ -7,7 +7,6 @@
     "title": "Mariner Mission to Venus",
     "author": "Jet Propulsion Laboratory (U.S.)",
     "gutenbergReference": "54585",
-    "matchType": 2,
     "hash": "b3035f413541b3eed7f3fdbc67d6c91fc08c60096ca3e8c21e2b9bc40d28f63b"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Warren Commission (08 of 26): Hearings Vol. VIII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44008",
-    "matchType": 2,
     "hash": "ce921d97c19ca604ce045061226a5c4a83b08f52ade2c2121bc9ad14e5fa24ce"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
-    "matchType": 2,
     "hash": "bfc60d9c12b681b09f07267fb6813164fc12bb6cf1903d6954de1900a4a5d681"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "b71e72c86e03eac048893d2d783afc405c73351a25452a6b4682e01cbd0145a4"
   }
 ]

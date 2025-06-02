@@ -7,7 +7,6 @@
     "title": "The crime at Black Dudley",
     "author": "Allingham, Margery, 1904-1966",
     "gutenbergReference": "75359",
-    "matchType": 1,
     "hash": "08ac700f46cabe3f6aaec48b17a64b8216449741716988e0e4b8ff243aa2f8d3"
   },
   {
@@ -18,7 +17,6 @@
     "title": "A Book of Burlesques",
     "author": "Mencken, H. L. (Henry Louis), 1880-1956",
     "gutenbergReference": "22145",
-    "matchType": 1,
     "hash": "afdd6a50d4f03ba8073e18d2b5b8d7c73545076c44e197879827274b87481180"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Silent Watchers\nEngland's Navy during the Great War: What It Is, and What We Owe to It",
     "author": "Copplestone, Bennet, 1867-1932",
     "gutenbergReference": "48497",
-    "matchType": 1,
     "hash": "12d544ce03834a2b2bcb56badf804d59840b01283ed4e0b47aa9b822c8578de5"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Irrational Knot\nBeing the Second Novel of His Nonage",
     "author": "Shaw, Bernard, 1856-1950",
     "gutenbergReference": "11354",
-    "matchType": 1,
     "hash": "412961c74de91cec9f3165fb504893c9c406fa3b3343255a238e9544668724f1"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The British Navy in Battle",
     "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
     "gutenbergReference": "54441",
-    "matchType": 1,
     "hash": "296d02a87946c7ce06553cc4b74ae649911996487b2e006f36fce153cb1da328"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Famous Fighters of the Fleet\nGlimpses through the Cannon Smoke in the Days of the Old Navy",
     "author": "Fraser, Edward, 1859?-",
     "gutenbergReference": "59423",
-    "matchType": 1,
     "hash": "27c32ca17e5cf8f814bbde1892c8b2e852ad2eb8ba3d9678dde23d941b7fff05"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Chautauquan, Vol. 04, May 1884, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55158",
-    "matchType": 2,
     "hash": "0e52354c7f66a3e7214adb38c9e47eab561202f49353c43b29c979dd4e1bcb70"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Make Mine Homogenized",
     "author": "Raphael, Rick, 1919-1994; Freas, Kelly, 1922-2005 [Illustrator]",
     "gutenbergReference": "24119",
-    "matchType": 2,
     "hash": "3e28cae6c2e9e98e1e241968b774cd552d71d6cc7a531670bdea18b6175a9712"
   }
 ]

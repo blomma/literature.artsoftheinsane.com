@@ -7,7 +7,6 @@
     "title": "A Parody on Patience",
     "author": "Dalziel, D. (Davison); McVickar, H. W. (Harry Whitney), 1860- [Illustrator]",
     "gutenbergReference": "48723",
-    "matchType": 2,
     "hash": "6f3e5631e25de8ecc1f02c4772b318383fcd854d763c006ede7f8deaaeabf15c"
   },
   {
@@ -18,7 +17,6 @@
     "title": "A Parody on Patience",
     "author": "Dalziel, D. (Davison); McVickar, H. W. (Harry Whitney), 1860- [Illustrator]",
     "gutenbergReference": "48723",
-    "matchType": 2,
     "hash": "2b1254c7266ffddd2de2ef1e09fd2643376d14cd5fdf8fb9daf0edc7d41cfa08"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Selected English Letters (XV-XIX Centuries)",
     "author": "Duckitt, Mabel, 1881- [Editor]; Elgee, Harriet W. (Harriet Wragg), 1881- [Editor]",
     "gutenbergReference": "12515",
-    "matchType": 0,
     "hash": "55d13bc2f1fbd92d29748c5339320119399abdbb909b0aedb7a5f42431e3c9e5"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The British Navy in Battle",
     "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
     "gutenbergReference": "54441",
-    "matchType": 1,
     "hash": "dd131c328a132595ac93b47611bcd26dab959be10d1f31b4167865a3d6f97103"
   },
   {
@@ -51,7 +47,6 @@
     "title": "East Anglia: Personal Recollections and Historical Associations",
     "author": "Ritchie, J. Ewing (James Ewing), 1820-1898",
     "gutenbergReference": "30717",
-    "matchType": 0,
     "hash": "18b9197270bf6a2cbadf70a5a2e6ece9b77298a88331c77f61fff59f67a720c7"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Hungry Hearts",
     "author": "Yezierska, Anzia, 1880?-1970",
     "gutenbergReference": "41232",
-    "matchType": 0,
     "hash": "0c9a32c5dbf47878d884db2feabf9ff49d5179e0cc62110cd898b230d5da35a9"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Chautauquan, Vol. 04, May 1884, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55158",
-    "matchType": 2,
     "hash": "96395eec95ea838db1f464cec3bde8624580901a0e381e9a521f62dd38eb6bd6"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Best Letters of Charles Lamb",
     "author": "Lamb, Charles, 1775-1834; Johnson, Edward Gilpin [Editor]",
     "gutenbergReference": "10125",
-    "matchType": 0,
     "hash": "dea5abb3f504e789042ef05e798b28fbdbf9db6a14a5981b0345dd92438e3209"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Behind the Scenes in a Hotel",
     "author": "Consumers' League of New York City",
     "gutenbergReference": "65443",
-    "matchType": 0,
     "hash": "302e418f825ccb0c4e9ed0f333b6a89907fd81bd2132e77ed9c3153fcc471f6c"
   }
 ]

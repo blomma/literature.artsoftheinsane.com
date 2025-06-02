@@ -7,7 +7,6 @@
     "title": "The Girl and the Bill\r\nAn American Story of Mystery, Romance and Adventure",
     "author": "Merwin, Bannister",
     "gutenbergReference": "25799",
-    "matchType": 1,
     "hash": "1241b8d2461918b7c71fdfaf1aad3e2a62c2adfc1733e7ba3bd68c1b2eccdfce"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "182c25bc715f2d947dc77043ec0ce50580616480d1ebf3671c6c8113c729c625"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "501358de183133d91380892db7e83b57515018c929afb4ff8f8d7284b449aff2"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Quincy Adams Sawyer and Mason's Corner Folks\nA Picture of New England Home Life",
     "author": "Pidgin, Charles Felton, 1844-1923",
     "gutenbergReference": "16414",
-    "matchType": 1,
     "hash": "ea3cf74e7c957f18c5809fb1b0cce72f8a113bf6f406a18b935657638f18698c"
   }
 ]

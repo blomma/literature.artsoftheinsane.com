@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "0cd4acd4567cee8a0ddbc6710ab90e9cbd2324472b2fe6be386edd7596ff5ff1"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Perch of the Devil",
     "author": "Atherton, Gertrude Franklin Horn, 1857-1948",
     "gutenbergReference": "69429",
-    "matchType": 1,
     "hash": "a8f53cc8c60afdaad264cf961934d01a3592fc1dd2cccefdedea222aa001d14e"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "matchType": 2,
     "hash": "480d81016b26f0539c759d831a2ecbc88c2750241695e104e66d548c7b07fb61"
   }
 ]

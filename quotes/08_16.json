@@ -7,7 +7,6 @@
     "title": "Mystery of the inn by the shore",
     "author": "Warden, Florence, 1857-1929; Kendrick, Charles, 1841-1914 [Illustrator]",
     "gutenbergReference": "73798",
-    "matchType": 1,
     "hash": "cf788243e5c837bc2aec043868a8cc89a325eae0051f5ddd9a7c085dafefe072"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Clubfoot the Avenger\r\nBeing some further adventures of Desmond Oakwood, of the Secret Service",
     "author": "Williams, Valentine, 1883-1946",
     "gutenbergReference": "65416",
-    "matchType": 1,
     "hash": "ab5d0cd388bd09b09b2a4ace977c6b2e2b89f0e1bdb3f65dda3db70781c5bb45"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Atomic Bombings of Hiroshima and Nagasaki",
     "author": "United States. Army. Corps of Engineers. Manhattan District",
     "gutenbergReference": "685",
-    "matchType": 2,
     "hash": "e91749b62ddb71ae1fe692e9c33aebda5f85b8f6b295ddb8aac0efdd7b2fe4dc"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "ba8045db9c8a0c38ba7adcc124bb9329690f06c5635a5a26ace25210ca981aeb"
   }
 ]

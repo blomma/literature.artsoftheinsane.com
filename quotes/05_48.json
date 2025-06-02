@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "47c482dac7b544d30c5673ea57eb2cbc88cc94a74c77b134186dcbf77ecff74d"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Kingsford, Quarter",
     "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
     "gutenbergReference": "57740",
-    "matchType": 1,
     "hash": "75ea7174c98e1a76d42529cddedaac674bafe9b8f615c8d15306ee6ef40f7bfe"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Passaic Flood of 1903",
     "author": "Leighton, Marshall Ora, 1874-1958",
     "gutenbergReference": "19878",
-    "matchType": 0,
     "hash": "d6bde1b50d2f082a913c3ce202bcc73222bde7936b55865d709fa7f1f2003383"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Passaic Flood of 1903",
     "author": "Leighton, Marshall Ora, 1874-1958",
     "gutenbergReference": "19878",
-    "matchType": 0,
     "hash": "7639728273735a0ff04e1e25a0b6fa67c4a816d5397bc08e9d61e62c679a109f"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Passaic Flood of 1903",
     "author": "Leighton, Marshall Ora, 1874-1958",
     "gutenbergReference": "19878",
-    "matchType": 0,
     "hash": "9ab36460685cd00e5e59b40ebf3421ee152ceb66984dff529cc0fe7caad72507"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Passaic Flood of 1903",
     "author": "Leighton, Marshall Ora, 1874-1958",
     "gutenbergReference": "19878",
-    "matchType": 0,
     "hash": "0a56649aa5a4ddffd9c9fae9d37fbc4fd3194081a95b60f6e7a444315e2899a3"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Passaic Flood of 1903",
     "author": "Leighton, Marshall Ora, 1874-1958",
     "gutenbergReference": "19878",
-    "matchType": 0,
     "hash": "3ba07989948447f9673d1a299eb3c4363cfe5da6a08806d7bf1e959ab56d306c"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "8dfa13fd368b8bcdf3d2b64afc930a24cdfa071dc48923725385f33169a1dc10"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Pictorial Press: Its Origin and Progress",
     "author": "Jackson, Mason, 1819-1903",
     "gutenbergReference": "36417",
-    "matchType": 1,
     "hash": "19c7c6d7e632ea41e159f16847a226ea072da479b88774b42c21a52f8eb68116"
   },
   {
@@ -106,7 +97,6 @@
     "title": "Thirty Canadian V.Cs., 23d April 1915 to 30th March 1918",
     "author": "Canadian War Records Office; Martin, Stuart, Military Historian; Richards, Robin; Roberts, Theodore Goodridge, 1877-1953",
     "gutenbergReference": "40649",
-    "matchType": 2,
     "hash": "d33df10ece5eb89ca1929ae612f48e0ddbece27cdcfac27e44883a9d82f61483"
   }
 ]

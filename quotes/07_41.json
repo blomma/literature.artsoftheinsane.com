@@ -7,7 +7,6 @@
     "title": "The Dark Flower",
     "author": "Galsworthy, John, 1867-1933",
     "gutenbergReference": "2192",
-    "matchType": 1,
     "hash": "b5b5e3a80acfb905a3ac586f8388a7ba2792ab5839a41e050d71451f37d11577"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Complete Project Gutenberg John Galsworthy Works",
     "author": "Galsworthy, John, 1867-1933",
     "gutenbergReference": "3254",
-    "matchType": 1,
     "hash": "06ac225589b8a76fdabce7f3fa784a93b8f1e67bf4bcae469a9d8a63bc0b9a43"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "3b6fd8af24b649f087700f79a5b79625a7ed4695752f57c5115290405ecf88a1"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Adventures of Dr. Thorndyke\n(The Singing Bone)",
     "author": "Freeman, R. Austin (Richard Austin), 1862-1943",
     "gutenbergReference": "59478",
-    "matchType": 1,
     "hash": "d11e2173c54338145bec5bc346ec1025cf839eb134e23e4ce82257caa0799cbd"
   }
 ]

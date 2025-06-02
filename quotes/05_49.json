@@ -7,7 +7,6 @@
     "title": "A Book of Marionettes",
     "author": "Joseph, Helen Haiman, 1888-1978",
     "gutenbergReference": "66391",
-    "matchType": 1,
     "hash": "30255c0d05d670eebb5bc9590bd6f3dcc5a3a68675f57df0a56d689fcdf9e5bf"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Pictures from Italy",
     "author": "Dickens, Charles, 1812-1870; Stone, Marcus, 1840-1921 [Illustrator]",
     "gutenbergReference": "650",
-    "matchType": 1,
     "hash": "1d367d0601ea21273baefbc4d57e783551ad2be520531193929fcac0115297ca"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, February 1884, No. 5.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55132",
-    "matchType": 2,
     "hash": "0dd49a26786d4cc0631971f7e61961e2b21c0f008a09d23fc42b72ee038c9a70"
   }
 ]

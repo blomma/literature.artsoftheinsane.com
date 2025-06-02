@@ -7,7 +7,6 @@
     "title": "The Life of the Fields",
     "author": "Jefferies, Richard, 1848-1887",
     "gutenbergReference": "6164",
-    "matchType": 1,
     "hash": "2b68476f916121e4b6dc9bdac85ebb9fc0c3b91cbeca04dbc7eabed9fb177503"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Through Magic Glasses and Other Lectures\nA Sequel to The Fairyland of Science",
     "author": "Buckley, Arabella B. (Arabella Burton), 1840-1929",
     "gutenbergReference": "37589",
-    "matchType": 1,
     "hash": "b5aea576ecd762722904fb8d361a7cc8a5e7f8bc43a7e8edfb562577e21408b7"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Mariner Mission to Venus",
     "author": "Jet Propulsion Laboratory (U.S.)",
     "gutenbergReference": "54585",
-    "matchType": 2,
     "hash": "84cd3a8acac576a9038430c3f4c8193d66f08986e884d680c01b88cc23b888bf"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Cradock Nowell: A Tale of the New Forest. Vol. 1 (of 3)",
     "author": "Blackmore, R. D. (Richard Doddridge), 1825-1900",
     "gutenbergReference": "47084",
-    "matchType": 1,
     "hash": "74f06ce510637875228a08555ae3559f1d8e2420819ad8ccabe0b90a86a9ff5d"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Cradock Nowell: A Tale of the New Forest. Vol. 1 (of 3)",
     "author": "Blackmore, R. D. (Richard Doddridge), 1825-1900",
     "gutenbergReference": "47084",
-    "matchType": 1,
     "hash": "55cf1eb3027dfd3e8ef352ce89a750beff68d21fd6e49f2347b12139832d6fc8"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Combed Out",
     "author": "Voigt, F. A. (Frederick Augustus), 1892-1957",
     "gutenbergReference": "16355",
-    "matchType": 1,
     "hash": "34812e9535101afa65d067d1cd33b480701558b4ec5c1d08c3eff22a96c18929"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55134",
-    "matchType": 2,
     "hash": "ea9efd8678c8f8ff537edd7d673bccca889f2b61b51013fc57df9c07fdc9d238"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The New Astronomy",
     "author": "Langley, S. P. (Samuel Pierpont), 1834-1906",
     "gutenbergReference": "64577",
-    "matchType": 1,
     "hash": "158f0ba137d87869d2bbd96dbb1ce87df39df4411da0f37548033137529c5283"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Traffics and Discoveries",
     "author": "Kipling, Rudyard, 1865-1936",
     "gutenbergReference": "9790",
-    "matchType": 2,
     "hash": "a204010719ed9e0eb21bd647eb87355e729df87427d00ab85278ba2b762aebd5"
   }
 ]

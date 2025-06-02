@@ -7,7 +7,6 @@
     "title": "The Disentanglers",
     "author": "Lang, Andrew, 1844-1912",
     "gutenbergReference": "17031",
-    "matchType": 2,
     "hash": "f51d3baaeb2e88933b196594e9f99ebe5cd5fe40d8b13340e4160838e8066373"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Cask",
     "author": "Crofts, Freeman Wills, 1879-1957",
     "gutenbergReference": "59854",
-    "matchType": 2,
     "hash": "55edcb322f05a598ad689f61d53c0e0a08b4d365c562995254c571712decd193"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Cask",
     "author": "Crofts, Freeman Wills, 1879-1957",
     "gutenbergReference": "59854",
-    "matchType": 2,
     "hash": "14c809c687ea90609f2b8a21711c173309a0ea9004f75663f5c90aaa46616ea0"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Antigua and the Antiguans, Volume 2 (of 2)\r\nA full account of the colony and its inhabitants from the time of the Caribs to the present day",
     "author": "Lanaghan, Mrs.",
     "gutenbergReference": "38789",
-    "matchType": 0,
     "hash": "174f8f9e4d5fc054325058e8a62964a68d7d93a1c12662bfb3df740ff506429f"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "bc553c090fab6ae9478789ca8ec5d4ba48ee2d9763f192b6a0ceedacfa68f69d"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "bc553c090fab6ae9478789ca8ec5d4ba48ee2d9763f192b6a0ceedacfa68f69d"
   }
 ]

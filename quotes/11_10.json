@@ -1,36 +1,13 @@
 [
   {
     "time": "11:10",
-    "quoteFirst": "_No. of Reconnaissance_: 57. _Hour Started_: ",
-    "quoteTime": "11.10 a.m.",
-    "quoteLast": "",
-    "title": "The War in the Air; Vol. 1\nThe Part played in the Great War by the Royal Air Force",
-    "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
-    "gutenbergReference": "28226",
-    "matchType": 2,
-    "hash": "2e7650bb0ad8af91f67798e41333e3755fc7e0383b37c5fc70d1bba5c9706174"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "Aug. 27   Returned to Big Bay dump, ",
-    "quoteTime": "11:10 a.m.",
-    "quoteLast": " (EDT) (T51N-R27W-Sec 16)",
-    "title": "An Experimental Translocation of the Eastern Timber Wolf",
-    "author": "Weise, Thomas F.; Hook, Richard A.; Mech, L. David; Robinson, William Laughlin, 1933-",
-    "gutenbergReference": "35006",
-    "matchType": 2,
-    "hash": "191d409274b4e9c9b5c0004cd0e28a3d9ee997e690954128050373f851365ec6"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "\"",
-    "quoteTime": "Ten minutes past eleven",
-    "quoteLast": ".\"",
-    "title": "The Reminiscences of Sir Henry Hawkins (Baron Brampton)",
-    "author": "Brampton, Henry Hawkins, Baron, 1817-1907; Harris, Richard, 1833-1906 [Editor]",
-    "gutenbergReference": "10392",
-    "matchType": 1,
-    "hash": "206c5787456a908a532b542b4927073f34cc89a9be592483feb53fbf9bf34bc4"
+    "quoteFirst": "We started about ",
+    "quoteTime": "ten minutes past eleven",
+    "quoteLast": ", and proceeded exactly as last year, fording the _Geldie_ at first very frequently. The ground was wet, but not worse than last year.",
+    "title": "Leaves From the Journal of Our Life in the Highlands, From 1848 to 1861",
+    "author": "Victoria, Queen of Great Britain, 1819-1901; Helps, Arthur, Sir, 1813-1875 [Editor]",
+    "gutenbergReference": "66173",
+    "hash": "b9a9724bc43ff171d4aef0bb57926b62ede49aa2ccc19d5d756864d1ff75fddb"
   },
   {
     "time": "11:10",
@@ -40,107 +17,67 @@
     "title": "Wayfaring Men: A Novel",
     "author": "Lyall, Edna, 1857-1903",
     "gutenbergReference": "54100",
-    "matchType": 1,
     "hash": "9c13ee290ba045c881d18612452b929b6b1aed9b7c45a66a286eff96dfed5e3a"
   },
   {
     "time": "11:10",
-    "quoteFirst": "On the 11th at eleven o'clock in the morning we struck soundings on a bank in twelve to fourteen fathoms water and at ",
-    "quoteTime": "ten minutes after eleven",
-    "quoteLast": " had no ground in one hundred and forty fathoms. No land was then in sight, nor did we get any soundings after in the course of the day.",
-    "title": "Voyage of H.M.S. 'Pandora'",
-    "author": "Edwards, Edward, 1728-1815; Hamilton, George, surgeon; Thomson, Basil, 1861-1939 [Commentator]",
-    "gutenbergReference": "22834",
-    "matchType": 1,
-    "hash": "0d28931b4a0a5dcd4dd9a7de1003729c52250facfc85be2a4bc62e66306f2101"
+    "quoteFirst": "May 26: 10.05 a. m., 22 cc 2 per cent caffein (0.3 gram per kilo) injected subcutaneously; ",
+    "quoteTime": "11.10 a. m.",
+    "quoteLast": ", copious salivation, cat irritable, muscular stiffness present, but no tetanus; 11.45 a. m., cat restless, convulsions, attacks of short duration, no paralysis observed after the convulsions, pupils dilated; 4.45 p. m.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "hash": "6dfc3cac385676624def6455d75db572917d2bb50a0a1e4d31fbf99e5b0dca7a"
   },
   {
     "time": "11:10",
-    "quoteFirst": "\"It is ",
+    "quoteFirst": "He blew it out. A clock in the small jeweler's shop opposite showed the time--",
     "quoteTime": "ten minutes past eleven",
-    "quoteLast": ",\" she said. \"Students are not out of bed at ten minutes past eleven. Neither are candles burning. Miss Earle----\"",
-    "title": "The Story of Louie",
-    "author": "Onions, Oliver, 1873-1961",
-    "gutenbergReference": "37838",
-    "matchType": 1,
-    "hash": "cb3e6caffd2c0b9a114d9edadddb1ab93fec1d6c2f1988f717d394ef47cea678"
+    "quoteLast": ". In that part of London, a busy hive of men and women of the working class, he had no chance of removing his belongings before the policeman returned.",
+    "title": "The King of Diamonds: A Tale of Mystery and Adventure",
+    "author": "Tracy, Louis, 1863-1928",
+    "gutenbergReference": "40493",
+    "hash": "39e427272006dd979438df6746102386217c211b87a79c02fc763604bc433613"
   },
   {
     "time": "11:10",
-    "quoteFirst": "Meanwhile the enemy delivered a series of blows, growing in fury, upon the South Africans from 9 A.M., and Brig.-General Dawson reported at ",
+    "quoteFirst": "274) was begun at 9 A.M. on July 10th; the filament at first moved but little in a zigzag line, but at 2 P.M. it began rising and continued to do so till 9 P.M.; and this proves that the terminal portion was being more bent downwards. After 9 P.M. on the 10th an opposite movement commenced, and the curved portion began to straighten itself, and this continued till ",
     "quoteTime": "11.10 A.M.",
-    "quoteLast": " that he was being heavily attacked from south and west, but that his line was still intact. This was the last message received from the brigade.",
-    "title": "The history of the 9th (Scottish) Division, 1914-1919",
-    "author": "Ewing, John, M.C.; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator]",
-    "gutenbergReference": "75001",
-    "matchType": 2,
-    "hash": "cafd6fb8fbd004cb1656b6348224abfae889413b1f1a652be8218a2d836db91e"
+    "quoteLast": " on the 12th, but was interrupted by some small oscillations and zigzags, showing movement in different directions. After 11.10 A.M. on the 12th this part of the stem, still considerably curved, circumnutated in a conspicuous manner until nearly 3 P.M. on the 13th; but during all this time a downward movement of the filament prevailed, caused by the continued straightening of the stem.",
+    "title": "The Power of Movement in Plants",
+    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "5605",
+    "hash": "d9a4e5213bf76349bdfa197a1b750b44c4fa31ec9762cb73c5d55ccf100a2ead"
   },
   {
     "time": "11:10",
-    "quoteFirst": "At ",
+    "quoteFirst": "It ran from the \"White Horse\" Cellars every Tuesday, Thursday, and Saturday during the season, returning from the \"George,\" Portsmouth, on Mondays, Wednesdays, and Fridays. In the earlier years of its running, the \"Rocket\" made good time, taking eight and a half hours, up or down; but its quickest time was made on the down journey during the season of 1881, when it left Piccadilly at ",
+    "quoteTime": "11.10 a.m.",
+    "quoteLast": ", and reached Portsmouth at seven p.m. == seven hours fifty minutes, inclusive of seven changes, as against six changes in previous seasons. Captain Hargreaves was the bold projector of this long-distance coach, and since his retirement from the road none other has had the enterprise sufficient for so great an undertaking.",
+    "title": "The Portsmouth Road and Its Tributaries: To-Day and in Days of Old",
+    "author": "Harper, Charles G. (Charles George), 1863-1943",
+    "gutenbergReference": "39234",
+    "hash": "afcbb6a58cf8a461f4e1b653077d8a63bb8f03637b9eeb82fdf7c47647969163"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "\"It's ",
     "quoteTime": "ten minutes past eleven",
-    "quoteLast": " our light cavalry brigade advanced. The whole brigade scarcely made one effective regiment according to the numbers of continental armies, and yet it was more than we could spare. As they rushed towards the front the Russians opened on them from the guns in the redoubt on the right with volleys of musketry and rifles.",
-    "title": "The Ontario Readers: Fourth Book",
-    "author": "Ontario. Department of Education",
-    "gutenbergReference": "18702",
-    "matchType": 1,
-    "hash": "6f6ee57c51585997edede602a489c14d2033c0d6eb9965a280c77926004af952"
+    "quoteLast": "!\" somebody yelled.",
+    "title": "We Were There at the Oklahoma Land Run",
+    "author": "Kjelgaard, Jim, 1910-1959; Kenyon, Chris A. [Illustrator]; Lottinville, Savoie, 1906-1997 [Other]",
+    "gutenbergReference": "34720",
+    "hash": "d8125b0e72ae64b94aeeb611a1fce56b6fbe7806c06d2dea84049b6e2e5f8076"
   },
   {
     "time": "11:10",
-    "quoteFirst": "“Here, is this an all-night session of the club?” he asked. “Already it’s ",
-    "quoteTime": "ten minutes after eleven",
-    "quoteLast": ". If you fellows want to get any sleep tonight, better be turning in right now. Josh and myself have the first two hour watch, you understand.",
-    "title": "Motor Boat Boys on the St. Lawrence\r\nOr, Solving the Mystery of the Thousand Islands",
-    "author": "Arundel, Louis",
-    "gutenbergReference": "35728",
-    "matchType": 1,
-    "hash": "1cc1ac1fb39b101299147b57203465b9e952b12c3e8d6f617ddf6c7854d6a318"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "\"It's just ",
-    "quoteTime": "ten minutes after eleven",
-    "quoteLast": ", and you Yanks had better be off.\"",
-    "title": "Red-Tape and Pigeon-Hole Generals\nAs Seen From the Ranks During a Campaign in the Army of the Potomac",
-    "author": "Morford, Henry, 1823-1881; Armstrong, William H., 1824-1919; Frick, Jacob G.",
-    "gutenbergReference": "23565",
-    "matchType": 1,
-    "hash": "0247c2fb5352b174d3911a64a50c3ae2acdca5fdc36a651dabddd9f337e95f20"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "\"PRINZSESSIN OTTILIE, September 28, ",
-    "quoteTime": "11:10 A. M.",
-    "quoteLast": " _Radio via Cherbourg._",
-    "title": "The Destroyer: A Tale of International Intrigue",
-    "author": "Stevenson, Burton Egbert, 1872-1962",
-    "gutenbergReference": "29629",
-    "matchType": 2,
-    "hash": "b7494c6cc392c425f8c94b4b4236509bfa218e1fb6958a39b945355a3dc820f6"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "The floating batteries opened with a magnificent crash, at 9.30 A.M., one in particular distinguished itself by the regularity, precision, and weight of its fire throughout the day. At 10.10 A.M. the bomb ketches opened fire. The enemy replied with alacrity, but his batteries must have been put to a severe test. At ",
-    "quoteTime": "11.10 A.M.",
-    "quoteLast": " a fire broke out in the long barrack inside the fort, and speedily spread from end to end, driving the artillerymen from their guns. Small explosions of ammunition took place from time to time inside the works.",
-    "title": "The British Expedition to the Crimea",
-    "author": "Russell, William Howard, Sir, 1820-1907",
-    "gutenbergReference": "46242",
-    "matchType": 2,
-    "hash": "ce6aa416675b429951b493ec2a45924fbf8c608e29ca5f6383ef4280fa79ec02"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "Mr. JENNER. It is now ",
-    "quoteTime": "10 minutes after 11",
-    "quoteLast": " and we arrived here at 7:30 this evening. Mrs. Paine, again I express to you my personal appreciation of the length to which you have gone to be cooperative with me and with the Commission and with all of us undertaking this sometimes gruesome work.",
-    "title": "Warren Commission (09 of 26): Hearings Vol. IX (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44009",
-    "matchType": 1,
-    "hash": "6542fe6e0b479baee0b0fa66eab7258457a4565fedf86c3b2f0076aff63a37fa"
+    "quoteFirst": "John Quincy looked at his watch; it was ",
+    "quoteTime": "ten minutes past eleven",
+    "quoteLast": ". \"I'll be glad to, Charlie,\" he said.",
+    "title": "The house without a key",
+    "author": "Biggers, Earl Derr, 1884-1933",
+    "gutenbergReference": "73771",
+    "hash": "0f21c8cac4c1fc656dbc3cfd93cd0c4e763d53d4bc144144e52a24e073c27180"
   },
   {
     "time": "11:10",
@@ -150,8 +87,47 @@
     "title": "The Corsair in the war zone",
     "author": "Paine, Ralph Delahaye, 1871-1925",
     "gutenbergReference": "72760",
-    "matchType": 2,
     "hash": "fbf890b78454a47ca5829d3915bc85308d3b34c615394b6511df2ef1d1355c70"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "_Mortlake to Putney, April 3, 1846, ",
+    "quoteTime": "11.10 a.m.",
+    "quoteLast": "_",
+    "title": "Boating",
+    "author": "Woodgate, Walter Bradford, 1842-1920; Dadd, Frank, 1851-1929 [Illustrator]",
+    "gutenbergReference": "37462",
+    "hash": "008e4b433b6813cc390e1e79b2712be1d69fb1c15569dfafe36c12480cd116f1"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "Hildyard at ",
+    "quoteTime": "11.10 a.m.",
+    "quoteLast": ", and was immediately sent by him to Lieut.-Colonel Hamilton, commanding the 2nd Queen's, with instructions to pass it to Colonel Bullock, commanding the 2nd Devon on his right.",
+    "title": "History of the War in South Africa 1899-1902 v. 1 (of 4)\nCompiled by Direction of His Majesty's Government",
+    "author": "Great Britain. War Office; Maurice, John Frederick, 1841-1912 [Compiler]",
+    "gutenbergReference": "28158",
+    "hash": "1af127e33c5785a53ca3c02d10d33928c2b49b609160e33eaf0368fe21921697"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "",
+    "quoteTime": "11.10 a.m.",
+    "quoteLast": "—Came to surface and sighted oil right ahead, with three men swimming in it. Two were picked up, but the third sank before we could reach him. Dived.",
+    "title": "War in the Underseas",
+    "author": "Wheeler, Harold, 1877-",
+    "gutenbergReference": "63060",
+    "hash": "377cd2fa215152bf60d58358255639fbd94637342490c280fe596461ef6cec48"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "274) was begun at 9 A.M. on July 10th; the filament at first moved but little in a zigzag line, but at 2 P.M. it began rising and continued to do so till 9 P.M.; and this proves that the terminal portion was being more bent downwards. After 9 P.M. on the 10th an opposite movement commenced, and the curved portion began to straighten itself, and this continued till ",
+    "quoteTime": "11.10 A.M.",
+    "quoteLast": " on the 12th, but was interrupted by some small oscillations and zigzags, showing movement in different directions. After 11.10 A.M. on the 12th this part of the stem, still considerably curved, circumnutated in a conspicuous manner until nearly 3 P.M. on the 13th; but during all this time a downward movement of the filament prevailed, caused by the continued straightening of the stem.",
+    "title": "The Power of Movement in Plants",
+    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "5605",
+    "hash": "d9a4e5213bf76349bdfa197a1b750b44c4fa31ec9762cb73c5d55ccf100a2ead"
   },
   {
     "time": "11:10",
@@ -161,62 +137,66 @@
     "title": "Castle Hohenwald: A Romance",
     "author": "Streckfuss, Adolf, 1823-1895; Wister, A. L. (Annis Lee), 1830-1908 [Translator]",
     "gutenbergReference": "34892",
-    "matchType": 1,
     "hash": "8ec5d03c3a2e1ca5418ab25f53fae343bef7674a7d1ad98580a24966970a514b"
   },
   {
     "time": "11:10",
-    "quoteFirst": "At ",
+    "quoteFirst": "Or perhaps she had arrived just before he died. Such were his stammered comments. And he repeated a score of times that she had taken the train at ",
     "quoteTime": "ten minutes past eleven",
-    "quoteLast": " our Light Cavalry Brigade advanced. The whole Brigade scarcely made one effective regiment, according to the numbers of continental armies; and yet it was more than we could spare. They swept proudly past, glittering in the morning sun in all the pride and splendour of war.",
-    "title": "The British Expedition to the Crimea",
-    "author": "Russell, William Howard, Sir, 1820-1907",
-    "gutenbergReference": "46242",
-    "matchType": 1,
-    "hash": "253403e64fd5bf7522b93431a2a45723394f141ab5afc0e7591a926193b73e3b"
+    "quoteLast": " and must have reached Batignolles about half-past twelve. As she had handed in the telegram at twenty minutes past one it seemed more likely that she had found the lad already dead.",
+    "title": "Fruitfulness",
+    "author": "Zola, Émile, 1840-1902; Vizetelly, Ernest Alfred, 1853-1922 [Translator]",
+    "gutenbergReference": "10330",
+    "hash": "cddb8b40561494e93ed8510f89f046206ec5e1579f65fd99e129b9aa524e2e43"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "Phil inspected her wrist watch with a satisfied nod. “We ought to be at the place on Linden Avenue where the busses make their stand by ",
+    "quoteTime": "ten minutes past eleven",
+    "quoteLast": ". What time are the dormitory girls to be at the stand?” She leaned forward and called out her question in Robin’s ear.",
+    "title": "Marjorie Dean, Marvelous Manager",
+    "author": "Chase, Josephine, -1931",
+    "gutenbergReference": "53213",
+    "hash": "4b7779c6b67471e37d2b0a92caf7ac15415641d20bd3082d4484f8dfbdf18ecf"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "The nurse was out for a walk. He came back and sat down on the west corner of the front veranda, and at ",
+    "quoteTime": "ten minutes after eleven",
+    "quoteLast": " returned and found that the room was empty. The operative's first act was to inform the New York office from an outside phone, at Murray's, not a minute from the Sawyer home--by motorcycle.",
+    "title": "Dreamy Hollow",
+    "author": "Britton, Sumner Charles, 1866-1927",
+    "gutenbergReference": "47010",
+    "hash": "a32b65a79fdf16c959811d2d359732a6378b520f916ceb9aaf6f14bf3182b253"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "\"Same time--",
+    "quoteTime": "ten minutes past eleven",
+    "quoteLast": "?\"",
+    "title": "The Reminiscences of Sir Henry Hawkins (Baron Brampton)",
+    "author": "Brampton, Henry Hawkins, Baron, 1817-1907; Harris, Richard, 1833-1906 [Editor]",
+    "gutenbergReference": "10392",
+    "hash": "8cf790209873c5902f8969cf3b3da9ee7922389af8fa71dcd1d2605f33a93d57"
   },
   {
     "time": "11:10",
     "quoteFirst": "",
     "quoteTime": "Ten minutes after eleven",
-    "quoteLast": "—why that would be only ten minutes after six in New York! How plainly he could picture the familiar scenes of rushing, bustling life back there! Crowds were now pouring into the subways and surface cars or climbing to the level of the \"L's.\" This was the third—the latest homeward wave.",
+    "quoteLast": "—just one hour plus forty-five seconds to wait! His thoughts flew back to his home in the great city beyond the sea.",
     "title": "Time Telling through the Ages",
     "author": "Brearley, Harry Chase, 1870-1940",
     "gutenbergReference": "47928",
-    "matchType": 1,
-    "hash": "00bf3f7f5d5299971cb76c065b737453cef33cc0d8e164fff1295e4f8a56268b"
+    "hash": "0ccb1789bed4464ba43d79b8a2c607f39b39d1def8c1edeefe7b8f976cf8dbc4"
   },
   {
     "time": "11:10",
-    "quoteFirst": "\"It is ",
-    "quoteTime": "ten minutes past eleven",
-    "quoteLast": ",\" she said. \"Students are not out of bed at ten minutes past eleven. Neither are candles burning. Miss Earle----\"",
-    "title": "The Story of Louie",
-    "author": "Onions, Oliver, 1873-1961",
-    "gutenbergReference": "37838",
-    "matchType": 1,
-    "hash": "cb3e6caffd2c0b9a114d9edadddb1ab93fec1d6c2f1988f717d394ef47cea678"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "The robbers did not know this but lined up the occupants of the bank, face to the wall, and proceeded to scoop up all available cash and bonds. While doing this Charlie Price noticed the clock on the wall. The hands stood at exactly ",
-    "quoteTime": "11:10 A.M.",
-    "quoteLast": "",
-    "title": "The Eureka Springs Story",
-    "author": "Rayburn, Otto Ernest, 1891-1960",
-    "gutenbergReference": "59099",
-    "matchType": 2,
-    "hash": "7bbf27b428c5d316b26275d6dd619d1a1f5dd0e39bf0af961d90c7df0f72a3b8"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "There were beautiful houses between trees. Day fine. Our grand transcontinental trip ended on Sunday, May 13. at ",
-    "quoteTime": "11:10 A.M.",
-    "quoteLast": " We passed through various arches in tunnels:—The Art Age, 75 W. 23 Street.",
-    "title": "The hero of the Filipinos",
-    "author": "Russell, Charles Edward, 1860-1941; Rodriguez, Eulogio Balan, 1893-1949; Rizal, José, 1861-1896 [Contributor]",
-    "gutenbergReference": "73848",
-    "matchType": 2,
-    "hash": "e20268783359c29cbf0ad4923b1cdafb98a897d605e741828fd581590db5c9f8"
+    "quoteFirst": "February 1: Injection began 11 a. m.; ",
+    "quoteTime": "11.10 a. m.",
+    "quoteLast": ", 7 cc 2 per cent caffein injected, rabbit struggled; 1 cc was injected during the next three minutes, rabbit struggled but there were no convulsions, injection stopped; resumed at 11.15 a. m. and continued 10 minutes, 8 cc 2 per cent caffein introduced during this time; total amount caffein injected, 16 cc; reflexes markedly increased; 12 noon, tetanic convulsions off and on until 2 p. m.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "hash": "255574c4117bbe735ac39ad47133860f9f45982ad5b34f12852c6b24bf6e3066"
   }
 ]

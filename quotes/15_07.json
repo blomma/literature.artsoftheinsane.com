@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55218",
-    "matchType": 2,
     "hash": "0cf39fcb7d5ca4f83d42623f6d97a14ab1fd114e6d4a9b7d24f8d9782c0c7872"
   },
   {
@@ -18,7 +17,6 @@
     "title": "At the Villa Rose",
     "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
     "gutenbergReference": "4745",
-    "matchType": 1,
     "hash": "c070eae76efd1b977f088a597372774b48ac85fbdc2a11c3467201a29a7bfa52"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Ten months in a German raider",
     "author": "Cameron, John Stanley; Brown, Cyril, 1887-1949 [Editor]",
     "gutenbergReference": "52656",
-    "matchType": 2,
     "hash": "7cf5a3063e1c7304f6f3bda0773b3344251e67fdb652c684d959dbd694873d88"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Ensign Knightley, and Other Stories",
     "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
     "gutenbergReference": "12859",
-    "matchType": 1,
     "hash": "78b7a46b49d813be7297531d32051362f9d5ef86df851c80cbe83e7a08a3d8e4"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Mark Twain: A Biography. Volume II, Part 2: 1886-1900",
     "author": "Paine, Albert Bigelow, 1861-1937",
     "gutenbergReference": "2985",
-    "matchType": 2,
     "hash": "7b2589d224704088b59fcdeef37077f92af607d82fd60a3968b7b87e23e4aaa1"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Port Arthur",
     "author": "Barry, Richard, 1881-1958",
     "gutenbergReference": "56038",
-    "matchType": 1,
     "hash": "873ff303469d34e7ae4ad23472f1a07695d3a552fb862178dd10a1d4846e1345"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Mark Twain: A Biography. Complete",
     "author": "Paine, Albert Bigelow, 1861-1937",
     "gutenbergReference": "2988",
-    "matchType": 2,
     "hash": "36cb4f4acbd75181b4d4cce4fd6bd521dad514517a1dfb1d2b2087ad672b949f"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Tank Corps",
     "author": "Williams-Ellis, Clough, 1883-1978; Williams-Ellis, Amabel, 1894-1984; Elles, Hugh Jamieson, 1880-1945 [Author of introduction, etc.]",
     "gutenbergReference": "62881",
-    "matchType": 1,
     "hash": "43ed4d5e1a4c4e239f44d8c09b9934adbe75afc80074dd10b85ddadd79509e25"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Japan-Russia War: An Illustrated History of the War in the Far East",
     "author": "Tyler, Sydney",
     "gutenbergReference": "51066",
-    "matchType": 2,
     "hash": "51f1d4efb1004c40297b949c4ec35f4d47ba2e511122b3c75815042445b3b3d6"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Long Trick",
     "author": "Bartimeus, 1886-1967",
     "gutenbergReference": "25921",
-    "matchType": 0,
     "hash": "c0ade53b78ff24e745dccde371d0a30527fdef6ddfeaf7a544d3c47a6a061c82"
   },
   {
@@ -117,7 +107,6 @@
     "title": "The Long Trick",
     "author": "Bartimeus, 1886-1967",
     "gutenbergReference": "25921",
-    "matchType": 1,
     "hash": "66ef67b8ba56759e65113f6dcde3af6d33d4941a9054c7c86a755bd47b2bdca8"
   },
   {
@@ -128,7 +117,6 @@
     "title": "Cassell's History of England, Vol. 6 (of 8)\r\nFrom the Death of Sir Robert Peel to the Illness of the Prince of Wales",
     "author": "Anonymous",
     "gutenbergReference": "61502",
-    "matchType": 1,
     "hash": "d636bf0e8af082cbdba1492b1536a2dc0e8526de34ad18583af0dd254921ab57"
   },
   {
@@ -139,7 +127,6 @@
     "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
-    "matchType": 2,
     "hash": "3135f9cc45f35eea7f24f394fbeccdd95bd0eef6504a64a87d7842ac0c338034"
   },
   {
@@ -150,7 +137,6 @@
     "title": "Penrod and Sam",
     "author": "Tarkington, Booth, 1869-1946",
     "gutenbergReference": "1158",
-    "matchType": 1,
     "hash": "0302afb263ba6f9addbadb6656a25bcb5ef969919bb41cf53d3f2830a91c0ad5"
   }
 ]

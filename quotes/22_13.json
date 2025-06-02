@@ -7,7 +7,6 @@
     "title": "Michael Strogoff; Or, The Courier of the Czar",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "1842",
-    "matchType": 1,
     "hash": "03950acad39bc16f1fe0d3fd3f0bb4817e541424fe9625ccf3acc453e69e8057"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Sinking of the \"Titanic\"",
     "author": "Mowbray, Jay Henry, 1869-1955",
     "gutenbergReference": "73984",
-    "matchType": 2,
     "hash": "4475ddf41b09b17bfa8854a49fe4937f0356a5a531abc3241346ea349096fe3f"
   }
 ]

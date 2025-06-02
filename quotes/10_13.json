@@ -7,7 +7,6 @@
     "title": "Michael Strogoff; Or, The Courier of the Czar",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "1842",
-    "matchType": 1,
     "hash": "2b84b049434cb280abf96ce2f09cb6fa7021a2e829cd4893f7828025e4bbf9a3"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "2ac4bfd95db7cd67dfe8096b4d0dbd731789c23cc799a8c6daf89f26775a1d10"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "850a4df8b92407e796ac50c768b8864577ee5698e8ea24c5e4ab42ecb46acbb9"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "118b14a19386d47b2314835412f7b9cc31b0e0e033ba8650b7b11e21658fb146"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "6a2f302bb9bfa53d526689fea4d6f6bf15eccba1084f2b40de78a147045ac7d1"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Rat Race",
     "author": "Franklin, Jay, 1897-1967",
     "gutenbergReference": "51854",
-    "matchType": 2,
     "hash": "dda20c0f45b6c032f142df4fd3fa28f2649675dea1c7f97d8b66df588f60cc2e"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The South of France—East Half",
     "author": "Black, C. B. (Charles Bertram), 1822-1906",
     "gutenbergReference": "24787",
-    "matchType": 2,
     "hash": "c9cc9af66b5b0665484ba8f2d7294ffccd0a252c96cfa0de069de04f4cfbf8e5"
   }
 ]

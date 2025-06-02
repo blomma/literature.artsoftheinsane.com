@@ -7,7 +7,6 @@
     "title": "The Filigree Ball\r\nBeing a full and true account of the solution of the mystery concerning the Jeffrey-Moore affair",
     "author": "Green, Anna Katharine, 1846-1935",
     "gutenbergReference": "2371",
-    "matchType": 1,
     "hash": "a6041560deb07c69ee9f53fd3a15f020b435d07273f088a73be6f264b09da6e2"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Adventures of a Special Correspondent Among the Various Races and Countries of Central Asia\r\nBeing the Exploits and Experiences of Claudius Bombarnac of \"The Twentieth Century\"",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "11263",
-    "matchType": 0,
     "hash": "806b3007437ae21f3d77b35aea069d5e07a43b03d27a9ce56363c9b67356853a"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Fifth Leicestershire\r\nA Record of the 1/5th Battalion the Leicestershire Regiment, T.F., During the War, 1914-1919.",
     "author": "Hills, John David",
     "gutenbergReference": "17369",
-    "matchType": 2,
     "hash": "abf40334866e3efbaee30a86692bedd43cfe68563cbd4490a026108ec7af7441"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Daughter of the sky",
     "author": "Briand, Paul L., Jr., 1920-1986",
     "gutenbergReference": "70263",
-    "matchType": 2,
     "hash": "e75ef30247617f54aea01c7c90697138e16a7a011e7b56febb1b0a8191e9e1c5"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Twentieth Century Standard Puzzle Book\nThree Parts in One Volume",
     "author": "Pearson, A. Cyril (Arthur Cyril), 1838-1916 [Editor]",
     "gutenbergReference": "63884",
-    "matchType": 1,
     "hash": "e06cbec14c0236e2e14a4fac2696d2a7106eec35a3653dbc800f55bddf2b508a"
   }
 ]

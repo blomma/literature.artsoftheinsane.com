@@ -7,7 +7,6 @@
     "title": "The Patriot (Piccolo Mondo Antico)",
     "author": "Fogazzaro, Antonio, 1842-1911; Agnetti, Mary Prichard, 1870-1948 [Translator]",
     "gutenbergReference": "33778",
-    "matchType": 1,
     "hash": "381e8fde13a50be0f21c1f459bf153955d11df22459799a762a972624521f60f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "a2470b0dcdb31aa2be00fab6428446fb4905b6a31a31b75edb883317badad23e"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "fe140f4888e1e8d5f624b07af559c693a2f5652a31e525f9f05e7af9a15d6d96"
   },
   {
@@ -40,7 +37,6 @@
     "title": "H. G. Hawker, airman: his life and work",
     "author": "Hawker, Muriel; Moore-Brabazon, John Theodore Cuthbert, 1884-1964 [Author of introduction, etc.]",
     "gutenbergReference": "64793",
-    "matchType": 2,
     "hash": "65fa856ccc248c3415a388385f42d72b3a5ff88a961a9a247af808f0ac51dafa"
   }
 ]

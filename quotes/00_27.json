@@ -7,7 +7,6 @@
     "title": "Wych Hazel",
     "author": "Warner, Susan, 1819-1885; Warner, Anna Bartlett, 1824-1915",
     "gutenbergReference": "17800",
-    "matchType": 1,
     "hash": "3de800981d7aed31f61a04a9b6a6163f20525e98c8ea3b8292f49f617a49cd33"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "05ca69a8bc2e615092af66d979e460fca4db815c703eea0a0f1205ee35828fcb"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "7cd9308ff0262d192f0e6df3f00086ae7f7e2532dc60b602a9c5c79204c33628"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Loss of the Steamship \"Titanic\"",
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
-    "matchType": 2,
     "hash": "85b3082a4b19b8b1177efaa21c5950378341b3c34cebe27f6f3bae239a945717"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Loss of the Steamship \"Titanic\"",
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
-    "matchType": 2,
     "hash": "8da63ea100c687de8a4a7dc36901413f646c139b71da859c462c592e6cd94a3b"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "73e7aed2be072cf096a21ab07360a1ba33db2a272c6eed93f728da6feffb636b"
   },
   {
@@ -18,7 +17,6 @@
     "title": "McKinlay's Journal of Exploration in the Interior of Australia",
     "author": "McKinlay, John, 1819-1872",
     "gutenbergReference": "13248",
-    "matchType": 2,
     "hash": "503636cd32892358de0908ebead18fb2f363d26b5bfa39bf534acd213fb57eda"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Gulf and Inland Waters\nThe Navy in the Civil War. Volume 3.",
     "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
     "gutenbergReference": "21562",
-    "matchType": 2,
     "hash": "6a34ee0fc024ecd4edbd920f99f2f42e1c6b2e48dd6af751260f5d8be13e669a"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The 42nd (East Lancashire) Division 1914-1918",
     "author": "Gibbon, Frederick P.",
     "gutenbergReference": "73544",
-    "matchType": 2,
     "hash": "eace0703244bd703d274b117a2d8da9e069b279df6ba471fab9c6d410bf6d473"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "3860278a75f3adae03cdacdc5d507ff122dceb00834f00d8cda94400d884153f"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Lion's Mouse",
     "author": "Williamson, C. N. (Charles Norris), 1859-1920; Williamson, A. M. (Alice Muriel), 1869-1933",
     "gutenbergReference": "21998",
-    "matchType": 1,
     "hash": "8448c6e94ae1d25b193cf4272df9af6ef8f1edc2b1a148601e098c130f95427c"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Plotting in Pirate Seas",
     "author": "Rolt-Wheeler, Francis, 1876-1960; Federer, C. A. (Charles A.) [Illustrator]",
     "gutenbergReference": "22033",
-    "matchType": 2,
     "hash": "290c7a2500607c36a1199e90916b2f89f0cae1d1dbff778f46f963a535fc3a1f"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Q-Ships and Their Story",
     "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
     "gutenbergReference": "54338",
-    "matchType": 2,
     "hash": "53b71d5f31aab75becf02c08f0be39eec649f0b38c715328891cd530ff32f68c"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
-    "matchType": 2,
     "hash": "b2634bd3f7352004f3c7a506dd106f6eadee6c06265831ac5b178279dcfadf23"
   },
   {
@@ -106,7 +97,6 @@
     "title": "Edina: A Novel",
     "author": "Wood, Henry, Mrs., 1814-1887",
     "gutenbergReference": "58701",
-    "matchType": 1,
     "hash": "88a370d083562ca8eea19fb06eaece7b25416682aa2a90b0576f908f6c335f14"
   }
 ]

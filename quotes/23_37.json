@@ -7,7 +7,6 @@
     "title": "Library of the World's Best Literature, Ancient and Modern — Volume 12",
     "author": "Warner, Charles Dudley, 1829-1900 [Editor]; Mabie, Hamilton Wright, 1846-1916 [Editor]; Runkle, Lucia Isabella Gilbert, 1844- [Editor]; Warner, George H., 1833-1919 [Editor]",
     "gutenbergReference": "32308",
-    "matchType": 1,
     "hash": "13d2ba7079732a12808ee55f7b01e722a414d789dfa88a5e91f2b02470fd55ce"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, February 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55053",
-    "matchType": 2,
     "hash": "351121e55afdc8903eaa4c79ac95c89d33b05dcacc21744b1666cb27ce49260d"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Night the Mountain Fell: The Story of the Montana-Yellowstone Earthquake",
     "author": "Christopherson, Edmund, -1974",
     "gutenbergReference": "56850",
-    "matchType": 2,
     "hash": "b201cf9ea4e4f102eb0c4d65b15a6ab53c409bac9f67c658ae3892e95b660429"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Night the Mountain Fell: The Story of the Montana-Yellowstone Earthquake",
     "author": "Christopherson, Edmund, -1974",
     "gutenbergReference": "56850",
-    "matchType": 2,
     "hash": "846ef081239c553a3ce5b69154b1dc4c402f920f839e276baba732e1edb9d797"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Loss of the Steamship \"Titanic\"",
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
-    "matchType": 2,
     "hash": "9eed9e2ee5a3da9dea155566cd63c091f417994860255378dcdb423058d339e5"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Catherine herself",
     "author": "Hilton, James, 1900-1954",
     "gutenbergReference": "71786",
-    "matchType": 2,
     "hash": "4138b8a5f1ace6123c7fd98ba6169d91a8774bb6088218c9adc83567d4442687"
   }
 ]

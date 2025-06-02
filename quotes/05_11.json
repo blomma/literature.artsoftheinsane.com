@@ -7,7 +7,6 @@
     "title": "Ambrotox and Limping Dick",
     "author": "Fleming, Oliver",
     "gutenbergReference": "20119",
-    "matchType": 1,
     "hash": "70db3d1c737ff48c4f76cb1d1786564287b649309b89308bff70fc628b4ca2b3"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Follow the Ball",
     "author": "Barbour, Ralph Henry, 1870-1944",
     "gutenbergReference": "60540",
-    "matchType": 1,
     "hash": "5c0c4af494150b84624c62156dd6b6d89f58ce30731c3d31cf0f48c4838b0120"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Fombombo",
     "author": "Stribling, T. S. (Thomas Sigismund), 1881-1965; Shepherd, J. Clinton (Joseph Clinton), 1888-1975 [Illustrator]",
     "gutenbergReference": "64700",
-    "matchType": 1,
     "hash": "a38d97e2cdbdc52fb99278d225128cf4829f72d2d2100adf78318a1d63f3562c"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
-    "matchType": 2,
     "hash": "75575fe5d0d275dc203ae479b816c3907da31f1d4a907274742d3ff76ea3fba8"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 04, March 1884, No. 6",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55133",
-    "matchType": 2,
     "hash": "18d770dba877c9f5f6799b29b17e85bb9e5465bca3d2eba908375c91fac26aec"
   }
 ]

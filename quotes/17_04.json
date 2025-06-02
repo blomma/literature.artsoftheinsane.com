@@ -7,7 +7,6 @@
     "title": "Streets of Night",
     "author": "Dos Passos, John, 1896-1970",
     "gutenbergReference": "61395",
-    "matchType": 1,
     "hash": "724e7961f82582a8f03168d9e5c0583303a2801da0c09d94f27331654ad78482"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "ecb280a6d51c47ae8b37c86d02eabd7b6f9820dcfdf3a327c00e64eae1af05f3"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Storm\r\nor, a Collection of the most Remarkable Casualties and Disasters which Happen'd in the Late Dreadful Tempest, both by Sea and Land",
     "author": "Defoe, Daniel, 1661?-1731",
     "gutenbergReference": "42234",
-    "matchType": 1,
     "hash": "faf4123f7a9716eb53840dc1aa3951a9afd479b38327339783ee7fbe193c04a2"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Underground: Hacking, madness and obsession on the electronic frontier",
     "author": "Dreyfus, Suelette; Assange, Julian, 1971- [Researcher]",
     "gutenbergReference": "4686",
-    "matchType": 2,
     "hash": "dc8b18b4451bc698a5aad12c9523af2a1e078c881517d7534733f3f1fa7b6941"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Sea Power in its Relations to the War of 1812. Volume 2",
     "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
     "gutenbergReference": "25912",
-    "matchType": 0,
     "hash": "c9bddd2e71812ac1c9a0c270627578ecf18de856f1f192cb3fbca147ed61c335"
   }
 ]

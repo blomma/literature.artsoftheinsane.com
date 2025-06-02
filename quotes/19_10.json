@@ -1,157 +1,63 @@
 [
   {
     "time": "19:10",
-    "quoteFirst": "The testimony of Don Edward Goin was taken at ",
-    "quoteTime": "7:10 p.m.",
-    "quoteLast": ", on July 13, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Leon D. Hubert, Jr.",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
-    "matchType": 2,
-    "hash": "6e7fa743d0db9c5acd7249ff296ca7e0151f271d39b563f4750774834b52331c"
-  },
-  {
-    "time": "19:10",
-    "quoteFirst": "‘The easy dash of ",
-    "quoteTime": "ten minutes past seven",
-    "quoteLast": ", the rakish recklessness of a quarter past, the drooping weariness of twenty-five minutes past, must have been observed by everybody.’",
-    "title": "Desperate Remedies",
-    "author": "Hardy, Thomas, 1840-1928",
-    "gutenbergReference": "3044",
-    "matchType": 1,
-    "hash": "980f733a782fa5d1417a60adc522fc69732203b02b68034cb2ac04fdbe65ae6b"
-  },
-  {
-    "time": "19:10",
-    "quoteFirst": "“No, at ",
-    "quoteTime": "ten minutes past seven",
-    "quoteLast": ",” replied the geographer, gravely, “that Batman and Falckner first began a settlement at Port Phillip, the bay on which the large city of Melbourne now stands. For fifteen years the colony was part of New South Wales, and recognized Sydney as the capital; but in 1851, she was declared independent, and took the name of Victoria.",
-    "title": "In Search of the Castaways; Or, The Children of Captain Grant",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "2083",
-    "matchType": 1,
-    "hash": "1b837d878830985b3028a5e9f697603ff1f3d4f6ef1aa1d0a90c297485bce81a"
-  },
-  {
-    "time": "19:10",
     "quoteFirst": "\"",
     "quoteTime": "Ten minutes after seven",
     "quoteLast": ",\" Amelie told her after she had carefully consulted the big hall clock.",
     "title": "Lucia Rudini: Somewhere in Italy",
     "author": "Trent, Martha; Wrenn, Charles L. (Charles Lewis), 1880-1952 [Illustrator]",
     "gutenbergReference": "17666",
-    "matchType": 1,
     "hash": "64e8155b1249e41286f53934b81d763f136779db526ac1bfed3a5af4d671a7eb"
   },
   {
     "time": "19:10",
-    "quoteFirst": "Perhaps this period of forty-seven minutes--three-quarters of an hour--were devoted by the young vivisectors to the conviviality of their evening repast.  Then the usual observations were renewed.  But at ",
-    "quoteTime": "7.10 p.m.",
-    "quoteLast": ", while again \"stimulating the sciatic nerve,\" suddenly the dog's heart stopped.  At 7.12 p.m. \"the dog died.",
-    "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
-    "author": "Leffingwell, Albert, 1845-1916",
-    "gutenbergReference": "20222",
-    "matchType": 2,
-    "hash": "798621454c7b5c068e93bcd2e5446599a50901e5bda2e691168c4444ae4add26"
-  },
-  {
-    "time": "19:10",
-    "quoteFirst": "“About five or ",
-    "quoteTime": "ten minutes past seven",
-    "quoteLast": ".”",
-    "title": "Shadow in the House",
-    "author": "Gluck, Sinclair, 1887-1956",
-    "gutenbergReference": "66859",
-    "matchType": 1,
-    "hash": "8b562fa462c9569df81983316522e9d3d59f329887ca0f4436f30ad55c754475"
-  },
-  {
-    "time": "19:10",
-    "quoteFirst": "\"It will be ",
-    "quoteTime": "ten minutes after seven",
-    "quoteLast": ", Miss Appleby.\"",
-    "title": "How Doth the Simple Spelling Bee",
-    "author": "Wister, Owen, 1860-1938; Gruger, Frederic Rodrigo, 1871-1953 [Illustrator]",
-    "gutenbergReference": "23923",
-    "matchType": 1,
-    "hash": "730899f5d754c34f30d58a303a08b6c77547eb91ccad5b1c038326e082af7644"
-  },
-  {
-    "time": "19:10",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes past seven",
-    "quoteLast": ", two carriages drew up. From the first of these descended Harry's bride, led by Lord Jocelyn; and from the second the Davenants.",
-    "title": "All Sorts and Conditions of Men: An Impossible Story",
-    "author": "Besant, Walter, 1836-1901",
-    "gutenbergReference": "47098",
-    "matchType": 1,
-    "hash": "ecb64cd465ffd12568b045aadc7f9c1b59f804998d5ee448df3ed942f01ba26c"
-  },
-  {
-    "time": "19:10",
-    "quoteFirst": "When she reached the beautiful Champs-Elysées, she looked at her diamond wrist watch. It was only ",
-    "quoteTime": "ten minutes past seven",
-    "quoteLast": ", the dinner at the Austrian Embassy was not until half-past eight. Dressing was a serious business to Harietta, but she meant to cut it down to half an hour to-night, because there was a certain apartment in the Rue Cambon which she intended to visit for a few minutes.",
-    "title": "The Price of Things",
-    "author": "Glyn, Elinor, 1864-1943",
-    "gutenbergReference": "9809",
-    "matchType": 1,
-    "hash": "2b467940f460aa54548274e79edee73b1973c0ecb493c5def0ebd2bf69708870"
-  },
-  {
-    "time": "19:10",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes past seven",
-    "quoteLast": ", two carriages drew up. From the first of these descended Harry's bride, led by Lord Jocelyn; and from the second the Davenants.",
-    "title": "All Sorts and Conditions of Men: An Impossible Story",
-    "author": "Besant, Walter, 1836-1901",
-    "gutenbergReference": "47098",
-    "matchType": 1,
-    "hash": "ecb64cd465ffd12568b045aadc7f9c1b59f804998d5ee448df3ed942f01ba26c"
-  },
-  {
-    "time": "19:10",
-    "quoteFirst": "\"She arrived by the ",
-    "quoteTime": "ten minutes past seven",
-    "quoteLast": " train,\" Roger replied. \"Father and I met her at the station—the train was more than half an hour late—and we drove home in a cab. I enjoyed it.\"",
-    "title": "Cousin Becky's champions",
-    "author": "Stooke, Eleanora H.; Watkin, Isabel [Illustrator]",
-    "gutenbergReference": "71566",
-    "matchType": 1,
-    "hash": "255ba886c70fb383897b07fb40ed26c8528a06600bb2cbe83b7be24505f8e504"
-  },
-  {
-    "time": "19:10",
-    "quoteFirst": "55, \"five minutes with the daily news;\" 9 a.m., class work begins; 12, class work closes; 12.15 p.m., dinner; 1 p.m., work bell; 1.30 p.m., class work begins; 3.30 p.m., class work ends; 5.30 p.m., bell to \"knock off\" work; 6 p.m., supper; ",
-    "quoteTime": "7.10 p.m.",
-    "quoteLast": ", evening prayers; 7.30 p.m., evening study hours; 8.45 p.m., evening study hour closes; 9.20 p.m., warning retiring bell; 9.30 p.m., retiring bell.",
-    "title": "Up from Slavery: An Autobiography",
-    "author": "Washington, Booker T., 1856-1915",
-    "gutenbergReference": "2376",
-    "matchType": 2,
-    "hash": "f89cb95e83fcbbe90c1bea7668accc8ed29e51b0059fa473952209096f8d14e6"
-  },
-  {
-    "time": "19:10",
     "quoteFirst": "\"",
-    "quoteTime": "Ten minutes after seven",
-    "quoteLast": ",\" said Speed, a bit disturbed.",
-    "title": "Interference and Other Football Stories",
-    "author": "Sherman, Harold M. (Harold Morrow), 1898-1987",
-    "gutenbergReference": "29705",
-    "matchType": 1,
-    "hash": "d3faff1da8ef38fbe9add28e29ae13e086c0f0c08bd29a58f7f964b09cc250cf"
+    "quoteTime": "Ten minutes past seven",
+    "quoteLast": ",\" answered Deck, after he had held his watch up so that he could see the face by the light of the fire in the square.",
+    "title": "In the Saddle",
+    "author": "Optic, Oliver, 1822-1897; Shute, A. B., 1851-1906 [Illustrator]",
+    "gutenbergReference": "40430",
+    "hash": "82914577d077f109a113b1592796f37af98c0a0f5cbd3b287c4612bf18268d22"
   },
   {
     "time": "19:10",
-    "quoteFirst": "As it was nearly eighteen miles to the place of meeting, I could scarcely hope to reach it by seven o'clock, the time mentioned in old Peter's note; but action was the only relief to my anxiety, and it may easily be supposed I did not lose much time on the road, so that it was but ",
-    "quoteTime": "ten minutes after seven",
-    "quoteLast": " when I turned down the lane in which the little alehouse appointed as our rendezvous was situated. I found old Peter waiting to receive me, though the cloud upon his brow, speaking volumes of dark mystery, did not tend to raise my spirits.",
-    "title": "Frank Fairlegh: Scenes from the Life of a Private Pupil",
-    "author": "Smedley, Frank E. (Frank Edward), 1818-1864; Cruikshank, George, 1792-1878 [Illustrator]",
-    "gutenbergReference": "20075",
-    "matchType": 1,
-    "hash": "0106262534c0bffedf251ec21a93c2d12b8d9814e3d60720205ec109cb96d73a"
+    "quoteFirst": "When she had climbed Duck Bank she found to her surprise that the doors of the chapel were fast closed, though it was ",
+    "quoteTime": "ten minutes past seven",
+    "quoteLast": ".",
+    "title": "Anna of the Five Towns",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "35505",
+    "hash": "5557124ea0a10b95ea3a2225b6ba91822cfe60f1452e2999d028f1f27112d751"
+  },
+  {
+    "time": "19:10",
+    "quoteFirst": "Leave Chicago (Union Pacific) ",
+    "quoteTime": "7:10 P. M.",
+    "quoteLast": " Sunday, Overland Express.",
+    "title": "Reno — a Book of Short Stories and Information",
+    "author": "Stratton, Lilyan",
+    "gutenbergReference": "5951",
+    "hash": "02f9d44c66299fa2ebab919a3d13f1963859c19e4e0d1ead24562d2694f4bd11"
+  },
+  {
+    "time": "19:10",
+    "quoteFirst": "7 P.M. _Another battle!_ (the third to-day). The Arabs came down to the river and fired on the Palace; we could not stand _that_. ",
+    "quoteTime": "7.10 P.M.",
+    "quoteLast": "",
+    "title": "The Journals of Major-Gen. C. G. Gordon, C.B., at Kartoum.",
+    "author": "Gordon, Charles George, 1833-1885; Hake, A. Egmont (Alfred Egmont) [Editor]",
+    "gutenbergReference": "49224",
+    "hash": "cc082749ee89e737bf2f143a7cc80224467824dc0a4d42da195cac757b877bd2"
+  },
+  {
+    "time": "19:10",
+    "quoteFirst": "When I told him I had a horse saddled and waiting for him, he was pleased, for Father Donovan could scamper across the country in Ireland with the best of them. So far as I could judge, the coast was clear, for every one we met between the \"Pig and Turnip\" and the bridge seemed honest folk intent on getting early to their work. It was ",
+    "quoteTime": "ten minutes past seven",
+    "quoteLast": " when we clattered across the bridge and set our faces toward Rye.",
+    "title": "The O'Ruddy: A Romance",
+    "author": "Crane, Stephen, 1871-1900; Barr, Robert, 1850-1912; Williams, C. D. (Charles D.), 1875-1954 [Illustrator]",
+    "gutenbergReference": "29573",
+    "hash": "c749d4c1d0fc11c73db5d47c9cec4469237a5b3543bd2262b8a94c56f1355b95"
   },
   {
     "time": "19:10",
@@ -161,52 +67,27 @@
     "title": "The White Slaves of England",
     "author": "Cobden, John C.",
     "gutenbergReference": "52423",
-    "matchType": 0,
     "hash": "e7b5385210878fa3d4953e10e24aed81295212c26ecbff722c7a2a252df9ffc5"
   },
   {
     "time": "19:10",
-    "quoteFirst": "I shall dress in your grandson's clothes, I shall blacken my hands and face slightly, and I must get to Drem.  Have I time to reach the station by ",
+    "quoteFirst": "On the 15th, at ",
     "quoteTime": "ten minutes past seven",
-    "quoteLast": "?'",
-    "title": "The Disentanglers",
-    "author": "Lang, Andrew, 1844-1912",
-    "gutenbergReference": "17031",
-    "matchType": 1,
-    "hash": "6af28c75037aa3aba140de04f34f9f21890062b287d5d9bb20d282eb30a87717"
+    "quoteLast": ", we began to ascend the mountain; and, at twenty minutes after seven, passed a village on our left. At seven and three quarters we passed Tiba and Mariam, two churches, the one on our right, the other on our left, about half a mile distant; and near them several small villages, inhabited by Falasha, masons and thatchers of houses, employed at Gondar.",
+    "title": "Travels to Discover the Source of the Nile, Volume 3 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
+    "author": "Bruce, James, 1730-1794",
+    "gutenbergReference": "54531",
+    "hash": "4676c30301eaf57ad96def336fd8a9645b39544eba866e5ea3be281c199bde07"
   },
   {
     "time": "19:10",
-    "quoteFirst": "“",
-    "quoteTime": "7.10 p.m.",
-    "quoteLast": ", exactly. Here it is, all entered properly.”",
-    "title": "Adventures of Martin Hewitt, Third Series",
-    "author": "Morrison, Arthur, 1863-1945; Crowther, T. S. C. [Illustrator]",
-    "gutenbergReference": "59319",
-    "matchType": 2,
-    "hash": "7afa4814119df6aad5df99b3980b8e79f8899863dec505b4f60e5bf747059e59"
-  },
-  {
-    "time": "19:10",
-    "quoteFirst": "173) moved in a straight line to the light until 5.15 P.M., and then from the light, making in its backward course a great rectangular bend, and then returned for a short distance towards the former source of the light; no observations were made after ",
-    "quoteTime": "7.10 P.M.",
-    "quoteLast": ", but during the night it recovered its vertical position. A hypocotyl of Cassia tora moved in the evening in a somewhat zigzag line towards the failing light until 6 P.M., and was now bowed 20° from the perpendicular; it then returned on its course, making before 10.30 P.M. four great, nearly rectangular bends and almost completing an ellipse.",
-    "title": "The Power of Movement in Plants",
-    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
-    "gutenbergReference": "5605",
-    "matchType": 2,
-    "hash": "6525a9788a99420197f70ace2804bdef29cc50be29e78ffe7b13bbab0515e16e"
-  },
-  {
-    "time": "19:10",
-    "quoteFirst": "In England, he means half-past seven, and sometimes a quarter to eight. At seven o’clock I was the only person in Mr. Farnaby’s drawing-room. At ",
+    "quoteFirst": "Evening came. And at ",
     "quoteTime": "ten minutes past seven",
-    "quoteLast": ", Mr.",
-    "title": "The Fallen Leaves",
-    "author": "Collins, Wilkie, 1824-1889",
-    "gutenbergReference": "7894",
-    "matchType": 1,
-    "hash": "9275dd01dcdebe75c311c55e8df283af556b9fed1d68cc7efde7722b082158ef"
+    "quoteLast": " Bede Greatorex was on the search for Mr. Butterby. \"Cuff Court, Off Fleet Street.\" He did not know Cuff Court; and supposed that \"Off Fleet Street\" might indicate some turning or winding beginning in that well-known thoroughfare, and ending it was hard to say where.",
+    "title": "Roland Yorke\nA Sequel to \"The Channings\"",
+    "author": "Wood, Henry, Mrs., 1814-1887",
+    "gutenbergReference": "58086",
+    "hash": "c039cbe5ae7518fc2ee28539d9c3fcc18bf74f8d333c47f3b3bde28ed22ba0b3"
   },
   {
     "time": "19:10",
@@ -216,7 +97,106 @@
     "title": "Travels to Discover the Source of the Nile, Volume 3 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
     "author": "Bruce, James, 1730-1794",
     "gutenbergReference": "54531",
-    "matchType": 1,
     "hash": "a492cfca6ab1cdc4995557370601cdb7c57930d2611cf11f8fb2e4274af4b9d6"
+  },
+  {
+    "time": "19:10",
+    "quoteFirst": "We left Kendallville at ",
+    "quoteTime": "ten minutes past seven",
+    "quoteLast": "; a light rain was falling which laid the dust for the first two miles. With top, side curtains, and boot we were perfectly dry, but the air was uncomfortably cool.",
+    "title": "Two Thousand Miles on an Automobile\r\nBeing a Desultory Narrative of a Trip Through New England, New York, Canada, and the West, By \"Chauffeur\"",
+    "author": "Eddy, Arthur Jerome, 1859-1920",
+    "gutenbergReference": "12380",
+    "hash": "a3a19afc90ada1539785d9b9160cf106b51ff3c551700be20a84ad18193114a0"
+  },
+  {
+    "time": "19:10",
+    "quoteFirst": "It should be stated that at 3.30 P.M., by which time the sky had become darker, the towel was removed and replaced by an additional muslin blind, which itself was removed at 4 P.M., the other two blinds being left suspended. In Fig. 173 the course pursued, between 8.9 A.M. and ",
+    "quoteTime": "7.10 P.M.",
+    "quoteLast": ", by one of the hypocotyls thus exposed is shown.",
+    "title": "The Power of Movement in Plants",
+    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "5605",
+    "hash": "b759a372242b28b91388603ed113aeb171429e51267a49f60710db260149cba8"
+  },
+  {
+    "time": "19:10",
+    "quoteFirst": "Julia and Rhonda ran inside the theater at exactly ",
+    "quoteTime": "7:10 pm",
+    "quoteLast": ".  Still giggling, they bought two tickets from a weary looking man wearing a jacket and a \"Manager\" tag.  When they hit the concession stand to relieve their munchies, they found a sign that said: \"Closed\".",
+    "title": "Any Coincidence Is\r\nOr, The Day Julia & Cecil the Cat Faced a Fate Worse Than Death",
+    "author": "Callahan, Daniel",
+    "gutenbergReference": "6526",
+    "hash": "5a363db095284c9ddd028dfdf34cc55efd061d7d62cbc877bdf33e2bd580ade6"
+  },
+  {
+    "time": "19:10",
+    "quoteFirst": "Alexander who is William F. Alexander, an assistant criminal district attorney of Dallas County, Tex., which was passed over to me at 7:05 p.m. The actual complaint was signed at 7:04 p.m. and I arraigned Lee Harvey Oswald at ",
+    "quoteTime": "7:10 p.m.",
+    "quoteLast": " on November 22, 1963, advising him of his constitutional rights and that he had to make no statement at all, and that any statement he made may be used in evidence against him for the offense concerning which this affidavit was taken, and remanded the defendant to the custody of the sheriff of Dallas County, Tex.",
+    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58030",
+    "hash": "fdbd9d8b644eb7e1a7aec20291d06ced382da0749dfb85a3b0e7b5c1a24d4cd5"
+  },
+  {
+    "time": "19:10",
+    "quoteFirst": "The Third Canadian Division was withdrawn at ",
+    "quoteTime": "7.10 p. m.",
+    "quoteLast": " when the Twenty-fourth Division (Seventeenth Corps) passed through and joined up with the Second Canadian Division, and Cambrai and the positions to the east were taken over or occupied by the Seventeenth Corps.",
+    "title": "The Story of the Great War, Volume 8\r\nVictory with the Allies; Armistice; Peace Congress; Canada's War Organizations and vast War Industries; Canadian Battles Overseas",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
+    "gutenbergReference": "34444",
+    "hash": "9d655a1a2b30ce17a19155b6882b3bd79103d1c5c2a9541cc704728c870ed704"
+  },
+  {
+    "time": "19:10",
+    "quoteFirst": "Thereabouts the sun was sinking, but the clock on the near side of the church tower had gilt hands, which marked the hour when Christina stood up in the fly and astonished her friends with her frank delight. It was a point against this young lady, on subsequent occasions when she did not forget to decry the old country, that at ",
+    "quoteTime": "ten minutes past seven",
+    "quoteLast": " on the evening of the 1st of August she had given way to enthusiasm over a scene that was purely English and very ordinary in itself.",
+    "title": "Tiny Luttrell",
+    "author": "Hornung, E. W. (Ernest William), 1866-1921",
+    "gutenbergReference": "37320",
+    "hash": "656a875e50967a7a201cc5d0b9ef45f6291f88abb4585e32690c28c8b7c8461a"
+  },
+  {
+    "time": "19:10",
+    "quoteFirst": "Timothy was not certain whether his train left at ten minutes to seven or at ",
+    "quoteTime": "ten minutes past seven",
+    "quoteLast": ", so he arrived in time for the ten minutes to seven, which was characteristic of him, because he never took a chance against the inflexible systems.",
+    "title": "Mr. Justice Maxell",
+    "author": "Wallace, Edgar, 1875-1932",
+    "gutenbergReference": "60527",
+    "hash": "c111d0029f30525e576b05883f20f2a55b3b0560d126670ba7b30d224177ac60"
+  },
+  {
+    "time": "19:10",
+    "quoteFirst": "Five others were shot at the Gogebic Lake camp as they flitted through an opening in the wet hardwood forest. These were taken between 7:30 and 7:55 p. m., August 23 to September 2; but bats almost certainly of this species appeared regularly in the evenings about ",
+    "quoteTime": "7:10 p. m.",
+    "quoteLast": "",
+    "title": "Notes on the Mammals of Gogebic and Ontonagon Counties, Michigan, 1920\r\nOccasional Papers of the Museum of Zoology, Number 109",
+    "author": "Dice, Lee R. (Lee Raymond), 1887-1977; Sherman, Harley Bakwel, 1894-",
+    "gutenbergReference": "37753",
+    "hash": "eb4e9ccb046e2f95ba5dfad84f8a9d7f7068511ba6774641a3eaad2c26529936"
+  },
+  {
+    "time": "19:10",
+    "quoteFirst": "When I told him I had a horse saddled and waiting for him, he was pleased, for Father Donovan could scamper across the country in Ireland with the best of them. So far as I could judge, the coast was clear, for every one we met between the \"Pig and Turnip\" and the bridge seemed honest folk intent on getting early to their work. It was ",
+    "quoteTime": "ten minutes past seven",
+    "quoteLast": " when we clattered across the bridge and set our faces toward Rye.",
+    "title": "The O'Ruddy: A Romance",
+    "author": "Crane, Stephen, 1871-1900; Barr, Robert, 1850-1912; Williams, C. D. (Charles D.), 1875-1954 [Illustrator]",
+    "gutenbergReference": "29573",
+    "hash": "c749d4c1d0fc11c73db5d47c9cec4469237a5b3543bd2262b8a94c56f1355b95"
+  },
+  {
+    "time": "19:10",
+    "quoteFirst": "Although it was ",
+    "quoteTime": "ten minutes past seven",
+    "quoteLast": " her guest had not arrived, and she went into the drawing-room to wait for him. She felt some vanity in displaying her salon to one who she knew instinctively possessed a cultivated and exacting taste.",
+    "title": "Tower of Ivory: A Novel",
+    "author": "Atherton, Gertrude Franklin Horn, 1857-1948",
+    "gutenbergReference": "56340",
+    "hash": "2cfd6e7111b38cdb561eb6f91522a3767b9ff5f70c5c170a600ba64eb60d344d"
   }
 ]

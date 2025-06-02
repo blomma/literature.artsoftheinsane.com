@@ -7,7 +7,6 @@
     "title": "From the Earth to the Moon; and, Round the Moon",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "83",
-    "matchType": 1,
     "hash": "7f7fb131bf13215d714b1fc3c459a7ae1aefd978a9e1dfa42426c3b0b3870889"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Barium: A Cause of the Loco-Weed Disease",
     "author": "Crawford, Albert Cornelius",
     "gutenbergReference": "40256",
-    "matchType": 2,
     "hash": "bf3ce715a2006993ba88578db11734962e09bb6a4a3d2913de0d0b422b842d56"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "16d9fba3e6749570dc5e761afc2deb5486c66130169c3bf06dd782250c2c19bb"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Moon-Voyage",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "12901",
-    "matchType": 1,
     "hash": "7bc0f6385a2e609d58a34d5e07e33909c26023a38b8e74a86b70f02052f5d09a"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Story of Our Submarines",
     "author": "Bower, John Graham, 1886-1940",
     "gutenbergReference": "40765",
-    "matchType": 2,
     "hash": "36004e22f4868a3eded99264104409a36a00b9ad2439ed6f9618e28281886088"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Useful Phrases in the Shanghai Dialect",
     "author": "McIntosh, Gilbert",
     "gutenbergReference": "62133",
-    "matchType": 2,
     "hash": "4416ec46986f283e76608884632772310628a2bd2f92e5b37a107aa6ea715678"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Nova Scotia's Part in the Great War",
     "author": "Hunt, M. S.‏ (Markland Stuart)‏ [Editor]",
     "gutenbergReference": "64101",
-    "matchType": 2,
     "hash": "864dd2f468696ca3ea5dfa04feb3d24e8a4a6e535a90e4d1492994de94f8d429"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "6b2cb8522b739cec2b74730cdb20420af822837a431d3b06485494782c25d57f"
   },
   {
@@ -95,7 +87,6 @@
     "title": "War in the Underseas",
     "author": "Wheeler, Harold, 1877-",
     "gutenbergReference": "63060",
-    "matchType": 2,
     "hash": "65005be9361e1c4be8f4372ec4f6fccedd9d26a0e5eb183b2e5700ac7e484471"
   }
 ]

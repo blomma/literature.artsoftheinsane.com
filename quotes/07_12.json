@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, February 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55053",
-    "matchType": 2,
     "hash": "f3e070a05542b8fbbf1907556165478d31906f10c1a05f4ab41e36e068610426"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The British Expedition to the Crimea",
     "author": "Russell, William Howard, Sir, 1820-1907",
     "gutenbergReference": "46242",
-    "matchType": 2,
     "hash": "27c9b3dc061de9a323a3788749f50a0d9f42130bd894ce5ff04a5becf405c5a7"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Full-Back Foster",
     "author": "Barbour, Ralph Henry, 1870-1944; Caswell, Edward C., 1879-1963 [Illustrator]",
     "gutenbergReference": "42653",
-    "matchType": 1,
     "hash": "a524234a114beace87670a9807db7f69fd3565e8d9e8b576115ce6e7913a3149"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Adventures of Dr. Thorndyke\n(The Singing Bone)",
     "author": "Freeman, R. Austin (Richard Austin), 1862-1943",
     "gutenbergReference": "59478",
-    "matchType": 1,
     "hash": "06957c47fe29b035608bc9da1d18b1b0fa5f15e76f2b0e131200a162c4e25773"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "fff14cd43af1c010c9df23c34574180d6a643bc13b0b6b11f324183e323ebfb3"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "fff14cd43af1c010c9df23c34574180d6a643bc13b0b6b11f324183e323ebfb3"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "fff14cd43af1c010c9df23c34574180d6a643bc13b0b6b11f324183e323ebfb3"
   }
 ]

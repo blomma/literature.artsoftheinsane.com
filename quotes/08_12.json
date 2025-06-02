@@ -7,7 +7,6 @@
     "title": "The journal of the American-Irish Historical Society, Vol. VIII, 1909",
     "author": "Various; Lee, Thomas Zanslaur, 1866-1931 [Editor]",
     "gutenbergReference": "74099",
-    "matchType": 2,
     "hash": "2303c5184e6a7ec049e660009aac8aa09887df159db53c784252f7511e44cdd7"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Story of Our Submarines",
     "author": "Bower, John Graham, 1886-1940",
     "gutenbergReference": "40765",
-    "matchType": 2,
     "hash": "8863260f7af004e7a2429feba85824b1f6a03559edd5b090241e304db374533d"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Sidelights on Negro Soldiers",
     "author": "Williams, Charles H. (Charles Halston), 1886-; Brawley, Benjamin Griffith, 1882-1939 [Author of introduction, etc.]",
     "gutenbergReference": "67093",
-    "matchType": 2,
     "hash": "652db405870df71843a8720f3df03460a12d872419b3cf0684e8ae0156498bd0"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Man in the Brown Suit",
     "author": "Christie, Agatha, 1890-1976",
     "gutenbergReference": "61168",
-    "matchType": 1,
     "hash": "85c043b3b728f199d6503e88ea7d0eff0762f598d1f7bfbf8c8fc69815311822"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "matchType": 2,
     "hash": "8d104679ef109d720ffb5fd272f27a0bddb058de269d7700f2ec3bf239b923ca"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "matchType": 2,
     "hash": "df45664ad772d7ce46800b922280e23f050385f85d1e91251f950cc27f50a7ce"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Influence of Sea Power upon the French Revolution and Empire 1793-1812, vol 1",
     "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
     "gutenbergReference": "52588",
-    "matchType": 1,
     "hash": "f00101c29f3b6d8f0494595a7fa3d32aabc2fc7653236212df5c308749b84a36"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Punch, or the London Charivari, June 10, 1914",
     "author": "Various; Seaman, Owen, 1861-1936 [Editor]",
     "gutenbergReference": "24414",
-    "matchType": 1,
     "hash": "1099075dd505fdf79ae04732b56c2af5b8abf3a7eaed3319c0da9262811129b5"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Colorado Outings",
     "author": "Steele, James W. (James William), 1840-1905",
     "gutenbergReference": "59923",
-    "matchType": 2,
     "hash": "0858ba97a2546dab9efa6c1fd1f2680c165f44dd7757d9dec5a5326f2545c982"
   },
   {
@@ -29,7 +27,6 @@
     "title": "A Quantitative Study of the Nocturnal Migration of Birds",
     "author": "Lowery, George H., Jr., 1913-1978",
     "gutenbergReference": "37894",
-    "matchType": 2,
     "hash": "e20dcb6dff96a999202dd0c1b429ed6aec8002b6e8e10672a6bad4ce3c743cfd"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The sunny side",
     "author": "Milne, A. A. (Alan Alexander), 1882-1956",
     "gutenbergReference": "13441",
-    "matchType": 1,
     "hash": "1b85f585b2700e0778062a4b97b69f14480e3f49807fdf24150b440e5a79fb1d"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Wire Tappers",
     "author": "Stringer, Arthur, 1874-1950",
     "gutenbergReference": "50203",
-    "matchType": 1,
     "hash": "46e2f23c719f5a3943407928ac901b5b54b5d908786a4da0120108e98f50229e"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 05, November 1884, No. 2",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55241",
-    "matchType": 2,
     "hash": "f2ac6fa270215f4a332db53f89e900ff9a5d6d5abb66f5ffa27ec9d6c3290aa9"
   }
 ]

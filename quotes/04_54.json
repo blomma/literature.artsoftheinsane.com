@@ -7,7 +7,6 @@
     "title": "A Catechism of the Steam Engine",
     "author": "Bourne, John, C. E.",
     "gutenbergReference": "10998",
-    "matchType": 1,
     "hash": "f2c515de49c2f22a34e09976470119fa3fb76fde0733ef69640749dd587637f9"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Memoirs of a Surrey Labourer: A Record of the Last Years of Frederick Bettesworth",
     "author": "Sturt, George, 1863-1927",
     "gutenbergReference": "42092",
-    "matchType": 1,
     "hash": "a9ac2bf93757b7aa18144156e3a173bf9081a2526600f2fa9878470909f49427"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55331",
-    "matchType": 2,
     "hash": "ae6d0cf7a3c8722ecec998e485d81ecec3fabb1abeaafad103188bcd58386773"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The viaduct murder",
     "author": "Knox, Ronald Arbuthnott, 1888-1957",
     "gutenbergReference": "72585",
-    "matchType": 1,
     "hash": "df33641d928ae1e93c989a4014ab544e769db83c31946a627a70c5d73e396fe1"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The viaduct murder",
     "author": "Knox, Ronald Arbuthnott, 1888-1957",
     "gutenbergReference": "72585",
-    "matchType": 1,
     "hash": "428e47412e83782435fe4cf20bd4c34c8b05eb090740d1fc8d0c3c5417d78c8a"
   }
 ]

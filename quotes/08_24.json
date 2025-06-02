@@ -7,7 +7,6 @@
     "title": "Motor Matt's Triumph; or, Three Speeds Forward",
     "author": "Matthews, Stanley R.",
     "gutenbergReference": "47788",
-    "matchType": 1,
     "hash": "f1b5df08c1146baccd5a2779c320e9977feb4238e842a6d37046623f33ca1e01"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "029608a82e4cf962b4cea6befc58c8fb971c9d4b7353e9a68b6f90167aeed76b"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "03cf347d21fb97750baa746b61b9850607e49a44a1347c43c6f9e22f2d8896b1"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Ponson case",
     "author": "Crofts, Freeman Wills, 1879-1957",
     "gutenbergReference": "72235",
-    "matchType": 2,
     "hash": "d4274fd65c7cbdfbfe7e4e25ad954ee4c22a12253ded11efeefe36c34fbcb2b3"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Benton's Venture",
     "author": "Barbour, Ralph Henry, 1870-1944; Chickering, Charles R. (Charles Ransom), 1891-1970 [Illustrator]",
     "gutenbergReference": "66533",
-    "matchType": 1,
     "hash": "fdb4a921c82cc7c5d2dd4f254d33dc7382e5c7c29700fe8ef00080606860e722"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
-    "matchType": 2,
     "hash": "a27c2cebf8cd4d6ccf70db81ec3a6dfe3d6247dc4b19ea601c8dfe80d78e2460"
   }
 ]

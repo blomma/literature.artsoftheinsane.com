@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "c16dce1514e003f3e892530e337729285638e29299677cb1b934653ba3528205"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Corsair in the war zone",
     "author": "Paine, Ralph Delahaye, 1871-1925",
     "gutenbergReference": "72760",
-    "matchType": 2,
     "hash": "084da39284c0da73f0228a62d222ac3dc414a1aa8e6f3d1a2480e08d631b8e0b"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Around the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "103",
-    "matchType": 1,
     "hash": "87b121f300c2fd0993dd5aafb1074e42f41583b94105197688a666ab6d70ebc6"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Ancient Britain and the Invasions of Julius Caesar",
     "author": "Holmes, T. Rice (Thomas Rice), 1855-1933",
     "gutenbergReference": "57336",
-    "matchType": 2,
     "hash": "37893033e913d53e1b5b14cd66b4733fbe7d94f9b3a642d6afeadf71a587b21b"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The House of Mystery: An Episode in the Career of Rosalie Le Grange, Clairvoyant",
     "author": "Irwin, Will, 1873-1948; Yohn, F. C. (Frederick Coffay), 1875-1933 [Illustrator]",
     "gutenbergReference": "12678",
-    "matchType": 1,
     "hash": "9e71760bde89be9fa8287ea47bba999056eaeeb129da56359c243ab991924044"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "eed3fc29527244a2ce5f12a8077b1a6c2d9583dc6360ce98ca4e468026409ac5"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Around the World in Eighty Days. Junior Deluxe Edition",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "2154",
-    "matchType": 1,
     "hash": "784e449c9f6a0d544e41309662b187fdf653dd37b2e021b781ed78ef003bf47a"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "a333ba5e11dcdc0628cecffe4c4a2e49b27fc359bde4903a01c2962b5aee3bd0"
   }
 ]

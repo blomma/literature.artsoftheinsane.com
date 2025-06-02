@@ -7,7 +7,6 @@
     "title": "Blue Lights: Hot Work in the Soudan",
     "author": "Ballantyne, R. M. (Robert Michael), 1825-1894",
     "gutenbergReference": "21719",
-    "matchType": 1,
     "hash": "19962fdaf89d3bb0b4b073a8776e4329d07cc1b0b7406aea08daafe6d901393e"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Manslaughter",
     "author": "Miller, Alice Duer, 1874-1942; Gruger, Frederic Rodrigo, 1871-1953 [Illustrator]",
     "gutenbergReference": "33985",
-    "matchType": 1,
     "hash": "10b2be96d025ba3ae296529c3a2b59c24e08cd3ab88ba8faa2f306ecb4aadb94"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Afterwards, and Other Stories",
     "author": "Maclaren, Ian, 1850-1907",
     "gutenbergReference": "43192",
-    "matchType": 1,
     "hash": "77af68aa0946d0b76abf3659ee30962ae3384ae9d9236302044acffc5f5d8ffc"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
-    "matchType": 2,
     "hash": "eeb00df9b91a3d59418b1032746349959c82f8403c0361145234501e205c216d"
   },
   {
@@ -51,7 +47,6 @@
     "title": "813",
     "author": "Leblanc, Maurice, 1864-1941; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
     "gutenbergReference": "34758",
-    "matchType": 1,
     "hash": "a9e1dff4220e69941e81fafd418e8b05f249a653869265d164f0f57bc7d140b9"
   }
 ]

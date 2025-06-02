@@ -7,7 +7,6 @@
     "title": "Syndrome",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34321",
-    "matchType": 2,
     "hash": "c0826f533482be24e42a390e313c1a2ae32f1c8bb8c78ded1810a1df7ed29638"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Flying Legion",
     "author": "England, George Allan, 1877-1936",
     "gutenbergReference": "12265",
-    "matchType": 0,
     "hash": "60d2e541d943384082c1e15cc6878f82b84734decfb323a077610319f016bea2"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Amphibians and Reptiles of Michoacán, México",
     "author": "Duellman, William Edward, 1930-2022",
     "gutenbergReference": "33543",
-    "matchType": 2,
     "hash": "589dd7e8f53753904cf74fbeca0c3f7570ff36dfa3896e75172bdda30f3422c8"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Teeth of the Tiger",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "13058",
-    "matchType": 1,
     "hash": "ab162b8f2df816a08e8e8d18c83c46ebe3e0fed94cc9a3f42bae810721f58be7"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Teeth of the Tiger",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "13058",
-    "matchType": 0,
     "hash": "d5258b4531742963fe8445c5f5357091cd44e09390d32edd86ac926a8b76e43d"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Tragedy at Ravensthorpe",
     "author": "Connington, J. J., 1880-1947",
     "gutenbergReference": "75407",
-    "matchType": 2,
     "hash": "6d89c8db6ac5f730b28baa8e7dec36a6b53e226a88d1356fcb258f26d369ae17"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Night the Mountain Fell: The Story of the Montana-Yellowstone Earthquake",
     "author": "Christopherson, Edmund, -1974",
     "gutenbergReference": "56850",
-    "matchType": 2,
     "hash": "60523da41ef86972975e41d708edd0565be3488d5e6296f5d1885de354ba13a0"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Fur Country: Or, Seventy Degrees North Latitude",
     "author": "Verne, Jules, 1828-1905; D'Anvers, N., 1844-1933 [Translator]",
     "gutenbergReference": "8991",
-    "matchType": 1,
     "hash": "1680e52fa177383f033e588956336cdf1769109a00ddc50bfe9d9eed4bae3cd0"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Fur Country: Or, Seventy Degrees North Latitude",
     "author": "Verne, Jules, 1828-1905; D'Anvers, N., 1844-1933 [Translator]",
     "gutenbergReference": "8991",
-    "matchType": 1,
     "hash": "e8e95d8b1c66666199c3c2b76b12f272c17db223332475c538b93c708d073b0f"
   },
   {
@@ -106,7 +97,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "7d8026b65bd1d5414fad2a25b5bd7b07739495f24d6016f64fe8036b1e0f5558"
   }
 ]

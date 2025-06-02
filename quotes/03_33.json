@@ -7,7 +7,6 @@
     "title": "Ulysses",
     "author": "Joyce, James, 1882-1941",
     "gutenbergReference": "4300",
-    "matchType": 2,
     "hash": "94aa2e94da007ebd89d9d3ea262a781c23d9cffc62a7abc2ebb8c3f1f9e7c32f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "29be57421086e6dc6e547ce4c78f18d72bcb6468a76c15f4e26e0a9d0461be96"
   }
 ]

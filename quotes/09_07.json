@@ -7,7 +7,6 @@
     "title": "Voyage to Jupiter",
     "author": "Morrison, David, 1940-; Samz, Jane",
     "gutenbergReference": "58915",
-    "matchType": 2,
     "hash": "efe16e834646ce04880d4eeef5bffc83bdfe73de9890aa0d287878aa8ad29f13"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Last Words",
     "author": "Crane, Stephen, 1871-1900",
     "gutenbergReference": "33579",
-    "matchType": 1,
     "hash": "76a13da5a980836b1dc87125e9fa6475b50b579ece2e8858ce685223742242fe"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Blizzard in the West\r\nBeing as Record and Story of the Disastrous Storm which Raged Throughout Devon and Cornwall, and West Somerset, On the Night of March 9th, 1891",
     "author": "Unknown",
     "gutenbergReference": "43758",
-    "matchType": 1,
     "hash": "4e755d3875ad360c12b562d18841d2101192c025a2b66ac8cbb9da8a4b3d2a8a"
   },
   {
@@ -40,7 +37,6 @@
     "title": "A Flight in Spring\r\nIn the car Lucania from New York to the Pacific coast and back, during April and May, 1898",
     "author": "Knowles, J. Harris (John Harris), 1832-1908",
     "gutenbergReference": "33620",
-    "matchType": 2,
     "hash": "9ce9cf0357557f524aa6f9075a0a6d043ca8ad164739b968ff238ae5ba229fe2"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The House of Martha",
     "author": "Stockton, Frank R., 1834-1902",
     "gutenbergReference": "18822",
-    "matchType": 1,
     "hash": "fc6b9e206b72b36883d79319581369be8aa362c8154e6ffb06e12b94036f9836"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Arrival of Jimpson, and Other Stories for Boys about Boys",
     "author": "Barbour, Ralph Henry, 1870-1944",
     "gutenbergReference": "45689",
-    "matchType": 1,
     "hash": "c21efa91e7022240327027bdf41eb5780b8e29e8e5d74b413a733c5e886c0b43"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Best Short Stories of 1918, and the Yearbook of the American Short Story",
     "author": "O'Brien, Edward J. (Edward Joseph), 1890-1941 [Editor]",
     "gutenbergReference": "39635",
-    "matchType": 1,
     "hash": "d366b5fa5e138fb50088bdd68e2da4746cd9f904ddbb5250b24439e9a945dfec"
   }
 ]

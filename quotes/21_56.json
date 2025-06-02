@@ -7,7 +7,6 @@
     "title": "Tangled Trails: A Western Detective Story",
     "author": "Raine, William MacLeod, 1871-1954",
     "gutenbergReference": "17066",
-    "matchType": 1,
     "hash": "6d8cff4da4212ad99e977bfb8db08f408dc07d9bbbc113beab9999d951d5a4c2"
   },
   {
@@ -18,7 +17,6 @@
     "title": "London Souvenirs",
     "author": "Heckethorn, Charles William",
     "gutenbergReference": "44044",
-    "matchType": 0,
     "hash": "63493e537d5f615a6a9aa5d6e61f9aba4956ca20c85111f54f234a41a4121e83"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Diary of a Nursing Sister on the Western Front, 1914-1915",
     "author": "Anonymous",
     "gutenbergReference": "18910",
-    "matchType": 0,
     "hash": "4ce99e73a7c44c921f7a899b17c2712193e65ca91ff5519ac2029ec06b131c45"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Toronto by Gaslight: The Night Hawks of a Great City\r\nAs Seen by the Reporters of \"The Toronto News\"",
     "author": "Toronto News",
     "gutenbergReference": "57700",
-    "matchType": 1,
     "hash": "86557401508bffed560cf77e63926e4a0bbd140c1e7db8141daca9b7ed78ff60"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Betty Gordon at Boarding School; Or, The Treasure of Indian Chasm",
     "author": "Emerson, Alice B.",
     "gutenbergReference": "10317",
-    "matchType": 0,
     "hash": "3b17d4a045582a254e06f646e64039e5dfe711335b45060fed387d746d50dffd"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Child Labor in City Streets",
     "author": "Clopper, Edward Nicholas, 1879-1953",
     "gutenbergReference": "44396",
-    "matchType": 0,
     "hash": "6d28fbe862af41e68affd8f8da8708f1122d1d279835815b2a72e46e4bd91d9e"
   }
 ]

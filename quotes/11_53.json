@@ -7,7 +7,6 @@
     "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "75138",
-    "matchType": 1,
     "hash": "3828528c39844881c89dff3bf4884b65449665ecfdba12e879569e263d82a31b"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Northern Lights, Volume 2.",
     "author": "Parker, Gilbert, 1862-1932",
     "gutenbergReference": "6187",
-    "matchType": 1,
     "hash": "0cdf5e9308458fa79942d4954e6f9c2a7c152609de6981664230020740198ca0"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Lifted Masks; stories",
     "author": "Glaspell, Susan, 1882?-1948",
     "gutenbergReference": "7368",
-    "matchType": 1,
     "hash": "96bb6721e85321409609930aa4098c119009e609648f7b3f948cbdddd3e3869e"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Northern Lights, Complete",
     "author": "Parker, Gilbert, 1862-1932",
     "gutenbergReference": "6191",
-    "matchType": 1,
     "hash": "2eb2fbfab7724495d6dc027e07df86531c78478b5c9299f15b1fba4f5b0f764f"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Stand By! Naval Sketches and Stories",
     "author": "Dorling, H. Taprell (Henry Taprell), 1883-1968",
     "gutenbergReference": "26049",
-    "matchType": 2,
     "hash": "966d7cbb78dde8b5c07107839bf1d6088bb174309c3d59d012c5dd27e88338c5"
   },
   {
@@ -62,7 +57,6 @@
     "title": "In Quest of Gold; Or, Under the Whanga Falls",
     "author": "St. Johnston, Alfred, 1858?-1891; Browne, Gordon, 1858-1932 [Illustrator]",
     "gutenbergReference": "42829",
-    "matchType": 1,
     "hash": "cf9e528390b1cbc51bb03ecb7be9f6afb31d9a722f1d636a0eece10f8745b213"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Daughter of Anderson Crow",
     "author": "McCutcheon, George Barr, 1866-1928; Justice, Martin, 1869-1961 [Illustrator]",
     "gutenbergReference": "14818",
-    "matchType": 1,
     "hash": "ec12aef8c217823b5e6f161370625930cca6715c441c3bfa83c471ffc182ab89"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Northern Lights",
     "author": "Parker, Gilbert, 1862-1932",
     "gutenbergReference": "26905",
-    "matchType": 1,
     "hash": "8efdb8982588da883b447c917816b4e7b2a9aea664c14aefb294a15ac2c2b549"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Project Gutenberg Complete Works of Gilbert Parker",
     "author": "Parker, Gilbert, 1862-1932",
     "gutenbergReference": "6300",
-    "matchType": 1,
     "hash": "fe8515d4f8f7c01eb3c323fb75bbf1ea7c16d1770bed4af619252e48c4d8ebbc"
   },
   {
@@ -106,7 +97,6 @@
     "title": "A Woman Intervenes",
     "author": "Barr, Robert, 1850-1912",
     "gutenbergReference": "9379",
-    "matchType": 1,
     "hash": "98f42cc0773fbc58e8afea3d8d822bde505c6acd93c74cc5c7ae157995044e42"
   },
   {
@@ -117,7 +107,6 @@
     "title": "The Philippine Islands",
     "author": "Lala, Ramon Reyes",
     "gutenbergReference": "42726",
-    "matchType": 0,
     "hash": "b2a0b7435f023728774f2ab29262f5184b4dfba44ae375d3ef7b0fe5e95e4c6a"
   },
   {
@@ -128,7 +117,6 @@
     "title": "The Samurai Strategy",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34323",
-    "matchType": 2,
     "hash": "6befc9537120c7601d761f1c5dd2742adb8340bbef58f8feea78955edc238656"
   },
   {
@@ -139,7 +127,6 @@
     "title": "The Lady from Long Acre",
     "author": "Bridges, Victor, 1878-1972; Rohn, Ray, 1888-1935 [Illustrator]",
     "gutenbergReference": "67078",
-    "matchType": 2,
     "hash": "3ac6b41431c3e285bdda7d703c569cb424d25351a7d6c03ff5db71b8ea8adbda"
   },
   {
@@ -150,7 +137,6 @@
     "title": "Précis writing for beginners",
     "author": "Pocock, Guy Noel, 1880-1955",
     "gutenbergReference": "53680",
-    "matchType": 2,
     "hash": "8ffdc48b9282fceb9d901335e641a38450b570ddfcc4787ec01929ad56ee0f76"
   }
 ]

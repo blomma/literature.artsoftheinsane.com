@@ -7,7 +7,6 @@
     "title": "The Confessions of Arsène Lupin",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "28093",
-    "matchType": 1,
     "hash": "48e30144f66250acac5dedd71ca39a057566c8d4d5204fd741c0769f34119398"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "e6375d8477ca7aae3716da7828a628f16514274aa77a98ea47fccb62a2e0494f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Curiosities of Civilization",
     "author": "Wynter, Andrew, 1819-1876",
     "gutenbergReference": "40498",
-    "matchType": 2,
     "hash": "40155adf81a2f22da3ae7b2a324bb4b6a0fbd581da8697f492d631ac4a610869"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "c02baa5ed94fe68cbbdd53b90c33ca53614ca7a4d7d653ce7264f25771895fe8"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Marjorie Dean, College Sophomore",
     "author": "Chase, Josephine, -1931",
     "gutenbergReference": "22071",
-    "matchType": 1,
     "hash": "ba44eb96ea39acb7d04ef0a0f6a64a285e3510eb0ec9d8207ae1b673484dce2e"
   }
 ]

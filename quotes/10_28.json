@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "0a116209df3918c751911aaeb5778ec5ca34b01e5593d32fa65b79cd161aafcc"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Young O'Briens: Being an Account of Their Sojourn in London",
     "author": "Westrup, Margaret",
     "gutenbergReference": "45324",
-    "matchType": 1,
     "hash": "285356bb5cfcdd1716be7d09807d57db47c785e7ca22d2ad9400c13754a063f3"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "82662c372bc9cda80008405d359e12298084c423e967a82e21b4582dca802977"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Complete Life of William McKinley and Story of His Assassination\nAn Authentic and Official Memorial Edition, Containing Every Incident in the Career of the Immortal Statesman, Soldier, Orator and Patriot",
     "author": "Everett, Marshall, 1863-1939",
     "gutenbergReference": "58740",
-    "matchType": 2,
     "hash": "0d8e667931ad6ca10b8bba5e3ab1aae2d876d50a976ba3d879167682150b2441"
   }
 ]

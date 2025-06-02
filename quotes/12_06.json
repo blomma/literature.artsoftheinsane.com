@@ -7,7 +7,6 @@
     "title": "The Toxicity of Caffein: An experimental study on different species of animals",
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
-    "matchType": 2,
     "hash": "a5f9dbc0dbc8430b14e75618911fcd61ae0f4058ffd5d3f2f12cdc86bd24c242"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Miracle Gold: A Novel (Vol. 1 of 3)",
     "author": "Dowling, Richard, 1846-1898",
     "gutenbergReference": "42498",
-    "matchType": 1,
     "hash": "b93f50ab5fa74361d0d01da78125702b31052ff872494c934dc48fc9ecc00e7f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Cytherea",
     "author": "Hergesheimer, Joseph, 1880-1954",
     "gutenbergReference": "6847",
-    "matchType": 1,
     "hash": "9eda30cce007d1ffebdc28a6aab951ceb7b46303cbdb15388bdfff43c88437fe"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Barium: A Cause of the Loco-Weed Disease",
     "author": "Crawford, Albert Cornelius",
     "gutenbergReference": "40256",
-    "matchType": 2,
     "hash": "835828071521bccc705b1953f21beff221051ab5de6edc7e8e695bbb6559c5ac"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Psmith in the City",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "6753",
-    "matchType": 1,
     "hash": "4a3980e66ffec537ac28432198ca8f86a53086ab4820656eba61b50c4e73e566"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "32baf94f74d0bc0ce2765db08af3e5c175281a28be0b3d0937159be07e86fb37"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Warren Commission (07 of 26): Hearings Vol. VII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44007",
-    "matchType": 2,
     "hash": "e7ee267defb5417662c0897a55aac8f137e71cfd1515c5197443fc2fbf220efa"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The inter ocean curiosity shop for the year 1883",
     "author": "Various; Jones, William P. [Editor]",
     "gutenbergReference": "70718",
-    "matchType": 2,
     "hash": "f6cef5d0c0e40df0420936cd3582f5fb44080f9431a52293690b5e5566bc275d"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44006",
-    "matchType": 2,
     "hash": "298baab2812d2c4b048ea0fb4e7bee5630b45cac2dfaebb0e8bb1854cbc8124e"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44006",
-    "matchType": 2,
     "hash": "c0e4860a09b952ceb08322b48dfa738a563c082aab43f2ce37d2d382a82d4bfb"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44006",
-    "matchType": 2,
     "hash": "30191b1a752a2ddf2cf156cb1e0681421afe3dea44c8b7745a9a42cd8ccb6303"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Ultima Thule; or, A Summer in Iceland. vol. 2/2",
     "author": "Burton, Richard Francis, Sir, 1821-1890",
     "gutenbergReference": "59585",
-    "matchType": 2,
     "hash": "b6b66fe4dcd86ca648681e8ff231755a6854537763af3e35ffbc14c274524f43"
   }
 ]

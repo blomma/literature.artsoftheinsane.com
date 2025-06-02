@@ -7,7 +7,6 @@
     "title": "The House Opposite: A Mystery",
     "author": "Kent, Elizabeth, 1875-1947",
     "gutenbergReference": "41525",
-    "matchType": 1,
     "hash": "cd76cc97188f5954076fe997bfde674f049644ac6057d6f4c193fb67abe374bb"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Swimming Scientifically Taught: A Practical Manual for Young and Old",
     "author": "Dalton, Frank Eugen; Dalton, Louis C.",
     "gutenbergReference": "19065",
-    "matchType": 1,
     "hash": "517257cd36445b71461704b717e1e1d73e56f633e332bac4ee6d33733c99fb5d"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Tutt and Mr. Tutt",
     "author": "Train, Arthur Cheney, 1875-1945",
     "gutenbergReference": "10440",
-    "matchType": 1,
     "hash": "d7b77e3afc02d70c2e2afac631d35b1d27440d8fa4790c5cb5794986ae454796"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Stage-coach and Mail in Days of Yore, Volume 2 (of 2)\nA picturesque history of the coaching age",
     "author": "Harper, Charles G. (Charles George), 1863-1943",
     "gutenbergReference": "58668",
-    "matchType": 2,
     "hash": "b4f2b8da29ff5a5c66a37e5a200f1b63c21ab5de41897a75aba74ae0a2501e18"
   }
 ]

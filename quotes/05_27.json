@@ -7,7 +7,6 @@
     "title": "The Confessions of Arsène Lupin",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "28093",
-    "matchType": 1,
     "hash": "f792d94a8b1677a19dcefd5708effefd9479389f00600eeb8edacec3086fe642"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Yankee mining squadron",
     "author": "Belknap, Reginald Rowan, 1871-1959",
     "gutenbergReference": "74827",
-    "matchType": 2,
     "hash": "d9ff71c9bab9b69eae076db952a657cb6596543f4947b48ca6e781415fe0b753"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Marjorie Dean, College Sophomore",
     "author": "Chase, Josephine, -1931",
     "gutenbergReference": "22071",
-    "matchType": 1,
     "hash": "6342656afc66468be02b623c20335de7bbe246d21ac28eed9b15c450e6d4d760"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The History of the British Post Office",
     "author": "Hemmeon, Joseph Clarence, 1880-",
     "gutenbergReference": "42983",
-    "matchType": 2,
     "hash": "ab3071da157657210b83c309d66058bcd259bc0c104118c96fa221ba27afb832"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "3547d5b92ce62ed72151c9f03ecb4232bb8c902b124157ad996df0a024e55427"
   },
   {
@@ -62,7 +57,6 @@
     "title": "In Lakeland Dells and Fells",
     "author": "Palmer, William T., 1877-1954",
     "gutenbergReference": "62607",
-    "matchType": 2,
     "hash": "b51c83518e741de67daea08d92d3aed46becc47a5054e2a56e2830fc04314ac8"
   }
 ]

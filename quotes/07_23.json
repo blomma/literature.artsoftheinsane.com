@@ -7,7 +7,6 @@
     "title": "Around the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "103",
-    "matchType": 1,
     "hash": "9bf79d859dd20cf84b2772510cbd5296fdb2ecc81f9f4c3dc43275cd51beda1c"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55331",
-    "matchType": 2,
     "hash": "d3ba679160b950ec3c813c351887dc58345f1682b5677e72482177f0ce2abea1"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Ancient Britain and the Invasions of Julius Caesar",
     "author": "Holmes, T. Rice (Thomas Rice), 1855-1933",
     "gutenbergReference": "57336",
-    "matchType": 2,
     "hash": "d7600f5c7acd6e45178126d6aacec5bbb8db5ba93fb9ace17d7fa1c516ea993f"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Great North Road, the Old Mail Road to Scotland: London to York",
     "author": "Harper, Charles G. (Charles George), 1863-1943",
     "gutenbergReference": "46716",
-    "matchType": 0,
     "hash": "8fc69a58f1f3c3e05f709d0ae0db47ca6d90464d180629f55203ac339dc12c33"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "dd2123903bdc91b5abbe00ccfd3bc38e6f511c811a2e3a91d42277a18e2dcffd"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Little City of Hope: A Christmas Story",
     "author": "Crawford, F. Marion (Francis Marion), 1854-1909",
     "gutenbergReference": "14526",
-    "matchType": 1,
     "hash": "3f2aced6be60aca69536efc23a2e07841f532c6ef635993329e36588cadc4c1d"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Around the World in Eighty Days. Junior Deluxe Edition",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "2154",
-    "matchType": 1,
     "hash": "644b9cd395d2ef5ca380e49e32ac4c3e5519964da54c70c951bfa53436a1e669"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Seventeenth Highland Light Infantry (Glasgow Chamber of Commerce Battalion)",
     "author": "Arthur, John W. (John William), 1848-1921 [Editor]; Munro, Ion S. (Ion Smeaton), 1887-1970 [Editor]",
     "gutenbergReference": "20136",
-    "matchType": 2,
     "hash": "28afaedc97da8278655aa62c2d69c0f381ade50b9ed522536e2a5a8f72c39b0a"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "b79427b3d3d82096ca509b9eb47aee1f53b6947b5d14a28bf07d68bae425dcb9"
   }
 ]

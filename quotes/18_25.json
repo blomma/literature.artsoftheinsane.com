@@ -7,7 +7,6 @@
     "title": "With Kitchener in the Soudan: A Story of Atbara and Omdurman",
     "author": "Henty, G. A. (George Alfred), 1832-1902; Rainey, W. (William), 1852-1936 [Illustrator]",
     "gutenbergReference": "18868",
-    "matchType": 1,
     "hash": "e96197bede505a4d40c2bfac8caef21c838b22637b9b450280060fe522198352"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Mollie's Substitute Husband",
     "author": "McConn, Max, 1881-",
     "gutenbergReference": "48626",
-    "matchType": 1,
     "hash": "f3603adb5c0818a6a66af3b1e98b814ece3ed1529f789d5368aa44e4148b7283"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Dick Prescott's First Year at West Point; Or, Two Chums in the Cadet Gray",
     "author": "Hancock, H. Irving (Harrie Irving), 1868-1922",
     "gutenbergReference": "6426",
-    "matchType": 2,
     "hash": "394d5d551532ca01ac6dd1aa7c845af3328cb33149f88f9e947c75c9ff5fb742"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "e4bfd7e35c8a1cc79ea56fc1eac7841b7b1187d3acce008a4a1199f7c1720ce1"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "d491c0451b28d6fd1c41648629653595d2cfde8125133405daf73f2b73170da9"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Liliom",
     "author": "Molnár, Ferenc, 1878-1952; Glazer, Benjamin F. (Benjamin Floyer), 1887-1956 [Translator]",
     "gutenbergReference": "48749",
-    "matchType": 1,
     "hash": "d03e22488a7f7687a9df549eae75f6be422e8e2803e97af42873d259154a0e47"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Liliom",
     "author": "Molnár, Ferenc, 1878-1952; Glazer, Benjamin F. (Benjamin Floyer), 1887-1956 [Translator]",
     "gutenbergReference": "48749",
-    "matchType": 1,
     "hash": "07fc892a874c01ffc3fe53c2ef5a8dfb9361a65e7ab5a3d4f1a716fe2a8ae509"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Magician's Own Book, or, the Whole Art of Conjuring\r\nBeing a complete hand-book of parlor magic, and containing over one thousand optical, chemical, mechanical, magnetical, and magical experiments, amusing transmutations, astonishing sleights and subtleties, celebrated card deceptions, ingenious tricks with numbers, curious and entertaining puzzles, together with all the most noted tricks of modern performers.",
     "author": "Arnold, George, 1834-1865; Cahill, Frank",
     "gutenbergReference": "60687",
-    "matchType": 1,
     "hash": "de52ec7bb1fdff692b98062d4d3859fd03674d8add621276f9babf1408847f7a"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Phyllis",
     "author": "Duchess, 1855?-1897",
     "gutenbergReference": "55398",
-    "matchType": 1,
     "hash": "b4fa9f22e44d296e8615554940262630b4b22af9767d1f5bdfbb68385cd702e7"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55134",
-    "matchType": 2,
     "hash": "4bdecf155569396f47008f65185db20e2eb3d40516cbb8593d7bbfd97bedd36c"
   },
   {
@@ -115,10 +105,9 @@
     "quoteTime": "6.25 p.m.",
     "quoteLast": " attacked with the torpedo. _Falmouth_ and _Yarmouth_ both fired torpedoes at the leading enemy battle-cruiser, and it is believed that one torpedo hit, as a heavy underwater explosion was observed.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "69b64b29bc59118c0c757e575c3a878ef93f483d88aa550a12758ba8fac1532c"
+    "hash": "e9816871223c32cb8802be45a907772066606cffc58ce8929b8c865e5a68b0e5"
   },
   {
     "time": "18:25",
@@ -128,7 +117,6 @@
     "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
-    "matchType": 2,
     "hash": "243aa8508fe7ecb0c939427fa9a4413c04da3c06f8f2d00541a5fd5f4e82e8cc"
   },
   {
@@ -139,7 +127,6 @@
     "title": "The Iron Horse",
     "author": "Ballantyne, R. M. (Robert Michael), 1825-1894",
     "gutenbergReference": "21740",
-    "matchType": 2,
     "hash": "4ca1b20b3930ae317fe9b5463b824d709e38285760ca27e706f4211ffc65c137"
   },
   {
@@ -150,7 +137,6 @@
     "title": "Nine Thousand Miles on a Pullman Train\r\nAn Account of a Tour of Railroad Conductors from Philadelphia to the Pacific Coast and Return",
     "author": "Shaw, Milton M.",
     "gutenbergReference": "51341",
-    "matchType": 2,
     "hash": "95c0bb6b1f837d982330e9c2b879a1c9596c214ad705a1300045410e5acedd98"
   },
   {
@@ -161,7 +147,6 @@
     "title": "The Secret of the League: The Story of a Social War",
     "author": "Bramah, Ernest, 1869?-1942",
     "gutenbergReference": "34522",
-    "matchType": 2,
     "hash": "20a1d547d60c17dd1765004d88f771fd81758d59a69b09538725ad6468a6b762"
   },
   {
@@ -172,7 +157,6 @@
     "title": "The Last Ninety Days of the War in North-Carolina",
     "author": "Spencer, Cornelia Phillips, 1825-1908",
     "gutenbergReference": "62332",
-    "matchType": 1,
     "hash": "41e5bbce6dd02cc4f7292f18a5b4b28b95becb483c260fa520ce0cc781fc12a5"
   },
   {
@@ -183,7 +167,6 @@
     "title": "The Hurricane Hunters",
     "author": "Tannehill, Ivan Ray, 1890-1959",
     "gutenbergReference": "57973",
-    "matchType": 2,
     "hash": "0ab271338a8107a0b61f9edecd622f8070587674bdb1d70b92d7e535efc219f3"
   },
   {
@@ -194,7 +177,6 @@
     "title": "The Chautauquan, Vol. 04, March 1884, No. 6",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55133",
-    "matchType": 2,
     "hash": "4ced01faf7fe9bcd1b854567793fdf56aa1ab32e618b20f947800ec0ffef4378"
   },
   {
@@ -205,7 +187,6 @@
     "title": "Four Afoot: Being the Adventures of the Big Four on the Highway",
     "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
     "gutenbergReference": "50983",
-    "matchType": 1,
     "hash": "4c072aeab146fa85db8ae171c1e93ddb0ca7e24a12712f4c56b89e213471e054"
   }
 ]

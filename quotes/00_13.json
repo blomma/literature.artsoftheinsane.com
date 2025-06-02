@@ -7,7 +7,6 @@
     "title": "Six Girls and Bob: A Story of Patty-Pans and Green Fields",
     "author": "Taggart, Marion Ames, 1866-1945; Stecher, William F. (William Frederick), 1864-1940 [Illustrator]",
     "gutenbergReference": "47655",
-    "matchType": 1,
     "hash": "9141f164af0e4d46b8e98c6a44c78896e8e89b8a294a4312bfae03428aa3e6a3"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Vignettes of Manhattan; Outlines in Local Color",
     "author": "Matthews, Brander, 1852-1929; Brownell, W. C. (William Crary), 1851-1928 [Author of introduction, etc.]; Smedley, W. T. (William Thomas), 1858-1920 [Illustrator]",
     "gutenbergReference": "38918",
-    "matchType": 1,
     "hash": "30f62851070101345bd374d85948d67e9bd5f62f1773b78ca86d97959bd4dc1d"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, May 1884, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55158",
-    "matchType": 2,
     "hash": "d24f240da36e3918a5b1854d3a641cbca74024ff7f890bf3e1810495c5971cf1"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
     "author": "Miles, Henry Downes, 1806-1889",
     "gutenbergReference": "64111",
-    "matchType": 1,
     "hash": "496f221f3aa0d0ed18d3d7f81a2df14731443e71b44a021b0a5beeafafd74316"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Bristol Royal Mail: Post, Telegraph, and Telephone",
     "author": "Tombs, Robert Charles, 1842-1923",
     "gutenbergReference": "34197",
-    "matchType": 2,
     "hash": "04cdb33516727aa2f48e60b470ce05907758a19f177b4b603b89e9f7ff3332ac"
   }
 ]

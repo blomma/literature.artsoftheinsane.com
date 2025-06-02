@@ -7,7 +7,6 @@
     "title": "Three Little Lines\r\nSilverton Railroad; Silverton, Gladstone and Northerly; Silverton Northern",
     "author": "Crum, Josie Moore",
     "gutenbergReference": "62664",
-    "matchType": 2,
     "hash": "42c680283ae056d12f24bfedbd3f4281848864a62296b13a6d39f3f1418387cc"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Servants of the Guns",
     "author": "Jeffery, Jeffery E. (Jeffery Eardley), 1887-",
     "gutenbergReference": "37628",
-    "matchType": 2,
     "hash": "71f9a9702251470143d8451073470b56af510070cca58f140354cd4bd67d876d"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "af56cb48f57849631b3a12fd45e8fed2562a7eee0f32a8b8eec9294605a7a755"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Astounding Stories, February, 1931",
     "author": "Various; Bates, Harry, 1900-1981 [Editor]",
     "gutenbergReference": "30124",
-    "matchType": 1,
     "hash": "d347ce91c5d704ee2e6baf05c250e3b5f7b36a7dfcc9301ec2571cf81f268515"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "183ab64c9e1d36195164c5a63bdc60df4b8986dd0d2db2b051c2f318e801fc67"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
-    "matchType": 2,
     "hash": "96dd1029bad2bfbc9d6d40d39e4d6e11e949a5a99fcfdc1edcd06e10aa30b0fe"
   }
 ]

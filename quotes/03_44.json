@@ -7,7 +7,6 @@
     "title": "Dave Dawson on the Russian Front",
     "author": "Bowen, Robert Sidney, 1900-1977",
     "gutenbergReference": "41718",
-    "matchType": 1,
     "hash": "3379a5ccf497693b7e1169f026b0d11872e1d93a01c3523dfd25dd029872d24f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "294233bfd7cc8d73c9bef788c610dca591c88fa9094b7da64cbee7d224406eee"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Exeter Road: the story of the west of England highway",
     "author": "Harper, Charles G. (Charles George), 1863-1943",
     "gutenbergReference": "54140",
-    "matchType": 2,
     "hash": "d0289f500d84351f7625a032223a275fda6f1add6651edafcc9052293b39f6a2"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "b15f8c97290575b97b2ed52a53bf3b5a3b5f6f16fc25a7fea364de1481ac1c26"
   }
 ]

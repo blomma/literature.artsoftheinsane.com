@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "346f24529e239115fe3a43545677b011aa0c8af84a95e43390a8760ad9f05646"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Money Moon: A Romance",
     "author": "Farnol, Jeffery, 1878-1952",
     "gutenbergReference": "10418",
-    "matchType": 1,
     "hash": "f9ee39a5caf3d62acc82166aa7237aa8ba6674efe784083952a989b204e6155f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Cosmic symbolism",
     "author": "Sepharial, 1864-1929",
     "gutenbergReference": "70749",
-    "matchType": 2,
     "hash": "387a775f16e13b5644bab3d37e6e0e20797bd1940476d91683a2c2e6c914b386"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Story of the Atlantic Telegraph",
     "author": "Field, Henry M. (Henry Martyn), 1822-1907",
     "gutenbergReference": "34765",
-    "matchType": 1,
     "hash": "e884c4b1605079d84356752366a7ff4bb6d176f5a0939498253fe55ae6934501"
   }
 ]

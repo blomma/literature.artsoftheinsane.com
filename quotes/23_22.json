@@ -7,7 +7,6 @@
     "title": "Canada in Flanders, Volume III",
     "author": "Roberts, Charles G. D., Sir, 1860-1943; Beaverbrook, Max Aitken, Baron, 1879-1964 [Author of introduction, etc.]",
     "gutenbergReference": "46116",
-    "matchType": 2,
     "hash": "34fe2cf860fce3db49cf7ffb6f40a16658c540c275171dd564fd1bf067bd8be1"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Around the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "103",
-    "matchType": 1,
     "hash": "cf3f91c78ece351bc4ab255daabeb3289e19c5385e690c80f1cac41eaa2cb3cf"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The unconscious",
     "author": "Prince, Morton, 1854-1929",
     "gutenbergReference": "69930",
-    "matchType": 1,
     "hash": "9a06205ee23f63c739f9ef67c831e470a381698751d9f0457c70e60f11d76714"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Huey Long Murder Case",
     "author": "Deutsch, Hermann B. (Hermann Bacher), 1889-1970",
     "gutenbergReference": "62864",
-    "matchType": 2,
     "hash": "ccf8ab9c2d2c78bc011d32f66e59c2ae8dddda8a2425bca3ce4584557ebb26e4"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Huey Long Murder Case",
     "author": "Deutsch, Hermann B. (Hermann Bacher), 1889-1970",
     "gutenbergReference": "62864",
-    "matchType": 2,
     "hash": "e452f2121350d0ef1880f5e321d715705c20d5856e60f18160a48a5a70c061eb"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "059891ea828acb42a204d60e23587362533328047019f766ae12d7bc4f81948e"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Round the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905; Frith, Henry, 1840- [Translator]",
     "gutenbergReference": "32972",
-    "matchType": 1,
     "hash": "6eee04e602335f7aab0b5a6c6108533e513e23e931ccabc67e7a6ba4766d5404"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Hashimura Togo, Domestic Scientist",
     "author": "Irvin, Wallace, 1876-1959; Strothmann, F. (Frederick), 1872-1958 [Illustrator]",
     "gutenbergReference": "65189",
-    "matchType": 2,
     "hash": "41587ec9f66b20660b4aa90dbdd8a37abc4804a9dd49c8d2254a0b6f02b378be"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Around the World in Eighty Days. Junior Deluxe Edition",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "2154",
-    "matchType": 1,
     "hash": "dd530d1b3d3c13ecb7c6ee811d883ed69c9d9ff06c5b281408eef933b7c82b19"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Chautauquan, Vol. 04, March 1884, No. 6",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55133",
-    "matchType": 2,
     "hash": "fd9096156518cae0f94d725f17e089163a1527ffe83feac28d69c54e58916356"
   }
 ]

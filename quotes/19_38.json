@@ -7,7 +7,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "c75d1ff1a381fb8f95cd74b528f73cacab891f55dd91e1ef27d2dcceb286de62"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "79439e4b952965422d936e0df0818f88560bb61d9f26304fd7a588ca29b05aa6"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Fanny Herself",
     "author": "Ferber, Edna, 1885-1968",
     "gutenbergReference": "350",
-    "matchType": 1,
     "hash": "1a885d4df7546075c3d99db375752a7b69f79a8748e1430f62d6f54ed48c1457"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Peregrine's Progress",
     "author": "Farnol, Jeffery, 1878-1952",
     "gutenbergReference": "7059",
-    "matchType": 1,
     "hash": "2853b9baa3ad77e91a975d3f71780aabe5826ea7e495f3a5d1c8a586230ee4df"
   }
 ]

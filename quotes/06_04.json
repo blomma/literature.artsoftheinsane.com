@@ -7,7 +7,6 @@
     "title": "Alonzo Fitz, and Other Stories",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3184",
-    "matchType": 1,
     "hash": "f2bc1abf0bf1bf62754902a8c960278df0c95d5566afeaaa5cbfc0c4445e220a"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Wailing Octopus: A Rick Brant Science-Adventure Story",
     "author": "Goodwin, Harold L. (Harold Leland), 1914-1990",
     "gutenbergReference": "31495",
-    "matchType": 1,
     "hash": "26795e362f5e9146331b743ec9de219d9d62ab2162f2919f4fa823b157517a23"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The history of our Navy from its origin to the present day, 1775-1897, vol. 2 (of 4)",
     "author": "Spears, John Randolph, 1850-1936",
     "gutenbergReference": "71795",
-    "matchType": 2,
     "hash": "3bda1d7e685e92331615b2caa70f61ad061a375a3edd64de58472a19060d7dd4"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Ralph the Heir",
     "author": "Trollope, Anthony, 1815-1882",
     "gutenbergReference": "25579",
-    "matchType": 1,
     "hash": "0906d554d9f8d5b1b624d3574997df852a555f99461e6108f5325a886ddea3a0"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Entire Project Gutenberg Works of Mark Twain",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3200",
-    "matchType": 1,
     "hash": "1fb536c8776233fc2d5804d758c93d9654514c090924ae22ca877e6a917058d8"
   }
 ]

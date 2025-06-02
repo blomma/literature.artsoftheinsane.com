@@ -7,7 +7,6 @@
     "title": "From the Earth to the Moon; and, Round the Moon",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "83",
-    "matchType": 1,
     "hash": "720fe0e7776d56ea3c4a0e5f6a088b3615efb5b63da66e09679ce437c341da13"
   },
   {
@@ -18,7 +17,6 @@
     "title": "From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes: and a Trip Round It",
     "author": "Verne, Jules, 1828-1905; Hildibrand, Henri Théophile, 1824-1897 [Engraver]; Bayard, Émile Antoine, 1837-1891 [Illustrator]; Neuville, Alphonse Marie de, 1835-1885 [Illustrator]",
     "gutenbergReference": "44278",
-    "matchType": 1,
     "hash": "9c952508156a637df5a16f1ee0378f5f917633997e779dd3dfcd12af684eb749"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Moon-Voyage",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "12901",
-    "matchType": 2,
     "hash": "6798052f6ed76f8b16d26eb7f133d69614c51f024b0176bdae0b20a8a07fd43d"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Late Tenant",
     "author": "Tracy, Louis, 1863-1928",
     "gutenbergReference": "35691",
-    "matchType": 1,
     "hash": "462ddf1ddf286c4fbba1a43986f3bd8b55b77c28343749c478ea4c1ee62c75c0"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Little Grey House",
     "author": "Taggart, Marion Ames, 1866-1945",
     "gutenbergReference": "48363",
-    "matchType": 1,
     "hash": "8830f733185dc4fcc35be28abf4e43e8d6d56fa324f380da4e82405322471758"
   },
   {
@@ -62,7 +57,6 @@
     "title": "General Gatacre\r\nThe Story of the Life and Services of Sir William Forbes Gatacre, K.C.B., D.S.O., 1843-1906",
     "author": "Gatacre, Beatrix Wickens Davey, Lady",
     "gutenbergReference": "41788",
-    "matchType": 2,
     "hash": "05409a49d29a468e9d2a4ac278d053093d6d3c2a06fe552535d646978da8fc88"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Red as a Rose is She: A Novel",
     "author": "Broughton, Rhoda, 1840-1920",
     "gutenbergReference": "45178",
-    "matchType": 1,
     "hash": "db02481832d3c96720f63e13bf96c91c72e309c9c1ac5a42d6ef64c7655bea91"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Barrington. Volume 1 (of 2)",
     "author": "Lever, Charles James, 1806-1872; Browne, Hablot Knight, 1815-1882 [Illustrator]",
     "gutenbergReference": "34882",
-    "matchType": 1,
     "hash": "631e750d6e2a958f2c9f951f0c4d823e233edb1b0bf241a60ef5ad7343a023fb"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The British Expedition to the Crimea",
     "author": "Russell, William Howard, Sir, 1820-1907",
     "gutenbergReference": "46242",
-    "matchType": 1,
     "hash": "04ab15db0a36812d7ecfc915c434647bbd4bd9175d41e5e47da28e1ed5d32972"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "ad2b1943d276052d6a0451bccdf7532f4d64c0fc6e7dc5dd8360528f846f92a7"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44006",
-    "matchType": 2,
     "hash": "2bf9430557a0453817a717bd907543bd5f33e18cd9d2be08a1b7c9a0b961ad25"
   },
   {
@@ -40,7 +37,6 @@
     "title": "New York Times Current History; The European War, Vol 2, No. 3, June, 1915\nApril-September, 1915",
     "author": "Various",
     "gutenbergReference": "15480",
-    "matchType": 2,
     "hash": "34a7b59ce5a8f1c5c64f42e953ded84e2b28c3284102e5d12b24f1b712cd845c"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "3fb9e51eeeca8a01147f5c35c5c3eb93ea959108b1705a3e53c036586a2ab9f6"
   }
 ]

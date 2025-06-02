@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "d1cbb004935f2a2bbb6859d4608daa96b743b86165d060852ac4fb3fc863cef4"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "29f5304c07f25c0d42ac3f42d092a8fdc38308030cfd8b9c6ac5a0baaa352fd7"
   },
   {
@@ -27,10 +25,9 @@
     "quoteTime": "4.18 p.m.",
     "quoteLast": " the third enemy ship was seen to be on fire. The visibility to the north-eastward had become considerably reduced, and the outline of the ships very indistinct.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "3b8a01a89111bb1e69e64334f212f92408705b33452e60d115f989caf1396387"
+    "hash": "7eb3060a5a8530af2409ddbed9a68ee3ab418693ce332fea3209c06b61119caa"
   },
   {
     "time": "16:18",
@@ -40,7 +37,6 @@
     "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
-    "matchType": 2,
     "hash": "dbc791727760e4bc6b0ae646360500b366697430321adb2de0370eb49fbe692e"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Lippincott's Magazine of Popular Literature and Science, Vol. 26, August, 1880",
     "author": "Various",
     "gutenbergReference": "24851",
-    "matchType": 2,
     "hash": "709c1ba1ae6daaa3413c77d04f6e0d490033ba40f77535a34f94cbf8d26193d7"
   },
   {
@@ -62,7 +57,6 @@
     "title": "History of the Union Jack and Flags of the Empire",
     "author": "Cumberland, Barlow, 1846-1913",
     "gutenbergReference": "45498",
-    "matchType": 2,
     "hash": "4fff1a817a526d8443cdb45c006abb8c7c1fa96a0b1b297b69ebf544ca7561c7"
   }
 ]

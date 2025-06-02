@@ -7,7 +7,6 @@
     "title": "Great Men and Famous Women. Vol. 4\r\nA series of pen and pencil sketches of the lives of more than 200 of the most prominent personages in History",
     "author": "Horne, Charles F. (Charles Francis), 1870-1942 [Editor]",
     "gutenbergReference": "26424",
-    "matchType": 1,
     "hash": "6124484e63b453d30d72aba3fd617989d3f99bd044e53b43f4981610f0f4340f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55331",
-    "matchType": 2,
     "hash": "a7251f8d23ae99125d3d08b09c58a380e054d2f97cbde10ffb6dfe101fa06d20"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Lincoln's Birthday",
     "author": "Schauffler, Robert Haven, 1879-1964 [Editor]",
     "gutenbergReference": "21267",
-    "matchType": 1,
     "hash": "ba68375d4521c3ba3bb68e08270bfaff01676523cf606e09f749c5f5a188b414"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "7c49cb6cee4750bc731b3285ab728a8d47fc759405cc5cecf033dde44a2c6f0a"
   },
   {
@@ -51,7 +47,6 @@
     "title": "A Short Life of Abraham Lincoln\nCondensed from Nicolay & Hay's Abraham Lincoln: A History",
     "author": "Nicolay, John G. (John George), 1832-1901",
     "gutenbergReference": "16332",
-    "matchType": 1,
     "hash": "7b4c341a8c59133fc128be01635bcef8ed12e5c6f4100fd0002db36d045849c8"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Sketch of the life of Abraham Lincoln",
     "author": "Arnold, Isaac N., 1815-1884",
     "gutenbergReference": "37818",
-    "matchType": 1,
     "hash": "0a50f1bafda23bce574257e5014ce736710ee74353e7f615662d4c3b9611d593"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Pictorial history of the war for the Union, volume 2 (of 2)",
     "author": "Stephens, Ann S. (Ann Sophia), 1810-1886",
     "gutenbergReference": "74187",
-    "matchType": 1,
     "hash": "86e71ae4dc0bcc1e651d544133e9d2518a66d2f38d678e7b6009e147b64234da"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Pictorial history of the war for the Union, volume 2 (of 2)",
     "author": "Stephens, Ann S. (Ann Sophia), 1810-1886",
     "gutenbergReference": "74187",
-    "matchType": 1,
     "hash": "1849aebcb24f927652a78b89b6efb651143b607a55eeba4f2e26579c6d54b145"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Backwoods Boy; or, The Boyhood and Manhood of Abraham Lincoln",
     "author": "Alger, Horatio, Jr., 1832-1899",
     "gutenbergReference": "52073",
-    "matchType": 1,
     "hash": "66020de5d5f622801d7330d6beab9ba97998a0ccbffd28a070d5e659d2df07bc"
   },
   {
@@ -106,7 +97,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "4ff908fff32c3c903b1326e5d3c831b87b24bc94c7e56b8ec9500cbfe1f7a3a6"
   },
   {
@@ -117,7 +107,6 @@
     "title": "Lincoln; An Account of his Personal Life, Especially of its Springs of Action as Revealed and Deepened by the Ordeal of War",
     "author": "Stephenson, Nathaniel W. (Nathaniel Wright), 1867-1935",
     "gutenbergReference": "1713",
-    "matchType": 1,
     "hash": "82babe901ad0100ef6c2901fd070cca8908c0c2ce9388115d7178c290cd3ef08"
   },
   {
@@ -128,7 +117,6 @@
     "title": "Tom Strong, Lincoln's Scout\r\nA Story of the United States in the Times That Tried Men's Souls",
     "author": "Mason, Alfred Bishop, 1851-1933",
     "gutenbergReference": "44132",
-    "matchType": 1,
     "hash": "4b71ea19ad9a4528286e93e12a7c14cea5b2dbbac8d9189745ac70b37b70977b"
   },
   {
@@ -139,7 +127,6 @@
     "title": "Abraham Lincoln",
     "author": "Curtis, William Eleroy, 1850-1911",
     "gutenbergReference": "42526",
-    "matchType": 1,
     "hash": "83633ae1fb96827be19d02f7269442fefa35c518247692d0b5b2254bc9c34438"
   },
   {
@@ -150,7 +137,6 @@
     "title": "Complete Life of William McKinley and Story of His Assassination\nAn Authentic and Official Memorial Edition, Containing Every Incident in the Career of the Immortal Statesman, Soldier, Orator and Patriot",
     "author": "Everett, Marshall, 1863-1939",
     "gutenbergReference": "58740",
-    "matchType": 1,
     "hash": "b1965a97e8c9527af4b71857869699dd98e82e41ba24cb13f2ebee837ac09808"
   },
   {
@@ -161,7 +147,6 @@
     "title": "The Bristol Royal Mail: Post, Telegraph, and Telephone",
     "author": "Tombs, Robert Charles, 1842-1923",
     "gutenbergReference": "34197",
-    "matchType": 2,
     "hash": "316265a26566570765c996459ac5d39442257e48acb97ab68b0cbe1505e2bde4"
   }
 ]

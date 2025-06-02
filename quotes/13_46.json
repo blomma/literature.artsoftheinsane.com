@@ -7,7 +7,6 @@
     "title": "Carter, and Other People",
     "author": "Marquis, Don, 1878-1937",
     "gutenbergReference": "51913",
-    "matchType": 1,
     "hash": "eafeb4724a90f366914d228fe8e1edc50001e8352edef140313039da07d7ce11"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Rockets, Missiles, and Spacecraft of the National Air and Space Museum, Smithsonian Institution",
     "author": "Murphy, Lynne C.; Collins, Michael, 1930- [Author of introduction, etc.]",
     "gutenbergReference": "57421",
-    "matchType": 2,
     "hash": "5f43b6fd0337913bfe839aa340a7b6c70800d958d8917a021c539e68276af783"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "ff10b106fee7fd8c8851ca8611d643cf9fc5e9254f8f53c8e51c9223c130c846"
   }
 ]

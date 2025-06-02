@@ -7,7 +7,6 @@
     "title": "Eddie",
     "author": "Riley, Frank, 1915-1996; Orban, Paul, 1896-1974 [Illustrator]",
     "gutenbergReference": "60443",
-    "matchType": 2,
     "hash": "a881d8b1d9b4645c3639d2d7b0c9c88538205ed71265f468e3795423291637ed"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Barium: A Cause of the Loco-Weed Disease",
     "author": "Crawford, Albert Cornelius",
     "gutenbergReference": "40256",
-    "matchType": 2,
     "hash": "fc0a75524ff3c25f3891c0f943e6f3db4a5e6b4af9ef1c8e49e10cae438cc750"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Boy Patrol on Guard",
     "author": "Ellis, Edward Sylvester, 1840-1916; Prittie, Edwin John, 1879-1963 [Illustrator]",
     "gutenbergReference": "43079",
-    "matchType": 1,
     "hash": "e65938f0326dc8d6d98b4809cbc01fee01d273b3c1faf07800ca4098f52aebcd"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Memoirs of a Midget",
     "author": "De la Mare, Walter, 1873-1956 [Adapter]",
     "gutenbergReference": "39122",
-    "matchType": 2,
     "hash": "99860942fabafa395b8ef771a438671ea39af46fd98bdc7ff6af6e5667a3e0b5"
   },
   {
@@ -18,7 +17,6 @@
     "title": "In the Permanent Way",
     "author": "Steel, Flora Annie Webster, 1847-1929",
     "gutenbergReference": "39832",
-    "matchType": 1,
     "hash": "af0a833ae867063f07a9621bf24869e7f75552b41e3838c9ffb19a3da7dad966"
   },
   {
@@ -29,7 +27,6 @@
     "title": "James Russell Lowell and His Friends",
     "author": "Hale, Edward Everett, 1822-1909",
     "gutenbergReference": "48311",
-    "matchType": 1,
     "hash": "743de39fe7a83fca5d3c194562863cc04c11dd1243ae5d5ba440c7459fa7eb00"
   }
 ]

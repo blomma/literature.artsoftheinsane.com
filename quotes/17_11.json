@@ -7,7 +7,6 @@
     "title": "Ambrotox and Limping Dick",
     "author": "Fleming, Oliver",
     "gutenbergReference": "20119",
-    "matchType": 1,
     "hash": "54bd10be5529f7a337ad6a40c8e37ffa4bc0f0b35e627ca3832490d3a6dcd9b1"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Follow the Ball",
     "author": "Barbour, Ralph Henry, 1870-1944",
     "gutenbergReference": "60540",
-    "matchType": 1,
     "hash": "ab1ed730b39f8e803381208e21e9dc286a30b0136e9613004dff56d6636ac4c7"
   },
   {
@@ -29,7 +27,6 @@
     "title": "A vagabond in the Caucasus",
     "author": "Graham, Stephen, 1884-1975",
     "gutenbergReference": "58932",
-    "matchType": 2,
     "hash": "b0383105fc5508473fa28e61bc79e9aec8f76a958f071f56184fce455ade743f"
   },
   {
@@ -40,7 +37,6 @@
     "title": "History of merchant shipping and ancient commerce, Volume 4 (of 4)",
     "author": "Lindsay, W. S. (William Schaw), 1816-1877",
     "gutenbergReference": "74393",
-    "matchType": 2,
     "hash": "1b40b440f4088c41ef6cab55c51c96a50dfbb6c8068f332f81fdcd8defa9ad3b"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Fombombo",
     "author": "Stribling, T. S. (Thomas Sigismund), 1881-1965; Shepherd, J. Clinton (Joseph Clinton), 1888-1975 [Illustrator]",
     "gutenbergReference": "64700",
-    "matchType": 1,
     "hash": "da75bae4c582ad716856d6d6cebacb3dad574c8cd91ff35a2e110c3ff9a36c46"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
-    "matchType": 2,
     "hash": "8fb95544f2b3e44a37bffeb0c22c2aa7c910f06eea8c3d12e334a252e026b6dd"
   }
 ]

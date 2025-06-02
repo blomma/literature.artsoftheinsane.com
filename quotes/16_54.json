@@ -7,7 +7,6 @@
     "title": "A Catechism of the Steam Engine",
     "author": "Bourne, John, C. E.",
     "gutenbergReference": "10998",
-    "matchType": 1,
     "hash": "49c06a1b8cde741c6810340b92a033fb72b03d15591d6f0659d148b69cd15889"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Memoirs of a Surrey Labourer: A Record of the Last Years of Frederick Bettesworth",
     "author": "Sturt, George, 1863-1927",
     "gutenbergReference": "42092",
-    "matchType": 1,
     "hash": "bc16e4214471309f303c01e9ee2dbba2ae38be852411afdfaf743034702e7da7"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The viaduct murder",
     "author": "Knox, Ronald Arbuthnott, 1888-1957",
     "gutenbergReference": "72585",
-    "matchType": 1,
     "hash": "30212a468735a91c625ab8a2ac63cfa19c22a513b65080368d8c7ea8e6a0e4b9"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The viaduct murder",
     "author": "Knox, Ronald Arbuthnott, 1888-1957",
     "gutenbergReference": "72585",
-    "matchType": 1,
     "hash": "52d6330de8b51f9bf7208537fc8c5348d7c0a1175f186ba4f25a9ae319721f54"
   }
 ]

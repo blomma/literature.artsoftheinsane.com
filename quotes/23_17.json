@@ -1,13 +1,22 @@
 [
   {
     "time": "23:17",
+    "quoteFirst": "Through London that day a taxi-cab moved at a rate which was considerably in excess of the speed limit. Clear of the crowded West End, the road was unhampered by traffic to any great extent, but it was ",
+    "quoteTime": "seventeen minutes past eleven",
+    "quoteLast": " when the cab pulled up before Penge Station.",
+    "title": "The river of stars",
+    "author": "Wallace, Edgar, 1875-1932",
+    "gutenbergReference": "75729",
+    "hash": "f3e5e9ea29fe032e20527444ebd46f859740790425f32a8bb0f81d6bd664cae1"
+  },
+  {
+    "time": "23:17",
     "quoteFirst": ", which Caesar may have calculated for the 1st, and there was another new moon on the 1st of March’. I have myself calculated the date of the new moon in question, first by reckoning back the number of lunations from the new moon of January 6, 1856, which occurred at ",
     "quoteTime": "11.17 p.m.",
     "quoteLast": ", taking the length of a lunation to be 29 days, 12 hours, 44 minutes, 2·84 seconds, and allowing 2 hours for the secular acceleration of the moon’s mean motion; and, secondly, by the method explained in Augustus De Morgan’s _Book of Almanacs_, 1851, pp. xiv-xv.",
     "title": "Ancient Britain and the Invasions of Julius Caesar",
     "author": "Holmes, T. Rice (Thomas Rice), 1855-1933",
     "gutenbergReference": "57336",
-    "matchType": 2,
     "hash": "0ac4978fee65acd6249409451077fe92e08a2c59e9c6b558c797d50359f8111b"
   },
   {
@@ -18,7 +27,6 @@
     "title": "Harry Harding—Messenger \"45\"",
     "author": "Raymond, Alfred",
     "gutenbergReference": "52578",
-    "matchType": 1,
     "hash": "a38f76ddb6e33b5358649f05bfadc2b9ca6087ed2cb30fc4e4ed35bd28806b4c"
   },
   {
@@ -29,7 +37,6 @@
     "title": "Invention and Discovery: Curious Facts and Characteristic Sketches",
     "author": "Anonymous",
     "gutenbergReference": "46644",
-    "matchType": 1,
     "hash": "269baf6e559f9debddc2eb6ccf776545694def8c3c83db963a376bb84b3dc85b"
   },
   {
@@ -40,7 +47,6 @@
     "title": "In the Permanent Way",
     "author": "Steel, Flora Annie Webster, 1847-1929",
     "gutenbergReference": "39832",
-    "matchType": 1,
     "hash": "7d99ce4a98dd9a0f287ae138284f4c846cdef9cc470ac5a21a6c787df2336949"
   },
   {
@@ -51,7 +57,6 @@
     "title": "Knock three-one-two",
     "author": "Brown, Fredric, 1906-1972",
     "gutenbergReference": "70944",
-    "matchType": 2,
     "hash": "eff68b757d9d6cf0e56ddcd3af8b3f19b157ebd71af5e5a306ce9fb592b395ff"
   }
 ]

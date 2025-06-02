@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, July 1885, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55444",
-    "matchType": 2,
     "hash": "25cf8731c8837102fcd23794f667cd1ef878d0eec39f5b3f2e6b79e8514695d4"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Around the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "103",
-    "matchType": 1,
     "hash": "15593ad98f7247e2a634732bf4a7965cd5043e05374127e64b16971005e2e44d"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Apes and Angels",
     "author": "Connell, Richard Edward, 1893-1949",
     "gutenbergReference": "65201",
-    "matchType": 1,
     "hash": "4c89394f3df8217e0019330c85226d35d00f9113bb0ee7398dcc19662b5e3330"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Round the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905; Frith, Henry, 1840- [Translator]",
     "gutenbergReference": "32972",
-    "matchType": 1,
     "hash": "bdf6e4ccded144ef09b8602b55ebcb6a597a153a4c460fab5a6f390982c5b538"
   }
 ]

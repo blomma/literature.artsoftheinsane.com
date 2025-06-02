@@ -7,7 +7,6 @@
     "title": "The weight of the name",
     "author": "Bourget, Paul, 1852-1935; Ives, George Burnham, 1856-1930 [Translator]",
     "gutenbergReference": "68859",
-    "matchType": 1,
     "hash": "6dbb5b397c503a9adcdc661754627019ac9344245bc9ad20ae7b71abcf0a7fba"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "8d747c10489add7effa66e4b4c839e12de4d86e49ae1363d2c2c408dcfb96be5"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Silver Poppy",
     "author": "Stringer, Arthur, 1874-1950",
     "gutenbergReference": "42184",
-    "matchType": 1,
     "hash": "761f873448b01f44b9eed35a48cf1cd2f86cec269e6261e0a209862dea8cbc93"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Our Navy at war",
     "author": "Daniels, Josephus, 1862-1948",
     "gutenbergReference": "63596",
-    "matchType": 2,
     "hash": "6a9a4f6d664f85973d75432418c5499bbcff9a365d84c609e9b65490142c7172"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "e6457f48f828d4d8439b4146c06dbba72045c681a3769ea6d85cad7e2d3acb3e"
   }
 ]

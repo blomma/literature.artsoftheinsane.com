@@ -7,7 +7,6 @@
     "title": "The Youthful Wanderer\r\nAn Account of a Tour through England, France, Belgium, Holland, Germany and the Rhine, Switzerland, Italy, and Egypt, Adapted to the Wants of Young Americans Taking Their First Glimpses at the Old World",
     "author": "Heffner, George H.",
     "gutenbergReference": "10638",
-    "matchType": 2,
     "hash": "3a73914bee313fed21fca54c8fae3d1d97e78284e154e133074df7edce9838f8"
   },
   {
@@ -16,10 +15,9 @@
     "quoteTime": "4.21 p. m.",
     "quoteLast": " on December 6, 1917, in latitude 49·23 north, longitude 6·13 west, clear weather, smooth sea, speed 13 knots zigzagging, the U. S. S.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "9b5411b2013ef3d5a0658aa08b15a48a89c227b031324b31df6601ae87ce9d9d"
+    "hash": "eaff2d73653fda2fe677803d592c8aa0a75b8719b41de79774d8253127b1f2a8"
   },
   {
     "time": "16:21",
@@ -29,7 +27,6 @@
     "title": "Our Navy at war",
     "author": "Daniels, Josephus, 1862-1948",
     "gutenbergReference": "63596",
-    "matchType": 2,
     "hash": "c79b3840ed93a5a59f9ceeae838ef72244b41feda8d21bc951ff44b457967423"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Our Navy at war",
     "author": "Daniels, Josephus, 1862-1948",
     "gutenbergReference": "63596",
-    "matchType": 2,
     "hash": "dfd593bfe05cd652e9ac73d5cb39887702299caa5340ba31c1d2a16c2f464cd9"
   }
 ]

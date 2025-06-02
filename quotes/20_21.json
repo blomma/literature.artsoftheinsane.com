@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 04, June 1884, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55194",
-    "matchType": 2,
     "hash": "fd2fa6bb9d4c68f6cac3a22dcc32c443b8716d4f2e6c73920c3cb760aef7fb9b"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Black Bag",
     "author": "Vance, Louis Joseph, 1879-1933; Fogarty, Thomas, 1873-1938 [Illustrator]",
     "gutenbergReference": "9779",
-    "matchType": 2,
     "hash": "158bba43419f2ed4d3378fc9b9a27aa7beb28e1dc47224d6554c95522164185f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The fog",
     "author": "Pelley, William Dudley, 1890-1965",
     "gutenbergReference": "70037",
-    "matchType": 1,
     "hash": "3c6a4639685ebd4aa2a07d2c6ecb461b4cc5cf90ef6fe4f0cafb83fbe96e75e8"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "32857b3c2db0d239f4d1b45f0787537cc32233b0a95ac551242c9025a7cfd7aa"
   }
 ]

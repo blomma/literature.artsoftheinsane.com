@@ -7,7 +7,6 @@
     "title": "Around the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "103",
-    "matchType": 1,
     "hash": "1fbcd887a16aaa5b8a86488544c8df185353b006c527305a47132bab0237a026"
   },
   {
@@ -18,7 +17,6 @@
     "title": "A Great Man: A Frolic",
     "author": "Bennett, Arnold, 1867-1931",
     "gutenbergReference": "29860",
-    "matchType": 1,
     "hash": "da45128bf8283f56ded133000a19a863ef268b75dcc143139d7f9b3ce93e03fd"
   },
   {
@@ -29,7 +27,6 @@
     "title": "A Great Man: A Frolic",
     "author": "Bennett, Arnold, 1867-1931",
     "gutenbergReference": "29860",
-    "matchType": 1,
     "hash": "a722f2d83d69a06fd18fa8d5630c8de43d2a72c82b5faceda015175be7b4e96d"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "bb8319743cf708725143c69f43c5198f9ef5b4bb366ee882a7f551558f755d54"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Around the World in Eighty Days. Junior Deluxe Edition",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "2154",
-    "matchType": 1,
     "hash": "8a548e2a0d737b15b8f088f18d753bf17cd2ee93b609ad605b449624a5c9a26f"
   }
 ]

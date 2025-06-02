@@ -7,7 +7,6 @@
     "title": "The Toxicity of Caffein: An experimental study on different species of animals",
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
-    "matchType": 2,
     "hash": "9443cbb7638600241f219f66fd8d8a797643b9ac7ed02270b28cbf96eb5e5a0d"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Garden Party, and Other Stories",
     "author": "Mansfield, Katherine, 1888-1923",
     "gutenbergReference": "1429",
-    "matchType": 1,
     "hash": "14e2a0e964850e75872c1e20035145982b3e9b11dde829ac33a330bb68c51558"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Story of the Rome, Watertown, and Ogdensburg Railroad",
     "author": "Hungerford, Edward, 1875-1948",
     "gutenbergReference": "39021",
-    "matchType": 0,
     "hash": "0fde8d66bb4a1504d5f061e7e8ae9e078d03e327c5fd2fbe1c287c3f6ef2d141"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Flying the Atlantic in Sixteen Hours\nWith a Discussion of Aircraft in Commerce and Transportation",
     "author": "Brown, Arthur Whitten, Sir, 1886-1948; Bott, Alan, 1893-1952 [Contributor]",
     "gutenbergReference": "47129",
-    "matchType": 2,
     "hash": "9e2fd075e22f64c0fcd11af557eebc67a34e466efd3b32448e2491bb3eb86dd3"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Cleek of Scotland Yard: Detective Stories",
     "author": "Hanshew, Thomas W., 1857-1914",
     "gutenbergReference": "32198",
-    "matchType": 2,
     "hash": "e59e68a0c2cdd210686132482aa8b8becc64022757e6968a50d5e41a47dcb655"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The evolution of the steam locomotive (1803 to 1898)",
     "author": "Nokes, George Augustus, 1867-1948",
     "gutenbergReference": "73518",
-    "matchType": 2,
     "hash": "94182515b76cb2ff1c8cafa58e03b91233dede1a544e1fc51dc5997fcda4691d"
   }
 ]

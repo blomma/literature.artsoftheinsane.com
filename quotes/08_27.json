@@ -7,7 +7,6 @@
     "title": "Three Little Lines\r\nSilverton Railroad; Silverton, Gladstone and Northerly; Silverton Northern",
     "author": "Crum, Josie Moore",
     "gutenbergReference": "62664",
-    "matchType": 2,
     "hash": "5565591bd19e68432188dcea37c7a0e226457b9131d0bed377dcc043b988ff3c"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Jack and the Check Book",
     "author": "Bangs, John Kendrick, 1862-1922; Levering, Albert, 1869-1929 [Illustrator]",
     "gutenbergReference": "34423",
-    "matchType": 1,
     "hash": "016ca70406d786624c44b823c808cd4e526f2934e5510e917952f15c59cb0020"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Education of Eric Lane",
     "author": "McKenna, Stephen, 1888-1967",
     "gutenbergReference": "29041",
-    "matchType": 1,
     "hash": "51b2cbd436be752f0642601258be7b53e910d1285d68b4eceeafe2baab6dbd16"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Boating",
     "author": "Woodgate, Walter Bradford, 1842-1920; Dadd, Frank, 1851-1929 [Illustrator]",
     "gutenbergReference": "37462",
-    "matchType": 2,
     "hash": "0e94121ca7ccdc9af6f02f34916b8994425c2b8c366345914cb607b256ff976b"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55134",
-    "matchType": 2,
     "hash": "58d50126067532a88146c10e5cbb2fb3c84bf66273ad6b4ad39a9935473c20d2"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Journals of Australian Explorations",
     "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
     "gutenbergReference": "10461",
-    "matchType": 2,
     "hash": "44d44b0cee90aea11ff56c92f2e701e5c23b26c4bff2a5496d06cfe5d3681088"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
-    "matchType": 2,
     "hash": "c939e68322ea1b5e31c81e23ffc882eeb4ebdc9ebcfa471781738d646dfc08d8"
   },
   {
@@ -84,7 +77,6 @@
     "title": "In a Yellow Wood",
     "author": "Vidal, Gore, 1925-2012",
     "gutenbergReference": "66940",
-    "matchType": 1,
     "hash": "19277c9e7ba5ea19744cc04a26f9d9fcf032121287d3e259a479a5d0546341b8"
   }
 ]

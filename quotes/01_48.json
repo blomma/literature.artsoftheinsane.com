@@ -7,7 +7,6 @@
     "title": "The Confessions of Arsène Lupin",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "28093",
-    "matchType": 1,
     "hash": "4fa212d0fe304e3b3d348fdce2b50b5f21a7aea3d05fdc890b2d6433a7fbae84"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The King's Post\r\nBeing a volume of historical facts relating to the posts, mail coaches, coach roads, and railway mail services of and connected with the ancient city of Bristol from 1580 to the present time",
     "author": "Tombs, Robert Charles, 1842-1923",
     "gutenbergReference": "28533",
-    "matchType": 2,
     "hash": "6cb845f2b9ff8d9bfedf08e71aa2e404027b858016993a1c48dc1be6adae6477"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Life of Frederick Courtenay Selous, D.S.O., Capt. 25th Royal Fusiliers",
     "author": "Millais, John Guille, 1865-1931",
     "gutenbergReference": "39581",
-    "matchType": 0,
     "hash": "f2ad3c35df410dac4c827ff1cc7b465add11f9aca8c9d9975fbdd0955d8d2894"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Book Review Digest, v. 16, 1920",
     "author": "Various; Reely, Mary Katharine, 1881-1959 [Editor]; Rich, Pauline H. [Editor]",
     "gutenbergReference": "73004",
-    "matchType": 2,
     "hash": "58259f8d0e594ac2c4d18b32cd63e3095e6ed40407b99cfb3a747c0a9f0a972b"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 05, February 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55053",
-    "matchType": 2,
     "hash": "1362982dded06e9a3de58aa4ddd18c70bb4c6a7baaa62e3e98098ad05e5df8a0"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 04, June 1884, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55194",
-    "matchType": 2,
     "hash": "69596c04c9d88f951e0002e9aad32cbeaab122b86a6262f8caf55010bedfb60d"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Mariner Mission to Venus",
     "author": "Jet Propulsion Laboratory (U.S.)",
     "gutenbergReference": "54585",
-    "matchType": 2,
     "hash": "91f2dfa746f076cd5d3be891ac9923c1bb11fc9e7a06437387311ec36e4f87c3"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Loss of the Steamship \"Titanic\"",
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
-    "matchType": 2,
     "hash": "d82f6be02940703f3b9683f99f1d286a9285298ef610e3a8e10b59bfe32d8143"
   }
 ]

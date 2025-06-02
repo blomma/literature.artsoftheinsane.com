@@ -1,124 +1,33 @@
 [
   {
     "time": "06:20",
-    "quoteFirst": "Trains leave GRAND CENTRAL DEPOT, New York, for Boston, at =8.05 A.M.=, =1= and =10 P.M.=; arriving in Boston at =6= and =8.05 P.M.=, and =",
-    "quoteTime": "6.20 A.M.",
-    "quoteLast": "=",
-    "title": "The Heart of the White Mountains, Their Legend and Scenery\nTourist's Edition",
-    "author": "Drake, Samuel Adams, 1833-1905",
-    "gutenbergReference": "42447",
-    "matchType": 2,
-    "hash": "a6301897e004e82746e6cbb6c7bf1367b0802909e9b2ade0cc09a7140ec164a1"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "At the same time an attack was delivered on the trenches held by the 8th Manchesters, but this unit had just been reinforced by three platoons of the 7th Lancashire Fusiliers, and the attack was easily repulsed. Some Turks succeeded in getting part of the trench held by the 5th Manchesters, but were driven out again by the combined action of the 5th Manchesters and the 5th Lancashire Fusiliers. At ",
-    "quoteTime": "6.20 a.m.",
-    "quoteLast": " the 88th Brigade, on the left, were obliged to fall back slightly, and as this exposed the left flank of the 5th L.F., they were forced to fall back below the bifurcation of the nullahs.",
-    "title": "The 42nd (East Lancashire) Division 1914-1918",
-    "author": "Gibbon, Frederick P.",
-    "gutenbergReference": "73544",
-    "matchType": 2,
-    "hash": "d23f39dea1aeff537aecd76e4b11d915430e02442494eccb3a5e916c176c724d"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "At 4.30 a.m. on September 28th Captain Patteson, the Brigade Major, arrived with fresh orders. The battalion were now to capture a trench just west of Fontaine and round the southern edge of that place to the east end of Cantaing, the attack to commence at ",
-    "quoteTime": "6.20 a.m.",
-    "quoteLast": "",
-    "title": "The History of the 2/6th (Rifle) Battalion, \"the King's\" (Liverpool Regiment) 1914-1919",
-    "author": "Wurtzburg, C. E. (Charles Edward), 1891-1952",
-    "gutenbergReference": "49875",
-    "matchType": 2,
-    "hash": "35e2d008577f3ae6e6f464fab6c6438deade032f162754320e0be713c09595f0"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "At five minutes before six o'clock, says Captain Hull, when within half pistol shot, we commenced a heavy fire from all our guns, double shotted with round and grape.\" On board the _Guerrière_, Mr. Grant, who commanded the forecastle, was carried below, the master was shot through the knee; and I, says Captain Dacres, was shot in the back. At ",
+    "quoteFirst": "“Come, Mark, it is ",
     "quoteTime": "twenty minutes past six",
-    "quoteLast": " the fore and mainmasts of the _Guerrière_ went over the side, leaving her an unmanageable wreck. The _Constitution_ ceased firing and shot a-head, her cabin having taken fire from the _Guerrière's_ guns. The _Guerrière_ would have renewed the action, but the wreck of the masts had no sooner been cleared than the spritsail yard went, and the _Constitution_ having no new braces, wore round within pistol shot again to rake her opponent.",
-    "title": "The Rise of Canada, from Barbarism to Wealth and Civilisation. Volume 1",
-    "author": "Roger, Charles, 1819-",
-    "gutenbergReference": "24550",
-    "matchType": 1,
-    "hash": "e9e1e5c07516a7d8bbf3d9831a1909b19d808295af01d4a5ab96c03fccc812a7"
+    "quoteLast": ". Will you go and dress?”",
+    "title": "The Cornhill Magazine, Vol. I, January 1860",
+    "author": "Various",
+    "gutenbergReference": "66075",
+    "hash": "036fe3c828179effc1414e795252b529e45ac34641521a034af5ae58daced223"
   },
   {
     "time": "06:20",
-    "quoteFirst": "About ",
-    "quoteTime": "twenty minutes past six",
-    "quoteLast": " on the same evening, Bellamy, his clothes thick with dust, his face dark with anger, jumped lightly from a sixty horse-power car and rang the bell of the lift at number 15, Dover Street. Arrived on the first floor, he was confronted almost immediately by the sad-faced man-servant of Mademoiselle Idiale.",
-    "title": "Havoc",
-    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
-    "gutenbergReference": "2287",
-    "matchType": 1,
-    "hash": "7a3123773b5c0bca1193c314db20ad7185f25db79ad6c15bbb832a91f66c622f"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "Theobalds in Hertfordshire, at ",
-    "quoteTime": "twenty minutes past six",
-    "quoteLast": ", having stopped at Edmonton four or five minutes. He refreshed, and remained here ten minutes, when he started on his return, and after stopping again at Edmonton, arrived at the starting post at fifty-two minutes past seven.",
-    "title": "Pedestrianism; or, An Account of the Performances of Celebrated Pedestrians During the Last and Present Century.\r\nWith a full narrative of Captain Barclay's public and private matches; and an essay on training.",
-    "author": "Thom, Walter, 1770-1824",
-    "gutenbergReference": "55644",
-    "matchType": 1,
-    "hash": "b7d7f1294e80249a8577a65f1bc06c0f0d6a9abd0fca224a5f406a42505e73c2"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "The morning of 2nd August arrived, and we started at ",
-    "quoteTime": "6.20 A.M.",
-    "quoteLast": ", and marched fast over a beautiful country of dells, woods, and open park-like lands, until we ascended the hill that rose towards the high plateau at Fatiko.",
-    "title": "Ismailia",
-    "author": "Baker, Samuel White, Sir, 1821-1893",
-    "gutenbergReference": "3607",
-    "matchType": 2,
-    "hash": "296830fc98cfb8d1b093ec6943236a1a353a7a2de48aeba29e0d3413597e8c7a"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "\"_",
-    "quoteTime": "Twenty minutes past six",
-    "quoteLast": "._",
-    "title": "Bentley's Miscellany, Volume II",
-    "author": "Various; Dickens, Charles, 1812-1870 [Editor]; Bentley, Richard, 1794-1871 [Publisher]",
-    "gutenbergReference": "46804",
-    "matchType": 1,
-    "hash": "0540a8c8ce7a015c6538ba895e581587544eb4237dcabf6b0d07004e14401886"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "Feb. 19. ",
-    "quoteTime": "6.20a.m.",
-    "quoteLast": " 30.07 65     23  In big tent at El-Muwaylah. Cool land- breeze. Sky quite clear.",
-    "title": "The Land of Midian (Revisited) — Volume 2",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "7113",
-    "matchType": 2,
-    "hash": "a86bb936f5cacc4dd1d6e53beed9658c5fd55897b5d5b7d4c4ae7d143a0f82c6"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "This sand is laid down in the Admiralty charts, under the name of the _Roar_; and extends from Dungeness towards Folkstone, at the distance of from two and a half, to four miles from the land. The leadsman, having found no bottom with 15 fathoms at ten minutes before six, had very culpably quitted the chains when his watch was out, without taking another cast of the lead; and the ship, in going at the rate of two knots and three-quarters, was upon the bank at ",
-    "quoteTime": "twenty minutes after six",
-    "quoteLast": "; so that it appears to be steep on the east side.",
-    "title": "A Voyage to Terra Australis — Volume 1\r\nUndertaken for the purpose of completing the discovery of that vast country, and prosecuted in the years 1801, 1802 and 1803, in His Majesty's ship the Investigator, and subsequently in the armed vessel Porpoise and Cumberland schooner",
-    "author": "Flinders, Matthew, 1774-1814",
-    "gutenbergReference": "12929",
-    "matchType": 1,
-    "hash": "2e571faffdc6bfd60afedd86e22969209e16899f8b8f44f6fa0a1ff3047311ba"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "At ",
+    "quoteFirst": "Aug. 18.--Landed Rouen, ",
     "quoteTime": "6.20 a.m.",
-    "quoteLast": " steered east for one hour through level box and terminalia flats, with good grass and brown loam; came to a fine lagoon eighty yards wide and nearly one mile long; beyond this was a creek with small pools of water; as it appeared to come from the south-east, we steered in that direction, but soon receded from it, as its course changed to south-south-east, and altering our course more to the southward, at noon came again on the creek, much reduced in size; melaleuca scrub and triodia growing close to its banks, and only a few shallow pools of water, nearly dried up, and very little grass; at 12.25 p.m. camped at a",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "matchType": 2,
-    "hash": "305752a69f0aac1b22a638d094612d5794fd22bb9c7857c5665f8c847ed85dd7"
+    "quoteLast": " Proceeded to rest camp at the Racecourse, Rouen.",
+    "title": "In the Firing Line: Stories of the War by Land and Sea",
+    "author": "Adcock, Arthur St. John, 1864-1930",
+    "gutenbergReference": "53151",
+    "hash": "a79676a7e10fd9e471796c4f89d0b9b4b095f1cc1e25ee0c3922e91f0d917226"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "At a quarter past five he made the signal to close in line of battle; set the foresail. At six bore down, and ran under the Ville de Paris' stern, raked her, then hauled up after her; at ",
+    "quoteTime": "twenty minutes past six",
+    "quoteLast": " saw her strike her colours.",
+    "title": "Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II",
+    "author": "Ross, John, Sir, 1777-1856",
+    "gutenbergReference": "27151",
+    "hash": "1b6c065ba2d2d0c35c3a8e1324bcabb4d25b3474f399671eedbfe1301b8da8c7"
   },
   {
     "time": "06:20",
@@ -128,41 +37,47 @@
     "title": "The Knight Of Gwynne, Vol. 1 (of 2)",
     "author": "Lever, Charles James, 1806-1872; Browne, Hablot Knight, 1815-1882 [Illustrator]",
     "gutenbergReference": "35755",
-    "matchType": 1,
     "hash": "17ca31ff3a362f59835c7686f9ea9a4011a7860539a70ac1e99451092ae996c0"
   },
   {
     "time": "06:20",
-    "quoteFirst": "There was the square-towered, ivy-covered church, with its clock-face glistening, and the hands pointing to ",
-    "quoteTime": "twenty minutes past six",
-    "quoteLast": ".  Beyond it, what seemed to be an extensive garden beside the churchyard, and the ivy-covered gables of a house that he immediately concluded was the Vicarage.  Other attractive cottage-like houses were dotted about.  Then he caught sight of the green, with its smaller places.",
-    "title": "The Vast Abyss\nThe Story of Tom Blount, his Uncles and his Cousin Sam",
-    "author": "Fenn, George Manville, 1831-1909; Overend, William Heysham, 1851-1898 [Illustrator]",
-    "gutenbergReference": "30106",
-    "matchType": 1,
-    "hash": "8fcb4dd7ead2bb78eb51d4d04cc2e9648627cc843e9695e7f6f992e3b91ae2a3"
+    "quoteFirst": "\"_",
+    "quoteTime": "Twenty minutes past six",
+    "quoteLast": "._",
+    "title": "Bentley's Miscellany, Volume II",
+    "author": "Various; Dickens, Charles, 1812-1870 [Editor]; Bentley, Richard, 1794-1871 [Publisher]",
+    "gutenbergReference": "46804",
+    "hash": "0540a8c8ce7a015c6538ba895e581587544eb4237dcabf6b0d07004e14401886"
   },
   {
     "time": "06:20",
-    "quoteFirst": "At ",
-    "quoteTime": "twenty minutes past six",
-    "quoteLast": ", Roubaud and Séverine appeared. She had just returned the key to Mother Victoire, as she passed by the lavatory, near the waiting-rooms. And Roubaud, impatient and blunt, his hat on the back of his head, urged her on, after the fashion of a husband with no time to lose, who is being delayed by his wife; while she, with her veil drawn tight over her face, advanced slowly as if broken down with fatigue.",
-    "title": "The Monomaniac (La bête humaine)",
-    "author": "Zola, Émile, 1840-1902; Vizetelly, Edward [Translator]",
-    "gutenbergReference": "57038",
-    "matchType": 1,
-    "hash": "71efd7c829d085f176a3b1453f95af823055a84c2f2c56c47c7a0a6de75df7c0"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "As the river below turned to the east of its general course, at ",
+    "quoteFirst": "At 4.30 a.m. on September 28th Captain Patteson, the Brigade Major, arrived with fresh orders. The battalion were now to capture a trench just west of Fontaine and round the southern edge of that place to the east end of Cantaing, the attack to commence at ",
     "quoteTime": "6.20 a.m.",
     "quoteLast": "",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "matchType": 2,
-    "hash": "da729680e0d9f5d2544206be8711e498a1f9c2d532eac641404b40f97825d754"
+    "title": "The History of the 2/6th (Rifle) Battalion, \"the King's\" (Liverpool Regiment) 1914-1919",
+    "author": "Wurtzburg, C. E. (Charles Edward), 1891-1952",
+    "gutenbergReference": "49875",
+    "hash": "35e2d008577f3ae6e6f464fab6c6438deade032f162754320e0be713c09595f0"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "The following night, that of the 19th-20th, was broken by a sharp burst of artillery and trench-mortar fire which died away in the early morning, and at 6 a.m. all was still save for the occasional rattle of a machine gun. A thick mist covered the ground when at 6.10 a.m., ten minutes before zero hour, the tanks, which had deployed on a line some 1,000 yards from the enemy’s outpost trenches, began to move forward, infantry in section columns advancing slowly behind them. Ten minutes later, at ",
+    "quoteTime": "6.20 a.m.",
+    "quoteLast": ", zero hour, the 1,000 British guns opened fire, the barrage coming down with a terrific crash about 200 yards in front of the tanks which were now proceeding slowly across “No Man’s Land,” led by Brigadier-General H.\u00A0J. Elles, the Commander of the Tank Corps, who flew the Tank Corps colours from his tank and who on the evening before the battle had issued the following inspiring Special Order to his men:",
+    "title": "Tanks in the Great War, 1914-1918",
+    "author": "Fuller, J. F. C. (John Frederick Charles), 1878-1966",
+    "gutenbergReference": "49808",
+    "hash": "64f1cc59f400ef383ca6e916d41574262fd0d5c5d259edc66de200e33915a3e4"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "I suddenly thought, \"this may not be just a bad dream.\". . . he wouldn't wake up.  I ran downstairs at ",
+    "quoteTime": "6:20 A.M.",
+    "quoteLast": " and told Mom... she woke Dad and they went upstairs.  He still was the same and I dashed for the phone and dialed 911 . . . they were here in five minutes.",
+    "title": "Through These Eyes\r\nThe courageous struggle to find meaning in a life stressed with cancer",
+    "author": "Isaacson, Lauren Ann, 1961-1986",
+    "gutenbergReference": "37060",
+    "hash": "d4356c22538434efc365928def7c0ae619d0b79f0ec2b4dfe462124d1de10100"
   },
   {
     "time": "06:20",
@@ -172,51 +87,116 @@
     "title": "Journals of Australian Explorations",
     "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
     "gutenbergReference": "10461",
-    "matchType": 2,
     "hash": "249c6d7062f6571ec8ae7453bb4973de6447fa991fd293cdf49ffc23e23d93e5"
   },
   {
     "time": "06:20",
-    "quoteFirst": "Zero for the second phase of the Somme battle was ",
+    "quoteFirst": "On the second of May, at ",
+    "quoteTime": "twenty minutes after six",
+    "quoteLast": ", Schuster came out of the store at the tail end of the little army of home-bound clerks. He locked the door behind him, according to custom, and stood for a moment on the asphalt, his hands in his pockets, fumbling his month’s pay.",
+    "title": "The Third Circle",
+    "author": "Norris, Frank, 1870-1902; Irwin, Will, 1873-1948 [Author of introduction, etc.]",
+    "gutenbergReference": "48620",
+    "hash": "b44f94612b1edb147fd0ff6ea2f11a61d50eea2eec7c9e8f889b558fc0d29a65"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "Maybe our fellow residents are at dinner. No, they are not. It is only ",
+    "quoteTime": "twenty minutes past six",
+    "quoteLast": ".” Jerry consulted her wrist watch. “The Hamilton bulletin states the dinner hour at Wayland Hall to be at six-thirty until the first of November. After that six o’clock until the first of April; then back to six-thirty again.",
+    "title": "Marjorie Dean, College Freshman",
+    "author": "Chase, Josephine, -1931",
+    "gutenbergReference": "36851",
+    "hash": "7ab177a34fbc4e699f9aea6a4345df6f7afd68d0a48a12aaff0abf91e9d4fcb7"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "I suddenly thought, \"this may not be just a bad dream.\". . . he wouldn't wake up.  I ran downstairs at ",
+    "quoteTime": "6:20 A.M.",
+    "quoteLast": " and told Mom... she woke Dad and they went upstairs.  He still was the same and I dashed for the phone and dialed 911 . . . they were here in five minutes.",
+    "title": "Through These Eyes\r\nThe courageous struggle to find meaning in a life stressed with cancer",
+    "author": "Isaacson, Lauren Ann, 1961-1986",
+    "gutenbergReference": "37060",
+    "hash": "d4356c22538434efc365928def7c0ae619d0b79f0ec2b4dfe462124d1de10100"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "6.05 A. M.    Setting up exercises. ",
+    "quoteTime": "6.20 A. M.",
+    "quoteLast": "    Mess.",
+    "title": "Campaign of the First Troop Philadelphia City Cavalry\nApril 25-November 11, 1898",
+    "author": "Cooper, James, of Philadelphia",
+    "gutenbergReference": "37755",
+    "hash": "d12b886be3fcbf01b1a59cc1041925c72cf1aab15f504221590837dd456d8a27"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "The attack appears to have developed at widely different hours in different parts of the line: the S.O.S. was received from the 8th Division on the left as early as 5.40 a.m., and from Hangard at 6 a.m., but it was not until ",
     "quoteTime": "6.20 a.m.",
-    "quoteLast": " on the 15th September. The 149th and 150th Infantry Brigades were then in the front line between High Wood and Martinpuich with the 151st Brigade in reserve.",
-    "title": "The story of the 6th Battalion, the Durham Light Infantry",
-    "author": "Ainsworth, Ralph Bignell, Sir, 1875-1952 [Editor]",
-    "gutenbergReference": "16660",
-    "matchType": 2,
-    "hash": "2f564219bb1e2056f56cd5c9287c4165b2363e55fc99a521d55cf88a4b8eb66d"
+    "quoteLast": " that reports indicated that the 173rd Brigade front was generally engaged. On the 2/4th Battalion front all was ready to receive the advancing waves of German infantry, but it must be admitted that some of the stoutest hearts were filled with something approaching dismay when out of the fog, at a distance of 40 to 50 yards, loomed the weird forms of German tanks.",
+    "title": "The War History of the 4th Battalion, the London Regiment (Royal Fusiliers), 1914-1919",
+    "author": "Grimwade, F. Clive",
+    "gutenbergReference": "50098",
+    "hash": "e6510c0d6b451f820e2347d0c1c5bc6cec5044acea8d85a8f7474bf04e7ad563"
   },
   {
     "time": "06:20",
-    "quoteFirst": "In April the same year, a young man, named Whitlock, performed the same distance in one hour and fifty minutes. He started from Shoreditch at half-past five, and reached Ponder’s End at ",
+    "quoteFirst": "I hurried back to the Colonel of the 6th Black Watch, and I was with him in his dug-out at ",
+    "quoteTime": "6.20 A.M.",
+    "quoteLast": " when the guns began. I climbed on to the parapet and looked.",
+    "title": "A Company of Tanks",
+    "author": "Watson, William Henry Lowe, 1891-1932",
+    "gutenbergReference": "44451",
+    "hash": "222efa1d6569e21db37a91e4be42717c1a79956d5c75f8f058e4d52e2c83c2dd"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "At ",
     "quoteTime": "twenty minutes past six",
-    "quoteLast": "; stopped there to refresh ten minutes, and returned to the starting post at twenty minutes past seven o’clock, having gone, exclusive of the stoppage, at the rate of somewhat more than ten miles an hour.",
-    "title": "Pedestrianism; or, An Account of the Performances of Celebrated Pedestrians During the Last and Present Century.\r\nWith a full narrative of Captain Barclay's public and private matches; and an essay on training.",
-    "author": "Thom, Walter, 1770-1824",
-    "gutenbergReference": "55644",
-    "matchType": 1,
-    "hash": "2eca541c659439826b8895cf2d6c68a73c7e90ff0171d06a8206a96f57cc5991"
+    "quoteLast": " Lang came back with the car. He had done his best, he said, to make the man at the cloak-room attend to him, and the man had admitted finally that he believed, though he wasn't sure, that Mrs. Heyham had fetched her luggage about an hour after she put it in.",
+    "title": "A lady and her husband",
+    "author": "Blanco White, Amber Reeves, 1887-1981",
+    "gutenbergReference": "71152",
+    "hash": "31158cce44bf63c228c6ff9b7df40705f65438a7f0ba2c3beabb05d706fbd0a1"
   },
   {
     "time": "06:20",
-    "quoteFirst": "Occasionally Gerald spoke of the engine or the speed, but for the most part it was a very silent quartette. The clock on the dash pointed its hands to ",
-    "quoteTime": "twenty minutes past six",
-    "quoteLast": " as Gerald slowed down at the junction of four roads.",
-    "title": "Change Signals: A Story of the New Football",
-    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
-    "gutenbergReference": "59623",
-    "matchType": 1,
-    "hash": "a23e7b82873fa1502112795c0fa0fdeae002ff6be1baffbaf46d2db16a697493"
+    "quoteFirst": "On the night of the 19th the dummy Tanks were put in position about 300 yards from the front line. At 2 a.m. on the 20th gas drums were      176 projected into the German lines where the wire-cutting had taken place (Quéant), and at ",
+    "quoteTime": "6.20 a.m.",
+    "quoteLast": " the whole of the artillery on the Third Army front opened on the enemy lines with one stupendous crash.",
+    "title": "The 56th Division (1st London Territorial Division)",
+    "author": "Dudley Ward, C. H. (Charles Humble), 1879-; Horne, Henry, 1861-1929 [Author of introduction, etc.]",
+    "gutenbergReference": "50379",
+    "hash": "8c5a36401eaf9351ce2403e993ce903762c467aaee48564a50103ad3383ccee3"
   },
   {
     "time": "06:20",
-    "quoteFirst": "The Argentine republic occupies the southeastern extremity of South America, and extends from 21 degrees 55 minutes to 55 degrees 2 minutes south latitude, and from 53 degrees ",
-    "quoteTime": "40 minutes to 7",
-    "quoteLast": "3 degrees 17 minutes west longitude. From north to south its length is 2285 miles, and its greatest width is 930 miles.",
-    "title": "Something about sugar",
-    "author": "Rolph, George M. (George Morrison), 1873-1932",
-    "gutenbergReference": "73616",
-    "matchType": 1,
-    "hash": "9ecef1a6ae7d09c2f1958a77cb0c29e2381df9beae20055c5e79cbb948847237"
+    "quoteFirst": "\"_",
+    "quoteTime": "Twenty minutes past six",
+    "quoteLast": "._",
+    "title": "Bentley's Miscellany, Volume II",
+    "author": "Various; Dickens, Charles, 1812-1870 [Editor]; Bentley, Richard, 1794-1871 [Publisher]",
+    "gutenbergReference": "46804",
+    "hash": "0540a8c8ce7a015c6538ba895e581587544eb4237dcabf6b0d07004e14401886"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "Leaving the camp at ",
+    "quoteTime": "6.20 a.m.",
+    "quoteLast": ", steered south up the valley of a large creek. At first the ground was very rough and rocky, but as we proceeded it became more level and sandy--the bed of the creek being worn in the basalt, and the hills of sandstone conglomerate rising 100 to 200 feet.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "e99e4f6d056a71b29f1974b5bc2603ec475cdaa5faa0ac725fee42133083f39d"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "Returning the way we had come to our quarters at the station, after taking tiffin at the bungalow we arranged to go on to Udaipur in the morning, and were advised to sleep in the train, which waited in the station all night, and left at ",
+    "quoteTime": "6.20 A.M.",
+    "quoteLast": " for Udaipur. So we packed up and went on board and took our berths, which were on the whole more comfortable than the station beds.",
+    "title": "India Impressions, With some notes of Ceylon during a winter tour, 1906-7.",
+    "author": "Crane, Walter, 1845-1915",
+    "gutenbergReference": "54718",
+    "hash": "bd4e03d5bc73b169573101e9a652c7db6b151f17b792096a2ef8c4860b1653de"
   }
 ]

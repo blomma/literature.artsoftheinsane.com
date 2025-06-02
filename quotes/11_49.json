@@ -7,7 +7,6 @@
     "title": "Buxton and its Medicinal Waters",
     "author": "Gifford-Bennet, Robert Ottiwell, 1834-1902",
     "gutenbergReference": "30682",
-    "matchType": 0,
     "hash": "1a84cad3422f82b80e810eb8ebb302cbd3439ef4d3c7e2d05d4c29bf6646d197"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Art of Stage Dancing\nThe Story of a Beautiful and Profitable Profession",
     "author": "Wayburn, Ned, 1874-1942",
     "gutenbergReference": "27367",
-    "matchType": 0,
     "hash": "ed4857a0445268548a1bd3117ca8d548b9c24f3b33c6ed0d36c20b2d2fbef5b2"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Ponson case",
     "author": "Crofts, Freeman Wills, 1879-1957",
     "gutenbergReference": "72235",
-    "matchType": 1,
     "hash": "1ee85f52e0b10f60568247f98a5d581e355270baf4e8d8ccedf25df14bbf4f16"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Program for October 1929: The Wyoming Valley Woman's Club of Wilkes-Barre",
     "author": "Wyoming Valley Woman's Club (Wilkes-Barre, Pennsylvania)",
     "gutenbergReference": "40944",
-    "matchType": 0,
     "hash": "d479a35ffaf5c0d026b19bf1ac9013ef041bf8f9ab2e68a00cea7a7726226880"
   },
   {
@@ -51,7 +47,6 @@
     "title": "A Terrible Temptation: A Story of To-Day",
     "author": "Reade, Charles, 1814-1884",
     "gutenbergReference": "7895",
-    "matchType": 0,
     "hash": "ace4cc989ba7a8d2aac249a9fae0c96d688b4204227df71ac995c9a3d7fb9f52"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Stammering, its cause and cure",
     "author": "Bogue, Benjamin Nathaniel, 1882-1964",
     "gutenbergReference": "4256",
-    "matchType": 0,
     "hash": "ed63a5c97846f929c6e60d4bbcd73deead0e892f68d2a5247faeb9fcebb1001d"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Their Majesties as I Knew Them\nPersonal Reminiscences of the Kings and Queens of Europe",
     "author": "Paoli, Xavier, 1835-; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
     "gutenbergReference": "45786",
-    "matchType": 0,
     "hash": "ed23cfc0122aa03421da7c8b7268ba80e548e730a384565f775a42504324e301"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Notes and Queries, Number 239, May 27, 1854\r\nA Medium of Inter-communication for Literary Men, Artists, Antiquaries, Genealogists, etc.",
     "author": "Various; Bell, George, 1814-1890 [Other]",
     "gutenbergReference": "31690",
-    "matchType": 0,
     "hash": "cd8daf7ebecfe4b1d90f8676d185b59b57a798a6b95ff605127924c1268735a5"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Letters from the peninsula, 1808-1812",
     "author": "Warre, William, Sir, 1784-1853; Warre, Edmond, 1837-1920 [Editor]",
     "gutenbergReference": "73292",
-    "matchType": 0,
     "hash": "fce8c8f98d5912ae4d3b0943036538ad669a55b25d8b3245e8973a4c2dbfed68"
   },
   {
@@ -106,7 +97,6 @@
     "title": "Death in the dusk",
     "author": "Markham, Virgil, 1899-1973",
     "gutenbergReference": "75273",
-    "matchType": 1,
     "hash": "e25da223f8dacdfdae0ed7c7daff36561a4b22f452c9d3f810be446e0731f788"
   },
   {
@@ -117,7 +107,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "e792303ddb6e6ba4a7dd19fa4d887f6615febb7fcd2678a74b6a5a547919de1c"
   },
   {
@@ -128,7 +117,6 @@
     "title": "A Ride to India across Persia and Baluchistán",
     "author": "De Windt, Harry, 1856-1933",
     "gutenbergReference": "10974",
-    "matchType": 0,
     "hash": "e74d17261fb0f2d3fc7314e5398dc2a793b129756cc53fdf545d8836b54a6f60"
   }
 ]

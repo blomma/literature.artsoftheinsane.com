@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "9c567e796a1bf384394336f19717472729c58c915bbce9c73531b96e761ddb0d"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
-    "matchType": 2,
     "hash": "d79f070c6b9f303e50587b0767808fa121014bf29153862ca14b7e4f4131fb63"
   },
   {
@@ -29,7 +27,6 @@
     "title": "How Private George W. Peck Put Down the Rebellion\r\nor, The Funny Experiences of a Raw Recruit - 1887",
     "author": "Peck, George W. (George Wilbur), 1840-1916",
     "gutenbergReference": "25492",
-    "matchType": 1,
     "hash": "537567d77c8d1efd780560674f9194561e3ab228377d296c92df50add87fa685"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Black Bag",
     "author": "Vance, Louis Joseph, 1879-1933; Fogarty, Thomas, 1873-1938 [Illustrator]",
     "gutenbergReference": "9779",
-    "matchType": 1,
     "hash": "450aa315885a0657c37b91d6a04156e773ca85afed7ac69439d478d5de1c909a"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The fog",
     "author": "Pelley, William Dudley, 1890-1965",
     "gutenbergReference": "70037",
-    "matchType": 1,
     "hash": "67ee5f86fd318c821b53ff9b4f5dfd804c2abbf80f614302a41ce3599569ac14"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Chats on Old Clocks",
     "author": "Hayden, Arthur, 1868-1946",
     "gutenbergReference": "45772",
-    "matchType": 1,
     "hash": "63fa7171e5358d30101380add06922b03c6b25a17cd4c4b1369410beef5e37eb"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Mucker",
     "author": "Burroughs, Edgar Rice, 1875-1950",
     "gutenbergReference": "331",
-    "matchType": 1,
     "hash": "895615c657986518dfb488ee65150f45acb42849032ba236416432aa5c6018b2"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Knock three-one-two",
     "author": "Brown, Fredric, 1906-1972",
     "gutenbergReference": "70944",
-    "matchType": 2,
     "hash": "2ddfde3492bf057292c33c55b79476037ed1643538e4a3940c1d665d13d936a3"
   }
 ]

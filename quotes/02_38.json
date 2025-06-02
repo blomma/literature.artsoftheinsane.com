@@ -7,7 +7,6 @@
     "title": "British Airships, Past, Present, and Future",
     "author": "Whale, George",
     "gutenbergReference": "762",
-    "matchType": 2,
     "hash": "da2b8cbff70ff6f91ee6c89f43ca7a9c2bd80ee0c196693994f2cefbcbb5f7cd"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Mariner Mission to Venus",
     "author": "Jet Propulsion Laboratory (U.S.)",
     "gutenbergReference": "54585",
-    "matchType": 2,
     "hash": "72ac620b069e0f5fca92c5d4e62cc150cd3f1a7968e04835928af0dc981e35c5"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Pharaoh's Broker\nBeing the Very Remarkable Experiences in Another World of Isidor Werner",
     "author": "Douglass, Ellsworth",
     "gutenbergReference": "25295",
-    "matchType": 1,
     "hash": "332948f68f34c687ec0d1c6d5fb5318ca966d7cdded28b49f6bb80a83469cdfa"
   }
 ]

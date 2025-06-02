@@ -7,7 +7,6 @@
     "title": "Robur the Conqueror",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "3808",
-    "matchType": 1,
     "hash": "abc28cf82781d8691e001692095a08fcc258ab0d5be71af160430514a7d911ad"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Facing the Flag",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "11556",
-    "matchType": 1,
     "hash": "079909421814cec8ff534a0bc3d25ac496e79ce6a74ffb6639adf0edb50b3f84"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "c86b43a59a6960d4a7ddb182ff385f67d2a57bd6499a1f6eafb40f4f98cc6382"
   },
   {
@@ -40,7 +37,6 @@
     "title": "McKinlay's Journal of Exploration in the Interior of Australia",
     "author": "McKinlay, John, 1819-1872",
     "gutenbergReference": "13248",
-    "matchType": 2,
     "hash": "0023e0a0b1b98d860fa77d63ae9a662f66e0cf5e984def7f9cd49fb40eeb3cdb"
   },
   {
@@ -51,7 +47,6 @@
     "title": "A Flight in Spring\r\nIn the car Lucania from New York to the Pacific coast and back, during April and May, 1898",
     "author": "Knowles, J. Harris (John Harris), 1832-1908",
     "gutenbergReference": "33620",
-    "matchType": 2,
     "hash": "b95e79a3335d6ba5781aa89a2ff5349d59d9185e60e174e63ba16f761d876ea9"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Whirligig of Time",
     "author": "Williams, Wayland Wells, 1888-1945",
     "gutenbergReference": "37906",
-    "matchType": 2,
     "hash": "94b2ab2829c4810fddecc17f94eb2f11c481c01c1603e7da5f876484be31d51d"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "666a991f05e67f9acd32e504c225266ff6db0b1f106e2fa77a15677afb290e69"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Back at School with the Tucker Twins",
     "author": "Speed, Nell, 1878-1913; Scott, A. O. (Arthur Orange), 1882?-1946 [Illustrator]",
     "gutenbergReference": "36089",
-    "matchType": 1,
     "hash": "0d6a6f2f257f16f95c72164696dee0ad0f06b1323d07c5a1ddc6eb70f494c00e"
   },
   {
@@ -95,7 +87,6 @@
     "title": "How Private George W. Peck Put Down the Rebellion\r\nor, The Funny Experiences of a Raw Recruit - 1887",
     "author": "Peck, George W. (George Wilbur), 1840-1916",
     "gutenbergReference": "25492",
-    "matchType": 1,
     "hash": "1bc2b7feb2bd7afe96dc09d809b1e431a61b1cdaa475f9a0c3323fdd3a97e17f"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "matchType": 2,
     "hash": "9ea83150e5a89fc9256fd45366eaaed74d3023f0a469bb775594a34bbbc3e16c"
   }
 ]

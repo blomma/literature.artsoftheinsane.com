@@ -7,7 +7,6 @@
     "title": "Mortmain",
     "author": "Train, Arthur Cheney, 1875-1945",
     "gutenbergReference": "37346",
-    "matchType": 1,
     "hash": "7ac3d72bf93ba90895f6b78fc4bd4215d33cbb14298c393ca1a5cb36e9a127ae"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Journals of Lewis and Clark, 1804-1806",
     "author": "Lewis, Meriwether, 1774-1809; Clark, William, 1770-1838",
     "gutenbergReference": "8419",
-    "matchType": 0,
     "hash": "2f79c723ab7f35696eddf1e4e394127b4c839e657779d39860e1659632a7a252"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
     "author": "Levy, Donald M.",
     "gutenbergReference": "59328",
-    "matchType": 2,
     "hash": "8b8577c1b490bd85f4a81d88699fcdf5a3a8f58814bfbaef2c774a58a47f8846"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
     "author": "Levy, Donald M.",
     "gutenbergReference": "59328",
-    "matchType": 2,
     "hash": "9fe646764a16de8fe3ad115a1d31923aa48181a769d9be308da886c9d94800e4"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Fighting Instructions, 1530-1816\r\nPublications of the Navy Records Society Vol. XXIX.",
     "author": "Corbett, Julian Stafford, 1854-1922",
     "gutenbergReference": "16695",
-    "matchType": 1,
     "hash": "f45b31fb62830160f7b102322bcc881e0afa83dea98db2d43533d8654c00519e"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Ragged Trousered Philanthropists",
     "author": "Tressell, Robert, 1870-1911",
     "gutenbergReference": "3608",
-    "matchType": 1,
     "hash": "b746ecee2d34b68dc5b08ca08e3c466a9438b6e15250c1bc502d39bf9c31be03"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Astronomy Explained Upon Sir Isaac Newton's Principles\nAnd made easy to those who have not studied mathematics",
     "author": "Ferguson, James, 1710-1776",
     "gutenbergReference": "60619",
-    "matchType": 1,
     "hash": "31b983feb067fe1060747d2e572030a50cc9056c991b81c2a17e9ab449ec5152"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Warren Commission (13 of 26): Hearings Vol. XIII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "57111",
-    "matchType": 2,
     "hash": "0e501ef3736acec60aa3bbfd3be1b969002d1e1b1357b8746604d309e637d46b"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Warren Commission (13 of 26): Hearings Vol. XIII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "57111",
-    "matchType": 2,
     "hash": "dbced5e6539f3fd13a354af4becd14c208dd7b619e665ffba476348a648e9596"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Logbooks of the Lady Nelson\r\nWith the journal of her first commander Lieutenant James Grant",
     "author": "Lee, Ida, 1865-1943",
     "gutenbergReference": "7509",
-    "matchType": 0,
     "hash": "b273ac96dcba9d488a26bcc5e02a12d9c516e536978430a545680da791f115d5"
   },
   {
@@ -117,7 +107,6 @@
     "title": "Champions of the fleet",
     "author": "Fraser, Edward, 1859?-",
     "gutenbergReference": "65978",
-    "matchType": 1,
     "hash": "ff5e2885c8d1f61029d056823f9c2c4dd551de751b998dd7f2088435ee0859f4"
   },
   {
@@ -128,7 +117,6 @@
     "title": "Left on Labrador; or, The cruise of the Schooner-yacht \"Curlew\"\r\nAs Recorded by \"Wash\"",
     "author": "Stephens, C. A. (Charles Asbury), 1844-1931",
     "gutenbergReference": "20242",
-    "matchType": 1,
     "hash": "411b15a30ec7ad212eb1b9649e97ac18a27ac327a53db4c133c569077ec0f39f"
   },
   {
@@ -139,7 +127,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "7dafe8f6ca8b7a83fa4db24982f93ec1fddbddcd3b30298ec5d8380bdcfa518f"
   }
 ]

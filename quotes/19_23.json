@@ -7,7 +7,6 @@
     "title": "Around the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "103",
-    "matchType": 1,
     "hash": "f7ee3e40b15f165682826090cb58daf70cfcdbae0dbfca650bd4edb84728e0e9"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55218",
-    "matchType": 2,
     "hash": "155c527d7a21aaee8d3b18f558ba62f90d0115cfb4195a3bacc8d73a166f035e"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "e59b45d9ae34ac2b276f9d06f6efb7bad5c09ab8d47ec73bd2b8b61a67873403"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "0eb4d8977f052e73df26a118f942563f0416c3443db2ada9b56f547e58e3070c"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 04, June 1884, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55194",
-    "matchType": 2,
     "hash": "75c0d5c6276013f253ad6f7219066f686afcf04c24442c1ea1b9f75251cdb8be"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Essays of a Biologist",
     "author": "Huxley, Julian, 1887-1975",
     "gutenbergReference": "65145",
-    "matchType": 2,
     "hash": "9d290bb69ff4e040b408e707654bf6aa32da702f33c4bf63b867ee5cbea79ac0"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
-    "matchType": 2,
     "hash": "9f49ecbe14108cca1285908cf858c4471d01c55d07b50816a7ff0f04fd354f41"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Little City of Hope: A Christmas Story",
     "author": "Crawford, F. Marion (Francis Marion), 1854-1909",
     "gutenbergReference": "14526",
-    "matchType": 1,
     "hash": "dbe7822f610dcfc5f9bf12627c1e5e4c3d44d1078c749a912086cd75e8ba4f19"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Around the World in Eighty Days. Junior Deluxe Edition",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "2154",
-    "matchType": 1,
     "hash": "30d552f1a8edab3e419fde4fe642925379c47636ad2d1a027fd73b975ba2ea4d"
   }
 ]

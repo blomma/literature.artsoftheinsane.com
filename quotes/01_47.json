@@ -7,7 +7,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "4831e8e7611be18a294e02c0ea1d052b0dcd3c90c24db65db22cba3cfebb28e7"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Train Wire: A Discussion of the Science of Train Dispatching\r\n(Second Edition)",
     "author": "Anderson, John Alexander, 1829-1917",
     "gutenbergReference": "51158",
-    "matchType": 2,
     "hash": "be215870f58a4e582470cf1d529037edd25c5ac1c4cc34ac8fd497adb58b1d47"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Loss of the Steamship \"Titanic\"",
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
-    "matchType": 2,
     "hash": "bacfcd76adb82a789c96788d3b3fdaa8c4383f6556cd36f3453ff7f41d990001"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Voyage to Jupiter",
     "author": "Morrison, David, 1940-; Samz, Jane",
     "gutenbergReference": "58915",
-    "matchType": 2,
     "hash": "f29c58b83976a1031216a762038ebde786bf2bad34567d489a669677ab7f69f7"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "b243a107154c0afff1e1a4cad1787f751980aa9ddd1cba395fc2e03808190d70"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "f8291890c3408429e1eb684333d6fe1460229b0aa3e1ad8ed57eb97bf5ef5fac"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "99078a0859b8e21c145abccea457c91d7698a81679960a9d06e8d3fe72a7dec6"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Glebe 1913/11 (Vol. 1, No. 2): Diary of a Suicide",
     "author": "Baker, Wallace E., -1913",
     "gutenbergReference": "49261",
-    "matchType": 2,
     "hash": "6fefbfe3e3d6e966f67a3c9972d7c4e16dc5c73d70755396b8bc4b9d078ae15a"
   },
   {
@@ -18,7 +17,6 @@
     "title": "True Stories of the Great War, Volume 4 (of 6)\r\nTales of Adventure--Heroic Deeds--Exploits Told by the Soldiers, Officers, Nurses, Diplomats, Eye Witnesses",
     "author": "Miller, Francis Trevelyan, 1877-1959 [Editor]",
     "gutenbergReference": "49391",
-    "matchType": 2,
     "hash": "ee197d532868a7ddcae89b7eaf655e2de36954fb99fae83d927d0c07de7a7936"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, June 1884, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55194",
-    "matchType": 2,
     "hash": "b5c3ab5640fb17bc9424192908e6b987cf2d1d060d8d69f197645af46b199e4b"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The quest for the rose of Sharon",
     "author": "Stevenson, Burton Egbert, 1872-1962; Fogarty, Thomas, 1873-1938 [Illustrator]",
     "gutenbergReference": "69112",
-    "matchType": 1,
     "hash": "5e471a2cb9c60f89725e21d8f5278cb2d42710b996350bcb5b8bf46c6767286c"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 04, May 1884, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55158",
-    "matchType": 2,
     "hash": "6714e0b4f5aad856c50dddc1f117b38cf4f89772f078fe439f899307ed7fcbbc"
   },
   {
@@ -62,7 +57,6 @@
     "title": "For Sceptre and Crown: A Romance of the Present Time. Vol. 1 (of 2)",
     "author": "Samarow, Gregor, 1829-1903",
     "gutenbergReference": "37723",
-    "matchType": 0,
     "hash": "4672656f9c3ad2e0e7ab2fa22fc29f0e404a2b86b8c27e85ef307f23db2f9801"
   },
   {
@@ -73,7 +67,6 @@
     "title": "A Tar-Heel Baron",
     "author": "Smith, Mabell S. C. (Mabell Shippie Clarke), 1864-1942; Holloway, Edward Stratton, 1859-1939 [Illustrator]",
     "gutenbergReference": "26112",
-    "matchType": 1,
     "hash": "e3216eb4bc94f835c421d6092bfa040b4baf9d92b2f63672c1459b5e84ef96da"
   }
 ]

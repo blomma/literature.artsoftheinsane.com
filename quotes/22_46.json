@@ -7,7 +7,6 @@
     "title": "Complete Project Gutenberg John Galsworthy Works",
     "author": "Galsworthy, John, 1867-1933",
     "gutenbergReference": "3254",
-    "matchType": 1,
     "hash": "f204ecbe36d851ede7345d4c20054e9a93fb37b1f5c960caab8f373c6eda2ceb"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Plays : Third Series",
     "author": "Galsworthy, John, 1867-1933",
     "gutenbergReference": "5057",
-    "matchType": 1,
     "hash": "bd4b2d10234be29817d05cc128b9c14b30f9fc638fce32c5c36d3001f3ebfc79"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Riddle of the Sands",
     "author": "Childers, Erskine, 1870-1922",
     "gutenbergReference": "2360",
-    "matchType": 2,
     "hash": "30033a41fea0a251a999ed8397b7b47e3dfb3ce5187578ddb704b3cf532f9f71"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Loss of the Steamship \"Titanic\"",
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
-    "matchType": 2,
     "hash": "bed1fabf689e06e4ecfe61d913f22aa39743e89988cc6276b1215477069c8359"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Complete Plays of John Galsworthy",
     "author": "Galsworthy, John, 1867-1933",
     "gutenbergReference": "4269",
-    "matchType": 1,
     "hash": "fa9d10cb8325fe21b2ed93110c103c41859e5db5bfd8922c6363d881b42136a8"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Mob: A Play in Four Acts",
     "author": "Galsworthy, John, 1867-1933",
     "gutenbergReference": "2914",
-    "matchType": 1,
     "hash": "42d3a08b1933d80bd3ea71d2f8563a65b0da38dd95f09e1859c154c27b6b74ce"
   }
 ]

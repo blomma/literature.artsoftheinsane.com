@@ -7,7 +7,6 @@
     "title": "Rebecca of Sunnybrook Farm",
     "author": "Wiggin, Kate Douglas Smith, 1856-1923",
     "gutenbergReference": "498",
-    "matchType": 1,
     "hash": "071968942b1c2daf252b3f75febee2ae77d159b71d8e20b0ef376130ec474ff6"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Miss Billy's Decision",
     "author": "Porter, Eleanor H. (Eleanor Hodgman), 1868-1920",
     "gutenbergReference": "362",
-    "matchType": 1,
     "hash": "49404e8eabef4c55d7ee8ad792e135406edb9e968fe02ab93069efaeb2148a82"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, June 1884, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55194",
-    "matchType": 2,
     "hash": "8efa52fb5d8a48f14e44d6338d41532a638ba84250ad5ee8bb4718ba6c08005a"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "889d2871c60ae37c1430213613535978bdbba97563598a6632ff92892b816cf6"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "67b183d9459cade77e7d3fca7a141ba745c92dc34ccd6819a0db9ff0d2be2dcf"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Murder by the clock",
     "author": "King, Rufus, 1893-1966",
     "gutenbergReference": "75500",
-    "matchType": 2,
     "hash": "20ea91bbae66d32bf30d9ccab576632fbf789cf271107cca092bdb26baba3c76"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Murder by the clock",
     "author": "King, Rufus, 1893-1966",
     "gutenbergReference": "75500",
-    "matchType": 2,
     "hash": "5c701537304f1dee06dd56c6b9ae5f2fc6f0432d21abe583d917efd866cbf456"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "20e4d787f8bfc678fd72ac4cf715111db3910031f9cfa6ac154cdf6a6f40a88d"
   }
 ]

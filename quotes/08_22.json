@@ -7,7 +7,6 @@
     "title": "The Corsair in the war zone",
     "author": "Paine, Ralph Delahaye, 1871-1925",
     "gutenbergReference": "72760",
-    "matchType": 2,
     "hash": "563d33b36ac24522e8c9df13e79e631167398c04ea208f20e33779cc80de01d8"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Punch, or the London Charivari, Volume 1, Complete",
     "author": "Various",
     "gutenbergReference": "17216",
-    "matchType": 1,
     "hash": "5f43a7de4cec2a409747252ab1d1c1bb9f09e8f9c161184b948664f9efc5aed9"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, February 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55053",
-    "matchType": 2,
     "hash": "3a821536f315482fa882e97158dc223ed00f7feff61ab8060cc097eea638679d"
   },
   {
@@ -40,7 +37,6 @@
     "title": "History of merchant shipping and ancient commerce, Volume 4 (of 4)",
     "author": "Lindsay, W. S. (William Schaw), 1816-1877",
     "gutenbergReference": "74393",
-    "matchType": 2,
     "hash": "820958d253cfef0e10ff4e39271aa42d33dc40ef9a822ae0ffc925b58096d895"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Punch, or the London Charivari, Volume 1, September 12, 1841",
     "author": "Various",
     "gutenbergReference": "14927",
-    "matchType": 1,
     "hash": "673ba7c93224a75ff8282ff892e2bc82b9939e49e2f9ccfbfc6802ebe0b60690"
   }
 ]

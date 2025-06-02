@@ -7,7 +7,6 @@
     "title": "Voyage to Jupiter",
     "author": "Morrison, David, 1940-; Samz, Jane",
     "gutenbergReference": "58915",
-    "matchType": 2,
     "hash": "21dbc6da8987668a70d4f553e7124618f71b14438b31b434a936ccb7e6de4554"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, June 1884, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55194",
-    "matchType": 2,
     "hash": "9770d0b2fadb0a8c4e01b1dde930ec3f7b433f64c77eec2f4575f2ecb4154fd4"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Bismarck",
     "author": "Busch, Moritz, 1821-1899",
     "gutenbergReference": "70943",
-    "matchType": 1,
     "hash": "3aa1a5ba9e9be87775f2bcddc59754a7ee2e669093da0f4d2d22248fc076312c"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
     "author": "Miles, Henry Downes, 1806-1889",
     "gutenbergReference": "64111",
-    "matchType": 1,
     "hash": "ee7ca4d6d9349459cfc1e8a946056b07c3335cebacb1d33e548a16a967fafef2"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "13aa26149cfa19b8893e33aa3704d40d01280ed2062a72fa6e41b2e0d273dd15"
   }
 ]

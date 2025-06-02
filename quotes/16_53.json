@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55218",
-    "matchType": 2,
     "hash": "bcb7d11b75e67d70caf586992c7b6f85006ac208ba3f98832dae799189a55cb9"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "927df8ab4364bdd346f765549711c5bfb6190d3e933ac569e327f35083c0afe1"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55134",
-    "matchType": 2,
     "hash": "e022c3f4cea3671bb7b91a37f8d6b393b4a436c775f24120b90b9d9b596426aa"
   },
   {
@@ -40,7 +37,6 @@
     "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
     "author": "Leffingwell, Albert, 1845-1916",
     "gutenbergReference": "20222",
-    "matchType": 2,
     "hash": "90c2d4b2567543d651369f8635aee716cc62d4a5d5737640cf21054eb17a5079"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
-    "matchType": 2,
     "hash": "db4d2706c94b68b42b9545ac365f366d9e0c9a88a7b63b247a3f4d7ddfe7ff7d"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The letters of Queen Victoria, vol. 1, 1837-1843",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Benson, Arthur Christopher, 1862-1925 [Editor]; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "20023",
-    "matchType": 1,
     "hash": "f9b720ba015d297dba9ec9e06818bdf4bbd149c221953cfe300c2e0d42ca9295"
   },
   {
@@ -73,7 +67,6 @@
     "title": "ODTAA: A novel",
     "author": "Masefield, John, 1878-1967",
     "gutenbergReference": "69339",
-    "matchType": 1,
     "hash": "c1f339628c35e90e7680618434f163da1bd2bc7f6de47e31ebacec089563d9af"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The House of a Thousand Candles",
     "author": "Nicholson, Meredith, 1866-1947; Christy, Howard Chandler, 1873-1952 [Illustrator]",
     "gutenbergReference": "12441",
-    "matchType": 0,
     "hash": "870a3fa80fe98a9d56d4396f62ef951a63ed3f1718351dc68b37d50ff18dc607"
   }
 ]

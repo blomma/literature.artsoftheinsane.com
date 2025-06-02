@@ -7,7 +7,6 @@
     "title": "The Grenadier Guards in the Great War of 1914-1918, Vol. 3 of 3",
     "author": "Ponsonby, Frederick, 1867-1935",
     "gutenbergReference": "63111",
-    "matchType": 2,
     "hash": "d679ea25b5631e136a9c8e2cecefc3561dc5fb043b99793e7ae69e642b3acc20"
   },
   {
@@ -18,7 +17,6 @@
     "title": "A Source Book of Australian History",
     "author": "Swinburne, Gwendolen H. [Compiler]",
     "gutenbergReference": "15337",
-    "matchType": 2,
     "hash": "779d09c52ebce919bb142d5e83d7021fa7633abb7925776e8f1f0781c6f0eb35"
   },
   {
@@ -29,7 +27,6 @@
     "title": "New York Times Current History; The European War, Vol 2, No. 3, June, 1915\nApril-September, 1915",
     "author": "Various",
     "gutenbergReference": "15480",
-    "matchType": 2,
     "hash": "f23244a2455d1032f4fc179af3621eb9d65e284fd049439f2dda66fa7fba3c27"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The letters of Queen Victoria, vol. 1, 1837-1843",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Benson, Arthur Christopher, 1862-1925 [Editor]; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "20023",
-    "matchType": 1,
     "hash": "b30e9f02d2d7f49280a31bc6884b9d87184842c4e9fefcdf5033cf2e268cc21c"
   },
   {
@@ -51,7 +47,6 @@
     "title": "ODTAA: A novel",
     "author": "Masefield, John, 1878-1967",
     "gutenbergReference": "69339",
-    "matchType": 1,
     "hash": "c7752538d5ad8e7b9ad47e34d0176b26bc7e0334ef4842a3d5e029d21185d7a0"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "6ffe9768abbdd52bf9216f9db7a0f2ac6d6dff48e2ae65a4d9d653ef6acb1433"
   }
 ]

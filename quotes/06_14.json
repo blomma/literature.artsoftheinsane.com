@@ -7,7 +7,6 @@
     "title": "The Aeroplane",
     "author": "Grahame-White, Claude, 1879-1959; Harper, Harry, 1880-1960",
     "gutenbergReference": "45825",
-    "matchType": 2,
     "hash": "f40603bd8c5333f639c3e9a046c53ac4ad3c6cccb772e924f2d1b1676649fdb3"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Heroic Record of the British Navy: A Short History of the Naval War, 1914-1918",
     "author": "Hurd, Archibald, 1869-1959; Bashford, H. H. (Henry Howarth), Sir, 1880-1961",
     "gutenbergReference": "47248",
-    "matchType": 1,
     "hash": "4a1b9f5c1cf41313e6f87e52d7385b51ac08adacd24468726fdf16ad4aae76db"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Aeroplane in War",
     "author": "Grahame-White, Claude, 1879-1959; Harper, Harry, 1880-1960",
     "gutenbergReference": "63597",
-    "matchType": 2,
     "hash": "609d1ea11312e3e47590585a9d26ac0d3ea62c688a2c05665da09fb218d96b13"
   }
 ]

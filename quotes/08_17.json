@@ -7,7 +7,6 @@
     "title": "Across the Equator: A Holiday Trip in Java",
     "author": "Reid, Thomas H.",
     "gutenbergReference": "27556",
-    "matchType": 2,
     "hash": "da97c0183c537d6939744448a7615355587c5962443edbe5f480174f22207776"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Corsair in the war zone",
     "author": "Paine, Ralph Delahaye, 1871-1925",
     "gutenbergReference": "72760",
-    "matchType": 2,
     "hash": "6ed9c39569b998641f42b56056c8943bc07cc1ee3d2f8881fa6982e918d4f702"
   },
   {
@@ -29,7 +27,6 @@
     "title": "McKinlay's Journal of Exploration in the Interior of Australia",
     "author": "McKinlay, John, 1819-1872",
     "gutenbergReference": "13248",
-    "matchType": 2,
     "hash": "9cb31fb0b46251d96ca5e83cfdc1fdead1f1d3610f149a80310919cfbf1f8716"
   },
   {
@@ -40,7 +37,6 @@
     "title": "A Journey into the Interior of the Earth",
     "author": "Verne, Jules, 1828-1905; Malleson, F. A. (Frederick Amadeus), 1819-1897 [Translator]",
     "gutenbergReference": "3748",
-    "matchType": 2,
     "hash": "56f31ecffd38d069d16ab58510c559101f3c2088d29fdbcac269216bae2eb02b"
   },
   {
@@ -51,7 +47,6 @@
     "title": "How Private George W. Peck Put Down the Rebellion\r\nor, The Funny Experiences of a Raw Recruit - 1887",
     "author": "Peck, George W. (George Wilbur), 1840-1916",
     "gutenbergReference": "25492",
-    "matchType": 1,
     "hash": "5c004f77b550a17ed3a8e3407b59ce84fe4612a06783782a66f24cf23c139e97"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Black Bag",
     "author": "Vance, Louis Joseph, 1879-1933; Fogarty, Thomas, 1873-1938 [Illustrator]",
     "gutenbergReference": "9779",
-    "matchType": 1,
     "hash": "effd7c637bc988a873ff4dbb42ae186ffbb75aaa8fb30ef7473a2787adeff62b"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The fog",
     "author": "Pelley, William Dudley, 1890-1965",
     "gutenbergReference": "70037",
-    "matchType": 1,
     "hash": "a619c484ee3206d5416add82b8695aa0b99945ecfe1fb03c1f3adda93cc04f25"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Chats on Old Clocks",
     "author": "Hayden, Arthur, 1868-1946",
     "gutenbergReference": "45772",
-    "matchType": 1,
     "hash": "49183cc4b0a5efd95f23a49ac19cb559fbc1ac2cf476e98771e1374afb238e84"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Mucker",
     "author": "Burroughs, Edgar Rice, 1875-1950",
     "gutenbergReference": "331",
-    "matchType": 1,
     "hash": "f1785ba484b4db1c935a83a5034bd01856dcf1fa22d17ad80018ddf2c0298b77"
   },
   {
@@ -106,7 +97,6 @@
     "title": "\"We\"",
     "author": "Lindbergh, Charles A. (Charles Augustus), 1902-1974; Herrick, Myron T. (Myron Timothy), 1854-1929 [Author of introduction, etc.]; Green, Fitzhugh, 1888-1947 [Contributor]",
     "gutenbergReference": "73142",
-    "matchType": 2,
     "hash": "5d2cbd71896a6cadd84363928f3f7af17df6fd2fa2543ffa22ab22c6793efc59"
   },
   {
@@ -117,7 +107,6 @@
     "title": "The Bay State Monthly — Volume 1, No. 1, January, 1884",
     "author": "Various",
     "gutenbergReference": "9174",
-    "matchType": 2,
     "hash": "b658e23b0b9bba7f752e7a5168201dfad43b99edef67abd34e0a2455dd151016"
   }
 ]

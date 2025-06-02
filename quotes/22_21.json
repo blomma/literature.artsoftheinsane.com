@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, July 1885, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55444",
-    "matchType": 2,
     "hash": "ac77a6fd23e324d93a38ce4b981c17dd2f9a1e8e8edef09c566eb9602d8769de"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Blackwood's Edinburgh Magazine, Volume 62, Number 361, November, 1845.",
     "author": "Various",
     "gutenbergReference": "27611",
-    "matchType": 1,
     "hash": "b0fdc6837edfb630a2e4460a34a5b8be12999ad86fff75ff5d14fd66ab10e30e"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Blackwood's Edinburgh Magazine, Volume 62, Number 361, November, 1845.",
     "author": "Various",
     "gutenbergReference": "27611",
-    "matchType": 0,
     "hash": "f95acae8cfebe5f70032c24279ea552b302c7390752fd291138a51b5fe9c0400"
   }
 ]

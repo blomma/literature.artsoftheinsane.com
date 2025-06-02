@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "2c26f670be43e3bef4d077670968a03b8e149d5676184d4160b7bd0d20dc6e0c"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Amateur Army",
     "author": "MacGill, Patrick, 1890?-1963",
     "gutenbergReference": "16078",
-    "matchType": 1,
     "hash": "73496bf380f583a567490ca149e52dfdda258b4d1733436801bded63a0eb8144"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Golden Fleece: The American Adventures of a Fortune Hunting Earl",
     "author": "Phillips, David Graham, 1867-1911; Fisher, Harrison, 1875-1934 [Illustrator]",
     "gutenbergReference": "64301",
-    "matchType": 1,
     "hash": "2b519ece5b857ec372ee4e75c492a8c8849506db859c331f698a259f95a345c0"
   }
 ]

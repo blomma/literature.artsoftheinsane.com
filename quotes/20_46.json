@@ -7,7 +7,6 @@
     "title": "A Great Man: A Frolic",
     "author": "Bennett, Arnold, 1867-1931",
     "gutenbergReference": "29860",
-    "matchType": 1,
     "hash": "f4788ad5b1ab1d26f3a64a5ac7d445f37b8f13b7fd6fb6afada240560a6e54e0"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "ad7d228a40f1ccaad4680cae1a691872cfc3157a0886ab4cb0d0983d5cd34489"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Lonesome Land",
     "author": "Bower, B. M., 1871-1940",
     "gutenbergReference": "8537",
-    "matchType": 1,
     "hash": "b91359a3c9d387c640396e883d3bcc816728e7529ea491976ba5862a92cc74ec"
   },
   {
@@ -38,10 +35,9 @@
     "quoteTime": "8.46 p.m.",
     "quoteLast": " showing that the course of the Battle Fleet was to the southwestward.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "ac375d88d6ae2bdea378d701c89330755acf8a3f417167fc8c45472c35c6a6d6"
+    "hash": "543bdf310a1266750526e6f76793465a3041ba9f770385c8470a71ef602fcd90"
   },
   {
     "time": "20:46",
@@ -51,7 +47,6 @@
     "title": "Norfolk Annals, Vol. 2\r\nA Chronological Record of Remarkable Events in the Nineteeth Century",
     "author": "Mackie, Charles, 1858?-1940",
     "gutenbergReference": "36206",
-    "matchType": 2,
     "hash": "2e220eefa039254bb4b22087368aac5d532e588e43055d23a7b4abc75ee489b5"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 04, May 1884, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55158",
-    "matchType": 2,
     "hash": "449529d9d5fdfba8bb89fa7a3a7f8ac6c92a28c6f90718d887505f9c09f6ef8d"
   }
 ]

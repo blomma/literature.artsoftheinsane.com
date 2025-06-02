@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, February 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55053",
-    "matchType": 2,
     "hash": "d77279155cdf96afa09f623c65719aec3c9598a897ea975df9aafc72ff440bf9"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Daughter of the sky",
     "author": "Briand, Paul L., Jr., 1920-1986",
     "gutenbergReference": "70263",
-    "matchType": 2,
     "hash": "b5595c09323904c087aa576610b0affde27fcb1080838db1c5571f9c3b32e435"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, January 1884\r\nA Monthly Magazine Devoted to the Promotion of True Culture.\r\nOrgan of the Chautauqua Literary and Scientific Circle.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "53652",
-    "matchType": 2,
     "hash": "ddf531c2b87802a1a762cb04b445c5ba7a17ae2d74d10d321fb367f13cc995e5"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Pictorial Press: Its Origin and Progress",
     "author": "Jackson, Mason, 1819-1903",
     "gutenbergReference": "36417",
-    "matchType": 1,
     "hash": "ae51bd9c9d5ef1b7f0d9e3757e43f84e67dd26ea1633a9f99988a9243cf69c80"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Genius",
     "author": "Potter, Margaret Horton, 1881-1911",
     "gutenbergReference": "22004",
-    "matchType": 1,
     "hash": "e30e0bae46399403a28f5a0b43883ff55311e0d6c8cf8367bf61955e85b59aec"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Three Little Lines\r\nSilverton Railroad; Silverton, Gladstone and Northerly; Silverton Northern",
     "author": "Crum, Josie Moore",
     "gutenbergReference": "62664",
-    "matchType": 2,
     "hash": "dfc87fb1af4a9e4acf0b2c6c29c364ed15e39bdcde3bbfb499cb78310e259f02"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Toxicity of Caffein: An experimental study on different species of animals",
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
-    "matchType": 2,
     "hash": "2fd1123ac5e1a1e1f0d748333f7984d5d4230c607fe27f52fb2c7bf5951580e9"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Toxicity of Caffein: An experimental study on different species of animals",
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
-    "matchType": 2,
     "hash": "24439a26b9b2d31f4fc68ff207496d69608a270bab84ef5220e1ec90a601f8ac"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The possessed",
     "author": "Dostoyevsky, Fyodor, 1821-1881; Garnett, Constance, 1861-1946 [Translator]",
     "gutenbergReference": "8117",
-    "matchType": 1,
     "hash": "af5a6af30c8180f6dfadf59324452f33c636ca834b4ec6bc8f7e1fafe5c28dae"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Warren Commission (02 of 26): Hearings Vol. II (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44002",
-    "matchType": 2,
     "hash": "3d195af0c1e3c32596fa10da6db03a44b2568bb712bb1e8efd569dc3ebd3f922"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "matchType": 2,
     "hash": "1e8ad8f76715eb306804b2669c7f3b86dca43c43627fbe7274a6ee5661249477"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "4b4b7b6d448f0517afb0e58e664d3028fc0112695978549373c6392e27441176"
   },
   {
@@ -82,9 +75,8 @@
     "quoteTime": "2.37 p. m.",
     "quoteLast": " on 31st May, 1916, I was cruising and steering to the northward to join your flag.\"",
     "title": "The Story of the Great War, Volume 5\r\nBattle of Jutland Bank; Russian Offensive; Kut-El-Amara; East Africa; Verdun; The Great Somme Drive; United States and Belligerents; Summary of Two Years' War",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
     "gutenbergReference": "29341",
-    "matchType": 2,
-    "hash": "452830a8a8db2b37d307fd2d0a4e47f83234a5076ff575239e43359bcfe207c8"
+    "hash": "c445346111045b32839ea5f186ae26738db285e177642341e3e23947b665af03"
   }
 ]

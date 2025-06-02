@@ -7,7 +7,6 @@
     "title": "America's War for Humanity",
     "author": "Russell, Thomas Herbert, 1862-1947",
     "gutenbergReference": "10147",
-    "matchType": 2,
     "hash": "0c3400b029eae2ffba19a3ba3a18dd308a05a3f6326b940c820e026e589f8b58"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Barium: A Cause of the Loco-Weed Disease",
     "author": "Crawford, Albert Cornelius",
     "gutenbergReference": "40256",
-    "matchType": 2,
     "hash": "84589e5efa16b60d1910947251722e2199e31ef5670ef7159390c5aacb9f6271"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "matchType": 2,
     "hash": "803685f5e0760df55d18aa85458cabaebdd59bfc69f2f7c99feb9b4f6b8875a1"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Truth About Port Arthur",
     "author": "Nozhin, E. K. (Evgenii Konstantinovich); Swinton, E. D. (Ernest Dunlop), 1868-1951 [Editor]; Lindsay, A. B. (Alexander Bertram), 1872-1914 [Translator]",
     "gutenbergReference": "59972",
-    "matchType": 2,
     "hash": "c823a8491ba87ed3e4bda2e061bfa424425aedab191a8a464a858827f36e7d5b"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
-    "matchType": 2,
     "hash": "297a8c75c4f7f867c030a029991f42d37ffbb60e5c0b54962d9f3c552ed9dc0c"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Fight for Constantinople: A Story of the Gallipoli Peninsula",
     "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Wigfull, W. Edward, 1875-1944 [Illustrator]",
     "gutenbergReference": "37600",
-    "matchType": 1,
     "hash": "d0a30a74f2a1ae6c3a735098c08d8a7506743b643968dce0c12e1529d3e9fd8d"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Chautauquan, Vol. 04, February 1884, No. 5.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55132",
-    "matchType": 2,
     "hash": "e40378f42300e2aae28570d275a27da0f6b17024c3fcda1a78d5c9f00123927c"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Historic Tales: The Romance of Reality. Vol. 12 (of 15), Japanese and Chinese",
     "author": "Morris, Charles, 1833-1922",
     "gutenbergReference": "31571",
-    "matchType": 2,
     "hash": "08e1a5ce7a7239999a1d7a0ce3c3edfaf0c51b0446c8ce9b2fe6076ae6daf480"
   }
 ]

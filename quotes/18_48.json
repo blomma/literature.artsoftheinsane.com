@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55331",
-    "matchType": 2,
     "hash": "6f0ddd2834434ba6eee2d9ae653013b885fd0f43b0042953bdccb37f1c6e8b4f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Every-day Book and Table Book. v. 3 (of 3)\r\nEverlasting Calerdar of Popular Amusements, Sports, Pastimes, Ceremonies, Manners, Customs and Events, Incident to Each of the Three Hundred and Sixty-five Days, in past and Present Times; Forming a Complete History of the Year, Month, and Seasons, and a Perpetual Key to the Almanac",
     "author": "Hone, William, 1780-1842",
     "gutenbergReference": "53277",
-    "matchType": 1,
     "hash": "e372be13b8ba5c68746734378cc1de493b8ff4351c66d59ae00857b983ef4e11"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, February 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55053",
-    "matchType": 2,
     "hash": "c89b5167b9198d8ad4cd7b76418086914cec98b06b9c554edbf4443d58b9b152"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Fighting Scrub",
     "author": "Barbour, Ralph Henry, 1870-1944; Rahn, A. D. [Illustrator]",
     "gutenbergReference": "73435",
-    "matchType": 1,
     "hash": "3150dc1ff21f1df0f4d1243ac770f98420502ace6a88868de54360cb85a1f88f"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
-    "matchType": 2,
     "hash": "c2a1459e5c2077d71f856647a651704755bd41648a50ec50359f6a7803d31223"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Virginian: A Horseman of the Plains",
     "author": "Wister, Owen, 1860-1938",
     "gutenbergReference": "1298",
-    "matchType": 1,
     "hash": "ccc03024a45328c13ba2c2963061699b84d1cc27e9ca2efdaa247b7bcb792cc4"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Punch, or the London Charivari, Volume 100, May 9, 1891",
     "author": "Various",
     "gutenbergReference": "13313",
-    "matchType": 1,
     "hash": "bfa078305e609f5ccfa39219b91e8c34f5c68376c4b74a1e87b44a56563dcd5a"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Our Navy at war",
     "author": "Daniels, Josephus, 1862-1948",
     "gutenbergReference": "63596",
-    "matchType": 2,
     "hash": "d1d9b7471ee16e04fd6071cc255aa0c1755178c1bb6e7965f98ae00bffc3904f"
   },
   {
@@ -95,7 +87,6 @@
     "title": "A History of Aeronautics",
     "author": "Vivian, Evelyn Charles, 1882-1947; Marsh, W. Lockwood (William Lockwood), 1886-1963",
     "gutenbergReference": "874",
-    "matchType": 2,
     "hash": "efd0e0b247a2abbdd0746896c67534861249b108f8f4c38a54a6fdc62d28b78d"
   },
   {
@@ -106,7 +97,6 @@
     "title": "A History of Aeronautics",
     "author": "Vivian, Evelyn Charles, 1882-1947; Marsh, W. Lockwood (William Lockwood), 1886-1963",
     "gutenbergReference": "58347",
-    "matchType": 2,
     "hash": "cfac78da475fa737d6fc260132850c01623425b16c8cf6046c4da05267e82f5b"
   },
   {
@@ -117,7 +107,6 @@
     "title": "When shadows die",
     "author": "Southworth, Emma Dorothy Eliza Nevitte, 1819-1899",
     "gutenbergReference": "75317",
-    "matchType": 1,
     "hash": "0016ee7ae6b0e641df4fe45f6df442f3924bfaf0267af017e2692682bc8fd1b5"
   },
   {
@@ -128,7 +117,6 @@
     "title": "H. G. Hawker, airman: his life and work",
     "author": "Hawker, Muriel; Moore-Brabazon, John Theodore Cuthbert, 1884-1964 [Author of introduction, etc.]",
     "gutenbergReference": "64793",
-    "matchType": 2,
     "hash": "21c0299bace7dc19179efec9822030096862eb08aadc8320ddb4b236cc1df964"
   },
   {
@@ -139,7 +127,6 @@
     "title": "Punch, or the London Charivari, Volume 100, April 18, 1891",
     "author": "Various",
     "gutenbergReference": "13323",
-    "matchType": 1,
     "hash": "ddfa36a9a7e2c484693426f5439318e0ae85e4fb4e979e4474178954ad0bad98"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "6241915edb4f8a4bf24d68e571e74974760462c501b2a9566946844c59324584"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55134",
-    "matchType": 2,
     "hash": "441284d4374de4e36b91f4e4e9d88b478f5e2bacabd7f24f6f6c9037e27ddc9e"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
-    "matchType": 2,
     "hash": "3087688b062eb82795612f5b08736a12b8811837ede6a93ebc625ec98a72b44c"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Anthony Lyveden",
     "author": "Yates, Dornford, 1885-1960",
     "gutenbergReference": "27684",
-    "matchType": 1,
     "hash": "bde8bc574a7c8977708f0c61270fd0d9ac233fb53bd93ffcc302bd4c5399ba82"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "b346953dd789bea679390eec9a368aca1185b892f52beb9421b10cc493eb63f9"
   }
 ]

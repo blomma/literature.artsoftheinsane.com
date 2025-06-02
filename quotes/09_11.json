@@ -7,7 +7,6 @@
     "title": "The Moon-Voyage",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "12901",
-    "matchType": 2,
     "hash": "8aa30dafa01e4597647d3bc8aadbf9b5135d319ab7274e3acec65c60ee7f5d7d"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Boys' Nelson",
     "author": "Wheeler, Harold, 1877-",
     "gutenbergReference": "50731",
-    "matchType": 1,
     "hash": "5e0faf7c258377d4276567228c4fce5123147fb7a26080d0a675b41ab6d66535"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Authentic Narrative of the Death of Lord Nelson",
     "author": "Beatty, William, 1773-1842",
     "gutenbergReference": "15233",
-    "matchType": 1,
     "hash": "2c8081b277de4832350a57da95bdf0da7fcdbbdcfc3825115c0b483781d52c6e"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "matchType": 2,
     "hash": "1eebb49d8ba20253adfe09c50fd18fb44289390f11b14d61100c80edf6a4c7fa"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Journeys and Experiences in Argentina, Paraguay, and Chile\nIncluding a Side Trip to the Source of the Paraguay River in the State of Matto Grosso, Brazil, and a Journey Across the Andes to the Rio Tambo in Peru",
     "author": "Stephens, Henry, 1883-",
     "gutenbergReference": "44692",
-    "matchType": 2,
     "hash": "e3c1c45ac217634a90e513970010b5f173548c33405d721230d8044c450a7f42"
   }
 ]

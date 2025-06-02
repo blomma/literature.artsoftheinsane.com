@@ -7,7 +7,6 @@
     "title": "The Wheels of Chance: A Bicycling Idyll",
     "author": "Wells, H. G. (Herbert George), 1866-1946",
     "gutenbergReference": "1264",
-    "matchType": 1,
     "hash": "e15984924f19e5553ce00ea9e20177f29e45ecfcdf3cca28758277ab391b11f1"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Ponson case",
     "author": "Crofts, Freeman Wills, 1879-1957",
     "gutenbergReference": "72235",
-    "matchType": 2,
     "hash": "8f7b50829978bf08c3bf9c67fa8139ced39044a2f7fb2635be6f89c8c9ad7164"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "e7d81c2d0e427076467dbdddcaef9bf2ad6a4501b04d98185c54ce9e5b229b14"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "ce90a1324a4798b5875d184c5907bf2baddd03456cc9c3c055d8d8c2ad941c57"
   }
 ]

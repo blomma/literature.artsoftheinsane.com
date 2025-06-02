@@ -1,14 +1,83 @@
 [
   {
     "time": "00:58",
-    "quoteFirst": "Believing that it was a smuggler's signal, he despatched his four-oared galley, with directions to row between Eccles Barn and the Martello Tower, No. 39. At the same time the _Ranger_ continued to cruise off the land so as to be in communication with the galley. ",
+    "quoteFirst": "\"They live with a hansom cab at the door and their watch in their hand,\" retorted Beaumont cynically; \"they give ",
+    "quoteTime": "two minutes to one",
+    "quoteLast": " thing, five minutes to another, and think they are enjoying themselves--get a smattering of all things and a thorough knowledge of nothing--the last play, the last book, the last scandal, the latest political complication--they know all these things well enough to chatter about them, but alas for the deep thinker who puts his views before the restless world of London--he will have a very small circle of readers indeed, because no one has any time to ponder over his thoughtful prose.",
+    "title": "The Man with a Secret: A Novel",
+    "author": "Hume, Fergus, 1859-1932",
+    "gutenbergReference": "55404",
+    "hash": "1359502f7469225c0c2eb430295179b4c0315d3ca8095ad8e9e41e1a2e462e4d"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "Then I was carried back to Memphis, arriving ",
+    "quoteTime": "about one o'clock at night",
+    "quoteLast": ", and, for safe keeping, was put into what was called the calaboose. This was especially for the keeping of slaves who had run away and been caught.",
+    "title": "Thirty Years a Slave\r\nFrom Bondage to Freedom: The Institution of Slavery as Seen on the Plantation and in the Home of the Planter: Autobiography of Louis Hughes",
+    "author": "Hughes, Louis, 1832-1913",
+    "gutenbergReference": "10431",
+    "hash": "66fbeb32cb9bcb1b9dbce2a5d25222b8027a67e729cc2cf6f1a190b872fa6021"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "Between this point and Candleriggs were found the principal coach offices. From Walker’s coach-office at the “Tontine,” the mail-coach for London started at ",
+    "quoteTime": "about 1 a.m.",
+    "quoteLast": ", called at the Post Office in Glassford Street for the bags, left there at 1.15, pulled up again at the “Tontine” for the way-bill, and then was off in earnest, its five lamps glaring through the darkness.",
+    "title": "The Manchester and Glasgow Road, Volume 2 (of 2)\r\nThis Way to Gretna Green",
+    "author": "Harper, Charles G. (Charles George), 1863-1943",
+    "gutenbergReference": "58482",
+    "hash": "290868a4bc9079d5b3bb590434e33aa080abac245de1e2a95663160673a3d156"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "We started with a fair breeze, but this changed after a time to a head wind, against which it was quite impossible to make any headway, so we landed at a place where there was a small inlet leading into a lagoon. We stayed here till six p.m., when the wind dropped sufficiently to enable us to start off again, and, passing the mouth of the Musa River, we landed ",
+    "quoteTime": "about one a.m.",
+    "quoteLast": " in Porlock Bay, where we camped for the night.",
+    "title": "Wanderings among South Sea Savages and in Borneo and the Philippines",
+    "author": "Walker, H. Wilfrid",
+    "gutenbergReference": "2564",
+    "hash": "09249f21bc46ff15c4e41ded0db63ea25ada51204143dfbf19055eb2a46cc039"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "We heard that there was an attack on the 14th Brigade on our left ",
+    "quoteTime": "about 1 A.M.",
+    "quoteLast": ", and that 200 Germans had got in behind the K.O.Y.L.I.",
+    "title": "The Doings of the Fifteenth Infantry Brigade: August 1914 to March 1915",
+    "author": "Gleichen, Edward, Lord, 1863-1937",
+    "gutenbergReference": "22074",
+    "hash": "e35c1f1bf659a83c127c361e5906dbcff27a25eba9cd1d09285a1b929680d47e"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "_July 23rd._--Very heavy rain during the night. About 2 A.M. the enemy sounded the \"turn out,\" and at 3 the \"assembly.\" ",
     "quoteTime": "About 1 A.M.",
-    "quoteLast": " a report was heard from the Hastings direction, and a significant blue light was seen burning. Baker therefore took his cutter nearer in-shore towards the spot where this light had been seen.",
-    "title": "King's Cutters and Smugglers 1700-1855",
-    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
-    "gutenbergReference": "17563",
-    "matchType": 0,
-    "hash": "8c2781535ae3754b0d643ec23ad103b69bb44aacf105c279754b611d9ef07398"
+    "quoteLast": " a native pensioner, who left us on the 27th to gain information, came in, and said he had been confined by the enemy thirteen days, but had been to Cawnpore and left it two days ago,--that a British force with twelve guns was there; that they had fought three times with the Nana's troops, and had completely beaten them, taking many guns, and that they were crossing the river preparatory to advancing to our assistance.",
+    "title": "The Defence of Lucknow\r\nA Diary Recording the Daily Events during the Siege of the European Residency, from 31st May to 25th September, 1857",
+    "author": "Wilson, T. F. (Thomas Fourness)",
+    "gutenbergReference": "53093",
+    "hash": "d4fe53259f517b856b6d97bc6e7e3c647671b84af7df24e2ebf24cc6387237f8"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "Then I was carried back to Memphis, arriving ",
+    "quoteTime": "about one o'clock at night",
+    "quoteLast": ", and, for safe keeping, was put into what was called the calaboose. This was especially for the keeping of slaves who had run away and been caught.",
+    "title": "Thirty Years a Slave\r\nFrom Bondage to Freedom: The Institution of Slavery as Seen on the Plantation and in the Home of the Planter: Autobiography of Louis Hughes",
+    "author": "Hughes, Louis, 1832-1913",
+    "gutenbergReference": "10431",
+    "hash": "66fbeb32cb9bcb1b9dbce2a5d25222b8027a67e729cc2cf6f1a190b872fa6021"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "The Doctor took out his watch. It was ",
+    "quoteTime": "two minutes to one",
+    "quoteLast": ". “We will take the Juvenal at afternoon school,” he said, nodding to the Captain, and all the boys understanding the signal gathered up their books and poured out of the hall.",
+    "title": "The History of Pendennis",
+    "author": "Thackeray, William Makepeace, 1811-1863",
+    "gutenbergReference": "7265",
+    "hash": "0b605311cf81c0ab8f81ef945f300be8b67d181305b63f97373d9a61fc51127f"
   },
   {
     "time": "00:58",
@@ -18,205 +87,116 @@
     "title": "The Sinn Fein Rebellion as I Saw It.",
     "author": "Norway, Hamilton, Mrs., -1932",
     "gutenbergReference": "43470",
-    "matchType": 0,
     "hash": "ea67161fc0d3fa2adffba99cdc9dac3f24f4e1511826d7ae6ecab2b9f1161f10"
   },
   {
     "time": "00:58",
-    "quoteFirst": "Lieutenant Moore, hearing in hospital word of this impending attack, rejoined us. The Battalion marched off at 6 p.m., and relief was completed in the trenches ",
-    "quoteTime": "about 1 a.m.",
-    "quoteLast": " This time we took over the fire and support trenches from the 1/6th Black Watch. We found the trenches very much drier than when we left them. There was some shelling at the time of relief.",
-    "title": "The War History of the 1st/4th Battalion, the Loyal North Lancashire Regiment\nnow the Loyal Regiment (North Lancashire), 1914-1918",
-    "author": "Anonymous",
-    "gutenbergReference": "65369",
-    "matchType": 0,
-    "hash": "0fe8d305c72763c19e263cd0664a07f841aa19699c58922efdacfcd93e507212"
-  },
-  {
-    "time": "00:58",
-    "quoteFirst": "I said before that natives sleep soundly, and you must believe it, or you will never credit my story. ",
+    "quoteFirst": "One little incident I remember at this spot. ",
     "quoteTime": "About 1 A.M.",
-    "quoteLast": " the man sleeping on the floor of the shelter heard his friend shouting for help. The voice came from the ditch by the road, and thither the man ran, shouting “What is the matter?” “Thieves!” promptly replied the other, but a moment’s conversation dispelled the idea born of his partially-awakened intelligence, and led them to the true interpretation of the riddle.",
-    "title": "Unaddressed Letters",
-    "author": "Swettenham, Frank Athelstane, Sir, 1850-1946 [Editor]",
-    "gutenbergReference": "47420",
-    "matchType": 0,
-    "hash": "ae6fc5681e1d544614feba80774c235280f7de592539a799aa3499b32d834e65"
+    "quoteLast": " an elderly R.E. officer came into our shelter, and told us in a voice shaking with joyful emotion that he had just blown up a German counter-mine which had been threatening our mine galleries at Hill 60.",
+    "title": "Q.6.a and Other places: Recollections of 1916, 1917 and 1918",
+    "author": "Buckley, Francis, 1881-1949",
+    "gutenbergReference": "25528",
+    "hash": "d3299a010d4706343efee0ad061e110e7ac6a7d9de97c3c0b660ba6a8aed2e2b"
   },
   {
     "time": "00:58",
-    "quoteFirst": "Eventually his Excellency gave his instructions over the 'phone, first in French, but that particular 'phone either did not speak or did not understand French, so eventually he took the risk of the 'phone being tapped and gave them in English. At last H. got to bed ",
+    "quoteFirst": "It is evident that from the description of the Moon it exhibited on that occasion the well-known coppery hue which is a recognised feature of many total eclipses of our satellite. This eclipse occurred on January 24, beginning at ",
     "quoteTime": "about 1 a.m.",
-    "quoteLast": ", to be at the 'phone again at 5 a.m.",
-    "title": "The Sinn Fein Rebellion as I Saw It.",
-    "author": "Norway, Hamilton, Mrs., -1932",
-    "gutenbergReference": "43470",
-    "matchType": 0,
-    "hash": "5192f5c53f0c508ff66673da483b77f186d029ce70f927621183420d718c8707"
+    "quoteLast": "",
+    "title": "The Story of Eclipses",
+    "author": "Chambers, George F. (George Frederick), 1841-1915",
+    "gutenbergReference": "24222",
+    "hash": "f38c97e549d75598d79307096fd19d828ce5a6a0ea8762aec2c1528a647c7ffb"
   },
   {
     "time": "00:58",
-    "quoteFirst": "At the end of the second day I felt I must make an effort to move on, and therefore called John and the camel-men to my couch upon the sand, and bade them prepare to start at midnight, even if it was found necessary to rope me to my camel so that I should not collapse and fall to the ground from weakness. This resolution was carried out, and ",
+    "quoteFirst": "One night ",
     "quoteTime": "about 1 a.m.",
-    "quoteLast": " the caravan was _en route_ under the blessed coolness of the night, and aided by the light of the moon, which rose about the time the men commenced to load up the camels.",
-    "title": "Exploration of Aïr",
-    "author": "Buchanan, Angus, 1886-1954",
-    "gutenbergReference": "70323",
-    "matchType": 0,
-    "hash": "ee2090143b4b2e1cb2bd4c5082447fc85bd868764a02d9c6d606b8c9053626d8"
+    "quoteLast": " I came in from supper in my flat soft felt slippers, and from sheer joy of living executed, quite noiselessly, a few steps for Sister's benefit down the middle of the Ward! It was a great temptation, and needless to say not appreciated by Sister as much as I had hoped.",
+    "title": "Fanny goes to war",
+    "author": "Washington, Pat Beauchamp, 1892-1972",
+    "gutenbergReference": "16521",
+    "hash": "cb202e71414341c3bb9026931a3a2686035ce7fbd13a6fb16bde8e83a237536c"
   },
   {
     "time": "00:58",
-    "quoteFirst": "Alas, though, it had to end. ",
-    "quoteTime": "About one A.M.",
-    "quoteLast": " we geared up. She retrieved her coat; I banked the fire; and we straggled out into the sleet. After finally managing a cab, we headed uptown.",
-    "title": "The Samurai Strategy",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34323",
-    "matchType": 0,
-    "hash": "1c68d98bc7d73b8d92073afead2e4089e156e0972fd6d00bed543182dde69029"
+    "quoteFirst": "“Pastorian.” ",
+    "quoteTime": "About one a.m.",
+    "quoteLast": " they were replaced by another Pastorian and another member of the family. From November 1 to December 25, the laboratory workers continued this watching, regulated by Dr. Roux as follows:--",
+    "title": "The life of Pasteur",
+    "author": "Vallery-Radot, René, 1853-1933; Osler, William, Sir, 1849-1919 [Author of introduction, etc.]; Devonshire, R. L., Mrs., 1864-1949 [Translator]",
+    "gutenbergReference": "60956",
+    "hash": "23b0761ab28f3a9a9b41f0715727e6d387ea6a9aedad17eba850b8278262eda7"
   },
   {
     "time": "00:58",
-    "quoteFirst": "It has been a lovely day. Some of the time it's been really uncomfortable, the sun has been so warm. ",
-    "quoteTime": "About 1 a. m.",
-    "quoteLast": " last night when making the rounds considerable firing was heard towards the right of the line. It was probably deserters trying to come into our lines.",
-    "title": "Personal Recollections and Civil War Diary, 1864",
-    "author": "Abbott, Lemuel Abijah, 1842-1911",
-    "gutenbergReference": "47332",
-    "matchType": 0,
-    "hash": "0e5b21feba043f80bf04499015653dc6664eada1b260a99b9a1dd05814f4abff"
-  },
-  {
-    "time": "00:58",
-    "quoteFirst": "The country in a sense was dangerous, because the neighbouring watering-point called Agaragar, has often proved to be the favourite camping-ground for raiders entering Air from the north. It happened while I was taking an astronomical observation during the night at ",
+    "quoteFirst": "The half-dozen doubters who awaited his advent in the Broadway were surprised ",
     "quoteTime": "about 1 a.m.",
-    "quoteLast": " that a sudden wind arose in the valley, and the camp woke up with a sense of foreboding. The air seemed filled with impending danger, of which the camels also became aware.",
-    "title": "People of the veil",
-    "author": "Rennell of Rodd, Francis James Rennell Rodd, Baron, 1895-1978",
-    "gutenbergReference": "74774",
-    "matchType": 0,
-    "hash": "8e5b5f00457aa468a948602827298ed24ae6b49be6c4fdbb6987dc46a4e3dcab"
+    "quoteLast": " to see him running as fast as he could put legs to the ground, with only the remnant of a shirt on him; after recovering his breath and his courage he proceeded to describe the terrific slaughter he had inflicted on an innumerable number of assailants.  A scurrilous print that flourished about this time in its next issue narrated the incident in verse by: “Oh, pray for the souls that Corrigan kilt,” etc.",
+    "title": "London in the Sixties (with a few digressions)",
+    "author": "Shaw, Donald [Dubious author]; Widmington, Ernest [Dubious author]",
+    "gutenbergReference": "44163",
+    "hash": "d7e3151f9bb2e9d023b75088fa28e3da46750001544070c9f527de5e2ddf7973"
   },
   {
     "time": "00:58",
-    "quoteFirst": "This tempting news created a halt. In the evening I killed a nsamma doe, an animal very much like the Kobus Ellipsiprymnus, but without the lunated mark over the rump; and at night, ",
+    "quoteFirst": "\"",
+    "quoteTime": "About one o'clock a.m.",
+    "quoteLast": ", on the 25th November, 1890, Constable Pennett, being on duty at Tower Hill, saw a man throw himself into the Thames, apparently with the intention of committing suicide. He at once divested himself of lamp and belt, and without waiting to take off his uniform, jumped into the river, seized hold of the struggling man, and gallantly rescued him. The night was dark.",
+    "title": "The Strand Magazine,  Vol. 05, Issue 28, April 1893\r\nAn Illustrated Monthly",
+    "author": "Various; Newnes, George, 1851-1910 [Editor]",
+    "gutenbergReference": "20798",
+    "hash": "c149e5847947efcc816847534ea6c128d3fe69834143a2b775c4fbb056137328"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "Friday, 22nd March, Brinkley Bluff, McDonnell Range. ",
+    "quoteTime": "About 1 a.m.",
+    "quoteLast": " the rain came down in torrents, and continued until nearly sunrise, from south-east. Wind from same quarter. It is impossible to move to-day. The creek is higher than it has been before, and running with great rapidity.",
+    "title": "Explorations in Australia\r\nThe Journals of John McDouall Stuart During the Years 1858, 1859, 1860, 1861, and 1862, When He Fixed the Centre of the Continent and Successfully Crossed It from Sea to Sea",
+    "author": "Stuart, John McDouall, 1815-1866",
+    "gutenbergReference": "8911",
+    "hash": "4bd695eaa1abea44f436f01cc16670e8383701fb793657e65443a090c899d871"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "Her namesake must have been one of these goodly but insufficient and but indifferently clean native women, plodding, doing not a little work, but wanting in many a thing. It was cold and dreary, but I found an additional blanket, and so, with mosquito netting about my head--one or two got in anyway--would have slept quite well had it not been for a dog. At ",
+    "quoteTime": "about 1 a. m.",
+    "quoteLast": " we stopped in front of a little place called also \"Mountain Village.\" And almost at once we began to hear a most piteous and insistent wail of a dog who either had colic or thirst or hunger, and he kept it up with but little stops for what seemed like two hours, making my sleep, at least, impossible.",
+    "title": "Anthropological Survey in Alaska",
+    "author": "Hrdlička, Aleš, 1869-1943",
+    "gutenbergReference": "50752",
+    "hash": "3df07046684617603d34dc09b4795f75d0b890e74f6c427fc02da3f2caef6f09"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "He had been at the Front scarcely three weeks when, ",
     "quoteTime": "about 1 a.m.",
-    "quoteLast": ", turned out to shoot an elephant, which we distinctly heard feasting on plantains; but rain was falling, and the night so dark, he was left till the morning.",
-    "title": "The Discovery of the Source of the Nile",
-    "author": "Speke, John Hanning, 1827-1864",
-    "gutenbergReference": "3284",
-    "matchType": 0,
-    "hash": "c35600f267172f613cef521fde7f9f7606c5e223c891a40b358d38cef0b971a7"
+    "quoteLast": " on 12 March, 1915, he was mortally wounded while on sentry duty in the trenches at Ploegsteert Woods. The Sergt. of his platoon wrote: “Your son was in my platoon and was on sentry duty in the trench on the night of the 11th-12th. At about 1 a.m. a star light was sent up by the enemy over his trench, followed immediately by a volley. Unfortunately one of the shots struck your son on the left side of the head level with the left eye.",
+    "title": "The Roll of Honour, Volume 1",
+    "author": "Ruvigny et Raineval, Melville Henry Massue, marquis de, 1868-1921",
+    "gutenbergReference": "75883",
+    "hash": "29427ae32511e5912376bfefd51563839b65828e9b5a4acac2da44ae3b3a6135"
   },
   {
     "time": "00:58",
-    "quoteFirst": "",
-    "quoteTime": "About one o'clock that night",
-    "quoteLast": " three clear, sharp cries of an owl, wonderfully well imitated, echoed through the square. Pierrette heard them in her feverish sleep; she jumped up, moist with perspiration, opened her window, saw Brigaut, and flung down a ball of silk, to which he fastened a letter.",
-    "title": "The Celibates",
-    "author": "Balzac, Honoré de, 1799-1850; Saintsbury, George, 1845-1933 [Commentator]; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
-    "gutenbergReference": "7927",
-    "matchType": 0,
-    "hash": "df788c808ea7a65b6850e5d9b5d2fff4dc198be810aa6bc9b16257c669f9f1e2"
-  },
-  {
-    "time": "00:58",
-    "quoteFirst": "of his cabin, which the German Captain had annexed, leaving the owner thereof the chartroom to sleep in--and was naturally very chagrined at the course events had taken, especially as he said he had been informed by the Consul at Lourenço Marques that the course between there and Colombo was quite clear, and had not even been informed of the disappearance of the _Hitachi_, though she had been overdue at Delagoa Bay about a month. Consequently he had been showing his navigation lights at sea, and without them the _Wolf_ would probably not have seen him, as it was ",
-    "quoteTime": "about 1 a.m.",
-    "quoteLast": " when the _Wolf_ picked him up.",
-    "title": "Five Months on a German Raider\nBeing the Adventures of an Englishman Captured by the 'Wolf'",
-    "author": "Trayes, Frederic George, 1871-",
-    "gutenbergReference": "16690",
-    "matchType": 0,
-    "hash": "df5294c0407da51627cdf1d562e48aadf6f56c63cadc133297bcc28277bf9799"
-  },
-  {
-    "time": "00:58",
-    "quoteFirst": "I said before that natives sleep soundly, and you must believe it, or you will never credit my story. ",
-    "quoteTime": "About 1 A.M.",
-    "quoteLast": " the man sleeping on the floor of the shelter heard his friend shouting for help. The voice came from the ditch by the road, and thither the man ran, shouting “What is the matter?” “Thieves!” promptly replied the other, but a moment’s conversation dispelled the idea born of his partially-awakened intelligence, and led them to the true interpretation of the riddle.",
-    "title": "Unaddressed Letters",
-    "author": "Swettenham, Frank Athelstane, Sir, 1850-1946 [Editor]",
-    "gutenbergReference": "47420",
-    "matchType": 0,
-    "hash": "ae6fc5681e1d544614feba80774c235280f7de592539a799aa3499b32d834e65"
-  },
-  {
-    "time": "00:58",
-    "quoteFirst": "",
-    "quoteTime": "About one at night",
-    "quoteLast": " the cavalry returned, reporting the road occupied in force by the enemy, with whose advance-guard they skirmished, driving them back--about a mile, taking two prisoners, and having their chief guide, Thomas Maxwell, Esq., and three men of the Fourth Illinois wounded.",
-    "title": "Memoirs of General William T. Sherman — Volume 1",
-    "author": "Sherman, William T. (William Tecumseh), 1820-1891",
-    "gutenbergReference": "2616",
-    "matchType": 0,
-    "hash": "a1ad55e93852710011c141cddec2f060f494b5a476474f231d79751c6dc458c4"
-  },
-  {
-    "time": "00:58",
-    "quoteFirst": "It was only later on that I learned the success of this mission. The two spies arrived on a certain night at ",
-    "quoteTime": "about one a.m.",
-    "quoteLast": " and did their part so well that, by two a.m., the terrified Khan had mounted his camel, and set forth for Makran.",
-    "title": "Raiders of the Sarhad\nBeing an Account of the Campaign of Arms and Bluff Against the Brigands of the Persian-Baluchi Border during the Great War",
-    "author": "Dyer, R. E. H. (Reginald Edward Harry), 1864-1927",
-    "gutenbergReference": "51070",
-    "matchType": 0,
-    "hash": "f557f8d71e324af3d04527fa203807bf46c4e9c370bdb51f9dbe56fc054c6945"
-  },
-  {
-    "time": "00:58",
-    "quoteFirst": "\"SEPT. 3d.--Died this morning ",
+    "quoteFirst": "A little to the west of Bridport (Dorset) is Seatown, and just beyond that comes Golden Cape. On the night of the above date one of the Seatown Revenue officers ",
     "quoteTime": "about 1 A.M.",
-    "quoteLast": " Is so emaciated that he is little more than skin and bones. _Rigor mortis_ entirely absent. Shortly after death the skin of the whole body changed to a dark chocolate hue.\"",
-    "title": "Manhood Perfectly Restored\r\nProf. Jean Civiale's Soluble Urethral Crayons as a Quick, Painless, and Certain Cure for Impotence, Etc.",
-    "author": "Civiale Remedial Agency",
-    "gutenbergReference": "18370",
-    "matchType": 0,
-    "hash": "22d40ff7be10ba71e3ab112c3d7900d267d07f84eb09a888132bbd98b774e2c8"
-  },
-  {
-    "time": "00:58",
-    "quoteFirst": "Believing that it was a smuggler's signal, he despatched his four-oared galley, with directions to row between Eccles Barn and the Martello Tower, No. 39. At the same time the _Ranger_ continued to cruise off the land so as to be in communication with the galley. ",
-    "quoteTime": "About 1 A.M.",
-    "quoteLast": " a report was heard from the Hastings direction, and a significant blue light was seen burning. Baker therefore took his cutter nearer in-shore towards the spot where this light had been seen.",
+    "quoteLast": " noticed flashes coming from the cliff between Seatown and Golden Cape. He proceeded to the cliff, which at high-water runs straight up out of the sea.",
     "title": "King's Cutters and Smugglers 1700-1855",
     "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
     "gutenbergReference": "17563",
-    "matchType": 0,
-    "hash": "8c2781535ae3754b0d643ec23ad103b69bb44aacf105c279754b611d9ef07398"
+    "hash": "4faef668e235d5374fd0395590df69167a5739cae6b81087cd80a64c99666171"
   },
   {
     "time": "00:58",
-    "quoteFirst": "These were put on board and the voyage back to England commenced, the intention being to make for West Bay and land the goods somewhere near Sidmouth. Having arrived off the Devonshire coast, Rattenbury took the _Lyme Packet's_ boat and rowed himself ashore, landing at Beer Head, his object being to get assistance from the men of Sidmouth for landing his goods. It was then ",
-    "quoteTime": "about 1 A.M.",
-    "quoteLast": " The captain of the _Lyme Packet_ kept his ship standing off and on during the night, and hovered about that part of the coast till daybreak. But as Rattenbury had not returned by the time the daylight had come back, Cawley became more than a little nervous and feared lest he might be detected. Before very long--the exact time was 6.30 A.M.--Robert Aleward, a mariner on the Revenue cutter _Scourge_, on turning his eye into a certain direction not more than three miles away, espied this _Lyme Packet_, informed his commander, and a chase was promptly begun.",
-    "title": "King's Cutters and Smugglers 1700-1855",
-    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
-    "gutenbergReference": "17563",
-    "matchType": 0,
-    "hash": "0aaca81f0ad647026002bd0c65b7dfdd50a2d7728463583827ecc27fe7c27c50"
-  },
-  {
-    "time": "00:58",
-    "quoteFirst": "21st.—",
-    "quoteTime": "About 1 A. M.",
-    "quoteLast": " weighed anchor and stood down the river with a light breeze. This day I found myself exceedingly indisposed; but having several patients ill of the measles, I made an effort to see them about half past 4 in the morning, but was soon compelled to retire to bed.",
-    "title": "Two Voyages to New South Wales and Van Diemen's Land",
-    "author": "Reid, Thomas, 1791-1825",
-    "gutenbergReference": "53643",
-    "matchType": 0,
-    "hash": "1ff040687af0a4215769d75b37e11ebe02de85838b84f18a8d3a4bae72ca56c2"
-  },
-  {
-    "time": "00:58",
-    "quoteFirst": "February 23rd, at ",
-    "quoteTime": "about 1 A.M.",
-    "quoteLast": "; at which time the tide-gauge at Genoa recorded some abnormal oscillations. An hour later, a more important, though by no means a strong, shock occurred; this was perceptible all over the Riviera, in Piedmont, and in Corsica; in other words, it disturbed a region agreeing closely with the central area of the disastrous shock. At about 5 A.M., a fifth shock, somewhat weaker than the preceding, was felt over the same area, concurrently, or nearly so, with another abnormal oscillation of the tide-gauge at Genoa; while a sixth shock was noticed at several places a few minutes",
-    "title": "A Study of Recent Earthquakes",
-    "author": "Davison, Charles, 1858-1940",
-    "gutenbergReference": "25062",
-    "matchType": 0,
-    "hash": "ba1593d8fa254b528d3bbf2ffea37fde82585d48a036560b275ae07a66131531"
+    "quoteFirst": "They had walked about ten kilometres over snow, rough going, and came back ",
+    "quoteTime": "about one A.M.",
+    "quoteLast": ", wet, with ice on beards and moustaches, but glowing and happy with the exercise. They had a hot grog, got off long boots and were very comfortable, when another bear was spotted, and away they went over the bow by the rope-ladder to the ice, chawing biscuits and chocolate as they went.",
+    "title": "Modern Whaling & Bear-Hunting\r\nA record of present-day whaling with up-to-date appliances in many parts of the world, and of bear and seal hunting in the Arctic regions",
+    "author": "Burn Murdoch, W. G. (William Gordon), 1862-1939",
+    "gutenbergReference": "67446",
+    "hash": "aba6e2aaae136d57c4afef558b8b621be3bb846f07d9ef4606ccd58ceb037f3f"
   }
 ]

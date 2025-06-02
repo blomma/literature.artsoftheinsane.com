@@ -7,7 +7,6 @@
     "title": "Sinister Street, vol. 1",
     "author": "MacKenzie, Compton, 1883-1972",
     "gutenbergReference": "33797",
-    "matchType": 1,
     "hash": "4653885d6a912cd6a3b53e2335503fed0e460a5a61b31c141737a85887ec19a8"
   },
   {
@@ -18,7 +17,6 @@
     "title": "History of Greece, Volume 07 (of 12)",
     "author": "Grote, George, 1794-1871",
     "gutenbergReference": "51181",
-    "matchType": 1,
     "hash": "02d4cf483c7bca9bdebc0c3ec11c5b9960fea6325ff1bf497a21ff8cf481dc47"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "dcfc96b9fa4498ae2a9e63dc18d63e7aaf254a47ea6357de033cd2c49e24b185"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Report on Unidentified Flying Objects",
     "author": "Ruppelt, Edward J., 1922-1960",
     "gutenbergReference": "17346",
-    "matchType": 2,
     "hash": "be82aa258e2fea42dad3f289d7dce894b4fe8b3586948b22c2777a320ae3130b"
   },
   {
@@ -51,7 +47,6 @@
     "title": "A woman's debt",
     "author": "Le Queux, William, 1864-1927",
     "gutenbergReference": "72041",
-    "matchType": 1,
     "hash": "8ae9f691928ae8fecd72b74da84a348afd153867ac7b21f88526495f6c80adb8"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The adventurous lady",
     "author": "Snaith, J. C. (John Collis), 1876-1936",
     "gutenbergReference": "69271",
-    "matchType": 1,
     "hash": "2dc83daf1bbf71b8c42c078e66bbf62916fa80bda06d5c48a2ec31d76ff1702e"
   }
 ]

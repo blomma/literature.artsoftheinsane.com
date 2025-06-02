@@ -7,7 +7,6 @@
     "title": "From the Earth to the Moon; and, Round the Moon",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "83",
-    "matchType": 2,
     "hash": "a4ed682eac1b350c30f07817701b1ad25deb9bf278347c75a1a547a95cbf7900"
   },
   {
@@ -18,7 +17,6 @@
     "title": "One of Our Conquerors — Complete",
     "author": "Meredith, George, 1828-1909",
     "gutenbergReference": "4476",
-    "matchType": 1,
     "hash": "03a8b4ea12a0d8b1206f262395ec7f1b31350af2583b9628d045632c3bfb18b6"
   },
   {
@@ -29,7 +27,6 @@
     "title": "From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes: and a Trip Round It",
     "author": "Verne, Jules, 1828-1905; Hildibrand, Henri Théophile, 1824-1897 [Engraver]; Bayard, Émile Antoine, 1837-1891 [Illustrator]; Neuville, Alphonse Marie de, 1835-1885 [Illustrator]",
     "gutenbergReference": "44278",
-    "matchType": 2,
     "hash": "2b41ee6747b77141b508f1b20b65d117576a4f907a2e8029cc28922bf0e0097b"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Moon-Voyage",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "12901",
-    "matchType": 2,
     "hash": "ea95d5d51bd20f4a1996f41266a8b38f89fc9a09c288753daadfab745ee64c7b"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Little Match Man",
     "author": "Barzini, Luigi, 1874-1947; Longstreet, Hattie [Illustrator]; Woodruff, S. F. [Translator]",
     "gutenbergReference": "54678",
-    "matchType": 1,
     "hash": "01f8e16325ba71a88d701d6b59a1f0f8c00be9a7ec2aa2eb5ddde9900f5bd9f9"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Complete Project Gutenberg Works of George Meredith",
     "author": "Meredith, George, 1828-1909",
     "gutenbergReference": "4500",
-    "matchType": 1,
     "hash": "91c3daae4e71d4a856cc2c45df36908dc1fa5cc672d30a263dd0a31f96c82508"
   },
   {
@@ -73,7 +67,6 @@
     "title": "One of Our Conquerors — Volume 5",
     "author": "Meredith, George, 1828-1909",
     "gutenbergReference": "4475",
-    "matchType": 1,
     "hash": "3af9832d9f46e6e0510338694c8cdd222ac1774809b82440bf0ffce9ee898b2d"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Astronomy for Amateurs",
     "author": "Flammarion, Camille, 1842-1925; Welby, Frances A. (Frances Alice), 1862-1947 [Translator]",
     "gutenbergReference": "25267",
-    "matchType": 2,
     "hash": "f4fb94c9d2dfa01bde5848d9a37258ab74cff1ff3fad9355807e896dda71f5b4"
   }
 ]

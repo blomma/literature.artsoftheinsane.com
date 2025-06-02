@@ -7,8 +7,17 @@
     "title": "The Toxicity of Caffein: An experimental study on different species of animals",
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
-    "matchType": 2,
     "hash": "e607d73661e41efa78322aee46a575adb59acf8f07e5b2ba36e6ffbba18678b3"
+  },
+  {
+    "time": "11:17",
+    "quoteFirst": "Through London that day a taxi-cab moved at a rate which was considerably in excess of the speed limit. Clear of the crowded West End, the road was unhampered by traffic to any great extent, but it was ",
+    "quoteTime": "seventeen minutes past eleven",
+    "quoteLast": " when the cab pulled up before Penge Station.",
+    "title": "The river of stars",
+    "author": "Wallace, Edgar, 1875-1932",
+    "gutenbergReference": "75729",
+    "hash": "4beca908edadcfc7fd1d1847d1ae533d05dc616cb95157f039f02136b0b7a6bd"
   },
   {
     "time": "11:17",
@@ -18,7 +27,6 @@
     "title": "A Study of Recent Earthquakes",
     "author": "Davison, Charles, 1858-1940",
     "gutenbergReference": "25062",
-    "matchType": 2,
     "hash": "26c727825aa4a4af1343c5234c19d721794a2a60e374cf719a0095b688608cce"
   },
   {
@@ -29,7 +37,6 @@
     "title": "Warren Commission (13 of 26): Hearings Vol. XIII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "57111",
-    "matchType": 2,
     "hash": "4234675fbc40cf45e5b3474db63ee532ef8c2231dbcfa5c5556554895fa319d0"
   },
   {
@@ -40,7 +47,6 @@
     "title": "Warren Commission (13 of 26): Hearings Vol. XIII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "57111",
-    "matchType": 2,
     "hash": "12c9ea201423a38e60531cb4fddfddcd0192ca5a12d6fdc8967fa828c620e9b6"
   },
   {
@@ -51,7 +57,6 @@
     "title": "Harry Harding—Messenger \"45\"",
     "author": "Raymond, Alfred",
     "gutenbergReference": "52578",
-    "matchType": 1,
     "hash": "82cacbd99e27a598d797008ede66159fe8f67f6d4b761d0aa7ded4ca9d884537"
   },
   {
@@ -62,7 +67,6 @@
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "matchType": 2,
     "hash": "c33437c349732b20bba92a201f837835e801d1c84f1b0c5ee01c9e85537f0094"
   },
   {
@@ -73,7 +77,6 @@
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "matchType": 2,
     "hash": "fcad674abe92ff26422dd495dda2fca83e3d325c91420564bf1accbcc3faf409"
   },
   {
@@ -84,7 +87,6 @@
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "matchType": 2,
     "hash": "a06fdd29b276e5ca831ba097dbe9132ff41c0cf8f12765605f5f877177289093"
   },
   {
@@ -95,7 +97,6 @@
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "matchType": 2,
     "hash": "17bf9c889b69dd7eb76c3f44dca3f36b29b3e668e9befd95b2357651e8e05dd9"
   },
   {
@@ -106,7 +107,6 @@
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "matchType": 2,
     "hash": "d5addb0b25a7f55e07513c18f2e59cc7912e0306c782d2ac0002d400741d0455"
   },
   {
@@ -117,7 +117,6 @@
     "title": "Invention and Discovery: Curious Facts and Characteristic Sketches",
     "author": "Anonymous",
     "gutenbergReference": "46644",
-    "matchType": 1,
     "hash": "ef4f5ba914de7959d831bd8022c51dbbba411d97676a9706655105d3ca13b1fc"
   },
   {
@@ -128,7 +127,6 @@
     "title": "History of merchant shipping and ancient commerce, Volume 4 (of 4)",
     "author": "Lindsay, W. S. (William Schaw), 1816-1877",
     "gutenbergReference": "74393",
-    "matchType": 2,
     "hash": "e90014f7f1798c8ffe854afdb196f995a609a6f4850e359efc2f28f7febc180d"
   },
   {
@@ -139,7 +137,6 @@
     "title": "Warren Commission (10 of 26): Hearings Vol. X (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44010",
-    "matchType": 2,
     "hash": "b701f22abc6ddbf3a24a0f4ffa4d664bf33e4f91c98907b5284741320a4a4de2"
   },
   {
@@ -150,7 +147,6 @@
     "title": "In the Permanent Way",
     "author": "Steel, Flora Annie Webster, 1847-1929",
     "gutenbergReference": "39832",
-    "matchType": 1,
     "hash": "7549c002781f5501b06fdf80ce82d2ddb680cc3bf83d87e3511c9781a5aaea20"
   }
 ]

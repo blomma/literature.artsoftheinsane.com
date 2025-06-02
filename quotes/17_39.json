@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55218",
-    "matchType": 2,
     "hash": "c2ddbde31de5fe6ff34d1f0e86dd31550fc1ea39b0e4f2154feb0d4f3313c966"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Boating",
     "author": "Woodgate, Walter Bradford, 1842-1920; Dadd, Frank, 1851-1929 [Illustrator]",
     "gutenbergReference": "37462",
-    "matchType": 2,
     "hash": "eac98c654ab1dc6ba6e7cc3bfbaee0158a96b3698ff04ba6cdb3b57f9296c09d"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The inter ocean curiosity shop for the year 1883",
     "author": "Various; Jones, William P. [Editor]",
     "gutenbergReference": "70718",
-    "matchType": 2,
     "hash": "4f56df9ef35055a2f101abe50c6b4359558283e8829816d7a7aed4ede4fc22cd"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Pictorial Press: Its Origin and Progress",
     "author": "Jackson, Mason, 1819-1903",
     "gutenbergReference": "36417",
-    "matchType": 0,
     "hash": "281ea938f60a83c7d60b9019f1af0319e0a0dad3b298bd99b1fd54b9aa284e72"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
     "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
     "gutenbergReference": "46006",
-    "matchType": 1,
     "hash": "9fcade249d32f57537d6500d3e9f794d311e257de6f922b6bbd4907eb84993cf"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
     "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
     "gutenbergReference": "46006",
-    "matchType": 1,
     "hash": "15b99df5665bca0ce12c186ada26dca268d1cbe11647c2dc2fb8522e0fde1d0e"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
     "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
     "gutenbergReference": "46006",
-    "matchType": 1,
     "hash": "cd1453fe6cfbcfb8551f23984f3f78d57b750f9abaafb5b222e74c4712441080"
   }
 ]

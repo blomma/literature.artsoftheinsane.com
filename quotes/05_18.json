@@ -7,7 +7,6 @@
     "title": "The Confessions of Arsène Lupin",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "28093",
-    "matchType": 1,
     "hash": "df0a47ca1d58bdfc004a88c045774a5ca373ba1ea052c92169dd10ba89876741"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55331",
-    "matchType": 2,
     "hash": "e47cd616abf2fa96fe67577e3259797f4e7c178db954c78c34f815bdacb53261"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Cosmic symbolism",
     "author": "Sepharial, 1864-1929",
     "gutenbergReference": "70749",
-    "matchType": 2,
     "hash": "827858fe8715fdc65c1e6e21ed5ecb02ce5a74daca1c9e566fdfa6c677f1361f"
   }
 ]

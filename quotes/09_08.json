@@ -7,7 +7,6 @@
     "title": "The Lusitania's Last Voyage\r\nBeing a narrative of the torpedoing and sinking of the R. M. S. Lusitania by a German submarine off the Irish coast, May 7, 1915",
     "author": "Lauriat, Charles Emelius, Jr., 1874-1937",
     "gutenbergReference": "53251",
-    "matchType": 1,
     "hash": "170c76e0631065f63fb63f90b979065698a753d21b6fd3ad3c81693ff808b0de"
   },
   {
@@ -18,7 +17,6 @@
     "title": "An account of a useful discovery to distill double the usual quantity of sea-water, by blowing showers of air up through the distilling liquor",
     "author": "Hales, Stephen, 1677-1761",
     "gutenbergReference": "71081",
-    "matchType": 1,
     "hash": "a73521c30510d24679457e1ebd5ba17ccf94f8494d8764b64e74c104c4c23fe9"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "2fe1f8a814190dcb810da26511688bc64674d1849cca1a5f626a035f73180343"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Harmsworth Magazine, Vol. 1, 1898-1899, No. 6",
     "author": "Various",
     "gutenbergReference": "40711",
-    "matchType": 1,
     "hash": "4fc991893e9c3956c840d91bce719089a6b32ffc5a93c408e777a3f331ca5a45"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The perfume of the lady in black",
     "author": "Leroux, Gaston, 1868-1927; Simont [Illustrator]",
     "gutenbergReference": "75258",
-    "matchType": 1,
     "hash": "796b27b3d2f603ceed48277916bd3fc69265a27b56c0353ebcf8ba399b366e60"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The city in the sea",
     "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
     "gutenbergReference": "75608",
-    "matchType": 1,
     "hash": "3f622990e33eb3ec7021598af746e00a246f8ede1e5fcabad1570388342ea362"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Nine Thousand Miles on a Pullman Train\r\nAn Account of a Tour of Railroad Conductors from Philadelphia to the Pacific Coast and Return",
     "author": "Shaw, Milton M.",
     "gutenbergReference": "51341",
-    "matchType": 2,
     "hash": "facf23831b8dd9fad7ca31ebaa784d52654d84732abf8b659f6eb76b8bf283c1"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Schwatka's Search: Sledging in the Arctic in Quest of the Franklin Records",
     "author": "Gilder, William H. (William Henry), 1838-1900",
     "gutenbergReference": "6594",
-    "matchType": 1,
     "hash": "d19bb853a2a20289a91aef466ff6237dee48dfbdf22ab5968475c28871cbec65"
   }
 ]

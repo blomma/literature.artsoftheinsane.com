@@ -7,7 +7,6 @@
     "title": "Around the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "103",
-    "matchType": 1,
     "hash": "a5c7566928aa75890f79406eda579208a0ead3281cb67aa30cb1e53905188b6d"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Round the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905; Frith, Henry, 1840- [Translator]",
     "gutenbergReference": "32972",
-    "matchType": 1,
     "hash": "466ec25216dcdda66964e3bbd99cd36fc64c5e0a5aa00420527f9b818ef8fb52"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Railroad Accidents, Their Cause and Prevention",
     "author": "Richards, R. C. (Ralph Coffin), 1855-",
     "gutenbergReference": "38731",
-    "matchType": 2,
     "hash": "2dee8896c633539ebf9fcd02e448b1c9cc8ce8808f6fedf46d13e49c23f64d59"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Doctor Claudius, A True Story",
     "author": "Crawford, F. Marion (Francis Marion), 1854-1909",
     "gutenbergReference": "15223",
-    "matchType": 1,
     "hash": "1075d96778c04686c85f2313ff209dcca3629fb0e4d6a0f0d5c615392a374dbc"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Sherwood Foresters in the Great War 1914 - 1919\nHistory of the 1/8th Battalion",
     "author": "Weetman, W. C. C.",
     "gutenbergReference": "20527",
-    "matchType": 2,
     "hash": "6a79b9525875b95a22f9107b22e1b418d9b40e3c6d94cbe4741a6c1ec9b1b6c2"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Bristol Royal Mail: Post, Telegraph, and Telephone",
     "author": "Tombs, Robert Charles, 1842-1923",
     "gutenbergReference": "34197",
-    "matchType": 2,
     "hash": "1c31da2c1d3c99ab207f03cce90d6698a2689a92ce5ce82477d10434156329e8"
   }
 ]

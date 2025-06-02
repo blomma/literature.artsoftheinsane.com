@@ -7,7 +7,6 @@
     "title": "Warren Commission (12 of 26): Hearings Vol. XII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44012",
-    "matchType": 1,
     "hash": "07c551f3a7a5a3d8de2fe01c0b0bf2cacbdd34060f2015eecd9a6e3a480438fe"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "306b2082c7dc88655d1281dd0ef110300c1cfcbad0695cedebee2f70acc954fe"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Monomaniac (La bête humaine)",
     "author": "Zola, Émile, 1840-1902; Vizetelly, Edward [Translator]",
     "gutenbergReference": "57038",
-    "matchType": 1,
     "hash": "38d17f91101f46c7e6ccc66b0eb4c44c0d7f7434066edb9cdefcaf3b4c3e93fc"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Circuit Riders",
     "author": "FitzPatrick, R. C.; Schoenherr, John, 1935-2010 [Illustrator]",
     "gutenbergReference": "24543",
-    "matchType": 2,
     "hash": "2ddb6c0d2d74a7403175b0bc73618fffe1a911d79964bcfc88a274ad53a412ec"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Gilead Balm, knight errant",
     "author": "Capes, Bernard, 1854-1918; Cuneo, Cyrus, 1879-1916 [Illustrator]",
     "gutenbergReference": "70105",
-    "matchType": 2,
     "hash": "432a929df622388fb0b033de861446a4aeb71a77ab27341d8c9870bced4e1e64"
   }
 ]

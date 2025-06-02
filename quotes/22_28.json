@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
-    "matchType": 2,
     "hash": "a1ca9ccbf14d190452ad3ed9d4c46a563f2b531d65e11ec09134e50f4ba4f127"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Loss of the Steamship \"Titanic\"",
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
-    "matchType": 2,
     "hash": "886a7c8dfb89e28857fb91a9b511a2ff8142606d37f03f41c2b2e1b7632e63e7"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Young O'Briens: Being an Account of Their Sojourn in London",
     "author": "Westrup, Margaret",
     "gutenbergReference": "45324",
-    "matchType": 1,
     "hash": "7569dfbf9948dbc1e404a203b7d42493caec392b98c72d5e1375d3aaf75326b3"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Murder on the Links",
     "author": "Christie, Agatha, 1890-1976",
     "gutenbergReference": "58866",
-    "matchType": 1,
     "hash": "34f6926118984463cb85b74ab30b63f9e5c624144e64101d746855d1ca5246b3"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The King's Post\r\nBeing a volume of historical facts relating to the posts, mail coaches, coach roads, and railway mail services of and connected with the ancient city of Bristol from 1580 to the present time",
     "author": "Tombs, Robert Charles, 1842-1923",
     "gutenbergReference": "28533",
-    "matchType": 2,
     "hash": "89de97f384d06bb74edc9c663d20358011df4d184af6adc09021e4ca9756e6e1"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Sinking of the Titanic and Great Sea Disasters",
     "author": "Marshall, Logan, 1884-1937 [Editor]",
     "gutenbergReference": "781",
-    "matchType": 2,
     "hash": "f9ae1930051d38ed2e82149a8e17c38156f2e4a556779588e47f738682579f3f"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Spider Web: The Romance of a Flying-Boat War Flight",
     "author": "Hallam, T. D.",
     "gutenbergReference": "50339",
-    "matchType": 1,
     "hash": "67bd703b7bafccd0a87e4ad38ecd88fcecc55376e392acea34d8bf4b49609021"
   },
   {
@@ -51,7 +47,6 @@
     "title": "A Journey to the Centre of the Earth",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "18857",
-    "matchType": 1,
     "hash": "09af458aa406af044c7687825358f49c2ee78b388956a254b34ab4e255e7e30c"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Open Boat and Other Stories",
     "author": "Crane, Stephen, 1871-1900",
     "gutenbergReference": "45524",
-    "matchType": 1,
     "hash": "c23acbbf9cf5527bd847114e669439623d2f8d95d1dc9054c2405e6075afb1ec"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Tragic Story of the Empress of Ireland, and Other Great Sea Disasters",
     "author": "Marshall, Logan, 1884-1937",
     "gutenbergReference": "58274",
-    "matchType": 2,
     "hash": "589d5c2f232f8ac1fb0b1e4d5235279d5d2d442648181596bcd6309c09ebc1fe"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Debtor: A Novel",
     "author": "Freeman, Mary Eleanor Wilkins, 1852-1930; Stevens, William Dodge, 1870-1942 [Illustrator]",
     "gutenbergReference": "17793",
-    "matchType": 1,
     "hash": "bac2d2df5bca35de116f3edad5d6797c232d64a0edd29690129229c5350b5392"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Chain Reaction",
     "author": "Ellanby, Boyd; Doktor [Illustrator]",
     "gutenbergReference": "51255",
-    "matchType": 1,
     "hash": "d1ad9acd77afd22160296a7ef55c3316bc82f9e364b4444fa67ba8d31da005fc"
   }
 ]

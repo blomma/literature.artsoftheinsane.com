@@ -7,7 +7,6 @@
     "title": "Wonderful Balloon Ascents; Or, The Conquest of the Skies\r\nA History of Balloons and Balloon Voyages",
     "author": "Marion, Fulgence",
     "gutenbergReference": "899",
-    "matchType": 1,
     "hash": "606dc84e98289caa7a9bdef73cd09e6cf66beb17e942424c4eb74b2be67c7cf4"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "00369b77569a64dba8d0bc7ea65660a6d8bbd97e4feb0508eba6e1013b289126"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "410f5a5068a10ed072af9e861250bfd585b4a46c362d5e4f613d780c89f10b5c"
   }
 ]

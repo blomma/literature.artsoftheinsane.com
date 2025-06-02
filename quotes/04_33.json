@@ -7,7 +7,6 @@
     "title": "Pushed and the Return Push",
     "author": "Nichols, George Herbert Fosdike",
     "gutenbergReference": "22324",
-    "matchType": 2,
     "hash": "01d5130d586288047039c155ebc050d68718c205d4813b2413bc2c5d98bf2537"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Olla Podrida",
     "author": "Marryat, Frederick, 1792-1848",
     "gutenbergReference": "31579",
-    "matchType": 1,
     "hash": "1eb3559c8dab8ade3ca1c9b8a85cc0fff90c235def9021f8b0a80e3c3ad6c6d5"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Olla Podrida",
     "author": "Marryat, Frederick, 1792-1848",
     "gutenbergReference": "23139",
-    "matchType": 1,
     "hash": "10c7264d382145418342f400a72cc619ec8367160e2d391ede1d61a1a397f3b4"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "matchType": 2,
     "hash": "c2e1955f7c35a445b78fcd3d2c47ae592525149d5df54896c23897e9c76399c1"
   },
   {
@@ -51,7 +47,6 @@
     "title": "On Something",
     "author": "Belloc, Hilaire, 1870-1953",
     "gutenbergReference": "7354",
-    "matchType": 2,
     "hash": "7d306b73e5de2e5f858fef9830ce258eda92fce56975e21b2756b2ed42c128a6"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Travels of Lady Hester Stanhope, Volume 2 (of 3)",
     "author": "Stanhope, Hester, Lady, 1776-1839; Meryon, Charles Lewis, 1783-1877 [Editor]",
     "gutenbergReference": "72315",
-    "matchType": 1,
     "hash": "ec890d12c532183459ba0a49618da863326b6226930f8cdd45e30ad120f45deb"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The World Crisis, Volume 1 (of 6)",
     "author": "Churchill, Winston, 1874-1965",
     "gutenbergReference": "59794",
-    "matchType": 2,
     "hash": "420899336accddb35ae88427809bebec6381dadeb0e75b719c86a898c60a299d"
   }
 ]

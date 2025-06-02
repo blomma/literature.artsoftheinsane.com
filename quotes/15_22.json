@@ -7,7 +7,6 @@
     "title": "Syndrome",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34321",
-    "matchType": 2,
     "hash": "52375c9e380c1f0180977d3d43c7f8a34fbf10aeffe89a26352c91e0a80007a6"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55331",
-    "matchType": 2,
     "hash": "0d00247472fa2ae169b61a9cfd02cc6e4f7e9582d439f0c26b397b7921c75c31"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Heart of Rachael",
     "author": "Norris, Kathleen Thompson, 1880-1966",
     "gutenbergReference": "4915",
-    "matchType": 1,
     "hash": "257db4fb6d25293f9b5f1b40a3076f3048df783cd99d2f6ffe6d8e45156438fa"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "bd6bfd8dcd02f04fcd8cd5343976a733bacf2f5cd4e82365fad00b4584b346c6"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Those Who Smiled, and Eleven Other Stories",
     "author": "Gibbon, Perceval, 1879-1926",
     "gutenbergReference": "23993",
-    "matchType": 2,
     "hash": "e41a6028d105197b36676db18258695e38b7ca00a98e45c3b9b3a258f75654ce"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
-    "matchType": 2,
     "hash": "16667578ae22db871867a3881e2b5ec72ce5259a6c473296ed56a435a7577b7c"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
-    "matchType": 2,
     "hash": "728dd8cbf6ffd0a5dd471474152a6ea5d809c4b036d09b46e2c695dd8a499bf3"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Naval Actions of the War of 1812",
     "author": "Barnes, James, 1866-1936; Chapman, Carlton T., 1860-1925 [Illustrator]",
     "gutenbergReference": "57889",
-    "matchType": 2,
     "hash": "9548731da9899e57a1c1c6aca545266f1da63fd1f2fb9d6c52582b65dc13ce18"
   }
 ]

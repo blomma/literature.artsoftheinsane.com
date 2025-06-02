@@ -7,7 +7,6 @@
     "title": "Gallipoli Diary, Volume 2",
     "author": "Hamilton, Ian, 1853-1947",
     "gutenbergReference": "22021",
-    "matchType": 2,
     "hash": "499bce7d565c64d97a95fc34403f2d5c68fb94b1d2f250cfb2ebb470b33d3371"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Queen Victoria",
     "author": "Browne, E. Gordon (Edgar Gordon), 1871-",
     "gutenbergReference": "16965",
-    "matchType": 1,
     "hash": "95408e8350abd3640b7bd66a6bf2d26fec36e71f037bc443a91f0aecdc470b16"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The haunter of the dark",
     "author": "Lovecraft, H. P. (Howard Phillips), 1890-1937",
     "gutenbergReference": "73233",
-    "matchType": 2,
     "hash": "b762531987fdcfe602d6078b37392d4a3e5a60df9421486c55d0997f31dad194"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The letters of Queen Victoria, vol. 1, 1837-1843",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Benson, Arthur Christopher, 1862-1925 [Editor]; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "20023",
-    "matchType": 1,
     "hash": "3b1707786cd9526a3c8266aa513d6cc28e025bfd821dff9ea6c8a1c497a035c6"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The letters of Queen Victoria, vol. 1, 1837-1843",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Benson, Arthur Christopher, 1862-1925 [Editor]; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "20023",
-    "matchType": 1,
     "hash": "f5e77b5f63e62412fd1213890d8439d4986971e3be741f8cc774ba6c3d9f310a"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "73dba7897d7e3c40e4d4af94c94630a3dd2297decae69bfdba9ddfde1c505d15"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Arrival of Jimpson, and Other Stories for Boys about Boys",
     "author": "Barbour, Ralph Henry, 1870-1944",
     "gutenbergReference": "45689",
-    "matchType": 1,
     "hash": "814e886d503b732db0ab4734f743dbfade41e9c3093144c438b8679f33c483d8"
   }
 ]

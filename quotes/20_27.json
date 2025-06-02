@@ -7,7 +7,6 @@
     "title": "The Good Neighbors",
     "author": "Pangborn, Edgar, 1909-1976",
     "gutenbergReference": "26536",
-    "matchType": 2,
     "hash": "287044fcbbeed98d075c2228036a159f1bff1f88badf24b7d6ccdf15cbdeb3d6"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Jack and the Check Book",
     "author": "Bangs, John Kendrick, 1862-1922; Levering, Albert, 1869-1929 [Illustrator]",
     "gutenbergReference": "34423",
-    "matchType": 1,
     "hash": "695d3618f13f1d64e9be7f9850313e5aa4c17ab22dc6b56f00153ae6b61e4929"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Education of Eric Lane",
     "author": "McKenna, Stephen, 1888-1967",
     "gutenbergReference": "29041",
-    "matchType": 1,
     "hash": "a2ea716621df7a7f891e93cdcdb0192860b43f5ebff379082c8b0bd55ac8000c"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The English of military communications",
     "author": "Ganoe, William Addleman, 1881-1966",
     "gutenbergReference": "71741",
-    "matchType": 2,
     "hash": "990ead63c3999182e8dffc18f1b696ac1c7953a73b85de0568382a0b1e2f2ef3"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
-    "matchType": 2,
     "hash": "0a4adcb3cb2d4c4a51a2b9685a7fa25d895a1d69c89f25812d8a8090098d25e0"
   },
   {
@@ -62,7 +57,6 @@
     "title": "In a Yellow Wood",
     "author": "Vidal, Gore, 1925-2012",
     "gutenbergReference": "66940",
-    "matchType": 1,
     "hash": "563cd1bed28cd0c903c834af32630bf7a4d47c6a8daf62bc88566348ff26e14d"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Plague of Pythons",
     "author": "Pohl, Frederik, 1919-2013; Ritter, Bob [Illustrator]",
     "gutenbergReference": "51804",
-    "matchType": 2,
     "hash": "81e667dc568fb9a094acf9cfdabd7689e3e2bf79925d88c873bf365f9480a7f9"
   }
 ]

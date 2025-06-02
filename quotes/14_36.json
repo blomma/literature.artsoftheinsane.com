@@ -7,7 +7,6 @@
     "title": "Three Little Lines\r\nSilverton Railroad; Silverton, Gladstone and Northerly; Silverton Northern",
     "author": "Crum, Josie Moore",
     "gutenbergReference": "62664",
-    "matchType": 2,
     "hash": "7e926a900007ff0b09e3bce32c5d45629980ce65b077e380eb2c2e02c48a843c"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Letters and Literary Memorials of Samuel J. Tilden, v. 2",
     "author": "Tilden, Samuel J. (Samuel Jones), 1814-1886; Bigelow, John, 1817-1911 [Editor]",
     "gutenbergReference": "47317",
-    "matchType": 2,
     "hash": "89715b37ceeaac19f9bcda78334c7757440e660cf40c3d6957940cef3bb4b80a"
   },
   {
@@ -29,7 +27,6 @@
     "title": "History of the World War",
     "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945",
     "gutenbergReference": "18993",
-    "matchType": 2,
     "hash": "fef0eff95a21973a2612f83a3d96f6132cf8c15752204a3e6f82eec1011c7d70"
   },
   {
@@ -40,7 +37,6 @@
     "title": "History of the World War, Volume 3 (of 7)",
     "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945; Hare, James H., 1856-1946 [Photographer]; Thompson, Donald C., 1885-1947 [Photographer]",
     "gutenbergReference": "16282",
-    "matchType": 2,
     "hash": "1fac3b45a39388bff4a39996f769a6375db15c0bcedc0a2772e53f277cb18283"
   },
   {
@@ -51,7 +47,6 @@
     "title": "New York Times Current History; The European War, Vol 2, No. 2, May, 1915\nApril-September, 1915",
     "author": "Various",
     "gutenbergReference": "15479",
-    "matchType": 2,
     "hash": "f622edc2f4acd9aafd101602c10c2583c0b26bbd4625239d9f6bc5474af38061"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "b641b853e51662ed7c7ec85a1a0db03a4ae18b999807f63f5dba76f450ba7dfb"
   }
 ]

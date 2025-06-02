@@ -7,7 +7,6 @@
     "title": "The Toxicity of Caffein: An experimental study on different species of animals",
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
-    "matchType": 2,
     "hash": "033c5eb0ff35c9a2f40719f32a15b85fbec28ed49728f8b0fa250334d5d58e38"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Ghost World",
     "author": "Thiselton-Dyer, T. F. (Thomas Firminger), 1848-1923",
     "gutenbergReference": "45362",
-    "matchType": 0,
     "hash": "7fc8474b99e5d449e7422b3eaa51e17c174630acbb4656d92b0966b278754cc9"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Q-Ships and Their Story",
     "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
     "gutenbergReference": "54338",
-    "matchType": 2,
     "hash": "c0e5987a9f6d03c7bef2c1d986a7f617cac56b3f12f08461a887b5f6f9bf1222"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Notes and Queries, Number 70, March 1, 1851\r\nA Medium of Inter-communication for Literary Men, Artists, Antiquaries, Genealogists, etc.",
     "author": "Various; Bell, George, 1814-1890 [Editor]",
     "gutenbergReference": "23204",
-    "matchType": 1,
     "hash": "67ae14639ea11fe4cc202d17ad27b14b58a31fd370b0c1d8fc3cefc857b0e50a"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Nick Carter Stories No. 148, July 10, 1915; The Mark of Cain; or, Nick Carter's Air-line Case",
     "author": "Carter, Nicholas (House name); Boston, Ralph",
     "gutenbergReference": "67615",
-    "matchType": 1,
     "hash": "70524d0f27e08ccc108edfeee9389cfd8ec67cc7791c7875eae4c0cd855feaa5"
   }
 ]

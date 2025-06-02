@@ -7,7 +7,6 @@
     "title": "McKinlay's Journal of Exploration in the Interior of Australia",
     "author": "McKinlay, John, 1819-1872",
     "gutenbergReference": "13248",
-    "matchType": 2,
     "hash": "3f3c131bd3f73ae78986f5493a5fda85e2d9c8c6c840c708cdadec15da98cd04"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Book of Susan: A Novel",
     "author": "Dodd, Lee Wilson, 1879-1933",
     "gutenbergReference": "33400",
-    "matchType": 1,
     "hash": "9d4429d33dace93cdcca6bbb42fa22f0d56c51ddd4a681b1b999eb2894c63263"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The British Navy in Battle",
     "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
     "gutenbergReference": "54441",
-    "matchType": 2,
     "hash": "e31930a0b690a9af107b8e189278b23a0e491907ea3f3d58a202265d9a46f681"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44006",
-    "matchType": 0,
     "hash": "7c2926f55488f15355ae784284c5fe9521c1a0d3999c53be15cf07dcb4f1c52e"
   },
   {
@@ -51,7 +47,6 @@
     "title": "New York Times Current History; The European War, Vol 2, No. 2, May, 1915\nApril-September, 1915",
     "author": "Various",
     "gutenbergReference": "15479",
-    "matchType": 2,
     "hash": "a19eb784f7a14caea2052df71d7d52b89aa2b2962456cb9ebca3d284ff8771b5"
   }
 ]

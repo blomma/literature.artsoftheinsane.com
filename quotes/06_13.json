@@ -7,7 +7,6 @@
     "title": "Voyage to Jupiter",
     "author": "Morrison, David, 1940-; Samz, Jane",
     "gutenbergReference": "58915",
-    "matchType": 2,
     "hash": "28e4ba424bac8bcab70bf907191e0532fd8fb9deeac450bc50062b8546c865e0"
   },
   {
@@ -18,7 +17,6 @@
     "title": "A voyage to the South Sea",
     "author": "Bligh, William, 1754-1817",
     "gutenbergReference": "15411",
-    "matchType": 1,
     "hash": "caa36b086a75e4d722cb8b1869a1bec54d7c3d2f6cc41df2c90d50020108dea6"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Facing the Flag",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "11556",
-    "matchType": 1,
     "hash": "914d070c1ecf5d1f189498ba54624b82523738ad903f17f7ed1f234950dc3dbb"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Vistas in Sicily",
     "author": "Riggs, Arthur Stanley, 1879-1952",
     "gutenbergReference": "40381",
-    "matchType": 1,
     "hash": "1366f43c5289dd19f114035c42eaa30f4410a9fffa5cb4fd99b6148d2d6899f2"
   }
 ]

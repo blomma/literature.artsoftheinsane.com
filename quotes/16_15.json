@@ -1,91 +1,123 @@
 [
   {
     "time": "16:15",
-    "quoteFirst": "The executioners stepped forward, passed the halters round the necks of the condemned, and pulled the hoods over their eyes. A neighbouring clock struck the first ",
+    "quoteFirst": "She can not come with her father before the National Library closes.  Even supposing they take an omnibus, they will not get here before a ",
+    "quoteTime": "quarter past four",
+    "quoteLast": ".",
+    "title": "The Ink-Stain (Tache d'encre) — Volume 1",
+    "author": "Bazin, René, 1853-1932",
+    "gutenbergReference": "3972",
+    "hash": "0986155af4911a650a0cec817b58045c707121095032f046d6af17869aac9883"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "‘Well, then, I’ll expect you back to tea about a ",
+    "quoteTime": "quarter past four",
+    "quoteLast": ",’ said Mary. ‘Miss Emmeline will be able to keep count of time with that dear little watch of hers.",
+    "title": "The Boy from Green Ginger Land",
+    "author": "Vaughan-Smith, Emilie",
+    "gutenbergReference": "58370",
+    "hash": "741c1c364988f945f63eff7a7f5848b7cc570b9b1e2260a9709b715f1932d1da"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "\"I'll tell you!\" he exclaimed, smiling with the complacency of a man who is master of a great fancy. \"I shall sail to Dover at once. 'Tis now a ",
+    "quoteTime": "quarter past four",
+    "quoteLast": ". Give me twelve hours to make Dover: I shall post straight to London and be there by early morning. Now, Paul, attend you to this.",
+    "title": "The Frozen Pirate",
+    "author": "Russell, William Clark, 1844-1911",
+    "gutenbergReference": "22215",
+    "hash": "1bee312f680ce83a8f273190a2a2a7056d086ddf6fa7d002f05514b685e515f2"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "The stable clock chimed a ",
+    "quoteTime": "quarter past four",
+    "quoteLast": ".",
+    "title": "The girl from nowhere",
+    "author": "Reynolds, Baillie, Mrs., 1861-1939",
+    "gutenbergReference": "72969",
+    "hash": "da7a84641aa14d5bf1fc7b888e8a4eee532123c6d09c5d2f9316a3dc8b47f2e5"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "The neighbouring clock struck a ",
+    "quoteTime": "quarter past four",
+    "quoteLast": ", and Mrs Robinson, with a profound sigh, raised herself on her elbow, and looked at her sleeping daughter.",
+    "title": "Jill: A Flower Girl",
+    "author": "Meade, L. T., 1854-1914; Townsend, F. H. (Frederick Henry), 1868-1920 [Illustrator]",
+    "gutenbergReference": "43141",
+    "hash": "8318ba7184c8a8c3859baae9f5ca8e4f5bda1cec620bb3bcf2658ac3add2b1b3"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "The third ",
+    "quoteTime": "quarter past four",
+    "quoteLast": " had come and gone. Gabriel, with inexpressible joy, spied the rope ladder hanging against the wall.",
+    "title": "The Two Dianas, Volume 2 (of 3)",
+    "author": "Meurice, Paul, 1820-1905; Dumas, Alexandre, 1802-1870 [Dubious author]; Van Meyden, E. [Illustrator]",
+    "gutenbergReference": "67338",
+    "hash": "16faaa6c50c5e50e4e62e907c0492a1c773174b6f7e155b4adce94399be088aa"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "‘Well, then, I’ll expect you back to tea about a ",
+    "quoteTime": "quarter past four",
+    "quoteLast": ",’ said Mary. ‘Miss Emmeline will be able to keep count of time with that dear little watch of hers.",
+    "title": "The Boy from Green Ginger Land",
+    "author": "Vaughan-Smith, Emilie",
+    "gutenbergReference": "58370",
+    "hash": "741c1c364988f945f63eff7a7f5848b7cc570b9b1e2260a9709b715f1932d1da"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "Curlydown. It was a ",
+    "quoteTime": "quarter past four",
+    "quoteLast": ", and Curlydown had not completed his daily inspections. Had Bagwax been doing his proper share of work, Curlydown would have already washed his hands and changed his coat, and have been ready to start for the 4.30 train.",
+    "title": "John Caldigate",
+    "author": "Trollope, Anthony, 1815-1882",
+    "gutenbergReference": "11643",
+    "hash": "526309a72a903b34dc474aa3b4af977dfa680c4549b0a7844788e4ee8ed2e0b5"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "It was a ",
     "quoteTime": "quarter after four",
-    "quoteLast": ", and simultaneously with the sound, a trap-door gave way under the feet of the culprits. There was a great cry and much confusion, and a number of soldiers jumped upon the scaffold.",
-    "title": "Blackwood's Edinburgh Magazine — Volume 53, No. 332, June, 1843",
+    "quoteLast": " when he left the house. Carrie was in tears.",
+    "title": "Sister Carrie",
+    "author": "Dreiser, Theodore, 1871-1945",
+    "gutenbergReference": "5267",
+    "hash": "dacb35d290f8a273c6d0d21b45e605943ffee7199995470cc04a3f8635f90673"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "Next morning, Paulhan sailed away at a ",
+    "quoteTime": "quarter past four",
+    "quoteLast": ". Mr. White, hoping to overtake him, had started at dead of night and covered twenty miles before Paulhan had started. It was a heroic effort, but unavailing. At twelve minutes after five, Mr.",
+    "title": "Aërial Navigation\r\nA Popular Treatise on the Growth of Air Craft and on Aëronautical Meteorology",
+    "author": "Zahm, Albert Francis, 1862-1954",
+    "gutenbergReference": "60277",
+    "hash": "0d478370f5d3e4caf9692ec4d6df160b383a5ad887326bae22efffb214efd8b2"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "Street 7:45 A.M., 3:15 and ",
+    "quoteTime": "4:15 P.M.",
+    "quoteLast": ")",
+    "title": "Punchinello, Volume 1, No. 17, July 23, 1870",
     "author": "Various",
-    "gutenbergReference": "12511",
-    "matchType": 1,
-    "hash": "3c8469190d6feec0a7815b4b49a2698ebadb356058e11440897d16b91bc9096b"
+    "gutenbergReference": "9885",
+    "hash": "6bee6a9657757dd17c17d32265a5581eb70e2107e62dfe01515f175beb30c231"
   },
   {
     "time": "16:15",
-    "quoteFirst": "Visitors are now permitted to apply at a special bureau in St. Stephen's Hall, at any time after ",
+    "quoteFirst": "",
     "quoteTime": "4.15 p.m.",
-    "quoteLast": " and, if there is room, are at once admitted to the gallery without the formality of searching for a member. Each stranger signs a declaration undertaking to abstain from making any interruption or disturbance, and to obey the rules for the maintenance of order in the galleries.",
-    "title": "The Mother of Parliaments",
-    "author": "Graham, Harry, 1874-1936",
-    "gutenbergReference": "41304",
-    "matchType": 2,
-    "hash": "10883a8ed24a0ea6bc2080186b00cd4127ed12ffa0549b9d12e280aeba0b4d85"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "The testimony of Maj. Gen. Edwin A. Walker was taken at ",
-    "quoteTime": "4:15 p.m.",
-    "quoteLast": ", on July 23, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Wesley J.",
-    "title": "Warren Commission (11 of 26): Hearings Vol. XI (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44011",
-    "matchType": 2,
-    "hash": "4a8c98402ebf60416242494b2aeec15fa644841ef71ffd074bd05cd311b1eaab"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "He fell instinctively into a small manoeuvre, which was merely this: that he quietly shifted forward his public itinerary by quarter of an hour. Next day, he started rapidly toward the street-cars at quarter before one, and shot out of Miss Grace's at ",
-    "quoteTime": "quarter past four",
-    "quoteLast": ", sharp.",
-    "title": "Angela's Business",
-    "author": "Harrison, Henry Sydnor, 1880-1930; Gruger, Frederic Rodrigo, 1871-1953 [Illustrator]",
-    "gutenbergReference": "34297",
-    "matchType": 1,
-    "hash": "1f000ba70f8cafaca54443af6f29b984452621f4f497682ac083746f5b98704f"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "The clock in the old square-towered church had struck a ",
-    "quoteTime": "quarter-past four",
-    "quoteLast": " when Master Swift came down the lane, and Rufus rushed out to meet him. Though Rufus told him in so many barks that there was a stranger within, and that, as he smelt respectable, he had allowed him to wait, the schoolmaster was startled by the sight of Jan.",
-    "title": "Jan of the Windmill: A Story of the Plains",
-    "author": "Ewing, Juliana Horatia, 1841-1885",
-    "gutenbergReference": "5601",
-    "matchType": 1,
-    "hash": "7ae74333b3f9eabc11f1bd505f81403c40deaed7eb4d476b1c7ad6b0e0be6068"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "Bayonet     | Range Practice   | Signaling [I]         | [J]              | =============|==================|=========== 1/2 hour     | 7.30-11.30 a.m.  | | 1.15-",
-    "quoteTime": "4.15 p.m.",
-    "quoteLast": "   | |                  | =============|==================|=========== 1/2 hour     | 7.30-11.30 a.m.  | | 1.15-4.15 p.m.   | |                  | =============|==================|=========== 1/2 hour     | 7.30-11.30 a.m.  | 1/2 hour | 1.15-4.15 p.m.   | |                  | =============|==================|=========== 1/2 hour     | 7.30-11.30 a.m.  | | 1.15-4.15 p.m.   |",
-    "title": "Military Instructors Manual",
-    "author": "Cole, J. P. (James Perry), 1889-; Schoonmaker, Oliver, 1882-1968",
-    "gutenbergReference": "14625",
-    "matchType": 2,
-    "hash": "b00b99023ab7de8f88c5600507a44ce2bfa768fa9f270f9ca9a079bbee4a2d08"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "Rivers, and there wasn’t half so much reason why she should be called Nichols as there was why Anna should, for that was her father’s name, the one by which he was baptized, the same day with Nancy Scovandyke, who’s jest his age, only he was born about a ",
-    "quoteTime": "quarter past four",
-    "quoteLast": " in the morning, and she not till some time in the afternoon!”",
-    "title": "'Lena Rivers",
-    "author": "Holmes, Mary Jane, 1825-1907",
-    "gutenbergReference": "12835",
-    "matchType": 1,
-    "hash": "5f8ff350041cbdefb18718739ca1636d2f42dea8dfb4fe8a522e3c248c3c3b99"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "Here, while a thunder-storm was rising in the east, our caravan, to our great regret, divided, the Tinylkum turning off towards the east, in order, as we were told, to look for a little herbage among the sand-hills. Meanwhile thick, heavy clouds, which had been discharging a great quantity of rain towards the east, broke over us at a ",
-    "quoteTime": "quarter past four o’clock in the afternoon",
-    "quoteLast": ", when we were just in the act of crossing another rocky crest covered with gravel. A violent sand-storm, followed by heavy rain, which was driven along by a furious gale, soon threw the caravan into the utmost confusion, and made all observation impossible; but fortunately it did not last long.",
-    "title": "Travels and discoveries in North and Central Africa",
-    "author": "Barth, Heinrich, 1821-1865; Bettany, G. T. (George Thomas), 1850-1891 [Editor]",
-    "gutenbergReference": "73138",
-    "matchType": 0,
-    "hash": "b5b03ca8998cacdb3e203ea8e06d3b525b0cadb8ea742fa0793ca3d61bc168fb"
+    "quoteLast": " We were at the very spot--exactly a mile north-west of Inishtooskert, a long, low-lying island which was entirely uninhabited.",
+    "title": "Gun running for Casement in the Easter rebellion, 1916",
+    "author": "Spindler, Karl, 1887-1951",
+    "gutenbergReference": "45454",
+    "hash": "22b6e58cabcee1776da8534431d0813117629102ef41822e7ce24e0e128c375a"
   },
   {
     "time": "16:15",
@@ -95,128 +127,76 @@
     "title": "How to tell fortunes",
     "author": "Warford, Aaron A.",
     "gutenbergReference": "52741",
-    "matchType": 0,
     "hash": "98322e8405203b5d6fd96784d1b59c94840b341339154eea21a8984cb60c4537"
   },
   {
     "time": "16:15",
-    "quoteFirst": "With the conditions of Coronel thus reversed, Von Spee, abandoning the attempt to run as hopeless, decided to die fighting, and met his death as gallantly as Cradock had done some five short weeks before. Both the _Scharnhorst_ and her sister the _Gneisenau_, battered by the two British battle-cruisers, who were later joined by the _Carnarvon_, until they were mere helpless hulks, fought to the last before they capsized, the first at ",
-    "quoteTime": "4.15 p.m.",
-    "quoteLast": ", the second just after six. Boats were ordered out to save survivors, and some 200 Germans were picked up from these and other ships that were sunk.",
-    "title": "The New Gresham Encyclopedia. Estremoz to Felspar\r\nVolume 4, Part 3",
-    "author": "Various",
-    "gutenbergReference": "35845",
-    "matchType": 2,
-    "hash": "5a02c02b4af09b24ad4de556eae78b1e12291c7dec908f123473b0ec0d476176"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "It was about a ",
-    "quoteTime": "quarter past four",
-    "quoteLast": " on the afternoon of November 1, 1914, Admiral von Spee being then some forty miles north of the Bay of Arauco on the {53} Chilian coast, and the _Nürnberg_, which had returned after her vigil, having been once more detached on a scouting cruise, that the _Glasgow_ and _Monmouth_, _Scharnhorst_ and _Gneisenau_ first sighted and identified each other.",
-    "title": "The Heroic Record of the British Navy: A Short History of the Naval War, 1914-1918",
-    "author": "Hurd, Archibald, 1869-1959; Bashford, H. H. (Henry Howarth), Sir, 1880-1961",
-    "gutenbergReference": "47248",
-    "matchType": 1,
-    "hash": "ebc940654e2aa476bb600570a80dd06c287f85f2af83230bbec8dcca233e8479"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "On the 18th they started again at ",
-    "quoteTime": "4.15 P.M.",
-    "quoteLast": " and reached Gopeegunge at 1.45 P.M. on the 19th, and after halting till 5.50 started again. Here Colonel Woodford was informed that a rebel force of 300 or 400 cavalry, 6,000 or 7,000 infantry and ten or twelve guns was encamped on his right, about twenty miles from Gopeegunge.",
-    "title": "The History of the Rifle Brigade (the Prince Consort's Own) Formerly the 95th",
-    "author": "Cope, William Henry, 1811-1892",
-    "gutenbergReference": "60048",
-    "matchType": 2,
-    "hash": "210bc79034fdf372bac8d344a382ab674bda1e7cab55026d8e9632cdfc769049"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "After being pushed back some little distance, this advanced corps finally gave way in confusion. Banks had now been some time on the field. At ",
-    "quoteTime": "4.15 P.M.",
-    "quoteLast": " Franklin came up, and, seeing how the affair was going, sent word back to General Emory of his corps, to form line of battle at a place he named, two miles in the rear. The enemy came on rapidly, and as the cavalry train of one hundred and fifty wagons and some eighteen or twenty pieces of artillery were close in rear of the discomfited troops, it was not possible, in the narrow road, to turn and save them.",
-    "title": "The Gulf and Inland Waters\nThe Navy in the Civil War. Volume 3.",
-    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
-    "gutenbergReference": "21562",
-    "matchType": 2,
-    "hash": "56da22a1c1d175dfcb7350f74ac64c79e4cb9273d1d440c47768e7a2cc81a791"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "At precisely a ",
-    "quoteTime": "quarter past four",
-    "quoteLast": ".",
-    "title": "Funny Epitaphs",
-    "author": "Eaton, Arthur Wentworth Hamilton, 1849-1937 [Compiler]",
-    "gutenbergReference": "42634",
-    "matchType": 1,
-    "hash": "7b12919725fe923481fc4a0748b15044d7984d1d3a34d8bbc1c85a76aefdfea9"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "Both her masts and three of her four funnels were shot away. At length the German flagship began to settle down rapidly in the waters. It was about a ",
-    "quoteTime": "quarter past four",
-    "quoteLast": ". There was a swirl of the seas and a rush of steam and smoke. The _Scharnhorst_ disappeared.",
-    "title": "World's War Events, Vol. I",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
-    "gutenbergReference": "25962",
-    "matchType": 1,
-    "hash": "d797c127a57bfa2f9739e941005985217cde8224f6ce7bcefa1ae7a74d8cc7c0"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "_Wednesday, May 9._ Start ",
-    "quoteTime": "4:15 P.M.",
-    "quoteLast": ", halt at 10:15 P.M. Make 24 kilometers. Highest temperature 37°. White clouds and very strong warm wind from the northeast, which continues all day and at night develops into a sand-storm. A few drops of rain fall at 7 P.M. The sand-storm lasts from 8 to 10.",
-    "title": "The lost oases",
-    "author": "Hasanayn, Ahmad Muhammad, 1889-1946; Rodd, Rennell, 1858-1941 [Author of introduction, etc.]; Ball, John, 1872-1941 [Contributor]; Hume, W. F. (William Fraser), 1867-1949 [Contributor]; Moon, F. W. (Frederick William), 1874-1925 [Contributor]",
-    "gutenbergReference": "70135",
-    "matchType": 2,
-    "hash": "19d449c42da8204b17e29f717ae306d40167ae6d3df4b5d806fa123ebaba0983"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "_Monday, October 4, at ",
-    "quoteTime": "4:15 p.m.",
-    "quoteLast": "_",
-    "title": "A son of the city",
-    "author": "Seely, Herman Gastrell; Arting, Fred J., 1875-1922 [Illustrator]",
-    "gutenbergReference": "20708",
-    "matchType": 2,
-    "hash": "a1c9d9146c81d25e3d92fb46792414ae606d8543f66f24d374dde8922a4b3ccb"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "February 8, 1912. ",
-    "quoteTime": "4.15 P. M.",
-    "quoteLast": " The investigator was approached on the street by a woman \"runner\" and given cards to above address. She said she had 5 or 6 girls there and she invited him to follow her.",
-    "title": "Commercialized Prostitution in New York City",
-    "author": "Kneeland, George J. (George Jackson), 1872-; Rockefeller, John D., Jr. (John Davison), 1874-1960 [Author of introduction, etc.]; Davis, Katharine Bement, 1860-1935 [Contributor]",
-    "gutenbergReference": "36506",
-    "matchType": 2,
-    "hash": "49bc6a774e5e1a7f4c436323458e5e996f13dd57021943844c92cf9aa4658fc6"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "DEPARTMENT 24--RELIGION (_Hall 4, September 20, ",
-    "quoteTime": "4.15 p. m.",
-    "quoteLast": "_)",
-    "title": "International Congress of Arts and Science, Volume 1\r\nPhilosophy and Metaphysics",
-    "author": "Rogers, Howard J. (Howard Jason), 1861-1927 [Editor]",
-    "gutenbergReference": "38267",
-    "matchType": 2,
-    "hash": "ed4afd0d57d9f255a03b6481d0669a25394c1441d488d5136fc026aed2d3232c"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "“Once again I looked at my watch. It was just a ",
+    "quoteFirst": ", the debarkation of troops still continuing. In the mean time the vessels were slowly moving up, throwing shell in the woods beyond. At a ",
     "quoteTime": "quarter-past four",
-    "quoteLast": ". But I would swear that not half an hour had passed since it had told me that it was half-past eleven.",
-    "title": "The room in the tower, and other stories",
-    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
-    "gutenbergReference": "72421",
-    "matchType": 1,
-    "hash": "cdbdc1935a1cb47c424568543fa2e1626e59ff58e9fca6b8e4b82af6a04b97d0"
+    "quoteLast": ", P. M., the first of the enemy’s batteries opened fire on the foremost of the gunboats, which was promptly returned at long range. The troops were now all disembarked, and steadily advancing without resistance.",
+    "title": "Pictorial history of the war for the Union, volume 1 (of 2)",
+    "author": "Stephens, Ann S. (Ann Sophia), 1810-1886",
+    "gutenbergReference": "72340",
+    "hash": "bf0e81dffb8e102beef8229a6526f8dc7cbb3155f4a800a9abca9c503b5db3f4"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "“You will do that very easily,” interposed M. Popeau. “It’s only a ",
+    "quoteTime": "quarter past four",
+    "quoteLast": " now.”",
+    "title": "The lonely house",
+    "author": "Lowndes, Marie Belloc, 1868-1947",
+    "gutenbergReference": "70698",
+    "hash": "8b31305d4461ac0f6f59ad72a89cdd6ee82d928ef5e07418bf8cbc3a82f0165c"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "Munro’s note further said that the trail beyond was badly smashed but we went on as fast as we could, for we wanted to catch up with Kerdrillo and I was anxious to know that the advance party was continuing to get along well. At ",
+    "quoteTime": "quarter past four",
+    "quoteLast": " we reached the sixth igloo. These camps were from four to ten miles apart. We found at this camp five gallons of oil, which the advance party left, three cases of pemmican, four cases of biscuit and some alcohol.",
+    "title": "The last voyage of the Karluk",
+    "author": "Bartlett, Bob, 1875-1946; Hale, Ralph T. (Ralph Tracy), 1880-1951",
+    "gutenbergReference": "74622",
+    "hash": "6b88a131de9a1bdcac33f9fac93c7c0cb67dae2d5d1dbec3aacb8b1dc88bf090"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "The guide seemed quite delighted to see me so much pleased, and took care, in descending, to lead me to the edge of every precipice, which he had not done in going up. I, however, presently recollected, that I was in a great hurry to get back, and set off along the brink of the cavity for the highest peak, where I arrived at a ",
+    "quoteTime": "quarter past four",
+    "quoteLast": ", and saw a view, of which it is impossible to form any idea from description. For many miles around, it was composed of tops of high mountains, of all the various forms that can be imagined: some appeared swimming in an ocean of vapour; on others, the clouds lay like a cap of snow, appearing as soft as down.",
+    "title": "The Book of Curiosities",
+    "author": "Platts, John, 1775-1837",
+    "gutenbergReference": "41983",
+    "hash": "53b9b34b3adfe2bf15602aa2207a7cd0c71403f92537180757150d7f8f91157d"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "They packed their baskets on Friday morning, gave their guns and fishing-rods a good rubbing up, and at a ",
+    "quoteTime": "quarter-past four",
+    "quoteLast": " in the afternoon they were on their way to the woods; but they got lost before they were fairly out of sight of the village.",
+    "title": "The Mystery of Lost River Canyon",
+    "author": "Castlemon, Harry, 1842-1915; White, George G. (George Gorgas), -1898 [Illustrator]",
+    "gutenbergReference": "60407",
+    "hash": "fc25de00769ac81a074f11920befe47eee02066aee2fd91a98677fe09a2bc396"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "“Till a ",
+    "quoteTime": "quarter past four",
+    "quoteLast": ".”",
+    "title": "Nick Carter weekly  No. 186, July 21, 1900: Nick Carter rescues a daughter; or, The junior partner's strange behavior.",
+    "author": "Carter, Nicholas (House name)",
+    "gutenbergReference": "69032",
+    "hash": "df8fc2f765eab93e263a16c0b66668168e79f8a8a4760b0b1c66f5e43f5f6a14"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "At 7.10 a.m. steered north-east over a nearly level grassy basaltic country with low hills to the east of our route; at 8.0 a.m. altered the course to north and traversed a fine grassy country with table hills of basalt resting on chert and sandstone; crossed one creek from the south-east with a muddy channel fifteen yards wide; at 2.0 p.m. changed the course to north 300 degrees east, and at ",
+    "quoteTime": "4.15 p.m.",
+    "quoteLast": " reached the bank of the Victoria; but it was so steep that the horses could not approach the water, and therefore followed it to the rocky ford east-south-east from Mount Sandiman and encamped.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "68734e2cd682118a47143bbe007747e20416e917c492e0c185cddc09a1461b03"
   }
 ]

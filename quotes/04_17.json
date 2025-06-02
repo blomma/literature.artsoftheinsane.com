@@ -7,7 +7,6 @@
     "title": "The Rover Boys on Snowshoe Island; or, The Old Lumberman's Treasure Box",
     "author": "Stratemeyer, Edward, 1862-1930",
     "gutenbergReference": "22996",
-    "matchType": 1,
     "hash": "7573ed5138d778fc8e57d24f9d021432759c5c194fc9be090ca9bd0213bd2fa3"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Putnam Hall Cadets; or, Good Times in School and Out",
     "author": "Stratemeyer, Edward, 1862-1930; Shute, A. B., 1851-1906 [Illustrator]",
     "gutenbergReference": "45517",
-    "matchType": 1,
     "hash": "cb8a2936941c443dd8345b3870e11e2b3e8bddcbd4c4d24453314cbe37bb85fb"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Manchester and Glasgow Road, Volume 1 (of 2)\r\nThis Way to Gretna Green",
     "author": "Harper, Charles G. (Charles George), 1863-1943",
     "gutenbergReference": "58134",
-    "matchType": 2,
     "hash": "097d593303d2042386e97caed55295de4e182bb15df01b4f435e996299f90443"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Manchester and Glasgow Road, Volume 1 (of 2)\r\nThis Way to Gretna Green",
     "author": "Harper, Charles G. (Charles George), 1863-1943",
     "gutenbergReference": "58134",
-    "matchType": 2,
     "hash": "451b322eabdff4de4dd8d4f64af8710713ca9523fba317e5423ab683539211d5"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Manchester and Glasgow Road, Volume 1 (of 2)\r\nThis Way to Gretna Green",
     "author": "Harper, Charles G. (Charles George), 1863-1943",
     "gutenbergReference": "58134",
-    "matchType": 2,
     "hash": "2215f02a824e04eecbb7dd66ead9bfbde779b207bbb74aa6384cec24ad05db27"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The British Navy in Battle",
     "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
     "gutenbergReference": "54441",
-    "matchType": 1,
     "hash": "4e929a89c640b6941c64735aa41bc2f1eb104289f95b6fe85c5c3fda1c6e8bbf"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Australia in Arms\r\nA Narrative of the Australasian Imperial Force and Their Achievement at Anzac",
     "author": "Schuler, Phillip F. E. (Frederick Edward), 1879-1917",
     "gutenbergReference": "46703",
-    "matchType": 2,
     "hash": "8f272eb956901a553114f2eeca9853be6bece0664580c0c5c76950be41c14117"
   }
 ]

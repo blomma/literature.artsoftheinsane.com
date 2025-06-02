@@ -7,7 +7,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "e30afc0037bfd97e9998722db6b5615e685905979990b0ebf6e5ea69a0fe9b58"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "04fad769d8c7a1a91432ecd70bcfecd49d8f7e747b672e67beca7a4fcf51a262"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "e4d3a20c069699a0abdffed238d2832b03d1ec03894e5d732f6f68c370175cf7"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "541f1581ca0e23d612a56e88dd0e608009cd60009107c44e21339fa2cd3913c3"
   },
   {
@@ -49,10 +45,9 @@
     "quoteTime": "8.38 p.m.",
     "quoteLast": " steaming to the westward.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "3b282e17551bd445e8e0d2597ac787ac1dfc939ff47adbf0dc8b0eed3de2980c"
+    "hash": "3114d4a68d7ce4b08d0bf95b0f312d7502298cce004172fdf64c70cd690fa485"
   },
   {
     "time": "20:38",
@@ -62,7 +57,6 @@
     "title": "The British Navy in Battle",
     "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
     "gutenbergReference": "54441",
-    "matchType": 1,
     "hash": "384c390467f1526536037c9a01afa4b02f23a4994b82c2ef831216570a5412d4"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "matchType": 2,
     "hash": "c57e0429efe006eb96e50f5feb729177cfb696a2fded97be6301d76b9ad81c90"
   }
 ]

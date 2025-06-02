@@ -7,7 +7,6 @@
     "title": "Driftwood Spars\r\nThe Stories of a Man, a Boy, a Woman, and Certain Other People Who Strangely Met Upon the Sea of Life",
     "author": "Wren, Percival Christopher, 1885-1941",
     "gutenbergReference": "11691",
-    "matchType": 1,
     "hash": "f72182597cc4c78dd23644762da74d318858264535f859e1425db652601b7977"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The wonders of the world",
     "author": "Abbott, John Loraine",
     "gutenbergReference": "75040",
-    "matchType": 0,
     "hash": "5f552ef96b3c4cd3c599ff505b7bdadabf03a13084f51f100fb37493a821b60a"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Mariner Mission to Venus",
     "author": "Jet Propulsion Laboratory (U.S.)",
     "gutenbergReference": "54585",
-    "matchType": 2,
     "hash": "a66c72976864de16d0d9a5ed93f07bd326508525ab82864f09da241b7e888e73"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
-    "matchType": 2,
     "hash": "7afc91415d5a486943ad0ad827544ae0c42819b1f42f0d3feea01044f6ac1840"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Walt Whitman in Mickle Street",
     "author": "Keller, Elizabeth Leavitt, 1839-; Bruno, Guido, 1884-1942 [Contributor]",
     "gutenbergReference": "42281",
-    "matchType": 2,
     "hash": "c42ff3947d3e8784f22cbf71eef5909c3d992c917066e370f3902a8bc4bfe499"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Walt Whitman in Mickle Street",
     "author": "Keller, Elizabeth Leavitt, 1839-; Bruno, Guido, 1884-1942 [Contributor]",
     "gutenbergReference": "42281",
-    "matchType": 2,
     "hash": "530220f608d32fe4a83533f4e959a0bbe49a709736867bfd41d34bda2a199688"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "f5ba1cefe6f505811d022b53cc673566f7a6184c1e9b1cef6c3c3a11b462c022"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Condensed guide for the Stanford revision of the Binet-Simon intelligence tests",
     "author": "Terman, Lewis M. (Lewis Madison), 1877-1956",
     "gutenbergReference": "34307",
-    "matchType": 1,
     "hash": "f0c6c002c3fe2a7bc37b43315db8e328762996f7ca872d19a64e7598bd6ba027"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Chaucer's Works, Volume 3 — The House of Fame; The Legend of Good Women; The Treatise on the Astrolabe; The Sources of the Canterbury Tales",
     "author": "Chaucer, Geoffrey, 1343?-1400; Skeat, Walter W. (Walter William), 1835-1912 [Editor]",
     "gutenbergReference": "45027",
-    "matchType": 0,
     "hash": "0f3c43bce3203a1289f8f68ca6bb63b35febfc3b5061f028cbb2471bb77995f9"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Chaucer's Works, Volume 3 — The House of Fame; The Legend of Good Women; The Treatise on the Astrolabe; The Sources of the Canterbury Tales",
     "author": "Chaucer, Geoffrey, 1343?-1400; Skeat, Walter W. (Walter William), 1835-1912 [Editor]",
     "gutenbergReference": "45027",
-    "matchType": 0,
     "hash": "ab552bb86475549e9e3ccc368aa51e3210be53779b57a1167cba1f79b8f52fd4"
   }
 ]

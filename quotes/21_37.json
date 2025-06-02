@@ -7,7 +7,6 @@
     "title": "Around the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "103",
-    "matchType": 1,
     "hash": "34cc2003d84897a45baf72b3a6c7dfa7adbaea9c6483d2ec4cb0ffde7e8557f7"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55331",
-    "matchType": 2,
     "hash": "1ab3c07efd84ebceccf70c9fea391406f68696f298410c1b704980523c707b62"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "58d1b4504f39099f7a95f71461ae1bc72c36359d690ad07dac8cfedd6c5d7fa2"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Round the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905; Frith, Henry, 1840- [Translator]",
     "gutenbergReference": "32972",
-    "matchType": 1,
     "hash": "7656e42a2331b7465f00460b1a6a4f3066b4e49b25a72718200a3209500a0c1d"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Doctor Claudius, A True Story",
     "author": "Crawford, F. Marion (Francis Marion), 1854-1909",
     "gutenbergReference": "15223",
-    "matchType": 1,
     "hash": "43724fc21e7a68dfdeda038812ff65b470a4d20d20ef2ae9c1077e83c80cbafb"
   }
 ]

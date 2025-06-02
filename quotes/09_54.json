@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "e8f46c6d757a4f82900e02b3874a999dfb13bdf795f0d0a44d6be51e747f1796"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Wire Devils",
     "author": "Packard, Frank L. (Frank Lucius), 1877-1942",
     "gutenbergReference": "52084",
-    "matchType": 1,
     "hash": "578fa06dc5dc97ab77029bf9b0e135d2125c8d1191184ef9062dc47a2ac0ae72"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Opportunities in Aviation",
     "author": "Sweetser, Arthur, 1888-1968; Lamont, Gordon",
     "gutenbergReference": "23581",
-    "matchType": 2,
     "hash": "c902a4653f2b660e1ce92149d05aa275ffca4f510e10afedfa733df2a5ec561e"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The London pleasure gardens of the eighteenth century",
     "author": "Wroth, Warwick William, 1858-1911; Wroth, Arthur Edgar",
     "gutenbergReference": "71511",
-    "matchType": 0,
     "hash": "e9e10bc3f1e2e84f5f090dab965e062602df1ec8657fcac4c62b452c6b5b255d"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Colonization of North America, 1492-1783",
     "author": "Bolton, Herbert Eugene, 1870-1953; Marshall, Thomas Maitland, 1876-1936",
     "gutenbergReference": "36619",
-    "matchType": 0,
     "hash": "be79bc65fa6c109369c23f2320b77e932647f31caf6e4d93ce0f20c43a75b356"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The First Seventeen Years: Virginia 1607-1624",
     "author": "Hatch, Charles E., Jr.",
     "gutenbergReference": "30780",
-    "matchType": 0,
     "hash": "fe6f50853c962e8a5ee72133b087eef9b35eb8db9a3390b0129edf94861633c3"
   },
   {
@@ -73,7 +67,6 @@
     "title": "My Memoirs, Vol. V, 1831 to 1832",
     "author": "Dumas, Alexandre, 1802-1870; Waller, E. M. (Emily Mary) [Translator]",
     "gutenbergReference": "50768",
-    "matchType": 0,
     "hash": "3c797e7b387815fc6fc386fc547d4664f9ea3f2c8a03681c5fe863038fcebab3"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Report on the Migration of Birds in the Spring and Autumn of 1880. [Second Report]",
     "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Cordeaux, John, 1831-1899; Kermode, P. M. C. (Philip Moore Callow), 1855?-1932",
     "gutenbergReference": "65411",
-    "matchType": 0,
     "hash": "2b8b9ae8cd6d1dc069f9e149d422a750817826bf272f22a783485adc31d5720c"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Report on the Migration of Birds in the Spring and Autumn of 1886. Eighth Report\r\n(Vol. II, No. 3.)",
     "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
     "gutenbergReference": "66032",
-    "matchType": 0,
     "hash": "944baabbd0715eea5c618e76632d3e6d3cfeabf7e977026c4b256eacb0426db2"
   },
   {
@@ -106,7 +97,6 @@
     "title": "When I was a boy in China",
     "author": "Lee, Yan Phou, 1861-1938?",
     "gutenbergReference": "74717",
-    "matchType": 0,
     "hash": "aed25292a853f910895e81c2a8550f50bf5e80e202971585f0bafa33c853a937"
   }
 ]

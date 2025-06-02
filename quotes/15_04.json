@@ -7,7 +7,6 @@
     "title": "Bindle: Some Chapters in the Life of Joseph Bindle",
     "author": "Jenkins, Herbert George, 1876-1923",
     "gutenbergReference": "33261",
-    "matchType": 1,
     "hash": "e5ef317c14aacc5eb5f16897f880ee15e2a8be9ea24112b95d778978885b572b"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Boating",
     "author": "Woodgate, Walter Bradford, 1842-1920; Dadd, Frank, 1851-1929 [Illustrator]",
     "gutenbergReference": "37462",
-    "matchType": 1,
     "hash": "6d36f024d896c32dd33026333a2fb2c32c4c52fabac7408d0b97303cd7ec6446"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Count's Chauffeur",
     "author": "Le Queux, William, 1864-1927",
     "gutenbergReference": "30827",
-    "matchType": 1,
     "hash": "105eff395cf95806fd59f8288e2949a69fd2fb28f3c253d9af2c210dd4bdd410"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The amateur crime",
     "author": "Berkeley, Anthony, 1893-1971",
     "gutenbergReference": "72675",
-    "matchType": 1,
     "hash": "bd714e550d427cee1cdd2c1ae7e6fb70127e7b997c9bc497a2adb908639b14f7"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "9669c1ee6f330a5c3372aea370045b314aab8c708127972f87613a81c72bb21a"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Report on Unidentified Flying Objects",
     "author": "Ruppelt, Edward J., 1922-1960",
     "gutenbergReference": "17346",
-    "matchType": 2,
     "hash": "1417e7b24b9f50f4c50d5b7c0b28ed0ef473d25e537f137db66f4417394e8914"
   }
 ]

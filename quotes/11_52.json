@@ -7,7 +7,6 @@
     "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
     "author": "Levy, Donald M.",
     "gutenbergReference": "59328",
-    "matchType": 2,
     "hash": "0fd4104f7781ce3d8f01c652fa8d1b0388c7af8f424000db3cf84ba28d1ff07d"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
     "author": "Levy, Donald M.",
     "gutenbergReference": "59328",
-    "matchType": 2,
     "hash": "7a175f914d13a9a478cabfae1ab8bda3c1e9128dcbc19e7fe6ecc2cdce5e49d9"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Memoir of Fleeming Jenkin",
     "author": "Stevenson, Robert Louis, 1850-1894",
     "gutenbergReference": "698",
-    "matchType": 0,
     "hash": "123c7cfde5aa18c6c4315d643d856723e34c4ae48deca5e5704c660b611b43ec"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Story of a Strange Career: Being the Autobiography of a Convict\r\nAn Authentic Document",
     "author": "Waterloo, Stanley, 1846-1913 [Editor]",
     "gutenbergReference": "33631",
-    "matchType": 0,
     "hash": "786803907365135041088f026fade52702f85ebd72873aca70b1364c905c2175"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Nightfall",
     "author": "Pryde, Anthony",
     "gutenbergReference": "14489",
-    "matchType": 1,
     "hash": "31c401442931d99d92846de58a2193a87b01ed4f0ac68e452e65a31cab2b8862"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Oblomov",
     "author": "Goncharov, Ivan Aleksandrovich, 1812-1891; Hogarth, C. J., 1869-1942 [Translator]",
     "gutenbergReference": "54700",
-    "matchType": 0,
     "hash": "08ae823909c4464b16d01f87d0d989fca9742479d5c880babb6bdc33a3d23168"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Travels in Peru and India\r\nWhile Superintending the Collection of Chinchona Plants and Seeds in South America, and Their Introduction into India.",
     "author": "Markham, Clements R. (Clements Robert), Sir, 1830-1916",
     "gutenbergReference": "55593",
-    "matchType": 0,
     "hash": "bbccd1059783ae74e82929025f95a5c68929319209641aebc2c70b5dfebd70cb"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Familiar Letters\r\nThe Writings of Henry David Thoreau, Volume 06 (of 20)",
     "author": "Thoreau, Henry David, 1817-1862; Sanborn, F. B. (Franklin Benjamin), 1831-1917 [Editor]",
     "gutenbergReference": "43523",
-    "matchType": 0,
     "hash": "521f80b861ba2a2ca12393dd976a94adcef2aa9ee383df90d1171e77b54291be"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Pittsburgh in 1816\r\nCompiled by the Carnegie Library of Pittsburgh on the One Hundredth Anniversary of the Granting of the City Charter",
     "author": "Carnegie Library of Pittsburgh [Compiler]",
     "gutenbergReference": "43259",
-    "matchType": 0,
     "hash": "d91ae7ba0ed9df06fbe1ee9972c13a75401b494993c919b5b195ad02bf7c339a"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Secret of Sarek",
     "author": "Leblanc, Maurice, 1864-1941; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
     "gutenbergReference": "34939",
-    "matchType": 1,
     "hash": "fad7d05b26f7e009775fe6005f91ebcd4a63eb3d8dd1cbdc7d93f314ee1f0d80"
   },
   {
@@ -117,7 +107,6 @@
     "title": "Foot-prints of a letter carrier; or, a history of the world's correspondece",
     "author": "Rees, James, 1802-1885",
     "gutenbergReference": "47190",
-    "matchType": 0,
     "hash": "c4a13aa0555e33c21d384684d4a07777e360b4e9220ab1ce9bcaf6ef6c4db88c"
   },
   {
@@ -128,7 +117,6 @@
     "title": "A History of Matrimonial Institutions, Vol. 1 of 3",
     "author": "Howard, George Elliott, 1849-1928",
     "gutenbergReference": "49107",
-    "matchType": 0,
     "hash": "b67689e9156592bb69fa4e81438e2a4995435b408f8b7b1cd049f915d12f44a7"
   },
   {
@@ -139,7 +127,6 @@
     "title": "Making Both Ends Meet: The income and outlay of New York working girls",
     "author": "Clark, Sue Ainslie; Wyatt, Edith, 1873-1958",
     "gutenbergReference": "14798",
-    "matchType": 0,
     "hash": "ec004a7ac99151c9023d28200d01d350e3098f34171f0301658e4084c41e26da"
   }
 ]

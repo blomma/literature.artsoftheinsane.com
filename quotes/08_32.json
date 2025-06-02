@@ -7,7 +7,6 @@
     "title": "My Brother, Theodore Roosevelt",
     "author": "Robinson, Corinne Roosevelt, 1861-1933",
     "gutenbergReference": "51831",
-    "matchType": 1,
     "hash": "7f5c2ef2f27efd3a3731fb6d7b3f47d8d516ebde093b19ee1f0d44d035a6e510"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Wonderful Balloon Ascents; Or, The Conquest of the Skies\r\nA History of Balloons and Balloon Voyages",
     "author": "Marion, Fulgence",
     "gutenbergReference": "899",
-    "matchType": 1,
     "hash": "369252dd797c836105e3befdac625c7c861653d8dafcdaf721b71f897ae57158"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Boy Patrol on Guard",
     "author": "Ellis, Edward Sylvester, 1840-1916; Prittie, Edwin John, 1879-1963 [Illustrator]",
     "gutenbergReference": "43079",
-    "matchType": 1,
     "hash": "6010ac42a5d2880a10413eca6c8336344af1feaec3909d76724b6210a911ed5c"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 3",
     "author": "Humboldt, Alexander von, 1769-1859; Bonpland, Aimé, 1773-1858; Ross, Thomasina [Translator]",
     "gutenbergReference": "7254",
-    "matchType": 1,
     "hash": "0c2ba44f75b1d68892568961299a9751baedcf7b15e2c9f76d8b6a1ceea1bb53"
   }
 ]

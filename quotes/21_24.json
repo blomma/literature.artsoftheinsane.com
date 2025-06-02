@@ -7,7 +7,6 @@
     "title": "A Study of Recent Earthquakes",
     "author": "Davison, Charles, 1858-1940",
     "gutenbergReference": "25062",
-    "matchType": 2,
     "hash": "644d28044007ed026e31aab505310fd247484efbb26687a4d99dc823f9001f01"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Memoirs of Jacques Casanova de Seingalt, Vol. V (of VI), \"In London and Moscow\"\r\nThe First Complete and Unabridged English Translation, Illustrated with Old Engravings",
     "author": "Casanova, Giacomo, 1725-1798; Machen, Arthur, 1863-1947 [Translator]",
     "gutenbergReference": "39305",
-    "matchType": 1,
     "hash": "c8791b18a746d538dfb543510add227f05ddd34acb2a0b15d021552bb735c4fb"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Murder by the clock",
     "author": "King, Rufus, 1893-1966",
     "gutenbergReference": "75500",
-    "matchType": 2,
     "hash": "750f8566e4fcd8fc5637a47027e373293d17c5b2755664d810dcae82c918816b"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Murder by the clock",
     "author": "King, Rufus, 1893-1966",
     "gutenbergReference": "75500",
-    "matchType": 2,
     "hash": "5f68833d157623b7ac2d36b8bd8943ea0ff4ab03e8580ffe41a535ae2e2320dc"
   },
   {
@@ -49,10 +45,9 @@
     "quoteTime": "9.24 p.m.",
     "quoteLast": " Nothing further being sighted, I assumed that the enemy were to the north-westward, and that we had established ourselves well between him and his base. _Minotaur_ (Captain Arthur C. S. H. D'Aeth) was at this time bearing north 5 miles, and I asked her the position of the leading battle squadron of the Battle Fleet.",
     "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873- [Editor]",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "matchType": 2,
-    "hash": "8d98f4f88537c3e42d96ced4b30d2e031ba875bf426b970f6751b147f03ad214"
+    "hash": "8519de27ed5db67fdad7b79d800b89975195823debe8b9af08a15fad405ac8c2"
   },
   {
     "time": "21:24",
@@ -62,7 +57,6 @@
     "title": "Letters of Felix Mendelssohn to Ignaz and Charlotte Moscheles",
     "author": "Mendelssohn-Bartholdy, Felix, 1809-1847; Moscheles, Felix, 1833-1917 [Translator]",
     "gutenbergReference": "51750",
-    "matchType": 1,
     "hash": "7146b587f3edadb02983edab013e902fb3a49020c7c844c128dc11917a53df31"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Complete",
     "author": "Casanova, Giacomo, 1725-1798; Machen, Arthur, 1863-1947 [Translator]",
     "gutenbergReference": "2981",
-    "matchType": 1,
     "hash": "4c73f7e95641d9273c01c2b6529da748c0872e115e886a345fb1f2df1e77cb06"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Volume 25: Russia and Poland",
     "author": "Casanova, Giacomo, 1725-1798; Machen, Arthur, 1863-1947 [Translator]",
     "gutenbergReference": "2975",
-    "matchType": 1,
     "hash": "101a1bdd05831f8556303e78545a4c04a00e5d6ecbbf8642eabee289f344f6a5"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Fragments of an Autobiography",
     "author": "Moscheles, Felix, 1833-1917",
     "gutenbergReference": "33185",
-    "matchType": 1,
     "hash": "c4d16547145dd2fe19d04406025293d7c3938f030bc0227fe58fb136effd2207"
   }
 ]

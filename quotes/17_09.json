@@ -7,7 +7,6 @@
     "title": "Sam in the Suburbs",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "67368",
-    "matchType": 1,
     "hash": "5cd1d936359113b73b1fe0b7cc58a618ced220e26c7c55a97a558d22cb0c620f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Scientific American Supplement, No. 363, December 16, 1882",
     "author": "Various",
     "gutenbergReference": "8452",
-    "matchType": 2,
     "hash": "4e506cd8973cfba65cb727c71b6d0b78b5ec6efc6663813c02b570645136e549"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "matchType": 2,
     "hash": "f3be817dadab9aa4c1c5ca750501729f6e01535ed86fb0105036ff6c47e5f51b"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Cornish Coast (South), and the Isles of Scilly",
     "author": "Harper, Charles G. (Charles George), 1863-1943",
     "gutenbergReference": "47763",
-    "matchType": 1,
     "hash": "eaa6b7e93deac1445c2a6ada1b05549b7e6289851642aa58bef24196552e2166"
   },
   {
@@ -51,7 +47,6 @@
     "title": "From Manassas to Appomattox: Memoirs of the Civil War in America",
     "author": "Longstreet, James, 1821-1904",
     "gutenbergReference": "38418",
-    "matchType": 2,
     "hash": "9d496287055c68c315ad4e978ef969900507757ebb41b5b37eac56a3a6fa20b0"
   }
 ]

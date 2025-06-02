@@ -7,7 +7,6 @@
     "title": "Alonzo Fitz, and Other Stories",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3184",
-    "matchType": 1,
     "hash": "b19300695cbdcd24881e0b4659f9a97c6fb891db75da59364268dae006c2d75a"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Library of the World's Best Literature, Ancient and Modern — Volume 09",
     "author": "Warner, Charles Dudley, 1829-1900 [Editor]; Mabie, Hamilton Wright, 1846-1916 [Editor]; Runkle, Lucia Isabella Gilbert, 1844- [Editor]; Warner, George H., 1833-1919 [Editor]",
     "gutenbergReference": "34224",
-    "matchType": 1,
     "hash": "ad8a4bd2d02b7e45943387024f9c381e186e78250da0baa0421b7a180d4da0a4"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Moonstone",
     "author": "Collins, Wilkie, 1824-1889",
     "gutenbergReference": "155",
-    "matchType": 1,
     "hash": "db975a6b3ca01c2303d5fa1d1544f873166f3411a1bef2490c2490f54d81909b"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Chautauquan, Vol. 05, February 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55053",
-    "matchType": 2,
     "hash": "f09c34a1f0a7c805e0d3696689e34449a8a4b4646c4adcf49304618eb28b014e"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Golden Triangle: The Return of Arsène Lupin",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "34795",
-    "matchType": 1,
     "hash": "05b6543f61ea06d1750860899e22da9fa3dc417074e385a6f05849950ad8fe46"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Golden Triangle: The Return of Arsène Lupin",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "34795",
-    "matchType": 1,
     "hash": "57f4c0c435fc0671e2a38024f25da3365281b3226c3f8a0cc4fe95814f81e7e4"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Golden Triangle: The Return of Arsène Lupin",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "34795",
-    "matchType": 1,
     "hash": "22bfcabbd4440d2adecde0bd26242f6918792952b48b55bbf644250abfb73164"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Golden Triangle: The Return of Arsène Lupin",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "34795",
-    "matchType": 1,
     "hash": "c10e039d8da7bee9f2f1fa18c20ea13b84c0e79d2cb16e574a8aca4c5edb06e3"
   },
   {
@@ -95,7 +87,6 @@
     "title": "The Golden Triangle: The Return of Arsène Lupin",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "34795",
-    "matchType": 1,
     "hash": "f5a44c1aae8747089381e4a7fe4f1b0b519d92a7d7b3ec27b8e3c3d842c24aa7"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Golden Triangle: The Return of Arsène Lupin",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "34795",
-    "matchType": 1,
     "hash": "f5a44c1aae8747089381e4a7fe4f1b0b519d92a7d7b3ec27b8e3c3d842c24aa7"
   },
   {
@@ -117,7 +107,6 @@
     "title": "The Golden Triangle: The Return of Arsène Lupin",
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "34795",
-    "matchType": 1,
     "hash": "cdf9435a078d6d891edd878ef28235c5e218596960dd50d9ef989be8f8bbf6c5"
   },
   {
@@ -128,7 +117,6 @@
     "title": "Warren Commission (07 of 26): Hearings Vol. VII (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44007",
-    "matchType": 2,
     "hash": "323d2433911b2d26058a5837613e7224988694696be8ad2e65d6f31b2c518dc2"
   },
   {
@@ -139,7 +127,6 @@
     "title": "The Entire Project Gutenberg Works of Mark Twain",
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3200",
-    "matchType": 1,
     "hash": "75cf3164ea7e911743f5d06baf8c302c7d577b13e68f6ec84806bca959925584"
   },
   {
@@ -150,7 +137,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "3e3a9f0c49c7f156782188f09bf877b119b6a1f94a563f32c2ee302292929ffe"
   },
   {
@@ -161,7 +147,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "3e3a9f0c49c7f156782188f09bf877b119b6a1f94a563f32c2ee302292929ffe"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "75138",
-    "matchType": 1,
     "hash": "b40105d5d5b2f62c104f30555a88cf935abbd899e2666d6787d48095a93caf41"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The British Expedition to the Crimea",
     "author": "Russell, William Howard, Sir, 1820-1907",
     "gutenbergReference": "46242",
-    "matchType": 1,
     "hash": "afd9d1786c71f502f2a803447ac78c57c829e642e8da07a80a548cfc364f7eca"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58030",
-    "matchType": 1,
     "hash": "a290ee3cc3d659215aad85acf48ea5f2d5848dc5e7c406fd3bb1be8559dfa933"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "matchType": 2,
     "hash": "d1b3e469deba7315ed27fd3b46e34334bc0ed66edb94d6a98f8561e048963e25"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Mariner Mission to Venus",
     "author": "Jet Propulsion Laboratory (U.S.)",
     "gutenbergReference": "54585",
-    "matchType": 2,
     "hash": "3991238a60edc0ca4867611b9ed6d42d7c813c25de4980e45a3c268dd41fa1d7"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
     "author": "Miles, Henry Downes, 1806-1889",
     "gutenbergReference": "64111",
-    "matchType": 1,
     "hash": "7fe4f0fb0597dae1f4ace0ef0b508682679772867869ca8879979d087b752e6b"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The German pirate",
     "author": "Ajax",
     "gutenbergReference": "50865",
-    "matchType": 2,
     "hash": "d93dfaa0d63d9b0318901bb00fc22e10427138cabea91cd6c5c3e23927aa1fcb"
   }
 ]

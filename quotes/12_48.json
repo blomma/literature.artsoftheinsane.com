@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "ab0099b88f990db43ca4f0064cdb15bd3c695bf448faedfdcda44cde7cc5991f"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Frank Merriwell's Endurance; or, A Square Shooter",
     "author": "Standish, Burt L., 1866-1945",
     "gutenbergReference": "56278",
-    "matchType": 2,
     "hash": "7cf5127f7d19fc42fa878452909ad530d3750e4229f221b15e4b223dd8461812"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "matchType": 2,
     "hash": "1dd34159ad42bb341974b8c143b8c4ee9123568fdbc56419b2ffcac0afa3fece"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "matchType": 2,
     "hash": "d374669512aaba4996d3e1b390a8daa998a3cbcb42c01e459b5f825dfd12519d"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44006",
-    "matchType": 2,
     "hash": "39a3f8c2240ae2039b74051ebeb36ce9e9b2cadd24122ec926c9592a08e2b573"
   },
   {
@@ -62,7 +57,6 @@
     "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
     "author": "Leffingwell, Albert, 1845-1916",
     "gutenbergReference": "20222",
-    "matchType": 2,
     "hash": "0fda4a77a9fa5bd61c90ee1efcf139611ccec9165f215a029d6d244e957774b4"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "matchType": 2,
     "hash": "6c93de92c6bf567d8290a1204f86644b205c847d97477965f3145e54b2b76a45"
   },
   {
@@ -84,7 +77,6 @@
     "title": "Reminiscences of Forts Sumter and Moultrie in 1860-'61",
     "author": "Doubleday, Abner, 1819-1893",
     "gutenbergReference": "24972",
-    "matchType": 2,
     "hash": "8fc1418e0c5473d77f5120ccd1a1baf056b4b9976e815b603e4dd03a51a1232e"
   }
 ]

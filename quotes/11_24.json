@@ -7,7 +7,6 @@
     "title": "Voyage to Jupiter",
     "author": "Morrison, David, 1940-; Samz, Jane",
     "gutenbergReference": "58915",
-    "matchType": 2,
     "hash": "f6fa1e18833a4973c9a9b6f7b1b27aac5d311802645c49992df90a9936b298b6"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Story of Our Submarines",
     "author": "Bower, John Graham, 1886-1940",
     "gutenbergReference": "40765",
-    "matchType": 2,
     "hash": "ec1840e40c4fa2929a4690740644052792907734808a41ae55c25757d656a85b"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55134",
-    "matchType": 2,
     "hash": "5b89f7d18fc08f636db9128afe35dc8e19a9d5352c031b13dc7de309a78df39d"
   },
   {
@@ -40,7 +37,6 @@
     "title": "History of Negro Soldiers in the Spanish-American War, and Other Items of Interest",
     "author": "Johnson, Edward A. (Edward Austin), 1860-1944",
     "gutenbergReference": "11102",
-    "matchType": 2,
     "hash": "149c9ddd467066773736e69fc162384f3612743b6db78982d60e70ecd887c02a"
   }
 ]

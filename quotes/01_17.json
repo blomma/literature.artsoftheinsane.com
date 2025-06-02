@@ -7,7 +7,6 @@
     "title": "From the Earth to the Moon; and, Round the Moon",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "83",
-    "matchType": 1,
     "hash": "17fa8543e2a04af3317a58e039101cc894ab745fbab0cae08b7e8b4e9813a0c3"
   },
   {
@@ -18,7 +17,6 @@
     "title": "From the Earth to the Moon; and, Round the Moon",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "83",
-    "matchType": 1,
     "hash": "2273735ed538f23e12d892810ff3bfc8f6c93fd7f797c214c7899d74f1498632"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "2bb81d4fcf5b1fae5a94fb7fee10558ebb6b7c13997266976af8addfedd3ba23"
   },
   {
@@ -40,7 +37,6 @@
     "title": "From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes: and a Trip Round It",
     "author": "Verne, Jules, 1828-1905; Hildibrand, Henri Théophile, 1824-1897 [Engraver]; Bayard, Émile Antoine, 1837-1891 [Illustrator]; Neuville, Alphonse Marie de, 1835-1885 [Illustrator]",
     "gutenbergReference": "44278",
-    "matchType": 1,
     "hash": "0d095eaa8488908ddfb37b9e6a979f950507ec6dc8dd73c6ae322108cf938f99"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Moon-Voyage",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "12901",
-    "matchType": 2,
     "hash": "60bc35fe6421ffe8e910a446c8bbd5da4e64f83ecd360b4c4cf3556351adb7b5"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Moon-Voyage",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "12901",
-    "matchType": 2,
     "hash": "22fd16d9ac727d6ff453be0b35833590a3268757cdf517134a48bd7d6b444c8b"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Former Philippines Thru Foreign Eyes",
     "author": "Craig, Austin, 1872-1949 [Editor]; Comyn, Tomás de; Jagor, Fedor, 1816-1900; Virchow, Rudolf, 1821-1902; Wilkes, Charles, 1798-1877",
     "gutenbergReference": "10770",
-    "matchType": 1,
     "hash": "46a37658ae9609c9a7bb22e2c5d693dc838db80faac4de478c9fb637db91f062"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Diamond Ship",
     "author": "Pemberton, Max, 1863-1950",
     "gutenbergReference": "55993",
-    "matchType": 1,
     "hash": "f59f6cc92f75901b15a5f81b8b95f65a45094eeb18758dd217ddbecb5c1cf4d7"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Invention and Discovery: Curious Facts and Characteristic Sketches",
     "author": "Anonymous",
     "gutenbergReference": "46644",
-    "matchType": 1,
     "hash": "7d29fa96f0757cdf300e70d6cbee03cba8dc1809e352ee501f2c5c2f722e63a6"
   },
   {
@@ -106,7 +97,6 @@
     "title": "Memoirs and Correspondence of Admiral Lord de Saumarez, Vol. I",
     "author": "Ross, John, Sir, 1777-1856",
     "gutenbergReference": "26031",
-    "matchType": 1,
     "hash": "8cd7c4bbd7d43698fe8e048f4abb597aaba253cf76b5e0731118199e7edba165"
   },
   {
@@ -117,7 +107,6 @@
     "title": "Our Navy at war",
     "author": "Daniels, Josephus, 1862-1948",
     "gutenbergReference": "63596",
-    "matchType": 2,
     "hash": "4e7115b2567ef34e486ee960d923d8e4668fe12f23b1dded8d4cd3d985b0ad35"
   }
 ]

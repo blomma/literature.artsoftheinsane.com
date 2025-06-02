@@ -7,7 +7,6 @@
     "title": "From the Earth to the Moon; and, Round the Moon",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "83",
-    "matchType": 1,
     "hash": "0f5d52173c4614c0a96621042e01ce865e1a0536ee292474e276b0572832ce2b"
   },
   {
@@ -18,7 +17,6 @@
     "title": "From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes: and a Trip Round It",
     "author": "Verne, Jules, 1828-1905; Hildibrand, Henri Théophile, 1824-1897 [Engraver]; Bayard, Émile Antoine, 1837-1891 [Illustrator]; Neuville, Alphonse Marie de, 1835-1885 [Illustrator]",
     "gutenbergReference": "44278",
-    "matchType": 1,
     "hash": "5a4b77456560da58efaaf8638c88e3c283252074dbbd2ad1cb82431afbae096d"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Moon-Voyage",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "12901",
-    "matchType": 2,
     "hash": "e6b4d47e831789110c7af1cd7410e68a24666af2366f705e512ab10fd39b01b0"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Great North Road, the Old Mail Road to Scotland: London to York",
     "author": "Harper, Charles G. (Charles George), 1863-1943",
     "gutenbergReference": "46716",
-    "matchType": 2,
     "hash": "7beb330d6b2e33ba4e58798d2e37829678d83b5615c63f9a45686b35cf7ff274"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Through South Africa\nHis Visit to Rhodesia, the Transvaal, Cape Colony, Natal",
     "author": "Stanley, Henry M. (Henry Morton), 1841-1904",
     "gutenbergReference": "32913",
-    "matchType": 2,
     "hash": "edab72022cb5321e2e6bba5e7c2f5cbb0c537e22ccb35ff408d1905468df1587"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Round the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905; Frith, Henry, 1840- [Translator]",
     "gutenbergReference": "32972",
-    "matchType": 1,
     "hash": "60c7e830f884c8cfea39a92ac93e4a2980b60c80dbe9b41a751e318318bfdded"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Battle of the Falkland Islands, Before and After",
     "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
     "gutenbergReference": "50265",
-    "matchType": 2,
     "hash": "61d9c47b0e3dca6f85cb7b9ac674807d69fb6f565a5636ef0bce8ff6ece64876"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The British Navy in Battle",
     "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
     "gutenbergReference": "54441",
-    "matchType": 2,
     "hash": "b9741baa1fb5c1831f7a4abb49782561357127216d86ab96146f9ffc44b790cf"
   },
   {
@@ -95,7 +87,6 @@
     "title": "New York Times Current History; The European War, Vol 2, No. 2, May, 1915\nApril-September, 1915",
     "author": "Various",
     "gutenbergReference": "15479",
-    "matchType": 2,
     "hash": "8856927dd2040bf47e707f29cfa396423be5408ed6a083d3977bc0192675d569"
   },
   {
@@ -106,7 +97,6 @@
     "title": "History of the World War, Volume 2 (of 7)",
     "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945; Hare, James H., 1856-1946 [Photographer]; Thompson, Donald C., 1885-1947 [Photographer]",
     "gutenbergReference": "74727",
-    "matchType": 2,
     "hash": "40762f85f6dea7d2e4bfa93d66da0cf770a96231ec04b60482847301db83c47b"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "Three Little Lines\r\nSilverton Railroad; Silverton, Gladstone and Northerly; Silverton Northern",
     "author": "Crum, Josie Moore",
     "gutenbergReference": "62664",
-    "matchType": 2,
     "hash": "fb6fde6a8e7ae59ef78ac442211b6c867720fb72edf8ad04a8604c436f9bbdff"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Punch, or the London Charivari, June 10, 1914",
     "author": "Various; Seaman, Owen, 1861-1936 [Editor]",
     "gutenbergReference": "24414",
-    "matchType": 1,
     "hash": "c79a000aba80db4d078840e1ef53a30bf2d941c9d18f00b614eec1d8456b571f"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Red House Mystery",
     "author": "Milne, A. A. (Alan Alexander), 1882-1956",
     "gutenbergReference": "1872",
-    "matchType": 2,
     "hash": "8999c79984d3d098964d1b5da906be0c6ce2802b99e807559569eb30e8b7169e"
   },
   {
@@ -40,7 +37,6 @@
     "title": "New Zealanders at Gallipoli",
     "author": "Waite, Fred, 1885-1952",
     "gutenbergReference": "45354",
-    "matchType": 2,
     "hash": "85f8f60b87aa4013e9bc859967807de58e8d66553b8ae83214f650131e9ce4e8"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The sunny side",
     "author": "Milne, A. A. (Alan Alexander), 1882-1956",
     "gutenbergReference": "13441",
-    "matchType": 1,
     "hash": "3c28076a7edf548c862f74bff90c98d98064b67cc8ae3faea504eed93e163284"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Wire Tappers",
     "author": "Stringer, Arthur, 1874-1950",
     "gutenbergReference": "50203",
-    "matchType": 1,
     "hash": "6157a0d85ad1e81deb81dbc12a731939798722997646b621cfe20c4d56dcfb86"
   }
 ]

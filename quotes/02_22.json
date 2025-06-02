@@ -7,7 +7,6 @@
     "title": "Atlantic Narratives: Modern Short Stories; Second Series",
     "author": "Thomas, Charles Swain, 1868-1943 [Editor]; Antin, Mary, 1881-1949; Ashe, Elizabeth, 1885-1974; Carman, Kathleen, 1875-1959; Comer, Cornelia A. P. (Cornelia Atwood Pratt), 1865-1929; De la Roche, Mazo, 1879-1961; Donnell, Annie Hamilton, 1862-1943; Dunning, James Edmund, 1873-1931; Eastman, Rebecca Hooper; Ganoe, William Addleman, 1881-1966; Huffaker, Lucy; Husband, Joseph, 1885-1938; Kemper, S. H.; Krysto, Christina; Mackubin, Ellen, -1915; Mirrielees, Edith Ronald, 1878-1962; Montague, Margaret Prescott, 1878-1955; Morlae, Edward; Nicholson, Meredith, 1866-1947; Norris, Kathleen Thompson, 1880-1966; Portor, Laura Spencer, 1872-1957; Pratt, Lucy; Singmaster, Elsie, 1879-1958; Townsend, Charles Haskins, 1859-1944; Wyatt, Edith, 1873-1958",
     "gutenbergReference": "40718",
-    "matchType": 1,
     "hash": "9cf9d29517954838cac0610537b5793ba5a6b7c528f0fe53ee6a254e4a582e10"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Voyage of Captain Popanilla",
     "author": "Disraeli, Benjamin, Earl of Beaconsfield, 1804-1881",
     "gutenbergReference": "7816",
-    "matchType": 1,
     "hash": "d1dd67bf935795579214fc27bae50565fd23461c39127299f568c70ee34f87a0"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Frédérique, vol. 2",
     "author": "Kock, Paul de, 1793-1871",
     "gutenbergReference": "38332",
-    "matchType": 1,
     "hash": "9b8a7e4cecf5a841bba3b2f223ecccad7bbbfc44ced217ebfa0de05655781eb8"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Sinking of the \"Titanic\"",
     "author": "Mowbray, Jay Henry, 1869-1955",
     "gutenbergReference": "73984",
-    "matchType": 2,
     "hash": "5ae2dd9b32d4b8e44b733650dc942237cad7f39a39af81fae535bd5de7ef6b08"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Train Wire: A Discussion of the Science of Train Dispatching\r\n(Second Edition)",
     "author": "Anderson, John Alexander, 1829-1917",
     "gutenbergReference": "51158",
-    "matchType": 2,
     "hash": "0a1c8c245be0c6c2b7c26d1db5b67ac995083c671819749233c43c7c630d35ab"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Truth about the Titanic",
     "author": "Gracie, Archibald, 1858-1912",
     "gutenbergReference": "67584",
-    "matchType": 2,
     "hash": "bf46af772cfc807aaa070454531eb288a87d44a1e51fc327b7c854f3239b686d"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Terminal Compromise",
     "author": "Schwartau, Winn, 1952-",
     "gutenbergReference": "79",
-    "matchType": 2,
     "hash": "543c94b956bc714393d8e48e8e82c2dee0acf37c39db0c41f325cd22fb088654"
   },
   {
@@ -84,7 +77,6 @@
     "title": "In the land of the lion and sun, or, modern Persia",
     "author": "Wills, C. J. (Charles James), 1842-1912",
     "gutenbergReference": "72128",
-    "matchType": 1,
     "hash": "bd1afed8eda45b01562a58b41b697e0055142629452d16e37cca62fa1fb253ac"
   }
 ]

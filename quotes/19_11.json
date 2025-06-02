@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, July 1885, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55444",
-    "matchType": 2,
     "hash": "dda1eb68e79570ed90ca16096534481b4f9a6d86ffb4280e765bf3a8ec933218"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Grand Fleet, 1914-1916",
     "author": "Jellicoe, John Rushworth, 1859-1935",
     "gutenbergReference": "75323",
-    "matchType": 2,
     "hash": "06db2985b8ea8cc10bc0f9e3e4bc293b02f5b0a61e9145fcfe74a8fbfaec357c"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Egholm and his God",
     "author": "Buchholtz, Johannes, 1882-1940; Worster, W. J. Alexander (William John Alexander), 1882-1929 [Translator]",
     "gutenbergReference": "46913",
-    "matchType": 1,
     "hash": "54c5afbf19e8cd125f35e070eaa44e57a01b3fc1bb3639819e6cdd7342080f00"
   }
 ]

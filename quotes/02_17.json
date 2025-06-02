@@ -7,7 +7,6 @@
     "title": "From the Earth to the Moon; and, Round the Moon",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "83",
-    "matchType": 1,
     "hash": "ec9e0704a32e2c166bc180c0cd256be100aa98523259c9ad8ad86c632d16f00c"
   },
   {
@@ -18,7 +17,6 @@
     "title": "From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes: and a Trip Round It",
     "author": "Verne, Jules, 1828-1905; Hildibrand, Henri Théophile, 1824-1897 [Engraver]; Bayard, Émile Antoine, 1837-1891 [Illustrator]; Neuville, Alphonse Marie de, 1835-1885 [Illustrator]",
     "gutenbergReference": "44278",
-    "matchType": 1,
     "hash": "eca4a81689b4264d3d22acea71320e8b4d992bd33c3eb3a21dfc197e0ed2f115"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Late Tenant",
     "author": "Tracy, Louis, 1863-1928",
     "gutenbergReference": "35691",
-    "matchType": 1,
     "hash": "963446c0e67520f81efc1c094091027ee8dec95b89a95d9788955fbf67eeac35"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Little Grey House",
     "author": "Taggart, Marion Ames, 1866-1945",
     "gutenbergReference": "48363",
-    "matchType": 1,
     "hash": "b98d1982d8e3440c659e73b47233fb8d2a8b9d451c3ca87c489e3e6cdb8e3acd"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Red as a Rose is She: A Novel",
     "author": "Broughton, Rhoda, 1840-1920",
     "gutenbergReference": "45178",
-    "matchType": 1,
     "hash": "e8a278627164361b37d8dd394a7b1a55e48cca48ee41f6366abe6c218bc6a5ca"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Loss of the Steamship \"Titanic\"",
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
-    "matchType": 2,
     "hash": "ff45775709d3035a591dfb63cbc19dcb2b7efe07f3d5a5c02721b0c9a7252e7a"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Barrington. Volume 1 (of 2)",
     "author": "Lever, Charles James, 1806-1872; Browne, Hablot Knight, 1815-1882 [Illustrator]",
     "gutenbergReference": "34882",
-    "matchType": 1,
     "hash": "6b929b0c3f6a633c2bf712030c32fad8e89f06036c24773fc3805a9c90170a2b"
   }
 ]

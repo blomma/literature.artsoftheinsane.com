@@ -7,7 +7,6 @@
     "title": "A Popular History of Astronomy During the Nineteenth Century\nFourth Edition",
     "author": "Clerke, Agnes M. (Agnes Mary), 1842-1907",
     "gutenbergReference": "28247",
-    "matchType": 2,
     "hash": "2d48c742a16fbbe69e9d3588fc7e6f475c8f5822088fb736bcf09ff2e72acc4d"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Mysterious Island",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "1268",
-    "matchType": 1,
     "hash": "cea0c4387024eb68a7555617b0484337bebe4f83a29de05bb2c23b66c1a27bda"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The English of military communications",
     "author": "Ganoe, William Addleman, 1881-1966",
     "gutenbergReference": "71741",
-    "matchType": 1,
     "hash": "c48d0791cd95204aaa53ca36eaa8872a16ac153307a96ce2932df1838e573dc6"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Secret of the Island",
     "author": "Verne, Jules, 1828-1905; Kingston, William Henry Giles, 1814-1880 [Translator]",
     "gutenbergReference": "21489",
-    "matchType": 1,
     "hash": "52bf5c7e971af0db36a6b3196efb8b075b24459453eb242878b4d79309997819"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Cupid of Campion",
     "author": "Finn, Francis J. (Francis James), 1859-1928",
     "gutenbergReference": "52583",
-    "matchType": 1,
     "hash": "a5998452f4fa9632bd60281336ab41eb9ef12fbd1d74fa015f4ec6dbf4f16766"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Cupid of Campion",
     "author": "Finn, Francis J. (Francis James), 1859-1928",
     "gutenbergReference": "52583",
-    "matchType": 1,
     "hash": "dc53f989f859c26155617f937383287bdc9d1b8022728b730ea1a5abacfc9c1c"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Ancient Allan",
     "author": "Haggard, H. Rider (Henry Rider), 1856-1925",
     "gutenbergReference": "5746",
-    "matchType": 2,
     "hash": "af0c39407bd1dd398060b352f175e56128c711c6c5fc6e14a5c08459155da65a"
   }
 ]

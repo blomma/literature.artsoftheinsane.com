@@ -7,7 +7,6 @@
     "title": "Harper's New Monthly Magazine, Volume 1, No. 4, September, 1850",
     "author": "Various",
     "gutenbergReference": "31358",
-    "matchType": 1,
     "hash": "a763b979abbbb2f05452204ca59a8ecd49df814e524194a0a782a0214d8d7429"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "ceedc695868c720b47867dcab02408321a492948d6e153043bb636c5dbf3bc94"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Grey Cloak",
     "author": "MacGrath, Harold, 1871-1932; Peirce, Thomas Mitchell, 1864- [Illustrator]",
     "gutenbergReference": "16041",
-    "matchType": 1,
     "hash": "a07f4ba668cfa1290d8de83e465721cff5b2ee8b454da207849b293ec3de5e02"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Adventures in Silence",
     "author": "Collingwood, Herbert W. (Herbert Winslow), 1857-1927",
     "gutenbergReference": "61918",
-    "matchType": 1,
     "hash": "9cbebc168556b8aaad9553e8632cf35fbb5069155415b8486b19cf20f5071985"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Grace Harlowe's Fourth Year at Overton College",
     "author": "Chase, Josephine, -1931",
     "gutenbergReference": "20474",
-    "matchType": 1,
     "hash": "bb38e4a1634dd87a98d18e33e9434ef8b0e16336afea64f69de2e35fc02bccf2"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "matchType": 2,
     "hash": "559a6040324b540bb57316c4b27ef187bb8b287d4abf209f9e40c96fa0dabed1"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Chautauquan, Vol. 04, March 1884, No. 6",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55133",
-    "matchType": 2,
     "hash": "9a1e640f335516671ac804c9128ed3843e8094811d0686f6405b2c3280def417"
   }
 ]

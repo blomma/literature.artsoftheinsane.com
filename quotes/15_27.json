@@ -7,7 +7,6 @@
     "title": "Ancient Britain and the Invasions of Julius Caesar",
     "author": "Holmes, T. Rice (Thomas Rice), 1855-1933",
     "gutenbergReference": "57336",
-    "matchType": 2,
     "hash": "35e0925a18b418d0917cf511e68eb0cae3d4ad5aef8c891356ea099e883ba956"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Voyage of Captain Popanilla",
     "author": "Disraeli, Benjamin, Earl of Beaconsfield, 1804-1881",
     "gutenbergReference": "7816",
-    "matchType": 0,
     "hash": "5f00fba7daab00ba1bc0c8078ef9bff0050219076578cc659fddd0f4e9c69bca"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Clarion",
     "author": "Adams, Samuel Hopkins, 1871-1958; Stevens, William Dodge, 1870-1942 [Illustrator]",
     "gutenbergReference": "16447",
-    "matchType": 2,
     "hash": "21e305cb66302d1e037434500cba3bf38900760c4c10c42d6af6e60cfdd464c2"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The 42nd (East Lancashire) Division 1914-1918",
     "author": "Gibbon, Frederick P.",
     "gutenbergReference": "73544",
-    "matchType": 2,
     "hash": "966302261388240a90f099e5e65c4ceef48b892c03edd701a8b26f1793f04ca9"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
-    "matchType": 2,
     "hash": "c89c1ced939e201d7e81b19ce2d39ad8434d828d20103ed5ea874136c74666dd"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Nordenholt's Million",
     "author": "Connington, J. J., 1880-1947",
     "gutenbergReference": "64567",
-    "matchType": 2,
     "hash": "085ea12e9cc10f6329b872f77d6bc96601a684ec29d1392bfb8dbb81af935e20"
   }
 ]

@@ -7,7 +7,6 @@
     "title": "The Story of the Rome, Watertown, and Ogdensburg Railroad",
     "author": "Hungerford, Edward, 1875-1948",
     "gutenbergReference": "39021",
-    "matchType": 2,
     "hash": "d3b5537fbbb025e13487d8cbb6e289a565882d8319d70e9ef97a429418719442"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "1e7073ca0227bca516679ecf0312bc03727020ccc724e42cdedaa3505f8acee7"
   },
   {
@@ -29,7 +27,6 @@
     "title": "History, Gazetteer, and Directory of Shropshire [1851]",
     "author": "Bagshaw, Samuel",
     "gutenbergReference": "62250",
-    "matchType": 0,
     "hash": "b3276ba75fc7c4fdba94aedca6f93545dc5d1bf10fa2d58cdb4de8959b73e288"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Plays",
     "author": "Glaspell, Susan, 1882?-1948; Cook, George Cram, 1873-1924 [Contributor]",
     "gutenbergReference": "59432",
-    "matchType": 1,
     "hash": "9786b1c1130b29d61543da95963d54a35541d7428b2c7e3bcb6b269f771a95a3"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Lady of Lynn",
     "author": "Besant, Walter, 1836-1901",
     "gutenbergReference": "42618",
-    "matchType": 1,
     "hash": "7b224dd167cdd6674869ef90d80a658f6d5ddb10d44acebfaa7249ee644be662"
   }
 ]

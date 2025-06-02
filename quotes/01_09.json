@@ -7,7 +7,6 @@
     "title": "Project Daedalus",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
-    "matchType": 2,
     "hash": "b9e1ff2c4407c2968768952b721117d581b01038aa1e96c25c7098799bb8b565"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The principal girl",
     "author": "Snaith, J. C. (John Collis), 1876-1936",
     "gutenbergReference": "68069",
-    "matchType": 1,
     "hash": "50afab7710dd271dbecfa334d88b113e3d16fae2330c8625fcdab53c21585240"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Cottage on the Fells",
     "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
     "gutenbergReference": "56128",
-    "matchType": 1,
     "hash": "f5b509caa0e41a1a837bceae7a998d69ec0f201946df351aded80620f4ef57bc"
   }
 ]

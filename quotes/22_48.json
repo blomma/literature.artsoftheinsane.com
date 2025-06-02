@@ -7,7 +7,6 @@
     "title": "Punch, or the London Charivari, Volume 1, Complete",
     "author": "Various",
     "gutenbergReference": "17216",
-    "matchType": 1,
     "hash": "e8134ea218321b65c8ce978ba0f3b23d42f892b7efd0bdf860a2a15c5ce4755e"
   },
   {
@@ -18,7 +17,6 @@
     "title": "A Parisian Sultana, Vol. 1 (of 3)",
     "author": "Belot, Adolphe, 1829-1890; Dunstan, H. Mainwaring [Translator]",
     "gutenbergReference": "58677",
-    "matchType": 2,
     "hash": "3a6e1470156770f00d0ac4a8ff687e4ccc5c02edf4e3de16c0c6c60fcf79d33c"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55134",
-    "matchType": 2,
     "hash": "369cdf1fddd57e559e9c8c6d20fe0cd495042053e3242a986d8b719f80fbbfa1"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Greville Memoirs, Part 2 (of 3), Volume 2 (of 3)\r\nA Journal of the Reign of Queen Victoria from 1837 to 1852",
     "author": "Greville, Charles, 1794-1865",
     "gutenbergReference": "46309",
-    "matchType": 1,
     "hash": "8b8186e40bccf19325afca60f57b830260841945e42922f7b12de24364952c1c"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Lion's Mouse",
     "author": "Williamson, C. N. (Charles Norris), 1859-1920; Williamson, A. M. (Alice Muriel), 1869-1933",
     "gutenbergReference": "21998",
-    "matchType": 1,
     "hash": "be8fc1868a6f089622c5f87d5d26395561c3e34676ceeac1d0aee089a0358803"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Peter Jameson: A Modern Romance",
     "author": "Frankau, Gilbert, 1884-1952",
     "gutenbergReference": "59936",
-    "matchType": 1,
     "hash": "ec94080db0a39f2471ea15c514d2c4d33c29c846c6315e3828f10f6b218009e3"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Loss of the Steamship \"Titanic\"",
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
-    "matchType": 2,
     "hash": "fe1fbf3d7971395fba139c539b2fc8be450a1ae4921d4d05f85182497b40b6a6"
   },
   {
@@ -84,7 +77,6 @@
     "title": "In the Track of R. L. Stevenson and Elsewhere in Old France",
     "author": "Hammerton, J. A. (John Alexander), 1871-1949",
     "gutenbergReference": "43209",
-    "matchType": 1,
     "hash": "8e13fca85b59e96528d1df723449beefdbff07cafb520b5d7aab95b8ab175a46"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Sree Krishna, the Lord of Love",
     "author": "Premananda Bharati, Baba, 1857-1914",
     "gutenbergReference": "67019",
-    "matchType": 2,
     "hash": "d9b3bd26d50abb328af5ac346f6a72555444440a791b9dbf828a3a2cf8d34134"
   },
   {
@@ -106,7 +97,6 @@
     "title": "The Cruise of the Alabama and the Sumter\r\nFrom the Private Journals and Other Papers of Commander R. Semmes, C.S.N., and Other Officers",
     "author": "Semmes, Raphael, 1809-1877",
     "gutenbergReference": "13163",
-    "matchType": 1,
     "hash": "61aa81cfefbebd7070c99d0ce8ffb05f82cd1b71362c245ce5f92f0399700b92"
   }
 ]

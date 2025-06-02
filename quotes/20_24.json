@@ -7,7 +7,6 @@
     "title": "The Chautauquan, Vol. 05, July 1885, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55444",
-    "matchType": 2,
     "hash": "53709ca27c0716fb16486481d19bc6e0022c6b6de74b9ba73b402d41c5c5603b"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Motor Matt's Triumph; or, Three Speeds Forward",
     "author": "Matthews, Stanley R.",
     "gutenbergReference": "47788",
-    "matchType": 1,
     "hash": "48a6df99a81060a3bc3513be6c8a0ba28de9de00b81be061ddcead33ca8ff37a"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The Chautauquan, Vol. 05, February 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55053",
-    "matchType": 2,
     "hash": "01eea6b2a3b7faf67462c514e2ab57c171f976a7c9a269481201f920c7edf94b"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Benton's Venture",
     "author": "Barbour, Ralph Henry, 1870-1944; Chickering, Charles R. (Charles Ransom), 1891-1970 [Illustrator]",
     "gutenbergReference": "66533",
-    "matchType": 1,
     "hash": "546536b0cb99ebce0d2fc845d3fa611265f6f99788ebef21a00cdb276c953b09"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Knock three-one-two",
     "author": "Brown, Fredric, 1906-1972",
     "gutenbergReference": "70944",
-    "matchType": 2,
     "hash": "a5a03b7c8994b8e21dcbf9bda7f61ff7cb00cac42ebb86521bfaf5c6b4612957"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "ddbe538f9ae91cf44b48c03c63bfb72c8f2b973ffae77c78ebbbdd999f1a4569"
   }
 ]

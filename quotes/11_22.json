@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "ebd8a82389d539c113c312418a1f6648bd19ac8b1da645f8c479356a1118573c"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Around the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "103",
-    "matchType": 1,
     "hash": "4f49670e77433cc40ca003d017b8fb71ceda7bcba4a886954a015040262b2ee2"
   },
   {
@@ -29,7 +27,6 @@
     "title": "The unconscious",
     "author": "Prince, Morton, 1854-1929",
     "gutenbergReference": "69930",
-    "matchType": 1,
     "hash": "387d7a31f423e186c16ad0e2f6d59ae4c49fecca30d64d4439f15c191dc21dca"
   },
   {
@@ -40,7 +37,6 @@
     "title": "Round the World in Eighty Days",
     "author": "Verne, Jules, 1828-1905; Frith, Henry, 1840- [Translator]",
     "gutenbergReference": "32972",
-    "matchType": 1,
     "hash": "156315b34c64adbf362009894cad0aaee30b9a8232b46465958c049ea2db2a5d"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "matchType": 2,
     "hash": "ead29b2715f22cd0646d51819c007b82dd707166189b75ad946f49d55817b399"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Around the World in Eighty Days. Junior Deluxe Edition",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "2154",
-    "matchType": 1,
     "hash": "4d6392e9a18d2b7e07dd46c3ec91dfcf6d9877b7cafcc97a30fc3a926e34794b"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The German pirate",
     "author": "Ajax",
     "gutenbergReference": "50865",
-    "matchType": 2,
     "hash": "fad938d14df506e1725831cab655612270f926ec8ed08805a00e8d2d5802c177"
   }
 ]

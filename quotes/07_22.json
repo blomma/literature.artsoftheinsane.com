@@ -7,7 +7,6 @@
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "matchType": 2,
     "hash": "712f10458a704134e4f19514d5aa7083fdb80fd68746e360b5f62d503fe5d0e4"
   },
   {
@@ -18,7 +17,6 @@
     "title": "Great Men and Famous Women. Vol. 4\r\nA series of pen and pencil sketches of the lives of more than 200 of the most prominent personages in History",
     "author": "Horne, Charles F. (Charles Francis), 1870-1942 [Editor]",
     "gutenbergReference": "26424",
-    "matchType": 1,
     "hash": "798636fbb7570f4221ff8a2716cae7ef84ecf0f50448e7c54f43752d111fd1a4"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Lincoln's Birthday",
     "author": "Schauffler, Robert Haven, 1879-1964 [Editor]",
     "gutenbergReference": "21267",
-    "matchType": 1,
     "hash": "17708386e0c074b1f513026223091866affad737cdfb4dc259d1f84870ddd574"
   },
   {
@@ -40,7 +37,6 @@
     "title": "A Short Life of Abraham Lincoln\nCondensed from Nicolay & Hay's Abraham Lincoln: A History",
     "author": "Nicolay, John G. (John George), 1832-1901",
     "gutenbergReference": "16332",
-    "matchType": 1,
     "hash": "992c79e6af346dae24baf2c5ca49ab943f1537d8afbc4308ae3a3125c90cd69d"
   },
   {
@@ -51,7 +47,6 @@
     "title": "Sketch of the life of Abraham Lincoln",
     "author": "Arnold, Isaac N., 1815-1884",
     "gutenbergReference": "37818",
-    "matchType": 1,
     "hash": "ada8ebe6c5ce418ddce4e5d7cfec39a5e0c7d26e4b98ae9a98c863672c8c1169"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Pictorial history of the war for the Union, volume 2 (of 2)",
     "author": "Stephens, Ann S. (Ann Sophia), 1810-1886",
     "gutenbergReference": "74187",
-    "matchType": 1,
     "hash": "ce528ff248023b3a31e6fc24837f5ad0de68f29ccaaa2ea6f3d53ea9978d995e"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Pictorial history of the war for the Union, volume 2 (of 2)",
     "author": "Stephens, Ann S. (Ann Sophia), 1810-1886",
     "gutenbergReference": "74187",
-    "matchType": 1,
     "hash": "53c2693d2b8adeafd5d7d05d58e451fac4389894f1bdaa929837cb4bad8e958f"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Backwoods Boy; or, The Boyhood and Manhood of Abraham Lincoln",
     "author": "Alger, Horatio, Jr., 1832-1899",
     "gutenbergReference": "52073",
-    "matchType": 1,
     "hash": "e1f3cc3114fd20eb8d4564521ddf2024c9528d99443b842e0b75111edaaa42a0"
   },
   {
@@ -95,7 +87,6 @@
     "title": "Project Cyclops",
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
-    "matchType": 2,
     "hash": "132ca744479fbdff8c3050ad9062cbc2643ddccae538ad7ba0f483e38f98fdc0"
   },
   {
@@ -106,7 +97,6 @@
     "title": "Lincoln; An Account of his Personal Life, Especially of its Springs of Action as Revealed and Deepened by the Ordeal of War",
     "author": "Stephenson, Nathaniel W. (Nathaniel Wright), 1867-1935",
     "gutenbergReference": "1713",
-    "matchType": 1,
     "hash": "e4ed4df5c52ac17840bd66d4ee9f05839c3106f2cb631ddecb32eee16997c709"
   },
   {
@@ -117,7 +107,6 @@
     "title": "Tom Strong, Lincoln's Scout\r\nA Story of the United States in the Times That Tried Men's Souls",
     "author": "Mason, Alfred Bishop, 1851-1933",
     "gutenbergReference": "44132",
-    "matchType": 1,
     "hash": "fcb88db85ca5b77f4a8501404d1ae588f4b78cafffd42c256fa46eee1e29aaf4"
   },
   {
@@ -128,7 +117,6 @@
     "title": "Abraham Lincoln",
     "author": "Curtis, William Eleroy, 1850-1911",
     "gutenbergReference": "42526",
-    "matchType": 1,
     "hash": "932baa67cdb41bf18028c9963957254509c54049106c7657c8aaa91b4ff6c119"
   },
   {
@@ -139,7 +127,6 @@
     "title": "Complete Life of William McKinley and Story of His Assassination\nAn Authentic and Official Memorial Edition, Containing Every Incident in the Career of the Immortal Statesman, Soldier, Orator and Patriot",
     "author": "Everett, Marshall, 1863-1939",
     "gutenbergReference": "58740",
-    "matchType": 1,
     "hash": "93acce27d9f10ea03612aca3e70c517977f7ffc570123f399b8d1beff69994fa"
   }
 ]

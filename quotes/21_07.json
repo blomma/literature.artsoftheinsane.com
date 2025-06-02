@@ -7,7 +7,6 @@
     "title": "State of the Union Addresses (1790-2006)",
     "author": "United States. Presidents",
     "gutenbergReference": "5050",
-    "matchType": 2,
     "hash": "9aeac22f6aa634b10747febb203756f2a9a3ed4d76b8fd4a2827cc6a7accde72"
   },
   {
@@ -18,7 +17,6 @@
     "title": "State of the Union Addresses",
     "author": "Reagan, Ronald, 1911-2004",
     "gutenbergReference": "5046",
-    "matchType": 2,
     "hash": "bc040d9fac7e35f6e822ac89e1417e8f8886f661559f08b50371ea164af1e0e0"
   },
   {
@@ -29,7 +27,6 @@
     "title": "Last Words",
     "author": "Crane, Stephen, 1871-1900",
     "gutenbergReference": "33579",
-    "matchType": 1,
     "hash": "62974cdce99f7053c6e4c4c721531822dcd58095c7e0a4eb732b04ca021aede7"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Blizzard in the West\r\nBeing as Record and Story of the Disastrous Storm which Raged Throughout Devon and Cornwall, and West Somerset, On the Night of March 9th, 1891",
     "author": "Unknown",
     "gutenbergReference": "43758",
-    "matchType": 1,
     "hash": "6c0d89ca34729a085931a3dffeda5e23a220067591f04e5d6ec5ddff9898c7b6"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The House of Martha",
     "author": "Stockton, Frank R., 1834-1902",
     "gutenbergReference": "18822",
-    "matchType": 1,
     "hash": "45fffed84cfee99c39a359198644a3e9ee54c744cd6ba67712062c11ebe50894"
   },
   {
@@ -62,7 +57,6 @@
     "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
-    "matchType": 2,
     "hash": "8d9d08ff6783bcddc5f671766017eef7d11c72cdb5f9b4a820d91f8c4b2dff9a"
   },
   {
@@ -73,7 +67,6 @@
     "title": "The Arrival of Jimpson, and Other Stories for Boys about Boys",
     "author": "Barbour, Ralph Henry, 1870-1944",
     "gutenbergReference": "45689",
-    "matchType": 1,
     "hash": "c5d9809c55f8bf20b5c871bd199c22b2c0c137c242083e702ff4875df9afce79"
   },
   {
@@ -84,7 +77,6 @@
     "title": "The Best Short Stories of 1918, and the Yearbook of the American Short Story",
     "author": "O'Brien, Edward J. (Edward Joseph), 1890-1941 [Editor]",
     "gutenbergReference": "39635",
-    "matchType": 1,
     "hash": "823b2326bbed17bde421aa18fb0795d2f7fc780015b291c94d69e3d7fd36634e"
   }
 ]

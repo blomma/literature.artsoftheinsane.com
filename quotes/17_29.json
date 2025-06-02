@@ -7,7 +7,6 @@
     "title": "The Girl and the Bill\r\nAn American Story of Mystery, Romance and Adventure",
     "author": "Merwin, Bannister",
     "gutenbergReference": "25799",
-    "matchType": 1,
     "hash": "2995aa457770567509f86e48d60ea1af6e57664c4a158130e6cf0b9e83d528ac"
   },
   {
@@ -18,7 +17,6 @@
     "title": "The Chautauquan, Vol. 05, February 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55053",
-    "matchType": 2,
     "hash": "185de2444f08323dc6bb63aa95f2929e48f93c04029a2d186d245edf4f08e128"
   },
   {
@@ -29,7 +27,6 @@
     "title": "History of the U.S.S. Leviathan, cruiser and transport forces, United States Atlantic fleet\r\nCompiled from the ship's log and data gathered by the history committee on board the ship",
     "author": "U.S.S. Leviathan History Committee",
     "gutenbergReference": "59699",
-    "matchType": 2,
     "hash": "33ff0d1f9213879011a17013f88f7a628c52e41dd538515d8522dc81b3a8b2e4"
   },
   {
@@ -40,7 +37,6 @@
     "title": "The Japan-Russia War: An Illustrated History of the War in the Far East",
     "author": "Tyler, Sydney",
     "gutenbergReference": "51066",
-    "matchType": 2,
     "hash": "2a3221beef8d7144a466646c53a970b87f21d9b2f8f6bcf08c3c6475d00fa181"
   },
   {
@@ -51,7 +47,6 @@
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "matchType": 2,
     "hash": "bbc3aaa293ae330f63c8a844fa4a6767919e5426691aa4ef34c917cea0780581"
   },
   {
@@ -62,7 +57,6 @@
     "title": "The Battle of the Falkland Islands, Before and After",
     "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
     "gutenbergReference": "50265",
-    "matchType": 2,
     "hash": "ab243614665467ebe6dd86add72c7db35b19913d0162cb8bef3c4fe415d1c5eb"
   },
   {
@@ -73,7 +67,6 @@
     "title": "Quincy Adams Sawyer and Mason's Corner Folks\nA Picture of New England Home Life",
     "author": "Pidgin, Charles Felton, 1844-1923",
     "gutenbergReference": "16414",
-    "matchType": 1,
     "hash": "6917ca82272bf0edafe3cde4bd2dfdae5d28d9101edfc023eed9d0e1e226e94c"
   }
 ]
