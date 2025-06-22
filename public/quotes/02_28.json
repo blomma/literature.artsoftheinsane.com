@@ -1,0 +1,32 @@
+[
+  {
+    "time": "02:28",
+    "quoteFirst": "_Arrivals_.         _Mails_.        _Departures_. ",
+    "quoteTime": "2.28 a.m.",
+    "quoteLast": "  London.                  10.35 a.m.",
+    "title": "Rogers' Directory of Norwich and Neighbourhood",
+    "author": "Rogers, Edmund Dawson, 1823-1910",
+    "gutenbergReference": "64006",
+    "hash": "23a169bdf15894c62f1dd24be9404f788027c7fbf7c0ca0516dd5e1f0ec3f4d2"
+  },
+  {
+    "time": "02:28",
+    "quoteFirst": "This planet will be evening star throughout the month, setting as follows: On the 2d, at ",
+    "quoteTime": "2:28 a. m.",
+    "quoteLast": "; on the 16th, at 1:33 a. m.; and on the 29th, at 12:41 a. m. Its direct motion amounts to 41′ 32.1″ of arc. On the 3d, at 9 a. m., it is stationary. On the 5th, at 7:34 a. m.",
+    "title": "The Chautauquan, Vol. 04, February 1884, No. 5.",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55132",
+    "hash": "f741c793b711e462f1cabdf19e350e7dd03965f8d6ea30d4b0fdf6ddcf255e43"
+  },
+  {
+    "time": "02:28",
+    "quoteFirst": "|               |   Received from Ypiranga. |               | ",
+    "quoteTime": "2.28 a. m.",
+    "quoteLast": "|               | La Provence to Celtic, \"Nobody has heard the |               |   Titanic for about 2 hours.\" |               | 3.24 a. m.|               | SBA. (Birma) says we are 30 miles S. W.",
+    "title": "Loss of the Steamship \"Titanic\"",
+    "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
+    "gutenbergReference": "39415",
+    "hash": "5dc17ffae068b30bb96f3f32f1f8fd3b8e3f95315c99b82e40095ddd44ac4680"
+  }
+]

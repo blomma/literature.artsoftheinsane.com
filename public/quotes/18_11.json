@@ -1,0 +1,52 @@
+[
+  {
+    "time": "18:11",
+    "quoteFirst": "Ar. Old Faithful                           ",
+    "quoteTime": "6:11 P.M.",
+    "quoteLast": "   CD 2nd Day Lv. Old Faithful                           1:30 P.M.   AB Ar. Grand Canyon (Via Artist Point)        4:55 P.M.   CD 3rd Day Lv. Grand Canyon (Tower Falls Side         8:20 A.M.   A Trip) Ar. Grand Canyon                          10:09 A.M.   B Lv. Grand Canyon                           1:00 P.M.",
+    "title": "Yellowstone via Gallatin Gateway Montana",
+    "author": "Chicago, Milwaukee, St. Paul, and Pacific Railroad Company",
+    "gutenbergReference": "46305",
+    "hash": "9cb485fdd5634cb2f3e493f50fc33eef5a75f822f7a4f48e707f263d98b4cfce"
+  },
+  {
+    "time": "18:11",
+    "quoteFirst": "Ar. Old Faithful                           ",
+    "quoteTime": "6:11 P.M.",
+    "quoteLast": "   CD 2nd Day Lv. Old Faithful                           1:30 P.M.   AB Ar. Grand Canyon (Via Artist Point)        4:55 P.M.   CD 3rd Day Lv. Grand Canyon                           9:45 A.M.   A Ar. Mammoth Hot Springs                   12:31 P.M.   B Lv. Mammoth Hot Springs                    2:30 P.M. Ar. West Yellowstone                       5:08 P.M.   C",
+    "title": "Yellowstone via Gallatin Gateway Montana",
+    "author": "Chicago, Milwaukee, St. Paul, and Pacific Railroad Company",
+    "gutenbergReference": "46305",
+    "hash": "39db19a315d185b0e6d66cb6a265aca7305afe8e273597e2ddd3599f4245ddaa"
+  },
+  {
+    "time": "18:11",
+    "quoteFirst": "Ar. Old Faithful                           ",
+    "quoteTime": "6:11 P.M.",
+    "quoteLast": "   CD 2nd Day Lv. Old Faithful                           8:30 A.M.   A Ar. Grand Canyon (Via Artist Point)       11:55 A.M.   B Lv. Grand Canyon                           2:30 P.M. Ar. Mammoth Hot Springs                    5:16 P.M.   CD 3rd Day Lv. Mammoth Hot Springs                    8:15 A.M.   A Ar. Grand Canyon                          10:21 A.M.   B",
+    "title": "Yellowstone via Gallatin Gateway Montana",
+    "author": "Chicago, Milwaukee, St. Paul, and Pacific Railroad Company",
+    "gutenbergReference": "46305",
+    "hash": "34ecc5fb1e23d6d6da320f2274a13d4555b3a0a3cae2edee939c567c1a6867c8"
+  },
+  {
+    "time": "18:11",
+    "quoteFirst": "Ar. Old Faithful                           ",
+    "quoteTime": "6:11 P.M.",
+    "quoteLast": "   CD 2nd Day Lv. Old Faithful                           1:30 P.M.   AB Ar. Grand Canyon (Via Artist Point)        4:55 P.M.   CD 3rd Day Lv. Grand Canyon                           2:30 P.M.   AB Ar. Mammoth Hot Springs                    5:16 P.M.   C Lv. Mammoth Hot Springs                    7:00 P.M. Ar. Gardiner                               7:20 P.M.",
+    "title": "Yellowstone via Gallatin Gateway Montana",
+    "author": "Chicago, Milwaukee, St. Paul, and Pacific Railroad Company",
+    "gutenbergReference": "46305",
+    "hash": "f16771db15e176621255f8ae8ecb145693777b145e2a8e57e573ac4d76d5890b"
+  },
+  {
+    "time": "18:11",
+    "quoteFirst": "The first explosion occurred at ",
+    "quoteTime": "eleven minutes past six",
+    "quoteLast": ". The chart-house and part of the bridge were blown to pieces. Three dull, splintering crashes ensued in rapid succession, proving beyond question that the bombs were set to automatically explode at a given time.",
+    "title": "West Wind Drift",
+    "author": "McCutcheon, George Barr, 1866-1928",
+    "gutenbergReference": "6014",
+    "hash": "191215331c16c7354e3fb8fe8cc3e1ace142bbc4c6b4b7ff3ab55aa6f4ee9383"
+  }
+]

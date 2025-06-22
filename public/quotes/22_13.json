@@ -1,0 +1,22 @@
+[
+  {
+    "time": "22:13",
+    "quoteFirst": "“And I sent it to the _Daily Telegraph_ at ",
+    "quoteTime": "thirteen minutes past ten",
+    "quoteLast": ".”",
+    "title": "Michael Strogoff; Or, The Courier of the Czar",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "1842",
+    "hash": "03950acad39bc16f1fe0d3fd3f0bb4817e541424fe9625ccf3acc453e69e8057"
+  },
+  {
+    "time": "22:13",
+    "quoteFirst": "That the Titanic struck at ",
+    "quoteTime": "10.13 P. M.",
+    "quoteLast": " on Sunday, April 14, and sank at 12.47 A. M. (New York time) on April 15.",
+    "title": "Sinking of the \"Titanic\"",
+    "author": "Mowbray, Jay Henry, 1869-1955",
+    "gutenbergReference": "73984",
+    "hash": "4475ddf41b09b17bfa8854a49fe4937f0356a5a531abc3241346ea349096fe3f"
+  }
+]
