@@ -1,73 +1,123 @@
 [
   {
     "time": "10:01",
-    "quoteFirst": "",
-    "quoteTime": "About ten A.M.",
-    "quoteLast": " of the 25th, it moved down the opposite side of the mountain, and passing through a small valley, soon reached Mission Ridge. Without halting, the command moved steadily up this mountain, and on arriving on its summit, found that the rebels had fled.",
-    "title": "The Seventh Regiment: A Record",
-    "author": "Wood, George L., 1837-1867",
-    "gutenbergReference": "44783",
-    "hash": "36fee4ba6badaa74d39ed963879882bda31d583d4a3f796b07b935ee99e0e767"
+    "quoteFirst": "McIntosh. ",
+    "quoteTime": "About 10 a. m.",
+    "quoteLast": " Heth met Buford's Federal cavalry and drove it back across Willoughby run, where the cavalry was promptly supported by the First corps of Meade's army, three divisions, under General Reynolds. General Hill deployed Heth's division on the right and left of the road, Pender's in support, and the battle became severe.",
+    "title": "Confederate Military History - Volume 5 (of 12)\nA Library of Confederate States History",
+    "author": "Capers, Ellison, 1837-1908; Evans, Clement A. (Clement Anselm), 1833-1911 [Editor]",
+    "gutenbergReference": "50737",
+    "hash": "7c647f371e9df81a01c8a9032e9c68060ac6aae9642f11ce4d1e80da8914a835"
   },
   {
     "time": "10:01",
-    "quoteFirst": "Missouri. The party reached it ",
+    "quoteFirst": "During his march he heard news from a spy that the Afghan main body was about to join their vanguard; but, either because he distrusted the news, or hoped even at the last to \"pluck the flower, safety, out of the nettle, danger,\" he pushed on and sought to cut through the line of the enemy's advance as it made for Maiwand. ",
+    "quoteTime": "About 10 A.M.",
+    "quoteLast": " his column passed the village of Khig and, crossing a dried watercourse, entered a parched plain whereon the fringe of the enemy's force could dimly be seen through the thick and sultry air. Believing that he had to deal with no large body of men, Burrows pushed on, and two of Lieutenant Maclaine's guns began to shell their scattered groups.",
+    "title": "The Development of the European Nations, 1870-1914 (5th ed.)",
+    "author": "Rose, J. Holland (John Holland), 1855-1942",
+    "gutenbergReference": "14644",
+    "hash": "d3cfd61248c8dfe97f89d4f999db1d1eced181902a2d3fe29fded4369bd3c634"
+  },
+  {
+    "time": "10:01",
+    "quoteFirst": "Afterwards we saw, for some miles together, nothing but high round mountains and valleys, both covered with woods; the valleys are in reality nothing but low rocks, and stand perpendicular towards the river in many places. The breadth of the river is sometimes two or three musket shot, but commonly not above one; every now and then we saw several kinds of fish leaping out of the water. The wind vanished away ",
     "quoteTime": "about ten o’clock in the morning",
-    "quoteLast": ", but landed on the opposite side of the river, where they spread out their baggage and effects to dry. From hence they commanded an excellent view of the village.",
-    "title": "Astoria; Or, Anecdotes of an Enterprise Beyond the Rocky Mountains",
-    "author": "Irving, Washington, 1783-1859",
-    "gutenbergReference": "1371",
-    "hash": "100d11a06fc760790965a33165b84bd16155b54ff51a43d733d14f5bf649a7ab"
+    "quoteLast": ", and forced us to get forwards with our oars, the tide being almost spent. In one place on the western shore we saw a wooden house painted red, and we were told, that there was a saw-mill further up; but besides this we did not perceive one farm or any cultivated grounds all this forenoon.",
+    "title": "Travels into North America, Volume 2 (of 3)",
+    "author": "Kalm, Pehr, 1716-1779; Forster, Johann Reinhold, 1729-1798 [Translator]",
+    "gutenbergReference": "72103",
+    "hash": "d4113fa248690de035006cd86206a8446481fdd48dcb2387d1a66d98a66d2b72"
   },
   {
     "time": "10:01",
-    "quoteFirst": "A fierce and sanguinary conflict ensued which continued until about 9 P.M., when he slowly fell back and left us in possession of the field, the loss on both sides was heavy. On the next morning (the 29th) the enemy had taken a position to interpose his army between General Jackson and Alexandria, and ",
+    "quoteFirst": "“It was on December the 4th, 1586, that the Commissioners appointed to try the unfortunate Mary, Queen of Scots, issued their sentence against her from Richmond; which, on the 6th, was openly read in London, by William Sebright, the Town-Clerk. This proclamation, as Stow relates in his ‘_Annals_,’ page 741, was made with the Serjeants at Arms, and by sound of trumpets, ",
+    "quoteTime": "about ten o’clock in the morning",
+    "quoteLast": ", at four places in the City; namely, at the end of Chancery lane; at the Cross in Cheapside; at the corner of Leadenhall; and also at St. Magnus, London Bridge.",
+    "title": "Chronicles of London Bridge",
+    "author": "Thompson, Richard, 1794-1865",
+    "gutenbergReference": "47475",
+    "hash": "91d6e0fdb88a18a14c80f1fa1f62a6882ab09b7889e450052164a04af407f606"
+  },
+  {
+    "time": "10:01",
+    "quoteFirst": "At ",
     "quoteTime": "about 10 A.M.",
+    "quoteLast": " the enemy succeeded in driving back the Sirhind Brigade and capturing a considerable part of Givenchy, but the Fifty-seventh Rifles and Ninth Bhopals, north of the canal, and the Connaught Rangers, south of it, stood firm.",
+    "title": "New York Times Current History: The European War, Vol 2, No. 1, April, 1915\nApril-September, 1915",
+    "author": "Various",
+    "gutenbergReference": "15478",
+    "hash": "302a94c434ee8c3519348ba33dbe4daff015322bd73ebecbdf0c0c2ec0abf43e"
+  },
+  {
+    "time": "10:01",
+    "quoteFirst": "Indeed the cannon had been heard without interruption from two o’clock till six in the morning. On the 12th of June H.R.H. Madame arrived ",
+    "quoteTime": "about ten o’clock in the morning",
+    "quoteLast": ". “On entering the rooms of the Government House she heartily and repeatedly embraced her nephew, the Archduke Charles, as one might a friend whom one sees for the first time after he has encountered a great danger. I saw this from my dining-room windows.",
+    "title": "Memoirs of the Princesse de Ligne, Vol. 2 (of 2)",
+    "author": "Massalska, Apolonia Helena, 1763-1815; Perey, Lucien, 1825-1914 [Editor]; Ensor, Laura [Translator]",
+    "gutenbergReference": "71051",
+    "hash": "c5efc79acb27cfcfa631218acc46a4065431ebcba957117026e8fa67decae90d"
+  },
+  {
+    "time": "10:01",
+    "quoteFirst": "Filled with these thoughts, Cuthbert reached Ilminster, a small country town, where he arrived ",
+    "quoteTime": "about ten in the morning",
+    "quoteLast": "; he could not obtain a change of steeds at the inn, so was forced to wait for his horse to bait.",
+    "title": "The Last Abbot of Glastonbury: A Tale of the Dissolution of the Monasteries",
+    "author": "Crake, A. D. (Augustine David), 1836-1890",
+    "gutenbergReference": "53010",
+    "hash": "8ba66faefc305fa25dbd063e0bc576690f74267e2a89dffa49ab2cdab2be2145"
+  },
+  {
+    "time": "10:01",
+    "quoteFirst": "He thereupon desisted from his attempt to intercept the _Goeben_, turned his ships and destroyers and entered the harbour of Zante ",
+    "quoteTime": "about 10 a.m.",
     "quoteLast": "",
-    "title": "The Rise and Fall of the Confederate Government, Volume 2",
-    "author": "Davis, Jefferson, 1808-1889",
-    "gutenbergReference": "42315",
-    "hash": "383f5494c75c0a487eb904c380bcb97c365de233e45e01cacddc77e1ef0b6a25"
+    "title": "The World Crisis, Volume 1 (of 6)",
+    "author": "Churchill, Winston, 1874-1965",
+    "gutenbergReference": "59794",
+    "hash": "a3fbb50ae48e4db404122335ae6c31351ec080e1fb4d85d130f0949d282bdb3f"
   },
   {
     "time": "10:01",
-    "quoteFirst": "We pulled out of Brest ",
-    "quoteTime": "about 10 o'clock in the morning",
-    "quoteLast": ". The train was made up of about twenty-five or thirty of those small and uncomfortable French coaches, and it moved very slowly. To one used to the fast first-class American trains, this French train seemed exceedingly slow, unaccommodating and tiresome.",
-    "title": "In the Flash Ranging Service\r\nObservations of an American Soldier During His Service With the A.E.F. in France",
-    "author": "Trueblood, Edward Alva",
-    "gutenbergReference": "26138",
-    "hash": "c2b8f9b64076e9690547d874ab0d64e06ad00e4aa3c46223781a33588650c5d6"
+    "quoteFirst": "1732. Born ",
+    "quoteTime": "about ten o’clock in the morning",
+    "quoteLast": " of February 22nd (by the calendar of those days, February 11th), upon the old Washington plantation of Wakefield bordering the Potomac River between Bridges’ and Pope’s Creek in Westmoreland County of the Colony of Virginia’s “Northern Neck”――the peninsula formed by the Potomac and Rappahannock Rivers.",
+    "title": "With George Washington into the wilderness",
+    "author": "Sabin, Edwin L. (Edwin Legrand), 1870-1952; Thomson, Will [Illustrator]",
+    "gutenbergReference": "74602",
+    "hash": "661b0fa275686f7c202883dfda1756ef81547445df052bac378b273477366951"
   },
   {
     "time": "10:01",
-    "quoteFirst": "",
-    "quoteTime": "About ten in the morning",
-    "quoteLast": " of the appointed day the guests began to arrive, some by water, some on horseback, Colonel Verney meeting each arrival with a stately bow and a high-flown speech of welcome, and handing him on to the hall where stood Sir Charles Carew and the ladies of the household.",
-    "title": "The Old Dominion",
-    "author": "Johnston, Mary, 1870-1936",
-    "gutenbergReference": "48258",
-    "hash": "1828a22e3c20cbc94df15ee1e8bcbcc532866cf58a66a61057dd41c71f05ff24"
+    "quoteFirst": "8th.--Tuesday. Pleasant. We left Montreal[38] ",
+    "quoteTime": "about 10 A.M.",
+    "quoteLast": " and descended the St. Lawrence. We had a pleasant prospect on both sides of the river handsome meadows and fine farms and several handsome towns.",
+    "title": "Journal of an American Prisoner at Fort Malden and Quebec in the War of 1812",
+    "author": "Reynolds, James, active 1812; Fairchild, G. M. (George Moore), 1854-1912 [Editor]",
+    "gutenbergReference": "26518",
+    "hash": "2b3924379d74138c909a648401029969488667c953fefd3d68963d6f3f673066"
   },
   {
     "time": "10:01",
-    "quoteFirst": "The work, therefore, was thrown almost exclusively upon myself. Some idea of its amount and severity may be formed when it is stated, that the sessions usually commenced at ",
+    "quoteFirst": "Putting on a bathing suit, Mrs. Bergman went to the Olympia to talk over the long distance telephone with her husband in Houston. This was ",
+    "quoteTime": "about 10 a. m.",
+    "quoteLast": " At the Olympia she had to wade waist deep in the water. At 2 o'clock Mrs. Bergman became alarmed, and with her sister she left the summer cottage and started toward the more thickly settled part of the city.",
+    "title": "The Complete Story of the Galveston Horror",
+    "author": "Coulter, John [Editor]",
+    "gutenbergReference": "34304",
+    "hash": "f6b6c5f29002dd2611a7aecc75d267a4ca24fbd480e846466b5612fa5fbd6121"
+  },
+  {
+    "time": "10:01",
+    "quoteFirst": "Samelson says that in 1844 he was sent for in Zabelsdorf, some 30 miles from Berlin, to attend Hannah Rhode in a case of labor. She had passed easily through eight parturitions. At ",
     "quoteTime": "about ten o'clock in the morning",
-    "quoteLast": ", and with a brief intermission were continued late in the evening, in one instance as late as the hour of two o'clock, A.M. The necessity of these long daily sessions, arose from the fact, that the Congress then in existence terminated on the fourth of March, and but few days remained in which to discuss and perfect the report, and to submit it to that body for its action.",
-    "title": "A Report of the Debates and Proceedings in the Secret Sessions of the Conference Convention\r\nFor Proposing Amendments to the Constitution of the United States, Held at Washington, D.C., in February, A.D. 1861",
-    "author": "Chittenden, L. E. (Lucius Eugene), 1824-1900",
-    "gutenbergReference": "24561",
-    "hash": "a53563feab8ee768b133822641ce6237a5e634eec8e39cdaf3c67c2e08d787fb"
-  },
-  {
-    "time": "10:01",
-    "quoteFirst": "",
-    "quoteTime": "About ten o'clock that morning",
-    "quoteLast": " the little vessel completed taking on her cargo, the lines were cast off, and the homeward voyage was begun. As she hauled away from the wharf, Messrs. Gibney and McGuffey might have been observed seated on the stern bitts smoking, the picture of contentment.",
-    "title": "Captain Scraggs; Or, The Green-Pea Pirates",
-    "author": "Kyne, Peter B. (Peter Bernard), 1880-1957; Grant, Gordon, 1875-1962 [Illustrator]",
-    "gutenbergReference": "18469",
-    "hash": "d925e34f05f55a3dec0a003721acca3a2f4a94f49d8b54fa67a4a02d7145f937"
+    "quoteLast": ", after a partially unconscious night, there was a sudden gush of blood and water from the vagina; she screamed and lapsed into an unconscious condition. At 10.35 the face presented, soon followed by the body, after which came a great flow of blood, welling out in several waves.",
+    "title": "Anomalies and Curiosities of Medicine",
+    "author": "Gould, George M. (George Milbrey), 1848-1922; Pyle, Walter L. (Walter Lytle), 1871-1921",
+    "gutenbergReference": "747",
+    "hash": "8d61e2b42e7e1eee042d25b8a1ac855fe5b106d76fe231efd4c0bf01dbdce180"
   },
   {
     "time": "10:01",
@@ -81,122 +131,72 @@
   },
   {
     "time": "10:01",
-    "quoteFirst": "Day after day, with unchecked regularity, from the break of dawn, a fierce sun rises rapidly high up in the sky, and as it gains in strength, so a silence settles upon the earth, for so great is its oppression, that at the height of its power it subdues all living things. ",
+    "quoteFirst": "At ",
+    "quoteTime": "about ten A. M.",
+    "quoteLast": " the captain went ashore with a boat’s crew, for the purpose of purchasing stores for the ship, excellent potatoes and onions being produced in this genial climate, and from the little intercourse these people hold with the rest of mankind, can be obtained at a mere nominal price.",
+    "title": "Four years aboard the whaleship\r\nEmbracing cruises in the Pacific, Atlantic, Indian, and Antarctic oceans, in the years 1855, '6, '7, '8, '9",
+    "author": "Whitecar, William B.",
+    "gutenbergReference": "68958",
+    "hash": "5403a60bae07f8b67bc0a36a74f3e6ba59616962d5a4bf0cdc9bd8460de00847"
+  },
+  {
+    "time": "10:01",
+    "quoteFirst": "It was the dry season of the year, and the air was wonderfully bright and clear.  The atmosphere being in a state of equilibrium (so the doctor told us), was ready to obey even the slightest impulse, and to rush towards any spot where rarefaction was taking place.  Thus, at ",
+    "quoteTime": "about ten in the morning",
+    "quoteLast": ", as the rays of the sun gain power and shed their influence over the earth, the air from the sea begins to move towards it.  As rarefaction increases, so does the strength of the wind, till by three or four in the afternoon it rushes in with great force, creating a considerable sea, and if a vessel is not well moored, driving her before it.",
+    "title": "A Voyage round the World\nA book for boys",
+    "author": "Kingston, William Henry Giles, 1814-1880",
+    "gutenbergReference": "23074",
+    "hash": "9deb742e163f7406888d2e7ef50f37eac0e741dabd3a7bcd94123cb9c6ab0fc4"
+  },
+  {
+    "time": "10:01",
+    "quoteFirst": "_Sometimes during the summer, for three or four successive days, there is not a breath of wind, the sky is beautifully clear, with a nearly vertical sun._ On the days that a sea breeze sets in, it generally commences ",
+    "quoteTime": "about ten in the morning",
+    "quoteLast": ", then light and variable, but gradually increasing till one or two in the afternoon. From that time a steady breeze prevails till near sunset, when it begins to die away, and soon after the sun is down there is a calm.",
+    "title": "The Philosophy of the Weather. And a Guide to Its Changes",
+    "author": "Butler, T. B. (Thomas Belden), 1806-1873",
+    "gutenbergReference": "33429",
+    "hash": "5f28ee22373db0149315c81525e163cb8f48bc3cfee9b6013ddb1c8e42d38e54"
+  },
+  {
+    "time": "10:01",
+    "quoteFirst": "",
     "quoteTime": "About 10 a.m.",
-    "quoteLast": " you may notice that the glad sounds of morning have faded—birds are retiring to leafy shades, the boisterous noise of natives at work in the village has died down; before noon the land is wrapped in silent solitude, and Old Sol alone is left in the field.",
-    "title": "Exploration of Aïr",
-    "author": "Buchanan, Angus, 1886-1954",
-    "gutenbergReference": "70323",
-    "hash": "52d98b9502f2d75611b5f74fc44f13c96234e836dce869b367d9c757d33ee5c1"
+    "quoteLast": " on the 8th, the Hampshires and Rifles fell in, and followed Brigade Headquarters along this sap in single file, until they reached its northern end at No. 2 Post. At this point General Godley had established his headquarters, and here the two battalions collected and waited for the greater part of the day.",
+    "title": "The Tenth (Irish) Division in Gallipoli",
+    "author": "Cooper, Bryan, 1884-1930; Asquith, H. H. (Herbert Henry), 1852-1928 [Author of introduction, etc.]; Balfour, Arthur James, 1848-1930 [Author of introduction, etc.]; Carson, Edward, Sir, 1854-1935 [Author of introduction, etc.]; Mahon, Bryan Thomas, 1862-1930 [Author of introduction, etc.]; Redmond, John Edward, 1856-1918 [Author of introduction, etc.]; Drummond-Fish, G. (George), 1876-1938 [Illustrator]",
+    "gutenbergReference": "74163",
+    "hash": "da082acfc13c4bc8b62f34829082074c1081baee28c5e813e8a723d5ccfabc7f"
   },
   {
     "time": "10:01",
-    "quoteFirst": "“On the first notice of the arrival of the transports [conveying Colonel Campbell’s command,] off the coast of Georgia, General Prevost [then in Florida] marched; and embarked in boats, two thousand men, consisting of artillery, infantry, loyalists, and Indians. On the 6th of January, [1778] that part of his army which moved by water was landed on Colonel’s island, seven miles south of Sunbury, ",
+    "quoteFirst": "On the second day of July, 1863, under a heavy cloud of dust which hung high in air over the approach of the Baltimore Pike to Gettysburg, the long column of the reserve artillery of the Potomac army rumbled along the road, and more and more clearly the weary men heard the sound of cannon. ",
+    "quoteTime": "About ten in the morning",
+    "quoteLast": " the advance guard was checked and the line came to a halt. James Penhallow, who since dawn had been urging on his command, rode in haste along the side of the cumbered road to where a hurrying brigade of infantry crossing his way explained why his guns were thus brought to a standstill.",
+    "title": "Westways: A Village Chronicle",
+    "author": "Mitchell, S. Weir (Silas Weir), 1829-1914",
+    "gutenbergReference": "14153",
+    "hash": "a4107855186188657987b4fce8429cc34c12a11f9959525828b0844a74d10751"
+  },
+  {
+    "time": "10:01",
+    "quoteFirst": "It was ",
     "quoteTime": "about ten o’clock in the morning",
-    "quoteLast": "; and Prevost with the light infantry, marched and took possession of the town early on the ensuing day. Two American gallies and an armed sloop cannonaded the enemy, but with little effect.",
-    "title": "The dead towns of Georgia",
-    "author": "Jones, Charles C., Jr. (Charles Colcock), 1831-1893",
-    "gutenbergReference": "70735",
-    "hash": "44459ef0bde1e6931a6d7cd41d7fc2041588a8627e8fc0fc6946058bab0cf5cc"
+    "quoteLast": ". Anne of Austria was engaged in writing as Monsieur entered. The queen-mother was extremely attached to her son, for he was handsome in person and amiable in disposition.",
+    "title": "Ten Years Later",
+    "author": "Dumas, Alexandre, 1802-1870",
+    "gutenbergReference": "2681",
+    "hash": "6d2bb02f07b08f9ae6ae60a2124886c282ba43b7ba72543e05038af338763840"
   },
   {
     "time": "10:01",
-    "quoteFirst": "The three Illinois regiments in immediate support of this battery stood for some time; but the enemy's advance was so vigorous, and the fire so severe, that when Colonel Raith, of the Forty-third Illinois, received a severe wound and fell from his horse, his regiment and the others manifested disorder, and the enemy got possession of three guns of this (Waterhouse's) battery. Although our left was thus turned, and the enemy was pressing our whole line, I deemed Shiloh so important, that I remained by it and renewed my orders to Colonels McDowell and Buckland to hold their ground; and we did hold these positions until ",
-    "quoteTime": "about 10 a.m.",
-    "quoteLast": ", when the enemy had got his artillery to the rear of our left flank and some change became absolutely necessary. Two regiments of Hildebrand's brigade\u0097Appler's and Mungen's\u0097had already disappeared to the rear, and Hildebrand's own regiment was in disorder. I therefore gave orders for Taylor's battery\u0097still at Shiloh\u0097to fall back as far as the Purdy and Hamburg road, and for McDowell and Buckland to adopt that road as their new line. I rode across the angle and met Behr's battery at the cross-roads, and ordered it immediately to come into battery, action right. Captain Behr gave the order, but he was almost immediately shot from his horse, when drivers and gunners fled in disorder, carrying off the caissons, and abandoning five out of six guns, without firing a shot. The enemy pressed on, gaining this battery, and we were again forced to choose a new line of defense. Hildebrand's brigade had substantially disappeared from the field, though he himself bravely remained. McDowell's and Buckland's brigades maintained their organizations, and were conducted by my aides, so as to join on General McClernand's right, thus abandoning my original camps and line. This was about 10 1/2 a.m., at which time the enemy had made a furious attack on General McClernand's whole front. He straggled most determinedly, but, finding him pressed, I moved McDowell's brigade directly against the left flank of the enemy, forced him back some distance, and then directed the men to avail themselves of every cover-trees, fallen timber, and a wooded valley to our right. We held this position for four long hours, sometimes gaining and at others losing ground; General McClernand and myself acting in perfect concert, and struggling to maintain this line. While we were so hard pressed, two Iowa regiments approached from the rear, but could not be brought up to the severe fire that was raging in our front, and General Grant, who visited us on that ground, will remember our situation about 3 p.m.; but about 4 p.m. it was evident that Hurlbut's line had been driven back to the river; and knowing that General Lew Wallace was coming with reinforcements from Cramp's Landing, General McClernand and I, on consultation, selected a new line of defense, with its right covering a bridge by which General Wallace had to approach. We fell back as well as we could, gathering in addition to our own such scattered forces as we could find, and formed the new line.",
-    "title": "Project Gutenberg Edition of The Memoirs of Four Civil War Generals",
-    "author": "Grant, Ulysses S. (Ulysses Simpson), 1822-1885; Logan, John Alexander, 1826-1886; Sheridan, Philip Henry, 1831-1888; Sherman, William T. (William Tecumseh), 1820-1891; Widger, David, 1932-2021? [Compiler]",
-    "gutenbergReference": "57383",
-    "hash": "dfed2db6b3478a5b2332ca371c819bb524198bf7a58839206a4a290ed947de09"
-  },
-  {
-    "time": "10:01",
-    "quoteFirst": "Willesden at ",
-    "quoteTime": "about 10 a.m.",
-    "quoteLast": " and giving a porter my bag asked him to put me in the Birmingham portion of the train, although I did not then know that any part of the train went anywhere else.",
-    "title": "Recollections\r\nThe Reminiscences of the Busy Life of One Who Has Played the Varied Parts of Sailor, Author & Lecturer",
-    "author": "Bullen, Frank Thomas, 1857-1915",
-    "gutenbergReference": "67673",
-    "hash": "2c0697304fb46650611666342827efdb3aca8421418741590a2ef526e01f54a4"
-  },
-  {
-    "time": "10:01",
-    "quoteFirst": "The floors were painted and covered with rugs, bright and warm, and the white French curtains hung as in the days of Napoleon. Mahogany furniture of old fashioned shape added to the strange furnishing which was very attractive, and I felt at home at once. ",
-    "quoteTime": "About ten o'clock that morning",
-    "quoteLast": ", Walter Campbell came and escorted me to the cupola of the hotel where we could see the city for miles, a good-sized place, with several prominent buildings and churches and a fine sight of Mount Baker in the distance, covered with snow.",
-    "title": "Sixty Years of California Song",
-    "author": "Alverson, Margaret Blake, 1836-1923",
-    "gutenbergReference": "19528",
-    "hash": "e9c839e9bfa1beb41f26aa8e2f0b2f36ee25bb4a1d28e578d0c6b2e5ea3440fe"
-  },
-  {
-    "time": "10:01",
-    "quoteFirst": "These articles are a preparation of half-boiled dourra flowers, made into balls of about one pound, mixed up with dry flour. Senkie is one of these balls, bruised and mixed with milk; furro-furrocoo is the same kind of ball mixed with water. ",
-    "quoteTime": "About 10 A.M.",
-    "quoteLast": " they have rice boiled, which they eat with a little melted butter. After this they pay visits, or lounge in the shade, hear the news, say prayers, count their beads, which employ them till sunset, when they have a meal of pudding, with a little stewed meat and gravy, or a few small fish; they then retire to rest.",
-    "title": "Journal of a second expedition into the interior of Africa, from the Bight of Benin to Soccatoo",
-    "author": "Clapperton, Hugh, 1788-1827; Salamé, Abraham V. [Contributor]; Barrow, John, Sir, 1764-1848 [Contributor]; Clapperton, Samuel [Contributor]; Lander, Richard, 1804-1834 [Contributor]",
-    "gutenbergReference": "71961",
-    "hash": "3e29e92fb98c258a6b7985356ef7f2528353ea6737fa077fad72a0fedcfd9ec4"
-  },
-  {
-    "time": "10:01",
-    "quoteFirst": "“Thinking something unusual to be brewing overhead, we are off for the lake ",
+    "quoteFirst": "\"We returned to our work ashore, and cut and piled a good store of fuel, almost as much as we needed, on the shingle ready to carry aboard, but the violence of the waves put all hope of embarkation out of the question for the time. This was ",
     "quoteTime": "about 10 A.M.",
-    "quoteLast": "",
-    "title": "The Demon Trapper of Umbagog: A Thrilling Tale of the Maine Forests",
-    "author": "Thompson, Daniel P. (Daniel Pierce), 1795-1868",
-    "gutenbergReference": "67759",
-    "hash": "3ae01ed1da297d9752aa90559847509a30adfff5d5c02b89d5753a6789433935"
-  },
-  {
-    "time": "10:01",
-    "quoteFirst": "When we had climbed to the top of another rise Doc said, “Well, it is four o’clock and we are fifteen miles from water. We will make about five miles more to-day, and then we can water the horses to-morrow morning at that water hole, ",
-    "quoteTime": "about 10 A. M.",
-    "quoteLast": ", and just let them do without water for breakfast.” That sounded about right to me, but I wasn’t sure about the 10 A. M. schedule.",
-    "title": "The Cruise of a Schooner",
-    "author": "Harris, Albert W. (Albert Wadsworth), 1867-1958",
-    "gutenbergReference": "42351",
-    "hash": "1737380ebab97a532e73ab51b07034f0abb3c18a88e4ad7f970a5dd4bb9878e1"
-  },
-  {
-    "time": "10:01",
-    "quoteFirst": "",
-    "quoteTime": "About ten o’clock in the morning",
-    "quoteLast": ", George Jacklin, the foreman of the Millet herd, rode up with several of his men, and seeing the bridge taking shape, turned in and assisted in dragging brush for the foundation. By the time all hands knocked off for dinner, we had a foundation of brush twenty feet wide and four feet high, to say nothing about what had sunk in the mire.",
-    "title": "The Log of a Cowboy: A Narrative of the Old Trail Days",
-    "author": "Adams, Andy, 1859-1935",
-    "gutenbergReference": "12797",
-    "hash": "5a49544ede39cc3ffbfa50363d4b9c9b2ddccc47ccbfe29031c0bbb03c390a10"
-  },
-  {
-    "time": "10:01",
-    "quoteFirst": "",
-    "quoteTime": "About ten o’clock in the morning",
-    "quoteLast": " the atmosphere cleared up, the clouds parted, and the country beneath could again be seen, the _Victoria_ meanwhile rapidly descending. Dr. Ferguson was in search of a current that would carry him more to the northeast, and he found it about six hundred feet from the ground.",
-    "title": "Five Weeks in a Balloon\r\nOr, Journeys and Discoveries in Africa by Three Englishmen",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "3526",
-    "hash": "cff3b1a6df63e3d635b74d451b09947a49867c4335cbb43ae35b51a44167eec2"
-  },
-  {
-    "time": "10:01",
-    "quoteFirst": "The contest was long and doubtful, but the Russians gradually drove back Legrand and a part of Davout's corps; numerous attacks both of infantry and cavalry were made, and by the successive arrival of reinforcements each side in turn received fresh impetus. Finally, at ",
-    "quoteTime": "about 10 A.M.",
-    "quoteLast": ", the allies were in possession of the villages on the Goldbach from Sokolnitz southwards, and Davout's line of battle had reformed more than a mile to rearward, still, however, maintaining touch with the French centre on the Goldbach at Kobelnitz.",
-    "title": "Encyclopaedia Britannica, 11th Edition, \"Atherstone\" to \"Austria\"\r\nVolume 2, Slice 8",
-    "author": "Various",
-    "gutenbergReference": "34312",
-    "hash": "82501cdf08197fc5a715013b1f89d81f967a56fcdb3a277bc2748b4ab949f8cb"
-  },
-  {
-    "time": "10:01",
-    "quoteFirst": "It was now ",
-    "quoteTime": "about 10 a.m.",
-    "quoteLast": ", and both fleets drew apart for some minutes.",
-    "title": "The Invasion of 1910, with a full account of the siege of London",
-    "author": "Le Queux, William, 1864-1927",
-    "gutenbergReference": "51905",
-    "hash": "bada064c030d623e9dc1b51a53eb9cabdd1eeb6ade421176a91f777113f6ad24"
+    "quoteLast": ", and all day the wind increased in violence. A stately procession of icebergs began to float down from the northerly arms of the lake and squall succeeded squall.",
+    "title": "Through the Heart of Patagonia",
+    "author": "Hesketh-Prichard, H. (Hesketh), 1876-1922; Millais, John Guille, 1865-1931 [Illustrator]",
+    "gutenbergReference": "43366",
+    "hash": "f7c3f84f2b200755dbd93670d0d503935e3fd1bb54760911a4b0dd684f7225d5"
   }
 ]

@@ -1,6 +1,66 @@
 [
   {
     "time": "14:05",
+    "quoteFirst": "He acted altogether quite the gentleman, and paid for the driver's dinner and brandy-and-water, as well as his own. At half-after one he got into the fly, and ordered the man to go back to Shorncliffe station. At ",
+    "quoteTime": "five minutes after two",
+    "quoteLast": " he alighted at the station, where he paid and dismissed the driver.",
+    "title": "Henry Dunbar: A Novel",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "9189",
+    "hash": "ab8cc6c02420e6e6403139af8e9481a1b2ed6470080084543927b176b918143b"
+  },
+  {
+    "time": "14:05",
+    "quoteFirst": "McCortney and Colonel Harrison, of Kansas, arrived from the Canadian River, having whipped their horses for fifteen miles, and the mud from the river was over the hubs of the wheels. The first train from the south reached the station at ",
+    "quoteTime": "five minutes past two",
+    "quoteLast": ", and unloaded twenty-five hundred people. They scattered like a stampeded herd over the prairie, driving in their little stakes, and changing their minds about it and driving them in again at some other point.",
+    "title": "The West from a car window",
+    "author": "Davis, Richard Harding, 1864-1916; Remington, Frederic, 1861-1909 [Illustrator]",
+    "gutenbergReference": "69118",
+    "hash": "24c63e6595036cd6f85e146792185b20cbfba0d0e35943a98135c35148c2df5e"
+  },
+  {
+    "time": "14:05",
+    "quoteFirst": "2.00 P. M.   Bugle Call to Village Green. ",
+    "quoteTime": "2.05 P. M.",
+    "quoteLast": "   Music by Hearus Band.",
+    "title": "The Mary Frances first aid book",
+    "author": "Fryer, Jane Eayre, 1876-; Boyer, Jane Allen, 1875-1940 [Illustrator]",
+    "gutenbergReference": "54216",
+    "hash": "fa1cc4a0d2d45c2ce981353e8f31005b59209d5a449615e0a09a81bf0bb87758"
+  },
+  {
+    "time": "14:05",
+    "quoteFirst": "McCortney and Colonel Harrison, of Kansas, arrived from the Canadian River, having whipped their horses for fifteen miles, and the mud from the river was over the hubs of the wheels. The first train from the south reached the station at ",
+    "quoteTime": "five minutes past two",
+    "quoteLast": ", and unloaded twenty-five hundred people. They scattered like a stampeded herd over the prairie, driving in their little stakes, and changing their minds about it and driving them in again at some other point.",
+    "title": "The West from a car window",
+    "author": "Davis, Richard Harding, 1864-1916; Remington, Frederic, 1861-1909 [Illustrator]",
+    "gutenbergReference": "69118",
+    "hash": "24c63e6595036cd6f85e146792185b20cbfba0d0e35943a98135c35148c2df5e"
+  },
+  {
+    "time": "14:05",
+    "quoteFirst": "On Saturday, 1st June, _Chicora_ left Toronto dock at 2.30 p.m. for a first regular afternoon excursion to Niagara, and on Monday, June 3rd, began her regular double trip service leaving at 7.05 a.m. and ",
+    "quoteTime": "2.05 p.m.",
+    "quoteLast": "",
+    "title": "A Century of Sail and Steam on the Niagara River",
+    "author": "Cumberland, Barlow, 1846-1913",
+    "gutenbergReference": "38542",
+    "hash": "64c8817db3c9e3406dcb583f4e1d0377b681a99ff83db9f1444eda7dffe46657"
+  },
+  {
+    "time": "14:05",
+    "quoteFirst": "C., registered here at ",
+    "quoteTime": "five minutes past two",
+    "quoteLast": " this morning.\"",
+    "title": "The Winning Clue",
+    "author": "Hay, James, 1881-1936",
+    "gutenbergReference": "20152",
+    "hash": "3629911d4e80f6f7c4886fae320cfbfc5a428c960337f459b77d9128cfd5481f"
+  },
+  {
+    "time": "14:05",
     "quoteFirst": "“",
     "quoteTime": "Five minutes after two",
     "quoteLast": ",” he said, “and I suppose we’re about twenty miles from the island. All aboard for Anclote――due there at two thirty-four.”",
@@ -11,13 +71,13 @@
   },
   {
     "time": "14:05",
-    "quoteFirst": "“In performing this work it was of course necessary to avoid the daily traffic, which would have disturbed our operations; and, as my Journal shows, my class and I, during the three days occupied in the process, viz., May the 25th, 27th, and 30th, rose the first day at three, the second at five minutes before three, and the third at ",
-    "quoteTime": "five minutes past two",
-    "quoteLast": ".",
-    "title": "The Life of Sir Rowland Hill and the History of Penny Postage, Vol. 1 (of 2)",
-    "author": "Hill, Rowland, Sir, 1795-1879; Hill, George Birkbeck Norman, 1835-1903",
-    "gutenbergReference": "59390",
-    "hash": "84637fec7d2afd2eac601291c0cc022a202599fe5dff6ad310012c95a4a17e5b"
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes past two",
+    "quoteLast": ",\" I replied, looking at my watch.",
+    "title": "Devlin the Barber",
+    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+    "gutenbergReference": "53044",
+    "hash": "926612c3754b31ef3e535c033113c5f4cfc5a2cdb2dc3c967b91ebd0e9c561b5"
   },
   {
     "time": "14:05",
@@ -31,172 +91,112 @@
   },
   {
     "time": "14:05",
-    "quoteFirst": "WITNESS: 'Avin made a mistake once, by saying ",
-    "quoteTime": "five minutes after two",
-    "quoteLast": " to the policeman as called hisself a insurance agent, which 'e put the words into my mouth, I ain't a goin' to do so again, it bein' five minutes afore two, as I can swear to.",
-    "title": "The Mystery of a Hansom Cab",
-    "author": "Hume, Fergus, 1859-1932",
-    "gutenbergReference": "4223",
-    "hash": "83767794a9a6215da002e7d896d036349c084d11aae380b43fac89e7e9326b1d"
-  },
-  {
-    "time": "14:05",
-    "quoteFirst": "She could then hear the sound of his swinging back the curtains which the careful housemaids invariably drew across his windows when they were turning down the counterpane; and then she knew that he must just have come upstairs. Her room was quite light, so that she could see the hour shown by the little bracket clock. It was ",
-    "quoteTime": "five minutes past two",
-    "quoteLast": ".",
-    "title": "Priscilla and Charybdis: A Story of Alternatives",
-    "author": "Moore, Frank Frankfort, 1855-1931",
-    "gutenbergReference": "51972",
-    "hash": "4ddd3fdf92cb75cc32d544689547872124784ef7078ee3487fd20cbc83338408"
-  },
-  {
-    "time": "14:05",
-    "quoteFirst": "She could then hear the sound of his swinging back the curtains which the careful housemaids invariably drew across his windows when they were turning down the counterpane; and then she knew that he must just have come upstairs. Her room was quite light, so that she could see the hour shown by the little bracket clock. It was ",
-    "quoteTime": "five minutes past two",
-    "quoteLast": ".",
-    "title": "Priscilla and Charybdis: A Story of Alternatives",
-    "author": "Moore, Frank Frankfort, 1855-1931",
-    "gutenbergReference": "51972",
-    "hash": "4ddd3fdf92cb75cc32d544689547872124784ef7078ee3487fd20cbc83338408"
-  },
-  {
-    "time": "14:05",
-    "quoteFirst": "“That’s nearly ",
-    "quoteTime": "five minutes after two",
-    "quoteLast": ", isn’t it? Well, it’s close enough.”",
-    "title": "The Airship Boys' Ocean Flyer; Or, New York to London in Twelve Hours",
-    "author": "Sayler, H. L. (Harry Lincoln), 1863-1913; Riesenberg, Sidney H., 1885-1971 [Illustrator]",
-    "gutenbergReference": "49416",
-    "hash": "409fde49414c74f9c6156ea3b594f6c90dd238ed5fdba6a5c06e438c19e24fce"
-  },
-  {
-    "time": "14:05",
-    "quoteFirst": "'At ",
-    "quoteTime": "five minutes after two",
-    "quoteLast": ", the last gun was fired, the cords divided, and the Balloon rose, the company returning my signals of adieu with the most unfeigned acclamations and applauses. The effect was that of a miracle on the multitudes which surrounded the place; and they passed from incredulity and menace into the most extravagant expressions of approbation and joy.",
-    "title": "The War in the Air; Vol. 1\nThe Part played in the Great War by the Royal Air Force",
-    "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
-    "gutenbergReference": "28226",
-    "hash": "10f9fb18782e5c49db65b2a16a935bd774671cb50fb58781bf321d16657721b0"
-  },
-  {
-    "time": "14:05",
-    "quoteFirst": "The President's Commission reconvened at ",
-    "quoteTime": "2:05 p.m.",
-    "quoteLast": "",
-    "title": "Warren Commission (03 of 26): Hearings Vol. III (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44003",
-    "hash": "923570ded0dd53ed6c20c53973eea4b899edd0fd4d4e23f6e0c0dca5fbc9e270"
-  },
-  {
-    "time": "14:05",
-    "quoteFirst": "“",
-    "quoteTime": "Five minutes after two",
-    "quoteLast": ",” he said, “and I suppose we’re about twenty miles from the island. All aboard for Anclote――due there at two thirty-four.”",
-    "title": "The Boy Aeronauts' Club; or, Flying for Fun",
-    "author": "Sayler, H. L. (Harry Lincoln), 1863-1913; Riesenberg, Sidney H., 1885-1971 [Illustrator]",
-    "gutenbergReference": "57000",
-    "hash": "425dbab8fe85266fdfb5da94d08b1adbb1291caee71dd6ed73298a1d3f35326c"
-  },
-  {
-    "time": "14:05",
-    "quoteFirst": "'At ",
-    "quoteTime": "five minutes after two",
-    "quoteLast": ", the last gun was fired, the cords divided, and the Balloon rose, the company returning my signals of adieu with the most unfeigned acclamations and applauses. The effect was that of a miracle on the multitudes which surrounded the place; and they passed from incredulity and menace into the most extravagant expressions of approbation and joy.",
-    "title": "The War in the Air; Vol. 1\nThe Part played in the Great War by the Royal Air Force",
-    "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
-    "gutenbergReference": "28226",
-    "hash": "10f9fb18782e5c49db65b2a16a935bd774671cb50fb58781bf321d16657721b0"
-  },
-  {
-    "time": "14:05",
-    "quoteFirst": "Two loving, two happy mortals, earnest, devoted, passionate, devoutly happy; while in society the thing will be announced indifferently and drily, somewhat in this fashion: ‘Have you heard? Martha Dotzky is engaged to Tilling--a poor match!’ It is ",
-    "quoteTime": "five minutes past two",
-    "quoteLast": ". He may come now any minute.",
-    "title": "Lay Down Your Arms: The Autobiography of Martha von Tilling",
-    "author": "Suttner, Bertha von, 1843-1914; Holmes, T. [Translator]",
-    "gutenbergReference": "49294",
-    "hash": "9f6a1c60a867b438e85af498d44e9b0dcc3c84d550f4a7cc81967a1d3f4abf74"
-  },
-  {
-    "time": "14:05",
-    "quoteFirst": "Mr. BRIAN. I will tell you one thing that I recall he called to my attention was ",
-    "quoteTime": "2:05 p.m.",
-    "quoteLast": ", I believe, and I told him, I said I can't put that in there because I don't know what time it was, and I don't. I don't have any idea of what time it was, and he said, \"Well, all right, leave that out,\" but I think the substance was probably the same in both reports.",
-    "title": "Warren Commission (05 of 26): Hearings Vol. V (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44005",
-    "hash": "0a41cff557c7e768ad9781864f3a9339af950973cff6b19c5885d30b3fbfe183"
-  },
-  {
-    "time": "14:05",
-    "quoteFirst": "She could then hear the sound of his swinging back the curtains which the careful housemaids invariably drew across his windows when they were turning down the counterpane; and then she knew that he must just have come upstairs. Her room was quite light, so that she could see the hour shown by the little bracket clock. It was ",
-    "quoteTime": "five minutes past two",
-    "quoteLast": ".",
-    "title": "Priscilla and Charybdis: A Story of Alternatives",
-    "author": "Moore, Frank Frankfort, 1855-1931",
-    "gutenbergReference": "51972",
-    "hash": "4ddd3fdf92cb75cc32d544689547872124784ef7078ee3487fd20cbc83338408"
-  },
-  {
-    "time": "14:05",
-    "quoteFirst": "_--Glacier Park Hotel to Many Glacier Hotel, Going-to-the-Sun Chalets, Lake McDonald Hotel, and Belton. Leave Glacier Park Hotel 2:30 p.m.; arrive Belton on third day, ",
-    "quoteTime": "2:05 p.m.",
-    "quoteLast": " All-expense rate, $27.75.",
-    "title": "Glacier National Park [Montana]",
-    "author": "United States. Department of the Interior",
-    "gutenbergReference": "36463",
-    "hash": "95527854647e0d8906c8f1495365ef9057638a8db2c5a99876e07d32cd99dfee"
-  },
-  {
-    "time": "14:05",
     "quoteFirst": "At ",
+    "quoteTime": "five minutes after two",
+    "quoteLast": ", there were no children. At ten minutes past, still no children. At fifteen minutes after two, Mrs. Enderby’s fat, placid self waddled up to the doctor’s gate.",
+    "title": "When She Came Home from College",
+    "author": "McNeely, Marian Hurd, 1877-1930; Wilson, Jean Bingham; Gibbs, George, 1870-1942 [Illustrator]",
+    "gutenbergReference": "54033",
+    "hash": "3d498581a53617ed8ee1db9b7eb5ab6e6a97c5df968424cf188d228c68f01ad5"
+  },
+  {
+    "time": "14:05",
+    "quoteFirst": "It was ",
     "quoteTime": "five minutes past two",
-    "quoteLast": " they ran into Alton and stopped at the police station. Again no luck! The Elmford sergeant telephoned that he had heard nothing.",
-    "title": "The purple sickle murders",
-    "author": "Crofts, Freeman Wills, 1879-1957",
-    "gutenbergReference": "75488",
-    "hash": "565d64b492a70fa1a8ee31f78109714a0049d7258f86d05f77ab0cee1917bb7f"
+    "quoteLast": " in the morning when Marney, sitting in the drawing-room at the front of the house, heard the sound of an auto stop before the house. Going into the hall, she opened the door, and, standing on the step, peered into the darkness.",
+    "title": "Room 13",
+    "author": "Wallace, Edgar, 1875-1932",
+    "gutenbergReference": "76168",
+    "hash": "361943aa3e0c44ae43b884afe547ee61813680686016215d92c5c23cc29e6b18"
   },
   {
     "time": "14:05",
-    "quoteFirst": "The testimony of Victor F. Robertson, Jr. was taken at ",
-    "quoteTime": "2:05 p.m.",
-    "quoteLast": ", on July 24, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Burt W.",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
-    "hash": "b2c8f6c3904e6aa3f1b6ae71aa94e2d953642e5d17b9e54ad4cf4d411e12bad6"
+    "quoteFirst": "2.00 P. M.   Bugle Call to Village Green. ",
+    "quoteTime": "2.05 P. M.",
+    "quoteLast": "   Music by Hearus Band.",
+    "title": "The Mary Frances first aid book",
+    "author": "Fryer, Jane Eayre, 1876-; Boyer, Jane Allen, 1875-1940 [Illustrator]",
+    "gutenbergReference": "54216",
+    "hash": "fa1cc4a0d2d45c2ce981353e8f31005b59209d5a449615e0a09a81bf0bb87758"
   },
   {
     "time": "14:05",
-    "quoteFirst": "All west-bound trips are scheduled to arrive at Belton at ",
+    "quoteFirst": "“In performing this work it was of course necessary to avoid the daily traffic, which would have disturbed our operations; and, as my Journal shows, my class and I, during the three days occupied in the process, viz., May the 25th, 27th, and 30th, rose the first day at three, the second at five minutes before three, and the third at ",
+    "quoteTime": "five minutes past two",
+    "quoteLast": ".",
+    "title": "The Life of Sir Rowland Hill and the History of Penny Postage, Vol. 1 (of 2)",
+    "author": "Hill, Rowland, Sir, 1795-1879; Hill, George Birkbeck Norman, 1835-1903",
+    "gutenbergReference": "59390",
+    "hash": "84637fec7d2afd2eac601291c0cc022a202599fe5dff6ad310012c95a4a17e5b"
+  },
+  {
+    "time": "14:05",
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes past two",
+    "quoteLast": "?... Our watches agree. How long will it take you to reach Southampton?\"",
+    "title": "The Blonde Lady\nBeing a Record of the Duel of Wits between Arsène Lupin and the English Detective",
+    "author": "Leblanc, Maurice, 1864-1941",
+    "gutenbergReference": "24839",
+    "hash": "4b89c594ce3e1706539a3e6d51dae6e6f4cf4c49b01d248a3092e18c84cfd224"
+  },
+  {
+    "time": "14:05",
+    "quoteFirst": "Still the Slasher did not appear; and two o’clock having arrived, Spring said he would only give five minutes more, and should then consider Freeman was entitled to the money if the Slasher did not arrive. Within the time specified Slasher was brought slowly to the field of battle, having, according to Broome’s account, taken from seven minutes to one to ",
+    "quoteTime": "five minutes after two",
+    "quoteLast": " to come very little more than two miles. Cheerfulness succeeded wrangling, and all looked well for the gratification of the throng, who had come far and near to witness the battle.",
+    "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
+    "author": "Miles, Henry Downes, 1806-1889",
+    "gutenbergReference": "64111",
+    "hash": "7a193799c9df88d1be888635846bc400c537f7e38963937960548da7208f7961"
+  },
+  {
+    "time": "14:05",
+    "quoteFirst": "Street had pointed to ",
+    "quoteTime": "five minutes past two",
+    "quoteLast": ", Felicity had not missed her. She was soon--with a mind relieved at least from that portion of its load--giving a report, with excisions something like those practised on Russian newspapers, of her morning’s employment, and adorning it with touches, so nicely adapted to Felicity’s humour, that the latter ended by expressing an ecstatic wonder as to how she had ever managed to bear so long the absence from her side of such a seasoner and sweetener of her own toilsome existence.",
+    "title": "A waif's progress",
+    "author": "Broughton, Rhoda, 1840-1920",
+    "gutenbergReference": "73654",
+    "hash": "3aaae6b8096de8a930d04ccdd060313355a8657657643a4f6fe3bd6179b7e337"
+  },
+  {
+    "time": "14:05",
+    "quoteFirst": "It was then ",
+    "quoteTime": "five minutes past two",
+    "quoteLast": ". The _Titanic_ had fifteen minutes more to live.",
+    "title": "Thomas Andrews, Shipbuilder",
+    "author": "Bullock, Shan F., 1865-1935",
+    "gutenbergReference": "32166",
+    "hash": "08eec364876b61f082d2f042282954003b6e66708fb2f306a534aca3a3991d0c"
+  },
+  {
+    "time": "14:05",
+    "quoteFirst": "Hotel at 2:30 p.m.; arrive Belton the next day, ",
     "quoteTime": "2:05 p.m.",
-    "quoteLast": ", in time for the Empire Builder, west. The trips east bound all begin at Belton and close at Glacier Park Station, in time for the Empire Builder, east.",
+    "quoteLast": " All-expense rate, $15.50.",
     "title": "Glacier National Park [Montana]",
     "author": "United States. Department of the Interior",
     "gutenbergReference": "36463",
-    "hash": "637ebb5ce87c064f4e79126429775bd2f1da6010adbce14267a8b6159a2f10e5"
+    "hash": "23c4c624910f0f6f0a4e1657954fb756f5f0b63dd7fdf914d7473d2b88999986"
   },
   {
     "time": "14:05",
-    "quoteFirst": "Tom asked what the trouble was--he had secured a seat by this time--and the conductor paused long enough to inform him that the south-bound car was twelve minutes late. It was already ",
-    "quoteTime": "five minutes past two",
-    "quoteLast": " and Petersburg was a mile away. And, besides that, Tom hadn’t the least idea where the ball ground was. Another five minutes passed and still no car appeared.",
-    "title": "Pitcher Pollock",
-    "author": "Mathewson, Christy, 1880-1925; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
-    "gutenbergReference": "50761",
-    "hash": "001eea433847007fbd3d0fe80842513d04e5c27a94ff2fcbe8827c39468ae511"
+    "quoteFirst": "'At ",
+    "quoteTime": "five minutes after two",
+    "quoteLast": ", the last gun was fired, the cords divided, and the Balloon rose, the company returning my signals of adieu with the most unfeigned acclamations and applauses. The effect was that of a miracle on the multitudes which surrounded the place; and they passed from incredulity and menace into the most extravagant expressions of approbation and joy.",
+    "title": "The War in the Air; Vol. 1\nThe Part played in the Great War by the Royal Air Force",
+    "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
+    "gutenbergReference": "28226",
+    "hash": "10f9fb18782e5c49db65b2a16a935bd774671cb50fb58781bf321d16657721b0"
   },
   {
     "time": "14:05",
-    "quoteFirst": "“",
-    "quoteTime": "Five minutes past two",
-    "quoteLast": " is right. How long will it take you to reach Southampton?”",
-    "title": "Arsène Lupin versus Herlock Sholmes",
-    "author": "Leblanc, Maurice, 1864-1941; Morehead, George [Translator]",
-    "gutenbergReference": "40203",
-    "hash": "a7c15676f12c508193d1da151ec025745341cabb3b72e9026f6aff7dcdfccac3"
+    "quoteFirst": "THE PRESIDENT: We will adjourn now until ",
+    "quoteTime": "5 minutes past 2",
+    "quoteLast": ".",
+    "title": "Trial of the Major War Criminals Before the International Military Tribunal, Nuremburg, 14 November 1945-1 October 1946, Volume 04",
+    "author": "Various",
+    "gutenbergReference": "54460",
+    "hash": "6fc47f863829aae5b998e0471c64fe256fe025209dd6f16d3ac9f4464eae6b8c"
   }
 ]

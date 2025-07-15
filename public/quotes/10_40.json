@@ -1,73 +1,93 @@
 [
   {
     "time": "10:40",
-    "quoteFirst": "Hermann walked backwards and forwards; then coming to a lamp he looked at his watch. It was ",
+    "quoteFirst": "It was ",
     "quoteTime": "twenty minutes to eleven",
-    "quoteLast": ". Leaning against the lamp-post, his eyes fixed on the long hand of his watch, he counted impatiently the minutes which had yet to pass. At eleven o'clock precisely Hermann walked up the steps, pushed open the street door, and went into the vestibule, which was well lighted. As it happened the porter was not there.",
-    "title": "The Strand Magazine, Vol. 01, January 1891\r\nAn Illustrated Monthly",
-    "author": "Various; Newnes, George, 1851-1910 [Editor]",
-    "gutenbergReference": "41613",
-    "hash": "1da882663083adce2755cf2441881678ef1f776e07c7fc8cb36f583284a575bb"
+    "quoteLast": ", whereas if those he expected had caught the 8.45 from St. Pancras, the carriage should have been back half an hour ago.",
+    "title": "The Duke Decides",
+    "author": "Hill, Headon, 1857-1927",
+    "gutenbergReference": "37413",
+    "hash": "ef419df6b594f6f19ef919994efcf8c1d4d379eac7932e7a62dc0567035c9d7e"
   },
   {
     "time": "10:40",
-    "quoteFirst": "Bandy-legged Bill kept his appointment, and on the following evening he drove up to Peace’s door at about ",
-    "quoteTime": "twenty minutes to eleven",
-    "quoteLast": ".",
-    "title": "Charles Peace, or The Adventures of a Notorious Burglar",
-    "author": "Anonymous",
-    "gutenbergReference": "65464",
-    "hash": "fd9ca7dd225d7cfdc4a889aa6c9a9ddcbe734996ab9b68e329f2f59e6324caa6"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "The Duke of Cambridge came up to Lord Raglan for orders, and his Lordship, ready to give the honour of the day to Sir Colin Campbell, who commands at Balaklava, told his Royal Highness to place himself under the direction of the Brigadier. At ",
-    "quoteTime": "forty minutes after ten",
-    "quoteLast": ", the Fourth Division also took up their position in advance of Balaklava. The cavalry were then on the left front of our position, facing the enemy; the Light Cavalry Brigade was on the left flank forward; the Heavy Cavalry Brigade _en échelon_ in reserve, with guns on the right; the 4th Dragoons and 5th Dragoons and Greys on the left of the brigade, the Enniskillens and 3rd Dragoons on the right.",
-    "title": "The battles of the world",
-    "author": "Borthwick, J. Douglas (John Douglas), 1831-1912",
-    "gutenbergReference": "60652",
-    "hash": "71905b1432264e103bd4fee3ec55c5a4c1a578bf9fb4eaa5c932086b4d378b62"
+    "quoteFirst": "18 Bombardment from ",
+    "quoteTime": "10:40 A. M.",
+    "quoteLast": "; some victims.",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "d12c4ad66c5ac1b646bfc8e86bc95d8ce7505ff5d051186a7ba9bac8b68f1f42"
   },
   {
     "time": "10:40",
     "quoteFirst": "At ",
     "quoteTime": "twenty minutes to eleven",
-    "quoteLast": ", having completed the western curve of the Ghuwair, we fell in with the _Wadi Hhuggereh_, which came up from the south-west, and on looking back, perceived a distinct mirage visible over the dry sands which occupy part of the Ghuwair, probably the effect of a salty deposit.",
-    "title": "Byeways in Palestine",
-    "author": "Finn, James, -1872",
-    "gutenbergReference": "22097",
-    "hash": "ae8c53c03a3597d21120718c17d97071b34f83d636dc6e9b871d535f46b1f14f"
+    "quoteLast": " Arch Brookhouse takes leave of the treasure-ship heiress, and comes out into the darkness striding down the avenue like a man accustomed to the road. He unties the waiting horse which paws the ground impatiently, yet stands, obedient to his low command, turns the head of the beast southward, seats himself in the light buggy, lights a cigar, and then sits silently smoking, and waiting,--for what?",
+    "title": "Out of a Labyrinth",
+    "author": "Lynch, Lawrence L.",
+    "gutenbergReference": "38888",
+    "hash": "eeebf8057b6d667ad5dd716a3157ebe9812d36b7ffd257671e2b37f946252074"
   },
   {
     "time": "10:40",
     "quoteFirst": "All present felt, as he retired, that the end of the Rebellion had come.  At ",
     "quoteTime": "10.40 A. M.",
     "quoteLast": " Lee reported further: \"I see no prospect of doing more than holding our position here till night.  I am not certain that I can do that.",
-    "title": "The Great Conspiracy, Volume 7",
+    "title": "The Great Conspiracy, Complete",
     "author": "Logan, John Alexander, 1826-1886",
-    "gutenbergReference": "7139",
-    "hash": "ec404cdf109237d29e27fcdd27f9737cb28591f42fec2adbd9853b81cc697e1e"
+    "gutenbergReference": "7140",
+    "hash": "93c6638fbf15557c7e4dd7a03496c4af2cfa73c4017e1d909e3e91666bc2f9d2"
   },
   {
     "time": "10:40",
-    "quoteFirst": "30 resumed our journey to the south-south-west, and reached the head of the creek at 8.0 a.m. Ascending the tableland by an abrupt slope of 100 feet, our course was south one mile, when the southern slope was reached, and a large shallow valley extended across our course, beyond which a vast and slightly undulating plain extended to the horizon with scarcely a rising ground to relieve its extreme monotony. Descending by a very gentle slope into the valley, at 9.40 a.m. crossed a small watercourse trending south-east, and then passed through a plain densely covered with kangaroo-grass seven to nine feet high, and at ",
+    "quoteFirst": "“We went to General Quarters at ",
+    "quoteTime": "10:40 A.M.",
+    "quoteLast": " and were inside the entrance by 11:40. How well we seemed to know the place! I knew exactly where the beastly field guns at the mouth would open fire and exactly when they would cease--as we pushed in, and so if their shots went over us they would land on the opposite bank among their own troops. Very soon came the soft whistle of the shell, then again and again--but we were nearing the entrance and they turned on the _Mersey_.",
+    "title": "The British Navy in Battle",
+    "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
+    "gutenbergReference": "54441",
+    "hash": "ff53cee88a4d6dad033a0e87a7e92127099e91f92142b5086ea3543ceb762d55"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "’ I do not think she was sensible after she said ‘Off the bed’ the first time._ She died at ",
+    "quoteTime": "twenty minutes to eleven",
+    "quoteLast": ". Dove went for the doctors; when he returned she was dead.”",
+    "title": "Reports of Trials for Murder by Poisoning;\r\nby Prussic Acid, Strychnia, Antimony, Arsenic, and Aconita. Including the trials of Tawell, W. Palmer, Dove, Madeline Smith, Dr. Pritchard, Smethurst, and Dr. Lamson, with chemical introduction and notes on the poisons used",
+    "author": "Browne, G. Lathom (George Lathom), 1815-1892; Stewart, C. G. (Charles G.), active 19th century",
+    "gutenbergReference": "50636",
+    "hash": "0c2c2bfc301337e23f66893fd851fc0e984916cb72814ba90854d3cb5e7f7328"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "Started at 6.30 a.m. and pursued a south course till 8.0 a.m., when we crossed the ridge at the source of the creek and ascended some stony gullies to the south-west; at ",
     "quoteTime": "10.40 a.m.",
-    "quoteLast": "",
+    "quoteLast": " halted at a small waterhole in a small creek. Re-commenced our journey at 3.0 p.m., and followed a valley to the south-east; but finding the country in that direction unsuited for our object, turned to the west and reached the creek again at 5.15 p.m.; followed it till 6.0 p.m. to the south-west, and encamped.",
     "title": "Journals of Australian Explorations",
     "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
     "gutenbergReference": "10461",
-    "hash": "7fc4a960ac48470e7caf49bcc4dec4e965ead33d4045625b05fb6c11d7bf30c3"
+    "hash": "32a5bd949e4c433d24e34435f932d0c8f97d226aad9fa3d26d17c2bef04c7c55"
   },
   {
     "time": "10:40",
-    "quoteFirst": "ERUPTIVE PROMINENCE AT ",
-    "quoteTime": "10.40 A.M.",
-    "quoteLast": "",
-    "title": "McClure's Magazine, Vol. 6, No. 2, January, 1896",
-    "author": "Various",
-    "gutenbergReference": "13637",
-    "hash": "9897c2acd57ac3eaf77c3d7b05c059bcc0d3c90f304f3df98f72b551a694f125"
+    "quoteFirst": "‘",
+    "quoteTime": "Twenty minutes to eleven",
+    "quoteLast": ".’",
+    "title": "Our Mutual Friend",
+    "author": "Dickens, Charles, 1812-1870",
+    "gutenbergReference": "883",
+    "hash": "8b10b133205ff6d8facd04e1329dc4d1c54d212dfec3dad256be5509c1cb34d2"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "David had warned Gaveston that ",
+    "quoteTime": "twenty minutes to eleven",
+    "quoteLast": " was generally considered the “right” hour of the evening to knock for the first time at the door of the sempiternal Dean. But for his first visit, modestly postponed until his second night, Gav was careful of effect.",
+    "title": "The Oxford Circus: A Novel of Oxford and Youth",
+    "author": "Miles, Hamish, 1894-1937; Mortimer, Raymond, 1895-1980; Kettelwell, John [Illustrator]",
+    "gutenbergReference": "50358",
+    "hash": "5443957824bbd6e8a5b40eae132542ec023855ee0241dc177fc136a94d4d6ef1"
   },
   {
     "time": "10:40",
@@ -81,43 +101,63 @@
   },
   {
     "time": "10:40",
-    "quoteFirst": "_",
-    "quoteTime": "10.40 a.m.",
-    "quoteLast": "_ Eight prisoners were captured by the advanced reconnoitring party of C/310.",
-    "title": "War Services of the 62nd West Riding Divisional Artillery",
-    "author": "Anderson, Austin Thomas, 1868-1949",
-    "gutenbergReference": "50066",
-    "hash": "2a4927e77480f8029cb6873e6cf13dde9d622b4429f3905e0fd076a15d51dfbe"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "but the order did not reach our Brigade. However, this information was obtained incidentally by the Brigade Commander, and at ",
-    "quoteTime": "10.40 a. m.",
+    "quoteFirst": "_Morecambe Bay_ L.V.--One Linnet, three Starlings, and three Larks on deck at ",
+    "quoteTime": "10.40 A.M.",
     "quoteLast": "",
-    "title": "The 151st Field Artillery Brigade",
-    "author": "Russell, Richard M.",
-    "gutenbergReference": "68324",
-    "hash": "3b3c2029a743bcf52053d385e89f852ccf037abc9585da38ded8b3608a0466f9"
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1886. Eighth Report\r\n(Vol. II, No. 3.)",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "66032",
+    "hash": "ada79514afcfad24d6df6f6187c2265e62870b5b9245ebb3a3a543f7e72a7bea"
   },
   {
     "time": "10:40",
-    "quoteFirst": "_",
+    "quoteFirst": "_Saturday, 24th January._—I awoke at 7 and got up at a ¼ past 8. At ½ past 9 we breakfasted. At 10 came the Dean till ",
+    "quoteTime": "20 minutes to 11",
+    "quoteLast": ". It was yesterday _15 years_ that it pleased God to take my _most beloved_ Papa from us. Alas! _I_ was but 6 months when this affliction came upon us; and I therefore never had the happiness to know him....",
+    "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
+    "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
+    "gutenbergReference": "75138",
+    "hash": "46f8ea153290b834a2534e6bd2ac19b0a5d76fe8a699451d013d6a2b7567744e"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "October 13: Weight, 1,830 grams; ",
+    "quoteTime": "10.40 a. m.",
+    "quoteLast": ", 14 cc 2 per cent caffein (153 mg per kilo) injected into lumbar muscles; 11 a. m., no symptoms; 11.30 a. m., reflexes increased.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "hash": "e98f0305aa13d87ad9d3682e0b798d48c3632f96bbc735c16a0da9e09c39f2be"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "\"The proposed meeting thus took place on Friday, August 23rd, from ",
     "quoteTime": "10.40 a.m.",
-    "quoteLast": "_ Eight prisoners were captured by the advanced reconnoitring party of C/310.",
-    "title": "War Services of the 62nd West Riding Divisional Artillery",
-    "author": "Anderson, Austin Thomas, 1868-1949",
-    "gutenbergReference": "50066",
-    "hash": "2a4927e77480f8029cb6873e6cf13dde9d622b4429f3905e0fd076a15d51dfbe"
+    "quoteLast": " to 1.15 p.m. Stinnes, with admirable frankness and directness, started our conversation by stating that the military situation had become much worse. Our troops, he said, began to fail us in our task, and the number of deserters had been very large lately (he mentioned, I believe, that their number was 32,000).",
+    "title": "Albert Ballin",
+    "author": "Huldermann, Bernhard; Eggers, Wilhelm Johann [Translator]",
+    "gutenbergReference": "44135",
+    "hash": "9e0f1c7eee738a3aa05e8d8867a41d1606668892f360661ab4974a515307f0b1"
   },
   {
     "time": "10:40",
-    "quoteFirst": "At ",
-    "quoteTime": "twenty minutes to eleven a.m.",
-    "quoteLast": ", it was officially intimated that the civilians had been liberated from the hotel; that Byrne had been shot; and that Dan Kelly and Hart maintained possession, and were firing in reply to the incessant firing by the police. As there appeared to be every likelihood that, if the fight was continued, some of the police might be seriously injured, the Chief Secretary instructed Captain Standish, if possible, to blow the house up, but before doing so to see that none but members of the gang were in it.",
-    "title": "The Last of the Bushrangers: An Account of the Capture of the Kelly Gang",
-    "author": "Hare, Francis Augustus",
-    "gutenbergReference": "57026",
-    "hash": "aee8b95714ac3fe91074601765d431e8d32115c0fb03043a3bf2f3b251c22d81"
+    "quoteFirst": "\"It must be late,\" said he. \"En vérité, it is ",
+    "quoteTime": "twenty minutes to eleven",
+    "quoteLast": "! I should not have thought it.\"",
+    "title": "To Leeward",
+    "author": "Crawford, F. Marion (Francis Marion), 1854-1909",
+    "gutenbergReference": "40181",
+    "hash": "1125ff5b2cfcfc8a3834655e13a067150966f26b05945747eab1439dd5b7e67e"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "On passing her Captain Flinders hailed us and told me to be ready at 8 o'clock in the morning to proceed to the south-east up the arm on Broad Sound. At 8 A.M. Captain Flinders and Mr. Brown on board. At half-past 8 A.M. weighed and made sail, at ",
+    "quoteTime": "40 minutes past 10 A.M.",
+    "quoteLast": " grounded in 8 feet of water, at 40 minutes past 11 A.M. weighed and made sail across the entrance of the river. From noon until 40 minutes past 1 P.M. stretching across the flats of this arm, sounding from 9 feet to 3 1/4 fathoms, where we anchored. Immediately moored with the kedge which in a little time she brought home, moored with the bowers per cable one way and 25 fathoms the other, found the tide of ebb to run at 4 P.M. 5 knots and 6 fathoms. At 5 P.M. we began to touch the ground and perceived that our main keel was gone, part of it coming up alongside.",
+    "title": "The Logbooks of the Lady Nelson\r\nWith the journal of her first commander Lieutenant James Grant",
+    "author": "Lee, Ida, 1865-1943",
+    "gutenbergReference": "7509",
+    "hash": "c4977c600a1c960bd38b137d735bef41ed66c5ec7214f583597eeac3b7fcb231"
   },
   {
     "time": "10:40",
@@ -131,72 +171,32 @@
   },
   {
     "time": "10:40",
-    "quoteFirst": "“Well, you’ll need it,” said Carlton, grimly. “This is going to be a long trip. It is ",
-    "quoteTime": "twenty minutes to eleven",
-    "quoteLast": " now; you will have to hurry.",
-    "title": "The scarlet car; The Princess Aline",
-    "author": "Davis, Richard Harding, 1864-1916",
-    "gutenbergReference": "69715",
-    "hash": "fa4c7cc4579e1a98cd4190d0e2d19620ce238977c66307887b07964108e9782b"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "\"The Assistant Commissioner told me to take charge of the inquiry without delay, sir,\" explained Winter. He glanced at his watch. \"We have not been long on the road. It is only ",
-    "quoteTime": "twenty minutes to eleven",
-    "quoteLast": ".\"",
-    "title": "The Strange Case of Mortimer Fenley",
-    "author": "Tracy, Louis, 1863-1928",
-    "gutenbergReference": "26447",
-    "hash": "065103a6a0adabce954b37593b7412b9479b79beca48fad1b63ae6f645cbe673"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "It was ",
-    "quoteTime": "twenty minutes to eleven",
-    "quoteLast": ". Leaning against the lamp-post, his eyes fixed on the long hand of his watch, he counted impatiently the minutes which had yet to pass. At eleven o'clock precisely Hermann walked up the steps, pushed open the street door, and went into the vestibule, which was well lighted.",
-    "title": "The Queen of Spades, and other stories",
-    "author": "Pushkin, Aleksandr Sergeevich, 1799-1837; Edwards, H. Sutherland, Mrs. [Translator]",
-    "gutenbergReference": "55024",
-    "hash": "8a0347b6c0a541a4223839b4281c5f2e64d73868fb3c8707cd0532723f54afff"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "VOYAGE ON THE ERIE CANAL FROM JULY 22ND, ",
+    "quoteFirst": "In order to observe how long the after-effects of light lasted, a pot with seedlings of Phalaris, which had germinated in darkness, was placed at ",
     "quoteTime": "10.40 A.M.",
-    "quoteLast": ", TILL JULY 29TH, 1.30 P.M.",
-    "title": "By Water to the Columbian Exposition",
-    "author": "Wisthaler, Johanna Sara, 1868-",
-    "gutenbergReference": "9408",
-    "hash": "5e7fec791e5bf9c508d6896a30817a0a3b6f18f4b2ca98007693f769e8519147"
+    "quoteLast": " before a north-east window, being protected on all other sides from the light; and the movement of a cotyledon was traced on a horizontal glass. It circumnutated about the same space for the first 24 m., and during the next 1 h. 33 m.",
+    "title": "The Power of Movement in Plants",
+    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "5605",
+    "hash": "53a5588beb316fbf6d534d9a9c006c65a12c8e9e4fdf5910b66f29d146b54e6b"
   },
   {
     "time": "10:40",
-    "quoteFirst": "Friday, 31st May, 1861.--Decamped at 7.30 A.M., having first breakfasted; passed between the sandhills at nine A.M., and reached the blanket mia-mias at ",
-    "quoteTime": "10.40 A.M.",
-    "quoteLast": "; from there proceeded on to the rocks, where I arrived at 1.30 P.M., having delayed about half-an-hour on the road in gathering some portulac. It had been a fine morning, but the sky now became overcast, and threatened to set in for steady rain; and as I felt very weak and tired, I only moved on about a mile further, and camped in a sheltered gully under some bushes.",
-    "title": "Successful Exploration Through the Interior of Australia\r\nFrom Melbourne to the Gulf of Carpentaria",
-    "author": "Wills, William John, 1834-1861",
-    "gutenbergReference": "5816",
-    "hash": "8e8e8dc399c46a30eebdb7ef9f731e0ed7112ab26f950768bed907772f84676e"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "\"We reached the summit about ",
-    "quoteTime": "10.40 A.M.",
-    "quoteLast": " and remained there till noon; the reading of a pocket thermometer in the shade was 41° F.",
-    "title": "The Glaciers of the Alps\r\nBeing a narrative of excursions and ascents, an account of the origin and phenomena of glaciers and an exposition of the physical principles to which they are related",
-    "author": "Tyndall, John, 1820-1893",
-    "gutenbergReference": "34192",
-    "hash": "f2c91fa35d674d4c101766f75bb201da66f45c830e6aa5be7fefa033435593a6"
-  },
-  {
-    "time": "10:40",
-    "quoteFirst": "Hermann walked backwards and forwards; then coming to a lamp he looked at his watch. It was ",
+    "quoteFirst": "\"I must go to bed,\" said Grace, breaking the significant silence that had fallen on the quartette. \"Come, Anne, it's ",
     "quoteTime": "twenty minutes to eleven",
-    "quoteLast": ". Leaning against the lamp-post, his eyes fixed on the long hand of his watch, he counted impatiently the minutes which had yet to pass. At eleven o'clock precisely Hermann walked up the steps, pushed open the street door, and went into the vestibule, which was well lighted. As it happened the porter was not there.",
-    "title": "The Strand Magazine, Vol. 01, January 1891\r\nAn Illustrated Monthly",
-    "author": "Various; Newnes, George, 1851-1910 [Editor]",
-    "gutenbergReference": "41613",
-    "hash": "1da882663083adce2755cf2441881678ef1f776e07c7fc8cb36f583284a575bb"
+    "quoteLast": ".",
+    "title": "Grace Harlowe's Third Year at Overton College",
+    "author": "Chase, Josephine, -1931",
+    "gutenbergReference": "20473",
+    "hash": "e040eb2630d885def1a0c9cc67201c68dba0fede61227c8ace6c3c90b7368e92"
+  },
+  {
+    "time": "10:40",
+    "quoteFirst": "Her hand was still in mine when I knew the end had come. I looked at my watch on the camp table. ",
+    "quoteTime": "Twenty minutes to eleven",
+    "quoteLast": ".",
+    "title": "I Walked in Arden",
+    "author": "Crawford, Jack Randall, 1878-1968",
+    "gutenbergReference": "35796",
+    "hash": "89cf040e3dc30c2c583435d62ce2f95c3c50301c73bf54c49f2b853aa9a81364"
   }
 ]

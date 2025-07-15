@@ -1,63 +1,123 @@
 [
   {
     "time": "05:01",
-    "quoteFirst": "“Next morning, the 5th of March (a day to be remembered in the annals of the Thirteenth Hussars), we moved off ",
+    "quoteFirst": "Once more I shut and locked the door, and lay for an hour or two thinking over the ghastly disturbance, and wondering who could have been the hapless victim. It was now ",
+    "quoteTime": "about five A.M.",
+    "quoteLast": ", and full dawn. As so often happens, even after the most sleepless night, I dozed off then, and slept for more than an hour, and during my sleep I dreamed--and this was my dream. It must first be noted that the wide staircase I have described as passing close to my room was thence continued upward to the next floor.",
+    "title": "Seen and Unseen",
+    "author": "Bates, E. Katherine (Emily Katherine)",
+    "gutenbergReference": "21041",
+    "hash": "1f050975b9fc409a240ac978a0d865c1ec3e486abddc19f2eaa4152fa7cc4b54"
+  },
+  {
+    "time": "05:01",
+    "quoteFirst": "Arrived here at ",
+    "quoteTime": "about five A.M.",
+    "quoteLast": ", after a nearly sleepless and utterly wretched night. Passed the flagship _Worcester_ and three other navy ships, the _Canandaigua_, _Bache_ and _Terror_.",
+    "title": "Three generations",
+    "author": "Elliott, Maud Howe, 1854-1948",
+    "gutenbergReference": "68804",
+    "hash": "27e540d212ad17c281fcb3a1c5b11e0900634afbd5feabe8207384b8cf52c605"
+  },
+  {
+    "time": "05:01",
+    "quoteFirst": "I came to Rome on the 4th of November, 1644, ",
+    "quoteTime": "about five at night",
+    "quoteLast": "; and being perplexed for a convenient lodging, wandered up and down on horseback, till at last one conducted us to Monsieur Petit's, a Frenchman, near the Piazza Spagnola. Here I alighted, and, having bargained with my host for twenty crowns a month, I caused a good fire to be made in my chamber and went to bed, being so very wet.",
+    "title": "The Diary of John Evelyn (Volume 1 of 2)",
+    "author": "Evelyn, John, 1620-1706; Garnett, Richard, 1835-1906 [Commentator]; Bray, William, 1736-1832 [Editor]",
+    "gutenbergReference": "41218",
+    "hash": "d70dc616fcfa90306b50030a623ca4c37d586a119b151656ce28cf7d37aeb964"
+  },
+  {
+    "time": "05:01",
+    "quoteFirst": "Did a hard night’s work and got back, feeling as if I could sleep for ever, ",
+    "quoteTime": "about 5 a.m.",
+    "quoteLast": "",
+    "title": "A Soldier's Diary",
+    "author": "Scott, Ralph",
+    "gutenbergReference": "66363",
+    "hash": "a413e917feefd7eedd93ed1fcefc69158f62988bf6adcfa0b5d64c07e007184a"
+  },
+  {
+    "time": "05:01",
+    "quoteFirst": "The wind fell ",
+    "quoteTime": "about five A.M.",
+    "quoteLast": " the second day; when the men at once took to their oars and by breakfast-time brought us to Edfu. Nothing now could be more delicious than the weather.",
+    "title": "A thousand miles up the Nile",
+    "author": "Edwards, Amelia B., 1831-1892",
+    "gutenbergReference": "70565",
+    "hash": "7ee4182d03105e3b706ea539e93f3a310cf8121b04392a79e02497ae76627b9b"
+  },
+  {
+    "time": "05:01",
+    "quoteFirst": "Accordingly I marched immediately towards Montay in a thick drizzling rain, which made this dismal country appear ten times more dismal. The cavalry regiments marched at the same time (",
+    "quoteTime": "about five A.M.",
+    "quoteLast": "?) and we kept company as far as Montay; but there they left us, for we found the road again so choked with baggage, &c., that although we succeeded in passing the bridge, yet the deep hollow road (_encaissé_ between very high steep banks), ascending to the opposite heights, was so inextricably crammed with carriages, and the unctuous soil so slippery, that I feared we should bivouac in the churchyard again.",
+    "title": "Journal of the Waterloo campaign, vol. 2 (of 2)",
+    "author": "Mercer, Cavalié, 1783-1868",
+    "gutenbergReference": "75873",
+    "hash": "595d1e5b05769ca2acb143c75eeb1c9550f462aed3148451b37598c3b67e270c"
+  },
+  {
+    "time": "05:01",
+    "quoteFirst": "The coachman opened a back-door in the hotel, and conducted me to a box-like bedroom, one bed in which was occupied by a young gentleman, who woke up and had a conversation with me on the difficulties of travel. I was too cold to sleep. ",
+    "quoteTime": "About five a.m.",
+    "quoteLast": " my companion lighted a candle, and after spending a considerable time in covering his head with pomatum, completed his toilet and left me. Shortly after this I had to rise to catch the train going from Emu Bay up to Waratah, which is the name of the settlement at Mount Bischoff.",
+    "title": "Colonial facts and fictions: Humorous sketches",
+    "author": "Milne, John, 1850-1913",
+    "gutenbergReference": "69580",
+    "hash": "def24862b957c7adaa2b6e562a3c697a45ac75b0f2b6b1028279654ad75c1e98"
+  },
+  {
+    "time": "05:01",
+    "quoteFirst": "One night we spent in a pretty old village, where the people were very hospitable. They made some of us a bed on a cottage floor, and gave us food. Said good-bye and left ",
     "quoteTime": "about 5 A.M.",
-    "quoteLast": " and proceeded up the Tigris, in the teeth of a terrible sand-storm, which blinded both horses and men, and through which we could only see 80 to 100 yards ahead of us. Suddenly, out to our front, we heard the sound of rifle-fire, and bullets whizzed amongst us.",
+    "quoteLast": " A few hours later we looked back and saw the flames of the place mounting to the sky. Fired by the enemy, was the fate of that village and many more for giving our troops shelter for a night.",
+    "title": "The War Stories of Private Thomas Atkins",
+    "author": "Milne, James, 1865-1951",
+    "gutenbergReference": "52142",
+    "hash": "eb69212bba985b0d82cee27efeccbefcbce30248e47c13ccfb816a4e81e0e32c"
+  },
+  {
+    "time": "05:01",
+    "quoteFirst": "I got back ",
+    "quoteTime": "about five that night",
+    "quoteLast": ". Here was Miss Lydia, cool and negligent on the porch, like she'd never had a care in the world; fresh dressed in something white and blue, with her niftiest hammock stockings, and tinkling the ukulele in a bored and petulant manner.",
+    "title": "Ma Pettengill",
+    "author": "Wilson, Harry Leon, 1867-1939",
+    "gutenbergReference": "14348",
+    "hash": "e54e94e3647917a2b6aeacf335967095a2f890b8460e1fe5280520fafe5b93a1"
+  },
+  {
+    "time": "05:01",
+    "quoteFirst": "_Tuesday 15._ Still Under Ballast-main Sail. ",
+    "quoteTime": "about 5 AM",
+    "quoteLast": ". the Gale abated. Loost Our fore Sail and took the Reef out of our Main Sail. about 7 AM. Saw the Land which proved to be Cape Maze.",
+    "title": "Privateering and Piracy in the Colonial Period\nIllustrative Documents",
+    "author": "Jameson, J. Franklin (John Franklin), 1859-1937 [Editor]",
+    "gutenbergReference": "24882",
+    "hash": "2f99dca64041fc92186353f0de6dd9886f5b8cec22445e6dbe582cfea9406467"
+  },
+  {
+    "time": "05:01",
+    "quoteFirst": "4 section, which was repulsed and followed up, but the pressing of the counter-attack was prevented by shrapnel. Attacks were also delivered on Quinn’s Post, Courtney’s Post, and along the front of our right section. At ",
+    "quoteTime": "about 5 A.M.",
+    "quoteLast": " the battle was fairly joined, and a furious cannonade was begun by a large number of enemy guns, including 12-inch and 9.2-inch, and other artillery that had not till then opened. By 9.30 A.M. the Turks were pressing hard against the left of Courtney’s and the right of Quinn’s Post.",
+    "title": "The Anzac Book",
+    "author": "Bean, C. E. W. (Charles Edwin Woodrow), 1879-1968 [Editor]",
+    "gutenbergReference": "70441",
+    "hash": "ecc9114fb799895b7b1095b897a93851a0569f6b34a57bd0380517e0bbd23a18"
+  },
+  {
+    "time": "05:01",
+    "quoteFirst": "A.M., and reached camp ",
+    "quoteTime": "about 5 A.M.",
+    "quoteLast": ", and groped about till we somehow got our lines down.” It was not a pleasant beginning to their soldiering in France, a curious contrast to the heat of the Red Sea--“the worst and coldest camp, I think, I have ever seen, about six inches deep in liquid mud, on the top of an exposed hill, with a bitter wind blowing. We are in tents, V.",
     "title": "The Thirteenth Hussars in the Great War",
     "author": "Durand, H. Mortimer (Henry Mortimer), 1850-1924",
     "gutenbergReference": "61769",
-    "hash": "3fb957debbe949739c21fe37661feeb136d59b00626d934c57712a63f75d642d"
-  },
-  {
-    "time": "05:01",
-    "quoteFirst": "When they got there, however, they found they were drawing so much shell fire that the R.E. officer decided not to proceed with the work. ",
-    "quoteTime": "About 5 a.m.",
-    "quoteLast": " next morning the Battalion moved forward to support, relieving the Seaforth Highlanders, who replaced the Black Watch in the front line, the latter taking our place in the reserve. The position of the Battalion now was two Companies in the Trench immediately behind North Station Buildings, and one Company in the strong points.",
-    "title": "The History of the 7th Battalion Queen's Own Cameron Highlanders",
-    "author": "Sandilands, James Walter; MacLeod, Norman, 1872-1960",
-    "gutenbergReference": "50301",
-    "hash": "d1bc496c9a0e3cd60bbcd6ea63d2bfba3e6f3ffaa600eba2747665128a3ec912"
-  },
-  {
-    "time": "05:01",
-    "quoteFirst": "Reserve Army Corps I then joined the other troops in the station square, and was suddenly ordered to destroy and set on fire two hotels from which firing had taken place during the whole time, and to fetch out the occupants. The principal culprits, however, evidently found an outlet in time over the roofs, for only the proprietor came out at ",
-    "quoteTime": "about 5 a.m.",
-    "quoteLast": ", and very soon he received his reward, as well as two priests who had distributed munition to the civilians. On the following morning we continued our march in the direction of Brussels, and on the way we were again violently fired at from different houses.",
-    "title": "The German Army in Belgium, the White Book of May 1915",
-    "author": "Germany. Auswärtiges Amt; Bennett, Ernest Nathaniel, 1865-1947 [Translator]",
-    "gutenbergReference": "54296",
-    "hash": "a16e9c244c5571087f909b390fdacbe9e7f8a09dfe899ef6c5376c12eaeb2f64"
-  },
-  {
-    "time": "05:01",
-    "quoteFirst": "In the advance, made in the dark, a company of the 92nd and one of the 60th, with a dismounted troop of hussars, were left at a point about midway between the hill and the camp, and the remainder stumbled on, and after great exertion, ",
-    "quoteTime": "about 5 a.m.",
-    "quoteLast": ", reached the summit. This was a saucer-shaped plateau about 1000 yards round, and when day broke, the presence of British soldiers produced wild confusion in the Boer camp. But not for long. While one portion hastened to man the trenches at Laing’s Nek, the rest rode towards Majuba, and, dismounting, opened fire.",
-    "title": "The Story of the British Army",
-    "author": "King, Charles Cooper",
-    "gutenbergReference": "52723",
-    "hash": "73384639724d16b1f6b295997dac17614edc8fd5868552528200b8411df411ee"
-  },
-  {
-    "time": "05:01",
-    "quoteFirst": "'I was taken prisoner ",
-    "quoteTime": "about 5 A.M.",
-    "quoteLast": " on 23rd instant by the Boers, being too far in front of my company to retire. I was allowed to go about 10 A.M. on the 25th, and rejoined my regiment.",
-    "title": "The War in South Africa, Its Cause and Conduct",
-    "author": "Doyle, Arthur Conan, 1859-1930",
-    "gutenbergReference": "24951",
-    "hash": "84cc76fd038b266cdcf0a89d5c83e8ceaee4ed3ad5c836131b1a91172ce59127"
-  },
-  {
-    "time": "05:01",
-    "quoteFirst": "After a time they incautiously moved across the Russians’ front, and immediately came under a steady fire, which, together with the fire of two guns, drove them over towards the British settlements. Here they were similarly dealt with by our sailors and marines; and ",
-    "quoteTime": "about 5 a.m.",
-    "quoteLast": " they drew off, having suffered heavily.",
-    "title": "The world's navies in the Boxer rebellion (China 1900)",
-    "author": "Dix, Charles Cabry",
-    "gutenbergReference": "70535",
-    "hash": "04151a7da198e86a30b49336339a5221f8586b65b47098a412b51013cb2b6036"
+    "hash": "15aa02318584f8b2f55a1b0e5be37a2266dce767de4a8e55a9db1b92292d015f"
   },
   {
     "time": "05:01",
@@ -71,132 +131,72 @@
   },
   {
     "time": "05:01",
-    "quoteFirst": "To Mendoza the journey is easy and pleasant. The train leaves the Retiro station at Buenos Aires at 8 a.m. and reaches Mendoza early the next morning at ",
-    "quoteTime": "about 5 a.m.",
-    "quoteLast": " The trains are extremely comfortable; the carriages are on the American plan and restaurant cars are attached; a reasonable amount of luggage is allowed. Only first and second (we should less logically say first and third) carriages are in use and the fares are high.",
-    "title": "Argentina",
-    "author": "Hirst, W. A. (William Alfred), 1870-1948; Hume, Martin A. S. (Martin Andrew Sharp), 1847-1910 [Author of introduction, etc.]",
-    "gutenbergReference": "40069",
-    "hash": "42ffd82fce8dbbf2fde49cbbb595297a94f97296b9dcc7827b1794daa324ddac"
+    "quoteFirst": "",
+    "quoteTime": "A little after 5 A.M.",
+    "quoteLast": " I got up, and went out at daybreak to visit the sick within the fort. I found Monsoor waiting by my door.",
+    "title": "Ismailia",
+    "author": "Baker, Samuel White, Sir, 1821-1893",
+    "gutenbergReference": "3607",
+    "hash": "0e89f32833a884b4acc9383b26ead41f0fc7e819099b9f206cee0172fea40c66"
   },
   {
     "time": "05:01",
-    "quoteFirst": "To cut a long story short, the lugger was eventually taken into Harwich, having been discovered seventeen miles from the French coast and eleven from the English shore. Assuming the lugger had travelled at about four knots an hour, this would mean that she had started off from the English beach on her return journey ",
-    "quoteTime": "about 5 A.M.",
-    "quoteLast": ", the previous hours of the night having doubtless been spent in unloading the tubs somewhere between Folkestone and Dungeness or perhaps Rye. Thus Hugnet, having at last been caught, had to stand his trial for both this and the occurrence of the previous month.",
-    "title": "King's Cutters and Smugglers 1700-1855",
-    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
-    "gutenbergReference": "17563",
-    "hash": "8a1bb537b802263b606d6bc49974785f67a634e327e3914b6927b30bafa9c213"
+    "quoteFirst": "Lightened by the flames she floated off the bar and drifted, a huge pyramid of fire, down the river illuminating its broad expanse till all was bright as day, and revealing the shattered vessels of the fleet as they hastily steamed out of the way of their dangerous consort. Long after she had passed around the bend the light of the flames reflected on the sky marked her progress. ",
+    "quoteTime": "About 5 A. M.",
+    "quoteLast": ", when at almost the identical spot where the Confederate ram “Arkansas” was blown up, the fire reached the magazine and the “Mississippi” existed only in story. The shock of the explosion was felt at Port Hudson, twenty miles distant.",
+    "title": "Company K, First Alabama Regiment; or, Three Years in the Confederate Service",
+    "author": "Smith, Daniel P.",
+    "gutenbergReference": "63820",
+    "hash": "bdc07d75097c178cce0af3570a66131c295845e5fa69b32376b2b6c803e8ff48"
   },
   {
     "time": "05:01",
-    "quoteFirst": "Higginson, who took command, and the section of 'G' company, when the Gloucesters helped us in every way, and made us as comfortable as they possibly could. All that day we were left in comparative peace, there being no firing on either side; but the next morning ",
-    "quoteTime": "about 5 a.m.",
-    "quoteLast": " the Boers opened with 'Long Tom' from Pepworth Hill, and commenced a duel of some hour's duration with our naval 4·7, which was placed on Junction Hill. They also kept up a continual cannonade with their long-range twelve-pounders, but did little or no damage, as they had not yet discovered the exact location of our camps.",
-    "title": "The Second Battalion Royal Dublin Fusiliers in the South African War\nWith a Description of the Operations in the Aden Hinterland",
-    "author": "Romer, Cecil Francis, 1869-; Mainwaring, Arthur Edward, 1864-",
-    "gutenbergReference": "25618",
-    "hash": "cadac8cc75d24865b77421e386aa3049bed47b02f6dda72b526b212768f99d3b"
+    "quoteFirst": "So without slackening speed he took it off and cast it behind him into the darkness. Figuratively speaking, he breathed easier when he crossed the state line at or ",
+    "quoteTime": "about five A.M.",
+    "quoteLast": " As a matter of fact, though, he was breathing harder. Some hours elapsed before he caught up with his panting.",
+    "title": "Sundry Accounts",
+    "author": "Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944",
+    "gutenbergReference": "27439",
+    "hash": "2f05d1383ff24ad567faef700df547ecb8365c8d1bcb2c365fadee9310ee0a83"
   },
   {
     "time": "05:01",
-    "quoteFirst": "I could not believe I was watching the first line, as this seemed to me to be a return to old-fashioned tactics. But there could be no doubt as to their formation. The engagement attained its fiercest stage ",
-    "quoteTime": "about five a.m.",
-    "quoteLast": " About this time the fort at Fléron was silenced. I was afterwards told that the German fire had smashed much of the machinery of the disappearing gun carriages.",
-    "title": "The Campaign Round Liège",
-    "author": "Kennedy, J. M. (John McFarland); Courtney, W. L. (William Leonard), 1850-1928 [Author of introduction, etc.]",
-    "gutenbergReference": "56316",
-    "hash": "3eebb33aefcb11e9c9fcc67d34bf0d0ae3c40e0e7fafabf651bf51ecb51bd481"
-  },
-  {
-    "time": "05:01",
-    "quoteFirst": "_Nov. 13th._—We were out riding ",
-    "quoteTime": "about 5 A.M.",
-    "quoteLast": "; the sky was cloudy, with a rainy appearance, and we saw a great number of meteors falling in every direction; at first I did not know what they were; afterwards I counted eight; two of them fell, leaving a stream of blue light for a second, and then vanished. I never before observed these meteors.",
-    "title": "Wanderings of a pilgrim in search of the picturesque, Volume 1 (of 2)",
-    "author": "Parlby, Fanny Parkes, 1794-1875",
-    "gutenbergReference": "74042",
-    "hash": "991d8acc5c7184a898fd61a36e83c7ff60d43e5e102ab45cd01c2c9db8a2599e"
-  },
-  {
-    "time": "05:01",
-    "quoteFirst": "It was a beautiful moonlight night and I stood and watched the bombs from the mortar boats curling around in the sky and bursting in a fiery show, making a splendid sight. The night passed quietly, save for a couple of false alarms. At ",
-    "quoteTime": "about 5 o'clock A.M.",
-    "quoteLast": ", Jared Wells, my old tent mate, and I went out blackberrying. In a little while we had enough for a good meal for ourselves and some for the boys in camp.",
-    "title": "The Twenty-fifth Regiment Connecticut Volunteers in the War of the Rebellion",
-    "author": "Bissell, George P. (George Perkins), 1820-1891; Ellis, Samuel K. (Samuel Kimball), 1839-1918; Goodell, Henry Hill, 1839-1905; McManus, Thomas, 1834-1914",
-    "gutenbergReference": "24307",
-    "hash": "9cc04812f04a2a394475e15bd8de8e0b81d07e600ada431289292a0db3818cf6"
-  },
-  {
-    "time": "05:01",
-    "quoteFirst": "“_Tuesday, 23rd August._—Mrs. Barbara Mowbray, Curle's wife, had a daughter ",
-    "quoteTime": "about 5 o'clock a.m.",
-    "quoteLast": "",
-    "title": "The Last Days of Mary Stuart, and the journal of Bourgoyne her physician",
-    "author": "Cowan, Samuel, 1835-1914; Bourgoing, Dominique, -1589 [Contributor]",
-    "gutenbergReference": "54944",
-    "hash": "9234f2b64e599eab3c5aefd6a8b4414b645731e4830d61ec07703b3a9439fc04"
-  },
-  {
-    "time": "05:01",
-    "quoteFirst": "_July 4._ Got back to billets ",
-    "quoteTime": "about 5 a.m.",
-    "quoteLast": ", having been on my feet twenty-six hours. Had a few hours’ sleep and went forward again with ten men, showing them the tracks, etc.",
-    "title": "A Soldier's Diary",
-    "author": "Scott, Ralph",
-    "gutenbergReference": "66363",
-    "hash": "e2afbb9e1894490519c38151d87d87afe2694253a442b8d59edc803d86f2f9df"
-  },
-  {
-    "time": "05:01",
-    "quoteFirst": "An hour later, a more important, though by no means a strong, shock occurred; this was perceptible all over the Riviera, in Piedmont, and in Corsica; in other words, it disturbed a region agreeing closely with the central area of the disastrous shock. At ",
-    "quoteTime": "about 5 A.M.",
-    "quoteLast": ", a fifth shock, somewhat weaker than the preceding, was felt over the same area, concurrently, or nearly so, with another abnormal oscillation of the tide-gauge at Genoa; while a sixth shock was noticed at several places a few minutes before the great shock.",
-    "title": "A Study of Recent Earthquakes",
-    "author": "Davison, Charles, 1858-1940",
-    "gutenbergReference": "25062",
-    "hash": "51a4c8f8683d72d0c60ca0a7dc3d6140d4bec9a7336634443d75e50d134103bb"
-  },
-  {
-    "time": "05:01",
-    "quoteFirst": "The attack commenced ",
-    "quoteTime": "about 5 a.m.",
-    "quoteLast": " Four times the enemy were led to the assault, and as many times they were repulsed. At about 6.30 a.m. the remainder of the 46th and some local militia arrived, and the struggle continued; but not without loss on our side, Major Nunn and Captain O'Connell, 1st West India Regiment, being wounded, the former mortally, and four men killed.",
-    "title": "The History of the First West India Regiment",
-    "author": "Ellis, A. B. (Alfred Burdon), 1852-1894",
-    "gutenbergReference": "29984",
-    "hash": "86fe7ba7097bcbe845d828f87001192d8588c157f71edb27041f04a7b355255d"
-  },
-  {
-    "time": "05:01",
-    "quoteFirst": "[69] Canonge, after two inquiries on the spot, and with written evidence in addition, says that the 42nd Division left Broyes between 2 and 3 pm., reached Linthelles about 5 p.m., stopped there, and then bivouacked in the zone Linthes–Linthelles–Ognes–Pleurs, passing the night there “in general reserve,” and moving away only ",
-    "quoteTime": "about 5 a.m.",
-    "quoteLast": " on September 10. Fère Champènoise, he adds, was evacuated by the Germans, after an orgie of 24 hours, at about 5.30 p.m. on the 9th, but was traversed during the greater part of the night by German troops coming from Connantre and Gourgancon.",
-    "title": "The Battle of the Marne",
-    "author": "Perris, G. H. (George Herbert), 1866-1920",
-    "gutenbergReference": "55221",
-    "hash": "a3fd4b4a9d03ff2d2e95d10f67a4e3f0d0fb2ab305974f1683167ffbd00365a1"
-  },
-  {
-    "time": "05:01",
-    "quoteFirst": "Now, however, we knew just what was expected of us every day. Our duties commenced soon after daylight, ending at 9 P. M. At ",
+    "quoteFirst": "John says, “The first begotten of the dead.” He arose on Sunday morning, the first day of the week, before sunrise—say ",
     "quoteTime": "about 5 A. M.",
-    "quoteLast": " we were aroused from our slumbers by the beating of the reveille, which duty was performed by Drum Major Ben. West and his fife and drum band, when each man was required to turn out, take his place in line in the company street, and answer to his name.",
-    "title": "History of Company F, 1st Regiment, R.I. Volunteers, during the Spring and Summer of 1861",
-    "author": "Clarke, Charles H.",
-    "gutenbergReference": "28481",
-    "hash": "8c587383d9eee350a9167f643ce3646974cd9015d8f53ed963c145dd439c9f7f"
+    "quoteLast": "—having been dead about thirty-eight hours. Thus he fulfilled the type in Lev. xxiii: 10-11 verses—the first fruits of the harvest, the handful of barley, called the wafe sheaf, which was waved by the priest, with the offering of a lamb, [emblem of Christ,] as first fruits of the resurrection, on the morrow after the Sabbath—the 16th of the first month—the Sabbath, or feast day, always being on the 15th of the same month. Then, from the 14th, at 3 P. M.",
+    "title": "A Vindication of the Seventh-Day Sabbath and the Commandments of God\r\nWith a Further History of God's Peculiar People from 1847-1848",
+    "author": "Bates, Joseph, 1792-1872",
+    "gutenbergReference": "30531",
+    "hash": "1b56eba99ff3363f4c7030f3dfe1d68899ac32ee8f248fabb5a0b7c8a19cbd88"
   },
   {
     "time": "05:01",
-    "quoteFirst": "_August 17th._--Suvla Bay. Tuesday, 2 p.m. We landed at Suvla Bay ",
+    "quoteFirst": "Congratulations over, chairs are cleared away, rugs taken up and the room made ready for dancing till supper, Leschetizky playing for at least part of the evening. Toasts, speeches, stories, and laughter fill the hours till early morning, when, ",
     "quoteTime": "about 5 a.m.",
-    "quoteLast": " and marched to the point of the projecting piece of land on the north side. The bay is entirely closed by a boom, and inside we have a fairly large fleet of battleships and transports, and a large number of smaller boats, while three hospital ships lie outside.",
-    "title": "The Incomparable 29th and the \"River Clyde\"",
-    "author": "Davidson, George",
-    "gutenbergReference": "25342",
-    "hash": "83b1da27adad61e0f920ecee5014c37547e31b3639518437016ddbb2f6235a98"
+    "quoteLast": ", a happy, but exhausted, procession streams homeward, stopping on the way at some café--if it is not yet 6 o'clock--to make sure the hall-porter, with his dripping candle and everlasting demand for his ten-kreutzer fee, will be safely gone to his lair.",
+    "title": "Theodor Leschetizky",
+    "author": "Hullah, Annette",
+    "gutenbergReference": "43915",
+    "hash": "c84630a466d1cb55c8c1b27ee1c74d0d453dec58c5189a808a0cb48c546300b6"
+  },
+  {
+    "time": "05:01",
+    "quoteFirst": "We were out at rest in an open field on the Somme front when one morning, ",
+    "quoteTime": "about 5 a.m.",
+    "quoteLast": ", our cook, Alf, of Battersea, was preparing the company's breakfast. There was bacon, but no bread. I was standing beside the cooker soaking one of my biscuits in the fat.",
+    "title": "500 of the Best Cockney War Stories",
+    "author": "Various; Hamilton, Ian, 1853-1947 [Contributor]; Thomas, Bert, 1883-1966 [Illustrator]",
+    "gutenbergReference": "44263",
+    "hash": "c5a213425482e14394512084399aff802ad000f3ca5a72eb0a9d48822465b959"
+  },
+  {
+    "time": "05:01",
+    "quoteFirst": "“",
+    "quoteTime": "One minute past five",
+    "quoteLast": ",” replied Gideon Spilett directly. They had now only to calculate the operation. Nothing could be easier. It could be seen that there existed, in round numbers, a difference of five hours between the meridian of Washington and that of Lincoln Island, that is to say, it was midday in Lincoln Island when it was already five o’clock in the evening in Washington.",
+    "title": "The Mysterious Island",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "1268",
+    "hash": "8eab349acc2f3c19c79cbb84f65da561fbea812995e03c89edd77b5d0988272c"
   }
 ]

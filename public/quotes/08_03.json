@@ -1,93 +1,183 @@
 [
   {
     "time": "08:03",
-    "quoteFirst": "It was now ",
-    "quoteTime": "about eight o'clock in the morning",
-    "quoteLast": ", and Okun, the hunter's friend, having had his early morning meal, went out with his gun to receive payment of the two hundred rods he had lent to the hunter. When he got close to the house he heard a crunching sound, and, being a hunter himself, he approached very cautiously, and looking over the fence saw the leopard only a few yards off busily engaged eating the goat.",
-    "title": "Folk Stories from Southern Nigeria, West Africa",
-    "author": "Dayrell, Elphinstone, 1869-1917; Lang, Andrew, 1844-1912 [Author of introduction, etc.]",
-    "gutenbergReference": "34655",
-    "hash": "161bb96ca7b500b97cebb8853f2a897b4e697545e7f6bbb726046354572ee516"
-  },
-  {
-    "time": "08:03",
-    "quoteFirst": "\"When we arose in the morning the sky was lowering, the air dark; the wind blew in puffs, and--unusual enough at the time of the year--it felt raw and searching. If you took the trouble to look towards the hills ",
-    "quoteTime": "about eight a.m.",
-    "quoteLast": " you might have seen a towering column of sand from the rocky hills, mixed with powdered silt from the arid plains, flying away as fast as it could from the angry puffing Boreas.",
-    "title": "The Life of Captain Sir Richard F. Burton, volume 1 (of 2)\r\nBy His Wife, Isabel Burton",
-    "author": "Burton, Isabel, Lady, 1831-1896",
-    "gutenbergReference": "54578",
-    "hash": "fa2fca2c3af4d1eeaa1b51243aca7eea2c49ed8dddcfe848a82c3168e490e4e7"
-  },
-  {
-    "time": "08:03",
-    "quoteFirst": "\"The Erbprinz, who is still rather to northeastward, that is to rightward, not directly frontward, of Du Muy's lines; and whose plan of attack is still dark to Du Muy, commences [",
-    "quoteTime": "about 8 A.M.",
-    "quoteLast": ", I should guess] by launching his British Legion so called,--which is a composite body, of Free-Corps nature, British some of it ('Colonel Beckwith's people,' for example), not British by much the most of it, but an aggregate of wild strikers, given to plunder too:--by launching his British Legion upon Warburg Town, there to take charge of Du Muy's right wing.",
-    "title": "History of Friedrich II of Prussia — Volume 20",
-    "author": "Carlyle, Thomas, 1795-1881",
-    "gutenbergReference": "2120",
-    "hash": "b69755810319db834eaa20050bfd249ba239f42bcad98653327b4c6452c37032"
-  },
-  {
-    "time": "08:03",
-    "quoteFirst": "Two Days after, the Mate ",
-    "quoteTime": "about Eight in the Morning",
-    "quoteLast": ", ordered a Man to the Mast-head, who spied a Sail, which made them prepare for an Engagement. There was on board one _Joseph Williams_, who had served the _African_ Company three Years on the _Guiney_ Coast, who spoke the Negroe Tongue very well; he told the Slaves he had pick'd out to the Number of 50, that the Ship in Sight he believed would fight them, and if they got the better, would certainly, as they were Cannibals, kill and eat them all, and therefore it behoved them to fight for their Lives; they had Lances and small Arms given them.",
-    "title": "The History of the Pyrates. Vol. II.\r\nContaining the lives of Captain Misson, Captain Bowen, Captain Kidd, Captain Tew, Captain Halsey, Captain White, Captain Condent, Captain Bellamy, Captain Fly, Captain Howard, Captain Lewis, Captain Cornelius, Captain Williams, Captain Burgess, Captain North, and their several crews",
-    "author": "Defoe, Daniel, 1661?-1731",
-    "gutenbergReference": "57005",
-    "hash": "d3bddf7b3311ade9384ed3df81cff44050f5bf692891584c8e374e64affec556"
-  },
-  {
-    "time": "08:03",
-    "quoteFirst": "It was ",
-    "quoteTime": "about eight o'clock in the morning",
-    "quoteLast": " when my boat reached this burning ghat. Already one body had been placed on a funeral pyre of wood.",
-    "title": "The Critic in the Orient",
-    "author": "Fitch, George Hamlin, 1852-1925",
-    "gutenbergReference": "27233",
-    "hash": "60554731d06d35bc4f1302d9d7d57ddf6b4a7d8c20ef951896fb6d1c5e1b0c2d"
-  },
-  {
-    "time": "08:03",
-    "quoteFirst": "He expected, he says, to hear from Ney what the result of his operations had been; but that officer, furious with the Emperor for having, as he supposed, withdrawn the 1st Corps without notice from his command,[451] vouchsafed no report to headquarters. Finally, ",
-    "quoteTime": "about 8 A.M.",
-    "quoteLast": ", General Flahaut, the Emperor’s aide, who had carried the letter to Ney the previous morning and had remained with him during the day, returned to Napoleon and brought him the first information of the battle of Quatre Bras.",
-    "title": "The Campaign of Waterloo: A Military History\r\nThird Edition",
-    "author": "Ropes, John Codman, 1836-1899",
-    "gutenbergReference": "56995",
-    "hash": "fee4cbe33ff1968338a56a12fb32049f5dfb2a2065f63510ebf497f6757ecbec"
-  },
-  {
-    "time": "08:03",
-    "quoteFirst": "A net-work of paths showed that we were approaching a populous place; and presently men swarmed forth from their hive-shaped tents, testifying their satisfaction at our arrival, the hostile Habr Awal having threatened to \"eat them up.\" We rode cautiously, as is customary, amongst the yeaning she-camels, who are injured by a sudden start, and ",
-    "quoteTime": "about 8 A.M.",
-    "quoteLast": " arrived at our guide's kraal, the fourth station, called \"Gudingaras,\" or the low place where the Garas tree grows. The encampment lay south-east (165°) of, and about twenty miles from, Zayla.",
+    "quoteFirst": "",
+    "quoteTime": "About 8 A.M.",
+    "quoteLast": " the Somal sent us gifts of citrons, plantains, sugar-cane, limes, wheaten bread, and stewed fowls. At the same time the house became full of visitors, Harari and others, most of them pretexting inquiries after old Sultan's health.",
     "title": "First Footsteps in East Africa",
     "author": "Burton, Richard Francis, Sir, 1821-1890",
     "gutenbergReference": "6886",
-    "hash": "e94259ced7952bf690e67fb47c136ff2ba3ca45b0650088f4dbed3687390ecb0"
+    "hash": "346a8475cced6f2251dc6861099a7d3f1c773014c27287b6cd45a7b4c4eabde1"
   },
   {
     "time": "08:03",
-    "quoteFirst": "'",
-    "quoteTime": "Three minutes past eight",
-    "quoteLast": ",' he remarked.  'Half a dozen pairs of gloves for me, I think.  Shall I go in and see about a table or would you rather dine somewhere else?'",
-    "title": "Ambrose Lavendale, Diplomat",
-    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
-    "gutenbergReference": "55760",
-    "hash": "c5a9de33924033fc6c5a44eb02854506ec079302105ab3a6e3fb7079cea005be"
+    "quoteFirst": "The objection, considering the thinly-veiled hostility of the two parties, was not unreasonable.  Jack gave up the idea of a banquet, and, ",
+    "quoteTime": "about eight o'clock in the morning",
+    "quoteLast": ", went with Barney and Lepoko to the site of his original camp, where he found Boloko and half a dozen of his men already assembled.",
+    "title": "Samba: A Story of the Rubber Slaves of the Congo",
+    "author": "Strang, Herbert; Rainey, W. (William), 1852-1936 [Illustrator]",
+    "gutenbergReference": "39061",
+    "hash": "d29f779568881a2ca858bc3a64cfb1e388808fc03c20c0948e177bbb6d3cd16e"
   },
   {
     "time": "08:03",
-    "quoteFirst": "Upon inquiry I found that what the miner had said was true. Three prisoners, two of them Indian murderers, with another man notoriously bad, had indeed been hung ",
-    "quoteTime": "about eight o'clock that morning",
-    "quoteLast": " in the barracks courtyard. In less than two hours afterward they were interred, and in as many days they were forgotten.",
-    "title": "A Woman who went to Alaska",
-    "author": "Sullivan, May Kellogg",
-    "gutenbergReference": "22409",
-    "hash": "5748ba0ccffcbcc8e7d4a00110abc65a8dfeadb2380ff445110944e5b94bc7d5"
+    "quoteFirst": "Our stores consisted of three bags of pemmican, seventy reindeer tongues, one half-hundred weight of flour, some tea, chocolate, and sugar, and a little alcohol and oil for fuel. At first the weather was far from favourable for travelling, as there was a gale of wind with snow, but ",
+    "quoteTime": "about 8 A.M.",
+    "quoteLast": " the sky cleared up, and the day became as fine as could have been wished. The sun shone forth with great brightness, surrounded by a halo of the most brilliant colours, with four parhelia that rivalled the sun himself.",
+    "title": "Narrative of an Expedition to the Shores of the Arctic Sea in 1846 and 1847",
+    "author": "Rae, John, 1813-1893",
+    "gutenbergReference": "39917",
+    "hash": "a306bc8019cac2d346a4ce909dab3d75212ff8f995f1acc0db2581dc60bb5c72"
+  },
+  {
+    "time": "08:03",
+    "quoteFirst": "",
+    "quoteTime": "About eight o'clock in the morning",
+    "quoteLast": " the old doctor came out of the room, and Maurice knew in a moment the nature of his tidings.",
+    "title": "Prince Fortunatus",
+    "author": "Black, William, 1841-1898",
+    "gutenbergReference": "16217",
+    "hash": "ef8aeb4ba461ba22d78787b122895636042f06f4577de8b209a9265e0abf16ce"
+  },
+  {
+    "time": "08:03",
+    "quoteFirst": "They were then at Antelope's village, about two days. On the third day, ",
+    "quoteTime": "about eight o'clock in the morning",
+    "quoteLast": ", Leopard came there as if for a walk. When Antelope saw him, Goat and his mother hid themselves; and Antelope asked Leopard, \"What is your anger? Why are you angry with my nephew?\"",
+    "title": "Where Animals Talk: West African Folk Lore Tales",
+    "author": "Nassau, Robert Hamill, 1835-1921",
+    "gutenbergReference": "58900",
+    "hash": "899d1d1fa5dccc26fa47d9d464e7ebeea3961898e4d61babc1b93e75f824878c"
+  },
+  {
+    "time": "08:03",
+    "quoteFirst": "As soon as the day began to break, the young men rose, and some peasants on their way to work pointed out the way to the château. They arrived there ",
+    "quoteTime": "about eight in the morning",
+    "quoteLast": " and met in the courtyard Monsieur Férulus, who had his big steel buttons on his coat, and who carried under his arm a large bundle of books, as on the day that he had come to establish himself at La Roche-Noire.",
+    "title": "The White House (Novels of Paul de Kock Volume XII)",
+    "author": "Kock, Paul de, 1793-1871",
+    "gutenbergReference": "40712",
+    "hash": "0bad76b5a512fe43389b5c21a20f2ad92c0e44c9ec7aa5a8938365df7d2d130d"
+  },
+  {
+    "time": "08:03",
+    "quoteFirst": "\"When you please,\" said Helen. \"Let it be ",
+    "quoteTime": "about eight in the morning",
+    "quoteLast": ".\"",
+    "title": "The Prussian Terror",
+    "author": "Dumas, Alexandre, 1802-1870; Garnett, R. S. (Robert Singleton), 1866-1932 [Translator]",
+    "gutenbergReference": "36016",
+    "hash": "c1b007ac62c96f689959eb558de4aa51f8f586a99ffd26da3ad9a3c764658e9b"
+  },
+  {
+    "time": "08:03",
+    "quoteFirst": "The coach came up ",
+    "quoteTime": "about eight in the morning",
+    "quoteLast": ". The General declared that he would go no farther, but return to New Orleans. Now, the truth was, he wished to go back to meet that young lady.",
+    "title": "Two Wars: An Autobiography of General Samuel G. French\r\nMexican War; War between the States, a Diary; Reconstruction Period, His Experience; Incidents, Reminiscences, etc.",
+    "author": "French, Samuel Gibbs, 1818-1910",
+    "gutenbergReference": "45603",
+    "hash": "2a8fbb56794314eed4669b3957d6fb7e856bbacaa59c21e490518e0b4b8affaa"
+  },
+  {
+    "time": "08:03",
+    "quoteFirst": "The new operation was to consist of an attack upon Hartennes Forest, the Twelfth French Division working round the south and the Fifteenth Scots Division round the north end of it, both meeting to the east, with Droisy as an ultimate objective.  The attacking troops were concealed so far as possible in the cornfields on July 31, and went forward ",
+    "quoteTime": "about eight o'clock in the morning",
+    "quoteLast": " of August 1, after the completion of a successful French advance further down the line.  The brunt of this new advance was borne by the 6th Camerons and 13th Royal Scots of the 45th Brigade (Orr-Ewing), together with the 10th Scots Rifles and 7/8th Scottish Borderers of the 46th Brigade (Fortune).",
+    "title": "The British Campaign in France and Flanders—July to November, 1918",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "gutenbergReference": "65047",
+    "hash": "8390cb80ae1b52331cf42ad28246f351b18c361cacb935bb901621c4abd7048a"
+  },
+  {
+    "time": "08:03",
+    "quoteFirst": "The start late, ",
+    "quoteTime": "about 8 a.m.",
+    "quoteLast": ", an hour later than ordered. Loads must be arranged better if anything is to be done efficiently. Gyalzen's response to being hustled is to tie knots or collect tent pegs--with no idea of superintending operations.",
+    "title": "Mount Everest, the Reconnaissance, 1921",
+    "author": "Howard-Bury, Charles, 1881-1963; Mallory, George, 1886-1924; Wollaston, A. F. R. (Alexander Frederick Richmond), 1875-1930",
+    "gutenbergReference": "39421",
+    "hash": "f4331f3da8639d611b423581930fa819dfb2aeb59238a0b55e3776fc05b915cf"
+  },
+  {
+    "time": "08:03",
+    "quoteFirst": "Before the procession starts, the heads of the buffaloes are put in front of the shrine, with the right forelegs in their mouths, and the fat from the entrails smeared about half an inch thick over the whole face, and a large earthen lamp on the top of each head. The Pambalas play tom-toms, and chant a long story about Gangamma till daybreak, and ",
+    "quoteTime": "about 8 A.M.",
+    "quoteLast": " they put the buffalo heads into separate baskets with the lighted lamps upon them, and these are carried in procession through the town to the sound of tom-toms. All castes follow, shouting and singing.",
+    "title": "Castes and Tribes of Southern India. Vol. 4 of 7",
+    "author": "Thurston, Edgar, 1855-1935; Rangachari, K. [Contributor]",
+    "gutenbergReference": "42994",
+    "hash": "4aaa261b8f43e3a173bb41b045b8e954edcfb75bbca1b8dde5dc569ea6228764"
+  },
+  {
+    "time": "08:03",
+    "quoteFirst": "",
+    "quoteTime": "About eight in the morning",
+    "quoteLast": " of May 29 the enemy renewed his attack, pushing in here and there along the line in search of a gap.  One attempt was made upon the Twenty-first Division, from Branscourt to Sapicourt, which was met and defeated by the 1st Lincolns and 6th Leicesters.",
+    "title": "The British Campaign in France and Flanders—January to July, 1918",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "gutenbergReference": "65046",
+    "hash": "3777e56de6a266c9763e4af65c7adc9caaf8f27506330be399eb5f1e68d49a46"
+  },
+  {
+    "time": "08:03",
+    "quoteFirst": "The move commenced on October 19th, the battalion leaving the village ",
+    "quoteTime": "about 8 a.m.",
+    "quoteLast": " to join the Brigade column. At St. Hilaire, as elsewhere in France, as well as in England, the battalion had become very popular with their hosts, and many a tear was shed and many a kindly \"God-speed\" uttered as we moved off. It was a good long march, about fifteen miles in all, and though the day was cool a few fell out.",
+    "title": "The History of the 2/6th (Rifle) Battalion, \"the King's\" (Liverpool Regiment) 1914-1919",
+    "author": "Wurtzburg, C. E. (Charles Edward), 1891-1952",
+    "gutenbergReference": "49875",
+    "hash": "75fa4cac89cf52badfd3298ed3c0c2296e771bf3927f63bfcb76329af08bc46c"
+  },
+  {
+    "time": "08:03",
+    "quoteFirst": "_April 14th._--Heavy firing began downstream just before the dawn. It continued till ",
+    "quoteTime": "about 8 a.m.",
+    "quoteLast": "",
+    "title": "The Secrets of a Kuttite\nAn Authentic Story of Kut, Adventures in Captivity and Stamboul Intrigue",
+    "author": "Mousley, Edward O. (Edward Opotiki), 1886-",
+    "gutenbergReference": "41213",
+    "hash": "7d6c9302f266965d0a4b25bc0bd44cf6297719c8afc2a7c2c09e3219d8723c39"
+  },
+  {
+    "time": "08:03",
+    "quoteFirst": "=Thursday, 20th September.=—",
+    "quoteTime": "About 8 a.m.",
+    "quoteLast": " we sighted a vessel right ahead about 10 miles distant and at 2 p.m. we were almost within speaking distance. She proved to be the barque _Araquita_, from England bound to Rio Janeiro.",
+    "title": "The Colonial Clippers",
+    "author": "Lubbock, Basil, 1876-1944",
+    "gutenbergReference": "52897",
+    "hash": "429231c3885bdbd596a65ac9711f081d98875aad5c0308f4007ba5a1cec6334e"
+  },
+  {
+    "time": "08:03",
+    "quoteFirst": "He entered Portsmouth ",
+    "quoteTime": "about eight o’clock in the morning",
+    "quoteLast": ". The whole population was on foot; drums were beating in the streets and in the port; the troops about to embark were marching toward the sea.",
+    "title": "The three musketeers",
+    "author": "Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888",
+    "gutenbergReference": "1257",
+    "hash": "3218098ab2cb6681b81a8c3faf2c32838de03f95cff0895859f6a4e40a06fdd9"
+  },
+  {
+    "time": "08:03",
+    "quoteFirst": "But the latter must have singularly underrated Jackson's methods, if he thought he could strike him at a given point, so many hours after his passage. For Jackson was first observed near the Furnace ",
+    "quoteTime": "about eight A.M.",
+    "quoteLast": ", and Sickles was just getting ready to attack him in this same place at six P.M.",
+    "title": "The Campaign of Chancellorsville",
+    "author": "Dodge, Theodore Ayrault, 1842-1909",
+    "gutenbergReference": "5715",
+    "hash": "42de9a5b3087b26bc5dba63f76cbcac2e8254c59d54bb339fe7a2ef7470ed81f"
+  },
+  {
+    "time": "08:03",
+    "quoteFirst": "During the early hours of the 23rd the sun was visible, but ",
+    "quoteTime": "about 8 A.M.",
+    "quoteLast": "",
+    "title": "The Home of the Blizzard\r\nBeing the Story of the Australasian Antarctic Expedition, 1911-1914",
+    "author": "Mawson, Douglas, Sir, 1882-1958",
+    "gutenbergReference": "6137",
+    "hash": "a1462667d6e80bcbd5f7d977bb84faf59c76e0e61c1a33f1a6d4c900e052cd2c"
   },
   {
     "time": "08:03",
@@ -101,102 +191,12 @@
   },
   {
     "time": "08:03",
-    "quoteFirst": "The entertainment began ",
-    "quoteTime": "about eight o'clock in the morning",
-    "quoteLast": ", but we arrived a little after noon, and we two women, Miss Grace Maccomaughey and I, were ushered through the courtyards till we came to the interior one, which was crowded with all manner of folks, some in festive array, some servants in the ordinary blue of the country, and some beggars in rags who were anticipating the scraps that fall from the rich man's table, and were having tea and cake already.",
-    "title": "A Broken Journey\r\nWanderings from the Hoang-Ho to the Island of Saghalien and the Upper Reaches of the Amur River",
-    "author": "Gaunt, Mary, 1861-1942",
-    "gutenbergReference": "54402",
-    "hash": "190191a396e338c224083235e963189edb263e25f64ae3fb9f28b3edd6870992"
-  },
-  {
-    "time": "08:03",
-    "quoteFirst": "Memorand.—November 27th, 1703, there was a very great and remarkable tempest, {67} which begun after midnight, and continued in its violence till ",
-    "quoteTime": "about 8 in the morning",
-    "quoteLast": ", being Saturday.  Many houses in town were damnified, two wind-mills in the east blown over, several of the church leads turned up, and several vessells belonging to the town were Shipwracked, to the great impoverishment of the place.",
-    "title": "History of Brighthelmston; or, Brighton as I View it and Others Knew It\r\nWith a Chronological Table of Local Events",
-    "author": "Erredge, John Ackerson, -1862",
-    "gutenbergReference": "50551",
-    "hash": "149daae0b435addf400e489b659dc29dcfc27df44b219d9f5be7c43cdc7ad501"
-  },
-  {
-    "time": "08:03",
-    "quoteFirst": "On the 19th of July, I was walking out of one of the gates of the town, ",
-    "quoteTime": "about eight in the morning",
-    "quoteLast": ", when I came suddenly on a man who had been impaled an hour or two before, and was now dead, but still transfixed by the stake, which, as I saw on approaching him, came out about the sixth rib on the right side; but I was so shocked at this unexpected sight, that it was some minutes before I could recover myself sufficiently to go up to him.",
-    "title": "Travels of Lady Hester Stanhope, Volume 2 (of 3)",
-    "author": "Stanhope, Hester, Lady, 1776-1839; Meryon, Charles Lewis, 1783-1877 [Editor]",
-    "gutenbergReference": "72315",
-    "hash": "86e424b04e2f13c497d30e5de2a4e3224ecbabe8ee3fd701adce3214f707f21e"
-  },
-  {
-    "time": "08:03",
-    "quoteFirst": "We left Andrijevica finally one morning ",
-    "quoteTime": "about eight a.m.",
-    "quoteLast": " for our many days' ride along the Albanian frontier to Podgorica. Everyone turned out to bid us farewell, from the Voivoda, who expressed his regret that we had seen no one shot, downwards.",
-    "title": "The Land of the Black Mountain: The Adventures of Two Englishmen in Montenegro",
-    "author": "Wyon, Reginald, 1872-1921; Prance, Gerald",
-    "gutenbergReference": "17613",
-    "hash": "d1b20e3d3d12187254339c779105790171181f7f3c9801a16deb7bcc2d32c058"
-  },
-  {
-    "time": "08:03",
-    "quoteFirst": "“It was ",
-    "quoteTime": "about eight o’clock in the morning",
-    "quoteLast": ", on the 3rd August,” said he, “when several battalions of the 63rd German infantry regiment, with some cavalry and artillery, got as far as Jarny, without meeting with much resistance from the French, who were not in great numbers.",
-    "title": "German Barbarism: A Neutral's Indictment",
-    "author": "Maccas, Léon, 1892-1972; Girard, Paul Frédéric, 1852-1926 [Author of introduction, etc.]",
-    "gutenbergReference": "57424",
-    "hash": "458c1b77e8d246f19bd1590f9320679749eea0b4c79cb4ca37565fef18def6e8"
-  },
-  {
-    "time": "08:03",
-    "quoteFirst": "“Hardly. You see, I am pretty regular in my hours here. I have come on at ",
-    "quoteTime": "about eight in the morning",
-    "quoteLast": " and leave at six in the evening always.”",
-    "title": "The Boys of the Wireless; Or, A Stirring Rescue from the Deep",
-    "author": "Webster, Frank V.",
-    "gutenbergReference": "35044",
-    "hash": "dafd4d9d53a5aa5e00271a78d6eb0e31e56f87cde9e84a765f0ae3aa3b81fa70"
-  },
-  {
-    "time": "08:03",
-    "quoteFirst": "2. The excitability, generally speaking, undergoes a continuous decline from evening to morning, the response being practically abolished at or ",
-    "quoteTime": "about 8 A.M.",
-    "quoteLast": "",
-    "title": "Life Movements in Plants, Volume I",
-    "author": "Bose, Jagadis Chandra, 1858-1937",
-    "gutenbergReference": "48280",
-    "hash": "bb4a5a627b20d1b6d8b1b2a3442437a11d50f4397df9acedd16034dcaeded9bc"
-  },
-  {
-    "time": "08:03",
-    "quoteFirst": "“Oct. 15, 1771. ",
-    "quoteTime": "About eight o’clock in the morning",
-    "quoteLast": ", a duel was fought in Hyde Park, between Major B. and T., a gentleman of great fortune in Yorkshire; when, after discharging a pistol each, the latter received a wound in the side, and was immediately carried in a coach to the house of a surgeon near Piccadilly. It is said the dispute arose from Mr. T. having, a few days since, insulted Major B.",
-    "title": "Hyde Park from Domesday-book to Date",
-    "author": "Ashton, John, 1834-1911",
-    "gutenbergReference": "51438",
-    "hash": "88e09936aff2eceb97d75ee4fa3658b52a7d4c6637b5c624bee5400d18196b11"
-  },
-  {
-    "time": "08:03",
-    "quoteFirst": "",
-    "quoteTime": "About 8 o'clock in the morning",
-    "quoteLast": " of Wednesday, the Brig [_Dispatch_] hauled within half a mile of our breast-work, and opened a well directed and animated fire. Our few guns being now well manned by citizens and volunteers, from Stonington, New London, Mistick and Groton, they were ready to receive her.",
-    "title": "The Defence of Stonington (Connecticut) Against a British Squadron, August 9th to 12th, 1814",
-    "author": "Trumbull, J. Hammond (James Hammond), 1821-1897",
-    "gutenbergReference": "26946",
-    "hash": "d5a7fc59e21927deac38cfd835c502cf1819add08a2124ad033825ac02df0b6b"
-  },
-  {
-    "time": "08:03",
-    "quoteFirst": "Army supplies had to be destroyed or abandoned.  A panic seized the city, and in burning some public stores it took fire in two places, and but for the arrival, ",
-    "quoteTime": "about 8 A.M.",
-    "quoteLast": " of the 3d, of Union troops from Weitzel's command, it would have burned down.  Petersburg suffered little in the evacuation.",
-    "title": "Slavery and four years of war",
-    "author": "Keifer, Joseph Warren, 1836-1932",
-    "gutenbergReference": "22100",
-    "hash": "754a9301ae5acb703d9a8e584c2cda2fed7516c1c9cdf3f61c9c6886cede9e81"
+    "quoteFirst": "\"On October 31st, 1914, the 2nd Batt. Worcester Regt. were in reserve to the 2nd Division who were on our left. ",
+    "quoteTime": "About 8 a.m.",
+    "quoteLast": ", finding the 1st Brigade rather pressed and having no reserve of our own, General FitzClarence got the loan of one company of the Worcesters, and this was placed along the railway line to Bercelaere, just north of Gheluvelt, to cover our right flank and to catch any Germans emerging from the village. This they did most successfully.",
+    "title": "1914",
+    "author": "French, John Denton Pinkstone, Earl of Ypres, 1852-1925",
+    "gutenbergReference": "24538",
+    "hash": "343cc27b78744aab676e8ddfa93526441384f56de78f9faa45717d430968fb49"
   }
 ]

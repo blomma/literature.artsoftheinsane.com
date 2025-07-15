@@ -1,123 +1,153 @@
 [
   {
     "time": "11:03",
-    "quoteFirst": "",
-    "quoteTime": "About 11 A.M.",
-    "quoteLast": " Lord Cavan sent the following message:",
-    "title": "The Grenadier Guards in the Great War of 1914-1918, Vol. 1 of 3",
-    "author": "Ponsonby, Frederick, 1867-1935; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]; Walker, Emery, 1851-1933 [Illustrator]",
-    "gutenbergReference": "60677",
-    "hash": "f33a58dd991069bcdc476b0e22cea2c67c3a46c2dd8c7ce78a37e1a6e14aa485"
-  },
-  {
-    "time": "11:03",
-    "quoteFirst": "Several nights later they passed the Gulf Stream and when Rio got up ",
-    "quoteTime": "about eleven in the morning",
-    "quoteLast": " he saw the deep-purple waters of the Caribbean Sea. It was getting warmer. He put on clean dungarees and went to the sailors’ mess for a plate of soup.",
-    "title": "This Finer Shadow",
-    "author": "McIntosh, Harlan Cozad, 1908-1940; Powys, John Cowper, 1872-1963 [Author of introduction, etc.]",
-    "gutenbergReference": "64251",
-    "hash": "282005701ca54da91f2e0ccd763dda09204aca04e462d1f949d075d280480dd0"
-  },
-  {
-    "time": "11:03",
-    "quoteFirst": "And in his office every day he _stuck to it_, for he went there ",
-    "quoteTime": "about eleven in the morning",
-    "quoteLast": ", but seldom left before seven--often he was there till nine.",
-    "title": "Young Knights of the Empire : Their Code, and Further Scout Yarns",
-    "author": "Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron, 1857-1941",
-    "gutenbergReference": "6673",
-    "hash": "2568c0127ad2256c89e98fb11328b0f0fd98d4c2709a37e8f89a02edefc34947"
-  },
-  {
-    "time": "11:03",
-    "quoteFirst": "",
-    "quoteTime": "About 11 a. m.",
-    "quoteLast": " an old unprotected Indian Marine transport, H. M. S.",
-    "title": "The Story of the Great War, Volume 4\r\nChampagne, Artois, Grodno; Fall of Nish; Caucasus; Mesopotamia; Development of Air Strategy; United States and the War",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
-    "gutenbergReference": "29340",
-    "hash": "17739c78ae069f610a93d477541c15efbd461ab5d81c03c120d7c837f8c553c7"
-  },
-  {
-    "time": "11:03",
-    "quoteFirst": "It was ",
-    "quoteTime": "about 11 A.M.",
-    "quoteLast": " on a bright October morning, and the keen wit of the men as they exchanged repartee with many bright-eyed Paharee maidens, seemed in keeping with the cool, crisp air and turquoise blue sky; but suddenly a deep silence fell upon them.",
-    "title": "Simla Village Tales; Or, Folk Tales from the Himalayas",
-    "author": "Dracott, Alice, 1865?-1939",
-    "gutenbergReference": "58816",
-    "hash": "ad00b5fb8cae7cf81d0559dd1b8fde046b04de2b68305735089818d2c96d8045"
-  },
-  {
-    "time": "11:03",
-    "quoteFirst": "I am most assiduous in my attendance, lest I should miss the propitious moment, and at last have a chance to witness the moulting. In the early part of May, at ",
-    "quoteTime": "about eleven in the morning",
-    "quoteLast": ", a larva casts off its rustic garments before my eyes. The transformed Cricket is now a reddish brown, all but the wings and wing-cases, which are beautifully white.",
-    "title": "The Life of the Grasshopper",
-    "author": "Fabre, Jean-Henri, 1823-1915; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
-    "gutenbergReference": "66650",
-    "hash": "00be94526903be539117664f4481ea5a26607bf2155ac5314b0af830e723bca9"
-  },
-  {
-    "time": "11:03",
-    "quoteFirst": "At 3 A.M. marched to Bruxelles. Arrived ",
-    "quoteTime": "about 11 A.M.",
-    "quoteLast": " After much trouble got a billet upon the house of Mr. Overman, Rue du l'Etoile, No. 119.",
-    "title": "A British Rifle Man\nThe Journals and Correspondence of Major George Simmons, Rifle Brigade, During the Peninsular War and the Campaign of Waterloo",
-    "author": "Simmons, George, 1785-1858; Verner, William Willoughby Cole, 1852-1922 [Editor]",
-    "gutenbergReference": "50744",
-    "hash": "c6ce72867959c6687af27a2ac4c1b43f2bf4e5f29a1aa3e1799186aa2911662b"
-  },
-  {
-    "time": "11:03",
-    "quoteFirst": "Robinson Crusoe is no longer solitary: the island is inhabited. My first visitors arrived ",
+    "quoteFirst": "Sullivan in search of the two remaining horses; at ",
     "quoteTime": "about 11 a.m.",
-    "quoteLast": "--a small boy and a dog--an extremely good-looking little boy and a well-bred fox-terrier. They sat on the garden wall until I invited them in, when they ate chocolates and biscuits, and the boy offered to repeat poetry.",
-    "title": "Penny Plain",
-    "author": "Douglas, O., 1877-1948",
-    "gutenbergReference": "12768",
-    "hash": "c8a38420b80a8de0ac67feba8033903d6e0840c6d42c6409e8c5bc8882121f9d"
+    "quoteLast": " they returned with them. I shall now move up to our camp of 25th instant. Camped at some rain water a little south of our former place, where there is plenty of feed for the horses.",
+    "title": "Explorations in Australia\r\nThe Journals of John McDouall Stuart During the Years 1858, 1859, 1860, 1861, and 1862, When He Fixed the Centre of the Continent and Successfully Crossed It from Sea to Sea",
+    "author": "Stuart, John McDouall, 1815-1866",
+    "gutenbergReference": "8911",
+    "hash": "175740799ef49ed086f74199a7ed85fbe9e603449bef07398eb9d080030aae93"
   },
   {
     "time": "11:03",
-    "quoteFirst": "\"",
-    "quoteTime": "About 11 A.M.",
-    "quoteLast": " Hawke is here; eight of his vanward ships are sweeping on for action. Conflans, at first, had determined to fight Hawke; and drew up accordingly, and did try a little: but gradually thought better of it; and decided to take shelter in the shoaly coasts and nooks thereabouts, which were unknown to Hawke, and might ruin him if he should pursue, the day being short, and the weather extremely bad.",
-    "title": "History of Friedrich II of Prussia — Volume 19",
-    "author": "Carlyle, Thomas, 1795-1881",
-    "gutenbergReference": "2119",
-    "hash": "ee955d781683bf67fc81058ec2d8eaeb75547854ec1df54cc9e7cd4bc8317538"
+    "quoteFirst": "The fire having slackened somewhat ",
+    "quoteTime": "about eleven o’clock in the morning",
+    "quoteLast": ", volunteers were called to get water for the command, especially for the wounded. The Indians swept the banks of the river with their fire, and the attempt was hazardous to a degree.",
+    "title": "Indian Fights and Fighters: The Soldier and the Sioux",
+    "author": "Brady, Cyrus Townsend, 1861-1920",
+    "gutenbergReference": "55275",
+    "hash": "34e8e73fd28b03acaae18fb8dcee2245541a4b62abec729ecd66ff8822bc4854"
   },
   {
     "time": "11:03",
-    "quoteFirst": "Senor Barros and myself were on horseback, while his brother-in-law, Dom Barros, and sister were in a chaise with two horses, the extra animal being attached by a swingle-tree at one side of the shafts. The driver was seated flat in the foot of the chaise, with his legs out at one side, and urged his team forward at a good speed over the rough turnpikes. We reached our destination ",
-    "quoteTime": "about 11 o’clock A. M.",
-    "quoteLast": ", and at this point we entered a substantial vehicle, styled here a diligencia, intended for seating eight persons. There being but four of us, and a small boy besides, we had ample room, and sufficient space for the bandboxes also.",
-    "title": "Hunting a home in Brazil",
-    "author": "Gaston, James McFadden, 1824-1903",
-    "gutenbergReference": "74333",
-    "hash": "09fd053c0c647992642deedb8a2cff6576e6bba77d37860d08ba992ebcfed024"
-  },
-  {
-    "time": "11:03",
-    "quoteFirst": "Their successful advance and the flight of the opposing forces gave such assurances of victory that more than one Confederate writer says that at this point the battle which had raged since daylight was won. Jefferson Davis himself wrote, years after, of the charge: \"This affair occurred ",
+    "quoteFirst": "We had reached the summit of the mountain ",
     "quoteTime": "about 11 A.M.",
-    "quoteLast": ", and a splendid victory had been gained,\"--a judgment which lacked finality. In fact, had the separation of the wings of Sheridan's army been accomplished, as it was threatened, the result would have been utter disaster; just now, however, Upton's brigade, of which the Second Connecticut formed a large part, was brought up to the point of danger.",
-    "title": "The County Regiment\r\nA Sketch of the Second Regiment of Connecticut Volunteer Heavy Artillery, Originally the Nineteenth Volunteer Infantry, in the Civil War",
-    "author": "Vaill, Dudley Landon",
-    "gutenbergReference": "27969",
-    "hash": "1ff77f9cd3ff133e00f54163dc8f0e98ee5b053adf5904e735f9740cd6243b51"
+    "quoteLast": ", just as some heavy clouds, evidently disturbed by the bombardment during the previous night, were dropping down into Litsun Valley and in front of Tsing-tau. For three hours we sat on the peak shivering in a blast from the sea, and all the while wondering just what was being enacted beyond the curtain.",
+    "title": "The New York Times Current History of the European War, Vol 1, Issue 4, January 23, 1915",
+    "author": "Various",
+    "gutenbergReference": "16363",
+    "hash": "144eaba106a2867ce5fc209940d196d31d124631adae8ba7321f3aac6db9a2fb"
+  },
+  {
+    "time": "11:03",
+    "quoteFirst": "Issey village is typical of hundreds more all over the county. At about ",
+    "quoteTime": "three minutes after eleven",
+    "quoteLast": " a man entered the pulpit. As far as I could judge he was a working man, or he might be a farmer, a carpenter, or a tradesman of some sort.",
+    "title": "The Passion for Life",
+    "author": "Hocking, Joseph, 1860-1937",
+    "gutenbergReference": "40102",
+    "hash": "366d5734327b256eac400ae58da8e5cd8cb9446b6e92e97d1ae2f6aeb8652192"
+  },
+  {
+    "time": "11:03",
+    "quoteFirst": ", won the V.C. for his continuous bravery during these operations. He “worked incessantly from 6.15 A.M. on the 25th till 8 A.M. on the 26th, collecting and treating in the open under heavy shell fire more than 300 men. At ",
+    "quoteTime": "about 11 A.M.",
+    "quoteLast": " on the 25th he was flung down and temporarily stunned by the bursting of a large high explosive shell which wounded his only assistant and killed several of his patients. A second shell soon after covered him and his instruments with débris, but his high courage and zeal never failed him, and he continued his gallant work singlehanded.",
+    "title": "The history of the Twentieth (Light) Division",
+    "author": "Inglefield, Valentine Erskine, 1886-1947; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]",
+    "gutenbergReference": "74129",
+    "hash": "5010d76221eb5e0e97ac646d9f65c964bd8e14d02615a006a346b4ef1daf8de7"
+  },
+  {
+    "time": "11:03",
+    "quoteFirst": "And thus it was arranged. Hilliard made ready his room to receive the fair visitors, who would come at ",
+    "quoteTime": "about eleven in the morning",
+    "quoteLast": ". As usual nowadays, he felt discontented, but, after all, Patty's influence might be a help to him, as it had been in worse straits.",
+    "title": "Eve's Ransom",
+    "author": "Gissing, George, 1857-1903",
+    "gutenbergReference": "4297",
+    "hash": "ce0fdc1ab5545ec7b7c5dd18b4f1c3dceccc7deab7a8880cf4f79ebb2295e7e9"
+  },
+  {
+    "time": "11:03",
+    "quoteFirst": "I myself come in at ",
+    "quoteTime": "about 11 A.M.",
+    "quoteLast": ", before the lunch hour, and stay until closing time. That sounds a long working day--twelve and a half hours--but don't let it fool you because I actually work only about half of the time.",
+    "title": "Knock three-one-two",
+    "author": "Brown, Fredric, 1906-1972",
+    "gutenbergReference": "70944",
+    "hash": "160cd6dd95bfecd5270c83ccf4a07a165f19ccf8b38187d8d1637062f1b647df"
   },
   {
     "time": "11:03",
     "quoteFirst": "",
     "quoteTime": "About eleven in the morning",
-    "quoteLast": " Perree told me that the Turks were doing us more harm than we were doing them; that our ammunition would soon be exhausted; that the army was far inland, and that if it did not make a move to the left there would be no hope for us. Several vessels had already been boarded and taken by the Turks, who massacred the crews before our eyes, and with barbarous ferocity showed us the heads of the slaughtered men.",
-    "title": "Memoirs of Napoleon Bonaparte — Complete",
-    "author": "Bourrienne, Louis Antoine Fauvelet de, 1769-1834; Phipps, Ramsay Weston, 1838-1923 [Editor]",
-    "gutenbergReference": "3567",
-    "hash": "43f229fe29cbb0071cbe28e90a8e5ddedd04d7f9a2b35932a96b773915bf3e3e"
+    "quoteLast": ", however, Orito walked through the rice fields and came himself to bring her home. Mrs. Davis saw him alone first, and after they had exchanged greetings and talked for a time of their mutual friends in America, she told him of the girl's agitation and how, at the last moment, she had broken down.",
+    "title": "Miss Numè of Japan: A Japanese-American Romance",
+    "author": "Watanna, Onoto, 1875-1954; Read, Opie Percival, 1852-1939 [Author of introduction, etc.]",
+    "gutenbergReference": "58305",
+    "hash": "1bcb2f331d6f1ae54d5bf7ccc9f276383cdbf041c0df93518c10314cb80c68e2"
+  },
+  {
+    "time": "11:03",
+    "quoteFirst": "At sunrise on the 14th, we arrived in Baltimore, marched, through the city, and embarked on the cars for Philadelphia. We arrived in that city ",
+    "quoteTime": "about eleven A. M.",
+    "quoteLast": " After disembarking from the cars we received a royal welcome from the good people of this city while on our way to the famous Cooper Shop, so well known to every Union soldier who passed through Philadelphia on his way to and from the seat of war. Here we found a bountiful collation awaiting us.",
+    "title": "The History of Battery H First Regiment Rhode Island Light Artillery in the War to Preserve the Union 1861-1865",
+    "author": "Fenner, Earl, 1841-",
+    "gutenbergReference": "58681",
+    "hash": "a6c259c81951b58fb50de72ec570c3a9aca4a8a9924fe645abd5aa75d1a69cbe"
+  },
+  {
+    "time": "11:03",
+    "quoteFirst": "Act. Act. reduced Barom. Air D.P. Diff. Sat. 9.53 to 10.06 a.m. 10.50 to ",
+    "quoteTime": "11.03 a.m.",
+    "quoteLast": "",
+    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6478",
+    "hash": "29158911cf30a1704ee9dc9a08e4e18cee69e118faaf0b91cea8d09e592d9b01"
+  },
+  {
+    "time": "11:03",
+    "quoteFirst": "Next day a strange thing happened. While watching the Marchesa I saw her, ",
+    "quoteTime": "about eleven o'clock in the morning",
+    "quoteLast": ", walking alone in the Corso Vittorio when she accidentally encountered the banker Zuccari. They passed each other as total strangers!",
+    "title": "The Golden Face: A Great 'Crook' Romance",
+    "author": "Le Queux, William, 1864-1927",
+    "gutenbergReference": "27705",
+    "hash": "b99f4cde238ed09b4eb19ecc89a847fe7b4a36ea7fbf81002a555e05ada3e626"
+  },
+  {
+    "time": "11:03",
+    "quoteFirst": "The order of the divisions of the army that encircle Jackson, from the river above the city to the river below, is as follows, beginning on the right: Loring, Walker, French, and Breckinridge. Fighting commenced early this morning, and the firing was rapid all along the line. ",
+    "quoteTime": "About 11 A.M.",
+    "quoteLast": "",
+    "title": "Two Wars: An Autobiography of General Samuel G. French\r\nMexican War; War between the States, a Diary; Reconstruction Period, His Experience; Incidents, Reminiscences, etc.",
+    "author": "French, Samuel Gibbs, 1818-1910",
+    "gutenbergReference": "45603",
+    "hash": "8cfa2141120f1743b6a313b8e7ce0c864a4e0cde25a77bb7b5920f0458bf8c30"
+  },
+  {
+    "time": "11:03",
+    "quoteFirst": "A sweet gospel spirit was given to me. I preached again at Birmingham, to larger auditories than before, ",
+    "quoteTime": "about eleven in the morning",
+    "quoteLast": " and three in the afternoon. In the evening, I expounded twice in a large room; once to the rich, and once to the poor; and went to rest happier than the night before.",
+    "title": "The Life of the Rev. George Whitefield, Volume 2 (of 2)",
+    "author": "Tyerman, L. (Luke), 1820?-1889",
+    "gutenbergReference": "62023",
+    "hash": "787bc513449e1cf7c64bc66592838fef50a77b67a2139670099fe49b4e33fee9"
+  },
+  {
+    "time": "11:03",
+    "quoteFirst": "Graham's troops, consisting of 57 cavalry, 70 mounted infantry, 1,728 infantry, and 40 artillery, with two 13-pounder guns, were at once posted under cover, fronting to the north and west, the cavalry being thrown out on the flanks to observe the enemy's movements. ",
+    "quoteTime": "About 11 a.m.",
+    "quoteLast": " it was reported that a large force of cavalry, infantry and artillery was being moved round towards the British right behind the ridge already referred to. At noon, the Egyptians opened fire from two heavy guns on the left front of Graham's position.",
+    "title": "The Egyptian campaigns, 1882 to 1885",
+    "author": "Royle, Charles, 1882-1936",
+    "gutenbergReference": "41744",
+    "hash": "742767f29279b0ffc5cb2cb39efffa1f4292396d5b031a111002d0cb8ea821e2"
+  },
+  {
+    "time": "11:03",
+    "quoteFirst": "It is important that the sportsman should go round himself and not depute the work to his shikari, as a stag or a bear may often have been marked down to an inch by the watchers and may be stalked forthwith, whilst if a drive be decided upon the sportsman has an opportunity of studying the ground and settling all the details with his head shikari on the spot. Having gone round his sentries and withdrawn the men, he should then return to camp for breakfast, order beaters for any drives he has decided on, and ",
+    "quoteTime": "about 11 A.M.",
+    "quoteLast": ", when the sun is really hot and the animals marked down are likely to be disinclined to move, and so enable the beaters and guns to get into position, he should begin operations. All driving should be done in the heat of the day, when the animals are lying down; trying to drive when beasts are naturally on the move generally results in the game leaving the beat before the men are in their places.",
+    "title": "Big Game Shooting, volume 2 (of 2)",
+    "author": "Phillipps-Wolley, Clive, 1854-1918; Whymper, Charles, 1853-1941 [Illustrator]",
+    "gutenbergReference": "48816",
+    "hash": "7c17f7885774c25a942ea13c89bc844ce3e0ec53bdb2f72f9a396361ec026187"
   },
   {
     "time": "11:03",
@@ -131,72 +161,42 @@
   },
   {
     "time": "11:03",
-    "quoteFirst": "Believing bloodletting to be necessary, he procured a bleeder who took from his arm twelve or fourteen ounces of blood, but he would not permit a messenger to be despatched for his family physician until the appearance of day. ",
-    "quoteTime": "About eleven in the morning",
-    "quoteLast": " Doctor Craik arrived; and perceiving the extreme danger of the case, requested that two consulting physicians should be immediately sent for. The utmost exertions of medical skill were applied in vain.",
-    "title": "The Life of George Washington, Vol. 5\r\nCommander in Chief of the American Forces During the War\r\nwhich Established the Independence of his Country and First\r\nPresident of the United States",
-    "author": "Marshall, John, 1755-1835",
-    "gutenbergReference": "18595",
-    "hash": "12f78b1636043411db3fda067282bce5dbbbad4c66ba9b155e16c1afcf3cf6db"
+    "quoteFirst": "",
+    "quoteTime": "About 11 a.m.",
+    "quoteLast": " Sir G. White, having first despatched his Chief of the Staff, Major-General A. Hunter, to investigate the situation, decided to withdraw. To cover the movement he sent out three squadrons (\"B.",
+    "title": "History of the War in South Africa 1899-1902 v. 1 (of 4)\nCompiled by Direction of His Majesty's Government",
+    "author": "Great Britain. War Office; Maurice, John Frederick, 1841-1912 [Compiler]",
+    "gutenbergReference": "28158",
+    "hash": "b33a90422b73244f5985844d49604d4aec2ee7e775c5a8917b3688156c525412"
   },
   {
     "time": "11:03",
-    "quoteFirst": "The ceremony over, we started at once for the Kunghure front, and the early morning found us sliding rapidly down the European side of the Urals. Huge forests, all loaded with snow, covered the mountain sides, and there was a temperature quite impossible for British military operations. We arrived ",
-    "quoteTime": "about 11 A.M.",
-    "quoteLast": " at the headquarters of the army under the command of General Count Galitzin. We held long conferences and then lunched in his mess, which was quartered in an eight-wheeled American truck.",
-    "title": "With the \"Die-Hards\" in Siberia",
-    "author": "Ward, John, 1866-1934",
-    "gutenbergReference": "10972",
-    "hash": "1ff14faddd2f2bc57e416f94678bac5202f28f9a213a76c51281e21889480682"
-  },
-  {
-    "time": "11:03",
-    "quoteFirst": "Shortly after the commencement of the Boer attack the whole of the left were forced to retire owing to their flank being turned, taking one pom-pom and our Maxim with them. Captain Noblett was consequently obliged, at ",
-    "quoteTime": "about 11 A.M.",
-    "quoteLast": ", to conform to this movement, having no support, and took his men out of the shell fire with great difficulty but had only a few casualties.",
-    "title": "The History of Lumsden's Horse\r\nA Complete Record of the Corps from Its Formation to Its Disbandment",
-    "author": "Pearse, Henry H. S., 1844-1905 [Editor]",
-    "gutenbergReference": "52303",
-    "hash": "94dc1ab40a8435ccb91d0d5ae81fcc036061215dd7edda7284c8289648cf1699"
-  },
-  {
-    "time": "11:03",
-    "quoteFirst": "The second day after my first visit to him being a Thursday, the pacha did not forget to send a janissary according to his promise. It was ",
+    "quoteFirst": "On a certain Monday, about the middle of May, Jadwin sat at Gretry's desk (long since given over to his use), in the office on the ground floor of the Board of Trade, swinging nervously back and forth in the swivel chair, drumming his fingers upon the arms, and glancing continually at the clock that hung against the opposite wall. It was ",
     "quoteTime": "about eleven in the morning",
-    "quoteLast": " when the janissary called for me, I followed him, and this time I found Bonneval dressed in the Turkish style. His guests soon arrived, and we sat down to dinner, eight of us, all well disposed to be cheerful and happy. The dinner was entirely French, in cooking and service; his steward and his cook were both worthy French renegades.",
-    "title": "The Memoirs of Jacques Casanova de Seingalt, Vol. I (of VI), \"Venetian Years\"\r\nThe First Complete and Unabridged English Translation, Illustrated with Old Engravings",
-    "author": "Casanova, Giacomo, 1725-1798; Machen, Arthur, 1863-1947 [Translator]",
-    "gutenbergReference": "39301",
-    "hash": "149246729b5f49ab930ccf5ed5de2213d5f8d2f7c5962194380689de9311c36c"
+    "quoteLast": ". The Board of Trade vibrated with the vast trepidation of the Pit, that for two hours had spun and sucked, and guttered and disgorged just overhead. The waiting-room of the office was more than usually crowded.",
+    "title": "The pit",
+    "author": "Norris, Frank, 1870-1902",
+    "gutenbergReference": "4382",
+    "hash": "9ebda9f1403749ab5d6fd0ed4b5bfca761049450bbb353a60490ca62fd7eb170"
   },
   {
     "time": "11:03",
-    "quoteFirst": "Chancellorsville. ",
-    "quoteTime": "About eleven A.M.",
-    "quoteLast": " on the 2d, this order was repeated, but by error in delivery (says Lee) made unconditional. Early, therefore, left Hays and one regiment of Barksdale at Fredericksburg, and, sending part of Pendleton's artillery to the rear, at once began to move his command along the plank road to join his chief.",
-    "title": "The Campaign of Chancellorsville",
-    "author": "Dodge, Theodore Ayrault, 1842-1909",
-    "gutenbergReference": "5715",
-    "hash": "dd6098ef91af62dc3b3ceec20fc630c93aadd9cafc1f5b9c89344c0046a7c1ab"
+    "quoteFirst": "I arrived hot and ravenous at Raymond ",
+    "quoteTime": "about eleven A.M.",
+    "quoteLast": " on this glorious Independence Day, having walked twelve miles facing a strange wind. At first it seemed fairly cool, because it travelled at the rate of an express train.",
+    "title": "Adventures While Preaching the Gospel of Beauty",
+    "author": "Lindsay, Vachel, 1879-1931",
+    "gutenbergReference": "42252",
+    "hash": "05debdd3da6108fd19cce33129850f88f38c12344e4f7e35f0acb9519809fe69"
   },
   {
     "time": "11:03",
-    "quoteFirst": "It was ",
-    "quoteTime": "about eleven o'clock in the morning",
-    "quoteLast": " when we reached the open sea; and the first discovery which we made with regard to our boat was that, thanks to her double keel, she would forge ahead with the wind anywhere at all abaft the beam--not at any great speed, certainly, with the wind only about one point free, but still fast enough to enable us to control her with a steering oar.",
-    "title": "The First Mate: The Story of a Strange Cruise",
-    "author": "Collingwood, Harry, 1851-1922; Hodgson, E. S. (Edward Smith), 1866-1937 [Illustrator]",
-    "gutenbergReference": "25818",
-    "hash": "742504b48883753efc95207af84d10bd347e443256735971095e548bebffbb98"
-  },
-  {
-    "time": "11:03",
-    "quoteFirst": "\"at ",
+    "quoteFirst": "He was on the Palace Esplanade there, drilling his troops [fine trim sanded Expanse, with the Palace to rear, and Garden-walks and River to front; where Friedrich Wilhelm sat, the last day he was out, and ordered Jockey Philips's house to be actually set about; where the troops do evolutions every morning;--there is Friedrich with cocked-hat and blue coat; say ",
     "quoteTime": "about 11 A.M.",
-    "quoteLast": ", on Tuesday, she _passed through the west end without anchoring_.\" These are the words of a French naval captain, who speaks of what he saw.",
-    "title": "The Cruise of the Alabama and the Sumter\r\nFrom the Private Journals and Other Papers of Commander R. Semmes, C.S.N., and Other Officers",
-    "author": "Semmes, Raphael, 1809-1877",
-    "gutenbergReference": "13163",
-    "hash": "aca2eb9104e02c6f684f2cc180558ce740b056788a619ed88796ecd9b7cad354"
+    "quoteLast": "].",
+    "title": "History of Friedrich II of Prussia — Volume 16",
+    "author": "Carlyle, Thomas, 1795-1881",
+    "gutenbergReference": "2116",
+    "hash": "a750346508d35d8a2c9645db356b5f496115621764971dcc7a1c08c54670f006"
   }
 ]
