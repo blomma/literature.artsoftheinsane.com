@@ -4,10 +4,10 @@
     "quoteFirst": "Lv. 7:00 A.M.  Lv. 1:10 P.M.    .0  Silverton     Ar. 11:10 A.M. Ar. 5:20 P.M. 7:34 A.M.      1:44 P.M.   5.0  Burro Bridge      10:36 A.M.     4:46 P.M. 7:49 A.M.      1:59 P.M.   7.5  Chattanooga       10:21 A.M.     4:31 P.M. 8:11 A.M.      2:21 P.M.  12.5  Summit            9:58 A.M.      4:09 P.M. 8:25 A.M.      2:35 P.M.  15.0  Red Mountain      9:50 A.M.      4:00 P.M. 8:26 A.M.      2:36 P.M.  15.5  Vanderbilt        9:44 A.M.      3:54 P.M. 8:27 A.M.      ",
     "quoteTime": "2:37 P.M.",
     "quoteLast": "  16.0  Yankee Girl       9:43 A.M.      3:53 P.M.",
-    "title": "Three Little Lines\r\nSilverton Railroad; Silverton, Gladstone and Northerly; Silverton Northern",
-    "author": "Crum, Josie Moore",
+    "title": "Three little lines",
+    "author": "Crum, Josie Moore, 1888-1972",
     "gutenbergReference": "62664",
-    "hash": "dfc87fb1af4a9e4acf0b2c6c29c364ed15e39bdcde3bbfb499cb78310e259f02"
+    "hash": "29b9bb6acf4fe5bb97c3bf235ac80c253baf7a8e90187e455dc060096be07175"
   },
   {
     "time": "14:37",
@@ -58,6 +58,16 @@
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
     "hash": "1e8ad8f76715eb306804b2669c7f3b86dca43c43627fbe7274a6ee5661249477"
+  },
+  {
+    "time": "14:37",
+    "quoteFirst": "“‘I don’t remember. I was walking about the room ... never mind. I stopped my clock. It was ",
+    "quoteTime": "thirty-seven minutes past two",
+    "quoteLast": ".’”[100]",
+    "title": "Dostoevsky",
+    "author": "Gide, André, 1869-1951; Bennett, Arnold, 1867-1931 [Author of introduction, etc.]",
+    "gutenbergReference": "76944",
+    "hash": "4456b1797d691a943cd2823f59d6905fe82c0623c2d088d4f9fb705f7ac71f43"
   },
   {
     "time": "14:37",

@@ -1,13 +1,13 @@
 [
   {
     "time": "08:55",
-    "quoteFirst": "Among the decorations on the mantelshelf is the smallest of clocks, in a case of wood, carved most likely by Swiss hands. As the old man sits and works, a click from the Swiss clock warns him that another hour is nearly gone. \"",
-    "quoteTime": "Five minutes to nine",
-    "quoteLast": ",\" he whispers, and he steps softly towards the screen, and moves it so that, when he returns to his seat, he can see what it has before hidden from his sight. With the exception of the click, and presently of the striking of the hour in thin bell-notes, not a sound is heard in the room; for the old man has list slippers on his feet.",
-    "title": "London's Heart: A Novel",
-    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
-    "gutenbergReference": "45792",
-    "hash": "a17f5139d545c98ac0214e710364e6bb29b23b07d2a0a83e31d84e45c3afe003"
+    "quoteFirst": "Here is an outline of the daily work: “5 A.M., rising bell; 5:50 A.M., warning breakfast bell; 6:00 A.M., breakfast bell; 6:20 A.M., breakfast over; 6:20–6:50 A.M., rooms cleaned; 6:50 A.M., work bell; 7:30 A.M., morning study hour; 8:20 A.M., morning school bell; 8:25 A.M., inspection of young men’s dress in ranks; 8:40 A.M., devotional exercises in chapel; ",
+    "quoteTime": "8:55 A.M.",
+    "quoteLast": ", ‘five minutes with the daily news’; 9:00 A.M., class work begins; 12:00 M., class work ends; 12:15 P.M., dinner; 1:00 P.M., work bell; 1:30 P.M., class work begins; 3:30 P.M., class work ends; 5:30 P.M., bell to ‘knock off’ work; 6:00 P.M., supper; 7:10 P.M., evening prayers; 7:30 P.M., evening study hour: 8:45 P.M., evening study hour closes; 9:20 P.M., warning bell; 9:30 P.M., retiring bell.",
+    "title": "A boys' life of Booker T. Washington",
+    "author": "Jackson, Walter Clinton, 1879-1959",
+    "gutenbergReference": "75144",
+    "hash": "f973cb1ac9da42858cacdb9c74a4155229a844449bcc6df7f3fc38147f7db223"
   },
   {
     "time": "08:55",
@@ -21,33 +21,43 @@
   },
   {
     "time": "08:55",
-    "quoteFirst": "\"",
-    "quoteTime": "Five minutes to nine",
-    "quoteLast": "! Say,--you'll have to excuse me; I've an appointment with a lady friend for nine o'clock.\"",
-    "title": "The Spoilers of the Valley",
-    "author": "Watson, Robert, 1882-1948",
-    "gutenbergReference": "29588",
-    "hash": "a85fe7fc2c8242b140eab75038c6f89e40f5587b03e218dc84fceff73d4c0b2a"
-  },
-  {
-    "time": "08:55",
-    "quoteFirst": "\"Strictly speaking, it wanted just ",
+    "quoteFirst": "It wants ",
     "quoteTime": "five minutes to nine",
-    "quoteLast": " when you slipped stealthily into the side entrance.\"",
-    "title": "Medoline Selwyn's Work",
-    "author": "Colter, J. J., Mrs.",
-    "gutenbergReference": "18052",
-    "hash": "a69bbf9fc770dff5142e2098cb36982d3f5e2db152bd22954f6d0c6e4bba29c5"
+    "quoteLast": ", and Mrs. Lovett's shop is filling with persons anxious to devour or to carry away one or more of the nine o'clock batch of savoury, delightful, gushing gravy pies.",
+    "title": "The String of Pearls; Or, The Barber of Fleet Street. A Domestic Romance.",
+    "author": "Rymer, James Malcolm, 1814?-1884; Prest, Thomas Peckett, 1810-1859",
+    "gutenbergReference": "59828",
+    "hash": "75efd11d317871e84fc4a1040faefbbe5283bc124603cf0f1f301202ed3e978f"
   },
   {
     "time": "08:55",
-    "quoteFirst": "Saint-Avold, 21 July, 1870, ",
-    "quoteTime": "8.55 a.m.",
-    "quoteLast": " The dépôt sends enormous parcels of maps, which are absolutely useless for the moment. We have not a single map of the French frontier.",
-    "title": "An Englishman in Paris: Notes and Recollections",
-    "author": "Vandam, Albert D. (Albert Dresden), 1843-1903",
-    "gutenbergReference": "32343",
-    "hash": "b39a61eb66179ca469f472f64f2dbead03db45b07914291a90775f532158fbea"
+    "quoteFirst": "Among the decorations on the mantelshelf is the smallest of clocks, in a case of wood, carved most likely by Swiss hands. As the old man sits and works, a click from the Swiss clock warns him that another hour is nearly gone. \"",
+    "quoteTime": "Five minutes to nine",
+    "quoteLast": ",\" he whispers, and he steps softly towards the screen, and moves it so that, when he returns to his seat, he can see what it has before hidden from his sight. With the exception of the click, and presently of the striking of the hour in thin bell-notes, not a sound is heard in the room; for the old man has list slippers on his feet.",
+    "title": "London's Heart: A Novel",
+    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+    "gutenbergReference": "45792",
+    "hash": "a17f5139d545c98ac0214e710364e6bb29b23b07d2a0a83e31d84e45c3afe003"
+  },
+  {
+    "time": "08:55",
+    "quoteFirst": "WE reached Vincennes at ",
+    "quoteTime": "five minutes to nine",
+    "quoteLast": ".",
+    "title": "The Corsican Brothers",
+    "author": "Dumas, Alexandre, 1802-1870; Frith, Henry, 1840- [Translator]",
+    "gutenbergReference": "41881",
+    "hash": "ccb1498600a0f4a478f3dc2b3cb460608c40708d12bbd9fbde95b66649d67a5f"
+  },
+  {
+    "time": "08:55",
+    "quoteFirst": "\"Mother, dear mother, pray, pray don't grieve, and I'll strive so hard to make you and the girls happy.  You will soon like this little cottage; and when we get some more furniture, and some flowers, and a bird in the window, it will look so bright and cheerful and--there, there, pray don't cry.  I must go; it only wants ",
+    "quoteTime": "five minutes to nine",
+    "quoteLast": ", and I must not be late the first morning.\"",
+    "title": "The New Mistress: A Tale",
+    "author": "Fenn, George Manville, 1831-1909",
+    "gutenbergReference": "32924",
+    "hash": "f4dad960d0f873ff598d3426110a95bbcbfe9ff4fafa541f3e58d0db1b3ad07b"
   },
   {
     "time": "08:55",
@@ -61,142 +71,132 @@
   },
   {
     "time": "08:55",
-    "quoteFirst": "The time was now ",
+    "quoteFirst": "I am going to utilize it by reading to you the minutes of our meetings for a year past.\" He laid on the table his watch, which showed ",
     "quoteTime": "five minutes to nine",
-    "quoteLast": ", and as unfailing punctuality had ever been a foible of Sir Walter, his guests usually respected it. Most of them were already assembled, and Mary May, who was just stepping into the garden, asked Henry if he had seen her husband.",
-    "title": "The Grey Room",
-    "author": "Phillpotts, Eden, 1862-1960",
-    "gutenbergReference": "1577",
-    "hash": "b175002303fcd48ab0779e6cef816d3e9a33d92471e3bced5c1799e30a5c0dea"
+    "quoteLast": ", and covered it with a handkerchief.",
+    "title": "Mysterious Psychic Forces\r\nAn Account of the Author's Investigations in Psychical Research, Together with Those of Other European Savants",
+    "author": "Flammarion, Camille, 1842-1925",
+    "gutenbergReference": "39279",
+    "hash": "c82d83ae44ffcbf852dadc54a09f8836e3803ae5a19fbeb312923015d051cebb"
   },
   {
     "time": "08:55",
-    "quoteFirst": "",
-    "quoteTime": "Five minutes to nine",
-    "quoteLast": " and yet no call. Wrinkles came to her forehead, her step grew more impatient.",
-    "title": "Triple Spies",
-    "author": "Snell, Roy J. (Roy Judson), 1878-1959",
-    "gutenbergReference": "13880",
-    "hash": "1919d44eb36465f475e41a3ffce2705614708b3715de8cbe6846ba760ea789cb"
-  },
-  {
-    "time": "08:55",
-    "quoteFirst": "Presents us this month with an unusual number of phenomena, none of which, however, are of a striking character. He rises on the 1st at 8:28 a. m.; on the 16th, at ",
-    "quoteTime": "8:55 a. m.",
-    "quoteLast": "; on the 31st, at 7:48 a. m.; sets on the corresponding days at 5:16, 5:53 and 5:20 p. m.; that is, during the entire month setting from one-half hour to one and one-third hours later than the sun; and thus being visible to a careful observer for perhaps ten or twelve days both before and after the 17th, the day on which he reaches his greatest distance (20° 12′) east of the sun.",
-    "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55250",
-    "hash": "71156a259954e10b5ac101bf9389d1526c6b4a8999a06de94a51a68de4bbb193"
-  },
-  {
-    "time": "08:55",
-    "quoteFirst": "She was up in time, and watching the clock. It was a grey morning, but not raining. At ",
+    "quoteFirst": "We left the inn at ",
     "quoteTime": "five minutes to nine",
-    "quoteLast": ", she hurried off to Mrs. Rollings.",
-    "title": "The Lost Girl",
-    "author": "Lawrence, D. H. (David Herbert), 1885-1930",
-    "gutenbergReference": "23727",
-    "hash": "e31495cba05e6258d3d0c56cbb99a3e9d43965c2df9ca482b9a52b58d6d73e06"
-  },
-  {
-    "time": "08:55",
-    "quoteFirst": "Rex had, by this time, undergone his riding-lessons, and his appearance was fairly certain, since Mr. Weston used to dismiss him at ",
-    "quoteTime": "five minutes to nine",
-    "quoteLast": ", telling him to hurry up and get ready for school. But Billy was a will-o’-the-wisp creature, and rules and regulations meant little to him.",
-    "title": "The Twins of Emu Plains",
-    "author": "Bruce, Mary Grant, 1878-1958; Mills, J. Dewar [Illustrator]",
-    "gutenbergReference": "60447",
-    "hash": "dca1abcaec4c2d09315fc599a0ba88bb7537b65124e74d8ae00ed126987c5a71"
-  },
-  {
-    "time": "08:55",
-    "quoteFirst": "At nine precisely he was in his carriage with his coachman on the box to drive his horses, his man Mole also, and Piggy the little dog in with him. He knows it was nine, because he asked the butler what time it was as he left the dining-room, and the butler answered \"",
-    "quoteTime": "Five minutes to nine",
-    "quoteLast": ", my Lord\"; moreover, the clock in the dining-room, the one on the stairs and his own watch, all corroborated the butler's statement.",
-    "title": "On Nothing & Kindred Subjects",
-    "author": "Belloc, Hilaire, 1870-1953",
-    "gutenbergReference": "7432",
-    "hash": "bd79b89b04d5b64dec8c189c3f6f76ade3af07e1d3fd8a7a20042d4df826c4f3"
-  },
-  {
-    "time": "08:55",
-    "quoteFirst": "No report of this engagement reached me at the time. My first information of the presence of enemy forces in the vicinity of our coast was obtained by intercepting at ",
-    "quoteTime": "8.55 A.M.",
-    "quoteLast": " a wireless message from the Admiralty to Vice-Admiral commanding the 2nd Battle Squadron, timed 8.35 A.M., stating that Scarborough was being shelled. The Grand Fleet was at once ordered to raise steam, and left at 12.15 P.M., steering for a position Lat.",
-    "title": "The Grand Fleet, 1914-1916",
-    "author": "Jellicoe, John Rushworth, 1859-1935",
-    "gutenbergReference": "75323",
-    "hash": "715658d05dd5e7a93461444f8ec808adff87cefa795dd8d9991609295169186f"
-  },
-  {
-    "time": "08:55",
-    "quoteFirst": "At the beginning of the fifth dance Leslie was not yet ready to go. She glanced at the wall clock which stood at ",
-    "quoteTime": "five minutes to nine",
-    "quoteLast": ". It was still too early for unmasking. She believed herself safe for at least two more dances after the one about to begin.",
-    "title": "Marjorie Dean's Romance",
-    "author": "Chase, Josephine, -1931",
-    "gutenbergReference": "53440",
-    "hash": "bf18e6e007089b8b0fd616606bf57318a9cfc427d47d1cf695016c5244d86fdb"
-  },
-  {
-    "time": "08:55",
-    "quoteFirst": "Perhaps with Stephen's departure there were fewer occasions for her to resent the challenge of his intrusive eye. There were, also, alleviations coincident with the school year, for then she was free from his company from the time he slammed the front door, at ",
-    "quoteTime": "five minutes to nine",
-    "quoteLast": ", till he returned at two, ravenous for dinner.",
-    "title": "Ainslee's, Vol. 15, No. 5, June 1905",
-    "author": "Various",
-    "gutenbergReference": "27864",
-    "hash": "93e165625276bc1cfa4dca584e1c371cf7dcb0381b9f143f97b1dfb052136008"
-  },
-  {
-    "time": "08:55",
-    "quoteFirst": "",
-    "quoteTime": "Five minutes to nine",
-    "quoteLast": "! I hurry, raising my coat collar in a shiver and clasping my hands inside my soft muff.",
-    "title": "Woman",
-    "author": "Marx, Magdeleine, 1889-1973; Barbusse, Henri, 1873-1935 [Author of introduction, etc.]; Seltzer, Adele Szold, 1876-1940 [Translator]",
-    "gutenbergReference": "33943",
-    "hash": "9ae8d4e36d4bb5d3094e5a38c0e0b15a5a59675fd498318ecba78586a2e64250"
-  },
-  {
-    "time": "08:55",
-    "quoteFirst": "\"Oh, bother your wife! It's only ",
-    "quoteTime": "five minutes to nine",
-    "quoteLast": ", don't you see? What a crowd there is, to be sure. Mrs. Lovett, you charmer, I hope you have ordered enough pies to be made to-night? You see what a lot of customers you have.\"",
-    "title": "The String of Pearls; Or, The Barber of Fleet Street. A Domestic Romance.",
-    "author": "Rymer, James Malcolm, 1814?-1884; Prest, Thomas Peckett, 1810-1859",
-    "gutenbergReference": "59828",
-    "hash": "bd8482b1952932ea7cd32ac9185ab89f03e674b320f4d1e99663de58be2329b0"
+    "quoteLast": ", with the sky cloudless and a stiff wind from the north-west, which we felt even in the deep-cut valley. Wake walked with a long, slow stride that tried my patience. I wanted to hustle, but he bade me keep in step.",
+    "title": "Mr. Standfast",
+    "author": "Buchan, John, 1875-1940",
+    "gutenbergReference": "560",
+    "hash": "3c175efd8283d225f5b2aa9f47148ce4428edf2aa84aa7d20f365b6ae98ed528"
   },
   {
     "time": "08:55",
     "quoteFirst": "At ",
-    "quoteTime": "five minutes to nine a.m.",
-    "quoteLast": " on the first day of the year seven vast crowds stood before the seven principal entrances to Hugo's; seven crowds of immortal souls enclosed in the bodies of women. They meant to begin the year well by an honest attempt to get something for nothing.",
-    "title": "Hugo: A Fantasia on Modern Themes",
-    "author": "Bennett, Arnold, 1867-1931",
-    "gutenbergReference": "15712",
-    "hash": "1688cbd10e0c1541d7a6c184e95ae03c17ef801c93bee5c8486aab90cca3eef4"
+    "quoteTime": "five minutes to nine",
+    "quoteLast": " they heard steps in the hall. They passed down the stairs. Boys from the rooms along the hallway were going to the lecture. Stan got up and disconnected the microphone.",
+    "title": "A Yankee Flier Over Berlin",
+    "author": "Montgomery, Rutherford G. (Rutherford George), 1896-1985; Laune, Paul, 1899-1977 [Illustrator]",
+    "gutenbergReference": "29774",
+    "hash": "1ef7b532f813608245cc549ce335f12710ca5db68df5032d0a2dbece2871cd70"
   },
   {
     "time": "08:55",
-    "quoteFirst": "It's ",
-    "quoteTime": "five minutes to nine",
-    "quoteLast": ". I give you just that long to tell me what you're goin' to do about it. Come on now!' I says, 'all o' you big boys, if you're comin', an' we'll settle this thing here an' now.",
-    "title": "Mother Carey's Chickens",
-    "author": "Wiggin, Kate Douglas Smith, 1856-1923",
-    "gutenbergReference": "10540",
-    "hash": "8f030391b528db0134507af443832118881e67c04a9b5a99131dc474213c127b"
+    "quoteFirst": "Among the decorations on the mantelshelf is the smallest of clocks, in a case of wood, carved most likely by Swiss hands. As the old man sits and works, a click from the Swiss clock warns him that another hour is nearly gone. \"",
+    "quoteTime": "Five minutes to nine",
+    "quoteLast": ",\" he whispers, and he steps softly towards the screen, and moves it so that, when he returns to his seat, he can see what it has before hidden from his sight. With the exception of the click, and presently of the striking of the hour in thin bell-notes, not a sound is heard in the room; for the old man has list slippers on his feet.",
+    "title": "London's Heart: A Novel",
+    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+    "gutenbergReference": "45792",
+    "hash": "a17f5139d545c98ac0214e710364e6bb29b23b07d2a0a83e31d84e45c3afe003"
   },
   {
     "time": "08:55",
-    "quoteFirst": "The people shewed no disposition to disperse. They seemed desirous of prolonging their gratification by gloating on the ghastly spectacle, as, driven by the wind, it swung to and fro. At ",
+    "quoteFirst": "People said: \"He is an original;\" they admired his affectation of independence, of scepticism, and rudeness. He made his visits from ",
+    "quoteTime": "five to nine in the morning",
+    "quoteLast": "--all the worse for those for whom these hours were inconvenient. After nine o'clock the doctor was not to be had.",
+    "title": "The Mystery of Orcival",
+    "author": "Gaboriau, Emile, 1832-1873",
+    "gutenbergReference": "1651",
+    "hash": "202c7a4baa7a7bd2e1a17b9c974262feabdcbee54b71e06848a4199c5583a6c1"
+  },
+  {
+    "time": "08:55",
+    "quoteFirst": "As for Bartley, he arrived in the bull-ring at ",
     "quoteTime": "five minutes to nine",
-    "quoteLast": ", the bailies again came up Liberton's Wynd, still in their robes, and with their rods, and stood round the scaffold. Williams then mounted and lowered the body, and this, the last act, was celebrated by the finishing yell.",
-    "title": "The Court of Cacus; Or, The Story of Burke and Hare",
-    "author": "Leighton, Alexander, 1800-1874",
-    "gutenbergReference": "41642",
-    "hash": "eaf2bfa98b9ce54a472439a71c0e6fcfbf14d386eb857c1ff7f8e9ff4716a9b1"
+    "quoteLast": ", met David beside it and shook hands with him and his father.  Rhoda stood by, clad in a dark stuff dress with short skirt and short sleeves.",
+    "title": "The Virgin in Judgment",
+    "author": "Phillpotts, Eden, 1862-1960",
+    "gutenbergReference": "46926",
+    "hash": "3993bad6c96faf9ee575622f0043454661423e67e0512271e57ba354a647be0d"
+  },
+  {
+    "time": "08:55",
+    "quoteFirst": "It was just ",
+    "quoteTime": "five minutes to nine",
+    "quoteLast": " when they got to Tower Hill, and they walked down the middle of the road, keeping a bright lookout for old Sam. A little way down they saw a couple o' chaps leaning up agin a closed gate in the dock wall lighting their pipes, and Peter and Ginger both nudged each other with their elbows at the same time.",
+    "title": "Sailors' Knots (Entire Collection)",
+    "author": "Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]",
+    "gutenbergReference": "10793",
+    "hash": "0f1d40cbb3d42aeb24316cd02a0eafe0cdbfcbdf6d8ac0257cbd2562b7aa750f"
+  },
+  {
+    "time": "08:55",
+    "quoteFirst": "“Very well. Mr. Garrettson is sane in everything except in the matter of collecting MSS. At ",
+    "quoteTime": "five minutes to nine",
+    "quoteLast": " a man goes to his house--an impressive stranger, well-dressed, cold-eyed, with the aristocratic attitude toward servants that sees in them merely pieces of furniture. He tells the footman in a dehumanized voice that he must see Mr.",
+    "title": "The Plunderers: A Novel",
+    "author": "Lefevre, Edwin, 1871-1943; Bracker, M. Leone, 1885-1937 [Illustrator]",
+    "gutenbergReference": "51970",
+    "hash": "bf0a06986283b8fb28e92fd40f532f8d02b206bd1fca521c7a7be3fee1ee1c6f"
+  },
+  {
+    "time": "08:55",
+    "quoteFirst": "\"We bring Time with us,\" said Mr. Blake, producing a watch as big as a small football; \"it's ",
+    "quoteTime": "five minutes to nine",
+    "quoteLast": ".\"",
+    "title": "A Changed Heart: A Novel",
+    "author": "Fleming, May Agnes, 1840-1880",
+    "gutenbergReference": "41672",
+    "hash": "169a196fe914c6cb834fb8c74557a6aab281d06b28a2921f682c45ab34410e94"
+  },
+  {
+    "time": "08:55",
+    "quoteFirst": "We are going to try and pick up the cable of 1865 in two thousand five hundred fathoms (and we mean to succeed too); therefore should the cable we are now paying out part, it can be understood how easy it would be to raise it from a depth of three hundred fathoms. At ",
+    "quoteTime": "fifty-five minutes past eight",
+    "quoteLast": " we signalled to the Terrible to sound, and received a reply, one hundred and sixty fathoms. At half-past eleven we informed her that when at the buoy off Heart's Content she should have her paddle-box boat and two cutters ready to be alongside immediately, for holding the bight of the cable during the splice and laying the shore end.",
+    "title": "The Story of the Atlantic Telegraph",
+    "author": "Field, Henry M. (Henry Martyn), 1822-1907",
+    "gutenbergReference": "34765",
+    "hash": "d798c867ce2246bffb1d0d6c49629e0a777037ec38499fd114c044770b288dbb"
+  },
+  {
+    "time": "08:55",
+    "quoteFirst": "It was only when she reached the pavement above the pit again that she realized that the worst possible calamity had taken place. Not one member of the office staff but three saw her climb out of the excavation, for it was now ",
+    "quoteTime": "five minutes to nine",
+    "quoteLast": " and a rush to reach the office on time was in progress.",
+    "title": "The horror expert",
+    "author": "Long, Frank Belknap, 1903-1994; Schulz, Robert, 1928-1978 [Illustrator]",
+    "gutenbergReference": "71521",
+    "hash": "5a2a147ce949d45702aa34c02cd6b95053773c33bb844d7501bc3a11c0d0f36f"
+  },
+  {
+    "time": "08:55",
+    "quoteFirst": "Salterne about ",
+    "quoteTime": "five minutes to nine",
+    "quoteLast": ".  Beastly few trains!  Well, what do you say?\"",
+    "title": "Pam and the Countess",
+    "author": "Cowper, E. E. (Edith Elise), 1859-1933; Browne, Gordon, 1858-1932 [Illustrator]",
+    "gutenbergReference": "53468",
+    "hash": "383afe379ae67bcb1e976cb6504671136b8e6b4c86047712a1fa5b6c4bd0163e"
+  },
+  {
+    "time": "08:55",
+    "quoteFirst": "Accordingly, at ",
+    "quoteTime": "five minutes to nine",
+    "quoteLast": " next morning, Spargo found himself in an old-fashioned parlour, looking out upon a delightful garden, gay with summer flowers, and being introduced by Mr. Quarterpage, Senior, to Mr.",
+    "title": "The Middle Temple Murder",
+    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
+    "gutenbergReference": "10373",
+    "hash": "222c3f3c3087ada6343a204e8a513beb14ed65fa5963424577641a26e5fdaa63"
   }
 ]

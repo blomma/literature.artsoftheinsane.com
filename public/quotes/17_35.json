@@ -1,73 +1,53 @@
 [
   {
     "time": "17:35",
-    "quoteFirst": "(6) ",
+    "quoteFirst": "Lawrence at ",
+    "quoteTime": "thirty-five minutes past five",
+    "quoteLast": " ran his enemy close aboard, the “Peacock” almost immediately struck at thirty-nine minutes past five in a sinking condition, and actually went down immediately afterward, carrying with her nine of the “Peacock’s” wounded and three of the “Hornet’s” crew.",
+    "title": "History of the United States of America, Volume 7 (of 9)",
+    "author": "Adams, Henry, 1838-1918",
+    "gutenbergReference": "72846",
+    "hash": "e63a1af47530a6af1f48e6cdf9f941e7a0b48ebc1ea1e1b03565d7979d638f78"
+  },
+  {
+    "time": "17:35",
+    "quoteFirst": "POST OFFICE—_At Mr. Jeremiah Ashwood’s_.  Letters arrive at 8 A.M., and are despatched ",
     "quoteTime": "5.35 P.M.",
-    "quoteLast": " Beatty’s force, pursued by German battle cruisers and High Seas Fleet, on northerly course at long range.",
-    "title": "A True Account of the Battle of Jutland, May 31, 1916",
-    "author": "Frothingham, Thomas Goddard, 1865-1945",
-    "gutenbergReference": "47949",
-    "hash": "7275032a014dd527d63e2ef4b06b7b80a1faeed444bf0f0894d13034eb85abd4"
+    "quoteLast": "",
+    "title": "History, Gazetteer, and Directory of Shropshire [1851]",
+    "author": "Bagshaw, Samuel",
+    "gutenbergReference": "62250",
+    "hash": "d4d6177f87d92e12ce2dad4facad0ef3ccaf62c477f6b5825193df90dbb8d4ab"
   },
   {
     "time": "17:35",
-    "quoteFirst": "(6) ",
-    "quoteTime": "5.35 P.M.",
-    "quoteLast": " Beatty’s force, pursued by German battle cruisers and High Seas Fleet, on northerly course at long range.",
-    "title": "A True Account of the Battle of Jutland, May 31, 1916",
-    "author": "Frothingham, Thomas Goddard, 1865-1945",
-    "gutenbergReference": "47949",
-    "hash": "7275032a014dd527d63e2ef4b06b7b80a1faeed444bf0f0894d13034eb85abd4"
-  },
-  {
-    "time": "17:35",
-    "quoteFirst": "The only bridge over this lower schrund was at its eastern end, and we were obliged to double back to get to it. Cutting continued for half an hour after it was passed, and it was ",
-    "quoteTime": "5.35 P.M.",
-    "quoteLast": " before the axes stopped work, and we could at last turn back and look comfortably at the formidable slope upon which seven hours had been spent.[56]",
-    "title": "Scrambles Amongst the Alps in the Years 1860-69",
-    "author": "Whymper, Edward, 1840-1911",
-    "gutenbergReference": "41234",
-    "hash": "9256605272dd7945305781e59581e33063d0e341393b3c47de798f46fdd2beb9"
-  },
-  {
-    "time": "17:35",
-    "quoteFirst": "The scattering of 20,000 men along the Chattanooga route, \"in small packages\" (to use Napoleon's phrase), cannot be regarded as sound, though Steedman was more available at Cowan than at Chattanooga, and he got to Nashville \"by the skin of his teeth\" when the battle of Franklin proved that the enemy was aiming at that place, and made Thomas see the desirability of greater concentration. [Footnote: Thomas's order to Steedman to bring his troops from Cowan to Nashville was dated at ",
-    "quoteTime": "5.35 P. M.",
-    "quoteLast": " of the 30th, and his forces arrived, part on the 1st and part on the 2d of December, the last of the trains being attacked by the enemy five miles out of Nashville. _Id_., pp. 503, 1190.] He then ordered Steedman to bring his division to Nashville; but Rousseau, with Milroy's and Granger's commands, were still left at Murfreesborough and beyond. [Footnote: _Id_., p. 1153.",
-    "title": "Military Reminiscences of the Civil War, Volume 2: November 1863-June 1865",
-    "author": "Cox, Jacob D. (Jacob Dolson), 1828-1900",
-    "gutenbergReference": "6962",
-    "hash": "68f5e6c90f7521a479e3bf92151755c02334fa2defbe9842065049b71615dd95"
-  },
-  {
-    "time": "17:35",
-    "quoteFirst": "April 1: 3.30 p. m., 4.5 cc 2 per cent caffein (130 mg per kilo) injected into peritoneal cavity. ",
-    "quoteTime": "5.35 p. m.",
-    "quoteLast": ", symptoms present but no tetanus.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
-    "hash": "94e9514b57055d7bc05be97b6ee54d88dbc6675d7db67f3d0b8fb3a037567ea4"
+    "quoteFirst": "When the interesting conversation which has been narrated began, it was a quarter before three in the afternoon. It was at a quarter before four that Van Tricasse lighted his enormous pipe, which could hold a quart of tobacco, and it was at ",
+    "quoteTime": "thirty-five minutes past five",
+    "quoteLast": " that he finished smoking it.",
+    "title": "A Winter Amid the Ice, and Other Thrilling Stories",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "28657",
+    "hash": "9ab270ccdf868d149724ac08d81e306d6e988d570f7fb443c0d0dc56a38e1830"
   },
   {
     "time": "17:35",
     "quoteFirst": "At ",
-    "quoteTime": "twenty-five minutes to six",
-    "quoteLast": " Admiral Scheer began hauling round to the east, changing his course, that is to say, gradually away from the British line. Sir David supposes that he had by this time received information of the approach of the Grand Fleet.",
-    "title": "The British Navy in Battle",
-    "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
-    "gutenbergReference": "54441",
-    "hash": "912644f399b3d695aa68fdd0dd1c3d11b943ddc6d864bf8853e4373a943cd928"
+    "quoteTime": "5.35 P.M.",
+    "quoteLast": ", by Hillyar's report,--Porter is silent as to the hour,--the attack was renewed; the British ships both placing themselves on the starboard--seaward--quarter of the \"Essex.\" Before the \"Phoebe\" reached the position in which she intended to anchor, the \"Essex\" was seen to be underway.",
+    "title": "Sea Power in its Relations to the War of 1812. Volume 2",
+    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+    "gutenbergReference": "25912",
+    "hash": "8c16eef10e4337a949944dd66fb876c2829e755befe57ee07c9cb299ef10f772"
   },
   {
     "time": "17:35",
-    "quoteFirst": "He would not face Yankee cutlasses wielded in defence of the _Essex_. So the safest possible positions were chosen, and fire was again opened at ",
-    "quoteTime": "5.35 P.M.",
-    "quoteLast": "",
-    "title": "The history of our Navy from its origin to the present day, 1775-1897, vol. 3 (of 4)",
-    "author": "Spears, John Randolph, 1850-1936",
-    "gutenbergReference": "71796",
-    "hash": "8127e91ba6bc8b7603108cd74f619728718f498936d750da185ff459de5b85ef"
+    "quoteFirst": "The counsel for the accused had no other defence than the point which I mentioned in my diary; but this he turned to account beyond all expectation. It appeared that the time when Miss Frick left the pawnbroker’s could be substantiated to the minute, by the circumstance that the pawnbroker on this occasion had looked at his watch and asked his clerk if the time was not ",
+    "quoteTime": "twenty-five minutes to six",
+    "quoteLast": ".  The clerk had then leant out of the window, looked at the clock in the church tower, and answered in the affirmative.",
+    "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
+    "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
+    "gutenbergReference": "46006",
+    "hash": "431292b9d9f0cff4da08c25a82d8b0b162d4eafadf86eb302e1e72434836263c"
   },
   {
     "time": "17:35",
@@ -81,13 +61,23 @@
   },
   {
     "time": "17:35",
-    "quoteFirst": "You then take the main Carlisle road and proceed south on it. As you go you inspect all bridges, railroad tracks, streams, and ground in general for eight hundred yards on either side of the road, but find no enemy. At ",
-    "quoteTime": "twenty-five minutes to six",
-    "quoteLast": " you begin your message at the Stiner House. Before you now go south, you investigate for eight hundred yards the roads leading to the east and west from the main cross-roads south of Stiner.",
-    "title": "The English of military communications",
-    "author": "Ganoe, William Addleman, 1881-1966",
-    "gutenbergReference": "71741",
-    "hash": "66dd2540a8c6e05cdb1609f65435eb7ae3706501cecf1d134dfc9c650adb7da9"
+    "quoteFirst": "VICKSBURG, ",
+    "quoteTime": "5:35 P.M.",
+    "quoteLast": " SEE Telephone Time.",
+    "title": "Motion pictures, 1950-1959 : Catalog of copyright entries",
+    "author": "Library of Congress. Copyright Office",
+    "gutenbergReference": "59656",
+    "hash": "dfa2032a8088007fc61e9415ac142e9531251dc0571e37f48c57526bebb3e949"
+  },
+  {
+    "time": "17:35",
+    "quoteFirst": "Time of receiving death wound       ",
+    "quoteTime": "5:35 P.M.",
+    "quoteLast": "",
+    "title": "The Negro in Chicago: A Study of Race Relations and a Race Riot",
+    "author": "Chicago Commission on Race Relations",
+    "gutenbergReference": "57343",
+    "hash": "378179f59a64acb6d22a76847cbe1510c5f002ecd78cc3fae8448c610347d1ae"
   },
   {
     "time": "17:35",
@@ -101,63 +91,63 @@
   },
   {
     "time": "17:35",
-    "quoteFirst": "You then take the main Carlisle road and proceed south on it. As you go you inspect all bridges, railroad tracks, streams, and ground in general for eight hundred yards on either side of the road, but find no enemy. At ",
-    "quoteTime": "twenty-five minutes to six",
-    "quoteLast": " you begin your message at the Stiner House. Before you now go south, you investigate for eight hundred yards the roads leading to the east and west from the main cross-roads south of Stiner.",
-    "title": "The English of military communications",
-    "author": "Ganoe, William Addleman, 1881-1966",
-    "gutenbergReference": "71741",
-    "hash": "66dd2540a8c6e05cdb1609f65435eb7ae3706501cecf1d134dfc9c650adb7da9"
-  },
-  {
-    "time": "17:35",
-    "quoteFirst": "April 1: 3.30 p. m., 4.5 cc 2 per cent caffein (130 mg per kilo) injected into peritoneal cavity. ",
-    "quoteTime": "5.35 p. m.",
-    "quoteLast": ", symptoms present but no tetanus.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
-    "hash": "94e9514b57055d7bc05be97b6ee54d88dbc6675d7db67f3d0b8fb3a037567ea4"
-  },
-  {
-    "time": "17:35",
-    "quoteFirst": "From this position to the enemy's redoubts it was about half a mile in a direct course westward, and from the advanced skirmish line to the same works some 400 yards. About 5:15 p.m. the various batteries of the Union forces opened fire upon the enemy's lines, but their guns did not reply for about ten minutes, when the cannonading became brisk on both sides, lasting until ",
-    "quoteTime": "25 minutes to 6",
-    "quoteLast": "; the battery near the regiment sharing in it. Now it ceased suddenly on our side, and in its place were heard the ringing cheers of the soldiers as they rose, in full view of the reserves, from their trenches in the front and rushed towards the Confederate fortifications.",
-    "title": "History of Company E of the Sixth Minnesota Regiment of Volunteer Infantry",
-    "author": "Hill, A. J. (Alfred James), 1833-1895; Stees, Charles J.",
-    "gutenbergReference": "26276",
-    "hash": "36f44a92aa69f8558d723c512fe494c5fced082f6bb32959f4fa571ec98341d9"
-  },
-  {
-    "time": "17:35",
-    "quoteFirst": "We then afresh set off, straining to catch the next day's ",
-    "quoteTime": "5.35 P.M.",
-    "quoteLast": "",
-    "title": "The Last Miracle",
-    "author": "Shiel, M. P. (Matthew Phipps), 1865-1947",
-    "gutenbergReference": "41794",
-    "hash": "55cb8733d7fefe47d240fba0b2df36082f8cf5a7822897e2f17d026d8c87a0f0"
-  },
-  {
-    "time": "17:35",
-    "quoteFirst": "Vicksburg, ",
+    "quoteFirst": "Time of receiving death wound       ",
     "quoteTime": "5:35 P.M.",
-    "quoteLast": " © 7Oct56; LP9572.",
-    "title": "Motion pictures, 1950-1959 : Catalog of copyright entries",
-    "author": "Library of Congress. Copyright Office",
-    "gutenbergReference": "59656",
-    "hash": "3fb217769da9f414ff8570ff0ef90ceb498a6a3ca2ac48d3d4343680e158a1d9"
+    "quoteLast": "",
+    "title": "The Negro in Chicago: A Study of Race Relations and a Race Riot",
+    "author": "Chicago Commission on Race Relations",
+    "gutenbergReference": "57343",
+    "hash": "378179f59a64acb6d22a76847cbe1510c5f002ecd78cc3fae8448c610347d1ae"
   },
   {
     "time": "17:35",
-    "quoteFirst": "He had thereby shown, he said, that if Miss Frick was the lady who had left the pawnbroker’s at ",
+    "quoteFirst": "At ",
     "quoteTime": "twenty-five minutes to six",
-    "quoteLast": "—which was now an established fact—it could not be she who had been photographed with the diamond in her hand at twenty minutes to six!  That the little clock in the elephant’s head was right to the minute, had been proved by Mr. Frick’s evidence.",
+    "quoteLast": " Admiral Scheer began hauling round to the east, changing his course, that is to say, gradually away from the British line. Sir David supposes that he had by this time received information of the approach of the Grand Fleet.",
+    "title": "The British Navy in Battle",
+    "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
+    "gutenbergReference": "54441",
+    "hash": "912644f399b3d695aa68fdd0dd1c3d11b943ddc6d864bf8853e4373a943cd928"
+  },
+  {
+    "time": "17:35",
+    "quoteFirst": "The afternoon was now getting late: _Mana_ stood boldly in close to the entrance of the cove. She lowered her cutter, the shore party were soon on board again, and at ",
+    "quoteTime": "5.35 p.m.",
+    "quoteLast": " (6.2.16) we bore away for Hicaron Island at the entrance to the Gulf of Panama, S. 69° E., distant 1,834 miles.",
+    "title": "The mystery of Easter island: the story of an expedition",
+    "author": "Routledge, Katherine, 1866-1935",
+    "gutenbergReference": "69807",
+    "hash": "5739e0b1440bab15f1cd9a97e6db807ed622d77eea3b11ca01c86852af1c3cbf"
+  },
+  {
+    "time": "17:35",
+    "quoteFirst": "Sam O'Neill looked at his watch; it was ",
+    "quoteTime": "twenty-five minutes to six",
+    "quoteLast": ". And, a moment later, Director Pond came up the steps, entered and said:",
+    "title": "V. V.'s Eyes",
+    "author": "Harrison, Henry Sydnor, 1880-1930; Crosby, Raymond Moreau, 1876-1945 [Illustrator]",
+    "gutenbergReference": "13985",
+    "hash": "bb27d50b0380db4ad7b45d38a8e2ca79127e99b65a8354aa78ddd104633ff375"
+  },
+  {
+    "time": "17:35",
+    "quoteFirst": "The counsel for the accused had no other defence than the point which I mentioned in my diary; but this he turned to account beyond all expectation. It appeared that the time when Miss Frick left the pawnbroker’s could be substantiated to the minute, by the circumstance that the pawnbroker on this occasion had looked at his watch and asked his clerk if the time was not ",
+    "quoteTime": "twenty-five minutes to six",
+    "quoteLast": ".  The clerk had then leant out of the window, looked at the clock in the church tower, and answered in the affirmative.",
     "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
     "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
     "gutenbergReference": "46006",
-    "hash": "1c81784b1c7b5099faaf76cbd38667f6bcd8f701f51c2bd0343bd11c6b782e83"
+    "hash": "431292b9d9f0cff4da08c25a82d8b0b162d4eafadf86eb302e1e72434836263c"
+  },
+  {
+    "time": "17:35",
+    "quoteFirst": "All were much spent, the artillery horses could scarcely drag their pieces, and there was a showing of opposition on the right front; but French, despite the general exhaustion, decided to drive on without halting, lest the enemy, recovering from their surprise, should concentrate to oppose his passage. Thus hastening, the Boers, taken unready, were routed. At ",
+    "quoteTime": "5.35 P.M.",
+    "quoteLast": " French reported back to Roberts, who received the message at {p.272} De Kiel's Drift, that he had occupied the hills on the north of the river, capturing three of the enemy's laagers with supplies, while Gordon with his brigade had seized Rondeval Drift, four miles west, with a second drift between it and Klip, and two more laagers.",
+    "title": "Story of the War in South Africa, 1899-1900",
+    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+    "gutenbergReference": "20987",
+    "hash": "c5cd7abf8dac42d30f57a872a3082decb736eb73389628ff498ce34a3678db16"
   },
   {
     "time": "17:35",
@@ -173,30 +163,40 @@
     "time": "17:35",
     "quoteFirst": "At ",
     "quoteTime": "5.35 P.M.",
-    "quoteLast": " the _Lion’s_ course was gradually altered from N.N.E.",
-    "title": "The Grand Fleet, 1914-1916",
-    "author": "Jellicoe, John Rushworth, 1859-1935",
-    "gutenbergReference": "75323",
-    "hash": "b6f81f7d8ac27002bb44bdcf667582e8edf589d307590d84c804d694cc5607ec"
+    "quoteLast": ", by Hillyar's report,--Porter is silent as to the hour,--the attack was renewed; the British ships both placing themselves on the starboard--seaward--quarter of the \"Essex.\" Before the \"Phoebe\" reached the position in which she intended to anchor, the \"Essex\" was seen to be underway.",
+    "title": "Sea Power in its Relations to the War of 1812. Volume 2",
+    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+    "gutenbergReference": "25912",
+    "hash": "8c16eef10e4337a949944dd66fb876c2829e755befe57ee07c9cb299ef10f772"
   },
   {
     "time": "17:35",
-    "quoteFirst": "In the meantime, I asked the lawyer if he had taken note of the fact that the pawnbroker’s time by the clock had made it impossible that Miss Frick could be back at Villa Ballarat at the time when the photograph was taken.  According to the pawnbroker’s account, she drove from there ",
+    "quoteFirst": "When he began to think it might be as well to return home, and to feel as if fifteen wolves were inside him fighting for their dinner, he was in some obscure and remote region of Chelsea, where the population was more crowded than aristocratic, and the ice abundant. Happening to cast his eyes to a clock in a baker's shop he saw that it wanted but ",
     "quoteTime": "twenty-five minutes to six",
-    "quoteLast": ", and the clock in the photograph showed it to be twenty minutes to six.  The way from Bishop Road to Villa Ballarat cannot be covered in five minutes.",
-    "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
-    "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
-    "gutenbergReference": "46006",
-    "hash": "d85085453389f53e2989c179a1a662bf61162484a4ccdd7d1c2488bad9216b56"
+    "quoteLast": ".",
+    "title": "Oswald Cray: A Novel",
+    "author": "Wood, Henry, Mrs., 1814-1887",
+    "gutenbergReference": "58188",
+    "hash": "5e70155ee67111f2d1ab2523371af52794db9082e4252055a1ba460eb4690f77"
   },
   {
     "time": "17:35",
-    "quoteFirst": "We then afresh set off, straining to catch the next day's ",
-    "quoteTime": "5.35 P.M.",
+    "quoteFirst": "You then take the main Carlisle road and proceed south on it. As you go you inspect all bridges, railroad tracks, streams, and ground in general for eight hundred yards on either side of the road, but find no enemy. At ",
+    "quoteTime": "twenty-five minutes to six",
+    "quoteLast": " you begin your message at the Stiner House. Before you now go south, you investigate for eight hundred yards the roads leading to the east and west from the main cross-roads south of Stiner.",
+    "title": "The English of military communications",
+    "author": "Ganoe, William Addleman, 1881-1966",
+    "gutenbergReference": "71741",
+    "hash": "66dd2540a8c6e05cdb1609f65435eb7ae3706501cecf1d134dfc9c650adb7da9"
+  },
+  {
+    "time": "17:35",
+    "quoteFirst": "Assembly, ",
+    "quoteTime": "5.35 p.m.",
     "quoteLast": "",
-    "title": "The Last Miracle",
-    "author": "Shiel, M. P. (Matthew Phipps), 1865-1947",
-    "gutenbergReference": "41794",
-    "hash": "55cb8733d7fefe47d240fba0b2df36082f8cf5a7822897e2f17d026d8c87a0f0"
+    "title": "Military Instructors Manual",
+    "author": "Cole, J. P. (James Perry), 1889-1977; Schoonmaker, Oliver, 1882-1968",
+    "gutenbergReference": "14625",
+    "hash": "96aa7ffd978bdb2a882802b7339640ab8da66c75307d5a1650aa83b9040e799a"
   }
 ]

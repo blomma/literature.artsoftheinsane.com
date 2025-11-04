@@ -1,143 +1,43 @@
 [
   {
     "time": "00:00",
-    "quoteFirst": "According to one account, Darnley privately assured his uncle George Douglas of his wife's infidelity; he had himself, if he might be believed, discovered the secretary in the Queen's apartment ",
-    "quoteTime": "at midnight",
-    "quoteLast": ", under circumstances yet more unequivocally compromising than those which had brought Chastelard to the scaffold. Another version of the pitiful history represents Douglas as infusing suspicion of Rizzio into the empty mind of his nephew, and thus winning his consent to a deed already designed by others.",
-    "title": "The Great Events by Famous Historians, Volume 10",
-    "author": "Horne, Charles F. (Charles Francis), 1870-1942 [Editor]; Johnson, Rossiter, 1840-1931 [Editor]; Rudd, John, LL. D. [Editor]",
-    "gutenbergReference": "19893",
-    "hash": "4901ff13a26cfda90e37ff9cb8d8413ec0810d272d02fb447b474a33c2cbe302"
-  },
-  {
-    "time": "00:00",
-    "quoteFirst": "Between eleven and ",
-    "quoteTime": "twelve o'clock",
-    "quoteLast": " the brigade went ashore for a \"snack.\"  The canoes were snubbed to overhanging trees, and upon a rocky flat the fires burned.",
-    "title": "The Drama of the Forests: Romance and Adventure",
-    "author": "Heming, Arthur, 1871-1940",
-    "gutenbergReference": "18495",
-    "hash": "65c26ac41833f7e08bc5c0c405ea20f8beb3c26b69bb59dd62c4677b260dc9fc"
-  },
-  {
-    "time": "00:00",
-    "quoteFirst": "Moving from Falmouth late in the afternoon, with nearly the entire command, I marched until about ",
-    "quoteTime": "twelve o'clock at night",
-    "quoteLast": ", and halted at a point on the Independence road, about ten miles from the enemy's encampment. Scouts were immediately sent out to ascertain as nearly as possible the exact location of the pickets, and the condition of every thing about the encampments.",
-    "title": "History of Morgan's Cavalry",
-    "author": "Duke, Basil Wilson, 1838-1916",
-    "gutenbergReference": "31232",
-    "hash": "0f2c2e13af49a3b614ef6df43b549ea5041f15df182fe3e1b4437bad10e2f527"
-  },
-  {
-    "time": "00:00",
-    "quoteFirst": "Just how the sequel eventuated no one in Ponape save the old Chinaman knew, and he never told. With only half her copra discharged, the _Scud_ was heard getting under way ",
-    "quoteTime": "at midnight",
-    "quoteLast": ", shortly after which the silhouette of her, close-reefed, was observed to blot out the moon three or four times as she beat out of that \"hell's craw\" of a passage in the teeth of a rising sou'wester. The girl was never seen in the Carolines again.",
-    "title": "Hell's Hatches",
-    "author": "Freeman, Lewis R. (Lewis Ransome), 1878-1960",
-    "gutenbergReference": "44632",
-    "hash": "e4e4fda11033e204d9bc92da70419bc0d2e5e9e01e21ac150b38701f60beff0c"
-  },
-  {
-    "time": "00:00",
-    "quoteFirst": "By a quarter to ",
-    "quoteTime": "twelve o’clock",
-    "quoteLast": " I had reached the mouth of Antietam Creek, ten miles from Harper’s Ferry, and had now to leave the river and strike over the hills for Sharpsburg, two miles distant. Nothing had happened to me during my walk, save that a stray bullet from beyond the river had now and then whistled about my ears.",
-    "title": "John Smith's Funny Adventures on a Crutch\nOr The Remarkable Peregrinations of a One-legged Soldier after the War",
-    "author": "Hill, A. F. (Ashbel Fairchild), 1842-1876",
-    "gutenbergReference": "49961",
-    "hash": "7eb9d155fa3f020ae09998dda33aada32714a7d9b9a63fed11ad33ccb9a3565b"
-  },
-  {
-    "time": "00:00",
-    "quoteFirst": "On THURSDAY, JUNE 28, 1832, ",
-    "quoteTime": "at Twelve o'Clock",
-    "quoteLast": ", IN ONE LOT, BY DIRECTION OF THE EXECUTORS.",
-    "title": "The \"Ladies of Llangollen\"\r\nas Sketched by Many Hands; with Notices of Other Objects of Interest in \"That Sweetest of Vales\"",
-    "author": "Hicklin, John",
-    "gutenbergReference": "20810",
-    "hash": "a5f1eae62394b228b96ca1ddab3248fda829f62f66d2ada9a0de0b04f65977ce"
-  },
-  {
-    "time": "00:00",
-    "quoteFirst": "\"I will go, if you will consent to meet me ",
-    "quoteTime": "at midnight",
-    "quoteLast": " near the old house in Wych Street,\" replied Jack. \"By that time, I shall have fully considered a plan which occurs to me for defeating the schemes of your enemies.",
-    "title": "Jack Sheppard: A Romance",
-    "author": "Ainsworth, William Harrison, 1805-1882",
-    "gutenbergReference": "16215",
-    "hash": "df27b7d4b6fa94fb8e4c6c04fb414aec4f1fd5244e799bd3f59b5a71f3ebfa1e"
-  },
-  {
-    "time": "00:00",
-    "quoteFirst": "\"'A very short time indeed,' said the jolly undertaker. 'She arrived at the Talbot the day before yesterday, about ",
-    "quoteTime": "twelve o'clock",
-    "quoteLast": ", in high health, and by six at night, as I said afore, she was a corpse.'",
-    "title": "The Choice Humorous Works, Ludicrous Adventures, Bons Mots, Puns, and Hoaxes of Theodore Hook",
-    "author": "Hook, Theodore Edward, 1788-1841",
-    "gutenbergReference": "50401",
-    "hash": "c5d2380a069cbe5d87f7023f0cf24cc3e2ffe66c663b2043b8f649bda364ff04"
-  },
-  {
-    "time": "00:00",
-    "quoteFirst": "",
-    "quoteTime": "Twelve o'clock",
-    "quoteLast": ".",
-    "title": "The History of Emily Montague",
-    "author": "Brooke, Frances, 1724?-1789",
-    "gutenbergReference": "16300",
-    "hash": "255dfc8bcd93ec5061a6bac5fa7831b329e9d5d31502462e75c561b73aaaaedb"
-  },
-  {
-    "time": "00:00",
-    "quoteFirst": "Here we turned into a canal, up which we journeyed for some miles, and then anchored for the night. The next morning, having slept on board, we proceeded on our course, and reached the Khatah Ghat, or landing-place (pronounced gaut), at about ",
-    "quoteTime": "twelve o'clock",
-    "quoteLast": ". Here we remained until four in the afternoon, entered our palanquins, a kind of square boxes, which are carried on men's shoulders, handsomely painted outside, with soft cushions inside, and lamps like a carriage. In this sort of thing we move about everywhere, and in crossing a river do not wet our feet.",
-    "title": "A Popular Account of the Manners and Customs of India",
-    "author": "Acland, Charles, 1812-1845",
-    "gutenbergReference": "43586",
-    "hash": "b8d34deec0fbd577ec95ef86efef3eef540b599d5c0500ba87c53d70f67c34da"
-  },
-  {
-    "time": "00:00",
-    "quoteFirst": "“October 30. ",
+    "quoteFirst": "II. 84.----Jourdan, 222.--Méhée, 179. \"",
     "quoteTime": "At midnight",
-    "quoteLast": ", something walked into the chamber treading like a bear: it walked many times about, then threw the warming-pan violently on the floor, and so bruised it that it was spoiled. Vast quantities of glass were now thrown about the room, and vast numbers of great stones and horses’ bones thrown in; these were all found in the morning, and the floor, beds, and walls, were all much damaged by the violence they were thrown in.",
-    "title": "The Every-day Book and Table Book. v. 2 (of 3)\r\nor Everlasting Calendar of Popular Amusements, Sports, Pastimes, Ceremonies, Manners, Customs and Events, Incident to Each of the Three Hundred and Sixty-five Days, in past and Present Times; Forming a Complete History of the Year, Month, and Seasons, and a Perpetual Key to the Almanac",
-    "author": "Hone, William, 1780-1842",
-    "gutenbergReference": "53276",
-    "hash": "6ba5e79b024c76e53b7fae133150dd2465772401bc0c50e1369c07c61fcd66f7"
+    "quoteLast": " they came back swearing, cursing, and foaming with rage, threatening to cut the throats of the committee in a body if they were not instantly paid.\"]",
+    "title": "The French Revolution - Volume 2",
+    "author": "Taine, Hippolyte, 1828-1893; Rom, Svend [Annotator]; Durand, John, 1822-1908 [Translator]",
+    "gutenbergReference": "2579",
+    "hash": "eafc9f9d54f0a4d3f2a0627ceed73b92212b43818573ff0fa75d3848df07bef9"
   },
   {
     "time": "00:00",
-    "quoteFirst": "Lanyard of almost any Broadway restaurant ",
+    "quoteFirst": "Here we actually are, safely landed in Fiji! We embarked on the Egmont on the 9th, and left Sydney ",
     "quoteTime": "at midnight",
-    "quoteLast": ".",
-    "title": "The Lone Wolf Returns",
-    "author": "Vance, Louis Joseph, 1879-1933",
-    "gutenbergReference": "59177",
-    "hash": "64dde04951a6d8e28f469c0d0cd04e770b4df22b22f7b236f8003c75e3e1265e"
+    "quoteLast": ". The Egmont was specially chartered to carry the Engineers. Their officers are Colonel Pratt, Captain Stewart, Mr Lake, and Dr Carew. Our only other companions were the Rev.",
+    "title": "At home in Fiji",
+    "author": "Gordon Cumming, C. F. (Constance Frederica), 1837-1924",
+    "gutenbergReference": "76974",
+    "hash": "d8a9048bdd745959a4949687977d6efe5c00fbe1b8559290a010fa418a2337be"
   },
   {
     "time": "00:00",
-    "quoteFirst": "",
-    "quoteTime": "At midnight",
-    "quoteLast": " I reach home.  My hands are empty.",
-    "title": "The gardener",
-    "author": "Tagore, Rabindranath, 1861-1941",
-    "gutenbergReference": "6686",
-    "hash": "8b27b4971483cbb7f36a766c3b7898150ea735be9aed220ebcb76c988e640167"
+    "quoteFirst": "CHIPPEWA RIVER.--",
+    "quoteTime": "At twelve o'clock",
+    "quoteLast": " precisely we came to the confluence of this fork with the main stream. The Chippewa is a noble mass of water, flowing with a wide sweeping majesty to the Mississippi.",
+    "title": "Personal Memoirs of a Residence of Thirty Years with the Indian Tribes on the American Frontiers",
+    "author": "Schoolcraft, Henry Rowe, 1793-1864",
+    "gutenbergReference": "11119",
+    "hash": "13ae7abf5cfd76a435e0771d32f41a2d8fdbf4da2db95f072ad1784c2e33872c"
   },
   {
     "time": "00:00",
-    "quoteFirst": "On August 2nd, the German armies entered Luxembourg, and violated French territory without any declaration of war. Two days later Britain sent its ultimatum to Germany and as, on the same day, German troops entered Belgian territory, war broke out between the two countries ",
+    "quoteFirst": "A[n]d we'd fain speak; bids me good morrow ",
     "quoteTime": "at midnight",
-    "quoteLast": ", August 4/5th. Such was the atmosphere in which the Battalion carried out its training at Marske.",
-    "title": "History of the 1/4th Battalion Duke of Wellington's (West Riding) Regiment, 1914-1919.",
-    "author": "Bales, P. G.",
-    "gutenbergReference": "67633",
-    "hash": "aa29bca575b277a7431c1fba39856b7a86eaf71f94aa6f6365629b7167163033"
+    "quoteLast": ", And good night when 'tis noon, has something hovers About his brains, that would fain find an issue, But cannot out, or dares not: still he follows.",
+    "title": "Beaumont and Fletcher's Works, Vol. 08 of 10",
+    "author": "Beaumont, Francis, 1584-1616; Fletcher, John, 1579-1625; Waller, A. R. (Alfred Rayney), 1867-1922 [Editor]",
+    "gutenbergReference": "35303",
+    "hash": "90c9b26357829936a39b46215421bb5dc35425baad4f42347eb243955e27f7a8"
   },
   {
     "time": "00:00",
@@ -151,52 +51,152 @@
   },
   {
     "time": "00:00",
-    "quoteFirst": "“You are mistaken, Rais, I replied, very much mistaken; I love to hear modern miracles vastly, there is always some amusement in them.”--“Aboard your Christian ships, says he, you always have a prayer ",
-    "quoteTime": "at twelve o’clock",
-    "quoteLast": ", and drink a glass of brandy; since you won’t be a Turk like me, I wish at least you would be a Christian.”--Very fairly put, said I, Hassan, let your vessel keep her wind if there is no danger, and I shall take care to lay in a stock for the whole voyage at the first town in which we can purchase it.",
-    "title": "Travels to Discover the Source of the Nile, Volume 1 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
-    "author": "Bruce, James, 1730-1794",
-    "gutenbergReference": "54180",
-    "hash": "5658d8a65ef084f8930fb30487ea4a88ff3b04894f241b638947adb2fc43ff78"
+    "quoteFirst": "'That we had better get off the road,' I answered. 'Take it they found him ",
+    "quoteTime": "at midnight",
+    "quoteLast": "; the orderly's patience would scarcely last longer.",
+    "title": "My Lady Rotha: A Romance",
+    "author": "Weyman, Stanley John, 1855-1928",
+    "gutenbergReference": "38985",
+    "hash": "26eb670f9051858fed2fc8aec0748e7896bc7b1bb09adc05fef984873a9d8559"
   },
   {
     "time": "00:00",
-    "quoteFirst": "",
+    "quoteFirst": "\"Nothing more than that you are to keep track of anything that may happen. O'Neill is to relieve you again ",
+    "quoteTime": "at midnight",
+    "quoteLast": ".\"",
+    "title": "Ashton-Kirk, Secret Agent",
+    "author": "McIntyre, John T. (John Thomas), 1871-1951; Boyer, Ralph L. (Ralph Ludwig), 1879-1952 [Illustrator]",
+    "gutenbergReference": "39940",
+    "hash": "c9e79cbf2f0a772b62650b5ce90f1cee36ab409ed3552b53e9a4a24d5b1d0019"
+  },
+  {
+    "time": "00:00",
+    "quoteFirst": "Sedgwick followed closely upon Warren and crossed the Rapidan at Germania Ford. The Ninth Corps received its orders on the 4th, whereupon General Burnside immediately put the Corps in motion toward the front. Bivouacking ",
+    "quoteTime": "at midnight",
+    "quoteLast": ", the line of march was again taken up at daylight, and at night the Rapidan was crossed at Germania Ford. The corps marched on a road parallel to that of its old antagonist, General Longstreet's army, which was hastening to assist Lee, who had met the Army of the Potomac in the entanglements of the wilderness, where a stubborn and sanguinary fight raged for two days.",
+    "title": "The Black Phalanx\r\nAfrican American soldiers in the War of Independence, the War of 1812, and the Civil War",
+    "author": "Wilson, Joseph T. (Joseph Thomas), 1836-1891",
+    "gutenbergReference": "31339",
+    "hash": "2b0ef624bd46f8d43a69cba5e6f49db3755d463a1904a19f28756be0ebdb5a09"
+  },
+  {
+    "time": "00:00",
+    "quoteFirst": "Patiently, but with blighted hope, we broke more sticks and piled them, and once more the Prussian shot them into annihilation.  Plainly, to light a fire with a pistol was an art requiring practice and experience, and the middle of a desert ",
+    "quoteTime": "at midnight",
+    "quoteLast": " in a snow-storm was not a good place or time for the acquiring of the accomplishment.  We gave it up and tried the other.",
+    "title": "Roughing It, Part 4.",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "8585",
+    "hash": "0439003e560479f398420251cf2f30b04494b478a7f403909f805f3117cca94f"
+  },
+  {
+    "time": "00:00",
+    "quoteFirst": "Bankes came ",
+    "quoteTime": "at twelve o'clock",
+    "quoteLast": ". He told me he had been with the Duke, and had received from him the offer of his old office. He had asked permission to consult one person, whose name he did not mention to the Duke,--it was the Duke of Cumberland.",
+    "title": "A Political Diary, 1828-1830, Volume II",
+    "author": "Ellenborough, Edward Law, Earl of, 1790-1871; Colchester, Reginald Charles Edward Abbot, 3d Baron, 1842-1919 [Editor]",
+    "gutenbergReference": "10693",
+    "hash": "d32ac769d3542ee20bfe6d012b9d1206bb76b20afb12d6c00d49575f4e4db915"
+  },
+  {
+    "time": "00:00",
+    "quoteFirst": "Marmona and I talked it over next day and we both agreed that my midnight visitor was an envious thief, who was after my violin and thought to steal it from my hut whilst I slept. As I have told you before, the whole of the Pacific Islanders are born thieves, and I noticed that as Marmona told me his suspicions and waxed indignant over th",
+    "quoteTime": "at midnight",
+    "quoteLast": " thief his own dark eyes gave one avaricious gleam as he caught sight of my violin, which he would have stolen in five seconds if he had thought I should never suspect him. For the brown men are no better than the whites, and will, in due course, all be virtuous and honest, valuing their neighbour’s opinion more than the article which their hearts long to steal.",
+    "title": "Sailor and beachcomber\r\nConfessions of a life at sea, in Australia, and amid the islands of the Pacific",
+    "author": "Safroni-Middleton, A. (Arnold), 1873-1950",
+    "gutenbergReference": "58624",
+    "hash": "f1fe701d573707a4cc4456548c6c37b9c9335844db732d76f9d0e7ba52b2b261"
+  },
+  {
+    "time": "00:00",
+    "quoteFirst": "An hour had sufficed him to register and unpack his bag and trunk in the room assigned to him in Torrence Hall. Since that time--and it was now almost ",
+    "quoteTime": "twelve o'clock",
+    "quoteLast": "--he had wandered about the school. He had peeped into the other dormitories and the recitation building, had explored the gymnasium from basement to trophy room and, finally, had loitered across the athletic field to the grand-stand, where, for the better part of an hour, he had been sitting in the sun, getting lonelier every minute.",
+    "title": "Left Tackle Thayer",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "13542",
+    "hash": "d6a621c8e1e5c0341d5ed6f027e6c3ecb187a28c2b8fb700cda3a6742aa45c17"
+  },
+  {
+    "time": "00:00",
+    "quoteFirst": "Remember that the Consul and his army have been besieged now for three days, and that no man knows what a day or a night may bring forth.\" The soldiers themselves also were zealous to obey, crying out to the standard-bearers that they should quicken their steps, and to their fellows that they should not lag behind. Thus they came ",
+    "quoteTime": "at midnight",
+    "quoteLast": " to Mount Ædigus, and when they perceived that the enemy was at hand they halted the standards. Then the Dictator rode forward to see, so far as the darkness would suffer him, how great was the camp of the Æquians and after what fashion it was pitched.",
+    "title": "Young Folks' Treasury, Volume 2 (of 12)\r\nMyths and Legendary Heroes",
+    "author": "Mabie, Hamilton Wright, 1846-1916 [Editor]",
+    "gutenbergReference": "15202",
+    "hash": "b8dbf956bcabf761c660142f8df0e41c93fd9e07e51edcab9d82536b652ced4e"
+  },
+  {
+    "time": "00:00",
+    "quoteFirst": "\"",
     "quoteTime": "At midnight",
-    "quoteLast": " and at morn,\"",
-    "title": "A Rambler's lease",
-    "author": "Torrey, Bradford, 1843-1912",
-    "gutenbergReference": "36173",
-    "hash": "e07c6aa02a6bc49c981ec217e646b2bcbac96134d53ba67e7c2d6da73d8e66c4"
+    "quoteLast": " four times in each year does her sprite With shrieks make the chamber resound. 'I won't take the rhubarb!' she squalls in affright, While a cup in his left hand, a draught in his right, Giles Bolus pursues her around.",
+    "title": "A Book About Doctors",
+    "author": "Jeaffreson, John Cordy, 1831-1901",
+    "gutenbergReference": "40161",
+    "hash": "a8c83637db92c1913c3fd13664029f202694e7e5a092de2955f15ab102c9eef3"
   },
   {
     "time": "00:00",
-    "quoteFirst": "Who were these, moving thus abroad ",
+    "quoteFirst": "By the light of a dimly burning lantern, he drew forth the Prayer Book, and read the impressive marriage ceremony of his church. The responses were solemnly uttered, the benediction invoked, and at th",
     "quoteTime": "at midnight",
-    "quoteLast": "?  Surely, none of our people would find themselves away here in this wizard spot at such an hour.  Ha!  Could it be some of our own people who had come in search of me, seeing I did not return?  Yet, somehow, this did not seem the explanation of it.",
-    "title": "The White Shield",
-    "author": "Mitford, Bertram, 1855-1914",
-    "gutenbergReference": "32893",
-    "hash": "44531349f4c9895b228620f6a52f0c5764361ea246dad67f621ccf02c0dae617"
+    "quoteLast": " hour, in the stillness of the porter's lodge, Emile Le Grande and the young Jewess were pronounced \"man and wife.\" Driving quickly to the vessel that was ready to depart for the tropical port with the first appearance of the morning sun, Emile soon safely ensconced his bride in the comfortable cabin, and with a feeling of joy, tinged only with a shadowy apprehension, he bade adieu to the kind bishop, who had accompanied them thither.",
+    "title": "Leah Mordecai: A Novel",
+    "author": "Abbott, Belle K. (Belle Kendrick), 1842-1893",
+    "gutenbergReference": "4955",
+    "hash": "7fb776182098b8261ccdb9c3221b728e49a02f0328550869478c21410d01ebef"
   },
   {
     "time": "00:00",
-    "quoteFirst": "I think Kent had just announced “",
-    "quoteTime": "Twelve o’clock",
-    "quoteLast": ",” when--",
-    "title": "My Escape from Germany",
-    "author": "Keith, Eric A.",
-    "gutenbergReference": "49509",
-    "hash": "ea558f24a599ef5a915411bd6f7588af94be44389054eda56c4f169faeb2dd47"
+    "quoteFirst": "They threaded their way through the graves, stumbling over them here and there. An owl was toowhooing from the church tower, a dog was howling somewhere, a cock began to crow, as they will sometimes at ",
+    "quoteTime": "twelve o'clock at night",
+    "quoteLast": ".",
+    "title": "Stories of Comedy",
+    "author": "Johnson, Rossiter, 1840-1931 [Editor]",
+    "gutenbergReference": "20229",
+    "hash": "47406c99019eb2f3390805a7d28dc606f563c10a99bc579fac8026e956ca600c"
   },
   {
     "time": "00:00",
-    "quoteFirst": "Launceston ",
+    "quoteFirst": "The woman's will was followed and so the stepmother prepared her stepdaughter to be cast to the Dragon-child on the following day. The maiden was very beautiful and graceful. She wept all night and prayed God to pity her. ",
+    "quoteTime": "At midnight",
+    "quoteLast": " she heard some one speak to her in her dreams, saying:",
+    "title": "The Golden Maiden, and other folk tales and fairy stories told in Armenia",
+    "author": "Seklemian, A. G. (Apraham Garabed), 1864-1920; Blackwell, Alice Stone, 1857-1950 [Author of introduction, etc.]",
+    "gutenbergReference": "46944",
+    "hash": "112a2128d80261ffe0e0e370466d523bc79e3ee3ee13b56fe5f2b3d2deb2cbd1"
+  },
+  {
+    "time": "00:00",
+    "quoteFirst": "She found herself outwitted by the politicians, as she had been so many times before, but while this defeat was the bitterest disappointment of her life, it did not crush her dauntless spirit. It is related of her that as she came down the steps of the Capitol with the other ladies ",
     "quoteTime": "at midnight",
-    "quoteLast": ", and many of the enemy escaped “by the darknesse of the night, and narrownesse and steepnesse of the wayes.” Those who were taken were amazed in the morning, when they were brought before the general, and “had twelve pence apeece given them, and passes to goe to their homes.",
-    "title": "Motor Tours in the West Country",
-    "author": "Stawell, Rodolph, Mrs., 1865-1949; Stawell, R. De S. [Photographer]",
-    "gutenbergReference": "54405",
-    "hash": "8f00345c821c59153e1cbc678336af0ae51006e37d521d2beac7ecfb9c912280"
+    "quoteLast": ", after the vote had been taken, she began planning another campaign.",
+    "title": "The Life and Work of Susan B. Anthony (Volume 2 of 2)\r\nIncluding Public Addresses, Her Own Letters and Many From Her Contemporaries During Fifty Years",
+    "author": "Harper, Ida Husted, 1851-1931",
+    "gutenbergReference": "31125",
+    "hash": "bb24311ce624df0b56e2f6d29b15b4815db5b19e102d3dba3de7535333142cfa"
+  },
+  {
+    "time": "00:00",
+    "quoteFirst": "Chaos. Has it not heard the chimes ",
+    "quoteTime": "at midnight",
+    "quoteLast": "? It has deliberated, beset by a Hundred thousand armed men with artillery-furnaces and provision-carts. It has been betocsined, bestormed; over-flooded by black deluges of Sansculottism; and has heard the shrill cry, _Bread and Soap_.",
+    "title": "The French Revolution: A History",
+    "author": "Carlyle, Thomas, 1795-1881",
+    "gutenbergReference": "1301",
+    "hash": "dbef98c7491cf8472e6d85453efe38a34a6b9aa8aa36c2a3c4314a63a33313ad"
+  },
+  {
+    "time": "00:00",
+    "quoteFirst": "\"Feb. 4. Snowed hard until ",
+    "quoteTime": "twelve o'clock",
+    "quoteLast": " last night; many uneasy for fear we shall all perish with hunger; we have but little meat left, and only three hides; Mrs. Reed has nothing but one hide, and that is on Graves's house; Milton lives there, and likely will keep that. Eddy's child died last night.",
+    "title": "The Passing of the Frontier: A Chronicle of the Old West",
+    "author": "Hough, Emerson, 1857-1923",
+    "gutenbergReference": "3033",
+    "hash": "2214985ae6c11f90bd35d223dd83833c4b5f4621a1b6a79793edc978c6a14db7"
   }
 ]

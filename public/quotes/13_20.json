@@ -1,13 +1,133 @@
 [
   {
     "time": "13:20",
-    "quoteFirst": "“About ",
+    "quoteFirst": "When she saw him drift in from lunch at ",
     "quoteTime": "twenty minutes past one",
-    "quoteLast": ".”",
-    "title": "The official chaperon",
-    "author": "Lincoln, Natalie Sumner, 1881-1935; Frederick, Edmund, 1870-1949 [Illustrator]; McMein, Neysa, 1889-1949 [Illustrator]",
-    "gutenbergReference": "69388",
-    "hash": "bc20c344b3be8fc4881a3d291afd3b067b1da644de904d28a3f8774b7801deb7"
+    "quoteLast": ", she took the time without further ado. She snatched a sheet of office paper, rolled it into the machine, snapped the carriage into position, and began.",
+    "title": "The Wall Street Girl",
+    "author": "Bartlett, Frederick Orin, 1876-1945; Wolfe, George Ellis [Illustrator]",
+    "gutenbergReference": "29654",
+    "hash": "ec79584a804ca1c3842edab4053cea060bd6e5bdabafedbd3fa5852c1139ad3c"
+  },
+  {
+    "time": "13:20",
+    "quoteFirst": "If the wind changes during the actual passage, birds will change the direction of their flight to suit the wind. Thus at the Shipwash, on Oct. 16th, from 9.50 a.m. to ",
+    "quoteTime": "1.20 p.m.",
+    "quoteLast": " the wind was N.N.W., flocks constantly passing from S.E. to N.W. from 1.20 to 3.20 p.m. the wind blew from N.N.E., and the birds passed S.S.E. to N.N.W. If subsequent observations should prove the correctness of this rule, it will go far to account for all the irregularities of migration--the \"why\" birds are seen in great numbers in one year in any locality, and perhaps absent altogether in following seasons.",
+    "title": "Report on the Migration of Birds in the Autumn of 1879. [First Report]",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Cordeaux, John, 1831-1899",
+    "gutenbergReference": "65621",
+    "hash": "459c5b4b79391dcb588fbd44ea0ec504ae161c85bca0986d9a8186cedfb61b19"
+  },
+  {
+    "time": "13:20",
+    "quoteFirst": "It was Ken O'Donnell who, at about ",
+    "quoteTime": "1:20 p.m.",
+    "quoteLast": ", told us that the President had died. I think his precise words were, \"He's gone.\" O'Donnell said that we should return to Washington and that we should take the President's plane for this purpose.",
+    "title": "Warren Commission (05 of 26): Hearings Vol. V (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44005",
+    "hash": "f0d34ee4690881d4fbdf2c77ab438f9603170c912a6b24e571cd6275ef88e234"
+  },
+  {
+    "time": "13:20",
+    "quoteFirst": "Laredo at approximately ",
+    "quoteTime": "1:20 p.m.",
+    "quoteLast": "[A13-1138]",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "cd79bcc9e5e5091bfecef71527f35515660e9da5e85ecced1074e03172a7b9fb"
+  },
+  {
+    "time": "13:20",
+    "quoteFirst": "Laredo at approximately ",
+    "quoteTime": "1:20 p.m.",
+    "quoteLast": "[A13-1138]",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "cd79bcc9e5e5091bfecef71527f35515660e9da5e85ecced1074e03172a7b9fb"
+  },
+  {
+    "time": "13:20",
+    "quoteFirst": "It must be remembered that the ship was now openly a man-of-war, flying the White Ensign, with guns unmasked.  At ",
+    "quoteTime": "1.20 P.M.",
+    "quoteLast": ", two hours and twenty minutes after first sighting the submarine, a torpedo struck the ship abreast the engine-room, hurling blazing wreckage and water in all directions.  With far-seeing thoroughness of organisation this moment had been anticipated sooner or later for months past.",
+    "title": "An awfully big adventure",
+    "author": "Bartimeus, 1886-1967",
+    "gutenbergReference": "73819",
+    "hash": "3985e8b025100f2a96b626b1f1a8473ea09493225e28370c3a46ed66ddcd2db0"
+  },
+  {
+    "time": "13:20",
+    "quoteFirst": "First call, ",
+    "quoteTime": "1.20 p.m.",
+    "quoteLast": "",
+    "title": "Military Instructors Manual",
+    "author": "Cole, J. P. (James Perry), 1889-1977; Schoonmaker, Oliver, 1882-1968",
+    "gutenbergReference": "14625",
+    "hash": "073114423b90048dd181f69be0a9ddf90b99e1297e740360db3cf7e0407fdf72"
+  },
+  {
+    "time": "13:20",
+    "quoteFirst": "It was Ken O'Donnell who, at about ",
+    "quoteTime": "1:20 p.m.",
+    "quoteLast": ", told us that the President had died. I think his precise words were, \"He's gone.\" O'Donnell said that we should return to Washington and that we should take the President's plane for this purpose.",
+    "title": "Warren Commission (05 of 26): Hearings Vol. V (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44005",
+    "hash": "f0d34ee4690881d4fbdf2c77ab438f9603170c912a6b24e571cd6275ef88e234"
+  },
+  {
+    "time": "13:20",
+    "quoteFirst": "Standing towards the enemy’s van with all sail set. At 4 minutes past 12, opened our fire on the enemy’s van in keeping down their line. At ",
+    "quoteTime": "20 minutes past 1",
+    "quoteLast": "2, in attempting to pass through the enemy’s line, we fell on board of the 10th and 11th ships, when the action became general. About 1.15, the Right Honourable Lord Viscount Nelson, K.B., and Commander-in-Chief was wounded in the shoulder.",
+    "title": "Champions of the fleet",
+    "author": "Fraser, Edward, 1859?-",
+    "gutenbergReference": "65978",
+    "hash": "c166733d819707461f7579c9a060463e6eefaf9ab8d5140e502e1ace7a6a7dd1"
+  },
+  {
+    "time": "13:20",
+    "quoteFirst": "250 feet above the camp, and at 8.0 a.m. descended by a rocky gully, in which was a fine spring, into a grassy valley, which varied from a few yards to a mile in breadth, bounded by sandstone hills, the strata of which were not well defined, but appeared to have a considerable dip to the west-south-west; in the upper part of the valley the creek was well supplied with water, but as we advanced into the lower ground the channel was dry, though increased to twenty yards wide and ten to fifteen feet deep; at 11.15 a.m. one of the horses, Prince, was observed to be unwell, and at ",
+    "quoteTime": "1.20 p.m.",
+    "quoteLast": " a second horse, Bob, was noticed to be suffering from illness, having bled them, we proceeded down the creek in search of water at which the party could halt, and found a small waterhole at 2.20 p.m., but the two sick horses dropped dead about 150 yards before reaching it; their loads had been previously removed to the saddle-horses; as soon as the camp had been formed Mr. Elsey and Dr.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "964855484f4351ee7996da09768786d11303485682cc79700b0772bb7d0f8d44"
+  },
+  {
+    "time": "13:20",
+    "quoteFirst": "If the wind changes during the actual passage, birds will change the direction of their flight to suit the wind. Thus at the Shipwash, on Oct. 16th, from 9.50 a.m. to ",
+    "quoteTime": "1.20 p.m.",
+    "quoteLast": " the wind was N.N.W., flocks constantly passing from S.E. to N.W. from 1.20 to 3.20 p.m. the wind blew from N.N.E., and the birds passed S.S.E. to N.N.W. If subsequent observations should prove the correctness of this rule, it will go far to account for all the irregularities of migration--the \"why\" birds are seen in great numbers in one year in any locality, and perhaps absent altogether in following seasons.",
+    "title": "Report on the Migration of Birds in the Autumn of 1879. [First Report]",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Cordeaux, John, 1831-1899",
+    "gutenbergReference": "65621",
+    "hash": "459c5b4b79391dcb588fbd44ea0ec504ae161c85bca0986d9a8186cedfb61b19"
+  },
+  {
+    "time": "13:20",
+    "quoteFirst": "Ramírez, Garay, Argüelles and Barrios retired without the formality of saying good-by; and Terrés, whose cannon ammunition had failed, withdrew prudently to the citadel with two of the guns and about seventy panicky men, the remnant of his garrison. The Rifles now dashed over the parapet; and at exactly ",
+    "quoteTime": "twenty minutes past one",
+    "quoteLast": " a tall, slender man with short, bristling, grayish hair stood on it, smoking a cigar and waving a red handkerchief tied to a rifle. It was Quitman, self-possessed but exultant; and in a few moments the Palmetto colors and the green banner of the Rifles, with its blazing gold eagle, were flying at the portal of the city.[28.",
+    "title": "The War with Mexico, Volume 2 (of 2)",
+    "author": "Smith, Justin Harvey, 1857-1930",
+    "gutenbergReference": "44438",
+    "hash": "a6bececdbfd0e465d28f01fbade3e79f75f9024d648e2bed2f67a23c7c064279"
+  },
+  {
+    "time": "13:20",
+    "quoteFirst": "Without his orders the engineers opened the Kingston valves in the engine-room, and when the Americans boarded the \"Colon\" she was rapidly sinking. She went down by the stern under the cliffs on the east side of the inlet, and lay with her bow above water and her after decks awash. It was ",
+    "quoteTime": "twenty minutes past one",
+    "quoteLast": " when she surrendered.",
+    "title": "Famous Sea Fights, from Salamis to Tsu-Shima",
+    "author": "Atteridge, A. Hilliard (Andrew Hilliard), -1941",
+    "gutenbergReference": "25088",
+    "hash": "11e3bd43155af4aea89bea710481b067081d084d8884a33657bf992ae9b7554d"
   },
   {
     "time": "13:20",
@@ -21,182 +141,62 @@
   },
   {
     "time": "13:20",
-    "quoteFirst": "Ken Day at AFP Headquarters at ",
-    "quoteTime": "1.20 p.m.",
-    "quoteLast": " the day before. To compound matters, Mendax began wondering if Prime Suspect may have been speaking to the AFP for as long as six months.",
-    "title": "Underground: Hacking, madness and obsession on the electronic frontier",
-    "author": "Dreyfus, Suelette; Assange, Julian, 1971- [Researcher]",
-    "gutenbergReference": "4686",
-    "hash": "ad3b5cb4c4fe0554c8fafee6ead9b353b7900ba92becd60a7369482d757786ed"
-  },
-  {
-    "time": "13:20",
-    "quoteFirst": "\"The return was equally satisfactory, the crowd most enthusiastic, the order perfect. We reached the palace at ",
-    "quoteTime": "twenty minutes past one",
-    "quoteLast": ", and went out on the balcony and were loudly cheered, the Prince and Princess (of Prussia) quite delighted and impressed. That we felt happy, thankful, I need not say; proud of all that had passed, of my darling husband's success, and of the behaviour of my good people.",
-    "title": "Life of Her Most Gracious Majesty the Queen — Volume 2",
-    "author": "Tytler, Sarah, 1827-1914",
-    "gutenbergReference": "7086",
-    "hash": "b9ffa9c04be9b8d9e6374344db7dd4b1ee76923a1f74470108bed0872cae877c"
-  },
-  {
-    "time": "13:20",
-    "quoteFirst": "After listening for the space of a few seconds, as the noise still continued, he struck a match and lighted his lamp. A glance at his watch told him that the time was ",
-    "quoteTime": "twenty minutes past one",
-    "quoteLast": ".",
-    "title": "Burgo's Romance",
-    "author": "Speight, T. W. (Thomas Wilkinson), 1830-1915",
-    "gutenbergReference": "57944",
-    "hash": "488f727826c6da772bf986218ac70bc917ff7d508fea03b8940c71fa48b0f725"
-  },
-  {
-    "time": "13:20",
-    "quoteFirst": "“At a quarter-past one, or a few minutes later,” she said, “that bouquet was lying in the middle of the road. Let us say ",
-    "quoteTime": "twenty minutes past one",
-    "quoteLast": ", because I came straight home, took off my hat, and was ready for lunch. It was more like a haystack than a bouquet: I’m sure if I hadn’t stepped over it, I should have tripped and fallen.",
-    "title": "Mrs. Ames",
-    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
-    "gutenbergReference": "60168",
-    "hash": "16884c89a6ef9111104789667802020e0b9f4496e5611809d9c611032423490c"
-  },
-  {
-    "time": "13:20",
-    "quoteFirst": "It was ",
-    "quoteTime": "twenty minutes past one",
-    "quoteLast": " that butler Sturgis, dozing in his pantry, was jerked from slumber by the sound of the telephone bell. He had been hoping for an uninterrupted siesta, for he had had a perplexing and trying morning.",
-    "title": "Money for nothing",
-    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
-    "gutenbergReference": "72972",
-    "hash": "8018e466346e9a6441ad15d5127c1880b2f073a6d0e0e4b915ccac9171054da2"
-  },
-  {
-    "time": "13:20",
-    "quoteFirst": "“About ",
-    "quoteTime": "twenty minutes past one",
-    "quoteLast": ".”",
-    "title": "The official chaperon",
-    "author": "Lincoln, Natalie Sumner, 1881-1935; Frederick, Edmund, 1870-1949 [Illustrator]; McMein, Neysa, 1889-1949 [Illustrator]",
-    "gutenbergReference": "69388",
-    "hash": "bc20c344b3be8fc4881a3d291afd3b067b1da644de904d28a3f8774b7801deb7"
-  },
-  {
-    "time": "13:20",
-    "quoteFirst": "",
-    "quoteTime": "Twenty minutes past one",
-    "quoteLast": " found Marjorie on the threshold of the principal’s office. At sight of her Miss Archer bowed distantly and went on with her writing. As yet Rowena had not put in an appearance.",
-    "title": "Marjorie Dean, High School Junior",
-    "author": "Chase, Josephine, -1931",
-    "gutenbergReference": "36823",
-    "hash": "2fb5a098018f8580d6b6a490bb930266fe8dcf9457a28228501d4c09a1a42058"
-  },
-  {
-    "time": "13:20",
     "quoteFirst": "At ",
-    "quoteTime": "1.20 P. M.",
-    "quoteLast": " the Lithia grounded with a fearful crash, and the billows of dust that broke over her carried away the sprinkler and all the spokes in the aft wheel. A composite picture of John B. Gough and Carrie Nation fell to the cabin floor and was totally wrecked.",
-    "title": "The Log of the Water Wagon; or, The Cruise of the Good Ship \"Lithia\"",
-    "author": "Taylor, Bert Leston, 1866-1921; Gibson, W. C. (William Curtis), 1857-; Glackens, L. M. (Louis M.), 1866-1933 [Illustrator]",
-    "gutenbergReference": "60022",
-    "hash": "86ac7a53db59efe151634d49eba17bf1374681bfae4deb7c18ab581f4a2b1c78"
-  },
-  {
-    "time": "13:20",
-    "quoteFirst": "_Carnarvon Bay_ L.V.--A flock of Blackbirds going east at ",
-    "quoteTime": "1.20 P.M.",
-    "quoteLast": "",
-    "title": "Report on the Migration of Birds in the Spring and Autumn of 1886. Eighth Report\r\n(Vol. II, No. 3.)",
-    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
-    "gutenbergReference": "66032",
-    "hash": "578cb7395a5b1724d7cf5dc31a635eab35a70dee1060daffd503032314cc73be"
-  },
-  {
-    "time": "13:20",
-    "quoteFirst": "Peterhof, _July 30th, ",
-    "quoteTime": "1.20 p.m.",
-    "quoteLast": "_",
-    "title": "How the Nations Waged War\r\nA companion volume to \"How the War Began\"",
-    "author": "Kennedy, J. M. (John McFarland)",
-    "gutenbergReference": "56360",
-    "hash": "7df4617e4d2a11d3dbe86af1812aae479ca99b3edeae8ceffe4b0e139bfa82b5"
-  },
-  {
-    "time": "13:20",
-    "quoteFirst": "Ken Day at AFP Headquarters at ",
-    "quoteTime": "1.20 p.m.",
-    "quoteLast": " the day before. To compound matters, Mendax began wondering if Prime Suspect may have been speaking to the AFP for as long as six months.",
-    "title": "Underground: Hacking, madness and obsession on the electronic frontier",
-    "author": "Dreyfus, Suelette; Assange, Julian, 1971- [Researcher]",
-    "gutenbergReference": "4686",
-    "hash": "ad3b5cb4c4fe0554c8fafee6ead9b353b7900ba92becd60a7369482d757786ed"
-  },
-  {
-    "time": "13:20",
-    "quoteFirst": "By ",
-    "quoteTime": "1.20 P.M.",
-    "quoteLast": " the 30th Division had been forced back to the line of the Libermont Canal, leaving the right flank of the 60th Brigade exposed. At Pargny the enemy had increased the gap between the 20th and the 8th Divisions, while he maintained great pressure along the whole Divisional front.",
-    "title": "The history of the Twentieth (Light) Division",
-    "author": "Inglefield, Valentine Erskine, 1886-1947; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]",
-    "gutenbergReference": "74129",
-    "hash": "aa019ddd9b338272fc793c6aa08751e87ddaf9d63172ae38751485fb09a6a43d"
-  },
-  {
-    "time": "13:20",
-    "quoteFirst": "Peterhof, July 30th, 1914, ",
-    "quoteTime": "1.20 p.m.",
-    "quoteLast": "",
-    "title": "Why We Are at War (2nd Edition, revised)",
-    "author": "University of Oxford. Faculty of Modern History",
-    "gutenbergReference": "10809",
-    "hash": "ce9b0ad937f495b4dcaec175dd21577b85db6b1c881c37694df86a5f66d67377"
-  },
-  {
-    "time": "13:20",
-    "quoteFirst": "\"The return was equally satisfactory, the crowd most enthusiastic, the order perfect. We reached the palace at ",
     "quoteTime": "twenty minutes past one",
-    "quoteLast": ", and went out on the balcony and were loudly cheered, the Prince and Princess (of Prussia) quite delighted and impressed. That we felt happy, thankful, I need not say; proud of all that had passed, of my darling husband's success, and of the behaviour of my good people.",
-    "title": "Life of Her Most Gracious Majesty the Queen — Volume 2",
-    "author": "Tytler, Sarah, 1827-1914",
-    "gutenbergReference": "7086",
-    "hash": "b9ffa9c04be9b8d9e6374344db7dd4b1ee76923a1f74470108bed0872cae877c"
+    "quoteLast": " we had repassed the graceful Jardin des Quinconces, with the weeping willows overhanging the lakelet, and were within the cool precincts of the hotel.",
+    "title": "'Twixt France and Spain; Or, A Spring in the Pyrenees",
+    "author": "Bilbrough, E. Ernest",
+    "gutenbergReference": "10403",
+    "hash": "c5f8ebf47aad361dee0483beaeeec798401215ded6b6590d620e6227bf4ce1d3"
   },
   {
     "time": "13:20",
-    "quoteFirst": "The deliberate fire from a range of 16,500 to 15,000 yards at the right-hand light cruiser, which was dropping astern, became too threatening, and when a shell fell close alongside her at ",
-    "quoteTime": "1:20 P.M.",
-    "quoteLast": " she (the Leipzig) turned away, with the Nürnberg and Dresden, to the southwest.",
-    "title": "New York Times Current History; The European War, Vol 2, No. 2, May, 1915\nApril-September, 1915",
-    "author": "Various",
-    "gutenbergReference": "15479",
-    "hash": "fe8930419715ac489549fd1c6eb5dd980a33ba6cb3b28c0284b6ae9767cbd52e"
+    "quoteFirst": "Laredo at approximately ",
+    "quoteTime": "1:20 p.m.",
+    "quoteLast": "[A13-1138]",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "cd79bcc9e5e5091bfecef71527f35515660e9da5e85ecced1074e03172a7b9fb"
   },
   {
     "time": "13:20",
-    "quoteFirst": "And he repeated a score of times that she had taken the train at ten minutes past eleven and must have reached Batignolles about half-past twelve. As she had handed in the telegram at ",
-    "quoteTime": "twenty minutes past one",
-    "quoteLast": " it seemed more likely that she had found the lad already dead.",
-    "title": "Fruitfulness",
-    "author": "Zola, Émile, 1840-1902; Vizetelly, Ernest Alfred, 1853-1922 [Translator]",
-    "gutenbergReference": "10330",
-    "hash": "dd383b72c55c18936aad90be0ebf751a4b19ac9797ab15b6fe058ac47a77c2ae"
+    "quoteFirst": "Usually, changing operations at the stations occupied anything from ",
+    "quoteTime": "forty minutes to two",
+    "quoteLast": " hours, according to the temper or trickishness of the post-horse keeper and his grooms, for they were about the meanest set of knaves and rogues on the face of Asia.  Yet sight of my permit caused them all to tremble and cringe and hustle, and I certainly could not complain of any undue delay.",
+    "title": "The Price of Power\nBeing Chapters from the Secret History of the Imperial Court of Russia",
+    "author": "Le Queux, William, 1864-1927",
+    "gutenbergReference": "41091",
+    "hash": "ee09522c153bb762d65967ff2996ac5be60b83c8066bb5e01642a9209795e7a4"
   },
   {
     "time": "13:20",
-    "quoteFirst": "“",
-    "quoteTime": "Twenty minutes after one",
-    "quoteLast": ", Miss Carberry,” she said. “Would you like some buttermilk?”",
-    "title": "The amazing adventures of Letitia Carberry",
-    "author": "Rinehart, Mary Roberts, 1876-1958; Christy, Howard Chandler, 1873-1952 [Illustrator]",
-    "gutenbergReference": "75922",
-    "hash": "55139f6cd892c90d7c8e6bfa6412567986d7a9b7ac97c283e1c359478e1abfcc"
+    "quoteFirst": "Gott!_ It is–_",
+    "quoteTime": "twenty minutes after one",
+    "quoteLast": "_. You should be in bed,” she added.",
+    "title": "God's Playthings",
+    "author": "Bowen, Marjorie, 1888-1952",
+    "gutenbergReference": "49504",
+    "hash": "4dfccb99c49293975a435adfd3c7d9aae8a1d023e77dc63a0796a9865986cbf3"
   },
   {
     "time": "13:20",
-    "quoteFirst": "0 the country became stony, with white-gum, tall acacia, and triodia, and we gradually ascended till the aneroid indicated an elevation of 1100 feet, and we appeared to be on a ridge parallel to the tableland of the interior and at a greater elevation; at ",
-    "quoteTime": "1.20 p.m.",
-    "quoteLast": " observed a clump of melaleuca in a deep rocky ravine, and steered south to it. Here we found a spring with a few acres of grass around it, and encamped.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "45ba43902ab8d7eae77c8d75a41ae39da6bc030f384563b13505c6ab7e87a31a"
+    "quoteFirst": "Foreseeing that this manœuvre was likely to occur, Admiral Sturdee had directed the _Cornwall_, _Kent_, and _Glasgow_ to follow in pursuit. No time was lost, therefore, in giving chase to the enemy light-cruisers when they turned off to the S.S.E. at ",
+    "quoteTime": "1.20 P.M.",
+    "quoteLast": ", the _Glasgow_ leading the way at 26 knots, followed by the _Kent_ and the _Cornwall_ keeping neck and neck and going about 23½ knots. The _Dresden_ led the enemy light-cruisers with the _Leipzig_ and _Nürnberg_ on her starboard and port quarter respectively.",
+    "title": "The Battle of the Falkland Islands, Before and After",
+    "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
+    "gutenbergReference": "50265",
+    "hash": "78a972872a3fb25ce5b4f5a8f737ae27eb9e183cc3c79e99d3a42bfbcb338c0b"
+  },
+  {
+    "time": "13:20",
+    "quoteFirst": "From that moment, escape was seen to be impossible, so the commander beached his ship and hauled down his flag. This closing incident of the battle took place at ",
+    "quoteTime": "1.20 P.M.",
+    "quoteLast": ", almost exactly four hours after the leading vessel of the escaping column, the “Maria Teresa,” had passed the Morro. Meanwhile, the little “Gloucester,” under Commander Richard Wainwright, had stopped both of the torpedo-boat destroyers, received their fire, and detained them until an ironclad came up.",
+    "title": "Spain and Her Colonies, Compiled from the Best Authorities",
+    "author": "Wilberforce, Archibald [Compiler]",
+    "gutenbergReference": "62786",
+    "hash": "af4fc5e2f2abfaa88891d347457d227dd8a0cde90a0244340c4e5af90fc09e5f"
   }
 ]

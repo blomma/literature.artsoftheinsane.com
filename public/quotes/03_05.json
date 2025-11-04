@@ -1,23 +1,13 @@
 [
   {
     "time": "03:05",
-    "quoteFirst": "Wednesday, April 10, at 12 m., the Valley City got under weigh and proceeded by way of Edenton to Plymouth, where we arrived at 2:15 a.m. the following day. At ",
-    "quoteTime": "3:05 a.m.",
-    "quoteLast": " we got under weigh and returned to Winton, where we arrived at 12 m. At this point and time we first heard, through the New York _Herald_, that the Confederate troops under General Lee had been driven from Petersburg by the Federal troops under General U.S. Grant. There was great rejoicing aboard the fleet.",
-    "title": "Reminiscences of Two Years in the United States Navy",
-    "author": "Batten, John M. (John Mullin), 1837-1916",
-    "gutenbergReference": "25764",
-    "hash": "6e1ca84de403841b749447949bd19fc4944b334d930f15424168a16475f9b09c"
-  },
-  {
-    "time": "03:05",
-    "quoteFirst": "As it is not likely to last long he'll be gone in a few moments. Have you the right time about you? What do you make it? ",
-    "quoteTime": "Five minutes past three",
-    "quoteLast": " by post office time? The result ought to be here at any moment. Ah, I thought so. Just keep your eye closely upon Chaffey.\"",
-    "title": "Hard Pressed",
-    "author": "White, Fred M. (Fred Merrick), 1859-1935",
-    "gutenbergReference": "33512",
-    "hash": "33815357dc1044c960606d68c1e25207deb2d8c35f5301ba777b8181a93c27fa"
+    "quoteFirst": "He was a well-set-up youngster and, in spite of the spills he had made during practice, carried himself like a ball player. The “fans” watched him and reserved judgment, asking each other how Steve had managed to get hold of him at less than a half-hour’s notice. For it had been ",
+    "quoteTime": "five minutes past three",
+    "quoteLast": " when the accident had happened that had sent three of the Badgers’ best players to the hospital, Bennett, as was learned later, with a broken leg, Morgan with three ribs caved in, and Pitcher Cotton with enough contusions to keep him out of the game for a week at least.",
+    "title": "Second Base Sloan",
+    "author": "Mathewson, Christy, 1880-1925; Caswell, Edward C., 1879-1963 [Illustrator]",
+    "gutenbergReference": "52407",
+    "hash": "3c7c308ac7b290ae59a1d143bd4278628f33f8cb2956e77adb99df7427cee3f3"
   },
   {
     "time": "03:05",
@@ -31,23 +21,53 @@
   },
   {
     "time": "03:05",
-    "quoteFirst": "Waterman was going back and forth over the time of day, attempting to show that the car was behind its schedule, and exceeding the speed limit, but the man clung to his story stubbornly. It was at exactly ",
+    "quoteFirst": "It was now ",
     "quoteTime": "five minutes past three",
-    "quoteLast": "; he was running slowly, and had whistled at all the earlier stops; and when he saw the plaintiff driving upon the right of way ahead of him he put on the brakes as quickly as possible.",
-    "title": "Otherwise Phyllis",
-    "author": "Nicholson, Meredith, 1866-1947; Gibson, Charles Dana, 1867-1944 [Illustrator]",
-    "gutenbergReference": "28017",
-    "hash": "22cb591e01ad6135c38a4246207ecc5849edc9664f19eefe6f1bcd645e55cf63"
+    "quoteLast": ". The car slowed down by the farm, in the yard of which Miss Avery was standing. Henry asked her whether a cab had gone past.",
+    "title": "Howards End",
+    "author": "Forster, E. M. (Edward Morgan), 1879-1970",
+    "gutenbergReference": "2891",
+    "hash": "1fcaa705c648ccf12b082d3ed3c249437496a534a406c651ffaebbba33528467"
   },
   {
     "time": "03:05",
-    "quoteFirst": "ON entering the offices Frank had glanced at a clock on the wall and found it was ",
+    "quoteFirst": "He walked slowly along the edge of the fountain, and then again looked at the church clock, which was two minutes faster than his watch. It was ",
     "quoteTime": "five minutes past three",
-    "quoteLast": ".",
-    "title": "The Young Book Agent; or, Frank Hardy's Road to Success",
-    "author": "Alger, Horatio, Jr., 1832-1899; Shute, A. B. (Augustus Burnham), 1851-1906 [Illustrator]",
-    "gutenbergReference": "56756",
-    "hash": "c954d8f37460dcc444ae5a33db4591e2ea66bd76571377dd4c933e0096d83481"
+    "quoteLast": ". He thought that he would be more comfortable inside, and entered the church. The coolness of a cellar assailed him, he breathed it with pleasure, and then took a turn round the nave to reconnoiter the place.",
+    "title": "Bel Ami (A Ladies' Man)\r\nThe Works of Guy de Maupassant, Vol. 6",
+    "author": "Maupassant, Guy de, 1850-1893",
+    "gutenbergReference": "33928",
+    "hash": "90910ad3c601cb8344edf79441cff69c4100a471fd4578bbca0f789911f24e0f"
+  },
+  {
+    "time": "03:05",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes past three",
+    "quoteLast": " Mary and Jack awoke with a start from a dream fantasy, to find themselves breathing the ampler air of Park Lane. Even then they could not quite grasp the meaning of all that had happened.",
+    "title": "The time spirit: A romantic tale",
+    "author": "Snaith, J. C. (John Collis), 1876-1936",
+    "gutenbergReference": "68398",
+    "hash": "9ba95007d5eeac25367861580f1914b1453aa6ecf3e8a6d0ce18066db484c462"
+  },
+  {
+    "time": "03:05",
+    "quoteFirst": "As it is not likely to last long he'll be gone in a few moments. Have you the right time about you? What do you make it? ",
+    "quoteTime": "Five minutes past three",
+    "quoteLast": " by post office time? The result ought to be here at any moment. Ah, I thought so. Just keep your eye closely upon Chaffey.\"",
+    "title": "Hard Pressed",
+    "author": "White, Fred M. (Fred Merrick), 1859-1935",
+    "gutenbergReference": "33512",
+    "hash": "33815357dc1044c960606d68c1e25207deb2d8c35f5301ba777b8181a93c27fa"
+  },
+  {
+    "time": "03:05",
+    "quoteFirst": "\"Well, ",
+    "quoteTime": "five minutes after three",
+    "quoteLast": ", then,\" laughed Mother. \"And, Molly, so that you won't forget this time, all the way to Miss Eleanor's, say over and over, 'Five minutes after three.' Then, just as soon as you get there, say the words quickly to Miss Eleanor, 'Five minutes after three.'\"",
+    "title": "Boys and Girls Bookshelf; a Practical Plan of Character Building, Volume I (of 17)\nFun and Thought for Little Folk",
+    "author": "Various; Baltzell, W. J. (Winton James), 1864-1928 [Editor]; Forbush, William Byron, 1868-1927 [Editor]; Johnson, Rossiter, 1840-1931 [Editor]; Wade, Herbert T. (Herbert Treadwell), 1872- [Editor]; Wheeler, Daniel Edwin, 1880- [Editor]",
+    "gutenbergReference": "25359",
+    "hash": "6bd160256aaabc551adefa8b3d9f3373b80c7ababa3c8cad5fe9badeceeab0c6"
   },
   {
     "time": "03:05",
@@ -61,13 +81,73 @@
   },
   {
     "time": "03:05",
-    "quoteFirst": "He was a well-set-up youngster and, in spite of the spills he had made during practice, carried himself like a ball player. The “fans” watched him and reserved judgment, asking each other how Steve had managed to get hold of him at less than a half-hour’s notice. For it had been ",
+    "quoteFirst": "As it is not likely to last long he'll be gone in a few moments. Have you the right time about you? What do you make it? ",
+    "quoteTime": "Five minutes past three",
+    "quoteLast": " by post office time? The result ought to be here at any moment. Ah, I thought so. Just keep your eye closely upon Chaffey.\"",
+    "title": "Hard Pressed",
+    "author": "White, Fred M. (Fred Merrick), 1859-1935",
+    "gutenbergReference": "33512",
+    "hash": "33815357dc1044c960606d68c1e25207deb2d8c35f5301ba777b8181a93c27fa"
+  },
+  {
+    "time": "03:05",
+    "quoteFirst": "The Horses started precisely at ",
+    "quoteTime": "five minutes after three",
+    "quoteLast": "; the Course was one Mile in Circumference, they performed the first Round in two minutes, third in two minutes & a-half, _Yorick_ came out the fifth time round about 40 Rod before _Gift_ they were both, when the Riders dismounted very lame; they run five Miles, and Carried 180 lb--Rode home in the Evening--Expence to the Boy 7-1/2d--",
+    "title": "Journal and Letters of Philip Vickers Fithian: A Plantation Tutor of the Old Dominion, 1773-1774.",
+    "author": "Fithian, Philip Vickers, 1747-1776; Farish, Hunter Dickinson, 1897-1945 [Editor]; Kredel, Fritz, 1900-1973 [Illustrator]",
+    "gutenbergReference": "40044",
+    "hash": "e468c1c86f0c2182042f066bc3c63a5e61e3964d66a3d1e3094aac39f6279a3b"
+  },
+  {
+    "time": "03:05",
+    "quoteFirst": "It was ",
     "quoteTime": "five minutes past three",
-    "quoteLast": " when the accident had happened that had sent three of the Badgers’ best players to the hospital, Bennett, as was learned later, with a broken leg, Morgan with three ribs caved in, and Pitcher Cotton with enough contusions to keep him out of the game for a week at least.",
-    "title": "Second Base Sloan",
-    "author": "Mathewson, Christy, 1880-1925; Caswell, Edward C., 1879-1963 [Illustrator]",
-    "gutenbergReference": "52407",
-    "hash": "3c7c308ac7b290ae59a1d143bd4278628f33f8cb2956e77adb99df7427cee3f3"
+    "quoteLast": " when he entered the dirty doggery misnamed the Fore and Aft, and there before the bar behind which Bone was serving drinks stood Ginnell.",
+    "title": "Sea Plunder",
+    "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
+    "gutenbergReference": "53179",
+    "hash": "ac4337aa15ba327d96997c61aeec1d4fd3684954f849180826983fd4c0190787"
+  },
+  {
+    "time": "03:05",
+    "quoteFirst": "He walked slowly along the edge of the fountain, and then again looked at the church clock, which was two minutes faster than his watch. It was ",
+    "quoteTime": "five minutes past three",
+    "quoteLast": ". He thought that he would be more comfortable inside, and entered the church. The coolness of a cellar assailed him, he breathed it with pleasure, and then took a turn round the nave to reconnoiter the place.",
+    "title": "Bel Ami (A Ladies' Man)\r\nThe Works of Guy de Maupassant, Vol. 6",
+    "author": "Maupassant, Guy de, 1850-1893",
+    "gutenbergReference": "33928",
+    "hash": "90910ad3c601cb8344edf79441cff69c4100a471fd4578bbca0f789911f24e0f"
+  },
+  {
+    "time": "03:05",
+    "quoteFirst": "“",
+    "quoteTime": "five minutes past three",
+    "quoteLast": "; I must go and get my traps. Whatever you do, don’t be late, Vaughan; I leave you to take charge of Campell, who never was in time in his life--not even for an Indian train.”",
+    "title": "Proper pride",
+    "author": "Croker, B. M. (Bithia Mary), 1849?-1920",
+    "gutenbergReference": "72550",
+    "hash": "b0e3316fe2d8815d9eb18dc7c2fd5490970d909904fcb55b959f2f00f79691a0"
+  },
+  {
+    "time": "03:05",
+    "quoteFirst": "On arriving at the station he consulted the timetable and found the train was due at 2:52. The train, however, was late. At three o'clock it had not arrived; at ",
+    "quoteTime": "five minutes past three",
+    "quoteLast": ", getting uneasy at the delay, he took paper and pencil in his hand and asked where she was.",
+    "title": "Telepathy and the Subliminal Self",
+    "author": "Mason, R. Osgood (Rufus Osgood), 1830-1903",
+    "gutenbergReference": "37203",
+    "hash": "8b9930b33a1db3439163acfe8c621057dd52d4ea32f338c3229030ccecdfcada"
+  },
+  {
+    "time": "03:05",
+    "quoteFirst": "As it is not likely to last long he'll be gone in a few moments. Have you the right time about you? What do you make it? ",
+    "quoteTime": "Five minutes past three",
+    "quoteLast": " by post office time? The result ought to be here at any moment. Ah, I thought so. Just keep your eye closely upon Chaffey.\"",
+    "title": "Hard Pressed",
+    "author": "White, Fred M. (Fred Merrick), 1859-1935",
+    "gutenbergReference": "33512",
+    "hash": "33815357dc1044c960606d68c1e25207deb2d8c35f5301ba777b8181a93c27fa"
   },
   {
     "time": "03:05",
@@ -81,6 +161,16 @@
   },
   {
     "time": "03:05",
+    "quoteFirst": "“",
+    "quoteTime": "five minutes past three",
+    "quoteLast": "; I must go and get my traps. Whatever you do, don’t be late, Vaughan; I leave you to take charge of Campell, who never was in time in his life--not even for an Indian train.”",
+    "title": "Proper pride",
+    "author": "Croker, B. M. (Bithia Mary), 1849?-1920",
+    "gutenbergReference": "72550",
+    "hash": "b0e3316fe2d8815d9eb18dc7c2fd5490970d909904fcb55b959f2f00f79691a0"
+  },
+  {
+    "time": "03:05",
     "quoteFirst": "\"Well, ",
     "quoteTime": "five minutes after three",
     "quoteLast": ", then,\" laughed Mother. \"And, Molly, so that you won't forget this time, all the way to Miss Eleanor's, say over and over, 'Five minutes after three.' Then, just as soon as you get there, say the words quickly to Miss Eleanor, 'Five minutes after three.'\"",
@@ -91,53 +181,13 @@
   },
   {
     "time": "03:05",
-    "quoteFirst": "\"",
-    "quoteTime": "Five minutes after three",
-    "quoteLast": ",\" she sang until she stopped a moment on the bridge to see some boys fishing. Just about there, a big dog who was a friend of Molly's ran out to say, \"Good afternoon.\"",
-    "title": "Boys and Girls Bookshelf; a Practical Plan of Character Building, Volume I (of 17)\nFun and Thought for Little Folk",
-    "author": "Various; Baltzell, W. J. (Winton James), 1864-1928 [Editor]; Forbush, William Byron, 1868-1927 [Editor]; Johnson, Rossiter, 1840-1931 [Editor]; Wade, Herbert T. (Herbert Treadwell), 1872- [Editor]; Wheeler, Daniel Edwin, 1880- [Editor]",
-    "gutenbergReference": "25359",
-    "hash": "0a37603b6e7edfdfd1b0a46f4c65b6b38c3b8cfad6892dc3a5a6fc1750e42b72"
-  },
-  {
-    "time": "03:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past three",
-    "quoteLast": " came Mr. Thornton and Monsieur Duponnet.",
-    "title": "The Van Roon",
-    "author": "Snaith, J. C. (John Collis), 1876-1936",
-    "gutenbergReference": "68520",
-    "hash": "97fa76b3a47961cdae3ca56a409f87f47ae4fb3d206e2e6e22819c4eb3ee591e"
-  },
-  {
-    "time": "03:05",
-    "quoteFirst": "5. Its three oclock by his watch; ",
-    "quoteTime": "five minutes past three",
-    "quoteLast": " by her's.",
-    "title": "The Century Handbook of Writing",
-    "author": "Greever, Garland, 1883-1967; Jones, Easley S. (Easley Stephen), 1884-1947",
-    "gutenbergReference": "30294",
-    "hash": "7b09566bedb213ee1121ce19d2d8208e847b3a54921610f29ac927d1cb429439"
-  },
-  {
-    "time": "03:05",
-    "quoteFirst": "ON entering the offices Frank had glanced at a clock on the wall and found it was ",
-    "quoteTime": "five minutes past three",
-    "quoteLast": ".",
-    "title": "The Young Book Agent; or, Frank Hardy's Road to Success",
-    "author": "Alger, Horatio, Jr., 1832-1899; Shute, A. B. (Augustus Burnham), 1851-1906 [Illustrator]",
-    "gutenbergReference": "56756",
-    "hash": "c954d8f37460dcc444ae5a33db4591e2ea66bd76571377dd4c933e0096d83481"
-  },
-  {
-    "time": "03:05",
-    "quoteFirst": "\"Well, ",
+    "quoteFirst": "The Horses started precisely at ",
     "quoteTime": "five minutes after three",
-    "quoteLast": ", then,\" laughed Mother. \"And, Molly, so that you won't forget this time, all the way to Miss Eleanor's, say over and over, 'Five minutes after three.' Then, just as soon as you get there, say the words quickly to Miss Eleanor, 'Five minutes after three.'\"",
-    "title": "Boys and Girls Bookshelf; a Practical Plan of Character Building, Volume I (of 17)\nFun and Thought for Little Folk",
-    "author": "Various; Baltzell, W. J. (Winton James), 1864-1928 [Editor]; Forbush, William Byron, 1868-1927 [Editor]; Johnson, Rossiter, 1840-1931 [Editor]; Wade, Herbert T. (Herbert Treadwell), 1872- [Editor]; Wheeler, Daniel Edwin, 1880- [Editor]",
-    "gutenbergReference": "25359",
-    "hash": "6bd160256aaabc551adefa8b3d9f3373b80c7ababa3c8cad5fe9badeceeab0c6"
+    "quoteLast": "; the Course was one Mile in Circumference, they performed the first Round in two minutes, third in two minutes & a-half, _Yorick_ came out the fifth time round about 40 Rod before _Gift_ they were both, when the Riders dismounted very lame; they run five Miles, and Carried 180 lb--Rode home in the Evening--Expence to the Boy 7-1/2d--",
+    "title": "Journal and Letters of Philip Vickers Fithian: A Plantation Tutor of the Old Dominion, 1773-1774.",
+    "author": "Fithian, Philip Vickers, 1747-1776; Farish, Hunter Dickinson, 1897-1945 [Editor]; Kredel, Fritz, 1900-1973 [Illustrator]",
+    "gutenbergReference": "40044",
+    "hash": "e468c1c86f0c2182042f066bc3c63a5e61e3964d66a3d1e3094aac39f6279a3b"
   },
   {
     "time": "03:05",
@@ -148,55 +198,5 @@
     "author": "Mathewson, Christy, 1880-1925; Caswell, Edward C., 1879-1963 [Illustrator]",
     "gutenbergReference": "52407",
     "hash": "3c7c308ac7b290ae59a1d143bd4278628f33f8cb2956e77adb99df7427cee3f3"
-  },
-  {
-    "time": "03:05",
-    "quoteFirst": "It was now ",
-    "quoteTime": "five minutes past three",
-    "quoteLast": ". The car slowed down by the farm, in the yard of which Miss Avery was standing. Henry asked her whether a cab had gone past.",
-    "title": "Howards End",
-    "author": "Forster, E. M. (Edward Morgan), 1879-1970",
-    "gutenbergReference": "2891",
-    "hash": "1fcaa705c648ccf12b082d3ed3c249437496a534a406c651ffaebbba33528467"
-  },
-  {
-    "time": "03:05",
-    "quoteFirst": "Wednesday, April 10, at 12 m., the Valley City got under weigh and proceeded by way of Edenton to Plymouth, where we arrived at 2:15 a.m. the following day. At ",
-    "quoteTime": "3:05 a.m.",
-    "quoteLast": " we got under weigh and returned to Winton, where we arrived at 12 m. At this point and time we first heard, through the New York _Herald_, that the Confederate troops under General Lee had been driven from Petersburg by the Federal troops under General U.S. Grant. There was great rejoicing aboard the fleet.",
-    "title": "Reminiscences of Two Years in the United States Navy",
-    "author": "Batten, John M. (John Mullin), 1837-1916",
-    "gutenbergReference": "25764",
-    "hash": "6e1ca84de403841b749447949bd19fc4944b334d930f15424168a16475f9b09c"
-  },
-  {
-    "time": "03:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past three",
-    "quoteLast": " came Mr. Thornton and Monsieur Duponnet.",
-    "title": "The Van Roon",
-    "author": "Snaith, J. C. (John Collis), 1876-1936",
-    "gutenbergReference": "68520",
-    "hash": "97fa76b3a47961cdae3ca56a409f87f47ae4fb3d206e2e6e22819c4eb3ee591e"
-  },
-  {
-    "time": "03:05",
-    "quoteFirst": "\"Well, ",
-    "quoteTime": "five minutes after three",
-    "quoteLast": ", then,\" laughed Mother. \"And, Molly, so that you won't forget this time, all the way to Miss Eleanor's, say over and over, 'Five minutes after three.' Then, just as soon as you get there, say the words quickly to Miss Eleanor, 'Five minutes after three.'\"",
-    "title": "Boys and Girls Bookshelf; a Practical Plan of Character Building, Volume I (of 17)\nFun and Thought for Little Folk",
-    "author": "Various; Baltzell, W. J. (Winton James), 1864-1928 [Editor]; Forbush, William Byron, 1868-1927 [Editor]; Johnson, Rossiter, 1840-1931 [Editor]; Wade, Herbert T. (Herbert Treadwell), 1872- [Editor]; Wheeler, Daniel Edwin, 1880- [Editor]",
-    "gutenbergReference": "25359",
-    "hash": "6bd160256aaabc551adefa8b3d9f3373b80c7ababa3c8cad5fe9badeceeab0c6"
-  },
-  {
-    "time": "03:05",
-    "quoteFirst": "It was ",
-    "quoteTime": "five minutes past three",
-    "quoteLast": " when he entered the dirty doggery misnamed the Fore and Aft, and there before the bar behind which Bone was serving drinks stood Ginnell.",
-    "title": "Sea Plunder",
-    "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
-    "gutenbergReference": "53179",
-    "hash": "ac4337aa15ba327d96997c61aeec1d4fd3684954f849180826983fd4c0190787"
   }
 ]

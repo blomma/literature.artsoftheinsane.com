@@ -1,73 +1,13 @@
 [
   {
     "time": "00:05",
-    "quoteFirst": "About half a mile away they could just discern a corner of the club-house. They stood watching it in silence. At ",
-    "quoteTime": "five minutes past twelve",
-    "quoteLast": ", Granet shut his watch with a click.",
-    "title": "The Kingdom of the Blind",
-    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
-    "gutenbergReference": "1442",
-    "hash": "c62c5274aeaab2bbaef5778a109c032cfa4f7c35e8f7651e2f5d00db2ee8aff3"
-  },
-  {
-    "time": "00:05",
-    "quoteFirst": "Back once more to the street he made the journey safely, nothing happening on the way out into the November night to alarm him. The winking, blinking electrically jewelled clock in the sign up the street told him it was just ",
-    "quoteTime": "five minutes past midnight",
-    "quoteLast": ". He headed north, but for a few rods only. At Fortieth Street he turned west for a short block and at Seventh Avenue he hailed a south-bound trolley car.",
-    "title": "From Place to Place",
-    "author": "Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944",
-    "gutenbergReference": "22530",
-    "hash": "5e9d7951e9371f3c5b3f5a0f20e80b6bf2f4846bdf7e70742ffd30fab126a964"
-  },
-  {
-    "time": "00:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past twelve",
-    "quoteLast": " next day, Mr. Bounderby directed his wife's property to be carefully packed up and sent to Tom Gradgrind's, and then resumed a bachelor's life.",
-    "title": "The World's Greatest Books — Volume 03 — Fiction",
-    "author": "Mee, Arthur, 1875-1943 [Editor]; Hammerton, J. A. (John Alexander), 1871-1949 [Editor]",
-    "gutenbergReference": "10748",
-    "hash": "94cbd25c06ba870a65a3582b7ed155860a518710686c6c754f617f1d0d252687"
-  },
-  {
-    "time": "00:05",
-    "quoteFirst": "Nor were the six hours of the evening long or heavy. He had a foundation on which to build his castle of dreams; and his heart was full of thankfulness and relief. It was ",
-    "quoteTime": "five minutes after midnight",
-    "quoteLast": " when he entered the little room where Churi stood.",
-    "title": "The flame-gatherers",
-    "author": "Potter, Margaret Horton, 1881-1911",
-    "gutenbergReference": "69721",
-    "hash": "fdce0c6ae92cc1f9d8b3dc23e22b3c021e7906b17521d87cd42ad9b43f850029"
-  },
-  {
-    "time": "00:05",
-    "quoteFirst": "''Appy Noo Year, chum,' said the lookout-man on the starboard side of the _Belligerent's_ bridge, as Pincher Martin came up to relieve him at ",
-    "quoteTime": "five minutes past midnight",
-    "quoteLast": " on the morning of 1st January.",
-    "title": "Pincher Martin, O.D.: A Story of the Inner Life of the Royal Navy",
-    "author": "Dorling, H. Taprell (Henry Taprell), 1883-1968; Williams, C. Fleming [Illustrator]",
-    "gutenbergReference": "41774",
-    "hash": "92d3f8ece6f12b9b942a42c2ff67d7ee1415b9c7b9da5855aef8ead1186dcc00"
-  },
-  {
-    "time": "00:05",
-    "quoteFirst": "All day and all night it ticked steadily through the hours, but as the hands never moved it was not considered trustworthy more than once a day; this was at ",
-    "quoteTime": "five minutes past twelve",
-    "quoteLast": ", when (at any rate on Saturdays and Sundays) Mammy would look up to the wall, and say: \"Deary me, five minutes past twelve; my dear soul, why 'tis time to put on the potaties!\"",
-    "title": "Tommy Tregennis",
-    "author": "Phillips, Mary Elizabeth, 1857-1945; Wheelhouse, M. V. (Mary V.) [Illustrator]",
-    "gutenbergReference": "42835",
-    "hash": "adc1a39e8eee57ec732960a632cf518fbe36dd88f1aad228c294fefe23578410"
-  },
-  {
-    "time": "00:05",
-    "quoteFirst": "\"_Syndic leaders hail New Year ... Taylor praises Century of Freedom ... ",
-    "quoteTime": "12:05 AM",
-    "quoteLast": " EST January 1st ..._\"",
-    "title": "The Syndic",
-    "author": "Kornbluth, C. M. (Cyril M.), 1923-1958",
-    "gutenbergReference": "41714",
-    "hash": "669cbece424e6e1d82b334eae9ef016ba6bd118a8b2302b61a638dff42d3a8a2"
+    "quoteFirst": "(Titanic) at time |               |   first SOS. sent out. |               | ",
+    "quoteTime": "12.05 a. m.",
+    "quoteLast": "|   1.55 a. m.  | Cape Race says to Virginian \"We have not |               |   heard Titanic for about half |               |   an hour. His power may be gone.\" |               | 12.10 a. m.|   2 a. m.",
+    "title": "Loss of the Steamship \"Titanic\"",
+    "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
+    "gutenbergReference": "39415",
+    "hash": "07c35742859cc84d4a84f4f84e71a3439f430a1e7937de5a7ac915d84c36d0bc"
   },
   {
     "time": "00:05",
@@ -81,93 +21,43 @@
   },
   {
     "time": "00:05",
-    "quoteFirst": "“It’s exactly ",
-    "quoteTime": "five minutes past twelve",
-    "quoteLast": ",” said I. “We’ve slept barely an hour.”",
-    "title": "The Other World",
-    "author": "Moore, Frank Frankfort, 1855-1931",
-    "gutenbergReference": "51963",
-    "hash": "96ca1bb6b10ce360330c72c4f47ff66fc110dedd590d7eb0877702ebd388db00"
+    "quoteFirst": "At the last moment--the train, in utter disregard of both notices, starting at ",
+    "quoteTime": "five minutes after twelve",
+    "quoteLast": "--the owner of the bag jumped in.",
+    "title": "Our sentimental journey through France and Italy\nA new edition with Appendix",
+    "author": "Pennell, Joseph, 1857-1926; Pennell, Elizabeth Robins, 1855-1936",
+    "gutenbergReference": "56438",
+    "hash": "8f0f8d8d9283bafb09293b301629855407b605013bcb9ad75a5e2d1159e1b058"
   },
   {
     "time": "00:05",
-    "quoteFirst": "m. with 0.1 gram of the same barium acetate. The temperature at the time of feeding was 102.9°F. At ",
+    "quoteFirst": "Charlie quietly raised himself, pulled his coat to him, and took a railway time-table from it, then ran his finger down a portion of it. The express left for the west at ",
     "quoteTime": "12.05 a.m.",
-    "quoteLast": " the animal urinated.",
-    "title": "Barium: A Cause of the Loco-Weed Disease",
-    "author": "Crawford, Albert Cornelius",
-    "gutenbergReference": "40256",
-    "hash": "6767a6c0765caf0c3f362eaa842dd600d47cfd096f9746c7f189145b91675fa9"
+    "quoteLast": " He drew a line around the figures, and put the table back into his pocket again. Then he got out of bed, on tip-toe stole to his carpet-bag, which hung near the door, and quietly began to stow away in it his modest belongings.",
+    "title": "A Lover in Homespun\nAnd Other Stories",
+    "author": "Smith, F. Clifford (Frank Clifford), 1865-1937",
+    "gutenbergReference": "16860",
+    "hash": "ded0d4393d8ff60b4d03718cad2043c8b5bd51fc589bac54deb016c136c73959"
   },
   {
     "time": "00:05",
-    "quoteFirst": "They were right. Aubrey returned at ",
-    "quoteTime": "five minutes past twelve",
-    "quoteLast": ", a failure.",
-    "title": "Of one blood: or, The hidden self",
-    "author": "Hopkins, Pauline E. (Pauline Elizabeth), 1859-1930",
-    "gutenbergReference": "69255",
-    "hash": "704cbc4a61c541c5d95a0283f2b03356fc04158a1f18ea3b823b1431488c83bd"
+    "quoteFirst": "Veda Works arrive                                       ",
+    "quoteTime": "12.05 A. M.",
+    "quoteLast": "",
+    "title": "The sea mystery",
+    "author": "Crofts, Freeman Wills, 1879-1957",
+    "gutenbergReference": "72771",
+    "hash": "77661f2be12da5179634ba2ec9ac568126f485f1ae2fc835fd6e878c0508db70"
   },
   {
     "time": "00:05",
-    "quoteFirst": "There was the usual heterogeneous crowd there, alike in one particular alone, that every guest represented, if not necessarily distinction, at least achievement in his own line. Judge Willis Enderby, many times invited, had for the first time come. At ",
-    "quoteTime": "five minutes after midnight",
-    "quoteLast": ", the incorruptible doorkeeper sent an urgent message requesting Mr. Banneker's personal attention to a party who declined politely but firmly to be turned away. The host, answering the summons, found Io.",
-    "title": "Success: A Novel",
-    "author": "Adams, Samuel Hopkins, 1871-1958",
-    "gutenbergReference": "15431",
-    "hash": "0e4d92664e684ad4e1a68e60a94601ce3a98ce48001227697bbc38f687dbbbac"
-  },
-  {
-    "time": "00:05",
-    "quoteFirst": "\"Stockbridge was murdered at four minutes and eighteen seconds past twelve, by his own watch, Delaney. It was a very good watch! Now allowing for a movement of the hands on account of the fall, how are we to account for a telephone call sent into Gramercy Hill 9763--the library 'phone--at exactly ",
-    "quoteTime": "five minutes past twelve",
-    "quoteLast": " from a slot-telephone booth at the east end of the Grand Central Railroad Station on Forty-second Street?\"",
-    "title": "Whispering Wires",
-    "author": "Leverage, Henry, 1885-1931",
-    "gutenbergReference": "34046",
-    "hash": "48a61593a491581cb14087b7c1f52da828f4cd66f2af53c566e7768a65bff161"
-  },
-  {
-    "time": "00:05",
-    "quoteFirst": "Then there would have been a little packing to oversee, perhaps, and the Orient express is due in Salzbrück, I think, at precisely one o'clock. It is now\"--she glanced half-apologetically at the watch in her bracelet--\"it is now ",
-    "quoteTime": "five minutes past twelve",
-    "quoteLast": ", so that in less than an hour the prettiest woman who ever came to Salzbrück will have vanished again.\" And, as Malvine von Lynar spoke, she sighed.",
-    "title": "The Adventure of Princess Sylvia",
-    "author": "Williamson, A. M. (Alice Muriel), 1869-1933",
-    "gutenbergReference": "42357",
-    "hash": "97ad269848cb5de2aa4fd6edeef1384c8ac541de2f932163a7b5a8a770c87362"
-  },
-  {
-    "time": "00:05",
-    "quoteFirst": "[Footnote: Log of _Constitution_, March 11, 1815.] The first and second lieutenants, with a good part of the people, were aboard the two prizes. At ",
-    "quoteTime": "five minutes past twelve",
-    "quoteLast": ", while Mr. Shubrick, the senior remaining lieutenant, was on the quarter-deck, the canvas of a large vessel suddenly loomed up through the haze, her hull being completely hidden by the fog-bank.",
-    "title": "The Naval War of 1812\r\nOr the History of the United States Navy during the Last War with Great Britain to Which Is Appended an Account of the Battle of New Orleans",
-    "author": "Roosevelt, Theodore, 1858-1919",
-    "gutenbergReference": "9104",
-    "hash": "f869917671a4c87c2e4dd786193f38831cbe10e16338ed01798b387f7e86ec26"
-  },
-  {
-    "time": "00:05",
-    "quoteFirst": "“Yes, hours. It’s ",
-    "quoteTime": "five after midnight",
-    "quoteLast": ". And to-morrow, hundreds of miles away, I was to have made at least two touchdowns. The crowd would expect at least one sixty-yard dash by the Red Rover.”",
-    "title": "The Galloping Ghost\nA Mystery Story for Boys",
-    "author": "Snell, Roy J. (Roy Judson), 1878-1959",
-    "gutenbergReference": "43853",
-    "hash": "f76893c73409639badea18bb1a71228308819d85107a478813f9b3293f310f0d"
-  },
-  {
-    "time": "00:05",
-    "quoteFirst": "m. with 0.1 gram of the same barium acetate. The temperature at the time of feeding was 102.9°F. At ",
-    "quoteTime": "12.05 a.m.",
-    "quoteLast": " the animal urinated.",
-    "title": "Barium: A Cause of the Loco-Weed Disease",
-    "author": "Crawford, Albert Cornelius",
-    "gutenbergReference": "40256",
-    "hash": "6767a6c0765caf0c3f362eaa842dd600d47cfd096f9746c7f189145b91675fa9"
+    "quoteFirst": "At the last moment--the train, in utter disregard of both notices, starting at ",
+    "quoteTime": "five minutes after twelve",
+    "quoteLast": "--the owner of the bag jumped in.",
+    "title": "Our sentimental journey through France and Italy\nA new edition with Appendix",
+    "author": "Pennell, Joseph, 1857-1926; Pennell, Elizabeth Robins, 1855-1936",
+    "gutenbergReference": "56438",
+    "hash": "8f0f8d8d9283bafb09293b301629855407b605013bcb9ad75a5e2d1159e1b058"
   },
   {
     "time": "00:05",
@@ -181,6 +71,126 @@
   },
   {
     "time": "00:05",
+    "quoteFirst": "By ",
+    "quoteTime": "five minutes past twelve",
+    "quoteLast": " Mrs. Lovett's counter was full, and the savoury steam of the hot pies went out in fragrant clouds into Bell-yard, being sniffed up by many a poor wretch passing by who lacked the means of making one in the throng that were devouring the dainty morsels within.",
+    "title": "The String of Pearls; Or, The Barber of Fleet Street. A Domestic Romance.",
+    "author": "Rymer, James Malcolm, 1814?-1884; Prest, Thomas Peckett, 1810-1859",
+    "gutenbergReference": "59828",
+    "hash": "9e866fb0118a1f0968903ae88b0bfa9e46d569bff7af289ea8a72820d671abb2"
+  },
+  {
+    "time": "00:05",
+    "quoteFirst": "It was just ",
+    "quoteTime": "five minutes past twelve",
+    "quoteLast": ", and M. Mauperin was seated by Renée's bed, holding her two hands in his. Renée glanced at the time-piece.",
+    "title": "Renée Mauperin",
+    "author": "Goncourt, Edmond de, 1822-1896; Goncourt, Jules de, 1830-1870; Hallard, Alys [Translator]",
+    "gutenbergReference": "24604",
+    "hash": "e2766b67bcfa6d4724b4b3e7d99b159ab1e15922e727b7a3368d1705d02c69db"
+  },
+  {
+    "time": "00:05",
+    "quoteFirst": "Meanwhile we could inspect her fowls, rabbits and guinea-pigs. Well, we inspected her fowls, rabbits and guinea-pigs till exactly ",
+    "quoteTime": "five minutes past twelve",
+    "quoteLast": ", when _ces messieurs_ began to arrive. The adorable creature had never had the least intention of serving us with a special lunch.",
+    "title": "Paris Nights, and Other Impressions of Places and People",
+    "author": "Bennett, Arnold, 1867-1931; Rickards, Edwin Alfred, 1872-1920 [Illustrator]",
+    "gutenbergReference": "55116",
+    "hash": "b3f9d9472be886ee73e87386af9101b36eccb5a81837d749190839e0b0d4d450"
+  },
+  {
+    "time": "00:05",
+    "quoteFirst": "--That, on the last day of sale, a clock (striking every five minutes) shall be placed in the room; and when it hath struck ",
+    "quoteTime": "five minutes after twelve",
+    "quoteLast": ", the first picture mentioned in the sale-book will be deemed as sold; the second picture when the clock hath struck the next five minutes after twelve; and so on successively till the whole nineteen pictures are sold. 3. That none advance less than gold at each bidding. 4.",
+    "title": "Biographical Anecdotes of William Hogarth, With a Catalogue of His Works",
+    "author": "Nichols, John, 1745-1826",
+    "gutenbergReference": "52862",
+    "hash": "1f7f34d23bffda65542f13de26ee88c14db88bb7f49c493b57afb04d6595acfd"
+  },
+  {
+    "time": "00:05",
+    "quoteFirst": "About half a mile away they could just discern a corner of the club-house. They stood watching it in silence. At ",
+    "quoteTime": "five minutes past twelve",
+    "quoteLast": ", Granet shut his watch with a click.",
+    "title": "The Kingdom of the Blind",
+    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+    "gutenbergReference": "1442",
+    "hash": "c62c5274aeaab2bbaef5778a109c032cfa4f7c35e8f7651e2f5d00db2ee8aff3"
+  },
+  {
+    "time": "00:05",
+    "quoteFirst": "They were right. Aubrey returned at ",
+    "quoteTime": "five minutes past twelve",
+    "quoteLast": ", a failure.",
+    "title": "Of one blood: or, The hidden self",
+    "author": "Hopkins, Pauline E. (Pauline Elizabeth), 1859-1930",
+    "gutenbergReference": "69255",
+    "hash": "704cbc4a61c541c5d95a0283f2b03356fc04158a1f18ea3b823b1431488c83bd"
+  },
+  {
+    "time": "00:05",
+    "quoteFirst": "“Yes, hours. It’s ",
+    "quoteTime": "five after midnight",
+    "quoteLast": ". And to-morrow, hundreds of miles away, I was to have made at least two touchdowns. The crowd would expect at least one sixty-yard dash by the Red Rover.”",
+    "title": "The Galloping Ghost\nA Mystery Story for Boys",
+    "author": "Snell, Roy J. (Roy Judson), 1878-1959",
+    "gutenbergReference": "43853",
+    "hash": "f76893c73409639badea18bb1a71228308819d85107a478813f9b3293f310f0d"
+  },
+  {
+    "time": "00:05",
+    "quoteFirst": "Then there would have been a little packing to oversee, perhaps, and the Orient express is due in Salzbrück, I think, at precisely one o'clock. It is now\"--she glanced half-apologetically at the watch in her bracelet--\"it is now ",
+    "quoteTime": "five minutes past twelve",
+    "quoteLast": ", so that in less than an hour the prettiest woman who ever came to Salzbrück will have vanished again.\" And, as Malvine von Lynar spoke, she sighed.",
+    "title": "The Adventure of Princess Sylvia",
+    "author": "Williamson, A. M. (Alice Muriel), 1869-1933",
+    "gutenbergReference": "42357",
+    "hash": "97ad269848cb5de2aa4fd6edeef1384c8ac541de2f932163a7b5a8a770c87362"
+  },
+  {
+    "time": "00:05",
+    "quoteFirst": "2. That on the day of sale, a clock, striking every five minutes, shall be placed in the room; and when it has struck ",
+    "quoteTime": "five minutes after twelve",
+    "quoteLast": ", the first picture mentioned in the sale book shall be deemed as sold; the second picture when the clock has struck the next five minutes after twelve; and so on in succession, till the whole nineteen pictures are sold.",
+    "title": "Anecdotes of Painters, Engravers, Sculptors and Architects, and Curiosities of Art  (Vol. 1 of 3)",
+    "author": "Spooner, Shearjashub, 1809-1859",
+    "gutenbergReference": "66010",
+    "hash": "7b2fdd908f5e6871831ec58dbf9cebf14b6494c68ff8983d6af6e8b60f7cdb09"
+  },
+  {
+    "time": "00:05",
+    "quoteFirst": "“The Premier cannot see you to-day,” he said, “but will be very glad to meet you at this office at twelve sharp to-morrow. If you would accept a little word of advice,” he added, official manner giving way to French-Canadian courtesy, “I would say that it would be well to be exactly on time. By ",
+    "quoteTime": "five minutes past twelve",
+    "quoteLast": ", if you are not here, the Premier will be engaged with some one else, and then your opportunity will be gone. He never spends time in waiting. This is what you might call one of his peculiarities.",
+    "title": "Little Visits with Great Americans, Vol. 2 (of 2)\r\nOr Success, Ideals and How to Attain Them",
+    "author": "Marden, Orison Swett, 1848-1924 [Editor]",
+    "gutenbergReference": "48175",
+    "hash": "665d61126e04e015142ce293175a5f755b25b7457b13ef6b8d2ac354f3d08948"
+  },
+  {
+    "time": "00:05",
+    "quoteFirst": "Immediately is heard a deep bass voice to and fro the lower deck-- \"All the starboard watch! Heave out! heave out! heave out! Show a leg! show a leg! All the starboard Watch! Show a leg!\" which means \"Turn out of your hammock.\" At ",
+    "quoteTime": "five minutes past midnight",
+    "quoteLast": ", a tinkle of a bell is heard, followed by the same deep voice calling \"Watch to muster!\" Every seaman has to run to the quarterdeck, and on the midshipman calling his name, has to give in his number. This being done the boatswain's mate pipes, \"Sea-boats' crew and relieves fall in.",
+    "title": "From Lower Deck to Pulpit",
+    "author": "Cowling, Henry, 1874-1945",
+    "gutenbergReference": "22588",
+    "hash": "03a1aca691178274b29127025c75580af4c7963ccf95a1451eebcd6ea4c586a0"
+  },
+  {
+    "time": "00:05",
+    "quoteFirst": "2. That on the day of sale, a clock, striking every five minutes, shall be placed in the room; and when it has struck ",
+    "quoteTime": "five minutes after twelve",
+    "quoteLast": ", the first picture mentioned in the sale book shall be deemed as sold; the second picture when the clock has struck the next five minutes after twelve; and so on in succession, till the whole nineteen pictures are sold.",
+    "title": "Anecdotes of Painters, Engravers, Sculptors and Architects, and Curiosities of Art  (Vol. 1 of 3)",
+    "author": "Spooner, Shearjashub, 1809-1859",
+    "gutenbergReference": "66010",
+    "hash": "7b2fdd908f5e6871831ec58dbf9cebf14b6494c68ff8983d6af6e8b60f7cdb09"
+  },
+  {
+    "time": "00:05",
     "quoteFirst": "That on the last day of sale, a clock (striking every five minutes) shall be placed in the room; and when it hath struck ",
     "quoteTime": "five minutes after twelve",
     "quoteLast": ", the first picture mentioned in the sale book will be deemed as sold; the second picture, when the clock hath struck the next five minutes after twelve; and so on successively till the whole nineteen pictures are sold.",
@@ -188,15 +198,5 @@
     "author": "Ireland, John, -1808; Nichols, John, 1745-1826",
     "gutenbergReference": "51821",
     "hash": "d9e23cdf5034980e44c31437371f1c3cdd006b09b6cd052cd17f7024d76f6e14"
-  },
-  {
-    "time": "00:05",
-    "quoteFirst": "There was the usual heterogeneous crowd there, alike in one particular alone, that every guest represented, if not necessarily distinction, at least achievement in his own line. Judge Willis Enderby, many times invited, had for the first time come. At ",
-    "quoteTime": "five minutes after midnight",
-    "quoteLast": ", the incorruptible doorkeeper sent an urgent message requesting Mr. Banneker's personal attention to a party who declined politely but firmly to be turned away. The host, answering the summons, found Io.",
-    "title": "Success: A Novel",
-    "author": "Adams, Samuel Hopkins, 1871-1958",
-    "gutenbergReference": "15431",
-    "hash": "0e4d92664e684ad4e1a68e60a94601ce3a98ce48001227697bbc38f687dbbbac"
   }
 ]
