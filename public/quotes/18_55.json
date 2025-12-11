@@ -1,6 +1,16 @@
 [
   {
     "time": "18:55",
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes to seven",
+    "quoteLast": "!\" I almost yelled, dashing wildly into my room to wash my hands and get my violin. Courvoisier followed me. The child was awake. I felt a horrible sense of guilt as I saw it looking at me with great, soft, solemn, brown eyes, not in the least those of its father, but it did not move. I said apologetically that I feared I had awakened it.",
+    "title": "The first violin: A novel",
+    "author": "Fothergill, Jessie, 1851-1891",
+    "gutenbergReference": "29219",
+    "hash": "73d0df79ebf075c1137997fd92a7f806c3b39100e6b92fbfc121c4faf96e2e73"
+  },
+  {
+    "time": "18:55",
     "quoteFirst": "|3 to 4 9|Left Borja   |     |      |        |         |         |      |    | |Bay at 6.30  |     |      |        |         |         |      |    | |a.m. Arrived |     |      |        |         |         |      |    | |at Otter Bay |     |      |        |         |         |      |    | |at ",
     "quoteTime": "6.55 p.m.",
     "quoteLast": " | 45.8| 45.8 | 52 22 S| 73 40 W |   \"     | 105  | ...| ...",
@@ -11,13 +21,43 @@
   },
   {
     "time": "18:55",
-    "quoteFirst": "“'You turn up at the wharf at ",
+    "quoteFirst": "The next evening when the clock pointed to ",
     "quoteTime": "five minutes to seven",
-    "quoteLast": ",' I ses, 'and I'll give you ten bob of it; arter you've done your business I'll give you the other.  Come along quiet, and you'll see me waiting at the gate for you.'",
-    "title": "Ship's Company, the Entire Collection",
-    "author": "Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]",
-    "gutenbergReference": "10573",
-    "hash": "50bcb03e493cf9743e0f71554ee58295c1e692bf019805d97d81ec65ca96a366"
+    "quoteLast": ", Mdlle. Enquête appeared, rosy from the frost. She opened Margot, which she had brought with her, and without introduction began:",
+    "title": "The Duel and Other Stories",
+    "author": "Chekhov, Anton Pavlovich, 1860-1904; Garnett, Constance, 1861-1946 [Translator]",
+    "gutenbergReference": "13505",
+    "hash": "e3156235b86f8e4cbb144393ec359c7a422aa58ecdad251c338077c2db836c5c"
+  },
+  {
+    "time": "18:55",
+    "quoteFirst": "This did not matter much to the equable temperature of Miss Marlett; but it did matter a great deal to her shivering pupils, three of whom were just speeding their morning toilette, by the light of one candle, at the pleasant hour of ",
+    "quoteTime": "five minutes to seven",
+    "quoteLast": " on a frosty morning.",
+    "title": "The Mark of Cain",
+    "author": "Lang, Andrew, 1844-1912",
+    "gutenbergReference": "21821",
+    "hash": "b20f02a10130bd2c26dbcbf5057e9e1f7ab2f69296160badbe1bebbdd089f1a4"
+  },
+  {
+    "time": "18:55",
+    "quoteFirst": "The rest of the trip to Fort Armstrong was easy going compared with the task of getting through the hills and Tim sighted the lights of the army post at ",
+    "quoteTime": "five minutes to seven",
+    "quoteLast": ".",
+    "title": "The Sky Trail",
+    "author": "Dean, Graham M., 1904-1974",
+    "gutenbergReference": "45485",
+    "hash": "3ef1ccbd8fbd5f4a07086da77a11a1a201bd512b053f0d9000daa2061396a3c0"
+  },
+  {
+    "time": "18:55",
+    "quoteFirst": "But I happened to remember that there was a queer little shower early this morning. It stopped as suddenly as it began. All the way up to here I could see signs of water in the tracks, but you notice there are none in these footprints now. That shower quit at ",
+    "quoteTime": "five minutes to seven",
+    "quoteLast": " in Hickory Ridge. Making allowance for the difference in distance, I reckon Dolph was right here when it let up, say at even seven.",
+    "title": "Woodcraft; Or, How a Patrol Leader Made Good",
+    "author": "Douglas, Alan, Captain; Caswell, Edward C., 1879-1963 [Illustrator]",
+    "gutenbergReference": "37167",
+    "hash": "b73a22c30df6ba14a71c14a3dac5dee38d86721b8adf720a36f9fc5babfb80a6"
   },
   {
     "time": "18:55",
@@ -31,123 +71,43 @@
   },
   {
     "time": "18:55",
-    "quoteFirst": "Herbert came running to his mother to report that the baby had \"told a lie!\" For several weeks everything that was said was subject to the child's severe scrutiny; every slightest mistake was at once labelled by him as a \"lie.\" Richard said _this_ is my right hand, that is a lie; Helen said I may not play with the hammer, mother said I may, so Helen lied; the maid said it was time to go to bed, but it is only ",
-    "quoteTime": "five minutes to seven",
-    "quoteLast": ", so the maid lied. And he would delight especially in asking the baby brother leading questions, to trap him into saying lies.",
-    "title": "Your Child: Today and Tomorrow\r\nSome Problems for Parents Concerning Punishment, Reasoning, Lies, Ideals and Ambitions, Fear, Work and Play, Imagination, Social Activities, Obedience, Adolescence, Will, Heredity",
-    "author": "Gruenberg, Sidonie Matsner, 1881-1974",
-    "gutenbergReference": "9917",
-    "hash": "9cfc6bd145ef20304214c00a38a6b9e0ba66fd2512b94caad2e29a68fb81d4e0"
-  },
-  {
-    "time": "18:55",
-    "quoteFirst": "At ",
-    "quoteTime": "6.55 p.m.",
-    "quoteLast": " _Iron Duke_ passed the wreck of _Invincible_, with Badger standing by.",
-    "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
-    "gutenbergReference": "25963",
-    "hash": "869b29b8bf016e8aec4e8944a13cd3f8039c1d7cbe76c917297f2a3e307589e6"
-  },
-  {
-    "time": "18:55",
-    "quoteFirst": "Herbert came running to his mother to report that the baby had \"told a lie!\" For several weeks everything that was said was subject to the child's severe scrutiny; every slightest mistake was at once labelled by him as a \"lie.\" Richard said _this_ is my right hand, that is a lie; Helen said I may not play with the hammer, mother said I may, so Helen lied; the maid said it was time to go to bed, but it is only ",
-    "quoteTime": "five minutes to seven",
-    "quoteLast": ", so the maid lied. And he would delight especially in asking the baby brother leading questions, to trap him into saying lies.",
-    "title": "Your Child: Today and Tomorrow\r\nSome Problems for Parents Concerning Punishment, Reasoning, Lies, Ideals and Ambitions, Fear, Work and Play, Imagination, Social Activities, Obedience, Adolescence, Will, Heredity",
-    "author": "Gruenberg, Sidonie Matsner, 1881-1974",
-    "gutenbergReference": "9917",
-    "hash": "9cfc6bd145ef20304214c00a38a6b9e0ba66fd2512b94caad2e29a68fb81d4e0"
-  },
-  {
-    "time": "18:55",
-    "quoteFirst": "But the excitement of the impending event must have been too much for him. When I arrived at ",
-    "quoteTime": "five minutes to seven",
-    "quoteLast": ", Turpey, the wounded lieutenant, met me in the hall with a face of ill omen.",
-    "title": "The Stark Munro Letters\r\nBeing series of twelve letters written by J. Stark Munro, M.B., to his friend and former fellow-student, Herbert Swanborough, of Lowell, Massachusetts, during the years 1881-1884",
-    "author": "Doyle, Arthur Conan, 1859-1930",
-    "gutenbergReference": "290",
-    "hash": "c82ca8a710dad739678c860027c21826ffe526a2c87e590c66f7cab82e2073a0"
-  },
-  {
-    "time": "18:55",
-    "quoteFirst": "Marie Deschamps and I were ensconced punctually at the hour named, in the little slip of a closet communicating with the Herveys' up-stairs sitting-room. Nobody appeared there till about ",
-    "quoteTime": "five minutes to seven",
-    "quoteLast": ", when Constance, charmingly attired, and looking divinely--though much agitated, I could see through all her assumed firmness--entered, and seated herself upon a small couch, directly in front of the tiny window through which we cautiously peered.",
-    "title": "Harper's New Monthly Magazine, No. XXIII.—April, 1852.—Vol. IV.\nNone",
-    "author": "Various",
-    "gutenbergReference": "41629",
-    "hash": "7632a15adadd217609c8464a09c5ee27a32585b54dee38643f209a87d522a0f0"
-  },
-  {
-    "time": "18:55",
-    "quoteFirst": "30 Bombardment 7:30 A. M., 20 shells; violent bombardment ",
+    "quoteFirst": "21 Bombardment ",
     "quoteTime": "5 to 7 P. M.",
-    "quoteLast": "",
+    "quoteLast": "; renewed at night.",
     "title": "The Bombardment of Reims",
     "author": "Ferree, Barr, 1862-1924",
     "gutenbergReference": "49649",
-    "hash": "ac124379d79e94d0b90b6ac91d05e588df0a8cd043b49324c8d46bd22d8e2b89"
+    "hash": "da1c74cc07f6b92ed7c3eb6e41a1219c10969afeb0154a5f2a30e59e4bb40b14"
   },
   {
     "time": "18:55",
-    "quoteFirst": "The conventional lunch-hour all over the Colony is noon precisely, and dinner at about 8 o'clock. The visiting hours are from ",
-    "quoteTime": "5 to 7 in the evening",
-    "quoteLast": ", and _réunions_ and musical _soirées_ from 9. Society was far less divided here than in the British-Asiatic Colonies.",
-    "title": "The Philippine Islands\r\nA Political, Geographical, Ethnographical, Social and Commercial History of the Philippine Archipelago, Embracing the Whole Period of Spanish Rule",
-    "author": "Foreman, John, F.R.G.S.",
-    "gutenbergReference": "22815",
-    "hash": "11f618cb66fd7c7d263f3022197531a7d1a23420de55b5daaaf03dc6cc4bb190"
-  },
-  {
-    "time": "18:55",
-    "quoteFirst": "",
-    "quoteTime": "6.55 P. M.",
-    "quoteLast": "—Wireless message from Air Ministry via Clifden states:",
-    "title": "Aircraft",
-    "author": "David, Evan John, 1877-1961",
-    "gutenbergReference": "74358",
-    "hash": "01f77cc439314ce55ebce40c28d24794d65015d89a0d007aaa36052ac10ecf1b"
-  },
-  {
-    "time": "18:55",
-    "quoteFirst": "PRETORIA, _May 17, 1902_, ",
-    "quoteTime": "6.55 P.M.",
-    "quoteLast": "",
-    "title": "South Africa and the Transvaal War, Vol. 7 (of 8)\r\nThe Guerilla War, from February 1901 to the Conclusion of Hostilities",
-    "author": "Creswicke, Louis",
-    "gutenbergReference": "47132",
-    "hash": "fa4a58403bb4fa4f5ca98be5f675b280d8ae95ba56fbcf904ba33b5f80902249"
-  },
-  {
-    "time": "18:55",
-    "quoteFirst": "I got to my billet at six; there I flung off my pack, threw down my rifle, and in frenzied haste consulted a railway timetable. A slow train was due to leave our town at ",
+    "quoteFirst": "The attempt was commenced at 6 p.m., but in ten minutes two of the attacking parties were held up by a barrage of bombs and the third by heavy ground--the mud being found to be knee deep. The party on the left managed, indeed, to reach their objective, but the fact that the others were not up necessitated their retirement, and at ",
     "quoteTime": "five minutes to seven",
-    "quoteLast": ". I arranged my papers, made a brief review of matters which would come before me later, and with muddy boots and heavy heart I arrived at the station at seven minutes to seven and took the slow train for London.",
-    "title": "The Amateur Army",
-    "author": "MacGill, Patrick, 1890?-1963",
-    "gutenbergReference": "16078",
-    "hash": "f0de36b89a3a8c7ccd48f828f579d38f55fc44cff1daf2f49be7861257722198"
+    "quoteLast": " the company had to report that its advance was absolutely stopped. Half an hour later another attempt was made, notwithstanding the fact that in the interim the enemy had attacked in his turn. At 8.5 and again at 8.35 p.m. the Buffs called urgently for more ammunition and grenades.",
+    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
+    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
+    "gutenbergReference": "73159",
+    "hash": "467e951878bb938c9b471ff9af1cf23be7a98fd44e1f26dad55f5f3a57c635de"
   },
   {
     "time": "18:55",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes to seven",
-    "quoteLast": " Assistant Steward Scott, bearing a can of hot water and a cup of tea, tapped at the Old Man's cabin door.",
-    "title": "The Wireless Officer",
-    "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Wigfull, W. Edward, 1875-1944 [Illustrator]",
-    "gutenbergReference": "37824",
-    "hash": "7c75db044f50108e3af69c2e68fad21f97f0fb181cd2fea57acc0a17e6768c2b"
+    "quoteFirst": "The fashionable hours for walking in the Park on Sunday are from 1 to 2 p.m., both in winter and summer; and from ",
+    "quoteTime": "5 to 7 p.m.",
+    "quoteLast": " in the summer months.",
+    "title": "Manners and Rules of Good Society; Or, Solecisms to be Avoided",
+    "author": "Anonymous",
+    "gutenbergReference": "33716",
+    "hash": "b849b3a5fed596769369e5c97504fc0817135302ef7971919d8185056d17bcf7"
   },
   {
     "time": "18:55",
-    "quoteFirst": "Second: also from ",
-    "quoteTime": "5 to 7 P.M.",
-    "quoteLast": " the stretch of Fifth avenue, all the way from the Central Park exits at Fifty-ninth street, down to Fourteenth, especially along the high grade by Fortieth street, and down the hill. A Mississippi of horses and rich vehicles, not by dozens and scores, but hundreds and thousands--the broad avenue filled and cramm'd with them--a moving, sparkling, hurrying crush, for more than two miles.",
-    "title": "Complete Prose Works\nSpecimen Days and Collect, November Boughs and Goodbye My Fancy",
-    "author": "Whitman, Walt, 1819-1892",
-    "gutenbergReference": "8813",
-    "hash": "e19d912e130b5f9765998d5e2ed2f99ae002307eff0fad2b814a8683e36c885a"
+    "quoteFirst": "Lushington goes everywhere, and never has a ball, nor a drum, nor even a large dinner-party of her own, but she says to her friends, 'I love you dearly, I can't exist without you. Come and see me every Wednesday, except the Derby Day, all the London season through, from ",
+    "quoteTime": "five to seven P.M.",
+    "quoteLast": " I'll swear to be at home, and I'll give you a cup of tea!' So, for nine pen'orth of milk, and some hot water, she repays the hospitalities of a nation. She's pleased, the world is gratified, and nobody's bored but _you_.",
+    "title": "Satanella: A Story of Punchestown",
+    "author": "Whyte-Melville, G. J. (George John), 1821-1878; Kemp-Welch, Lucy, 1869-1958 [Illustrator]",
+    "gutenbergReference": "56753",
+    "hash": "95cfcf3960536a50479b9c4419fa3388f1a89ef4860633088949447998c6c71b"
   },
   {
     "time": "18:55",
@@ -161,42 +121,82 @@
   },
   {
     "time": "18:55",
-    "quoteFirst": "Marie Deschamps and I were ensconced punctually at the hour named, in the little slip of a closet communicating with the Herveys' up-stairs sitting-room. Nobody appeared there till about ",
-    "quoteTime": "five minutes to seven",
-    "quoteLast": ", when Constance, charmingly attired, and looking divinely--though much agitated, I could see through all her assumed firmness--entered, and seated herself upon a small couch, directly in front of the tiny window through which we cautiously peered.",
-    "title": "Harper's New Monthly Magazine, No. XXIII.—April, 1852.—Vol. IV.\nNone",
-    "author": "Various",
-    "gutenbergReference": "41629",
-    "hash": "7632a15adadd217609c8464a09c5ee27a32585b54dee38643f209a87d522a0f0"
+    "quoteFirst": "",
+    "quoteTime": "Five minutes to seven",
+    "quoteLast": "! Still no word from the guide. The minutes ticked away. By Jove! I was going to miss the train. But I sat resolutely in my corner. I had put my trust in this man. I would trust him to the last.",
+    "title": "The Man with the Clubfoot",
+    "author": "Williams, Valentine, 1883-1946",
+    "gutenbergReference": "15302",
+    "hash": "252a21691d32c701c49f7619fa621a044664d997289190b01c99690a70115985"
   },
   {
     "time": "18:55",
-    "quoteFirst": "\"It's ",
-    "quoteTime": "five minutes to seven",
-    "quoteLast": ",\" announced Rosamond quietly, \"but we can already see the railroad lights in the distance, and besides, the train is sure to be late. But, Patty, you can't go quite so fast as we get into the town. You musn't! You'll be arrested!\"",
-    "title": "Patty in Paris",
-    "author": "Wells, Carolyn, 1862-1942",
-    "gutenbergReference": "5731",
-    "hash": "790e534a7dea6c5d733520eac29af01f8a122afd6d87c03338803ffcc1f4cae4"
+    "quoteFirst": "Isle of Wight, surrounded by her family, at ",
+    "quoteTime": "6.55 P.M.",
+    "quoteLast": " on January 22, 1901, in the eighty-second year of her age, and sixty-fourth of her reign.",
+    "title": "Triumphs and Wonders of the 19th Century: The True Mirror of a Phenomenal Era\r\nA volume of original, entertaining and instructive historic and descriptive writings, showing the many and marvellous achievements which distinguish an hundred years of material, intellectual, social and moral progress",
+    "author": "Boyd, James P. (James Penny), 1836-1910",
+    "gutenbergReference": "55390",
+    "hash": "c0f7a4ec5d4d1066c4b2284b765bd68c5f7a45f0470ccf788a2bded87a422f12"
   },
   {
     "time": "18:55",
-    "quoteFirst": "“It is ",
-    "quoteTime": "five minutes to seven",
-    "quoteLast": ",” he said. “They have been gone from here twenty or twenty-five minutes. We must----”",
-    "title": "The Babbington case; Or, Nick Carter's strange quest",
-    "author": "Carter, Nicholas (House name)",
-    "gutenbergReference": "69263",
-    "hash": "d5005459bc89e9e481c6bcdad42da4b3a9bfbee7a5894fc409ba134ed72c83c7"
+    "quoteFirst": "Lushington goes everywhere, and never has a ball, nor a drum, nor even a large dinner-party of her own, but she says to her friends, 'I love you dearly, I can't exist without you. Come and see me every Wednesday, except the Derby Day, all the London season through, from ",
+    "quoteTime": "five to seven P.M.",
+    "quoteLast": " I'll swear to be at home, and I'll give you a cup of tea!' So, for nine pen'orth of milk, and some hot water, she repays the hospitalities of a nation. She's pleased, the world is gratified, and nobody's bored but _you_.",
+    "title": "Satanella: A Story of Punchestown",
+    "author": "Whyte-Melville, G. J. (George John), 1821-1878; Kemp-Welch, Lucy, 1869-1958 [Illustrator]",
+    "gutenbergReference": "56753",
+    "hash": "95cfcf3960536a50479b9c4419fa3388f1a89ef4860633088949447998c6c71b"
   },
   {
     "time": "18:55",
-    "quoteFirst": "The conventional lunch-hour all over the Colony is noon precisely, and dinner at about 8 o'clock. The visiting hours are from ",
-    "quoteTime": "5 to 7 in the evening",
-    "quoteLast": ", and _réunions_ and musical _soirées_ from 9. Society was far less divided here than in the British-Asiatic Colonies.",
-    "title": "The Philippine Islands\r\nA Political, Geographical, Ethnographical, Social and Commercial History of the Philippine Archipelago, Embracing the Whole Period of Spanish Rule",
-    "author": "Foreman, John, F.R.G.S.",
-    "gutenbergReference": "22815",
-    "hash": "11f618cb66fd7c7d263f3022197531a7d1a23420de55b5daaaf03dc6cc4bb190"
+    "quoteFirst": "The porter saw him leave the station at six-thirty-seven. General O’Gorman’s house is about half-a-mile from the station. At ",
+    "quoteTime": "five minutes to seven",
+    "quoteLast": " the general and a gentleman named Hanford and the general’s housekeeper, a Mrs. Parton, found Pratt lying dead in the avenue that leads up to the house.",
+    "title": "The adventures of Dr. Thorndyke (The singing bone)",
+    "author": "Freeman, R. Austin (Richard Austin), 1862-1943",
+    "gutenbergReference": "59478",
+    "hash": "f7dbb06c85746116e803400f4895590c8a8344de152c526bd3cbd6403bedadba"
+  },
+  {
+    "time": "18:55",
+    "quoteFirst": "16 Taube early morning; bombardment 11 A. M. to noon, 100 shells; renewed ",
+    "quoteTime": "5 to 7 P. M.",
+    "quoteLast": ", 4 killed, 10 wounded.",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "dc49b785b48f6a8f1f40c39809ad78197010432a7f183ece855c5f81f62cf264"
+  },
+  {
+    "time": "18:55",
+    "quoteFirst": "\"I couldn't do that just now,\" demurred Ned. \"You see, I help in the kitchen here from six to eight in the morning, eleven to one at noon and ",
+    "quoteTime": "five to seven in the evening",
+    "quoteLast": ".\"",
+    "title": "The Boys of Bellwood School; Or, Frank Jordan's Triumph",
+    "author": "Webster, Frank V.",
+    "gutenbergReference": "6444",
+    "hash": "f798d3f97239be29bffe99df07ef8427736de34ddbb9a45d504826453e14cc33"
+  },
+  {
+    "time": "18:55",
+    "quoteFirst": "The station clock showed only ",
+    "quoteTime": "five minutes to seven",
+    "quoteLast": ". I was astounded. It seemed to me that all the real world had been astir and busy for hours. And this extraordinary activity went on every morning while Aunt Constance and I lay in our beds and thought well of ourselves.",
+    "title": "Sacred and Profane Love: A Novel in Three Episodes",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "11360",
+    "hash": "38d6547c8a0aaa07de68da661ffee9b2681138d183a073f7de369980f1966f26"
+  },
+  {
+    "time": "18:55",
+    "quoteFirst": "Lushington goes everywhere, and never has a ball, nor a drum, nor even a large dinner-party of her own, but she says to her friends, 'I love you dearly, I can't exist without you. Come and see me every Wednesday, except the Derby Day, all the London season through, from ",
+    "quoteTime": "five to seven P.M.",
+    "quoteLast": " I'll swear to be at home, and I'll give you a cup of tea!' So, for nine pen'orth of milk, and some hot water, she repays the hospitalities of a nation. She's pleased, the world is gratified, and nobody's bored but _you_.",
+    "title": "Satanella: A Story of Punchestown",
+    "author": "Whyte-Melville, G. J. (George John), 1821-1878; Kemp-Welch, Lucy, 1869-1958 [Illustrator]",
+    "gutenbergReference": "56753",
+    "hash": "95cfcf3960536a50479b9c4419fa3388f1a89ef4860633088949447998c6c71b"
   }
 ]

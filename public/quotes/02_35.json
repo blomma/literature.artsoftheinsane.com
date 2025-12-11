@@ -1,93 +1,43 @@
 [
   {
     "time": "02:35",
-    "quoteFirst": "He scribbled a line on the table, and said as he rose: “It is ",
-    "quoteTime": "thirty-five minutes past two",
-    "quoteLast": ". You would perhaps find the doctor at home now.”",
-    "title": "A Love Episode",
-    "author": "Zola, Émile, 1840-1902; Starkweather, C. C. [Translator]",
-    "gutenbergReference": "13695",
-    "hash": "a3d1c1a5484d7506fac1552e62f730bc54ccc04a84296193efec8b42c13b8568"
+    "quoteFirst": "You must come. I will meet you in the city at the morning train, the one that leaves the Ridge here at ",
+    "quoteTime": "2.35 A.M.",
+    "quoteLast": " We can go to the parks to-morrow and be alone and talk it all out, before the concert--and then--oh, Molly, core of my soul, heart of my heart, why should we ever come back!                                           BOB.\"",
+    "title": "A Certain Rich Man",
+    "author": "White, William Allen, 1868-1944",
+    "gutenbergReference": "18684",
+    "hash": "c52fdfef47b2d22da226d94754ca7914894f19577723c57e716a121e17c6b977"
   },
   {
     "time": "02:35",
-    "quoteFirst": "Rises at 12:58 p. m. on the 1st and sets at 3:34 a. m. on the 2d; rises at 11:58 a. m. on the 16th and sets at ",
-    "quoteTime": "2:35 a. m.",
-    "quoteLast": " on the 17th; rises at 11:12 a. m. on the 28th and sets at 1:48 a. m. on March 1st. On the 16th, at 4:00 a. m., stationary; on 23d, at 3:21 a. m.",
-    "title": "The Chautauquan, Vol. 05, February 1885",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55053",
-    "hash": "8f8fc480600a3b53365c33ce03a2c69b06df926f0cf6b100eae69b2039009b8e"
-  },
-  {
-    "time": "02:35",
-    "quoteFirst": "Torrance. I looked at my watch. It was ",
-    "quoteTime": "2.35 a.m.",
-    "quoteLast": " I picked up the poker from my fireside and went out of my room. Mr. Torrance was there, too, by that time.",
-    "title": "Murder in the maze",
-    "author": "Connington, J. J., 1880-1947",
-    "gutenbergReference": "71351",
-    "hash": "66dff7f35d90b4833ada860bc564f854772e7291d0bb3b54c5f8a00bd81f036e"
-  },
-  {
-    "time": "02:35",
-    "quoteFirst": "\"Your calculation is that as the accident took place at 3:12 and you left at ",
-    "quoteTime": "twenty-five minutes to three",
-    "quoteLast": " you drove fifteen miles in thirty-seven minutes--that is to say, at the rate of twenty-four miles an hour. Is that right?\"",
-    "title": "Manslaughter",
-    "author": "Miller, Alice Duer, 1874-1942; Gruger, Frederic Rodrigo, 1871-1953 [Illustrator]",
-    "gutenbergReference": "33985",
-    "hash": "13d09b7be87f2654f6170f555fdd6667e0fed0829d0a81b9636a69050be5839c"
-  },
-  {
-    "time": "02:35",
-    "quoteFirst": "Once more we separated, and as I glanced at the clock I saw it then was ",
-    "quoteTime": "thirty-five minutes past two",
-    "quoteLast": ".",
-    "title": "The Corsican Brothers",
-    "author": "Dumas, Alexandre, 1802-1870; Frith, Henry, 1840- [Translator]",
-    "gutenbergReference": "41881",
-    "hash": "626d05893797d8ccad555b2aad17b4433de487ef31a089edfc87726db9ddc0b1"
+    "quoteFirst": "\"HEAD-QUARTERS, FREDERICK, September 13, 1862, 12 M. (\"Received ",
+    "quoteTime": "2.35 A.M.",
+    "quoteLast": ", September 14.)",
+    "title": "From Manassas to Appomattox: Memoirs of the Civil War in America",
+    "author": "Longstreet, James, 1821-1904",
+    "gutenbergReference": "38418",
+    "hash": "90627d2931072ed8307720cacf9122749ae36277331353421458f5034bb0d74f"
   },
   {
     "time": "02:35",
     "quoteFirst": "At ",
-    "quoteTime": "2.35 a.m.",
-    "quoteLast": " Lukin received orders from the division that at all costs the northern entrance into Longueval must be blocked, and that for this purpose his Brigade must complete the capture of the northern perimeter of the wood, and advance westward till they joined hands with the 27th Brigade.",
-    "title": "The history of the South African forces in France",
-    "author": "Buchan, John, 1875-1940",
-    "gutenbergReference": "76673",
-    "hash": "fa625e8b727425bfc5523ebf672e94c2fcd7fa5f0f3512712c91a82c84386258"
-  },
-  {
-    "time": "02:35",
-    "quoteFirst": "You must come. I will meet you in the city at the morning train, the one that leaves the Ridge here at ",
     "quoteTime": "2.35 A.M.",
-    "quoteLast": " We can go to the parks to-morrow and be alone and talk it all out, before the concert--and then--oh, Molly, core of my soul, heart of my heart, why should we ever come back!                                           BOB.\"",
-    "title": "A Certain Rich Man",
-    "author": "White, William Allen, 1868-1944",
-    "gutenbergReference": "18684",
-    "hash": "c52fdfef47b2d22da226d94754ca7914894f19577723c57e716a121e17c6b977"
+    "quoteLast": " the destroyer _Moresby_, of the 13th Flotilla, sighted four battleships of the “Deutschland” class, and attacked, firing one torpedo; an explosion was subsequently heard.",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "hash": "99ac91767be1b059ea9a5de8807446762d659bb706f7915774c1a681480713b8"
   },
   {
     "time": "02:35",
-    "quoteFirst": "\"Filed, ",
-    "quoteTime": "2:35 A. M.",
-    "quoteLast": "\" \"Received, 2:43 A. M.\"",
-    "title": "Danger signals",
-    "author": "Hill, John A. (John Alexander), 1858-1916; Brady, Jasper Ewing, 1866-1940",
-    "gutenbergReference": "19007",
-    "hash": "58a6f9122e81287cb220dc13c402440070770e913ffab4164a5cbd7138f1db7a"
-  },
-  {
-    "time": "02:35",
-    "quoteFirst": "You must come. I will meet you in the city at the morning train, the one that leaves the Ridge here at ",
-    "quoteTime": "2.35 A.M.",
-    "quoteLast": " We can go to the parks to-morrow and be alone and talk it all out, before the concert--and then--oh, Molly, core of my soul, heart of my heart, why should we ever come back!                                           BOB.\"",
-    "title": "A Certain Rich Man",
-    "author": "White, William Allen, 1868-1944",
-    "gutenbergReference": "18684",
-    "hash": "c52fdfef47b2d22da226d94754ca7914894f19577723c57e716a121e17c6b977"
+    "quoteFirst": "“",
+    "quoteTime": "Twenty-five minutes to three",
+    "quoteLast": "! Nearly two hours, and I didn't believe it was two minutes! Is it possible that this clock is humbugging again? Miss Ethelton! Just one moment, please. Are you there yet?”",
+    "title": "Alonzo Fitz, and Other Stories",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3184",
+    "hash": "4142f0b82bd1b6526cde0ba8b647611b2bb5c852e20698a352f8035e74320ca1"
   },
   {
     "time": "02:35",
@@ -101,23 +51,73 @@
   },
   {
     "time": "02:35",
-    "quoteFirst": "You see, in Mariposa, shaving isn't the hurried, perfunctory thing that it is in the city. A shave is looked upon as a form of physical pleasure and lasts anywhere from ",
-    "quoteTime": "twenty-five minutes to three",
-    "quoteLast": "-quarters of an hour.",
-    "title": "Sunshine Sketches of a Little Town",
-    "author": "Leacock, Stephen, 1869-1944",
-    "gutenbergReference": "3533",
-    "hash": "7c1703876280a43125e8496e3702ba43b21ded02fb70d593bd25bbad51822162"
+    "quoteFirst": "You must come. I will meet you in the city at the morning train, the one that leaves the Ridge here at ",
+    "quoteTime": "2.35 A.M.",
+    "quoteLast": " We can go to the parks to-morrow and be alone and talk it all out, before the concert--and then--oh, Molly, core of my soul, heart of my heart, why should we ever come back!                                           BOB.\"",
+    "title": "A Certain Rich Man",
+    "author": "White, William Allen, 1868-1944",
+    "gutenbergReference": "18684",
+    "hash": "c52fdfef47b2d22da226d94754ca7914894f19577723c57e716a121e17c6b977"
   },
   {
     "time": "02:35",
-    "quoteFirst": "Swan River (Riviere des Cygnes) upon this part of the coast, latitude 31 degrees ",
-    "quoteTime": "25 minutes to 3",
-    "quoteLast": "2 degrees, was examined by the French expedition, to the distance of about twenty leagues from its mouth; and found still to contain salt water. The rock in its neighbourhood consisted altogether of sandy and calcareous incrustations, in horizontal beds, enclosing, it is stated, shells, and the roots and even trunks of trees.",
-    "title": "Narrative of a Survey of the Intertropical and Western Coasts of Australia — Vol. 2\r\nPerformed between the years 1818 and 1822",
-    "author": "King, Philip Parker, 1793-1856",
-    "gutenbergReference": "12046",
-    "hash": "4f41d39833e6890b339bb28b923aeec265e56ab6de4c7ddb79b1e02d46eee40b"
+    "quoteFirst": "Meanwhile, the moon had disappeared behind the Zumstein Spitze, and two lanterns were lighted. We were now at a height of about 11,500 feet. My watch showed ",
+    "quoteTime": "2.35 a.m.",
+    "quoteLast": "; thus our rate of progress so far was satisfactory. From this point, however, the problem assumed a far more serious aspect.",
+    "title": "The making of a mountaineer",
+    "author": "Finch, George Ingle, 1888-1970",
+    "gutenbergReference": "69128",
+    "hash": "fff4b158649f29aafd0905a60dea5a2c881468a3103927e378c88e61024c0c12"
+  },
+  {
+    "time": "02:35",
+    "quoteFirst": "The Commission noted that the only time not strictly accounted for during the period that Mrs. Odio thought Oswald might have visited her is the span between the morning of September 25 and ",
+    "quoteTime": "2:35 a.m.",
+    "quoteLast": "",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "745ad40c2ee0294a3123564b3a4b5d4a13023d7e6787af508affeef3a2863364"
+  },
+  {
+    "time": "02:35",
+    "quoteFirst": "You must come. I will meet you in the city at the morning train, the one that leaves the Ridge here at ",
+    "quoteTime": "2.35 A.M.",
+    "quoteLast": " We can go to the parks to-morrow and be alone and talk it all out, before the concert--and then--oh, Molly, core of my soul, heart of my heart, why should we ever come back!                                           BOB.\"",
+    "title": "A Certain Rich Man",
+    "author": "White, William Allen, 1868-1944",
+    "gutenbergReference": "18684",
+    "hash": "c52fdfef47b2d22da226d94754ca7914894f19577723c57e716a121e17c6b977"
+  },
+  {
+    "time": "02:35",
+    "quoteFirst": "The Commission noted that the only time not strictly accounted for during the period that Mrs. Odio thought Oswald might have visited her is the span between the morning of September 25 and ",
+    "quoteTime": "2:35 a.m.",
+    "quoteLast": "",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "745ad40c2ee0294a3123564b3a4b5d4a13023d7e6787af508affeef3a2863364"
+  },
+  {
+    "time": "02:35",
+    "quoteFirst": "“",
+    "quoteTime": "Twenty-five minutes to three",
+    "quoteLast": "! Nearly two hours, and I didn't believe it was two minutes! Is it possible that this clock is humbugging again? Miss Ethelton! Just one moment, please. Are you there yet?”",
+    "title": "Alonzo Fitz, and Other Stories",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3184",
+    "hash": "4142f0b82bd1b6526cde0ba8b647611b2bb5c852e20698a352f8035e74320ca1"
+  },
+  {
+    "time": "02:35",
+    "quoteFirst": "At ",
+    "quoteTime": "2.35 a.m.",
+    "quoteLast": " Lukin received orders from the division that at all costs the northern entrance into Longueval must be blocked, and that for this purpose his Brigade must complete the capture of the northern perimeter of the wood, and advance westward till they joined hands with the 27th Brigade.",
+    "title": "The history of the South African forces in France",
+    "author": "Buchan, John, 1875-1940",
+    "gutenbergReference": "76673",
+    "hash": "fa625e8b727425bfc5523ebf672e94c2fcd7fa5f0f3512712c91a82c84386258"
   },
   {
     "time": "02:35",
@@ -141,62 +141,62 @@
   },
   {
     "time": "02:35",
-    "quoteFirst": "\"Your calculation is that as the accident took place at 3:12 and you left at ",
-    "quoteTime": "twenty-five minutes to three",
-    "quoteLast": " you drove fifteen miles in thirty-seven minutes--that is to say, at the rate of twenty-four miles an hour. Is that right?\"",
-    "title": "Manslaughter",
-    "author": "Miller, Alice Duer, 1874-1942; Gruger, Frederic Rodrigo, 1871-1953 [Illustrator]",
-    "gutenbergReference": "33985",
-    "hash": "13d09b7be87f2654f6170f555fdd6667e0fed0829d0a81b9636a69050be5839c"
-  },
-  {
-    "time": "02:35",
-    "quoteFirst": "You must come. I will meet you in the city at the morning train, the one that leaves the Ridge here at ",
+    "quoteFirst": "\"HEAD-QUARTERS, FREDERICK, September 13, 1862, 12 M. (\"Received ",
     "quoteTime": "2.35 A.M.",
-    "quoteLast": " We can go to the parks to-morrow and be alone and talk it all out, before the concert--and then--oh, Molly, core of my soul, heart of my heart, why should we ever come back!                                           BOB.\"",
-    "title": "A Certain Rich Man",
-    "author": "White, William Allen, 1868-1944",
-    "gutenbergReference": "18684",
-    "hash": "c52fdfef47b2d22da226d94754ca7914894f19577723c57e716a121e17c6b977"
+    "quoteLast": ", September 14.)",
+    "title": "From Manassas to Appomattox: Memoirs of the Civil War in America",
+    "author": "Longstreet, James, 1821-1904",
+    "gutenbergReference": "38418",
+    "hash": "90627d2931072ed8307720cacf9122749ae36277331353421458f5034bb0d74f"
   },
   {
     "time": "02:35",
-    "quoteFirst": "At ",
-    "quoteTime": "2.35 a.m.",
-    "quoteLast": " Lukin received orders from the division that at all costs the northern entrance into Longueval must be blocked, and that for this purpose his Brigade must complete the capture of the northern perimeter of the wood, and advance westward till they joined hands with the 27th Brigade.",
-    "title": "The history of the South African forces in France",
-    "author": "Buchan, John, 1875-1940",
-    "gutenbergReference": "76673",
-    "hash": "fa625e8b727425bfc5523ebf672e94c2fcd7fa5f0f3512712c91a82c84386258"
+    "quoteFirst": "The Commission noted that the only time not strictly accounted for during the period that Mrs. Odio thought Oswald might have visited her is the span between the morning of September 25 and ",
+    "quoteTime": "2:35 a.m.",
+    "quoteLast": "",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "745ad40c2ee0294a3123564b3a4b5d4a13023d7e6787af508affeef3a2863364"
   },
   {
     "time": "02:35",
-    "quoteFirst": "Torrance. I looked at my watch. It was ",
-    "quoteTime": "2.35 a.m.",
-    "quoteLast": " I picked up the poker from my fireside and went out of my room. Mr. Torrance was there, too, by that time.",
-    "title": "Murder in the maze",
-    "author": "Connington, J. J., 1880-1947",
-    "gutenbergReference": "71351",
-    "hash": "66dff7f35d90b4833ada860bc564f854772e7291d0bb3b54c5f8a00bd81f036e"
+    "quoteFirst": "Houston at ",
+    "quoteTime": "2:35 a.m.",
+    "quoteLast": " for Laredo, Tex. Bus company records disclose that one ticket from Houston to Laredo was sold during the night shift on September 25-26, and that such ticket was the only one of its kind sold in the period of September 24 through September 26. The agent who sold this ticket has stated that Oswald could have been the purchaser.[C6-727] Two English passengers, Dr. and Mrs. John B.",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "4a8fbcc4d06b3be16c434067e6d2b54644255ddff82cd1594549034c288f037b"
   },
   {
     "time": "02:35",
-    "quoteFirst": "30 A.M. _Champion_ was engaged for a few minutes with four enemy destroyers. _Moresby_ reports four ships of “Deutschland” class sighted at ",
-    "quoteTime": "2.35 A.M.",
-    "quoteLast": " at whom she fired one torpedo. Two minutes later an explosion was felt by _Moresby_ and _Obdurate_.",
-    "title": "The Grand Fleet, 1914-1916",
-    "author": "Jellicoe, John Rushworth, 1859-1935",
-    "gutenbergReference": "75323",
-    "hash": "387c309260ec0f0f6297fbb51771311d8c8d27c8a33ac7bdf9615e472bbdf802"
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty-five minutes to three",
+    "quoteLast": "!  Nearly two hours, and I didn't believe it was two minutes!  Is it possible that this clock is humbugging again? Miss Ethelton!  Just one moment, please.  Are you there yet?\"",
+    "title": "The Entire Project Gutenberg Works of Mark Twain",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3200",
+    "hash": "e34405ed72cfb172e159f09a8a02a04720b56a5f2fc151385373bd0cb43499d6"
   },
   {
     "time": "02:35",
-    "quoteFirst": "30 A.M. _Champion_ was engaged for a few minutes with four enemy destroyers. _Moresby_ reports four ships of “Deutschland” class sighted at ",
-    "quoteTime": "2.35 A.M.",
-    "quoteLast": " at whom she fired one torpedo. Two minutes later an explosion was felt by _Moresby_ and _Obdurate_.",
-    "title": "The Grand Fleet, 1914-1916",
-    "author": "Jellicoe, John Rushworth, 1859-1935",
-    "gutenbergReference": "75323",
-    "hash": "387c309260ec0f0f6297fbb51771311d8c8d27c8a33ac7bdf9615e472bbdf802"
+    "quoteFirst": "Houston at ",
+    "quoteTime": "2:35 a.m.",
+    "quoteLast": " for Laredo, Tex. Bus company records disclose that one ticket from Houston to Laredo was sold during the night shift on September 25-26, and that such ticket was the only one of its kind sold in the period of September 24 through September 26. The agent who sold this ticket has stated that Oswald could have been the purchaser.[C6-727] Two English passengers, Dr. and Mrs. John B.",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "4a8fbcc4d06b3be16c434067e6d2b54644255ddff82cd1594549034c288f037b"
+  },
+  {
+    "time": "02:35",
+    "quoteFirst": "[C6-731] The Commission noted, however, that if Oswald had reached Dallas on the evening of September 25, he could have traveled by bus to Alice, Tex., and there caught the bus which had left Houston for Laredo at ",
+    "quoteTime": "2:35 a.m.",
+    "quoteLast": " on September 26, 1963.[C6-732] Further investigation in that regard indicated, however, that no tickets were sold, during the period September 23-26, 1963 for travel from Dallas to Laredo or points beyond by the Dallas office of Continental Trailways, the only bus line on which Oswald could have made connections with the bus on which he was later seen.",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "5094edea4e5c82de24c254c2286d0f03b859da3b2e8465630593e230c22df06e"
   }
 ]

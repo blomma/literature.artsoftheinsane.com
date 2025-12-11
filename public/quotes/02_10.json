@@ -1,33 +1,53 @@
 [
   {
     "time": "02:10",
-    "quoteFirst": "Westover looked at his watch. “It's ",
+    "quoteFirst": "\"",
+    "quoteTime": "Ten minutes past two",
+    "quoteLast": "? How horribly late! You must wake me at nine to-morrow. I have some work to do.\"",
+    "title": "The Picture of Dorian Gray",
+    "author": "Wilde, Oscar, 1854-1900",
+    "gutenbergReference": "26740",
+    "hash": "eebf4f18ac56b0d2254391ed3809e56325e29b9c7b4ee1a143aa26d23262a9ca"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "The bill which was to close the courts of law, and place power over life and property in the hands of military despots (and such despots!), was shuffled into the House by the attorney-general at 2 a.m., and read for the second time after _grave and mature deliberation_ at ",
+    "quoteTime": "2.10 a.m.",
+    "quoteLast": "; and Doreen, when she read the note which informed her that it was carried by 137 against 7, had an extra douche of sorrow poured over her, in that her too facile parent had been its godfather!",
+    "title": "My Lords of Strogue, Vol. 2 (of 3)\r\nA Chronicle of Ireland, from the Convention to the Union",
+    "author": "Wingfield, Lewis, 1842-1891",
+    "gutenbergReference": "38862",
+    "hash": "fc21697203fa3e49abbd2ee13bc47b50df1d0d7bbd5fb2cb6ccd8aaa59a45937"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "He thought for a moment, and then said, \"Nothing beyond the fact that all three died precisely at the same time--",
     "quoteTime": "ten minutes past two",
-    "quoteLast": ".”",
-    "title": "The Landlord at Lion's Head — Complete",
-    "author": "Howells, William Dean, 1837-1920",
-    "gutenbergReference": "4645",
-    "hash": "dac3f71fcaae8c9d0bc872fe7d0384d39cef99399b2f441e7227708ef22188aa"
+    "quoteLast": " in the morning.\"",
+    "title": "Haunted Places in England",
+    "author": "O'Donnell, Elliott, 1872-1965",
+    "gutenbergReference": "44397",
+    "hash": "26dad4a59c88dc1fd069d86b52c1c46d310e2dedb87c45d427c0cc9765b92e91"
   },
   {
     "time": "02:10",
-    "quoteFirst": "THE PRESIDENT: We will adjourn until ",
-    "quoteTime": "10 minutes past 2",
-    "quoteLast": ".",
-    "title": "Trial of the Major War Criminals Before the International Military Tribunal, Nuremburg, 14 November 1945-1 October 1946, Volume 10",
-    "author": "Various",
-    "gutenbergReference": "64943",
-    "hash": "0b33cabe2b0b438b49bed49f6d3f7de71e3cc0a4be0fe7b29e95243f82d95509"
+    "quoteFirst": "Point, Quebec, on May 29, 1914, at ",
+    "quoteTime": "2.10 A. M.",
+    "quoteLast": ", and sank about fifteen minutes later, carrying a thousand of her passengers down with her.]",
+    "title": "The Tragic Story of the Empress of Ireland, and Other Great Sea Disasters",
+    "author": "Marshall, Logan, 1884-1937",
+    "gutenbergReference": "58274",
+    "hash": "1741aa12c0f51b30d634f498447f9a35140aace3937f51c42e29114f21520f92"
   },
   {
     "time": "02:10",
-    "quoteFirst": "The enemy was very alert, and the right party under Lieut. Grant was unable to reach the German lines owing to the activity of hostile patrols. Eventually at ",
-    "quoteTime": "2.10 A.M.",
-    "quoteLast": " the charge was fired in on enemy sap, where it did considerable damage; the party then got away under heavy fire without casualties. Lieut. Hugh Jones with the left party reached the wire at 1.30 A.M. and placed the torpedoes in position.",
-    "title": "The history of the Twentieth (Light) Division",
-    "author": "Inglefield, Valentine Erskine, 1886-1947; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]",
-    "gutenbergReference": "74129",
-    "hash": "a8d9ebf1188675e5402f3fb0bb1850dd4a64b9a730b7901c00aa064232cbf019"
+    "quoteFirst": "The position on the extreme left, where the 49th and 60th[7] were to attack through Sanctuary Wood, was a peculiar one.  The 49th Battalion was in position by ",
+    "quoteTime": "2.10 a.m.",
+    "quoteLast": ", the regiment having moved steadily to its objective under heavy fire, merely panting for the fray.  It had not yet been engaged in any great general action, and was anxious to give its proofs--which, indeed, it did most nobly.",
+    "title": "Canada in Flanders, Volume II",
+    "author": "Beaverbrook, Max Aitken, Baron, 1879-1964",
+    "gutenbergReference": "46115",
+    "hash": "6958817c07eb76a3ac574cf59e642a284c409dee071abfec4c7fb99ecc5a8c86"
   },
   {
     "time": "02:10",
@@ -41,73 +61,33 @@
   },
   {
     "time": "02:10",
-    "quoteFirst": "At two o'clock he was pacing the floor of his room waiting expectantly for Goby. The latter was ushered in at ",
-    "quoteTime": "ten minutes past two",
-    "quoteLast": ".",
-    "title": "The mystery of the Blue Train",
-    "author": "Christie, Agatha, 1890-1976",
-    "gutenbergReference": "72824",
-    "hash": "ba39618732e0d42a8f02c7cd0966f5d082f3dfb75d7e916092e676b3038dd3f8"
-  },
-  {
-    "time": "02:10",
-    "quoteFirst": "I did not sleep at all that night. Indeed, very few slept, for during the night the troops were taking their place for the assault and it was not till ",
-    "quoteTime": "2:10 a. m.",
-    "quoteLast": " that the assembly was complete.",
-    "title": "The Red Vineyard",
-    "author": "Murdoch, B. J. (Benedict Joseph), 1886-1973",
-    "gutenbergReference": "68063",
-    "hash": "0bbccb284770c38ac7092f05b258825bb023e0f019c03f5e3dd32332969558f9"
-  },
-  {
-    "time": "02:10",
-    "quoteFirst": "The telephone lines were constantly broken, and the heroic runners were frequently killed.[2]  The armoured cables[3] were the main stand-by.  On the left the 49th were ready at ",
-    "quoteTime": "2.10 a.m.",
-    "quoteLast": ", but without their left-hand battalion (the 52nd) or their support (the 60th).  As a result of these delays, the attack was delivered in broad daylight, in a succession of waves, against hidden machine-guns, so that the enemy's fire was concentrated on each section in turn.",
-    "title": "Canada in Flanders, Volume II",
-    "author": "Beaverbrook, Max Aitken, Baron, 1879-1964",
-    "gutenbergReference": "46115",
-    "hash": "ea39a2204c29af8a8bedcc641b34e3ebd8c805a794ba47896118899640df2544"
-  },
-  {
-    "time": "02:10",
-    "quoteFirst": "_Q._ You say it was ",
-    "quoteTime": "ten minutes past two",
-    "quoteLast": " when you saw Cabanis break from the copse and go down towards the road?",
-    "title": "The skeleton key",
-    "author": "Capes, Bernard, 1854-1918; Chesterton, G. K. (Gilbert Keith), 1874-1936 [Author of introduction, etc.]",
-    "gutenbergReference": "68628",
-    "hash": "0db6781312d8ef1fdb8138ab74c4f40a86c1d2ceade2d47980c784fe9a461a3a"
-  },
-  {
-    "time": "02:10",
-    "quoteFirst": "The magistrates reached the scaffold about ",
+    "quoteFirst": "When Vinzi entered the room he glanced quickly at the clock. “I know exactly how high the sun must be when I leave,” he said with satisfaction. “It is just ",
     "quoteTime": "ten minutes after two",
-    "quoteLast": ". The two senior magistrates only attended, as the other two gentlemen in the magistracy happened to have been on the jury of the unfortunate criminals; and in this singular case it was certainly a very becoming delicacy to excuse their attendance.",
+    "quoteLast": ".”",
+    "title": "Vinzi: A Story of the Swiss Alps",
+    "author": "Spyri, Johanna, 1827-1901; Kirk, Maria Louise, 1860-1938 [Illustrator]; Stork, Elisabeth P. (Elisabeth Pausinger) [Translator]",
+    "gutenbergReference": "59941",
+    "hash": "2622fd14b1a3d3494a283f21528969e4e54cfb5180dc2fb77cef46b8fc6cd965"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "Edinburgh, the 26 May 1756, ",
+    "quoteTime": "ten minutes after two",
+    "quoteLast": " in the morning (being Wednesday) was born our ninth Child, and that same day was baptised by the Reverend Mr David Rintoul, one of the Ministers in Kirkcaldie, in presence of her two Grand Fathers, Mr John Grant her Grand Uncle, Mr James Brodie her Uncle by the Father, Mrs.",
     "title": "Trial of Deacon Brodie",
     "author": "Brodie, William, 1741-1788 [Other]; Roughead, William, 1870-1952 [Editor]; Smith, George, -1788 [Other]",
     "gutenbergReference": "49405",
-    "hash": "a6f54c6130f5d28a98fefceb267a23596da97c301927def051140dc384c4e295"
+    "hash": "193598f164c971ef569ed89e9b5a6bd2e1e4642f03cbf7c6ba0d32d311b870e9"
   },
   {
     "time": "02:10",
-    "quoteFirst": "At about ",
+    "quoteFirst": "Five minutes more passed and still not a sign of it; then grumbling commenced, and the passengers generally agreed with the man who expressed the opinion that there was too much d...d science on board and that we should all be on our way to Fort Lafayette in New York Harbor as soon as day broke. At ",
     "quoteTime": "ten minutes past two",
-    "quoteLast": " of the afternoon of Saturday, 25 November, while I was at the police station, there entered a man known to me as Franz Bauer, an inn servant employed by Christian Hauck, at the sign of the Sword & Scepter, here in Perleburg. This man Franz Bauer made complaint to _Staatspolizeikapitan_ Ernst Hartenstein, saying that there was a madman making trouble at the inn where he, Franz Bauer, worked.",
-    "title": "He Walked Around the Horses",
-    "author": "Piper, H. Beam, 1904-1964; Cartier, Edd, 1914-2008 [Illustrator]",
-    "gutenbergReference": "18807",
-    "hash": "1fdc7d832082e36657a95f0c8a16f55d7cc44ce4697dd1e8e1d76a0e7ba25276"
-  },
-  {
-    "time": "02:10",
-    "quoteFirst": "Only one of these shocks, that of February 24th, at ",
-    "quoteTime": "2.10 A.M.",
-    "quoteLast": ", was strong enough to cause slight damage to buildings. It disturbed an area, not exceeded by any of the later shocks, the boundary of which, shown by the dotted line A in Fig.",
-    "title": "A Study of Recent Earthquakes",
-    "author": "Davison, Charles, 1858-1940",
-    "gutenbergReference": "25062",
-    "hash": "b1c1d323918d7fa4582340b2c115c45717ac05d25dfe0dc530146c2da9212373"
+    "quoteLast": " the masthead lookout sang out, ‘Light ho!’—and the learned old Commodore’s reputation as a navigator was saved”.[16]",
+    "title": "Matthew Fontaine Maury, the Pathfinder of the Seas",
+    "author": "Lewis, Charles Lee, 1886-1951",
+    "gutenbergReference": "65071",
+    "hash": "5a06afa90357792728615469df37f2d287e7a0bb969ab9dc3693ebecfcad0da5"
   },
   {
     "time": "02:10",
@@ -121,13 +101,23 @@
   },
   {
     "time": "02:10",
-    "quoteFirst": "Without waiting for daylight, by ",
-    "quoteTime": "2.10 a.m.",
-    "quoteLast": " we were again on the move, as there was now a fair chance of getting all the remaining horses into the bay, if we did but avoid travelling during the heat of the day. In an hour the hills were cleared, and it was now all open plain as far as the marsh at the head of Nickol Bay.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "293489c6963dc37875c795fadae3603d135a27b310e98deebafb29b0705694be"
+    "quoteFirst": "H. M. S. _Tamarisk_ prepared to take us in tow and made one attempt after another to get a line to us. Finally, about ",
+    "quoteTime": "2.10 a. m.",
+    "quoteLast": ", October 16, the _Tamarisk_ lowered a boat in rough sea and sent grass line by means of which our eight-inch hawser was sent over to her. At about 2.30 a. m.",
+    "title": "World's War Events, Vol. II",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
+    "gutenbergReference": "25963",
+    "hash": "25ef9fdfcd58007320be941391d73c4cf40b6af3066a82d41c34913c9b9214a9"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "Strolling out on the balcony,  Lawrence folded his arms on the balustrade.  The night was hot: perhaps that was why he could not sleep.  By his watch it was ",
+    "quoteTime": "ten minutes past two",
+    "quoteLast": ".  The moon was near her setting.    She lay on her back with tumbled clouds all round her: mother & pearl clouds, quilted, and tinged with a sheen of opal.",
+    "title": "Nightfall",
+    "author": "Pryde, Anthony",
+    "gutenbergReference": "14489",
+    "hash": "2cbf6b2f47142e2a95d125b1b9eabddf49826fa16d9652f40e8685c7af11cd4e"
   },
   {
     "time": "02:10",
@@ -141,62 +131,72 @@
   },
   {
     "time": "02:10",
-    "quoteFirst": "\"At ",
+    "quoteFirst": "The loaf lay beside him, and with his knife he cut a slice from it, munching the coarse bread with more of relish than he had thought possible when he first saw it. Then he took out another cigarette, struck a match, looked at his watch, and lit the cigarette. It was ",
     "quoteTime": "ten minutes past two",
-    "quoteLast": ". The hackman noted the time to see what hour he could hope to get back for another fare.\"",
-    "title": "Belford's Magazine, Vol II, No. 10, March 1889",
-    "author": "Various",
-    "gutenbergReference": "41823",
-    "hash": "36ed4a90ee9f427af2e9f5981a8365e7d869a80f0bcf7fed442c9cb48fc33297"
+    "quoteLast": ". He wondered if a night had intervened, but thought it unlikely. He had landed very early in the morning, and now it was afternoon.",
+    "title": "A Rock in the Baltic",
+    "author": "Barr, Robert, 1850-1912",
+    "gutenbergReference": "4982",
+    "hash": "e8c2df3fffe5b8a6e46c693eb801f0560ec1358c2d99db8c8b5ae1e66fb102d5"
   },
   {
     "time": "02:10",
-    "quoteFirst": "At one o'clock we were on parade and counted for the seventh time, before exercise commenced. At ",
+    "quoteFirst": "Trant leaped up, excitedly. “What? What? But still,” he calmed himself, “whether at two or ",
     "quoteTime": "ten minutes after two",
-    "quoteLast": " we were counted for the eighth time, and at two we were all again at work. When we left off work in the evening we were counted for the ninth time, amongst the party with whom we worked, and for the tenth time when we returned to the ward.",
-    "title": "Six Years in the Prisons of England",
-    "author": "Henderson, Frank, of London [Editor]",
-    "gutenbergReference": "21284",
-    "hash": "db650b34df5931dfa6257355e5507197561a782c4c446ef09185a6d0722f2548"
+    "quoteLast": ", the main question is the same. You, too, Miss Allison, can you give no possible reason why Mr.",
+    "title": "The achievements of Luther Trant",
+    "author": "Balmer, Edwin, 1883-1959; MacHarg, William, 1872-1951; Oberhardt, William, 1882-1958 [Illustrator]",
+    "gutenbergReference": "75523",
+    "hash": "0703dfd355670f4754c5dfb5e711ab2dff7850bc8f355f851afcbc11df3df8db"
   },
   {
     "time": "02:10",
-    "quoteFirst": "| Virginian hears Titanic calling very |               |   faintly, his power being very greatly |               |   reduced. |               | 12.20 a. m.|   ",
-    "quoteTime": "2.10 a. m.",
-    "quoteLast": "  | Virginian hears 2 v's signaled faintly |               |   in spark similar to Titanic's, probably |               |   adjusting spark. |               | 12.27 a. m.|   2.17 a. m.",
-    "title": "Loss of the Steamship \"Titanic\"",
-    "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
-    "gutenbergReference": "39415",
-    "hash": "d3b33515d006ec82cb9dd51238a86204eda1afd3947cd7317f6887e20c481d0b"
+    "quoteFirst": "The hard, lonely bench became harder, lonelier. Joe’s legs began to shake and twitch. ",
+    "quoteTime": "Ten minutes past two",
+    "quoteLast": ", and he was still alone in this tomb of a fifth floor. So this was radio, was it? Two-fifteen. A trickling river of sweat ran down his back.",
+    "title": "You're on the Air",
+    "author": "Heyliger, William, 1884-1955; O'Keeffe, Neil [Illustrator]",
+    "gutenbergReference": "56660",
+    "hash": "272c5597e1baff23f2c8a11c69b673e79b68e3ea72cb2c3a0113abc3a9e03cb8"
   },
   {
     "time": "02:10",
-    "quoteFirst": "\"At ",
+    "quoteFirst": "I hurried those two into the Surf-boat, called to them to keep off, and waited with a grateful and relieved heart for the Long-boat to come and take me in, if she could.  I looked at my watch, and it showed me, by the blue-light, ",
     "quoteTime": "ten minutes past two",
-    "quoteLast": ". The hackman noted the time to see what hour he could hope to get back for another fare.\"",
-    "title": "Belford's Magazine, Vol II, No. 10, March 1889",
-    "author": "Various",
-    "gutenbergReference": "41823",
-    "hash": "36ed4a90ee9f427af2e9f5981a8365e7d869a80f0bcf7fed442c9cb48fc33297"
+    "quoteLast": ".  They lost no time.  As soon as she was near enough, I swung myself into her, and called to the men, \"With a will, lads!  She's reeling!\"  We were not an inch too far out of the inner vortex of her going down, when, by the blue-light which John Mullion still burnt in the bow of the Surf-boat, we saw her lurch, and plunge to the bottom head-foremost.",
+    "title": "The Wreck of the Golden Mary",
+    "author": "Dickens, Charles, 1812-1870",
+    "gutenbergReference": "1465",
+    "hash": "d01be52c63ff5bfd176641cf2b910aa002e2bd5b60b4c25b6abe315963120d94"
   },
   {
     "time": "02:10",
-    "quoteFirst": "I did not sleep at all that night. Indeed, very few slept, for during the night the troops were taking their place for the assault and it was not till ",
-    "quoteTime": "2:10 a. m.",
-    "quoteLast": " that the assembly was complete.",
-    "title": "The Red Vineyard",
-    "author": "Murdoch, B. J. (Benedict Joseph), 1886-1973",
-    "gutenbergReference": "68063",
-    "hash": "0bbccb284770c38ac7092f05b258825bb023e0f019c03f5e3dd32332969558f9"
+    "quoteFirst": "Westover looked at his watch. \"It's ",
+    "quoteTime": "ten minutes past two",
+    "quoteLast": ".\"",
+    "title": "The Landlord at Lion's Head — Volume 2",
+    "author": "Howells, William Dean, 1837-1920",
+    "gutenbergReference": "3376",
+    "hash": "1e71a0c9a2378526935405f9433c5463ecaa62c5d0a4fd53f4c52506f4275fb2"
   },
   {
     "time": "02:10",
-    "quoteFirst": "I looked at the clock: ",
-    "quoteTime": "2:10 a.m.",
-    "quoteLast": "; the residual currents obviously had weakened too much.",
-    "title": "The Brain",
-    "author": "Hauser, Heinrich, 1901-1955",
-    "gutenbergReference": "32498",
-    "hash": "885c939085b309b7849af2e79fab64504256b5b6d8c4abc4e58b67498445fa01"
+    "quoteFirst": "The bill which was to close the courts of law, and place power over life and property in the hands of military despots (and such despots!), was shuffled into the House by the attorney-general at 2 a.m., and read for the second time after _grave and mature deliberation_ at ",
+    "quoteTime": "2.10 a.m.",
+    "quoteLast": "; and Doreen, when she read the note which informed her that it was carried by 137 against 7, had an extra douche of sorrow poured over her, in that her too facile parent had been its godfather!",
+    "title": "My Lords of Strogue, Vol. 2 (of 3)\r\nA Chronicle of Ireland, from the Convention to the Union",
+    "author": "Wingfield, Lewis, 1842-1891",
+    "gutenbergReference": "38862",
+    "hash": "fc21697203fa3e49abbd2ee13bc47b50df1d0d7bbd5fb2cb6ccd8aaa59a45937"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "“All right,” said George. “The snow’s fine for sleighing: I’ll come for you in a cutter at ",
+    "quoteTime": "ten minutes after two",
+    "quoteLast": ".”",
+    "title": "The Magnificent Ambersons",
+    "author": "Tarkington, Booth, 1869-1946",
+    "gutenbergReference": "8867",
+    "hash": "2db41f14c53575992be3c1134902ce458514ac6f4a1e1b59212a2584f07d2e83"
   }
 ]

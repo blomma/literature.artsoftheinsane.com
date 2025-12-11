@@ -1,83 +1,43 @@
 [
   {
     "time": "13:50",
-    "quoteFirst": "",
-    "quoteTime": "1.50 p.m.",
-    "quoteLast": "    Arrived Belfort.'",
-    "title": "The War in the Air; Vol. 1\nThe Part played in the Great War by the Royal Air Force",
-    "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
-    "gutenbergReference": "28226",
-    "hash": "f0d7f1f87e2a855d6519ca484040aecc1c5ef8a5dc62df433766e56369c5cc37"
-  },
-  {
-    "time": "13:50",
-    "quoteFirst": "Mr. Helstone produced his watch. \"",
+    "quoteFirst": "“",
     "quoteTime": "Ten minutes to two",
-    "quoteLast": ",\" he announced aloud. \"Time for all to fall into line. Come.\" He seized his shovel-hat and marched away. All rose and followed _en masse_.",
-    "title": "Shirley",
-    "author": "Brontë, Charlotte, 1816-1855",
-    "gutenbergReference": "30486",
-    "hash": "e5036b9902a962fcd2209db36c95944e7919c717b67d06309c901feeb959b073"
+    "quoteLast": ", little girl. Pretty hot up here, isn’t it?” he answered, good naturedly.",
+    "title": "A Pair of Them",
+    "author": "Raymond, Evelyn, 1843-1910; Copeland, Charles, 1858-1929 [Illustrator]",
+    "gutenbergReference": "64891",
+    "hash": "fd03a262e6627f46de0bd3e86b6e823ddcb44877c88fb1c652eec004ff1a242c"
   },
   {
     "time": "13:50",
-    "quoteFirst": "Observation 1. ",
+    "quoteFirst": "Friday, ",
     "quoteTime": "1:50 P.M.",
-    "quoteLast": " Sun excessively hot. Gathered some of the white incrustation on sand in a marsh west of Long Island Railroad depot. Found some Gemiasma verdans, G.",
-    "title": "Scientific American Supplement, No. 384, May 12, 1883",
-    "author": "Various",
-    "gutenbergReference": "8862",
-    "hash": "6776d07d58c3b38293d8fa0cc5087d8694d43e98350858d54a28bbc276124c89"
+    "quoteLast": "--Just got out of P. J. Left. They shelled it from 12 o'clock yesterday until 9:30 last night. Blew up everything in sight but our dugout; killed a couple of the brancardiers; blew up the kitchen, and you should have seen what was left of our car--everything was hit on the darn thing but the air in the tires.",
+    "title": "True Stories of the Great War, Volume 1 (of 6)\r\nTales of Adventure--Heroic Deeds--Exploits Told by the Soldiers, Officers, Nurses, Diplomats, Eye Witnesses",
+    "author": "Miller, Francis Trevelyan, 1877-1959 [Editor]",
+    "gutenbergReference": "48663",
+    "hash": "83c11dde5beb132b1b0ea7c6ddd21563084abd0e98166f8d394e2c04b938418b"
   },
   {
     "time": "13:50",
-    "quoteFirst": "Leaving Coventry at ",
-    "quoteTime": "1.50 p.m.",
-    "quoteLast": " we reached Avonmouth about 5, to find that our boat was not in. The men were put up in a cold, draughty shed for the night, where they had little sleep, while the officers took train to Bristol, nine miles off, where we dined excellently at the Royal Hotel, but, there being no vacant rooms, we went to the St.",
-    "title": "The Incomparable 29th and the \"River Clyde\"",
-    "author": "Davidson, George",
-    "gutenbergReference": "25342",
-    "hash": "edd1580914e8b6123b639fab31d1ea6be0852682b8901e58d13e6d8ffacbe639"
-  },
-  {
-    "time": "13:50",
-    "quoteFirst": "Matthew, 9th and 10th verses. Wrote, signed, &c. Wrote to dear Feodore. Received a kind long letter from dear Uncle Leopold. At ",
-    "quoteTime": "10 minutes to 2",
-    "quoteLast": " came Lord Melbourne till a few minutes p. 3. Talked with him about many important things.",
-    "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
-    "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
-    "gutenbergReference": "75138",
-    "hash": "14e09ba827b83960e335d27b4dfd60a0e519cd9361698d7d3c85b9aec599ac07"
-  },
-  {
-    "time": "13:50",
-    "quoteFirst": "\"He deposed that on the night in question his master came home at about ",
+    "quoteFirst": "At ",
     "quoteTime": "ten minutes to two",
-    "quoteLast": ". Chipps had then not yet gone to bed. Five minutes later Mr. Ashley went out again, telling the valet not to sit up for him.",
-    "title": "The Old Man in the Corner",
-    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-    "gutenbergReference": "10556",
-    "hash": "0d42d48816305a69c20637706e06fd307b3e902eed0cc8622007beb55c845fdc"
+    "quoteLast": ", I was back in the House. It was now crowded, every seat was occupied, Cross-benches, and under the Gallery, as well as both doorways. Then the House hushed, and in came an officer from the Lords, in old-fashioned costume of black, and a wig, gingerly carrying a gilded rod.",
+    "title": "The autobiography of Sir Henry Morton Stanley, G.C.B.",
+    "author": "Stanley, Henry M. (Henry Morton), 1841-1904; Stanley, Dorothy, Lady, 1855-1926 [Editor]",
+    "gutenbergReference": "77113",
+    "hash": "d883288d1b0853a51e2ab468bb05ed9043eddb1ddf9289929253dab0cbc0e54c"
   },
   {
     "time": "13:50",
-    "quoteFirst": "“About ",
+    "quoteFirst": "\"Why, Jack, I have to be in my car at ",
     "quoteTime": "ten minutes to two",
-    "quoteLast": " yesterday, when the other servants were just sitting down to dinner.”",
-    "title": "In the night",
-    "author": "Gorell, Ronald Gorell Barnes, Baron, 1884-1963",
-    "gutenbergReference": "75628",
-    "hash": "40835e831e4c1a2868b956da9a57b87002f491c1f10b834d7a989a9ac7f373b0"
-  },
-  {
-    "time": "13:50",
-    "quoteFirst": "Mahébourg Harbour ",
-    "quoteTime": "1.50 P.M.",
-    "quoteLast": "",
-    "title": "A sailor's life under four sovereigns, Volume 3 (of 3)",
-    "author": "Keppel, Henry, Sir, 1809-1904",
-    "gutenbergReference": "76810",
-    "hash": "3ab05e4025bd6c58dc2c0aecfd0ea6ba1503c990efa8850cab95f26940ed413c"
+    "quoteLast": ", and do you see the time?\"",
+    "title": "The Motor Girls at Lookout Beach; Or, In Quest of the Runaways",
+    "author": "Penrose, Margaret",
+    "gutenbergReference": "37911",
+    "hash": "67d8f371c3f75db8982cd4ed3f23388553a76d86e75c3475ef1e6d2799b63bbb"
   },
   {
     "time": "13:50",
@@ -91,33 +51,83 @@
   },
   {
     "time": "13:50",
-    "quoteFirst": "At 15 minutes past meridian, the ship hoisted her colours, an English ensign having a signal flying at her main, red, yellow and red. At 1.26 P.M. being sufficiently from the land, and finding the ship to be an English frigate, took in the main-sail and royals, tacked ship and stood for the enemy. At ",
+    "quoteFirst": "Leave Tacoma       9.05 A.M. and  ",
     "quoteTime": "1.50 P.M.",
-    "quoteLast": " the enemy bore down with the intention of raking us, which we avoided by wearing. At 2 P.M. the enemy being within half a mile of us, and to windward, and having hauled down his colours, except an Union Jack at the mizzen-mast head, induced me to give orders to the officers of the 3d division to fire one gun ahead of the enemy to make him show his colours, which being done, brought on a fire from us of the whole broadside, on which the enemy hoisted his colours and immediately returned our fire.",
-    "title": "The Medallic History of the United States of America 1776-1876",
-    "author": "Loubat, J. F. (Joseph Florimond), 1831-1927; Jacquemart, Jules-Ferdinand, 1837-1880 [Illustrator]",
-    "gutenbergReference": "21880",
-    "hash": "aea43993b7b83fa056b808f351cae08388fb14df212021799b544c5942670414"
+    "quoteLast": "",
+    "title": "The Mountain that was 'God'\r\nBeing a Little Book About the Great Peak Which the Indians Named 'Tacoma' but Which is Officially Called 'Rainier'",
+    "author": "Williams, John H. (John Harvey), 1864-",
+    "gutenbergReference": "22056",
+    "hash": "7110c96f9fcca8b918e04c215d366002ae48433cfb2be24162df74b8ee999d4f"
   },
   {
     "time": "13:50",
-    "quoteFirst": "After bombarding the inner harbour for forty minutes from ",
+    "quoteFirst": "There were doubtless many wounded to carry off, damages to be made good, and so forth. The whole of the first phase of the gunnery engagement, then, beginning just after half-past one on the German side, may be supposed to have ended round about ",
     "quoteTime": "ten minutes to two",
-    "quoteLast": ", the Japanese squadron retired. It is believed that the bombardment effected considerable damage.",
-    "title": "The Imperial Japanese Navy",
-    "author": "Jane, Fred T. (Frederick Thomas), 1865-1916",
-    "gutenbergReference": "74624",
-    "hash": "de96aecfe385bd7b58ccd271387da1d3987d38009ea630f466f5f6039bde6cce"
+    "quoteLast": ".",
+    "title": "The British Navy in Battle",
+    "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
+    "gutenbergReference": "54441",
+    "hash": "c7085408b53adbdbaa2ca3dd8b4d7e4511ef82073632de11264cac34226d6f04"
   },
   {
     "time": "13:50",
-    "quoteFirst": "We therefore returned to the river, and followed it downwards to the south-west by south. At 11.30 found some fresh water in a small waterhole in the bed of the river; halted till ",
+    "quoteFirst": "FOURTH MANCHESTER                          1.30 p.m.         ",
     "quoteTime": "1.50 p.m.",
-    "quoteLast": " to refresh the horses. The river turned south, and at 2.27 was joined by a small gully from the west, and coming from a grassy valley.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "482b758f266ba67fb1b3f1c96c2dc695143d7edc01e2ee62c5250ac5bae51d35"
+    "quoteLast": "",
+    "title": "Drake's Road Book of the Grand Junction Railway\nfrom Birmingham to Liverpool and Manchester",
+    "author": "Drake, James, active 1825",
+    "gutenbergReference": "43367",
+    "hash": "ba4deb80e1b2d882b85f57733fca92c3895542c17e3f8d71f7338289a088cc54"
+  },
+  {
+    "time": "13:50",
+    "quoteFirst": "Bainbridge, \"you must not be so stupid; rouse up, girl, and tell us what o'clock it is, and I'll give you another shilling!\" The girl at this time seemed to be relapsing into a deep sleep; but on being shaken, aroused herself with a convulsive start. In reply to further questions, she said, \"she could see a clock, a very pretty clock, indeed!\" She was again asked, five or six times, what the hour was: she at last replied that \"it was ",
+    "quoteTime": "ten minutes to two",
+    "quoteLast": ".\" The watch being then taken out of her bosom, it was found to be on the stroke of two. Every one present, including the magnetiser, confessed that there was nothing wonderful in the conjecture she had hazarded.",
+    "title": "Memoirs of Extraordinary Popular Delusions — Volume 3",
+    "author": "Mackay, Charles, 1814-1889",
+    "gutenbergReference": "884",
+    "hash": "5c92d37a88742b351d148611eee9ccbfa7d00a4e77f04f5a2759fdc660407694"
+  },
+  {
+    "time": "13:50",
+    "quoteFirst": "“It’s ",
+    "quoteTime": "10 minutes to 2 P.M.",
+    "quoteLast": " now, Mount Sinai time. In 24 hours you’ll be home, and it’ll be 6 to-morrow morning, village time. When you strike the village, land a little back of the top of the hill, in the woods, out of sight; then you rush down, Jim, and shove these letters in the post-office, and if you see anybody stirring, pull your slouch down over your face so they won’t know you.",
+    "title": "Tom Sawyer Abroad",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "91",
+    "hash": "f8f72979e55011bc5d617a968362445971527656a674b3cbbf4fcecfa7add59c"
+  },
+  {
+    "time": "13:50",
+    "quoteFirst": "At ",
+    "quoteTime": "1:50 P. M.",
+    "quoteLast": " the Captain started to take a four-point bearing on the Old Head of Kinsale, and while thus engaged and at about 2:30 P. M., as heretofore stated, the ship was torpedoed on the starboard side.",
+    "title": "World's War Events, Vol. I",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
+    "gutenbergReference": "25962",
+    "hash": "2a541b296f51f862a4e4dab31af938060378b4ce069bbedc1efaf739357bbf8c"
+  },
+  {
+    "time": "13:50",
+    "quoteFirst": "\"Now, Overton, it's ",
+    "quoteTime": "ten minutes to two",
+    "quoteLast": ",\" explained Lieutenant Sears, glancing at his watch. \"If you want to go over to Captain Foster's quarters, and be presented to him, I'm at your service.",
+    "title": "Uncle Sam's Boys as Lieutenants; or, Serving Old Glory as Line Officers",
+    "author": "Hancock, H. Irving (Harrie Irving), 1868-1922",
+    "gutenbergReference": "26381",
+    "hash": "639bdf45fe9223a7541c1599271b781ab1b9505060b6a63daceb86f5b477b949"
+  },
+  {
+    "time": "13:50",
+    "quoteFirst": "WHEREABOUTS OF LEE HARVEY OSWALD between 12:33 P.M. and ",
+    "quoteTime": "1:50 P.M.",
+    "quoteLast": "",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "f30d2db9c5df23402798ed0c757ea3d1df4fcafbb23abecc898f2c5958cc8f93"
   },
   {
     "time": "13:50",
@@ -131,13 +141,23 @@
   },
   {
     "time": "13:50",
-    "quoteFirst": "I was up early in the morning, and by ",
-    "quoteTime": "ten minutes to two",
-    "quoteLast": " everything was ready. The flowers and foliage bought at market had had time to freshen up and expand.",
-    "title": "Woman",
-    "author": "Marx, Magdeleine, 1889-1973; Barbusse, Henri, 1873-1935 [Author of introduction, etc.]; Seltzer, Adele Szold, 1876-1940 [Translator]",
-    "gutenbergReference": "33943",
-    "hash": "283419a37d34fb2f63672bdb45de789af06eb85961fdb7ec53fc98cfed3b2042"
+    "quoteFirst": "Observation 1. ",
+    "quoteTime": "1:50 P.M.",
+    "quoteLast": " Sun excessively hot. Gathered some of the white incrustation on sand in a marsh west of Long Island Railroad depot. Found some Gemiasma verdans, G.",
+    "title": "Scientific American Supplement, No. 384, May 12, 1883",
+    "author": "Various",
+    "gutenbergReference": "8862",
+    "hash": "6776d07d58c3b38293d8fa0cc5087d8694d43e98350858d54a28bbc276124c89"
+  },
+  {
+    "time": "13:50",
+    "quoteFirst": "2 cc dyspnoea, 6.7 cc struggling, convulsions; at 1.50½ p. m., released from holder, paralysis especially marked in the anterior extremities; ",
+    "quoteTime": "1.50 p. m.",
+    "quoteLast": ", recovered, survived; total amount injected, 10.8 cc 2 per cent caffein in 17 minutes and 25 seconds, or 0.16 gram caffein per kilo.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "hash": "130c9502680da4b59f76b9c62832aa69ce63db734ab7d18ee058ba66bc7a42f0"
   },
   {
     "time": "13:50",
@@ -151,43 +171,23 @@
   },
   {
     "time": "13:50",
-    "quoteFirst": "“",
+    "quoteFirst": "\"",
     "quoteTime": "Ten minutes to two",
-    "quoteLast": ",” he said. Then turning to his assistant, he ordered him to drive to the station and see whether the man who had worn the disguise of the night-bird was among the travellers leaving for Marseilles at two-thirty.",
-    "title": "The Sign of the Seven Sins",
-    "author": "Le Queux, William, 1864-1927",
-    "gutenbergReference": "76685",
-    "hash": "7fd21365cb950c3e8a37be3a82fae8c65da4cc02ec440581dffecec6245f9499"
+    "quoteLast": ",\" said Cartwright, paying the bill.",
+    "title": "The Love-Story of Aliette Brunton",
+    "author": "Frankau, Gilbert, 1884-1952",
+    "gutenbergReference": "59931",
+    "hash": "dd5453ec484d84509614896acbc0b44fe585379e29f0c236b87cd66b5ef53ace"
   },
   {
     "time": "13:50",
     "quoteFirst": "At ",
-    "quoteTime": "1.50 P. M.",
-    "quoteLast": " orders were given to lighten ship. We threw over ten bales of temperance pledges, fifty cases malted milk, thirty-two cases sarsaparilla, eighteen carboys root beer, twenty-seven vats lemon soda, two hundred and thirty-five gallons mineral water, the library, the band, the cash register, seventy-five bundles of blue ribbons, the water-cooler and three tons of cracked ice, the pianola, Gottlieb Kirschwasser, and Doctor Zoolak.",
-    "title": "The Log of the Water Wagon; or, The Cruise of the Good Ship \"Lithia\"",
-    "author": "Taylor, Bert Leston, 1866-1921; Gibson, W. C. (William Curtis), 1857-; Glackens, L. M. (Louis M.), 1866-1933 [Illustrator]",
-    "gutenbergReference": "60022",
-    "hash": "adae541876a4e1d5e88f6e60e6a34dc99171441e84ea05d193ad2ed150d28a1b"
-  },
-  {
-    "time": "13:50",
-    "quoteFirst": "Mahébourg Harbour ",
-    "quoteTime": "1.50 P.M.",
-    "quoteLast": "",
-    "title": "A sailor's life under four sovereigns, Volume 3 (of 3)",
-    "author": "Keppel, Henry, Sir, 1809-1904",
-    "gutenbergReference": "76810",
-    "hash": "3ab05e4025bd6c58dc2c0aecfd0ea6ba1503c990efa8850cab95f26940ed413c"
-  },
-  {
-    "time": "13:50",
-    "quoteFirst": "He looked again at his watch. ",
-    "quoteTime": "Ten minutes to two",
-    "quoteLast": ". Time was getting on.",
-    "title": "The Seven Dials mystery",
-    "author": "Christie, Agatha, 1890-1976",
-    "gutenbergReference": "75288",
-    "hash": "6c6ae59be31f362e4c992bf61aa79991d03b0eb59c6b9903f3ac85dace097180"
+    "quoteTime": "1.50 p.m.",
+    "quoteLast": " the gas discharge ceased, but the smoke was continued until 2.0 p.m., when our guns \"lifted\" from the enemy front line, and the 137th and 138th Brigades began the assault. As the smoke cleared away, we could get a fair view of a portion of the attacking troops (Staffords) on the right as they went steadily, and apparently in excellent order over the top, but, almost at the same time we heard with surprise and dismay, the somewhat slow \"tap-tap\" of numbers of those enemy machine guns, which were to have been so completely silenced by our bombardment! We watched the Staffords for a few",
+    "title": "The Sherwood Foresters in the Great War 1914 - 1919\nHistory of the 1/8th Battalion",
+    "author": "Weetman, W. C. C.",
+    "gutenbergReference": "20527",
+    "hash": "adc2b57651de6ce2bac18ca01020d2c274f3cf53dc79af4b641b316515fffb5b"
   },
   {
     "time": "13:50",

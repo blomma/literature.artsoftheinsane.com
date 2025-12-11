@@ -1,93 +1,133 @@
 [
   {
     "time": "21:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": " a tremendous explosion shook the air. One of the _Kentucky's_ shells had struck the principal magazine. The concussion and the fire that followed caused the vast oil reservoirs to ignite, and in a few moments the whole of the central portion of the rock seemed one mass of flames.",
+    "title": "The Sea-girt Fortress: A Story of Heligoland",
+    "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Wigfull, W. Edward, 1875-1944 [Illustrator]",
+    "gutenbergReference": "50050",
+    "hash": "37a1f33aeb538b9529f988828b6b563e8f506a9f12331e5746acd8145f36a906"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "In the evening we had three sharp jerking shocks of an earthquake in quick succession, at 9.8 p.m., appearing to come up from the southward: they were accompanied by a hollow rumbling sound like that of a waggon passing over a wooden bridge. The shock was felt strongly at Dorjiling, and registered by Mr. Muller at ",
+    "quoteTime": "9.10 p.m.",
+    "quoteLast": ": we had accurately adjusted our watches (chronometers) the previous morning, and the motion may therefore fairly be assumed to have been transmitted northwards through the intervening distance of forty miles, in two minutes. Both Mr. Muller and Mr.",
+    "title": "Himalayan Journals — Volume 1\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6476",
+    "hash": "bfbd328335e2d0d2e01cc29b117611c349ed3aed620cbc96ee69b44dc3756d26"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "And in this resolution she persisted. Nine o'clock struck, and she never moved. Then she began to picture Walter's face of disappointment and his unhappiness. At ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": " she tied a handkerchief round her head and went.",
+    "title": "A Perilous Secret",
+    "author": "Reade, Charles, 1814-1884",
+    "gutenbergReference": "12470",
+    "hash": "53000cfa90ad04e4a785451528548775ff41d03bc353ff9db0ab7d76a692ba3d"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "--Then if you, my dear lady, will put up with me until lunch-time, I can see more of my Kathleen, and propound some plans for your pleasure as well as hers. If you must go, Mrs. Tennant, I am afraid you must, for the next train leaves Charing Cross for Merrifield at ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": ".\"",
+    "title": "The Rebel of the School",
+    "author": "Meade, L. T., 1854-1914",
+    "gutenbergReference": "15839",
+    "hash": "a73842b3fb0ca6072f9713020398faa741eba3cefad8b3b9b511ce58219eb348"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "She looked at the clock; it was ",
+    "quoteTime": "ten minutes after nine",
+    "quoteLast": ". Dick would be back at Fossaway Manor by now, and she went out into the hall and, taking off the receiver of the telephone, gave a number.",
+    "title": "The Black Abbot",
+    "author": "Wallace, Edgar, 1875-1932",
+    "gutenbergReference": "75643",
+    "hash": "d5a69ca36029dc0c15738fe9ccc8375f53b2db29a970181adcd7c834b4b5704c"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "‘Thank you,’ Paul answered, and, turning into the darkened study, struck a light and consulted his watch. It was ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": ", and he sat still to await the quarter hour. There was a clattering of pots and pans in the distant kitchen, and Annette was still singing and walking in the near apartment An occasional murmur of voices, a click of billiard-balls, and even the faint noise made by the shuffle of a set of dominoes in the café over the road reached his ears, but save for these slight signs of life the world seemed asleep.",
+    "title": "Despair's Last Journey",
+    "author": "Murray, David Christie, 1847-1907",
+    "gutenbergReference": "22276",
+    "hash": "1820892b059811c56f866ef2dbcf0efd2f83ac97c6355076d23537a0ee25e2a7"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "From time to time the hum of a motor-car swelled and diminished to its last faint vibrations on the distant road; and as each car passed Jenny stiffened at her post. She looked at her watch, turning the dial to the moonlight. It was ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": " now. The cars had left Rackham Park well before nine. She would not have long to wait now! As she slipped her watch again into her waistband she drew back with an instinctive movement, although the window at which she stood had been this last half-hour in shadow.",
+    "title": "The Summons",
+    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+    "gutenbergReference": "16381",
+    "hash": "9dee7e7fded7ce923c07262eec9b242c294cf3b803522c02ecd87947996a8ea2"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "Thus it happened that half an hour later, about ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": " o'clock, Hatch was on his way to the big apartment house. In the office he saw the manager.",
+    "title": "The problem of Cell 13",
+    "author": "Futrelle, Jacques, 1875-1912",
+    "gutenbergReference": "57669",
+    "hash": "a0d5cf28fd3a0a01358c7074d2a6dbcaa7d7614d7d5b441a7b1b6debeff3df77"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "Some one in the Charlotte Square house may have been her accomplice and killed and robbed Lady Donaldson while Edith Crawford waited outside for the jewels. David Graham left his godmother at 8.30 p.m. If the accomplice was one of the servants in the house, he or she would have had plenty of time for any amount of villainy, and Edith Crawford could have yet caught the ",
+    "quoteTime": "9.10 p.m.",
+    "quoteLast": " train from the Caledonian Station.\"",
+    "title": "The Old Man in the Corner",
+    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+    "gutenbergReference": "10556",
+    "hash": "74abc73bbc526549e50e28b162dcd6a607618252d6edc2dabef5ebe2fea108cd"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "It is of an old-fashioned pattern and it will only take the fingers in one position. That position indicates ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": ".\"",
+    "title": "Max Carrados",
+    "author": "Bramah, Ernest, 1869?-1942",
+    "gutenbergReference": "34732",
+    "hash": "dfac4b2b7ca36d1dcfcfd7b6ca1dcf06f93669f45bd8746ec85b57aeca773589"
+  },
+  {
+    "time": "21:10",
     "quoteFirst": "‘_",
     "quoteTime": "Ten minutes past nine",
     "quoteLast": "_.",
-    "title": "Sketches by Boz, Illustrative of Every-Day Life and Every-Day People",
+    "title": "Mudfog and Other Sketches",
     "author": "Dickens, Charles, 1812-1870",
-    "gutenbergReference": "882",
-    "hash": "fc0032bad00ff37e57f785861ebc5897d114cb5f74b7e7a4284dbcbd35a0ead7"
+    "gutenbergReference": "912",
+    "hash": "266981f7adba0eb93259fb7bc6cae19ac1a2920ea2b6b5ca2f9e8a17f28a8631"
   },
   {
     "time": "21:10",
-    "quoteFirst": "However, I will tell you, though I can't imagine what you want to know for.  I got up at eight.  I breakfasted at half-past.  I came into this room at ",
+    "quoteFirst": "And in this resolution she persisted. Nine o'clock struck, and she never moved. Then she began to picture Walter's face of disappointment and his unhappiness. At ",
     "quoteTime": "ten minutes past nine",
-    "quoteLast": " and began to read the 'Memoirs of Mme. de Remusat.'  In a few minutes I did the French lady the bad compliment of dropping to sleep over her pages, and I did you, sir, the very flattering one of dreaming about you.",
-    "title": "The Parasite: A Story",
-    "author": "Doyle, Arthur Conan, 1859-1930",
-    "gutenbergReference": "355",
-    "hash": "8c42c5c07a1b9ee69af57731cdab834a07086d088b9145b5ab83953722330b96"
+    "quoteLast": " she tied a handkerchief round her head and went.",
+    "title": "A Perilous Secret",
+    "author": "Reade, Charles, 1814-1884",
+    "gutenbergReference": "12470",
+    "hash": "53000cfa90ad04e4a785451528548775ff41d03bc353ff9db0ab7d76a692ba3d"
   },
   {
     "time": "21:10",
-    "quoteFirst": "The next morning, when work was recommenced at six o'clock, the valve setting was continued, not being completed until seven o'clock. The painters now appeared, the engineers placed the finishing touches, and at ",
+    "quoteFirst": "She was anxious to get away from Sutton, and the prospect of long days spent in London pleased her, and on the following Thursday Harold took her up to London by the ",
     "quoteTime": "ten minutes past nine",
-    "quoteLast": ", 9 hours 47 minutes from the start, the engine was complete.",
-    "title": "The Harmsworth Magazine, Vol. 1, 1898-1899, No. 6",
-    "author": "Various",
-    "gutenbergReference": "40711",
-    "hash": "74f219262fd6aaababfc07c09dc30e8b96805fd47a8b862dc109514f40d0bee1"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "",
-    "quoteTime": "Ten minutes past nine",
-    "quoteLast": "!\" said the little man, looking at his watch.",
-    "title": "The Posthumous Papers of the Pickwick Club, v. 2 (of 2)",
-    "author": "Dickens, Charles, 1812-1870; Aldin, Cecil, 1870-1935 [Illustrator]",
-    "gutenbergReference": "47535",
-    "hash": "d493adf99826127e13df3b606a7739c8aad86ef01e67a6cc5675d3022594954b"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "Mr. HUBERT. Let the record show that the deposition is continuing after the recess at ",
-    "quoteTime": "9:10 p.m.",
-    "quoteLast": " and that Mr. Burleson will ask some questions with respect to the block of questions and the areas covered by those questions before I go on.",
-    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "56190",
-    "hash": "3ddcc063498c856e791657b32a682dd7de5975206fe2ce68e06ceea9e830c714"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "Mr. SPECTER. May the record show that it is ",
-    "quoteTime": "10 minutes after 9 p.m.",
-    "quoteLast": "",
-    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "56190",
-    "hash": "1facd5e0847d930a3cdc861c8d0c62a191e76ecd177d6d3cb8a07c477457ca35"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "",
-    "quoteTime": "9:10 PM",
-    "quoteLast": ", E.S.T.: Eastern Airlines six-engine jet makes wheels-up landing on roof of Pentagon, breaking some 1500 windows but causing no other major damage (except to the people aboard the jet); record of this incident fragmentary because entire site charred black in fusion attack two hours later.",
-    "title": "Plague of Pythons",
-    "author": "Pohl, Frederik, 1919-2013; Ritter, Bob [Illustrator]",
-    "gutenbergReference": "51804",
-    "hash": "dc12a4a79ba992259a3c8324f950dbca6196b8cda840c17b4181ff927dd765ee"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "Within ",
-    "quoteTime": "ten minutes after Nine",
-    "quoteLast": "ty-four was ready for work word came to \"shut off,\" and the men set about disconnecting the hose.",
-    "title": "An Amateur Fireman",
-    "author": "Otis, James, 1848-1912; Cary, William de la Montagne, 1840-1922 [Illustrator]",
-    "gutenbergReference": "33242",
-    "hash": "c48e56afacfffbf3fe766f4afc88dd61110b3ea4a6c4201f0263ff5e4407d2a4"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "\"He pointed towards the timepiece. I followed the direction of his finger. The clock showed ",
-    "quoteTime": "ten minutes past nine",
-    "quoteLast": ".",
-    "title": "The Corsican Brothers",
-    "author": "Dumas, Alexandre, 1802-1870; Frith, Henry, 1840- [Translator]",
-    "gutenbergReference": "41881",
-    "hash": "dd9c651258e79959266fde4765635b1399185c13b7db75b3d9602afed78b4912"
+    "quoteLast": ". For the first time she found something romantic in that train. They drove from Victoria in a. hansom. Mr.",
+    "title": "Celibates",
+    "author": "Moore, George, 1852-1933",
+    "gutenbergReference": "6005",
+    "hash": "10dedfe98cd157cf6afab371cc24ee82d6ad461ae815ad0637497535f2618bad"
   },
   {
     "time": "21:10",
@@ -101,23 +141,53 @@
   },
   {
     "time": "21:10",
-    "quoteFirst": "However, I will tell you, though I can't imagine what you want to know for.  I got up at eight.  I breakfasted at half-past.  I came into this room at ",
-    "quoteTime": "ten minutes past nine",
-    "quoteLast": " and began to read the 'Memoirs of Mme. de Remusat.'  In a few minutes I did the French lady the bad compliment of dropping to sleep over her pages, and I did you, sir, the very flattering one of dreaming about you.",
-    "title": "The Parasite: A Story",
-    "author": "Doyle, Arthur Conan, 1859-1930",
-    "gutenbergReference": "355",
-    "hash": "8c42c5c07a1b9ee69af57731cdab834a07086d088b9145b5ab83953722330b96"
+    "quoteFirst": "The testimony of Dr. William Robert Beavers was taken at ",
+    "quoteTime": "9:10 p.m.",
+    "quoteLast": ", on July 18, 1964, at the Dallas County Jail, Dallas, Tex., by Mr. Arlen Specter, assistant counsel of the President’s Commission.",
+    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "56190",
+    "hash": "6b90de8601ecbfc295fb3fff7878eb717ca5af271ce218e07b1bcc6d9e54187c"
   },
   {
     "time": "21:10",
-    "quoteFirst": "It was of no use for me to stand there knocking if he would not hear me, or did not yet wish to be disturbed; so, after one more unsuccessful attempt to attract his attention, I took a lamp from the hall-table and went into the schoolroom. It was now ",
+    "quoteFirst": "As I entered, my eyes unconsciously turned towards the timepiece; it marked ",
     "quoteTime": "ten minutes past nine",
-    "quoteLast": ". Nap was barking more furiously than ever. I knew by the mist there was all through the house how dense the fog must be outside; but I was so much struck by the noise the dog was making that I unfastened the shutters and opened the window about an inch to listen.",
-    "title": "The house on the marsh",
-    "author": "Warden, Florence, 1857-1929",
-    "gutenbergReference": "71788",
-    "hash": "de714b8953311fe824edfa417f7cc91e6f97a3836de487909089f184c7bbacfc"
+    "quoteLast": ".",
+    "title": "The Corsican Brothers",
+    "author": "Dumas, Alexandre, 1802-1870; Frith, Henry, 1840- [Translator]",
+    "gutenbergReference": "41881",
+    "hash": "67376ec1e38c66e32881e2646c922ba243184ddbc0bf29fb50a8f6dcb116f619"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "The next morning, when work was recommenced at six o'clock, the valve setting was continued, not being completed until seven o'clock. The painters now appeared, the engineers placed the finishing touches, and at ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": ", 9 hours 47 minutes from the start, the engine was complete.",
+    "title": "The Harmsworth Magazine, Vol. 1, 1898-1899, No. 6",
+    "author": "Various",
+    "gutenbergReference": "40711",
+    "hash": "74f219262fd6aaababfc07c09dc30e8b96805fd47a8b862dc109514f40d0bee1"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "They grew impatient. Five minutes past nine: ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": ": what did Anne mean? Julia and Fanny were not much better dressed than when they got out of bed; old jackets on, rough and rumpled hair stuck up with hair-pins. In that respect they presented a marked contrast to Anne, who was ever trim and nice.",
+    "title": "Johnny Ludlow, Second Series",
+    "author": "Wood, Henry, Mrs., 1814-1887",
+    "gutenbergReference": "40928",
+    "hash": "7fd7ef4294f444cd5726ce760bf80f8c8257d35b0736897612f13f61ac1da4bd"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": " Sir Charles Dyke entered Wensley House. A handsome, quiet, gentlemanly man was Sir Charles. He was rich--a Guardsman until the baronetcy devolved upon him, a popular figure in Society, esteemed a trifle fast prior to his marriage, but sobered down by the cares of a great estate and a vast fortune.",
+    "title": "A Mysterious Disappearance",
+    "author": "Tracy, Louis, 1863-1928",
+    "gutenbergReference": "34277",
+    "hash": "504154c828c722a13ea5b9f046e6365e37a05f4b4c6848206d38f3a256e93922"
   },
   {
     "time": "21:10",
@@ -128,75 +198,5 @@
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
     "hash": "5ae999994b7b8c3ef9994f721c12e1f1371dd19b9cd2b9cb9b1aaf00a8ec8a17"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "The _trial trip_ of the _Great Eastern_ was an event that excited intense interest all over the kingdom.  For the first time, she cast off her moorings on Wednesday morning, (the 7th September), and reached the Nore on Thursday, where she anchored for the night before proceeding to sea.  On Friday morning, at ",
-    "quoteTime": "ten minutes past nine",
-    "quoteLast": ", she started on her first salt-water voyage.  A conviction of the extreme steadiness of the vessel must speedily have seized everyone on board.",
-    "title": "Man on the Ocean: A Book about Boats and Ships",
-    "author": "Ballantyne, R. M. (Robert Michael), 1825-1894; Richardson, R. [Illustrator]",
-    "gutenbergReference": "21749",
-    "hash": "4d40f5d6cd9f3ad5d23dcd6f938e8f15add20610144fe7371ca61182267615eb"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "\"Then it's easily done,\" retorted the young lord, coolly. \"I left these rooms intending to go to Shoreham by the ",
-    "quoteTime": "ten minutes past nine",
-    "quoteLast": " train from London Bridge.\"",
-    "title": "The Piccadilly Puzzle: A Mysterious Story",
-    "author": "Hume, Fergus, 1859-1932",
-    "gutenbergReference": "55376",
-    "hash": "7b8f959b9db60bff1b0f4b0c83d691e851e0f8ccfc0d6384f2b7c9b6ad1ec5df"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "“It is ",
-    "quoteTime": "ten minutes past nine",
-    "quoteLast": ",” exclaimed Mr Atheling, solemnly rising from the table. “I have not been so late for years--see what your nonsense has brought me to. Now, Mary, think it over reasonably, and I will hear all that you have to say to-night.”",
-    "title": "The Athelings; or, the Three Gifts. Vol. 1/3",
-    "author": "Oliphant, Mrs. (Margaret), 1828-1897",
-    "gutenbergReference": "54510",
-    "hash": "2a0795d0e67dfaec3413e8963f0e8285596c4e37d1881cdbfbcbfc6e13fd2756"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "Just before he saw Mr. Horbury and his companion, he heard the clock at Scarnham Parish Church strike nine, and after they had passed him he had gone on to the Green Archer public-house, and had noticed that it was ",
-    "quoteTime": "ten minutes past nine",
-    "quoteLast": " when he entered. Further questioned, he said he saw no one else on the Hollow but the two gentlemen.",
-    "title": "The Chestermarke Instinct",
-    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
-    "gutenbergReference": "27965",
-    "hash": "d41a32c7f39e51d37422e13f850619470ebf47bbf0c1e9b37105fb467cbbdf2a"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "“It is ",
-    "quoteTime": "ten minutes past nine",
-    "quoteLast": ",” exclaimed Mr Atheling, solemnly rising from the table. “I have not been so late for years--see what your nonsense has brought me to. Now, Mary, think it over reasonably, and I will hear all that you have to say to-night.”",
-    "title": "The Athelings; or, the Three Gifts. Complete",
-    "author": "Oliphant, Mrs. (Margaret), 1828-1897",
-    "gutenbergReference": "55122",
-    "hash": "4bb4fab29cc75ec7155646479e677a7a86e261821de36f94d7f3b5c514fd61f8"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "\"He pointed towards the timepiece. I followed the direction of his finger. The clock showed ",
-    "quoteTime": "ten minutes past nine",
-    "quoteLast": ".",
-    "title": "The Corsican Brothers",
-    "author": "Dumas, Alexandre, 1802-1870; Frith, Henry, 1840- [Translator]",
-    "gutenbergReference": "41881",
-    "hash": "dd9c651258e79959266fde4765635b1399185c13b7db75b3d9602afed78b4912"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "Outside Ischia, the shock was felt distinctly in all the island of Procida and in Vivara; on the mainland, by some as far as Pozzuoli and by several persons in Naples, which is twenty miles from Casamicciola. The seismograph at the university of this city registered two small shocks, the first at ",
-    "quoteTime": "9.10 P.M.",
-    "quoteLast": ", and the second and stronger at 9.25 P.M.; and De Rossi states that at about 9.30 P.M. the seismographs at Ceccano, Velletri, and Rome recorded a shock consisting of very slow undulations. There are again no materials for estimating the size of the disturbed area, but there can be no doubt that it was much less than that of a moderately strong British earthquake.",
-    "title": "A Study of Recent Earthquakes",
-    "author": "Davison, Charles, 1858-1940",
-    "gutenbergReference": "25062",
-    "hash": "fc0f73f6eb5268252a5cb2f87bc3e172cb215a01e475814f566f25748ed33c49"
   }
 ]

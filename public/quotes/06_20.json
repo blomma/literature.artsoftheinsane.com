@@ -1,63 +1,103 @@
 [
   {
     "time": "06:20",
-    "quoteFirst": "The attack was made at ",
-    "quoteTime": "6.20 a.m.",
-    "quoteLast": " on the 27th under a rolling barrage, and resulted in the capture of almost the whole of Bourlon Wood, the highest piece of ground for miles round. Our losses were very heavy, but the success was a most important one, and in the battle our tired Division met and shattered a division of Prussian Guards which had to be withdrawn from the line after only 24 hours in action.",
-    "title": "War Services of the 62nd West Riding Divisional Artillery",
-    "author": "Anderson, Austin Thomas, 1868-1949",
-    "gutenbergReference": "50066",
-    "hash": "86e6513f4252f8a1c3aaef94257467fee6cb5d59aecbe8d0fb54c9dbcaf4b654"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "5 a.m., rising bell; 5.50 a.m., warning breakfast bell; 6 a.m., breakfast bell; ",
-    "quoteTime": "6.20 a.m.",
-    "quoteLast": ", breakfast over; 6.20 to 6.50 a.m., rooms are cleaned; 6.50, work bell; 7.30, morning study hours; 8.20, morning school bell; 8.25, inspection of young men’s toilet in ranks; 8.",
-    "title": "Up from Slavery: An Autobiography",
-    "author": "Washington, Booker T., 1856-1915",
-    "gutenbergReference": "2376",
-    "hash": "7530c88024e6c5272a24c23b31bdba0f8e1d31e2c07268b3e5cc65e5b0a15051"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "On their entrance to the hall every face wore a cheerful appearance; but on the termination of the drawing a strong contrast was exhibited, and the features of each were strongly marked with dissatisfaction. The drawing commenced shortly after five o’clock, and ended at ",
+    "quoteFirst": "\"All right!  Six-thirty, mind, and chokers!\" said Brown, not a little relieved to have scraped up two friends for the festive occasion.  At the appointed time--or rather before the appointed time, for they arrived at ",
     "quoteTime": "twenty minutes past six",
-    "quoteLast": ". The doors of the various lottery offices were also surrounded by persons awaiting the issue of the drawing.”",
-    "title": "A History of Advertising from the Earliest Times.",
-    "author": "Sampson, Henry, 1841-1891",
-    "gutenbergReference": "54149",
-    "hash": "d931119b523bdf478613c73cd489356286c53f6d4a3794bb536987373d89a6f7"
+    "quoteLast": "--our two heroes, arrayed in their Sunday jackets and white ties, presented themselves at the house of their host.  They had \"put it on\" considerably in order to get ahead of the doctor's party; for they considered that--as Parson expressed it--\"it would be a jolly lot less blushy work\" to be there before the head master arrived.",
+    "title": "The Willoughby Captains",
+    "author": "Reed, Talbot Baines, 1852-1893",
+    "gutenbergReference": "21044",
+    "hash": "754c28aae9a0859420f02c32dfaa0f28fb978a3b624d1ffdc83d277aeff6250d"
   },
   {
     "time": "06:20",
-    "quoteFirst": "But four o'clock, five o'clock, six o'clock passed, and the suspense grew painful. It was clear that there was not that agreement between the jury which all in court, including even the prisoner, had expected. At ",
-    "quoteTime": "twenty minutes past six",
-    "quoteLast": " the foreman of the jury entered the court, and informed the judge that there was no chance of the jury agreeing upon a verdict.",
-    "title": "The Nine of Hearts: A Novel",
-    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
-    "gutenbergReference": "53085",
-    "hash": "6bea7fc7913e63caeefeef19d71876a74d896acf468d40f72413cd35477f38a1"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "Cat Post--Dog Trench during the attack. At zero hour, ",
-    "quoteTime": "6.20 a.m.",
-    "quoteLast": ", the attack pushed forward under a heavy barrage of guns, trench mortars and machine guns. The enemy wire was found to be very thick and generally unbroken, and his barrage was quickly put down on our front line and approaches.",
-    "title": "The Fourth Battalion, The King's Own (Royal Lancaster Regiment) and the Great War",
-    "author": "Wadham, W. F. A. (Walter F. A.); Crossley, J.",
-    "gutenbergReference": "67393",
-    "hash": "e39f4360f549bf4c90ef474fda75b04bdf10b5e2d40b0fe7639aa4e935f36d54"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "",
+    "quoteFirst": "By zero, ",
     "quoteTime": "6.20 A.M.",
-    "quoteLast": "--Weighed with White Division. Saluted flag of Rear-Admiral Honourable William Gordon, and proceeded into harbour. Moored on north side. Proceeded by permission to London.",
-    "title": "A sailor's life under four sovereigns, Volume 2 (of 3)",
-    "author": "Keppel, Henry, Sir, 1809-1904",
-    "gutenbergReference": "76809",
-    "hash": "626875f2d7c2070636ef29788931d9b90d4cefd939d930a73a0353910e4c8279"
+    "quoteLast": " on the 20th, the dispositions were as follows:",
+    "title": "The history of the Twentieth (Light) Division",
+    "author": "Inglefield, Valentine Erskine, 1886-1947; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]",
+    "gutenbergReference": "74129",
+    "hash": "acfdd1002242164c6426ecd387aceb6b3f05af82bd99ebd704c9ecb71c0dc025"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes past six",
+    "quoteLast": ", after a safe return to the plaza, where he took on two cordite bombs weighing thirty pounds each, the eager aviator was off like a bird over the Jersey flats. At half past six he had disappeared in the smoke wafting southward from Jersey City.",
+    "title": "In the Clouds for Uncle Sam; or, Morey Marshall of the Signal Corps",
+    "author": "Sayler, H. L. (Harry Lincoln), 1863-1913; Riesenberg, Sidney H., 1885-1971 [Illustrator]",
+    "gutenbergReference": "54056",
+    "hash": "0cffb7408211c5443a7dece79c1b22f3e9127e328f6808d8c3a8500fa17c1374"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "Robert, Sir Vernon's body-guard, groom, and general out-door retainer, was fetched from his breakfast; and he was able to inform Mrs. Wendover how Sir Vernon had gone out to the stables at ",
+    "quoteTime": "twenty minutes past six",
+    "quoteLast": ", with his fishing basket slung over his shoulder, to ask for some artificial flies which Robert had been making for him, and to say that he should not want the pony or Robert all the morning, as he was going out with Mr. Wendover.",
+    "title": "The Golden Calf",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "9052",
+    "hash": "243548a93c0452d8cce81ba514f819dc8cd1f4f01e4507ae574c67349f8f331d"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "On the 31st the Battalion paraded at ",
+    "quoteTime": "twenty minutes after six",
+    "quoteLast": ", and about half-an-hour afterwards marched from Insarfu. The 42nd led, the Rifle Brigade forming the rear of the hollow square or order of battle, which was thus disposed:--",
+    "title": "The History of the Rifle Brigade (the Prince Consort's Own) Formerly the 95th",
+    "author": "Cope, William Henry, 1811-1892",
+    "gutenbergReference": "60048",
+    "hash": "d234168d4e4970d1f16cc9bffaae0d68f6cee03f750dc0fb384f25424820333a"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "Monroe's surprise. Conversation, subdued but general, ensued. Martie walked boldly with Rodney to the gate, at ",
+    "quoteTime": "twenty minutes past six",
+    "quoteLast": ", and they stood there, laughing and talking, for another ten minutes.",
+    "title": "Martie, the Unconquered",
+    "author": "Norris, Kathleen Thompson, 1880-1966",
+    "gutenbergReference": "4392",
+    "hash": "be1c9e62312ee714881951a536c8893a9cb1c085506fa2e10c84caed6ec6883e"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "At ",
+    "quoteTime": "6.20 a.m.",
+    "quoteLast": " left the bivouac and followed the shore of Champion Bay about a mile northerly; then steered 87 degrees over a scrubby country; at 7.20 crossed the Chapman River; and at 8.0, being a quarter of a mile north from Mount Fairfax, altered the course to 66 degrees, the country being thinly covered with wattle scrub and some grass; at 8.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "73bdb5bdc6440f18bdd99d6e5921e057affee5bb6f73082af5588bec7de62cf6"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "On the 31st the Battalion paraded at ",
+    "quoteTime": "twenty minutes after six",
+    "quoteLast": ", and about half-an-hour afterwards marched from Insarfu. The 42nd led, the Rifle Brigade forming the rear of the hollow square or order of battle, which was thus disposed:--",
+    "title": "The History of the Rifle Brigade (the Prince Consort's Own) Formerly the 95th",
+    "author": "Cope, William Henry, 1811-1892",
+    "gutenbergReference": "60048",
+    "hash": "d234168d4e4970d1f16cc9bffaae0d68f6cee03f750dc0fb384f25424820333a"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "When Hawkins said, ‘it’s ",
+    "quoteTime": "twenty minutes after six",
+    "quoteLast": "’ and ‘it’s a quarter to eleven,’ Fordney knew he was not a railroad man.",
+    "title": "Minute Mysteries [Detectograms]",
+    "author": "Ripley, H. A. (Harold Austin), 1896-",
+    "gutenbergReference": "50603",
+    "hash": "6623a3b28a74930ea7bfd884e0b7021b9a15f2ab40b0f08fc827390b933fb647"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "The Argentine republic occupies the southeastern extremity of South America, and extends from 21 degrees 55 minutes to 55 degrees 2 minutes south latitude, and from 53 degrees ",
+    "quoteTime": "40 minutes to 7",
+    "quoteLast": "3 degrees 17 minutes west longitude. From north to south its length is 2285 miles, and its greatest width is 930 miles.",
+    "title": "Something about sugar",
+    "author": "Rolph, George M. (George Morrison), 1873-1932",
+    "gutenbergReference": "73616",
+    "hash": "9ecef1a6ae7d09c2f1958a77cb0c29e2381df9beae20055c5e79cbb948847237"
   },
   {
     "time": "06:20",
@@ -71,73 +111,73 @@
   },
   {
     "time": "06:20",
-    "quoteFirst": "Returning the way we had come to our quarters at the station, after taking tiffin at the bungalow we arranged to go on to Udaipur in the morning, and were advised to sleep in the train, which waited in the station all night, and left at ",
-    "quoteTime": "6.20 A.M.",
-    "quoteLast": " for Udaipur. So we packed up and went on board and took our berths, which were on the whole more comfortable than the station beds.",
-    "title": "India Impressions, With some notes of Ceylon during a winter tour, 1906-7.",
-    "author": "Crane, Walter, 1845-1915",
-    "gutenbergReference": "54718",
-    "hash": "bd4e03d5bc73b169573101e9a652c7db6b151f17b792096a2ef8c4860b1653de"
+    "quoteFirst": "At 4.30 a.m. on September 28th Captain Patteson, the Brigade Major, arrived with fresh orders. The battalion were now to capture a trench just west of Fontaine and round the southern edge of that place to the east end of Cantaing, the attack to commence at ",
+    "quoteTime": "6.20 a.m.",
+    "quoteLast": "",
+    "title": "The History of the 2/6th (Rifle) Battalion, \"the King's\" (Liverpool Regiment) 1914-1919",
+    "author": "Wurtzburg, C. E. (Charles Edward), 1891-1952",
+    "gutenbergReference": "49875",
+    "hash": "35e2d008577f3ae6e6f464fab6c6438deade032f162754320e0be713c09595f0"
   },
   {
     "time": "06:20",
-    "quoteFirst": "“At ",
+    "quoteFirst": "However successful the tanks were afterwards, these three proved worse than useless, because two of them broke down, and the third was so knocked about that it could do nothing, having amongst other injuries lost its periscope, so that it could not see. The unfortunate thing was, that there remained the gap in the barrage, exactly opposite the main face of the work to be assaulted. At ",
+    "quoteTime": "6.20 a.m.",
+    "quoteLast": " the 8th Bedfordshire advanced gallantly over the open, a bombing party attacking up a trench from the south-east. The enemy’s machine guns caught the Bedfordshire men on the top of the ridge and, though they tried in the most manly way, they could make no progress.",
+    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
+    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
+    "gutenbergReference": "73159",
+    "hash": "c042143a263e3beb42fc28725afa9734e24f7f2d5e01cce272bb31735cfcf2dd"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "by N. We got over the portage (which, although short, was covered with rough granite stones that stuck to our boat's iron-shod keel like glue) at ",
+    "quoteTime": "20 minutes after 6",
+    "quoteLast": ", and embarked on what I then supposed was another lake, but which afterwards turned out to be a portion of the second lake we had entered, and the largest body of fresh water we had yet seen. I named it after my much-respected and kind friend, Alexander Christie, Esq.",
+    "title": "Narrative of an Expedition to the Shores of the Arctic Sea in 1846 and 1847",
+    "author": "Rae, John, 1813-1893",
+    "gutenbergReference": "39917",
+    "hash": "c36d90011b20f28d11fb4e6dbd439bcee3c825e952e4fff9ddba6f89104d47c5"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "Her next fight was in much the same position, about 20 miles S.W. of the Lizard. At ",
+    "quoteTime": "6.20 a.m.",
+    "quoteLast": " on October 24, 1916, _Helgoland_, now commanded by Lieutenant G. G. Westmore, R.N.R., was on an E.S.E. course, the wind being S.W., force 4, and there was a moderate sea.",
+    "title": "Q-Ships and Their Story",
+    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
+    "gutenbergReference": "54338",
+    "hash": "0f3b4bd1f68502be6f47e8cbb526c494a5ed2de9f6a471d5be4658f6eaecb971"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "But four o'clock, five o'clock, six o'clock passed, and the suspense grew painful. It was clear that there was not that agreement between the jury which all in court, including even the prisoner, had expected. At ",
     "quoteTime": "twenty minutes past six",
-    "quoteLast": " on Wednesday evening (November 29th), ‘a thin, grey-haired, insignificant-looking man’ presented himself at the front door of Eccleshall Vicarage. He rang the bell and announced himself as Peace, stating to the servant that he desired to see Mr. Newman.",
-    "title": "Charles Peace, or The Adventures of a Notorious Burglar",
-    "author": "Anonymous",
-    "gutenbergReference": "65464",
-    "hash": "fdcaab4a5444dd8979102511dbeed01b972625c59b3fc98da6b7f2c38a03271d"
+    "quoteLast": " the foreman of the jury entered the court, and informed the judge that there was no chance of the jury agreeing upon a verdict.",
+    "title": "The Nine of Hearts: A Novel",
+    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+    "gutenbergReference": "53085",
+    "hash": "6bea7fc7913e63caeefeef19d71876a74d896acf468d40f72413cd35477f38a1"
   },
   {
     "time": "06:20",
-    "quoteFirst": "3. All necessary preparations were completed in time, and with a secrecy reflecting the greatest credit on all concerned. At ",
-    "quoteTime": "6:20 A. M.",
-    "quoteLast": " on Nov 20, without any previous artillery bombardment, tanks and infantry attacked on a front of about six miles from east of Gonnelieu to the Canal du Nord opposite Hermies.",
-    "title": "Current History: A Monthly Magazine of the New York Times, May 1918\nVol. VIII, Part I, No. 2",
-    "author": "Various",
-    "gutenbergReference": "38750",
-    "hash": "f627d53dd1a29ad0a587e39e70e67f7bf1fa3ba5b792e29537a79f305a828aba"
+    "quoteFirst": "At 5.50 a.m. the three tanks which were to make their début with the Division left their departure points for the first objective, and at ",
+    "quoteTime": "6.20 a.m.",
+    "quoteLast": " the infantry assault was launched. Almost three hours later, at 9 a.m., the 1/4th Londons left their bivouacs in Angle Wood Valley and moved forward in artillery formation towards the battle position on the crest between the north edge of Leuze Wood and the west face of Bouleaux Wood.",
+    "title": "The War History of the 4th Battalion, the London Regiment (Royal Fusiliers), 1914-1919",
+    "author": "Grimwade, F. Clive",
+    "gutenbergReference": "50098",
+    "hash": "ca0c5fd5b02c360d7b67da80c03c47a1cab9c34428d9b12ab816675187cec1f1"
   },
   {
     "time": "06:20",
-    "quoteFirst": "“I looked at the time. It was ",
-    "quoteTime": "twenty minutes past six",
-    "quoteLast": ". The sun, a great ball of blood-red fire in a cloudless sky, was dipping into the waters of the Pacific. Rapidly it sank and disappeared from view, yet, as if struggling for supremacy with the fast-approaching night, an afterglow of surpassing beauty spread over land and sea in a series of magnificent changes of colour.",
-    "title": "Argentina and Her People of To-day\r\nAn account of the customs, characteristics, amusements, history and advancement of the Argentinians, and the development and resources of their country",
-    "author": "Winter, Nevin O. (Nevin Otto), 1869-1936",
-    "gutenbergReference": "59999",
-    "hash": "d3e2c99714cc0a3103bf38fab1feb3444c08f8fcb512339c609cf9537af8077d"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "He laid me on my back as helpless as a baby. Say, if Mary Ann doesn't get round with the oatmeal pretty soon, I'll have to go without. It's ",
-    "quoteTime": "twenty minutes past six",
-    "quoteLast": " now.\"",
-    "title": "Strawberry Acres",
-    "author": "Richmond, Grace S. (Grace Smith), 1866-1959",
-    "gutenbergReference": "12164",
-    "hash": "4a40cb3039afab4aad66527d545311ef5a4e09f0e251056821b58d61585a9018"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "At ",
-    "quoteTime": "6.20 A.M.",
-    "quoteLast": " a big round shot from the _Constitution_ crashed through the mizzen-mast of the _Guerrière_, and away it went, over the rail to starboard. Snatching off his hat, Captain Hull waved it above his head.",
-    "title": "The history of our Navy from its origin to the present day, 1775-1897, vol. 2 (of 4)",
-    "author": "Spears, John Randolph, 1850-1936",
-    "gutenbergReference": "71795",
-    "hash": "746c19cf1e8a91730ec059646e619a18842c49645d63f16c0dcc5b524db33e51"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "At Genoa, Turin, Acqui, Alessandria, Antibes, and other places, two distinct phases were perceived, occasionally separated by a brief pause, the first being invariably the weaker. At some places, the observers speak of two shocks at about ",
-    "quoteTime": "6.20 A.M.",
-    "quoteLast": ", separated by an interval of a few seconds; and this division was noticeable as far as Salò on the shore of Lake Garda and Vicenza in Venetia. Only in Switzerland and other districts near the boundary of the disturbed area did the weaker part of the shock become insensible, the other consisting of horizontal oscillations, remarkable for their slowness and regularity, and lasting for as much as twenty or thirty seconds.",
-    "title": "A Study of Recent Earthquakes",
-    "author": "Davison, Charles, 1858-1940",
-    "gutenbergReference": "25062",
-    "hash": "9e10c09bb3762c050ae0ea6bc3017a6bc0c123aa1d22601f38c7f8c7d5ff504d"
+    "quoteFirst": "\"_",
+    "quoteTime": "Twenty minutes past six",
+    "quoteLast": "._",
+    "title": "Bentley's Miscellany, Volume II",
+    "author": "Various; Dickens, Charles, 1812-1870 [Editor]; Bentley, Richard, 1794-1871 [Publisher]",
+    "gutenbergReference": "46804",
+    "hash": "0540a8c8ce7a015c6538ba895e581587544eb4237dcabf6b0d07004e14401886"
   },
   {
     "time": "06:20",
@@ -148,46 +188,6 @@
     "author": "Stauffer, Frank H., 1832-1895",
     "gutenbergReference": "41762",
     "hash": "19a3564ca30966e8c951911c1954cf94cb58f84b29f0bbb4899989c084085619"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "At ",
-    "quoteTime": "6:20 A.M.",
-    "quoteLast": " on September 15, 1916, the infantry assault commenced, and at the same moment the bombardment became intense. Our new heavily armored cars, known as \"tanks,\" now brought into action for the first time, successfully coöperated with the infantry, and, coming as a surprise to the enemy rank and file, gave valuable help in breaking down their resistance.",
-    "title": "Raemaekers' Cartoon History of the War, Volume 3\nThe Third Twelve Months of War",
-    "author": "Raemaekers, Louis, 1869-1956 [Illustrator]; Allison, James Murray, 1877-1929 [Editor]",
-    "gutenbergReference": "43219",
-    "hash": "4d3d304b91aeee113f7951f968294d2bc9ff46258acfd8ca74e3778783cadbc4"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "The north of England territorials were opposite to the various German trenches which linked Martinpuich to High Wood.  The Londoners were faced by the ghastly charnel-house of High Wood itself, taken and retaken so often, but still mainly in German hands.  At ",
-    "quoteTime": "6.20 A.M.",
-    "quoteLast": " the assault went forward along the line.",
-    "title": "The British Campaign in France and Flanders, 1916",
-    "author": "Doyle, Arthur Conan, 1859-1930",
-    "gutenbergReference": "65044",
-    "hash": "8c27a5dd5adc1fad4ed13c72600eec4209861f98cf86f57884d68b9c4fa748a9"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "“At ",
-    "quoteTime": "twenty minutes past six",
-    "quoteLast": " on Wednesday evening (November 29th), ‘a thin, grey-haired, insignificant-looking man’ presented himself at the front door of Eccleshall Vicarage. He rang the bell and announced himself as Peace, stating to the servant that he desired to see Mr. Newman.",
-    "title": "Charles Peace, or The Adventures of a Notorious Burglar",
-    "author": "Anonymous",
-    "gutenbergReference": "65464",
-    "hash": "fdcaab4a5444dd8979102511dbeed01b972625c59b3fc98da6b7f2c38a03271d"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "At a quarter past five he made the signal to close in line of battle; set the foresail. At six bore down, and ran under the Ville de Paris' stern, raked her, then hauled up after her; at ",
-    "quoteTime": "twenty minutes past six",
-    "quoteLast": " saw her strike her colours.",
-    "title": "Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II",
-    "author": "Ross, John, Sir, 1777-1856",
-    "gutenbergReference": "27151",
-    "hash": "1b6c065ba2d2d0c35c3a8e1324bcabb4d25b3474f399671eedbfe1301b8da8c7"
   },
   {
     "time": "06:20",

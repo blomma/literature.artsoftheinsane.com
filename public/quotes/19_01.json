@@ -1,113 +1,183 @@
 [
   {
     "time": "19:01",
-    "quoteFirst": "0 |            | 7 | 6 m   |  13.0 | S 2        | Fair. Cloudy afternoon. | 3 a   |  24.0 |            | ",
-    "quoteTime": "About 7 in the evening",
-    "quoteLast": " it began |       |       |            | to rain, and continued till late |       |       |            | at night. 8 | 7 m   |   9.0 | N W 3      | Flying clouds.",
-    "title": "Travels into North America, Volume 2 (of 3)",
-    "author": "Kalm, Pehr, 1716-1779; Forster, Johann Reinhold, 1729-1798 [Translator]",
-    "gutenbergReference": "72103",
-    "hash": "1f523120a04fff21bd0e81a52d0113823f9ac4037ca5eb2ef4b0dc802c120e69"
-  },
-  {
-    "time": "19:01",
-    "quoteFirst": "Martin was then endeavoring to sell a part of his property, and this necessitated frequent interviews with the lawyers of the neighbouring town. Twice in the week he went to Rieux, and to make the journey easier, used to start horseback ",
+    "quoteFirst": "The hour at which those chosen to elect the new president were locked up was ",
     "quoteTime": "about seven in the evening",
-    "quoteLast": ", sleep at Rieux, and return the following afternoon. This arrangement did not escape his enemy’s notice, who was not long in convincing himself that part of the time ostensibly spent on this journey was otherwise employed.",
-    "title": "Celebrated Crimes (Complete)",
-    "author": "Dumas, Alexandre, 1802-1870",
-    "gutenbergReference": "2760",
-    "hash": "27e08964559e2d3a150de4d5648943d01d01aa2b9cb15baba822dd2ad358f3d9"
+    "quoteLast": ", from which time until the following morning, when the door was thrown open once more, each elector was obliged to swallow at regular intervals a large glassful of vodka, a spirit nearly, though not quite, so strong as whisky. He whose head proved best able to support this trying ordeal was the chosen president for the following year, or series of years.",
+    "title": "Boris the Bear-Hunter",
+    "author": "Whishaw, Frederick, 1854-1934; Stacey, W. S. (Walter S.), 1846-1929 [Illustrator]",
+    "gutenbergReference": "45098",
+    "hash": "683c5316326e58d67cfef464a33a7f4f1f37e36e1d3334890ce3ead0e864f1dc"
   },
   {
     "time": "19:01",
-    "quoteFirst": "",
-    "quoteTime": "About seven o’clock in the evening",
-    "quoteLast": ", some of the guests wished to depart, but the host, merry with punch, ordered the gates to be locked, and declared that nobody should leave the house until the next morning. Music soon resounded, the doors of the saloon were thrown open and the ball began.",
-    "title": "The Prose Tales of Alexander Pushkin",
-    "author": "Pushkin, Aleksandr Sergeevich, 1799-1837; Keane, T. [Translator]",
-    "gutenbergReference": "55219",
-    "hash": "8478ee60b62a527b3b1e900707ac71ca9815d3feb1211fb7a25073a25a330a86"
-  },
-  {
-    "time": "19:01",
-    "quoteFirst": "By this we concluded, that he had been robbed of his property, and that they were not less scrupulous of stealing from one another than from us, on whom they practised every little fraud they could think on, and generally with success; for we no sooner detected them in one, than they found out another. ",
-    "quoteTime": "About seven o’clock in the evening",
-    "quoteLast": ", the party I had sent into the country returned, after having been over the greatest part of the island.",
-    "title": "The Three Voyages of Captain Cook Round the World, Vol. III. Being the First of the Second Voyage",
-    "author": "Cook, James, 1728-1779; Forster, Georg, 1754-1794",
-    "gutenbergReference": "61155",
-    "hash": "dcb5e69c0b23ee8c8b2be801b423e46e90e4a4d757ec5183cac270679974892a"
-  },
-  {
-    "time": "19:01",
-    "quoteFirst": "At 12 noon we met again for dinner, and again ",
-    "quoteTime": "about 7 p.m.",
-    "quoteLast": " for supper, which meal being over, Butler, Cook, and I would repair to the sitting room, and round a glorious fire smoked or read or listened to Butler's piano. It was the most civilised experience I had had of up-country life since I left Highfield and was very enjoyable.",
-    "title": "Five years in New Zealand (1859 to 1864)",
-    "author": "Booth, Robert B., 1843?-",
-    "gutenbergReference": "18068",
-    "hash": "155d6d03cbb6b7dc846dd6371144efeedfa9e824414d8f9e5402f462ece1491f"
-  },
-  {
-    "time": "19:01",
-    "quoteFirst": "The messenger was at once passed, and the ship hove short; after which we awaited with such patience as we could muster for the gathering of the mist.  At length, ",
-    "quoteTime": "about seven p.m.",
-    "quoteLast": ", the anchor was tripped, and the _Virginia_ glided gracefully out of the creek to seaward, under topsails, jib, and boom mainsail.  We knew almost to a hair's-breadth the course which the _Black Venus_ must steer for the first seven or eight miles after clearing Shark Point, and Smellie placed us right across this track, jamming the vessel close upon a wind and wearing short round every twenty minutes; by which plan we were never more than ten minutes sail from the line over which we expected the enemy to pass.",
-    "title": "The Congo Rovers: A Story of the Slave Squadron",
-    "author": "Collingwood, Harry, 1851-1922; Schönberg, John [Illustrator]",
-    "gutenbergReference": "21060",
-    "hash": "fd6559251681c8c7ec83e305efd6e4ea429f90c7ab0492be072f670dbc880300"
-  },
-  {
-    "time": "19:01",
-    "quoteFirst": "",
-    "quoteTime": "About seven o'clock in the evening",
-    "quoteLast": ", a staff officer, who kept the journalists informed of the progress of affairs, visited General Fremont's head-quarters. He soon emerged with important intelligence.",
-    "title": "Camp-Fire and Cotton-Field: Southern Adventure in Time of War.\r\nLife with the Union Armies, and Residence on a Louisiana Plantation",
-    "author": "Knox, Thomas Wallace, 1835-1896",
-    "gutenbergReference": "12068",
-    "hash": "ebd39041bc416dc7a8c5e0dd7ae8c331db703456149189dd941d0d047b3926f5"
-  },
-  {
-    "time": "19:01",
-    "quoteFirst": "The doctor turned himself in the bed, and said, 'God bless you, my dear!' These were the last words he spoke. His difficulty of breathing increased till ",
+    "quoteFirst": "We came out to take possession at ",
     "quoteTime": "about seven o'clock in the evening",
-    "quoteLast": ", when Mr. Barber and Mrs. Desmoulins, who were sitting in the room, observed that the noise he made in breathing had ceased, went to the bed, and found he was dead.",
-    "title": "Stories of Authors, British and American",
-    "author": "Chubb, Edwin Watts, 1865-1959",
-    "gutenbergReference": "26910",
-    "hash": "5566e48a3a4afc18e6375a77ace2327c67224e6b92ed3a9999ca54a3e0fc716b"
+    "quoteLast": "; every thing was comfortable and cheery; good fires lighted, the rooms neat and airy, and a general air of preparation and comfort, highly conducive to good spirits and pleasant anticipations.",
+    "title": "J. S. Le Fanu's Ghostly Tales, Volume 2",
+    "author": "Le Fanu, Joseph Sheridan, 1814-1873",
+    "gutenbergReference": "11700",
+    "hash": "104a496eec68c438eb01ba7d0cb4d8fa85ee4bea595cd96582bb2b4d66466a77"
   },
   {
     "time": "19:01",
-    "quoteFirst": "The governor, finding his charge so intractable resolved to leave him in the midst of his own ignorance and prejudice, and reserve his observations for those who would pay more deference to his opinion: and indeed this resolution he had often made, and as often broken in the transports of his zeal, that frequently hurried him out of the plan of conduct which in his cooler moments he had laid down. They halted for refreshment at Montreuil, and ",
+    "quoteFirst": "The lamented Garland, equal to any emergency, was quick enough to get his fine brigade in, and made excellent battle, till his men, discouraged by the loss of their chief, were overcome by the gallant assault under Cox. General Reno, on the Union side, an officer of high character and attainments, was killed ",
+    "quoteTime": "about seven o'clock P.M.",
+    "quoteLast": " Among the Union wounded was Colonel Rutherford B. Hayes; afterwards President of the United States.",
+    "title": "From Manassas to Appomattox: Memoirs of the Civil War in America",
+    "author": "Longstreet, James, 1821-1904",
+    "gutenbergReference": "38418",
+    "hash": "4fbec4e98d5b45213222df9c8c8a8093c728b8c6aca0060c5da954113b544475"
+  },
+  {
+    "time": "19:01",
+    "quoteFirst": "On leaving Gaieta, we passed over the river Garigliano by means of a wooden bridge. Our road after this, lay through the defiles of Mount Massicus, which communicates with those of Callicula, a mountain covered with forests, and we reached St. Agado ",
     "quoteTime": "about seven in the evening",
-    "quoteLast": " arrived at a village called Bernay, where, while they waited for fresh horses, they were informed by the landlord that the gates of Abbeville were shut every night punctually at eight o'clock, so that it would be impossible for them to get admittance.",
-    "title": "The Adventures of Peregrine Pickle",
-    "author": "Smollett, T. (Tobias), 1721-1771",
-    "gutenbergReference": "4084",
-    "hash": "f19a3fd2e97b34c8495060dca74725471ea2d76d798d0790866ffd1c8558ecda"
+    "quoteLast": ", when we took up our quarters for the night; here I was compelled to sleep in the same room with a man whom we had accidentally taken up on the road, and to which, being satisfied he was an indifferent, character, I at first strenuously objected, but finding I could get no other accommodation, I at length acceded, on condition that a third bed in the room should be also occupied; which was then filled by the servant of the Italian lady.",
+    "title": "The narrative of a journey undertaken in the years 1819, 1820 and 1821 through France, Italy, Savoy, Switzerland, parts of Germany bordering on the Rhine, Holland and the Netherlands",
+    "author": "Holman, James, 1786-1857",
+    "gutenbergReference": "71556",
+    "hash": "2506b2b2bafa5b2d9e7bf18f5db907b7f30e41eef460c180007050c79db598d2"
+  },
+  {
+    "time": "19:01",
+    "quoteFirst": "prevent the action of a cold atmosphere on the surface of the body, while under a course of bathing, I do not in general recommend, to English patients, the very early hours of rising and drinking the water, adopted by the Germans; six, or half-past, will be sufficiently early, even for those who take their bath before breakfast, and for those who do not, any time between that hour and half-past seven; breakfast being taken an hour after drinking, and consisting of tea or coffee, according as the one or other is found best to agree. Those who dine at one o’clock, should again drink ",
+    "quoteTime": "about seven in the evening",
+    "quoteLast": "; while for those persons who prefer dining at four, or later, from two to three will be the best time for taking their second dose. The effects of the water are thus better sustained than when the whole quantity prescribed is taken in the morning, and an interval of four-and-twenty hours allowed to elapse between the periods of drinking; the water is often thus better digested, and is well borne, when the distention of the stomach by the same quantity if taken before breakfast, would disagree and give rise to unpleasant symptoms, or occasion a too active operation upon the bowels",
+    "title": "Pilgrimages to the Spas in Pursuit of Health and Recreation\r\nWith an inquiry into the comparative merits of different mineral waters: the maladies to which they are applicable, and those in which they are injurious",
+    "author": "Johnson, James, 1777-1845",
+    "gutenbergReference": "60104",
+    "hash": "2f36bd9bfaeebbff60b6c2c25da919b94892b316618bb514fb095b575a97b060"
   },
   {
     "time": "19:01",
     "quoteFirst": "",
     "quoteTime": "About seven in the evening",
-    "quoteLast": " we fell in with the skirts of a hurricane.",
-    "title": "The Moravians in Georgia, 1735-1740",
-    "author": "Fries, Adelaide L. (Adelaide Lisetta), 1871-1949",
-    "gutenbergReference": "570",
-    "hash": "c0928b037f102e7d2971824de4346fde2c3a88ef67da07e567b1d8be340b2ded"
+    "quoteLast": " we got on board, where Mr. Pickersgill had arrived but just before. He informed me that the land opposite to our station was an island, which he had been round; that, on another, more to the north, he found many _terns’_ eggs, and that without the great island, between it and the east head, lay a cove in which were many geese; one only of which he got, besides some young goslins.",
+    "title": "The Three Voyages of Captain Cook Round the World. Vol. IV. Being the Second of the Second Voyage.",
+    "author": "Cook, James, 1728-1779; Forster, Georg, 1754-1794",
+    "gutenbergReference": "61492",
+    "hash": "d892f94cfd8ddf47a80cd0c7260065ede6e48ee9b360abddf39fc8c4079f7475"
   },
   {
     "time": "19:01",
-    "quoteFirst": "",
+    "quoteFirst": "Immediately upon issuing this, couriers were dispatched to the various sea-ports, with orders to impress seamen for the numerous ships hastily ordered into commission. Some details have come down giving a vivid presentment of that lawless proceeding known as a \"hot press,\" at this period when it was on the point of disappearing. \"",
+    "quoteTime": "About 7 P. M.",
+    "quoteLast": " yesterday,\" says the Plymouth report of March 10, \"the town was alarmed with the marching of several bodies of Royal Marines in parties of twelve or fourteen each, with their officers and a naval officer, armed. So secret were the orders kept that they did not know the nature of the service on which they were going, until they boarded the tier of colliers at the new quay, and other gangs the ships at Catwater, the Pool and the gin-shops.",
+    "title": "The Influence of Sea Power upon the French Revolution and Empire 1793-1812, vol 2",
+    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+    "gutenbergReference": "52589",
+    "hash": "6112fbb6645311d36a474b2b260b7bca538ddd5f7799aa0556d4fe6898179e07"
+  },
+  {
+    "time": "19:01",
+    "quoteFirst": "The natives, however, may live in the fertile valleys, a short distance from the sea-coast, and concealed from our view. The wind and current being adverse, it was impossible for the ship to make any progress, and we therefore anchored ",
+    "quoteTime": "about seven P.M.",
+    "quoteLast": " in twelve fathoms, a few miles to the eastward of the “Lover’s Leap.”",
+    "title": "Wanderings in New South Wales, Batavia, Pedir Coast, Singapore, and China, Vol. 1 (of 2)",
+    "author": "Bennett, George, 1804-1893",
+    "gutenbergReference": "73902",
+    "hash": "3308fe156faf99fcee3697f24ee824519c4abdd59dfbf40e94237514e533be9f"
+  },
+  {
+    "time": "19:01",
+    "quoteFirst": "[144] Little more than a month elapsed from the failure of the first attempt, before another was adventured, and with better success. On Sunday, the second of May, ",
+    "quoteTime": "about seven in the evening",
+    "quoteLast": ", William Douglas, when sitting at supper with the rest of the family, managed to get into his possession the keys of the Castle, which his relation, Sir William, had put down beside his plate on the table. The young man immediately left the room with the prize, and, locking the door of the apartment from without, proceeded to the Queen's chamber, whom he conducted with all speed, through a little postern gate, to a boat which had been prepared for her reception.",
+    "title": "Life of Mary Queen of Scots, Volume 2 (of 2)",
+    "author": "Bell, Henry Glassford, 1803-1874",
+    "gutenbergReference": "37059",
+    "hash": "36f2b6fcbd890626f77ee69010660c6b60fcf8f33c458b9bb7f6a3d8fe83185b"
+  },
+  {
+    "time": "19:01",
+    "quoteFirst": "On the 6th of July they were on duty in the trenches; on the 8th they marched into the lines of circumvallation, and in the evening of the same day a detachment was engaged in a successful attack on the covered way upon the hill of Bouge. The attack was made ",
+    "quoteTime": "about seven in the evening",
+    "quoteLast": "; and such were the spirit and energy with which the British soldiers rushed upon their opponents, that the palisades were speedily broken down,--the covered way carried,--the French overpowered and chased among the works, many of them throwing themselves into stone pits to escape the fury of their assailants.",
+    "title": "Historical record of the Seventh Regiment, or the Royal Fusiliers\r\nContaining an Account of the Formation of the Regiment in 1685, and of Its Subsequent Services to 1846.",
+    "author": "Cannon, Richard, 1779-1865",
+    "gutenbergReference": "56220",
+    "hash": "56bc21e6cd40176bb93070ff9211286a9d32aa73d1e6072129fd8e3b2339aca6"
+  },
+  {
+    "time": "19:01",
+    "quoteFirst": "The managers of gambling-houses have some consideration for their customers, especially for high players. Philippe awoke ",
+    "quoteTime": "about seven o’clock in the evening",
+    "quoteLast": ", his mouth parched, his face swollen, and he himself in the grip of a nervous fever. The strength of his constitution enabled him to get home on foot, where meanwhile he had, without willing it, brought mourning, desolation, poverty, and death.",
+    "title": "The Two Brothers",
+    "author": "Balzac, Honoré de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+    "gutenbergReference": "1380",
+    "hash": "d894c8628ec480ffe11e5792f8be846660e885b6500eb2215cc02447a587e07e"
+  },
+  {
+    "time": "19:01",
+    "quoteFirst": "The plank was carried on board, as materials for building a house for Omai, at the place where he intended to settle. I afterward went, properly accompanied, to the next harbour, where we broke up three or four more canoes, and burnt an equal number; and then returned on board ",
+    "quoteTime": "about seven in the evening",
+    "quoteLast": ". On my arrival I found that the goat had been brought back about half an hour before; and, on enquiry, it appeared that it had come from the very place where I had been told the day before, by the inhabitants, that they knew nothing of it.",
+    "title": "The Three Voyages of Captain Cook Round the World. Vol. VI. Being the Second of the Third Voyage",
+    "author": "Cook, James, 1728-1779",
+    "gutenbergReference": "62507",
+    "hash": "43d4c661eaee611631c78786dfb18c3871ef45bdfbf125510230ff5ac5e4750c"
+  },
+  {
+    "time": "19:01",
+    "quoteFirst": "I cried to the Rais for God’s sake to shorten sail, for I saw a breaker a-head, straight in our way. He said there was no such thing; that I had mistaken it, for it was a sea-gull. ",
     "quoteTime": "About seven in the evening",
-    "quoteLast": " they reached the southern boundary of the pine forest. The upward slope of the ground was so steep that the forest spread in tiers over the lower ramifications of the range, and the mountain summits came into view just as the sun was sinking behind the lesser chains which cut the western horizon.",
-    "title": "Their island home",
-    "author": "Verne, Jules, 1828-1905; Murphy, H. C. (Henry Cruse), 1886-1931 [Illustrator]; Wyss, Johann David, 1743-1818 [Other]; Metcalfe, Cranstoun, 1866-1939 [Translator]",
-    "gutenbergReference": "74418",
-    "hash": "62ad31227c9bb0f3a32f8b67378ab2a530e62ba67c66672a698bac77f87c9062"
+    "quoteLast": " we struck upon a reef of coral rocks. Arabs are cowards in all sudden dangers, which they consider as particular directions or mandates of providence, and therefore not to be avoided.",
+    "title": "Travels to Discover the Source of the Nile, Volume 1 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
+    "author": "Bruce, James, 1730-1794",
+    "gutenbergReference": "54180",
+    "hash": "283c21251cc6b0a12bb8fb4fb97457c497a00bbb838697ec21b824960b3331ad"
+  },
+  {
+    "time": "19:01",
+    "quoteFirst": "They very nearly regained possession of these breaches and of the gateway; but the duke, on seeing his force in disorder, brought up his reserves, and the three bodies of assailants, four times more numerous than the defenders, obliged the latter to retire again behind their retrenchments. Then ",
+    "quoteTime": "about seven o'clock in the evening",
+    "quoteLast": "--for the combat was prolonged without decisive success on either side, and the days are long at this period of the year--the two catapults discharged a quantity of darts furnished with burning tow on the roof of the stabling and of the chapel. The men of the castle exclusively occupied with the defence of the retrenchment, had no time to think of extinguishing the fire, more especially as the crossbowmen stationed on the defences of the bailey, now in the hands of the Burgundians, struck every defender showing himself on these buildings. The fire, therefore, soon gained the roofs.",
+    "title": "Annals of a Fortress",
+    "author": "Viollet-le-Duc, Eugène-Emmanuel, 1814-1879; Bucknall, Benjamin, 1833-1895 [Translator]",
+    "gutenbergReference": "41426",
+    "hash": "9703eb0110588c084c9fb9ce8d664b299b769f1217236ab975d7a68552f27b8d"
+  },
+  {
+    "time": "19:01",
+    "quoteFirst": "On the previous day a new butler, one John Peterson, was employed in the Clayton residence to fill the position of the one who had been married. It was this new butler who answered the bell and admitted Nick Carter ",
+    "quoteTime": "about seven o’clock in the evening",
+    "quoteLast": " of the third day after the crime. It was not the first time that he had seen and admitted the detective in charge of the case.",
+    "title": "Nick Carter Stories No. 159, September 25, 1915: Driven from cover; or, Nick Carter's double ruse.",
+    "author": "Carter, Nicholas (House name); Lebhar, Bertram [Contributor]",
+    "gutenbergReference": "68361",
+    "hash": "c71e4701cff74129e9757529c4419773527e6d8081f66e379842546664212a9d"
+  },
+  {
+    "time": "19:01",
+    "quoteFirst": "I shall never forget the scene which the field of battle presented ",
+    "quoteTime": "about seven in the evening",
+    "quoteLast": ". I felt weary and worn out, less from fatigue than anxiety. Our division, which had stood upwards of five thousand men at the commencement of the battle, had gradually dwindled down into a solitary line of skirmishers.",
+    "title": "Adventures in the Rifle Brigade, in the Peninsula, France, and the Netherlands\nfrom 1809 to 1815",
+    "author": "Kincaid, J. (John), 1787-1862",
+    "gutenbergReference": "28981",
+    "hash": "818c795ba97e1af66c06eae8e7e55ca62e1a13376a793f1571f757965e8dac1c"
+  },
+  {
+    "time": "19:01",
+    "quoteFirst": "They continued to do so, extending southerly during the afternoon, _with a high wind from S. S. W._, the cumulus clouds moving E. N. E. At 5 P.M., gentlemen who left New York at 3 P.M., reported that a dispatch had been received from Albany, dated 1 P.M., stating that it was raining very heavily there. ",
+    "quoteTime": "About 7 P.M.",
+    "quoteLast": ", the belt reached us, and it rained heavily from that time till morning. Not far from 8 P.M., and during the heaviest rain, the wind shifted from the S. S. W. to N. E., and blew fresh and cold from that quarter during the night, and till the belt had passed south, and then from N. E. by N.",
+    "title": "The Philosophy of the Weather. And a Guide to Its Changes",
+    "author": "Butler, T. B. (Thomas Belden), 1806-1873",
+    "gutenbergReference": "33429",
+    "hash": "4d12227ba79096c2c704ab79faf0f224f23adcf1d0013c0280bd7633f0dadde8"
+  },
+  {
+    "time": "19:01",
+    "quoteFirst": "It was ",
+    "quoteTime": "about seven o'clock in the evening",
+    "quoteLast": ". Night was falling fast, but a brilliant moonlight lit the landscape.",
+    "title": "The Golden Triangle: The Return of Arsène Lupin",
+    "author": "Leblanc, Maurice, 1864-1941",
+    "gutenbergReference": "34795",
+    "hash": "2c5f0f05c8095681a019993200364cb3d46f60e3d57f98f2c8edb7c62c013a63"
   },
   {
     "time": "19:01",
@@ -121,82 +191,12 @@
   },
   {
     "time": "19:01",
-    "quoteFirst": "Last Saturday they called in another physician, Dr. Oliver. On Monday he pronounced her out of danger; ",
-    "quoteTime": "about seven in the evening",
-    "quoteLast": ", as Lady Pomfret and Lady Charlotte (Fermor) were sitting by her, the first notice they had of her immediate danger was her sighing and saying, \"I feel death come very fast upon me!\" She repeated the same words frequently, remained perfectly in her senses and calm, and died about eleven at night.",
-    "title": "The Wits and Beaux of Society. Volume 2",
-    "author": "Thomson, A. T., Mrs., 1797-1862; Wharton, Philip, 1834-1860",
-    "gutenbergReference": "10797",
-    "hash": "6a23d2306c1d9401b9fdf6193f068d866c6963c96e763b6bed67b2ba35eec803"
-  },
-  {
-    "time": "19:01",
-    "quoteFirst": "It is found in the blood only at night, unless, as Mackenzie has shown, night be converted into day--that is, if the hours of sleeping and waking be reversed. In Mackenzie's case the worms appeared ",
-    "quoteTime": "about seven o'clock in the evening",
-    "quoteLast": ", increased up to midnight, and disappeared by eight or nine o'clock in the morning. What becomes of them at the time when they are undiscoverable in the blood is as yet unknown.",
-    "title": "A system of practical medicine. By American authors. Vol. 4",
-    "author": "Pepper, William, 1843-1898 [Editor]; Starr, Louis, 1849-1925 [Editor]",
-    "gutenbergReference": "62587",
-    "hash": "2888b7619c1d1417a375457c1f04b5269fdef288a3e64740754de3c3a9e79673"
-  },
-  {
-    "time": "19:01",
-    "quoteFirst": "What I am now relating will live forever in my memory. Beethoven came to me ",
-    "quoteTime": "about seven o’clock in the evening",
-    "quoteLast": ". After we had discussed other things, he asked how matters stood with the aria? It was just finished, I handed it to him. He read, ran up and down the room, muttered, growled, as was his habit instead of singing--and tore open the pianoforte.",
-    "title": "The Life of Ludwig van Beethoven, Volume II",
-    "author": "Thayer, Alexander Wheelock, 1817-1897; Krehbiel, Henry Edward, 1854-1923 [Translator]",
-    "gutenbergReference": "43592",
-    "hash": "c2ebb5a7cea6525edb9ca65ee1fc85b9b30eddee4d9b3546254f2806021f09ed"
-  },
-  {
-    "time": "19:01",
-    "quoteFirst": "Passed through woods and crossed river several times. ",
-    "quoteTime": "About 7 P.M.",
-    "quoteLast": "",
-    "title": "Mount Rainier, a Record of Exploration",
-    "author": "Meany, Edmond S. (Edmond Stephen), 1862-1935 [Editor]",
-    "gutenbergReference": "42314",
-    "hash": "9014b7b51810568f7fb6776ee0d10f7e2cf0b14b7efc78855da3d7fcc721be69"
-  },
-  {
-    "time": "19:01",
-    "quoteFirst": "At ",
-    "quoteTime": "about seven o'clock in the evening",
-    "quoteLast": ", however, the rain slackens, the clouds scatter, and rifts of light appear through the trees. And just as Joe is thinking of rousing the club for another \"spin,\" he hears a whistle and a heavy step from across the road.",
-    "title": "St. Nicholas Magazine for Boys and Girls, Vol. 13, May 1886, No. 7.\r\nAn Illustrated Magazine for Young Folks",
-    "author": "Various; Dodge, Mary Mapes, 1830-1905 [Editor]",
-    "gutenbergReference": "32622",
-    "hash": "47e2c6afa2f29b5de09c811750d5479fcce7783a13f562e6891d75ff5607b3e7"
-  },
-  {
-    "time": "19:01",
-    "quoteFirst": "The object of our visit was a temple, far the finest I have seen either in China or Japan. We had some luncheon in a tea-house, and got back at ",
-    "quoteTime": "about 7 P.M.",
-    "quoteLast": " On the 25th, we went to another temple, through the most crowded part of the city (where we were stoned before). We were followed by large multitudes, but nothing disagreeable took place.",
-    "title": "Letters and Journals of James, Eighth Earl of Elgin",
-    "author": "Elgin, James Bruce, Earl of, 1811-1863",
-    "gutenbergReference": "10610",
-    "hash": "1e6672ec3908bde417b1cb314dc78e2f66d34b0b1a9e7f34931121a745fa3bbb"
-  },
-  {
-    "time": "19:01",
-    "quoteFirst": "I remember the knock which came ",
-    "quoteTime": "about seven in the evening",
-    "quoteLast": ", just as it was growing gray. I remember rushing from our parlor to Lenhart Davy on the doorstep.",
-    "title": "Charles Auchester, Volume 1 (of 2)",
-    "author": "Sheppard, Elizabeth Sara, 1830-1862",
-    "gutenbergReference": "38949",
-    "hash": "8e0ca63cb130e67f5a2834ba03f58af99ab87fbaa41848378524a1c69a007b03"
-  },
-  {
-    "time": "19:01",
-    "quoteFirst": "We went over--the first train, probably, that went in over the route that had been torn up in different places--where the old depot was, and had it torn out, that Colonel Hamilton's train, or the train his soldiers were on, was thrown off the track by the turning of the switch at Johnstown, ",
-    "quoteTime": "about seven o'clock in the evening",
-    "quoteLast": ", and that he was very much injured himself--I think he had a rib or two broken--he could hardly sit down; but his men got out immediately and formed, and they picked up everybody that came about there, from that on until Monday--found some of them after daylight--were picked up and put into a car and taken to Pittsburgh, and put in the arsenal, and they had fifty-five of them there.",
-    "title": "Report of the Committee Appointed to Investigate the Railroad Riots in July, 1877\nRead in the Senate and House of Representatives May 23, 1878",
-    "author": "Pennsylvania. General Assembly. Committee Appointed to Investigate the Railroad Riots in July, 1877",
-    "gutenbergReference": "42766",
-    "hash": "5df5e13ce12b4f9ab92cea1576f61ab08cced50fbbc8653e634edeaf6e00a752"
+    "quoteFirst": "",
+    "quoteTime": "About 7 o’clock in the evening",
+    "quoteLast": " I got a note from Colonel Buller, saying that he had been engaged for some hours on the Zunguin mountain with several hundred of the Makulusi tribe, who were pressing him back, and, as he was writing at sunset, had crossed in small numbers to the right bank of the Umvolosi.",
+    "title": "From Midshipman to Field Marshal",
+    "author": "Wood, Evelyn, 1838-1919",
+    "gutenbergReference": "61812",
+    "hash": "3d02c465f1d371aa6c2ff34ed8ceda4d69ca4e6d9fa639c3da0b8f04355cd83d"
   }
 ]

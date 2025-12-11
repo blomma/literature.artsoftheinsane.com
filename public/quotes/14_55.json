@@ -1,6 +1,16 @@
 [
   {
     "time": "14:55",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes to three",
+    "quoteLast": ", precisely, I took my seat in the breakfast loggia.",
+    "title": "The High Heart",
+    "author": "King, Basil, 1859-1928",
+    "gutenbergReference": "35463",
+    "hash": "d8289fadf9f1154fc45818effc8b4b61adef6952717214e75d97991a4dfcc368"
+  },
+  {
+    "time": "14:55",
     "quoteFirst": "The thought that the departed had still a claim on our sympathy and on our prayers was banished as smacking of the discarded abuse. Prayer for the dying was legitimate and obligatory at ten minutes to three, but prohibited at ",
     "quoteTime": "five minutes to three",
     "quoteLast": " when the breath had passed away. We have gone too far in this direction. We live in an immaterial as well as in a material world.",
@@ -8,126 +18,6 @@
     "author": "Baring-Gould, S. (Sabine), 1834-1924",
     "gutenbergReference": "8898",
     "hash": "3619d24260ae1152c3f7fc1bae5fc5227ba25855dd99fa3184c4938cb453983a"
-  },
-  {
-    "time": "14:55",
-    "quoteFirst": "\"We'll go in one of mine. Be here at ",
-    "quoteTime": "five minutes to three",
-    "quoteLast": ".\"",
-    "title": "The Big Tomorrow",
-    "author": "Shaver, Richard S., 1907-1975; Kossin, Sandy [Illustrator]",
-    "gutenbergReference": "29931",
-    "hash": "fe258bea09766aa259d47d8713143927ee9213db0a07a9c04c51a73c760b0ef7"
-  },
-  {
-    "time": "14:55",
-    "quoteFirst": "“",
-    "quoteTime": "Five minutes to three",
-    "quoteLast": ".”",
-    "title": "Blindfolded",
-    "author": "Walcott, Earle Ashley, 1859-1931",
-    "gutenbergReference": "7788",
-    "hash": "87b9216620bcba557f9b968bf855fda1fb91effa3f02b9265aea8ebec4114423"
-  },
-  {
-    "time": "14:55",
-    "quoteFirst": "And, at ",
-    "quoteTime": "five minutes to three",
-    "quoteLast": ", out they march. Ah, if I wasn't built up of modesty--\"",
-    "title": "The Teeth of the Tiger",
-    "author": "Leblanc, Maurice, 1864-1941",
-    "gutenbergReference": "13058",
-    "hash": "a4af8e27abb5d5bfd620266dc43fe1cb049060fc739992038c81616d10c97421"
-  },
-  {
-    "time": "14:55",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes to three",
-    "quoteLast": ", Bet bent her head over her book, declaring that she would not look at the clock again until it was three.  Then, when she was certain that the minute hand must be pointing to twelve, she looked up and gave a gasp.",
-    "title": "The Merriweather Girls and the Mystery of the Queen's Fan",
-    "author": "Edholm, Lizette M.",
-    "gutenbergReference": "30378",
-    "hash": "dfee925af9ae279ed370269216c00c0c3544faea3a62ca4d36b2259246ff7492"
-  },
-  {
-    "time": "14:55",
-    "quoteFirst": "I will give you the story in her own words, as I jotted them down immediately afterwards--saying nothing to her, of course, of my doing so. She said: 'I was in the kitchen washing up, and had just looked at the clock, and was startled to see how late it was--",
-    "quoteTime": "five minutes to three",
-    "quoteLast": "--when I heard footsteps coming down the stairs--rather a quick, light step--and I thought it was Mr. Sleep' (the dentist whose rooms are in the house), 'but as I turned round, with a dish mop in one hand and a plate in the other, I saw some one with a hat on, who had to stoop as he came down the last step, and there was Mr.",
-    "title": "Apparitions and thought-transference: an examination of the evidence for telepathy",
-    "author": "Podmore, Frank, 1856-1910",
-    "gutenbergReference": "56489",
-    "hash": "210a89470c24c084955cee9b15a186b8869429afa21e8a21927a0f99566eb6ab"
-  },
-  {
-    "time": "14:55",
-    "quoteFirst": "I will give you the story in her own words, as I jotted them down immediately afterwards--saying nothing to her, of course, of my doing so. She said: 'I was in the kitchen washing up, and had just looked at the clock, and was startled to see how late it was--",
-    "quoteTime": "five minutes to three",
-    "quoteLast": "--when I heard footsteps coming down the stairs--rather a quick, light step--and I thought it was Mr. Sleep' (the dentist whose rooms are in the house), 'but as I turned round, with a dish mop in one hand and a plate in the other, I saw some one with a hat on, who had to stoop as he came down the last step, and there was Mr.",
-    "title": "Apparitions and thought-transference: an examination of the evidence for telepathy",
-    "author": "Podmore, Frank, 1856-1910",
-    "gutenbergReference": "56489",
-    "hash": "210a89470c24c084955cee9b15a186b8869429afa21e8a21927a0f99566eb6ab"
-  },
-  {
-    "time": "14:55",
-    "quoteFirst": "\"We'll go in one of mine. Be here at ",
-    "quoteTime": "five minutes to three",
-    "quoteLast": ".\"",
-    "title": "The Big Tomorrow",
-    "author": "Shaver, Richard S., 1907-1975; Kossin, Sandy [Illustrator]",
-    "gutenbergReference": "29931",
-    "hash": "fe258bea09766aa259d47d8713143927ee9213db0a07a9c04c51a73c760b0ef7"
-  },
-  {
-    "time": "14:55",
-    "quoteFirst": "Gobin was so fretful that I dropped the corner of the blind, lit the candle, and gave him his cooling drink. His watch was on the table at the bedside, and I saw that it was ",
-    "quoteTime": "five minutes to three",
-    "quoteLast": ". I will send you a telegram to-morrow, as soon as I am sure at what hour I can leave my husband. Accept, monsieur, I beg you, my most distinguished salutations.",
-    "title": "At the Villa Rose",
-    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
-    "gutenbergReference": "4745",
-    "hash": "1cd6fd061c6126bc250831352dcc24ceddcd3dcc09f1633f2c532297531ecd5c"
-  },
-  {
-    "time": "14:55",
-    "quoteFirst": "4 minutes past 1; we have just left Liphook where we took our luncheon. 5 minutes to 2, we have just changed horses at Petersfield. ",
-    "quoteTime": "5 minutes to 3",
-    "quoteLast": ", we have just changed horses at Horndean. At 4 we arrived at Portsmouth. The streets were lined with soldiers, and Sir Colin Campbell[129] rode by the carriage.",
-    "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
-    "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
-    "gutenbergReference": "75138",
-    "hash": "8ed3d8e8b5fc3c8fe2a8dee7d66c8505c2dde71f982ae165f34a44742fa32a11"
-  },
-  {
-    "time": "14:55",
-    "quoteFirst": "Pale and haggard, John slowly returned to his office. He looked at his watch. It was ",
-    "quoteTime": "five minutes to three",
-    "quoteLast": ". Stella was waiting to receive him.",
-    "title": "The Traitor: A Story of the Fall of the Invisible Empire",
-    "author": "Dixon, Thomas, Jr., 1864-1946; Williams, C. D. (Charles D.), 1875-1954 [Illustrator]",
-    "gutenbergReference": "54766",
-    "hash": "d11220eeccfee6d2389dd451141435d56e13ea518b6ddbb83152481b334a9afc"
-  },
-  {
-    "time": "14:55",
-    "quoteFirst": "And, at ",
-    "quoteTime": "five minutes to three",
-    "quoteLast": ", out they march. Ah, if I wasn't built up of modesty--\"",
-    "title": "The Teeth of the Tiger",
-    "author": "Leblanc, Maurice, 1864-1941",
-    "gutenbergReference": "13058",
-    "hash": "a4af8e27abb5d5bfd620266dc43fe1cb049060fc739992038c81616d10c97421"
-  },
-  {
-    "time": "14:55",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes to three",
-    "quoteLast": " the watchman's pole tapped on his window-pane, a dreadful moment, but how could it be helped? On the stroke of three the shutters must be opened as a sign to the watchman that he was up, otherwise that official had orders to hunt his master out of bed with a douche of cold water. Twenty minutes later he was in the saddle.",
-    "title": "The Undying Past",
-    "author": "Sudermann, Hermann, 1857-1928; Marshall, Beatrice, 1861-1944 [Translator]",
-    "gutenbergReference": "34156",
-    "hash": "42e59d7976424dea63d729166562d127f1e149f9130be242b306ca40488b0bd1"
   },
   {
     "time": "14:55",
@@ -141,62 +31,172 @@
   },
   {
     "time": "14:55",
-    "quoteFirst": "As an entertainment feature, this test will not be successful except among a very specially selected group of people who believe themselves to be extraordinarily keen intellectually. It might be held in reserve as a special “stunt” for any persons who seem to think that they have demonstrated their “high-brow” qualities by making high scores in other tests. Shortening the time limit from ",
+    "quoteFirst": "With another flourish, and drawing himself up to his full height, until he looked like a human tower, the soldier stared straight before him, and thus delivered himself:--\"At ",
     "quoteTime": "five minutes to three",
-    "quoteLast": " minutes would further add to the consternation of such persons.",
-    "title": "Measure Your Mind: The Mentimeter and How to Use It",
-    "author": "Trabue, Marion Rex, 1890-1972; Stockbridge, Frank Parker, 1870-1940",
-    "gutenbergReference": "61341",
-    "hash": "6fb02ff5918ca98d996c2e9c44c314a294d55fe6446c5944b19c15f83b0dcf1c"
+    "quoteLast": " bells I was aroused by the noise of quarrelling and swearing, and turning over in my hammock, beheld Thomas Blain, boatswain's mate of the watch on deck, bumping James Spry, quarter-master, who was turned in, in his hammock. James Spry looked over his hammock, and observed to Thomas Blain in anything but elegant or refined language, that he was not a gentleman, and he had never thought much of him, or any member of his family.",
+    "title": "Blue Jackets; or, The Adventures of J. Thompson, A.B., Among \"the Heathen Chinee\"\r\nA Nautical Novel",
+    "author": "Greey, Edward, 1835-1888",
+    "gutenbergReference": "58270",
+    "hash": "d8c2c188e2a607482bc7595ce44ae4f687937ab1f2b02141a823537ce477eaee"
   },
   {
     "time": "14:55",
-    "quoteFirst": "",
-    "quoteTime": "Five minutes to three",
-    "quoteLast": "! But this demolished the whole of Hanaud's theory about the motor-car. The murderers had left the villa between eleven and twelve, probably before half-past eleven.",
-    "title": "At the Villa Rose",
-    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
-    "gutenbergReference": "4745",
-    "hash": "33f4b433235f61cf9ec0ec35f75307636b87818f0f8444b54af8056679c6d5f7"
+    "quoteFirst": "Leave Ashford      8.40 A.M. and  ",
+    "quoteTime": "2.55 P.M.",
+    "quoteLast": "",
+    "title": "The Mountain that was 'God'\r\nBeing a Little Book About the Great Peak Which the Indians Named 'Tacoma' but Which is Officially Called 'Rainier'",
+    "author": "Williams, John H. (John Harvey), 1864-",
+    "gutenbergReference": "22056",
+    "hash": "a089eaccf3027dc48c39bcb53098e75c947de94ad1f61bf6cc6a29502d27f1fc"
   },
   {
     "time": "14:55",
-    "quoteFirst": "June 9: ",
+    "quoteFirst": "M. Thury bored a hole, of about 10 inches in depth, in the flooring of ice, and placed a thermometer in it, at 12.25 P.M., closing it up with cotton. At ",
+    "quoteTime": "2.55 P.M.",
+    "quoteLast": ", and at 4.7. P.M., the thermometer marked the same temperature, namely, 26°·24 F.",
+    "title": "Ice-Caves of France and Switzerland",
+    "author": "Browne, G. F. (George Forrest), 1833-1930",
+    "gutenbergReference": "14012",
+    "hash": "d16d03f958ce561ff29d661cae5ee031df9e020d8319e3850c14520ef3f5e2d5"
+  },
+  {
+    "time": "14:55",
+    "quoteFirst": "I was so fascinated, so frightened, that I could not remove my gaze, but was constrained to stand still and stare at it; and all the while there was a dull, mechanical repetition of the words: \"Oh dear! Oh dear! It is coming, it is coming!\" Half an hour passed in this manner, and the hands indicated ",
+    "quoteTime": "five minutes to three",
+    "quoteLast": ", when a creak on the staircase made me look round. My heart turned to ice--there, half-way down the stairs, was a tall, black figure, its polished ebony skin shining in the moonbeams.",
+    "title": "Byways of Ghost-Land",
+    "author": "O'Donnell, Elliott, 1872-1965",
+    "gutenbergReference": "30440",
+    "hash": "88b04deab6edd26c1c1c75309b756bc60015780cd7ed716bbfb85b3eeccfdf01"
+  },
+  {
+    "time": "14:55",
+    "quoteFirst": "It was ",
+    "quoteTime": "five minutes to three",
+    "quoteLast": " when I re-entered the schoolroom. The master, as though oblivious of my presence or absence, was explaining the new lesson to Woloda. When he had finished doing this, and had put his books together (while Woloda went into the other room to fetch his ticket), the comforting idea occurred to me that perhaps the whole thing was over now, and that the master had forgotten me.",
+    "title": "Boyhood",
+    "author": "Tolstoy, Leo, graf, 1828-1910; Hogarth, C. J. (Charles James), 1869-1942 [Translator]",
+    "gutenbergReference": "2450",
+    "hash": "be01ff9b0b4aad43d5c1340ecbf1d8a89517af67bf8e56dffa88f1e4fb9e65cc"
+  },
+  {
+    "time": "14:55",
+    "quoteFirst": ", 4 cc of 2 per cent caffein injected into peritoneal cavity (240 mg per kilo); 11.30 a. m., tetanus--survived, convulsions off and on. Death at ",
     "quoteTime": "2.55 p. m.",
-    "quoteLast": ", 6 cc warm 2 per cent caffein solution given by mouth through stomach tube; 4.50 p. m., reflexes increased.",
+    "quoteLast": " _Autopsy_: Severe gastroenteritis; kidney petechiated; congestion of lungs and liver.",
     "title": "The Toxicity of Caffein: An experimental study on different species of animals",
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
-    "hash": "d61753f73ce320f4a470375409176581ce24dd3361257f02c0b6968302befa70"
+    "hash": "fbaf0a352dac4026fbd74e59be0d2499efee4740d580537000bdf4e45f3bc7b4"
   },
   {
     "time": "14:55",
-    "quoteFirst": "At last, at ",
+    "quoteFirst": "\"Suppose he came at ",
     "quoteTime": "five minutes to three",
-    "quoteLast": ", I very cautiously opened my door and stepped into the empty corridor. The train was again in a tunnel, the noise deafening and the atmosphere stifling.",
+    "quoteLast": " by accident,\" said Eliza. \"Would he sit on our doorsteps until the clock struck, and then ring the bell?\" I was really beginning to lose patience with Eliza.",
+    "title": "Eliza",
+    "author": "Pain, Barry, 1864-1928; Goldsmith, Wallace, 1873-1945 [Illustrator]",
+    "gutenbergReference": "23783",
+    "hash": "8d327d3703c35ed468e3b22a92170516dadd926e5362b2378cc1a0bff91f0884"
+  },
+  {
+    "time": "14:55",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes to three",
+    "quoteLast": " the people were sullenly, suspiciously silent.",
+    "title": "The Dumpling",
+    "author": "Kernahan, Coulson, 1858-1943; Wood, Stanley L., 1866-1928 [Illustrator]",
+    "gutenbergReference": "73740",
+    "hash": "c937a44672583d7ea38daad884ced74161bfd9fb7223c849a4ce6dc671cba2ff"
+  },
+  {
+    "time": "14:55",
+    "quoteFirst": "I arrived at the highly aristocratic hotel at ",
+    "quoteTime": "five minutes to three",
+    "quoteLast": ", and was conducted to a private sitting-room by a page who, on ushering me in, indicated a good-looking, middle-aged man seated near the window, reading a newspaper and smoking a cigar.",
     "title": "The Golden Face: A Great 'Crook' Romance",
     "author": "Le Queux, William, 1864-1927",
     "gutenbergReference": "27705",
-    "hash": "9cab50d4e4891a5bc854fd4252ea840ec0ccfba5724c26d2c58c68e9260a4102"
+    "hash": "b8d062a360332363b7e462ba12ad1b8ba04eb73930d610dc998c44d83ef9bf73"
   },
   {
     "time": "14:55",
-    "quoteFirst": "The Duchess looked at the clock, which marked ",
+    "quoteFirst": "Maggy went to get her purse and gloves. When she returned Woolf was no longer in the room.  It was ",
     "quoteTime": "five minutes to three",
     "quoteLast": ".",
-    "title": "Whose Body? A Lord Peter Wimsey Novel",
-    "author": "Sayers, Dorothy L. (Dorothy Leigh), 1893-1957",
-    "gutenbergReference": "58820",
-    "hash": "478ced2ed757a50a9527825a14efb17a2c0487a1a6a71cf33f0c2fb7e201607a"
+    "title": "The Honey-Pot",
+    "author": "Barcynska, Countess (Hélène), 1894-1964",
+    "gutenbergReference": "42531",
+    "hash": "047dee168c234537e362816b5dfaab89b32387e216aeca8daf2306929cc51d27"
   },
   {
     "time": "14:55",
-    "quoteFirst": "He could hear the watch in his pocket ticking. He took it out, it pointed to ",
+    "quoteFirst": "“It’s ",
     "quoteTime": "five minutes to three",
-    "quoteLast": ".",
-    "title": "Patsy",
-    "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
-    "gutenbergReference": "56142",
-    "hash": "5d919e30249059e3eebb1a7eafc1f84ae922c01388a3a5ea12b1aff822522510"
+    "quoteLast": ", Andy. Guess you’d better stay,” said Uncle William.",
+    "title": "Uncle William: The Man Who Was Shif'less",
+    "author": "Lee, Jennette, 1860-1951",
+    "gutenbergReference": "4634",
+    "hash": "4932efdf47f5bb01e8dd34f4a2392c44639b31d1f44f247cfd64719bdc342f72"
+  },
+  {
+    "time": "14:55",
+    "quoteFirst": "\"Next day this is what Zillah reported. She said, 'I was in the kitchen washing up, and had just looked at the clock, and was startled to see how late it was (",
+    "quoteTime": "five minutes to three",
+    "quoteLast": ") when I heard footsteps coming down the stairs--rather a quick, light step--and I thought it was Mr. Sleep' (the dentist whose rooms are in the house), 'but as I turned round, with a dish mop in one hand and a plate in the other, I saw some one with a hat on who had to stoop as he came down the last step, and there was Mr. Gurney.",
+    "title": "Real Ghost Stories",
+    "author": "Stead, W. T. (William Thomas), 1849-1912; Stead, Estelle W. (Estelle Wilson) [Editor]",
+    "gutenbergReference": "20420",
+    "hash": "37f3426af995778baa156352b9916d288c3e136dafb34e1ca74253baae830488"
+  },
+  {
+    "time": "14:55",
+    "quoteFirst": "Georgia Square at ",
+    "quoteTime": "five minutes to three",
+    "quoteLast": ". A glance up and down assured him that the house was unwatched. He let himself in with his own key and laughed softly as he caught sight of his reflection in the mirror.",
+    "title": "The Black Box",
+    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+    "gutenbergReference": "17197",
+    "hash": "9bc26641de7c07e8ffa12463019f7c887ed26b85ad3ea26bacfc23178f396bc8"
+  },
+  {
+    "time": "14:55",
+    "quoteFirst": "He appeared to be meditating, with the placid gravity that characterized him, over the results of a well-spent and profitable life. At length, with a gentle sigh, he uncrossed his legs, took his watch from his fob, and consulted its enameled face. It wanted ",
+    "quoteTime": "five minutes to three",
+    "quoteLast": ". Sir Francis might, with propriety, abandon business for the day, and betake himself to his residence in Great George Street. He was just on the point of touching a bell, and ordering his carriage to be called, when the servant came to the door and said that some one was without who desired to see Sir Francis.",
+    "title": "Dust: A Novel",
+    "author": "Hawthorne, Julian, 1846-1934",
+    "gutenbergReference": "47905",
+    "hash": "7098f212079961df5f26512b4488e98a195e11053b6ac5c8f3cfe7f49f708594"
+  },
+  {
+    "time": "14:55",
+    "quoteFirst": "He appeared to be meditating, with the placid gravity that characterized him, over the results of a well-spent and profitable life. At length, with a gentle sigh, he uncrossed his legs, took his watch from his fob, and consulted its enameled face. It wanted ",
+    "quoteTime": "five minutes to three",
+    "quoteLast": ". Sir Francis might, with propriety, abandon business for the day, and betake himself to his residence in Great George Street. He was just on the point of touching a bell, and ordering his carriage to be called, when the servant came to the door and said that some one was without who desired to see Sir Francis.",
+    "title": "Dust: A Novel",
+    "author": "Hawthorne, Julian, 1846-1934",
+    "gutenbergReference": "47905",
+    "hash": "7098f212079961df5f26512b4488e98a195e11053b6ac5c8f3cfe7f49f708594"
+  },
+  {
+    "time": "14:55",
+    "quoteFirst": "It is ",
+    "quoteTime": "five minutes to three",
+    "quoteLast": " on the following day, and the bright sun which has shone all the morning has worked round behind the British position.",
+    "title": "Sniping in France: With notes on the scientific training of scouts, observers, and snipers",
+    "author": "Hesketh-Prichard, H. (Hesketh), 1876-1922; Horne, Henry, 1861-1929 [Author of introduction, etc.]; Blaikley, Ernest, 1885-1965 [Illustrator]",
+    "gutenbergReference": "68964",
+    "hash": "cbfd3c4575ec8e5b6c61f572591e9980f57cfad802bc4d90e7cf8b39699e756a"
+  },
+  {
+    "time": "14:55",
+    "quoteFirst": "“All right!” and Desmond glanced at his watch--“",
+    "quoteTime": "Five minutes to three",
+    "quoteLast": "! You’d better look sharp! Good-bye!”",
+    "title": "Boy: A Sketch",
+    "author": "Corelli, Marie, 1855-1924",
+    "gutenbergReference": "67113",
+    "hash": "a068219107009133d703ea39ed0bef780197bc410b7027cfad5255a570617df4"
   }
 ]
