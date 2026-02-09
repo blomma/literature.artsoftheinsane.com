@@ -3,7 +3,8 @@
     "scripts": {
         "dev": "vite",
         "build": "vite build --outDir docs && node minify-data.js",
-        "preview": "vite preview"
+        "preview": "vite preview",
+        "format": "prettier --write ."
     },
     "devDependencies": {
         "prettier": "^3.8.1",

@@ -23,51 +23,46 @@ async function init() {
         .catch(() => default_literature_quote[0]);
 
     const quote = document.getElementById("quote");
-    quoteFragments(quoteData.quoteFirst, quote);
+    appendTextFragments(quoteData.quoteFirst, quote);
 
     if (quoteData.quoteTime) {
         const em = document.createElement("em");
-        em.innerText = quoteData.quoteTime;
+        em.textContent = quoteData.quoteTime;
         quote.appendChild(em);
     }
 
     if (quoteData.quoteLast) {
-        quoteFragments(quoteData.quoteLast, quote);
+        appendTextFragments(quoteData.quoteLast, quote);
     }
 
     const cite = document.getElementById("cite");
-    cite.appendChild(document.createTextNode("-"));
+    cite.textContent = "-";
 
     const citeTitle = document.createElement("span");
     citeTitle.className = "title";
-    citeTitle.innerText = quoteData.title;
+    citeTitle.textContent = quoteData.title;
 
     const citeAuthor = document.createElement("span");
     citeAuthor.className = "author";
-    citeAuthor.innerText = quoteData.author;
-
-    const container = quoteData.gutenbergReference
-        ? document.createElement("a")
-        : document.createDocumentFragment();
+    citeAuthor.textContent = quoteData.author;
 
     if (quoteData.gutenbergReference) {
-        container.href = `https://www.gutenberg.org/ebooks/${quoteData.gutenbergReference}`;
+        const link = document.createElement("a");
+        link.href = `https://www.gutenberg.org/ebooks/${quoteData.gutenbergReference}`;
+        link.append(citeTitle, ",", citeAuthor);
+        cite.appendChild(link);
+    } else {
+        cite.append(citeTitle, ",", citeAuthor);
     }
-
-    container.appendChild(citeTitle);
-    container.appendChild(document.createTextNode(","));
-    container.appendChild(citeAuthor);
-
-    cite.appendChild(container);
 }
 
-const quoteFragments = (quote, node) => {
-    quote.split("\n").forEach((value, index, array) => {
-        node.appendChild(document.createTextNode(value));
-        if (array.length - 1 !== index || quote.endsWith("\n")) {
+function appendTextFragments(text, node) {
+    text.split("\n").forEach((line, index, array) => {
+        node.appendChild(document.createTextNode(line));
+        if (index < array.length - 1 || text.endsWith("\n")) {
             node.appendChild(document.createElement("br"));
         }
     });
-};
+}
 
 window.addEventListener("load", init);
