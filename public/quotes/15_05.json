@@ -1,6 +1,26 @@
 [
   {
     "time": "15:05",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes past three",
+    "quoteLast": " Mary and Jack awoke with a start from a dream fantasy, to find themselves breathing the ampler air of Park Lane. Even then they could not quite grasp the meaning of all that had happened.",
+    "title": "The time spirit: A romantic tale",
+    "author": "Snaith, J. C. (John Collis), 1876-1936",
+    "gutenbergReference": "68398",
+    "hash": "dc04660558d49eef87ad0556767874c19313f36921492be8a9318b6b4caf34e4"
+  },
+  {
+    "time": "15:05",
+    "quoteFirst": "\"JULY 30, 1862.--",
+    "quoteTime": "3.05 P. M.",
+    "quoteLast": "",
+    "title": "Personal Memoirs of P. H. Sheridan, General, United States Army — Volume 1",
+    "author": "Sheridan, Philip Henry, 1831-1888",
+    "gutenbergReference": "2651",
+    "hash": "64a70af96674ea1984765d513b3ff456cd4472162f1a6069192be5b78ff31e2e"
+  },
+  {
+    "time": "15:05",
     "quoteFirst": "DRIVING THE LAST SPIKE, ",
     "quoteTime": "3.05 P.M.",
     "quoteLast": " (NEW YORK TIME), MAY 10, 1869                                                      335 Locomotive \"Jupiter\" of the Central Pacific, and \"119\" of the Union Pacific about to meet when last spike is driven.",
@@ -11,13 +31,73 @@
   },
   {
     "time": "15:05",
-    "quoteFirst": "After removing No. 6 from the water, No. 5 was placed on the launching car and immediately prepared for a test. At ",
-    "quoteTime": "3.05 p. m.",
+    "quoteFirst": "DRIVING THE LAST SPIKE, ",
+    "quoteTime": "3.05 P.M.",
+    "quoteLast": " (NEW YORK TIME), MAY 10, 1869                                                      335 Locomotive \"Jupiter\" of the Central Pacific, and \"119\" of the Union Pacific about to meet when last spike is driven.",
+    "title": "Breaking the Wilderness",
+    "author": "Dellenbaugh, Frederick Samuel, 1853-1935",
+    "gutenbergReference": "58390",
+    "hash": "7d81f49b341441822b65494e546ae0079b2daabda5caa7f755da8d9d1b8af5c8"
+  },
+  {
+    "time": "15:05",
+    "quoteFirst": "The train started at ",
+    "quoteTime": "five minutes past three",
+    "quoteLast": ", and he arrived at Charing Cross at a quarter to three, to find Bensington in heated argument between two policemen and his van-driver outside, and Redwood in the luggage office involved in some technical obscurity about his ammunition.",
+    "title": "The Food of the Gods and How It Came to Earth",
+    "author": "Wells, H. G. (Herbert George), 1866-1946",
+    "gutenbergReference": "11696",
+    "hash": "d1c96d41a645711cb4f40ca6a71d7f26906d1565fe740b5ab422b06485cad0af"
+  },
+  {
+    "time": "15:05",
+    "quoteFirst": ", begins at 12:32 and ends at 3:07 p. m.; at Montpelier, Vt., lasts from 12:26 to 3:03 p. m.; Boston, Mass., from 12:36 to 3:09 p. m.; Providence, R. I., from 12:33 to ",
+    "quoteTime": "3:05 p. m.",
+    "quoteLast": "; Hartford, Conn., from 12:25 to 2:58 p. m.; New York, 12:17 to 2:50 p. m.; Trenton, N. J., 12:13 to 2:45; Pittsburgh, Pa., 11:38 a. m.",
+    "title": "The Chautauquan, Vol. 05, March 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55060",
+    "hash": "0d1e117294be0c8d369f657eb5ea8ade416bb428f1b1bb8705e32014ba32ad17"
+  },
+  {
+    "time": "15:05",
+    "quoteFirst": "\"JULY 30, 1862.--",
+    "quoteTime": "3.05 P. M.",
     "quoteLast": "",
-    "title": "Langley Memoir on Mechanical Flight, Parts I and II\nSmithsonian Contributions to Knowledge, Volume 27 Number 3, Publication 1948, 1911",
-    "author": "Langley, S. P. (Samuel Pierpont), 1834-1906; Manly, Charles M. (Charles Matthews), 1876-1927",
-    "gutenbergReference": "47981",
-    "hash": "7f1bdc61684df3bce4eb2db2b1175503b416a50707f4d9565cd27c30f9545205"
+    "title": "Personal Memoirs of P. H. Sheridan, Volume 1, Part 2",
+    "author": "Sheridan, Philip Henry, 1831-1888",
+    "gutenbergReference": "5855",
+    "hash": "64940f83159f74708e1191aa50f0ccabcc488757cc0e296925a7d2c8932ceb66"
+  },
+  {
+    "time": "15:05",
+    "quoteFirst": "Waterman was going back and forth over the time of day, attempting to show that the car was behind its schedule, and exceeding the speed limit, but the man clung to his story stubbornly. It was at exactly ",
+    "quoteTime": "five minutes past three",
+    "quoteLast": "; he was running slowly, and had whistled at all the earlier stops; and when he saw the plaintiff driving upon the right of way ahead of him he put on the brakes as quickly as possible.",
+    "title": "Otherwise Phyllis",
+    "author": "Nicholson, Meredith, 1866-1947; Gibson, Charles Dana, 1867-1944 [Illustrator]",
+    "gutenbergReference": "28017",
+    "hash": "9f9514bdce8113b484277fea090262324b675403e560c6b5f31d9aca125a9b6b"
+  },
+  {
+    "time": "15:05",
+    "quoteFirst": ", begins at 12:32 and ends at 3:07 p. m.; at Montpelier, Vt., lasts from 12:26 to 3:03 p. m.; Boston, Mass., from 12:36 to 3:09 p. m.; Providence, R. I., from 12:33 to ",
+    "quoteTime": "3:05 p. m.",
+    "quoteLast": "; Hartford, Conn., from 12:25 to 2:58 p. m.; New York, 12:17 to 2:50 p. m.; Trenton, N. J., 12:13 to 2:45; Pittsburgh, Pa., 11:38 a. m.",
+    "title": "The Chautauquan, Vol. 05, March 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55060",
+    "hash": "0d1e117294be0c8d369f657eb5ea8ade416bb428f1b1bb8705e32014ba32ad17"
+  },
+  {
+    "time": "15:05",
+    "quoteFirst": "He walked slowly along the edge of the fountain, and then again looked at the church clock, which was two minutes faster than his watch. It was ",
+    "quoteTime": "five minutes past three",
+    "quoteLast": ". He thought that he would be more comfortable inside, and entered the church. The coolness of a cellar assailed him, he breathed it with pleasure, and then took a turn round the nave to reconnoiter the place.",
+    "title": "Bel Ami (A Ladies' Man)\r\nThe Works of Guy de Maupassant, Vol. 6",
+    "author": "Maupassant, Guy de, 1850-1893",
+    "gutenbergReference": "33928",
+    "hash": "906b900255815eb405dd1024ab7ad8edef12d1c9daeb5b4c577c8a55dfe3a72b"
   },
   {
     "time": "15:05",
@@ -41,33 +121,33 @@
   },
   {
     "time": "15:05",
-    "quoteFirst": "Mr. HUBERT. One of the questions I want to ask you is how you fixed the time of seeing him, but I noticed that on page 2, the second paragraph, you indicate that you saw him at about ",
-    "quoteTime": "3:05 p.m.",
-    "quoteLast": " You established that time because you knew that you had a schedule that would require you to leave at 3:15, and that that enabled you to fix the time.",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
-    "hash": "2d23d6c0d9f1a03542a3f66b0108b35a45f339bd32c76e8cc73477f5857cb705"
-  },
-  {
-    "time": "15:05",
-    "quoteFirst": "“",
-    "quoteTime": "3:05 p. m.",
-    "quoteLast": " Telephone message from C. O. 2nd Bn. 366th Inf. that he had withdrawn his lines to southern edge of Bois Voivrotte because of heavy enemy shelling--high explosives and gas in woods.” This final cessation of their efforts to hold Bois Voivrotte and withdrawal of their lines to the _southern_ edge of it was _one_ reason for the next entry on same page: “3:55 p. m.",
-    "title": "My Colored Battalion",
-    "author": "Ross, Warner A., 1879-",
-    "gutenbergReference": "58507",
-    "hash": "5021448dc346e5be42ae19c320309a67a1617c3bd6b81bc5d7a335058d69a983"
-  },
-  {
-    "time": "15:05",
-    "quoteFirst": "Waterman was going back and forth over the time of day, attempting to show that the car was behind its schedule, and exceeding the speed limit, but the man clung to his story stubbornly. It was at exactly ",
+    "quoteFirst": "5. Its three oclock by his watch; ",
     "quoteTime": "five minutes past three",
-    "quoteLast": "; he was running slowly, and had whistled at all the earlier stops; and when he saw the plaintiff driving upon the right of way ahead of him he put on the brakes as quickly as possible.",
-    "title": "Otherwise Phyllis",
-    "author": "Nicholson, Meredith, 1866-1947; Gibson, Charles Dana, 1867-1944 [Illustrator]",
-    "gutenbergReference": "28017",
-    "hash": "9f9514bdce8113b484277fea090262324b675403e560c6b5f31d9aca125a9b6b"
+    "quoteLast": " by her's.",
+    "title": "The Century Handbook of Writing",
+    "author": "Greever, Garland, 1883-1967; Jones, Easley S. (Easley Stephen), 1884-1947",
+    "gutenbergReference": "30294",
+    "hash": "017f493e342c48da893fee10121043d6b5ff6e212735bab153f753ae354bf1ab"
+  },
+  {
+    "time": "15:05",
+    "quoteFirst": "He walked slowly along the edge of the fountain, and then again looked at the church clock, which was two minutes faster than his watch. It was ",
+    "quoteTime": "five minutes past three",
+    "quoteLast": ". He thought that he would be more comfortable inside, and entered the church. The coolness of a cellar assailed him, he breathed it with pleasure, and then took a turn round the nave to reconnoiter the place.",
+    "title": "Bel Ami (A Ladies' Man)\r\nThe Works of Guy de Maupassant, Vol. 6",
+    "author": "Maupassant, Guy de, 1850-1893",
+    "gutenbergReference": "33928",
+    "hash": "906b900255815eb405dd1024ab7ad8edef12d1c9daeb5b4c577c8a55dfe3a72b"
+  },
+  {
+    "time": "15:05",
+    "quoteFirst": "\"JULY 30, 1862.--",
+    "quoteTime": "3.05 P. M.",
+    "quoteLast": "",
+    "title": "Personal Memoirs of P. H. Sheridan, Volume 1, Part 2",
+    "author": "Sheridan, Philip Henry, 1831-1888",
+    "gutenbergReference": "5855",
+    "hash": "64940f83159f74708e1191aa50f0ccabcc488757cc0e296925a7d2c8932ceb66"
   },
   {
     "time": "15:05",
@@ -81,122 +161,42 @@
   },
   {
     "time": "15:05",
-    "quoteFirst": "At ",
+    "quoteFirst": "He was a well-set-up youngster and, in spite of the spills he had made during practice, carried himself like a ball player. The “fans” watched him and reserved judgment, asking each other how Steve had managed to get hold of him at less than a half-hour’s notice. For it had been ",
     "quoteTime": "five minutes past three",
-    "quoteLast": " the strain was telling, and every one's temper began more or less to show signs of wear and tear.",
-    "title": "Berry and Co.",
-    "author": "Yates, Dornford, 1885-1960",
-    "gutenbergReference": "17469",
-    "hash": "20ff2bccd5263ead000da27a97c5fbf86c3e60075d38f8b3fad7c9a444e0a882"
-  },
-  {
-    "time": "15:05",
-    "quoteFirst": "The Horses started precisely at ",
-    "quoteTime": "five minutes after three",
-    "quoteLast": "; the Course was one Mile in Circumference, they performed the first Round in two minutes, third in two minutes & a-half, _Yorick_ came out the fifth time round about 40 Rod before _Gift_ they were both, when the Riders dismounted very lame; they run five Miles, and Carried 180 lb--Rode home in the Evening--Expence to the Boy 7-1/2d--",
-    "title": "Journal and Letters of Philip Vickers Fithian: A Plantation Tutor of the Old Dominion, 1773-1774.",
-    "author": "Fithian, Philip Vickers, 1747-1776; Farish, Hunter Dickinson, 1897-1945 [Editor]; Kredel, Fritz, 1900-1973 [Illustrator]",
-    "gutenbergReference": "40044",
-    "hash": "68575501aa67ef425b86682a736abe348033ccec5ac37b84ea0a17ceb6017771"
-  },
-  {
-    "time": "15:05",
-    "quoteFirst": "\"",
-    "quoteTime": "Five minutes after three",
-    "quoteLast": ",\" she sang until she stopped a moment on the bridge to see some boys fishing. Just about there, a big dog who was a friend of Molly's ran out to say, \"Good afternoon.\"",
-    "title": "Boys and Girls Bookshelf; a Practical Plan of Character Building, Volume I (of 17)\nFun and Thought for Little Folk",
-    "author": "Various; Baltzell, W. J. (Winton James), 1864-1928 [Editor]; Forbush, William Byron, 1868-1927 [Editor]; Johnson, Rossiter, 1840-1931 [Editor]; Wade, Herbert T. (Herbert Treadwell), 1872- [Editor]; Wheeler, Daniel Edwin, 1880- [Editor]",
-    "gutenbergReference": "25359",
-    "hash": "118b1ea3a2b4b86cd918f412c9c47fd4cd20672f309d040d2e42fdbccc954edc"
-  },
-  {
-    "time": "15:05",
-    "quoteFirst": "Mr. HUBERT. One of the questions I want to ask you is how you fixed the time of seeing him, but I noticed that on page 2, the second paragraph, you indicate that you saw him at about ",
-    "quoteTime": "3:05 p.m.",
-    "quoteLast": " You established that time because you knew that you had a schedule that would require you to leave at 3:15, and that that enabled you to fix the time.",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
-    "hash": "2d23d6c0d9f1a03542a3f66b0108b35a45f339bd32c76e8cc73477f5857cb705"
-  },
-  {
-    "time": "15:05",
-    "quoteFirst": "She dreamed on and on--the dreams with which she filled most of her waking moments when she was alone. When she remembered to look at her watch it was ",
-    "quoteTime": "five minutes after three",
-    "quoteLast": "!",
-    "title": "White Magic: A Novel",
-    "author": "Phillips, David Graham, 1867-1911; Wenzell, A. B. (Albert Beck), 1864-1917 [Illustrator]",
-    "gutenbergReference": "65432",
-    "hash": "da5ffbcd17c35fbf35fe1a56ee7d3986d8fefd2ee8e184d5eed11335ae28e4a6"
-  },
-  {
-    "time": "15:05",
-    "quoteFirst": "“The second leg of the box started at ",
-    "quoteTime": "3:05 P.M.",
-    "quoteLast": " and was quite short, lasting only thirty minutes before the plane had run through the low pressure and then to a place where it was six millibars higher. Low gray ragged clouds increased in this sector and the ceiling lowered. On order from the commander, called Sooky by the crew, the plane went down to two hundred feet.",
-    "title": "The Hurricane Hunters",
-    "author": "Tannehill, Ivan Ray, 1890-1959",
-    "gutenbergReference": "57973",
-    "hash": "89d93452076083958c710d67404ea8f6184d1699b64a4e37a5745eee643f868c"
-  },
-  {
-    "time": "15:05",
-    "quoteFirst": "It was ",
-    "quoteTime": "five minutes past three",
-    "quoteLast": " when he entered the dirty doggery misnamed the Fore and Aft, and there before the bar behind which Bone was serving drinks stood Ginnell.",
-    "title": "Sea Plunder",
-    "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
-    "gutenbergReference": "53179",
-    "hash": "f3727eac4e72069db701905dd639f4724d5e7eded5832a6428af74d3144e6ba1"
-  },
-  {
-    "time": "15:05",
-    "quoteFirst": "The Horses started precisely at ",
-    "quoteTime": "five minutes after three",
-    "quoteLast": "; the Course was one Mile in Circumference, they performed the first Round in two minutes, third in two minutes & a-half, _Yorick_ came out the fifth time round about 40 Rod before _Gift_ they were both, when the Riders dismounted very lame; they run five Miles, and Carried 180 lb--Rode home in the Evening--Expence to the Boy 7-1/2d--",
-    "title": "Journal and Letters of Philip Vickers Fithian: A Plantation Tutor of the Old Dominion, 1773-1774.",
-    "author": "Fithian, Philip Vickers, 1747-1776; Farish, Hunter Dickinson, 1897-1945 [Editor]; Kredel, Fritz, 1900-1973 [Illustrator]",
-    "gutenbergReference": "40044",
-    "hash": "68575501aa67ef425b86682a736abe348033ccec5ac37b84ea0a17ceb6017771"
-  },
-  {
-    "time": "15:05",
-    "quoteFirst": "5. Its three oclock by his watch; ",
-    "quoteTime": "five minutes past three",
-    "quoteLast": " by her's.",
-    "title": "The Century Handbook of Writing",
-    "author": "Greever, Garland, 1883-1967; Jones, Easley S. (Easley Stephen), 1884-1947",
-    "gutenbergReference": "30294",
-    "hash": "017f493e342c48da893fee10121043d6b5ff6e212735bab153f753ae354bf1ab"
+    "quoteLast": " when the accident had happened that had sent three of the Badgers’ best players to the hospital, Bennett, as was learned later, with a broken leg, Morgan with three ribs caved in, and Pitcher Cotton with enough contusions to keep him out of the game for a week at least.",
+    "title": "Second Base Sloan",
+    "author": "Mathewson, Christy, 1880-1925; Caswell, Edward C., 1879-1963 [Illustrator]",
+    "gutenbergReference": "52407",
+    "hash": "dd83a94a56090c09439f5d12837ea601f999ba69f9f78f317934fe46ca8a74d6"
   },
   {
     "time": "15:05",
     "quoteFirst": "At ",
     "quoteTime": "five minutes past three",
-    "quoteLast": " the strain was telling, and every one's temper began more or less to show signs of wear and tear.",
-    "title": "Berry and Co.",
-    "author": "Yates, Dornford, 1885-1960",
-    "gutenbergReference": "17469",
-    "hash": "20ff2bccd5263ead000da27a97c5fbf86c3e60075d38f8b3fad7c9a444e0a882"
+    "quoteLast": " Mary and Jack awoke with a start from a dream fantasy, to find themselves breathing the ampler air of Park Lane. Even then they could not quite grasp the meaning of all that had happened.",
+    "title": "The time spirit: A romantic tale",
+    "author": "Snaith, J. C. (John Collis), 1876-1936",
+    "gutenbergReference": "68398",
+    "hash": "dc04660558d49eef87ad0556767874c19313f36921492be8a9318b6b4caf34e4"
   },
   {
     "time": "15:05",
-    "quoteFirst": "The train started at ",
+    "quoteFirst": "An office boy brought her out an immediate message. Her place had been filled at ",
     "quoteTime": "five minutes past three",
-    "quoteLast": ", and he arrived at Charing Cross at a quarter to three, to find Bensington in heated argument between two policemen and his van-driver outside, and Redwood in the luggage office involved in some technical obscurity about his ammunition.",
-    "title": "The Food of the Gods and How It Came to Earth",
-    "author": "Wells, H. G. (Herbert George), 1866-1946",
-    "gutenbergReference": "11696",
-    "hash": "d1c96d41a645711cb4f40ca6a71d7f26906d1565fe740b5ab422b06485cad0af"
+    "quoteLast": ".",
+    "title": "Star-Dust: A Story of an American Girl",
+    "author": "Hurst, Fannie, 1889-1968",
+    "gutenbergReference": "9858",
+    "hash": "7082ea8a58f391bf328c27c7b1d2b792420a02c9234009679816456a9941a012"
   },
   {
     "time": "15:05",
-    "quoteFirst": "As it is not likely to last long he'll be gone in a few moments. Have you the right time about you? What do you make it? ",
+    "quoteFirst": "",
     "quoteTime": "Five minutes past three",
-    "quoteLast": " by post office time? The result ought to be here at any moment. Ah, I thought so. Just keep your eye closely upon Chaffey.\"",
-    "title": "Hard Pressed",
-    "author": "White, Fred M. (Fred Merrick), 1859-1935",
-    "gutenbergReference": "33512",
-    "hash": "e9135ab615b74ea7afafd6f91bf2d61b113dab102557ea92c9e9979724a0a425"
+    "quoteLast": " at the Paddington station, and all the bustle and confusion of a train just in. Gerald Yorke stood on the platform, welcoming a pretty little fair-haired woman, whose unmeaning doll's face was given to dimple with smiles one minute, and to pout the next.",
+    "title": "Roland Yorke\nA Sequel to \"The Channings\"",
+    "author": "Wood, Henry, Mrs., 1814-1887",
+    "gutenbergReference": "58086",
+    "hash": "dd6d0917bd45e6829232c669409f0dd5ffcf240708025be6f74c28ec83d8742c"
   }
 ]

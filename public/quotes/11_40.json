@@ -1,43 +1,123 @@
 [
   {
     "time": "11:40",
-    "quoteFirst": "The third act takes place at ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": " on the same night.",
-    "title": "The Return of Peter Grimm",
-    "author": "Belasco, David, 1853-1931; Moses, Montrose Jonas, 1878-1934 [Editor]",
-    "gutenbergReference": "13319",
-    "hash": "a0b0015dfaf3c23cb7705778fbd060b3506ea28f3398213ccd2e93f3cef8e2f0"
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty minutes to twelve",
+    "quoteLast": "! and we are now entering the creek,\" he whispered to me.",
+    "title": "The Congo Rovers: A Story of the Slave Squadron",
+    "author": "Collingwood, Harry, 1851-1922; Schönberg, John [Illustrator]",
+    "gutenbergReference": "21060",
+    "hash": "32246c0953c7c27c0f5b8ad743a15cef7b99183fe84fea262ed1f21452d33558"
   },
   {
     "time": "11:40",
-    "quoteFirst": "‘About ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": ".’",
-    "title": "Madame Midas",
-    "author": "Hume, Fergus, 1859-1932",
-    "gutenbergReference": "4946",
-    "hash": "040eb6ad941e701bda0e87791e8bb5862e608bdd3af94a5d25932df9d936875b"
+    "quoteFirst": "“",
+    "quoteTime": "Twenty minutes to twelve",
+    "quoteLast": ",” said Sandy, at the end of what seemed like an eternity.",
+    "title": "Dick Kent with the Malemute Mail",
+    "author": "Oblinger, M. M. (Milo Milton), 1900-",
+    "gutenbergReference": "52385",
+    "hash": "211ad182e99af0c2e7079d8872022eb1f3fd2dd68626d8795f3894bd0821bb5c"
   },
   {
     "time": "11:40",
-    "quoteFirst": "La Bissonnière thereupon turned to Simon and began to question him: 'You have told us that you came home at ",
+    "quoteFirst": "\"The letter finished, I replaced it in its envelope and turned my attention to the manuscript. When I began to read, the hands of the clock upon the chimneypiece stood at ",
     "quoteTime": "twenty minutes to twelve",
-    "quoteLast": ", and that the whole house then seemed to you to be perfectly quiet. Your wife was asleep----'",
-    "title": "Truth [Vérité]",
-    "author": "Zola, Émile, 1840-1902; Vizetelly, Ernest Alfred, 1853-1922 [Translator]",
-    "gutenbergReference": "55849",
-    "hash": "5cebe72d8ceac72bcc7afa6931b4842d1bf66dca8495b130ca53e1bafae0ebcd"
+    "quoteLast": ", and they had reached a quarter past five before I had completed my task. All that time I read on without stopping, filled with amazement at the story my poor friend had to tell, and consumed with a great sorrow that his brilliant career should have terminated in such an untoward manner.",
+    "title": "Pharos, The Egyptian: A Romance",
+    "author": "Boothby, Guy, 1867-1905",
+    "gutenbergReference": "33610",
+    "hash": "183d01d919180064ef1b733cf3ab8374c41253589f3052b79c30b41aaf42c40b"
   },
   {
     "time": "11:40",
-    "quoteFirst": "The inhabitants of these villages were mostly Fellatas, who take care of Yarro’s cattle. The road very winding, diversified by gentle hill and dale; the soil red clay and gravel, with rocks and stones here and there, of a gritty sandstone, with large square pebbles of quartz. At ",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty minutes to twelve",
+    "quoteLast": ", sir.\"",
+    "title": "In Quest of Gold; Or, Under the Whanga Falls",
+    "author": "St. Johnston, Alfred, 1858?-1891; Browne, Gordon, 1858-1932 [Illustrator]",
+    "gutenbergReference": "42829",
+    "hash": "2060e527e37fc383535168dc62060987c7d17fe63878f409573aa875ec317ea3"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes to twelve",
+    "quoteLast": " the silence of the night was broken by three sharp strokes on the gong sounding from the crow’s nest—a signal for something right ahead; while almost simultaneously came a voice through the telephone from the look-out announcing the presence of ice. There was a kind of haze in front of the ship the colour of the sea, but nothing could be distinguished from the bridge. Mr.",
+    "title": "Titanic",
+    "author": "Young, Filson, 1876-1938",
+    "gutenbergReference": "31992",
+    "hash": "27230d32b2d9e8cbe6985f1578d318881405dd2a66e49a165ce3495ad3750d50"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "Not every impression is attended to that is made on the retina, and unless we do attend we cannot, properly speaking, be said to see. Walking across to college one day, I was startled by seeing on the face of a clock in my way that it was ten minutes to twelve, whereas I generally passed that spot about ",
+    "quoteTime": "twenty minutes to twelve",
+    "quoteLast": ". I hurried on, fearing to be late, and on my arrival found myself in very good time. On my way back, passing the clock again, I looked up to see how much it was fast.",
+    "title": "Logic, Inductive and Deductive",
+    "author": "Minto, William, 1845-1893",
+    "gutenbergReference": "31796",
+    "hash": "d6010b70add4e1329d44ac154bb49c3250d41008fb6176fcf0f8a5d7fa13acdd"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "At ",
     "quoteTime": "11.40 A.M.",
-    "quoteLast": " halted at the village of Bonaga, where I got a good house; and I found Yarro had sent forward two goats and a large quantity of yams, which I shared out to the carriers of the baggage. The day was excessively hot, and it was late before all the baggage came up.",
-    "title": "Journal of a second expedition into the interior of Africa, from the Bight of Benin to Soccatoo",
-    "author": "Clapperton, Hugh, 1788-1827; Salamé, Abraham V. [Contributor]; Barrow, John, Sir, 1764-1848 [Contributor]; Clapperton, Samuel [Contributor]; Lander, Richard, 1804-1834 [Contributor]",
-    "gutenbergReference": "71961",
-    "hash": "255d7ff07736e107aa4ad0d75cc7f7a5be8520c97eb6d02091c3a12632546679"
+    "quoteLast": ", Mr. James gave orders to haul in the lines attaching the boat to the shore; and a gun-shot at departing announced to the numerous spectators that the \"Marguerite\" was on the point to set out for her unusual, but most interesting trip.",
+    "title": "By Water to the Columbian Exposition",
+    "author": "Wisthaler, Johanna Sara, 1868-",
+    "gutenbergReference": "9408",
+    "hash": "b8c24c7852bbca5d96f2d0bfb968ccb86914814f74bec43ab72d543f506766b2"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty minutes to twelve",
+    "quoteLast": ",\" answered Tom.",
+    "title": "The New Boy at Hilltop, and Other Stories",
+    "author": "Barbour, Ralph Henry, 1870-1944",
+    "gutenbergReference": "6487",
+    "hash": "463e6c0b473547542ba0ae6845d7deb32066500c46afe62eff86b8991ecaa2dc"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "Oldenbourg.[332] Arranged various things. At ",
+    "quoteTime": "20 minutes to 12",
+    "quoteLast": " came my kind, good friend Lord Melbourne and stayed till ½ p. 1. I am quite sorry to think I shall not see him till next Monday, when he comes down to me at Windsor, for I am so fond of him, and his conversations do me much good; he is such a thoroughly straightforward, disinterested, excellent and kindhearted man.",
+    "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
+    "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
+    "gutenbergReference": "75138",
+    "hash": "e45847f1bff3450a65e687b2c0f12aa83728d3377690aa55b34edd9d1ab75674"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "In my Note on the Ancient Mexican Calendar System, communicated to the International Congress of Americanists at Stockholm, in 1894, I stated certain historical and astronomical facts which showed that the New Cycle, which began in 1507 with the year Acatl, had commenced on March 14th three days after the vernal equinox and that this delay had obviously been intentional, in order to wait for the new moon, which fell on March 13th at ",
+    "quoteTime": "11.40 A. M.",
+    "quoteLast": ", and the planet Venus, “which was possibly visible both as morning and evening star between March 14th and 18th.” The above facts, which have remained unchallenged since their publication, afford an insight into the astronomical attainments of the sun-priests and moon and star-priests and show an evident desire to begin a new era at a favorable time, when there was a conjunction of the heavenly bodies.",
+    "title": "The Fundamental Principles of Old and New World Civilizations\r\nA Comparative Research Based on a Study of the Ancient Mexican Religious, Sociological, and Calendrical Systems",
+    "author": "Nuttall, Zelia, 1858-1933",
+    "gutenbergReference": "32066",
+    "hash": "e0d85ae507f863e9d1c530d1d737bd4c4862a82e01ea7f9697bd42f4595389be"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "In my Note on the Ancient Mexican Calendar System, communicated to the International Congress of Americanists at Stockholm, in 1894, I stated certain historical and astronomical facts which showed that the New Cycle, which began in 1507 with the year Acatl, had commenced on March 14th three days after the vernal equinox and that this delay had obviously been intentional, in order to wait for the new moon, which fell on March 13th at ",
+    "quoteTime": "11.40 A. M.",
+    "quoteLast": ", and the planet Venus, “which was possibly visible both as morning and evening star between March 14th and 18th.” The above facts, which have remained unchallenged since their publication, afford an insight into the astronomical attainments of the sun-priests and moon and star-priests and show an evident desire to begin a new era at a favorable time, when there was a conjunction of the heavenly bodies.",
+    "title": "The Fundamental Principles of Old and New World Civilizations\r\nA Comparative Research Based on a Study of the Ancient Mexican Religious, Sociological, and Calendrical Systems",
+    "author": "Nuttall, Zelia, 1858-1933",
+    "gutenbergReference": "32066",
+    "hash": "e0d85ae507f863e9d1c530d1d737bd4c4862a82e01ea7f9697bd42f4595389be"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "The London mail is, naturally, the most important mail which leaves Bristol. In the course of the day fifty-five mail bags are forwarded, containing about 20,000 letters; the trains used being those leaving at 3.10 a.m., 7.50 a.m., 9.35 a.m., ",
+    "quoteTime": "11.40 a.m.",
+    "quoteLast": ", 12.13 p.m., 1.54 p.m., 3.0 p.m., 3.43 p.m., 4.45 p.m., 7.22 p.m., and 12.45 a.m. So numerous are the London and \"London forward\" letters in the evening, that three clerks are engaged from 5.0 p.m. to midnight in sorting them. In the opposite direction fifty mail bags are received from London daily, containing about 30,000 letters.",
+    "title": "The Bristol Royal Mail: Post, Telegraph, and Telephone",
+    "author": "Tombs, Robert Charles, 1842-1923",
+    "gutenbergReference": "34197",
+    "hash": "21aa946fe9255f1e71972a4d702086ef85e8488bea17a7e6a1c4290dca7b8f15"
   },
   {
     "time": "11:40",
@@ -51,152 +131,72 @@
   },
   {
     "time": "11:40",
-    "quoteFirst": "“At ",
-    "quoteTime": "11.40 A. M.",
-    "quoteLast": "”",
-    "title": "The Young Train Master",
-    "author": "Stevenson, Burton Egbert, 1872-1962; Goss, Henry [Illustrator]",
-    "gutenbergReference": "55880",
-    "hash": "2c876f3069be04147eee0c01a6fea3fedaa774eb7ad63673c4f8108ca0370aaf"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "PRETORIA, _April 19, 1902_, ",
-    "quoteTime": "11.40 A.M.",
-    "quoteLast": "",
-    "title": "South Africa and the Transvaal War, Vol. 7 (of 8)\r\nThe Guerilla War, from February 1901 to the Conclusion of Hostilities",
-    "author": "Creswicke, Louis",
-    "gutenbergReference": "47132",
-    "hash": "5139c312b09959037cec139e824c524e332ae8e950c4aec285761c23e883bba5"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "It was just ",
+    "quoteFirst": "At ",
     "quoteTime": "twenty minutes to twelve",
-    "quoteLast": " when they reached the mill.",
-    "title": "The Blower of Bubbles",
-    "author": "Baxter, Beverley, 1891-1964",
-    "gutenbergReference": "40501",
-    "hash": "4e758c8b10a62d7ebf27bbcc0e0ba29849bca18e722e83f586f760a2f0ae7916"
+    "quoteLast": ", Madame Danglars, tired of waiting, returned home. Women of a certain grade are like prosperous grisettes in one respect, they seldom return home after twelve o’clock.",
+    "title": "The Count of Monte Cristo",
+    "author": "Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888",
+    "gutenbergReference": "1184",
+    "hash": "473be4d5a9efcd36a08185eae61da026f7115b0137792d1e5bd6250e0050c6fe"
   },
   {
     "time": "11:40",
-    "quoteFirst": "",
-    "quoteTime": "11.40 a.m.",
-    "quoteLast": "--A pause for dinner, which is partaken like breakfast in bands. (For the outside labourers a different order is followed.)",
-    "title": "The Vagrancy Problem.\r\nThe Case for Measures of Restraint for Tramps, Loafers, and Unemployables: With a Study of Continental Detention Colonies and Labour Houses",
-    "author": "Dawson, William Harbutt, 1860-1948",
-    "gutenbergReference": "46904",
-    "hash": "69c24dc202fa05be9e1574231d4709768dd2ee1aea410e80f7dbc1aa74e761ef"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "At the same time a message reaches you from Sergeant Stearns, who has been out with a combat patrol to the south, that a regiment of the enemy’s cavalry was between Table Rock and Herman at half past two, and that a civilian had telephoned that an infantry regiment of the enemy was seen marching west through Hunterstown at ",
+    "quoteFirst": "\"'Look at that shop,' he said.  'It's ",
     "quoteTime": "twenty minutes to twelve",
-    "quoteLast": " that morning. You have no reenforcements at hand, but send your reserve of one battalion to prolong the right of your line to the bridge at Fidler, B-7.",
-    "title": "The English of military communications",
-    "author": "Ganoe, William Addleman, 1881-1966",
-    "gutenbergReference": "71741",
-    "hash": "184324297b7aa354e7aab7f069bcf19c256f8a037901a8130c5b64289e558c5b"
+    "quoteLast": ", and there's seven dozen geese hanging there that I'm willing to give away, and this fool asks me if I want to buy another.'",
+    "title": "Sketches in Lavender, Blue and Green",
+    "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+    "gutenbergReference": "2234",
+    "hash": "0f8c8911eaacd1d4dfced3916de2a74b9f91b2e14abca9f80a222cf4e9553de3"
   },
   {
     "time": "11:40",
-    "quoteFirst": "“80th day, ",
-    "quoteTime": "11.40 a.m.",
-    "quoteLast": ",” and waited.",
-    "title": "Around the World in Eighty Days",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "103",
-    "hash": "0e705997759af87f2446315e2bf12e537f678ee75b9ce4117d118202ad340514"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "The third act takes place at ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": " on the same night.",
-    "title": "The Return of Peter Grimm",
-    "author": "Belasco, David, 1853-1931; Moses, Montrose Jonas, 1878-1934 [Editor]",
-    "gutenbergReference": "13319",
-    "hash": "a0b0015dfaf3c23cb7705778fbd060b3506ea28f3398213ccd2e93f3cef8e2f0"
+    "quoteFirst": "[_Looking at his watch._] ",
+    "quoteTime": "Twenty minutes to twelve",
+    "quoteLast": ".",
+    "title": "The Gay Lord Quex: A Comedy in Four Acts",
+    "author": "Pinero, Arthur Wing, 1855-1934",
+    "gutenbergReference": "15744",
+    "hash": "1eb4f809ce0d9c3c2e7c7f6f3cc7812d44e2a5ad15969cce9d61d587f747de12"
   },
   {
     "time": "11:40",
     "quoteFirst": "At ",
-    "quoteTime": "11:40 a.m.",
-    "quoteLast": ", Orville made the third flight, flying a steadier course than that of the two previous flights. All was going nicely when a sudden gust of wind from the side lifted the airplane higher by 12 to 15 feet, turning it sidewise in an alarming manner.",
-    "title": "Wright Brothers National Memorial, North Carolina",
-    "author": "East, Omega G.",
-    "gutenbergReference": "57725",
-    "hash": "f2bce3668f5d2ac0618fd94f68c3fb657edd3af7f67bfad6c3ac883042b6f08b"
+    "quoteTime": "11.40 a. m.",
+    "quoteLast": " the attack was launched in a heavy fog. It had been planned that the first stroke should take in the quarries of Haudromont, the height to the north of the ravine of La Dame, the intrenchment north of the farm of Thiaumont, the battery of La Fausse-Côte, and the ravine of Bazite.",
+    "title": "The Story of the Great War, Volume 6\r\nHistory of the European War from Official Sources",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
+    "gutenbergReference": "29385",
+    "hash": "49ace0addfa9a7b2f345c35f4d85dd0fccb172c4120f6a871d4a232468b5e7b5"
   },
   {
     "time": "11:40",
-    "quoteFirst": "He would not allow himself to dwell long upon these conjectures, maxims, and hopes, and at ",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty minutes to twelve",
+    "quoteLast": ", sir.\"",
+    "title": "In Quest of Gold; Or, Under the Whanga Falls",
+    "author": "St. Johnston, Alfred, 1858?-1891; Browne, Gordon, 1858-1932 [Illustrator]",
+    "gutenbergReference": "42829",
+    "hash": "2060e527e37fc383535168dc62060987c7d17fe63878f409573aa875ec317ea3"
+  },
+  {
+    "time": "11:40",
+    "quoteFirst": "At ",
     "quoteTime": "twenty minutes to twelve",
-    "quoteLast": " he again went softly to the stable, harnessed the horse, and lit the lamps; whence, taking the horse by the head, he led him with the covered car out of the yard to a spot by the roadside some quarter of a mile below the inn.",
-    "title": "The Return of the Native",
-    "author": "Hardy, Thomas, 1840-1928",
-    "gutenbergReference": "17500",
-    "hash": "97953e87d91d740b8deb66e087278a4df448f62de90b5442398edb73c9da64bc"
+    "quoteLast": " the silence of the night was broken by three sharp strokes on the gong sounding from the crow’s nest—a signal for something right ahead; while almost simultaneously came a voice through the telephone from the look-out announcing the presence of ice. There was a kind of haze in front of the ship the colour of the sea, but nothing could be distinguished from the bridge. Mr.",
+    "title": "Titanic",
+    "author": "Young, Filson, 1876-1938",
+    "gutenbergReference": "31992",
+    "hash": "27230d32b2d9e8cbe6985f1578d318881405dd2a66e49a165ce3495ad3750d50"
   },
   {
     "time": "11:40",
-    "quoteFirst": "At ",
-    "quoteTime": "11.40 A.M.",
-    "quoteLast": " he signalled that at 12.30 P.M. he would be in Lat. 54.24 N., Long. 2.0 E. Sir David Beatty, with the 1st Battle Cruiser Squadron and 1st Light Cruiser Squadron, was to the north-westward of the Battle Squadron, and the Commodore (T) some 60 miles to the southward, having been ordered by the Vice-Admiral of the 2nd Battle Squadron, at 10.28 A.M., to steer for a position in Lat. 54.20 N., Long. 1.",
-    "title": "The Grand Fleet, 1914-1916",
-    "author": "Jellicoe, John Rushworth, 1859-1935",
-    "gutenbergReference": "75323",
-    "hash": "04fee52cf27ea64adb1225bc0ec09a802b5d48d025cc785c6a2d285d614e7953"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "Mr. KELLERMAN. We arrived in Dallas, Love Field, at ",
-    "quoteTime": "11:40 a.m.",
-    "quoteLast": "",
-    "title": "Warren Commission (02 of 26): Hearings Vol. II (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44002",
-    "hash": "ae8c37f1313a5b6e0951868e65e57a26b22719e7cca66c0225025179246c9bd2"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "“I took the wheel at 10 o’clock, and Mr. Murdock, the first officer, took the watch. It was ",
-    "quoteTime": "20 minutes to 12",
-    "quoteLast": " and I was steering when there were the three gongs from the lookout, which indicated that some object was ahead.",
-    "title": "Sinking of the \"Titanic\"",
-    "author": "Mowbray, Jay Henry, 1869-1955",
-    "gutenbergReference": "73984",
-    "hash": "74a484a3f65e5936684e6bf252f2762fda83dbb9f7cd0def30e6fa662461395f"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "The testimony of Colin Barnhorst was taken at ",
-    "quoteTime": "11:40 a.m.",
-    "quoteLast": ", on April 1, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Albert E. Jenner, Jr.",
-    "title": "Warren Commission (10 of 26): Hearings Vol. X (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44010",
-    "hash": "b660116b7943eedf88a3b49ab15314c97712fe04ac6dcc8c9fb19f6c7ee9c0f1"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "As soon as the wounded had been attended to, the force advanced to the banks of the stream near Ulundi, whilst the cavalry swept the country beyond. Ulundi was fired at ",
-    "quoteTime": "11.40 A.M.",
-    "quoteLast": ", and the adjacent kraals shortly afterwards. At 2 P.M., the return march to the camp commenced. Every military kraal in the valley that had not previously been destroyed was in flames; and not a sign of the Zulu army was to be perceived.",
-    "title": "History of the Zulu war and its origin",
-    "author": "Colenso, Frances E. (Frances Ellen), 1849-1887; Durnford, Edward [Contributor]",
-    "gutenbergReference": "75320",
-    "hash": "e13dc221a092b0d00f55b7480b79f34c32a79ab434db419ea768dcd4e4932642"
-  },
-  {
-    "time": "11:40",
-    "quoteFirst": "At ",
-    "quoteTime": "11:40 a.m.",
-    "quoteLast": ", Orville made the third flight, flying a steadier course than that of the two previous flights. All was going nicely when a sudden gust of wind from the side lifted the airplane higher by 12 to 15 feet, turning it sidewise in an alarming manner.",
-    "title": "Wright Brothers National Memorial, North Carolina",
-    "author": "East, Omega G.",
-    "gutenbergReference": "57725",
-    "hash": "f2bce3668f5d2ac0618fd94f68c3fb657edd3af7f67bfad6c3ac883042b6f08b"
+    "quoteFirst": "La Bissonnière thereupon turned to Simon and began to question him: 'You have told us that you came home at ",
+    "quoteTime": "twenty minutes to twelve",
+    "quoteLast": ", and that the whole house then seemed to you to be perfectly quiet. Your wife was asleep----'",
+    "title": "Truth [Vérité]",
+    "author": "Zola, Émile, 1840-1902; Vizetelly, Ernest Alfred, 1853-1922 [Translator]",
+    "gutenbergReference": "55849",
+    "hash": "5cebe72d8ceac72bcc7afa6931b4842d1bf66dca8495b130ca53e1bafae0ebcd"
   }
 ]

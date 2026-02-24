@@ -1,33 +1,73 @@
 [
   {
     "time": "03:10",
-    "quoteFirst": "Mass., on June 13, 1908, that began singing at ",
-    "quoteTime": "3:10 a.m.",
-    "quoteLast": ", but this was standard time.",
-    "title": "Life histories of North American wood warblers, Part 1 (of 2)",
-    "author": "Bent, Arthur Cleveland, 1866-1954; Tyler, Winsor Marrett, 1876-1954 [Contributor]",
-    "gutenbergReference": "40100",
-    "hash": "d1c8110e8008475ea597173617d7a622f5e8a419ec117fa518a766d70e633e4d"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "I breathed a sigh of relief to find the room was empty, and glanced at my watch.  It was ",
+    "quoteFirst": "It is ",
     "quoteTime": "ten minutes past three",
-    "quoteLast": ".  Well, if Mouldy couldn't fix things in twenty minutes....  He walked to the open window and stood staring out on the Horse Guards Parade.",
-    "title": "An awfully big adventure",
-    "author": "Bartimeus, 1886-1967",
-    "gutenbergReference": "73819",
-    "hash": "b77d4533628344490078bd8d49511321dc120046b1d4efc8dc8ff103b700fe5d"
+    "quoteLast": ".    _Saõ tres horas e dés minutos._ The clock is going to strike.    _O relogio está para dar horas._ There is the clock striking.     _O relogio está dando horas.",
+    "title": "A new, practical and easy method of learning the Portuguese language",
+    "author": "Ahn, F. (Franz), 1796-1865",
+    "gutenbergReference": "74563",
+    "hash": "1e72bd973a2cd6290240376a6fa5d0386ad999ec202fd2074faac204d53cc773"
   },
   {
     "time": "03:10",
-    "quoteFirst": "30 p.m., the objective was captured, and at 5 a.m. a determined counter-attack was repulsed.  The capture of the _Vimy Ridge_ by Canadian troops was due to an assault launched some time before dawn on April 9, 1917: and the British victory of Messines (June 7, 1917) to an assault launched at ",
+    "quoteFirst": "'We arrived in Dutch waters about ",
     "quoteTime": "3.10 a.m.",
-    "quoteLast": "  In the latter case the Wytschaete-Messines position, \"one of the Germans' most important strongholds on the Western Front, consisted of forward defences with an elaborate and intricate system of well-wired trenches and strong points, forming a defensive belt over a mile in depth, and the Germans had omitted no precautions to make the position impregnable\" (Sir D. Haig's Dispatches).",
-    "title": "Lectures on Land Warfare; A tactical Manual for the Use of Infantry Officers\nAn Examination of the Principles Which Underlie the Art of Warfare, with Illustrations of the Principles by Examples Taken from Military History, from the Battle of Thermopylae, B.C. 480, to the Battle of the Sambre, November 1-11, 1918",
-    "author": "Anonymous",
-    "gutenbergReference": "23473",
-    "hash": "1af1fbe6a2a5cc5f81079696e311c138b70d7153d9067517eea5e8672920f3a6"
+    "quoteLast": " and anchored off the \"Hook\".'",
+    "title": "The War in the Air; Vol. 1\nThe Part played in the Great War by the Royal Air Force",
+    "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
+    "gutenbergReference": "28226",
+    "hash": "303aa6af3beffede81591640889b2cd81aefb1a3d76e698b5a787f5d9b577b7b"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "\"",
+    "quoteTime": "Ten minutes past three",
+    "quoteLast": ",\" she murmured. \"Another five hours, and they will pass.\"",
+    "title": "The Monomaniac (La bête humaine)",
+    "author": "Zola, Émile, 1840-1902; Vizetelly, Edward [Translator]",
+    "gutenbergReference": "57038",
+    "hash": "c27a403d9a3cfbaa471983c649ecb5ca30a201a3a23e7c136464217d06f522bc"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "Yet though all her heart leaped forward, it did not accelerate her actual movements; the four-wheeler also was rather slow, and it was some ",
+    "quoteTime": "ten minutes after three",
+    "quoteLast": " when she arrived at the door of the studio in the King's Road. Just beyond it was drawn up a motor-car, beside which stood a footman.",
+    "title": "The Angel of Pain",
+    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
+    "gutenbergReference": "44210",
+    "hash": "4fd79e9a5de116e8544197b8a85de8436bc68990f6d6d826149f89e5c2df125a"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": " in a large rather confused hat with a black bird and white feathers Mrs. Trenchard was seated waiting in the drawing-room.",
+    "title": "The Green Mirror: A Quiet Story",
+    "author": "Walpole, Hugh, 1884-1941",
+    "gutenbergReference": "60327",
+    "hash": "fa72aa239517b7fd242f6d268665f344be495edf10fb58a04d9fadac2f61b12d"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "_Nash (E.)_ L.H.--Four *Nightjars at 2.10 A.M., one killed; fifteen to twenty *Common Buntings from 2.15 to 3 A.M., eight killed; fifty to sixty *Common Whitethroats from 2.15 to 3 A.M., twenty-four killed; twenty to thirty *Willow Wrens from 2.20 to 3.20 A.M., seventeen killed; six young *Cuckoos at 3 A.M., two killed; fourteen House Sparrows and one Robin killed at 3 A.M. thirty to forty Wheatears at ",
+    "quoteTime": "3.10 A.M.",
+    "quoteLast": ", two killed; three Blackbirds from 3 to 3.15 A.M., one killed. Mr H. Nicholas says that on the 3d \"there was an enormous arrival of small birds, the greatest number ever seen here at any one time.",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1886. Eighth Report\r\n(Vol. II, No. 3.)",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "66032",
+    "hash": "36dc8c6d162e3d3dd95282b1e34050afab20331157a36f416d3d8ba6665da872"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "Zero hour was fixed for ",
+    "quoteTime": "3.10 a.m.",
+    "quoteLast": " and tanks were timed to leave their starting-line at 3.2 a.m. under cover of artillery harassing fire, which had been carried out on previous mornings in order to accustom the enemy to it. This fire lasted seven minutes, then a pause of one minute occurred, to be followed by barrage fire on the enemy’s front line for four minutes.",
+    "title": "Tanks in the Great War, 1914-1918",
+    "author": "Fuller, J. F. C. (John Frederick Charles), 1878-1966",
+    "gutenbergReference": "49808",
+    "hash": "a2ad6a12c5978640be8ba7aa5fb115677d25e1c2100406a13cc7190412a870b0"
   },
   {
     "time": "03:10",
@@ -41,6 +81,66 @@
   },
   {
     "time": "03:10",
+    "quoteFirst": "The Bishop had entered Viviette's room at ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": ".  The long hand of the hall clock lay level at forty-five minutes past when the knob of the door moved, and he came out.  Louis met him where the passage joined the hall.",
+    "title": "Two on a Tower",
+    "author": "Hardy, Thomas, 1840-1928",
+    "gutenbergReference": "3146",
+    "hash": "402250658a9b9cc6d3856d4464175305b76c0541c3a21d9920a8842c721048dc"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "It was eight minutes to three when the Arabs made their first rush, and it was just ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": " when the enemy was finally repelled and the bugle sounded \"Cease firing.\"  Yet into these pregnant eighteen minutes all that we have described, and a vast deal more, was crowded.",
+    "title": "Blue Lights: Hot Work in the Soudan",
+    "author": "Ballantyne, R. M. (Robert Michael), 1825-1894",
+    "gutenbergReference": "21719",
+    "hash": "d7980b0ab7516b7176cc88376075b2ac516a07a2f61651a28fee708dce9bc5ed"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "“At ",
+    "quoteTime": "3.10 a.m.",
+    "quoteLast": " precisely, the floor, walls and ceiling began to rock furiously, and we realised that the Australian tunnellers in Marshall Walk had not boasted idly when they told us last November that their mine under Hill 60 would one day stagger humanity. A moment later, another big mine went up at St. Eloi, and at the same time the most wonderful bombardment there has ever been known was let loose.",
+    "title": "The History of the Prince of Wales' Civil Service Rifles",
+    "author": "Anonymous",
+    "gutenbergReference": "51387",
+    "hash": "8a19ec4b1c840ca951122ae5e6468f2c53d1a247331165fd3ca58bddbaf88e81"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "It was eight minutes to three when the Arabs made their first rush, and it was just ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": " when the enemy was finally repelled and the bugle sounded \"Cease firing.\"  Yet into these pregnant eighteen minutes all that we have described, and a vast deal more, was crowded.",
+    "title": "Blue Lights: Hot Work in the Soudan",
+    "author": "Ballantyne, R. M. (Robert Michael), 1825-1894",
+    "gutenbergReference": "21719",
+    "hash": "d7980b0ab7516b7176cc88376075b2ac516a07a2f61651a28fee708dce9bc5ed"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "It was not until the morning of Friday, May 13, that the comet once more deigned to reveal itself to the straining eyes of the lonely watcher on the tower. The first glimpse was obtained at ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": ". The comet then resembled a faint white streak drifting in the sky. A minute or so later the planet Venus came into view, gaining in brilliancy as it rose above the mists near the horizon.",
+    "title": "The romance of comets",
+    "author": "Proctor, Mary, 1862-1957",
+    "gutenbergReference": "75545",
+    "hash": "7dc720ef49234622b6d6f2cf4f058f8483e2e641f4046faf81596182336d575b"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "George tore the note into fragments and flung them into the paper-basket. It was ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": ". Glad of any excuse to be out of business and its cares, he hastened things away in his room, and left it. There were moments when George was tempted heartily to wish himself out of it for good, safe in some unapproachable island, too remote from civilization to be visited by the world.",
+    "title": "The Shadow of Ashlydyat",
+    "author": "Wood, Henry, Mrs., 1814-1887",
+    "gutenbergReference": "42200",
+    "hash": "115f192927e016847bf8ca6d500543c5949e7792853e7d97b54c681554c8b7cf"
+  },
+  {
+    "time": "03:10",
     "quoteFirst": "The fire of the Kearsarge being again reserved, boats were lowered and an officer in one of them came alongside at ten minutes past twelve o’clock and surrendered the Alabama. Six officers and sixty-four men were brought on board the Kearsarge. At ",
     "quoteTime": "ten minutes past three",
     "quoteLast": " o’clock the Kearsarge let go her anchor in seven fathoms water.",
@@ -51,152 +151,52 @@
   },
   {
     "time": "03:10",
-    "quoteFirst": "Mass., on June 13, 1908, that began singing at ",
-    "quoteTime": "3:10 a.m.",
-    "quoteLast": ", but this was standard time.",
-    "title": "Life histories of North American wood warblers, Part 1 (of 2)",
-    "author": "Bent, Arthur Cleveland, 1866-1954; Tyler, Winsor Marrett, 1876-1954 [Contributor]",
-    "gutenbergReference": "40100",
-    "hash": "d1c8110e8008475ea597173617d7a622f5e8a419ec117fa518a766d70e633e4d"
+    "quoteFirst": "The fire of the Kearsarge being again reserved, boats were lowered and an officer in one of them came alongside at ten minutes past twelve o’clock and surrendered the Alabama. Six officers and sixty-four men were brought on board the Kearsarge. At ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": " o’clock the Kearsarge let go her anchor in seven fathoms water.",
+    "title": "Pictorial history of the war for the Union, volume 2 (of 2)",
+    "author": "Stephens, Ann S. (Ann Sophia), 1810-1886",
+    "gutenbergReference": "74187",
+    "hash": "aa0607020be8aa33298efda5fb6dc0fee97d7bd4e7b9b0c7f3e781b3732bc93d"
   },
   {
     "time": "03:10",
-    "quoteFirst": "But her punctuality was wasted. ",
-    "quoteTime": "Ten minutes past three",
-    "quoteLast": " by Lambeth parish church, and no Mr. Ackroyd.",
-    "title": "Thyrza",
-    "author": "Gissing, George, 1857-1903",
-    "gutenbergReference": "4302",
-    "hash": "a70bf5e909d364e1af268c0dd8b531b6c69b49d15993e57ebd03abdfc053fa9b"
+    "quoteFirst": "The Bishop had entered Viviette's room at ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": ".  The long hand of the hall clock lay level at forty-five minutes past when the knob of the door moved, and he came out.  Louis met him where the passage joined the hall.",
+    "title": "Two on a Tower",
+    "author": "Hardy, Thomas, 1840-1928",
+    "gutenbergReference": "3146",
+    "hash": "402250658a9b9cc6d3856d4464175305b76c0541c3a21d9920a8842c721048dc"
   },
   {
     "time": "03:10",
-    "quoteFirst": "“Zero for the great 2nd Army attack was at ",
+    "quoteFirst": ") _Skerries Rock_ L.H., Thrushes and Starlings flying round lantern at 4.50 A.M. (W, 4; clear.) _Holyhead Breakwater_ L.H., Larks at 10 A.M. going S.E. (W.S.W., 4; cloudy.) _Nash_ (_E._) L.H. Gold crests killed at ",
+    "quoteTime": "3.10 A.M.",
+    "quoteLast": "",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "66152",
+    "hash": "0845d52604dd9fee1d3b0b0f53f93e80a0225b7f26d038b8500b672e9cdfadbe"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "November_. _Received_ ",
     "quoteTime": "3.10 a.m.",
-    "quoteLast": " on the 7th of June, but our Battalion took no part in the first phase. An hour before zero, all Company Commanders were to report to Battalion Headquarters to be on the spot if anything went wrong with the first phase. Battalion Headquarters was in a smelly, wet dug-out in West Terrace.",
-    "title": "The History of the Prince of Wales' Civil Service Rifles",
-    "author": "Anonymous",
-    "gutenbergReference": "51387",
-    "hash": "131df390c11bd30a95d99c6cb18101ff45e3560815e2adcf051067878ff9cd62"
+    "quoteLast": ", _3rd November_.)",
+    "title": "The World Crisis, Volume 1 (of 6)",
+    "author": "Churchill, Winston, 1874-1965",
+    "gutenbergReference": "59794",
+    "hash": "5ea2aaf909041abdd6cef19715a98842e335e0e024086cdb98dc59a8b3a90bd7"
   },
   {
     "time": "03:10",
-    "quoteFirst": "\"Thank you, Cousin Adolf,\" she said eagerly. \"I'll hurry right back; I'll be here by ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": ".\"",
-    "title": "Through the Wall",
-    "author": "Moffett, Cleveland, 1863-1926",
-    "gutenbergReference": "11373",
-    "hash": "122394e2f1e1eec555b41136d52bf49cef8e5ff5dc0c54dcdb133a572cd3e903"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "At ",
+    "quoteFirst": "(_November 9, 1914_, ",
     "quoteTime": "3.10 a.m.",
-    "quoteLast": " on June 7th the Battle of Messines opened with the most tremendous mine explosions and the most magnificent barrage that can be imagined. It was a lovely morning, and there was not a cloud in the sky.",
-    "title": "The History of the 2/6th (Rifle) Battalion, \"the King's\" (Liverpool Regiment) 1914-1919",
-    "author": "Wurtzburg, C. E. (Charles Edward), 1891-1952",
-    "gutenbergReference": "49875",
-    "hash": "88cbac7a8247464fbed3a1215dbd400b5190909aa70a7f665d2e07ae51795b0b"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "Mac tugged his watch out of his pocket and looked at the dial by the light of the fire. “",
-    "quoteTime": "Ten minutes past three a. m.",
-    "quoteLast": ",” he announced.",
-    "title": "The Mystery Hunters at the Haunted Lodge",
-    "author": "Wyckoff, Capwell, 1903-1953",
-    "gutenbergReference": "47613",
-    "hash": "2d34320f377fa925506e78e446b948499bd3f8f63c2727472c2d7cfce8ac81d2"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "Saturdays, when he returned at ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": ", and spent his half holiday in the dining-room reading an early edition of the evening paper. Any paragraphs relating to Royalty were read aloud to his wife, who knew not only all the members of the English Royal Family by name, but also those dignitaries abroad who had the happiness to be connected with it in marriage.",
-    "title": "Salthaven",
-    "author": "Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]",
-    "gutenbergReference": "21930",
-    "hash": "4003fabde7fc8a11c12201bc08ae2ec7520ca618ebe7d913d3775799c041e007"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "I breathed a sigh of relief to find the room was empty, and glanced at my watch.  It was ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": ".  Well, if Mouldy couldn't fix things in twenty minutes....  He walked to the open window and stood staring out on the Horse Guards Parade.",
-    "title": "An awfully big adventure",
-    "author": "Bartimeus, 1886-1967",
-    "gutenbergReference": "73819",
-    "hash": "b77d4533628344490078bd8d49511321dc120046b1d4efc8dc8ff103b700fe5d"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "Saturdays, when he returned at ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": ", and spent his half holiday in the dining-room reading an early edition of the evening paper. Any paragraphs relating to Royalty were read aloud to his wife, who knew not only all the members of the English Royal Family by name, but also those dignitaries abroad who had the happiness to be connected with it in marriage.",
-    "title": "Salthaven",
-    "author": "Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]",
-    "gutenbergReference": "21930",
-    "hash": "4003fabde7fc8a11c12201bc08ae2ec7520ca618ebe7d913d3775799c041e007"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "On June 7, about an hour before dawn, at ",
-    "quoteTime": "3.10 a.m.",
-    "quoteLast": ", the sky was lit up by an intense light, while a series of terrific explosions were heard; nineteen mines, some of whose galleries had taken more than a year to bore, exploded along the enemy positions.",
-    "title": "Ypres and the Battles of Ypres",
-    "author": "Pneu Michelin (Firm) [Publisher]",
-    "gutenbergReference": "36213",
-    "hash": "73f572c98ec8b04694e98bff20e6416dfa0f48a5c6274a239689bb3fbb07fa87"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "Neville Shandon look in that door that I heard your car leaving, Mr. Shandon,” Stenness volunteered. “That would be about ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": ".”",
-    "title": "Murder in the maze",
-    "author": "Connington, J. J., 1880-1947",
-    "gutenbergReference": "71351",
-    "hash": "9821868214e2c8cf85f1f421ccf8c411f14dd004df5051ddb846bb4108044bd5"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": " in the morning we left Madame Hutin's house.",
-    "title": "My Memoirs, Vol. IV, 1830 to 1831",
-    "author": "Dumas, Alexandre, 1802-1870; Waller, E. M. (Emily Mary) [Translator]",
-    "gutenbergReference": "50630",
-    "hash": "f475ec1f1ff4dae34a4b383fdc21c2732223c238643db63060d42f0422e6b3e7"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "It was ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": ". On the path by the river near Fisher’s Lock stood Mr. March with a red carnation in his button hole. Concealed in a tree just above his head were Ginger, Douglas, William and Joan.",
-    "title": "Still—William",
-    "author": "Crompton, Richmal, 1890-1969; Henry, Thomas, 1879-1962 [Illustrator]",
-    "gutenbergReference": "67238",
-    "hash": "14383f2ad31d48f27546f15a9d8dc84d504c52b83cc42524bf3d3d556e9f8596"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": " she awakened her. Miss Merrien sat up with a sigh.",
-    "title": "Patience Sparhawk and Her Times: A Novel",
-    "author": "Atherton, Gertrude Franklin Horn, 1857-1948",
-    "gutenbergReference": "53009",
-    "hash": "a2062bb3f308651deb245b9606f8c1c00212f5634304986b411e72d008933bb3"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "Mac tugged his watch out of his pocket and looked at the dial by the light of the fire. “",
-    "quoteTime": "Ten minutes past three a. m.",
-    "quoteLast": ",” he announced.",
-    "title": "The Mystery Hunters at the Haunted Lodge",
-    "author": "Wyckoff, Capwell, 1903-1953",
-    "gutenbergReference": "47613",
-    "hash": "2d34320f377fa925506e78e446b948499bd3f8f63c2727472c2d7cfce8ac81d2"
+    "quoteLast": ")",
+    "title": "The World Crisis, Volume 1 (of 6)",
+    "author": "Churchill, Winston, 1874-1965",
+    "gutenbergReference": "59794",
+    "hash": "300553dfc7125cdf1e25f79182cfbb98b3c7b6d0fb7b3e686e540dffda01c485"
   }
 ]

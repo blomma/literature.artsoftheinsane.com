@@ -1,6 +1,16 @@
 [
   {
     "time": "11:21",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty-one minutes past eleven",
+    "quoteLast": " by the clock over the elevator-doors when Joel Cairo came in from the street. His forehead was bandaged.",
+    "title": "The Maltese falcon",
+    "author": "Hammett, Dashiell, 1894-1961",
+    "gutenbergReference": "77600",
+    "hash": "f027334ab9d8789829ad39ac1760f173b3c1c232648851eb61ce41841dbc58af"
+  },
+  {
+    "time": "11:21",
     "quoteFirst": "Mr. HUBERT. “11:21,” I beg your pardon. Then the column immediately below that, “Time received,” “C--",
     "quoteTime": "11:21 a.m.",
     "quoteLast": ", November 24th.”",

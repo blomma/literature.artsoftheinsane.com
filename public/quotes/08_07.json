@@ -1,6 +1,16 @@
 [
   {
     "time": "08:07",
+    "quoteFirst": "6:05 A. M.—Admiral Peoples from Astoria. ",
+    "quoteTime": "8:07 A. M.",
+    "quoteLast": "—Caddopeak from San Pedro.",
+    "title": "The Maltese falcon",
+    "author": "Hammett, Dashiell, 1894-1961",
+    "gutenbergReference": "77600",
+    "hash": "15a5340bf1376bef264cd4b58f5882c03732aa4a43bc8578b0b8775392e6ed50"
+  },
+  {
+    "time": "08:07",
     "quoteFirst": "Her feet feeling as if they were made of lead, she ran for a taxi, tumbled in and gave a frantic order. As the taxi started Betty glanced at her wrist watch. ",
     "quoteTime": "Seven minutes past eight",
     "quoteLast": "!",

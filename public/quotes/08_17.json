@@ -41,6 +41,16 @@
   },
   {
     "time": "08:17",
+    "quoteFirst": "8:07 A. M.—Caddopeak from San Pedro. ",
+    "quoteTime": "8:17 A. M.",
+    "quoteLast": "—Silverado from San Pedro.",
+    "title": "The Maltese falcon",
+    "author": "Hammett, Dashiell, 1894-1961",
+    "gutenbergReference": "77600",
+    "hash": "38f705af6a2824cde33e22ad7ef84e1de77044341e13446ee4a601d7d2616243"
+  },
+  {
+    "time": "08:17",
     "quoteFirst": "\"Chronometer, ",
     "quoteTime": "8.17 a.m.",
     "quoteLast": "; barometer, 297 in.; thermometer, 6° (43° F.). Direction, E.S.E.\"",

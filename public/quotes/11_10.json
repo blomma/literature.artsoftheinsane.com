@@ -1,23 +1,123 @@
 [
   {
     "time": "11:10",
-    "quoteFirst": "At ",
+    "quoteFirst": "On these mornings you will form in line in the assembly room with the other boys of your section and march to the schoolrooms, which are on this floor at the opposite side of the building. When school is dismissed you are to go directly to your departments. At ",
     "quoteTime": "ten minutes past eleven",
-    "quoteLast": " our light cavalry brigade advanced.",
-    "title": "Ten Englishmen of the Nineteenth Century",
-    "author": "Joy, James Richard, 1863-1957",
-    "gutenbergReference": "5876",
-    "hash": "f6be67e0c04b6dd050ad8e0f157ca9e7b85b7649f799980b01634f6bcb2364ba"
+    "quoteLast": " every boy must be in his department, or receive a demerit for loitering. That is, unless he has an exceptionally good excuse.",
+    "title": "Harry Harding—Messenger \"45\"",
+    "author": "Raymond, Alfred",
+    "gutenbergReference": "52578",
+    "hash": "dc20d30fc1d6caaeab89737c3c77860ee4ebf15b2fa187bce5711e172c7e3e0f"
   },
   {
     "time": "11:10",
-    "quoteFirst": "Her guess regarding their speedy arrival at the bus stand was an accurate one. It was precisely ",
+    "quoteFirst": "",
+    "quoteTime": "Ten minutes after eleven",
+    "quoteLast": "!",
+    "title": "A Woman Intervenes",
+    "author": "Barr, Robert, 1850-1912",
+    "gutenbergReference": "9379",
+    "hash": "1324b83f5e800505805ca6e66d4bfbddb337755a9a7f7be7277617d9d7ac69a5"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "Singing was from ",
     "quoteTime": "ten minutes past eleven",
-    "quoteLast": " when Robin brought the car to a stop before the drug store. The rain was still driving down in misty sheets as the trio emerged from the automobile and made a frantic dash across the sidewalk to the shelter of the drug store.",
-    "title": "Marjorie Dean, Marvelous Manager",
-    "author": "Chase, Josephine, -1931",
-    "gutenbergReference": "53213",
-    "hash": "e57757b408b1594b3b7f81294d2a550eb31a95d126349ede98efbe32c5ef3bcd"
+    "quoteLast": " to twelve, and after that came science, with Miss Drummond, until one, both classes being held in the lecture-hall, so that there was no further lesson with Miss Webb that morning. A hockey match was played in the afternoon, which caused such excitement that the affair of the clock was forgotten for the time being; but it returned only too forcibly to the girls' minds, as they walked in to evening preparation.",
+    "title": "A Fourth Form Friendship: A School Story",
+    "author": "Brazil, Angela, 1869-1947; Wiles, Frank, 1881-1963 [Illustrator]",
+    "gutenbergReference": "32524",
+    "hash": "d47662272d74e82ac8e9bdf1c4ac68cc0a128cddb383e2b96ec19cff6ea4c9e4"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "I have allowed myself half an hour to reach St. Sava.  My skiff is waiting, moored at the foot of the cliff on the hither side, where the zigzag comes close to the water.  It is now ",
+    "quoteTime": "ten minutes past eleven",
+    "quoteLast": ".",
+    "title": "The Lady of the Shroud",
+    "author": "Stoker, Bram, 1847-1912",
+    "gutenbergReference": "3095",
+    "hash": "40e1e683b192081daf6031c1010d94dbb5a55fc64d1059ce81084a9ff020f3c2"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "I went down the street to my car and started the engine and kept it going to be ready while I watched. ",
+    "quoteTime": "Ten minutes past eleven",
+    "quoteLast": ", I saw a light in Win Scofield’s garage; a black car came out and a girl got into it. I waited until it was in the street and then, stepping on my gas, I charged up the road and gave that black car all I had.",
+    "title": "Keeban",
+    "author": "Balmer, Edwin, 1883-1959",
+    "gutenbergReference": "66114",
+    "hash": "0bff1800c6528a502aa8b017bc9691b0255096389c72fd5918ced690ab380180"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "The flagship fired five shots in return and hoisted a red flag under the ensign. The shots of the shore battery were dispersed, but some seemed to strike the ship. Shrapnel and projectile were fired. At ",
+    "quoteTime": "11.10 A.M.",
+    "quoteLast": " the _Vasco da Gama_ hauled down her flag and hoisted a white flag at the foremast and abandoned ship. A number of shots were then fired at the destroyers _Douro_ and _Guardiana_, which also struck their colors and hoisted white flags.",
+    "title": "The Corsair in the war zone",
+    "author": "Paine, Ralph Delahaye, 1871-1925",
+    "gutenbergReference": "72760",
+    "hash": "fbf890b78454a47ca5829d3915bc85308d3b34c615394b6511df2ef1d1355c70"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "I looked at the clock; it pointed to ",
+    "quoteTime": "ten minutes past eleven",
+    "quoteLast": ". At that hour, could I hope to meet Mrs. Van Brandt alone in the public street?",
+    "title": "The Two Destinies",
+    "author": "Collins, Wilkie, 1824-1889",
+    "gutenbergReference": "1624",
+    "hash": "b250518c295620e5a570291414b28d373f983ada3586d0afb36ee48a231a5b03"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "June 7: 9.40 a. m., 9.8 cc 2 per cent caffein given by mouth through stomach tube; 10 a. m., no symptoms; ",
+    "quoteTime": "11.10 a. m.",
+    "quoteLast": ", no urine passed, reflexes increased; 1 p. m., more sensitive than before; 4 p. m., increase of reflexes more marked, no urine passed; 4.45 p. m.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "hash": "bb91437a589636a0af3c96e51ce3a03b6b2357c533d91fe7b1ff796707fe3b87"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "\"PRINZSESSIN OTTILIE, September 28, ",
+    "quoteTime": "11:10 A. M.",
+    "quoteLast": " _Radio via Cherbourg._",
+    "title": "The Destroyer: A Tale of International Intrigue",
+    "author": "Stevenson, Burton Egbert, 1872-1962",
+    "gutenbergReference": "29629",
+    "hash": "b7494c6cc392c425f8c94b4b4236509bfa218e1fb6958a39b945355a3dc820f6"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "Old Angus pottered about, a huge Stilson wrench clutched in his hand. The others were invisible. Potter looked at his watch; it was ",
+    "quoteTime": "ten minutes past eleven",
+    "quoteLast": ". In a vague way he wondered if it were ten minutes past eleven on that same night or if years had intervened.",
+    "title": "The Highflyers",
+    "author": "Kelland, Clarence Budington, 1881-1964",
+    "gutenbergReference": "46252",
+    "hash": "4a7a99a08568d6f168e875f6af73b76620015f471f30bd6dd38211e9119a817a"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "\"Same time--",
+    "quoteTime": "ten minutes past eleven",
+    "quoteLast": "?\"",
+    "title": "The Reminiscences of Sir Henry Hawkins (Baron Brampton)",
+    "author": "Brampton, Henry Hawkins, Baron, 1817-1907; Harris, Richard, 1833-1906 [Editor]",
+    "gutenbergReference": "10392",
+    "hash": "8cf790209873c5902f8969cf3b3da9ee7922389af8fa71dcd1d2605f33a93d57"
+  },
+  {
+    "time": "11:10",
+    "quoteFirst": "17 Taube dropped bomb 9 A. M.; bombardment ",
+    "quoteTime": "11:10 A. M.",
+    "quoteLast": " to dawn, more than 200 shells at night, 2 killed, 9 wounded.",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "e528684ff4650472253c9eb87b12ff5a876ffbc28f01e3886ca1542d50cc1b40"
   },
   {
     "time": "11:10",
@@ -31,26 +131,6 @@
   },
   {
     "time": "11:10",
-    "quoteFirst": "Hildyard at ",
-    "quoteTime": "11.10 a.m.",
-    "quoteLast": ", and was immediately sent by him to Lieut.-Colonel Hamilton, commanding the 2nd Queen's, with instructions to pass it to Colonel Bullock, commanding the 2nd Devon on his right.",
-    "title": "History of the War in South Africa 1899-1902 v. 1 (of 4)\nCompiled by Direction of His Majesty's Government",
-    "author": "Great Britain. War Office; Maurice, John Frederick, 1841-1912 [Compiler]",
-    "gutenbergReference": "28158",
-    "hash": "1af127e33c5785a53ca3c02d10d33928c2b49b609160e33eaf0368fe21921697"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "_Mortlake to Putney, April 3, 1846, ",
-    "quoteTime": "11.10 a.m.",
-    "quoteLast": "_",
-    "title": "Boating",
-    "author": "Woodgate, Walter Bradford, 1842-1920; Dadd, Frank, 1851-1929 [Illustrator]",
-    "gutenbergReference": "37462",
-    "hash": "008e4b433b6813cc390e1e79b2712be1d69fb1c15569dfafe36c12480cd116f1"
-  },
-  {
-    "time": "11:10",
     "quoteFirst": "In a faltering voice he narrated the history of the evening: the merry dinner-party, the sound of the lively music upstairs (Minna’s mad tarantella), the angry words he had overheard on coming into his master’s study, the permission to go to bed, his last sight of the prisoner at ",
     "quoteTime": "ten minutes past eleven",
     "quoteLast": ", his after meeting with Mr. Hart in the bedroom at five minutes to twelve, when the latter had taken the ledger from his bedroom safe and gone downstairs again. Familiar as all these facts were to Irene, every fresh statement put them in a still more terrible light.",
@@ -61,33 +141,23 @@
   },
   {
     "time": "11:10",
-    "quoteFirst": "",
-    "quoteTime": "Ten minutes after eleven",
-    "quoteLast": "—why that would be only ten minutes after six in New York! How plainly he could picture the familiar scenes of rushing, bustling life back there! Crowds were now pouring into the subways and surface cars or climbing to the level of the \"L's.\" This was the third—the latest homeward wave.",
-    "title": "Time Telling through the Ages",
-    "author": "Brearley, Harry Chase, 1870-1940",
-    "gutenbergReference": "47928",
-    "hash": "00bf3f7f5d5299971cb76c065b737453cef33cc0d8e164fff1295e4f8a56268b"
+    "quoteFirst": "\"It is ",
+    "quoteTime": "ten minutes past eleven",
+    "quoteLast": ",\" she said. \"Students are not out of bed at ten minutes past eleven. Neither are candles burning. Miss Earle----\"",
+    "title": "The Story of Louie",
+    "author": "Onions, Oliver, 1873-1961",
+    "gutenbergReference": "37838",
+    "hash": "cb3e6caffd2c0b9a114d9edadddb1ab93fec1d6c2f1988f717d394ef47cea678"
   },
   {
     "time": "11:10",
-    "quoteFirst": "There were beautiful houses between trees. Day fine. Our grand transcontinental trip ended on Sunday, May 13. at ",
-    "quoteTime": "11:10 A.M.",
-    "quoteLast": " We passed through various arches in tunnels:—The Art Age, 75 W. 23 Street.",
-    "title": "The hero of the Filipinos",
-    "author": "Russell, Charles Edward, 1860-1941; Rodriguez, Eulogio Balan, 1893-1949; Rizal, José, 1861-1896 [Contributor]",
-    "gutenbergReference": "73848",
-    "hash": "e20268783359c29cbf0ad4923b1cdafb98a897d605e741828fd581590db5c9f8"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "He reads the telegram three times before he fully grasps its signification; and it is quite two minutes before it occurs to him to look at its date. 'Sent out at ",
-    "quoteTime": "11.10 A.M.",
-    "quoteLast": " Received at 11.35.' It has been lying waiting for him for fourteen hours and more. He reads it a fourth time. 'Come at once, and without a moment's delay, on receipt of this.",
-    "title": "Doctor Cupid: A Novel",
-    "author": "Broughton, Rhoda, 1840-1920",
-    "gutenbergReference": "35548",
-    "hash": "a58a6fa059b51c41e8f411c1e5b39382c1e1dd350a249affe09374798dde3c68"
+    "quoteFirst": "_Tuesday, 3rd May._— ... At ",
+    "quoteTime": "10 minutes past 11",
+    "quoteLast": " came _Lablache_ till 10 minutes past 12. He complained much of the cold weather, and said “qu’ils étaient tous enrhumés” and that they had all been very hoarse last night at a concert, except Rubini.",
+    "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
+    "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
+    "gutenbergReference": "75138",
+    "hash": "bbff782b74ff07108d9254571b4bad336ecccf4005f8bc5210eb41be7a5cb91f"
   },
   {
     "time": "11:10",
@@ -101,102 +171,32 @@
   },
   {
     "time": "11:10",
-    "quoteFirst": "“Last we have the evidence of old Poole, who, after entering the study on hearing Miss Hoode scream, immediately fled to fetch his dead master’s friend. He found Sir Arthur sitting with a book, his arm-chair pulled close up to the open window. This, since Miss Hoode entered the study at approximately ",
+    "quoteFirst": "The thing is very extraordinary. Where did the girl go? She walked out of the hotel, fully dressed, about ",
     "quoteTime": "ten minutes past eleven",
-    "quoteLast": ", was probably at 11.13 or thereabouts.",
-    "title": "The rasp",
-    "author": "MacDonald, Philip, 1901?-1980",
-    "gutenbergReference": "72462",
-    "hash": "20ef248d277668bb145d133cd9eb17726133a2a5ead74731f48647246f39ca46"
+    "quoteLast": ", and she was never seen again. The idea of suicide seems impossible. She was one of those energetic young women who are in love with life, and have not the faintest intention of quitting it.",
+    "title": "The Man in the Brown Suit",
+    "author": "Christie, Agatha, 1890-1976",
+    "gutenbergReference": "61168",
+    "hash": "7b6346f442ef96540eaec9df750b98367d1932ef22c80338a777213d1caaf35b"
   },
   {
     "time": "11:10",
-    "quoteFirst": "",
-    "quoteTime": "Ten minutes after eleven",
-    "quoteLast": "—why that would be only ten minutes after six in New York! How plainly he could picture the familiar scenes of rushing, bustling life back there! Crowds were now pouring into the subways and surface cars or climbing to the level of the \"L's.\" This was the third—the latest homeward wave.",
-    "title": "Time Telling through the Ages",
-    "author": "Brearley, Harry Chase, 1870-1940",
-    "gutenbergReference": "47928",
-    "hash": "00bf3f7f5d5299971cb76c065b737453cef33cc0d8e164fff1295e4f8a56268b"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "John Quincy looked at his watch; it was ",
+    "quoteFirst": "‘Well, then, at ",
     "quoteTime": "ten minutes past eleven",
-    "quoteLast": ". \"I'll be glad to, Charlie,\" he said.",
-    "title": "The house without a key",
-    "author": "Biggers, Earl Derr, 1884-1933",
-    "gutenbergReference": "73771",
-    "hash": "0f21c8cac4c1fc656dbc3cfd93cd0c4e763d53d4bc144144e52a24e073c27180"
+    "quoteLast": " look up at my window. If the answer be No, the shutters will be shut, and all dark; if the answer be Yes, the lamp shall be in the window.’",
+    "title": "Asphodel",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "75506",
+    "hash": "59e0e81c039bdfbce5ba2136eb732742157917b2e2084de38b816a06d5e9f1b7"
   },
   {
     "time": "11:10",
-    "quoteFirst": "Her guess regarding their speedy arrival at the bus stand was an accurate one. It was precisely ",
-    "quoteTime": "ten minutes past eleven",
-    "quoteLast": " when Robin brought the car to a stop before the drug store. The rain was still driving down in misty sheets as the trio emerged from the automobile and made a frantic dash across the sidewalk to the shelter of the drug store.",
-    "title": "Marjorie Dean, Marvelous Manager",
-    "author": "Chase, Josephine, -1931",
-    "gutenbergReference": "53213",
-    "hash": "e57757b408b1594b3b7f81294d2a550eb31a95d126349ede98efbe32c5ef3bcd"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "_Sent at ",
-    "quoteTime": "11.10 a.m.",
-    "quoteLast": "_: \"Have taken Morcourt and Bayonvillers and many additional prisoners and guns. We are nearing our second objective and have reached it in places.",
-    "title": "The Australian Victories in France in 1918",
-    "author": "Monash, John, Sir, 1865-1931",
-    "gutenbergReference": "51163",
-    "hash": "3f0bb40c6e70a770d9b95ba3b5a1e9db5c8ae19d7a175034bafb64396e242f12"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "",
-    "quoteTime": "11.10 a.m.",
-    "quoteLast": "—Came to surface and sighted oil right ahead, with three men swimming in it. Two were picked up, but the third sank before we could reach him. Dived.",
-    "title": "War in the Underseas",
-    "author": "Wheeler, Harold, 1877-",
-    "gutenbergReference": "63060",
-    "hash": "377cd2fa215152bf60d58358255639fbd94637342490c280fe596461ef6cec48"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes past eleven",
-    "quoteLast": ", our Light Cavalry brigade advanced.",
-    "title": "The battles of the world",
-    "author": "Borthwick, J. Douglas (John Douglas), 1831-1912",
-    "gutenbergReference": "60652",
-    "hash": "dc23d6726c0a68e1190667bc7aa0a084474a6fd08466962fbf0d6d65c0882f9d"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "Hildyard at ",
-    "quoteTime": "11.10 a.m.",
-    "quoteLast": ", and was immediately sent by him to Lieut.-Colonel Hamilton, commanding the 2nd Queen's, with instructions to pass it to Colonel Bullock, commanding the 2nd Devon on his right.",
-    "title": "History of the War in South Africa 1899-1902 v. 1 (of 4)\nCompiled by Direction of His Majesty's Government",
-    "author": "Great Britain. War Office; Maurice, John Frederick, 1841-1912 [Compiler]",
-    "gutenbergReference": "28158",
-    "hash": "1af127e33c5785a53ca3c02d10d33928c2b49b609160e33eaf0368fe21921697"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "She came about ",
-    "quoteTime": "ten minutes past eleven",
-    "quoteLast": ", with many expressions of regret at having kept me waiting. The timepiece at the house of her friend had broken its mainspring, or something of the sort, and with the carelessness of a woman she had forgotten to wind her watch the evening before.",
-    "title": "A New Sensation",
-    "author": "Ross, Albert, 1851-1916",
-    "gutenbergReference": "40937",
-    "hash": "5a3344cc351cd11ecd34283778bd65b9764b8baf74727f3002b0a1fab53ff056"
-  },
-  {
-    "time": "11:10",
-    "quoteFirst": "May 26: 10.05 a. m., 22 cc 2 per cent caffein (0.3 gram per kilo) injected subcutaneously; ",
-    "quoteTime": "11.10 a. m.",
-    "quoteLast": ", copious salivation, cat irritable, muscular stiffness present, but no tetanus; 11.45 a. m., cat restless, convulsions, attacks of short duration, no paralysis observed after the convulsions, pupils dilated; 4.45 p. m.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
-    "hash": "6dfc3cac385676624def6455d75db572917d2bb50a0a1e4d31fbf99e5b0dca7a"
+    "quoteFirst": "Utah, not far from the Great Salt Lake. At about ",
+    "quoteTime": "11:10 A.M.",
+    "quoteLast": " the man’s wife noticed something unusual in the sky. Stopping the car, the man observed about a dozen shiny, disklike objects “milling around the sky in a rough formation.",
+    "title": "The World of Flying Saucers: A Scientific Examination of a Major Myth of the Space Age",
+    "author": "Menzel, Donald H. (Donald Howard), 1901-1976; Boyd, Lyle Gifford, 1907-1982",
+    "gutenbergReference": "66639",
+    "hash": "366f280cbb87ee751a0be630fb1a9b4d0d4f1a927807b61a803db0201b948228"
   }
 ]

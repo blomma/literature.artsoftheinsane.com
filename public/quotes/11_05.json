@@ -1,53 +1,113 @@
 [
   {
     "time": "11:05",
-    "quoteFirst": "\"That's very strange,\" said Robert Daventry. He looked at the clock upon the mantel-shelf. It was ",
+    "quoteFirst": "It was precisely ",
     "quoteTime": "five minutes past eleven",
-    "quoteLast": ".",
-    "title": "The Turnstile",
-    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
-    "gutenbergReference": "38689",
-    "hash": "f425873470e142cf94ce69c0fb77857c8560682ce5caeaf550598e8915b11e0d"
+    "quoteLast": " on the first day of the autumn term, and Avondale College, which for seven whole weeks had been lonely and deserted, and given over to the tender mercies of paperhangers, painters, and charwomen, once more presented its wonted aspect of life and bustle.",
+    "title": "A Pair of Schoolgirls: A Story of School Days",
+    "author": "Brazil, Angela, 1869-1947; Campbell, John W. (John William), 1886-1935 [Illustrator]",
+    "gutenbergReference": "33389",
+    "hash": "4cb8acc444f39ccd748864913271837e268594d72087d4a1fffa83f62b87af13"
   },
   {
     "time": "11:05",
-    "quoteFirst": "The testimony of Robert L. Norton was taken at ",
+    "quoteFirst": "\"There's no time to lose, it's ",
+    "quoteTime": "five minutes past eleven",
+    "quoteLast": " now,\" she said, glancing at a strap watch on her wrist, and touching Johnny with her spur.",
+    "title": "A Tar-Heel Baron",
+    "author": "Smith, Mabell S. C. (Mabell Shippie Clarke), 1864-1942; Holloway, Edward Stratton, 1859-1939 [Illustrator]",
+    "gutenbergReference": "26112",
+    "hash": "bd3ed55f868ed128b62ac74da10a7ed49177d6bc4d343774a2cb4048c84ae9dc"
+  },
+  {
+    "time": "11:05",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes after eleven",
+    "quoteLast": " the band on the recreation pier, which had been blaring forth popular airs for an hour, ceased, and a moment later the judges made their appearance on the beach.  This was a signal for prolonged cheering on the part of the crowd.",
+    "title": "The Boy Scout Fire Fighters",
+    "author": "Crump, Irving, 1887-1979",
+    "gutenbergReference": "30453",
+    "hash": "b5026e24a782d16a6a2365bb5511efce5f975534199731ebfede2253b4eab6ff"
+  },
+  {
+    "time": "11:05",
+    "quoteFirst": "Kyser was all but forgotten in the light of later events, and the plans for the location and rescue of Galva Baxendale. In his own mind he was rather more than half a hero already, and the shock which he received at ",
+    "quoteTime": "five minutes past eleven",
+    "quoteLast": " was a sharp one, and coming, as it did, hard upon his self-adulation seemed to him unmerited and unfair.",
+    "title": "The Princess Galva: A Romance",
+    "author": "Whitelaw, David, 1875-1970",
+    "gutenbergReference": "34130",
+    "hash": "2af5af7138973aafffcbabf49fa7d08a579c91e5743ef0c2555cd60dc267503c"
+  },
+  {
+    "time": "11:05",
+    "quoteFirst": "At about ",
+    "quoteTime": "five minutes past eleven",
+    "quoteLast": " an equal number of such personages came into the Chamber by the opposite door of the platform and arranged themselves so as to form a passage through the midst of them for the Emperor. Not more than five minutes later His Majesty entered, and ascending to the throne, sat down for a moment; but almost immediately rose and received from the hand of Marquis Saionji, the Prime Minister, the address from the throne inscribed on a parchment scroll.",
+    "title": "Rare days in Japan",
+    "author": "Ladd, George Trumbull, 1842-1921",
+    "gutenbergReference": "72341",
+    "hash": "1c797c4fee8fc37daf112484ec30b1f5be0eeeb01b682176cd5ce6bd09d1e9fd"
+  },
+  {
+    "time": "11:05",
+    "quoteFirst": "\"Position No. 6, ",
     "quoteTime": "11:05 a.m.",
-    "quoteLast": ", on June 27, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Leon D. Hubert, Jr.",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
-    "hash": "2e4dba0ac5216d5870a2449a1820b3f8fcc59d9bf34e2bf220f4f416c79f8ec5"
+    "quoteLast": " Vizcaya turned to run ashore. In thirty-five minutes the Vizcaya had sailed about seven miles, and was off the mouth of the Aserradero River. The Colon had run five and one-half miles further, and was more than that distance in advance of any of the American vessels. The Brooklyn was one and three-tenths miles distant from the Vizcaya and slightly behind it.",
+    "title": "The Story of the Philippines\r\nNatural Riches, Industrial Resources, Statistics of Productions, Commerce and Population; The Laws, Habits, Customs, Scenery and Conditions of the Cuba of the East Indies and the Thousand Islands of the Archipelagoes of India and Hawaii, With Episodes of Their Early History; The Eldorado of the Orient; Personal Character Sketches of and Interviews with Admiral Dewey, General Merritt, General Aguinaldo and the Archbishop of Manila; History and Romance, Tragedies and Traditions of our Pacific Possessions; Events of the War in the West with Spain, and the Conquest of Cuba and Porto Rico",
+    "author": "Halstead, Murat, 1829-1908",
+    "gutenbergReference": "12409",
+    "hash": "2ab38ebf3a660ebcc367ca8899ea9bbb70adbcaa43cdecc4cd70b30b54569921"
   },
   {
     "time": "11:05",
-    "quoteFirst": "\"",
-    "quoteTime": "Five minutes past eleven",
+    "quoteFirst": "The girl blushed again, murmured to herself, \"It's right down cruel of him to ask me!\" and then spoke up and answered with admirably counterfeited unconcern, \"",
+    "quoteTime": "Five minutes after eleven",
     "quoteLast": ".\"",
-    "title": "My Little Sister",
-    "author": "Robins, Elizabeth, 1862-1952",
-    "gutenbergReference": "36220",
-    "hash": "6f92ba5d05e01b07f2ba7b7dd73fa5bb84736011ee61f8b21a51e8752efc3de9"
+    "title": "The Entire Project Gutenberg Works of Mark Twain",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3200",
+    "hash": "c0f429ccfdde7aeb4f8cb1e7924e9b9712c772250776f6b045426b0af24c8ab7"
   },
   {
     "time": "11:05",
-    "quoteFirst": "Not until he woke up did he realise that there had been any danger of his going to sleep.  The earthenware clock on the mantelpiece (a birthday gift from Clara and Albert) showed ",
+    "quoteFirst": "I looked at my watch; it was ",
     "quoteTime": "five minutes past eleven",
-    "quoteLast": ".",
-    "title": "These Twain",
-    "author": "Bennett, Arnold, 1867-1931",
-    "gutenbergReference": "40483",
-    "hash": "4a51164842327298b32415b13523c52d0befa1a860b292a3dc36619c02224b17"
+    "quoteLast": " on the 31st day of May in the year Nineteen Hundred and Two.",
+    "title": "Through Shot and Flame\r\nThe Adventures and Experiences of J. D. Kestell Chaplain to President Steyn and General Christian De Wet",
+    "author": "Kestell, J. D. (John Daniel), 1854-1941",
+    "gutenbergReference": "37083",
+    "hash": "35bfddc1c095a62d99fc310449b9cd9ce6efabe87bd0a1e496192ee456d3b6e1"
   },
   {
     "time": "11:05",
-    "quoteFirst": "On hearing my question, Mrs. Potts held up her candle to the face of the old case-clock in the entrance-hall, and called out that it was just ",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes after eleven",
+    "quoteLast": " the band on the recreation pier, which had been blaring forth popular airs for an hour, ceased, and a moment later the judges made their appearance on the beach.  This was a signal for prolonged cheering on the part of the crowd.",
+    "title": "The Boy Scout Fire Fighters",
+    "author": "Crump, Irving, 1887-1979",
+    "gutenbergReference": "30453",
+    "hash": "b5026e24a782d16a6a2365bb5511efce5f975534199731ebfede2253b4eab6ff"
+  },
+  {
+    "time": "11:05",
+    "quoteFirst": "As he says this, he looks at his watch. “",
+    "quoteTime": "Five minutes past eleven",
+    "quoteLast": "--time for the dose,” he mutters.",
+    "title": "The trail of the serpent",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "75840",
+    "hash": "70b90da8435076f1792968100d2481d843926ef398b68510a61e264eb9c7bd65"
+  },
+  {
+    "time": "11:05",
+    "quoteFirst": "At ",
     "quoteTime": "five minutes past eleven",
-    "quoteLast": ". Now, if I was in my own lodgings at five minutes past eleven, I could not have had anything to do with the escape of Mr. Dering, who, it was proved in evidence by the warders, did not set foot outside the gates till a quarter of an hour past that time.",
-    "title": "In the Dead of Night: A Novel. Volume 2 (of 3)",
-    "author": "Speight, T. W. (Thomas Wilkinson), 1830-1915",
-    "gutenbergReference": "57946",
-    "hash": "9598f87ac5d123d4f5f9eefb3bde9b46093572867a167d3bcc8a27f4bf1edb29"
+    "quoteLast": " on the sixth day as the steamer departed from Messina, the professor, his wife and his niece began to cry.",
+    "title": "Castellinaria, and Other Sicilian Diversions",
+    "author": "Jones, Henry Festing, 1851-1928",
+    "gutenbergReference": "25077",
+    "hash": "9581a8e1dc9e2a893ae915b26e1f51e882b04d22e3ccd49011ec685dd3c88fe5"
   },
   {
     "time": "11:05",
@@ -61,13 +121,13 @@
   },
   {
     "time": "11:05",
-    "quoteFirst": "\"That's very strange,\" said Robert Daventry. He looked at the clock upon the mantel-shelf. It was ",
-    "quoteTime": "five minutes past eleven",
-    "quoteLast": ".",
-    "title": "The Turnstile",
-    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
-    "gutenbergReference": "38689",
-    "hash": "f425873470e142cf94ce69c0fb77857c8560682ce5caeaf550598e8915b11e0d"
+    "quoteFirst": "Leave Tacoma      ",
+    "quoteTime": "11.05 A.M.",
+    "quoteLast": " and  5.15 P.M.",
+    "title": "The Mountain that was 'God'\r\nBeing a Little Book About the Great Peak Which the Indians Named 'Tacoma' but Which is Officially Called 'Rainier'",
+    "author": "Williams, John H. (John Harvey), 1864-",
+    "gutenbergReference": "22056",
+    "hash": "2bf4731fd01ce67e0dc282af38b5ad444eca98ac882a19c1a81e9fc19b3073b2"
   },
   {
     "time": "11:05",
@@ -81,122 +141,62 @@
   },
   {
     "time": "11:05",
-    "quoteFirst": "\"No. 6, ",
-    "quoteTime": "11:05 a.m.",
-    "quoteLast": "--Vizcaya turned to run ashore.",
-    "title": "The Story of the Philippines\r\nNatural Riches, Industrial Resources, Statistics of Productions, Commerce and Population; The Laws, Habits, Customs, Scenery and Conditions of the Cuba of the East Indies and the Thousand Islands of the Archipelagoes of India and Hawaii, With Episodes of Their Early History; The Eldorado of the Orient; Personal Character Sketches of and Interviews with Admiral Dewey, General Merritt, General Aguinaldo and the Archbishop of Manila; History and Romance, Tragedies and Traditions of our Pacific Possessions; Events of the War in the West with Spain, and the Conquest of Cuba and Porto Rico",
-    "author": "Halstead, Murat, 1829-1908",
-    "gutenbergReference": "12409",
-    "hash": "5c490f44dde37b46cc0c6b44adcc432cde7f3bfccfad5ddd42ca50181d917ad6"
-  },
-  {
-    "time": "11:05",
-    "quoteFirst": "Fortunately, there were not many people in the cafe; and his gaze, wandering about the place, soon halted before the small alcove in the east end containing a table with wine glasses, in waiting, set for a large party. The clock, back of the cigarstand, said it was ",
-    "quoteTime": "five minutes after eleven",
-    "quoteLast": ". Bansemer impatiently watched the two doors leading to the street, and was beginning to wonder whether the message had reached the old clerk, when presently, the uncouth shape of Droom, appeared slinking through the so-called ladies' entrance, with the shrinking attitude of one unaccustomed to fashionable restaurants and doubtful of his reception.",
-    "title": "Jane Cable",
-    "author": "McCutcheon, George Barr, 1866-1928",
-    "gutenbergReference": "5971",
-    "hash": "3c6ef18ffdf356ffbe4939e48a69ec84cdf28b7e84ff66089038f80ad8a12441"
-  },
-  {
-    "time": "11:05",
-    "quoteFirst": "Co. B: Detail will clear junction _Tremont_ trench, and _Poire_ boyau at 5.35 a.m., ",
-    "quoteTime": "11.05 a.m.",
-    "quoteLast": " and 4.55 p.m., proceeding via _Poire_ boyau and _Tipperary_ trench. Co.",
-    "title": "Military Instructors Manual",
-    "author": "Cole, J. P. (James Perry), 1889-1977; Schoonmaker, Oliver, 1882-1968",
-    "gutenbergReference": "14625",
-    "hash": "29aa260268028d27d3893d5a52dec022d5901d0e3b45ab8f57e036343302b5da"
-  },
-  {
-    "time": "11:05",
-    "quoteFirst": "It lies buried, I imagine, somewhere on the moor.  The clothes, though sodden, were, however, still recognisable, also the unfortunate man's wrist watch which had stopped at ",
-    "quoteTime": "five minutes past eleven",
-    "quoteLast": ", his cuff-links, and his signet ring, which had fallen from his fleshless finger and lay beside it in the 'gruff.'",
-    "title": "Unravelled Knots",
-    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-    "gutenbergReference": "68237",
-    "hash": "7fa3ad8d402e200f574e6b4ab331e453fb7c9c0d490def5e904556820a15949b"
-  },
-  {
-    "time": "11:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past eleven",
-    "quoteLast": " he saw her coming through the trees, and she signed to him with a little movement of her parasol, which was particularly charming, and which seemed to him to express her. They walked from the bridge along the western bank; the trees were prettier there, and from their favourite seat they saw the morning light silver the water, the light mist evaporate, and the trees on the other bank emerge from vague masses into individualities of trunk and bough.",
-    "title": "Celibates",
-    "author": "Moore, George, 1852-1933",
-    "gutenbergReference": "6005",
-    "hash": "ac1ce760bdf1aa2857a4f35c6892532088a3d213df1b6ef6cbbc3ab8b105cf79"
-  },
-  {
-    "time": "11:05",
-    "quoteFirst": "The testimony of Albert Guy Bogard was taken at ",
-    "quoteTime": "11:05 a.m.",
-    "quoteLast": ", on April 8, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Joseph A.",
-    "title": "Warren Commission (10 of 26): Hearings Vol. X (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44010",
-    "hash": "1cb32dc25075c0a7af6d20c128f4e170aae3a9475b9edd28c523f6db2a8872fe"
-  },
-  {
-    "time": "11:05",
-    "quoteFirst": "You have been here since eleven. I marked the clock. It was not full ",
-    "quoteTime": "five minutes after eleven",
-    "quoteLast": ", when you came in,--it's now past one. Two mortal hours, and you ask me if you may return this evening; and I reply, sir, distinctly--No! Is that intelligible? I say no!” As he spoke he turned away, and the curate, covered with shame and confusion, hastened out of the room, and down the stairs, and out into the open air, dreading lest he should meet any one, and actually terrified at the thought of being seen.",
-    "title": "The Bramleighs of Bishop's Folly",
-    "author": "Lever, Charles James, 1806-1872; Cooke, W. Cubitt (William Cubitt), 1866-1951 [Illustrator]; Wheeler, Edward J., 1848?-1933 [Illustrator]",
-    "gutenbergReference": "32561",
-    "hash": "89694831d9a2ad7e584b9289c38370d3e923a91bcfe7a8253e17f73505208a5a"
-  },
-  {
-    "time": "11:05",
-    "quoteFirst": "From Daly's watch on hunting mornings there was no appeal. He always reached the appointed meet at five minutes before eleven, by his watch, and by his watch the hounds were always moved from their haunches at ",
-    "quoteTime": "five minutes past eleven",
-    "quoteLast": ". Though the Lord Lieutenant and the Chief Secretary and the Lord Chancellor had been there, there would have been no deviation. The interval of ten minutes he generally spent in whispered confabulations with the earth-warners, secrets into which no attendant horseman ever dived; for Black Daly was a mysterious man, who did not choose to be inquired into as to his movements.",
-    "title": "The Landleaguers",
-    "author": "Trollope, Anthony, 1815-1882",
-    "gutenbergReference": "30606",
-    "hash": "135284e8bf51be4f30b88a8e20e9dc89157136321712e1e445811889c0329afc"
-  },
-  {
-    "time": "11:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past eleven",
-    "quoteLast": " he saw her coming through the trees, and she signed to him with a little movement of her parasol, which was particularly charming, and which seemed to him to express her. They walked from the bridge along the western bank; the trees were prettier there, and from their favourite seat they saw the morning light silver the water, the light mist evaporate, and the trees on the other bank emerge from vague masses into individualities of trunk and bough.",
-    "title": "Celibates",
-    "author": "Moore, George, 1852-1933",
-    "gutenbergReference": "6005",
-    "hash": "ac1ce760bdf1aa2857a4f35c6892532088a3d213df1b6ef6cbbc3ab8b105cf79"
-  },
-  {
-    "time": "11:05",
-    "quoteFirst": "ELFIE. [_Looks at her watch._] ",
+    "quoteFirst": "\"",
     "quoteTime": "Five minutes past eleven",
-    "quoteLast": ".",
-    "title": "The Easiest Way\r\nRepresentative Plays by American Dramatists: 1856-1911",
-    "author": "Walter, Eugene, 1874-1941",
-    "gutenbergReference": "13050",
-    "hash": "4cec16ce67cafe19027a335e59b8b362362df74445873035d084d1f02dcc955b"
+    "quoteLast": ".\"",
+    "title": "My Little Sister",
+    "author": "Robins, Elizabeth, 1862-1952",
+    "gutenbergReference": "36220",
+    "hash": "6f92ba5d05e01b07f2ba7b7dd73fa5bb84736011ee61f8b21a51e8752efc3de9"
   },
   {
     "time": "11:05",
-    "quoteFirst": "It lies buried, I imagine, somewhere on the moor.  The clothes, though sodden, were, however, still recognisable, also the unfortunate man's wrist watch which had stopped at ",
+    "quoteFirst": "Christian’s clouded eyes went back to the clock, as if magically drawn, and at that moment Harker put in the cross-buttock with a mighty heave, sending him flying through the air clean off the mat and against the unguarded pillar. He struck the deep carving with his head, and lay still. It was ",
     "quoteTime": "five minutes past eleven",
-    "quoteLast": ", his cuff-links, and his signet ring, which had fallen from his fleshless finger and lay beside it in the 'gruff.'",
-    "title": "Unravelled Knots",
-    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-    "gutenbergReference": "68237",
-    "hash": "7fa3ad8d402e200f574e6b4ab331e453fb7c9c0d490def5e904556820a15949b"
+    "quoteLast": ".",
+    "title": "Crump folk going home",
+    "author": "Holme, Constance, 1880-1955",
+    "gutenbergReference": "74603",
+    "hash": "fb64250c00cda9577026b1829c709880127d2a0da43cfb5866ffe9f75fccf741"
+  },
+  {
+    "time": "11:05",
+    "quoteFirst": "\"It is ",
+    "quoteTime": "five minutes past eleven",
+    "quoteLast": ",\" laughed Miss Hammond, \"and there is his train now coming in, and there--if I don't mistake--is Dan.\"",
+    "title": "Kitty Trenire",
+    "author": "Quiller-Couch, Mabel, 1865-1924",
+    "gutenbergReference": "13992",
+    "hash": "8fe83656e590403a00b2815c8729521bf248a83b8c7a2748f2f5ca1df9824142"
+  },
+  {
+    "time": "11:05",
+    "quoteFirst": "At the foot of her own stairs she stopped and looked at her watch. It was ",
+    "quoteTime": "five minutes after eleven",
+    "quoteLast": ".",
+    "title": "The noise of the world",
+    "author": "Spadoni, Adriana, 1879-1953",
+    "gutenbergReference": "75113",
+    "hash": "f836f50c8951614baea5892273bc381ec181fd7cd8e6a5be18ab12a7aaa3d6bb"
   },
   {
     "time": "11:05",
     "quoteFirst": "\"",
     "quoteTime": "Five minutes past eleven",
     "quoteLast": ".\"",
-    "title": "Devlin the Barber",
-    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
-    "gutenbergReference": "53044",
-    "hash": "2fc3d83977f247c1bbf13c44ebae116b7a2edc06ef20387573058c51ae878ff9"
+    "title": "My Little Sister",
+    "author": "Robins, Elizabeth, 1862-1952",
+    "gutenbergReference": "36220",
+    "hash": "6f92ba5d05e01b07f2ba7b7dd73fa5bb84736011ee61f8b21a51e8752efc3de9"
+  },
+  {
+    "time": "11:05",
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes past eleven",
+    "quoteLast": ".\"",
+    "title": "My Little Sister",
+    "author": "Robins, Elizabeth, 1862-1952",
+    "gutenbergReference": "36220",
+    "hash": "6f92ba5d05e01b07f2ba7b7dd73fa5bb84736011ee61f8b21a51e8752efc3de9"
   }
 ]

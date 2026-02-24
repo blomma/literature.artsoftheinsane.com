@@ -1,6 +1,16 @@
 [
   {
     "time": "06:35",
+    "quoteFirst": "My watch lay on the dressing-table close by; glancing at it, I saw that the time was ",
+    "quoteTime": "twenty-five minutes to seven",
+    "quoteLast": ". I had been told that the family breakfasted at nine, so I had nearly two-and-a-half hours of leisure. Of course, I would go out, and enjoy the freshness of the morning.",
+    "title": "Ravensdene Court",
+    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
+    "gutenbergReference": "26324",
+    "hash": "65f11004f4787a47f8f6bc6f7a4df1d07b793bf0130f7cae4cb5790fb97c7161"
+  },
+  {
+    "time": "06:35",
     "quoteFirst": "Rosyth at ",
     "quoteTime": "6.35 A.M.",
     "quoteLast": " on the 26th in a dense fog and was taken up harbour for temporary repairs, the _Assistance_ being sent from Scapa to Rosyth to help in the work. The main injury to the _Lion_ was caused by two hits under water, which pierced the feed tank and displaced an armour plate; the permanent repairs were completed on the Tyne, the work being carried out by the aid of coffer dams, there being no dock there capable of taking the ship. Her casualties consisted of 11 men wounded.",
@@ -11,23 +21,33 @@
   },
   {
     "time": "06:35",
-    "quoteFirst": "Leaving the camp at ",
-    "quoteTime": "6.35 a.m.",
-    "quoteLast": ", followed the river in a southerly direction till 11.0, when it turned to the east, and we ascended a sandstone hill; from the summit there was a fine view of the surrounding country.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "77000838dd16e60122d0c31971d5d59c0b71cac6515d08d82f9049ad27f7c6aa"
+    "quoteFirst": "Rosyth at ",
+    "quoteTime": "6.35 A.M.",
+    "quoteLast": " on the 26th in a dense fog and was taken up harbour for temporary repairs, the _Assistance_ being sent from Scapa to Rosyth to help in the work. The main injury to the _Lion_ was caused by two hits under water, which pierced the feed tank and displaced an armour plate; the permanent repairs were completed on the Tyne, the work being carried out by the aid of coffer dams, there being no dock there capable of taking the ship. Her casualties consisted of 11 men wounded.",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "hash": "ec0f5ea1cc7e52e1edcebd93a5d50aa07584964a660196b7c863f5472cc518f5"
   },
   {
     "time": "06:35",
-    "quoteFirst": "In about three minutes the smoke clearing away, we found ourselves abreast of the headmost ship, the sternmost ship luffing up for our larboard quarter; we poured a broadside into the headmost ship, and then braced aback our main and mizzen topsails, and backed astern under cover of the smoke, abreast the sternmost ship, when the action was continued with spirit and considerable effect until ",
-    "quoteTime": "35 minutes past 6",
-    "quoteLast": ", when the enemy's fire again slackened, and we discovered the headmost bearing up; filled our topsails, shot ahead, and gave her two stern rakes. We then discovered the sternmost ship wearing also; wore ship immediately after her, and gave her a stern rake, she luffing to on our starboard bow and giving us her larboard broadside.",
-    "title": "The Medallic History of the United States of America 1776-1876",
-    "author": "Loubat, J. F. (Joseph Florimond), 1831-1927; Jacquemart, Jules-Ferdinand, 1837-1880 [Illustrator]",
-    "gutenbergReference": "21880",
-    "hash": "62b7192afbbc6d804a4eecc005e64d462b101d647b2411826103d6e406ec4c0c"
+    "quoteFirst": "“We poured a broadside into the headmost ship,” continued the American account, “and then braced aback our main and mizzen topsails and backed astern under cover of the smoke abreast the sternmost ship, when the action was continued with spirit and considerable effect until ",
+    "quoteTime": "thirty-five minutes past six",
+    "quoteLast": ", when the enemy’s fire again slackened.”",
+    "title": "History of the United States of America, Volume 9 (of 9)",
+    "author": "Adams, Henry, 1838-1918",
+    "gutenbergReference": "73741",
+    "hash": "277d1557d7bff6bdc4e7d76b9bc677574c1eab2e3685fe8e62b8404ec3d2a8c0"
+  },
+  {
+    "time": "06:35",
+    "quoteFirst": "\"At ",
+    "quoteTime": "thirty-five minutes past six",
+    "quoteLast": ",\" says M. Dumont d'Urville, \"we arrived at the summit of the Chahorra, which is evidently a half-extinct crater. Its sides are thin and sloping, it is from sixty to eighty feet deep, and the whole surface is strewn with fragments of obsidian, pumice-stones, and lava. Sulphureous vapour, forming a kind of crown of smoke, is emitted from it, whilst the atmosphere at the bottom is perfectly cool.",
+    "title": "Celebrated Travels and Travellers, Part 3.\r\nThe Great Explorers of the Nineteenth Century",
+    "author": "Verne, Jules, 1828-1905; Benett, Léon, 1838-1917 [Illustrator]; D'Anvers, N., 1844-1933 [Translator]",
+    "gutenbergReference": "26658",
+    "hash": "a8cf04f392dc638bc3cf611b60109bcc520574f7e85cc08cd7ad6e65c0360a72"
   },
   {
     "time": "06:35",
@@ -41,73 +61,23 @@
   },
   {
     "time": "06:35",
-    "quoteFirst": "General Chaffee's brigade took up a position six or eight hundred yards from the fort on the eastern side of the village; Ludlow's brigade marched around on the western side, so as to seize the Caney-Santiago road and thus cut off the enemy's escape; while the brigade of General Miles closed in on the south. Capron's battery, from the summit of a hill a little more than a mile southeast of the fort, fired the first shot at ",
-    "quoteTime": "6:35 A. M.",
-    "quoteLast": "",
-    "title": "Campaigning in Cuba",
-    "author": "Kennan, George, 1845-1924",
-    "gutenbergReference": "31158",
-    "hash": "3cc96d9be58800139152c1e4e5a4ce88bac2596511956ad70f8cd3e2c44bfef9"
+    "quoteFirst": "The next day the brigade moved out at 4.30 a.m. to march on Shahroban with orders to skirt the town, the Buffs to go round the south side and the Dogras the north. The great objective was a certain nullah, and this was occupied without opposition at ",
+    "quoteTime": "6.35 a.m.",
+    "quoteLast": " Then another period of monotony set in and until the 18th October the battalion was at Shahroban in Mesopotamia, and that was all its history.",
+    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
+    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
+    "gutenbergReference": "73159",
+    "hash": "29a02b9c2e1eba8c3e4e3a7a192cf70168c806cf35ce12320b6f280a0d2a534b"
   },
   {
     "time": "06:35",
-    "quoteFirst": "Left our camp at ",
+    "quoteFirst": "At ",
     "quoteTime": "6.35 a.m.",
-    "quoteLast": ", and followed the creek up for half an hour, and then steered east to Sturt's Creek, which we reached at 9.5, the country being level, sandy, and covered with triodia and acacia in small patches; we then steered a southerly course down the creek till 11.",
+    "quoteLast": " steered south-east through an open melaleuca scrub, the soil sandy loam, thinly grassed; acacia, bloodwood, silver-leafed ironbark, and grevillia forming open patches of wood at intervals. At noon turned south, and at 1.35 p.m. camped at a small lagoon nearly dry and half a mile from the bank of the river; a few hills rose close to the south-west of the river opposite our camp, the lower ridges grassy, the higher hills wooded, but not exceeding 500 feet above the plain.",
     "title": "Journals of Australian Explorations",
     "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
     "gutenbergReference": "10461",
-    "hash": "5ef1b80907b63c97fe43018c84aa655db6eefc077b887dadf99d01e5fc09f0fc"
-  },
-  {
-    "time": "06:35",
-    "quoteFirst": "",
-    "quoteTime": "6:35 A.M.",
-    "quoteLast": "",
-    "title": "Project Cyclops",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34319",
-    "hash": "edda52a3f2acbfd3b6399d7dd289ceb75910348c881caa078eacaf161a277809"
-  },
-  {
-    "time": "06:35",
-    "quoteFirst": "We have a regular program now. We rise at ",
-    "quoteTime": "twenty-five minutes to seven",
-    "quoteLast": " and have drill for ten minutes. It is just a form to get the men out of bed.",
-    "title": "Dinsmore Ely, One Who Served",
-    "author": "Ely, Dinsmore, 1894-1918; Ely, James O. (James Owen), 1863- [Editor]",
-    "gutenbergReference": "51720",
-    "hash": "ea07350283097e5a0022ae1d508930b0e441db10039b2009acabd1792bb9ec7c"
-  },
-  {
-    "time": "06:35",
-    "quoteFirst": "Resumed our journey at ",
-    "quoteTime": "6.35 a.m.",
-    "quoteLast": ", and followed a large creek up to the south-east, and at 7.45 crossed it below a fine pool of water, above which the creek came from the south-west, in which direction the country consisted of low sandstone hills of barren aspect.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "a2828f49f9b051e0184a1320c0acf8c10ba7cb3ffc1bfce6739ba42c4bbe0e98"
-  },
-  {
-    "time": "06:35",
-    "quoteFirst": "6.30 a.m.  Bugle call. Cadets turn out. Baths. ",
-    "quoteTime": "6.35 a.m.",
-    "quoteLast": "  Dismiss No. 2 punishment cadets.",
-    "title": "The Story of the \"Britannia\"\r\nThe training ship for naval cadets. With some account of previous methods of naval education, and of the new scheme of 1903.",
-    "author": "Statham, Edward Phillips, -1921",
-    "gutenbergReference": "46788",
-    "hash": "70f79fe8c2e4817d97a31daff42ba130f74bb63f47def3637f07cb75f979f289"
-  },
-  {
-    "time": "06:35",
-    "quoteFirst": "This morning we were more successful in collecting the horses, and started from the camp at ",
-    "quoteTime": "6.35 a.m.",
-    "quoteLast": ", and steering an easterly course reached the fate of the range at 10.20 and the summit at noon. Following our previous track, reached the pool of water at 1.0 p.m. and camped.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "023b811f179818ee7a930b935123fe0c1f5833dadce8df3fcbcd56d252843f5d"
+    "hash": "42093d25c9a9cf06a7330d1f56ec47a54c1bfc64e2139d15d94ef398e8ff5347"
   },
   {
     "time": "06:35",
@@ -121,33 +91,33 @@
   },
   {
     "time": "06:35",
-    "quoteFirst": "In about three minutes the smoke clearing away, we found ourselves abreast of the headmost ship, the sternmost ship luffing up for our larboard quarter; we poured a broadside into the headmost ship, and then braced aback our main and mizzen topsails, and backed astern under cover of the smoke, abreast the sternmost ship, when the action was continued with spirit and considerable effect until ",
-    "quoteTime": "35 minutes past 6",
-    "quoteLast": ", when the enemy's fire again slackened, and we discovered the headmost bearing up; filled our topsails, shot ahead, and gave her two stern rakes. We then discovered the sternmost ship wearing also; wore ship immediately after her, and gave her a stern rake, she luffing to on our starboard bow and giving us her larboard broadside.",
-    "title": "The Medallic History of the United States of America 1776-1876",
-    "author": "Loubat, J. F. (Joseph Florimond), 1831-1927; Jacquemart, Jules-Ferdinand, 1837-1880 [Illustrator]",
-    "gutenbergReference": "21880",
-    "hash": "62b7192afbbc6d804a4eecc005e64d462b101d647b2411826103d6e406ec4c0c"
+    "quoteFirst": "\"At ",
+    "quoteTime": "thirty-five minutes past six",
+    "quoteLast": ",\" says M. Dumont d'Urville, \"we arrived at the summit of the Chahorra, which is evidently a half-extinct crater. Its sides are thin and sloping, it is from sixty to eighty feet deep, and the whole surface is strewn with fragments of obsidian, pumice-stones, and lava. Sulphureous vapour, forming a kind of crown of smoke, is emitted from it, whilst the atmosphere at the bottom is perfectly cool.",
+    "title": "Celebrated Travels and Travellers, Part 3.\r\nThe Great Explorers of the Nineteenth Century",
+    "author": "Verne, Jules, 1828-1905; Benett, Léon, 1838-1917 [Illustrator]; D'Anvers, N., 1844-1933 [Translator]",
+    "gutenbergReference": "26658",
+    "hash": "a8cf04f392dc638bc3cf611b60109bcc520574f7e85cc08cd7ad6e65c0360a72"
   },
   {
     "time": "06:35",
-    "quoteFirst": "In about three minutes the smoke clearing away, we found ourselves abreast of the headmost ship, the sternmost ship luffing up for our larboard quarter; we poured a broadside into the headmost ship, and then braced aback our main and mizzen topsails, and backed astern under cover of the smoke, abreast the sternmost ship, when the action was continued with spirit and considerable effect until ",
-    "quoteTime": "35 minutes past 6",
-    "quoteLast": ", when the enemy's fire again slackened, and we discovered the headmost bearing up; filled our topsails, shot ahead, and gave her two stern rakes. We then discovered the sternmost ship wearing also; wore ship immediately after her, and gave her a stern rake, she luffing to on our starboard bow and giving us her larboard broadside.",
-    "title": "The Medallic History of the United States of America 1776-1876",
-    "author": "Loubat, J. F. (Joseph Florimond), 1831-1927; Jacquemart, Jules-Ferdinand, 1837-1880 [Illustrator]",
-    "gutenbergReference": "21880",
-    "hash": "62b7192afbbc6d804a4eecc005e64d462b101d647b2411826103d6e406ec4c0c"
+    "quoteFirst": "_17th April, 1873._--A tremendous rain after dark burst all our now rotten tents to shreds. Went on at ",
+    "quoteTime": "6.35 A.M.",
+    "quoteLast": " for three hours, and I, who was suffering severely all night, had to rest. We got water near the surface by digging in yellow sand.",
+    "title": "The Last Journals of David Livingstone, in Central Africa, from 1865 to His Death, Volume II (of  2), 1869-1873\r\nContinued By A Narrative Of His Last Moments And Sufferings, Obtained From His Faithful Servants Chuma And Susi",
+    "author": "Livingstone, David, 1813-1873; Waller, Horace, 1833-1896 [Editor]",
+    "gutenbergReference": "17024",
+    "hash": "cb9ec157efcb6747b7ccd1ce023e1078d7edc80fd6bdd6708ee63adc282215a2"
   },
   {
     "time": "06:35",
-    "quoteFirst": "It was the first coin he found in his pocket, and the sight of it caused a frown. Confound those Montmartre playwrights! Why was their stupid travesty constantly recurring to his mind? He frowned again, this time at Auguste Comte's smugness, and looked at his watch. ",
-    "quoteTime": "Twenty-five minutes to seven",
-    "quoteLast": "! It was too late now to do other than write--if he succeeded. If not--ah, well! \"Some of them are slain in the flower of their youth.",
-    "title": "A Son of the Immortals",
-    "author": "Tracy, Louis, 1863-1928; Christy, Howard Chandler, 1873-1952 [Illustrator]",
-    "gutenbergReference": "25017",
-    "hash": "6ad1b2ecc7ffe08f75efc606e759135f612d12058a1df0f6604421cb699a94a4"
+    "quoteFirst": "“At precisely ",
+    "quoteTime": "twenty-five minutes to seven",
+    "quoteLast": ".”",
+    "title": "The Clock and the Key",
+    "author": "Vesey, A. H. (Arthur Henry)",
+    "gutenbergReference": "54888",
+    "hash": "a4c53471e66d1a4cbb4f78e995b4b6e001a741b1ee8b94ac77ad01372a30ed66"
   },
   {
     "time": "06:35",
@@ -161,42 +131,72 @@
   },
   {
     "time": "06:35",
-    "quoteFirst": "General Chaffee's brigade took up a position six or eight hundred yards from the fort on the eastern side of the village; Ludlow's brigade marched around on the western side, so as to seize the Caney-Santiago road and thus cut off the enemy's escape; while the brigade of General Miles closed in on the south. Capron's battery, from the summit of a hill a little more than a mile southeast of the fort, fired the first shot at ",
-    "quoteTime": "6:35 A. M.",
-    "quoteLast": "",
-    "title": "Campaigning in Cuba",
-    "author": "Kennan, George, 1845-1924",
-    "gutenbergReference": "31158",
-    "hash": "3cc96d9be58800139152c1e4e5a4ce88bac2596511956ad70f8cd3e2c44bfef9"
+    "quoteFirst": "Carmody was left for some considerable time to his meditations. It may have been about ",
+    "quoteTime": "twenty-five minutes to seven",
+    "quoteLast": " when a voice at his elbow aroused him once more. The Dartford Warbler was back again, its eye now a little glazed and wearing the replete look of the bird that has done itself well at the breakfast table.",
+    "title": "Money for nothing",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "72972",
+    "hash": "1e62e28ae69e775366ff834ac0fd57a5118875879cab70c4f85d14dda50f16e4"
   },
   {
     "time": "06:35",
-    "quoteFirst": "Colman, M.P., signed “Another Invincible.”  Southgate was returning from night duty at ",
+    "quoteFirst": "Steered north 60 degrees east at ",
     "quoteTime": "6.35 a.m.",
-    "quoteLast": ", when he was accosted by Betts, who fired a revolver at him, the bullet passing between his left arm and the side of his body.  Betts then withdrew to his house in Northumberland Street, where he barricaded himself.",
-    "title": "Norfolk Annals, Vol. 2\r\nA Chronological Record of Remarkable Events in the Nineteeth Century",
-    "author": "Mackie, Charles, 1858?-1940",
-    "gutenbergReference": "36206",
-    "hash": "976464341f944d7a88d08b74816f886f646c640acf41a76f591b40ce6b27a6ed"
+    "quoteLast": ", and followed up the course of the creek, crossing the right bank at 9.0, when there was nothing but the polygonum flat to mark its course; at 10.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "1075ca074473a0e31c246f7ff2bdc09e9406281709bdba52b06f2b5be9ae665f"
   },
   {
     "time": "06:35",
-    "quoteFirst": "“Reached Turin by Mont Cenis, Friday, October 4th, at ",
+    "quoteFirst": "_17th April, 1873._--A tremendous rain after dark burst all our now rotten tents to shreds. Went on at ",
+    "quoteTime": "6.35 A.M.",
+    "quoteLast": " for three hours, and I, who was suffering severely all night, had to rest. We got water near the surface by digging in yellow sand.",
+    "title": "The Last Journals of David Livingstone, in Central Africa, from 1865 to His Death, Volume II (of  2), 1869-1873\r\nContinued By A Narrative Of His Last Moments And Sufferings, Obtained From His Faithful Servants Chuma And Susi",
+    "author": "Livingstone, David, 1813-1873; Waller, Horace, 1833-1896 [Editor]",
+    "gutenbergReference": "17024",
+    "hash": "cb9ec157efcb6747b7ccd1ce023e1078d7edc80fd6bdd6708ee63adc282215a2"
+  },
+  {
+    "time": "06:35",
+    "quoteFirst": "My watch lay on the dressing-table close by; glancing at it, I saw that the time was ",
+    "quoteTime": "twenty-five minutes to seven",
+    "quoteLast": ". I had been told that the family breakfasted at nine, so I had nearly two-and-a-half hours of leisure. Of course, I would go out, and enjoy the freshness of the morning.",
+    "title": "Ravensdene Court",
+    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
+    "gutenbergReference": "26324",
+    "hash": "65f11004f4787a47f8f6bc6f7a4df1d07b793bf0130f7cae4cb5790fb97c7161"
+  },
+  {
+    "time": "06:35",
+    "quoteFirst": "At ",
     "quoteTime": "6.35 a.m.",
-    "quoteLast": "",
-    "title": "Around the World in Eighty Days",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "103",
-    "hash": "f527ef1048d03998e416d0600e09f241691d79feab2aba7b14164c04f165fef2"
+    "quoteLast": " steered 220 degrees over a fine grassy country; at 7.0 ascended a small ironstone hill, from which we observed a deep valley trending to the south-west; to the north and west the country was open and grassy for twelve miles, presenting at one view fifty or sixty thousand acres of fine sheep pasture.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "6e04db5b44f53677b108409f5048cd51f64b8227c6ec2b55f1a07669ad546f1a"
   },
   {
     "time": "06:35",
-    "quoteFirst": "“We poured a broadside into the headmost ship,” continued the American account, “and then braced aback our main and mizzen topsails and backed astern under cover of the smoke abreast the sternmost ship, when the action was continued with spirit and considerable effect until ",
-    "quoteTime": "thirty-five minutes past six",
-    "quoteLast": ", when the enemy’s fire again slackened.”",
-    "title": "History of the United States of America, Volume 9 (of 9)",
-    "author": "Adams, Henry, 1838-1918",
-    "gutenbergReference": "73741",
-    "hash": "277d1557d7bff6bdc4e7d76b9bc677574c1eab2e3685fe8e62b8404ec3d2a8c0"
+    "quoteFirst": "At ",
+    "quoteTime": "6.35 a.m.",
+    "quoteLast": " steered south-east through an open melaleuca scrub, the soil sandy loam, thinly grassed; acacia, bloodwood, silver-leafed ironbark, and grevillia forming open patches of wood at intervals. At noon turned south, and at 1.35 p.m. camped at a small lagoon nearly dry and half a mile from the bank of the river; a few hills rose close to the south-west of the river opposite our camp, the lower ridges grassy, the higher hills wooded, but not exceeding 500 feet above the plain.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "42093d25c9a9cf06a7330d1f56ec47a54c1bfc64e2139d15d94ef398e8ff5347"
+  },
+  {
+    "time": "06:35",
+    "quoteFirst": "",
+    "quoteTime": "6:35 A.M.",
+    "quoteLast": "",
+    "title": "Project Cyclops",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34319",
+    "hash": "edda52a3f2acbfd3b6399d7dd289ceb75910348c881caa078eacaf161a277809"
   }
 ]

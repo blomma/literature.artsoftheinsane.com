@@ -1,73 +1,193 @@
 [
   {
     "time": "16:01",
-    "quoteFirst": "",
-    "quoteTime": "About four o’clock in the afternoon",
-    "quoteLast": " Sander looked up from the slate on which he had been making pictures. It was very dark. Stepping to the door he looked out.",
-    "title": "Blind Tim, and other Christmas stories written for children",
-    "author": "Solberg, Charles O. (Charles Orrin), 1869-1944",
-    "gutenbergReference": "72713",
-    "hash": "e07a2883d4eaf6d95a7d94bce37ec35b8afc577d51298e3104d5c2250da1de53"
+    "quoteFirst": "After Merritt had crossed the Chickahominy and reached Mechanicsville, I sent him orders to push on to Gaines's Mills.  Near the latter place he fell in with the enemy's cavalry again, and sending me word, ",
+    "quoteTime": "about 4 o'clock in the afternoon",
+    "quoteLast": " I crossed the Chickahominy with Wilson and Gregg, but when we overtook Merritt he had already brushed the Confederates away, and my whole command went into camp between Walnut Grove and Gaines's Mills.",
+    "title": "Memoirs of the Union's Three Great Civil War Generals",
+    "author": "Grant, Ulysses S. (Ulysses Simpson), 1822-1885; Sheridan, Philip Henry, 1831-1888; Sherman, William T. (William Tecumseh), 1820-1891; Widger, David, 1932-2021? [Editor]",
+    "gutenbergReference": "4546",
+    "hash": "edf57a639007f496225d4ee815521f3f6b86334a98d3251757e9a3e12984a70f"
   },
   {
     "time": "16:01",
-    "quoteFirst": "At ",
-    "quoteTime": "about four o'clock in the afternoon",
-    "quoteLast": " came the dawn of a hazy idea, and since it necessitated a visit to my rooms at Shepheard's, I washed the paint off my face and hands, changed, hurried to the hotel, ate a hasty meal, and returned to the Darb el-Ahmar, where I resumed my disguise.",
-    "title": "Tales of Secret Egypt",
-    "author": "Rohmer, Sax, 1883-1959",
-    "gutenbergReference": "40108",
-    "hash": "ce291af13b09fd79a46e65e6c6405a6f284c7efb0a8f4c7a4f344dd53e8c3e36"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "Mr Farmer took me aft, pointed out to me the just visible spot, told me to fetch off as much sand as the dinghy could bear, and return with all expedition.  Proud of the commission, ",
-    "quoteTime": "about four p.m.",
-    "quoteLast": ", the tide running out furiously, I ordered the _dinghies_ to be piped away, and walking down the side with due dignity, with a bucket and a couple of spades, we pushed off, and soon reached the spot.  The boat was loaded, but in the meantime the tide had left, and, light and small as she was, three little boys could not launch her till almost all the sand had been returned to its native soil.",
-    "title": "Rattlin the Reefer",
-    "author": "Howard, Edward, -1841; Marryat, Frederick, 1792-1848 [Editor]",
-    "gutenbergReference": "21578",
-    "hash": "763f4bc49282a5162be6d8207cd09fce51c0b1813ce09219b9643efb0a3464f4"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "Spruce came with me for a day's trip, taking a couple of boys and a montaría to return in. We had a fine wind, which took us across the great bays above Barra; and ",
-    "quoteTime": "about four in the afternoon",
-    "quoteLast": " we landed on a sandy beach, near which were a couple of cottages. Here Mr. S. found some handsome new flowering shrubs and trees, and I obtained five specimens of a small fish, a pacú new to me, so we both had work till supper-time; after which meal we hung our redes under the bushes as we best could, and passed an agreeable night.",
-    "title": "Travels on the Amazon",
-    "author": "Wallace, Alfred Russel, 1823-1913",
-    "gutenbergReference": "53177",
-    "hash": "b4bdf63ee8b9182869ee73a35c1988b3a3c5bbaf9f91dd7a199f83f586cd3c62"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "I watched with painful suspense the indications of the battle raging there, and was dreadfully impatient at the slow progress of the relieving column, whose advance was marked by the smokes which were made according to orders, but about 2 p.m.  I noticed with satisfaction that the smoke of battle about Allatoona grew less and less, and ceased altogether ",
-    "quoteTime": "about 4 p.m.",
-    "quoteLast": "  For a time I attributed this result to the effect of General Cog's march, but later in the afternoon the signal-flag announced the welcome tidings that the attack had been fairly repulsed, but that General Corse was wounded.",
-    "title": "Memoirs of General W. T. Sherman, Volume II., Part 3",
-    "author": "Sherman, William T. (William Tecumseh), 1820-1891",
-    "gutenbergReference": "5852",
-    "hash": "0ad2d1a4e84a8b54578e5052d20d53c24919147ecd393458fad28ee8b8c8470b"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "A publican might with the same reason charge me three livres a pound for whiting, and if questioned about the imposition, reply, that if I had asked for fish I should have had the same whiting for the fifth part of the money: but that he made a wide difference between selling it as fish, and selling it as whiting. Our felucca came round from Porto Mauritio in the night, and embarking next morning, we arrived at Nice ",
-    "quoteTime": "about four in the afternoon",
+    "quoteFirst": "The hotel turned out a wretched little place, but it was all wooded and surrounded with flower-beds. I was given a very small room. I made a large meal, and, as I had been travelling all night, I fell sound asleep after lunch at ",
+    "quoteTime": "about four o’clock in the afternoon",
     "quoteLast": ".",
-    "title": "Travels through France and Italy",
-    "author": "Smollett, T. (Tobias), 1721-1771; Seccombe, Thomas, 1866-1923 [Author of introduction, etc.]",
-    "gutenbergReference": "2311",
-    "hash": "845e9db2d1f11ba004f5179d8f0b5e1bd8fca854062b6d773bd9e6ecab115b93"
+    "title": "Stavrogin's Confession and The Plan of The Life of a Great Sinner\nWith Introductory and Explanatory Notes",
+    "author": "Dostoyevsky, Fyodor, 1821-1881; Koteliansky, S. S. (Samuel Solomonovitch), 1880-1955 [Translator]; Woolf, Virginia, 1882-1941 [Translator]",
+    "gutenbergReference": "57050",
+    "hash": "44a1300f2e7b538b92dc8814fc7f9ec8afb8d45961f08b1c5277e503f2667f05"
   },
   {
     "time": "16:01",
-    "quoteFirst": "",
-    "quoteTime": "About four o’clock in the afternoon",
-    "quoteLast": " the captain came sauntering down the beach. I knew quite well that he had seen the galleon, or at least the inference that the Chinaman had reported it to him was almost certain.",
-    "title": "The Spanish Galleon\r\nBeing an account of a search for sunken treasure in the Caribbean Sea.",
-    "author": "Seeley, Charles Sumner, 1844-",
-    "gutenbergReference": "57614",
-    "hash": "d290614defee2408e7c12eb36afcf7f855ca3c321b59025f0998b8a571944933"
+    "quoteFirst": "\"It was ",
+    "quoteTime": "about 4 in the afternoon",
+    "quoteLast": " when Granby and his English came into the fire; and I rather think the French onslaught was, if anything, more furious than ever:--Despair striding visibly forward on it, or something too like Despair. Amoneburg they had battered to pieces, Wall and Schloss, so that the 500 had to ground arms: but not an inch of way had they made upon the Bridge, nor were like to make.",
+    "title": "History of Friedrich II of Prussia — Volume 20",
+    "author": "Carlyle, Thomas, 1795-1881",
+    "gutenbergReference": "2120",
+    "hash": "d3e861ab882245e54dc238c93ad9a114cd5f27b8bb9679be1f68eb2db837dc49"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "The column left Grobellars Recht on the 16th with the 5th and 6th West Australians as rear-guard, supported by the Devonshire Regiment. The Boers followed up smartly for some hours, but there were no casualties, and camp was reached at Kromkrans at ",
+    "quoteTime": "about 4 p.m.",
+    "quoteLast": " Smutsoog was reached the next day. On the march Pulteney's column, which was seen in the distance, mistaking Kitchener's column for a commando of Boers, shelled them with field guns.",
+    "title": "The record of a regiment of the line",
+    "author": "Jacson, Mainwaring George, 1859-1915",
+    "gutenbergReference": "15972",
+    "hash": "a20fb8c94de4414f77a6e545d2992a4a53251c8201ca42564ee21e7be5798692"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "As the sun rose the wind calmed, but the thick drifts of snow rendered it impossible for her to leave the house, and she watched anxiously if any one might chance to pass, to whom she could apply for assistance in gaining tidings of her husband. Alas! her fears of the previous night were but too well founded. He had perished in the storm. His friend tried his utmost to persuade him to remain for the night when the storm began, but he was anxious to return to his home, fearing the anxiety of his family: and he left his friend's house ",
+    "quoteTime": "about four o'clock in the afternoon",
+    "quoteLast": ". The weather was intensely cold, as well as stormy, and, owing to the depth of snow which had already fallen, he could make but slow progress, and, when overtaken by darkness and the increasing tempest, benumbed with cold, and blinded by the whirling drifts of snow, he sank down by the roadside to die, and the suspense of his wife was at length relieved by the painful certainty of his fate.",
+    "title": "The Path of Duty, and Other Stories",
+    "author": "Caswell, Harriet S. (Harriet Sophia), 1834-1910",
+    "gutenbergReference": "18181",
+    "hash": "28c106258bbe45df2970b2e63fcc6ae6e82fc126241d3f87a07bd6fa49624b62"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "An enemy camp at Kilageli, ahead of the column, was located and bombarded by the D.M.B., and the column deployed and occupied this camp without resistance at ",
+    "quoteTime": "about 4 p.m.",
+    "quoteLast": " Here the column rested for the night, and on the 13th July at 1.30 p.m. it continued its advance, and at sundown reached Minokwe, which lies four miles further along the road south by west of Kilageli. At 4 a.m. on the 14th July, the column again moved forward in the direction of an enemy position some six miles to the west of Mtanduala, from the advanced trenches of which a hot fire was opened upon it. The D.M.B.",
+    "title": "The Gold Coast Regiment in the East African Campaign",
+    "author": "Clifford, Hugh Charles, Sir, 1866-1941",
+    "gutenbergReference": "52522",
+    "hash": "54ead7fb6bc2874cf203c51d71f131dd2ee83976b908c282a73486efd6fd6c22"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "At ten o'clock when you cross the creek (you always cross a creek about ten if you are in a good country), you halt and smoke. So after dinner in the lazy noon-tide, one or perhaps two pipes are necessary, with, perhaps, another ",
+    "quoteTime": "about four in the afternoon",
+    "quoteLast": ", and last, and perhaps best of all, are the three or four you smoke before the fire at night, when the day is dying and the opossums are beginning to chatter in the twilight. So that you find that a fig of Barret's twist, seventeen to the pound, is gone in the mere hours of day-light without counting such a casualty as waking up cold in the night, and going at it again.",
+    "title": "The Recollections of Geoffrey Hamlyn",
+    "author": "Kingsley, Henry, 1830-1876",
+    "gutenbergReference": "3786",
+    "hash": "5b961f15b2f5f9db1626fbfe102ea22f7a1bbca94c15aee7f844de5a221d6ec1"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "The gallant Shipp turned from him with indignation, and was immediately seized by a frightful-looking savage, who attempted to wrest his sword from him, but the Ensign was fortunately too quick for him, and buried the blade to the hilt in his body, and succeeded in reaching the fort in safety. The attack now commenced. ",
+    "quoteTime": "About four P. M.",
+    "quoteLast": ", all the enemy's guns were concentrated against the northwestern angle of the fort, for the purpose of making a breach. To counteract the effect of their fire, the commander caused that point to be strengthened by means of bags of flour, sand and other materials, in such a manner that the balls of the enemy did but little injury.",
+    "title": "Tales, Traditions and Romance of Border and Revolutionary Times",
+    "author": "Ellis, Edward Sylvester, 1840-1916",
+    "gutenbergReference": "51864",
+    "hash": "dcef4cbe8ee76fe2fc066d526f1eaa9348c07d18e51c5c4ab5fb674e9ab6ad41"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "During this halt a ration of rum was served out to the men. Resuming their march the Riflemen returned to Cawnpore, and pitched their camp near the city across the Calpee road and close to some brick-kilns. They arrived in this camp ",
+    "quoteTime": "about four P.M.",
+    "quoteLast": "",
+    "title": "The History of the Rifle Brigade (the Prince Consort's Own) Formerly the 95th",
+    "author": "Cope, William Henry, 1811-1892",
+    "gutenbergReference": "60048",
+    "hash": "1571956f37566074f7d104154f19958b2dcb55a3938e7f62f3493138cb11795b"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "In spite of our discomfort we felt fairly happy; we had made a good morning's march since the sun appeared, and though we had done very little in the darkness, yet we believed ourselves to be safe enough from pursuit. After a couple of hours' rest we resolved, in spite of the heat, to press on again, and, going rather slowly, we and our horses were not too hard pressed. ",
+    "quoteTime": "About four o'clock in the afternoon",
+    "quoteLast": " we again halted, this time for about an hour, and then, as our horses did not seem to suffer overmuch from the want of food and water--they were desert horses, one must remember--we again mounted and continued our journey to the south.",
+    "title": "A Modern Legionary",
+    "author": "Le Poer, John Patrick",
+    "gutenbergReference": "59084",
+    "hash": "f97f73d9772724f1b2d5985320b6e08d86243fd94d5bb9e25559c2f78fd0f748"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "Four Spanish ships were now in the possession of the British, and the great \"Santisima Trinidad\" was without fore or mizzen mast,—some said she had struck; but the lee division of the enemy was at last coming up, and many of the weather were still uninjured. Jervis, therefore, ",
+    "quoteTime": "about four in the afternoon",
+    "quoteLast": " formed his fleet in line on the starboard tack, interposing it between the enemy and his prizes. This ended the battle.",
+    "title": "The Influence of Sea Power upon the French Revolution and Empire 1793-1812, vol 1",
+    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+    "gutenbergReference": "52588",
+    "hash": "cbd562efd5df1d74800e8a8a3d8933398ea6047aa2fd688ec58cc83d2c10397c"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "She had been absent for about twenty minutes, and had then gone direct to her bedroom, where, on the plea of a headache, she had spent the day. When Rachael had had occasion to enter, she found her lying down, but the girl had heard her hour after hour pacing the room, and in her opinion, her mistress’s indisposition was more mental than physical. ",
+    "quoteTime": "About four o’clock that afternoon",
+    "quoteLast": " Mr.",
+    "title": "Inspector French's greatest case",
+    "author": "Crofts, Freeman Wills, 1879-1957",
+    "gutenbergReference": "65553",
+    "hash": "373a970a6c68b84e0d47c61a338d680b1a405ccb60724639c6dacda445d66ddf"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "It then fell a sheet calm, and the stranger at that hour might have been about five miles astern of us. It was ",
+    "quoteTime": "a little after four in the afternoon",
+    "quoteLast": ". The heat was fierce. The planks of the deck burnt like hot furnace-bricks through the soles of the shoes, the pitch bubbled between the seams, and in the steamy vapor that rose from the brig’s sides the lines of her bulwark rails snaked faking to her bows as though they were alive.",
+    "title": "List, Ye Landsmen! A Romance of Incident",
+    "author": "Russell, William Clark, 1844-1911",
+    "gutenbergReference": "66212",
+    "hash": "360cd1b98afb858520a0a4f417a8d14ee9a5e2767a78b4d0d96564fcffefccde"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "It was ",
+    "quoteTime": "about four o’clock in the afternoon",
+    "quoteLast": " when Dave met with a new adventure. It had more influence on his future career than he dreamed of at the time.",
+    "title": "Dave Dashaway the Young Aviator; Or, In the Clouds for Fame and Fortune",
+    "author": "Rockwood, Roy",
+    "gutenbergReference": "49190",
+    "hash": "0ce4ed86c1581fbf55d098eac16b1dd658cd35b84f2a2b02bfbe6c652985e1b3"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "I shall not attempt to reproduce all the conversation of this memorable night. It was ",
+    "quoteTime": "about four o'clock in the afternoon",
+    "quoteLast": " when I entered the dark cell. During the next three hours, as I sat on the floor close to the door of my iron cage, our talk covered a wide range of topics from grave to gay.",
+    "title": "Within Prison Walls\r\nbeing a narrative during a week of voluntary confinement in the state prison at Auburn, New York",
+    "author": "Osborne, Thomas Mott, 1859-1926",
+    "gutenbergReference": "33255",
+    "hash": "1d18b625287e9640e16367932b640b65b0c8a82a60c9984a8751dd771f9f4886"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "After Merritt had crossed the Chickahominy and reached Mechanicsville, I sent him orders to push on to Gaines's Mills.  Near the latter place he fell in with the enemy's cavalry again, and sending me word, ",
+    "quoteTime": "about 4 o'clock in the afternoon",
+    "quoteLast": " I crossed the Chickahominy with Wilson and Gregg, but when we overtook Merritt he had already brushed the Confederates away, and my whole command went into camp between Walnut Grove and Gaines's Mills.",
+    "title": "Personal Memoirs of P. H. Sheridan, General, United States Army — Complete",
+    "author": "Sheridan, Philip Henry, 1831-1888",
+    "gutenbergReference": "4362",
+    "hash": "e4dbabee84fbd4416985a48d95cae1f5ae178cd43cfa263467d758f830c0b8c4"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "He reached De Brévannes ",
+    "quoteTime": "about four o'clock in the afternoon",
+    "quoteLast": ", stopped in his carriage at the park gate, which, as we know, was close to the chalet, and sent his servant to Madame de Hansfeld with a note thus worded:--",
+    "title": "Paula Monti; or, The Hôtel Lambert",
+    "author": "Sue, Eugène, 1804-1857; David, Jules, 1808-1892 [Illustrator]; Town, Charles H. [Translator]",
+    "gutenbergReference": "64739",
+    "hash": "fb7b481919f744eb413b3ceb8d07c321a8eeafa024b3de044d383454f1092c33"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "\"At ",
+    "quoteTime": "about four o'clock in the afternoon",
+    "quoteLast": " they always went out, and from then till six Johnstone also took his airing, and I went upstairs to turn down the beds and tidy up generally. It was very seldom that any of them dined at home; I, therefore, had that two hours to myself. I got the line the hole should go by leaving the door open, fastening a stick to the back of a chair till it was, as nearly as I could judge, the height of the man's face, tying a piece of string to it and bringing it tight to the point where I settled the hole should start, and then marking the line the string made across the frame.",
+    "title": "The Lost Heir",
+    "author": "Henty, G. A. (George Alfred), 1832-1902",
+    "gutenbergReference": "36975",
+    "hash": "b1196bf461a67372f376154a70d62bef1c3045be84a870670f9bfa2a8f800e02"
+  },
+  {
+    "time": "16:01",
+    "quoteFirst": "It was ",
+    "quoteTime": "about 4 o'clock in the afternoon",
+    "quoteLast": " of June 15th, that the House came to a vote, on the passage of the Joint Resolution.  At first the strain of anxiety on both sides was great, but, as the roll proceeded, it soon became evident that the Resolution was doomed to defeat.",
+    "title": "The Great Conspiracy, Complete",
+    "author": "Logan, John Alexander, 1826-1886",
+    "gutenbergReference": "7140",
+    "hash": "576ced6652741fb59bf9aff73d7a9a3386506a8257eb352153251b4244198ad1"
   },
   {
     "time": "16:01",
@@ -78,125 +198,5 @@
     "author": "Jones, Jenkins Lloyd, 1843-1918",
     "gutenbergReference": "33211",
     "hash": "fa117eab8eab5faea9a52b1ee96f56cb4b7ed5a15194991610e274b40f9afb7c"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "",
-    "quoteTime": "About four o'clock in the afternoon",
-    "quoteLast": ", when the two armies were pressing each other on every side, and thousands of cannon caused the earth to tremble, the Emperor exclaimed, \"If this continues two hours longer, the French army will be left standing on the plain alone.\" A few moments after he gave orders to the Count Dorsenne, general of the foot grenadiers of the Old Guard, to fire on a brick-yard, behind which masses of Russians and Prussians were intrenched; and in the twinkling of an eye they were compelled to abandon this position, and a horde of sharpshooters set out in pursuit of the fugitives.",
-    "title": "Complete Project Gutenberg Collection of Memoirs of Napoleon",
-    "author": "Various",
-    "gutenbergReference": "3740",
-    "hash": "6344720ddcacc541e4ffae4cc1e8317ca97465a9f9c2561cc6a90f7acad4c9f0"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "It was ",
-    "quoteTime": "about four o'clock in the afternoon",
-    "quoteLast": ", when coming down one of the wooded slopes of Devonshire, with the dark blue sea, rising to meet the eye above the trees in the valley, he saw the little church crowning the hill above, and the few scattered white houses, which constituted the village, round the clergyman's house.",
-    "title": "Charles Tyrrell; or, The Bitter Blood. Volumes I and II",
-    "author": "James, G. P. R. (George Payne Rainsford), 1801?-1860",
-    "gutenbergReference": "50856",
-    "hash": "fc019bc6d90d24ec5ec58ea52e37adefec518c381481fbeaeabf6f397a02095d"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "The firing began from the gun-boats in the rear, and was kept up during the night. At an early hour the next morning, three _sixes_, which had been planted during the night within two hundred and fifty yards of the pickets, began to play upon the fort, but with little effect. ",
-    "quoteTime": "About 4 P.M.",
-    "quoteLast": " all the enemy's guns were concentrated against the north-western angle of the fort, for the purpose of making a breach. To counteract the effect of their fire, Maj. C.",
-    "title": "A Journal of Two Campaigns of the Fourth Regiment of U.S. Infantry\r\nIn the Michigan and Indiana Territories, Under the Command of Col. John P. Boyd, and Lt. Col. James Miller During the Years 1811, & 12.",
-    "author": "Walker, Adam [Adapter]",
-    "gutenbergReference": "38369",
-    "hash": "03e08b90f84376e2f41fb52d87b942188a65d579e75385b9ac4fc3955c42e2a2"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "It was at ",
-    "quoteTime": "about four o'clock in the afternoon",
-    "quoteLast": " that the first German column tried to advance upon Bellevue from the northern end of the spur. They were caught in our barrage and shattered.",
-    "title": "From Bapaume to Passchendaele, 1917",
-    "author": "Gibbs, Philip, 1877-1962",
-    "gutenbergReference": "35403",
-    "hash": "08337f43f8743d7e35edf8362a0b8d9c7d4dfa6911a98fa6e5adff5db53b44fb"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "The Sixth Corps is on the move this morning for Madison Court House--probably a reconnoissance. Governor Smith arrived in camp this forenoon. I started for picket ",
-    "quoteTime": "about 4 p. m.",
-    "quoteLast": " to relieve the First Division of our Corps which is to accompany the Sixth Corps to Madison Court House; arrived on picket line at 2 a. m. Feb. 28.",
-    "title": "Personal Recollections and Civil War Diary, 1864",
-    "author": "Abbott, Lemuel Abijah, 1842-1911",
-    "gutenbergReference": "47332",
-    "hash": "33d6fd84ae371ce4e98fc181564bed95424dc739008f5109a47db0eb5c7b408a"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "So they were forced to divide the mountain range north and south and make what they could of it. But the Sparrow-Hawk, remembering the pieces he had thrown over his shoulder, chose the south, where you can still see him sailing any clear day ",
-    "quoteTime": "about four in the afternoon",
-    "quoteLast": ", over all his stolen territory.",
-    "title": "California: The Land of the Sun",
-    "author": "Austin, Mary, 1868-1934; Palmer, Sutton, 1854-1933 [Illustrator]",
-    "gutenbergReference": "44764",
-    "hash": "6b43d892746b07be93120369607b1f47144ee3349e74a048ec7a8f4f818eab3c"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "It was now ",
-    "quoteTime": "about four o’clock in the afternoon",
-    "quoteLast": ", the sun still very hot and the air close and sultry. Clouds were rising in the northwest, however, with promise of a breeze or a shower; and, being desirous of catching the first cool breath that came, Moses Ayer, Lewis Hoyt and Wistar Royce climbed on the roof of their ark.",
-    "title": "The Ark of 1803: A Story of Louisiana Purchase Times",
-    "author": "Stephens, C. A. (Charles Asbury), 1844-1931; Burgess, H. [Illustrator]",
-    "gutenbergReference": "61226",
-    "hash": "c57ae798bc25654d5c72210436506c5c74eb588f2522f72d95dd086058deceef"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "Between 2 and 3 P.M. German troops in the north were seen to retire, and wild hope surged through the men that the Thirty-fifth Division, which was known to be coming up, was now within reach; but the enemy had come under his own machine-gun fire from the west and was merely withdrawing from the danger zone. ",
-    "quoteTime": "About 4 P.M.",
-    "quoteLast": " only 100 worn-out, dust-covered men remained and the ammunition was all but finished, while batteries of field-guns and several trench mortars were now in action against them. The faint chance of effecting an escape under cover of night was extinguished when, half an hour later, the enemy in great strength and dense formation surged down on the survivors.",
-    "title": "The history of the 9th (Scottish) Division, 1914-1919",
-    "author": "Ewing, John, M.C.; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator]",
-    "gutenbergReference": "75001",
-    "hash": "53798f5ff87b838437f1edbe73632053eda6da9000a5c23bfcb49c0cc3c4cccf"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "At ",
-    "quoteTime": "about four P.M.",
-    "quoteLast": " the band mounted, and set out again; but this time, instead of going at a walking pace, they galloped. The Indians, by the way, only recognize these two paces; they consider trotting an absurdity, and we confess that we are somewhat of their opinion.",
-    "title": "The Freebooters: A Story of the Texan War",
-    "author": "Aimard, Gustave, 1818-1883; Wraxall, Lascelles, Sir, 1828-1865 [Translator]",
-    "gutenbergReference": "40602",
-    "hash": "c7aa8d9ea60ff6f874dd621e38b56d811e625181064dd6eb24314fba86578fc8"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "After Merritt had crossed the Chickahominy and reached Mechanicsville, I sent him orders to push on to Gaines's Mills. Near the latter place he fell in with the enemy's cavalry again, and sending me word, ",
-    "quoteTime": "about 4 o'clock in the afternoon",
-    "quoteLast": " I crossed the Chickahominy with Wilson and Gregg, but when we overtook Merritt he had already brushed the Confederates away, and my whole command went into camp between Walnut Grove and Gaines's Mills.",
-    "title": "Project Gutenberg Edition of The Memoirs of Four Civil War Generals",
-    "author": "Grant, Ulysses S. (Ulysses Simpson), 1822-1885; Logan, John Alexander, 1826-1886; Sheridan, Philip Henry, 1831-1888; Sherman, William T. (William Tecumseh), 1820-1891; Widger, David, 1932-2021? [Compiler]",
-    "gutenbergReference": "57383",
-    "hash": "43720153b1607deb04918c15e06b6cfcf5a7009f445a0a650d05b53d403e6db4"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "We got under way at an early hour on the following morning (April 11th). It was a fine clear day, and the channels showed to great advantage, so that we were able once more to confirm the remark of old Pigafetta, that in fine weather there is in no part of the world scenery more lovely. At ",
-    "quoteTime": "about four o'clock in the afternoon",
-    "quoteLast": " we anchored at Hale Cove, a port situated close to the northern outlet of the Patagonian Channels, and here for the last time we anchored in Patagonian waters. Rain awnings were now stowed away, top-gallant masts were sent up, boats were topped and lashed, and all other requisite arrangements were made for our final departure from the Magellan region, and for encountering the long heavy ocean swell which we were sure to find awaiting us to seaward.",
-    "title": "Cruise of the \"Alert\"",
-    "author": "Coppinger, R. W. (Richard William), 1847-1910",
-    "gutenbergReference": "43483",
-    "hash": "986f59a9855765a6508f5011a31a43cf142adc77a4b2a0a6b9415d6d01e972f0"
-  },
-  {
-    "time": "16:01",
-    "quoteFirst": "the performance, and no doubt thinking me quite an unreasonable person, disapprove of the young man's proposition; and the Man-jee severely reprimands him for talking about resorting to force, and turning to the others, he lays his forefingers together and says something about Franks, Mussulmans, Turks, and Ingilis; meaning that even if we are Franks  and Mussulmans, we are not prevented from being at the same time allies and brothers.  From the khan the ascent is more gradual, though in places muddy and disagreeable from the drizzling rain which still falls, and ",
-    "quoteTime": "about 4 P.M.",
-    "quoteLast": "  I arrive at the summit.  The descent is smoother, and shorter than the western slope, but is even more abrupt; the composition is a slaty, blue clay, in which the caravans have worn trails so deep in places that a mule is hidden completely from view.  There is no room for animals to pass each other in these deep trench-like trails, and were any to meet, the only possible plan is for the ascending animals to be backed down until a wider place is reached.",
-    "title": "Around the World on a Bicycle - Volume I\r\nFrom San Francisco to Teheran",
-    "author": "Stevens, Thomas, 1854-1935",
-    "gutenbergReference": "5136",
-    "hash": "ee8ce15bb2a13af417d50c748109d51a9ecb032468ace598e53a1bea66120bcd"
   }
 ]

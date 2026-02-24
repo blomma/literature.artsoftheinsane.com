@@ -1,23 +1,33 @@
 [
   {
     "time": "22:55",
-    "quoteFirst": "My father raised himself on an elbow.  'The explosion,' he said, examining his watch, 'occurred at about ",
+    "quoteFirst": "As the Warden's eyes watched the hands of the clock, they pointed to ",
     "quoteTime": "five minutes to eleven",
-    "quoteLast": "--we are advancing into the morning--last night.  I received on your behalf the congratulations of friends Loftus, Alton, Segrave, and the rest, at that hour.",
-    "title": "The Adventures of Harry Richmond — Volume 7",
-    "author": "Meredith, George, 1828-1909",
-    "gutenbergReference": "4450",
-    "hash": "9f0fb4210aaed89069addc1e34164dd408e0fc7dac32eb144b5f9ed7edc7634d"
+    "quoteLast": ". A thought came to him.",
+    "title": "The New Warden",
+    "author": "Ritchie, David G. (David George), Mrs.",
+    "gutenbergReference": "32388",
+    "hash": "bc95b421f6b42c7442353151e4bc1e78dbe5c2de603fce3e4c362aaedb5c1457"
   },
   {
     "time": "22:55",
-    "quoteFirst": "“",
+    "quoteFirst": "\"",
     "quoteTime": "Five minutes to eleven",
-    "quoteLast": ",” muttered a voice which I could not identify.",
-    "title": "To-morrow and to-morrow ... a novel",
-    "author": "McKenna, Stephen, 1888-1967",
-    "gutenbergReference": "69589",
-    "hash": "3438f4bfd2294502af45779e7d8aee58f28f0f27d7b465e18f6566773ce1de74"
+    "quoteLast": ", I believe, Monsieur Guillot,\" Peter declared. \"I win by an hour and five minutes.\"",
+    "title": "The Double Four",
+    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+    "gutenbergReference": "28091",
+    "hash": "84dded456132dd6e8a116024b1b1a21701daac234aba27bf936c19411a2e5c4b"
+  },
+  {
+    "time": "22:55",
+    "quoteFirst": "At forty-five minutes past ten we began to ascend about two miles through a broken road, having on our right, in the valley below, the river Tchagassa; and here begins the territory of that name. At ",
+    "quoteTime": "fifty-five minutes past ten",
+    "quoteLast": ", descending still the hill, we passed a large spring of water, called Bambola, together with several plantations of sugar-canes which grow here _from the seed_. At eleven o’clock the village Tchagassa was about half a mile distant from us on our right, on the other side of the river.",
+    "title": "Travels to Discover the Source of the Nile, Volume 3 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
+    "author": "Bruce, James, 1730-1794",
+    "gutenbergReference": "54531",
+    "hash": "0186bdac0360546b5c4382bef37173c115c99004b2cba9e190af2dab43c2455c"
   },
   {
     "time": "22:55",
@@ -31,113 +41,23 @@
   },
   {
     "time": "22:55",
-    "quoteFirst": "“",
-    "quoteTime": "Five minutes to eleven",
-    "quoteLast": ",” answered Ralston, looking at his watch.",
-    "title": "Katherine Lauderdale; Vol. 1 of 2",
-    "author": "Crawford, F. Marion (Francis Marion), 1854-1909",
-    "gutenbergReference": "50607",
-    "hash": "330ee5cf9914d1b099f5eea2893bba3947d8307da3173d1c96bd70c1d0fd335c"
-  },
-  {
-    "time": "22:55",
-    "quoteFirst": "At the end of the street he stopped and looked at his watch. It was ",
-    "quoteTime": "five minutes to eleven",
-    "quoteLast": ". Looking along the pavement in front of him his eye was attracted by the striped awning that distinguished Madame Bonanni's house from the others on the same side, and he noticed an extremely smart brougham that stood just before the door. The handsome black horse stood perfectly motionless in the morning sunshine, the stony-faced English coachman sat perfectly motionless on the box, looking straight between the horse's ears; he wore a plain black livery that fitted to perfection and there was no cockade on his polished hat.",
-    "title": "Fair Margaret: A Portrait",
-    "author": "Crawford, F. Marion (Francis Marion), 1854-1909; Carpenter, Horace T. (Horace Thompson), 1857-1947 [Illustrator]",
-    "gutenbergReference": "25838",
-    "hash": "b9899edfa068bd750b0ff2edd385bc7c29887f10cdbc79cefd58cab7493ed511"
-  },
-  {
-    "time": "22:55",
-    "quoteFirst": "“",
-    "quoteTime": "Five minutes to eleven",
-    "quoteLast": ",” muttered a voice which I could not identify.",
-    "title": "To-morrow and to-morrow ... a novel",
-    "author": "McKenna, Stephen, 1888-1967",
-    "gutenbergReference": "69589",
-    "hash": "3438f4bfd2294502af45779e7d8aee58f28f0f27d7b465e18f6566773ce1de74"
-  },
-  {
-    "time": "22:55",
     "quoteFirst": "At ",
     "quoteTime": "five minutes to eleven",
-    "quoteLast": " we entered Mr. Trent's office.  Father would not go a moment earlier, as he said it was bad form to seem eager at any time, but most of all at the reading of a will.  It was a rotten grind, for we had to be walking all over the neighbourhood for half an hour before it was time, not to be too early.",
-    "title": "The Lady of the Shroud",
-    "author": "Stoker, Bram, 1847-1912",
-    "gutenbergReference": "3095",
-    "hash": "f9cf2c08287c2d5273d701dd0da3e3b62fede695cd6add9dcebeade0946d4017"
+    "quoteLast": " he sauntered up to Marie’s booth, and the French boys dispersed to find their girls. He leaned over the card-table and gave himself up to looking at her.",
+    "title": "O Pioneers!",
+    "author": "Cather, Willa, 1873-1947",
+    "gutenbergReference": "24",
+    "hash": "86234dd7081b7bad0a1e026ed46f2cd2a881e9328c1c9c935e3d20a195123ddf"
   },
   {
     "time": "22:55",
-    "quoteFirst": "\"Put this back exactly where Mademoiselle has kept it since she came here,\" he commanded. \"Now you yourself--you're going to stay in the rooms until she comes back from the concert? That's right--if she returns before my friend and I come up again, tell her that we shall present ourselves at ",
-    "quoteTime": "five minutes to eleven",
-    "quoteLast": ". Come downstairs, Allerdyke,\" he proceeded, leading the way from the room. \"We must book rooms for the night here, so we'll send to the station for our things and make our arrangements, after which we'll smoke a cigar and talk--I am beginning to see chinks of daylight.",
-    "title": "The Rayner-Slade Amalgamation",
-    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
-    "gutenbergReference": "10443",
-    "hash": "46990e2c21b56fdc625a0e946f1df009f968c9f0b6f966262039d5cd1627d67b"
-  },
-  {
-    "time": "22:55",
-    "quoteFirst": "Harker stood up and said, \"It's ",
-    "quoteTime": "five minutes to eleven",
-    "quoteLast": " now. Tell them that I'll have a statement for them before noon.\"",
-    "title": "Recalled to life",
-    "author": "Silverberg, Robert, 1935-; Bowman, Bill [Illustrator]",
-    "gutenbergReference": "72569",
-    "hash": "4a152f96f00b668cc3c599cb070dfba9cc3396f351be3efc25c457159ac5e8cd"
-  },
-  {
-    "time": "22:55",
-    "quoteFirst": "Having devastated the board, we must needs betray our folly by comparing the several timepieces. Alf stood at ",
-    "quoteTime": "five minutes to eleven",
-    "quoteLast": "; Bartholomew some minutes behind him; Croesus, with his infallible repeater, was but 10:45; as for me, I had discreetly run down. The secret was out. The clock had been tampered with, and the trusting maids betrayed.",
-    "title": "In the Footprints of the Padres",
-    "author": "Stoddard, Charles Warren, 1843-1909",
-    "gutenbergReference": "13321",
-    "hash": "646068ec5aca365b72a52dc8e826850455090108ee0d8f0410b5660913d9a5f9"
-  },
-  {
-    "time": "22:55",
-    "quoteFirst": "Mr. HARRISON. About, I would say, 3 or 4 or ",
-    "quoteTime": "5 minutes to 11",
-    "quoteLast": ". I went down to the subbasement to get me some cigars, and as I come back up out of the subbasement, well, then the officers out of our bureau were going across from the elevator to the--to there in front of the jail office.",
-    "title": "Warren Commission (12 of 26): Hearings Vol. XII (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44012",
-    "hash": "e4ca4106c0e4352293cf10c983c200d5e175c7a0563a70f560829fb3624c4e21"
-  },
-  {
-    "time": "22:55",
-    "quoteFirst": "It was ",
-    "quoteTime": "five minutes to eleven",
-    "quoteLast": ".",
-    "title": "Antonio",
-    "author": "Oldmeadow, Ernest, 1867-1949",
-    "gutenbergReference": "74116",
-    "hash": "946b95459c3366699495e044e22b63c8e225aecfa2341976d377299a8bd69428"
-  },
-  {
-    "time": "22:55",
-    "quoteFirst": "At the end of the street he stopped and looked at his watch. It was ",
-    "quoteTime": "five minutes to eleven",
-    "quoteLast": ". Looking along the pavement in front of him his eye was attracted by the striped awning that distinguished Madame Bonanni's house from the others on the same side, and he noticed an extremely smart brougham that stood just before the door. The handsome black horse stood perfectly motionless in the morning sunshine, the stony-faced English coachman sat perfectly motionless on the box, looking straight between the horse's ears; he wore a plain black livery that fitted to perfection and there was no cockade on his polished hat.",
-    "title": "Fair Margaret: A Portrait",
-    "author": "Crawford, F. Marion (Francis Marion), 1854-1909; Carpenter, Horace T. (Horace Thompson), 1857-1947 [Illustrator]",
-    "gutenbergReference": "25838",
-    "hash": "b9899edfa068bd750b0ff2edd385bc7c29887f10cdbc79cefd58cab7493ed511"
-  },
-  {
-    "time": "22:55",
-    "quoteFirst": "It was ",
-    "quoteTime": "five minutes to eleven",
-    "quoteLast": " when we gained the dungeon, and we knew that Nikka must be at a loss to account for our failure to signal him.  He might suppose us to be casualties of the storm, and in desperation, attack alone on his own account.",
-    "title": "The Treasure of the Bucoleon",
-    "author": "Smith, Arthur D. Howden (Arthur Douglas Howden), 1887-1945",
-    "gutenbergReference": "63353",
-    "hash": "62d4266e592a3a36673a6916981fc2eb4d269e1eaa422baed2c4fcb75b3217a6"
+    "quoteFirst": "\"Signed, published, and declared     } by the testatrix to be her last will } and testament, in our presence, who, } at her request and in her presence   } and in the presence of each other,   } have subscribed our names hereto as  } witnesses, on this 5th day of June,  } 1888, at ",
+    "quoteTime": "five minutes to eleven P.M.",
+    "quoteLast": " }",
+    "title": "Cynthia Wakeham's Money",
+    "author": "Green, Anna Katharine, 1846-1935",
+    "gutenbergReference": "36758",
+    "hash": "ed32e67b803f75e7ee9bb475b9fb18b71ae3fad495ba9cecc5e958ab21f2ae77"
   },
   {
     "time": "22:55",
@@ -161,42 +81,122 @@
   },
   {
     "time": "22:55",
-    "quoteFirst": "The clock was still saying ",
-    "quoteTime": "five minutes to eleven",
-    "quoteLast": " when Pooh and Piglet set out on their way half an hour later. The wind had dropped, and the snow, tired of rushing round in circles trying to catch itself up, now fluttered gently down until it found a place on which to rest, and sometimes the place was Pooh's nose and sometimes it wasn't, and in a little while Piglet was wearing a white muffler round his neck and feeling more snowy behind the ears than he had ever felt before.",
-    "title": "The house at Pooh Corner",
-    "author": "Milne, A. A. (Alan Alexander), 1882-1956; Shepard, Ernest H. (Ernest Howard), 1879-1976 [Illustrator]",
-    "gutenbergReference": "73011",
-    "hash": "14ec5ef11c9d1cdf6e028e45844ced30743f6a2a8cb623f77ea936cbaa983888"
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes to eleven",
+    "quoteLast": ", I believe, Monsieur Guillot,\" Peter declared. \"I win by an hour and five minutes.\"",
+    "title": "The Double Four",
+    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+    "gutenbergReference": "28091",
+    "hash": "84dded456132dd6e8a116024b1b1a21701daac234aba27bf936c19411a2e5c4b"
   },
   {
     "time": "22:55",
-    "quoteFirst": "On Sunday the bells were supposed to go for half an hour before service, from half-past ten to eleven. The performance was divided into certain parts. With a friend, I used to 'raise' and 'fall' the bell for ten minutes, chime a smaller bell for ten minutes or so, and at ",
-    "quoteTime": "five minutes to eleven",
-    "quoteLast": " I would fly off to play the organ at the Catholic church.",
-    "title": "The Strand Magazine, Vol. 27, No. 161, May 1904",
-    "author": "Various",
-    "gutenbergReference": "38820",
-    "hash": "be0d94c21ea1dafa482d7f723d340cb899d94ca7d6925b65e2fc4c1c13c1613c"
+    "quoteFirst": "",
+    "quoteTime": "10:55 PM",
+    "quoteLast": ", E.S.T. Satellite stations observe great nuclear explosions in China and Tibet.",
+    "title": "Plague of Pythons",
+    "author": "Pohl, Frederik, 1919-2013; Ritter, Bob [Illustrator]",
+    "gutenbergReference": "51804",
+    "hash": "b294d2cfbfa2407916e8bfcbe946156e1ada28e3338cd94b43f818b499d1ad88"
   },
   {
     "time": "22:55",
-    "quoteFirst": "At that same time, and while Her Majesty slept at 4.05 a.m. at Windsor, the Executive of the Sons of England and Lodge Commercial were in meeting at Shaftesbury Hall, Toronto. Precisely at ",
-    "quoteTime": "10.55 p.m.",
-    "quoteLast": ", on Saturday 19th, they sang the National Anthem, commenced that same moment on Sunday afternoon in Levuka, and which for the next 17¼ hours was to be coming steadily nearer with the sun until it was over Toronto at 4 p.m. on Sunday afternoon, when the Sons of England in Toronto again joined in the loyal strain as it pushed by them onwards toward the West.",
-    "title": "A Sketch of how \"The Diamond Anthem\" was Sung around the World\nThe 60th Anniversary of the Accession Day of Her Majesty Queen Victoria",
-    "author": "Cumberland, Barlow, 1846-1913",
-    "gutenbergReference": "49034",
-    "hash": "4321dd722da0ef31faab26c8bdd9ab8118f49a756eb65d6e3d1d9b0ea78fe1e7"
+    "quoteFirst": "Dimsdale came out of the library at ",
+    "quoteTime": "five minutes to eleven",
+    "quoteLast": " for a single moment to ask if you had arrived.\"",
+    "title": "The Spider",
+    "author": "Hume, Fergus, 1859-1932",
+    "gutenbergReference": "55831",
+    "hash": "03c3edc587df57661eb91ce08c9359c2f5004732166a61dec813a9ea6ac14009"
   },
   {
     "time": "22:55",
-    "quoteFirst": "It was then ",
+    "quoteFirst": "Every girl does if she wants to keep her body and soul together. You don't let me know where I stand. You know you've got me around your little finger for the saying, but you don't say. Only go now, Nicky-boy. For God's sake, it's ",
     "quoteTime": "five minutes to eleven",
-    "quoteLast": ".  Returning to the cell he lifted Bessie in his arms and carried her out of the prison.  At first he was no more conscious of her weight than he had been of the weight of the sheep on the mountains.",
-    "title": "The Master of Man: The Story of a Sin",
-    "author": "Caine, Hall, Sir, 1853-1931",
-    "gutenbergReference": "61865",
-    "hash": "7643c91c2ca94991b65b274fecb8717e816f3f34d712b17e761dbeb9debcf18c"
+    "quoteLast": " and he's due in on that ten-forty-five. Nicky-boy, go, and come back to me at six to-morrow night. I'll have the way clear then, for good.",
+    "title": "The Vertical City",
+    "author": "Hurst, Fannie, 1889-1968",
+    "gutenbergReference": "12659",
+    "hash": "a332a891a37e6a75336188778ec6bdbc9628f2b4f921b7a9244fa4844f6f21ea"
+  },
+  {
+    "time": "22:55",
+    "quoteFirst": "News coming presently that the Turkish fleet was out of action, he proclaimed a festival in Cyprus from ",
+    "quoteTime": "five to eleven at night",
+    "quoteLast": ".",
+    "title": "Beautiful Stories from Shakespeare",
+    "author": "Nesbit, E. (Edith), 1858-1924; Shakespeare, William, 1564-1616",
+    "gutenbergReference": "1430",
+    "hash": "8542d96ef9db11f953403ed1a877abbbfa49a481d161831cfe91834f4e8529ef"
+  },
+  {
+    "time": "22:55",
+    "quoteFirst": "\"Without the slightest doubt, Michel. Listen to me. It now wants but ",
+    "quoteTime": "five minutes to eleven",
+    "quoteLast": ". It is already eight minutes since we started.",
+    "title": "The Moon-Voyage",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "12901",
+    "hash": "29614d0cb697e508bebb0b8b5d1741d709b712b8bbef4a34f49ff69ff85b6ef4"
+  },
+  {
+    "time": "22:55",
+    "quoteFirst": "Allah on their bellies. At ",
+    "quoteTime": "fifty-five minutes after ten",
+    "quoteLast": ", a body of Cavalry, the Chasseurs d’Afrique, passed down to the plain, and were loudly cheered by our men. They took up ground in advance of the ridges on our left.",
+    "title": "The battles of the world",
+    "author": "Borthwick, J. Douglas (John Douglas), 1831-1912",
+    "gutenbergReference": "60652",
+    "hash": "d19c418cf8421d8dba76ac0484a0a232a0453651c082528d54f870177ba4d3af"
+  },
+  {
+    "time": "22:55",
+    "quoteFirst": "As the Warden's eyes watched the hands of the clock, they pointed to ",
+    "quoteTime": "five minutes to eleven",
+    "quoteLast": ". A thought came to him.",
+    "title": "The New Warden",
+    "author": "Ritchie, David G. (David George), Mrs.",
+    "gutenbergReference": "32388",
+    "hash": "bc95b421f6b42c7442353151e4bc1e78dbe5c2de603fce3e4c362aaedb5c1457"
+  },
+  {
+    "time": "22:55",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes to eleven",
+    "quoteLast": " on the morning named he was at the station, a false beard and spectacles shielding his identity from the public eye. If you had asked him he would have said that he was a Scotch business man.",
+    "title": "The Man with Two Left Feet, and Other Stories",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "7471",
+    "hash": "c2854766ed8daa434936d85021ffada3f6726d823041226b7c417bd7c673d84a"
+  },
+  {
+    "time": "22:55",
+    "quoteFirst": "It wanted some ",
+    "quoteTime": "five minutes to eleven",
+    "quoteLast": " when Tuppence reached the block of buildings in which the offices of the Esthonia Glassware Co. were situated. To arrive before the time would look over-eager.",
+    "title": "The Secret Adversary",
+    "author": "Christie, Agatha, 1890-1976",
+    "gutenbergReference": "1155",
+    "hash": "40baf88df861244dae2e829763448da4122cabd5077bd94f6da213b2c778a131"
+  },
+  {
+    "time": "22:55",
+    "quoteFirst": "“",
+    "quoteTime": "Five minutes to eleven",
+    "quoteLast": ",” answered Ralston, looking at his watch.",
+    "title": "Katherine Lauderdale; Vol. 1 of 2",
+    "author": "Crawford, F. Marion (Francis Marion), 1854-1909",
+    "gutenbergReference": "50607",
+    "hash": "330ee5cf9914d1b099f5eea2893bba3947d8307da3173d1c96bd70c1d0fd335c"
+  },
+  {
+    "time": "22:55",
+    "quoteFirst": "When they came to the rectory the Doctor pointed to the verse in white paint on the wall, “It shall be taken out,” he said, “before to-morrow morning: to-morrow is Sunday.”  He was expected to preach on that day and the church was crammed a quarter of an hour before the service began.  At ",
+    "quoteTime": "five minutes to eleven",
+    "quoteLast": " a lady and child entered and walked to the rector’s pew.  The congregation was stupefied with amazement.",
+    "title": "Pages from a Journal with Other Papers",
+    "author": "White, William Hale, 1831-1913",
+    "gutenbergReference": "7053",
+    "hash": "6e38b0cc8a6a11acd7a8934fc8f4f4e26940147f5abf909bf673cb94a952be1f"
   }
 ]
