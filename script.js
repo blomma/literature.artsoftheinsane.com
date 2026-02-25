@@ -15,7 +15,11 @@ async function init() {
         "_" +
         `${date.getMinutes()}`.padStart(2, "0");
 
-    const quoteData = await fetch(`quotes/${time}.json`)
+    const url = new URL(
+        `./quotes/${time}.json`,
+        window.location.origin + window.location.pathname,
+    );
+    const quoteData = await fetch(url)
         .then((response) =>
             response.ok ? response.json() : default_literature_quote,
         )
@@ -46,14 +50,16 @@ async function init() {
     citeAuthor.className = "author";
     citeAuthor.textContent = quoteData.author;
 
+    const citeContent = document.createElement(
+        quoteData.gutenbergReference ? "a" : "span",
+    );
     if (quoteData.gutenbergReference) {
-        const link = document.createElement("a");
-        link.href = `https://www.gutenberg.org/ebooks/${quoteData.gutenbergReference}`;
-        link.append(citeTitle, ",", citeAuthor);
-        cite.appendChild(link);
-    } else {
-        cite.append(citeTitle, ",", citeAuthor);
+        citeContent.href = `https://www.gutenberg.org/ebooks/${quoteData.gutenbergReference}`;
+        citeContent.target = "_blank";
+        citeContent.rel = "noopener";
     }
+    citeContent.append(citeTitle, ", ", citeAuthor);
+    cite.appendChild(citeContent);
 }
 
 function appendTextFragments(text, node) {
@@ -65,4 +71,8 @@ function appendTextFragments(text, node) {
     });
 }
 
-window.addEventListener("load", init);
+if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+} else {
+    init();
+}
