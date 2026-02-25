@@ -20,20 +20,8 @@ main {
 }
 
 blockquote {
-    font-size: 3vw;
+    font-size: clamp(1.5rem, 4vw, 3rem);
     width: 70vw;
-}
-
-@media (max-width: 991.98px) {
-    blockquote {
-        font-size: 3.5vw;
-    }
-}
-
-@media (max-width: 767.98px) {
-    blockquote {
-        font-size: 4vw;
-    }
 }
 
 em {
@@ -50,21 +38,9 @@ em {
 
 cite {
     width: 60vw;
-    font-size: 2vw;
+    font-size: clamp(1rem, 2.5vw, 1.5rem);
     display: flex;
     justify-content: flex-end;
-}
-
-@media (max-width: 991.98px) {
-    cite {
-        font-size: 2.5vw;
-    }
-}
-
-@media (max-width: 767.98px) {
-    cite {
-        font-size: 3vw;
-    }
 }
 
 .title {
@@ -87,7 +63,7 @@ footer {
     justify-content: center;
     width: 70vw;
     margin: 10vw auto 0;
-    font-size: 1.1vw;
+    font-size: clamp(0.75rem, 1.5vw, 1rem);
 }
 
 footer a {
