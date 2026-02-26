@@ -1,33 +1,73 @@
 [
   {
     "time": "14:48",
-    "quoteFirst": "[4] The bell of the church called the Badia, or Abbey, which stood within the old walls of Florence, rang daily the hours for worship, and measured the time for the Florentines. Tierce is the first division of the canonical hours of the day, from six to nine; nones, the third, from ",
-    "quoteTime": "twelve to three",
-    "quoteLast": ".",
-    "title": "The Divine Comedy, Volume 3, Paradise",
-    "author": "Dante Alighieri, 1265-1321; Norton, Charles Eliot, 1827-1908 [Translator]",
-    "gutenbergReference": "1997",
-    "hash": "fb316cb31d6313b89ad882b5c8f5195dfa2c3e43dbb86aa5f129ad22a82db278"
+    "quoteFirst": "_Breakfast from 7 to 10 A.M._ _Lunch and Dinner from ",
+    "quoteTime": "12 to 3 P.M.",
+    "quoteLast": "_ _Supper from 4 to 7 P.M._",
+    "title": "Punchinello, Volume 1, No. 03, April 16, 1870",
+    "author": "Various",
+    "gutenbergReference": "9549",
+    "hash": "878a214953e7e203c1b7ded97ec073c6df07bc12a8bf29d1cfa0646513370987"
   },
   {
     "time": "14:48",
-    "quoteFirst": "“Last night, for instance, I was in agony from ",
-    "quoteTime": "twelve to three",
-    "quoteLast": "--in agony. I don’t know what I should have done without my vegetable electricity. I took it at three, and the pain vanished immediately.”",
-    "title": "My Lady Nobody: A Novel",
-    "author": "Maartens, Maarten, 1858-1915",
-    "gutenbergReference": "49903",
-    "hash": "c14f98ae1308cc455f5283d2615e67c41d5fa0d39aeee00aae85fb063ac5e36f"
+    "quoteFirst": "At 5.30 a.m. on the 27th September the crash of the barrage announced the opening of the Canadian Corps attack. The enemy's retaliation was slight and had practically ceased by 6 a.m. The 1/4th Londons' area was occupied by eight brigades of field guns engaged in firing a flank barrage to the main attack until ",
+    "quoteTime": "2.48 p.m.",
+    "quoteLast": ", when they were to switch on a creeping barrage for the attack northwards along the Canal. Additional flank protection was furnished by six companies of machine-guns also in our area.",
+    "title": "The War History of the 4th Battalion, the London Regiment (Royal Fusiliers), 1914-1919",
+    "author": "Grimwade, F. Clive",
+    "gutenbergReference": "50098",
+    "hash": "83589cb0f2e7d7ea452a66a34511b58593311cc27923545ec5435cfd3c2971cc"
   },
   {
     "time": "14:48",
-    "quoteFirst": "I speak now of the city in the third watch, or from ",
-    "quoteTime": "twelve to three",
-    "quoteLast": " o'clock.",
-    "title": "The Abominations of Modern Society",
-    "author": "Talmage, T. De Witt (Thomas De Witt), 1832-1902",
-    "gutenbergReference": "13104",
-    "hash": "e19f5cf0e572bf8ca2be4a5a58b1a9cbd6ca4a4530afe6696d6d1b4f2d6cc72c"
+    "quoteFirst": "",
+    "quoteTime": "2:48 P.M.",
+    "quoteLast": "",
+    "title": "Project Cyclops",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34319",
+    "hash": "c0678d42370fb65c56b433e6d066d9f87db84a95c439de67a2c86f7e3173d5c6"
+  },
+  {
+    "time": "14:48",
+    "quoteFirst": "Now the position of this dial being such that its end _a m_ must face the south, and the upper part of it or the line _a f_ lying parallel to the _equinoctial_, it is evident that the sun at noon will shine just along the line _a b_, and _m l_; therefore you must place 12 at _b_ and _l_, then from ",
+    "quoteTime": "12 to 3 P.M.",
+    "quoteLast": " the shadow of the corner _a_ will pass along the line _b c_, therefore take from the quadrant _h n_, the distance _h o_, and set it from 12 to 1. Take also _h p_ and set it from 12 to 2, _h q_ being equal to _b c_; at _c_ you may place 3 where the shadow of the corner _a_ goes quite off the dial at _c_, or 3 o'clock in the afternoon; at this time the shadow of the corner _i_ will appear on the side _h g_ at _q_ or 3 o'clock, where place the figure 3; the shadow will then ascend to _p_ at 4, to _o_ at 5; at 6 there will be no shadow, the sun shining right",
+    "title": "The Mirror of Literature, Amusement, and Instruction. Volume 17, No. 493, June 11, 1831",
+    "author": "Various",
+    "gutenbergReference": "14230",
+    "hash": "d565c29353ebe9a5d6baebd295d7d673a2a0e45b4527a4f05a08224d6e9d3c7b"
+  },
+  {
+    "time": "14:48",
+    "quoteFirst": "[Illustration: Fig. 44.--Upper curve. Record obtained during period of cardiac syncopy at ",
+    "quoteTime": "2:48 p.m.",
+    "quoteLast": ", Lead II. Lower curve from dog. Ventricular fibrillation observed in the exposed heart. Lead from right foreleg and left hind leg. (Courtesy of Dr. G. C. Robinson.",
+    "title": "Arteriosclerosis and Hypertension, with Chapters on Blood Pressure\r\n3rd Edition.",
+    "author": "Warfield, Louis M. (Louis Marshall), 1876-",
+    "gutenbergReference": "37675",
+    "hash": "d6396495af2c858ca39032bda01e0663e0d424d9197bbbe84a24e61331b7e94b"
+  },
+  {
+    "time": "14:48",
+    "quoteFirst": "15 Bombardment 10 A. M. to noon, 8 shells; renewed ",
+    "quoteTime": "12 to 3 P. M.",
+    "quoteLast": ", 8 shells; again 5 to 6 P. M., 64 shells; again 8 P. M., 1 shell.",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "a7e598b301716aae1e262bfbd407b2929ca958c30ab34486fad7ed8abfda1df4"
+  },
+  {
+    "time": "14:48",
+    "quoteFirst": "15 Bombardment 10 A. M. to noon, 8 shells; renewed ",
+    "quoteTime": "12 to 3 P. M.",
+    "quoteLast": ", 8 shells; again 5 to 6 P. M., 64 shells; again 8 P. M., 1 shell.",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "a7e598b301716aae1e262bfbd407b2929ca958c30ab34486fad7ed8abfda1df4"
   },
   {
     "time": "14:48",
@@ -41,53 +81,13 @@
   },
   {
     "time": "14:48",
-    "quoteFirst": "| |                                                           | |             _Breakfast from 7 to l0 A.M._                 | |                                                           | |          _Lunch and Dinner from ",
+    "quoteFirst": "|                                                              | |                         DINING-ROOM,                         | |                                                              | |                        310 BROADWAY,                         | |                                                              | |               BETWEEN PEARL AND DUANE STREETS.               | |                                                              | |                 _Breakfast from 7 to 10 A.M.                 | |              Lunch and Dinner from ",
     "quoteTime": "12 to 3 P.M.",
-    "quoteLast": "_             | |                                                           | |                _Supper from 4 to 7 P.M._                  | |                                                           | |                M.C. BURCH, of New-York.",
-    "title": "Punchinello, Volume 1, No. 04, April 23, 1870",
+    "quoteLast": "              | |                   Supper from 4 to 7 P.M._                   | |                                                              | |                  M. C. BURCH, of New-York.                   | |                     A. STOW, of Alabama.",
+    "title": "Punchinello, Volume 1, No. 05,  April 30, 1870",
     "author": "Various",
-    "gutenbergReference": "9898",
-    "hash": "531d3fe1533079df85d86689ad8560329e4d09aef27579acf72dbe7f1e1ca3c1"
-  },
-  {
-    "time": "14:48",
-    "quoteFirst": "28 Bombardment continued, particularly violent ",
-    "quoteTime": "12 to 3 P. M.",
-    "quoteLast": " and 7 to 8:20 P. M.; St. Thomas and St. André injured.",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "cf78ed8be7fbcb749510b7cb18d5cb878d158936729b2a9a9343383275bd0fa3"
-  },
-  {
-    "time": "14:48",
-    "quoteFirst": "Everything then is served in courses, and if you are late you simply have to go without the things that were served before you sat down. In the middle of the day we rest, for it is as hot as our hottest summer from ",
-    "quoteTime": "twelve to three",
-    "quoteLast": ". After that we drive, or visit some church or museum, ending with afternoon tea. If you happen to have friends at some hotel, it is fun to drop in there.",
-    "title": "Irma in Italy: A Travel Story",
-    "author": "Reed, Helen Leah, 1860?-1926; McCullough, W. A. (William A.) [Illustrator]",
-    "gutenbergReference": "39629",
-    "hash": "aaba0db3088927ab1fbdc788a1d462ba4880bde7cd496fbb1b13c9a2a94e4bd3"
-  },
-  {
-    "time": "14:48",
-    "quoteFirst": "I found out the place where the P.E.'s were to be found and for the last seven days I have been every day to that place (which is from five to six miles from Salzburg) and there I have waited from ",
-    "quoteTime": "twelve to three",
-    "quoteLast": ", through rain and everything else, hoping and hoping for a passing sunbeam, as I could see them every now and then at the tops of the trees, and if the sun had but come out for a few minutes some of them would have been sure to have come down and settled in the road.",
-    "title": "Life of Frederick Courtenay Selous, D.S.O., Capt. 25th Royal Fusiliers",
-    "author": "Millais, John Guille, 1865-1931",
-    "gutenbergReference": "39581",
-    "hash": "75fd83d8432f49ff3a8089e3e26584f2f9763ad1b4201b610adec0e8907ec73b"
-  },
-  {
-    "time": "14:48",
-    "quoteFirst": "BURCH'S Merchant's Restaurant AND DINING-ROOM, 310 BROADWAY, BETWEEN PEARL AND DUANE STREETS. _Breakfast from 7 to 10 A.M._ _Lunch and Dinner from ",
-    "quoteTime": "12 to 3 P.M.",
-    "quoteLast": "_ _Supper from 4 to 7 P.M._ M.C. BURCH, of New-York. A. STOW, of Alabama.",
-    "title": "Punchinello, Volume 1, No. 06, May 7, 1870",
-    "author": "Various",
-    "gutenbergReference": "9960",
-    "hash": "576c26b19006c4ff45e25afb980bcc5368c2efa93cf29af72a293856b8e0c0e2"
+    "gutenbergReference": "10018",
+    "hash": "39bd87c59f8085b6c9a2f09364cd6d4c4190ef83468af21ab174b021ae0f94a3"
   },
   {
     "time": "14:48",

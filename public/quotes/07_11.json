@@ -51,13 +51,13 @@
   },
   {
     "time": "07:11",
-    "quoteFirst": "THE YEARS EIGHTEEN ",
-    "quoteTime": "FORTY-NINE TO EIGHT",
-    "quoteLast": "EEN FIFTY-ONE                 18",
-    "title": "The Life of James McNeill Whistler",
-    "author": "Pennell, Elizabeth Robins, 1855-1936; Pennell, Joseph, 1857-1926",
-    "gutenbergReference": "47363",
-    "hash": "4d09fd4c252d27c4f3bdafd8fe630239e4219851be0637e0b5b68ad6a739dff6"
+    "quoteFirst": "",
+    "quoteTime": "7:11 A.M.",
+    "quoteLast": "",
+    "title": "Project Cyclops",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34319",
+    "hash": "932cc2346ffad94edeb98dd5119664b06ae72fe41b4bd6a74c69eb1234cdec43"
   },
   {
     "time": "07:11",
@@ -68,16 +68,6 @@
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34319",
     "hash": "1d19026777cac23326efa228201388f3dfedce970c33fea9c7598a44ec757af1"
-  },
-  {
-    "time": "07:11",
-    "quoteFirst": "",
-    "quoteTime": "7:11 A.M.",
-    "quoteLast": "",
-    "title": "Project Cyclops",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34319",
-    "hash": "932cc2346ffad94edeb98dd5119664b06ae72fe41b4bd6a74c69eb1234cdec43"
   },
   {
     "time": "07:11",

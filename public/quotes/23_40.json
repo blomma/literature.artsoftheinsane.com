@@ -1,23 +1,63 @@
 [
   {
     "time": "23:40",
-    "quoteFirst": "'",
-    "quoteTime": "Twenty minutes to twelve",
-    "quoteLast": "! Then the crime must have been committed already. You saw nothing? You heard nothing?'",
-    "title": "Truth [Vérité]",
-    "author": "Zola, Émile, 1840-1902; Vizetelly, Ernest Alfred, 1853-1922 [Translator]",
-    "gutenbergReference": "55849",
-    "hash": "9326c0b828d97a9ebdb9d75e3ef2356b2671fb66fbe075bc6cb74fabff9ea8ab"
+    "quoteFirst": "November 8: Weight, 1,435 grams; 22.5 cc 2 per cent caffein or 314 mg per kilo injected at ",
+    "quoteTime": "11.40 p. m.",
+    "quoteLast": "; 5 a. m., no symptoms.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "hash": "0bd7a9bfd2a1a566fdfc9164f1d09d94b2e7f816f5bb4bfce9c1a706af740407"
   },
   {
     "time": "23:40",
-    "quoteFirst": "Distant Cape was almost equally inhospitable, and it was only after long and careful reconnoissance that we were able to get our sledges past along the narrow crest of the huge ridge of ice forced up against the rocks. After this we had comparatively fair going, on past Cape Ramsay, Dome Cape, and across Meigs Fiord, as far as Mary Murray Island. Then came some heavy going, and at ",
-    "quoteTime": "11:40 P. M.",
-    "quoteLast": " of May 8th we reached Lockwood’s cairn on the north end of Lockwood Island. From this cairn I took the record and thermometer deposited there by Lockwood eighteen years before. The record was in a perfect state of preservation.",
-    "title": "Nearest the Pole\r\na narrative of the polar expedition of the Peary Arctic Club in the S.S. Roosevelt, 1905-1906",
-    "author": "Peary, Robert E. (Robert Edwin), 1856-1920; Operti, Albert, 1852-1927 [Illustrator]",
-    "gutenbergReference": "68906",
-    "hash": "07e1e88c2eb524ef54efc26715527aac38701c88541e205e89c551880cd60ccb"
+    "quoteFirst": "The following words are written in pencil on a half sheet of notepaper:--\"March 13th, 1886. Have just seen visions on lawn:--a soldier in general's uniform,--a young lady kneeling to him. ",
+    "quoteTime": "11.40 P.M.",
+    "quoteLast": "\"] My husband was away from home when this event occurred, but a lady friend was staying with me, so I went to her bedroom and told her that I had been rather frightened by some noises;--could I stay with her a little while? A few days afterwards I found myself in a very nervous state; but it seemed so strange that I was not frightened at the time.",
+    "title": "Occultism and common-sense",
+    "author": "Willson, Beckles, 1869-1942; Barrett, William, Sir, 1844-1925 [Author of introduction, etc.]",
+    "gutenbergReference": "36730",
+    "hash": "48b6df27b1e8548c99acc99854be8902669bff6879d95891532537c40fb66bd8"
+  },
+  {
+    "time": "23:40",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes to twelve",
+    "quoteLast": " (noon) Mr. Fogg disembarked at Liverpool.[B] He was within six hours' run from London now.",
+    "title": "Round the World in Eighty Days",
+    "author": "Verne, Jules, 1828-1905; Frith, Henry, 1840- [Translator]",
+    "gutenbergReference": "32972",
+    "hash": "66e29d00fd5d256872daab81bc842919180f40ee1cd4e234ffb25ad1307450da"
+  },
+  {
+    "time": "23:40",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty minutes to twelve",
+    "quoteLast": ", sir.\"",
+    "title": "In Quest of Gold; Or, Under the Whanga Falls",
+    "author": "St. Johnston, Alfred, 1858?-1891; Browne, Gordon, 1858-1932 [Illustrator]",
+    "gutenbergReference": "42829",
+    "hash": "29515e0bb99f5879751f9b4d15f911dda99ea6972159ab2c2ba67e956347b996"
+  },
+  {
+    "time": "23:40",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty minutes to twelve",
+    "quoteLast": " when the great express entered the huge London terminus which was its destination; and Annie was indeed glad, when she found herself in the whirl of the great Paddington Station, to have Tilda's arm to lean on, and to be accompanied at the other side by Martha Jones.",
+    "title": "Three Girls from School",
+    "author": "Meade, L. T., 1854-1914; Tarrant, Percy, 1855-1934 [Illustrator]",
+    "gutenbergReference": "43138",
+    "hash": "673906373b4397fa0ce2bf17729abe9634f1bacd5b02aa38c0d538d9025b524f"
+  },
+  {
+    "time": "23:40",
+    "quoteFirst": "‘About ",
+    "quoteTime": "twenty minutes to twelve",
+    "quoteLast": ", I think,’ replied Vandeloup, ‘at least, I reached the “Wattle Tree” at about twelve o’clock, and I think it did take twenty minutes to walk there. Monsieur Villiers stopped behind with the theatre people to enjoy himself.",
+    "title": "Madame Midas",
+    "author": "Hume, Fergus, 1859-1932",
+    "gutenbergReference": "4946",
+    "hash": "71ca78d500a9a1e9fcca9f7e55aba268578cb8e28994feb51202baec718be618"
   },
   {
     "time": "23:40",
@@ -31,33 +71,23 @@
   },
   {
     "time": "23:40",
-    "quoteFirst": "And it was then ",
+    "quoteFirst": "At ",
     "quoteTime": "twenty minutes to twelve",
-    "quoteLast": ", and I sat out every one of them, waiting, watching the door, listening for a step in the corridor without. But Parslewe did not come.",
-    "title": "The copper box",
-    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
-    "gutenbergReference": "73344",
-    "hash": "a0e597c58fcc8e8de79417b62cc4d0808bcf25a3550913150578f7eb919f983f"
+    "quoteLast": ", Benedict Lurie stuck his head through Harker's door and said, \"A helicopter full of senators just landed outside. Raymond's talking to them right now.\"",
+    "title": "Recalled to life",
+    "author": "Silverberg, Robert, 1935-; Bowman, Bill [Illustrator]",
+    "gutenbergReference": "72569",
+    "hash": "9e4aef0b0c1dc29b053bf08daea2b1b80e00b18fda1b664eabd8a922c1834ff6"
   },
   {
     "time": "23:40",
-    "quoteFirst": "\"",
-    "quoteTime": "Twenty minutes to twelve",
-    "quoteLast": "! and we are now entering the creek,\" he whispered to me.",
-    "title": "The Congo Rovers: A Story of the Slave Squadron",
-    "author": "Collingwood, Harry, 1851-1922; Schönberg, John [Illustrator]",
-    "gutenbergReference": "21060",
-    "hash": "03287c55b0e7b7588edba2b6d7554101c9489cf45bf129e86594863b1a51ef1f"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "The companies were by this time terribly depleted, and the brigade gave orders that all positions were to be held, but no further advance made. This was at 3.45 p.m., and it was not till ",
-    "quoteTime": "11.40 p.m.",
-    "quoteLast": " that the welcome news came that at 6 o’clock in the morning the 8th Norfolks would attack with bombing parties along the western face of the redoubt, Stokes and Vickers guns co-operating. At 3.30 a.m. on the 5th October, therefore, Norfolk bombing parties arrived at Thiepval in search of guides, and, these being supplied, they went on.",
-    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
-    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
-    "gutenbergReference": "73159",
-    "hash": "e3e0f5c5284eea1537559c15e48a8778a3054c335e0eacf7d69d8e253adf58ac"
+    "quoteFirst": "November 8: Weight, 1,435 grams; 22.5 cc 2 per cent caffein or 314 mg per kilo injected at ",
+    "quoteTime": "11.40 p. m.",
+    "quoteLast": "; 5 a. m., no symptoms.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "hash": "0bd7a9bfd2a1a566fdfc9164f1d09d94b2e7f816f5bb4bfce9c1a706af740407"
   },
   {
     "time": "23:40",
@@ -68,35 +98,5 @@
     "author": "Rives, Hallie Erminie, 1876-1956",
     "gutenbergReference": "65018",
     "hash": "6c3ecdabc4da55d61f47e60b7708b4f53b1c5618f812df12afc1928e31f14995"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "It was just ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": " when they reached the mill.",
-    "title": "The Blower of Bubbles",
-    "author": "Baxter, Beverley, 1891-1964",
-    "gutenbergReference": "40501",
-    "hash": "666f0a0024c59b3a51977df097e842bd3c2279a721e11c9328ee5074161f4e3d"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "Her maiden voyage was a stormy one, but it easily surpassed all previous records from Liverpool to Quebec. On her second trip she left Liverpool at 5 p. m. on October 29th, and reached Rimouski on November 4th, at ",
-    "quoteTime": "11.40 p. m.",
-    "quoteLast": ", thus making the voyage in 6 days, 11 hours and 40 minutes, and to Quebec in 6 days, 23 hours, 30 minutes. Her average speed on this voyage was about 16 knots an hour, and her best day’s run, 416 knots, equal to 17⅓ knots an hour.",
-    "title": "Steam Navigation and Its Relation to the Commerce of Canada and the United States",
-    "author": "Croil, James, 1821-1916",
-    "gutenbergReference": "58849",
-    "hash": "f606646b1c00b700a00d0186332fd7b87ed370f9d1cddead8baf92675cc259fe"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "",
-    "quoteTime": "Twenty to twelve",
-    "quoteLast": " is the majority.",
-    "title": "Wilhelm Tell",
-    "author": "Schiller, Friedrich, 1759-1805; Martin, Theodore, Sir, 1816-1909 [Translator]",
-    "gutenbergReference": "2782",
-    "hash": "7a43a18eed868e0265e07f337fedc1ce35077c5923b29e673cfa0ef244ba9413"
   }
 ]

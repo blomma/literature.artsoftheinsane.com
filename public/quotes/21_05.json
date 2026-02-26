@@ -1,73 +1,33 @@
 [
   {
     "time": "21:05",
-    "quoteFirst": "\"Just ",
+    "quoteFirst": "Then he was to return on deck and ring the ship’s bell (two bells) at nine o’clock. After that he was to remain on duty until relieved; but, if his relief failed to put in an appearance at ",
+    "quoteTime": "five minutes past nine",
+    "quoteLast": ", he was to go below and turn him out of his bunk. He was then to return on deck until relieved, and under no circumstances to leave his post before the arrival of the new watch.",
+    "title": "Boy Scouts at Sea; Or, A Chronicle of the B. S. S. Bright Wing",
+    "author": "Carey, Arthur Astor, 1857-1923; Cue, Harold James, 1887-1961 [Illustrator]",
+    "gutenbergReference": "65650",
+    "hash": "87d4f5537987b59ebe74fd90a8ace57e4c3b622561c459e92254d3367f043ce7"
+  },
+  {
+    "time": "21:05",
+    "quoteFirst": "Mr. SPECTER. I have ",
+    "quoteTime": "five after nine",
+    "quoteLast": "—Dallas, Tex., time.",
+    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "56190",
+    "hash": "da62b434beaaac1d78ee9d9d9664442d64784898b17d7d82dcb78ff48fd8ebfe"
+  },
+  {
+    "time": "21:05",
+    "quoteFirst": "He got up, murmuring, “Just ",
     "quoteTime": "five minutes after nine",
-    "quoteLast": ".  No charge--keep your blessing.\"",
-    "title": "The Entire Project Gutenberg Works of Mark Twain",
+    "quoteLast": ",” and faced his clock. “Ah,” said he, “you are doing better than usual. You are only thirty-four minutes wrong. Let me see... let me see....",
+    "title": "Alonzo Fitz, and Other Stories",
     "author": "Twain, Mark, 1835-1910",
-    "gutenbergReference": "3200",
-    "hash": "bd089d07b4471d2092cf5bbe3a2216a645b9c9a0b9e657fba37b15e8ba704e54"
-  },
-  {
-    "time": "21:05",
-    "quoteFirst": "The lessons that boy taught me were useful in my after life. We began it every morning at ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": ". Any little thing set us off. He might heave a desk, or a row of books, or the slates of the whole class at my head. I might go for him first. It was uncertain how it began, but the fight was bound to be fought.",
-    "title": "The Golden Butterfly",
-    "author": "Besant, Walter, 1836-1901; Rice, James, 1843-1882",
-    "gutenbergReference": "43442",
-    "hash": "774bc4e39e07330e74495d3bb6b701c72c16498ce26480ef59f2956f426f4467"
-  },
-  {
-    "time": "21:05",
-    "quoteFirst": "(dinner), leaves Utica 4.50 p. m., arrives at Trenton Falls 5.25 p. m., Lowville 7.00 p. m. (supper), Clayton ",
-    "quoteTime": "9.05 p. m.",
-    "quoteLast": ", Alexandria Bay 10.10 p. m.",
-    "title": "\"Chicago to the Sea.\" Eastern Excursionist\r\nA complete guide to the principal eastern summer resorts, including: Niagara Falls, the White Mountains, Saint Lawrence and Saguenay Rivers, Montreal and Quebec, the New England sea beaches, etc., and how and when to enjoy them.",
-    "author": "Gage, William C.",
-    "gutenbergReference": "49894",
-    "hash": "63e993a845b3a04c43b3185721ce9e7d23c3bc9b5a35c24486e9a2c7b19b2ff9"
-  },
-  {
-    "time": "21:05",
-    "quoteFirst": "It was ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": " when I entered the great salon of the hotel and looked round for Lord Langerdale.",
-    "title": "Mr. Marx's Secret",
-    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946; Wilson, F. Vaux (Francis Vaux), 1874-1938 [Illustrator]",
-    "gutenbergReference": "39018",
-    "hash": "0b92801ea5aa31279894d4cddba600e786039f39f15a54e39905e1b69f5b594e"
-  },
-  {
-    "time": "21:05",
-    "quoteFirst": "“Certainly. My watch fell at ",
-    "quoteTime": "five minutes after nine",
-    "quoteLast": ". When it was all over, and I picked it up, it was still going, and it was 9:30.”",
-    "title": "Sight Unseen",
-    "author": "Rinehart, Mary Roberts, 1876-1958",
-    "gutenbergReference": "1960",
-    "hash": "f414b759520de17e9289b10c16f046f7d7500664379adeb1248199641a236e07"
-  },
-  {
-    "time": "21:05",
-    "quoteFirst": "This, however, was impossible; the two fleets were too close together to admit the evolution. He then signalled to haul close to the wind and wear _in succession_, which also failed to be done, and at ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": " the dreaded contingency arose; the wind hauled to the southward, knocking off all the French ships that had not yet kept away; that is, all who had English ships close under their lee (Plate XXI. C). Rodney, in the \"Formidable,\" was at this time just drawing up with the fourth ship astern of De Grasse's flag.",
-    "title": "The Influence of Sea Power Upon History, 1660-1783",
-    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
-    "gutenbergReference": "13529",
-    "hash": "fb8ce71caa2ccc69f84dc6258ed918c2b80199223c99e63956e652e2b8396931"
-  },
-  {
-    "time": "21:05",
-    "quoteFirst": "\"Nevil said in his telegram that he would be here about a quarter past seven, and it is now ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": ",\" said Mrs. Arbuthnot tearfully.",
-    "title": "Mrs. Fitz",
-    "author": "Snaith, J. C. (John Collis), 1876-1936",
-    "gutenbergReference": "34398",
-    "hash": "21d392ac9cdd871e9f6d726e3b1a221167d7702f520ca2df9ba3829d383b89b8"
+    "gutenbergReference": "3184",
+    "hash": "33d75b64350c191895c00cfef545c3ce60f33afd3eb3c501a814d4bdc527afa4"
   },
   {
     "time": "21:05",
@@ -81,22 +41,62 @@
   },
   {
     "time": "21:05",
-    "quoteFirst": "The battle thus assumed the phase of two fleets passing each other in opposite directions, on parallel lines; a condition usually unproductive of results, and amounting to little more than a brush, as had been the case in two rencounters between Rodney and De Guichen in the prolonged chase of May, 1780. Chance permitted a different issue on this occasion. The wind at the moment of first collision, shortly before 8 A.M., was east, and so continued till ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": ", when it shifted suddenly to the southeastward, ahead for the French, abaft for the British. The former, being already close to the wind, could keep their sails full only by bearing away, which broke up their line ahead, the order of battle as ranged for mutual support; while the British being able to luff could stand into the enemy's line.",
-    "title": "Types of Naval Officers, Drawn from the History of the British Navy",
-    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
-    "gutenbergReference": "18314",
-    "hash": "ed305652f850056c3d5a49e2b796934da32e3c7880993b4ce2a9bd180e161af5"
+    "quoteFirst": "(The subscription list will open on Saturday next at Four o’clock in the afternoon, and will close at ",
+    "quoteTime": "five minutes past Nine",
+    "quoteLast": " on Monday morning.)",
+    "title": "Parodies of the works of English & American authors, vol. VI",
+    "author": "Hamilton, Walter, 1844-1899 [Compiler]",
+    "gutenbergReference": "70548",
+    "hash": "5550bbe38921c6988b1909476a0f42b02e9da4831151e61e138d6d66e10822b2"
   },
   {
     "time": "21:05",
-    "quoteFirst": "“About ",
+    "quoteFirst": "“Just ",
+    "quoteTime": "five minutes after nine",
+    "quoteLast": ". No charge--keep your blessing.”",
+    "title": "Alonzo Fitz, and Other Stories",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3184",
+    "hash": "6a3cb318b51f39813df7aa29d0af1a2b2844056cad612556fd0bd4f5a810b5d9"
+  },
+  {
+    "time": "21:05",
+    "quoteFirst": "On the evening, when at ",
     "quoteTime": "five minutes past nine",
-    "quoteLast": ",” replied Ponting. “The church bell had struck nine when the row began.”",
-    "title": "The magic casket",
-    "author": "Freeman, R. Austin (Richard Austin), 1862-1943",
-    "gutenbergReference": "76919",
-    "hash": "122450094726db5868188da1d7d3f3e7534102177bc4f5779cd2c46289a8f7a8"
+    "quoteLast": " she came into the front room clad for Mrs. Prockter's party, he perceived that the tramcar would have been unsuitable. A cab might hold her.",
+    "title": "Helen with the High Hand (2nd ed.)",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "12779",
+    "hash": "d288220fb0c80fa751682e10085633b97b653a00c232ab242235a0b2d54130ed"
+  },
+  {
+    "time": "21:05",
+    "quoteFirst": "It was ",
+    "quoteTime": "five minutes past nine",
+    "quoteLast": " when Sir Michael came down-stairs, followed by his valet, grave and gray-haired like himself. The baronet was pale, but calm and self-possessed. The hand which he gave to his nephew was as cold as ice, but it was with a steady voice that he bade the young man good-by.",
+    "title": "Lady Audley's Secret",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "8954",
+    "hash": "eb230c7085b41918e5ee0f9bf23ae6bba52fd93320253ffacc229ca33e1c9b5f"
+  },
+  {
+    "time": "21:05",
+    "quoteFirst": "NOTE: The President spoke at ",
+    "quoteTime": "9:05 p.m.",
+    "quoteLast": " in the House Chamber of the Capitol. He was introduced by Thomas P. O’Neill, Jr., Speaker of the House of Representatives.",
+    "title": "State of the Union Addresses (1790-2008)",
+    "author": "United States. Presidents",
+    "gutenbergReference": "5050",
+    "hash": "12052cb7e1094fa9ab5909f27b5e73276315218e0bd6facd2f11a1a8b1b6ea1e"
+  },
+  {
+    "time": "21:05",
+    "quoteFirst": "|HAWKINS very cautiously got out of bed, and consulted his watch. It was ",
+    "quoteTime": "five minutes after nine",
+    "quoteLast": ". He stole to the door and listened. There was no sound from below. Mrs. Hedges, who had been his jailor all day, had now, he was fairly certain, finally retired for the night.",
+    "title": "Pawned",
+    "author": "Packard, Frank L. (Frank Lucius), 1877-1942",
+    "gutenbergReference": "51965",
+    "hash": "6e06158abb352c928ddc9cbbbe0442dacd80b01b44b1ce740bd05eebcf7fd53f"
   }
 ]

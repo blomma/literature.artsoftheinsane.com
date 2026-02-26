@@ -1,43 +1,73 @@
 [
   {
     "time": "05:40",
-    "quoteFirst": "",
-    "quoteTime": "5.40  a.m.",
-    "quoteLast": "    Inmates  rise.",
-    "title": "The English Prison System",
-    "author": "Ruggles-Brise, Evelyn, Sir, 1857-1935",
-    "gutenbergReference": "66174",
-    "hash": "d2d11132abe19080032c3d6291eb048d3a5d8ccd8154bf8ca2db8800d133b315"
+    "quoteFirst": "_August 13._--Left Fort Davis at ",
+    "quoteTime": "5.40 a. m.",
+    "quoteLast": " Early this morning I met the mail from Santa Fé, and, in accordance with the agreement between Mr. Giddings and myself to incorporate our two stocks, so as to perform the tri-monthly service, I sent back a portion of my own party, with orders to return as far as Fort Clarke.",
+    "title": "Report to Hon. A. V. Brown, Postmaster-General",
+    "author": "Woods, Isaiah Churchill, 1825-1880",
+    "gutenbergReference": "75650",
+    "hash": "042612fb63387efd7846cffeb7e9ff4e52805ff3ef3d88f4a61b9718516bd5ab"
   },
   {
     "time": "05:40",
-    "quoteFirst": "Peru, camphor, lead plaster, carbolic acid, ",
-    "quoteTime": "twenty to six",
-    "quoteLast": "ty grains to the ounce of ointment, camphor, and similar remedies may also be mentioned.",
-    "title": "A system of practical medicine. By American authors. Vol. 4",
-    "author": "Pepper, William, 1843-1898 [Editor]; Starr, Louis, 1849-1925 [Editor]",
-    "gutenbergReference": "62587",
-    "hash": "52a9c813b5fbf0d8f9c99705aadb6cd73dbf1ef09aada1a4409e1f372779748c"
+    "quoteFirst": "By ",
+    "quoteTime": "5.40 A.M.",
+    "quoteLast": " the whole of the first objective was in our hands.",
+    "title": "The history of the Twentieth (Light) Division",
+    "author": "Inglefield, Valentine Erskine, 1886-1947; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]",
+    "gutenbergReference": "74129",
+    "hash": "196049e62bf71571dfbe14ed7ead2b1450d10df888028f173a33929e1f2214e9"
   },
   {
     "time": "05:40",
-    "quoteFirst": "March, ",
-    "quoteTime": "5.40 a.m.",
+    "quoteFirst": "While he was still loitering, the clock of York Minster chimed the half-hour past five. Cabs rattled by him over the bridge on their way to meet the train from London, at ",
+    "quoteTime": "twenty minutes to six",
+    "quoteLast": ". After a moment’s hesitation, the captain sauntered after the cabs. When it is one of a man’s regular habits to live upon his fellow-creatures, that man is always more or less fond of haunting large railway stations.",
+    "title": "No Name",
+    "author": "Collins, Wilkie, 1824-1889",
+    "gutenbergReference": "1438",
+    "hash": "933552c78d3ebe9926cec6b96d51fa8bad23688392905a3284822777558b6d19"
+  },
+  {
+    "time": "05:40",
+    "quoteFirst": "The attack was launched in the grey of the morning at ",
+    "quoteTime": "5.40 A.M.",
     "quoteLast": "",
-    "title": "Military Instructors Manual",
-    "author": "Cole, J. P. (James Perry), 1889-1977; Schoonmaker, Oliver, 1882-1968",
-    "gutenbergReference": "14625",
-    "hash": "958d924183e2c17faef8e40dac05b7a60aa7f31f53736598bc32ce1370e6f6b0"
+    "title": "The History of the 51st (Highland) Division 1914-1918",
+    "author": "Bewsher, F. W. (Frederick William), 1886-1950",
+    "gutenbergReference": "45934",
+    "hash": "9cbc0eab2d97dfa95bae65ffa0381a76936b6106b0e8c70405f348a60481630a"
   },
   {
     "time": "05:40",
-    "quoteFirst": "The father came at intervals of from ",
-    "quoteTime": "twenty to six",
-    "quoteLast": "ty minutes to feed the little ones. He was very shy, and came so quietly that he would be first seen when he alighted close by with a low little laugh or a subdued but anxious call to the young.",
-    "title": "The Woodpeckers",
-    "author": "Eckstorm, Fannie Hardy, 1865-1946",
-    "gutenbergReference": "35062",
-    "hash": "4106acb97cc1586271e667b8d1106a58af3eb9cfe58803c1da88cbb80d9a7581"
+    "quoteFirst": "The great island of Lewis, formerly so distant from Edinburgh and Glasgow, can now be reached in fourteen hours by one who leaves the latter city at ",
+    "quoteTime": "5.40 A.M.",
+    "quoteLast": " The old route was very tiresome and circuitous: the traveller had to proceed to Inverness, take the Dingwall and Skye line to Strome Ferry, and then sail over the Minch to Stornoway. The opening up of the West Highlands by the railway to Mallaig has changed all that.",
+    "title": "Literary Tours in The Highlands and Islands of Scotland",
+    "author": "Holmes, Daniel Turner",
+    "gutenbergReference": "29178",
+    "hash": "78f90a085ed5c53a79c260631d00d3b819f98fc288095bdbfd1ecaa2f112cfe0"
+  },
+  {
+    "time": "05:40",
+    "quoteFirst": "The operations began at ",
+    "quoteTime": "5.40 A.M.",
+    "quoteLast": " on the 20th of September.",
+    "title": "The history of the Twentieth (Light) Division",
+    "author": "Inglefield, Valentine Erskine, 1886-1947; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]",
+    "gutenbergReference": "74129",
+    "hash": "974b5a80a0e326a9a273f68472614ba58dec7f1260b167fc0abe72c632a14963"
+  },
+  {
+    "time": "05:40",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes to six",
+    "quoteLast": " Captain Lawrence came within fifty yards of the 'Shannon's' starboard quarter, and gave three cheers. Ten minutes after the 'Shannon' fired her first gun, then a second.",
+    "title": "The True Story Book",
+    "author": "Lang, Andrew, 1844-1912 [Editor]",
+    "gutenbergReference": "27602",
+    "hash": "424e84e6e5033d0132915fc324f46d72388cbb404d5bc23ff7fd27aefb2fef29"
   },
   {
     "time": "05:40",
@@ -51,52 +81,22 @@
   },
   {
     "time": "05:40",
-    "quoteFirst": "“We left Crookston at ",
-    "quoteTime": "5:40 A.M.",
-    "quoteLast": "; were up at 4:30. Everybody was cheerful; there was no grumbling. This is our first unseasonable hour for getting up, but it has done us all good. Even Clara enjoyed the unique experience. It revived her memory. She recollected that she had telegraphed to Elmira to have her winter cloak expressed to Crookston. Fortunately the agent was sleeping in the express office, near the station.",
-    "title": "Eccentricities of genius",
-    "author": "Pond, James B. (James Burton), 1838-1903",
-    "gutenbergReference": "76861",
-    "hash": "9a2988e73842fe6f29b260fbbdff05c07e6431fe9fec867b809d068eb76af609"
+    "quoteFirst": "At forty-seven minutes after twelve he rose from table and went into the drawing-room; there the servant handed him an uncut copy of _The Times_, which Phileas Fogg folded and cut with a dexterity which denoted a practised hand. The perusal of this journal occupied him till a quarter to four, and then _The Standard_ sufficed till dinner-time. This repast was eaten under the same conditions as his breakfast, and at ",
+    "quoteTime": "twenty minutes to six",
+    "quoteLast": " he returned to the saloon and read _The Morning Chronicle_.",
+    "title": "Round the World in Eighty Days",
+    "author": "Verne, Jules, 1828-1905; Frith, Henry, 1840- [Translator]",
+    "gutenbergReference": "32972",
+    "hash": "1c953114c558c664ef4f0b810a693fae5b4866686b6deb16e2f03b099666016d"
   },
   {
     "time": "05:40",
-    "quoteFirst": "8. The apparatus in which the ore is smelted, is called a _blast-furnace_, which is a large pyramidal stack, built of hewn stone or brick, from ",
-    "quoteTime": "twenty to six",
-    "quoteLast": "ty feet in height, with a cavity of a proportionate size. In shape, this cavity is near that of an egg, with the largest end at the bottom.",
-    "title": "Popular Technology; or, Professions and Trades. Vol. 2 (of 2)",
-    "author": "Hazen, Edward",
-    "gutenbergReference": "40101",
-    "hash": "6021c4055d2e02c47243d0300a7ac476eaa3e017e887ed5a75fb7ee5f18b8036"
-  },
-  {
-    "time": "05:40",
-    "quoteFirst": "Squadron was in touch with the enemy’s ships; and at ",
-    "quoteTime": "5.40 A.M.",
-    "quoteLast": " the Aldeburgh wireless station reported enemy battle cruisers in sight steaming to the eastward.",
-    "title": "The Grand Fleet, 1914-1916",
-    "author": "Jellicoe, John Rushworth, 1859-1935",
-    "gutenbergReference": "75323",
-    "hash": "6b2d723858daa0bbd2508eff4f3e52e4c3ed210a3de3d0309ca22ea806e7ad50"
-  },
-  {
-    "time": "05:40",
-    "quoteFirst": "I was also _particeps criminis_ in taking on a shark line another that weighed three hundred pounds, at Little Gasparilla inlet, on the Gulf coast, in the same year. And farther up the coast, at Gordon's Pass, near Naples, I killed a number on the rod that weighed from ",
-    "quoteTime": "twenty to six",
-    "quoteLast": "ty pounds. A decade ago the south shore of this inlet, under the palmetto trees which grew on the steep bank, was a noted place for jewfish, and much frequented by Col. Haldeman and other Kentucky gentlemen who had winter residences at Naples.",
-    "title": "Favorite Fish and Fishing",
-    "author": "Henshall, James A. (James Alexander), 1836-1925",
-    "gutenbergReference": "43797",
-    "hash": "e2763d45381f1ca35f41a44a940193155cfaa5c4789b9c1d0103756b05840e8f"
-  },
-  {
-    "time": "05:40",
-    "quoteFirst": "In the Bristol district there is a railway Post Office apparatus station at Fishponds, on the Midland Railway, bags being deposited thereat by the train due at Bristol at ",
-    "quoteTime": "5.40 a.m.",
-    "quoteLast": ", and taken up by the train ex Bristol at 7.0 p.m. On the Great Western Railway, the apparatus arrangement is in operation at Flax Bourton, Nailsea, Yatton, and Hewish, chiefly in connection with the 6.15 a.m. train ex Bristol. It rarely happens that any failures occur at Fishponds or Hewish, but vagaries of the apparatus are more frequent at Yatton.",
-    "title": "The Bristol Royal Mail: Post, Telegraph, and Telephone",
-    "author": "Tombs, Robert Charles, 1842-1923",
-    "gutenbergReference": "34197",
-    "hash": "a629ea3060db42b472864dab0c08538cbc4550452a4ef74ba2bbfcd68bb46568"
+    "quoteFirst": "The lesson over, Marielle glanced at her watch. It wanted five-and-",
+    "quoteTime": "twenty minutes to six",
+    "quoteLast": ".",
+    "title": "The Girl's Own Paper, Vol. XX. No. 1003, March 18, 1899",
+    "author": "Various; Peters, Charles, active 1880-1907 [Editor]",
+    "gutenbergReference": "57652",
+    "hash": "e045150ecc3d3608048190052255fd8723da49ee06763f3c8180e13c4b314534"
   }
 ]

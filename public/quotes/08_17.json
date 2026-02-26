@@ -1,56 +1,6 @@
 [
   {
     "time": "08:17",
-    "quoteFirst": "The length of their 21st of December is about 15 hours 12 minutes, that of our 21st of June being 16 hours 34 minutes; and that of their 21st of June is 8 hours 48 minutes, that of our 21st of December being only 7 hours 44 minutes. Our earliest sunrise is at 43 minutes past 3, theirs at 24 minutes past 4; our latest sunset is at ",
-    "quoteTime": "17 minutes past 8",
-    "quoteLast": ", theirs at 36 minutes past 7. At no period of the year, therefore, do their days either increase or decrease so fast as ours.",
-    "title": "The penny magazine of the Society for the Diffusion of Useful Knowledge, issue 3, April 14, 1832",
-    "author": "Knight, Charles, 1791-1873 [Editor]",
-    "gutenbergReference": "76670",
-    "hash": "8bd50b14d7f81d04820c04c897cb71d60075a7086bb848dfc5d87e0528e8fc81"
-  },
-  {
-    "time": "08:17",
-    "quoteFirst": "Starting at 5.57 a.m. or ",
-    "quoteTime": "8.17 a.m.",
-    "quoteLast": ", Djocja is reached at 2.16 p.m. or 5.10 p.m. The 10.50 a.m. train, I found, went only as far as Magelang, so I started at 2.9 p.m., and, after a delightful run, reached Kedoeng Djattie, a fine junction station, where we changed cars.",
-    "title": "Across the Equator: A Holiday Trip in Java",
-    "author": "Reid, Thomas H.",
-    "gutenbergReference": "27556",
-    "hash": "da97c0183c537d6939744448a7615355587c5962443edbe5f480174f22207776"
-  },
-  {
-    "time": "08:17",
-    "quoteFirst": "_June 24th._ _Momus_ broke out break-down flag and dropped astern of formation. At ",
-    "quoteTime": "8.17 A.M.",
-    "quoteLast": " sighted three destroyers one point on port bow. Five destroyers joined escort during the morning.",
-    "title": "The Corsair in the war zone",
-    "author": "Paine, Ralph Delahaye, 1871-1925",
-    "gutenbergReference": "72760",
-    "hash": "6ed9c39569b998641f42b56056c8943bc07cc1ee3d2f8881fa6982e918d4f702"
-  },
-  {
-    "time": "08:17",
-    "quoteFirst": "Started at ",
-    "quoteTime": "8.17 a.m.",
-    "quoteLast": " Still on general course bearing of 95 1/2 degrees over open-timbered, well-grassed land. Afterwards at 10.11 came to and crossed same river from north-north-east to south-south-west.",
-    "title": "McKinlay's Journal of Exploration in the Interior of Australia",
-    "author": "McKinlay, John, 1819-1872",
-    "gutenbergReference": "13248",
-    "hash": "9cb31fb0b46251d96ca5e83cfdc1fdead1f1d3610f149a80310919cfbf1f8716"
-  },
-  {
-    "time": "08:17",
-    "quoteFirst": "8:07 A. M.—Caddopeak from San Pedro. ",
-    "quoteTime": "8:17 A. M.",
-    "quoteLast": "—Silverado from San Pedro.",
-    "title": "The Maltese falcon",
-    "author": "Hammett, Dashiell, 1894-1961",
-    "gutenbergReference": "77600",
-    "hash": "38f705af6a2824cde33e22ad7ef84e1de77044341e13446ee4a601d7d2616243"
-  },
-  {
-    "time": "08:17",
     "quoteFirst": "\"Chronometer, ",
     "quoteTime": "8.17 a.m.",
     "quoteLast": "; barometer, 297 in.; thermometer, 6° (43° F.). Direction, E.S.E.\"",
@@ -71,23 +21,33 @@
   },
   {
     "time": "08:17",
-    "quoteFirst": "The clock on the wall showed ",
-    "quoteTime": "seventeen minutes past eight",
-    "quoteLast": ". The night wind blew some papers from Charley Newton’s desk in the outer office where the door had been left open.",
-    "title": "The fog",
-    "author": "Pelley, William Dudley, 1890-1965",
-    "gutenbergReference": "70037",
-    "hash": "a619c484ee3206d5416add82b8695aa0b99945ecfe1fb03c1f3adda93cc04f25"
+    "quoteFirst": "These witnesses could recall with startling accuracy every detail that had occurred between ",
+    "quoteTime": "seventeen minutes after eight",
+    "quoteLast": " and twenty-one minutes past nine on the night of September 23 over a year before; but where they had been and what they had done ten minutes earlier or ten minutes later, or where they were at nine o'clock in the evening last Friday they couldn't for the lives of them remember.",
+    "title": "The Mucker",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "gutenbergReference": "331",
+    "hash": "f1785ba484b4db1c935a83a5034bd01856dcf1fa22d17ad80018ddf2c0298b77"
   },
   {
     "time": "08:17",
-    "quoteFirst": "It is really a vase of earthenware made in Staffordshire. On one side is painted in blue a Chinese scene, on the other is a clock-face in imitation of a French dial. But the hands perpetually mark ",
-    "quoteTime": "seventeen minutes past eight",
-    "quoteLast": ". In copper lustre-ware this vase with its sham dial served the cottager as something ornamental, although not useful. It is a replica in homely English earthenware of French _finesse_, a cottage echo of the vase-clocks of Sèvres in the apartments at Versailles.",
-    "title": "Chats on Old Clocks",
-    "author": "Hayden, Arthur, 1868-1946",
-    "gutenbergReference": "45772",
-    "hash": "49183cc4b0a5efd95f23a49ac19cb559fbc1ac2cf476e98771e1374afb238e84"
+    "quoteFirst": "_June 24th._ _Momus_ broke out break-down flag and dropped astern of formation. At ",
+    "quoteTime": "8.17 A.M.",
+    "quoteLast": " sighted three destroyers one point on port bow. Five destroyers joined escort during the morning.",
+    "title": "The Corsair in the war zone",
+    "author": "Paine, Ralph Delahaye, 1871-1925",
+    "gutenbergReference": "72760",
+    "hash": "6ed9c39569b998641f42b56056c8943bc07cc1ee3d2f8881fa6982e918d4f702"
+  },
+  {
+    "time": "08:17",
+    "quoteFirst": "Lyons, Wayne County, New York, is located on the New York Central Railway; a letter is started from that place for Leeds, Franklin County, Massachusetts; it is received into the New York and Chicago railway post-office at ",
+    "quoteTime": "8.17 A.M.",
+    "quoteLast": ", then it is given to the Boston and Albany railway post-office at Albany, the latter line connecting at Westfield, Massachusetts, with the Williamsburgh and New Haven railway post-office, arriving at destination at 9.37 that night.",
+    "title": "The Bay State Monthly — Volume 1, No. 1, January, 1884",
+    "author": "Various",
+    "gutenbergReference": "9174",
+    "hash": "b658e23b0b9bba7f752e7a5168201dfad43b99edef67abd34e0a2455dd151016"
   },
   {
     "time": "08:17",
@@ -101,16 +61,6 @@
   },
   {
     "time": "08:17",
-    "quoteFirst": "At ",
-    "quoteTime": "8:17 A.M.",
-    "quoteLast": ", Friday June 17th, Lindbergh hopped off in his plane for St. Louis. At Paterson he passed over the plant of the Wright Aeronautical Corporation where had been built the motor that had taken him across the Atlantic. At 11:16 he reached Columbus, Ohio.",
-    "title": "\"We\"",
-    "author": "Lindbergh, Charles A. (Charles Augustus), 1902-1974; Herrick, Myron T. (Myron Timothy), 1854-1929 [Author of introduction, etc.]; Green, Fitzhugh, 1888-1947 [Contributor]",
-    "gutenbergReference": "73142",
-    "hash": "5d2cbd71896a6cadd84363928f3f7af17df6fd2fa2543ffa22ab22c6793efc59"
-  },
-  {
-    "time": "08:17",
     "quoteFirst": "Lyons, Wayne County, New York, is located on the New York Central Railway; a letter is started from that place for Leeds, Franklin County, Massachusetts; it is received into the New York and Chicago railway post-office at ",
     "quoteTime": "8.17 A.M.",
     "quoteLast": ", then it is given to the Boston and Albany railway post-office at Albany, the latter line connecting at Westfield, Massachusetts, with the Williamsburgh and New Haven railway post-office, arriving at destination at 9.37 that night.",
@@ -118,5 +68,35 @@
     "author": "Various",
     "gutenbergReference": "9174",
     "hash": "b658e23b0b9bba7f752e7a5168201dfad43b99edef67abd34e0a2455dd151016"
+  },
+  {
+    "time": "08:17",
+    "quoteFirst": "The length of their 21st of December is about 15 hours 12 minutes, that of our 21st of June being 16 hours 34 minutes; and that of their 21st of June is 8 hours 48 minutes, that of our 21st of December being only 7 hours 44 minutes. Our earliest sunrise is at 43 minutes past 3, theirs at 24 minutes past 4; our latest sunset is at ",
+    "quoteTime": "17 minutes past 8",
+    "quoteLast": ", theirs at 36 minutes past 7. At no period of the year, therefore, do their days either increase or decrease so fast as ours.",
+    "title": "The penny magazine of the Society for the Diffusion of Useful Knowledge, issue 3, April 14, 1832",
+    "author": "Knight, Charles, 1791-1873 [Editor]",
+    "gutenbergReference": "76670",
+    "hash": "8bd50b14d7f81d04820c04c897cb71d60075a7086bb848dfc5d87e0528e8fc81"
+  },
+  {
+    "time": "08:17",
+    "quoteFirst": "Started at ",
+    "quoteTime": "8.17 a.m.",
+    "quoteLast": " Still on general course bearing of 95 1/2 degrees over open-timbered, well-grassed land. Afterwards at 10.11 came to and crossed same river from north-north-east to south-south-west.",
+    "title": "McKinlay's Journal of Exploration in the Interior of Australia",
+    "author": "McKinlay, John, 1819-1872",
+    "gutenbergReference": "13248",
+    "hash": "9cb31fb0b46251d96ca5e83cfdc1fdead1f1d3610f149a80310919cfbf1f8716"
+  },
+  {
+    "time": "08:17",
+    "quoteFirst": "Started at ",
+    "quoteTime": "8.17 a.m.",
+    "quoteLast": " Still on general course bearing of 95 1/2 degrees over open-timbered, well-grassed land. Afterwards at 10.11 came to and crossed same river from north-north-east to south-south-west.",
+    "title": "McKinlay's Journal of Exploration in the Interior of Australia",
+    "author": "McKinlay, John, 1819-1872",
+    "gutenbergReference": "13248",
+    "hash": "9cb31fb0b46251d96ca5e83cfdc1fdead1f1d3610f149a80310919cfbf1f8716"
   }
 ]

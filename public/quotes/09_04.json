@@ -1,16 +1,6 @@
 [
   {
     "time": "09:04",
-    "quoteFirst": "At 7.55 A.M. we started ahead. At 8.20 A.M. it was found that we could not handle the ship by the stern; stopped and attempted to take the line forward. Before it could be made fast, the ship settled so rapidly that the crew was obliged to abandon her, and we hauled the tow-line on board. At 8.54 A.M. the bow of the _Californian_ went down, apparently resting on bottom. At ",
-    "quoteTime": "9.04 A.M.",
-    "quoteLast": " the stern disappeared and _Corsair_ proceeded. While waiting we hoisted two of the _Californian’s_ boats on board.",
-    "title": "The Corsair in the war zone",
-    "author": "Paine, Ralph Delahaye, 1871-1925",
-    "gutenbergReference": "72760",
-    "hash": "547127cf95ad07de9a9441fb94321a1457504e394d367e4a826fdacc03782b28"
-  },
-  {
-    "time": "09:04",
     "quoteFirst": "I again gave orders to abandon the ship, which was done, and the _Californian_ soon began to sink rapidly, going down bow first until the stern was almost perpendicular. Later the ship slowly righted and the stern disappeared entirely at ",
     "quoteTime": "9.04 A.M.",
     "quoteLast": " in Latitude 46° 17′ 15″ North, Longitude 2° 10′ 30″ West.",
@@ -18,6 +8,16 @@
     "author": "Paine, Ralph Delahaye, 1871-1925",
     "gutenbergReference": "72760",
     "hash": "37a6098109cbcc194c29f14527b890d355bce1fab9f20222e0675ac40d5248fd"
+  },
+  {
+    "time": "09:04",
+    "quoteFirst": "At 7.55 A.M. we started ahead. At 8.20 A.M. it was found that we could not handle the ship by the stern; stopped and attempted to take the line forward. Before it could be made fast, the ship settled so rapidly that the crew was obliged to abandon her, and we hauled the tow-line on board. At 8.54 A.M. the bow of the _Californian_ went down, apparently resting on bottom. At ",
+    "quoteTime": "9.04 A.M.",
+    "quoteLast": " the stern disappeared and _Corsair_ proceeded. While waiting we hoisted two of the _Californian’s_ boats on board.",
+    "title": "The Corsair in the war zone",
+    "author": "Paine, Ralph Delahaye, 1871-1925",
+    "gutenbergReference": "72760",
+    "hash": "547127cf95ad07de9a9441fb94321a1457504e394d367e4a826fdacc03782b28"
   },
   {
     "time": "09:04",

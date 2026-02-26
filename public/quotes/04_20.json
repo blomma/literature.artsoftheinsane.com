@@ -1,33 +1,53 @@
 [
   {
     "time": "04:20",
-    "quoteFirst": "At 3.15 a.m. on the 16th August companies began to form up on the tape lines, the assembly being completed by ",
+    "quoteFirst": "\"By grabs!\" he exclaimed. \"",
+    "quoteTime": "Twenty after four",
+    "quoteLast": "! I can't stay, old man; I've got a date at 4:30.\"",
+    "title": "The Voice of the City: Further Stories of the Four Million",
+    "author": "Henry, O., 1862-1910",
+    "gutenbergReference": "1444",
+    "hash": "5100d37aae7ff14aed8025d2eb90e104e7f3d7f8daa03421a84a7a89dab56254"
+  },
+  {
+    "time": "04:20",
+    "quoteFirst": "\"Let me see,\" he ruminated. \"",
+    "quoteTime": "Twenty minutes past four",
+    "quoteLast": ". At exactly half past, I want you to do as I told you--see?\"",
+    "title": "The Exploits of Elaine",
+    "author": "Reeve, Arthur B. (Arthur Benjamin), 1880-1936",
+    "gutenbergReference": "5151",
+    "hash": "fdafa566e11f2cf242c5ea2216a18f6554e20bf23a5aac27393a1fca3954fdb5"
+  },
+  {
+    "time": "04:20",
+    "quoteFirst": "It was by no means an easy position to attack from, as the leading company was facing south. The assembly was finally completed at 2.15 a.m., and word passed round that the zero hour would be at ",
     "quoteTime": "4.20 a.m.",
-    "quoteLast": ", when the troops were lying down in the open under a continuous and fairly heavy shell fire and a galling machine-gun fire from the direction of Inverness Copse. About 22 casualties occurred under this fire before zero hour at 5.",
-    "title": "The War History of the 4th Battalion, the London Regiment (Royal Fusiliers), 1914-1919",
-    "author": "Grimwade, F. Clive",
-    "gutenbergReference": "50098",
-    "hash": "acbcc1a2829e8782b4652824470b6f7cf758ea27ffee427bfa72ede626a2a286"
+    "quoteLast": "; consequently there was still time to rest and to take up any minor details which might have been previously overlooked.",
+    "title": "The 116th Battalion in France",
+    "author": "Allen, E. P. S. (Evelyn Prestwood Seymour), 1885-1972",
+    "gutenbergReference": "45860",
+    "hash": "273675b805ba22c495c774bd8513c1bd76ebaa4a3eb460da99c160c2193cf19e"
   },
   {
     "time": "04:20",
-    "quoteFirst": "\"At ",
+    "quoteFirst": "Arnold, and carrying as crew Gunner Ribbans and Driver Carney. This Tank started off at ",
+    "quoteTime": "4.20 a.m.",
+    "quoteLast": " in company with the others, and when she had advanced the better part of 2 miles discovered herself to be the leading machine, all the others having been ditched.  She came under direct shell-fire from a German field battery, and turned off to the left, ran diagonally across the front of the battery at a distance of 600 yards, and fired at it with both her guns.",
+    "title": "Days to Remember: The British Empire in the Great War",
+    "author": "Buchan, John, 1875-1940; Newbolt, Henry John, Sir, 1862-1938",
+    "gutenbergReference": "49540",
+    "hash": "2b50e9e944f4a1044e69a526f95a22b705ed2e056385074aa877399714f781c7"
+  },
+  {
+    "time": "04:20",
+    "quoteFirst": "During the night Zachariah was groaning and complaining; his head was very bad, and his stomach. Noah was up at ",
     "quoteTime": "twenty minutes past four",
-    "quoteLast": " Lord Melbourne returned. 'Well, Ma'am,' he said, 'we've considered this question, and both the sides of it well, and at last we voted upon it; and there were--the Lord Chancellor for dissolution, Lord Minto[38] for it, Lord Normanby against it, but greatly modified; Lord John for, Lord Palmerston for, Lord Clarendon for, Lord Morpeth for, Lord Lansdowne for, Labouchere for, Hobhouse for, Duncannon[39] for, Baring for, Macaulay for; and under those circumstances of course I felt I could not but go with them.[40] Lord Melbourne was much affected in saying all this.",
-    "title": "The letters of Queen Victoria, vol. 1, 1837-1843",
-    "author": "Victoria, Queen of Great Britain, 1819-1901; Benson, Arthur Christopher, 1862-1925 [Editor]; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
-    "gutenbergReference": "20023",
-    "hash": "e4905569904d68e224b5dbf9efb504c4e36c27a44ebd07bfebbe3baae939ebf2"
-  },
-  {
-    "time": "04:20",
-    "quoteFirst": "“No; I was only told of the crime at ",
-    "quoteTime": "twenty past four",
-    "quoteLast": ". Alfred, that’s the footman, came on a bicycle.”",
-    "title": "In the night",
-    "author": "Gorell, Ronald Gorell Barnes, Baron, 1884-1963",
-    "gutenbergReference": "75628",
-    "hash": "e12d115e3b09b8e260888dd624a74cd668ae9c717a85c36d4fa1034d7a955e70"
+    "quoteLast": " o’clock, and he had breakfast ready at twenty minutes to five o’clock. We gave Zachariah a hot glass of brandy-and-water with sugar.",
+    "title": "Tent life with English Gipsies in Norway",
+    "author": "Smith, Hubert (Solicitor)",
+    "gutenbergReference": "57942",
+    "hash": "1553d4027d07e69ba171c2c1cca023a6c606055b4b83ad789e2926947e1f5f8b"
   },
   {
     "time": "04:20",
@@ -41,62 +61,42 @@
   },
   {
     "time": "04:20",
-    "quoteFirst": "\"",
-    "quoteTime": "Twenty minutes past four",
-    "quoteLast": ",\" said he, \"which would correspond to about a quarter to eleven on earth.  As the sun rises at half-past seven, it will be dark about three hours, for the time between dawn and daylight will, of course, be as short as that we have just experienced between sunset and night.\"",
-    "title": "A Journey in Other Worlds: A Romance of the Future",
-    "author": "Astor, John Jacob, 1864-1912",
-    "gutenbergReference": "1607",
-    "hash": "a999bec2013e4b7376cad01c809619cf8fe77be40bbc528710c8a6e80ff0dbda"
-  },
-  {
-    "time": "04:20",
-    "quoteFirst": "\"At ",
+    "quoteFirst": "\"I will not detail the labour of two successive days; but come to the last moment. At ",
     "quoteTime": "twenty minutes past four",
-    "quoteLast": " Lord Melbourne returned. 'Well, Ma'am,' he said, 'we've considered this question, and both the sides of it well, and at last we voted upon it; and there were--the Lord Chancellor for dissolution, Lord Minto[38] for it, Lord Normanby against it, but greatly modified; Lord John for, Lord Palmerston for, Lord Clarendon for, Lord Morpeth for, Lord Lansdowne for, Labouchere for, Hobhouse for, Duncannon[39] for, Baring for, Macaulay for; and under those circumstances of course I felt I could not but go with them.[40] Lord Melbourne was much affected in saying all this.",
-    "title": "The letters of Queen Victoria, vol. 1, 1837-1843",
-    "author": "Victoria, Queen of Great Britain, 1819-1901; Benson, Arthur Christopher, 1862-1925 [Editor]; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
-    "gutenbergReference": "20023",
-    "hash": "e4905569904d68e224b5dbf9efb504c4e36c27a44ebd07bfebbe3baae939ebf2"
+    "quoteLast": " on Tuesday afternoon a signal was given that the rock was in its place and that it logged again. This was announced by a spectator. But where was Lieut.",
+    "title": "Cornish Characters and Strange Events",
+    "author": "Baring-Gould, S. (Sabine), 1834-1924",
+    "gutenbergReference": "41775",
+    "hash": "48ed91eb24b56857d0ad93fb40bee567bd53e1d2a4bbdbea285013e3051db8d6"
   },
   {
     "time": "04:20",
-    "quoteFirst": "It spread out like a partly opened fan, its greatest width at the extreme end being about five degrees or more. The nucleus shone brightly as a star of the second magnitude, but by half past three it began to grow less distinct, and at ",
+    "quoteFirst": "He was soon followed by Heenan, who seemed to wish to avoid recognition, and instantly proceeded to a compartment reserved for him and his seconds. The tickets were then collected, and at ",
     "quoteTime": "twenty minutes past four",
-    "quoteLast": " the comet had faded from view on the arrival of the first few streaks of dawn.",
-    "title": "The romance of comets",
-    "author": "Proctor, Mary, 1862-1957",
-    "gutenbergReference": "75545",
-    "hash": "f07b6983b3581345c80fc0aaaf7e7b3ef61082a9ce8e96a3ae4fc606e43792e2"
+    "quoteLast": " they started on their journey. By this time night had cast off her sable mantle, and day dawned with that peculiar tint which foretold the brilliant sunny weather with which the expedition was favoured.",
+    "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
+    "author": "Miles, Henry Downes, 1806-1889",
+    "gutenbergReference": "64111",
+    "hash": "647a8edc31156f3c44fa18b32145c4aa3ee43ff20ca830560fddf69827c805ad"
   },
   {
     "time": "04:20",
-    "quoteFirst": "Another destroyer, the _Reade_, came to the rescue; at ",
-    "quoteTime": "4:20 a. m.",
-    "quoteLast": " the British salvage tugs, _Revenger_ and _Woonda_ arrived, and at 5:30 o'clock the American tug _Concord_ reached the scene. The _Smith_, which was ordered to take to port all the crew not needed, at 5:20 left for Brest.",
-    "title": "Our Navy at war",
-    "author": "Daniels, Josephus, 1862-1948",
-    "gutenbergReference": "63596",
-    "hash": "6de9f5ba9edb1f835c430fa47eaee9bfd38d90b3a8842e217026c556d3d99c79"
+    "quoteFirst": "\"By grabs!\" he exclaimed. \"",
+    "quoteTime": "Twenty after four",
+    "quoteLast": "! I can't stay, old man; I've got a date at 4:30.\"",
+    "title": "The Voice of the City: Further Stories of the Four Million",
+    "author": "Henry, O., 1862-1910",
+    "gutenbergReference": "1444",
+    "hash": "5100d37aae7ff14aed8025d2eb90e104e7f3d7f8daa03421a84a7a89dab56254"
   },
   {
     "time": "04:20",
-    "quoteFirst": "Guy Boothby, in the opening sentence of his _Across the World for a Wife_, says, \"It was a cold, dreary winter's afternoon, and by the time the hands of the clock on my mantelpiece joined forces and stood at ",
+    "quoteFirst": "Speaker uttered a word or two in so quick and shambling a fashion, that he, the novice stranger, began to fear that no word of the debate would reach him up there in his crowded back seat. All this, however, occupied but a few minutes, and at ",
     "quoteTime": "twenty minutes past four",
-    "quoteLast": ", my chambers were well-nigh as dark as midnight.\" It is evident that the author here made a slip, for, as we have seen above, he is 1 min. 49+1/11 sec. out in his reckoning.",
-    "title": "Amusements in Mathematics",
-    "author": "Dudeney, Henry Ernest, 1857-1930",
-    "gutenbergReference": "16713",
-    "hash": "539c06366bf946decb1f23fd67b81512fce7e669cd4ab5b4e30ce20a4fc2d08c"
-  },
-  {
-    "time": "04:20",
-    "quoteFirst": "In time of peace, and in the merchant-service, the London price is from a guinea to about seven-and-twenty shillings the calendar month. A common labourer in London, at the rate of nine or ten shillings a week, may earn in the calendar month from ",
-    "quoteTime": "forty to five",
-    "quoteLast": "-and-forty shillings. The sailor, indeed, over and above his pay, is supplied with provisions. Their value, however, may not perhaps always exceed the difference between his pay and that of the common labourer; and though it sometimes should, the excess will not be clear gain to the sailor, because he cannot share it with his wife and family, whom he must maintain out of his wages at home.",
-    "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
-    "author": "Smith, Adam, 1723-1790",
-    "gutenbergReference": "3300",
-    "hash": "072d89ee1fc557a0cc6b96f233e65867c97f9dbcfaa563a1f92211975feda536"
+    "quoteLast": " Mr. Daubeny was on his legs. Then the novice stranger found that, though he could not see Mr. Daubeny without the aid of an opera glass, he could hear every word that fell from his lips.",
+    "title": "Phineas Redux",
+    "author": "Trollope, Anthony, 1815-1882",
+    "gutenbergReference": "18640",
+    "hash": "afcae83fa68413fbf925ebdddf718e0f1be0edd2a5541b5a0fa66ac9a288bd5c"
   }
 ]

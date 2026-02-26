@@ -41,16 +41,6 @@
   },
   {
     "time": "11:26",
-    "quoteFirst": "by W. In the bay, which is near three quarters of a mile deep, and has from ",
-    "quoteTime": "thirty-four to twelve",
-    "quoteLast": " fathoms water, with a clean sandy bottom, are two sandy coves, divided from each other by a rocky point. In each is a rivulet of excellent water.",
-    "title": "A Voyage Towards the South Pole and Round the World, Volume 1",
-    "author": "Cook, James, 1728-1779; Furneaux, Tobias, 1735-1781 [Contributor]",
-    "gutenbergReference": "15777",
-    "hash": "b29ba5733b205bc0c75e52315bb155a4ef75b986ca559d0074c77ad8e98d2b51"
-  },
-  {
-    "time": "11:26",
     "quoteFirst": "It must be discouraging to have a class of boys around you to whom a lesson is simply a bore, and to know that you will hear, at twenty-seven minutes after eleven, the same stupid mistake which you heard made at ",
     "quoteTime": "twenty-six minutes after eleven",
     "quoteLast": ", three hundred and sixty-five days ago. In his private letters there is occasionally an expression, sometimes serious and sometimes gay, of the dislike of the necessary slavery which follows on such work.",
@@ -58,25 +48,5 @@
     "author": "Hale, Edward Everett, 1822-1909",
     "gutenbergReference": "48311",
     "hash": "00665e0539dbfdb69212408997bdd58ed10c95ba1c9fb45a1d00774e7b48b709"
-  },
-  {
-    "time": "11:26",
-    "quoteFirst": "They are a mile from each other, in the direction of north by east, and south by west. In the bay, which is near three-quarters of a mile deep, and has from ",
-    "quoteTime": "thirty-four to twelve",
-    "quoteLast": " fathoms’ water, with a clean sandy bottom, are two sandy coves, divided from each other by a rocky point. In each is a rivulet of excellent water.",
-    "title": "The Three Voyages of Captain Cook Round the World, Vol. III. Being the First of the Second Voyage",
-    "author": "Cook, James, 1728-1779; Forster, Georg, 1754-1794",
-    "gutenbergReference": "61155",
-    "hash": "ecbd7340417475ea1dcc5b90515e3dddacf7d5089bdc2a69e6ffc60ed31307e0"
-  },
-  {
-    "time": "11:26",
-    "quoteFirst": "by W. In the bay, which is near three quarters of a mile deep, and has from ",
-    "quoteTime": "thirty-four to twelve",
-    "quoteLast": " fathoms water, with a clean sandy bottom, are two sandy coves, divided from each other by a rocky point. In each is a rivulet of excellent water.",
-    "title": "A General History and Collection of Voyages and Travels — Volume 14",
-    "author": "Kerr, Robert, 1755-1813",
-    "gutenbergReference": "13381",
-    "hash": "36b9684f228270f6140031af8ce1de01bb29fa33c599d1d3b480e928707787d2"
   }
 ]

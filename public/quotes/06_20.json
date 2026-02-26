@@ -1,6 +1,46 @@
 [
   {
     "time": "06:20",
+    "quoteFirst": "Those blighted birds in the square waked us again before 5 A.M., so I got up immediately, and we were down on the sidewalk at 5:30 having breakfast. Later we were joined by our Americans and together drove to the station for the ",
+    "quoteTime": "6:20 A.M.",
+    "quoteLast": " Mexican train. On arrival we were refused a ticket, being informed by the office that already more tickets had been sold than they had accommodations for. We pushed by the barrier, and boarded the train, it was obvious we must get there somehow.",
+    "title": "My American Diary",
+    "author": "Sheridan, Clare, 1885-1970",
+    "gutenbergReference": "59066",
+    "hash": "992a5be1cbb41502ad7c156b516b349bca6e1fd78412d2161fb70f135b3bfd82"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "",
+    "quoteTime": "6:20 A. M.",
+    "quoteLast": "--DRILL Street Riot Drill and Company square; I nearly went up in the air.",
+    "title": "Rhymes of the Rookies: Sunny Side of Soldier Service",
+    "author": "Christian, W. E.",
+    "gutenbergReference": "13886",
+    "hash": "00c4beaed77d4f7255d0a26e867fc754a4a710e3e806b3337c7c9588a0b05f21"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "\"About ",
+    "quoteTime": "twenty minutes past six",
+    "quoteLast": ".\"",
+    "title": "The Lost Despatch",
+    "author": "Lincoln, Natalie Sumner, 1881-1935",
+    "gutenbergReference": "24204",
+    "hash": "f34f13ce081c5ec287b4bd4e9ddf0322cae4fe61c4f525b618dc78a3180928bb"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "Life is strenuous in this school. Here is an outline of the daily work: “5 A.M., rising bell; 5:50 A.M., warning breakfast bell; 6:00 A.M., breakfast bell; ",
+    "quoteTime": "6:20 A.M.",
+    "quoteLast": ", breakfast over; 6:20–6:50 A.M., rooms cleaned; 6:50 A.M., work bell; 7:30 A.M., morning study hour; 8:20 A.M., morning school bell; 8:25 A.M., inspection of young men’s dress in ranks; 8:40 A.M., devotional exercises in chapel; 8:55 A.M., ‘five minutes with the daily news’; 9:00 A.M., class work begins; 12:00 M.",
+    "title": "A boys' life of Booker T. Washington",
+    "author": "Jackson, Walter Clinton, 1879-1959",
+    "gutenbergReference": "75144",
+    "hash": "892ae72dba3e412906e88309d6b2708648c4140b596b5fbe5a23e0ec278c6cb6"
+  },
+  {
+    "time": "06:20",
     "quoteFirst": "\"_",
     "quoteTime": "Twenty minutes past six",
     "quoteLast": "._",
@@ -11,92 +51,52 @@
   },
   {
     "time": "06:20",
-    "quoteFirst": "Our horses having strayed farther than usual in search of better grass, we were delayed till ",
+    "quoteFirst": "The entry that I scribbled in my log at ",
+    "quoteTime": "6:20 A. M.",
+    "quoteLast": " was that we had reached a height of nine thousand four hundred feet, and were still in drifting cloud, which was sometimes so thick that it cut off from view parts of the Vickers-Vimy. Snow was still falling, and the top sides of the plane were covered completely by a crusting of frozen sleet.",
+    "title": "Flying the Atlantic in Sixteen Hours\nWith a Discussion of Aircraft in Commerce and Transportation",
+    "author": "Brown, Arthur Whitten, Sir, 1886-1948; Bott, Alan, 1893-1952 [Contributor]",
+    "gutenbergReference": "47129",
+    "hash": "551022012f62bca8288f3846a98616689df2d7f132755187a6e7dd4863abfba5"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "\"About ",
+    "quoteTime": "twenty minutes past six",
+    "quoteLast": ".\"",
+    "title": "The Lost Despatch",
+    "author": "Lincoln, Natalie Sumner, 1881-1935",
+    "gutenbergReference": "24204",
+    "hash": "f34f13ce081c5ec287b4bd4e9ddf0322cae4fe61c4f525b618dc78a3180928bb"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "The herds continued to increase. In 1956 I saw two bighorns. On August 18, at ",
+    "quoteTime": "6:20 a.m.",
+    "quoteLast": ", my wife and I briefly observed a bighorn on the rocks below Square Tower Ruins. On August 24, I was digging with a small shovel in rocky soil behind the cabin at Rock Springs, when hoof beats were heard approaching in the rocky head of the canyon to the east.",
+    "title": "Mammals of Mesa Verde National Park, Colorado",
+    "author": "Anderson, Sydney, 1927-2018",
+    "gutenbergReference": "31035",
+    "hash": "e2d326a35c5786481b2faccd9184a81b6db80e3747fa81ced0075160f9da36f4"
+  },
+  {
+    "time": "06:20",
+    "quoteFirst": "Yesterday we rested ourselves and our horses; at ",
     "quoteTime": "6.20 a.m.",
-    "quoteLast": ", when we steered a south by west course down the valley of the creek. Immediately below the camp the country beyond the effect of inundation changed to a nearly level plain of red sand, producing nothing but triodia and stunted bushes.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "71d0948f7951bb3532b2825654f380e3164ca7b8435223fb1da36aafcc4a8757"
+    "quoteLast": " my party left the Number 2 Camp of outward, and 39 of inward journey, situated at what I call the Post Office Lagoon, near a point on the left side of the Albert River, just above the Barkly and Beames Brook. I stayed behind, attended by Jemmy, until 7.",
+    "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
+    "author": "Landsborough, William, 1825-1886",
+    "gutenbergReference": "16243",
+    "hash": "88b7ad9f12d74b697135fc5eaf273f97b112d927ab9c2b359e2d3ceea1487e84"
   },
   {
     "time": "06:20",
-    "quoteFirst": "On the 31st the Battalion paraded at ",
-    "quoteTime": "twenty minutes after six",
-    "quoteLast": ", and about half-an-hour afterwards marched from Insarfu. The 42nd led, the Rifle Brigade forming the rear of the hollow square or order of battle, which was thus disposed:--",
-    "title": "The History of the Rifle Brigade (the Prince Consort's Own) Formerly the 95th",
-    "author": "Cope, William Henry, 1811-1892",
-    "gutenbergReference": "60048",
-    "hash": "d234168d4e4970d1f16cc9bffaae0d68f6cee03f750dc0fb384f25424820333a"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "On the night of the 27th of October, General Smith moved to the execution of his plan against our line of sharp-shooters. He put fifty pontoon-boats and two flat-boats in the river at Chattanooga, the former to take twenty-five men each, the latter from ",
-    "quoteTime": "forty to seven",
-    "quoteLast": "ty-five,--the boats to float quietly down the river eight miles to Brown's Ferry, cross and land the troops. At the same time a sufficient force was to march by the highway to the same point, to be in readiness for the boats to carry them over to their comrades.",
-    "title": "From Manassas to Appomattox: Memoirs of the Civil War in America",
-    "author": "Longstreet, James, 1821-1904",
-    "gutenbergReference": "38418",
-    "hash": "d7876846c9a48c6c1b5e532c58ad3edc063fd906270ed20aec1860089300ac40"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "Throughout this mound she deposits her eggs, from ",
-    "quoteTime": "forty to seven",
-    "quoteLast": "ty and over. These eggs resemble those of a goose, only that they are larger; they have a thick, tough shell, and are of about the same size at both ends.",
-    "title": "Appletons' Popular Science Monthly, January 1899\nVolume LIV, No. 3, January 1899",
-    "author": "Various; Youmans, William Jay, 1838-1901 [Editor]",
-    "gutenbergReference": "44097",
-    "hash": "83d000ee6d603319c9f49d44a62910737d62626e6c3149bd07b647e96fda757b"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "I hurried back to the Colonel of the 6th Black Watch, and I was with him in his dug-out at ",
-    "quoteTime": "6.20 A.M.",
-    "quoteLast": " when the guns began. I climbed on to the parapet and looked.",
-    "title": "A Company of Tanks",
-    "author": "Watson, William Henry Lowe, 1891-1932",
-    "gutenbergReference": "44451",
-    "hash": "222efa1d6569e21db37a91e4be42717c1a79956d5c75f8f058e4d52e2c83c2dd"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "This, as in some other books mentioned in this history, was the case with the present writer in respect of _Candide_. From twenty to forty, or thereabouts, I must have read it over and over again; the sentences drop into their places almost without exercising any effort of memory to recognise them. From ",
-    "quoteTime": "forty to seven",
-    "quoteLast": "ty I do not think I read it at all; because no reason made reading necessary, and chance left it untouched on the shelf. Sometimes, as everybody knows, the result of renewed acquaintance in such cases is more or less severe disappointment; in a few of the happiest, increased pleasure.",
-    "title": "A History of the French Novel, Vol. 1\nFrom the Beginning to 1800",
-    "author": "Saintsbury, George, 1845-1933",
-    "gutenbergReference": "26838",
-    "hash": "6f92df556b0e04e64c740ab034cdceebf2142fd84e6b0277b8c06b38a58c2ea1"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "The “skin gambler” never deals a game of faro without making use of cards known as “strippers,” or “humps.” These may be bought from dealers in gambling implements, or may be prepared by the gambler himself by using “trimming shears,” a tool devised for this special purpose, and costing from ",
-    "quoteTime": "forty to seven",
-    "quoteLast": "ty-five dollars per pair. “Strippers” are ordinary playing cards of the same size and form as the “square” ones used in dealing faro, from the edge of which a very little “strip” has been trimmed, thus making them a fraction narrower at one end than at the other.",
-    "title": "Fools of Fortune; or, Gambling and Gamblers",
-    "author": "Quinn, John Philip, 1846-; Johnson, Charles P. (Charles Philip), 1836-1920 [Contributor]; McIntyre, Robert, 1851-1914 [Contributor]; Snyder, John M., 1842-1914 [Contributor]; Swing, David, 1830-1894 [Contributor]",
-    "gutenbergReference": "58280",
-    "hash": "3d5e0fe50a997fe0175c453a9de0b95591e96e72ef9ee1c579f7aff348c08173"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "",
-    "quoteTime": "Forty to seven",
-    "quoteLast": "ty feet in height, one to three feet in diameter, sometimes low shrub. Large mahogany-colored seed.",
-    "title": "The Principal Species of Wood: Their Characteristic Properties\nFirst Edition",
-    "author": "Snow, Charles H. (Charles Henry), 1863-1957",
-    "gutenbergReference": "45032",
-    "hash": "a21642ec323b0554089a440d307968958f327f0502aef4896173f15c8f8cca68"
-  },
-  {
-    "time": "06:20",
-    "quoteFirst": "April 12. ",
+    "quoteFirst": "FIRST GRAND JUNCTION.—Bags made             6.0 a.m.         ",
     "quoteTime": "6.20 a.m.",
-    "quoteLast": "  29.89   78    73        En route to El-Muwaylah, captain's cabin. Red sunrise. Clouds thin all about horizon.",
-    "title": "The Land of Midian (Revisited) — Volume 2",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "7113",
-    "hash": "f610ecea520a72cda4bd248bb27fd64034242d9555a870b36c22a254666aebf5"
+    "quoteLast": "",
+    "title": "Drake's Road Book of the Grand Junction Railway\nfrom Birmingham to Liverpool and Manchester",
+    "author": "Drake, James, active 1825",
+    "gutenbergReference": "43367",
+    "hash": "6e13e2750999c26c834af63bb771573242c705467f1540d1e9025af06042ce65"
   }
 ]
