@@ -1,13 +1,33 @@
 [
   {
     "time": "01:53",
-    "quoteFirst": "56       ---- 23   Slough              \"    ----       ----       ---- 29   Maidenhead          \"    ----       ----       10.40 58   Newbury             \"    ----       ----        ",
-    "quoteTime": "1.53 a.m.",
-    "quoteLast": "",
-    "title": "An Old Coachman's Chatter, with Some Practical Remarks on Driving",
-    "author": "Corbett, Edward, 1817-1895; Sturgess, J. (John), 1839-1903 [Illustrator]",
-    "gutenbergReference": "43895",
-    "hash": "19a0712ca7bc297878cda3ee15ecea58cb16b9574cbc74a8b377c497c8d8d1bb"
+    "quoteFirst": "(12) The number of churches and chapels had grown from six hundred and twenty-six to one thousand three hundred and fifteen. Within the last twenty years religious houses for men had increased from twenty-one to seventy-three, and convents for religious sisters, from ninety-",
+    "quoteTime": "seven to two",
+    "quoteLast": " hundred and thirty-nine. Catholic schools and colleges had more than doubled their number, being now one thousand three hundred, whilst a little over twenty years ago it was five hundred.",
+    "title": "Pius IX. And His Time",
+    "author": "Dawson, Æneas MacDonell, 1810-1894",
+    "gutenbergReference": "29143",
+    "hash": "2b6a05fe07f9ec8aed9c1cce455cc3adc99b059b1a5fd154877ab46788eaded9"
+  },
+  {
+    "time": "01:53",
+    "quoteFirst": "\"",
+    "quoteTime": "Seven to two",
+    "quoteLast": ",\" he said, and laughed again; \"maybe it iss that Herr Harkness would like to count them.",
+    "title": "Brood of the Dark Moon\r\n(A Sequel to \"Dark Moon\")",
+    "author": "Diffin, Charles Willard, 1884-1966",
+    "gutenbergReference": "32398",
+    "hash": "a5cf3b81a7fb1387ee15d03cb6d13a9e770eb90a35eb37c951126707eac68ee9"
+  },
+  {
+    "time": "01:53",
+    "quoteFirst": "“Nonsense, man, I saw the carriage; there is no need of mystifying here. Besides, it's no affair of mine--I'm sure I wish it were! But come, what are the odds on Hitchley's colt--are ",
+    "quoteTime": "seven to two",
+    "quoteLast": " taken?”",
+    "title": "Roland Cashel, Volume I (of II)",
+    "author": "Lever, Charles, 1806-1872; Browne, Hablot Knight, 1815-1882 [Illustrator]",
+    "gutenbergReference": "33468",
+    "hash": "96b842a29bb43b419ab64bde30916534f858618ddecc121bcfc0dde5c8343f46"
   },
   {
     "time": "01:53",
@@ -21,22 +41,62 @@
   },
   {
     "time": "01:53",
-    "quoteFirst": "When Cowan had concluded, Powell took the floor to reply. At ",
-    "quoteTime": "1.53 A.M.",
-    "quoteLast": ", Bayard interrupted him with a motion to adjourn, which was negatived by 4 to 35. Powell resumed his speech and made a much longer one than his first, at the end of which he moved an adjournment, negatived by 4 to 32. Then Bayard made a long speech against the bill.",
-    "title": "The Life of Lyman Trumbull",
-    "author": "White, Horace, 1834-1916",
-    "gutenbergReference": "38043",
-    "hash": "7c16be2a3c04595295bcc524a3626a62a778d707e4adfa52dbfb15c87a73b255"
+    "quoteFirst": "Failing to find anything that suited us, we returned by Brewer Street and inspected Micklem Hall, but there was a garden attached, and we should have been constrained to walk a beagle-puppy. Leaving the last question open, I dispossessed Loring of the box-seat and drove for the next half-hour, because he had laid me five to three that there was no such college as Wadham, and ",
+    "quoteTime": "seven to two",
+    "quoteLast": " that if there were I could not find it.",
+    "title": "Sonia: Between Two Worlds",
+    "author": "McKenna, Stephen, 1888-1967",
+    "gutenbergReference": "46046",
+    "hash": "9b36559b449c21b9ea0829338a63392a23f927e323eb17e976f27b772ff4d9f7"
   },
   {
     "time": "01:53",
-    "quoteFirst": "56  ”   |          | |  23 |  Slough         |           |          |           |          | |  29 |  Maidenhead     |           |          |           |10.40  ”  | |  58 |  Newbury        |           |          |           | ",
-    "quoteTime": "1.53 a.m.",
-    "quoteLast": "| |  77 |  Marlborough    |           |          |           | 3.43  ”  | |  91 |  Devizes        |           |          |           | 5.",
-    "title": "Stage-coach and Mail in Days of Yore, Volume 2 (of 2)\nA picturesque history of the coaching age",
-    "author": "Harper, Charles G. (Charles George), 1863-1943",
-    "gutenbergReference": "58668",
-    "hash": "bbcfce5bd5009222998ea81607fdea487892d1c2bd3cddb2e0319602db8611fe"
+    "quoteFirst": "\"Thirty-nine-G! O'Rourke speaking for Morgan. Reporting fire on a wide front--bearing Two-O-",
+    "quoteTime": "Seven to Two",
+    "quoteLast": "-Four-Nine! And for God's sake, Chief, get a line on this quick. The whole thing shot up in a second--fifty miles of fire!\"",
+    "title": "The Hammer of Thor",
+    "author": "Diffin, Charles Willard, 1884-1966",
+    "gutenbergReference": "29202",
+    "hash": "6300fbe6e87bea661286a7b27f153261371837c73672412b7b88161a98cc09b6"
+  },
+  {
+    "time": "01:53",
+    "quoteFirst": "The commanding lead of the Republicans indicates that the Democratic delegation in the National House of Representatives will be reduced from twelve to seven, the Progressive delegation reduced from ",
+    "quoteTime": "seven to two",
+    "quoteLast": ", and the Republicans increased from 17 to 27.",
+    "title": "Types of News Writing",
+    "author": "Bleyer, Willard Grosvenor, 1873-1935",
+    "gutenbergReference": "59606",
+    "hash": "04dcd6431e8ad47e788597c13e5bfa0138376af286b4096c7d1926af4a57835d"
+  },
+  {
+    "time": "01:53",
+    "quoteFirst": "And then I had another hunch that told me to stick for the big show. I plant one century in my war bag and get ",
+    "quoteTime": "seven to two",
+    "quoteLast": " on the next with the other three. I win.",
+    "title": "The Sorrows of a Show Girl: A Story of the Great \"White Way\"",
+    "author": "McGaffey, Kenneth",
+    "gutenbergReference": "10508",
+    "hash": "517eb37eed3ea5cc1862197d6c3424becf61a40b52ceb16ba581a6e213380271"
+  },
+  {
+    "time": "01:53",
+    "quoteFirst": "This began tentatively in 1566 by Philip II, in diminishing the alloy of silver in the vellon or copper coinage. In 1602, Philip III, in his financial distress, was bolder and resolutely issued a pure copper coinage with a fictitious value of ",
+    "quoteTime": "seven to two",
+    "quoteLast": ", calling forth the protest of Padre Mariana which cost him his prosecution by the Inquisition. In 1605 the Lucchese envoy informs us that the treasury had already reaped a profit of 25,000,000 ducats by this fiat money, of which the marc cost 80 maravedís and had a forced circulation of 280.",
+    "title": "A History of the Inquisition of Spain; vol. 4",
+    "author": "Lea, Henry Charles, 1825-1909",
+    "gutenbergReference": "44209",
+    "hash": "39b672ffc4954f9366c2f9da88dbb2413d2eb95dbafe06e28555b962f6ae84f2"
+  },
+  {
+    "time": "01:53",
+    "quoteFirst": "Creole Belle! two straight heats! What a row and a roar went up about the pools! What hedging was done! From five to three on Rupert the odds shifted to ",
+    "quoteTime": "seven to two",
+    "quoteLast": " on Creole Belle. I could hear the riot and interpret it. I clung closely to the protecting buttonwood; there was still a last act before the play was done.",
+    "title": "The Black Lion Inn",
+    "author": "Lewis, Alfred Henry, 1857-1914; Remington, Frederic, 1861-1909 [Illustrator]",
+    "gutenbergReference": "55471",
+    "hash": "b9b73d6f53bae67a8f7e8a9a737bf1f7984057672cbe52b853995bdd6e4411c7"
   }
 ]

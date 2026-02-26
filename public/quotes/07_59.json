@@ -1,163 +1,23 @@
 [
   {
     "time": "07:59",
-    "quoteFirst": "",
-    "quoteTime": "About 8 A.M.",
-    "quoteLast": " on the 6th of May the French fleet was signalled in the offing, and was made out to consist of thirty-three sail, which with the twenty-two sail of Spaniards in Cadiz made fifty-five, besides frigates, to be encountered by the comparatively small British force. The French fleet was on the larboard tack, and our ships immediately formed on the same tack to receive them.",
-    "title": "The autobiography of a seaman (volume 1 of 2)",
-    "author": "Dundonald, Thomas Cochrane, Earl of, 1775-1860; Earp, George Butler [Compiler]; Jackson, William, active 1784?-1862 [Contributor]",
-    "gutenbergReference": "77060",
-    "hash": "fcfa2aab31c9fb68141955899b6191dae0f940386c2b498379ada23aeb34617b"
+    "quoteFirst": "[1202] “The stones are of various sizes in different structures, ranging in length from ",
+    "quoteTime": "one to eight",
+    "quoteLast": " feet, and in thickness from six inches to two feet. The larger stones are generally at the bottom, each course diminishing in thickness towards the top of the wall, thus giving a very pleasing effect of graduation.",
+    "title": "Narrative and Critical History of America, Vol. 1 (of 8)\r\nAboriginal America",
+    "author": "Winsor, Justin, 1831-1897 [Editor]",
+    "gutenbergReference": "50801",
+    "hash": "5c0daff977d07f082667b8778b97f8a773a3588b4c2731029fb6dd2b7ad96cd7"
   },
   {
     "time": "07:59",
-    "quoteFirst": "“",
-    "quoteTime": "About eight o’clock in the morn",
-    "quoteLast": "ing, the whole body of the court, St. George’s company, and the livery, met at the new elect’s, where they were entertained with sugar rolls and sack; from whence they all proceeded with the newly elected mayor to the old mayor’s, in this order; the court first, St. George’s company next, and the livery last.",
-    "title": "Rambles in an Old City\ncomprising antiquarian, historical, biographical and political associations",
-    "author": "Madders, Susan Swain",
-    "gutenbergReference": "33724",
-    "hash": "b60adc033ab2e4ef9b36cf9298a159ee418e117fba54b6e62a0666c9b94bb828"
-  },
-  {
-    "time": "07:59",
-    "quoteFirst": "The next day, the 20th of July, at ",
-    "quoteTime": "about eight o’clock in the morn",
-    "quoteLast": "ing, they caught the first glimpse of the Ural Mountains in the east. This important chain which separates Russia from Siberia was still at a great distance, and they could not hope to reach it until the end of the day.",
-    "title": "Michael Strogoff; Or, The Courier of the Czar",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "1842",
-    "hash": "e98d484b823a509f69de1d7da354511981905ced2d009fb72a9489a04b4f5e91"
-  },
-  {
-    "time": "07:59",
-    "quoteFirst": "Ghent ",
-    "quoteTime": "about eight in the morn",
-    "quoteLast": "ing, and marching through the city, encamped at Lovendegen on the canal. There they thought proper to cast up intrenchments, upon which they planted their artillery, which they had left at Gavre with their heavy baggage.",
-    "title": "The History of England in Three Volumes, Vol.II.\r\nContinued from the Reign of William and Mary to the Death of George II.",
-    "author": "Smollett, T. (Tobias), 1721-1771",
-    "gutenbergReference": "19217",
-    "hash": "b0f5d171b92693a4860b6f7da093fad89d3fadca72e308d05af423ab11df9e40"
-  },
-  {
-    "time": "07:59",
-    "quoteFirst": "",
-    "quoteTime": "About eight in the morn",
-    "quoteLast": "ing of May 29 the enemy renewed his attack, pushing in here and there along the line in search of a gap.  One attempt was made upon the Twenty-first Division, from Branscourt to Sapicourt, which was met and defeated by the 1st Lincolns and 6th Leicesters.",
-    "title": "The British Campaign in France and Flanders—January to July, 1918",
-    "author": "Doyle, Arthur Conan, 1859-1930",
-    "gutenbergReference": "65046",
-    "hash": "dcf60dede62816c67bb13c38af875b6eec80e960ea8f96e2c5a73bffa1fc974d"
-  },
-  {
-    "time": "07:59",
-    "quoteFirst": "Two Days after, the Mate ",
-    "quoteTime": "about Eight in the Morn",
-    "quoteLast": "ing, ordered a Man to the Mast-head, who spied a Sail, which made them prepare for an Engagement. There was on board one _Joseph Williams_, who had served the _African_ Company three Years on the _Guiney_ Coast, who spoke the Negroe Tongue very well; he told the Slaves he had pick'd out to the Number of 50, that the Ship in Sight he believed would fight them, and if they got the better, would certainly, as they were Cannibals, kill and eat them all, and therefore it behoved them to fight for their Lives; they had Lances and small Arms given them.",
-    "title": "The History of the Pyrates. Vol. II.\r\nContaining the lives of Captain Misson, Captain Bowen, Captain Kidd, Captain Tew, Captain Halsey, Captain White, Captain Condent, Captain Bellamy, Captain Fly, Captain Howard, Captain Lewis, Captain Cornelius, Captain Williams, Captain Burgess, Captain North, and their several crews",
-    "author": "Defoe, Daniel, 1661?-1731",
-    "gutenbergReference": "57005",
-    "hash": "07ab80ea5a340630d9c6fef2e66e9edcc20d1429619d65013005f2db08939ffd"
-  },
-  {
-    "time": "07:59",
-    "quoteFirst": "The news of the outbreak reached Fort Ridgely ",
-    "quoteTime": "about 8 o'clock a. m.",
-    "quoteLast": " on the 18th of August through the arrival of a team from the Lower Agency, which brought a citizen badly wounded, but no details. Captain John F. Marsh, of the Fifth Minnesota, with eighty-five men, was holding the fort, and upon the news reaching him he transferred his command of the fort to Lieutenant Gere and with forty-five men started for the scene of hostilities.",
-    "title": "A Thrilling Narrative of the Minnesota Massacre and the Sioux War of 1862-63\r\nGraphic Accounts of the Siege of Fort Ridgely, Battles of Birch Coolie, Wood Lake, Big Mound, Stony Lake, Dead Buffalo Lake and Missouri River",
-    "author": "Connolly, A. P. (Alonzo P.), 1836-1915",
-    "gutenbergReference": "51990",
-    "hash": "b4c73adf88e5bd599080388a99714d5e0ce64f4909e7a3282a0a90655b826ca2"
-  },
-  {
-    "time": "07:59",
-    "quoteFirst": "October 17.—Arrived at Jhelum ",
-    "quoteTime": "about eight A.M.",
-    "quoteLast": " to all intents and purposes dust inside and out. Flesh and blood can stand no more for the present, and we resolve to halt here for the day.",
-    "title": "Diary of a Pedestrian in Cashmere and Thibet",
-    "author": "Knight, W. H. (William Henry)",
-    "gutenbergReference": "3639",
-    "hash": "7a460e61fd2e68dc5a25b62361efe17860a39c43579530dec31295fc1350d850"
-  },
-  {
-    "time": "07:59",
-    "quoteFirst": "A few men of the Battalion apparently managed to get in with the 16th.  The attack against a position strongly held and protected by impassable wire was necessarily doomed to failure, and a message from Major McCuaig, ",
-    "quoteTime": "about 8 a.m.",
-    "quoteLast": ", stated that the 13th had been compelled to retire.  Their casualties were very heavy.",
-    "title": "Canada in Flanders, Volume III",
-    "author": "Roberts, Charles G. D., Sir, 1860-1943; Beaverbrook, Max Aitken, Baron, 1879-1964 [Author of introduction, etc.]",
-    "gutenbergReference": "46116",
-    "hash": "ce2cd2c5de3f5e74b3503a06daa7f4ae5c10c58284fd2c8af262867941f9f350"
-  },
-  {
-    "time": "07:59",
-    "quoteFirst": "It was ",
-    "quoteTime": "about eight o'clock in the morn",
-    "quoteLast": "ing that the door of the prison cell was opened and Gilbert Burnham and I were ordered to march out into a larger apartment.",
-    "title": "When Santiago Fell; or, The War Adventures of Two Chums",
-    "author": "Stratemeyer, Edward, 1862-1930",
-    "gutenbergReference": "51798",
-    "hash": "0787dc8eb128e1a699fce0a7c0bda0d220c69646e8a0aa43dc23a7ae8908b9e0"
-  },
-  {
-    "time": "07:59",
-    "quoteFirst": "Remained on board another dinner, a circumstance which possibly influenced the weak mind of the Captain of the \"Reed.\" Awaking at dawn, I went out, expecting to find the vessel within stone's throw: it was nowhere visible. ",
-    "quoteTime": "About 8 A.M.",
-    "quoteLast": ", it appeared in sight, a mere speck upon the sea-horizon, and whilst it approached, I inspected the settlement.",
-    "title": "First Footsteps in East Africa",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "6886",
-    "hash": "89d28fec34de647a3a7d6669ddd439272ed83cefd0592f6c8b0ba3fc7a2f539b"
-  },
-  {
-    "time": "07:59",
-    "quoteFirst": "",
-    "quoteTime": "About 8 a.m.",
-    "quoteLast": " three Japanese batteries of heavy guns, posted in a valley behind 174 Metre Hill, four quick-firing guns from 174 Metre Hill itself, and five or seven heavy guns that came into action on Connecting Ridge, near the Chinese temple, all of them concealed from our batteries, opened fire with high-explosive shell and shrapnel.",
-    "title": "My Experiences at Nan Shan and Port Arthur with the Fifth East Siberian Rifles",
-    "author": "Tret'iakov, Nikolaĭ Aleksandrovich, 1854-1917; Baker, F. Nolan [Editor]; Alford, Arthur Cameron Rimington, 1882-1954 [Translator]",
-    "gutenbergReference": "59741",
-    "hash": "5e3f14da8cb62b6293481b11d81380da35fa627a7e1f2c683cc0d7225e8771aa"
-  },
-  {
-    "time": "07:59",
-    "quoteFirst": "",
-    "quoteTime": "About eight in the morn",
-    "quoteLast": "ing both parties arrived near the village of Trenton. General Washington, who rode near the front of his column, asked a man who was chopping wood by the roadside:",
-    "title": "Revolutionary Heroes, and Other Historical Papers",
-    "author": "Parton, James, 1822-1891",
-    "gutenbergReference": "8154",
-    "hash": "6759d98e3baf3d9530f6ee861d96b01522df64525872a7cd0d5ea2ddb184ad65"
-  },
-  {
-    "time": "07:59",
-    "quoteFirst": "Church. The assault was made ",
-    "quoteTime": "about eight in the morn",
-    "quoteLast": "ing of May 9, and the storming party entered without difficulty, but found that their work was still to do. O'Neill had manned the houses and erected two breastworks of 'dunghills, mortar, stones and timber,' making a lane about eighty yards inwards from the breach with a masked battery at the end.",
-    "title": "Ireland under the Stuarts and During the Interregnum, Vol. 2 (of 3), 1642-1660",
-    "author": "Bagwell, Richard, 1840-1918",
-    "gutenbergReference": "53916",
-    "hash": "8be99f988b58115523f2290fdf1aa101895f35dc2c01c52cd83def6d74837c2b"
-  },
-  {
-    "time": "07:59",
-    "quoteFirst": "",
-    "quoteTime": "About eight in the morn",
-    "quoteLast": "ing, there was a tentative tap on my door. While I was growling about why they should bother tapping, the door opened and a woman came in with my breakfast tray. She was not my nurse; she was the enamelled blonde receptionist.",
-    "title": "Highways in Hiding",
-    "author": "Smith, George O. (George Oliver), 1911-1981",
-    "gutenbergReference": "20519",
-    "hash": "79da9212a140c7e9052a0adfe928332a07f240f6625dc7d47d991c2353574317"
-  },
-  {
-    "time": "07:59",
-    "quoteFirst": "The 18th, ",
-    "quoteTime": "about eight o’clock in the morn",
-    "quoteLast": "ing, we prepared to get on our way; the wind was calm, and south. I asked our Rais where his fair wind was which he promised to bring? He said, his wife had quarrelled with him all night, and would not give him time to pray; and therefore, says he with a very droll face, you shall see me do all that a Saint can do for you on this occasion.",
-    "title": "Travels to Discover the Source of the Nile, Volume 1 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
-    "author": "Bruce, James, 1730-1794",
-    "gutenbergReference": "54180",
-    "hash": "d236646867c2e287df8829f89dc567febcaa682a4512a7d24104d88df374c657"
+    "quoteFirst": "One day,--it was, I think, February 7th, 1868, ",
+    "quoteTime": "about 8 A.M.",
+    "quoteLast": ", when just about to seat herself at table for breakfast, she felt a kind of need, an impulse which prompted her to write;--it was what she called a _trance_,--and she rushed off at once to her large note-book, where she wrote in pencil, with feverish haste, certain undecipherable words.",
+    "title": "Human Personality and Its Survival of Bodily Death",
+    "author": "Myers, F. W. H. (Frederic William Henry), 1843-1901; Myers, L. H. (Leopold Hamilton), 1881-1944 [Editor]",
+    "gutenbergReference": "38492",
+    "hash": "ba25f25c80f2e3c9dbb7a6c2084366124b54753d7778a898d119b64d4d40bf7a"
   },
   {
     "time": "07:59",
@@ -171,32 +31,72 @@
   },
   {
     "time": "07:59",
-    "quoteFirst": "Sunday the 7th of September, when, ",
+    "quoteFirst": "Having obtained observations for longitude and variation, we retired to bed ",
+    "quoteTime": "about eight A.M.",
+    "quoteLast": ", but had only just fallen asleep when we were roused by the men on guard calling out that a party of Esquimaux were close to the tents; and, on going out, we found the whole of our party under arms. Three Esquimaux had come upon us unawares, and, in terror at seeing so many strangers, they were on the point of discharging their arrows, when Augustus's voice arrested them, and by explaining the purpose of our arrival, soon calmed their fears.",
+    "title": "Narrative of a Second Expedition to the Shores of the Polar Sea, in the Years 1825, 1826, and 1827",
+    "author": "Franklin, John, 1786-1847; Richardson, John, Sir, 1787-1865",
+    "gutenbergReference": "33467",
+    "hash": "0250e3589e1699f2320db226fb98a630b5f0c0300e48e478b555c32c873290f3"
+  },
+  {
+    "time": "07:59",
+    "quoteFirst": "But ",
     "quoteTime": "about eight o'clock in the morn",
-    "quoteLast": "ing, we saw the island of Porto Santo, bearing west; and about noon, saw the east end of the island of Madeira.",
-    "title": "A General History and Collection of Voyages and Travels — Volume 12\r\nArranged in Systematic Order: Forming a Complete History of the\r\nOrigin and Progress of Navigation, Discovery, and Commerce, by Sea\r\nand Land, from the Earliest Ages to the Present Time",
-    "author": "Kerr, Robert, 1755-1813",
-    "gutenbergReference": "14423",
-    "hash": "f1f81e2f1d1328eb3a74cfbcdff7437929666c28b842f16a097c43de0bd1bcaa"
+    "quoteLast": "ing he was quite quiet and apparently sleeping: so Mrs. Dodd stole out of the room to order some coffee for Sampson and Edward. They were nodding, worn out with watching.",
+    "title": "Hard Cash",
+    "author": "Reade, Charles, 1814-1884",
+    "gutenbergReference": "3067",
+    "hash": "b4481cc8574ac4ef32beceacfbe04d0c0437f53eb0df6aa23a1ddd8916f484d1"
   },
   {
     "time": "07:59",
-    "quoteFirst": "I believe the train at Sudbury was almost an hour late, which is why I have gone on so long noting trifles at large.  When it did come in, somewhere ",
-    "quoteTime": "about 8 A.M.",
-    "quoteLast": ", we discovered that it was full up, and people had been standing in the first-class carriages all night.  They had mostly breakfasted since, and the first-class carriage we got into was littered from end to end with bun-bags and sandwich-papers and orange peel, and all the refuse that results {108} from picnics in trains.",
-    "title": "The Fair Dominion: A Record of Canadian Impressions",
-    "author": "Vernède, R. E. (Robert Ernest), 1875-1917; Cuneo, Cyrus, 1879-1916 [Illustrator]",
-    "gutenbergReference": "62844",
-    "hash": "cfe75df4f2372882759575913fcad12c55e5d20f54201a72bba4dc895bb8e3ae"
+    "quoteFirst": "I was _alone,--left in charge_. A crushing sense of responsibility fell upon my heart. The alarm had been first given ",
+    "quoteTime": "about eight o'clock in the morn",
+    "quoteLast": "ing. By three the same afternoon soldiers, citizens, _all_ had disappeared.",
+    "title": "Memories",
+    "author": "Beers, Fannie A., 1832-1894",
+    "gutenbergReference": "15829",
+    "hash": "f71da97b86f8bcd72b811848f0338ac9754dfc5b99865c3c05582db59afbb2ac"
   },
   {
     "time": "07:59",
-    "quoteFirst": "Sept. _1st_.—At 2 A.M. the tide answering for our return, we quitted the factory, and reached the vessel again ",
-    "quoteTime": "about 8 A.M.",
-    "quoteLast": "",
-    "title": "Narrative of a Voyage to Hudson's Bay in His Majesty's Ship Rosamond\nContaining Some Account of the North-eastern Coast of America and of the Tribes Inhabiting That Remote Region",
-    "author": "Chappell, Edward, 1792-1861",
-    "gutenbergReference": "54088",
-    "hash": "9f0250bb12656ccf701acfd7c3e42b692e53d1d4c90dec02164f2481598af363"
+    "quoteFirst": "“This mollusca is oblong, and of different sizes, from three to eighteen inches in length; and I have seen a few that were not less than two feet long. They were nearly round, a little flattish on one side, which lies next to the bottom of the sea; and they are from ",
+    "quoteTime": "one to eight",
+    "quoteLast": " inches thick. They crawl up into shallow water at particular seasons of the year, probably for the purpose of gendering, as we often find them in pairs. It is when the sun has the most power on the water, rendering it tepid, that they approach the shore; and they often go up into places so shallow that, on the tide’s receding, they are left dry, exposed to the beat of the sun.",
+    "title": "The Works of Edgar Allan Poe, The Raven Edition\nTable Of Contents And Index Of The Five Volumes",
+    "author": "Poe, Edgar Allan, 1809-1849",
+    "gutenbergReference": "25525",
+    "hash": "980141888cde4dd05a0f97616b9806e68df51817f8110b4faf6c488aae8c2eed"
+  },
+  {
+    "time": "07:59",
+    "quoteFirst": "Towns were directed to appropriate annually “a sufficient amount to defray the necessary cost of the display of the flag,” and it was made “the duty of instructors to impress upon the youth by suitable references and observances the significance of the flag, to teach them the cost, the object and principles of our government, the great sacrifices of our forefathers, the important part taken by the Union army in the war of eighteen hundred sixty-",
+    "quoteTime": "one to eight",
+    "quoteLast": "een hundred sixty-five, to teach them to love, honor and respect the flag of our country that cost so much and is so dear to every true American citizen.”[190]",
+    "title": "Public opinion and the teaching of history in the United States",
+    "author": "Pierce, Bessie Louise, 1888-1974",
+    "gutenbergReference": "70630",
+    "hash": "251ff11af2b1b7f3aa4e4112d6ecf0bb81598209fc5c5b38ac5536844f50193c"
+  },
+  {
+    "time": "07:59",
+    "quoteFirst": "21. This day, ",
+    "quoteTime": "about eight o’clock in the morn",
+    "quoteLast": "ing, we arrived in the city of Paris, after a pleasant journey of more than three days, through Flanders into France and Paris. After we arrived at Paris we put up our horses, and stopped not either to eat or to drink, but made the best of our way to Passy, about four miles from Paris, where Dr.",
+    "title": "A Relic of the Revolution",
+    "author": "Herbert, Charles, 1757-1808",
+    "gutenbergReference": "50908",
+    "hash": "5008e79452be6ab3a18532643332971b567a884e475a0f5fc370e46de7970f1f"
+  },
+  {
+    "time": "07:59",
+    "quoteFirst": "If we refer to the Dooms of Cnut, c. 69, we shall see that the heriots of an eorl and of a lesser thane were in the proportion of from ",
+    "quoteTime": "one to eight",
+    "quoteLast": ",—a rule which may have been supposed to have arisen from a somewhat similar relation between the quantities of their respective estates; and as the possession of five hides conferred upon a ceorl the rights of a thane, the possession of forty (5 × 8) in all probability raised a thane to the dignity of an eorl.",
+    "title": "The Saxons in England, Volume 2 (of 2)\r\nA history of the English commonwealth till the period of the Norman conquest",
+    "author": "Kemble, John Mitchell, 1807-1857; Birch, Walter de Gray, 1842-1924 [Editor]",
+    "gutenbergReference": "61331",
+    "hash": "38cc4777aaec9dc05690061dac396fb2d359e3eb129c2ee8203db6ed5c6fc2a7"
   }
 ]

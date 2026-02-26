@@ -1,6 +1,16 @@
 [
   {
     "time": "16:39",
+    "quoteFirst": "A Christian Legislative Assembly, like that of Canada, of which Sir James Craig afterwards privately expressed an opinion so ludicrously high, could not be contaminated with the presence of a Jew. By a vote of ",
+    "quoteTime": "twenty-one to five",
+    "quoteLast": ", it was resolved:--\"That Ezekiel Hart, Esquire, professing the Jewish religion, cannot take a seat, nor sit, nor vote in this House.\" Ezekiel departed. The word \"_baruch_,\" was on his tongue, the signification of which, like that of the French word \"_sacré_,\" may signify, according to the humour of the utterer, either an anathema or a blessing.",
+    "title": "The Rise of Canada, from Barbarism to Wealth and Civilisation. Volume 1",
+    "author": "Roger, Charles, 1819-",
+    "gutenbergReference": "24550",
+    "hash": "28521a15511051da52fad81099566c32da9259cf59694a16ecc3a26e1eac4b08"
+  },
+  {
+    "time": "16:39",
     "quoteFirst": "February 18: 4.26 to ",
     "quoteTime": "4.39 p. m.",
     "quoteLast": ", 12.5 cc warm caffein solution (0.141 gram per kilo) injected into ear vein, convulsion followed when this quantity was injected, tonic rigidity of limbs followed soon after; 4.52 p. m., condition unchanged, rabbit on floor, limbs stretched out, and lying on abdomen.",
@@ -8,5 +18,15 @@
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
     "hash": "0ee2eb4f1242564349a147400df1125dd49baa7d151a9af768192daf93387866"
+  },
+  {
+    "time": "16:39",
+    "quoteFirst": "Save ",
+    "quoteTime": "Thirty-nine After Four",
+    "quoteLast": " Days in Mine.",
+    "title": "Nick Carter Stories No. 137, April 24, 1915: The Seal of Gijon; Or, Nick Carter's Ice-House Fight",
+    "author": "Carter, Nicholas (House name); Phillips, Roland Ashford",
+    "gutenbergReference": "66986",
+    "hash": "0b9a7e691551ae77b6ea57419aee24d4439ab3d507ff138578f1a4f56f69e9ae"
   }
 ]

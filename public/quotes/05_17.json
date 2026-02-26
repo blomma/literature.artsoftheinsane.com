@@ -41,6 +41,26 @@
   },
   {
     "time": "05:17",
+    "quoteFirst": "Under date of the 24th day of September, I received a letter from my special and trusted correspondent in the city of New York in which I find this statement:  \"This has been the most dreadful day I have ever seen in this city.  While gold was jumping from ",
+    "quoteTime": "forty-three to six",
+    "quoteLast": "ty- one the excitement was painful.  Old, conservative merchants looked aghast, nobody was in their offices, and the agony depicted on the faces of men who crowded the streets made one feel as if Gettysburg had been lost and that the rebels were marching down Broadway.",
+    "title": "Reminiscences of Sixty Years in Public Affairs, Vol. 2",
+    "author": "Boutwell, George S. (George Sewall), 1818-1905",
+    "gutenbergReference": "20109",
+    "hash": "c11ab9444cce32dbde9daa139c67ab1445f3f357e91df0ab389bb1cddd27994a"
+  },
+  {
+    "time": "05:17",
+    "quoteFirst": "Following Frontinus’ indications, Ashby and Miss Van Deman found the sources of the four great aqueducts at over 1000 feet above sea level, in springs or lakes in the upper reaches of the Anio valley, near Subiaco, Mandela, and Vicovaro. The airline distance of the sources from Rome varies from twenty-four to twenty-seven miles, but to follow the contours the aqueducts took a circuitous course, so that their actual length is from ",
+    "quoteTime": "forty-three to six",
+    "quoteLast": "ty-two miles. Though the modern reader associates Roman aqueducts with the magnificent lines of arches (Fig. 12.9) stretching across a once-empty Campagna near Rome, the fact is that well under a third of a Roman aqueduct’s course was normally carried on arches: the rest was tunnel or side-hill channel.",
+    "title": "The Mute Stones Speak: The Story of Archaeology in Italy",
+    "author": "MacKendrick, Paul Lachlan, 1914-1998",
+    "gutenbergReference": "57308",
+    "hash": "e66ecfd2a537516bdc4b2d6f18cadc72e4756bf92a1debf77ddd0489f82c7c49"
+  },
+  {
+    "time": "05:17",
     "quoteFirst": "Six o'clock was the hour set for the start of the Beach race. And it was just ",
     "quoteTime": "seventeen minutes past five",
     "quoteLast": " when Dick Ffrench, hanging in a frenzy of anxiety over the paddock fence circling the inside of the mile oval, uttered something resembling a howl and rushed to the gate to signal his recreant driver. From the opposite side of the track Lestrange waved gay return, making his way through the officials and friends who pressed around him to shake hands or slap his shoulder caressingly, jesting and questioning, calling directions and advice.",
@@ -58,5 +78,15 @@
     "author": "Reed, John, 1887-1920",
     "gutenbergReference": "3076",
     "hash": "0f6bb912e65da806eec05af2925c8c22597b71177c6bc789b08011f40ddcf17b"
+  },
+  {
+    "time": "05:17",
+    "quoteFirst": "\"Proposition sixteen. The diameter of the sun is to the diameter of the earth in greater proportion than nineteen to three, and less than ",
+    "quoteTime": "forty-three to six",
+    "quoteLast": ".",
+    "title": "A History of Science — Volume 1",
+    "author": "Williams, Henry Smith, 1863-1943; Williams, Edward Huntington, 1868-1944",
+    "gutenbergReference": "1705",
+    "hash": "9decdcd8d424770f51525df138c084d122361d16e5f16c550ede8055296be92b"
   }
 ]

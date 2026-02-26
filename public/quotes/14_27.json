@@ -21,6 +21,26 @@
   },
   {
     "time": "14:27",
+    "quoteFirst": "Tchardjoui, where it ought to arrive at ",
+    "quoteTime": "twenty-seven past two",
+    "quoteLast": " in the morning. There we shall stop a quarter of an hour before proceeding towards the Amu-Daria.",
+    "title": "The Adventures of a Special Correspondent Among the Various Races and Countries of Central Asia\r\nBeing the Exploits and Experiences of Claudius Bombarnac of \"The Twentieth Century\"",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "11263",
+    "hash": "3ac1e3ad922d0945dd88102cfc76fe3fdba1612a5028093c830a61428dea3620"
+  },
+  {
+    "time": "14:27",
+    "quoteFirst": "\"But the other doctor came again, and attended her as formerly. He gave her a powder of morphine, and some gum myrrh, and a little anise, which reduced the evacuations from ",
+    "quoteTime": "thirty-three to three",
+    "quoteLast": " a day. But her distress was still very great, and her feet soon began to turn purple, and she began to bloat in her stomach and bowels. This continued till she was as full as she could be; and you could have heard her scream and groan as far as the road (a distance of three or four rods).",
+    "title": "Forty Years in the Wilderness of Pills and Powders\nCogitations and Confessions of an Aged Physician",
+    "author": "Alcott, William A. (William Andrus), 1798-1859",
+    "gutenbergReference": "34038",
+    "hash": "a4ef3af35b0380d57a77d9d03a8c194e0aa1a2ef94b920841dcad5ef5ede4564"
+  },
+  {
+    "time": "14:27",
     "quoteFirst": "The end was now at hand, and he died at ",
     "quoteTime": "twenty-seven minutes past two",
     "quoteLast": " in the morning of May 27, 1865.  The window was open.  The sky was beginning to grow grey, a few rooks had cawed, the swallows were twittering, the landrail was craking from the Ox-close, and a favourite cock, which he used to call his morning gun, leaped out from some hollies, and gave his accustomed crow.  The ear of his master was deaf to the call.",
@@ -68,5 +88,15 @@
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "1353",
     "hash": "e3b314323778e2d66099806a18dcddb05c65cd50e342ac6f25a69dfbc0f373fc"
+  },
+  {
+    "time": "14:27",
+    "quoteFirst": "Only the breaking sea, white and sightly, marked them bold in the grey mist-laden breath of the Atlantic.  \"----'present themselves, consisting of four high rocky islets of from two ",
+    "quoteTime": "thirty-three to three",
+    "quoteLast": " ought-six feet in height, an' steep-to,'\" he said, reading from a book of sailing directions.  \"Damme!  I can only see three.\"  To the pilot, \"D'ye know the Stags well, Mister?  Are ye sure o' ye're ground?\"",
+    "title": "The Brassbounder: A Tale of the Sea",
+    "author": "Bone, David W. (David William), 1874-1959",
+    "gutenbergReference": "31497",
+    "hash": "086cfb27e5b71b0f01594b98777418ee29a156f09476541301ac3380aefabd0d"
   }
 ]

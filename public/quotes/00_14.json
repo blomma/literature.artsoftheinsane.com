@@ -1,6 +1,16 @@
 [
   {
     "time": "00:14",
+    "quoteFirst": "[14] The quantity of silver taken from the American mines has exceeded that of gold in the ratio of ",
+    "quoteTime": "forty-six to one",
+    "quoteLast": ". (Humboldt, Essai politique, tom. iii. p. 401.) The value of the latter metal, says Clemencin, which on the discovery of the New World was only eleven times greater than that of the former, has now come to be sixteen times. (Memorias de la Real Acad. de Hist. tom. vi. Ilust. 20.",
+    "title": "History of the Conquest of Mexico; vol. 3/4",
+    "author": "Prescott, William Hickling, 1796-1859",
+    "gutenbergReference": "59830",
+    "hash": "1dde38effe94baa1d5f03bbef39c4c88dda626b066b48458b636a66d42558a4f"
+  },
+  {
+    "time": "00:14",
     "quoteFirst": ", and sets next morning at 2:03; on the 16th, he rises at 11:30 a. m., and sets on the 17th at 1:04 a. m.; on the 30th, rises at 10:42 a. m., and sets at ",
     "quoteTime": "12:14 a. m.",
     "quoteLast": " on the 31st.",
@@ -38,6 +48,16 @@
     "author": "Massart, Jean, 1865-1925; Miall, Bernard, 1876-1953 [Translator]",
     "gutenbergReference": "51716",
     "hash": "1301e4d433ed761e3b0750f3bbc4353fed588c47ba0dc0c8b898e39040c4cc94"
+  },
+  {
+    "time": "00:14",
+    "quoteFirst": "Not a week passed without the announcement of the arrival of new divisions from Russia or Italy. Between November the 1st, 1917, and March the 20th, 1918, the number of German divisions in the Western theatre had increased from one hundred and ",
+    "quoteTime": "forty-six to one",
+    "quoteLast": " hundred and ninety-two.[49] The total continued to grow for some time after the launching of the offensive. The heavy artillery had also been greatly increased, while a number of Austrian artillery regiments had come to the aid of their allies.",
+    "title": "The History of the 36th (Ulster) Division",
+    "author": "Falls, Cyril, 1888-1971",
+    "gutenbergReference": "48716",
+    "hash": "23de01befee0b848a3f0fe7edfb44a36c92d37b5288ebbe5d457d5cf14f6cf4e"
   },
   {
     "time": "00:14",

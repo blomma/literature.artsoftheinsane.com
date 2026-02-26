@@ -41,6 +41,26 @@
   },
   {
     "time": "17:09",
+    "quoteFirst": "The married people numbered 1109, and there were 528 families. Elderly people were but few in number, 95 only being from ",
+    "quoteTime": "fifty-one to six",
+    "quoteLast": "ty years old, 43 from sixty-one to seventy, 10 from seventy-one to eighty, and 4 from eighty-one to ninety. In regard to professions and occupations, there were then in New France 3 notaries, 5 surgeons, 18 merchants, 4 bailiffs, 3 schoolmasters, 36 carpenters, 27 joiners, 30 tailors, 8 coopers, 5 bakers, 9 millers, 3 locksmiths.",
+    "title": "The Great Intendant : A Chronicle of Jean Talon in Canada, 1665-1672",
+    "author": "Chapais, Thomas, 1858-1946; Langton, H. H. (Hugh Hornby), 1862-1953 [Editor]; Wrong, George McKinnon, 1860-1948 [Editor]",
+    "gutenbergReference": "4971",
+    "hash": "c47a4f5f3a725ddf3989aae628b933e5030b02fadbb69df4d8ff324ec2cc6746"
+  },
+  {
+    "time": "17:09",
+    "quoteFirst": "; from thirty-one to forty, 9.5 per cent.; from forty-one to fifty, 2.2 per cent.; and from ",
+    "quoteTime": "fifty-one to six",
+    "quoteLast": "ty-one, 1.1 per cent. The same author has also shown that secondary attacks are most common in the young; so that advancing age not only renders a first attack of the disease improbable, but lessens the risk of a recurrence of it. The influence of age upon acute rheumatism is further shown in the fact that the disease is less severe, and less apt to invade the heart, in elderly than in young persons.",
+    "title": "A system of practical medicine. By American authors. Vol. 2",
+    "author": "Pepper, William, 1843-1898 [Editor]; Starr, Louis, 1849-1925 [Editor]",
+    "gutenbergReference": "45313",
+    "hash": "f478671d164661d04a38039105ea2753c620ee54f99c28c44b5e5c6407885fbc"
+  },
+  {
+    "time": "17:09",
     "quoteFirst": "\"BATTLE-FIELD, September 20, 1863, ",
     "quoteTime": "5.09 P.M.",
     "quoteLast": "",
@@ -48,5 +68,15 @@
     "author": "Longstreet, James, 1821-1904",
     "gutenbergReference": "38418",
     "hash": "9d496287055c68c315ad4e978ef969900507757ebb41b5b37eac56a3a6fa20b0"
+  },
+  {
+    "time": "17:09",
+    "quoteFirst": "Mr. Stevens’ motion to table the motion of Mr. Blaine, failed, ",
+    "quoteTime": "fifty-one to six",
+    "quoteLast": "ty-eight, and then the motion of Mr. Blaine regarding the bill of Mr. Stevens, carried, seventy-three to fifty-two. It is interesting to notice, that though the gentleman did not call up his bill for a solid month,--not until after the holidays,--and then came in with an elaborate argument showing the financial course of England in her war with France in 1793, and then in her war finally with the whole of continental Europe, though he seemed to have made a careful study of his subject, and of England’s financial policy, he closed with this sentence:--",
+    "title": "Pine to Potomac",
+    "author": "Cressey, E. K.",
+    "gutenbergReference": "73345",
+    "hash": "b996dd17146db595647772093ea3d945f39cda50dcfdbeadbfcc5b0200184eb2"
   }
 ]

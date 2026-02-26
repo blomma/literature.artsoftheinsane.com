@@ -31,6 +31,16 @@
   },
   {
     "time": "10:23",
+    "quoteFirst": "The captain glanced at his watch. \"",
+    "quoteTime": "Twenty-three after ten",
+    "quoteLast": ". We've got time.\"",
+    "title": "Black Silence",
+    "author": "McDowell, Robert Emmett, 1914-1975; Napoli, Vincent, 1907-1981 [Illustrator]",
+    "gutenbergReference": "64326",
+    "hash": "d209f5112ea41e7cadc83489c4b71dabfe13434550feb820ce94a3eac5b0d04a"
+  },
+  {
+    "time": "10:23",
     "quoteFirst": "Had you not better send me the bargains to sign? I shall be here till Saturday; and shall have an address in London (which I shall send you) till Monday, when I shall sail. Even if the proofs do not reach you till Monday morning, you could send a clerk from Fenchurch Street Station at ",
     "quoteTime": "10.23 A.M.",
     "quoteLast": " for Galleons Station, and he would find me embarking on board the _Ludgate Hill_, Island Berth, Royal Albert Dock. Pray keep this in case it should be necessary to catch this last chance.",

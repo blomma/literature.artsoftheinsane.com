@@ -1,6 +1,16 @@
 [
   {
     "time": "14:42",
+    "quoteFirst": "Tom gazed at the ceiling. “",
+    "quoteTime": "Eighteen to three",
+    "quoteLast": ",” he said softly.",
+    "title": "Catcher Craig",
+    "author": "Mathewson, Christy, 1880-1925; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "56337",
+    "hash": "323d16fc25a7227563e2b48c2c430ee4337b28fba221aa626e73c654d1ea9676"
+  },
+  {
+    "time": "14:42",
     "quoteFirst": "The official start took place at ",
     "quoteTime": "2.42 P.M.",
     "quoteLast": " In spite of the wind striking me sidewise, with a tendency to take me to the left of the Eiffel Tower, I held my course straight to that goal. Gradually I drove the air-ship onward and upward to a height of about 10 metres above its summit.",
@@ -8,6 +18,26 @@
     "author": "Santos-Dumont, Alberto, 1873-1932",
     "gutenbergReference": "42344",
     "hash": "4a9627d35e3e17dd2c1ee21744a082ec9c57e58b92606fedad1158eacd5b7ce6"
+  },
+  {
+    "time": "14:42",
+    "quoteFirst": "Among the young men, those of from ",
+    "quoteTime": "eighteen to three",
+    "quoteLast": " or four and twenty, the opposition was still stronger, for here a strong feeling of jealousy was aroused at the thought that their juniors were, as they considered, stealing a march upon them. Gibes and jeers were showered upon the \"Bull-dogs,\" and two of them were ducked in the canal by a party of five or six of their elders.",
+    "title": "Facing Death; Or, The Hero of the Vaughan Pit: A Tale of the Coal Mines",
+    "author": "Henty, G. A. (George Alfred), 1832-1902; Browne, Gordon, 1858-1932 [Illustrator]",
+    "gutenbergReference": "31128",
+    "hash": "fbf8553d99ba45d178815f944deaf0893906539c52a22351a7d7af2ff77c8e7b"
+  },
+  {
+    "time": "14:42",
+    "quoteFirst": "She gathered her girls together and told them of some points she had noted about the freshman playing and they entered the game with confidence, though warned not to be too sure. The \"rough\" freshman was taken out after some too apparent fouls due to her performances, and the final score was ",
+    "quoteTime": "eighteen to three",
+    "quoteLast": " in favor of the sophomores. They had won their first game at least, Betty said. \"Now send up the score, girls, as high as you can with every game.",
+    "title": "Betty Lee, Sophomore",
+    "author": "Grove, Harriet Pyne",
+    "gutenbergReference": "34728",
+    "hash": "0590adfbaa52a51375d63bf5b2ae944486a7fdebba3690b3be86686bf4e25611"
   },
   {
     "time": "14:42",

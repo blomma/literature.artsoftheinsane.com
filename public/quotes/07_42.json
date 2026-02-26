@@ -1,6 +1,86 @@
 [
   {
     "time": "07:42",
+    "quoteFirst": "\"In Ohio an important measure was passed limiting the hours for boys under sixteen and girls under ",
+    "quoteTime": "eighteen to eight",
+    "quoteLast": " per day and forty-eight per week.\"",
+    "title": "History for ready reference, Volume 7",
+    "author": "Larned, J. N. (Josephus Nelson), 1836-1913",
+    "gutenbergReference": "73639",
+    "hash": "0887eb49b1de93f50e6c3b432d6621be23d525e30865b2078adf3942493dc074"
+  },
+  {
+    "time": "07:42",
+    "quoteFirst": "In most cases this was a purely fictitious engagement, as the staff very well knew, and was only designed to vary the monotony of prison life; but not seldom the pretence led to a veritable attachment, as may easily be imagined. These were mostly young people of from ",
+    "quoteTime": "eighteen to eight",
+    "quoteLast": "-and-twenty, and the nature of their surroundings shed a romantic glamour over their intercourse. The young pair met in the office of the prison, a dreary apartment with grated windows; and every word was listened to by an official.",
+    "title": "Sixteen years in Siberia: Some experiences of a Russian revolutionist",
+    "author": "Deich, L. G. (Lev Grigor'evich), 1855-1941; Chisholm, Helen [Translator]",
+    "gutenbergReference": "54129",
+    "hash": "55a9ab2be381bb680fc617433d85c2df7a54663d120f4592e5d1f57717a51990"
+  },
+  {
+    "time": "07:42",
+    "quoteFirst": "However, there was no help for it, so to lose no time we set about getting mules and litters for the four days’ journey to the Great Wall, the first stage of our voyage, and trusted to Providence that “the Boy” (as every Chinese servant from ",
+    "quoteTime": "eighteen to eight",
+    "quoteLast": "y is called in China) would arrive in a week or ten days at the latest.",
+    "title": "From Pekin to Calais by Land",
+    "author": "De Windt, Harry, 1856-1933",
+    "gutenbergReference": "48992",
+    "hash": "f60c4fef6b3554748974d08d0b8224e5e37282b3b694479527d7289ca755eda2"
+  },
+  {
+    "time": "07:42",
+    "quoteFirst": "It might have been from mere insensibility, or it might have been from generous unwillingness to involve another in his own unlucky destiny, but the fact undoubtedly was, that he had arrived at the middle term of life without marrying, and, what is much more remarkable, without once exposing himself, from ",
+    "quoteTime": "eighteen to eight",
+    "quoteLast": "-and-thirty, to the genial imputation of ever having had a sweetheart.",
+    "title": "The Queen of Hearts",
+    "author": "Collins, Wilkie, 1824-1889",
+    "gutenbergReference": "1917",
+    "hash": "2bfc4ed92df97f9c1ba912cdd94ef75352b7514740cd61829cb983fa7b2c5737"
+  },
+  {
+    "time": "07:42",
+    "quoteFirst": "Denmark’s exports of butter, eggs and bacon from ",
+    "quoteTime": "eighteen to eight",
+    "quoteLast": "y millions a year, and it has almost cut off our supply of policemen and politicians from Ireland, because over a thousand co-operative associations have grown up there in twenty years.",
+    "title": "The garden yard",
+    "author": "Hall, Bolton, 1854-1938; Nelson, N. O. (Nelson Oliver), 1844-1922 [Author of introduction, etc.]; Collingwood, Herbert W. (Herbert Winslow), 1857-1927 [Editor]; Fraser, Samuel, 1876-1959 [Editor]",
+    "gutenbergReference": "77032",
+    "hash": "dcdf7a79aa2a282c2a7942f55b56835b64d4ce4959644b5b63099ff3a4481b4d"
+  },
+  {
+    "time": "07:42",
+    "quoteFirst": "",
+    "quoteTime": "7:42 A.M.",
+    "quoteLast": "",
+    "title": "Project Cyclops",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34319",
+    "hash": "0eece4f625eb332e279d428f296c2e61806aeb2b6dc1e4e2d14aa917c2d2d5b1"
+  },
+  {
+    "time": "07:42",
+    "quoteFirst": "Each age, from ",
+    "quoteTime": "eighteen to eight",
+    "quoteLast": "y years, had a separate district. Those exceeding the latter age were carefully packed away in the sub-cellar.",
+    "title": "Our Show\r\nA Humorous Account of the International Exposition in Honor of the Centennial Anniversary of American Independence, from Inception to Completion, Including Description of Buildings, Biographies of Managers, Receptions of Foreign Dignitaries, Opening Ceremonies, Poem, Oration, Amusing Survey of All Departments, Incidents, Etc., Etc.",
+    "author": "Cohen, David Solis, 1852-1928; Sommer, H. B.; Frost, A. B. (Arthur Burdett), 1851-1928 [Illustrator]",
+    "gutenbergReference": "66895",
+    "hash": "ab4b21b5540f7f49f28c7994595c0613671d2cad2679ea6380a63399493de79a"
+  },
+  {
+    "time": "07:42",
+    "quoteFirst": "Denmark’s exports of butter, eggs and bacon from ",
+    "quoteTime": "eighteen to eight",
+    "quoteLast": "y millions a year, and it has almost cut off our supply of policemen and politicians from Ireland, because over a thousand co-operative associations have grown up there in twenty years.",
+    "title": "The garden yard",
+    "author": "Hall, Bolton, 1854-1938; Nelson, N. O. (Nelson Oliver), 1844-1922 [Author of introduction, etc.]; Collingwood, Herbert W. (Herbert Winslow), 1857-1927 [Editor]; Fraser, Samuel, 1876-1959 [Editor]",
+    "gutenbergReference": "77032",
+    "hash": "dcdf7a79aa2a282c2a7942f55b56835b64d4ce4959644b5b63099ff3a4481b4d"
+  },
+  {
+    "time": "07:42",
     "quoteFirst": "On the 26th of August, 55 B.C., the Greenwich mean time of high water at Dover was 6.21 a.m.; on the 27th, ",
     "quoteTime": "7.42 a.m.",
     "quoteLast": "; and on the 28th, 8.44 a.m.[2996] Thus it turns out that on the day of Caesar’s landing high water did not occur at all early. This fact, however, will not sustain the theory of Airy and Lewin.",
@@ -18,15 +98,5 @@
     "author": "Arthur, John W. (John William), 1848-1921 [Editor]; Munro, Ion S. (Ion Smeaton), 1887-1970 [Editor]",
     "gutenbergReference": "20136",
     "hash": "24f1488b8c25a3f76d9ac55da0901e5ae5b728260c550700e4ec4832583c32a8"
-  },
-  {
-    "time": "07:42",
-    "quoteFirst": "",
-    "quoteTime": "7:42 A.M.",
-    "quoteLast": "",
-    "title": "Project Cyclops",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34319",
-    "hash": "0eece4f625eb332e279d428f296c2e61806aeb2b6dc1e4e2d14aa917c2d2d5b1"
   }
 ]

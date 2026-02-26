@@ -1,6 +1,16 @@
 [
   {
     "time": "12:42",
+    "quoteFirst": "This was on the eighth of May. Six days later a resolution instructing the Committee on Revision to amend the article on boundaries so as to read as follows was adopted by a vote of ",
+    "quoteTime": "eighteen to thirteen",
+    "quoteLast": ":",
+    "title": "History of the Constitutions of Iowa",
+    "author": "Shambaugh, Benjamin Franklin, 1871-1940",
+    "gutenbergReference": "31335",
+    "hash": "867d026f7291f7d9389e7feb4f785c31780ca9542875fe807e8b43997f9b0f46"
+  },
+  {
+    "time": "12:42",
     "quoteFirst": "Another ascent was arranged for the 14th of August, in which Robertson was to be accompanied by the professor, but the latter, yielding to the entreaties of his family, did not go. “I went up with my friend Lhoest,” says Robertson, “at ",
     "quoteTime": "forty-two minutes past twelve",
     "quoteLast": " midday. In a minute or two we rose up between two masses of cloud, which seemed to open up and offer us a passage. The upper surfaces of these clouds are not uniformly level, like the under sides seen from the earth, but they are of a conical or pyramidal shape.",
@@ -21,6 +31,16 @@
   },
   {
     "time": "12:42",
+    "quoteFirst": "As the diagram shows, the margin dropped rapidly back after this brief success from ",
+    "quoteTime": "eighteen to thirteen",
+    "quoteLast": " cents, nor did it stay there. With the return of competition, in the fall of 1873, it continued to drop rapidly. By the end of the year it was down to eleven cents; by the end of 1874 to nine.",
+    "title": "The History of the Standard Oil Company",
+    "author": "Tarbell, Ida M. (Ida Minerva), 1857-1944",
+    "gutenbergReference": "60692",
+    "hash": "633d35a0d43df030caef7fdd22181c11772202eea99f0b360c2c9b02e4d2cd3d"
+  },
+  {
+    "time": "12:42",
     "quoteFirst": "Belfast, the time being Greenwich Mean Time, ",
     "quoteTime": "12.42 p.m.",
     "quoteLast": " The ship was well-named, not only because it was the greatest embodiment of human engineering and ship-building skill, a veritable monster of a modern Frankenstein, but also because it was the embodiment of human pride and daring.",
@@ -28,5 +48,15 @@
     "author": "Sepharial, 1864-1929",
     "gutenbergReference": "70749",
     "hash": "43c3576071a8e1f834e9a88f7afe931dffb95db54a88a82547aea2ce430c5980"
+  },
+  {
+    "time": "12:42",
+    "quoteFirst": "In the course of a local controversy, carried on with much bitterness, regarding the ’Annuity Tax’—an unpopular impost for defraying the salaries of the city ministers—a proposal had been made to abolish collegiate charges, and thus reduce the number of ministers from ",
+    "quoteTime": "eighteen to thirteen",
+    "quoteLast": ".  Chalmers had strongly protested against the proposal, and claimed in the interest of the city that the ministers set free from collegiate charges should be intrusted with new parishes, wherever additional churches were needed.  Under the Town Council, things had been so managed that the incomes of the clergy had sunk to £400 a year; and the idea of new charges was unpopular, because the Council would have had to provide churches; this opposition grieved Chalmers, and the only consideration that comforted him (as he wrote to a friend) was the increased readiness of the friends of the church to",
+    "title": "Thomas Chalmers",
+    "author": "Blaikie, William Garden, 1820-1899; Brown, Joseph [Illustrator]",
+    "gutenbergReference": "40081",
+    "hash": "7f4af00a0c68ce40e0e825945047df11e6b3c8f16055e86503f8c93fa89a2a10"
   }
 ]

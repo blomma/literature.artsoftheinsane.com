@@ -1,163 +1,13 @@
 [
   {
     "time": "23:40",
-    "quoteFirst": "Came home at ",
-    "quoteTime": "20 minutes to 12",
-    "quoteLast": ". Mamma came into the School when I had been riding a little while....",
-    "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
-    "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
-    "gutenbergReference": "75138",
-    "hash": "dc4ef9919b08164ca826dc0e42883be27c121d8dfd05cbbb2ead141ff5855ee7"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "The third act takes place at ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": " on the same night.",
-    "title": "The Return of Peter Grimm",
-    "author": "Belasco, David, 1853-1931; Moses, Montrose Jonas, 1878-1934 [Editor]",
-    "gutenbergReference": "13319",
-    "hash": "fe20d3874e83c149eeeff17e77cfd91a4c2ad6b94bfbd9cc7af4a6e9a8b110a8"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "The blasting shriek of the sirens had not alarmed the great company of the Titanic, because such steam calls are an incident of travel in seas where fogs roll. Many had gone to bed, but the hour, ",
-    "quoteTime": "11.40 P. M.",
-    "quoteLast": ", was not too late for the friendly contact of saloons and smoking rooms. It was Sunday night and the ship's concert had ended, but there were many hundreds up and moving among the gay lights, and many on deck with their eyes strained toward the mysterious west, where home lay.",
-    "title": "The Tragic Story of the Empress of Ireland, and Other Great Sea Disasters",
-    "author": "Marshall, Logan, 1884-1937",
-    "gutenbergReference": "58274",
-    "hash": "64db49d55e3b4d678a2d3aa24b569f05237eaf6fc3b5b451cf19a3331c3a9418"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "It was ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": ". The detective looked back with a smile.",
-    "title": "An Amiable Charlatan",
-    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
-    "gutenbergReference": "9664",
-    "hash": "07595fcc8749751d0ccd59f1bad0906dcea8f91e1d9a3ca6a14b7bbaecf2e59c"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "But then, why the brummagem alibi? Funk? Maybe. But why the circuitousness?—why didn’t he call his lost love direct? Ah, perhaps he did! Some one certainly called her by phone at ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": ". We must look into that, Van. . . .",
-    "title": "The \"Canary\" murder case",
-    "author": "Van Dine, S. S., 1888-1939",
-    "gutenbergReference": "70788",
-    "hash": "e3647f4c4fbba273efc1125062da3f8ae7542d8550a0da74d5a28fcb00a3fda2"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "“Oh, quite,” murmured Vance. “Still, looking at it mathematically, if you phoned Miss Odell at ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": ", and then entered the Subway, rode to 72d Street, walked a block to 71st, went into the building, listened at her door, and departed at five minutes to twelve—making the total time consumed only fifteen minutes—you’d scarcely have sufficient leeway to stop en route and phone to any one.",
-    "title": "The \"Canary\" murder case",
-    "author": "Van Dine, S. S., 1888-1939",
-    "gutenbergReference": "70788",
-    "hash": "c592b495e23fa8c821fb02a154cb4e55cbd04333749d7ef7ad048aa2a7df2cc6"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "“Anyway,” argued Heath, “Cleaver’s statement about phoning Odell at ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": ", and a man answering, is verified by Jessup’s testimony. And I guess Cleaver saw Lindquist all right that night, for it was him who first tipped us off about the doc.",
-    "title": "The \"Canary\" murder case",
-    "author": "Van Dine, S. S., 1888-1939",
-    "gutenbergReference": "70788",
-    "hash": "7d75093e562a28b392df5adc293c962eada28188c77d209373a1174560e00bc8"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "The following words are written in pencil on a half sheet of notepaper:--\"March 13th, 1886. Have just seen visions on lawn:--a soldier in general's uniform,--a young lady kneeling to him. ",
-    "quoteTime": "11.40 P.M.",
-    "quoteLast": "\"] My husband was away from home when this event occurred, but a lady friend was staying with me, so I went to her bedroom and told her that I had been rather frightened by some noises;--could I stay with her a little while? A few days afterwards I found myself in a very nervous state; but it seemed so strange that I was not frightened at the time.",
-    "title": "Occultism and common-sense",
-    "author": "Willson, Beckles, 1869-1942; Barrett, William, Sir, 1844-1925 [Author of introduction, etc.]",
-    "gutenbergReference": "36730",
-    "hash": "48b6df27b1e8548c99acc99854be8902669bff6879d95891532537c40fb66bd8"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "The blasting shriek of the sirens had not alarmed the great company of the Titanic, because such steam calls are an incident of travel in seas where fogs roll. Many had gone to bed, but the hour, ",
-    "quoteTime": "11.40 P. M.",
-    "quoteLast": ", was not too late for the friendly contact of saloons and smoking rooms. It was Sunday night and the ship's concert had ended, but there were many hundreds up and moving among the gay lights, and many on deck with their eyes strained toward the mysterious west, where home lay.",
-    "title": "Sinking of the Titanic and Great Sea Disasters",
-    "author": "Marshall, Logan, 1884-1937 [Editor]",
-    "gutenbergReference": "781",
-    "hash": "a1e08bca1bff6c232e1bc18030111679144ba822d32c5b6195f7ce41b11d8c72"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "12 Day calm; bombardment ",
-    "quoteTime": "11:40 P. M.",
-    "quoteLast": "",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "b3e983a589271d611cea3f68d930672d2194aa2d5c774e3c29311154decea725"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "The blasting shriek of the sirens had not alarmed the great company of the Titanic, because such steam calls are an incident of travel in seas where fogs roll. Many had gone to bed, but the hour, ",
-    "quoteTime": "11.40 P. M.",
-    "quoteLast": ", was not too late for the friendly contact of saloons and smoking rooms. It was Sunday night and the ship's concert had ended, but there were many hundreds up and moving among the gay lights, and many on deck with their eyes strained toward the mysterious west, where home lay.",
-    "title": "Sinking of the Titanic and Great Sea Disasters",
-    "author": "Marshall, Logan, 1884-1937 [Editor]",
-    "gutenbergReference": "781",
-    "hash": "a1e08bca1bff6c232e1bc18030111679144ba822d32c5b6195f7ce41b11d8c72"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "Office for the Dead.  At about ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": " the blind was drawn over the dead Christ, and the priests, feigning surprise, advanced to the rails of the ikonostas, and announced to an Archimandrite that the coffin was empty.  The Archimandrite ordered them {107} to search round the church, and the priests perambulated the church with gilt lanterns, during which time the catafalque, bier, and its accessories were all removed.",
-    "title": "The Vanished Pomps of Yesterday\nBeing Some Random Reminiscences of a British Diplomat",
-    "author": "Hamilton, Frederic, Lord, 1856-1928",
-    "gutenbergReference": "60901",
-    "hash": "b88c09ab3bfdf6bda5cdfa0777f2fdf5a577cbcf5145eac0c60b91204643e305"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "12 Day calm; bombardment ",
-    "quoteTime": "11:40 P. M.",
-    "quoteLast": "",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "b3e983a589271d611cea3f68d930672d2194aa2d5c774e3c29311154decea725"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "November 8: Weight, 1,435 grams; 22.5 cc 2 per cent caffein or 314 mg per kilo injected at ",
-    "quoteTime": "11.40 p. m.",
-    "quoteLast": "; 5 a. m., no symptoms.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
-    "hash": "0bd7a9bfd2a1a566fdfc9164f1d09d94b2e7f816f5bb4bfce9c1a706af740407"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "\"Last night, sir, at ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": ",\" said the man. \"Did he seem as if he were about to go to bed?\" demanded Manners.",
-    "title": "The Gipsy: A Tale (Vols I & II)",
-    "author": "James, G. P. R. (George Payne Rainsford), 1801?-1860",
-    "gutenbergReference": "39376",
-    "hash": "fd1c699370214502875958f2fcb12a75af437870bdd836c87c7394b92cce738a"
-  },
-  {
-    "time": "23:40",
-    "quoteFirst": "November 8: Weight, 1,435 grams; 22.5 cc 2 per cent caffein or 314 mg per kilo injected at ",
-    "quoteTime": "11.40 p. m.",
-    "quoteLast": "; 5 a. m., no symptoms.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
-    "hash": "0bd7a9bfd2a1a566fdfc9164f1d09d94b2e7f816f5bb4bfce9c1a706af740407"
+    "quoteFirst": "'",
+    "quoteTime": "Twenty minutes to twelve",
+    "quoteLast": "! Then the crime must have been committed already. You saw nothing? You heard nothing?'",
+    "title": "Truth [Vérité]",
+    "author": "Zola, Émile, 1840-1902; Vizetelly, Ernest Alfred, 1853-1922 [Translator]",
+    "gutenbergReference": "55849",
+    "hash": "9326c0b828d97a9ebdb9d75e3ef2356b2671fb66fbe075bc6cb74fabff9ea8ab"
   },
   {
     "time": "23:40",
@@ -171,32 +21,82 @@
   },
   {
     "time": "23:40",
-    "quoteFirst": "Captain Tremayne passed you at ",
-    "quoteTime": "twenty minutes to twelve",
-    "quoteLast": " on the night of the 28th?”",
-    "title": "The Snare",
-    "author": "Sabatini, Rafael, 1875-1950",
-    "gutenbergReference": "2687",
-    "hash": "4e82cf716c88e16edbb360dd85364587a12b5133f32197fe9f7f74f9cf0fc047"
+    "quoteFirst": "On the 4th, at 12:49 a. m., the moon enters her first quarter; on the 10th, at ",
+    "quoteTime": "11:40 p. m.",
+    "quoteLast": ", is full; on the 18th, at 10:04 p. m., enters her last quarter; and on the 26th, at 1:27, is again new. On the 1st, 15th and 29th respectively, she reaches the meridian at 3:55 p. m., 3:14 a.",
+    "title": "The Chautauquan, Vol. 04, February 1884, No. 5.",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55132",
+    "hash": "1d9cd6d422d8315d2b619b70099cf6bdb9f2f6193d23f5e5bb03437ed07491f9"
   },
   {
     "time": "23:40",
-    "quoteFirst": "At ",
+    "quoteFirst": "And it was then ",
     "quoteTime": "twenty minutes to twelve",
-    "quoteLast": " the silence of the night was broken by three sharp strokes on the gong sounding from the crow’s nest—a signal for something right ahead; while almost simultaneously came a voice through the telephone from the look-out announcing the presence of ice. There was a kind of haze in front of the ship the colour of the sea, but nothing could be distinguished from the bridge. Mr.",
-    "title": "Titanic",
-    "author": "Young, Filson, 1876-1938",
-    "gutenbergReference": "31992",
-    "hash": "7ab81c34da20b1f14a3fff198d9ea1506b06a9d0a6261b48eb2fb96d42330c9c"
+    "quoteLast": ", and I sat out every one of them, waiting, watching the door, listening for a step in the corridor without. But Parslewe did not come.",
+    "title": "The copper box",
+    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
+    "gutenbergReference": "73344",
+    "hash": "a0e597c58fcc8e8de79417b62cc4d0808bcf25a3550913150578f7eb919f983f"
   },
   {
     "time": "23:40",
-    "quoteFirst": "{77}   Mrs. M. sent the memorandum to the S.P.R.  \"March 13, 1886. Have just seen visions on lawn--a soldier in general's uniform, a young lady kneeling to him, ",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty minutes to twelve",
+    "quoteLast": "! and we are now entering the creek,\" he whispered to me.",
+    "title": "The Congo Rovers: A Story of the Slave Squadron",
+    "author": "Collingwood, Harry, 1851-1922; Schönberg, John [Illustrator]",
+    "gutenbergReference": "21060",
+    "hash": "03287c55b0e7b7588edba2b6d7554101c9489cf45bf129e86594863b1a51ef1f"
+  },
+  {
+    "time": "23:40",
+    "quoteFirst": "The companies were by this time terribly depleted, and the brigade gave orders that all positions were to be held, but no further advance made. This was at 3.45 p.m., and it was not till ",
     "quoteTime": "11.40 p.m.",
-    "quoteLast": "\"",
-    "title": "The Book of Dreams and Ghosts",
-    "author": "Lang, Andrew, 1844-1912",
-    "gutenbergReference": "12621",
-    "hash": "9fd1c81d2ac37d496c3b85ac85d8015e65b01764199b5eb967dd29f8a135a1a6"
+    "quoteLast": " that the welcome news came that at 6 o’clock in the morning the 8th Norfolks would attack with bombing parties along the western face of the redoubt, Stokes and Vickers guns co-operating. At 3.30 a.m. on the 5th October, therefore, Norfolk bombing parties arrived at Thiepval in search of guides, and, these being supplied, they went on.",
+    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
+    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
+    "gutenbergReference": "73159",
+    "hash": "e3e0f5c5284eea1537559c15e48a8778a3054c335e0eacf7d69d8e253adf58ac"
+  },
+  {
+    "time": "23:40",
+    "quoteFirst": "Lost for a time in this reverie, he was dead to the passing of the precious moments. Recalled to himself, he turned quickly to the clock--it still wanted five and ",
+    "quoteTime": "twenty minutes to twelve",
+    "quoteLast": ".",
+    "title": "A Fool in Spots",
+    "author": "Rives, Hallie Erminie, 1876-1956",
+    "gutenbergReference": "65018",
+    "hash": "6c3ecdabc4da55d61f47e60b7708b4f53b1c5618f812df12afc1928e31f14995"
+  },
+  {
+    "time": "23:40",
+    "quoteFirst": "It was just ",
+    "quoteTime": "twenty minutes to twelve",
+    "quoteLast": " when they reached the mill.",
+    "title": "The Blower of Bubbles",
+    "author": "Baxter, Beverley, 1891-1964",
+    "gutenbergReference": "40501",
+    "hash": "666f0a0024c59b3a51977df097e842bd3c2279a721e11c9328ee5074161f4e3d"
+  },
+  {
+    "time": "23:40",
+    "quoteFirst": "Her maiden voyage was a stormy one, but it easily surpassed all previous records from Liverpool to Quebec. On her second trip she left Liverpool at 5 p. m. on October 29th, and reached Rimouski on November 4th, at ",
+    "quoteTime": "11.40 p. m.",
+    "quoteLast": ", thus making the voyage in 6 days, 11 hours and 40 minutes, and to Quebec in 6 days, 23 hours, 30 minutes. Her average speed on this voyage was about 16 knots an hour, and her best day’s run, 416 knots, equal to 17⅓ knots an hour.",
+    "title": "Steam Navigation and Its Relation to the Commerce of Canada and the United States",
+    "author": "Croil, James, 1821-1916",
+    "gutenbergReference": "58849",
+    "hash": "f606646b1c00b700a00d0186332fd7b87ed370f9d1cddead8baf92675cc259fe"
+  },
+  {
+    "time": "23:40",
+    "quoteFirst": "",
+    "quoteTime": "Twenty to twelve",
+    "quoteLast": " is the majority.",
+    "title": "Wilhelm Tell",
+    "author": "Schiller, Friedrich, 1759-1805; Martin, Theodore, Sir, 1816-1909 [Translator]",
+    "gutenbergReference": "2782",
+    "hash": "7a43a18eed868e0265e07f337fedc1ce35077c5923b29e673cfa0ef244ba9413"
   }
 ]

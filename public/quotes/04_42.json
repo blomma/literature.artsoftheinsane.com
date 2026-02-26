@@ -31,6 +31,16 @@
   },
   {
     "time": "04:42",
+    "quoteFirst": "The measures proposed by Barrère were at once decreed. All Frenchmen, from ",
+    "quoteTime": "eighteen to five",
+    "quoteLast": "-and-twenty, took arms, the armies were recruited by levies of men, and supported by levies of provisions. The republic had very soon fourteen armies, and twelve hundred thousand soldiers.",
+    "title": "History of the French Revolution from 1789 to 1814",
+    "author": "Mignet, M. (François-Auguste-Marie-Alexis), 1796-1884",
+    "gutenbergReference": "9602",
+    "hash": "2e9194c49336618f30ae4addca0f1388bf34ec2b9e0cce55407381479d3ee588"
+  },
+  {
+    "time": "04:42",
     "quoteFirst": "Individuals of this species were often observed foraging from five to ten feet above the ground around the alders and _Baccharis_ near San Antonio Creek, but they did not fly so low or so near the vegetation as did _Myotis evotis_. Here they were taken from ",
     "quoteTime": "18 minutes to 5",
     "quoteLast": "5 minutes after sunset; this indicates an early and short forage period.",
@@ -38,6 +48,36 @@
     "author": "Vaughan, Terry A.",
     "gutenbergReference": "34848",
     "hash": "1e335c8a094c7f49ac174d207ab632159d78dafb882bb42780dfeacf999a0af9"
+  },
+  {
+    "time": "04:42",
+    "quoteFirst": "Their baits are artful, designing, wicked men, and profligate, abandoned, and prostitute women. Paris abounds with them, as well as Lyons, and all the great towns between London and Rome; and are principally set to catch the young Englishman of fortune from the age of ",
+    "quoteTime": "eighteen to five",
+    "quoteLast": " and twenty; and what is worse, an honest, sensible, generous young man, is always in most danger of setting his foot into them. You suspect already, that these traps are made only of paper, and ivory, and that cards and dice are the destructive engines I mean.",
+    "title": "A Year's Journey through France and Part of Spain, Volume 1 (1777)",
+    "author": "Thicknesse, Philip, 1719-1792",
+    "gutenbergReference": "16485",
+    "hash": "89395010d4deb7cf012c211b7d6b75118120df2ee91083fc05582506b0afe7fd"
+  },
+  {
+    "time": "04:42",
+    "quoteFirst": "Mr. Hale moved to reduce the pay of admirals from five thousand seven hundred and ",
+    "quoteTime": "eighteen to five",
+    "quoteLast": " thousand dollars.",
+    "title": "Charles Sumner: his complete works, volume 09 (of 20)",
+    "author": "Sumner, Charles, 1811-1874",
+    "gutenbergReference": "48266",
+    "hash": "a7af750a35533e04083dccad3580d71fe043e35e937c46810c9560de9c0c4dee"
+  },
+  {
+    "time": "04:42",
+    "quoteFirst": "\"Then there was a pause.  The cry of 'Question!' was heard.  The ayes and noes were called.  The resolution was carried by ",
+    "quoteTime": "eighteen to five",
+    "quoteLast": ".  The learned suppose that one-half of this stolen $4000 was expended upon the colors, and the other half divided among about forty persons.  It is conjectured that each member of the Councilmen's Ring, which consists of thirteen, received about forty dollars for his vote on this occasion.",
+    "title": "Lights and Shadows of New York Life\nor, the Sights and Sensations of the Great City",
+    "author": "McCabe, James Dabney, 1842-1883",
+    "gutenbergReference": "19642",
+    "hash": "8a554ff3180d5de4e46ce5c7cf7624792e1c040480340eee4f0d184791787da8"
   },
   {
     "time": "04:42",
@@ -51,6 +91,16 @@
   },
   {
     "time": "04:42",
+    "quoteFirst": "An analysis of the expedients used by Mr. Gilbreth in reducing the motions of his bricklayers from ",
+    "quoteTime": "eighteen to five",
+    "quoteLast": " shows that this improvement has been made in three different ways:",
+    "title": "The Principles of Scientific Management",
+    "author": "Taylor, Frederick Winslow, 1856-1915",
+    "gutenbergReference": "6435",
+    "hash": "95beeeba20c838a0d13177607b81604ca793256fa8e6dfc7579cf51feff7c028"
+  },
+  {
+    "time": "04:42",
     "quoteFirst": "“resting.” I “rested” until ",
     "quoteTime": "eighteen minutes to five",
     "quoteLast": " on the morning of April 18th, when something happened.",
@@ -58,5 +108,65 @@
     "author": "Arvidson, Linda, 1884-1949",
     "gutenbergReference": "68850",
     "hash": "1766d70e1c433dc723fa940c28f2304c6aebd6bca5f25a5a9c6353e73516c1e7"
+  },
+  {
+    "time": "04:42",
+    "quoteFirst": "At day-break the next morning, I sent the master in shore to sound the bay, and to find out a watering-place; at eight he returned, having found a most excellent harbour, clear ground from side to side, from ",
+    "quoteTime": "eighteen to five",
+    "quoteLast": " fathom water all over the bay, gradually decreasing as you go in shore. We weighed and turned up into the bay; the wind being westerly, and very little of it, which baffled us much in getting in.",
+    "title": "A Voyage Towards the South Pole and Round the World, Volume 1",
+    "author": "Cook, James, 1728-1779; Furneaux, Tobias, 1735-1781 [Contributor]",
+    "gutenbergReference": "15777",
+    "hash": "d6528076fbfc98e9e491ff16aa276602fc3d39009a163abe7248900ea6904690"
+  },
+  {
+    "time": "04:42",
+    "quoteFirst": "Then there was a pause. The cry of 'Question!' was heard. The ayes and noes were called. The resolution was carried by ",
+    "quoteTime": "eighteen to five",
+    "quoteLast": ". The learned suppose that one half of this stolen four thousand dollars was expended upon the colors, and the other half divided among about forty persons. It is conjectured that each member of the Councilmen's Ring, which consists of thirteen, received about forty dollars for his vote on this occasion.",
+    "title": "The Secrets of the Great City\r\nA Work Descriptive of the Virtues and the Vices, the Mysteries, Miseries and Crimes of New York City",
+    "author": "McCabe, James Dabney, 1842-1883",
+    "gutenbergReference": "8856",
+    "hash": "47cd1e4170682bacccd0abb437d782054aff6366bfbed164cdd9f83955e9fdfc"
+  },
+  {
+    "time": "04:42",
+    "quoteFirst": "The following extract is taken from the _Gentleman’s Magazine_, 1779, vol. xlix. p. 137: “Being on a visit in a little obscure village in Kent, I found an odd kind of sport going forward: the girls, from ",
+    "quoteTime": "eighteen to five",
+    "quoteLast": " or six years old, were assembled in a crowd, and burning an uncouth effigy, which they called an _holly-boy_, and which it seems they had stolen from the boys, and in another part of the village the boys were assembled together, and burning what they called an _ivy-girl_, which they had stolen from the girls; all this ceremony was accompanied with loud huzzas, noise, and acclamation.",
+    "title": "British Popular Customs, Present and Past\r\nIllustrating the Social and Domestic Manners of the People. Arranged According to the Calendar of the Year.",
+    "author": "Thiselton-Dyer, T. F. (Thomas Firminger), 1848-1923",
+    "gutenbergReference": "58809",
+    "hash": "2c96106be8d2d997b1dc3dcb065b683189decdf808eb56b83b0472ca400258ab"
+  },
+  {
+    "time": "04:42",
+    "quoteFirst": "Men of sense--I speak not of boys of ",
+    "quoteTime": "eighteen to five",
+    "quoteLast": " and twenty, during their age of detestability--men who are worth the trouble of falling in love with, and the fuss and inconvenience, of being married to, and to whom one might, after some inward conflicts, and a course perhaps of fasting and self-humiliation, submit to fulfil those ill-contrived vows of obedience which are exacted at the altar, such men want, for their wives, companions, not dolls; and women who would suit such men are just as capable of loving fervently, deeply, as the Ringlettina, full of song and sentiment, who cannot walk, cannot rise in",
+    "title": "The Ladies' Book of Etiquette, and Manual of Politeness\nA Complete Hand Book for the Use of the Lady in Polite Society",
+    "author": "Hartley, Florence",
+    "gutenbergReference": "35123",
+    "hash": "e4faea9477905452cc5e01deecf89f602e90635e5d3f1de251c2773b7ef4ebcb"
+  },
+  {
+    "time": "04:42",
+    "quoteFirst": "At day-break the next morning, I sent the master in shore to sound the bay, and to find out a watering place; at eight he returned, having found a most excellent harbour, clear ground from side to side, from ",
+    "quoteTime": "eighteen to five",
+    "quoteLast": " fathom water all over the bay, gradually decreasing as you go in shore. We weighed and turned up into the bay; the wind being westerly, and very little of it, which baffled us much in getting in.",
+    "title": "The Three Voyages of Captain Cook Round the World, Vol. III. Being the First of the Second Voyage",
+    "author": "Cook, James, 1728-1779; Forster, Georg, 1754-1794",
+    "gutenbergReference": "61155",
+    "hash": "1a077210f639a69ef0eeda350e783f14c7b72940a9502fe634351ce8575b1df2"
+  },
+  {
+    "time": "04:42",
+    "quoteFirst": "At day-break the next morning, I sent the master in shore to sound the bay, and to find out a watering-place; at eight he returned, having found a most excellent harbour, clear ground from side to side, from ",
+    "quoteTime": "eighteen to five",
+    "quoteLast": " fathom water all over the bay, gradually decreasing as you go in shore. We weighed and turned up into the bay; the wind being westerly, and very little of it, which baffled us much in getting in.",
+    "title": "A General History and Collection of Voyages and Travels — Volume 14",
+    "author": "Kerr, Robert, 1755-1813",
+    "gutenbergReference": "13381",
+    "hash": "5e509c28f2c377ab96280a7aa546c19141fe0c9e4261d13b85a7afe913908c0e"
   }
 ]

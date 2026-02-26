@@ -1,6 +1,26 @@
 [
   {
     "time": "17:17",
+    "quoteFirst": "Under date of the 24th day of September, I received a letter from my special and trusted correspondent in the city of New York in which I find this statement:  \"This has been the most dreadful day I have ever seen in this city.  While gold was jumping from ",
+    "quoteTime": "forty-three to six",
+    "quoteLast": "ty- one the excitement was painful.  Old, conservative merchants looked aghast, nobody was in their offices, and the agony depicted on the faces of men who crowded the streets made one feel as if Gettysburg had been lost and that the rebels were marching down Broadway.",
+    "title": "Reminiscences of Sixty Years in Public Affairs, Vol. 2",
+    "author": "Boutwell, George S. (George Sewall), 1818-1905",
+    "gutenbergReference": "20109",
+    "hash": "d2191b9baeaa487ec05b3265114c0018d6685537cb08c567a8abe22b53141140"
+  },
+  {
+    "time": "17:17",
+    "quoteFirst": "Following Frontinus’ indications, Ashby and Miss Van Deman found the sources of the four great aqueducts at over 1000 feet above sea level, in springs or lakes in the upper reaches of the Anio valley, near Subiaco, Mandela, and Vicovaro. The airline distance of the sources from Rome varies from twenty-four to twenty-seven miles, but to follow the contours the aqueducts took a circuitous course, so that their actual length is from ",
+    "quoteTime": "forty-three to six",
+    "quoteLast": "ty-two miles. Though the modern reader associates Roman aqueducts with the magnificent lines of arches (Fig. 12.9) stretching across a once-empty Campagna near Rome, the fact is that well under a third of a Roman aqueduct’s course was normally carried on arches: the rest was tunnel or side-hill channel.",
+    "title": "The Mute Stones Speak: The Story of Archaeology in Italy",
+    "author": "MacKendrick, Paul Lachlan, 1914-1998",
+    "gutenbergReference": "57308",
+    "hash": "cc8e152d9b879ca01556f36f637ead3f7923e39c1dd8c89fb534589d8887ddd2"
+  },
+  {
+    "time": "17:17",
     "quoteFirst": "4:31 p. m. Saturday at Lisbon, Portugal 4:55 p. m. Saturday at Edinburgh, Scotland. 5:07 p. m. Saturday at London, England. ",
     "quoteTime": "5:17 p. m.",
     "quoteLast": " Saturday at Paris, France.",
@@ -18,5 +38,15 @@
     "author": "Ingram, Eleanor M. (Eleanor Marie), 1886-1921; Frederick, Edmund, 1870-1949 [Illustrator]; Stuart, Bertha, 1869-1953 [Illustrator]",
     "gutenbergReference": "29166",
     "hash": "a88e2e453f1f3bb20c48459f3768df0447e46a4ba6f532c6f0cdcf3f33dd34b0"
+  },
+  {
+    "time": "17:17",
+    "quoteFirst": "\"Proposition sixteen. The diameter of the sun is to the diameter of the earth in greater proportion than nineteen to three, and less than ",
+    "quoteTime": "forty-three to six",
+    "quoteLast": ".",
+    "title": "A History of Science — Volume 1",
+    "author": "Williams, Henry Smith, 1863-1943; Williams, Edward Huntington, 1868-1944",
+    "gutenbergReference": "1705",
+    "hash": "6e089b917d023e0c6e1791489dfe64d2d78d36389d9abb74e1860e07ead52efe"
   }
 ]

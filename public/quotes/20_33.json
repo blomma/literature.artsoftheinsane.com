@@ -21,6 +21,16 @@
   },
   {
     "time": "20:33",
+    "quoteFirst": "As the two great parties came together they surveyed each other's strength--prepared to close in combat with the same determination and hostile feeling that had marked the proceedings of the last session of the Twelfth Congress. In the accession of members the Federalists had made important gains, chiefly from New York, so that the House stood one hundred and twelve for the war and sixty-eight against it, and the Senate ",
+    "quoteTime": "twenty-seven to nine",
+    "quoteLast": ".",
+    "title": "The Second War with England, Vol. 1 of 2",
+    "author": "Headley, Joel Tyler, 1813-1897",
+    "gutenbergReference": "39368",
+    "hash": "9b74025d2848da35135191e6604287c00ec9e13a3374eb21adacf32d0127006c"
+  },
+  {
+    "time": "20:33",
     "quoteFirst": "8:02 P. M. Arrived at buoy; proceeded to moor ship. ",
     "quoteTime": "8:33 P. M.",
     "quoteLast": " Ship moored and engines secured.",
@@ -58,5 +68,15 @@
     "author": "Gibbon, Frederick P.",
     "gutenbergReference": "73544",
     "hash": "2f8007a21fd0eeb355e6bea6ae7ff0d6e5d6e0183b348dac5462bfb5bedcd37e"
+  },
+  {
+    "time": "20:33",
+    "quoteFirst": "This will not be so much to be wondered at, when we consider that the proportion of vital air in fixed air is as ",
+    "quoteTime": "twenty-seven to nine",
+    "quoteLast": ", and in atmospheric air, the proportion of azotic gas or phlogisticated air, to vital air, is as seventy-three to twenty-seven; therefore, the former contains three fourths of vital air, and the latter little better than one fourth; but the fixed air is in a combined, and the phlogisticated air in an uncombined state.",
+    "title": "The American Practical Brewer and Tanner",
+    "author": "Coppinger, Joseph, -1825?",
+    "gutenbergReference": "20663",
+    "hash": "84064b75166a5d6211be1787e5aa2c16880b19175821c46a0f0053f31531dbd0"
   }
 ]

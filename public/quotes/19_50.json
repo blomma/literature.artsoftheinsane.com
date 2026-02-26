@@ -1,202 +1,102 @@
 [
   {
     "time": "19:50",
-    "quoteFirst": "Left Mooltan at ",
-    "quoteTime": "7.50 P.M.",
-    "quoteLast": "",
-    "title": "The Last Voyage: To India and Australia, in the 'Sunbeam'",
-    "author": "Brassey, Annie, 1839-1887; Brassey, Thomas Brassey, Earl, 1836-1918 [Commentator]; Pritchett, R. T. (Robert Taylor), 1828-1907 [Illustrator]",
-    "gutenbergReference": "29778",
-    "hash": "9ebcc2c248de341e84800d66cbec653f4325494e81c3f6c2f8d227f6f1d8ca6c"
+    "quoteFirst": "Gradual and continuous backward pressure by means of a bandage (Desault). In this plan the bandage requires constant attention to keep it sufficiently tight; and it is very doubtful whether much effect can be thus produced, especially when only applied, as in Desault’s cases, for from ",
+    "quoteTime": "ten to eight",
+    "quoteLast": "een days. The use of elastic tension by means of india-rubber has been also recommended (Thiersch). The effect of such treatment will be to bend the vomer in proportion to the amount of repression; but much pain must always be produced by this process, and the vitality of the central part of the upper lip may be seriously impaired.",
+    "title": "On harelip and cleft palate",
+    "author": "Rose, William, 1847-1910",
+    "gutenbergReference": "70665",
+    "hash": "8a7e0dd672d6613941cd70823530966fa624c369b74642b43db897f367aedb9e"
   },
   {
     "time": "19:50",
-    "quoteFirst": "At about ",
-    "quoteTime": "7.50 p.m.",
-    "quoteLast": " on Thursday, 31st July, 1917, the steamer _Belgian Prince_ was travelling at 10 knots an hour, when the wake of a torpedo was seen upon the port beam. Her helm was at once put hard over, but she was struck between the after part of the engine-room and No.",
-    "title": "The German pirate",
-    "author": "Ajax",
-    "gutenbergReference": "50865",
-    "hash": "23a3b0b21fdb1aa5fbe355436c04eacb7f1e501b29d9cefbe1b8e0191941c60c"
-  },
-  {
-    "time": "19:50",
-    "quoteFirst": "But looking out of the window was one thing, and jumping another: and the town clock struck seven. So he got into bed for a little sleep, but the gaoler came and woke him, and said, “Git up, your Royal Ighness, if you please, it’s _",
+    "quoteFirst": "\"I will see to that,\" said the nurse.  \"I will tell them to have the carriage here at ",
     "quoteTime": "ten minutes to eight",
-    "quoteLast": "_!”",
-    "title": "The Junior Classics, Volume 9: Stories of To-day",
-    "author": "Patten, William, 1868-1936 [Editor]",
-    "gutenbergReference": "57522",
-    "hash": "95958d30b227a0249cb36d1afd5a74767e89b962c549380cf3b5550cd0063709"
+    "quoteLast": ".  Then you can drive to the end of the street, slip out, and walk back.  I will let you in myself.\"",
+    "title": "Sketches in Lavender, Blue and Green",
+    "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+    "gutenbergReference": "2234",
+    "hash": "f8b4f4af18d6d931958427a1db035d7b2eae9b0660b13af4e2eb4a66fb23cbfe"
+  },
+  {
+    "time": "19:50",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes to eight",
+    "quoteLast": " came the Governor to shake hands, and with him the Sheriff. The clock in the prison hall moved slowly, inexorably forward.",
+    "title": "The Fellowship of the Frog",
+    "author": "Wallace, Edgar, 1875-1932",
+    "gutenbergReference": "69789",
+    "hash": "d270764a83a744d12a9dea28fd0b5fdcc90ce36866f563dc6a0041d0f41bd437"
   },
   {
     "time": "19:50",
     "quoteFirst": "They speedily came to an agreement that he should be in the church-porch at ",
     "quoteTime": "ten minutes to eight",
     "quoteLast": " on the following morning, awaiting her; and that, immediately after the conclusion of the service which would make them one, Nicholas should set out on his long-deferred educational tour, towards the cost of which she was resolving to bring a substantial subscription with her to church.",
-    "title": "A Changed Man, and Other Tales",
-    "author": "Hardy, Thomas, 1840-1928",
-    "gutenbergReference": "3058",
-    "hash": "be7859ee82a3eb7afc5447a42b5dc64995fee4189d84a78c81af78a0eb06bbc4"
+    "title": "Index of the Project Gutenberg Works of Thomas Hardy",
+    "author": "Hardy, Thomas, 1840-1928; Widger, David, 1932-2021? [Editor]",
+    "gutenbergReference": "58250",
+    "hash": "9f23f2a531a34a11e8de41e4f6a8af990ee9493ab74a004d98110358aff22958"
   },
   {
     "time": "19:50",
-    "quoteFirst": "\"Yes,\" replied the postal official. \"It was held back for three hours according to procedure when dealing with foreign cablegrams, and was sent off at ",
-    "quoteTime": "7.50 P.M.",
-    "quoteLast": " yesterday.\"",
-    "title": "The Mystery Ship: A Story of the 'Q' Ships During the Great War",
-    "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Morrow, Albert George, 1863-1927 [Illustrator]",
-    "gutenbergReference": "50781",
-    "hash": "7113609ac58a5baead324d9a75f6ad6b2080112f48806e86bfd8994d708a9bfc"
+    "quoteFirst": "42, and therefore at Hastings at 7.23 a.m.[3008] But off Hastings, within a mile from the shore, the current turns westward about the time of high tide,[3009] runs westward for about six hours and a half, and then runs eastward for about six hours. At 3 p.m., therefore, on the 27th of August, the tide off Hastings would have been running eastward, and would have continued to do so until about ",
+    "quoteTime": "7.50 p.m.",
+    "quoteLast": " And on the 28th of August, which Airy wrongly assumes to have been the day of Caesar’s landing, the tide off Hastings would have turned eastward about 2.53 p.m., and would have continued to run in that direction until about 8.53.",
+    "title": "Ancient Britain and the Invasions of Julius Caesar",
+    "author": "Holmes, T. Rice (Thomas Rice), 1855-1933",
+    "gutenbergReference": "57336",
+    "hash": "fb9f56fd6faeb2afecba9b07f80a5068ff89e5ebbe2a827c2642f57e0f08cec4"
   },
   {
     "time": "19:50",
-    "quoteFirst": "Will be evening star during the month, setting at 6:38 on the evening of the 1st, and at ",
-    "quoteTime": "7:50 p. m.",
-    "quoteLast": " on the 31st. Her motion is direct, amounting, during the month, to 2 hours, 24 minutes, 38 seconds, equal to 36° 9½′ of arc, her diameter increasing from 11.6′ to 12.8′. This planet will delight the vision of star-gazers, not only during January, but several succeeding months.",
-    "title": "The Chautauquan, Vol. 04, January 1884\r\nA Monthly Magazine Devoted to the Promotion of True Culture.\r\nOrgan of the Chautauqua Literary and Scientific Circle.",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "53652",
-    "hash": "3cc7414373f0ccca71b054d6d5476d3fd5b1e40479f63843e02dd52a66284ad9"
-  },
-  {
-    "time": "19:50",
-    "quoteFirst": ", a Cuckoo, several \"Mountain Larks,\" and one Swift at 9 A.M. (E, 4.) _Portland_ (_Low_) L.H., two Swallows at ",
-    "quoteTime": "7.50 P.M.",
-    "quoteLast": "",
-    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
-    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
-    "gutenbergReference": "66152",
-    "hash": "9eef8b78d8fe48e24a85598ace9cd14e51504b1a13535a33235d61d8993fb216"
-  },
-  {
-    "time": "19:50",
-    "quoteFirst": "\"No. I should have gone, but I suddenly remembered that I had an appointment with a patient in Meadow Gate at ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": " o'clock. So I went back to the surgery, exchanged my jacket for a coat and went out.",
-    "title": "In the Mayor's Parlour",
-    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
-    "gutenbergReference": "25424",
-    "hash": "076e85477516f51e610f766554fe78c946bd6f4b95f88d8423e6e1103a54c32a"
-  },
-  {
-    "time": "19:50",
-    "quoteFirst": "But looking out of the window was one thing, and jumping another: and the town clock struck seven. So he got into bed for a little sleep, but the gaoler came and woke him, and said, ‘Git up, your Royal Ighness, if you please, it’s ",
-    "quoteTime": "TEN MINUTES TO EIGHT",
-    "quoteLast": "!’",
-    "title": "The Rose and the Ring",
-    "author": "Thackeray, William Makepeace, 1811-1863",
-    "gutenbergReference": "897",
-    "hash": "67ecefa6debac152301b3a3aee38694e040be3cd6fc0a2f6b8f897db80f68c3c"
-  },
-  {
-    "time": "19:50",
-    "quoteFirst": "‘About ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": ".’",
-    "title": "The Ponson case",
-    "author": "Crofts, Freeman Wills, 1879-1957",
-    "gutenbergReference": "72235",
-    "hash": "1c9c668dfaa5997b592197bc8c920a4af3f15fe17612cbb28560f32496b2fd30"
-  },
-  {
-    "time": "19:50",
-    "quoteFirst": "It was ",
+    "quoteFirst": "The twins came rushing in at ",
     "quoteTime": "ten minutes to eight",
     "quoteLast": ".",
-    "title": "Pawned",
-    "author": "Packard, Frank L. (Frank Lucius), 1877-1942",
-    "gutenbergReference": "51965",
-    "hash": "1fa24aa82403c8bb8e0e344ece2320bee879d2f0e034a8fd22243893f671e42b"
+    "title": "Betty Vivian: A Story of Haddo Court School",
+    "author": "Meade, L. T., 1854-1914",
+    "gutenbergReference": "25510",
+    "hash": "408bb72b479ebcbc3c5ce18700bbe34dd21e74b4d1995b6718d39d5ecf20dbcb"
   },
   {
     "time": "19:50",
-    "quoteFirst": "\"There is a later train at ",
+    "quoteFirst": "Wool-combs were shaped like the letter T, with about thirty long steel teeth from ",
+    "quoteTime": "ten to eight",
+    "quoteLast": "een inches long set at right angles with the top of the T. The wool was carefully placed on one comb, and with careful strokes the other comb laid the long staple smooth for hard-twisted spinning.",
+    "title": "Home Life in Colonial Days",
+    "author": "Earle, Alice Morse, 1851-1911",
+    "gutenbergReference": "22675",
+    "hash": "383883d80018e46adfefbfebc5f955a8e44819fd5d9a730fd6b4442728c0f678"
+  },
+  {
+    "time": "19:50",
+    "quoteFirst": "\"Been,\" he laughed.  \"No!  It's only ",
+    "quoteTime": "ten to eight",
+    "quoteLast": ".  This is an eight-o'clocker, you know.  G. K. S. will never stand things at the ordinary time!\"",
+    "title": "Helena Brett's Career",
+    "author": "Coke, Desmond, 1879-1931",
+    "gutenbergReference": "33103",
+    "hash": "14ec4da7678d3e14d9a5e0a1c56c79e9f325ba65d491a6693a0b3b7aaa9b358d"
+  },
+  {
+    "time": "19:50",
+    "quoteFirst": "\"Where on earth can she be?\" exclaimed Mrs. Clinton. Punctuality at meals being so rigidly observed it was unprecedented that Cicely should not have begun to dress at a quarter to eight. At ",
     "quoteTime": "ten minutes to eight",
-    "quoteLast": ", father,\" said Jeanne.",
-    "title": "The Immortals: Masterpieces of Fiction, Crowned by the French Academy — Complete",
-    "author": "Various",
-    "gutenbergReference": "4000",
-    "hash": "c6258b1350cf5703ad70d144bae959beb630fc9c44bb92c16610a0d69d468ff5"
+    "quoteLast": " Mrs. Clinton was convinced that some accident had befallen her. At five minutes to, she tapped at the door of the Squire's dressing-room.",
+    "title": "The Squire's Daughter: Being the First Book in the Chronicles of the Clintons",
+    "author": "Marshall, Archibald, 1866-1934",
+    "gutenbergReference": "31381",
+    "hash": "5864e6139bdac3c810b29fb34d23fa7cdab1a3d1e9ed40595398a6d7a0ff0df1"
   },
   {
     "time": "19:50",
-    "quoteFirst": "_--That incubation is sometimes shared by both sexes is proved by the fact that both Walpole Bond and Seton Gordon have witnessed the change of duties and the latter has actually photographed the birds in the act of changing places. Yet Gilroy watched one bird from 10.45 a. m. to ",
-    "quoteTime": "7.50 p. m.",
-    "quoteLast": ", which remained all the time at a loch side in Sutherland on May 16, although its mate was sitting on a clutch of fresh eggs. Evidently there is considerable individual variation in this respect.",
-    "title": "Life histories of North American shore birds, Part 1 (of 2)",
-    "author": "Bent, Arthur Cleveland, 1866-1954",
-    "gutenbergReference": "47028",
-    "hash": "127fc2b772ec07f405553036e50f5e4fc0ebd554cb2f8f9905754503ff88e5f7"
-  },
-  {
-    "time": "19:50",
-    "quoteFirst": "But at ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": " came what appeared to be a terrific earthquake.",
-    "title": "The young naval captain",
-    "author": "Stratemeyer, Edward, 1862-1930",
-    "gutenbergReference": "75394",
-    "hash": "0838bed6bb49def385b82c9f610f0f10b62d90b179f1a25d64036b60abbf37d8"
-  },
-  {
-    "time": "19:50",
-    "quoteFirst": ", a Cuckoo, several \"Mountain Larks,\" and one Swift at 9 A.M. (E, 4.) _Portland_ (_Low_) L.H., two Swallows at ",
-    "quoteTime": "7.50 P.M.",
-    "quoteLast": "",
-    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
-    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
-    "gutenbergReference": "66152",
-    "hash": "9eef8b78d8fe48e24a85598ace9cd14e51504b1a13535a33235d61d8993fb216"
-  },
-  {
-    "time": "19:50",
-    "quoteFirst": "Polly Prentice, look! Look what the time is! ",
-    "quoteTime": "Ten minutes to eight",
-    "quoteLast": "! We'll be late for the corn-husking.",
-    "title": "Patriotic Plays and Pageants for Young People",
-    "author": "Mackay, Constance D'Arcy, 1887?-1966",
-    "gutenbergReference": "18163",
-    "hash": "17d4a14d428cf8925eaa1c5e7db72fb86afc55dd8b6f6e43b5fbb6de444ea2a7"
-  },
-  {
-    "time": "19:50",
-    "quoteFirst": "But no; in a dimly-crowded church, before a hundred eyes, he was speaking of divine things.  How did he look in the pulpit?  If she could only see him!  And why not?  She looked at her watch; it lacked ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": ".  She made no pause to reflect; she only felt that she must hurry.  She rang the bell and ordered a carriage, and then, hastening to her room, put on her shawl and bonnet,—the blue crape bonnet of the concert.",
-    "title": "Watch and ward",
-    "author": "James, Henry, 1843-1916",
-    "gutenbergReference": "72355",
-    "hash": "527533554ef851d2d9c38f6574192c837111eed5cbff61231778211f9e6af9c8"
-  },
-  {
-    "time": "19:50",
-    "quoteFirst": "",
-    "quoteTime": "7:50 P.M.",
-    "quoteLast": "",
-    "title": "Project Cyclops",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34319",
-    "hash": "a32472dc34409aca6adac52cc42745d41398e7e696e4d43cfa887e96239e6b52"
-  },
-  {
-    "time": "19:50",
-    "quoteFirst": "He consulted his watch.  '",
-    "quoteTime": "Ten minutes to eight",
-    "quoteLast": ".  Say a quarter-past for dinner.  They're here, colonel.'",
-    "title": "Beauchamp's Career — Volume 5",
-    "author": "Meredith, George, 1828-1909",
-    "gutenbergReference": "4457",
-    "hash": "f8866f562dbc338215d7416d8b0dd03dd6fae20c9bb6db92c2ce42b9a7e0032d"
-  },
-  {
-    "time": "19:50",
-    "quoteFirst": "But they went out to dinner together nevertheless, and Harcourt smilingly introduced his brother to Mrs. Tredethlyn and Miss Desmond. They had plenty of time to grow quite intimate in the drawing-room while they were waiting for Francis, who came in, flushed with a hurried toilet, at ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": ". He had been absent upon one of his mysterious excursions a little way out of town.",
-    "title": "Only a clod",
-    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
-    "gutenbergReference": "76927",
-    "hash": "61c261e34bb7a2d7cd0235577303bef300588ef6f4a650bf17972f806a9a2292"
+    "quoteFirst": "The lake is a mile wide, here, and maintains about that width from this point to its northern extremity--which is distant sixteen miles: from here to its southern extremity--say fifteen miles--it is not over half a mile wide in any place, I should think.  Its snow-clad mountains one hears so much about are only seen occasionally, and then in the distance, the Alps.  Tahoe is from ",
+    "quoteTime": "ten to eight",
+    "quoteLast": "een miles wide, and its mountains shut it in like a wall.  Their summits are never free from snow the year round.",
+    "title": "The Innocents Abroad — Volume 02",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "5689",
+    "hash": "6c9985346808e1ea6892d2bc08934deee333e1f9e080971ebede3cd6c7dbb885"
   }
 ]

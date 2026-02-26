@@ -1,6 +1,46 @@
 [
   {
     "time": "06:38",
+    "quoteFirst": "At noon, being in the latitude of 52° 44ʹ, and the longitude of 159°, the entrance of Awatska Bay bore north-west, distant three or four leagues; and about three in the afternoon a fair wind sprung up from the southward, with which we stood in, having regular soundings from ",
+    "quoteTime": "twenty-two to seven",
+    "quoteLast": " fathoms.",
+    "title": "The Three Voyages of Captain Cook Round the World. Vol. VII. Being the Third of the Third Voyage",
+    "author": "King, James, 1750-1784",
+    "gutenbergReference": "62659",
+    "hash": "1103db4ca780d0aad340686b06c72195d2d2b241e54c8b51a18e0cc8dfd0d2ef"
+  },
+  {
+    "time": "06:38",
+    "quoteFirst": "Plateau, all the phenomena of the influence of vibrations on jets of liquid are referable to the conflict between the vibrations and the _forces of figure_ (“_forces figuratrices_”). If the physical fact is admitted—and it seems to be indisputable—that a liquid cylinder attains a _limit of stability_ when the proportion between its length and its diameter is in the ratio of ",
+    "quoteTime": "twenty-two to seven",
+    "quoteLast": ", it is almost a _physical necessity_ that the jet should assume the constitution indicated by the observations of Savart. It likewise seems highly probable that a liquid jet, while in a transition stage to discontinuous drops, should be exceedingly sensitive to the influence of all kinds of vibrations.",
+    "title": "Sound",
+    "author": "Tyndall, John, 1820-1893",
+    "gutenbergReference": "54969",
+    "hash": "a956d864dd4ec527188e937621d1a1b4060d5b8e4598d4e88706808196796378"
+  },
+  {
+    "time": "06:38",
+    "quoteFirst": "We made the Brothers at day-light in the morning, after passing this shoal, and at ten o'clock we passed within three miles of them, in from ",
+    "quoteTime": "twenty-two to seven",
+    "quoteLast": "teen fathoms water, over a sandy bottom. The latitude of the Brothers is 3° 41' south, and the longitude 117° 00' east.",
+    "title": "An Historical Journal of the Transactions at Port Jackson and Norfolk Island",
+    "author": "Hunter, John, 1737-1821; King, Philip Gidley, 1758-1808 [Contributor]; Phillip, Arthur, 1738-1814 [Contributor]",
+    "gutenbergReference": "15662",
+    "hash": "c0d35433fc1868c1777aa9abda94718e5a6adbde295dd563972449675892d591"
+  },
+  {
+    "time": "06:38",
+    "quoteFirst": "At noon, being in the latitude of 52° 44', and the longitude of 159°, the entrance of Awatska Bay bore N.W., distant three or four leagues; and, about three in the afternoon, a fair wind sprung up from the southward, with which we stood in, having regular soundings, from ",
+    "quoteTime": "twenty-two to seven",
+    "quoteLast": " fathoms.",
+    "title": "A General History and Collection of Voyages and Travels, Volume 17\nArranged in Systematic Order: Forming a Complete History\nof the Origin and Progress of Navigation, Discovery, and\nCommerce, by Sea and Land, from the Earliest Ages to the\nPresent Time",
+    "author": "Kerr, Robert, 1755-1813",
+    "gutenbergReference": "15425",
+    "hash": "df8c724191aa2f80707d9f41171083d73e0e2d7c1a2bb22d2ab2e75833613277"
+  },
+  {
+    "time": "06:38",
     "quoteFirst": "The moon’s phases occur in the following order: First quarter, on the 7th, at ",
     "quoteTime": "6:38 a. m.",
     "quoteLast": "; full moon on the 13th, at 10:20 p. m.; last quarter on the 21st, at 3 a. m., and new moon on the 29th, at 7:51 a. m., Washington time (or, according to the “new reckoning,” eight minutes and twelve seconds later in each case).",
@@ -28,5 +68,15 @@
     "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
     "gutenbergReference": "16602",
     "hash": "773bd62a79f66a11ffda9c7f836ce08959836e85e458204e05d3ccdb133de7f1"
+  },
+  {
+    "time": "06:38",
+    "quoteFirst": "Gregory struck up a friendship which, while it had the charm of novelty, drew much of its sweetness from the past. The girls, who were not little schoolmisses, as might have been imagined from their father's reference to holland frocks and straw hats, but young women ranging from ",
+    "quoteTime": "twenty-two to seven",
+    "quoteLast": "teen, flashed in and out of the widow's rooms, dragged her off with them for picnics on the river, and filled up her somewhat barren days with the overflowings of their exuberant life. As for the General, who had become a great gardener in his retirement, he looked in upon his neighbour, as a general rule, once a day, to inquire after her health, and discuss the condition of their respective crops of roses and strawberries.",
+    "title": "The Rajah's Heir\nA Novel in 3 volumes",
+    "author": "Despard, C. (Charlotte), 1844-1939",
+    "gutenbergReference": "58486",
+    "hash": "c4c1b079fcf1c2f1f371c41e9fc3003ef3af85aefbb5bf4ac7a5baddb239395e"
   }
 ]

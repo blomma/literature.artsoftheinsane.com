@@ -1,202 +1,102 @@
 [
   {
     "time": "16:15",
-    "quoteFirst": "\"I will be here at this hour to-morrow,\" said Charlotte, and as she spoke she pulled out her watch to mark the exact time. \"It is a ",
-    "quoteTime": "quarter past four",
-    "quoteLast": " now,\" she said; \"I will meet you here at this hour to-morrow, at a quarter past four.\"",
-    "title": "How It All Came Round",
-    "author": "Meade, L. T., 1854-1914",
-    "gutenbergReference": "23653",
-    "hash": "d47590259ad20d0781d4197ba68c0f4676b156c5771c7aeb1e4fce1404124b6d"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "‘Well, then, I’ll expect you back to tea about a ",
-    "quoteTime": "quarter past four",
-    "quoteLast": ",’ said Mary. ‘Miss Emmeline will be able to keep count of time with that dear little watch of hers.",
-    "title": "The Boy from Green Ginger Land",
-    "author": "Vaughan-Smith, Emilie",
-    "gutenbergReference": "58370",
-    "hash": "741c1c364988f945f63eff7a7f5848b7cc570b9b1e2260a9709b715f1932d1da"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "Just how long this continued I do not know, for my sleep was deep and dreamless, but I should judge that the burglar ran himself to death sometime between half-past three and a ",
-    "quoteTime": "quarter after four",
-    "quoteLast": ". So great had been his efforts that when I went to remove him I did not recognize him at all. When I had seen him last in the glow of the glass silver case he had been a stout, chunky fellow, and now his remains were those of an emaciated man.",
-    "title": "The Water Goats, and Other Troubles",
-    "author": "Butler, Ellis Parker, 1869-1937",
-    "gutenbergReference": "1285",
-    "hash": "f0189666a18242a8a83e0460afb98c4e88dc813be6e06a3c10c2e310f1eeb84d"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "'On the 22nd of August 1795, Captain Yorke being in company with a light squadron under the orders of Captain James Alms, gave chase to two large ships and a cutter. At ",
-    "quoteTime": "4.15 P.M.",
-    "quoteLast": " the _Stag_ brought the sternmost ship to close action, which continued with much spirit for about half an hour, when the enemy struck, and proved to be the _Alliance_, Batavian frigate of 36 guns and 240 men. Her consorts the _Argo_ 36, and _Nelly_ cutter, 16, effected their escape after sustaining a running fight with the other ships of the British squadron.",
-    "title": "Charles Philip Yorke, Fourth Earl of Hardwicke, Vice-Admiral R.N. — a Memoir",
-    "author": "Biddulph, Elizabeth Philippa, Baroness, 1834-1916",
-    "gutenbergReference": "7192",
-    "hash": "f6bf3fccd765346b7476d7a870a611b3523cac9b98a4f31249a8cf642bef0499"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "At the risk of going into technical details for a moment, I must give the orders in their sequence so that military readers may realise the difficult conditions under which I had to carry on operations until the German attack came on us. On this same date (December 18) another order from G.H.Q. issued at ",
-    "quoteTime": "4.15 P.M.",
-    "quoteLast": " said the Second, Third, Fourth, and Indian Corps would continue to demonstrate on the 19th December along the whole front and seize every favourable opportunity which may offer to capture any of the enemy’s trenches.",
-    "title": "With the Indians in France",
-    "author": "Willcocks, James, Sir, 1857-1926",
-    "gutenbergReference": "77003",
-    "hash": "14f4ab9ab32b4d93239d19acb8ff8c3abc4b487f482abed8260b3ef4d232a068"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "of aqueous fluid representing the concentrated extract of 125 grams of the fresh _Astragalus mollissimus_, collected September, 1905, and preserved with chloroform. The rabbit weighed 1,502.5 grams. This extract was fed at 1.45 p.m., and at ",
-    "quoteTime": "4.15 p.m.",
-    "quoteLast": " the temperature was 102.6°F., but there were no marked symptoms. The following day at 2.04 p.m. the temperature registered 102.5°F. The same amount of extract was given at 2.09 p.m. The temperature at 4 p.m. was 99.8°F., the animal was dull, and the pupils were perhaps a little smaller.",
-    "title": "Barium: A Cause of the Loco-Weed Disease",
-    "author": "Crawford, Albert C. (Albert Cornelius), 1869-1921",
-    "gutenbergReference": "40256",
-    "hash": "0c528f7e86f7d2b6c6874a308d5b23156036cda61edc4e9233add0b44c0a58e3"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "\"It is only a ",
-    "quoteTime": "quarter past four",
-    "quoteLast": "\" showing his watch--\"and you are not now in Bath. No theatre, no rooms to prepare for. Half an hour at Northanger must be enough.\"",
-    "title": "The Complete Project Gutenberg Works of Jane Austen\nA Linked Index of all PG Editions of Jane Austen",
-    "author": "Austen, Jane, 1775-1817; Widger, David, 1932-2021? [Editor]",
-    "gutenbergReference": "31100",
-    "hash": "7233f4bfac623bcaec4ebb4d5065254105d1e64cf3c88c9a87b2a321294b0e4c"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "",
-    "quoteTime": "Quarter-past four",
-    "quoteLast": " stood the hands of the clock. Never in his life had Billy seen them move so fast at that time of the day.",
-    "title": "The story of iron",
-    "author": "Samuel, Elizabeth Ida, 1860-; Simkins, Velma T. [Illustrator]",
-    "gutenbergReference": "68492",
-    "hash": "c7ab3d1b800e57bcce68c5481cafd52894cc7eb2e90b9a6336ccea3b8fb1fd6c"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "PORT DE GROLEE, Monday, ",
-    "quoteTime": "4.15 p.m.",
+    "quoteFirst": "Vanilla                            ",
+    "quoteTime": "4:15 P. M.",
     "quoteLast": "",
-    "title": "Mark Twain's Letters — Volume 4 (1886-1900)",
-    "author": "Twain, Mark, 1835-1910; Paine, Albert Bigelow, 1861-1937 [Compiler]",
-    "gutenbergReference": "3196",
-    "hash": "f3b91d24f8cef320b6563ec98ee54649fe8e88358125ec4ff0413dcf5c6cd55e"
+    "title": "The Robinson Telegraphic Cipher",
+    "author": "Robinson, Stephen L. (Telegrapher)",
+    "gutenbergReference": "48232",
+    "hash": "43b3ded7062749a9950391f8a1ad470cc76c5412335c2d6a2ca67efebd98c0f1"
   },
   {
     "time": "16:15",
-    "quoteFirst": "'Who the deuce can it be?' asked he of himself, looking at his watch, and seeing it was a ",
-    "quoteTime": "quarter-past four",
-    "quoteLast": ". 'It surely can't be my lord, or that Jack Spraggon coming after all?' added he, drawing out a telescope and opening a lancet-window.",
-    "title": "Mr. Sponge's Sporting Tour",
-    "author": "Surtees, Robert Smith, 1805-1864",
-    "gutenbergReference": "16957",
-    "hash": "c1926e6b7a1733a3c5ac2230b800fb9aa090d49ceb0131fa4bab47fb7ccf758d"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "Bayonet      | Signaling | Range Practice [L]          | [M]       | ==============|===========|================= 1/2 hour      |           | 7.30-11.30 a.m. |           | 1.15-",
-    "quoteTime": "4.15 p.m.",
-    "quoteLast": "",
-    "title": "Military Instructors Manual",
-    "author": "Cole, J. P. (James Perry), 1889-1977; Schoonmaker, Oliver, 1882-1968",
-    "gutenbergReference": "14625",
-    "hash": "29b7065fdc869a7907af378f2632ab476a24fde14244bb8a25d0dd8e5a58b4b2"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "The sun rose about four o'clock, and the atmosphere being quite serene towards the east, his rays could pass without any obstruction over the Heinrichshohe.[A] In the south-west, however, towards Achtermanshohe,[B] a brisk west wind carried before it thin transparent vapours, which were not yet condensed into thick heavy clouds. About a ",
-    "quoteTime": "quarter past four",
-    "quoteLast": " I went towards the inn, and looked round to see whether the atmosphere would permit me to have a free prospect to the south-west; when I observed, at a very great distance towards Achtermanshohe, a human figure of a monstrous size. A violent gust of wind having almost carried away my hat, I clapped my hand to it by moving my arm towards my head, and the colossal figure did the same.",
-    "title": "Peter Parley's Wonders of the Earth, Sea, and Sky",
-    "author": "Goodrich, Samuel G. (Samuel Griswold), 1793-1860",
-    "gutenbergReference": "62982",
-    "hash": "2cf2acd2111b6bb6c8beb02a592cb6f4edd0f6549f272db24fa1f519c9ea820c"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "\"I did not go to sleep again. At a ",
-    "quoteTime": "quarter after four",
-    "quoteLast": ", I heard the boat come back. I took a candle and went to the stairs. It was Mr. Ladley. He said he had been out getting medicine for his wife.\"",
-    "title": "The Case of Jennie Brice",
-    "author": "Rinehart, Mary Roberts, 1876-1958; Bracker, M. Leone, 1885-1937 [Illustrator]",
-    "gutenbergReference": "11127",
-    "hash": "34a05e8f8124cab172be242fbed3a458b76e5fbd32784d252780baa6bb5b4fd4"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "Helen's little wrist watch showed a ",
-    "quoteTime": "quarter past four",
-    "quoteLast": ".",
-    "title": "The Gray Phantom",
-    "author": "Landon, Herman, 1882-1960",
-    "gutenbergReference": "37913",
-    "hash": "8eb8afe2d64575f543b7b40200db5bfbf0a7208f49001e91b069242e68cb86cf"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "The testimony of Danny Patrick McCurdy was taken at ",
+    "quoteFirst": "(Whereupon, at ",
     "quoteTime": "4:15 p.m.",
-    "quoteLast": ", on June 26, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Leon D. Hubert, Jr.",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
+    "quoteLast": ", the President's Commission recessed.)",
+    "title": "Warren Commission (05 of 26): Hearings Vol. V (of 15)",
     "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
-    "hash": "6bc611fce07b8c894f3397e3bcb222e9a4316f87d59433d31d997118e9aafcaa"
+    "gutenbergReference": "44005",
+    "hash": "429280e3b8b3229214e7e75f274bcf8e75da61fb894c646b5ed6d7ca52fa20da"
   },
   {
     "time": "16:15",
-    "quoteFirst": "|                   |              | 10.0 P.M.  London                | +-------------------+--------------+----------------------------------+ | Maryport          | Cumberland   |   10 A.M.  Carlisle              | |                   |              |  2.0 P.M.  Carlisle              | |                   |              | 5.50 P.M.  Carlisle              | |                   |              |  9.0 P.M.  Carlisle              | +-------------------+--------------+----------------------------------+ | Matlock Bath      | Derby        | 2.40 P.M.  Derby                 | |                   |              | ",
+    "quoteFirst": "He distinguishes four periods during the bombardment. The first commenced on August 14th at ",
+    "quoteTime": "4.15 p.m.",
+    "quoteLast": " The shell fire, directed with great exactitude, lasted two hours without interruption. After a break of half-an-hour, some 21-centimetre guns opened fire.",
+    "title": "World's War Events, Vol. I",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
+    "gutenbergReference": "25962",
+    "hash": "8f7416fdc2f6562497fd78c047a4769f99feb38195c237168e8f0e3ad2d60e8c"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "She can not come with her father before the National Library closes. Even supposing they take an omnibus, they will not get here before ",
+    "quoteTime": "a quarter past four",
+    "quoteLast": ".",
+    "title": "The Ink-Stain (Tache d'encre) — Complete",
+    "author": "Bazin, René, 1853-1932",
+    "gutenbergReference": "3975",
+    "hash": "64c8b545229b0e7f417a6f4515b91d48a5d65356ec3933ed8c622e8610a32b12"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "1:30 p.m.--Cliff Palace, Rim Drive, Balcony House. Return ",
+    "quoteTime": "4:15 p.m.",
+    "quoteLast": "",
+    "title": "Mesa Verde [Colorado] National Park",
+    "author": "United States. Department of the Interior",
+    "gutenbergReference": "35936",
+    "hash": "2ea3aed607db2724688e76a554f3eb455152d67ff1623cc84693966cc92bd007"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "Curlydown. It was ",
+    "quoteTime": "a quarter past four",
+    "quoteLast": ", and Curlydown had not completed his daily inspections. Had Bagwax been doing his proper share of work, Curlydown would have already washed his hands and changed his coat, and have been ready to start for the 4.30 train.",
+    "title": "John Caldigate",
+    "author": "Trollope, Anthony, 1815-1882",
+    "gutenbergReference": "11643",
+    "hash": "c056a692dd3276606d460fc3dd6079cda9118a6f53a052980614d7a089203cd0"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "The Tariff Bill was taken up at 11:15 in the morning and at ",
+    "quoteTime": "4:15 P.M.",
+    "quoteLast": " it was finally passed.",
+    "title": "The Great Round World and What Is Going On In It, Vol. 1, No. 38, July 29, 1897\nA Weekly Magazine for Boys and Girls",
+    "author": "Various; Bishop, Julia Truitt [Editor]",
+    "gutenbergReference": "16139",
+    "hash": "f7c08e8a923878bbcbe6060072d4eefde56186abdaad46d20eb65c2f849b5e27"
+  },
+  {
+    "time": "16:15",
+    "quoteFirst": "of 80° F. The petiole fell from 8 A.M. till 10.15 A.M., it then rose a little in a somewhat zigzag line, often remaining stationary, till 5 P.M., when the great evening fall commenced, which was continued till at least 10 P.M. By 7 A.M. on the following morning it had risen to the same level as on the previous morning, and then descended in a zigzag line. But from 10.30 A.M. till ",
     "quoteTime": "4.15 P.M.",
-    "quoteLast": "  Derby                 | |                   |              | 5.50 P.M.  G. & C. S.T.          | |                   |              |  9.0 P.M.  Derby                 | |                   |              | 10.0 P.M.  Leeds                 | +-------------------+--------------+----------------------------------+ | Melksham          | Wiltshire    | 10.0 A.M.  Birmingham            | |                   |              | 2.40 P.M.  Midland T.P.O., F.",
-    "title": "The Royal Mail: Its Curiosities and Romance",
-    "author": "Hyde, James Wilson, 1841-1918",
-    "gutenbergReference": "39978",
-    "hash": "6bd8b5475b3abf473b2fca524bf522d3649875caf66e1ad5899073cfcc0f43c6"
+    "quoteLast": " it remained almost motionless, all power of movement being now lost. The petiole, therefore, of this very old leaf, which must have long ceased growing, moved periodically; but instead of circumnutating several times during the day, it moved only twice down and twice up in the course of 24 h.",
+    "title": "The Power of Movement in Plants",
+    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "5605",
+    "hash": "826f2fe54140dbbe09f36899834f771462251ff4149c7ce2d787fabd56074a20"
   },
   {
     "time": "16:15",
-    "quoteFirst": "We drove along for eight miles to the Chequered Sheds, a small village so called; at twenty minutes to four reached Burford, two miles further on, which is another small place on Burford Plains, with a church; and at a ",
-    "quoteTime": "quarter past four",
-    "quoteLast": " reached a very neat establishment, a short distance beyond a small creek, and called the Burford Exchange Inn. The country is well settled, with good houses and farms.",
-    "title": "Canada and the Canadians, Vol. 2",
-    "author": "Bonnycastle, Richard Henry, Sir, 1791-1847",
-    "gutenbergReference": "21260",
-    "hash": "21e89f3e7f56e5f7c60ec6617b7192b56116d270db7d138bfcc977ce9a6fb301"
+    "quoteFirst": "\"It does not begin until five o'clock-five-thirty,\" said Montfanon, looking at his watch, \"and it is now ",
+    "quoteTime": "fifteen minutes past four",
+    "quoteLast": ". Let us leave the catacomb, if you wish, and you can repeat your story to me up above. A very great misfortune? Well,\" he added, pressing the hand of the young man whom, personally, he liked as much as he detested his views, \"rest assured, my dear child, we will prevent it!\"",
+    "title": "The Immortals: Masterpieces of Fiction, Crowned by the French Academy — Complete",
+    "author": "Various",
+    "gutenbergReference": "4000",
+    "hash": "d55540071964dbb7c1e3877351a0464b8d187105f8532be2be4bb41fe7fef264"
   },
   {
     "time": "16:15",
-    "quoteFirst": "\"But supposing it to have struck five when Mr. Dunbar returned, that would only make it three quarters of an hour after the time at which he went through the yard, supposing him to have gone through, as you say, at the ",
-    "quoteTime": "quarter past four",
-    "quoteLast": ".\"",
-    "title": "Henry Dunbar: A Novel",
-    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
-    "gutenbergReference": "9189",
-    "hash": "70da45e559a3a18d9582b51ea62707ccecdee9296cc1f617bb4337e5cf49c2be"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "Fanny glanced down at her watch. It was ",
-    "quoteTime": "quarter after four",
-    "quoteLast": ". With a little gasp she turned to work her way through the close-packed crowd. It was an actual physical struggle, from which she emerged disheveled, breathless, uncomfortably warm, and minus her handkerchief, but she had gained the comparative quiet of the side street, and she made the short distance that lay between the Avenue and her hotel a matter of little more than a minute.",
-    "title": "Fanny Herself",
-    "author": "Ferber, Edna, 1885-1968",
-    "gutenbergReference": "350",
-    "hash": "aa1eb85faee56f5dd768ae7f2096bf2dbdeb9e8a3eb515bfed42d75237a388a3"
-  },
-  {
-    "time": "16:15",
-    "quoteFirst": "“It is only a ",
-    "quoteTime": "quarter past four",
-    "quoteLast": ",” showing his watch; “and you are not now in Bath. No theatre, no rooms to prepare for. Half an hour at Northanger must be enough.”",
-    "title": "Northanger Abbey",
-    "author": "Austen, Jane, 1775-1817",
-    "gutenbergReference": "121",
-    "hash": "15614362664ba232684da809e86be6209339dc3aac25fb7cfafc3c5ceb98a62c"
+    "quoteFirst": "We remained here nearly two hours, till the “aïri” came up, when we joined it, and soon discovered the reason of their being so long; for in the thick underwood the long strings of camels could not proceed fast, and the stoppages were frequent. We then met another small caravan. At a ",
+    "quoteTime": "quarter past four in the afternoon",
+    "quoteLast": " we encamped in a locality called Amsúsu, in the midst of the forest. We were busy pitching the tent, when a body of about sixteen horsemen came up, all dressed in the Tawárek fashion, but plainly indicating their intermixture with the Háusa people by their less muscular frame, and by the variety of their dress; and in fact they all belonged to that curious mulatto tribe called Búzu (_pl.",
+    "title": "Travels and discoveries in North and Central Africa, Vol. 2 (of 5)",
+    "author": "Barth, Heinrich, 1821-1865; Bernatz, Johann Martin, 1802-1878 [Illustrator]",
+    "gutenbergReference": "76317",
+    "hash": "baf54b20dbc20a1163c9fcd269fba2b8421dbb8cdd4b51e4c59d0cebb4a95f6a"
   }
 ]

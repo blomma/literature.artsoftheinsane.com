@@ -1,202 +1,102 @@
 [
   {
     "time": "21:00",
-    "quoteFirst": "“I had two friends arrive by the ",
-    "quoteTime": "nine o’clock",
-    "quoteLast": " train,” he said, “a gentleman and a boy of sixteen.” Then he described them.",
-    "title": "Bernard Brooks' Adventures: The Experience of a Plucky Boy",
-    "author": "Alger, Horatio, Jr., 1832-1899; Davis, J. Watson, 1870-1959 [Illustrator]",
-    "gutenbergReference": "45022",
-    "hash": "ebc0ea46047ff0eaa0145ec5b2b0abb054733be8cc9b7fece90e74717e5e6f2e"
-  },
-  {
-    "time": "21:00",
-    "quoteFirst": "You have no interpreter, and you cannot speak the language.' And he went out and slammed the door. The man talked to us from long before sundown till it was ",
-    "quoteTime": "nine o'clock",
-    "quoteLast": " at night.",
-    "title": "A Century of Dishonor\r\nA Sketch of the United States Government's Dealings with Some of the Indian Tribes",
-    "author": "Jackson, Helen Hunt, 1830-1885",
-    "gutenbergReference": "50560",
-    "hash": "5623fa2f0936e1411a381728eca92acc25488e6ea3f8397f802db0d70551f206"
-  },
-  {
-    "time": "21:00",
-    "quoteFirst": "By ",
-    "quoteTime": "nine o'clock",
-    "quoteLast": " the Mayor was at her desk, with Mary Snow in her office.",
-    "title": "A Woman for Mayor: A Novel of To-day",
-    "author": "Winslow, Helen M. (Helen Maria), 1851-1938; Goldbeck, Walter Dean, 1882-1925 [Illustrator]",
-    "gutenbergReference": "22267",
-    "hash": "44ff6618f68d29e21187b39593a2b3354b9ec9f7647033d4bb564ae96090c1aa"
-  },
-  {
-    "time": "21:00",
-    "quoteFirst": "\"The members of the Vigilance Committee in good standing will please meet at number 105-1/2 Sacramento Street, this day, Thursday, fifteenth instant, ",
-    "quoteTime": "at nine o'clock",
-    "quoteLast": " A.M. By order of the COMMITTEE OF THIRTEEN.\"",
-    "title": "The Forty-Niners: A Chronicle of the California Trail and El Dorado",
-    "author": "White, Stewart Edward, 1873-1946",
-    "gutenbergReference": "12764",
-    "hash": "db2586853fd60108aa498cb43cea28d4ddcfd1d6fb62cbfda7877460087446aa"
-  },
-  {
-    "time": "21:00",
-    "quoteFirst": "The nobles and chiefs were taken before the gallant and ruthless queen, who made a vehement speech charging them with being the slaves of a tyrant and with having persecuted and destroyed her royal race. She declared for vengeance, and in accordance with the savage usages of the times, ordered that next morning ",
-    "quoteTime": "at nine o'clock",
-    "quoteLast": " the whole of the prisoners should be brought into her presence and hanged by sevens at a time, beginning with the youngest, so that the fathers might behold the dying throes of their sons.",
-    "title": "Gairloch in North-West Ross-Shire\r\nIts Records, Traditions, Inhabitants, and Natural History, with a Guide to Gairloch and Loch Maree, and a Map and Illustrations",
-    "author": "Dixon, John H. (John Henry), 1838-1926",
-    "gutenbergReference": "41227",
-    "hash": "ec737aa280f750495f25099d010007f55dc7f4d8b554b98e98f2109449f74f7e"
-  },
-  {
-    "time": "21:00",
-    "quoteFirst": "Hatchard looked dubious, and, in a thoughtful fashion, walked downstairs and let himself out.  He began to think that the joke was of a more complicated nature than he had expected, and it was not without forebodings that he came back ",
-    "quoteTime": "at nine o'clock",
-    "quoteLast": " that night accompanied by a boy with his baggage.",
-    "title": "Homeward Bound\nSailor's Knots, Part 2.",
-    "author": "Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]",
-    "gutenbergReference": "10782",
-    "hash": "7da2ad6df4a10612bf7cd6296ac75a3bb54cb94cbb2aaa985f2a393f7efae7d5"
-  },
-  {
-    "time": "21:00",
-    "quoteFirst": "In less than half an hour, I heard the police ride away, as I sat in my chamber, and Mr. Chandos passed to the west wing. It was very dull for me in that lonely bedroom, and only half-past ",
-    "quoteTime": "nine o'clock",
-    "quoteLast": "; so I thought I might go down again. Hickens was putting the things together on the supper tray.",
-    "title": "Anne Hereford: A Novel",
-    "author": "Wood, Henry, Mrs., 1814-1887",
-    "gutenbergReference": "57875",
-    "hash": "6919342e7c0d6044d7308b96675f31ae8ce5a664ae150fa51988ebe92a2b8bfe"
-  },
-  {
-    "time": "21:00",
-    "quoteFirst": "On that eventful night the body of the theater was densely crowded with people. The presidential party arrived a few minutes after ",
-    "quoteTime": "nine o’clock",
-    "quoteLast": " and was composed of the President and Mrs. Lincoln, Miss Harris and Mayor Rathbone, daughter and step-son of Senator Harris of New York, and the vast audience arose and cheered as the President was ushered to his box.",
-    "title": "Complete Life of William McKinley and Story of His Assassination\nAn Authentic and Official Memorial Edition, Containing Every Incident in the Career of the Immortal Statesman, Soldier, Orator and Patriot",
-    "author": "Everett, Marshall, 1863-1939",
-    "gutenbergReference": "58740",
-    "hash": "75ce4c67364e9de8e7ab9ed9ddb6d749703384406ddd29d2770e2af9cd122c42"
-  },
-  {
-    "time": "21:00",
-    "quoteFirst": "The discussion which took place over the bars of the town was at the riot-heat by ",
-    "quoteTime": "nine o'clock",
-    "quoteLast": ", and soon after ten a crowd of howling, whooping bad boys, and disreputable ranch-hands was parading the walks, breathing out vile threats against the ranger.",
-    "title": "Cavanagh, Forest Ranger: A Romance of the Mountain West",
-    "author": "Garland, Hamlin, 1860-1940",
-    "gutenbergReference": "26244",
-    "hash": "dfe8a081413849614356f851dff28b0070b15728b4b89c0f90d4c40f0f87f029"
-  },
-  {
-    "time": "21:00",
-    "quoteFirst": "It would be about ",
-    "quoteTime": "nine o’clock",
-    "quoteLast": " when we heard heavy firing in a wood near us--there is plenty of wooded country about Mons--and we were told that the engineers were blowing up obstacles; so we went on entrenching, for although we knew that the Germans were not far away, we had no idea they were as close as they soon proved to be.",
-    "title": "Soldiers' Stories of the War",
-    "author": "Wood, Walter, 1866-1961 [Editor]; Michael, A. C. (Arthur C.) [Illustrator]",
-    "gutenbergReference": "52201",
-    "hash": "35d521619f1efc5d6083f0c916788a2c267db43b899431e32f38a0d0349f4be9"
-  },
-  {
-    "time": "21:00",
-    "quoteFirst": "",
+    "quoteFirst": "Wadsworth of the Fifth was put under his orders. ",
     "quoteTime": "At nine o'clock",
-    "quoteLast": " I set out with Fogg, who slipped a flask of spirits into my haversack. Following the tardy movement of the teams, we turned our faces toward Washington.",
-    "title": "Campaigns of a Non-Combatant, and His Romaunt Abroad During the War",
-    "author": "Townsend, George Alfred, 1841-1914",
-    "gutenbergReference": "23340",
-    "hash": "31a4fd66a5acb8973d4c45e21462188eb64fc401caca9efba03ff0a5ff2da214"
+    "quoteLast": " he attacked with Wadsworth's, Birney's, Stevenson's, and Mott's divisions, and the brigades of Webb, Carroll, and Owen, of Gibbon's division, making as formidable battle as could be organized in the wood, but the tangle thinned his lines and our fire held him in desperate engagement.",
+    "title": "From Manassas to Appomattox: Memoirs of the Civil War in America",
+    "author": "Longstreet, James, 1821-1904",
+    "gutenbergReference": "38418",
+    "hash": "d25aa814e7a46599f837f0d93031b8c5e46143c88701822a5f31886dd2fbb853"
   },
   {
     "time": "21:00",
-    "quoteFirst": "His habits were of the best. He went to bed ",
-    "quoteTime": "at nine o'clock",
-    "quoteLast": ", and was up before six. At seven he was at his office. He knew enough to eat sparingly and to walk, so he was never sick.",
-    "title": "Little Journeys to the Homes of the Great - Volume 11\r\nLittle Journeys to the Homes of Great Businessmen",
-    "author": "Hubbard, Elbert, 1856-1915",
-    "gutenbergReference": "23595",
-    "hash": "bcb6b4e522e136f677de43452fa296cbd82d4588f4ecd90c1106eb72bd5b4d45"
-  },
-  {
-    "time": "21:00",
-    "quoteFirst": "Julienne, ",
-    "quoteTime": "at nine o'clock",
-    "quoteLast": " in the evening, visited the only heart which, in the whole court, beat like hers and for hers,--her good Liana. The latter gladly offered her forehead to her commencing sick-headache, and sought only to feel and to still another's pain.",
-    "title": "Titan: A Romance. v. 1 (of 2)",
-    "author": "Jean Paul, 1763-1825; Brooks, Charles Timothy, 1813-1883 [Translator]",
-    "gutenbergReference": "35664",
-    "hash": "45e9822969b423941c0d4f2cefc8b13b2172de6b257cb653d12c99c0d61748b8"
-  },
-  {
-    "time": "21:00",
-    "quoteFirst": "_A._ No, not particularly; only I lay a-bed on the Sunday till about ",
+    "quoteFirst": "\"I declare,\" she said, \"it is ",
     "quoteTime": "nine o'clock",
-    "quoteLast": ".",
-    "title": "The Trial of Charles Random de Berenger, Sir Thomas Cochrane, commonly called Lord Cochrane, the Hon. Andrew Cochrane Johnstone, Richard Gathorne Butt, Ralph Sandom, Alexander M'Rae, John Peter Holloway, and Henry Lyte for A Conspiracy\r\nIn the Court of King's Bench, Guildhall, on Wednesday the 8th, and Thursday the 9th of June, 1814",
-    "author": "Gurney, William Brodie, 1777-1855 [Transcriber]",
-    "gutenbergReference": "21027",
-    "hash": "f266f4c5e748765f9b2047e450fa3a409138b6adfffb12849e8dc5f0164f170d"
+    "quoteLast": " and dinner is supposed to be served at eight!\" And she seemed more surprised than ever when old Howker, who evidently had been listening off stage, entered with reproachful dignity and announced that ceremony.",
+    "title": "The Danger Mark",
+    "author": "Chambers, Robert W. (Robert William), 1865-1933; Wenzell, A. B. (Albert Beck), 1864-1917 [Illustrator]",
+    "gutenbergReference": "18185",
+    "hash": "0ffba25c564b0d3985d48ede8ddfbf14993cfde2457ebe5597d5aa5636d6a565"
   },
   {
     "time": "21:00",
-    "quoteFirst": "_7th._--The regiment marched ",
-    "quoteTime": "at 9 p.m.",
-    "quoteLast": " for reconnaissance. No enemy. Bivouacked at Witpoort 10th.",
-    "title": "The History of the 2nd Dragoons: \"Royal Scots Greys\"",
-    "author": "Almack, Edward, 1852-1917",
-    "gutenbergReference": "49488",
-    "hash": "ee5eb2acb9f26c16212b01aece25ea00f25fbf9177d9faca707e8839d01c1bd9"
+    "quoteFirst": "\"Well, then, I'll explain,\" said Mr. Conne; \"you forgot to set your watch when you left Cleveland, Doc, so there won't be any explosion down below ",
+    "quoteTime": "at nine o'clock",
+    "quoteLast": ", and there won't be any at all--so don't worry.\"",
+    "title": "Tom Slade with the Colors",
+    "author": "Fitzhugh, Percy Keese, 1876-1950; Clarity, Thomas [Illustrator]",
+    "gutenbergReference": "20986",
+    "hash": "71f81610eb1c5db5ee53635de8b7ebb0c70065482755c692fa1bc05673a5184e"
   },
   {
     "time": "21:00",
-    "quoteFirst": "This mill took place at Corsethill, Lanarkshire, March 10, 1815. Early in the morning the fancy were on the alert, and not a drag or a nag was to be had in Edinburgh by ",
+    "quoteFirst": "Luke’s only appreciable pause was to read two notes of congratulation from his mother and Jane, the former commending him for adopting a course that the writer was sure her husband would have adopted had he lived, the latter full of pride in his approaching success, but ending with the postscript: \"Jesse [Jesse Kinzer was Jane’s husband, the new Congressman] says that conditions in New York are ’purely local,’ whatever that means.\"  Altogether, Luke had a busy day.  He was a tired man when, ",
+    "quoteTime": "at nine o’clock",
+    "quoteLast": ", he again rang the bell of the Forbes house in Brooklyn.",
+    "title": "The Spider's Web",
+    "author": "Kauffman, Reginald Wright, 1877-1959; Paleologue, Jean de, 1855- [Illustrator]",
+    "gutenbergReference": "45866",
+    "hash": "64b9ea29df96a14e69fd8bd09f50b4ace980b898fe486db4537c0176f9bb5b89"
+  },
+  {
+    "time": "21:00",
+    "quoteFirst": "We crossed through Louvain, which had been burned, and through a large number of towns and villages which showed the effects of bombardment and other horrors of war; thence through Liege, Aix-la-Chapelle, and Cologne, where we arrived at about ",
     "quoteTime": "nine o’clock",
     "quoteLast": ".",
-    "title": "Pugilistica: The History of British Boxing, Volume 1 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
-    "author": "Miles, Henry Downes, 1806-1889",
-    "gutenbergReference": "59465",
-    "hash": "8c245059c48844d8b25db4617a9e1cb17461c35167b3be8b78456583b09b3eaf"
+    "title": "My Three Years in a German Prison",
+    "author": "Béland, Henri, 1869-1935",
+    "gutenbergReference": "49350",
+    "hash": "1d876858a45906aba0b9a4b63b1e649df58d567bbaff993d470c1e7a7332cf01"
   },
   {
     "time": "21:00",
-    "quoteFirst": "\"An excellent breakfast ",
-    "quoteTime": "at nine o'clock",
-    "quoteLast": ", a sumptuous dinner at two, tea and punch in the afternoon, and an elegant little supper, divided the day most happily for those whose stomachs were never unprepared.\"",
-    "title": "Dorothy Payne, Quakeress: A Side-Light Upon the Career of 'Dolly' Madison",
-    "author": "Barnard, Ella K. (Ella Kent), 1853-1932",
-    "gutenbergReference": "34690",
-    "hash": "c29e1f0c7a7cca30987b932316705807180746b8642336bcc5fd7aa317a0c0f5"
-  },
-  {
-    "time": "21:00",
-    "quoteFirst": "\"Good!\" he said bluffly. \"",
-    "quoteTime": "Nine o'clock",
-    "quoteLast": " at my office. Pease, have everybody there, except Mather, at three; George at half-past.\" Pease nodded, and Mr. Fenno smote him on the shoulder.",
-    "title": "The Barrier: A Novel",
-    "author": "French, Allen, 1870-1946",
-    "gutenbergReference": "41890",
-    "hash": "bb45e2513a68ff5b2fcc0e53db2b54458c74ccbf5baee6919a059fd7ce69bced"
-  },
-  {
-    "time": "21:00",
-    "quoteFirst": "Moreover, I was thoroughly fatigued, and almost glad of any excuse which would allow me to lie in bed on the following morning. I did lie in bed till ",
+    "quoteFirst": "It being now ",
     "quoteTime": "nine o’clock",
-    "quoteLast": ", and then found the Greenes at breakfast.",
-    "title": "Tales of All Countries",
-    "author": "Trollope, Anthony, 1815-1882",
-    "gutenbergReference": "55147",
-    "hash": "b51d58973c316045f61c816f1385d4f8e8043167ddf40bc1c5a76a000fec3747"
+    "quoteLast": " in the morning, the hour when the exorcisms began, the bailiff went over at once to the convent, and found Barre half way through the mass, and the superior in convulsions. The magistrate entered the church at the moment of the elevation of the Host, and noticed among the kneeling Catholics a young man called Dessentier standing up with his hat on.",
+    "title": "Urbain Grandier\r\nCelebrated Crimes",
+    "author": "Dumas, Alexandre, 1802-1870",
+    "gutenbergReference": "2746",
+    "hash": "d536e4a86854dd9d27995ad882a88944bf659b0edf507cbe1309c45bba41f1e0"
   },
   {
     "time": "21:00",
-    "quoteFirst": "The paths and carriage-ways were lined with small set pieces, which, together with the constantly burning colored fires, produced an effect that was grandly weird. All Paris was one blaze of light. And all night long the people of Paris and all France were on the streets enjoying the rare sight. After ",
+    "quoteFirst": "They talk a lot about this counter battery work, but it's all bunk. A battery in position has nice deep dugouts and hot chow all the time. They gets up about ",
+    "quoteTime": "9 o'clock",
+    "quoteLast": " in the morning and shaves up all nice for the day.",
+    "title": "\"And they thought we wouldn't fight\"",
+    "author": "Gibbons, Floyd Phillips, 1887-1939",
+    "gutenbergReference": "31086",
+    "hash": "af2ebbc8e03beaf92d83fe68130cf9e0727dd368468cab7526eb7900ab6a01ca"
+  },
+  {
+    "time": "21:00",
+    "quoteFirst": "The cordiality of his reception by the young King and the Regent somewhat reassured him, and it was with a more confident air that he left the palace and rode to the Hôtel de Lyon, near the Porte de Bussy, where he was visited by the Comte de Soissons and other nobles. ",
+    "quoteTime": "At nine o’clock",
+    "quoteLast": " that evening, he returned to the Louvre, and assisted at the _coucher_ of the King, “_lequel il desguiletta, tira ses chausses, et ne partit qu’il ne l’eut mis au lit_,” thus demonstrating publicly that he repudiated the ambitious views which some attributed to him, and had no other desire than to be the first of his Majesty’s subjects.",
+    "title": "The love-affairs of the Condés (1530-1740)",
+    "author": "Williams, H. Noel (Hugh Noel), 1870-1925",
+    "gutenbergReference": "72253",
+    "hash": "b08a337b30b7f033a5e6273dfa4e6c3c832e908138d89e544d3706a535aba074"
+  },
+  {
+    "time": "21:00",
+    "quoteFirst": "Accordingly the hour designated--",
     "quoteTime": "nine o'clock",
-    "quoteLast": " carriages were compelled to keep off the principal boulevards and streets, so densely were they packed with people. The Champs Elysées from ten o'clock was one surging mass of people--men, women and children--returning from the Bois.",
-    "title": "Nasby in Exile\r\nor, Six Months of Travel in England, Ireland, Scotland, France, Germany, Switzerland and Belgium, with many things not of travel",
-    "author": "Locke, David Ross, 1833-1888",
-    "gutenbergReference": "46451",
-    "hash": "2de340ff962a09c324f075ae3fc3c3eb469f2353e26d4073f6ebba3f8135e93a"
+    "quoteLast": "--found him standing upon the marble steps of Mr. Temple's palatial residence ringing for admittance.",
+    "title": "The Heatherford Fortune\na sequel to the Magic Cameo",
+    "author": "Sheldon, Georgie, Mrs., 1843-1926",
+    "gutenbergReference": "38006",
+    "hash": "c0c586d02c44af19b3d841d0d50883c816cca769a1744d03d8e76bb5295b5dc9"
+  },
+  {
+    "time": "21:00",
+    "quoteFirst": "About ",
+    "quoteTime": "nine o'clock",
+    "quoteLast": " Jane Braithwaite paid me a surly visit; in half an hour she was back with tea and toast and an altered mien. She not only lit my fire, but treated me the while to her original tone of almost fervent civility and respect and determination.",
+    "title": "Dead Men Tell No Tales",
+    "author": "Hornung, E. W. (Ernest William), 1866-1921",
+    "gutenbergReference": "1703",
+    "hash": "bcdea2c7127e238b2b361b6ad7ba3e41026207135515b84f95f117e962619364"
   }
 ]

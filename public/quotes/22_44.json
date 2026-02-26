@@ -1,6 +1,46 @@
 [
   {
     "time": "22:44",
+    "quoteFirst": "It is either annexation or a Republic with the Amendment. I prefer the latter.\" After four months of stubborn opposition, the Cubans yielded, by a vote of ",
+    "quoteTime": "sixteen to eleven",
+    "quoteLast": ", with four absentees.",
+    "title": "Cuba, Old and New",
+    "author": "Robinson, Albert G. (Albert Gardner), 1855-1932",
+    "gutenbergReference": "11464",
+    "hash": "d1fa4ca9c4ba6d3a241c345440c4b53224d8d0d9e9180c8115fce9c143e80bbd"
+  },
+  {
+    "time": "22:44",
+    "quoteFirst": "Senator Samuel Smith, by a vote of ",
+    "quoteTime": "sixteen to eleven",
+    "quoteLast": " the Senate struck everything from the bill except the enacting clause and the exclusion of belligerent war-vessels from United States’ harbors.",
+    "title": "History of the United States of America, Volume 5 (of 9)",
+    "author": "Adams, Henry, 1838-1918",
+    "gutenbergReference": "72668",
+    "hash": "a085850565db6c9ff839c4c604982a385987e0fe4bd00af18116d722aac8a2bd"
+  },
+  {
+    "time": "22:44",
+    "quoteFirst": "Isabel, and Ellen, who ranged in age from ",
+    "quoteTime": "sixteen to eleven",
+    "quoteLast": ", and whom he affected to rule with a rod of iron. They were rather subdued in manner, but more, perhaps, because their father, who had married late in life, was something of a martinet, and they spent their days in company with an accomplished and decisive French governess, than because they were in any particular dread of Jimmy's rod.",
+    "title": "The Graftons: A Novel",
+    "author": "Marshall, Archibald, 1866-1934",
+    "gutenbergReference": "39587",
+    "hash": "354db2e2885078c9fe1c491b8b8d7f16b6d1a05ad3728a00d00d94fbec20df2e"
+  },
+  {
+    "time": "22:44",
+    "quoteFirst": "In the spring of 1792, Morris received his credentials as minister to France. There had been determined opposition in the Senate to the confirmation of his appointment, which was finally carried only by a vote of ",
+    "quoteTime": "sixteen to eleven",
+    "quoteLast": ", mainly through the exertions of Rufus King.",
+    "title": "Gouverneur Morris",
+    "author": "Roosevelt, Theodore, 1858-1919",
+    "gutenbergReference": "39915",
+    "hash": "8da51ba620a716126f469851be9094ba47b0b17552358642c65dbd5512ede29d"
+  },
+  {
+    "time": "22:44",
     "quoteFirst": "Calculagraph records are shown in Fig. 453. In the one shown in the upper portion of this figure, the conversation began at ",
     "quoteTime": "10.44 P.M.",
     "quoteLast": " This is shown by the right-hand dial of the three which constitute the record. The minutes past 10 o'clock are shown by the hand within the dial and the hour 10 is shown by the triangular mark just outside the dial between X and XI.",
@@ -28,5 +68,25 @@
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
     "hash": "7ba5c404e43d0640b5e4b16eb1668af76b302d82235b10bccc4bc6800919ee01"
+  },
+  {
+    "time": "22:44",
+    "quoteFirst": "This was carried by a vote of ",
+    "quoteTime": "sixteen to eleven",
+    "quoteLast": ". The three members of the government who sat in the House, one of whom was Mr. Wilmot, who had joined it in May 1848, voted with the minority.",
+    "title": "Wilmot and Tilley",
+    "author": "Hannay, James, 1842-1910",
+    "gutenbergReference": "26086",
+    "hash": "cd21dd9a314bcd22a153a5c46103d53dfab7e076bb62548fd203aae6f8d635f4"
+  },
+  {
+    "time": "22:44",
+    "quoteFirst": "The most frequent periods for such accidents are found to be six months, five months, and three months; and what is very singular, a much greater number of male children are aborted than females, the proportion being about ",
+    "quoteTime": "sixteen to eleven",
+    "quoteLast": ".",
+    "title": "The Matron's Manual of Midwifery, and the Diseases of Women During Pregnancy and in Childbed\r\nBeing a Familiar and Practical Treatise, More Especially Intended for the Instruction of Females Themselves, but Adapted Also for Popular Use among Students and Practitioners of Medicine",
+    "author": "Hollick, Frederick",
+    "gutenbergReference": "47836",
+    "hash": "8475a472473e0306b14c9943f2e2da975c122c355e06d221891dc960448a50c0"
   }
 ]

@@ -1,202 +1,102 @@
 [
   {
     "time": "10:00",
-    "quoteFirst": "It was the 4th of April 1770, at eight o’clock in the morning, when I set out from Gondar. We passed the Kahha, and the Mahometan town, and, about ",
+    "quoteFirst": "It was ",
+    "quoteTime": "ten o’clock",
+    "quoteLast": " as I came in from the wiring-party in front of Rue Albert, and at that moment our guns began. We were in Maple Redoubt. The moon had just set, and it was a still summer night in early June.",
+    "title": "Nothing of Importance\r\nA record of eight months at the front with a Welsh battalion, October, 1915, to June, 1916",
+    "author": "Adams, Bernard, 1890-1917",
+    "gutenbergReference": "55261",
+    "hash": "b801e949e3f94d70256ebcfc91479cd7c550bd6b6c2c61e720772c8fd7fd2399"
+  },
+  {
+    "time": "10:00",
+    "quoteFirst": "So you are going to say that I availed myself of your being asleep to effect your undoing. But who do you suppose will credit such a falsehood? It is now four in the morning, and since ",
+    "quoteTime": "ten o'clock",
+    "quoteLast": " last night I have been here. You must have slept long and soundly not to have discovered my presence sooner. Come, come, no more attempts at shyness, but confess the truth, that I came hither with your perfect good-will and consent.",
+    "title": "The Mysteries of Paris, illustrated with etchings, Vol. 3",
+    "author": "Sue, Eugène, 1804-1857",
+    "gutenbergReference": "33802",
+    "hash": "9fd121717f38adabf1f8fcab64089ac1358fd716301b3f1df4dacb2520cebc20"
+  },
+  {
+    "time": "10:00",
+    "quoteFirst": "It was still too soon to go with the story to a publisher; he could not hope to find any one in before ",
+    "quoteTime": "ten o’clock",
+    "quoteLast": ", and he had a whole hour yet to work on it. He was always putting the last touches on it; but he almost wished he had not looked at it, now, when the touches must really be the last. It seemed to suffer a sort of disintegration in his mind.",
+    "title": "The World of Chance",
+    "author": "Howells, William Dean, 1837-1920",
+    "gutenbergReference": "66584",
+    "hash": "2c7183509de8f057e769bb1463b631ffa482d0b70422894fa2007eef3cfeb661"
+  },
+  {
+    "time": "10:00",
+    "quoteFirst": "One incident annoyed him. In the evening Daubrecq, who had complained of feeling tired at dinner, came home ",
+    "quoteTime": "at ten o’clock",
+    "quoteLast": " and, contrary to his usual custom, pushed the bolts of the hall-door. In that case, how would the others be able to carry out their plan and go to Daubrecq’s room? Lupin waited for an hour after Daubrecq put out his light.",
+    "title": "The Crystal Stopper",
+    "author": "Leblanc, Maurice, 1864-1941",
+    "gutenbergReference": "1563",
+    "hash": "013a26c27b7549c9a08efaf4acfb9f25680a854111f491c52236d9c4318ae0df"
+  },
+  {
+    "time": "10:00",
+    "quoteFirst": "\"So soon? I thought it was at ",
     "quoteTime": "ten in the morn",
-    "quoteLast": "ing, we came to a considerable river called the Mogetch, which runs in a deep, rugged bed of flakey blue stones. We crossed it upon a very solid, good bridge of four arches, a convenience seldom to be met with in passing Abyssinian rivers, but very necessary on this, as, contrary to most of their streams, which become dry, or stand in pools, on the approach of the sun, the Mogetch runs constantly, by reason that its sources are in the highest hills of Woggora, where clouds break plentifully at all seasons of the year.",
-    "title": "Travels to Discover the Source of the Nile, Volume 3 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
-    "author": "Bruce, James, 1730-1794",
-    "gutenbergReference": "54531",
-    "hash": "4c8902b4275fab0101835a5504b8fc61a5b49eb4bd488b6020aa2f124f366317"
+    "quoteLast": "ing?\"",
+    "title": "Joscelyn Cheshire: A Story of Revolutionary Days in the Carolinas",
+    "author": "Kennedy, Sara Beaumont, -1921",
+    "gutenbergReference": "35519",
+    "hash": "a48c082f084702d1b3e2cafe608d379384959b806d6d2c75bf9bc5d4f4f9fbde"
   },
   {
     "time": "10:00",
-    "quoteFirst": "“When I got to Bellevue, over by the river, it was near ",
+    "quoteFirst": "With the small force under his command, and without the means of prosecuting a siege, it was of course necessary to carry the works by escalade if at all. Halting, therefore, at the Falls, the necessary ladders were constructed and the march was resumed. ",
+    "quoteTime": "At 10 o'clock",
+    "quoteLast": " in the evening they were within four miles of the fort. After which, having marched about two hours, and not coming in sight of the point of destination, an investigation of the cause was undertaken, when, to the astonishment and mortification of the Commander, and to the vexation of the whole corps, it was ascertained that, by diverging from the river, their guide, a young Oneida Indian, had lost his way.",
+    "title": "Life of Joseph Brant—Thayendanegea (Vol. II)\r\nIncluding the Border Wars of the American Revolution and Sketches of the Indian Campaigns of Generals Harmar, St. Clair, and Wayne; And Other Matters Connected with the Indian Relations of the United States and Great Britain, from the Peace of 1783 to the Indian Peace of 1795",
+    "author": "Stone, William L. (William Leete), 1792-1844",
+    "gutenbergReference": "53353",
+    "hash": "328cfb55a6be66a1fe463161adf6ce3836ceefe6f11b91e93f2feb14e63c04fa"
+  },
+  {
+    "time": "10:00",
+    "quoteFirst": "They had played several rubbers, when the striking of ",
     "quoteTime": "ten o'clock",
-    "quoteLast": " at night. Nobody stopped me or iver looked into me bundle of straw where me poor boy lay; an' I rung the bell, an' they came out, an' got him up into the ward, an' laid him on the bed. Dr. Mason was on night duty, an' come an' looked at him, an' said I must come over the next day; an' I kissed me poor Tom an' left him tucked in, promisin' to be back early in the mornin'.",
-    "title": "Tom Grogan",
-    "author": "Smith, Francis Hopkinson, 1838-1915",
-    "gutenbergReference": "850",
-    "hash": "575bde89bdf2f708257529463d2e27ae5fd7539626761d99ee791cac30a96582"
+    "quoteLast": " rendered Mr. Swiveller mindful of the flight of time, and of the expediency of withdrawing before Mr.",
+    "title": "Ten Girls from Dickens",
+    "author": "Sweetser, Kate Dickinson, 1870-1939; Williams, George Alfred, 1875-1932 [Illustrator]",
+    "gutenbergReference": "11126",
+    "hash": "99678d06938565ff829257b4f7301a6202c611931fcb1c1c887036ba0674b49c"
   },
   {
     "time": "10:00",
-    "quoteFirst": "The New York State Labor Law as it stands makes it illegal to employ women in factories and mercantile establishments more than fifty-four hours or six days in any one week, or between ",
+    "quoteFirst": "But I actually lodged in Passy—being fond of country pursuits and addicted to fresh air—in a humble hostelry under the sign of the “Grey Cat”; and here, too, Theodore had a bed. He would walk to the office a couple of hours before I myself started on the way, and I was wont to arrive as soon after ",
     "quoteTime": "ten o’clock",
-    "quoteLast": " at night and six o’clock in the morning. So far, so good. If these laws are enforced, we may feel fairly confident that women in these branches of industry at least have some measure of protection.",
-    "title": "Behind the scenes in a restaurant: A study of 1017 women restaurant employees",
-    "author": "Consumers' League of New York City",
-    "gutenbergReference": "69451",
-    "hash": "e1614bd6e3e084375f1991e0f89f6896d0010db9968a4a4a4aa391acc8e57850"
+    "quoteLast": " of a morning as I could do conveniently.",
+    "title": "Castles in the Air",
+    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+    "gutenbergReference": "12461",
+    "hash": "5a7bc53e5db3e8fbd4d2de8f66a61e3b3b260e2299bfe4d82fdd80ec727ebce6"
   },
   {
     "time": "10:00",
-    "quoteFirst": "So you understand the roaring wave of fear that swept through the greatest city in the world just as Monday was dawning—the stream of flight rising swiftly to a torrent, lashing in a foaming tumult round the railway stations, banked up into a horrible struggle about the shipping in the Thames, and hurrying by every available channel northward and eastward. By ",
-    "quoteTime": "ten o’clock",
-    "quoteLast": " the police organisation, and by midday even the railway organisations, were losing coherency, losing shape and efficiency, guttering, softening, running at last in that swift liquefaction of the social body.",
-    "title": "The war of the worlds",
-    "author": "Wells, H. G. (Herbert George), 1866-1946",
-    "gutenbergReference": "36",
-    "hash": "92b2eb1462cb39d8619dfa17c721843a110c83a826bb8ff3df0925341f75e9ea"
-  },
-  {
-    "time": "10:00",
-    "quoteFirst": "\"Well! to-morrow morning ",
-    "quoteTime": "at ten o'clock",
-    "quoteLast": "--instead of coming to the Louvre--will you? I will wait for you on the Quai d'Orsay, before the Saint-Cloud pier.\"",
-    "title": "The Immortals: Masterpieces of Fiction, Crowned by the French Academy — Complete",
-    "author": "Various",
-    "gutenbergReference": "4000",
-    "hash": "d2118983592652b8ebbf651b9599f93d5bcadf75a8790d90397837f7f11e03f2"
-  },
-  {
-    "time": "10:00",
-    "quoteFirst": "No waggons or encampment came in sight. He tried to retrace his steps and start again, or, by making a circle, to strike his original track, but all in vain. It had been ",
-    "quoteTime": "ten in the morn",
-    "quoteLast": "ing when he left the camp, and at sunset he was still seeking it, without food, unarmed save for his useless, unloaded gun.",
-    "title": "Chatterbox, 1906",
-    "author": "Various; Clarke, J. Erskine (John Erskine), 1827-1920 [Editor]",
-    "gutenbergReference": "24324",
-    "hash": "88c3bfa6d14ae20da53c2c011411c17d1d49fb11a2c7719324bdee9c5b6d5385"
-  },
-  {
-    "time": "10:00",
-    "quoteFirst": "Now, go right to bed, children. It is ",
+    "quoteFirst": "Jones--for dinner passed and tea-time came, but no Jones. Mrs. Jones began to get snappish, and by ",
     "quoteTime": "ten o'clock",
-    "quoteLast": ".",
-    "title": "The Flutter of the Goldleaf, and Other Plays",
-    "author": "Dargan, Olive Tilford, 1869-1968; Peterson, Frederick, 1859-1938",
-    "gutenbergReference": "20172",
-    "hash": "d10ba89b346bcf648c238c72b04fedaed2507c2a23f6e7ed91861f361b4eaddb"
+    "quoteLast": " she had bitten all the ends from her taper fingers, besides dreadfully scolding the servants, all around. Mrs. J. finally retired--the clock had struck 12, and no Jones was to be seen; Mrs. J.",
+    "title": "The Humors of Falconbridge\nA Collection of Humorous and Every Day Scenes",
+    "author": "Falconbridge, 1818-1854",
+    "gutenbergReference": "30480",
+    "hash": "3c15ebc20f2fa9ab63bcec2d05a95eb85275e28c63aeda4213677cb45c475d38"
   },
   {
     "time": "10:00",
-    "quoteFirst": "At the postern gate Mattoni had come to take the ",
-    "quoteTime": "ten o’clock",
-    "quoteLast": " watch.",
-    "title": "The perfume of the lady in black",
-    "author": "Leroux, Gaston, 1868-1927; Simont [Illustrator]",
-    "gutenbergReference": "75258",
-    "hash": "fa6a2c2db74fe4754a4927519372a6a3ea7940e460ab5e29d7cc8c743bb0ee01"
-  },
-  {
-    "time": "10:00",
-    "quoteFirst": "We come in sight of the little bunch of lights by and by--that was the town, you know--and slid by, about a half a mile out, all right.  When we was three-quarters of a mile below we hoisted up our signal lantern; and about ",
+    "quoteFirst": "Indeed, I have always been given to understand that the \"boleadores\" were in use among the Indians of the Pampas from quite remote times. A few days passed, and nothing happened, and then one morning just after ",
     "quoteTime": "ten o'clock",
-    "quoteLast": " it come on to rain and blow and thunder and lighten like everything; so the king told us to both stay on watch till the weather got better; then him and the duke crawled into the wigwam and turned in for the night.  It was my watch below till twelve, but I wouldn't a turned in anyway if I'd had a bed, because a body don't see such a storm as that every day in the week, not by a long sight.",
-    "title": "Adventures of Huckleberry Finn, Chapters 16 to 20",
-    "author": "Twain, Mark, 1835-1910",
-    "gutenbergReference": "7103",
-    "hash": "9f7c37e3eb3a727bd2983531f763e38097cc9f73787bbdfd3369653c16268f60"
-  },
-  {
-    "time": "10:00",
-    "quoteFirst": "He reached Curzon Street ",
-    "quoteTime": "at ten o'clock",
-    "quoteLast": ", and found his mother returned from dining out. Mrs. Paragon now had her own friends. She quietly came and went, usually not asking how Peter fared.",
-    "title": "Peter Paragon: A Tale of Youth",
-    "author": "Palmer, John, 1885-1944",
-    "gutenbergReference": "56932",
-    "hash": "3e0e4241a59b1b83d71bc0d0324e8bf88555598031d35b1d63ef061c355e05a6"
-  },
-  {
-    "time": "10:00",
-    "quoteFirst": "Of the Park habitués, Royalty must necessarily come first. Between nine and ",
-    "quoteTime": "ten o’clock",
-    "quoteLast": " almost any morning of the week, when he is in town, the Prince of Wales, faultlessly mounted, and generally attended by Sir Arthur Bigge, may be seen entering the Park at Hyde Park Corner. To the most of the world he goes unnoticed.",
-    "title": "Hyde Park, Its History and Romance",
-    "author": "Alec-Tweedie, Mrs. (Ethel), 1862-1940",
-    "gutenbergReference": "56485",
-    "hash": "ae31ee29bffe0d6efd779121e6337807374bb11ab07ef7f6640db509641fd371"
-  },
-  {
-    "time": "10:00",
-    "quoteFirst": "It was past ",
-    "quoteTime": "ten o’clock",
-    "quoteLast": " next morning before the fumes of the vodka had sufficiently evaporated to enable the fuddled post-master to produce a troika. We were not sorry to make a late start, however, for the morning was bitterly cold, and the roads coated with ice, unmistakable sign of the approach of winter, and which made us doubly anxious to push on without delay to Tomsk.",
-    "title": "From Pekin to Calais by Land",
-    "author": "De Windt, Harry, 1856-1933",
-    "gutenbergReference": "48992",
-    "hash": "d77d374a8c42d43fe454b64687db8fff1228273bfd4ab4cb991d7cac020872ca"
-  },
-  {
-    "time": "10:00",
-    "quoteFirst": "You, Lisa, say that Tónya plays well. All you here, seven or eight healthy young men and women, have slept till ",
-    "quoteTime": "ten o'clock",
-    "quoteLast": ", have eaten and drunk and are still eating; and you play and discuss music: while there, where I have just been, they were all up at three in the morning, and those who pastured the horses at night have not slept at all; and old and young, the sick and the weak, children and nursing-mothers and pregnant women are working to the utmost limits of their strength, so that we here may consume the fruits of their labour. Nor is that all.",
-    "title": "The Light Shines in Darkness",
-    "author": "Tolstoy, Leo, graf, 1828-1910; Maude, Aylmer, 1858-1938 [Translator]; Maude, Louise, 1855-1939 [Translator]",
-    "gutenbergReference": "26666",
-    "hash": "5b04a37c886fc339dd36d5ac2691b203f551751d184fbb33861002eaf9695338"
-  },
-  {
-    "time": "10:00",
-    "quoteFirst": "(d). _Dose_: Twice daily, 1 gram or one-fourth of a heaping teaspoonful, or one tablet, ",
-    "quoteTime": "at 10 a.m.",
-    "quoteLast": " and 4 p.m., or as individually prescribed, in a little water, milk or other foodstuffs, to be taken for a certain length of time.",
-    "title": "Valere aude (dare to be healthy)",
-    "author": "Dechmann, Louis, 1863-1924",
-    "gutenbergReference": "14985",
-    "hash": "74995ecb6fe3f38a331befd060c5e82c58f79fb4761f21c98d14ef92dd4b3699"
-  },
-  {
-    "time": "10:00",
-    "quoteFirst": "'I'll take you away, dear, if you'll come. I never liked a woman as I do you. The train call is for ",
-    "quoteTime": "ten o'clock",
-    "quoteLast": ". We must contrive something. How are you to meet me at the station?'",
-    "title": "A Mummer's Wife",
-    "author": "Moore, George, 1852-1933",
-    "gutenbergReference": "7508",
-    "hash": "275a04442db4cd967af5cb06a70ce39fec43eaa93f0cb7b986e39fe990bf4e6a"
-  },
-  {
-    "time": "10:00",
-    "quoteFirst": "Vast as the show-grounds were, there were no vacant spaces in them outside of the lists, ",
-    "quoteTime": "at ten o'clock",
-    "quoteLast": " on the morning of the 16th.",
-    "title": "A Connecticut Yankee in King Arthur's Court, Part 8.",
-    "author": "Twain, Mark, 1835-1910",
-    "gutenbergReference": "7249",
-    "hash": "d5900ba9ee4c1e46f2160e0f7e76c1f778c6dbd8f1bad424449ba3dbb2dc8dc6"
-  },
-  {
-    "time": "10:00",
-    "quoteFirst": "The Duttons escorted her as far as the top of Observatory Hill, and having pointed out the boat-house, departed unceremoniously for a ",
-    "quoteTime": "ten o’clock",
-    "quoteLast": " quiz. Constance consulted a tiny mirror that hung from her silver chain, smoothed her hair, straightened her coat collar, and walked leisurely down, through the campus gardens and past the famous frog pond, to Paradise. At the top of the boat-house stairs she paused and looked to see if Timmy was waiting.",
-    "title": "Betty Wales decides",
-    "author": "Dunton, Edith K. (Edith Kellogg), 1875-1944; Nagel, Eva M., 1880- [Illustrator]",
-    "gutenbergReference": "73169",
-    "hash": "f28a91fac24ee3cf104cf11baea9e66c73cd6a68681ce9ef4b33de451f4cd152"
-  },
-  {
-    "time": "10:00",
-    "quoteFirst": "They who are near the second barrier, at length take possession of some houses, and from them keep up a constant fire for some time; but as the party, which sallied out of palace gate, comes upon the rear of the assailants, and the number of these is greatly lessened by killed and wounded, it is thought best to retreat to the first battery. This they do with the greatest part of their men, where, upon a consultation of officers present, it is the unanimous opinion, that a further retreat is impracticable. They maintain their ground till ",
-    "quoteTime": "ten o’clock",
-    "quoteLast": " and all hope of relief being over, are at last obliged to surrender prisoners of war, with great reluctuance.",
-    "title": "The history of the rise, progress, and establishment of the independence of the United States of America, Vol. 2 (of 3)",
-    "author": "Gordon, William, 1728-1807",
-    "gutenbergReference": "77542",
-    "hash": "68a7172254041c3f6f062cc1aeb6d53db5382e4c44be69056e139e56ee7ca218"
-  },
-  {
-    "time": "10:00",
-    "quoteFirst": "With the coming of night a strong wind sprang up, and by ",
-    "quoteTime": "ten o'clock",
-    "quoteLast": " it was blowing a gale. The wind caused the house to rock and groan, and for the travelers sound sleep was out of the question.",
-    "title": "Dave Porter in the Far North; Or, The Pluck of an American Schoolboy",
-    "author": "Stratemeyer, Edward, 1862-1930; Nuttall, Charles, 1872-1934 [Illustrator]",
-    "gutenbergReference": "28861",
-    "hash": "c4cd9d6197a674458c2b30de9740e7b210c363df61f7b90d0a8c31ed9276c272"
-  },
-  {
-    "time": "10:00",
-    "quoteFirst": "Michel, Fulgence, and Joseph appeared about ",
-    "quoteTime": "ten o’clock",
-    "quoteLast": "; and Lucien, chatting with them in a corner, saw that they looked sober and serious enough, not to say ill at ease. D’Arthez could not come, he was finishing his book; Léon Giraud was busy with the first number of his review; so the brotherhood had sent three artists among their number, thinking that they would feel less out of their element in an uproarious supper party than the rest.",
-    "title": "A Distinguished Provincial at Paris",
-    "author": "Balzac, Honoré de, 1799-1850; Marriage, Ellen, 1865-1946 [Translator]",
-    "gutenbergReference": "1559",
-    "hash": "680e67db94e66deb23ab3546164c50bd2f1f8c6fdcb8891d17bb3ff41466bcac"
+    "quoteLast": " a Blanco officer and between seventy and eighty soldiers arrived, who asked for food and horses. Accordingly I had two sheep killed, and gave them what else they required, and told them to make a couple of fires outside, over which to roast their meat and boil their kettles.",
+    "title": "Blanco y Colorado: Old Days among the Gauchos of Uruguay",
+    "author": "Tetley, William C.",
+    "gutenbergReference": "36534",
+    "hash": "53797e8ef1c0d9f832d7b33e6db8578622f4859c21b811b1305bd2da8f53a577"
   }
 ]

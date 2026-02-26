@@ -1,23 +1,83 @@
 [
   {
     "time": "16:48",
-    "quoteFirst": "So far all was well, and success had been extraordinary; but from this moment they became faced with new conditions, and with the grave trouble of uncertainty. Light was failing, the sea was before them, and--what else thenceforth? ",
-    "quoteTime": "4.48 p.m.",
-    "quoteLast": " was recorded as the moment when the first line of breaking waves was seen directly below them, and then the English coast line began rapidly to fade out from their view. But, ahead, the obscurity was yet more intense, for clouds, banked up like a solid wall, crowned along its frowning heights, with \"parapets and turrets and batteries and bastions,\" and, plunging into this opposing barrier, they were quickly buried in blackness, losing at the same time over the sea all sound from earth soever.",
-    "title": "The Dominion of the Air: The Story of Aerial Navigation",
-    "author": "Bacon, John M. (John Mackenzie), 1846-1904",
-    "gutenbergReference": "861",
-    "hash": "4ed5107ba7666077f0ec44c9f11eefb930d20184f3b88392be207747c0251383"
+    "quoteFirst": "Peter looked at his watch. “",
+    "quoteTime": "Four forty-eight P. M.",
+    "quoteLast": " sir.”",
+    "title": "Peter Jameson: A Modern Romance",
+    "author": "Frankau, Gilbert, 1884-1952",
+    "gutenbergReference": "59936",
+    "hash": "596c844f663d8c92422dd967fcc7d821c6bf90fe458cad52eb1d52fb8811b670"
   },
   {
     "time": "16:48",
-    "quoteFirst": "“It was ",
-    "quoteTime": "forty-eight minutes past four",
-    "quoteLast": ",” says Monk-Mason, “that we first saw the line of waves breaking on the shores beneath us. It would have been impossible to have remained unmoved by the grandeur of the spectacle that spread out before us. Behind us were the coasts of England, with their white cliffs half lost in the coming darkness. Beneath us on both sides the ocean spread out far end wide to where the darkness closed in the scene.",
-    "title": "Wonderful Balloon Ascents; Or, The Conquest of the Skies\r\nA History of Balloons and Balloon Voyages",
-    "author": "Marion, Fulgence",
-    "gutenbergReference": "899",
-    "hash": "fdafb2976b987dc41002f48e13a88c5439454f968827e64070c3d59f2093a245"
+    "quoteFirst": "To preach thoroughly his gospel of art, as he conceived it, Darrel lived in London, that microcosm of life in all its phases, good, bad, and indifferent. Usually he worked in the morning, slept in the afternoon, amused himself in the evening, and devoted the night from ",
+    "quoteTime": "twelve to five",
+    "quoteLast": " to exploring the deeps of the metropolitan ocean. In a disguise of decent poverty more threadbare than ragged, this enthusiast would exploit the dark corners of the Strand, penetrate into Whitechapel slums, and explore the least-known recesses of the City.",
+    "title": "The Red-headed Man",
+    "author": "Hume, Fergus, 1859-1932",
+    "gutenbergReference": "55348",
+    "hash": "ee0a377ef202b5eee6bd44f8c95770b9910af6f8f8cb1ebde2af592d858549f7"
+  },
+  {
+    "time": "16:48",
+    "quoteFirst": "; it is in the form of an horse-shoe, and is known by an island lying close under the north-east point: The two points which form the entrance are high, with steep white cliffs, and lie a league and a half, or two leagues, from each other, N.E. by E. and S.W. by W.; the depth of water in the bay is from ",
+    "quoteTime": "twelve to five",
+    "quoteLast": " fathom, with a sandy bottom and good anchorage; but the situation is open to the wind between the south and east: Boats can go in and out of the river at any time of the tide in fine weather; but as there is a bar at the entrance, no boat can go either in or out when the sea runs high: The best place to attempt it, is on the north-east side, and it is there practicable when it is not so in any other part.",
+    "title": "A General History and Collection of Voyages and Travels — Volume 13",
+    "author": "Kerr, Robert, 1755-1813",
+    "gutenbergReference": "14464",
+    "hash": "e2194ee54e143bd9f072f9565eea6792b288bd958adbda58a6d59bec92fcea5d"
+  },
+  {
+    "time": "16:48",
+    "quoteFirst": "Weighing at sunrise the next day, with light winds, and charming weather, we bore away to the Carquinez Straits. This passage lies on the eastern face of San Pablo; it may be a mile and a half wide, and we found a broad ship channel, ranging from ",
+    "quoteTime": "twelve to five",
+    "quoteLast": " fathoms soundings, all the way to the head of the straits, where we anchored the Julia, in twenty-five feet water, within a bound of the bank. Our position was at the site of an embryo city, called Benecia.",
+    "title": "Los gringos; or, An inside view of Mexico and California",
+    "author": "Wise, H. A. (Henry Augustus), 1819-1869",
+    "gutenbergReference": "32178",
+    "hash": "ba5322670d56b0a8fa66d1dfab6cc2414b0cd79f785caae658ea8a546ab1c444"
+  },
+  {
+    "time": "16:48",
+    "quoteFirst": "\"Mon Dieu! Now you are beginning to talk,\" said Goujaud. \"A hundred! One among them should be suitable, hein? But, all the same--\" He hesitated. \"'",
+    "quoteTime": "Twelve to five",
+    "quoteLast": "'! It will be a shade monotonous standing on a doorstep from twelve to five, especially if the rain streams.\"",
+    "title": "A Chair on the Boulevard",
+    "author": "Merrick, Leonard, 1864-1939",
+    "gutenbergReference": "9928",
+    "hash": "9d73d3048207084d415c9da386b14c18fec97849ff81a314c79c09c1152c73cc"
+  },
+  {
+    "time": "16:48",
+    "quoteFirst": "; it is in the form of an horse-shoe, and is known by an island lying close under the north-east point: the two points which form the entrance are high, with steep white cliffs, and lie a league and a half, or two leagues from each other, N. E. by E. and S. W. by W.; the depth of water in the bay is from ",
+    "quoteTime": "twelve to five",
+    "quoteLast": " fathom, with a sandy bottom and good anchorage; but the situation is open to the wind between the south and east: boats can go in and out of the river at any time of the tide in fine weather; but as there is a bar at the entrance, no boat can go either in or out when the sea runs high: the best place to attempt it, is on the north-east side, and it is there practicable when it is not so in any other part.",
+    "title": "The Three Voyages of Captain Cook Round the World. Vol. I. Being the First of the First Voyage.",
+    "author": "Cook, James, 1728-1779; Banks, Joseph, 1743-1820 [Contributor]; Hawkesworth, John, 1715?-1773 [Editor]",
+    "gutenbergReference": "56196",
+    "hash": "a70f3f3f4002fb085291171a88d33e4407abaf2f38073d8b19261b3f95cd1863"
+  },
+  {
+    "time": "16:48",
+    "quoteFirst": "; it is in the form of an horse-shoe, and is known by an island lying close under the north-east point: The two points which form the entrance are high, with steep white cliffs, and lie a league and a half, or two leagues, from each other, N.E. by E. and S.W. by W.; the depth of water in the bay is from ",
+    "quoteTime": "twelve to five",
+    "quoteLast": " fathom, with a sandy bottom and good anchorage; but the situation is open to the wind between the south and east: Boats can go in and out of the river at any time of the tide in fine weather; but as there is a bar at the entrance, no boat can go either in or out when the sea runs high: The best place to attempt it, is on the north-east side, and it is there practicable when it is not so in any other part.",
+    "title": "A General History and Collection of Voyages and Travels — Volume 13",
+    "author": "Kerr, Robert, 1755-1813",
+    "gutenbergReference": "14464",
+    "hash": "e2194ee54e143bd9f072f9565eea6792b288bd958adbda58a6d59bec92fcea5d"
+  },
+  {
+    "time": "16:48",
+    "quoteFirst": "Between the American anchorage and Treaty point, the soundings are irregular, shoaling suddenly from ",
+    "quoteTime": "twelve to five",
+    "quoteLast": " fathoms on a bank of hard sand.",
+    "title": "The Japan expedition. Japan and around the world\r\nAn account of three visits to the Japanese empire, with sketches of Madeira, St. Helena, cape of Good Hope, Mauritius, Ceylon, Singapore, China, and Loo-Choo",
+    "author": "Spalding, J. W. (J. Willett), 1827-",
+    "gutenbergReference": "60403",
+    "hash": "598bab38267ae207257eb3121434a6f00eabc8364f984ecca31c61698cefbba8"
   },
   {
     "time": "16:48",
@@ -31,62 +91,12 @@
   },
   {
     "time": "16:48",
-    "quoteFirst": "His father was a merchant, and in the municipal records his father's name appears as a freeman admitted to the franchise in 1462. In 1472 or 1473 a son was added to the family, and the parents had a horoscope taken of the child, who appeared at thirty-eight minutes past four on January 19, 1472, according to some; at ",
-    "quoteTime": "forty-eight minutes past four in the afternoon",
-    "quoteLast": " of February 19, 1473, according to others; the exact instant of the nativity being an important point in astrological calculations, which, in those days, inspired in fathers and mothers the deepest concern. At all events, Copernicus was deemed to have entered the world under a lucky planet, and it was augured that he would turn out a man of distinguished talent.",
-    "title": "Great Men and Famous Women. Vol. 3\r\nA series of pen and pencil sketches of the lives of more than 200 of the most prominent personages in History",
-    "author": "Horne, Charles F. (Charles Francis), 1870-1942 [Editor]",
-    "gutenbergReference": "26423",
-    "hash": "076cc42e05bab3a6b854cbf56a32ddc807c6dedc18237f0c1b4ecd6b2104887e"
-  },
-  {
-    "time": "16:48",
-    "quoteFirst": "From ",
-    "quoteTime": "12 to 5 p.m.",
-    "quoteLast": " in winter and from 1 to 6 p.m. in summer Eglentyne and her sisters were supposed to devote themselves to manual or brain work, interspersed with a certain amount of sober and godly recreation. She would spin, or embroider vestments with the crowned monogram M of the Blessed Virgin in blue and gold thread, or make little silken purses for her friends and finely sewn bands for them to bind round their arms after a bleeding.",
-    "title": "Medieval People",
-    "author": "Power, Eileen, 1889-1940",
-    "gutenbergReference": "13144",
-    "hash": "e57ac15e2012e0a0b8fd54d8f9e7c94dfbdb336ab305fda5ab7ab51e1b7c65cc"
-  },
-  {
-    "time": "16:48",
-    "quoteFirst": "Slasher――and at ",
-    "quoteTime": "twelve minutes to five",
-    "quoteLast": " they were delivered at the scratch, the betting being 6 to 5 on the old one.",
-    "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
-    "author": "Miles, Henry Downes, 1806-1889",
-    "gutenbergReference": "64111",
-    "hash": "645fdadea04976b5791118b7ae0711d8ff58e829a8b255490bbb2ff016291e08"
-  },
-  {
-    "time": "16:48",
-    "quoteFirst": "Henderson was informed of our progress when his phone rang at exactly ",
-    "quoteTime": "4:48 P.M.",
-    "quoteLast": " He arrived, along with his Georgia Mafia computer expert, at 5:17, and Tam met them at the security doors.",
-    "title": "The Samurai Strategy",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34323",
-    "hash": "e1a5547a726dddca7755874c5ef71a1a162372638d535db46084e2b662cf087d"
-  },
-  {
-    "time": "16:48",
-    "quoteFirst": "28 Bombardment ",
-    "quoteTime": "12 to 5 P. M.",
-    "quoteLast": ", 24 shells; renewed 9 to 9:45 P. M., 10 shells.",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "bec343764875ea44cf5eec73cc6719c511038733fede6f891c594ac8882e601e"
-  },
-  {
-    "time": "16:48",
-    "quoteFirst": "2 Bombardment ",
-    "quoteTime": "12 to 5 P. M.",
-    "quoteLast": "; renewed 9:30 P. M., 2 wounded.",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "6cfcc65a91c6915bd21404a62b9f5a250e7b3e359391ff26a35017dc4b20e336"
+    "quoteFirst": "“Watch and watch” was a thing unknown, but as the power of the master was absolute there could be no appeal, and for reasons I have hinted at there were none who would have been willing to incur the wrath of the ruling powers. It will be shown presently how those powers were sometimes used, but that was the ship’s routine, and every afternoon, no matter what the weather, all hands were on deck from half-past ",
+    "quoteTime": "twelve to five",
+    "quoteLast": " o’clock. We apprentices were taught to observe the meridian altitude, and sometimes in the afternoons and evenings the captain gave us some instruction in navigation, but the mate rather resented what he termed loafing in the cabin in the afternoon. Our captain was also fond of signalling to other vessels, and that, of course, was our special work.",
+    "title": "My Life at Sea\r\nbeing a \"yarn\" loosely spun for the purpose of holding together certain reminiscences of the transition period from sail to steam in the British mercantile marine (1863-1894)",
+    "author": "Crutchley, William Caius, 1848-1923",
+    "gutenbergReference": "48582",
+    "hash": "b896d8d5a6a2fc29bf5ab08092e09e8d16ddd787dfa9fe927edf5dc1035dc07d"
   }
 ]

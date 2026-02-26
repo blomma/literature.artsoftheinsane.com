@@ -1,6 +1,16 @@
 [
   {
     "time": "16:04",
+    "quoteFirst": "Stanley's[37] at 10 minutes past 12. Returned thither 1/",
+    "quoteTime": "4 past 4",
+    "quoteLast": ", drank tea, ate heartily. Before we went on Helvellyn we got bread and cheese. Paid 4/ for the whole. Reached home at nine o'clock.",
+    "title": "Journals of Dorothy Wordsworth, Vol. 1 (of 2)",
+    "author": "Wordsworth, Dorothy, 1771-1855; Knight, William Angus, 1836-1916 [Editor]",
+    "gutenbergReference": "42856",
+    "hash": "237f6929fbb7f970cb89ae7373789b6221ba61b97cf68b5d2bda31c4816c6ff2"
+  },
+  {
+    "time": "16:04",
     "quoteFirst": "\"At ",
     "quoteTime": "4.04 P. M.",
     "quoteLast": " the Scharnhorst, whose flag remained flying to the last, suddenly listed heavily to port, and within a minute it became clear that she was a doomed ship, for the list increased very rapidly until she lay on her beam ends. At 4.17 P. M. she disappeared. The Gneisenau passed on the far side of her late flagship, and continued a determined, but ineffectual, effort to fight the two battle cruisers. At 5.08 P. M.",
@@ -21,6 +31,56 @@
   },
   {
     "time": "16:04",
+    "quoteFirst": "\"Friday, 14th October. Moderate and cloudy with heavy swell from south-east: at 1 the Pilot came on board: 1/",
+    "quoteTime": "4 past 4",
+    "quoteLast": " came to in the cove with best bower.",
+    "title": "The Logbooks of the Lady Nelson\r\nWith the journal of her first commander Lieutenant James Grant",
+    "author": "Lee, Ida, 1865-1943",
+    "gutenbergReference": "7509",
+    "hash": "0dac2e34a36384b3b58e0b38d5f782dce8aea60b23a2b577dfb3ecd9ff447f10"
+  },
+  {
+    "time": "16:04",
+    "quoteFirst": "Arrived at Catskill[29] half past three; got some excellent cider and bread and butter. Set off to the mountain 1/",
+    "quoteTime": "4 past 4",
+    "quoteLast": "; a chaise near being upset. Fare 1 dollar said to be 13 miles; then a turnpike gate, and arrived at the summit at 1/4 past 8; having been in four hours in one part alternately hot and in another piercingly cold. A beautiful moonlight night; the Hudson River visible; very cold so that we sat round the fire as if it were Christmas.",
+    "title": "A Journey to America in 1834",
+    "author": "Heywood, Robert, 1786-1868",
+    "gutenbergReference": "24626",
+    "hash": "5e368bb53d4914e66e7f4cf2cd2f53e19d96291639ad204a14e4e6160d2108b9"
+  },
+  {
+    "time": "16:04",
+    "quoteFirst": "At Bloomville at 1/",
+    "quoteTime": "4 past 4",
+    "quoteLast": "; the last seven miles the valley has been widening. Arrived at Delhi 1/4 before 6. Took my place on to Green; paid 2 dollars 38 cents.",
+    "title": "A Journey to America in 1834",
+    "author": "Heywood, Robert, 1786-1868",
+    "gutenbergReference": "24626",
+    "hash": "e2736d5f56841419e4c09cb7a916774eb39eba2a61a666b6732ba5ba951831df"
+  },
+  {
+    "time": "16:04",
+    "quoteFirst": "At ",
+    "quoteTime": "four past four",
+    "quoteLast": " he was aware of a rustling train's rush down the steps, and now was like a man with his neck on the block, awaiting the axe. A moment afterwards she was before him, and two moments afterwards he was collected and hot, and a man again.",
+    "title": "The Lord of the Sea",
+    "author": "Shiel, M. P. (Matthew Phipps), 1865-1947",
+    "gutenbergReference": "6993",
+    "hash": "753ade98385331ece0a6839bc974e93d8d60e189d3b29757702c66c2aaa36ab3"
+  },
+  {
+    "time": "16:04",
+    "quoteFirst": "Joe was still in at one end, invincible; and at the other was the great wicket-keeper. And the pair of them suddenly began to force the pace till the bowling was in a tangled knot. ",
+    "quoteTime": "Four after four",
+    "quoteLast": ", all round the wicket, with never a chance or a mishit to vary the monotony. Two hundred went up, and two hundred and fifty. Then Joe reached his century, and was stumped next ball. Then came lunch.",
+    "title": "Mike",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "7423",
+    "hash": "95a1bda5dfeb6daee38ca5e83a64c758522460a163340c3e6c1b7fc6f9e979fb"
+  },
+  {
+    "time": "16:04",
     "quoteFirst": "The effect of the fire on the Scharnhorst became more and more apparent in consequence of smoke from fires, and also escaping steam. At times a shell would cause a large hole to appear in her side, through which could be seen a dull red glow of flame. At ",
     "quoteTime": "4:04 P.M.",
     "quoteLast": " the Scharnhorst, whose flag remained flying to the last, suddenly listed heavily to port, and within a minute it became clear that she was a doomed ship, for the list increased very rapidly until she lay on her beam ends, and at 4:17 P.M. she disappeared.",
@@ -28,6 +88,26 @@
     "author": "Various",
     "gutenbergReference": "15479",
     "hash": "9fd7f25ccb160fb729f293ee1c7ed88941f96d21bc8d163f5fedf70e3ae019cb"
+  },
+  {
+    "time": "16:04",
+    "quoteFirst": "Joel Tibber had no terrors for him. Prudence applauded his feats with hands and voice. When Lionel and he got “set,” runs came swiftly—",
+    "quoteTime": "four after four",
+    "quoteLast": ".",
+    "title": "Fishpingle: A Romance of the Countryside",
+    "author": "Vachell, Horace Annesley, 1861-1955",
+    "gutenbergReference": "50255",
+    "hash": "985106884ff251e173fcae45ff825d011b723e46ef11f6ed1aa8ec529df69304"
+  },
+  {
+    "time": "16:04",
+    "quoteFirst": "But when Fogson, your rival, makes ",
+    "quoteTime": "Four after Four",
+    "quoteLast": ", And Three after Three, And next a grand drive, that adds six to his score, Right over the tree, Bell's eyes with excitement delightedly flash-- She praises his pluck! So you think that the worst of emphatical trash Is 'duck.",
+    "title": "Cricket Songs",
+    "author": "Gale, Norman, 1862-1942",
+    "gutenbergReference": "47354",
+    "hash": "a951011d6310413e9832b7c1e6e2742f653c58017dec035700c5a79dd05815f6"
   },
   {
     "time": "16:04",

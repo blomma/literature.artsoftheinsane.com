@@ -21,6 +21,16 @@
   },
   {
     "time": "09:42",
+    "quoteFirst": "Continuous agitation for the removal of Roman Catholic disabilities brought about in 1833 the passing of the Church Temporalities Act, one of the most important provisions of which was the reduction of the number of Irish archbishoprics from four to two, and of bishoprics from ",
+    "quoteTime": "eighteen to ten",
+    "quoteLast": ", the funds thus released being administered by commissioners. In 1838 the Tithe Rentcharge Act, which transferred the payment of tithes from the occupiers to the owners of land, was passed, and thus a substantial grievance was removed.",
+    "title": "Encyclopaedia Britannica, 11th Edition, \"Ireland\" to \"Isabey, Jean Baptiste\"\r\nVolume 14, Slice 7",
+    "author": "Various",
+    "gutenbergReference": "39775",
+    "hash": "6b840eb0708f0b67c55ec33decc63c7d5628bced6cdc5665493a3c5ce615ae9b"
+  },
+  {
+    "time": "09:42",
     "quoteFirst": "Roger glanced at his watch.  It was ",
     "quoteTime": "eighteen minutes to ten",
     "quoteLast": ".  He would have to fly to find Ottalie.  If she were in town at all, she would be out by ten.  He was sure of that.  His motor-cab was waiting.",
@@ -28,6 +38,26 @@
     "author": "Masefield, John, 1878-1967",
     "gutenbergReference": "58436",
     "hash": "a5d93fad8d56f3cdc844cfc4f161332e611426b5fb80a6945c592a87a41f1b3b"
+  },
+  {
+    "time": "09:42",
+    "quoteFirst": "\"Ah!\" said Waddles. \"Four lemonades--and Sam Totten winked at the bar boy every time. Why, if I cut you from ",
+    "quoteTime": "eighteen to ten",
+    "quoteLast": " that'll put you in Class A!\"",
+    "title": "Fore!",
+    "author": "Van Loan, Charles E. (Charles Emmett), 1876-1919",
+    "gutenbergReference": "36682",
+    "hash": "893d9fd958e2e7cb6fe62dde2bc455bfcd5f655c0b27c4bb1918b44a616afdb2"
+  },
+  {
+    "time": "09:42",
+    "quoteFirst": "\"Oh, this broke me up just because I had the bad luck to hear the details, though I must say I've heard the same details often enough before.  Her people lived in a tenement in Essex Street, where it's so crowded that the men have to come outside every evening while their wives cook the dinners--three nine-by-seven rooms, no barth and no privacy; four children from ",
+    "quoteTime": "eighteen to ten",
+    "quoteLast": " in one room; pa, ma, the boiby, and the seven-year-old in the second, and the cot in the kitchen-living-room rented to the lodger.  The lodger was the wiggly snake under the apple-tree.",
+    "title": "The house of bondage",
+    "author": "Kauffman, Reginald Wright, 1877-1959",
+    "gutenbergReference": "73115",
+    "hash": "24ee61571fb2114c55bff647ecee54a5758066b91c8e58c54134a49cef5e5007"
   },
   {
     "time": "09:42",
@@ -48,5 +78,25 @@
     "author": "Benson, E. F. (Edward Frederic), 1867-1940",
     "gutenbergReference": "45719",
     "hash": "490f6cfc3552e5bec264f0e81403ee72f6ec942c4973d911330ee82022a3e0c2"
+  },
+  {
+    "time": "09:42",
+    "quoteFirst": "The original Maine Law was enacted by a vote in the House of eighty-six to forty, and in the Senate by ",
+    "quoteTime": "eighteen to ten",
+    "quoteLast": ". There have been several subsequent liquor laws, all in the direction of greater stringency; and the Legislature of this year enacted an additional law, with penalties much more stringent than any which had preceded it, without a dissenting vote.",
+    "title": "Grappling with the Monster; Or, the Curse and the Cure of Strong Drink",
+    "author": "Arthur, T. S. (Timothy Shay), 1809-1885",
+    "gutenbergReference": "13509",
+    "hash": "fbd7d4ff6da37fe7ea7c143f09a6272de13973d35048cc8cd3eca26e84fae0ab"
+  },
+  {
+    "time": "09:42",
+    "quoteFirst": "Maleness did not of itself prevent either long hours or dirty premises. Here Radicals and Manchester men failed, and by 1867 Parliament had got no farther than to prohibit the employment of children under eight years, to restrict the hours of labour of women and youths under ",
+    "quoteTime": "eighteen to ten",
+    "quoteLast": " or twelve hours a day, and to impose conditions about sanitation, ventilation, and the fencing of machinery upon some of the more unhealthy or dangerous trades. This progress, qualified by many exemptions, was all that could be won in the face of individualist opposition to economic reform.",
+    "title": "A Short History of English Liberalism",
+    "author": "Blease, W. Lyon (Walter Lyon), 1884-1963",
+    "gutenbergReference": "34713",
+    "hash": "da8997d78706775a8167f831d1cba31a8b6f1eacbae15ccbd1702469afbb3e42"
   }
 ]

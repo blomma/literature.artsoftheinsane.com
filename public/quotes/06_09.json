@@ -11,6 +11,16 @@
   },
   {
     "time": "06:09",
+    "quoteFirst": "The consul at Barmen reports that for agricultural labor the pay varies greatly, according to the proximity to or remoteness from manufacturing centers; and ranges from fifty-six cents a day in the neighborhood of Barmen to thirty-one cents a day in the lower Rhine valley, and as low as eighteen cents in parts of Silesia. At Barmen, Crefeld and Düsseldorf, carpenters, coppersmiths, plumbers, machinists and wagonsmiths earn ",
+    "quoteTime": "fifty-one to seven",
+    "quoteLast": "ty-five cents daily; saddlers and shoemakers forty-seven to fifty-two cents daily; bakers and brewers, with board and lodging, from $1.42 to $2.14 weekly, and without board from sixty cents a day to $4.",
+    "title": "Scientific American, Vol. XXXIX.\u0097No. 6. [New Series.], August 10, 1878",
+    "author": "Various",
+    "gutenbergReference": "43282",
+    "hash": "9f981c9545caa5e298038242a5c9f9b8030f6f7f864010a1fd998efab4015c81"
+  },
+  {
+    "time": "06:09",
     "quoteFirst": "; new moon on the 12th, at 5:34 p. m.; first quarter, 19th, at 8:40 a. m.; and full on the 27th, at ",
     "quoteTime": "6:09 a. m.",
     "quoteLast": " Farthest from the earth on the 28th, at 12:54 a. m.; nearest the earth on the 13th, at 11:12 a. m. Greatest elevation, 66° 56′ 25″, on the 13th; least elevation, 30° 2′ 40″, on the 27th.",
@@ -18,5 +28,25 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
     "hash": "fa608350874f434a08b6c7664870dd2cbe9d8c766aba449f03a0f31a353fe1de"
+  },
+  {
+    "time": "06:09",
+    "quoteFirst": "Near midnight General Longstreet arrived on the field, and was once placed in command of the Confederate left, Polk retaining the right. Not all of Longstreet's troops arrived in time for the battle, but Bragg's force has been estimated at ",
+    "quoteTime": "fifty-one to seven",
+    "quoteLast": "ty-one thousand strong.",
+    "title": "The Civil War Through the Camera",
+    "author": "Elson, Henry W. (Henry William), 1857-1935; Brady, Mathew B., 1823?-1896 [Photographer]",
+    "gutenbergReference": "42655",
+    "hash": "95956622da1f8657d52c961e5ce81ae1cdf54ea9b7380ecf00e59e79f13d5e26"
+  },
+  {
+    "time": "06:09",
+    "quoteFirst": "House of Assembly by a large majority (",
+    "quoteTime": "fifty-one to seven",
+    "quoteLast": "), but was rejected by a small majority (twenty-six to twenty-one) in the Legislative Council. In the following year it passed into law. West Australia passed the reform almost without a struggle.",
+    "title": "Woman in Political Evolution",
+    "author": "McCabe, Joseph, 1867-1955",
+    "gutenbergReference": "64340",
+    "hash": "54b7a2d5676b21fcdf9bcd59134ecfe81e5aeb93137e7ce3d762f0b430b4564d"
   }
 ]

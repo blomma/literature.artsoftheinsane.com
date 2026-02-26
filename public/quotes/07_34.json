@@ -11,6 +11,16 @@
   },
   {
     "time": "07:34",
+    "quoteFirst": "It was a discouraging contest that took the fire out of the hearts of the players and set the school to jesting about the team. Westcott’s won in the last five minutes through a long run by Harrison, who got the ball on a fumble and carried it half the length of the field; but the record of six to nothing looked very small alongside of Newbury’s ",
+    "quoteTime": "twenty-six to eight",
+    "quoteLast": ". The plan of the coach had been to push the attack generally through the left side of the line behind Eaton and Dunn; and when Suffolk had the ball to concentrate the secondary defence behind centre and right, leaving the strong wing to make its own resistance.",
+    "title": "The School Four",
+    "author": "Dudley, Albertus T. (Albertus True), 1866-1955; Copeland, Charles, 1858-1929 [Illustrator]",
+    "gutenbergReference": "56215",
+    "hash": "398eaccb613e63db540ed511f3339399d0ad175bd028d199d1849ed7666a005a"
+  },
+  {
+    "time": "07:34",
     "quoteFirst": "At ",
     "quoteTime": "7.34 A. M.",
     "quoteLast": ", December 15, 1917, the _Leviathan_ left her pier in Hoboken for her first trip across the Atlantic. Twelve tugs were employed to assist in swinging the bow of the giant ship toward the sea.",
@@ -28,5 +38,15 @@
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
     "hash": "41d293549285f8800997d7b261e2fe71e8eb3db52b3a91a76eef78ddeb4eb01e"
+  },
+  {
+    "time": "07:34",
+    "quoteFirst": "Bill was finally passed by a vote of ",
+    "quoteTime": "twenty-six to eight",
+    "quoteLast": "een. The measure is suggestive of the English Act passed by the Long Parliament during the reign of Charles the First, which enacted that Parliament should not be dissolved by the King without its own consent.",
+    "title": "The Story of the Upper Canadian Rebellion, Volume 1",
+    "author": "Dent, John Charles, 1841-1888",
+    "gutenbergReference": "22131",
+    "hash": "6348e7a2502aa0cb05893fe1938e16fb4ac354a22196a491fb6a383184759acf"
   }
 ]

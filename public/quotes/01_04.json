@@ -21,6 +21,16 @@
   },
   {
     "time": "01:04",
+    "quoteFirst": "SWEET LITTLE ROSY WENT BEAUTIFULLY!! We came home at a 1/",
+    "quoteTime": "4 past 1",
+    "quoteLast": "... At 20 minutes to 7 we went out to the Opera... Rubini came on and sang a song out of 'Anna Boulena' QUITE BEAUTIFULLY.",
+    "title": "Queen Victoria",
+    "author": "Strachey, Lytton, 1880-1932",
+    "gutenbergReference": "1265",
+    "hash": "27590c0b0cbb5e317abb581c93f3ebf7a544d71180db0aac4d0479df7e93db51"
+  },
+  {
+    "time": "01:04",
     "quoteFirst": "“Jesus Christ!” he gasped. “It’s ",
     "quoteTime": "four minutes past one",
     "quoteLast": "!”",
@@ -48,6 +58,26 @@
     "author": "Fraser, Edward, 1859?-",
     "gutenbergReference": "65978",
     "hash": "6304a44f764fd0f2b4315fbdb574cc351473bfbfdcffc735689e41c6b6504407"
+  },
+  {
+    "time": "01:04",
+    "quoteFirst": "The Durham boats[19], as they are called, are drawn up the river by means of six oxen. Cornwall[20] 1/",
+    "quoteTime": "4 past 1",
+    "quoteLast": "1. One of the Durham boats drawn by two horses belly deep in the river because the banks are grassy and soft. Hazel trees different to ours; a good deal of nuts.",
+    "title": "A Journey to America in 1834",
+    "author": "Heywood, Robert, 1786-1868",
+    "gutenbergReference": "24626",
+    "hash": "6e233ae62faf5f2e847764861e76cf4f7294054b99418779bc44337f95a36dee"
+  },
+  {
+    "time": "01:04",
+    "quoteFirst": "I shook hands with each one and said to them \"God bless you\" and then hurried out of the house. Mary came on part of the way. Got to Orrell 1/",
+    "quoteTime": "4 past 1",
+    "quoteLast": " to await the mail from Oswego; proceeded in 20 minutes; arrived at Towanda half past four; the last 8 miles very disagreeable, warm and dusty. Paid 87-1/2 cents. Met with Mr. Overton an English gentleman who said he would call upon me.",
+    "title": "A Journey to America in 1834",
+    "author": "Heywood, Robert, 1786-1868",
+    "gutenbergReference": "24626",
+    "hash": "963200505a178107f6f91ab4eaa64632678da3d85258da42080778ae1ffe1801"
   },
   {
     "time": "01:04",

@@ -1,6 +1,16 @@
 [
   {
     "time": "00:06",
+    "quoteFirst": "Boston newspapers of Feb. 9, 1810, contained the report and resolutions in which the Massachusetts legislature, by a vote of two hundred and ",
+    "quoteTime": "fifty-four to one",
+    "quoteLast": " hundred and forty-five, declared that “they can perceive no just or adequate cause” for breaking relations with the British minister, F. J. Jackson; and this challenge to their own Government, backed by Governor Gore’s invitation of Jackson to Boston, was intended to carry political weight, even to the extent of forcing Madison to renew political relations, as he had been forced to resume commercial relations, with England.",
+    "title": "History of the United States of America, Volume 5 (of 9)",
+    "author": "Adams, Henry, 1838-1918",
+    "gutenbergReference": "72668",
+    "hash": "ca66d1b0eb7e42f89eba7d45c6d80434525349a6b75c70c4816f94bf1e407676"
+  },
+  {
+    "time": "00:06",
     "quoteFirst": "At twelve by my clock the room was dark. We were very busy then. I looked up again at ",
     "quoteTime": "six minutes past twelve",
     "quoteLast": " by _my_ clock here, a minute past twelve by my own watch, which I always keep right by Greenwich, and it's a good chronometer, as you know----\"",
@@ -18,6 +28,26 @@
     "author": "Hergesheimer, Joseph, 1880-1954",
     "gutenbergReference": "6847",
     "hash": "47470273bf5433f0c1bc29754ae143f3856a9657401cb0e3c08c781f0577e341"
+  },
+  {
+    "time": "00:06",
+    "quoteFirst": "But the gay deceivers had discovered that white chalk and ordinary boot-blacking were very efficient substitutes for the paint, for the temporary markings so caused could easily be brushed out before the garments were returned to their rightful owners after kit inspection. Moreover, unless the mustering officer was particularly inquisitive or suspicious, the chances were fully ",
+    "quoteTime": "fifty-four to one",
+    "quoteLast": " that the deception would never be noticed.",
+    "title": "Pincher Martin, O.D.: A Story of the Inner Life of the Royal Navy",
+    "author": "Dorling, H. Taprell (Henry Taprell), 1883-1968; Williams, C. Fleming [Illustrator]",
+    "gutenbergReference": "41774",
+    "hash": "67197ace23585141af4bd1e859c0f51d235d85b0e3419634d8012997bd542ef6"
+  },
+  {
+    "time": "00:06",
+    "quoteFirst": "It is distinguished by the name of _rye bread_; and the mixture of these two kinds of grain is called bread-corn, in many parts of the kingdom, where it is raised on one and the same piece of ground, and passes through all the processes of reaping, thrashing, grinding, &c. A mixture of one-hundred pounds of equal parts of wheat and rye flour, produce from one-hundred and ",
+    "quoteTime": "fifty-four to one",
+    "quoteLast": "-hundred and fifty-six pounds of leavened bread.",
+    "title": "A treatise on the art of making good wholesome bread of wheat, oats, rye, barley and other farinaceous grains\r\nExhibiting the alimentary properties and chemical constitution of different kinds of bread corn, and of the various substitutes used for bread, in different parts of the world",
+    "author": "Accum, Friedrich Christian, 1769-1838",
+    "gutenbergReference": "60424",
+    "hash": "8515c2f4cfef257b27a4fc61b3f1b76f9771d3a236aa672542b73e07d7a5d34a"
   },
   {
     "time": "00:06",

@@ -11,6 +11,16 @@
   },
   {
     "time": "02:37",
+    "quoteFirst": "These waves continued to come and go until half-past two p.m., during which time the frigate was thrown on her beam-ends five times; a piece of her keel, eighty-one feet long, was torn off; holes were knocked in her by striking on the bottom, and she was reduced to a wreck.  In the course of five minutes the water in the harbour fell, it is said, from ",
+    "quoteTime": "twenty-three to three",
+    "quoteLast": " feet, and the anchors of the ship were laid bare.",
+    "title": "The Ocean and Its Wonders",
+    "author": "Ballantyne, R. M. (Robert Michael), 1825-1894",
+    "gutenbergReference": "21754",
+    "hash": "5f5f6efa30c53affefdf70dbd17a3e1b7fe5097ad637e531a287d4dcafb6e129"
+  },
+  {
+    "time": "02:37",
     "quoteFirst": "“‘I don’t remember. I was walking about the room ... never mind. I stopped my clock. It was ",
     "quoteTime": "thirty-seven minutes past two",
     "quoteLast": ".’”[100]",
@@ -18,6 +28,16 @@
     "author": "Gide, André, 1869-1951; Bennett, Arnold, 1867-1931 [Author of introduction, etc.]",
     "gutenbergReference": "76944",
     "hash": "3d1626d095f6b305840aa5805ec7ff25af649282258bfeefda30fad1ffd1e79d"
+  },
+  {
+    "time": "02:37",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty-three to three",
+    "quoteLast": ".\"",
+    "title": "Left Guard Gilbert",
+    "author": "Barbour, Ralph Henry, 1870-1944; Caswell, Edward C., 1879-1963 [Illustrator]",
+    "gutenbergReference": "26149",
+    "hash": "8f9e65ab7a9cdac3215855eb033fd096c4037b36510e617f546a711f94c93436"
   },
   {
     "time": "02:37",

@@ -21,6 +21,16 @@
   },
   {
     "time": "20:23",
+    "quoteFirst": "“Let me see; the score last year was ",
+    "quoteTime": "thirty-seven to nine",
+    "quoteLast": "teen, wasn’t it?” laughed Walter.",
+    "title": "The pennant",
+    "author": "Tomlinson, Everett T. (Everett Titsworth), 1859-1931",
+    "gutenbergReference": "72863",
+    "hash": "99e6b92205ad180891439436a5cb1dd300ba7a5590dd224d39bae0e8a82077f2"
+  },
+  {
+    "time": "20:23",
     "quoteFirst": "“Well, y’ronor, I was on m’post on Simpson street las’ night an’ at ",
     "quoteTime": "twenty-three minutes past eight",
     "quoteLast": ", I hear a commotion in front of the Idle Hour Movie Theater, at 1833 Simpson Street, Saul Bloch, proprietor. I seen the prisoner here bein’ thrown outa the theater by some men.",
@@ -38,5 +48,15 @@
     "author": "Verne, Jules, 1828-1905; Frith, Henry, 1840- [Translator]",
     "gutenbergReference": "32972",
     "hash": "bdf6e4ccded144ef09b8602b55ebcb6a597a153a4c460fab5a6f390982c5b538"
+  },
+  {
+    "time": "20:23",
+    "quoteFirst": "The senate received the new governor's message with enthusiasm, and by formal resolution congratulated him upon his success. The assembly at first refused, thirty-eight to thirty-four, to have anything to do with him; but upon thirty of the Democrats withdrawing, after filing a protest against the action of the court, the house agreed, ",
+    "quoteTime": "thirty-seven to nine",
+    "quoteLast": ", to recognize Governor Bashford. Thereafter he had no trouble at the helm of State.",
+    "title": "Stories of the Badger State",
+    "author": "Thwaites, Reuben Gold, 1853-1913",
+    "gutenbergReference": "38137",
+    "hash": "884f425441827814b5c15df0a02daf7ba222b295b25c7db82a81fef2875a1daf"
   }
 ]

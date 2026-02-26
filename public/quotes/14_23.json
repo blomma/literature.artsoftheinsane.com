@@ -1,6 +1,16 @@
 [
   {
     "time": "14:23",
+    "quoteFirst": "At twelve past two he made the Alert signal to come within hail; half-past two he made the Royal Oak's signal to take the ship in tow that had struck her colours. At twenty-two past two the Admiral made the Resolution signal to tack, and we discontinued engaging. At ",
+    "quoteTime": "twenty-three past two",
+    "quoteLast": " some of our ships upon our larboard beam began firing, as did the rest of the ships as they came up with the enemy. At three quarters past three the Admiral made the Repulse and Alcides signal to bear down.",
+    "title": "Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II",
+    "author": "Ross, John, Sir, 1777-1856",
+    "gutenbergReference": "27151",
+    "hash": "4e4471dc415c95f7c7042a761d4f28d77934d80b7f65691f62b206a298a390bb"
+  },
+  {
+    "time": "14:23",
     "quoteFirst": "\"At ",
     "quoteTime": "2:23 P.M.",
     "quoteLast": " the relief battleships renewed the attack on the forts, which again opened fire. The attack on the forts was maintained while the operations of the mine-sweepers continued.",
@@ -38,6 +48,16 @@
     "author": "Nozhin, E. K. (Evgenii Konstantinovich); Swinton, E. D. (Ernest Dunlop), 1868-1951 [Editor]; Lindsay, A. B. (Alexander Bertram), 1872-1914 [Translator]",
     "gutenbergReference": "59972",
     "hash": "c823a8491ba87ed3e4bda2e061bfa424425aedab191a8a464a858827f36e7d5b"
+  },
+  {
+    "time": "14:23",
+    "quoteFirst": "Ferrara voted, by ",
+    "quoteTime": "thirty-seven to three",
+    "quoteLast": ", in favour of the Roman Republic. Such a protest was undoubtedly of use in proving the earnestness of the Roman provinces on behalf of the new Government.",
+    "title": "The Revolutionary Movement of 1848-9 in Italy, Austria-Hungary, and Germany\nWith Some Examination of the Previous Thirty-three Years",
+    "author": "Maurice, C. Edmund (Charles Edmund), 1843-1927",
+    "gutenbergReference": "39540",
+    "hash": "ad65f088308084291d34e2583adcfc5cb18935f345aab269b38ee7575faa2667"
   },
   {
     "time": "14:23",

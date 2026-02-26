@@ -1,33 +1,63 @@
 [
   {
     "time": "07:50",
-    "quoteFirst": "But looking out of the window was one thing, and jumping another: and the town clock struck seven. So he got into bed for a little sleep, but the gaoler came and woke him, and said, \"Git up, your Royal Ighness, if you please, it's ",
-    "quoteTime": "TEN MINUTES TO EIGHT",
-    "quoteLast": "!\"",
-    "title": "The Christmas Books of Mr. M.A. Titmarsh",
-    "author": "Thackeray, William Makepeace, 1811-1863",
-    "gutenbergReference": "2731",
-    "hash": "b52778e986a0ad707cdae2b926330ff50edcd08a4d7200ca5549184c96d18edf"
+    "quoteFirst": "'Well--",
+    "quoteTime": "ten to eight",
+    "quoteLast": "?'",
+    "title": "The Last Days of Pompeii",
+    "author": "Lytton, Edward Bulwer Lytton, Baron, 1803-1873",
+    "gutenbergReference": "1565",
+    "hash": "32b963f06a97a4e46de15afe471f55a19466e76c5021dce9e926bdbc00e02aa5"
   },
   {
     "time": "07:50",
-    "quoteFirst": "\"I once knew a man who dined at ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": ",\" she said, \"which struck me as extremely curious. He was an archdeacon. I believe all archdeacons dine at ten minutes to eight. And they call it a quarter to, which is even odder.\"",
-    "title": "Mammon and Co.",
-    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
-    "gutenbergReference": "40797",
-    "hash": "26f9e3305ef7e2cce04c2be92aa9626e50fbf01264eb3530b0715698a8241181"
+    "quoteFirst": "These slopes, from the banks back to the swamps, usually ",
+    "quoteTime": "ten to eight",
+    "quoteLast": "een hundred yards, drain off the waters and form the tillable lands of the sugar and cotton planters. They are protected from overflows by levees thrown up on the banks of the river.",
+    "title": "The Battle of New Orleans\nincluding the Previous Engagements between the Americans\nand the British, the Indians and the Spanish which led to\nthe Final Conflict on the 8th of January, 1815",
+    "author": "Smith, Z. F. (Zachariah Frederick), 1827-1911",
+    "gutenbergReference": "25699",
+    "hash": "fd131343f23769af4be340950cd21010a9e19a8cb1851ddfbce3540859a35f4b"
   },
   {
     "time": "07:50",
-    "quoteFirst": "She returned to her room and dressed with feverish haste, trying to gather her wits for an ordeal which she felt it would have killed her to delay. At ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": " she emerged again and glanced anxiously at Mrs. Holt's door; and scarcely had she reached the lower hall before he drove into the circle.",
-    "title": "A Modern Chronicle — Complete",
-    "author": "Churchill, Winston, 1871-1947",
-    "gutenbergReference": "5382",
-    "hash": "29bbf45e65542b3b32fc48fe9b7fc90cf3b4604e62bce3c71a06a776c9d3474e"
+    "quoteFirst": "\"This is a breed of sheep which is characterized by their having no horns; white faces; long, thin, weak carcasses thick, rough, white legs; bones large; pelts thick; slow feeding; mutton coarse grained; the wool from ",
+    "quoteTime": "ten to eight",
+    "quoteLast": "een inches in length; and it is chiefly prevalent in the district which gives the name, and other rich grazing ones. The new, or improved Lincolns, have now finer bone, with broader loins and trussed carcasses, are among the best, if not actually the best, long-wooled stock we have.",
+    "title": "The American Reformed Cattle Doctor\r\nContaining the necessary information for preserving the health and curing the diseases of oxen, cows, sheep, and swine, with a great variety of original recipes, and valuable information in reference to farm and dairy management",
+    "author": "Dadd, George H., 1813-1868",
+    "gutenbergReference": "37997",
+    "hash": "2b675c2fadba0113119789200dc8e4ef6fec7545434d93054bedd993be5dde32"
+  },
+  {
+    "time": "07:50",
+    "quoteFirst": "A stream of water pours into the trough where the ore is being crushed, each stamp falling from ",
+    "quoteTime": "ten to eight",
+    "quoteLast": "y times a minute, and mixing the water and pulverized rock together. This runs upon blankets, which catch a portion of the gold; then it passes over a sloping surface, cut with horizontal crevices, filled with quicksilver, that catches all the gold it touches; then through a series of troughs and sluices, with occasional beds of quicksilver, and so on to a heap of wastes.",
+    "title": "The Underground World: A mirror of life below the surface",
+    "author": "Knox, Thomas Wallace, 1835-1896",
+    "gutenbergReference": "57441",
+    "hash": "c0183bb762ebede3b2e2de0d0699db046b5b0fb88291b5958afb0d8a427772b5"
+  },
+  {
+    "time": "07:50",
+    "quoteFirst": "Got back by early train, ",
+    "quoteTime": "7.50 A.M.",
+    "quoteLast": ", feeling poorly. Did not let Maud know of my hurt. Went to the dinner mentioned above, which was at the Vendôme.... Was taken in to dinner by the President, Mr. Fitz.",
+    "title": "Julia Ward Howe, 1819-1910",
+    "author": "Richards, Laura Elizabeth Howe, 1850-1943; Elliott, Maud Howe, 1854-1948; Hall, Florence Howe, 1845-1922",
+    "gutenbergReference": "38648",
+    "hash": "4c553f728a67e63c49f8452aec0f71b2689812975fcded6cef7206c8e825f41a"
+  },
+  {
+    "time": "07:50",
+    "quoteFirst": "The Muskelunge (_Esox Estor_) is peculiar to this basin, and is the largest of the pickerels, weighing from ",
+    "quoteTime": "ten to eight",
+    "quoteLast": "y pounds. It is a very handsome and game fish, and is the king, or tyrant, of the water, devouring without mercy everything smaller than itself; though its favorite food is the white-fish, which, perhaps, accounts for the superior flavor of this huge pike, which is one of the very best of fresh-water fishes.",
+    "title": "The Atlantic Monthly, Volume 07, No. 40, February, 1861\r\nA Magazine of Literature, Art, and Politics",
+    "author": "Various",
+    "gutenbergReference": "11117",
+    "hash": "313afe7c56aaded4432dfa6bb78b40684ebda08485f8ff63639fbd6441af8cb6"
   },
   {
     "time": "07:50",
@@ -41,162 +71,32 @@
   },
   {
     "time": "07:50",
-    "quoteFirst": "At ",
-    "quoteTime": "7.50 a.m.",
-    "quoteLast": " attack on the second objective began. The 9th Black Watch on the left held up by the Railway Triangle, so also were the 8/10th Gordons.",
-    "title": "The History of the 7th Battalion Queen's Own Cameron Highlanders",
-    "author": "Sandilands, James Walter; MacLeod, Norman, 1872-1960",
-    "gutenbergReference": "50301",
-    "hash": "f1f22e79679b90f63723476b6a18973de0cacd054572d2d778ecb40c47e5e291"
+    "quoteFirst": "We know practically nothing of the external appearance of these fishes, great and fierce though they may have been, with powerful jaws and armored heads, for they had no bony skeleton--as if they devoted their energies to preying upon their neighbors rather than to internal improvements. They attained a length of ",
+    "quoteTime": "ten to eight",
+    "quoteLast": "een feet, with a gape, in the large species called Titanichthys, of four feet, and such a fish might well be capable of devouring anything known to have lived at that early date.",
+    "title": "Animals of the Past",
+    "author": "Lucas, Frederic A. (Frederic Augustus), 1852-1929",
+    "gutenbergReference": "38013",
+    "hash": "ce5c61d916bf36ad06d521dd06e54feff80c16d4604858750c59c327a9702c89"
   },
   {
     "time": "07:50",
-    "quoteFirst": "She had passed this spot between 7.15 and ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": ". (_The bicycle tracks had passed over Johnny Milne's outgoing track of 7:15, but his returning footmarks of ten minutes to eight overtrod the cycle tracks, so they had been made since it passed._)",
-    "title": "Young Knights of the Empire : Their Code, and Further Scout Yarns",
-    "author": "Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron, 1857-1941",
-    "gutenbergReference": "6673",
-    "hash": "44687297673fb0ac27fec3665006fd13b15b0a4ea691a7c95b8fa9a2f30ad125"
+    "quoteFirst": "She paused to glance at the time.  \"",
+    "quoteTime": "Ten to eight",
+    "quoteLast": ", and you haven't washed the yard yet.  Don't sit there, George.  Get a move on.  You chauffeurs!\"  She fairly drove him about his business.",
+    "title": "Anthony Lyveden",
+    "author": "Yates, Dornford, 1885-1960",
+    "gutenbergReference": "27684",
+    "hash": "a0d9b630dd3cd598490b5513ebc1d710890f3edb8e64287d2f7b2b74e616014c"
   },
   {
     "time": "07:50",
-    "quoteFirst": "15 A.M., that the 10th H.L.I. were asking for reinforcements. As it was also known at ",
-    "quoteTime": "7.50 A.M.",
-    "quoteLast": " that the attack of the Second Division on the left had failed, there was no longer any reason to doubt that the brigade had experienced a serious check. Anxiety about the situation on the front of the 28th Brigade had an unsettling effect on the plans of the Division.",
-    "title": "The history of the 9th (Scottish) Division, 1914-1919",
-    "author": "Ewing, John, M.C.; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator]",
-    "gutenbergReference": "75001",
-    "hash": "7ebc59d3928172169f7fb0a3bb59dcd7f386cf7ac81230aa4cc8e69dcd149d20"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "Those executed on the second day are shown in Fig. 143. The obliquity of the several lines is due partly to the manner in which the leaflet was viewed, and partly to its having moved a little towards the light. From ",
-    "quoteTime": "7.50 A.M.",
-    "quoteLast": " to 8.40 A.M.",
-    "title": "The Power of Movement in Plants",
-    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
-    "gutenbergReference": "5605",
-    "hash": "4cbba16d1ea713e9a9fb05edf91f07de4462ab2d7be633ac9d5f5a261476aba5"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "He dressed as well as he could under considerable disadvantages; and a rumbling old landau, which had the local odour, conveyed him to Medlow Court much quicker than he could have supposed possible from his casual survey of the horse. It was ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": " when he entered Lady Burdenshaw’s drawing-room.",
-    "title": "The day will come",
-    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
-    "gutenbergReference": "70938",
-    "hash": "d9ea9863f45eb7b62e0fe1ac0a9b1fcbcf14008a0ef11bce992cad078e3238b8"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "\"I once knew a man who dined at ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": ",\" she said, \"which struck me as extremely curious. He was an archdeacon. I believe all archdeacons dine at ten minutes to eight. And they call it a quarter to, which is even odder.\"",
-    "title": "Mammon and Co.",
-    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
-    "gutenbergReference": "40797",
-    "hash": "26f9e3305ef7e2cce04c2be92aa9626e50fbf01264eb3530b0715698a8241181"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "Totteridge had not been dead a year.  \"",
-    "quoteTime": "Ten minutes to eight",
-    "quoteLast": "!  You keep me talking here; it's time I was in my bath.\"",
-    "title": "Complete Project Gutenberg John Galsworthy Works",
-    "author": "Galsworthy, John, 1867-1933",
-    "gutenbergReference": "3254",
-    "hash": "89be86d8ab16684ab96b4e9213ccdf5e981ff26b235cddcbc8998b7cee742705"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "\"Where on earth can she be?\" exclaimed Mrs. Clinton. Punctuality at meals being so rigidly observed it was unprecedented that Cicely should not have begun to dress at a quarter to eight. At ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": " Mrs. Clinton was convinced that some accident had befallen her. At five minutes to, she tapped at the door of the Squire's dressing-room.",
-    "title": "The Squire's Daughter: Being the First Book in the Chronicles of the Clintons",
-    "author": "Marshall, Archibald, 1866-1934",
-    "gutenbergReference": "31381",
-    "hash": "67a2a942877a0689c3833c018a40b2e12d125a42b66fc75aa1a8099695e2ee73"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "“Ah!” But he refrained from adding, “Your people!” for Hubert Totteridge had not been dead a year. “",
-    "quoteTime": "Ten minutes to eight",
-    "quoteLast": "! You keep me talking here; it's time I was in my bath.”",
-    "title": "The Country House",
-    "author": "Galsworthy, John, 1867-1933",
-    "gutenbergReference": "2772",
-    "hash": "85985e675c740d3ff07917476b32b6975f14626d75baf67290111167712896a8"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "He tossed the paper upon the floor again and sat there, pulling at his beard and glancing impatiently at the clock. Its gold plated hands crept from seven to seven-thirty and, at last, to ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": ". Then he rose and moved toward the front hall.",
-    "title": "The Big Mogul",
-    "author": "Lincoln, Joseph Crosby, 1870-1944",
-    "gutenbergReference": "68048",
-    "hash": "f40e679e6234fc83783dddaec2264bf33878878ff1aa60eae8c013516c067bec"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "At ",
-    "quoteTime": "7.50 a.m.",
-    "quoteLast": " on the 6th the 55th Brigade was by arrangement squeezed out, as it was termed, and so had finished its long fighting record. The Buffs marched back to Preux tired and very cold and wet, for the weather throughout these operations had been bad.",
-    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
-    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
-    "gutenbergReference": "73159",
-    "hash": "de79fd3217bf41751dfd34cac578ada150c51286d456651012d789e0e7fc174e"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "But at ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": " came what appeared to be a terrific earthquake.",
-    "title": "The young naval captain",
-    "author": "Stratemeyer, Edward, 1862-1930",
-    "gutenbergReference": "75394",
-    "hash": "67c47062cfa6c6a897a3e566e3e9b52814b9581bfba59652ba537c072f5b9460"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "\"I went,\" Sir Moses writes in his Diary, \"to the railway station, and at ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": " his Highness arrived. He immediately got into our carriage, and, as we were driving off, the Turkish Ambassador came to receive him and followed us to Park Lane. The Pasha was attended by Mr Zohrab, Mr Galloway, two physicians--Dr Gaëtani Bey and Dr G.",
-    "title": "Diaries of Sir Moses and Lady Montefiore, Volume 2 (of 2)\r\nComprising Their Life and Work as Recorded in Their Diaries, from 1812 to 1883",
-    "author": "Montefiore, Moses, Sir, 1784-1885; Montefiore, Judith Cohen, Lady, 1784-1862; Loewe, Louis, 1809-1888 [Editor]",
-    "gutenbergReference": "52779",
-    "hash": "3c9f55016c0dfbf4605d3fb05d0bb24e136632e260dd1a0632881b5263f230a4"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "Ogilvie, who, with all his knowledge of the world, and of wines and cookery, and women, and what not, had sometimes an uneasy consciousness that his companion was laughing at him, here proposed that they should have a cigar before walking up to the Piccadilly Theatre; but as it was now ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": ", Macleod resolutely refused. He begged to be considered a country person, anxious to see the piece from the beginning. And so they put on their light top-coats over their evening dress and walked up to the theatre.",
-    "title": "Macleod of Dare",
-    "author": "Black, William, 1841-1898",
-    "gutenbergReference": "15587",
-    "hash": "d9f15b7370f317729546c8bc884cad268b3d5200134188ea6fa074c1b3c6cf9c"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "1. A hostile division weak in cavalry is advancing from the southwest in two columns. Heads of columns at ",
-    "quoteTime": "7:50 a. m.",
-    "quoteLast": " were at GERMANTOWN and TWO TAVERNS.",
-    "title": "Technique of modern tactics",
-    "author": "Bond, P. S. (Paul Stanley), 1879-1955; McDonough, Michael Joseph, 1877-1921",
-    "gutenbergReference": "77863",
-    "hash": "887a81d7d2f04f8be6838a953a6d134179fea51a72d5273e92dad32520ffceee"
-  },
-  {
-    "time": "07:50",
-    "quoteFirst": "But at ",
-    "quoteTime": "ten minutes to eight",
-    "quoteLast": " came what appeared to be a terrific earthquake.",
-    "title": "The young naval captain",
-    "author": "Stratemeyer, Edward, 1862-1930",
-    "gutenbergReference": "75394",
-    "hash": "67c47062cfa6c6a897a3e566e3e9b52814b9581bfba59652ba537c072f5b9460"
+    "quoteFirst": "The ground color of the exterior ranges through various shades from yellowish brown to very dark brown. Its characteristic markings consist of from ",
+    "quoteTime": "ten to eight",
+    "quoteLast": "een radial rows of white and yellow spots, running from the umbo, or hinge, to the margin.",
+    "title": "The Book of the Pearl\nThe history, art, science, and industry of the queen of gems",
+    "author": "Kunz, George Frederick, 1856-1932; Stevenson, Charles Hugh, 1869-1943",
+    "gutenbergReference": "63299",
+    "hash": "b23f334a77ab9f564d2906cd8f8371fd956bd0043a32857017904ec3e2dbd984"
   }
 ]

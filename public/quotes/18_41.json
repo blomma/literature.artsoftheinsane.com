@@ -1,6 +1,26 @@
 [
   {
     "time": "18:41",
+    "quoteFirst": "[296] Though the Bill for declaring war was passed by the House of Representatives by seventy-nine to forty-nine, the votes in the Senate in favour of war were only ",
+    "quoteTime": "nineteen to seven",
+    "quoteLast": "teen (see Holmes’ ‘American Annals,’ vol. i. p. 448; and ‘American Diplomacy,’ p. 235.)",
+    "title": "History of merchant shipping and ancient commerce, Volume 2 (of 4)",
+    "author": "Lindsay, W. S. (William Schaw), 1816-1877",
+    "gutenbergReference": "73949",
+    "hash": "5c5a8080fbb0367bca9d472abef86ce4786a26d2b7925e0a491d327fe6ba09f8"
+  },
+  {
+    "time": "18:41",
+    "quoteFirst": "The nine Federalists alone opposed his motion, which was at length adopted by a majority of two to one. By a vote of ",
+    "quoteTime": "nineteen to seven",
+    "quoteLast": " Judge Pickering was declared “guilty as charged” in the articles of impeachment; and by a vote of twenty to six the Senate resolved that he ought to be removed from office.",
+    "title": "History of the United States of America, Volume 2 (of 9)",
+    "author": "Adams, Henry, 1838-1918",
+    "gutenbergReference": "72499",
+    "hash": "50cf2a19a4f615ae24816acdf2fa5e3f3f47e1f213ec41db2d79d7da4095e6cd"
+  },
+  {
+    "time": "18:41",
     "quoteFirst": "Killaloe at 6.10 p.m. for Castleconnell, arriving at ",
     "quoteTime": "6.41 p.m.",
     "quoteLast": "; or take car from Hotel to meet the 8.15 a.m. Steamer at Killaloe for Portumna, return by down Steamer to Killaloe, thence by 6.10 p.m. Train for Castleconnell. This Cruise embraces the whole length of Lough Derg, and affords a grand combination of lake and mountain scenery.",
@@ -8,5 +28,15 @@
     "author": "O'Mahony, John, 1816-1877; Praeger, R. Lloyd (Robert Lloyd), 1865-1953 [Contributor]",
     "gutenbergReference": "19329",
     "hash": "a5dd108c7191759d40d8188d1529d0e955918cbf2b336ed9aead6205911e36f3"
+  },
+  {
+    "time": "18:41",
+    "quoteFirst": "Madison, however, did not readily desist from his purpose, and a few months later, June 26, he sent a message to the Senate, stating that the considerations previously leading him to nominate a minister to Russia had since been strengthened, and again naming Mr. Adams for the post. This time the nomination was confirmed with readiness, by a vote of ",
+    "quoteTime": "nineteen to seven",
+    "quoteLast": ", Mr. Pickering, of course, being one of the still hostile minority.",
+    "title": "John Quincy Adams\nAmerican Statesmen Series",
+    "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+    "gutenbergReference": "20183",
+    "hash": "0ab83708afec5d58de122dadc48f034a0ec0d7d0d57cde74b472d9f601915515"
   }
 ]

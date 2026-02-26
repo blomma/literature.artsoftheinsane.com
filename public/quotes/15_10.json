@@ -1,202 +1,102 @@
 [
   {
     "time": "15:10",
-    "quoteFirst": "\"I'd given you up,\" she answered. \"It's ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": ".\"",
-    "title": "The Transgression of Andrew Vane: A Novel",
-    "author": "Carryl, Guy Wetmore, 1873-1904",
-    "gutenbergReference": "38020",
-    "hash": "e0d5cf1dbd0327cfa74ad26ccafed6b1213f56faacc3f43a0ededa4e8e709ed6"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": ", flow of liquid ceased, veins were engorged and bled freely, injection was continued by means of a syringe; 2 cc 2 per cent caffein injected in two minutes; injections discontinued as convulsions appeared; 2.50 p. m., rabbit raised itself but fell over; ",
-    "quoteTime": "3.10 p. m.",
-    "quoteLast": ", rabbit assumed normal attitude, walked about the floor without manifesting any signs of the effects of caffein; 4.30 p. m., walked about, gait normal, condition seemed to be good.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
-    "hash": "ce6887673c1f4b1fc82940c0c908f285cc7c92752f1305d2004108e4cf6dbabd"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "By ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": " the various documents were sealed and signed.",
-    "title": "The Airship \"Golden Hind\"",
-    "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Williams, Fleming [Illustrator]",
-    "gutenbergReference": "39488",
-    "hash": "cebdfa0fde1e2f3396dfdca0cd8f065a3d925418b8ee50201db158c1aab1fc77"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "6. At ",
-    "quoteTime": "3.10 p.m.",
-    "quoteLast": " the remainder of the column will advance on the southern end of Magersfontein ridge, keeping well under shelter of Outpost ridge (concealed from view of enemy) in following order:",
-    "title": "History of the War in South Africa 1899-1902 v. 1 (of 4)\nCompiled by Direction of His Majesty's Government",
-    "author": "Great Britain. War Office; Maurice, John Frederick, 1841-1912 [Compiler]",
-    "gutenbergReference": "28158",
-    "hash": "e300e1eb05f2eb7747027c24cf99853ac23d2b011e23527a5347e5df20196d1b"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "_",
-    "quoteTime": "3.10 p.m.",
-    "quoteLast": "_ The French are here. They came in in fine style, like conquerors; one man first, riding, his hand on his hip. The German sentries who had been posted to protect us wounded walked down and surrendered their bayonets. The German doctors came to us for help.",
-    "title": "Mons, Anzac and Kut",
-    "author": "Herbert, Aubrey, 1880-1923",
-    "gutenbergReference": "54312",
-    "hash": "e3aac04cbf494e0c42c6877ed6b66a0dda073453c4cf367303ce25de5e0b69ae"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "\"Why,\" they said, \"if this fellow goes on in this way he will make punctuality a kind of obligation, with penalties for failure. Whereas at present, if the ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": " train steams gently out at twenty minutes to four, or even four o'clock, we do not fall much in the esteem of the public, accustomed to the free and easy methods of the stage-coach.\"",
-    "title": "The Strand Magazine, Vol. 27, February 1904, No. 159.",
-    "author": "Various",
-    "gutenbergReference": "47642",
-    "hash": "9d7fe811c405bde2a273e6f2f9bd761dc86e70811ab2021aac1473c17b90d8d7"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "Yet though all her heart leaped forward, it did not accelerate her actual movements; the four-wheeler also was rather slow, and it was some ",
-    "quoteTime": "ten minutes after three",
-    "quoteLast": " when she arrived at the door of the studio in the King's Road. Just beyond it was drawn up a motor-car, beside which stood a footman.",
-    "title": "The Angel of Pain",
-    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
-    "gutenbergReference": "44210",
-    "hash": "efaa96f6bc8cbb835d7493b15d4ab32fb2b6a64ddd07774cf78d0f6ba7fc2763"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "At precisely ",
-    "quoteTime": "ten minutes past three in the afternoon",
-    "quoteLast": " of the 17th of March an 18-h.p. White steam car glided out of Kingly Street, Regent Street. At ten minutes to four, without any undue haste in driving, it was out in the open country at Ponder's End, the route taken being by way of York Road (hard by King's Cross Station) and Seven Sisters Road.",
-    "title": "Through East Anglia in a Motor Car",
-    "author": "Vincent, James Edmund, 1857-1909; Southgate, Frank, 1872-1916 [Illustrator]",
-    "gutenbergReference": "38938",
-    "hash": "13b1a1d2885073bc96b45a9738fddeee7b6ff96f5fe164a01c1376aca9133d08"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "Meanwhile the Brigade was gradually being compelled to give ground and, owing to its lack of bombs, to loose its slender hold on the enemy's positions. At about 2 p.m. the remnants of the Rangers, together with a few 1/4th Londons and some Queen Victorias from the 169th Brigade on the left, were driven into Fate, where they made a last determined stand; but at ",
-    "quoteTime": "3.10 p.m.",
-    "quoteLast": " they were finally ejected from the German lines and withdrew to the British trenches.",
-    "title": "The War History of the 4th Battalion, the London Regiment (Royal Fusiliers), 1914-1919",
-    "author": "Grimwade, F. Clive",
-    "gutenbergReference": "50098",
-    "hash": "54840ba0426f69db6eaaf69e0080e4f9279f9e47eca4892b4fa154a78af93865"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "",
-    "quoteTime": "3.10p.m.",
-    "quoteLast": " 29.14 100    -     -     -25    In big tent, which was again blown down.",
-    "title": "The Land of Midian (Revisited) — Volume 2",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "7113",
-    "hash": "65697b3e3a1a5f2d2f2a1bff4c954f64e48b7a71fe0ccc9bae24efa4ed03476d"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "Seemingly I had slept but a few minutes when, opening my eyes, I saw Madeleine standing, fully dressed, by the side of my couch, and looking down at me.  \"It's ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": ",\" she said.  \"I hate to wake you, but--\"",
-    "title": "People Like That: A Novel",
-    "author": "Bosher, Kate Langley, 1865-1932",
-    "gutenbergReference": "12972",
-    "hash": "60a21612710b35867725b8c5f12cb185ab35645cbdf1c96c79ce9bb6ef30a4fd"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "It was ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": ". On the path by the river near Fisher’s Lock stood Mr. March with a red carnation in his button hole. Concealed in a tree just above his head were Ginger, Douglas, William and Joan.",
-    "title": "Still—William",
-    "author": "Crompton, Richmal, 1890-1969; Henry, Thomas, 1879-1962 [Illustrator]",
-    "gutenbergReference": "67238",
-    "hash": "89221996ac171a44d366dcb8d39f272528febe5851bbedaa768af055a3c9660d"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "6. At ",
-    "quoteTime": "3.10 p.m.",
-    "quoteLast": " the remainder of the column will advance on the southern end of Magersfontein ridge, keeping well under shelter of Outpost ridge (concealed from view of enemy) in following order:",
-    "title": "History of the War in South Africa 1899-1902 v. 1 (of 4)\nCompiled by Direction of His Majesty's Government",
-    "author": "Great Britain. War Office; Maurice, John Frederick, 1841-1912 [Compiler]",
-    "gutenbergReference": "28158",
-    "hash": "e300e1eb05f2eb7747027c24cf99853ac23d2b011e23527a5347e5df20196d1b"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "Jour-Athies line in good time, and at ",
-    "quoteTime": "3.10 P.M.",
-    "quoteLast": " passing through the Ninth pressed on to the Green Line, which they secured easily and swiftly.",
-    "title": "The history of the 9th (Scottish) Division, 1914-1919",
-    "author": "Ewing, John, M.C.; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator]",
-    "gutenbergReference": "75001",
-    "hash": "d49a62cf38c27a2fa73d72763bc3dde81c4df5ce614ed1f14d04262ebc8c57d7"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "Yet though all her heart leaped forward, it did not accelerate her actual movements; the four-wheeler also was rather slow, and it was some ",
-    "quoteTime": "ten minutes after three",
-    "quoteLast": " when she arrived at the door of the studio in the King's Road. Just beyond it was drawn up a motor-car, beside which stood a footman.",
-    "title": "The Angel of Pain",
-    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
-    "gutenbergReference": "44210",
-    "hash": "efaa96f6bc8cbb835d7493b15d4ab32fb2b6a64ddd07774cf78d0f6ba7fc2763"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "It was eight minutes to three when the Arabs made their first rush, and it was just ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": " when the enemy was finally repelled and the bugle sounded \"Cease firing.\"  Yet into these pregnant eighteen minutes all that we have described, and a vast deal more, was crowded.",
-    "title": "Blue Lights: Hot Work in the Soudan",
-    "author": "Ballantyne, R. M. (Robert Michael), 1825-1894",
-    "gutenbergReference": "21719",
-    "hash": "4515a0998d08f25465cdda15632a9f49656a2ac78b02e223f3eefc089c57c016"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "\"Splice between shore cable and main cable completed on board of the _Great Eastern_ at ",
-    "quoteTime": "3.10 P.M.",
-    "quoteLast": " 3.50 Greenwich time the telegraph fleet started for Newfoundland.",
-    "title": "Cyrus W. Field, His Life and Work [1819-1892]",
-    "author": "Judson, Isabella Field, 1846- [Editor]",
-    "gutenbergReference": "43753",
-    "hash": "5c5813cffc474a0123b4a62cac4925bfbdc2983413cd7cfb104504ae20c63f9f"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "Furious street fighting now ensued, and the Bavarians having to deal with every house became greatly disorganised. Taking advantage of this the British and French commanders sent forward fresh masses into the line, trying to turn the balance in their favour at this important point by employing every available man. It was ",
-    "quoteTime": "3.10 P.M.",
-    "quoteLast": " when a cry for help reached the Pomeranian (3rd) Division from their Bavarian neighbours, and it was not uttered in vain. Shortly before, the Stettin Grenadier Regiment had captured the long-coveted high ground south-west of WYTSCHAETE, the struggle for a large farmhouse on it having been especially severe.",
-    "title": "Ypres 1914: An Official Account Published by Order of the German General Staff",
-    "author": "Schwink, Otto; Wynne, G. C. (Graeme Chamley), 1889- [Translator]",
-    "gutenbergReference": "44234",
-    "hash": "9df4b817e086f8c65d1bda2a3aeaea0ddd5df91a63fe58af69151b3b80d6401a"
-  },
-  {
-    "time": "15:10",
-    "quoteFirst": "\"I'd given you up,\" she answered. \"It's ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": ".\"",
-    "title": "The Transgression of Andrew Vane: A Novel",
-    "author": "Carryl, Guy Wetmore, 1873-1904",
-    "gutenbergReference": "38020",
-    "hash": "e0d5cf1dbd0327cfa74ad26ccafed6b1213f56faacc3f43a0ededa4e8e709ed6"
-  },
-  {
-    "time": "15:10",
     "quoteFirst": "At ",
-    "quoteTime": "3.10 P.M.",
-    "quoteLast": " the Kearsarge anchored in Cherbourg harbor; the wounded were transferred the same evening to the Hôpital de la Marine, and all the prisoners, officers excepted, were paroled and set on shore before sunset. The crew of both vessels harmonized after the fight, the conquerors sharing their clothes, supper, and grog with the conquered.",
-    "title": "The Story of the Kearsarge and Alabama",
-    "author": "Browne, A. K.",
-    "gutenbergReference": "26783",
-    "hash": "0c730804e655708027d11c679a6f874c9c19a137f783128fed617630a613917c"
+    "quoteTime": "ten minutes past three",
+    "quoteLast": " in the morning we left Madame Hutin's house.",
+    "title": "My Memoirs, Vol. IV, 1830 to 1831",
+    "author": "Dumas, Alexandre, 1802-1870; Waller, E. M. (Emily Mary) [Translator]",
+    "gutenbergReference": "50630",
+    "hash": "6ee89de5fe8282b221bc7a3ea5d8d339fe03839079a58996ad60ee88350e093d"
+  },
+  {
+    "time": "15:10",
+    "quoteFirst": "The beat was along a deep gorge in the hills, flanked on either crest by stone walls, manned with beaters. Immediately opposite the shooting-box, the wall on the upper or higher hill made a sharp turn downhill, contracting the space through which the pig would have to pass to a gut which was variously said to be from one hundred and ",
+    "quoteTime": "fifty to four",
+    "quoteLast": " hundred yards across. Most of the shooting was up or down hill.",
+    "title": "From Sea to Sea; Letters of Travel",
+    "author": "Kipling, Rudyard, 1865-1936",
+    "gutenbergReference": "32977",
+    "hash": "ceb4a3c12018a1c04aeaf9b18415bd2ab99c95c29e0c3b64f29530a59ee83af6"
+  },
+  {
+    "time": "15:10",
+    "quoteFirst": "One evening, after a month’s attendance, when the class had dwindled from ",
+    "quoteTime": "fifty to four",
+    "quoteLast": ", and the teacher began scolding us who were present for those who were absent, my bitterness broke.",
+    "title": "The American Spirit in the Writings of Americans of Foreign Birth",
+    "author": "Stauffer, Robert Elihu, 1884- [Editor]",
+    "gutenbergReference": "62103",
+    "hash": "75f2ef07d3fb0b08a7f56b8ccb4422039cd4cf6956655cc44d5031fdd8e27043"
+  },
+  {
+    "time": "15:10",
+    "quoteFirst": "The observations, according to W. de Tonnelle's article in \"Nature,\" for the 28th of March, 1874, were most fatiguing for the astronomers, for they began at twenty-one minutes after nine in the morning, and only terminated at ",
+    "quoteTime": "ten minutes after three in the afternoon",
+    "quoteLast": ", at which moment the heat was stifling. The thermometer registered 120 degrees Fahrenheit.",
+    "title": "Celebrated Travels and Travellers, Part 2.\r\nThe Great Navigators of the Eighteenth Century",
+    "author": "Verne, Jules, 1828-1905; Benett, Léon, 1838-1917 [Illustrator]; Matthis, Charles Émile, 1838- [Illustrator]; Philippoteaux, Paul, 1846-1923 [Illustrator]",
+    "gutenbergReference": "25784",
+    "hash": "0a398ef50289b64aafc4e26689121d93e3f4aecffc3c3125e90390574e789c8e"
+  },
+  {
+    "time": "15:10",
+    "quoteFirst": "The direct influence of the Commission may be gauged by the fact that within ten years of this date Miss Buss was able to make a list of forty-five new endowed schools for girls, to contain severally from ",
+    "quoteTime": "fifty to four",
+    "quoteLast": " hundred pupils, with salaries for the head-mistresses varying from £100 a year to £200 (exclusive of capitation fees). Of this list she remarks—",
+    "title": "Frances Mary Buss and her work for education",
+    "author": "Ridley, Annie E., 1839-1923",
+    "gutenbergReference": "60820",
+    "hash": "18807d3683269df7eb3ff89850cd5224f96fc91368d6731c4396b871224a7725"
+  },
+  {
+    "time": "15:10",
+    "quoteFirst": "One evening, after a month's attendance, when the class had dwindled from ",
+    "quoteTime": "fifty to four",
+    "quoteLast": ", and the teacher began scolding us who were present for those who were absent, my bitterness broke.",
+    "title": "Modern Essays and Stories\r\nA book to awaken appreciation of modern prose, and to develop ability and originality in writing",
+    "author": "Law, Frederick Houk, 1871-1957 [Editor]",
+    "gutenbergReference": "66831",
+    "hash": "af4dae7646ebecc3ae2a4f8e31fba8677394659f40826edaa234f3a178d17875"
+  },
+  {
+    "time": "15:10",
+    "quoteFirst": "The picture is a good instance of this painter's method of representing water. He \"covers the whole space of it with one monotonous ripple, composed of a coat of well-chosen, but perfectly opaque and smooth sea-green, covered with a certain number--I cannot state the exact average, but it varies from three hundred and ",
+    "quoteTime": "fifty to four",
+    "quoteLast": " hundred and upwards, according to the extent of canvas to be covered, of white concave touches, which are very properly symbolical of ripple[207].... If it be but remembered that every one of the surfaces of those multitudinous ripples is in nature a mirror which catches, according to its position, either the image of the sky, or of the silver beaks of the gondolas, or of their black bodies and scarlet draperies, or of the white marble, or the green sea-weed on the low stones, it cannot but be felt that those waves would have something more of colour upon",
+    "title": "A Popular Handbook to the National Gallery, Volume I, Foreign Schools\r\nIncluding by Special Permission Notes Collected from the Works of John Ruskin",
+    "author": "Cook, Edward Tyas, Sir, 1857-1919 [Compiler]; National Gallery (Great Britain) [Contributor]; Ruskin, John, 1819-1900 [Contributor]",
+    "gutenbergReference": "45737",
+    "hash": "e3445791f51c2fb6d0dd16c0072eb5006d693018840b641204e2e73f62415ae3"
+  },
+  {
+    "time": "15:10",
+    "quoteFirst": "The industry which has been excited by opening these facilities in procuring timber, and the impetus which it has afforded to trade, may be estimated by this fact, that within the last few years have been launched no less than ten to twelve square-rigged vessels, of from one hundred and ",
+    "quoteTime": "fifty to four",
+    "quoteLast": " hundred tons, and that many more of larger dimensions were about to be built, when the restoration of the colony was announced.",
+    "title": "The History of Java, v. 1-2",
+    "author": "Raffles, Thomas Stamford, Sir, 1781-1826",
+    "gutenbergReference": "49843",
+    "hash": "28bebdb9d56b1faef7bffffae00fafd8aa0aa2e8b50bfad18724010d298e73f6"
+  },
+  {
+    "time": "15:10",
+    "quoteFirst": "Ontario, thus saving from three hundred and ",
+    "quoteTime": "fifty to four",
+    "quoteLast": " hundred miles of navigation. In view of the fact that the navigation of St. Clair and Erie is the most troublesome and dangerous part of the voyage, this plan certainly deserves attention.",
+    "title": "The Atlantic Monthly, Volume 07, No. 40, February, 1861\r\nA Magazine of Literature, Art, and Politics",
+    "author": "Various",
+    "gutenbergReference": "11117",
+    "hash": "0084adfcb3b9beabc0cb09dd311005dceb7d60725a463ff0b0dea23949531267"
+  },
+  {
+    "time": "15:10",
+    "quoteFirst": "6. At ",
+    "quoteTime": "3.10 p.m.",
+    "quoteLast": " the remainder of the column will advance on the southern end of Magersfontein ridge, keeping well under shelter of Outpost ridge (concealed from view of enemy) in following order:",
+    "title": "History of the War in South Africa 1899-1902 v. 1 (of 4)\nCompiled by Direction of His Majesty's Government",
+    "author": "Great Britain. War Office; Maurice, John Frederick, 1841-1912 [Compiler]",
+    "gutenbergReference": "28158",
+    "hash": "e300e1eb05f2eb7747027c24cf99853ac23d2b011e23527a5347e5df20196d1b"
   }
 ]

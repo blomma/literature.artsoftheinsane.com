@@ -1,6 +1,26 @@
 [
   {
     "time": "00:39",
+    "quoteFirst": "It gives us great pleasure to advise our friends that the sixth volume of The Mentor Library is now ready for distribution. It contains issues one hundred ",
+    "quoteTime": "twenty-one to one",
+    "quoteLast": " hundred forty-four inclusive, and is, in every particular, uniform with the volumes previously issued.",
+    "title": "The Mentor: Italy Under War Conditions, Vol. 6, Num. 23, Ser. No. 171, January 15, 1919",
+    "author": "Newman, E. M. (Edward Manuel), 1870-1953",
+    "gutenbergReference": "44983",
+    "hash": "909abdbc7da250941c5db7a6444d1e13911b2bd42092045e37de158f057259f3"
+  },
+  {
+    "time": "00:39",
+    "quoteFirst": "CLEM. [_reading, seizes her hand and kisses it_]. Horner's certain about his pick and doubly certain about mine; Waterloo five to one; Barometer ",
+    "quoteTime": "twenty-one to one",
+    "quoteLast": "; Busserl seven to one; Attila sixteen to one.",
+    "title": "Fifty Contemporary One-Act Plays",
+    "author": "Shay, Frank, 1888-1954 [Editor]; Loving, Pierre, 1893- [Editor]",
+    "gutenbergReference": "36984",
+    "hash": "b9946ce551cfb8aa2a2a644d83101c8edfda9c25afe1d8984f5f3d94cb183813"
+  },
+  {
+    "time": "00:39",
     "quoteFirst": "Next, he remembered that the morrow of Christmas would be the twenty-seventh day of the moon, and that consequently high water would be at twenty-one minutes past three, the half-ebb at a quarter past seven, low water at thirty-three minutes past nine, and half flood at ",
     "quoteTime": "thirty-nine minutes past twelve",
     "quoteLast": ". He recalled, in the most trifling details, the costume of the Highlander who had sold him the bagpipe; his bonnet with a thistle ornament, his claymore, his close-fitting short jacket, his philabeg ornamented with a pocket, and his snuff-horn, his pin set with a Scottish stone, his two girdles, his sash and belts, his sword, cutlass, dirk, and skene-dhu--his black-sheathed knife, with its black handle ornamented with two cairngorms--and the bare knees of the soldier; his socks, gaiters, and buckled shoes.",
@@ -21,6 +41,16 @@
   },
   {
     "time": "00:39",
+    "quoteFirst": "It contains issues one hundred ",
+    "quoteTime": "twenty-one to one",
+    "quoteLast": " hundred forty-four inclusive, and is, in every particular, uniform with the volumes previously issued.",
+    "title": "The Mentor: Guynemer, The Wingèd Sword of France, Vol. 6, Num. 18, Serial No. 166, November 1, 1918",
+    "author": "Cook, Howard W. (Howard Willard), 1890-1959",
+    "gutenbergReference": "49455",
+    "hash": "a8a0294858e705d6d174803e8b8c98986d324eb873e1ad2731e9d5cc8f25f8ad"
+  },
+  {
+    "time": "00:39",
     "quoteFirst": "Peru is situated on the west coast of South America and extends from 3 degrees ",
     "quoteTime": "21 minutes to 1",
     "quoteLast": "8 degrees south latitude and from 70 degrees to 81 degrees 40 minutes west longitude. Its area, including certain disputed territory, is 676,638 square miles.",
@@ -28,5 +58,35 @@
     "author": "Rolph, George M. (George Morrison), 1873-1932",
     "gutenbergReference": "73616",
     "hash": "0636161aa5c1f2e82566325fd3fe3835fa389a084d85bfb18d96f7f8111a404a"
+  },
+  {
+    "time": "00:39",
+    "quoteFirst": "It contains issues one hundred ",
+    "quoteTime": "twenty-one to one",
+    "quoteLast": " hundred forty-four inclusive, and is, in every particular, uniform with the volumes previously issued.",
+    "title": "The Mentor: Reclaiming the Desert, Vol. 6, Num. 17, Serial No. 165, October 15, 1918",
+    "author": "Blanchard, C. J. (Clarence John), 1863-1945",
+    "gutenbergReference": "49454",
+    "hash": "e06ef40b681e5e79788265ef891b22bf673cb07bcfee121e447b15aa9a54a5b0"
+  },
+  {
+    "time": "00:39",
+    "quoteFirst": "It gives us much pleasure to advise our friends that the sixth volume of The Mentor Library is now ready for delivery. It contains numbers one hundred and ",
+    "quoteTime": "twenty-one to one",
+    "quoteLast": " hundred and forty-four inclusive, and is, in every particular, uniform with the volumes now owned by our members.",
+    "title": "The Mentor: Makers of American Fiction, Vol. 6, Num. 14, Serial No. 162, September 1, 1918",
+    "author": "Maurice, Arthur Bartlett, 1873-1946",
+    "gutenbergReference": "49239",
+    "hash": "d9b302116d7a65696b61a2d6d7a134f3510f1a78b933d871e07941cb96bfeeb8"
+  },
+  {
+    "time": "00:39",
+    "quoteFirst": "He gave as the causes of high mortality, first, working in a cramped or constrained attitude; second, exposure to the action of poisonous or irritating substances; third, excessive work, mental or physical; fourth, working in confined or foul air; fifth, the use of strong drink; sixth, differences in liability to fatal accidents; seventh, exposure to the inhalation of dust.  The deaths of those engaged in alcoholic industries were as one thousand five hundred and ",
+    "quoteTime": "twenty-one to one",
+    "quoteLast": " thousand of the average of all trades.",
+    "title": "Pushing to the Front",
+    "author": "Marden, Orison Swett, 1848-1924",
+    "gutenbergReference": "21291",
+    "hash": "aca034d617619cad9de48bab07f33979d3584a9627c9ea195d313ad179a125b9"
   }
 ]

@@ -1,6 +1,36 @@
 [
   {
     "time": "14:11",
+    "quoteFirst": "3 Less hazardous 4 Males 5 Debated 6 Brads 7 Deceit 8 Bear 9 Regret 10 Broom ",
+    "quoteTime": "11 After 2",
+    "quoteLast": " Vertical 12 German city 14 Egyptian goddess 16 Speak 18 Annoyer 21 Interfere 23 Biting 25 Ordinary 27 Old fashioned clocks",
+    "title": "The cross word puzzle book: Second series",
+    "author": "Buranelli, Prosper, 1890-1960 [Editor]; Farrar, Margaret Petherbridge, 1897-1984 [Editor]; Hartswick, F. Gregory (Frederic Gregory), 1891- [Editor]",
+    "gutenbergReference": "68681",
+    "hash": "df5ae2f87c5dd05ff5b7a74cf7412df1b565e24e468832b298f20b64911ae7c9"
+  },
+  {
+    "time": "14:11",
+    "quoteFirst": "Surrey's offer of a place in their ",
+    "quoteTime": "Eleven after two",
+    "quoteLast": " years' qualification by residence, decided to remain with the county which had given him his first chance.",
+    "title": "The Wonder",
+    "author": "Beresford, J. D. (John Davys), 1873-1947",
+    "gutenbergReference": "27188",
+    "hash": "f31ad11055431fcb52fa517a7c180b4fdea054971270dd3ed1deeabf42648e4a"
+  },
+  {
+    "time": "14:11",
+    "quoteFirst": "P.M., the sixteenth, and one A.M., the seventeenth, ",
+    "quoteTime": "two eleven P.M.",
+    "quoteLast": "",
+    "title": "The Heroic Record of the British Navy: A Short History of the Naval War, 1914-1918",
+    "author": "Hurd, Archibald, 1869-1959; Bashford, H. H. (Henry Howarth), Sir, 1880-1961",
+    "gutenbergReference": "47248",
+    "hash": "abdd838cc5692a405f5cce3105a9d63e315f2b0dd1bdc4cfc5f26d017832421c"
+  },
+  {
+    "time": "14:11",
     "quoteFirst": "After rounding the corner of England he was assisted by the light southerly wind. The first control, Ramsgate, 144 miles from the start, was reached at ",
     "quoteTime": "2.11 p.m.",
     "quoteLast": ", an average speed of 60 miles per hour having been kept up. While passing Margate, Harry saw a Blériot monoplane rising to greet him. This was M.",
@@ -8,5 +38,15 @@
     "author": "Hawker, Muriel; Moore-Brabazon, John Theodore Cuthbert, 1884-1964 [Author of introduction, etc.]",
     "gutenbergReference": "64793",
     "hash": "5ebe5f406e8aa7754f2cabfd7bffd523f25f69681b8835822c54dd4d0b41d273"
+  },
+  {
+    "time": "14:11",
+    "quoteFirst": "After this match Stott was, of course, played regularly. That year Hampdenshire rose once more to their old position at the head of the minor counties, and Maisefield, who had been seriously considering Surrey's offer of a place in their ",
+    "quoteTime": "Eleven after two",
+    "quoteLast": " years' qualification by residence, decided to remain with the county which had given him his first chance.",
+    "title": "The Hampdenshire Wonder",
+    "author": "Beresford, J. D. (John Davys), 1873-1947",
+    "gutenbergReference": "53028",
+    "hash": "99bfda1afd52537545e4c600118cc763da93f989ffe2d761da2137837d9c52de"
   }
 ]

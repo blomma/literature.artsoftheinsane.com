@@ -21,6 +21,16 @@
   },
   {
     "time": "08:28",
+    "quoteFirst": "At the session of congress in 1834, an appropriation of three hundred thousand dollars had been made for repairing the road, and on the present occasion a further sum of three hundred and forty thousand dollars was proposed for the purpose of putting the work in good condition, previously to its being surrendered to the states through which it passes. The bill to effect this object passed the senate by a vote of ",
+    "quoteTime": "thirty-two to nine",
+    "quoteLast": ", after considerable discussion; Mr. Clay giving his views as follows.]",
+    "title": "A Biography of Henry Clay, the Senator from Kentucky\r\nContaining Also, a Complete Report of All His Speeches; Selections From His Private Correspondence; Eulogies in the Senate and House; and a Poem, by George D. Prentice, Esq.",
+    "author": "Mallory, Daniel, -1854? [Compiler]",
+    "gutenbergReference": "59290",
+    "hash": "b01bcf384dfcbf253909195a3fd999298be656385e55a9a0521d5a9782c52af5"
+  },
+  {
+    "time": "08:28",
     "quoteFirst": "reduced Barom. Air D.P. Diff. Sat. Black Bulb 8.00 to 8.13 a.m. 8.15 to ",
     "quoteTime": "8.28 a.m.",
     "quoteLast": "",
@@ -48,5 +58,15 @@
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
     "hash": "5f65b6ffcf4985e4b5373dc6624308d2c83bc6496a8f5159f18973a2a5095791"
+  },
+  {
+    "time": "08:28",
+    "quoteFirst": "On the 14th of March, the House, by a vote of fifty-three to two, adopted a resolution unequivocally assertive of the principles which the ex-Councillors had endeavoured to maintain. Ten days later an address to the Lieutenant-Governor, based on this resolution, was passed by a vote of ",
+    "quoteTime": "thirty-two to nine",
+    "quoteLast": "teen. It expressed deep regret that his Excellency had consented to accept the resignation of his late Council. It declared the Assembly's entire want of confidence in the new appointments, and humbly requested that immediate steps might be taken to remove the new Councillors from office.",
+    "title": "The Story of the Upper Canadian Rebellion, Volume 1",
+    "author": "Dent, John Charles, 1841-1888",
+    "gutenbergReference": "22131",
+    "hash": "20a85bcb03bcd983629ae1362070ee45cf9933b8e75212042f03b0203667bb74"
   }
 ]

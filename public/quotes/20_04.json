@@ -41,6 +41,26 @@
   },
   {
     "time": "20:04",
+    "quoteFirst": "The steamer left us at half-past nine P.M. near the floating lights. Charged £18. 18. 0.; went to tea 1/",
+    "quoteTime": "4 past 8",
+    "quoteLast": ", found nine passengers. Had a good deal of conversation with one of them, an American, who seemed to be acquainted with all the packets. Said he supposed the _Britannia_ cost 40,000 dollars. Called a vessel old after ten years.",
+    "title": "A Journey to America in 1834",
+    "author": "Heywood, Robert, 1786-1868",
+    "gutenbergReference": "24626",
+    "hash": "04effd4b172d5708776027f518438c98ca5a089349cb966f3e91b9b3503c4135"
+  },
+  {
+    "time": "20:04",
+    "quoteFirst": "Set off to the mountain 1/4 past 4; a chaise near being upset. Fare 1 dollar said to be 13 miles; then a turnpike gate, and arrived at the summit at 1/",
+    "quoteTime": "4 past 8",
+    "quoteLast": "; having been in four hours in one part alternately hot and in another piercingly cold. A beautiful moonlight night; the Hudson River visible; very cold so that we sat round the fire as if it were Christmas.",
+    "title": "A Journey to America in 1834",
+    "author": "Heywood, Robert, 1786-1868",
+    "gutenbergReference": "24626",
+    "hash": "46f2bd27a3875d2588342f69a9e177226abf0aff6795a5c885082db2c3f957b6"
+  },
+  {
+    "time": "20:04",
     "quoteFirst": "The drop was 9 ft. 4 in. long. It was about ",
     "quoteTime": "four minutes past eight",
     "quoteLast": " when the execution took place, and the black flag was immediately hoisted from the prison tower as an indication to the crowd outside that all was over.",
@@ -48,6 +68,16 @@
     "author": "Anonymous",
     "gutenbergReference": "65464",
     "hash": "e47558267bdd5349ef0657c04b13d43a348d52239f30472c3d3f93321d1b114f"
+  },
+  {
+    "time": "20:04",
+    "quoteFirst": "_1/",
+    "quoteTime": "4 past 8",
+    "quoteLast": "._--A deputation has waited on the square-keeper. It is expected that he will resign.",
+    "title": "Punch, or the London Charivari, Volume 1, September 12, 1841",
+    "author": "Various",
+    "gutenbergReference": "14927",
+    "hash": "78f00d4f1625594a0242dd55ad21928c91b59ab0304248549be78da4240417bb"
   },
   {
     "time": "20:04",

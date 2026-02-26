@@ -51,6 +51,16 @@
   },
   {
     "time": "14:37",
+    "quoteFirst": "These waves continued to come and go until half-past two p.m., during which time the frigate was thrown on her beam-ends five times; a piece of her keel, eighty-one feet long, was torn off; holes were knocked in her by striking on the bottom, and she was reduced to a wreck.  In the course of five minutes the water in the harbour fell, it is said, from ",
+    "quoteTime": "twenty-three to three",
+    "quoteLast": " feet, and the anchors of the ship were laid bare.",
+    "title": "The Ocean and Its Wonders",
+    "author": "Ballantyne, R. M. (Robert Michael), 1825-1894",
+    "gutenbergReference": "21754",
+    "hash": "0c433bbf4efbc7a3879d43dc40c90edbd981dafe9f410a1e3b7b3412b0d3e1de"
+  },
+  {
+    "time": "14:37",
     "quoteFirst": "Ruby telephoned at ",
     "quoteTime": "2:37 p.m.",
     "quoteLast": " to Alex Gruber, a boyhood friend from Chicago who was living in Los Angeles.[C6-890] Gruber recalled that in their 3-minute conversation Ruby talked about a dog he had promised to send Gruber, a carwash business Gruber had considered starting, and the assassination.",
@@ -88,5 +98,15 @@
     "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
     "gutenbergReference": "29341",
     "hash": "c445346111045b32839ea5f186ae26738db285e177642341e3e23947b665af03"
+  },
+  {
+    "time": "14:37",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty-three to three",
+    "quoteLast": ".\"",
+    "title": "Left Guard Gilbert",
+    "author": "Barbour, Ralph Henry, 1870-1944; Caswell, Edward C., 1879-1963 [Illustrator]",
+    "gutenbergReference": "26149",
+    "hash": "4106ef33a7e900575b6523cd2f2f3f9beb743f977c5cc35f2f308495481d6fa6"
   }
 ]

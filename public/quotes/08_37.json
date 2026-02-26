@@ -11,6 +11,16 @@
   },
   {
     "time": "08:37",
+    "quoteFirst": "The soundings this morning have been from ",
+    "quoteTime": "twenty-three to nine",
+    "quoteLast": "teen fathoms. The weather extremely hot and the water smooth. The ebb made about four, and there being no wind, it carried us rapidly towards some rocks joining two islands. We anchored in twenty-one fathoms.",
+    "title": "Account of a voyage of discovery to the west coast of Corea, and the great Loo-Choo Island",
+    "author": "Hall, Basil, 1788-1844",
+    "gutenbergReference": "29051",
+    "hash": "e1ddc049433092d5525848bb4077ae4f6ce8524421dd87969bea058d64093fb4"
+  },
+  {
+    "time": "08:37",
     "quoteFirst": "It was then exactly ",
     "quoteTime": "thirty-seven minutes past eight",
     "quoteLast": ".",
@@ -48,6 +58,16 @@
     "author": "Knowles, J. Harris (John Harris), 1832-1908",
     "gutenbergReference": "33620",
     "hash": "b95e79a3335d6ba5781aa89a2ff5349d59d9185e60e174e63ba16f761d876ea9"
+  },
+  {
+    "time": "08:37",
+    "quoteFirst": "On the 6th of November the second reading of the Bill was carried by a majority of twenty-eight, the numbers being one hundred and ",
+    "quoteTime": "twenty-three to nine",
+    "quoteLast": "ty-five, which the Government considered equivalent to a finding of guilty. It appears from these numbers that a large proportion of their lordships abstained from voting.",
+    "title": "Cassell's History of England, Vol. 5 (of 8)\r\nFrom the Peninsular War to the Death of Sir Robert Peel",
+    "author": "Anonymous",
+    "gutenbergReference": "58358",
+    "hash": "743408d285950ac9544912cad36cb540733d66483a4dd8181829d7c110c69d78"
   },
   {
     "time": "08:37",
@@ -98,5 +118,15 @@
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
     "hash": "9ea83150e5a89fc9256fd45366eaaed74d3023f0a469bb775594a34bbbc3e16c"
+  },
+  {
+    "time": "08:37",
+    "quoteFirst": "Every block is visible on one side or another. For the distance of nine hundred yards the aqueduct is carried on one hundred and nineteen arches, varying in height from ",
+    "quoteTime": "twenty-three to nine",
+    "quoteLast": "ty-four feet. For a third of this length the arches are in two tiers. The work is devoid of ornamentation, except for the remains of a cornice.",
+    "title": "Valladolid, Oviedo, Segovia, Zamora, Avila & Zaragoza\r\nAn Historical & Descriptive Account",
+    "author": "Calvert, Albert Frederick, 1872-1946",
+    "gutenbergReference": "64970",
+    "hash": "66cb8217a7416644b0a4e468d46ed653de986611c4dd217ae3dcd181bfa126c0"
   }
 ]

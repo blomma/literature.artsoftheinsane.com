@@ -1,6 +1,36 @@
 [
   {
     "time": "01:43",
+    "quoteFirst": "When they’re in these fits they’re terribly violent indeed; they tear up and break everything they can lay their hands on. The younger they are the worse they behave. The most violent age, I think, is from ",
+    "quoteTime": "seventeen to two",
+    "quoteLast": " or three and twenty;--indeed they are like fiends at that age very often.” The medical officer told him that “4 per cent.",
+    "title": "The Criminal",
+    "author": "Ellis, Havelock, 1859-1939",
+    "gutenbergReference": "44500",
+    "hash": "02a4018916e7bbd0c1305501e97e09cb4172ad2f8bd3f3406a18665b219f0fe6"
+  },
+  {
+    "time": "01:43",
+    "quoteFirst": "Then again, one bedroom--nay, one bedstead--for father, mother, and seven children ranging from ",
+    "quoteTime": "seventeen to two",
+    "quoteLast": " is decidedly deficient.",
+    "title": "Mystic London; or, Phases of occult life in the metropolis",
+    "author": "Davies, Charles Maurice, 1828-1910",
+    "gutenbergReference": "25619",
+    "hash": "2dae7ab46368502448ede37a0895e92d36bba0271bc5bbe85a2b66dd62191a0c"
+  },
+  {
+    "time": "01:43",
+    "quoteFirst": "'From ",
+    "quoteTime": "seventeen to two",
+    "quoteLast": "-and-twenty! Ye gods! what ages! Dear young creatures, I can see you all three. Seventeen suits me, as nearest my own time of life; but mind, I don't say two-and-twenty is too old.",
+    "title": "The Book of Snobs",
+    "author": "Thackeray, William Makepeace, 1811-1863",
+    "gutenbergReference": "2686",
+    "hash": "8e6933464607f777d2168dfa699a3d2d4ec6ba38c13897f0d66661adf6b8421b"
+  },
+  {
+    "time": "01:43",
     "quoteFirst": "\"The ball's opened,\" exclaimed several voices, when at ",
     "quoteTime": "1.43 a.m.",
     "quoteLast": " the sound of a furious cannonade was borne to the ears of the _Vindictive's_ company.",
@@ -8,5 +38,25 @@
     "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Wigfull, W. Edward (William Edward), 1875-1944 [Illustrator]",
     "gutenbergReference": "45135",
     "hash": "cc9d520c74ff55c5e761c3242d0e145568e6df3ab7b86b99205fbea14950c5bc"
+  },
+  {
+    "time": "01:43",
+    "quoteFirst": "Because some of you didn't want to catch us. But some of you _did_. And you _were_ ",
+    "quoteTime": "seventeen to two",
+    "quoteLast": ".\" She addressed Mr. Waterhouse:",
+    "title": "Some do not...: A novel",
+    "author": "Ford, Ford Madox, 1873-1939",
+    "gutenbergReference": "64248",
+    "hash": "88d6105d2ac25445390b4f966ff5d661c888468b12792bb0fd48604b008d46c0"
+  },
+  {
+    "time": "01:43",
+    "quoteFirst": "\"",
+    "quoteTime": "Seventeen to two",
+    "quoteLast": "! The usual male odds! You'll _have_ to go round by Camber railway bridge, and we'll be in Folkestone by then. We've got bicycles!\" She was half going when she checked and, searching out Tietjens to address, exclaimed: \"I'm sorry I said that. Because some of you didn't want to catch us. But some of you _did_.",
+    "title": "Some do not...: A novel",
+    "author": "Ford, Ford Madox, 1873-1939",
+    "gutenbergReference": "64248",
+    "hash": "fcd05cf55457bce204edc433be26c633774151456c6901bbfd7b59148c8f6653"
   }
 ]

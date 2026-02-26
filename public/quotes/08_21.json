@@ -1,6 +1,16 @@
 [
   {
     "time": "08:21",
+    "quoteFirst": "“",
+    "quoteTime": "Twenty-one after eight",
+    "quoteLast": ",” was the answer.",
+    "title": "A Girl of the Limberlost",
+    "author": "Stratton-Porter, Gene, 1863-1924",
+    "gutenbergReference": "125",
+    "hash": "bcd4547d5f3c25d2bfd847ba4a787ace74130c70b4076be2d6c728a38347125e"
+  },
+  {
+    "time": "08:21",
     "quoteFirst": "Black Bulb 6.39 to 6.49 a.m. 6.51 to 7.01 a.m. 7.56 to 8.06 a.m. 8.08 to ",
     "quoteTime": "8.21 a.m.",
     "quoteLast": "",
@@ -18,5 +28,25 @@
     "author": "Pelley, William Dudley, 1890-1965",
     "gutenbergReference": "70037",
     "hash": "83e100e2af4bd0edd55b04b8d68ace84fe20558eff0b5ca765e30ee7dd744dfd"
+  },
+  {
+    "time": "08:21",
+    "quoteFirst": "Senate met and ratified the treaty by a vote of ",
+    "quoteTime": "thirty-nine to nine",
+    "quoteLast": ",--a great triumph for its author. But the debate disclosed a vigorous opposition, Benton and Buchanan both assailing Mr.",
+    "title": "Daniel Webster",
+    "author": "Lodge, Henry Cabot, 1850-1924",
+    "gutenbergReference": "13047",
+    "hash": "89ddac60e81081fb9e8117dde03c16dd31a142615fc6253e17f51180e97eb064"
+  },
+  {
+    "time": "08:21",
+    "quoteFirst": "The most violent opposition to the treaty was made; every part of it was denounced, and it became at last doubtful if the Senate would ratify it. That final consummation was, however, suddenly effected in a most remarkable manner, the Senate coming to its decision by an unexpected majority of ",
+    "quoteTime": "thirty-nine to nine",
+    "quoteLast": ", after several days of secret debate. The sanction of the Queen and the British government had been given without hesitation and the people on both sides of the Atlantic were well satisfied with the termination of the long and virulent dispute, and the Northeastern Boundary Question would have sunk into the archives of diplomatic history, but truth like murder will out, and it so happened that Mr.",
+    "title": "The Loyalists of Massachusetts and the Other Side of the American Revolution",
+    "author": "Stark, James Henry",
+    "gutenbergReference": "39316",
+    "hash": "7cdaae8ca0933d6ea67ff276b3ac8efe803d987e61f4b232ef6bc27abc27eca9"
   }
 ]

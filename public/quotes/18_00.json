@@ -1,202 +1,102 @@
 [
   {
     "time": "18:00",
-    "quoteFirst": "",
-    "quoteTime": "At six o'clock",
-    "quoteLast": " the same evening we entered the River Cūlpa, at the mouth of which is the town of Sissek.",
-    "title": "Herzegovina; Or, Omer Pacha and the Christian Rebels",
-    "author": "Arbuthnot, George, 1836-1912",
-    "gutenbergReference": "17288",
-    "hash": "235927b60bf86e30f669bfebc75a225a9ae6f8257c487104bd21255e34777ae3"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "Sewers can earn more than folders and stitchers--say from $5 to $7. They work until ",
-    "quoteTime": "six o'clock",
-    "quoteLast": " and commence when they please, as they are paid by the quantity. A bookbinder told me his girls work from seven to six o'clock.",
-    "title": "The Employments of Women: A Cyclopædia of Woman's Work",
-    "author": "Penny, Virginia, 1826-",
-    "gutenbergReference": "49912",
-    "hash": "ce88e2c3813493d9a8753e1936a325e30706af19cb51f1c5d385c98a9b5cc0eb"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "And having taken my last sip of coffee, I asked Therese for my hat and cane, which she gave me not without dire suspicions; she feared I might be going upon another journey. But I reassured her by telling her to have dinner ready ",
-    "quoteTime": "at six o’clock",
-    "quoteLast": ".",
-    "title": "The Crime of Sylvestre Bonnard",
-    "author": "France, Anatole, 1844-1924",
-    "gutenbergReference": "2123",
-    "hash": "0d3ba4938def9db93cbf02447d76cf3e0dde722b8ed1061f9b93299b03101e7f"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "The girls slept very little that night, although the tent withstood the storm and remained standing.  The rain still fell with unabated vigor at dawn.  At about ",
-    "quoteTime": "six o'clock",
-    "quoteLast": " Nyoda put her head into the tent and called Sahwah. Sahwah was alert instantly. Nyoda had on her bathing suit and cap.",
-    "title": "The Camp Fire Girls in the Maine Woods; Or, The Winnebagos Go Camping",
-    "author": "Frey, Hildegard G., 1891-1957",
-    "gutenbergReference": "18606",
-    "hash": "cf13c13ee597f5e58c218195714fd917cb87b3aadc17d1876f977f46ebcaec96"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "Happy, happy hours in dreamland! But what peril to me, and perhaps to him. It is vain to go over it all: it is enough that of all the happy days, that hour from ",
-    "quoteTime": "six o'clock",
-    "quoteLast": " till tea-time was the happiest: and that with strange smoothness, day after day passed on without bringing interruption to it. At six the others went to ride or walk; I was never called, and did not even wonder at it.",
-    "title": "Richard Vandermarck: A Novel",
-    "author": "Harris, Miriam Coles, 1834-1925",
-    "gutenbergReference": "12348",
-    "hash": "894e7593e13e7a0dc9671b8b3114dd813ad7e30fd632fa6db94b119c098003bd"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "We took three boxes of dog-biscuit from Safety Camp and another three boxes from a point sixteen miles from Hut Point. Here we rested the dogs for a few hours, and started again ",
-    "quoteTime": "at 6 P.M.",
-    "quoteLast": " All day the light was appalling, and the wind strong, but to my great relief we found Corner Camp after four hours' more travelling, the flag showing plainly, though the cairn itself was invisible when a hundred yards away. This was the last place where there was any dog-food on the route, and the dogs got a good feed after doing thirty-four miles (statute) for the day's run.",
-    "title": "The Worst Journey in the World: Antarctic, 1910-1913",
-    "author": "Cherry-Garrard, Apsley, 1886-1959",
-    "gutenbergReference": "14363",
-    "hash": "a15f7ee2e43b79ff1f61ae359f723413d4af43a0df810fdae141fbca8ee24502"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "After he became acclimated old Minoret settled into certain habits of life, under fixed rules, after the manner of the provinces. On Ursula’s account he received no visitors in the morning, and never gave dinners, but his friends were at liberty to come to his house ",
-    "quoteTime": "at six o’clock",
-    "quoteLast": " and stay till midnight. The first-comers found the newspapers on the table and read them while awaiting the rest; or they sometimes sallied forth to meet the doctor if he were out for a walk.",
-    "title": "Ursula",
-    "author": "Balzac, Honoré de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
-    "gutenbergReference": "1223",
-    "hash": "742af36329311f87f11842ef97b596babb35fa87edced0861c6f63bcf836a52d"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "Georgina, tired of sitting all day in the booth, was glad of an excuse for a long walk. It was almost ",
-    "quoteTime": "six o'clock",
-    "quoteLast": ", but the sun was still high.",
-    "title": "Georgina of the Rainbows",
-    "author": "Johnston, Annie F. (Annie Fellows), 1863-1931",
-    "gutenbergReference": "7807",
-    "hash": "cd07cda9b4b4107f495eb5fcadf54e0dd5a5aa190e8dab830312b5214db267d2"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "It was nearly ",
-    "quoteTime": "six o'clock",
-    "quoteLast": " when we reached the Pursek. There was no sign of the city, but we could barely discern an old fortress on the lofty cliff which commands the town. A long stone bridge crossed the river, which here separates into half a dozen channels.",
-    "title": "The Lands of the Saracen\nPictures of Palestine, Asia Minor, Sicily, and Spain",
-    "author": "Taylor, Bayard, 1825-1878",
-    "gutenbergReference": "10924",
-    "hash": "de763e234ffc5d6bb4c5d766f7bf73c8b41d8057b881e3aa2cecabfdd475e182"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "",
-    "quoteTime": "At six o'clock",
-    "quoteLast": " one June morning the four members of the club met at Skeppsholm, where they had hired a rowing-boat. The chest of the club, a card-board box containing documents, was stowed away with baskets of provisions and bottles of wine.",
-    "title": "The Growth of a Soul",
-    "author": "Strindberg, August, 1849-1912; Field, Claud, 1863-1941 [Translator]",
-    "gutenbergReference": "44107",
-    "hash": "d01f64ae6788219ac127a1903d9beca80ca101024ae90572ff2a0386875d00b6"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "It was early in June when the Hepworths moved in.  They furnished only one bedroom; and kept no servant, a charwoman coming in every morning and going away about ",
-    "quoteTime": "six in the evening",
-    "quoteLast": ".  Jetson was their nearest neighbour.  His wife and daughters called on them, and confess to have taken a liking to them both.",
-    "title": "Malvina of Brittany",
-    "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
-    "gutenbergReference": "2023",
-    "hash": "92bb78734daeebb1200fe62c8f0d62fbeb9ba47b3700ffaed52daf0af38c03d1"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "It was beneath the lesson of this incident that he admitted Audrey without question.  She was none of his mistress's friends.  In the first place he knew all such; in the second they did not call at the impossible hour of half-past ",
-    "quoteTime": "six in the evening",
-    "quoteLast": ", nor present the strange appearance--white, not very steady, faltering in voice--that she bore.",
-    "title": "The Happy Warrior",
-    "author": "Hutchinson, A. S. M. (Arthur Stuart-Menteth), 1880-1971; Meylan, Paul Julian, 1882-1961 [Illustrator]",
-    "gutenbergReference": "38325",
-    "hash": "877b6451eb5e82563ed1557379c3262fcab78b40158f3ec06d5d571d277238e2"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "I cannot forbear to record that the last seven lines of this poem were composed in bed, during the night of the day on which my sister S.H. died, about ",
-    "quoteTime": "six P.M.",
-    "quoteLast": ", and it was the thought of her innocent and beautiful life that through faith prompted the words:",
-    "title": "The Prose Works of William Wordsworth\r\nFor the First Time Collected, With Additions from Unpublished Manuscripts. In Three Volumes.",
-    "author": "Wordsworth, William, 1770-1850; Grosart, Alexander Balloch, 1827-1899 [Editor]",
-    "gutenbergReference": "16550",
-    "hash": "46bed77cce97a3cd59f251fa99d4aed846b0b37ba98bced53ed189a9c011f554"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "you would have the King of Scots to succeed you in your kingdom, show some sign unto us: whereat, _suddenly heaving herself upwards in her bed, and putting her arms out of bed, she held her hands jointly over her head in manner of a crown_; whence as they guessed, she signified that she did not only wish him the kingdom, but desire continuance of his estate: after which they departed, and the next morning she died. Immediately after her death, all the lords, as well of the council as other noblemen that were at the court, came from Richmond to Whitehall by ",
-    "quoteTime": "six o'clock",
-    "quoteLast": " in the morning, where other noblemen that were in London met them. Touching the succession, after some speeches of divers competitors and matters of state, at length the admiral rehearsed all the aforesaid premises which the late queen had spoken to him, and to the lord keeper, and Mr.",
-    "title": "Curiosities of Literature, Vol. 3",
-    "author": "Disraeli, Isaac, 1766-1848; Disraeli, Benjamin, Earl of Beaconsfield, 1804-1881 [Editor]",
-    "gutenbergReference": "31078",
-    "hash": "d6bb4344945bf7117b5e59c088fb1c65fe934b2f6e41acb82b0f1ebedb194b8b"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "Dinner is set ready as before,--an ample quantity of meat, potatoes, and bread, with a cup of water, (the best beverage in the world--would to God I had never drank any thing else, and I should not have been here;) one hour allowed for dinner, when we go out and work again till ",
-    "quoteTime": "six o'clock",
-    "quoteLast": ", when we come in and are locked up for the night, with a large bowl of mush, (hasty pudding with molasses,) the finest food in the world, made from Indian meal. Thus passes each day of the week.",
-    "title": "A Visit to the United States in 1841",
-    "author": "Sturge, Joseph, 1793-1859",
-    "gutenbergReference": "11454",
-    "hash": "4d1fb3094d3fbaaf35ce07d7a35583a20f739f203857f6e9e862cc0eba304a7e"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "They crossed the river where the road wound away into Kaunser-Tal, and again by the bridge at Prutz, and ",
+    "quoteFirst": "The gale continuing, we kept our station all the 15th. On the 16th, it was somewhat more moderate; and about ",
     "quoteTime": "six o’clock",
-    "quoteLast": " found them within sight of the castle of Siegmundsried, with the pretty little village of Ried below.",
-    "title": "\"1914\"",
-    "author": "Oxenham, John, 1852-1941",
-    "gutenbergReference": "66846",
-    "hash": "c6026d2d78830fd117045ffcb0c25cdf7b76c9b42c29fc8b0edaa8aec5f461d0"
+    "quoteLast": " in the morning, we hove the cable short, with a design to get under sail, but were obliged to desist, and veer it out again. It is remarkable that the sea-breeze, which blew fresh when we anchored, continued to do so almost every day while we stayed here; it was calm only while we were upon the rock, except once; and even the gale that afterwards wafted us to the shore, would then certainly have beaten us to pieces.",
+    "title": "The Three Voyages of Captain Cook Round the World. Vol. II. Being the Second of the First Voyage",
+    "author": "Cook, James, 1728-1779; Banks, Joseph, 1743-1820 [Contributor]; Hawkesworth, John, 1715?-1773 [Editor]",
+    "gutenbergReference": "57152",
+    "hash": "da23a13bee5c70709345789a0b2aed969ab5679910867405052dfb7a558e87db"
   },
   {
     "time": "18:00",
-    "quoteFirst": "She was much distressed at the information. She waited for you until eight o'clock, when she left in a state of great mental excitement. She's been waiting since ",
-    "quoteTime": "six o'clock",
-    "quoteLast": " this morning, waiting your arrival.",
-    "title": "By Force of Impulse: A Drama in Five Acts",
-    "author": "Vogt, Harry V.",
-    "gutenbergReference": "43185",
-    "hash": "34a71609c366f3801434e3656fe210de2310e86deeaebb439372f8f6aeceb0b0"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "They consisted of seven men, as many women, and several children.  Here I was under the necessity of procuring another guide, and we continued our route on the same side of the river, till ",
-    "quoteTime": "six in the evening",
-    "quoteLast": ", when we crossed it.  It was knee deep, and about an hundred yards over.  I wished now to stop for the night, as we were all of us very much fatigued, but our guide recommended us to proceed onwards to a family of his friends, at a small distance from thence, where we arrived at half past seven.",
-    "title": "Voyages from Montreal Through the Continent of North America to the Frozen and Pacific Oceans in 1789 and 1793. Vol. II",
-    "author": "Mackenzie, Alexander, 1764-1820",
-    "gutenbergReference": "35659",
-    "hash": "b1ef76daa5fe085d8d45022c7c1564218fc526ed686241a096c55b36bd8af2e5"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "It was ",
-    "quoteTime": "six o'clock",
-    "quoteLast": ", but being June the sun was still high above the horizon.  A gentle breeze came off the river, and the afternoon light threw a soft radiance over the masts of the vessels which, lay at anchor at the wharves, and the spires and chimneys of the town.",
-    "title": "Oakleigh",
-    "author": "Deland, Ellen Douglas, 1860-1923; Stephens, Alice Barber, 1858-1932 [Illustrator]",
-    "gutenbergReference": "76126",
-    "hash": "1ea534624713848e44969640ec4143201dbef295f650c620067864848238738d"
-  },
-  {
-    "time": "18:00",
-    "quoteFirst": "'On June 19th there were two meetings of the Cabinet about Egypt, to which I was called in; one at two, and another ",
+    "quoteFirst": "\"The rector,\" replied Clara, \"was called out of town ",
     "quoteTime": "at six o'clock",
-    "quoteLast": ". I simply said, like the servants when they fall out: \"Either Arabi must go or I will.\"",
-    "title": "The Life of the Rt. Hon. Sir Charles W. Dilke, Volume 1",
-    "author": "Gwynn, Stephen Lucius, 1864-1950; Tuckwell, Gertrude M. [Editor]",
-    "gutenbergReference": "7382",
-    "hash": "310ae2efcaad47312bde1f5545fd9058625d198fe443b80a0235e6ffb6702af3"
+    "quoteLast": " this evening, to visit a dying man, and so cannot be here. You are the last, Tom, and Mr. Ellis was the first.\"",
+    "title": "The Marrow of Tradition",
+    "author": "Chesnutt, Charles W. (Charles Waddell), 1858-1932",
+    "gutenbergReference": "11228",
+    "hash": "3cc87308406f1358a4d3d466da21bd7e4b4c3c56fd863633c301ea29e4ac7de0"
+  },
+  {
+    "time": "18:00",
+    "quoteFirst": "Eames chased the unwilling Gladys to bed, having very little hope that the girl would be up in time to light the kitchen fire next morning. Girls, especially girls with Gladys's disposition, are exceedingly sleepy ",
+    "quoteTime": "at six o'clock",
+    "quoteLast": " in the morning if they have sat up till nearly midnight the night before.",
+    "title": "The Smuggler's Cave",
+    "author": "Birmingham, George A., 1865-1950",
+    "gutenbergReference": "44752",
+    "hash": "335ae2bd12e858375ddbf67abca01f9b8ce23402f07325bb1e2b43298ad44359"
+  },
+  {
+    "time": "18:00",
+    "quoteFirst": "Next morning we found our last night’s tea-leaves frozen at the bottom of the pannikins, though it was not nearly the beginning of autumn; we breakfasted as we had supped, and were on our way by ",
+    "quoteTime": "six o’clock",
+    "quoteLast": ". In half an hour we had entered the gorge, and turning round a corner we bade farewell to the last sight of my master’s country.",
+    "title": "Erewhon; Or, Over the Range",
+    "author": "Butler, Samuel, 1835-1902",
+    "gutenbergReference": "1906",
+    "hash": "366750fabc5f17c9e7fece42eebbb52d1617e3011bd85ac4e31d21d070eb4cd3"
+  },
+  {
+    "time": "18:00",
+    "quoteFirst": "“She deposed that on Friday, 13th November, in answer to an advertisement in the _Marylebone Star_, she had called on Miss Dyke at Lisson Grove, when it was arranged that she should do a week’s work at the flat, beginning Thursday, the 19th, from seven in the morning until ",
+    "quoteTime": "six in the afternoon",
+    "quoteLast": ". She was to keep the place clean, get Mr.",
+    "title": "The case of Miss Elliott",
+    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947; Brock, H. M. (Henry Matthew), 1875-1960 [Illustrator]",
+    "gutenbergReference": "75461",
+    "hash": "1a400d96feb0d5791e683016cbcd9e9a68b0bc2dfbc265e010c2cf4d6647d0a3"
+  },
+  {
+    "time": "18:00",
+    "quoteFirst": "The duel took place ",
+    "quoteTime": "at six o’clock",
+    "quoteLast": " in the morning, the venerable oaks of De Granic forest casting an air of solemnity over the bloodless scene. The adversaries kept their word; the pistols were discharged in the air; and the witnesses declared that honorable satisfaction had been made.",
+    "title": "Short story classics (Foreign), Vol. 3, German",
+    "author": "Patten, William, 1868-1936 [Editor]",
+    "gutenbergReference": "73630",
+    "hash": "72828ad242c2d74f5e9c0e0ebc6b3b539a0a5dd2f57668c5e3b5435dbc118b10"
+  },
+  {
+    "time": "18:00",
+    "quoteFirst": "I went a little way forward and called to the seamen, who at daybreak had risen from their squatting postures and now hung together talking in low voices. They approached me. There were four of them, Trapp, South, Butler, and Tubb; Scott still grasped the tiller till he should be relieved at four bells--that is to say, ",
+    "quoteTime": "at six o'clock",
+    "quoteLast": ".",
+    "title": "The Tragedy of Ida Noble",
+    "author": "Russell, William Clark, 1844-1911",
+    "gutenbergReference": "50372",
+    "hash": "595548e459c868fd1a965e74fad1632f87bf5341731eadac280d7ee52c073e90"
+  },
+  {
+    "time": "18:00",
+    "quoteFirst": "The experiment was made on the 26th of April, about eleven o'clock A. M. in presence of all the officers. Early on the 27th, about ",
+    "quoteTime": "six o'clock",
+    "quoteLast": " A. M. a smoke appeared, of which the chief commandant was immediately informed: he came with speed, and, through a small hole in the door, saw the mat smoking. He dispatched a messenger to the members of the commission; but as the smoke became stronger, and fire began to appear, he found it necessary to break the seals and open the door.",
+    "title": "The Book of Curiosities",
+    "author": "Platts, John, 1775-1837",
+    "gutenbergReference": "41983",
+    "hash": "05f493ed4c15fe451de9d79906671209ccc066ad8c4f3ea9a202fae3a469b37f"
+  },
+  {
+    "time": "18:00",
+    "quoteFirst": "Sidney protested. She was to be free that afternoon until ",
+    "quoteTime": "six o'clock",
+    "quoteLast": "; but she had promised to go home.",
+    "title": "K",
+    "author": "Rinehart, Mary Roberts, 1876-1958",
+    "gutenbergReference": "9931",
+    "hash": "462fa5280bd2c82601f23fb84ae60ca2fb006fa04dcece35cdb1926aa2cc1c32"
+  },
+  {
+    "time": "18:00",
+    "quoteFirst": "I thought he would be a good person to learn interesting things from, so I asked him if he would mind telling me something about whale-fishing in the old days. He was just settling himself to begin when ",
+    "quoteTime": "the clock struck six",
+    "quoteLast": ", whereupon he laboured to get up, and said:--",
+    "title": "Dracula",
+    "author": "Stoker, Bram, 1847-1912",
+    "gutenbergReference": "45839",
+    "hash": "a0240092c068a60f3a15103ccde7647b271772404647a29110e4ea3ba80a3ea8"
   }
 ]

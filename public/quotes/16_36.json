@@ -1,6 +1,16 @@
 [
   {
     "time": "16:36",
+    "quoteFirst": "The man escaped; but, on inquiries being made, witnesses were found to prove conclusively that the biscuit-tin which contained the jewel had been handed to him in a street in Beaconsburgh, on Friday afternoon, between half-past ",
+    "quoteTime": "four and twenty minutes to five",
+    "quoteLast": ", by a woman who was identified as Sarah Gooch.”",
+    "title": "The house on the marsh",
+    "author": "Warden, Florence, 1857-1929",
+    "gutenbergReference": "71788",
+    "hash": "0f1eef3dafe7de6c6e466f5044f161a1617be071cc0870062ab755eff847eaea"
+  },
+  {
+    "time": "16:36",
     "quoteFirst": "At ",
     "quoteTime": "thirty-six minutes past four",
     "quoteLast": ", the last division of the wheel had been reached. Craft then took a spoonful of plaster, and, inserting his hand carefully inside of the case, pulled out the tube from Cobb's mouth, and poured the half-liquid plaster into the hole in the cast.",
@@ -8,6 +18,26 @@
     "author": "Fuller, Alvarado M. (Alvarado Mortimer), 1851-1924; Bretsnyder, W. [Illustrator]",
     "gutenbergReference": "44307",
     "hash": "81d230a785f4e44673370e7f23c98be6c9e715ebfdbccf7831f6eb16689cfd07"
+  },
+  {
+    "time": "16:36",
+    "quoteFirst": "The school committee (who serve gratuitously) appoint the superintendent and supervisors of schools. The number of members of the school-board was in 1905 reduced from ",
+    "quoteTime": "twenty-four to five",
+    "quoteLast": ", elected by the city at large, and serving for one, two or three years; at the same time power was centralized in the hands of the superintendent of schools. Civil service reform principles cover the entire municipal administration. The city's work is done under an eight-hour law.",
+    "title": "Encyclopaedia Britannica, 11th Edition, \"Borgia, Lucrezia\" to \"Bradford, John\"\r\nVolume 4, Slice 3",
+    "author": "Various",
+    "gutenbergReference": "33698",
+    "hash": "16992b72bcf8c5f800dd05e41c4691dc595d4174db56071db8b292dfb83fd6a5"
+  },
+  {
+    "time": "16:36",
+    "quoteFirst": "A few years ago, largely through the efforts of a single citizen, the Massachusetts Legislature changed the number of the school committee of Boston from ",
+    "quoteTime": "twenty-four to five",
+    "quoteLast": "--in itself a prodigious improvement. Now, Boston is the home of three Roman Catholic races, the Irish, the French Canadians, and the Italians.",
+    "title": "Americans by Choice",
+    "author": "Gavit, John Palmer, 1868-1954",
+    "gutenbergReference": "60576",
+    "hash": "efbecd9e6e2fa3e8ee9490ebb141c294cdebb189475c32d998f1bd2c3969dfe1"
   },
   {
     "time": "16:36",
@@ -28,5 +58,35 @@
     "author": "United States. Warren Commission",
     "gutenbergReference": "56190",
     "hash": "249e32935940440904d00c5491630577516c635375f366a0d889866ffe379af4"
+  },
+  {
+    "time": "16:36",
+    "quoteFirst": "Even with Cabinet-making Lloyd George was a Revolutionist. He cut down the membership from ",
+    "quoteTime": "twenty-four to five",
+    "quoteLast": ", establishing a compact and effective War Council whose sole task is to \"win the war.\" He centred more authority in the Premiership than the English system has ever known before. He virtually became Dictator.",
+    "title": "The War After the War",
+    "author": "Marcosson, Isaac Frederick, 1876-1961",
+    "gutenbergReference": "18380",
+    "hash": "ad08dae7d7fecfa8ba533b17575e8ad2d82872943323562088a5f99e6683201b"
+  },
+  {
+    "time": "16:36",
+    "quoteFirst": "At last, when chill November had been for a few days in the land, the game with the red and white clad warriors from Ithaca took place on a wet and muddy field, and Joel played the game through from start to finish, Prince being engaged in nursing his treacherous ankle, which had developed alarming symptoms with the advent of wet weather. The game resulted in a score of ",
+    "quoteTime": "twenty-four to five",
+    "quoteLast": ", the Ithacans scoring a neat, but inexcusable, goal from field in the first half. Joel played like a Trojan, and went around the left end of the opposing line time and again for good gains, until the mere placing of the ball in his hands was accepted by the spectators as equal to an accomplished gain.",
+    "title": "The Half-Back: A Story of School, Football, and Golf",
+    "author": "Barbour, Ralph Henry, 1870-1944; Clinedinst, B. West (Benjamin West), 1860-1931 [Illustrator]",
+    "gutenbergReference": "11041",
+    "hash": "b21104925551103b428cf9ab423e4b159e9ef4c3a09d2f80a3b0163c2e9946a3"
+  },
+  {
+    "time": "16:36",
+    "quoteFirst": "Frae ",
+    "quoteTime": "twenty-four to five",
+    "quoteLast": "-and-forty, My muse was neither sweer nor dorty, My Pegasus would break his tether, E'en at the shagging of a feather, And through ideas scour like drift, Streaking his wings up to the lift; Then, then my soul was in a low, That gart my members safely row; But eild and judgment 'gin to say,",
+    "title": "The Mirror of Literature, Amusement, and Instruction. Volume 13, No. 362, March 21, 1829",
+    "author": "Various",
+    "gutenbergReference": "12498",
+    "hash": "a02eb95a24a232c7e45a03319c899f179608599ab0c5bd2ab3fce92cb5fc79b0"
   }
 ]

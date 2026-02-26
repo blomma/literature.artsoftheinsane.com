@@ -1,6 +1,26 @@
 [
   {
     "time": "12:47",
+    "quoteFirst": "\"",
+    "quoteTime": "Thirteen to thirteen",
+    "quoteLast": "! Same as that other game! Say, this is getting mighty interesting!\"",
+    "title": "The Rover Boys at Colby Hall; or, The Struggles of the Young Cadets",
+    "author": "Stratemeyer, Edward, 1862-1930",
+    "gutenbergReference": "21894",
+    "hash": "5af91bb1718accac5858029b79bbb74c2d1d015484404b41d77f10f667f46ea0"
+  },
+  {
+    "time": "12:47",
+    "quoteFirst": "\"",
+    "quoteTime": "Thirteen to thirteen",
+    "quoteLast": "! What do you think of that?\"",
+    "title": "The Rover Boys at Colby Hall; or, The Struggles of the Young Cadets",
+    "author": "Stratemeyer, Edward, 1862-1930",
+    "gutenbergReference": "21894",
+    "hash": "f5b0ab4c58da3305cb73b9bb85c0dcdd47ac7dfb59e7bd8b3c1787920a3b75c8"
+  },
+  {
+    "time": "12:47",
     "quoteFirst": "At ",
     "quoteTime": "forty-seven minutes past twelve",
     "quoteLast": " they reached the buoy; it was in perfect condition, and must have shifted but little.",
@@ -68,6 +88,16 @@
     "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
     "gutenbergReference": "50265",
     "hash": "61d9c47b0e3dca6f85cb7b9ac674807d69fb6f565a5636ef0bce8ff6ece64876"
+  },
+  {
+    "time": "12:47",
+    "quoteFirst": "Its ears, too, are smaller than in the latter species, and its mane fuller. In size Burchell's zebra is intermediate between the mountain-zebra and Grevy's zebra, standing from ",
+    "quoteTime": "thirteen to thirteen",
+    "quoteLast": " and a half hands at the shoulder.",
+    "title": "The Living Animals of the World, Volume 1 (of 2)\nA Popular Natural History",
+    "author": "Cornish, C. J. (Charles John), 1858-1906 [Editor]; Aflalo, Frederick G. (Frederick George), 1870-1918 [Contributor]; Bryden, H. A. (Henry Anderson), 1854-1937 [Contributor]; Johnston, Harry, 1858-1927 [Contributor]; Lane, Charles Henry [Contributor]; Pycraft, W. P. (William Plane), 1868-1942 [Contributor]; Saville-Kent, William, 1845-1908 [Contributor]; Selous, Frederick Courteney, 1851-1917 [Contributor]; Wain, Louis, 1860-1939 [Contributor]",
+    "gutenbergReference": "60000",
+    "hash": "ce6af3b2f887bcd8bb5e51861b8e125b0dbfb7d41d14080704bf3714e543057b"
   },
   {
     "time": "12:47",

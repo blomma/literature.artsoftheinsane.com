@@ -41,6 +41,16 @@
   },
   {
     "time": "01:18",
+    "quoteFirst": "And how much d'ye think there's aboard? Not less than a hundred ton, if I don't see double. There's no man can teach me the capacity of a cask, and there are casks below varying from ",
+    "quoteTime": "forty-two to two",
+    "quoteLast": " hundred and seventy-five gallons, with no lack of whalebone stored dry somewhere, I don't doubt, if those casks would let us look for it.\"",
+    "title": "The Honour of the Flag",
+    "author": "Russell, William Clark, 1844-1911",
+    "gutenbergReference": "19899",
+    "hash": "58d907aa48e9bf248ca05233c4d8262a7a3e6d10e4c737485cf9d9e85631d252"
+  },
+  {
+    "time": "01:18",
     "quoteFirst": "A taxicab whirled him to his rooms, waited while his whirled together a few necessaries, whirled him back again. At ",
     "quoteTime": "1.18 A.M.",
     "quoteLast": " he was hammering, still highly strung, at the door of the solitary inn in Datchet.",
@@ -48,5 +58,15 @@
     "author": "Capes, Bernard, 1854-1918; Cuneo, Cyrus, 1879-1916 [Illustrator]",
     "gutenbergReference": "70105",
     "hash": "432a929df622388fb0b033de861446a4aeb71a77ab27341d8c9870bced4e1e64"
+  },
+  {
+    "time": "01:18",
+    "quoteFirst": "The first decided defeat that he suffered was in the election of the Chairman of Committees. The Ministerial candidate, Giles Earle, was thrown out by a majority of two hundred and ",
+    "quoteTime": "forty-two to two",
+    "quoteLast": " hundred and thirty-eight, and the Opposition candidate, Dr. Lee, was hailed by a shout that rent the House. Other close divisions followed.",
+    "title": "Cassell's History of England, Vol. 4 (of 8)\r\nFrom the Fall of Marlborough to the Peninsular War",
+    "author": "Anonymous",
+    "gutenbergReference": "55186",
+    "hash": "1fb039dfc932ca9b11052cf02b1e7d20a5c4a441d654a0f10f1168a83af6d3e5"
   }
 ]

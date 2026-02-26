@@ -1,6 +1,16 @@
 [
   {
     "time": "09:04",
+    "quoteFirst": "At 7.55 A.M. we started ahead. At 8.20 A.M. it was found that we could not handle the ship by the stern; stopped and attempted to take the line forward. Before it could be made fast, the ship settled so rapidly that the crew was obliged to abandon her, and we hauled the tow-line on board. At 8.54 A.M. the bow of the _Californian_ went down, apparently resting on bottom. At ",
+    "quoteTime": "9.04 A.M.",
+    "quoteLast": " the stern disappeared and _Corsair_ proceeded. While waiting we hoisted two of the _Californian’s_ boats on board.",
+    "title": "The Corsair in the war zone",
+    "author": "Paine, Ralph Delahaye, 1871-1925",
+    "gutenbergReference": "72760",
+    "hash": "547127cf95ad07de9a9441fb94321a1457504e394d367e4a826fdacc03782b28"
+  },
+  {
+    "time": "09:04",
     "quoteFirst": "I again gave orders to abandon the ship, which was done, and the _Californian_ soon began to sink rapidly, going down bow first until the stern was almost perpendicular. Later the ship slowly righted and the stern disappeared entirely at ",
     "quoteTime": "9.04 A.M.",
     "quoteLast": " in Latitude 46° 17′ 15″ North, Longitude 2° 10′ 30″ West.",
@@ -11,13 +21,13 @@
   },
   {
     "time": "09:04",
-    "quoteFirst": "At 7.55 A.M. we started ahead. At 8.20 A.M. it was found that we could not handle the ship by the stern; stopped and attempted to take the line forward. Before it could be made fast, the ship settled so rapidly that the crew was obliged to abandon her, and we hauled the tow-line on board. At 8.54 A.M. the bow of the _Californian_ went down, apparently resting on bottom. At ",
-    "quoteTime": "9.04 A.M.",
-    "quoteLast": " the stern disappeared and _Corsair_ proceeded. While waiting we hoisted two of the _Californian’s_ boats on board.",
-    "title": "The Corsair in the war zone",
-    "author": "Paine, Ralph Delahaye, 1871-1925",
-    "gutenbergReference": "72760",
-    "hash": "547127cf95ad07de9a9441fb94321a1457504e394d367e4a826fdacc03782b28"
+    "quoteFirst": "“You haven’t got time, Chick,” Bert protested. “It’s ",
+    "quoteTime": "four after nine",
+    "quoteLast": " now.”",
+    "title": "Right Half Hollins",
+    "author": "Barbour, Ralph Henry, 1870-1944; Crump, Leslie, 1894-1962 [Illustrator]",
+    "gutenbergReference": "53986",
+    "hash": "ed13397bbeb1af393c6110660daffde0698520bf921b365db4cc1c38dc896b27"
   },
   {
     "time": "09:04",
@@ -51,6 +61,16 @@
   },
   {
     "time": "09:04",
+    "quoteFirst": "\"Tuesday, 12th June. At 6 the boat came on board with wood and an account that James Cavanagh a prisoner who was sent to cut wood had run into the Brush and that a party of men had been in pursuit of him and could not find him and he was left behind: at 1/",
+    "quoteTime": "4 past 9",
+    "quoteLast": " a heavy squall: gave the vessel more cable: found her driving in shore very fast: the gale continuing and a heavy sea. Set the top-sail, main-sail and fore-top-stay sail and cut the cable, not being able to get anchor on account of vessel driving so fast: the anchor was lost, 120 fathoms of cable.",
+    "title": "The Logbooks of the Lady Nelson\r\nWith the journal of her first commander Lieutenant James Grant",
+    "author": "Lee, Ida, 1865-1943",
+    "gutenbergReference": "7509",
+    "hash": "a857c5140952f2697fc993afaf1648163994972000d52ed199170ff9b6c7c09c"
+  },
+  {
+    "time": "09:04",
     "quoteFirst": "\"Paris, 3/",
     "quoteTime": "4 past 9 A.M.",
     "quoteLast": "",
@@ -58,5 +78,15 @@
     "author": "Sue, Eugène, 1804-1857",
     "gutenbergReference": "3339",
     "hash": "8f0c969cd72211ce8e09c7a3a12d59a815806161aef6c8ac69490fe471bdab7d"
+  },
+  {
+    "time": "09:04",
+    "quoteFirst": "Cork--Arrives 1/",
+    "quoteTime": "4 past 9",
+    "quoteLast": " following night.",
+    "title": "The Scientific Tourist through Ireland\r\nin which the traveller is directed to the principal objects of antiquity, art, science & the picturesque",
+    "author": "Walford, Thomas, 1752-1833",
+    "gutenbergReference": "48757",
+    "hash": "e9ed1a34ec0fbcbe1d1284a9ac8738ee33273fc4ab26ccf636758b9b10de17cc"
   }
 ]

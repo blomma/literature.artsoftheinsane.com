@@ -21,6 +21,16 @@
   },
   {
     "time": "19:29",
+    "quoteFirst": "This was a miniature of Old Faithful in the Yellowstone. Old Faithful is bigger, its intervals average sixty-five minutes, and they range from ",
+    "quoteTime": "thirty-one to eight",
+    "quoteLast": "y-one minutes. It jets up 150 feet for a period of four minutes. It throws out 3,000 barrels of water at each eruption. Our little machine threw up about a pint to a height of four feet.",
+    "title": "My experiments with volcanoes",
+    "author": "Jaggar, Thomas Augustus, 1871-1953",
+    "gutenbergReference": "69830",
+    "hash": "86741be84024959cc55af8d98001b94d0417872b4ea5a86c84258105df0599c3"
+  },
+  {
+    "time": "19:29",
     "quoteFirst": "He rises after daylight and sets on the 1st at 9:06 p. m., on the 15th at 8:19 p. m., and on the 30th at ",
     "quoteTime": "7:29 p. m.",
     "quoteLast": "",
@@ -38,5 +48,15 @@
     "author": "Miles, Henry Downes, 1806-1889",
     "gutenbergReference": "64111",
     "hash": "f5f63f8e39d5275283aa2ef7ae35508a5b6246203064b1016700d18d3f178157"
+  },
+  {
+    "time": "19:29",
+    "quoteFirst": "There are four locks. The amount of tolls received here from eighteen hundred and ",
+    "quoteTime": "thirty-one to eight",
+    "quoteLast": "een hundred and thirty-seven, was, according to Judge Hall, four hundred and seventy-five thousand twenty-five dollars and fourteen cents, and he gives a list of four hundred and seventeen steamboats which passed through the canal during the year eighteen hundred and thirty seven.",
+    "title": "A summer journey in the west",
+    "author": "Steele, Eliza R.",
+    "gutenbergReference": "71725",
+    "hash": "d5260b3ae62489116702ee3497876235e225da556eaa9327c2ca5cdbe4f0d7bf"
   }
 ]

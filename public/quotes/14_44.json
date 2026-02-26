@@ -1,6 +1,16 @@
 [
   {
     "time": "14:44",
+    "quoteFirst": "A group of squaws turned out to greet the approach of our canoes, which excited far more interest than ourselves. We went up a long path to the chief's house, where an old squaw with five children, aged from ",
+    "quoteTime": "sixteen to three",
+    "quoteLast": " years, lived. Another house close by was inhabited by Shashegheesh's youngest wife, a tall, slight, rather good-looking squaw, wearing a merino skirt and loose cotton jacket. Mr. F---- had commissioned Carrière to buy some potatoes of her; but before the bargain was completed, her old rival, a puffy-cheeked, but still handsome woman, came forward, asserting her prior right, assuring us that her potatoes were the best.",
+    "title": "A Trip to Manitoba",
+    "author": "FitzGibbon, Mary Agnes, 1851-1915",
+    "gutenbergReference": "7099",
+    "hash": "14e0194bb3ab3fa1e4284a4717125d8c730b68babf7cf30d477a093a26c03050"
+  },
+  {
+    "time": "14:44",
     "quoteFirst": "Albans until ",
     "quoteTime": "2.44 p.m.",
     "quoteLast": " Dreadful is the sense of responsibility, alarming the suggestions of disaster, that arise from this incident.",
@@ -8,6 +18,16 @@
     "author": "Boyle, Frederick, 1841-1914",
     "gutenbergReference": "17155",
     "hash": "d55e65fcf6abd0e8f2db57a24e1bda957f5734f39f366f816b87848b2261dae2"
+  },
+  {
+    "time": "14:44",
+    "quoteFirst": "And--clear the course! clear the course! Oh, dear! now the great Derby race is going to be run.--Twelve to one! Ten to one! Six to one! Nine to two! ",
+    "quoteTime": "Sixteen to three",
+    "quoteLast": "! Done, done, done, done!",
+    "title": "Fifty Years Ago",
+    "author": "Besant, Walter, 1836-1901",
+    "gutenbergReference": "59020",
+    "hash": "f691ef08ba33a5b5ae1de64a5837ccab2d32b8e3e8859a76429c29057240cd4b"
   },
   {
     "time": "14:44",
@@ -28,5 +48,35 @@
     "author": "Wood, Henry, Mrs., 1814-1887",
     "gutenbergReference": "9192",
     "hash": "728f32eab004704fa940e00584e13410598a3ab875ef5a7effffbcdb4b25d72f"
+  },
+  {
+    "time": "14:44",
+    "quoteFirst": "And—clear the course! clear the course! Oh, dear! now the great Derby race is going to be run.——Twelve to one! Ten to one! Six to one! Nine to two! ",
+    "quoteTime": "Sixteen to three",
+    "quoteLast": "! Done, done, done, done!",
+    "title": "The Comic Almanack, Volume 1\r\nAn Ephemeris in Jest and Earnest, Containing Merry Tales, Humerous Poetry, Quips, and Oddities",
+    "author": "Thackeray, William Makepeace, 1811-1863; À Beckett, Gilbert Abbott, 1811-1856; Mayhew, Henry, 1812-1887; Mayhew, Horace, 1816-1872; Smith, Albert, 1816-1860; Cruikshank, George, 1792-1878 [Illustrator]",
+    "gutenbergReference": "52203",
+    "hash": "9a6783f5db2084949285faa6a45a675dd462d2a8bc74d74aa0d89cdb2210ad81"
+  },
+  {
+    "time": "14:44",
+    "quoteFirst": "The period between 1840 and 1848 was one of trial and persecution, the chief difficulties resulting from the opposition of the government, which made it unlawful for more than twenty persons to meet together for any purpose, without the written permission of the magistrates. Brethren began holding private meetings in their own houses, but very soon a law was enacted subjecting any person who opened his house for public worship to a fine of from ",
+    "quoteTime": "sixteen to three",
+    "quoteLast": " hundred francs. The execution of these laws was committed to the mayors of the communes, who were generally Roman Catholics, and thoroughly under the influence of the priests, who, as ever, were not slow to avail themselves of this opportunity to persecute these Baptist brethren, with the hope of preventing further progress, and of destroying what had already been accomplished.",
+    "title": "A Baptist Abroad: Travels and Adventures of Europe and all Bible Lands",
+    "author": "Whittle, Walter Andrew",
+    "gutenbergReference": "50879",
+    "hash": "0f7dc2881401f09201b3c1eb9036f37fb4c92f69b3142df2ddf2c981f62a2ae0"
+  },
+  {
+    "time": "14:44",
+    "quoteFirst": "His father had a small business as a dyer in Islington, and the boy, leaving school at fourteen, was sent to become a copying-clerk in a solicitor’s office; his tastes were so strongly intellectual that it seemed a pity to put him to work he hated, and the clerkship was the best opening that could be procured for him. Two years after, Mr. Scawthorne died; his wife tried to keep on the business, but soon failed, and thenceforth her son had to support her as well as himself. From ",
+    "quoteTime": "sixteen to three",
+    "quoteLast": "-and-twenty was the period of young Scawthorne’s life which assured his future advancement—and his moral ruin. A grave, gentle, somewhat effeminate boy, with a great love of books and a wonderful power of application to study, he suffered so much during those years of early maturity, that, as in almost all such eases, his nature was corrupted.",
+    "title": "The Nether World",
+    "author": "Gissing, George, 1857-1903",
+    "gutenbergReference": "4301",
+    "hash": "07e9474742edf012b16c3b1a0cda3e7ed6227adc3b938a23428931993213e93d"
   }
 ]

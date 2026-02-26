@@ -21,6 +21,16 @@
   },
   {
     "time": "13:26",
+    "quoteFirst": "Another amendment, moved by Mr. Ponsonby, for the purpose of protecting inchoate rights of freemen, was equally unsuccessful, being negatived by a majority of two hundred and ",
+    "quoteTime": "thirty-four to two",
+    "quoteLast": " hundred and three. The bill arranged all the boroughs into two classes, according to their population, the larger boroughs being divided into wards. In all these boroughs the bill required no qualification in the common-councilmen, except that of being ratepayers.",
+    "title": "The History of England in Three Volumes, Vol.III.\r\nFrom the Accession of George III. to the Twenty-Third Year of the Reign of Queen Victoria",
+    "author": "Farr, Edward; Nolan, E. H. (Edward Henry)",
+    "gutenbergReference": "19218",
+    "hash": "9fefd07acc4978f67e2124af39bf71d91ed8390665096819520e4bfe338e9c1c"
+  },
+  {
+    "time": "13:26",
     "quoteFirst": "1:19 P. M. Hauled out F. deck gangway. ",
     "quoteTime": "1:26 P. M.",
     "quoteLast": " Let go all lines.",
@@ -108,5 +118,15 @@
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
     "hash": "c3198e36bff8312e049ab1a84bd83d5f77034728aa884c8101f94e61ae238976"
+  },
+  {
+    "time": "13:26",
+    "quoteFirst": "New subjects appeared in proportion as the academies increased in numbers and importance. Of 149 new subjects for study appearing in the academies of New York, between 1787 and 1870, 23 appeared before 1826, 100 between 1826 and 1840, and ",
+    "quoteTime": "26 after 1",
+    "quoteLast": "840.",
+    "title": "The History of Education\r\nEducational Practice and Progress Considered as a Phase of the Development and Spread of Western Civilization",
+    "author": "Cubberley, Ellwood Patterson, 1868-1941",
+    "gutenbergReference": "7521",
+    "hash": "4d70c7d97c2c8da22c242cd707597ecefcfa101094499c4a3a65a531e472fa89"
   }
 ]

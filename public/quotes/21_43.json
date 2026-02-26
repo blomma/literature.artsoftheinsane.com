@@ -1,6 +1,56 @@
 [
   {
     "time": "21:43",
+    "quoteFirst": "For the white pepper the planter receives the fourth part of a dollar, or fifteen pence, per bamboo or gallon measure, equal to about six pounds weight. At the sales in England the prices are at this time in the proportion of ",
+    "quoteTime": "seventeen to ten",
+    "quoteLast": " or eleven, and the quantity imported has for some years been inconsiderable.",
+    "title": "The history of Sumatra",
+    "author": "Marsden, William, 1754-1836",
+    "gutenbergReference": "16768",
+    "hash": "3d06a73e0f5237f69397970ddf29b10b04214e79e14568afdbda19240df6df6c"
+  },
+  {
+    "time": "21:43",
+    "quoteFirst": "1. He reduced the hours of labour from ",
+    "quoteTime": "seventeen to ten",
+    "quoteLast": " _per diem_.",
+    "title": "A history of economic doctrines",
+    "author": "Gide, Charles, 1847-1932; Rist, Charles, 1874-1955; Richards, R. (Robert), 1884-1954 [Translator]; Smart, William, 1853-1915 [Translator]",
+    "gutenbergReference": "57500",
+    "hash": "00e0758af4775992df6e59be84f6516c88fd8aced7d633bca9bb536ba63b0450"
+  },
+  {
+    "time": "21:43",
+    "quoteFirst": "There were thirty scholars, ranging from the ages of ",
+    "quoteTime": "seventeen to ten",
+    "quoteLast": "; two in each room. They were obliged to make their own beds, and take all the care of their rooms, except the sweeping.",
+    "title": "Marion Berkley: A Story for Girls",
+    "author": "Comins, Elizabeth B. (Elizabeth Barker), 1846-1922",
+    "gutenbergReference": "41524",
+    "hash": "7aadd147f41d431e994ba8a374c1060bc316d783d83cf7d25aa867841c76cfae"
+  },
+  {
+    "time": "21:43",
+    "quoteFirst": "After Huyghens, the discovery was made by an English astronomer named Ball, that instead of only one ring, Saturn had two rings, divided by a narrow, dark line, and that the inner ring was broader than the outer in about the ratio of ",
+    "quoteTime": "seventeen to ten",
+    "quoteLast": "; that is, the breadth of the inner was estimated to be 17,000 miles, while that of the outer was only 10,300 miles. In 1850, Prof. Bond, of Cambridge, discovered a third ring lying between the inner ring and the planet.",
+    "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55251",
+    "hash": "d496126589f20728cd632b652af3dfaa53b70bd161939fda090528c92d8685c0"
+  },
+  {
+    "time": "21:43",
+    "quoteFirst": "In vain did Boxer Hall try to stop up the gap, but their left-tackle and guard were about all in. In two minutes more Bricktop Molloy was shoved over the line for a third touch-down, and, as goal was kicked, the score was ",
+    "quoteTime": "seventeen to ten",
+    "quoteLast": ".",
+    "title": "A Quarter-Back's Pluck: A Story of College Football",
+    "author": "Chadwick, Lester, 1873-1962",
+    "gutenbergReference": "40668",
+    "hash": "c7116a71625ddd7a4a5d8d535a994a6802394e7f814dd352c931ecaab5a0c8b9"
+  },
+  {
+    "time": "21:43",
     "quoteFirst": "",
     "quoteTime": "9:43 P.M.",
     "quoteLast": "",
@@ -38,5 +88,15 @@
     "author": "Pain, Barry, 1864-1928; Goldsmith, Wallace, 1873-1945 [Illustrator]",
     "gutenbergReference": "23783",
     "hash": "c028f564cd40e329620dcd719dcb12daeea185354f063ca3816e51dc933778bc"
+  },
+  {
+    "time": "21:43",
+    "quoteFirst": "Endeavour suddenly shoaled her water front ",
+    "quoteTime": "seventeen to ten",
+    "quoteLast": " fathom. As the lieutenant knew that she was not far off from some small islands and rocks, which lead been seen before it was dark, and which he had intended to have passed that evening, he thought it more prudent to tack, and to spend the night under Mowtohora, where he was certain that there was no danger.",
+    "title": "Narrative of the Voyages Round the World, Performed by Captain James Cook\r\nWith an Account of His Life During the Previous and Intervening Periods",
+    "author": "Kippis, Andrew, 1725-1795",
+    "gutenbergReference": "7777",
+    "hash": "a4a6df457ea5def3a4c18a52782021402c4f4d12110b461c9750467687ae44e8"
   }
 ]

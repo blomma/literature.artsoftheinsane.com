@@ -1,43 +1,33 @@
 [
   {
     "time": "22:35",
-    "quoteFirst": "While on board H.M.S. _Revenge_, Harry sent the following message, _via_ Aberdeen, at ",
-    "quoteTime": "10.35 p.m.",
-    "quoteLast": " on Sunday, May 25th:",
-    "title": "H. G. Hawker, airman: his life and work",
-    "author": "Hawker, Muriel; Moore-Brabazon, John Theodore Cuthbert, 1884-1964 [Author of introduction, etc.]",
-    "gutenbergReference": "64793",
-    "hash": "0258fda1c421876dbacf670cda20541da401a3a66eaeeced9c2e8b8e88f6e111"
+    "quoteFirst": "So that the odds are ",
+    "quoteTime": "twenty-five to eleven",
+    "quoteLast": " against hitting either of these blots.",
+    "title": "The Field Book: or, Sports and pastimes of the United Kingdom\r\ncompiled from the best authorities, ancient and modern",
+    "author": "Maxwell, W. H. (William Hamilton), 1792-1850",
+    "gutenbergReference": "53702",
+    "hash": "d7e792147fb1384ffca7db75d44670315aaa71e0dafbdb7cd1d875e735fe705b"
   },
   {
     "time": "22:35",
-    "quoteFirst": "\"",
-    "quoteTime": "10.35 P.M.",
-    "quoteLast": " The glacier-tongue is trending to the east and a line of heavy pack extends to the north, with many large bergs. No sign of flag or signal on the end of the barrier.",
-    "title": "The Home of the Blizzard\r\nBeing the Story of the Australasian Antarctic Expedition, 1911-1914",
-    "author": "Mawson, Douglas, Sir, 1882-1958",
-    "gutenbergReference": "6137",
-    "hash": "1d1cab8ccf23133baddcfbeb9f4278fa9ad8f4d471e478a05a449eb12e1168d4"
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty-five minutes to eleven",
+    "quoteLast": " when we noiselessly pushed off.",
+    "title": "The Riddle of the Sands",
+    "author": "Childers, Erskine, 1870-1922",
+    "gutenbergReference": "2360",
+    "hash": "06f4edf48a90a727f17b7d7da426a37be6e664ece6c982c6a475667224f3eb0a"
   },
   {
     "time": "22:35",
-    "quoteFirst": "On the 25th it continued from 9.10 A.M. to 1.30 P.M. to bend straight downwards, apparently owing to its weight (Fig. 90); but after this hour until ",
+    "quoteFirst": "—A fine young leaf 5 3/4 inches in length, produced by a young plant 2 feet high, growing vigorously in a large pot, was directed at an angle of about 45° beneath the horizon. On June 18th the leaf descended from 10 A.M. till 11.35 A.M. (see Fig. 109); it then ascended greatly till 6 P.M., this ascent being probably due to the light coming only from above. It zigzagged between 6 P.M. and ",
     "quoteTime": "10.35 P.M.",
-    "quoteLast": " it zigzagged. This fact deserves notice, for we here probably see the combined effects of the bending down from weight and of circumnutation. The stolon, however, did not circumnutate when it first began to bend down, as may be observed in the present diagram, and as was still more evident in the last case, when a longer portion of the stolon was left unsupported.",
+    "quoteLast": ", and ascended a little during the night. It should be remarked that the vertical distances in the lower part of the diagram are much exaggerated, as the leaf was at first deflected beneath the horizon, and after it had sunk downwards, the filament pointed in a very oblique line towards the glass.",
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "hash": "4748465e3fead5036f044f3d9bf3b70e2464f24ce6991aba0748c2f33ad05bc4"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "At ",
-    "quoteTime": "thirty-five minutes past ten",
-    "quoteLast": ", Captain Nemo quitted the helm, and, turning to me, said:",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "164",
-    "hash": "1f5810ea15ed2d85932bae5ea794cd49c17aa6f51d6572c7d6e9b08e444495d9"
+    "hash": "73f3fc7fdeaf555131d3c1b19819d956b751475dd3563b03a1e1c77751c28991"
   },
   {
     "time": "22:35",
@@ -51,133 +41,53 @@
   },
   {
     "time": "22:35",
-    "quoteFirst": "Several attitudes imply “Make ready.” The “make ready” of ten minutes to one differs from the “make ready” of ten minutes to twelve, as youth differs from age. “Upward and onward” says ",
-    "quoteTime": "twenty-five minutes to eleven",
+    "quoteFirst": "4 rectal at 3 A.M. on the 13th. Remained unconscious until death, which occurred at ",
+    "quoteTime": "10:35 P.M.",
+    "quoteLast": " Sept. 14.",
+    "title": "Horrors of vaccination exposed and illustrated\r\n",
+    "author": "Higgins, Chas. M. (Charles Michael), 1854-1929",
+    "gutenbergReference": "69965",
+    "hash": "3c6d4f1a2316bb456761e3dfb86e57ffba42ea774c86c5482a5655431414e280"
+  },
+  {
+    "time": "22:35",
+    "quoteFirst": "\"The President died at ",
+    "quoteTime": "10.35 P. M.",
+    "quoteLast": " After the bulletin was issued at 5.30 this evening, the President continued in much the same condition as during the afternoon, the pulse varying from 102 to 106, with rather increased force and volume. After taking nourishment he fell into a quiet sleep about thirty-five minutes before his death, and while asleep his pulse rose to 120, and was somewhat more feeble.",
+    "title": "The Life and Public Services of James A. Garfield\r\nTwentieth President of the United States, Including Full and Accurate Details of His Eventful Administration, Assassination, Last Hours, Death, Etc., Together with Notable Extracts from His Speeches and Letters",
+    "author": "Brown, E. E. (Emma Elizabeth), 1847-",
+    "gutenbergReference": "34217",
+    "hash": "db734f654e924cda5d0ee00f74d773ae5790a86e2677d05a1ea691abe5713575"
+  },
+  {
+    "time": "22:35",
+    "quoteFirst": "\"The President died at ",
+    "quoteTime": "10.35 P. M.",
+    "quoteLast": " After the bulletin was issued at 5.30 this evening, the President continued in much the same condition as during the afternoon, the pulse varying from 102 to 106, with rather increased force and volume. After taking nourishment he fell into a quiet sleep about thirty-five minutes before his death, and while asleep his pulse rose to 120, and was somewhat more feeble.",
+    "title": "The Life and Public Services of James A. Garfield\r\nTwentieth President of the United States, Including Full and Accurate Details of His Eventful Administration, Assassination, Last Hours, Death, Etc., Together with Notable Extracts from His Speeches and Letters",
+    "author": "Brown, E. E. (Emma Elizabeth), 1847-",
+    "gutenbergReference": "34217",
+    "hash": "db734f654e924cda5d0ee00f74d773ae5790a86e2677d05a1ea691abe5713575"
+  },
+  {
+    "time": "22:35",
+    "quoteFirst": "While on board H.M.S. _Revenge_, Harry sent the following message, _via_ Aberdeen, at ",
+    "quoteTime": "10.35 p.m.",
+    "quoteLast": " on Sunday, May 25th:",
+    "title": "H. G. Hawker, airman: his life and work",
+    "author": "Hawker, Muriel; Moore-Brabazon, John Theodore Cuthbert, 1884-1964 [Author of introduction, etc.]",
+    "gutenbergReference": "64793",
+    "hash": "0258fda1c421876dbacf670cda20541da401a3a66eaeeced9c2e8b8e88f6e111"
+  },
+  {
+    "time": "22:35",
+    "quoteFirst": "I put the clock back on the mantelpiece again and once more sat down, still without looking at her. Glancing presently at the clock again I saw that its hands pointed to ",
+    "quoteTime": "five and twenty minutes to eleven",
     "quoteLast": ".",
-    "title": "Desperate Remedies",
-    "author": "Hardy, Thomas, 1840-1928",
-    "gutenbergReference": "3044",
-    "hash": "93b38f8e86e859647f127c3046b4142a94b7633861ab83c4e6b6109bfa191809"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "1 inches in length, measured from base of petiole to end of leaflets, had a filament affixed to the midrib of one of the two terminal leaflets, and its movements were traced during 51½ h. The filament fell all morning (July 2nd) till 3 P.M., and then rose greatly till ",
-    "quoteTime": "10.35 P.M.",
-    "quoteLast": "; but the rise this day was so great, compared with that which subsequently occurred, that it was probably due in part to the plant being illuminated from above. The latter part of the course on July 2nd is alone given in the following figure (Fig. 100).",
-    "title": "The Power of Movement in Plants",
-    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
-    "gutenbergReference": "5605",
-    "hash": "50788e2db49b43ba42e047171f70653c1aeb47b4cf76f8c903321f5da0e8c43d"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "The diagram differs greatly in appearance from most of those previously given; and this is due to the leaflet twisting and moving laterally as it approaches and comes into contact with its fellow. The movement of another leaflet, when asleep, was traced between 6 P.M. and ",
-    "quoteTime": "10.35 P.M.",
-    "quoteLast": ", and it clearly circumnutated, for it continued for two hours to sink, then rose, and then sank still lower than it was at 6 P.M. It may be seen in the preceding figure (167) that the leaflet, when the plant was subjected to a rather low temperature in the house, descended and ascended during the middle of the day in a somewhat zigzag line; but when kept in the hot-house from 9 A.M. to 3 P.M. at a high but varying temperature (viz., between 72° and 83° F.",
-    "title": "The Power of Movement in Plants",
-    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
-    "gutenbergReference": "5605",
-    "hash": "314351b4e272b7b43ca85088a7c4354847930037624651230f7f605205f429a1"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "_b._ UFOs over Kentucky, ",
-    "quoteTime": "10:35 P.M.",
-    "quoteLast": ", CST, July 7, 1947. Jet trails? Bolides? (CHAP. III)]",
-    "title": "The World of Flying Saucers: A Scientific Examination of a Major Myth of the Space Age",
-    "author": "Menzel, Donald H. (Donald Howard), 1901-1976; Boyd, Lyle Gifford, 1907-1982",
-    "gutenbergReference": "66639",
-    "hash": "b2d38851282bd9a6ad7491f192b7d93c848d638f81f0c2c876a11cd77ee67d15"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "The psychologist glanced at his watch swiftly. It was already ",
-    "quoteTime": "twenty-five minutes to eleven",
-    "quoteLast": "!",
-    "title": "The achievements of Luther Trant",
-    "author": "Balmer, Edwin, 1883-1959; MacHarg, William, 1872-1951; Oberhardt, William, 1882-1958 [Illustrator]",
-    "gutenbergReference": "75523",
-    "hash": "648342b893c3d9cc536c1581f95d43cb2c4c7ea8a21251889265e88cc37b7aca"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "“From this time, he entered into a kind of sleep, though with his eyes open and fixed. Twenty-four hours, my dearly beloved breathed like a person in common sleep; and then, at ",
-    "quoteTime": "thirty-five minutes past ten",
-    "quoteLast": " on Sunday night, August 14, his precious soul entered into the joy of his Lord, in the fifty-sixth year of his age. I was scarce a minute at a time from him, night or day, during his illness, and I can truly say—",
-    "title": "Wesley's Designated Successor\r\nThe Life, Letters, and Literary Labours of the Rev. John William Fletcher, Vicar of Madeley, Shropshire",
-    "author": "Tyerman, L. (Luke), 1820?-1889",
-    "gutenbergReference": "66910",
-    "hash": "b6f762071bbd0ccb6a30f8649cf406517af25ed7089384e5ece3e9a340e77f60"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "At ",
-    "quoteTime": "thirty-five minutes past ten P. M.",
-    "quoteLast": ", the President called his family about him, to give them his last earthly advice and bid them his last good-by. No conventional education could restrain the natural expressions of grief of the members of this afflicted household, and their heart-rending cries of agony reached the surrounding street.",
-    "title": "The Ladies of the White House; Or, in the Home of the Presidents\r\nBeing a Complete History of the Social and Domestic Lives of the Presidents from Washington to the Present Time—1789–1881",
-    "author": "Holloway, Laura C. (Laura Carter), 1848-1930",
-    "gutenbergReference": "66909",
-    "hash": "2e376ba3ba54afbf916aa90c19dc1c6129e73ad8f0cd238ffe7663660d3b17aa"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "4 rectal at 3 A.M. on the 13th. Remained unconscious until death, which occurred at ",
-    "quoteTime": "10:35 P.M.",
-    "quoteLast": " Sept. 14.",
-    "title": "Horrors of vaccination exposed and illustrated\r\n",
-    "author": "Higgins, Chas. M. (Charles Michael), 1854-1929",
-    "gutenbergReference": "69965",
-    "hash": "3c6d4f1a2316bb456761e3dfb86e57ffba42ea774c86c5482a5655431414e280"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "The main petiole of a leaf having been secured to a stick, close to the base of the sub-petiole of the terminal leaflet, the latter described two small ellipses between 10.30 A.M., and 2 P.M. At 7.15 P.M., after this same leaflet (as well as another) had twisted themselves into their vertical nocturnal position, they began to rise slowly, and continued to do so until ",
-    "quoteTime": "10.35 P.M.",
-    "quoteLast": ", after which hour they were no longer observed.",
-    "title": "The Power of Movement in Plants",
-    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
-    "gutenbergReference": "5605",
-    "hash": "0a319deb25b6d9b8e5a1f47c6418924f96c544143d7934e78e78c47f23828505"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "_b._ UFOs over Kentucky, ",
-    "quoteTime": "10:35 P.M.",
-    "quoteLast": ", CST, July 7, 1947. Jet trails? Bolides? (CHAP. III)]",
-    "title": "The World of Flying Saucers: A Scientific Examination of a Major Myth of the Space Age",
-    "author": "Menzel, Donald H. (Donald Howard), 1901-1976; Boyd, Lyle Gifford, 1907-1982",
-    "gutenbergReference": "66639",
-    "hash": "b2d38851282bd9a6ad7491f192b7d93c848d638f81f0c2c876a11cd77ee67d15"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "“From this time, he entered into a kind of sleep, though with his eyes open and fixed. Twenty-four hours, my dearly beloved breathed like a person in common sleep; and then, at ",
-    "quoteTime": "thirty-five minutes past ten",
-    "quoteLast": " on Sunday night, August 14, his precious soul entered into the joy of his Lord, in the fifty-sixth year of his age. I was scarce a minute at a time from him, night or day, during his illness, and I can truly say—",
-    "title": "Wesley's Designated Successor\r\nThe Life, Letters, and Literary Labours of the Rev. John William Fletcher, Vicar of Madeley, Shropshire",
-    "author": "Tyerman, L. (Luke), 1820?-1889",
-    "gutenbergReference": "66910",
-    "hash": "b6f762071bbd0ccb6a30f8649cf406517af25ed7089384e5ece3e9a340e77f60"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "4 rectal at 3 A.M. on the 13th. Remained unconscious until death, which occurred at ",
-    "quoteTime": "10:35 P.M.",
-    "quoteLast": " Sept. 14.",
-    "title": "Horrors of vaccination exposed and illustrated\r\n",
-    "author": "Higgins, Chas. M. (Charles Michael), 1854-1929",
-    "gutenbergReference": "69965",
-    "hash": "3c6d4f1a2316bb456761e3dfb86e57ffba42ea774c86c5482a5655431414e280"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "At 9:30, I left by train for Utrecht, which I reached at ",
-    "quoteTime": "10:35 p.m.",
-    "quoteLast": " The station was a new and spacious one and the accommodations were again like those which I had been accustomed to, before I saw Holland; so I felt quite at home again.",
-    "title": "The Youthful Wanderer\r\nAn Account of a Tour through England, France, Belgium, Holland, Germany and the Rhine, Switzerland, Italy, and Egypt, Adapted to the Wants of Young Americans Taking Their First Glimpses at the Old World",
-    "author": "Heffner, George H.",
-    "gutenbergReference": "10638",
-    "hash": "83438c056721e00f452d0193d5efd3b7469df1690f833f20832b5ffd920c333f"
+    "title": "The Debit Account",
+    "author": "Onions, Oliver, 1873-1961",
+    "gutenbergReference": "37479",
+    "hash": "4440104a3188dfcd22885ff554c9498922c87b5b7f3e8e5644a877a9dbf59550"
   },
   {
     "time": "22:35",
@@ -188,15 +98,5 @@
     "author": "Ross, John, Sir, 1777-1856",
     "gutenbergReference": "26031",
     "hash": "143f66dc7d0dd53184476537e88f98366742e73481842e59ad3062257129e63d"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "At ",
-    "quoteTime": "thirty-five minutes past ten",
-    "quoteLast": ", Captain Nemo quitted the helm, and, turning to me, said:",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "164",
-    "hash": "1f5810ea15ed2d85932bae5ea794cd49c17aa6f51d6572c7d6e9b08e444495d9"
   }
 ]

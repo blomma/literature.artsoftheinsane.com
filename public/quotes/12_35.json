@@ -1,13 +1,13 @@
 [
   {
     "time": "12:35",
-    "quoteFirst": "",
-    "quoteTime": "12:35 p.m.",
-    "quoteLast": "--Luncheon.",
-    "title": "In Pastures New",
-    "author": "Ade, George, 1866-1944; Levering, Albert, 1869-1929 [Illustrator]",
-    "gutenbergReference": "38364",
-    "hash": "b01c4ca282e6af80ec37d05c7dc24b20b46621f26838083bb0540f2f9c6664f5"
+    "quoteFirst": "Sept. 14th, 1878, ",
+    "quoteTime": "12:35 p. m.",
+    "quoteLast": "",
+    "title": "The Indians' Last Fight; Or, The Dull Knife Raid",
+    "author": "Collins, Dennis, 1842-1916",
+    "gutenbergReference": "37922",
+    "hash": "5ec77f578b63acd6288e5c60b982395e32a0fb266e85246c462d4798e150bd53"
   },
   {
     "time": "12:35",
@@ -21,13 +21,13 @@
   },
   {
     "time": "12:35",
-    "quoteFirst": "The testimony of Bruce Ray Carlin was taken at ",
-    "quoteTime": "12:35 p.m.",
-    "quoteLast": ", on August 24, 1964, at the Federal Building, Fort Worth, Tex., by Mr. Leon D. Hubert, Jr., assistant counsel of the President’s Commission.",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
-    "hash": "fce2445c21aa7d1d68792a6013a6bc52b5ee19fa8de7707f7c00085503366fbe"
+    "quoteFirst": "At ",
+    "quoteTime": "12.35 P.M.",
+    "quoteLast": " on the 25th the attack started, and in spite of the wire, in some places intact, the first objective was secured. At 1.30 the advance to the second objective began.",
+    "title": "The Grenadier Guards in the Great War of 1914-1918, Vol. 2 of 3",
+    "author": "Ponsonby, Frederick, 1867-1935",
+    "gutenbergReference": "61216",
+    "hash": "ad63f16f52d2aa4ba4e8768ffcd5c7f207f5966c844396601a0a35565c33f03c"
   },
   {
     "time": "12:35",
@@ -41,23 +41,33 @@
   },
   {
     "time": "12:35",
-    "quoteFirst": "(Whereupon, at ",
-    "quoteTime": "12:35 p.m.",
-    "quoteLast": ", the President's Commission recessed.)",
-    "title": "Warren Commission (01 of 26): Hearings Vol. I (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44001",
-    "hash": "648573abeb59153c987c9eb8786e8e3a857c51a04839b5f50e5acfc45cc887fc"
+    "quoteFirst": "Long. 6.35 E. The 2nd Cruiser Squadron was attacked at ",
+    "quoteTime": "12.35 P.M.",
+    "quoteLast": " by an aeroplane, which dropped five bombs near the _Liverpool_, which was in company.",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "hash": "0dd226187edaca29055131050bd28352022fa3142209b0a544df1be246554ee2"
   },
   {
     "time": "12:35",
-    "quoteFirst": "Mr. Balfour did sit in the end. I remember he came to my room about 12.15 p.m. He was sound asleep by ",
-    "quoteTime": "12.35 p.m.",
-    "quoteLast": ", but woke up sharp at 1 p.m., and left for lunch. What a head! It put all other heads out of the running.",
-    "title": "An Onlooker in France 1917-1919",
-    "author": "Orpen, William, Sir, 1878-1931",
-    "gutenbergReference": "20215",
-    "hash": "09ecc63bdcb3d6bece251b1b309217f13113e5b3513dc48461f2e7f9d3665e6d"
+    "quoteFirst": "Oswald was then returned to his cell for an hour, and at ",
+    "quoteTime": "12:35 p.m.",
+    "quoteLast": "",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "8407102dcd4929003e63819eb6988b890d87ba8f6775da85e07c5a06677d8f14"
+  },
+  {
+    "time": "12:35",
+    "quoteFirst": "At about ",
+    "quoteTime": "12:35 P.M.",
+    "quoteLast": ", November 23, 1963, Lee Oswald was interviewed in the offices of Captain Will Fritz of the Homicide Division, Dallas Police Department. Among those present at this interview were Inspector Kelley, Captain Fritz, Detectives Senkel and Tiernon of the Homicide Division and SA James Bookout, FBI.",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "13dc5e1e13370dc1fb0f8e38bf995000b695142a93085e15801e552e45ef0855"
   },
   {
     "time": "12:35",
@@ -71,132 +81,22 @@
   },
   {
     "time": "12:35",
-    "quoteFirst": "The day is filled with duties. From the return of the Battalion from breakfast until 8:00 A.M., is a study period. From 8:00 A.M. until ",
-    "quoteTime": "12:35 P.M.",
-    "quoteLast": ", the different classes attend recitations in the prescribed courses, or perhaps have instruction in gymnastic exercises or in riding. Dinner comes at 12:40 P.M., after which recitations are held until 3:50 P.M. In the fall and spring drills commence at 4:00 P.M., followed by parade at 5:30 P.M., and retreat and supper at 6:30 P.M.",
-    "title": "West Point\r\nAn Intimate Picture of the National Military Academy and of the Life of the Cadet",
-    "author": "Richardson, Robert C. (Robert Charlwood), 1882-1954; Scott, Hugh Lenox, 1853-1934 [Author of introduction, etc.]",
-    "gutenbergReference": "57316",
-    "hash": "f88102f1f0d23e8b41e32b09d8c15565751047a8dc5338cae0ebce8ed12260e7"
+    "quoteFirst": "12.30 p. m. Police arrived at Dillard house. ",
+    "quoteTime": "12.35 p. m.",
+    "quoteLast": " Beedle returned from market.",
+    "title": "The Bishop murder case",
+    "author": "Van Dine, S. S., 1888-1939",
+    "gutenbergReference": "75157",
+    "hash": "670d1bfd2a5e758dbeb100c606d0f1401afbfa94cbd7870f275405e2496fc0ed"
   },
   {
     "time": "12:35",
-    "quoteFirst": "At about ",
-    "quoteTime": "12:35 P.M.",
-    "quoteLast": ", November 23, 1963, Lee Oswald was interviewed in the offices of Captain Will Fritz of the Homicide Division, Dallas Police Department. Among those present at this interview were Inspector Kelley, Captain Fritz, Detectives Senkel and Tiernon of the Homicide Division and SA James Bookout, FBI.",
+    "quoteFirst": "The base station replied, “They have been notified.”[C2-180] Traveling at speeds estimated at times to be up to 70 or 80 miles per hour down the Stemmons Freeway and Harry Hines Boulevard, the Presidential limousine arrived at the emergency entrance of the Parkland Hospital at about ",
+    "quoteTime": "12:35 p.m.",
+    "quoteLast": "[C2-181] Arriving almost simultaneously were the President’s followup car, the Vice President’s automobile, and the Vice President’s followup car. Admiral Burkley, the President’s physician, arrived at the hospital “between 3 and 5 minutes following the arrival of the President,” since the riders in his car “were not exactly aware what had happened” and the car went on to the Trade Mart first.",
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "hash": "13dc5e1e13370dc1fb0f8e38bf995000b695142a93085e15801e552e45ef0855"
-  },
-  {
-    "time": "12:35",
-    "quoteFirst": "Exactly at ",
-    "quoteTime": "12.35 P.M.",
-    "quoteLast": " the assault began, and the 3rd Guards Brigade advanced to the attack with the 2nd Battalion Scots Guards on the right and the 4th Battalion Grenadiers on the left. The first and second objectives were secured with comparatively little loss, considering the strength of the German lines.",
-    "title": "The Grenadier Guards in the Great War of 1914-1918, Vol. 2 of 3",
-    "author": "Ponsonby, Frederick, 1867-1935",
-    "gutenbergReference": "61216",
-    "hash": "db5c106308ab3f2082dcd2ebec377eac82e554db5f6d95756e184f2cb700ad70"
-  },
-  {
-    "time": "12:35",
-    "quoteFirst": "Building. About ",
-    "quoteTime": "12:35 p. m.",
-    "quoteLast": " on that day, Senator Marcus A. Hanna, Chairman of the National Committee, faced the vast assemblage of delegates and spectators and called the Convention to order. After the opening prayer by Rev. J.",
-    "title": "A History of the Republican Party",
-    "author": "Platt, George Washington, 1875-",
-    "gutenbergReference": "37737",
-    "hash": "74fa428e63039960c2db4d622775525b563933f5c2a95699ad9b1b5761d4d425"
-  },
-  {
-    "time": "12:35",
-    "quoteFirst": "Punctually at ",
-    "quoteTime": "12.35 P.M.",
-    "quoteLast": " the attack was launched, and immediately the creeping barrage was put down by our artillery with great accuracy 200 yards in front of the attacking force. The necessity of getting men across No Man’s Land as promptly as possible after zero had been found from experience to be of paramount importance, and the Grenadier and Irish Guards therefore did not hesitate for a moment, but dashed forward in two waves.",
-    "title": "The Grenadier Guards in the Great War of 1914-1918, Vol. 2 of 3",
-    "author": "Ponsonby, Frederick, 1867-1935",
-    "gutenbergReference": "61216",
-    "hash": "21cf1405f63b7d9397f62cbe2e8b63d15386f566b7eca0de174e17a970bc98cf"
-  },
-  {
-    "time": "12:35",
-    "quoteFirst": "You mentioned in your sworn deposition that you talked to about two people that you saw, and you pointed it out in your transmission at ",
-    "quoteTime": "12:35 p.m.",
-    "quoteLast": ", under your Call No. 142.",
-    "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44006",
-    "hash": "eec2372b1a7bc23f0bd1cbf3abf05272e0823fb3396ca4dc6f102fb9b05ee8a3"
-  },
-  {
-    "time": "12:35",
-    "quoteFirst": "Exactly at ",
-    "quoteTime": "12.35 P.M.",
-    "quoteLast": " the assault began, and the 3rd Guards Brigade advanced to the attack with the 2nd Battalion Scots Guards on the right and the 4th Battalion Grenadiers on the left. The first and second objectives were secured with comparatively little loss, considering the strength of the German lines.",
-    "title": "The Grenadier Guards in the Great War of 1914-1918, Vol. 2 of 3",
-    "author": "Ponsonby, Frederick, 1867-1935",
-    "gutenbergReference": "61216",
-    "hash": "db5c106308ab3f2082dcd2ebec377eac82e554db5f6d95756e184f2cb700ad70"
-  },
-  {
-    "time": "12:35",
-    "quoteFirst": "You mentioned in your sworn deposition that you talked to about two people that you saw, and you pointed it out in your transmission at ",
-    "quoteTime": "12:35 p.m.",
-    "quoteLast": ", under your Call No. 142.",
-    "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44006",
-    "hash": "eec2372b1a7bc23f0bd1cbf3abf05272e0823fb3396ca4dc6f102fb9b05ee8a3"
-  },
-  {
-    "time": "12:35",
-    "quoteFirst": "At ",
-    "quoteTime": "12.35 p.m.",
-    "quoteLast": ", less than ten hours after leaving their bivouac, Mont Blanc itself was under foot.",
-    "title": "The making of a mountaineer",
-    "author": "Finch, George Ingle, 1888-1970",
-    "gutenbergReference": "69128",
-    "hash": "6f42bb4d2993ce046b372705617d888970a37f346af05000737f7f01a8ccfc81"
-  },
-  {
-    "time": "12:35",
-    "quoteFirst": "Mr. HALL. I was in the office of the chief of police in Dallas, Tex., at approximately ",
-    "quoteTime": "12:35 p.m.",
-    "quoteLast": " on November 24, 1963, when I received a telephone call from the special agent in charge of the FBI in Dallas, Tex., Mr. J. Gordon Shanklin, who instructed me to interview Jack Ruby.",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
-    "hash": "b1b30a31528644187160886afcbf631e6556bcfaca20189db3aaf48c8c651090"
-  },
-  {
-    "time": "12:35",
-    "quoteFirst": "After a preliminary bombardment by all available batteries the British attack opened at ",
-    "quoteTime": "12.35 p.m.",
-    "quoteLast": " on the 25th, but the 168th Brigade's positions being well in advance of those occupied by the 5th Division on its left, its attack was deferred until seven minutes later in order to allow the 5th Division to come up into line. The creeping barrage, under which the Brigade's advance was made, was supplied by batteries firing from Angle Wood Valley, and being thus in enfilade was particularly efficient and accurate; and under its excellent protection the 1/4th Londons and the London Scottish advanced steadily at 12.",
-    "title": "The War History of the 4th Battalion, the London Regiment (Royal Fusiliers), 1914-1919",
-    "author": "Grimwade, F. Clive",
-    "gutenbergReference": "50098",
-    "hash": "3d1edbc1a8c73a0cc185a36fd97da85cad6a902851de8c7f1f574aeb2c622937"
-  },
-  {
-    "time": "12:35",
-    "quoteFirst": "The greater part of the forenoon was spent in collecting the horses. We left Camp 57 at ",
-    "quoteTime": "12.35 p.m.",
-    "quoteLast": " When we had proceeded up the western bank of the creek (the side on which we had encamped) for about three-quarters of a mile we crossed it and left it as it became evident that its sources were in the hills to the right of the course we wanted to pursue. After proceeding about six and a quarter miles from the creek in an easterly course over low undulating ridges we saw two emus, which remained in our vicinity for some time but not sufficiently near to induce any of us to try and shoot them.",
-    "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
-    "author": "Landsborough, William, 1825-1886",
-    "gutenbergReference": "16243",
-    "hash": "6822ed79996849bc382a7dc7ce4ec5f5143e522aa177434648265ee066a7478b"
-  },
-  {
-    "time": "12:35",
-    "quoteFirst": "Building. About ",
-    "quoteTime": "12:35 p. m.",
-    "quoteLast": " on that day, Senator Marcus A. Hanna, Chairman of the National Committee, faced the vast assemblage of delegates and spectators and called the Convention to order. After the opening prayer by Rev. J.",
-    "title": "A History of the Republican Party",
-    "author": "Platt, George Washington, 1875-",
-    "gutenbergReference": "37737",
-    "hash": "74fa428e63039960c2db4d622775525b563933f5c2a95699ad9b1b5761d4d425"
+    "hash": "50206e9ed24b5a45f07934ef92dfd396b89237c99d4a96a19f8c10a88bf2fb7b"
   }
 ]

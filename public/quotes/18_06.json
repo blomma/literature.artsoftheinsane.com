@@ -1,6 +1,26 @@
 [
   {
     "time": "18:06",
+    "quoteFirst": "Differences of this type are small _fluctuations_ in any and every character, centering about an average or mean, which is itself fairly definite and fixed--less subject to variation in different groups or through successive generations. For example, if we measure by inches the stature of a thousand or more persons chosen at random we find that they may vary from ",
+    "quoteTime": "fifty-four to seven",
+    "quoteLast": "ty-six inches; the most frequent heights might be about sixty-nine and sixty-four inches among the men and women respectively. The results of such a measurement may be expressed graphically as in Figure 3, which is an expression of the measurement of 1,052 mothers.",
+    "title": "The Social Direction of Evolution: An Outline of the Science of Eugenics",
+    "author": "Kellicott, William E. (William Erskine), 1878-1919",
+    "gutenbergReference": "31705",
+    "hash": "0de0fc2a70f84b153397fef6311113ea93543c00762855a3fd1b082d1f14887b"
+  },
+  {
+    "time": "18:06",
+    "quoteFirst": "The spectacle of our public affairs became so revolting that before the middle of General Grant's second term all the great Republican States in the North were lost to the party, while leading Republicans began to agitate the question of remanding the States of the South to territorial rule, on account of their disordered condition.  At the end of this term the Republican majority in the Senate had dwindled from ",
+    "quoteTime": "fifty-four to seven",
+    "quoteLast": "teen, while in the House the majority of one hundred and four had been wiped out to give place to a Democratic majority of seventy-seven. No vindication of the maligned Liberals of 1872 could have been more complete, while it summoned to the bar of history the party whose action had thus brought shame upon the Nation and a stain upon Republican institutions.",
+    "title": "Political Recollections\n1840 to 1872",
+    "author": "Julian, George Washington, 1817-1899",
+    "gutenbergReference": "22959",
+    "hash": "d6a1faf1135eac16167286012ac4ee785b6c1d825e0001a9279146df3a2f342d"
+  },
+  {
+    "time": "18:06",
     "quoteFirst": "June. The tolling of the church-bell at ",
     "quoteTime": "six minutes after six",
     "quoteLast": " o'clock in the evening gave the signal for the attack, when the forlorn hope, consisting of three officers and sixty grenadiers in armour, sprang out of the trenches and plunged into the river, which was waist deep, and rendered difficult by large stones.",
@@ -11,6 +31,26 @@
   },
   {
     "time": "18:06",
+    "quoteFirst": "The following is the result of one series of observations by Yung. In the first brood, by feeding one set with beef, the percentage of females was raised from ",
+    "quoteTime": "fifty-four to seven",
+    "quoteLast": "ty-eight; in the second, with fish, the percentage rose from sixty-one to eighty-one, which in the third set, when the nutritious flesh of frogs was supplied, only eight males were produced to ninety-two females.[27]",
+    "title": "The Sexes in Science and History\nAn inquiry into the dogma of woman's inferiority to man",
+    "author": "Gamble, Eliza Burt, 1841-1920",
+    "gutenbergReference": "60219",
+    "hash": "14e09e08ded5a43689bff01bbbc618a44fe2a7c1a0ed1fa9bb3454bed5f913f0"
+  },
+  {
+    "time": "18:06",
+    "quoteFirst": "Toulon twelve, all great ships from ",
+    "quoteTime": "fifty-four to seven",
+    "quoteLast": "ty-four guns.",
+    "title": "A forgotten Prince of Wales",
+    "author": "Curties, Henry, 1860-1928",
+    "gutenbergReference": "70795",
+    "hash": "6f1cdbc6e1e88c63bcee0c1e64a18d1631d755340bf7b8f21a2a2c09f8aaddf6"
+  },
+  {
+    "time": "18:06",
     "quoteFirst": "Will be distinctly visible every evening from the first to the thirteenth of the month, setting at ",
     "quoteTime": "6:06 p. m.",
     "quoteLast": " on the evening of the former date, and at very nearly the same hour on the latter date. From the 1st to the 11th its motion is from west to east; on the 11th it is said to be stationary; however, it is actually moving in its orbit about thirty thousand miles per hour; but is approaching us in an almost direct line, and thus _seems_ to be at a stand still.",
@@ -18,5 +58,25 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "53652",
     "hash": "7d6e823648c52d6cd6460848fc0146ca02400e3dfe9353390ae42228f47113a5"
+  },
+  {
+    "time": "18:06",
+    "quoteFirst": "Camp still left standing, guarded by Six Battalions; ",
+    "quoteTime": "six after six",
+    "quoteLast": ", alternating week about: one of the grimmest camps in Nature; the canvas roofs grown mere ice-plates, the tents mere sanctuaries of frost:--never did poor young Archenholtz see such industry in dragging wood-fuel, such boiling of biscuits in broken ice, such crowding round the embers to roast one side of you, while the other was freezing.",
+    "title": "History of Friedrich II of Prussia — Volume 19",
+    "author": "Carlyle, Thomas, 1795-1881",
+    "gutenbergReference": "2119",
+    "hash": "fdde60bc6f0ddb25d838155f5849c866aec157182a37cfda7b1a65bf5f31ab55"
+  },
+  {
+    "time": "18:06",
+    "quoteFirst": "Each diver has a stone, weighing forty pounds, attached to a line long enough to reach the bottom, with a loop near the weight, into which he puts his foot. The water varies in depth from ",
+    "quoteTime": "fifty-four to seven",
+    "quoteLast": "ty-eight feet. They work quickly; for a minute is the usual time they remain in the water, though some can stand it twenty seconds longer.",
+    "title": "Across India; Or, Live Boys in the Far East",
+    "author": "Optic, Oliver, 1822-1897",
+    "gutenbergReference": "15540",
+    "hash": "9183673484d06b4ac61f82493212d8208db57d6433b1ae86cb512abf244448e7"
   }
 ]

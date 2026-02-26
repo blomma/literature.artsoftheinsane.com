@@ -1,6 +1,56 @@
 [
   {
     "time": "08:41",
+    "quoteFirst": "A second census of the inhabitants of the United States was completed in 1801. They amounted to five millions three hundred and nineteen thousand seven hundred and sixty-two, having in ten years increased nearly one million four hundred thousand. In the same number of years the exports increased from ",
+    "quoteTime": "nineteen to nine",
+    "quoteLast": "ty-four millions, and the revenue from four millions seven hundred seventy-one thousand, to twelve millions nine hundred and forty-five thousand dollars. This rapid advance in the career of prosperity has no parallel in the history of nations, and is to be attributed principally to the institutions of the country, which, securing equal privileges to all, gave to the enterprise and industry of all free scope and full encouragement.",
+    "title": "A Book of the United States\r\nExhibiting its geography, divisions, constitution, and government ... and presenting a view of the republic generally, and of the individual states; together with a condensed history of the land, from its first discovery to the present time. The biography of about two hundred of the leading men: a description of the principal cities and towns; with statistical tables",
+    "author": "Mellen, Grenville, 1799-1841 [Editor]",
+    "gutenbergReference": "58447",
+    "hash": "8c02aa70864c3eb71ad3916a127fa512de8030bdd9d0dd17101a0b970df2fd78"
+  },
+  {
+    "time": "08:41",
+    "quoteFirst": "Colonel Gray was carried by ",
+    "quoteTime": "nineteen to nine",
+    "quoteLast": ". It was then moved by Mr.",
+    "title": "History of Prince Edward Island",
+    "author": "Campbell, Duncan, 1819?-1886",
+    "gutenbergReference": "35835",
+    "hash": "d1622e6c584429fa54d3dae70fb96e1b2682e4f5bb36fe3ea73da0a4e821e68e"
+  },
+  {
+    "time": "08:41",
+    "quoteFirst": "Of her sons, two are the Northern and Southern Bushels; the latter, dressed in red, rules birth; the former, in white, rules death. \"A young Esau once found them on the South Mountain, under a tree, playing chess, and by an offer of venison his lease of life was extended from ",
+    "quoteTime": "nineteen to nine",
+    "quoteLast": "ty-nine years.\"",
+    "title": "Myths and Legends of China",
+    "author": "Werner, E. T. C. (Edward Theodore Chalmers), 1864-1954",
+    "gutenbergReference": "15250",
+    "hash": "91770fa00e85fd95cefd0f203a64d332880e1a597ee810ab1868ba0859b9103b"
+  },
+  {
+    "time": "08:41",
+    "quoteFirst": "Goodsir sailed on the _Erebus_ with Sir John Franklin’s ill-fated Polar Expedition; and such notes of his as were recovered bear evidence of the value of the work he did. The Norwegians, Michael Sars and his son, G. O. Sars, had by the year 1864 increased their list of species living at a depth of between 200 and 300 fathoms, from ",
+    "quoteTime": "nineteen to nine",
+    "quoteLast": "ty-two. Much good work was done by the United States navy and by surveying ships under the auspices of Bache, Bailey, Maury, and de Pourtalès. The Austrian frigate _Novara_, with a full scientific staff, circumnavigated the world in 1857-1859.",
+    "title": "Pearls & Parasites",
+    "author": "Shipley, A. E. (Arthur Everett), Sir, 1861-1927",
+    "gutenbergReference": "52580",
+    "hash": "6133ad69501b5a33437356a43f03c7c8c0150a7fd0f1e9007e315ad460c9e928"
+  },
+  {
+    "time": "08:41",
+    "quoteFirst": "The same afternoon, while we were busily engaged fixing our heavy baggage to the mule packs, two of the most extraordinary beings I ever beheld rode up to the hotel gate. Both might have been any age from ",
+    "quoteTime": "nineteen to nine",
+    "quoteLast": "ty, and were dressed in suits of loud tartan check (not unlike that worn by Jack Spraggon in that best of sporting novels “Soapy Sponge”), enormous pith sun-hats with long, flowing puggarees and green spectacles. We put them down at a glance for what they unmistakably were, “globe-trotters,” sent out by their mammas (or mamma, for they were like as two peas), to see the world and improve their mind (if they had any). How they had drifted to Pekin, goodness only knows.",
+    "title": "From Pekin to Calais by Land",
+    "author": "De Windt, Harry, 1856-1933",
+    "gutenbergReference": "48992",
+    "hash": "4897d67ef01a1bf789388d6efcca979f615fab08958689b6e7a43a5e0fd457d2"
+  },
+  {
+    "time": "08:41",
     "quoteFirst": "Indeed, the visitors felt that, after their struggles with the crowd outside the gate, it was almost an anticlimax to find the three so calmly facing the prospect of a flight into eternity, and, after a few moments' conversation, shook hands and prepared to depart. The clock pointed to ",
     "quoteTime": "nineteen minutes to nine",
     "quoteLast": ". The start was to take place precisely at eight-fifty. At the bottom, they all stopped and looked up. Bennie waved his hand to them.",
@@ -18,5 +68,15 @@
     "author": "Dugdale, Thomas; Burnett, William [Other]",
     "gutenbergReference": "37519",
     "hash": "4012eb6c0a96e30937c326df6dd20e25eb9770cf5791863c271e2efe61552909"
+  },
+  {
+    "time": "08:41",
+    "quoteFirst": "Gervaise, with more coolness of manner; \"",
+    "quoteTime": "nineteen to nine",
+    "quoteLast": " are rather heavy odds. I wish we had Bluewater here!\"",
+    "title": "The Two Admirals",
+    "author": "Cooper, James Fenimore, 1789-1851",
+    "gutenbergReference": "20475",
+    "hash": "24a1703e26af65664cf5acb2faccd11fedda43adc7f278ea82bec170cb5db065"
   }
 ]
