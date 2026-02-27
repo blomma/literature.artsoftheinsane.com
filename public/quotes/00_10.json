@@ -1,23 +1,33 @@
 [
   {
     "time": "00:10",
-    "quoteFirst": "That, however, is a fair working average. For a little less than a minute and a half, then, from the time agreed upon, i.e., ",
-    "quoteTime": "ten minutes past twelve",
-    "quoteLast": ", seven will remain a magnet.",
-    "title": "Chance in Chains: A Story of Monte Carlo",
-    "author": "Thorne, Guy, 1875-1923",
-    "gutenbergReference": "37591",
-    "hash": "9858c1003b7fe9025a2757faea3158109804640ca610d8f3f627ad67d26d67f8"
+    "quoteFirst": "XXIII. ",
+    "quoteTime": "TEN MINUTES PAST TWELVE",
+    "quoteLast": ".",
+    "title": "The Corner House",
+    "author": "White, Fred M. (Fred Merrick), 1859-1935; Smith, A. T. (A. Talbot), 1877- [Illustrator]",
+    "gutenbergReference": "57066",
+    "hash": "258b500cef59f006357bf7b28395ffba4837fcfc862a6a4d934fd2a5d8e9abcc"
   },
   {
     "time": "00:10",
-    "quoteFirst": "",
-    "quoteTime": "Ten minutes after midnight",
-    "quoteLast": " there was a movement at the head of the stairs; the gendarmes parted, and the white-haired clerk of the House was seen holding in his hand the paper inscribed with the momentous result. Dorislas appeared at the same instant and mounted his charger in readiness for the riot which he knew to be imminent.",
-    "title": "The Shadow of the Czar",
-    "author": "Carling, John R.",
-    "gutenbergReference": "40945",
-    "hash": "0944e01b20674b745fa8c5bbf5b647ab1541bdf4b21216bfd9220461cd9ec6e8"
+    "quoteFirst": "He let go Isabel's hand and looked at his watch.  \"How do you feel about a run in the car?\" he inquired.  \"It's just ",
+    "quoteTime": "ten minutes past twelve",
+    "quoteLast": " now, and we could get to Cookham comfortably for lunch by one o'clock.\"",
+    "title": "The Lady from Long Acre",
+    "author": "Bridges, Victor, 1878-1972; Rohn, Ray, 1888-1935 [Illustrator]",
+    "gutenbergReference": "67078",
+    "hash": "8a18960255b71d590e55b13fbb361bf943a9113fad8cce57744dd77930c37e6d"
+  },
+  {
+    "time": "00:10",
+    "quoteFirst": "In fact, it was time to go. It was ",
+    "quoteTime": "ten minutes past twelve",
+    "quoteLast": " o’clock! Incredible! She looked at the clock a second time, unable to believe her eyes. She had thought to call the time to go as a rebuke to his presumption.",
+    "title": "The way of a man",
+    "author": "Dixon, Thomas, Jr., 1864-1946; Mulford, Stockton, 1886-1960 [Illustrator]",
+    "gutenbergReference": "76399",
+    "hash": "e93556585228762e20a7d8abb9dc67c0d3e8fb12a69dd1715d56200f9122b873"
   },
   {
     "time": "00:10",
@@ -31,72 +41,62 @@
   },
   {
     "time": "00:10",
-    "quoteFirst": "He looked at his watch—",
-    "quoteTime": "ten minutes after midnight",
-    "quoteLast": ". Then—he was eighteen to-day! ... and the dreaded evening would see him in prison—“Rum sort of birthday!”—But horror had all been drained out of the coming ordeal, leaving it, well—a nuisance, nothing more odious nor festering.",
-    "title": "Children of No Man's Land",
-    "author": "Stern, G. B. (Gladys Bronwyn), 1890-1973",
-    "gutenbergReference": "74256",
-    "hash": "71c67d232b1dcf2986fe347bf2b5db247b4b5149961b9eb2c027719841bc9b65"
+    "quoteFirst": "",
+    "quoteTime": "Ten minutes past midnight",
+    "quoteLast": ".--To put me in remembrance,--my two friends at a quarter before two every day. My one friend at three every Wednesday.",
+    "title": "Religion in Earnest: A Memorial of Mrs. Mary Lyth, of York",
+    "author": "Lyth, J. (John), 1821-1886",
+    "gutenbergReference": "11923",
+    "hash": "6efa6b22b2346997e5d3c6c21cb053101baa241f65412f670dd0e004a47d0f29"
   },
   {
     "time": "00:10",
-    "quoteFirst": "It was a quarter past eight before we mounted our horses on the morning of the 21st, and ",
+    "quoteFirst": "It was ",
+    "quoteTime": "12.10 A.M.",
+    "quoteLast": " At once a thrill, A wave of manful resolution, sped Through all my being. \"Yes,\" I bravely said; \"_Next_ year I will!\"",
+    "title": "Punch, or the London Charivari, Volume 146, January 7, 1914",
+    "author": "Various",
+    "gutenbergReference": "12294",
+    "hash": "218df97fd5fc10cbac2ea2340ad13c6dd3bc9cc6f3092f5296e35181ab640f42"
+  },
+  {
+    "time": "00:10",
+    "quoteFirst": "But he smokes while he’s undressing, so that he doesn’t require more than a minute to go deado. I’ll wager he hasn’t moved, right now, since ",
+    "quoteTime": "ten minutes after twelve",
+    "quoteLast": ".”",
+    "title": "The Mutiny of the Elsinore",
+    "author": "London, Jack, 1876-1916",
+    "gutenbergReference": "2415",
+    "hash": "c3d1f879be125431f00905ff8cd704b4ce65bb77dd25dcd4fd29cd7c591fa6bf"
+  },
+  {
+    "time": "00:10",
+    "quoteFirst": "Inkspot went off his watch at midnight, and he went into the water at ",
+    "quoteTime": "fifty minutes to one",
+    "quoteLast": ". He wore nothing but a dark-gray shirt and a pair of thin trousers, and if any one had seen his head and shoulders, it is not likely, unless a good light had been turned on them, that they would have been supposed to be portions of a human form.",
+    "title": "The Adventures of Captain Horn",
+    "author": "Stockton, Frank R., 1834-1902",
+    "gutenbergReference": "12190",
+    "hash": "f466e950be2f67c93455390368483ad0bbcf8871baae2768c3bbbd8607694a14"
+  },
+  {
+    "time": "00:10",
+    "quoteFirst": "Milwaukee at ",
+    "quoteTime": "12:10 a. m.",
+    "quoteLast": ", going over forty miles an hour, jumped the track two miles north of Lake Shore Junction.",
+    "title": "Types of News Writing",
+    "author": "Bleyer, Willard Grosvenor, 1873-1935",
+    "gutenbergReference": "59606",
+    "hash": "ff9b20f04b4843ad611350c78e0f7a78fd108caeb18488e9b5a5046c2c273efe"
+  },
+  {
+    "time": "00:10",
+    "quoteFirst": "I reached here at ",
     "quoteTime": "ten minutes past twelve",
-    "quoteLast": " when we arrived at _Daulakee_, a distance called four _fursungs_, and which may be computed at about twelve road miles. The site of _Daulakee_ is marked by a break in the mountains, where the road which leads among them commences. It bore N.",
-    "title": "A Journey through Persia, Armenia, and Asia Minor, to Constantinople, in the Years 1808 and 1809\nIn Which is Included, Some Account of the Proceedings of His Majesty's Mission, under Sir Harford Jones, Bart. K. C. to the Court of Persia",
-    "author": "Morier, James Justinian, 1780?-1849",
-    "gutenbergReference": "51819",
-    "hash": "1aefb70aa717f53128097a5a0644df1981b3fc2974ae5a5158a95fe8b37405a9"
-  },
-  {
-    "time": "00:10",
-    "quoteFirst": "\"",
-    "quoteTime": "Ten minutes after twelve",
-    "quoteLast": ", sir.\" \"Oh, we must be going,\" cried Mrs. Gloame.",
-    "title": "Her Weight in Gold",
-    "author": "McCutcheon, George Barr, 1866-1928",
-    "gutenbergReference": "5896",
-    "hash": "38a8e166e3860ea32026cb6ba8a4e563f52e4018307079e5f371d85a835ad833"
-  },
-  {
-    "time": "00:10",
-    "quoteFirst": "was at nine o'clock in the morning, which greatly disturbed that gentleman's habits. He was never an early riser, worked always very late (said his best despatches were writ",
-    "quoteTime": "ten after midnight",
-    "quoteLast": "), and didn't care about beginning his day too early. Another interesting personality was Mommsen, the German historian and savant.",
-    "title": "My First Years as a Frenchwoman, 1876-1879",
-    "author": "Waddington, Mary King, 1833-1923",
-    "gutenbergReference": "10003",
-    "hash": "ba865f9b51b578fecf43e05c055c048368f63be5b2f0b24c27e0f289628fe7a4"
-  },
-  {
-    "time": "00:10",
-    "quoteFirst": "The office in question stood near Porte Saint-Martin, at the corner of the Boulevard and Rue de Bondy, in the same building as the Deffieux restaurant, which was one of the most popular establishments in Paris in respect of wedding banquets; so that one who passed that way during the evening, and of",
-    "quoteTime": "ten after midnight",
-    "quoteLast": ", was likely to find the windows brilliantly lighted on the first or second floor, on the boulevard or on the square, and sometimes on both floors and on both sides; for it happened not infrequently that Deffieux entertained four or five wedding parties the same evening.",
-    "title": "Monsieur Cherami",
-    "author": "Kock, Paul de, 1793-1871; Ives, George Burnham, 1856-1930 [Translator]",
-    "gutenbergReference": "34338",
-    "hash": "92d3b0d47fb7e87e3700b63512807f53a1bd1351091eac127769c7fe6b20f4e4"
-  },
-  {
-    "time": "00:10",
-    "quoteFirst": "Then came briefer letters, dated from the Albany--notes dashed off hastily in those happy days when their lives were spent for the most part together. Notes containing suggestions for some new pleasure--appointments--sweet nothings, hardly worth setting down except as an excuse for writing--with here and there a longer letter, writ",
-    "quoteTime": "ten after midnight",
-    "quoteLast": "; a letter in which the writer poured out his soul to his beloved, enlarging on their conversation of the day--that happy talk about themselves and love.",
-    "title": "Mount Royal: A Novel. Volume 1 of 3",
-    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
-    "gutenbergReference": "41339",
-    "hash": "e0e44bbbac59a5bf3b970660a6da82d8870fbedba4ed5cbe21f61e0172695929"
-  },
-  {
-    "time": "00:10",
-    "quoteFirst": "So, finally, at ",
-    "quoteTime": "ten minutes after twelve that night",
-    "quoteLast": ", they were ready to return a verdict; and Judge Payderson, who, because of his interest in the case and the fact that he lived not so far away, had decided to wait up this long, was recalled. Steger and Cowperwood were sent for. The court-room was fully lighted.",
-    "title": "The Financier: A Novel",
-    "author": "Dreiser, Theodore, 1871-1945",
-    "gutenbergReference": "1840",
-    "hash": "db528a1e15742b1b8b7a09ac460bb2727119b05db1ae8772b3a8246c1ab848f2"
+    "quoteLast": ", from the far West, and found the place poor with visitors, it being the center ov winter, and a cold time for money.",
+    "title": "The Complete Works of Josh Billings",
+    "author": "Billings, Josh, 1818-1885; Nast, Thomas, 1840-1902 [Illustrator]",
+    "gutenbergReference": "36556",
+    "hash": "fc7be6da594ff2a9049fe620d1157e5ab50a81719e7febb04a7ec75b86f0fffc"
   }
 ]

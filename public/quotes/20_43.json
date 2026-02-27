@@ -1,16 +1,6 @@
 [
   {
     "time": "20:43",
-    "quoteFirst": "“",
-    "quoteTime": "Seventeen minutes to nine",
-    "quoteLast": ",” said Thomas Flanagan, as he cut the cards which Ralph handed to him.",
-    "title": "Around the World in Eighty Days",
-    "author": "Verne, Jules, 1828-1905; Towle, George M. (George Makepeace), 1841-1893 [Translator]",
-    "gutenbergReference": "103",
-    "hash": "f42c79b98d15572baece3ae7392d5cf309984999e2ac423749db3e85920899f0"
-  },
-  {
-    "time": "20:43",
     "quoteFirst": "Then he went into the Criterion bar and sat down. The clock showed ",
     "quoteTime": "seventeen minutes to nine",
     "quoteLast": ". His piece was advertised to start at eight-thirty precisely. The Criterion Bar is never empty, but it has its moments of lassitude, and seventeen minutes to nine is one of them.",
@@ -38,15 +28,5 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
     "hash": "bb8319743cf708725143c69f43c5198f9ef5b4bb366ee882a7f551558f755d54"
-  },
-  {
-    "time": "20:43",
-    "quoteFirst": "\"",
-    "quoteTime": "Seventeen minutes to nine",
-    "quoteLast": ",\" said Thomas Flanagan, as he cut the cards which Ralph handed to him.",
-    "title": "Around the World in Eighty Days. Junior Deluxe Edition",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "2154",
-    "hash": "8a548e2a0d737b15b8f088f18d753bf17cd2ee93b609ad605b449624a5c9a26f"
   }
 ]

@@ -1,16 +1,6 @@
 [
   {
     "time": "01:23",
-    "quoteFirst": "\"It is exact to the minute,\" he declared with a little accent of triumph.  \"It is now ",
-    "quoteTime": "twenty-three minutes past one",
-    "quoteLast": "----\" and suddenly Hanaud was at his side with a curious air of alertness.",
-    "title": "The House of the Arrow",
-    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
-    "gutenbergReference": "67514",
-    "hash": "c5a503991102ee54261f6b60d3c8c887224f0f736ebc85781430c0409bbe63a9"
-  },
-  {
-    "time": "01:23",
     "quoteFirst": "",
     "quoteTime": "Twenty-three minutes past one",
     "quoteLast": ".  That is very fortunate.\"",
@@ -18,16 +8,6 @@
     "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
     "gutenbergReference": "67514",
     "hash": "1d184deb839822c007219602bf0a97ab8002e44909098e62945cbd5b3ee8b74b"
-  },
-  {
-    "time": "01:23",
-    "quoteFirst": "A copy in Buchan’s MSS, I, 61, ‘The Death of John Armstrong,’ has the first half of #C# 18 and also of #C# 19 (with very slight variations). Another Scottish copy, which was evidently taken from recitation, introduces #C# ",
-    "quoteTime": "23 after 1",
-    "quoteLast": "4.[226]",
-    "title": "The English and Scottish popular ballads, volume 3 (of 5)",
-    "author": "Child, Francis James, 1825-1896 [Editor]",
-    "gutenbergReference": "62474",
-    "hash": "8a139dd8b0e92747e4c8c071f87ee667bed5b892d92aa9dca383f76374556314"
   },
   {
     "time": "01:23",

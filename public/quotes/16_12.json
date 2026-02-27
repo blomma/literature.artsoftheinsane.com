@@ -1,6 +1,16 @@
 [
   {
     "time": "16:12",
+    "quoteFirst": "\"It's now exactly ",
+    "quoteTime": "twelve minutes past four",
+    "quoteLast": ".\"",
+    "title": "The Rover Boys on Snowshoe Island; or, The Old Lumberman's Treasure Box",
+    "author": "Stratemeyer, Edward, 1862-1930",
+    "gutenbergReference": "22996",
+    "hash": "26bb1741e80f5e03e3407d25b6807738a373e9521154f1c6e1b34b59437423a4"
+  },
+  {
+    "time": "16:12",
     "quoteFirst": ", convulsions after injection of 9 cc 2 per cent caffein in 14 minutes; 4.08 p. m., convulsions after injection of 7 cc caffein in 8 minutes; 4.10 to ",
     "quoteTime": "4.12 p. m.",
     "quoteLast": ", injected 2 cc more, rabbit lying stretched out on abdomen, extremities extended; total amount of caffein injected, 18 cc (190 mg per kilo).",
@@ -11,13 +21,13 @@
   },
   {
     "time": "16:12",
-    "quoteFirst": "\"It's now exactly ",
-    "quoteTime": "twelve minutes past four",
-    "quoteLast": ".\"",
-    "title": "The Rover Boys on Snowshoe Island; or, The Old Lumberman's Treasure Box",
-    "author": "Stratemeyer, Edward, 1862-1930",
-    "gutenbergReference": "22996",
-    "hash": "26bb1741e80f5e03e3407d25b6807738a373e9521154f1c6e1b34b59437423a4"
+    "quoteFirst": "4.4 p.m.   Fire again. Fire again. ",
+    "quoteTime": "4.12 p.m.",
+    "quoteLast": "  A little short; line O.K.",
+    "title": "The War in the Air; Vol. 1\nThe Part played in the Great War by the Royal Air Force",
+    "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
+    "gutenbergReference": "28226",
+    "hash": "aee0138e26866b7751a59f458b15b09ecc7742d4283722fa147686757a4b9eb8"
   },
   {
     "time": "16:12",
@@ -31,13 +41,33 @@
   },
   {
     "time": "16:12",
-    "quoteFirst": "4.4 p.m.   Fire again. Fire again. ",
+    "quoteFirst": "This slower squadron was some distance astern of the battle cruisers and, by reason partly of the smoke of the ships ahead of the enemy vessels and partly of the light to the eastward having become less favourable, difficulty was experienced in seeing the targets, not more than two ships being visible at a time. At ",
+    "quoteTime": "4.12 P.M.",
+    "quoteLast": " the range of the enemy’s battle cruisers from our own was about 23,000 yards, and course was altered from S.S.E. to S.E. to close the enemy. Fire had slackened owing to the increase in range.",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "hash": "3d13301464ce08b167ff1b0e6b79329e82de5e374fb29294c40ff88223f70d2d"
+  },
+  {
+    "time": "16:12",
+    "quoteFirst": "Death stood on the Times Square subway platform, uptown side, waiting for a subject. Death looked at himself in the gum machine mirror, then down at his watch. It was exactly ",
+    "quoteTime": "4:12 P. M.",
+    "quoteLast": ", Wednesday, December 10th.",
+    "title": "Hooded Detective, Volume III No. 2, January, 1942",
+    "author": "Various",
+    "gutenbergReference": "38466",
+    "hash": "e07a5cf6f430ef4db2e650448b7be52580257bc1a8732d453a0bb6813097a65c"
+  },
+  {
+    "time": "16:12",
+    "quoteFirst": "Slowly the submarine overhauled the Q-ship, firing at intervals, and at ",
     "quoteTime": "4.12 p.m.",
-    "quoteLast": "  A little short; line O.K.",
-    "title": "The War in the Air; Vol. 1\nThe Part played in the Great War by the Royal Air Force",
-    "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
-    "gutenbergReference": "28226",
-    "hash": "aee0138e26866b7751a59f458b15b09ecc7742d4283722fa147686757a4b9eb8"
+    "quoteLast": ", when she was within 1,000 yards, _Penshurst_ stopped her engines, the panic party ‘abandoned’ ship, and the two boat-loads pulled away to starboard. The German now sheered out to port, swept round on _Penshurst’s_ port beam, and passed close under the stern of her with the object of securing the ship’s papers from the captain, whom the enemy supposed to be in the boats.",
+    "title": "Q-Ships and Their Story",
+    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
+    "gutenbergReference": "54338",
+    "hash": "7624e7e238dcba21d4ee5b3752d33dae4ddb0186b6aff2406691911ac48d5bb7"
   },
   {
     "time": "16:12",
@@ -51,16 +81,6 @@
   },
   {
     "time": "16:12",
-    "quoteFirst": "\"It's now exactly ",
-    "quoteTime": "twelve minutes past four",
-    "quoteLast": ".\"",
-    "title": "The Rover Boys on Snowshoe Island; or, The Old Lumberman's Treasure Box",
-    "author": "Stratemeyer, Edward, 1862-1930",
-    "gutenbergReference": "22996",
-    "hash": "26bb1741e80f5e03e3407d25b6807738a373e9521154f1c6e1b34b59437423a4"
-  },
-  {
-    "time": "16:12",
     "quoteFirst": "We turned back at ",
     "quoteTime": "4.12 P.M.",
     "quoteLast": " and at 8.15 crossed the bergschrund, again, not having halted for a minute upon the entire descent. During the last two hours it was windless, but time was of such vital importance that we pressed on incessantly, and did not stop until we were fairly upon the glacier.",
@@ -68,35 +88,5 @@
     "author": "Whymper, Edward, 1840-1911",
     "gutenbergReference": "41234",
     "hash": "af459491ccb025fbc217772d9302fb94f095cd0030fad8bc622fcdd3f62c6131"
-  },
-  {
-    "time": "16:12",
-    "quoteFirst": "4.4 p.m.   Fire again. Fire again. ",
-    "quoteTime": "4.12 p.m.",
-    "quoteLast": "  A little short; line O.K.",
-    "title": "The War in the Air; Vol. 1\nThe Part played in the Great War by the Royal Air Force",
-    "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
-    "gutenbergReference": "28226",
-    "hash": "aee0138e26866b7751a59f458b15b09ecc7742d4283722fa147686757a4b9eb8"
-  },
-  {
-    "time": "16:12",
-    "quoteFirst": "\"It's ",
-    "quoteTime": "twelve minutes past four",
-    "quoteLast": ", if it comes to that,\" said Eric. \"You were an awful time getting into your clothes, Mag. And why shouldn't we wake father? It's his birthday. He will like us to wake him!\"",
-    "title": "The Children of Wilton Chase",
-    "author": "Meade, L. T., 1854-1914",
-    "gutenbergReference": "26409",
-    "hash": "ed8f9a6f69c579dcd17ee3de1aeff6f14aa07c14927bab6f7b38d171f18b634f"
-  },
-  {
-    "time": "16:12",
-    "quoteFirst": "Death stood on the Times Square subway platform, uptown side, waiting for a subject. Death looked at himself in the gum machine mirror, then down at his watch. It was exactly ",
-    "quoteTime": "4:12 P. M.",
-    "quoteLast": ", Wednesday, December 10th.",
-    "title": "Hooded Detective, Volume III No. 2, January, 1942",
-    "author": "Various",
-    "gutenbergReference": "38466",
-    "hash": "e07a5cf6f430ef4db2e650448b7be52580257bc1a8732d453a0bb6813097a65c"
   }
 ]

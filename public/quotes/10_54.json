@@ -1,76 +1,6 @@
 [
   {
     "time": "10:54",
-    "quoteFirst": "On the 7th, at 5:00 p. m., she is 1° 32′ north of Saturn; on the 13th, at ",
-    "quoteTime": "10:54 a. m.",
-    "quoteLast": ", 5° 48′ north of the moon; and on the 26th, at 3:00 p. m., in perihelion.",
-    "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55394",
-    "hash": "d002336a7b5a1d2b7a9d52a25455dbb863f4921ad35844c6de76719ea1e5a8cc"
-  },
-  {
-    "time": "10:54",
-    "quoteFirst": "_View across the Meh Hto and Meh Laik valleys at ",
-    "quoteTime": "10.54 A.M.",
-    "quoteLast": " 15th February._ ]",
-    "title": "A thousand miles on an elephant in the Shan States",
-    "author": "Hallett, Holt S. (Holt Samuel), 1841-1911",
-    "gutenbergReference": "73607",
-    "hash": "346b9ef07af017041b99e991f56d6c1e0a8e1dc1c421317dadab1abf28a5d033"
-  },
-  {
-    "time": "10:54",
-    "quoteFirst": "If the clergy of Ajaccio, however, have no sense of humour, they apparently understand the meaning of hard work; for I was struck by a written notice, affixed to one of the confessionals, which stated that a certain Abbé Simconi, one of the cathedral staff, attends daily here from ",
-    "quoteTime": "6 to 11 a.m.",
-    "quoteLast": ", and from 1 to 6 p.m., for the purpose of hearing the confessions of his flock. After this, no one can say that the Corsican clerics are idle.",
-    "title": "A Lady's Tour in Corsica, Vol. 1 (of 2)",
-    "author": "Forde, Gertrude",
-    "gutenbergReference": "44993",
-    "hash": "463e52aaff30f71fb8c3b3962848ac8f8b4a4a666a0b7b5efc6b54923ebf9e2e"
-  },
-  {
-    "time": "10:54",
-    "quoteFirst": "On the 7th, at 5:00 p. m., she is 1° 32′ north of Saturn; on the 13th, at ",
-    "quoteTime": "10:54 a. m.",
-    "quoteLast": ", 5° 48′ north of the moon; and on the 26th, at 3:00 p. m., in perihelion.",
-    "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55394",
-    "hash": "d002336a7b5a1d2b7a9d52a25455dbb863f4921ad35844c6de76719ea1e5a8cc"
-  },
-  {
-    "time": "10:54",
-    "quoteFirst": "Each of these three things may have prevented some gain. Still, on the analogy of what had happened in the first two hours, we must suppose the range at this period to have been at most about 13,000 yards. At ",
-    "quoteTime": "six minutes to eleven",
-    "quoteLast": " the action had reached the first rendezvous of the German submarines. They were reported to and then seen by the Admiral on his starboard bow, whereupon the squadron was turned to port to avoid them.",
-    "title": "The British Navy in Battle",
-    "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
-    "gutenbergReference": "54441",
-    "hash": "7284bc0be289b8ee34e5137e606fe4b04beab1cb51d15dd4fa405de9615c41f9"
-  },
-  {
-    "time": "10:54",
-    "quoteFirst": "VIEW ACROSS THE MEH HTO AND MEH LAIK VALLEYS AT ",
-    "quoteTime": "10.54 A.M.",
-    "quoteLast": " 15TH FEB.,                                                              53 A YAK,                                                               57 A SIAMESE KING,                                                      59 VIEW TO THE SOUTH FROM A HILLOCK BEHIND MUANG HAUT,                  64 VIEW FROM NEAR BAN HSOPE KYEM,                                       72 LOI HOO-A SOO-A WITH LOI PAH KUNG IN THE BACKGROUND,                 77 VIEW FROM THE TOP OF LOI NOI AT 8 A.M. 23D FEB.",
-    "title": "A thousand miles on an elephant in the Shan States",
-    "author": "Hallett, Holt S. (Holt Samuel), 1841-1911",
-    "gutenbergReference": "73607",
-    "hash": "7f6ecf4aba01d1be44e9eacda401ed141f638f363c0021767d9f5f16c3aa25d3"
-  },
-  {
-    "time": "10:54",
-    "quoteFirst": "On the first day of the New Year, these rumours took more definite shape, and on that day Her Majesty’s audience with the Grand Council lasted from ",
-    "quoteTime": "six to eleven in the morn",
-    "quoteLast": "ing; but even then no decision had been come to in regard to complying with the demand for Chao’s execution. Throughout the neighbourhood of the Drum Tower the streets were packed with a huge crowd, who threatened that they would certainly rescue Chao if he were taken out for execution.",
-    "title": "China under the Empress Dowager",
-    "author": "Bland, J. O. P. (John Otway Percy), 1863-1945; Backhouse, E. (Edmund), Sir, 1873-1944",
-    "gutenbergReference": "72032",
-    "hash": "50b5685d7b4452ef5917e5c6ca3fb9f9c84c1770e3cec337165663cbbbb8e9b1"
-  },
-  {
-    "time": "10:54",
     "quoteFirst": "_View across the Meh Hto and Meh Laik valleys at ",
     "quoteTime": "10.54 A.M.",
     "quoteLast": " 15th February._ ]",
@@ -98,5 +28,75 @@
     "author": "Hallett, Holt S. (Holt Samuel), 1841-1911",
     "gutenbergReference": "73607",
     "hash": "346b9ef07af017041b99e991f56d6c1e0a8e1dc1c421317dadab1abf28a5d033"
+  },
+  {
+    "time": "10:54",
+    "quoteFirst": "_View across the Meh Hto and Meh Laik valleys at ",
+    "quoteTime": "10.54 A.M.",
+    "quoteLast": " 15th February._ ]",
+    "title": "A thousand miles on an elephant in the Shan States",
+    "author": "Hallett, Holt S. (Holt Samuel), 1841-1911",
+    "gutenbergReference": "73607",
+    "hash": "346b9ef07af017041b99e991f56d6c1e0a8e1dc1c421317dadab1abf28a5d033"
+  },
+  {
+    "time": "10:54",
+    "quoteFirst": "11 4 Taubes ",
+    "quoteTime": "6 to 11 A. M.",
+    "quoteLast": ", dropped 4 shells; artillery 5 P. M.",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "0a69e4fa03e14765c70b54b4f9ffb60e7bf8f1c246035081c4d1cd4b0b21f091"
+  },
+  {
+    "time": "10:54",
+    "quoteFirst": "If the clergy of Ajaccio, however, have no sense of humour, they apparently understand the meaning of hard work; for I was struck by a written notice, affixed to one of the confessionals, which stated that a certain Abbé Simconi, one of the cathedral staff, attends daily here from ",
+    "quoteTime": "6 to 11 a.m.",
+    "quoteLast": ", and from 1 to 6 p.m., for the purpose of hearing the confessions of his flock. After this, no one can say that the Corsican clerics are idle.",
+    "title": "A Lady's Tour in Corsica, Vol. 1 (of 2)",
+    "author": "Forde, Gertrude",
+    "gutenbergReference": "44993",
+    "hash": "463e52aaff30f71fb8c3b3962848ac8f8b4a4a666a0b7b5efc6b54923ebf9e2e"
+  },
+  {
+    "time": "10:54",
+    "quoteFirst": "11 4 Taubes ",
+    "quoteTime": "6 to 11 A. M.",
+    "quoteLast": ", dropped 4 shells; artillery 5 P. M.",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "0a69e4fa03e14765c70b54b4f9ffb60e7bf8f1c246035081c4d1cd4b0b21f091"
+  },
+  {
+    "time": "10:54",
+    "quoteFirst": "On the first day of the New Year, these rumours took more definite shape, and on that day Her Majesty’s audience with the Grand Council lasted from ",
+    "quoteTime": "six to eleven in the morning",
+    "quoteLast": "; but even then no decision had been come to in regard to complying with the demand for Chao’s execution. Throughout the neighbourhood of the Drum Tower the streets were packed with a huge crowd, who threatened that they would certainly rescue Chao if he were taken out for execution.",
+    "title": "China under the Empress Dowager",
+    "author": "Bland, J. O. P. (John Otway Percy), 1863-1945; Backhouse, E. (Edmund), Sir, 1873-1944",
+    "gutenbergReference": "72032",
+    "hash": "2fffb4ed9725a71c0b698074996e9e6665c255e546bf86a6f94dc157594f4f52"
+  },
+  {
+    "time": "10:54",
+    "quoteFirst": "If the clergy of Ajaccio, however, have no sense of humour, they apparently understand the meaning of hard work; for I was struck by a written notice, affixed to one of the confessionals, which stated that a certain Abbé Simconi, one of the cathedral staff, attends daily here from ",
+    "quoteTime": "6 to 11 a.m.",
+    "quoteLast": ", and from 1 to 6 p.m., for the purpose of hearing the confessions of his flock. After this, no one can say that the Corsican clerics are idle.",
+    "title": "A Lady's Tour in Corsica, Vol. 1 (of 2)",
+    "author": "Forde, Gertrude",
+    "gutenbergReference": "44993",
+    "hash": "463e52aaff30f71fb8c3b3962848ac8f8b4a4a666a0b7b5efc6b54923ebf9e2e"
+  },
+  {
+    "time": "10:54",
+    "quoteFirst": "If the clergy of Ajaccio, however, have no sense of humour, they apparently understand the meaning of hard work; for I was struck by a written notice, affixed to one of the confessionals, which stated that a certain Abbé Simconi, one of the cathedral staff, attends daily here from ",
+    "quoteTime": "6 to 11 a.m.",
+    "quoteLast": ", and from 1 to 6 p.m., for the purpose of hearing the confessions of his flock. After this, no one can say that the Corsican clerics are idle.",
+    "title": "A Lady's Tour in Corsica, Vol. 1 (of 2)",
+    "author": "Forde, Gertrude",
+    "gutenbergReference": "44993",
+    "hash": "463e52aaff30f71fb8c3b3962848ac8f8b4a4a666a0b7b5efc6b54923ebf9e2e"
   }
 ]

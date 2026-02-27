@@ -1,46 +1,6 @@
 [
   {
     "time": "06:35",
-    "quoteFirst": "At five we began to engage; at a quarter past five our ships engaging as they came up; at fifty-five past five observed another French line-of-battle ship had struck her colours. At five past six the Admiral made the signal to the Princess and Bedford to get into their stations. At ",
-    "quoteTime": "thirty-five past six",
-    "quoteLast": " observed that the Ville de Paris had struck her colours. At forty past six discontinued the engagement. At seven beat the retreat.",
-    "title": "Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II",
-    "author": "Ross, John, Sir, 1777-1856",
-    "gutenbergReference": "27151",
-    "hash": "909987248a1853bdc82f129b2a69f21dc44ca61bb8c9ec4cb301114fa09a6551"
-  },
-  {
-    "time": "06:35",
-    "quoteFirst": "Leaving the camp at ",
-    "quoteTime": "6.35 a.m.",
-    "quoteLast": ", followed the river in a southerly direction till 11.0, when it turned to the east, and we ascended a sandstone hill; from the summit there was a fine view of the surrounding country.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "77000838dd16e60122d0c31971d5d59c0b71cac6515d08d82f9049ad27f7c6aa"
-  },
-  {
-    "time": "06:35",
-    "quoteFirst": "\"At ",
-    "quoteTime": "thirty-five minutes past six",
-    "quoteLast": ",\" says M. Dumont d'Urville, \"we arrived at the summit of the Chahorra, which is evidently a half-extinct crater. Its sides are thin and sloping, it is from sixty to eighty feet deep, and the whole surface is strewn with fragments of obsidian, pumice-stones, and lava. Sulphureous vapour, forming a kind of crown of smoke, is emitted from it, whilst the atmosphere at the bottom is perfectly cool.",
-    "title": "Celebrated Travels and Travellers, Part 3.\r\nThe Great Explorers of the Nineteenth Century",
-    "author": "Verne, Jules, 1828-1905; Benett, Léon, 1838-1917 [Illustrator]; D'Anvers, N., 1844-1933 [Translator]",
-    "gutenbergReference": "26658",
-    "hash": "a8cf04f392dc638bc3cf611b60109bcc520574f7e85cc08cd7ad6e65c0360a72"
-  },
-  {
-    "time": "06:35",
-    "quoteFirst": "Steered north 60 degrees east at ",
-    "quoteTime": "6.35 a.m.",
-    "quoteLast": ", and followed up the course of the creek, crossing the right bank at 9.0, when there was nothing but the polygonum flat to mark its course; at 10.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "1075ca074473a0e31c246f7ff2bdc09e9406281709bdba52b06f2b5be9ae665f"
-  },
-  {
-    "time": "06:35",
     "quoteFirst": "Carmody was left for some considerable time to his meditations. It may have been about ",
     "quoteTime": "twenty-five minutes to seven",
     "quoteLast": " when a voice at his elbow aroused him once more. The Dartford Warbler was back again, its eye now a little glazed and wearing the replete look of the bird that has done itself well at the breakfast table.",
@@ -61,42 +21,82 @@
   },
   {
     "time": "06:35",
+    "quoteFirst": "All times have been made consistent using a decimal point and not a mid-dot eg ",
+    "quoteTime": "6.35 A.M.",
+    "quoteLast": " All calibre sizes have been made consistent using a mid-dot eg 3·7-inch.",
+    "title": "The history of the 9th (Scottish) Division, 1914-1919",
+    "author": "Ewing, John, M.C.; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator]",
+    "gutenbergReference": "75001",
+    "hash": "60c7c1c1d4ebad4e09ee92a7a7cea8e1783e9911d0cb05c5af761de42171dc47"
+  },
+  {
+    "time": "06:35",
+    "quoteFirst": "“Reached Turin by Mont Cenis, Friday, October 4th, at ",
+    "quoteTime": "6.35 a.m.",
+    "quoteLast": "",
+    "title": "Around the World in Eighty Days",
+    "author": "Verne, Jules, 1828-1905; Towle, George M. (George Makepeace), 1841-1893 [Translator]",
+    "gutenbergReference": "103",
+    "hash": "26b6a883923ec3023cc612265bf497396feffa65edaf85dc3ea075cfc39a2a52"
+  },
+  {
+    "time": "06:35",
+    "quoteFirst": "Carmody was left for some considerable time to his meditations. It may have been about ",
+    "quoteTime": "twenty-five minutes to seven",
+    "quoteLast": " when a voice at his elbow aroused him once more. The Dartford Warbler was back again, its eye now a little glazed and wearing the replete look of the bird that has done itself well at the breakfast table.",
+    "title": "Money for nothing",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "72972",
+    "hash": "1e62e28ae69e775366ff834ac0fd57a5118875879cab70c4f85d14dda50f16e4"
+  },
+  {
+    "time": "06:35",
+    "quoteFirst": "Resumed our journey at ",
+    "quoteTime": "6.35 a.m.",
+    "quoteLast": ", and followed a large creek up to the south-east, and at 7.45 crossed it below a fine pool of water, above which the creek came from the south-west, in which direction the country consisted of low sandstone hills of barren aspect.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "a2828f49f9b051e0184a1320c0acf8c10ba7cb3ffc1bfce6739ba42c4bbe0e98"
+  },
+  {
+    "time": "06:35",
+    "quoteFirst": "Premising, however, that the shilling is properly suspended, you will observe, that when it has recovered its equilibrium, it will for a moment be stationary: it will then of its own accord, and without the least agency from the person holding it, assume the action of a pendulum, vibrating from side to side of the glass, and, after a few seconds, will strike the hour nearest to the time of day; for instance, if the time be twenty-five minutes past six, it will strike six; if ",
+    "quoteTime": "thirty-five minutes past six",
+    "quoteLast": ", it will strike seven; and so on of any other hour.",
+    "title": "Endless Amusement\r\nA Collection of Nearly 400 Entertaining Experiments in Various Branches of Science; Including Acoustics, Electricity, Magnetism, Arithmetic, Hydraulics, Mechanics, Chemistry, Hydrostatics, Optics; Wonders of the Air-Pump; All the Popular Tricks and Changes of the Cards, &c., &c. to Which is Added, a Complete System of Pyrotechny; Or, the Art of Making Fire-works.",
+    "author": "Unknown",
+    "gutenbergReference": "32492",
+    "hash": "abc39a74c81c0a74f6a75bae84b9424972b44747d9d421ecf8bf672ea0567df2"
+  },
+  {
+    "time": "06:35",
     "quoteFirst": "At ",
+    "quoteTime": "thirty-five minutes past six",
+    "quoteLast": " the enemy’s fire again slackened, and the headmost ship was discovered bearing up. Now the _Constitution_ reversed her tactics, shot ahead, crossed the first vessel’s stern and raked her fearfully, sailed about the stern most and raked her also; then, ranging up within hail on the larboard quarter, she prepared for another broadside, when the last ship fired a lee gun and remained silent.",
+    "title": "Naval Actions of the War of 1812",
+    "author": "Barnes, James, 1866-1936; Chapman, Carlton T., 1860-1925 [Illustrator]",
+    "gutenbergReference": "57889",
+    "hash": "a3e669764ff4599fa08f7f4aecf9957a69aa1dbf3fe4b08d673b3f610986b22f"
+  },
+  {
+    "time": "06:35",
+    "quoteFirst": "On the 2nd January the 2/4th Battalion disembarked and marched to quarters at St Andrew's barracks, and the same day at ",
     "quoteTime": "6.35 a.m.",
-    "quoteLast": " steered south-east through an open melaleuca scrub, the soil sandy loam, thinly grassed; acacia, bloodwood, silver-leafed ironbark, and grevillia forming open patches of wood at intervals. At noon turned south, and at 1.35 p.m. camped at a small lagoon nearly dry and half a mile from the bank of the river; a few hills rose close to the south-west of the river opposite our camp, the lower ridges grassy, the higher hills wooded, but not exceeding 500 feet above the plain.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "42093d25c9a9cf06a7330d1f56ec47a54c1bfc64e2139d15d94ef398e8ff5347"
+    "quoteLast": " the 1/4th Battalion paraded for the last time at Ghain Tuffieha, marched to Valetta and embarked on the _Avon_. That afternoon the _Avon_, conveying in addition to the 1/4th Battalion the 1/3rd Londons, put to sea under sealed orders, which were subsequently found to be for Marseilles.",
+    "title": "The War History of the 4th Battalion, the London Regiment (Royal Fusiliers), 1914-1919",
+    "author": "Grimwade, F. Clive",
+    "gutenbergReference": "50098",
+    "hash": "5306f7a874435e78779f0d7d86a9b722850e18ec9cfa593a2ce45d3a8e77ea6b"
   },
   {
     "time": "06:35",
-    "quoteFirst": "It was the first coin he found in his pocket, and the sight of it caused a frown. Confound those Montmartre playwrights! Why was their stupid travesty constantly recurring to his mind? He frowned again, this time at Auguste Comte's smugness, and looked at his watch. ",
-    "quoteTime": "Twenty-five minutes to seven",
-    "quoteLast": "! It was too late now to do other than write--if he succeeded. If not--ah, well! \"Some of them are slain in the flower of their youth.",
-    "title": "A Son of the Immortals",
-    "author": "Tracy, Louis, 1863-1928; Christy, Howard Chandler, 1873-1952 [Illustrator]",
-    "gutenbergReference": "25017",
-    "hash": "6ad1b2ecc7ffe08f75efc606e759135f612d12058a1df0f6604421cb699a94a4"
-  },
-  {
-    "time": "06:35",
-    "quoteFirst": "Left our camp at ",
-    "quoteTime": "6.35 a.m.",
-    "quoteLast": ", and followed the creek up for half an hour, and then steered east to Sturt's Creek, which we reached at 9.5, the country being level, sandy, and covered with triodia and acacia in small patches; we then steered a southerly course down the creek till 11.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "5ef1b80907b63c97fe43018c84aa655db6eefc077b887dadf99d01e5fc09f0fc"
-  },
-  {
-    "time": "06:35",
-    "quoteFirst": "At five we began to engage; at a quarter past five our ships engaging as they came up; at fifty-five past five observed another French line-of-battle ship had struck her colours. At five past six the Admiral made the signal to the Princess and Bedford to get into their stations. At ",
-    "quoteTime": "thirty-five past six",
-    "quoteLast": " observed that the Ville de Paris had struck her colours. At forty past six discontinued the engagement. At seven beat the retreat.",
-    "title": "Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II",
-    "author": "Ross, John, Sir, 1777-1856",
-    "gutenbergReference": "27151",
-    "hash": "909987248a1853bdc82f129b2a69f21dc44ca61bb8c9ec4cb301114fa09a6551"
+    "quoteFirst": "Carmody was left for some considerable time to his meditations. It may have been about ",
+    "quoteTime": "twenty-five minutes to seven",
+    "quoteLast": " when a voice at his elbow aroused him once more. The Dartford Warbler was back again, its eye now a little glazed and wearing the replete look of the bird that has done itself well at the breakfast table.",
+    "title": "Money for nothing",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "72972",
+    "hash": "1e62e28ae69e775366ff834ac0fd57a5118875879cab70c4f85d14dda50f16e4"
   }
 ]

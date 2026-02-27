@@ -31,16 +31,6 @@
   },
   {
     "time": "09:04",
-    "quoteFirst": "“Paris, 3/",
-    "quoteTime": "4 past 9 A.M.",
-    "quoteLast": "",
-    "title": "The Wandering Jew — Complete",
-    "author": "Sue, Eugène, 1804-1857",
-    "gutenbergReference": "3350",
-    "hash": "db9cdbbf4266bfbf77c73a39ebdf933f7f143d9af193833b4065cb545ea80717"
-  },
-  {
-    "time": "09:04",
     "quoteFirst": "I followed him with my eyes, and it was to my agreeable surprise that I heard him crying to me, ‘All is well; fear not!’ though it was not without a species of jealousy that I saw him mounting up to the height of 1,400 or 1,500 feet. The balloon, after having run a distance of 3,600 feet in a horizontal direction, began gently to descend at ",
     "quoteTime": "four minutes past nine",
     "quoteLast": ", at the village of Inieres, after having travelled 42,000 feet from the point of departure. When it had touched the ground it bumped up again two or three feet. M.",
@@ -58,35 +48,5 @@
     "author": "Snaith, J. C. (John Collis), 1876-1936",
     "gutenbergReference": "34398",
     "hash": "600652773fb3259d7ce859b5c00da2237904446b73311e91c34f4a1ff0761ac0"
-  },
-  {
-    "time": "09:04",
-    "quoteFirst": "\"Tuesday, 12th June. At 6 the boat came on board with wood and an account that James Cavanagh a prisoner who was sent to cut wood had run into the Brush and that a party of men had been in pursuit of him and could not find him and he was left behind: at 1/",
-    "quoteTime": "4 past 9",
-    "quoteLast": " a heavy squall: gave the vessel more cable: found her driving in shore very fast: the gale continuing and a heavy sea. Set the top-sail, main-sail and fore-top-stay sail and cut the cable, not being able to get anchor on account of vessel driving so fast: the anchor was lost, 120 fathoms of cable.",
-    "title": "The Logbooks of the Lady Nelson\r\nWith the journal of her first commander Lieutenant James Grant",
-    "author": "Lee, Ida, 1865-1943",
-    "gutenbergReference": "7509",
-    "hash": "a857c5140952f2697fc993afaf1648163994972000d52ed199170ff9b6c7c09c"
-  },
-  {
-    "time": "09:04",
-    "quoteFirst": "\"Paris, 3/",
-    "quoteTime": "4 past 9 A.M.",
-    "quoteLast": "",
-    "title": "The Wandering Jew — Volume 01",
-    "author": "Sue, Eugène, 1804-1857",
-    "gutenbergReference": "3339",
-    "hash": "8f0c969cd72211ce8e09c7a3a12d59a815806161aef6c8ac69490fe471bdab7d"
-  },
-  {
-    "time": "09:04",
-    "quoteFirst": "Cork--Arrives 1/",
-    "quoteTime": "4 past 9",
-    "quoteLast": " following night.",
-    "title": "The Scientific Tourist through Ireland\r\nin which the traveller is directed to the principal objects of antiquity, art, science & the picturesque",
-    "author": "Walford, Thomas, 1752-1833",
-    "gutenbergReference": "48757",
-    "hash": "e9ed1a34ec0fbcbe1d1284a9ac8738ee33273fc4ab26ccf636758b9b10de17cc"
   }
 ]

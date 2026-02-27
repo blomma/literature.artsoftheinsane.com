@@ -1,16 +1,6 @@
 [
   {
     "time": "06:04",
-    "quoteFirst": "“",
-    "quoteTime": "Four minutes after six",
-    "quoteLast": ", in the evening, my Rosannah, shall henceforth--”",
-    "title": "Alonzo Fitz, and Other Stories",
-    "author": "Twain, Mark, 1835-1910",
-    "gutenbergReference": "3184",
-    "hash": "f2bc1abf0bf1bf62754902a8c960278df0c95d5566afeaaa5cbfc0c4445e220a"
-  },
-  {
-    "time": "06:04",
     "quoteFirst": "At ",
     "quoteTime": "four minutes after six",
     "quoteLast": " the air went silent, then a new voice took over the microphone. The voice said:",
@@ -58,25 +48,5 @@
     "author": "Bond, P. S. (Paul Stanley), 1879-1955; McDonough, Michael Joseph, 1877-1921",
     "gutenbergReference": "77863",
     "hash": "f6fab9fd92cf8538d3c04614dd2cfc5c6326b04f3599aa4865112ae27d14d702"
-  },
-  {
-    "time": "06:04",
-    "quoteFirst": "Set out from Kettle Falls at 1/",
-    "quoteTime": "4 past 6",
-    "quoteLast": " oclock and arrived at Spokane at 7 in the evening, which was a hard days riding, I was accompanied by two Indians who were driving ten horses to the (Buffer de Chideu) where I left them in the evening as some of the horses were giving up. The Indians changed horses frequently, but I changed only once the one I rode in the afternoon came from where I left the men in 1-1/2 hours.",
-    "title": "The Washington Historical Quarterly, Volume V, 1914",
-    "author": "Various; Meany, Edmond S. (Edmond Stephen), 1862-1935 [Editor]",
-    "gutenbergReference": "45779",
-    "hash": "92f8c3c857d7a0e207ab323c3b79efa91240deb254d6c7fa437bd52b3918d125"
-  },
-  {
-    "time": "06:04",
-    "quoteFirst": "\"",
-    "quoteTime": "Four minutes after six",
-    "quoteLast": ", in the evening, my Rosannah, shall henceforth--\"",
-    "title": "The Entire Project Gutenberg Works of Mark Twain",
-    "author": "Twain, Mark, 1835-1910",
-    "gutenbergReference": "3200",
-    "hash": "1fb536c8776233fc2d5804d758c93d9654514c090924ae22ca877e6a917058d8"
   }
 ]

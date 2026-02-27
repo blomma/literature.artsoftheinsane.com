@@ -1,33 +1,23 @@
 [
   {
     "time": "18:55",
-    "quoteFirst": "The next evening when the clock pointed to ",
-    "quoteTime": "five minutes to seven",
-    "quoteLast": ", Mdlle.",
-    "title": "Project Gutenberg Compilation of Short Stories by Chekhov",
-    "author": "Chekhov, Anton Pavlovich, 1860-1904; Widger, David, 1932-2021? [Editor]",
-    "gutenbergReference": "57333",
-    "hash": "98009c86250154ea89a0dc4eacbef984ab1760f98614fb4da88ca63b50010882"
-  },
-  {
-    "time": "18:55",
-    "quoteFirst": ") where we tied a piece of black bunting to pull Crean's leg--mourning for his pony. We lunched here and then marched on till ",
-    "quoteTime": "6.55 p.m.",
-    "quoteLast": ", when we camped, our day's march being 15 miles 839 yards.",
-    "title": "South with Scott",
-    "author": "Mountevans, Edward Ratcliffe Garth Russell Evans, Baron, 1880-1957",
-    "gutenbergReference": "18129",
-    "hash": "cfc0e092aab461855f716de14f9f33dfdd2e9bf87d567f1fffad645992050ff3"
+    "quoteFirst": "--     Euston       ",
+    "quoteTime": "6.55 P.M.",
+    "quoteLast": "",
+    "title": "Punch, or the London Charivari, Volume 146, January 14, 1914",
+    "author": "Various",
+    "gutenbergReference": "12536",
+    "hash": "24c3539622dbdd1fe8b986e9140788bd6036345fa75985184c1fc20cf3d4b5cc"
   },
   {
     "time": "18:55",
     "quoteFirst": "At ",
-    "quoteTime": "6.55 P.M.",
-    "quoteLast": " the _Pelican_ sighted a periscope, tried to ram the submarine, but missed. She then dropped six depth charges and reported that the submarine came to the surface almost immediately, and then appeared to sink.",
-    "title": "The Grand Fleet, 1914-1916",
-    "author": "Jellicoe, John Rushworth, 1859-1935",
-    "gutenbergReference": "75323",
-    "hash": "e9267d4fa86039306a784ceb1c4daeb984991af364e97bea9b8c7c06c81dc984"
+    "quoteTime": "five minutes to seven",
+    "quoteLast": " Bindle was at Putney Bridge Station.",
+    "title": "Adventures of Bindle",
+    "author": "Jenkins, Herbert George, 1876-1923",
+    "gutenbergReference": "32285",
+    "hash": "bd5eb1f2167cd74508fa99301b62e693dac191d9c76e642de4c5d17eb0fb4117"
   },
   {
     "time": "18:55",
@@ -41,13 +31,63 @@
   },
   {
     "time": "18:55",
-    "quoteFirst": "How sweet she looks!\" and with deft and gentle hand she moved the couch, so that the fair head itself could lean on the cushion.  \"Let me see,\" she went on, glancing at the clock on the mantel-piece, \"a quarter--no, ",
+    "quoteFirst": "At ",
     "quoteTime": "five minutes to seven",
-    "quoteLast": ". I will run down with the letters so as not to wake her by ringing, and then I will let her sleep till a quarter past.  She will be all the brighter for it afterwards.\"",
-    "title": "White Turrets",
-    "author": "Molesworth, Mrs., 1839-1921; Rainey, W. (William), 1852-1936 [Illustrator]",
-    "gutenbergReference": "43108",
-    "hash": "4188386fe8a85def18d2ff8c97d2f8ba9ad425376e9a7bf7712ad70607917fcd"
+    "quoteLast": " Assistant Steward Scott, bearing a can of hot water and a cup of tea, tapped at the Old Man's cabin door.",
+    "title": "The Wireless Officer",
+    "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Wigfull, W. Edward (William Edward), 1875-1944 [Illustrator]",
+    "gutenbergReference": "37824",
+    "hash": "422953322898633ada3796e748875edee5a410107e490fde61ab319aa5ed1b90"
+  },
+  {
+    "time": "18:55",
+    "quoteFirst": "“It is ",
+    "quoteTime": "five minutes to seven",
+    "quoteLast": ",” he said. “They have been gone from here twenty or twenty-five minutes. We must----”",
+    "title": "The Babbington case; Or, Nick Carter's strange quest",
+    "author": "Carter, Nicholas (House name)",
+    "gutenbergReference": "69263",
+    "hash": "d5005459bc89e9e481c6bcdad42da4b3a9bfbee7a5894fc409ba134ed72c83c7"
+  },
+  {
+    "time": "18:55",
+    "quoteFirst": "\"TOTTIE TOTTS.\"--Here for private consultation from ",
+    "quoteTime": "5 to 7 P.M.",
+    "quoteLast": "",
+    "title": "Punch, or the London Charivari, Volume 101, November 14, 1891",
+    "author": "Various",
+    "gutenbergReference": "14074",
+    "hash": "6a221f6b7681ff5f4575c5e1b813b01d4f3d788268d06331ccd24a103683a23e"
+  },
+  {
+    "time": "18:55",
+    "quoteFirst": "But the excitement of the impending event must have been too much for him. When I arrived at ",
+    "quoteTime": "five minutes to seven",
+    "quoteLast": ", Turpey, the wounded lieutenant, met me in the hall with a face of ill omen.",
+    "title": "The Stark Munro Letters\r\nBeing series of twelve letters written by J. Stark Munro, M.B., to his friend and former fellow-student, Herbert Swanborough, of Lowell, Massachusetts, during the years 1881-1884",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "gutenbergReference": "290",
+    "hash": "c82ca8a710dad739678c860027c21826ffe526a2c87e590c66f7cab82e2073a0"
+  },
+  {
+    "time": "18:55",
+    "quoteFirst": "Margot knows the way across blindfold--Margot would row the lady. She would be waiting with a lantern at ",
+    "quoteTime": "five minutes to seven",
+    "quoteLast": "; and again at half-past nine. Not too late at all! But Margot would not wait on the other side, it was too cold.",
+    "title": "The Happy Foreigner",
+    "author": "Bagnold, Enid, 1889-1981",
+    "gutenbergReference": "9978",
+    "hash": "11f4a1068cfcbe39141de954ce1ff66f5059913b79928e121598842a56a640f4"
+  },
+  {
+    "time": "18:55",
+    "quoteFirst": "“Yet looking for nearly two hours, from about ",
+    "quoteTime": "5 to 7 P.M.",
+    "quoteLast": " on a midsummer afternoon, at a battle in which at least 50,000 men were actually engaged, and doubtless at least 100 pieces of field-artillery, through an atmosphere optically as limpid as possible, _not a single sound of the battle_ was audible to General Randolph and myself.",
+    "title": "Sound",
+    "author": "Tyndall, John, 1820-1893",
+    "gutenbergReference": "54969",
+    "hash": "fab6d15d7b42cb8ff65810c62e197870553a8d5d78782720c11f416eae886e84"
   },
   {
     "time": "18:55",
@@ -58,45 +98,5 @@
     "author": "Menzel, Donald H. (Donald Howard), 1901-1976; Boyd, Lyle Gifford, 1907-1982",
     "gutenbergReference": "66639",
     "hash": "3878af3ed53fe1ebe3eb8a894dca74c79d436a3430994f3b6185dd30305eb0a8"
-  },
-  {
-    "time": "18:55",
-    "quoteFirst": "\"I couldn't do that just now,\" demurred Ned. \"You see, I help in the kitchen here from six to eight in the morning, eleven to one at noon and ",
-    "quoteTime": "five to seven in the evening",
-    "quoteLast": ".\"",
-    "title": "The Boys of Bellwood School; Or, Frank Jordan's Triumph",
-    "author": "Webster, Frank V.",
-    "gutenbergReference": "6444",
-    "hash": "f798d3f97239be29bffe99df07ef8427736de34ddbb9a45d504826453e14cc33"
-  },
-  {
-    "time": "18:55",
-    "quoteFirst": "If he saw a young girl, he would say: \"How slender she is; quite like the three of hearts.\"  If anybody asked \"What is the time?\" he would reply: \"",
-    "quoteTime": "Five minutes to seven",
-    "quoteLast": ".\"  Every stout man that he saw reminded him of the ace.  \"Three, seven, ace\" haunted him in his sleep, and assumed all possible shapes.",
-    "title": "The Lock and Key Library: The Most Interesting Stories of All Nations: North Europe — Russian — Swedish — Danish — Hungarian",
-    "author": "Hawthorne, Julian, 1846-1934 [Editor]; Bársony, István, 1855-1928 [Contributor]; Bergsøe, Vilhelm, 1835-1911 [Contributor]; Blicher, Steen Steensen, 1782-1848 [Contributor]; Chekhov, Anton Pavlovich, 1860-1904 [Contributor]; Dostoyevsky, Fyodor, 1821-1881 [Contributor]; Elck, Arthur [Contributor]; Ingemann, Bernhard Severin, 1789-1862 [Contributor]; Jókai, Mór, 1825-1904 [Contributor]; Krestovskii, Vs. Vl. (Vsevolod Vladimirovich), 1840-1895 [Contributor]; Larssen, Otto, 1864-1910 [Contributor]; Molnár, Ferenc, 1878-1952 [Contributor]; Pushkin, Aleksandr Sergeevich, 1799-1837 [Contributor]; Zhelikhovskaia, V. P. (Vera Petrovna), 1835-1896 [Contributor]",
-    "gutenbergReference": "1552",
-    "hash": "2829a61f27922ede014d64b623576111b385bd339db5fc97da89c3ea9aa5f9f7"
-  },
-  {
-    "time": "18:55",
-    "quoteFirst": "At ",
-    "quoteTime": "6.55 P.M.",
-    "quoteLast": " _Iron Duke_ passed the wreck of _Invincible_ with _Badger_ standing by. I was not aware of the loss of _Queen Mary_ and _Indefatigable_ until the following day.",
-    "title": "The Grand Fleet, 1914-1916",
-    "author": "Jellicoe, John Rushworth, 1859-1935",
-    "gutenbergReference": "75323",
-    "hash": "7227e69ab66c7a4bac271d8717cf16d6d3c0379b87d3ffee8d93d741abf35f67"
-  },
-  {
-    "time": "18:55",
-    "quoteFirst": "Marie Deschamps and I were ensconced punctually at the hour named, in the little slip of a closet communicating with the Herveys' up-stairs sitting-room. Nobody appeared there till about ",
-    "quoteTime": "five minutes to seven",
-    "quoteLast": ", when Constance, charmingly attired, and looking divinely--though much agitated, I could see through all her assumed firmness--entered, and seated herself upon a small couch, directly in front of the tiny window through which we cautiously peered.",
-    "title": "Harper's New Monthly Magazine, No. XXIII.—April, 1852.—Vol. IV.\nNone",
-    "author": "Various",
-    "gutenbergReference": "41629",
-    "hash": "7632a15adadd217609c8464a09c5ee27a32585b54dee38643f209a87d522a0f0"
   }
 ]

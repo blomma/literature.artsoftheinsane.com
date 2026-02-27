@@ -1,16 +1,6 @@
 [
   {
     "time": "19:16",
-    "quoteFirst": "_ at forty-eight minutes past six at the end of three degrees, and the second morning the sun will rise at forty-four minutes past six, sixteen minutes earlier than at the place he started from, and thirty-two minutes earlier than with the other man, with whom on the same morning it does not rise till ",
-    "quoteTime": "sixteen minutes past seven",
-    "quoteLast": ". It is plain therefore, that while the western traveller has only seen two nights and two days, the eastern has enjoyed the same number of each, and more than half an hour of another day; and it is equally plain that if they continue to travel round the globe at the same rate of motion, the eastern traveller will have more days and nights than the western; those of the former being proportionally shorter than those of the latter.",
-    "title": "The Every-day Book and Table Book. v. 3 (of 3)\r\nEverlasting Calerdar of Popular Amusements, Sports, Pastimes, Ceremonies, Manners, Customs and Events, Incident to Each of the Three Hundred and Sixty-five Days, in past and Present Times; Forming a Complete History of the Year, Month, and Seasons, and a Perpetual Key to the Almanac",
-    "author": "Hone, William, 1780-1842",
-    "gutenbergReference": "53277",
-    "hash": "7e5e9f83fcb8ad14526fb63c50e05d49de13b39123c8cfb8a097b86a613ea661"
-  },
-  {
-    "time": "19:16",
     "quoteFirst": "“It is ten minutes to seven. To-day is Monday, the fifth of August, and the sun sets in ",
     "quoteTime": "sixteen minutes past seven",
     "quoteLast": ". It will be dark when we get to headquarters.”",
@@ -18,6 +8,16 @@
     "author": "Ellis, Edward Sylvester, 1840-1916; Prittie, Edwin John, 1879-1963 [Illustrator]",
     "gutenbergReference": "43079",
     "hash": "b69ad3e91cbb03f48fbf942568bd6c233f270f4081c7a96cb7b3e60b655e5b07"
+  },
+  {
+    "time": "19:16",
+    "quoteFirst": "[219] During the preceding night, the minimum in the cave was 22°·442 F., which may throw some light upon the difference between the temperatures at ",
+    "quoteTime": "7.16 P.M.",
+    "quoteLast": " on the 9th, and at 4 P.M. on the 10th.",
+    "title": "Ice-Caves of France and Switzerland",
+    "author": "Browne, G. F. (George Forrest), 1833-1930",
+    "gutenbergReference": "14012",
+    "hash": "d413fbb6ceec645d91526702b6669685f3cc46e873f7582d94150b8541011544"
   },
   {
     "time": "19:16",
@@ -31,26 +31,6 @@
   },
   {
     "time": "19:16",
-    "quoteFirst": "P.M. on the one day, and at ",
-    "quoteTime": "7.16 P.M.",
-    "quoteLast": " on the other.",
-    "title": "Ice-Caves of France and Switzerland",
-    "author": "Browne, G. F. (George Forrest), 1833-1930",
-    "gutenbergReference": "14012",
-    "hash": "fee30b73c87dcb21ee693593f1e6bde0dcee5e68dc342408da1a1469f3d12d64"
-  },
-  {
-    "time": "19:16",
-    "quoteFirst": "P.M. on the one day, and at ",
-    "quoteTime": "7.16 P.M.",
-    "quoteLast": " on the other.",
-    "title": "Ice-Caves of France and Switzerland",
-    "author": "Browne, G. F. (George Forrest), 1833-1930",
-    "gutenbergReference": "14012",
-    "hash": "fee30b73c87dcb21ee693593f1e6bde0dcee5e68dc342408da1a1469f3d12d64"
-  },
-  {
-    "time": "19:16",
     "quoteFirst": "At ",
     "quoteTime": "7.16 P.M.",
     "quoteLast": " the external temperature was 23·9° F., and the temperature of the atmosphere in the cave at the same time was 30°·88 F.;[217] so that there is no wonder the current of air should be strong.",
@@ -61,33 +41,13 @@
   },
   {
     "time": "19:16",
-    "quoteFirst": "Thury also found violent movements of the air at Saint-Georges in January, 1858. A candle burned steadily for some time, but at ",
-    "quoteTime": "7.16 P. M.",
-    "quoteLast": " it began to flicker and soon inclined downwards through an angle of about 45°; and in the entrance, the flame assumed an almost horizontal position. At 8 P. M., the current of air nearly disappeared.",
-    "title": "Glacières; or, Freezing Caverns",
-    "author": "Balch, Edwin Swift, 1856-1927",
-    "gutenbergReference": "52216",
-    "hash": "38a976822607667bedaab5e9cc6c06189d54aad20bf058c254a2753b7dcef636"
-  },
-  {
-    "time": "19:16",
-    "quoteFirst": "At ",
-    "quoteTime": "7.16 P.M.",
-    "quoteLast": " the external temperature was 23·9° F., and the temperature of the atmosphere in the cave at the same time was 30°·88 F.;[217] so that there is no wonder the current of air should be strong.",
-    "title": "Ice-Caves of France and Switzerland",
-    "author": "Browne, G. F. (George Forrest), 1833-1930",
-    "gutenbergReference": "14012",
-    "hash": "7dbdaf8301ad95b577e6fc1b10fd627b23ea64283f110bf2e0a34d3805e16749"
-  },
-  {
-    "time": "19:16",
-    "quoteFirst": "Thury also found violent movements of the air at Saint-Georges in January, 1858. A candle burned steadily for some time, but at ",
-    "quoteTime": "7.16 P. M.",
-    "quoteLast": " it began to flicker and soon inclined downwards through an angle of about 45°; and in the entrance, the flame assumed an almost horizontal position. At 8 P. M., the current of air nearly disappeared.",
-    "title": "Glacières; or, Freezing Caverns",
-    "author": "Balch, Edwin Swift, 1856-1927",
-    "gutenbergReference": "52216",
-    "hash": "38a976822607667bedaab5e9cc6c06189d54aad20bf058c254a2753b7dcef636"
+    "quoteFirst": "“It is ten minutes to seven. To-day is Monday, the fifth of August, and the sun sets in ",
+    "quoteTime": "sixteen minutes past seven",
+    "quoteLast": ". It will be dark when we get to headquarters.”",
+    "title": "The Boy Patrol on Guard",
+    "author": "Ellis, Edward Sylvester, 1840-1916; Prittie, Edwin John, 1879-1963 [Illustrator]",
+    "gutenbergReference": "43079",
+    "hash": "b69ad3e91cbb03f48fbf942568bd6c233f270f4081c7a96cb7b3e60b655e5b07"
   },
   {
     "time": "19:16",
@@ -98,5 +58,45 @@
     "author": "Hone, William, 1780-1842",
     "gutenbergReference": "53277",
     "hash": "034dcc1cdd75094ff75871e8d6d6ef8586411801d363bc2017f4192ae49e06d4"
+  },
+  {
+    "time": "19:16",
+    "quoteFirst": "P.M. on the one day, and at ",
+    "quoteTime": "7.16 P.M.",
+    "quoteLast": " on the other.",
+    "title": "Ice-Caves of France and Switzerland",
+    "author": "Browne, G. F. (George Forrest), 1833-1930",
+    "gutenbergReference": "14012",
+    "hash": "fee30b73c87dcb21ee693593f1e6bde0dcee5e68dc342408da1a1469f3d12d64"
+  },
+  {
+    "time": "19:16",
+    "quoteFirst": "_ at forty-eight minutes past six at the end of three degrees, and the second morning the sun will rise at forty-four minutes past six, sixteen minutes earlier than at the place he started from, and thirty-two minutes earlier than with the other man, with whom on the same morning it does not rise till ",
+    "quoteTime": "sixteen minutes past seven",
+    "quoteLast": ". It is plain therefore, that while the western traveller has only seen two nights and two days, the eastern has enjoyed the same number of each, and more than half an hour of another day; and it is equally plain that if they continue to travel round the globe at the same rate of motion, the eastern traveller will have more days and nights than the western; those of the former being proportionally shorter than those of the latter.",
+    "title": "The Every-day Book and Table Book. v. 3 (of 3)\r\nEverlasting Calerdar of Popular Amusements, Sports, Pastimes, Ceremonies, Manners, Customs and Events, Incident to Each of the Three Hundred and Sixty-five Days, in past and Present Times; Forming a Complete History of the Year, Month, and Seasons, and a Perpetual Key to the Almanac",
+    "author": "Hone, William, 1780-1842",
+    "gutenbergReference": "53277",
+    "hash": "7e5e9f83fcb8ad14526fb63c50e05d49de13b39123c8cfb8a097b86a613ea661"
+  },
+  {
+    "time": "19:16",
+    "quoteFirst": "[219] During the preceding night, the minimum in the cave was 22°·442 F., which may throw some light upon the difference between the temperatures at ",
+    "quoteTime": "7.16 P.M.",
+    "quoteLast": " on the 9th, and at 4 P.M. on the 10th.",
+    "title": "Ice-Caves of France and Switzerland",
+    "author": "Browne, G. F. (George Forrest), 1833-1930",
+    "gutenbergReference": "14012",
+    "hash": "d413fbb6ceec645d91526702b6669685f3cc46e873f7582d94150b8541011544"
+  },
+  {
+    "time": "19:16",
+    "quoteFirst": "“It is ten minutes to seven. To-day is Monday, the fifth of August, and the sun sets in ",
+    "quoteTime": "sixteen minutes past seven",
+    "quoteLast": ". It will be dark when we get to headquarters.”",
+    "title": "The Boy Patrol on Guard",
+    "author": "Ellis, Edward Sylvester, 1840-1916; Prittie, Edwin John, 1879-1963 [Illustrator]",
+    "gutenbergReference": "43079",
+    "hash": "b69ad3e91cbb03f48fbf942568bd6c233f270f4081c7a96cb7b3e60b655e5b07"
   }
 ]

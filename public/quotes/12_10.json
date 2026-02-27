@@ -1,63 +1,43 @@
 [
   {
     "time": "12:10",
-    "quoteFirst": "At 11.45 made a quarter of a mile west. At ",
+    "quoteFirst": "February 14.--Left yesterday at ",
+    "quoteTime": "12.10 P.M.",
+    "quoteLast": " Arrived at Etampes at 3.15.",
+    "title": "The Memoirs of Victor Hugo",
+    "author": "Hugo, Victor, 1802-1885",
+    "gutenbergReference": "2523",
+    "hash": "5edc2932f11e58d4d4323c6a89f6fd92e2861bd7d79cde3820a5af16e83185bc"
+  },
+  {
+    "time": "12:10",
+    "quoteFirst": "The valley contracted as we proceeded, and at length the steep cliff left no passage on the left bank, and we had to return one and a half miles up the creek and cross to the right bank, when our course was again obstructed by a large tributary, which was crossed with some difficulty, and we passed through the rough rocky gorge of the creek, where the cliff approached the bank of the stream so closely that there was scarcely space for a horse to pass. At ",
     "quoteTime": "12.10 p.m.",
-    "quoteLast": " made half a mile north-west. At 12.40 made one mile north-west to junction of creek from south-west which I have named Abbot Creek. At 12.",
-    "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
-    "author": "Landsborough, William, 1825-1886",
-    "gutenbergReference": "16243",
-    "hash": "73cab64d084fe3eae4b882163bd6ed96f72daf758cf03212f2eb24cff22f1fa6"
+    "quoteLast": " camped on the bank of the creek at the termination of the hilly country, and, ascending a rocky elevation, obtained a view of the valley of the Victoria, and ascertained that we were on one of the branches of Jasper Creek. The afternoon and night were showery.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "f6785e5753734b95621479e6318a3913882df497c9e7d091c626f12d2d54254a"
   },
   {
     "time": "12:10",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes past twelve",
-    "quoteLast": ", a red-armed servant girl made her appearance at the back door looking out on the playground, and rang a huge dinner bell. The boys dropped their games, and made what haste they could to the dining room.",
-    "title": "Hector's Inheritance, Or, the Boys of Smith Institute",
-    "author": "Alger, Horatio, Jr., 1832-1899",
-    "gutenbergReference": "5674",
-    "hash": "8c2b766724605293121973e215a72d76f508151cd2c7c4fc01277a3f62763afc"
+    "quoteFirst": "The testimony of Nat A. Pinkston was taken at ",
+    "quoteTime": "12:10 p.m.",
+    "quoteLast": ", on April 9, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. Joseph A.",
+    "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44006",
+    "hash": "35908fe16abd6bdcc2ea9589ea00b509f9d6dca60f44ee3c510300c115a43214"
   },
   {
     "time": "12:10",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes past twelve",
-    "quoteLast": " he had gotten rid of patrons and clerks, and he had the gold out and his green eyeshade adjusted as becomingly as a green eyeshade may be adjusted. He looked out and saw that the street was practically empty, because of the hour and the heat that was almost intolerable where the sun shone full.",
-    "title": "The Heritage of the Sioux",
-    "author": "Bower, B. M., 1871-1940",
-    "gutenbergReference": "1299",
-    "hash": "d79db615c2b96ad1770e9bb15bf8a8185cdd11775bd87ac425fb1ad8f9c7f69e"
-  },
-  {
-    "time": "12:10",
-    "quoteFirst": "Accordingly, at ",
-    "quoteTime": "ten minutes past twelve",
-    "quoteLast": " on the following day the two boys arrived breathless at No. 8 Laburnum Villas.",
-    "title": "Sturdy and Strong; Or, How George Andrews Made His Way",
-    "author": "Henty, G. A. (George Alfred), 1832-1902",
-    "gutenbergReference": "33939",
-    "hash": "997d9d05ee1a9640d8895473523d8fed8c957f2b31093709d0a489bb1dd303ac"
-  },
-  {
-    "time": "12:10",
-    "quoteFirst": "Mr Twemlow made it ",
-    "quoteTime": "ten minutes past twelve",
-    "quoteLast": ", sir.",
-    "title": "Our Mutual Friend",
-    "author": "Dickens, Charles, 1812-1870",
-    "gutenbergReference": "883",
-    "hash": "893424bcf05645a42199d7849709ba38f6806bea4294367d2a4cee96157dbff0"
-  },
-  {
-    "time": "12:10",
-    "quoteFirst": "_Tuesday, 3rd May._— ... At 10 minutes past 11 came _Lablache_ till ",
-    "quoteTime": "10 minutes past 12",
-    "quoteLast": ". He complained much of the cold weather, and said “qu’ils étaient tous enrhumés” and that they had all been very hoarse last night at a concert, except Rubini. I like Lablache very much, he is such a nice, good-natured, good-humoured man, and a very patient and excellent master; he is so merry too.",
-    "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
-    "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
-    "gutenbergReference": "75138",
-    "hash": "c20e3f5c77b1fb96fc5b6cd5a9c981e2bbb9de0e9dd743244cdfff4af8a0d491"
+    "quoteFirst": "11.55 a.m.  Studies dismissed. Bugle wash hands, etc. ",
+    "quoteTime": "12.10 p.m.",
+    "quoteLast": "  Dinner.",
+    "title": "The Story of the \"Britannia\"\r\nThe training ship for naval cadets. With some account of previous methods of naval education, and of the new scheme of 1903.",
+    "author": "Statham, Edward Phillips, -1921",
+    "gutenbergReference": "46788",
+    "hash": "227f73c39c18b136a8a9059c23e6cdc847d7200809d5574b2d71c960e32a34d4"
   },
   {
     "time": "12:10",
@@ -71,32 +51,52 @@
   },
   {
     "time": "12:10",
-    "quoteFirst": "Accordingly, at ",
+    "quoteFirst": "“You told the court,” O’Moy addressed the witness Mullins, consulting his notes as he did so, “that on the night on which Count Samoval met his death, I sent you at ",
     "quoteTime": "ten minutes past twelve",
-    "quoteLast": " on the following day the two boys arrived breathless at No. 8 Laburnum Villas.",
-    "title": "Sturdy and Strong; Or, How George Andrews Made His Way",
-    "author": "Henty, G. A. (George Alfred), 1832-1902",
-    "gutenbergReference": "33939",
-    "hash": "997d9d05ee1a9640d8895473523d8fed8c957f2b31093709d0a489bb1dd303ac"
+    "quoteLast": " to take a letter to the sergeant of the guard, an urgent letter which was to be forwarded to its destination first thing on the following morning. And it was in fact in the course of going upon this errand that you discovered the prisoner kneeling beside the body of Count Samoval.",
+    "title": "The Snare",
+    "author": "Sabatini, Rafael, 1875-1950",
+    "gutenbergReference": "2687",
+    "hash": "076a3e5ea6b16e8a1119418cf5552080a28e08833800f6d6529258a2e4184e2c"
   },
   {
     "time": "12:10",
-    "quoteFirst": "\"I make it just ",
+    "quoteFirst": "At ",
     "quoteTime": "ten minutes past twelve",
-    "quoteLast": ". By now he will be on his way to the station--most probably he has started.\"",
-    "title": "The Song of Songs",
-    "author": "Sudermann, Hermann, 1857-1928; Marshall, Beatrice, 1861-1944 [Translator]",
-    "gutenbergReference": "34361",
-    "hash": "6b1534100237ad59922aca0b795194d1b7794160abefb1d577bfac5862f8a78e"
+    "quoteLast": " the four crept into the stable with appropriate stealthiness and found Nan already there. She led the way into the harness room, closed and locked the door and took command of the situation.",
+    "title": "The Junior Trophy",
+    "author": "Barbour, Ralph Henry, 1870-1944; Boehm, H. Richard, 1871-1914 [Illustrator]",
+    "gutenbergReference": "66055",
+    "hash": "714ad438aa15584c62e9419b7690285231e6632d6f3d70ea76e32bf9c618abb7"
   },
   {
     "time": "12:10",
-    "quoteFirst": "At 11.45 made a quarter of a mile west. At ",
-    "quoteTime": "12.10 p.m.",
-    "quoteLast": " made half a mile north-west. At 12.40 made one mile north-west to junction of creek from south-west which I have named Abbot Creek. At 12.",
-    "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
-    "author": "Landsborough, William, 1825-1886",
-    "gutenbergReference": "16243",
-    "hash": "73cab64d084fe3eae4b882163bd6ed96f72daf758cf03212f2eb24cff22f1fa6"
+    "quoteFirst": "“You told the court,” O’Moy addressed the witness Mullins, consulting his notes as he did so, “that on the night on which Count Samoval met his death, I sent you at ",
+    "quoteTime": "ten minutes past twelve",
+    "quoteLast": " to take a letter to the sergeant of the guard, an urgent letter which was to be forwarded to its destination first thing on the following morning. And it was in fact in the course of going upon this errand that you discovered the prisoner kneeling beside the body of Count Samoval.",
+    "title": "The Snare",
+    "author": "Sabatini, Rafael, 1875-1950",
+    "gutenbergReference": "2687",
+    "hash": "076a3e5ea6b16e8a1119418cf5552080a28e08833800f6d6529258a2e4184e2c"
+  },
+  {
+    "time": "12:10",
+    "quoteFirst": "Mr Twemlow made it ",
+    "quoteTime": "ten minutes past twelve",
+    "quoteLast": ", sir.",
+    "title": "Our Mutual Friend",
+    "author": "Dickens, Charles, 1812-1870",
+    "gutenbergReference": "883",
+    "hash": "893424bcf05645a42199d7849709ba38f6806bea4294367d2a4cee96157dbff0"
+  },
+  {
+    "time": "12:10",
+    "quoteFirst": "\"Just so. I think we had better defer our visit till after luncheon; but, meanwhile, what shall we do? It is now ",
+    "quoteTime": "ten minutes past twelve",
+    "quoteLast": "; we cannot possibly lunch till one. Shall we explore the Museum?\"",
+    "title": "Fanny Lambert: A Novel",
+    "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
+    "gutenbergReference": "55454",
+    "hash": "e53cb2a9ed949b56c53d053729ad29f2c479639ce2b6f6aa82b232409f84e5f7"
   }
 ]

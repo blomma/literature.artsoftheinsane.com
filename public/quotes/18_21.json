@@ -21,16 +21,6 @@
   },
   {
     "time": "18:21",
-    "quoteFirst": "\"I mean,\" answered Monk, briskly, \"that the photograph itself is all right, and the person who is in the photograph is Evelina Reierson.  At the moment when she was photographed, she wore a feather on the left side of her hat, in her left hand she held the diamond, and on the right hand she wore a ring.  The time was ",
-    "quoteTime": "twenty-one minutes past six",
-    "quoteLast": ".\"",
-    "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
-    "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
-    "gutenbergReference": "46006",
-    "hash": "558c7a523e8a9c3c3d76da577ee17f2729ad9f3b05c8428920289f2a98ee92d2"
-  },
-  {
-    "time": "18:21",
     "quoteFirst": "\"Now turn round and look at the clock—well, what do you say now?  It is ",
     "quoteTime": "twenty-one minutes past six",
     "quoteLast": ", isn’t it?\"",
@@ -38,5 +28,15 @@
     "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
     "gutenbergReference": "46006",
     "hash": "66ba661aefa15a9da88c3400dd585ac2df2935911c5073a33c02359480ad96e9"
+  },
+  {
+    "time": "18:21",
+    "quoteFirst": "\"I mean,\" answered Monk, briskly, \"that the photograph itself is all right, and the person who is in the photograph is Evelina Reierson.  At the moment when she was photographed, she wore a feather on the left side of her hat, in her left hand she held the diamond, and on the right hand she wore a ring.  The time was ",
+    "quoteTime": "twenty-one minutes past six",
+    "quoteLast": ".\"",
+    "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
+    "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
+    "gutenbergReference": "46006",
+    "hash": "558c7a523e8a9c3c3d76da577ee17f2729ad9f3b05c8428920289f2a98ee92d2"
   }
 ]

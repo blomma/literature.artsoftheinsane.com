@@ -1,26 +1,6 @@
 [
   {
     "time": "19:41",
-    "quoteFirst": "The hall was empty; ",
-    "quoteTime": "nineteen minutes to eight",
-    "quoteLast": "! The train left at eight o'clock. Had he time to saddle Bolero? He rushed round to the stables; but the cob was out, being shoed. He would—he must get there in time.",
-    "title": "The Dark Flower",
-    "author": "Galsworthy, John, 1867-1933",
-    "gutenbergReference": "2192",
-    "hash": "431a5fbf7579fd9b6865baab9a8eeb2f8fd621310045c6a2ad711f3b5c73195c"
-  },
-  {
-    "time": "19:41",
-    "quoteFirst": "The hall was empty; ",
-    "quoteTime": "nineteen minutes to eight",
-    "quoteLast": "!  The train left at eight o'clock.  Had he time to saddle Bolero?  He rushed round to the stables; but the cob was out, being shoed.  He would--he must get there in time.",
-    "title": "Complete Project Gutenberg John Galsworthy Works",
-    "author": "Galsworthy, John, 1867-1933",
-    "gutenbergReference": "3254",
-    "hash": "5c8aa60ffea71f88b5577eaae1cf8b15ae226318473be5589e090f1dece7ef3d"
-  },
-  {
-    "time": "19:41",
     "quoteFirst": "No report of this movement of the German Fleet reached me, and at first it was thought that his temporary disappearance was due to the thickening mist, especially as firing could be heard from the battleships in rear, but at ",
     "quoteTime": "7.41 P.M.",
     "quoteLast": ", the enemy Battle Fleet being no longer in sight from the _Iron Duke_, course was altered “by divisions” three points more to starboard (namely, to south-west) to close the enemy, and single line ahead was again formed on the _Iron Duke_ on that course.",
@@ -48,15 +28,5 @@
     "author": "Lindsay, W. S. (William Schaw), 1816-1877",
     "gutenbergReference": "74393",
     "hash": "cf57cb6cf8c29a3cc1aeb33bba9eb1e08d3d2fb640470c88733b3b69bd0e4f69"
-  },
-  {
-    "time": "19:41",
-    "quoteFirst": "",
-    "quoteTime": "Nineteen minutes to eight",
-    "quoteLast": "! It was time to start. He took up the poker and carefully beat the cinders into small particles, stirring them into the glowing embers of the wood and coal. There was nothing unusual in the appearance of the grate.",
-    "title": "The adventures of Dr. Thorndyke (The singing bone)",
-    "author": "Freeman, R. Austin (Richard Austin), 1862-1943",
-    "gutenbergReference": "59478",
-    "hash": "b6a69e894c79a83b3854d1de3e1e2abc5051c0f2e02106bf1068b3ef1c1a0c2a"
   }
 ]

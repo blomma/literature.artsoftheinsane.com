@@ -1,6 +1,26 @@
 [
   {
     "time": "16:50",
+    "quoteFirst": "FIFTH MANCHESTER AND THE YORK               4.0 p.m.         ",
+    "quoteTime": "4.50 p.m.",
+    "quoteLast": "",
+    "title": "Drake's Road Book of the Grand Junction Railway\nfrom Birmingham to Liverpool and Manchester",
+    "author": "Drake, James, active 1825",
+    "gutenbergReference": "43367",
+    "hash": "03bfce01b57fd22731034e8aa1710c755b7e7cdb4bc5c3fe4e1d62658144fa26"
+  },
+  {
+    "time": "16:50",
+    "quoteFirst": "At ½ past 2 came Mr. Westall till ½ past 3. At 20 minutes to 3 I sat to Mr. Wyon[79] to have my profile taken for a medal, till ",
+    "quoteTime": "10 minutes to 5",
+    "quoteLast": ". At 6 we dined. Sir John dined here. At a ¼ past 7 we went with Lady Conroy and Lehzen, as usual, to the Opera.",
+    "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
+    "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
+    "gutenbergReference": "75138",
+    "hash": "26ceb553fcb8691bab5b3c626c6d6ccf7a65a8bdd142edea1d9e7febfd86c768"
+  },
+  {
+    "time": "16:50",
     "quoteFirst": "\"It is now ",
     "quoteTime": "ten minutes to five",
     "quoteLast": ",\" he said. \"Suppose we allow them five hours to put their papers in order, and meet at Bellevue, on the terrace, at ten?\"",
@@ -11,92 +31,72 @@
   },
   {
     "time": "16:50",
-    "quoteFirst": "It was ",
+    "quoteFirst": "At last she glanced at her little watch, with its two hearts set in diamonds on the back--a beautiful souvenir which her absent lover had given her in the early days of their acquaintance--and found it wanted ",
     "quoteTime": "ten minutes to five",
-    "quoteLast": " when, without having met anyone save two or three campus acquaintances, Marjorie walked sedately between the high, ornamental gate posts of Hamilton Arms, and on up the drive to the house. She compared her present approach to that of last May Day evening, when she had stolen like a shadow to the veranda to hang the May basket.",
-    "title": "Marjorie Dean, College Junior",
-    "author": "Chase, Josephine, -1931",
-    "gutenbergReference": "37176",
-    "hash": "01831a0502e30b936b204199a2dfbbd092f1d1ce95ca824ee201d41f9b629fd1"
+    "quoteLast": ".  She had passed the obscure rendezvous, and glanced at its window with the sickly looking palms and india-rubber plants, the long-necked wine-flasks she knew so well, and the two framed menus; therefore, considering it time to enter the place, she retraced her steps from Piccadilly Circus, and a few minutes later opened the door and walked into the long, narrow salon, with its marble-topped tables and plush lounges.",
+    "title": "The Day of Temptation",
+    "author": "Le Queux, William, 1864-1927; Greiffenhagen, Maurice, 1862-1931 [Illustrator]",
+    "gutenbergReference": "40998",
+    "hash": "a4a55d910ea35c93795a5e75b0ff97fa4a1acdeccd1d550aaed1afc0bde25e87"
   },
   {
     "time": "16:50",
-    "quoteFirst": ", 300 Grey Crows during day (two killed), from S.E. to N.W. _Llyn Wells_ L.V., large flocks of Crows all day, S. to N. (N.E., 3.) _Dudgeon_ L.V., About 350 Crows, 3 to ",
+    "quoteFirst": "As soon therefore as the last of his reinforcements arrived from De-Aar, he resolved to attack the Magersfontein kopje.  For this purpose, as we have said, the heights were bombarded from ",
     "quoteTime": "4.50 P.M.",
-    "quoteLast": ", S.E.",
-    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
-    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
-    "gutenbergReference": "66152",
-    "hash": "d8aeed870d2e4023498ecd907e763e8c392d37408eb8e6a3b30b33942622db9f"
+    "quoteLast": "",
+    "title": "General Wauchope",
+    "author": "Baird, William, F.S.A. Scot.",
+    "gutenbergReference": "65570",
+    "hash": "daace511ad7866b59f60b0848d25988cd5dfd03f0aad29c3a0de98889df1f4d0"
+  },
+  {
+    "time": "16:50",
+    "quoteFirst": "Paddington at ",
+    "quoteTime": "4:50 p.m.",
+    "quoteLast": ", there was an up train due at the platform at 4:55.",
+    "title": "By Birth a Lady",
+    "author": "Fenn, George Manville, 1831-1909",
+    "gutenbergReference": "34142",
+    "hash": "6e1af01b5042e1194501d8fb7e06deef90295a4e958f9cfd53865ce66c805f8c"
+  },
+  {
+    "time": "16:50",
+    "quoteFirst": "forest became more open, and the stringybark was replaced by bloodwood and box; limestone rock was frequent, and rendered the surface of the country very rough; and frequent depressions of the surface appeared to result from the falling-in of the roofs of caverns beneath which were farther indicated by deep clefts and holes in the rock, into which the surface waters flow during the rains. At 11.0 a.m. turned north, and at noon again struck the creek, which gradually turned to the north-north-east; limestone formed the banks, and only one small pool was seen till ",
+    "quoteTime": "4.50 p.m.",
+    "quoteLast": ", when we found a little water in the sandy bed of a tributary creek from the south-south-east, at which we encamped. On the bank of the creek we this day first observed the casuarina, which is so frequent on the banks of the creeks trending towards the Gulf of Carpentaria.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "fa9b32cee4f2bdbec3b6b22edea0f287bd080489d3511f5eec2b2f77700d8d8a"
   },
   {
     "time": "16:50",
     "quoteFirst": "It was ",
     "quoteTime": "ten minutes to five",
-    "quoteLast": " when Louie entered the dining-room. Before the clock had struck five she had taken a certain position in the college.",
-    "title": "The Story of Louie",
-    "author": "Onions, Oliver, 1873-1961",
-    "gutenbergReference": "37838",
-    "hash": "0efee48e03f8ed314b59bc21f475a1cf696fd373e9d607da1ee3560073211b93"
+    "quoteLast": " when he settled down to wait in the concealment of a thicket where he could command a view of the approaches from every direction, and a clear view of the slight depression in the ground where the \"ship\" had dropped.",
+    "title": "The Cyberene",
+    "author": "Phillips, Rog, 1909-1965; Terry, W. E., 1921-1992 [Illustrator]",
+    "gutenbergReference": "66163",
+    "hash": "98472e72e0fa5e90a7ffc5944d6bcebe75b4eab3b9688d1466e8c095498ca6a0"
   },
   {
     "time": "16:50",
-    "quoteFirst": "June 9: 2.55 p. m., 6 cc warm 2 per cent caffein solution given by mouth through stomach tube; ",
-    "quoteTime": "4.50 p. m.",
-    "quoteLast": ", reflexes increased.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
-    "hash": "64feba1ebc840c6732306f5d0dcba675ee08821f1eef97d32c29af432e39456d"
-  },
-  {
-    "time": "16:50",
-    "quoteFirst": "June 9: 3 p. m., 7.5 cc 2 per cent caffein solution given by mouth through stomach tube; ",
-    "quoteTime": "4.50 p. m.",
-    "quoteLast": ", reflexes increased.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
-    "hash": "edb4cc02dcf7bf82f926b4b2bcdeb3cf8368d46b0b4abd41809e2b7fcf913af3"
-  },
-  {
-    "time": "16:50",
-    "quoteFirst": "The judge left the bench, and every one in Court rose.  It was exactly ",
+    "quoteFirst": "He’ll have to wait for his father; he always does. That means he won’t be here at the earliest till after six. And it’s only ",
     "quoteTime": "ten minutes to five",
-    "quoteLast": " by the clock over the door.  The counsel for the prosecution had spoken for just twenty minutes. The public struggled through the door, intent upon tea.",
-    "title": "Blackthorn Farm",
-    "author": "Applin, Arthur, 1873-1949",
-    "gutenbergReference": "42519",
-    "hash": "8a16d7651492b7c31804cf71260e51dd2e0ffe00dba95a5d244fa62b95bc32bc"
+    "quoteLast": " now.”",
+    "title": "Roland Whately: A Novel",
+    "author": "Waugh, Alec, 1898-1981",
+    "gutenbergReference": "52020",
+    "hash": "2e631a9728c5eb04ea37caae35403035752940ffb64cf9fb690994ec7109e17a"
   },
   {
     "time": "16:50",
-    "quoteFirst": "The first onrush was magnificent. Starting at ",
+    "quoteFirst": "Accommodated with the heavies in fiendish fraternal task were the light guns in vast numbers which flung the gas-bombs in tens of thousands to the spots where of a certainty there must be congestion of traffic in the British rear. It was ",
     "quoteTime": "ten minutes to five",
-    "quoteLast": " in the morning, the Allies were within sight of Soissons at ten o'clock, having overrun the whole plateau on a front of some ten kilometres. Rarely has a more successful attack been seen in this war.",
-    "title": "World's War Events $v Volume 3\r\nBeginning with the departure of the first American destroyers for service abroad in April, 1917, and closing with the treaties of peace in 1919.",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
-    "gutenbergReference": "16513",
-    "hash": "efa8a9c45975e795b03536c33ab3038da498c798423b6d25b0f36c78a7d428b0"
-  },
-  {
-    "time": "16:50",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes to five",
-    "quoteLast": " he said:",
-    "title": "The Old Adam: A Story of Adventure",
-    "author": "Bennett, Arnold, 1867-1931",
-    "gutenbergReference": "40168",
-    "hash": "ac341e97eba75d4f55ae2098b3f13325b08594ed54af061ed55616fdbcc65cea"
-  },
-  {
-    "time": "16:50",
-    "quoteFirst": "At five o’clock, seventeen years ago, Ezekiel Babb had come into that hall through that doorway, and had borrowed his money. The clock told that the time was ",
-    "quoteTime": "ten minutes to five",
-    "quoteLast": ". If Mr. Babb did not appear to the hour, he would abandon the expectation of seeing him. He must make a journey to Buckfastleigh over the moor, a long day’s journey, and seek the defaulter, and know the reason why the loan was not repaid.",
-    "title": "Eve: A Novel",
-    "author": "Baring-Gould, S. (Sabine), 1834-1924",
-    "gutenbergReference": "53411",
-    "hash": "6a05645f6c7422daff944cd76b8b34652b6621ae6a69d78d94bd9862c20dcc72"
+    "quoteLast": " in the morning of the 21st March--_der Tag_ had come, the hour of German fate had struck.",
+    "title": "The challenge of the dead",
+    "author": "Graham, Stephen, 1884-1975",
+    "gutenbergReference": "40507",
+    "hash": "5c2c0a633ce0bcbf88c3f4a077eec6e5a88053583887920e9ef69a08dcb6528a"
   }
 ]

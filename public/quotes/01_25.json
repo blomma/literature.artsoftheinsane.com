@@ -1,73 +1,53 @@
 [
   {
     "time": "01:25",
-    "quoteFirst": "In a few minutes the dead encumbered the gangways and quarter-deck of the _Victory_, while her cockpit was filled with wounded. Meantime, Nelson and Hardy continued to pace to and fro along a space of deck not more than seven yards in length; and at about ",
+    "quoteFirst": "",
+    "quoteTime": "1:25 A.M.",
+    "quoteLast": " KHAQQ from _Itasca_: “Have not heard your signals yet; please observe schedules with key; go ahead, am listening on 3,105 now.”",
+    "title": "Daughter of the sky",
+    "author": "Briand, Paul L., Jr., 1920-1986",
+    "gutenbergReference": "70263",
+    "hash": "702c4d4870b3c9d1fe03402a236c2ecc5042da1a534dfd968fac19208c232542"
+  },
+  {
+    "time": "01:25",
+    "quoteFirst": "There was no hook behind the door--nothing. She shivered and turned on her side, looked for the twentieth time at her watch. ",
+    "quoteTime": "Twenty-five minutes past one",
+    "quoteLast": ".",
+    "title": "The Black Abbot",
+    "author": "Wallace, Edgar, 1875-1932",
+    "gutenbergReference": "75643",
+    "hash": "96ba1f334f4c9817ee349117066912586abff2c7d359f4f3afe1733dbaaf11c8"
+  },
+  {
+    "time": "01:25",
+    "quoteFirst": "During the day of 9th October the 2nd South African Regiment, under Lieutenant-Colonel Christian, to the strength of 20 officers and 578 other ranks, took over the portion of the front line to be held by the Brigade. The relief, with the exception of two posts, was complete by ",
+    "quoteTime": "1.25 a.m.",
+    "quoteLast": " on the 10th, and shortly before daybreak the missing posts were discovered. During that night a number of wounded, belonging to the outgoing 141st Brigade, were brought in by the South Africans.",
+    "title": "The history of the South African forces in France",
+    "author": "Buchan, John, 1875-1940",
+    "gutenbergReference": "76673",
+    "hash": "a5e152668b192027685db0448f02b1d6c2b8d83e2aa898708956d276363f416a"
+  },
+  {
+    "time": "01:25",
+    "quoteFirst": "The sergeant took a tin box from his pocket, and lighted a match from it, and held it under his cap. Deck produced his watch, and found that it was ",
     "quoteTime": "twenty-five minutes past one",
-    "quoteLast": ", just as they had reached within a pace of the regular turning-point, Nelson, who was on the larboard side, faced about, and, before Hardy could support him, fell. “They have done for me at last, Hardy!” he exclaimed. “I hope not,” answered the captain. “Yes; my backbone is shot through.",
-    "title": "Gibraltar and Its Sieges, with a Description of Its Natural Features.",
-    "author": "Stephens, Frederic George, 1827-1907",
-    "gutenbergReference": "58402",
-    "hash": "4deb0e19be090fcf03e77936aece33522736679590f792fa78713f7aae872d5d"
+    "quoteLast": ".",
+    "title": "A Lieutenant at Eighteen",
+    "author": "Optic, Oliver, 1822-1897",
+    "gutenbergReference": "24866",
+    "hash": "df2bf67f5d44e154d157c9db0f933742442005b7ae981709d2505e4f5a8af26f"
   },
   {
     "time": "01:25",
-    "quoteFirst": "Mrs. GRANT. I would say now, it seems to me, this phone call came in about 20 or ",
-    "quoteTime": "25 after 1",
-    "quoteLast": ", because I already heard it, don’t forget. And it seems to me I heard it 10 minutes. Now, see, you can’t depend on my timing that day.",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
-    "hash": "cc762fd079b884c62f609cfdaff0e6e7d08dad7c840522bc831794faaa3a666e"
-  },
-  {
-    "time": "01:25",
-    "quoteFirst": "The screw had been shipped, and the whole power of the machinery collected on the capstan would have quickly drawn the apparatus on board. The descent began at ",
-    "quoteTime": "twenty-five minutes past one at night",
-    "quoteLast": ", and the chamber, drawn under by the reservoirs full of water, disappeared from the surface of the ocean.",
-    "title": "From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes: and a Trip Round It",
-    "author": "Verne, Jules, 1828-1905; Hildibrand, Henri Théophile, 1824-1897 [Engraver]; Bayard, Émile Antoine, 1837-1891 [Illustrator]; Neuville, Alphonse Marie de, 1835-1885 [Illustrator]",
-    "gutenbergReference": "44278",
-    "hash": "4b02adac82bff9e6f3acf95d69b1329fa26be5de2a62b48f9d2dd4769fd3eadb"
-  },
-  {
-    "time": "01:25",
-    "quoteFirst": "He assisted the officer (Boxhall) to fire distress signals until about ",
-    "quoteTime": "five and twenty minutes past one",
-    "quoteLast": ". At this time they were getting out the starboard collapsible boats. Chief Officer Wilde wanted a sailor. Captain Smith told him to get into the boat “C” which was then partly filled.",
-    "title": "The Truth about the Titanic",
-    "author": "Gracie, Archibald, 1858-1912",
-    "gutenbergReference": "67584",
-    "hash": "8ad7f9d43352a447460c5a43749c6050bd43ca7aaf4f66e1d075bb18d4bca887"
-  },
-  {
-    "time": "01:25",
-    "quoteFirst": "(Titanic), |               |   but his signals died utterly away. |               | ",
+    "quoteFirst": "Our position 170 miles |               |   north of Titanic.\" |               | 11.35 p. m.|   ",
     "quoteTime": "1.25 a. m.",
-    "quoteLast": "|               | Mount Temple hears MPA. (Carpathia) send, |               |   \"If you are there we are firing rockets.\" |               | 1.35 a. m.|               | Baltic sent 1 MSG, to Virginian for Titanic.",
+    "quoteLast": "  | Caronia tells Titanic, \"Baltic coming |               |   to your assistance.\" |               | Do.      |   do.         | Olympic sends position to Titanic 4.",
     "title": "Loss of the Steamship \"Titanic\"",
     "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
     "gutenbergReference": "39415",
-    "hash": "59f084e293501d6c528e2d0bd000a64ffc76c58984e9f21616308aa64293bb4f"
-  },
-  {
-    "time": "01:25",
-    "quoteFirst": "At ",
-    "quoteTime": "twenty-five minutes past one",
-    "quoteLast": ", the allied fleets opened fire upon the Telegraph Height, and the infantry massed upon the ledge at its base. The result of this fire was that the Russian troops at this place, under General Kiviakoff, withdrew further up the hill towards the Telegraph.",
-    "title": "The battles of the British Army",
-    "author": "Blackwood, Robert Melvin",
-    "gutenbergReference": "51056",
-    "hash": "399b5ca0d2b1a81d6a3a2b65682b5951d719da20dc8b1d304e82b138569afa62"
-  },
-  {
-    "time": "01:25",
-    "quoteFirst": "(Titanic), |               |   but his signals died utterly away. |               | ",
-    "quoteTime": "1.25 a. m.",
-    "quoteLast": "|               | Mount Temple hears MPA. (Carpathia) send, |               |   \"If you are there we are firing rockets.\" |               | 1.35 a. m.|               | Baltic sent 1 MSG, to Virginian for Titanic.",
-    "title": "Loss of the Steamship \"Titanic\"",
-    "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
-    "gutenbergReference": "39415",
-    "hash": "59f084e293501d6c528e2d0bd000a64ffc76c58984e9f21616308aa64293bb4f"
+    "hash": "2b116ca95ff614da40257274d6a3baeb9a08d0cd00a7108d7541d5096bf8df00"
   },
   {
     "time": "01:25",
@@ -81,22 +61,42 @@
   },
   {
     "time": "01:25",
-    "quoteFirst": "Admiral made our signal to close; ",
-    "quoteTime": "twenty-five past one",
-    "quoteLast": ", we began to engage; at fifty past one the Admiral made the signal to the Monarch to get into her station. At twelve past two he made the Alert signal to come within hail; half-past two he made the Royal Oak's signal to take the ship in tow that had struck her colours.",
-    "title": "Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II",
-    "author": "Ross, John, Sir, 1777-1856",
-    "gutenbergReference": "27151",
-    "hash": "31061359f2af8f0b44b8f98c0a7d3b6090e41b6139e6aef1fc43f521cfb173a0"
+    "quoteFirst": "The screw had been shipped, and the whole power of the machinery collected on the capstan would have quickly drawn the apparatus on board. The descent began at ",
+    "quoteTime": "twenty-five minutes past one at night",
+    "quoteLast": ", and the chamber, drawn under by the reservoirs full of water, disappeared from the surface of the ocean.",
+    "title": "From the Earth to the moon; and, round the moon",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "83",
+    "hash": "92ef1fe24d8d8d178345d30b3d8e8b025b405c294b7c0b728a999b7989a17834"
   },
   {
     "time": "01:25",
-    "quoteFirst": "He assisted the officer (Boxhall) to fire distress signals until about ",
-    "quoteTime": "five and twenty minutes past one",
-    "quoteLast": ". At this time they were getting out the starboard collapsible boats. Chief Officer Wilde wanted a sailor. Captain Smith told him to get into the boat “C” which was then partly filled.",
-    "title": "The Truth about the Titanic",
-    "author": "Gracie, Archibald, 1858-1912",
-    "gutenbergReference": "67584",
-    "hash": "8ad7f9d43352a447460c5a43749c6050bd43ca7aaf4f66e1d075bb18d4bca887"
+    "quoteFirst": "“As nearly as I can fix it, about ",
+    "quoteTime": "twenty-five minutes past one",
+    "quoteLast": ". I came along the passage——”",
+    "title": "In the night",
+    "author": "Gorell, Ronald Gorell Barnes, Baron, 1884-1963",
+    "gutenbergReference": "75628",
+    "hash": "49bb6f0a98f5191c651e9c7a8beb362b113b3ece0d1f5b0f3905966b9f62cab2"
+  },
+  {
+    "time": "01:25",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-five minutes past one",
+    "quoteLast": ", the allied fleets opened fire upon the Telegraph Height, and the infantry massed upon the ledge at its base. The result of this fire was that the Russian troops at this place, under General Kiviakoff, withdrew further up the hill towards the Telegraph.",
+    "title": "The battles of the British Army",
+    "author": "Blackwood, Robert Melvin",
+    "gutenbergReference": "51056",
+    "hash": "399b5ca0d2b1a81d6a3a2b65682b5951d719da20dc8b1d304e82b138569afa62"
+  },
+  {
+    "time": "01:25",
+    "quoteFirst": "There was no hook behind the door--nothing. She shivered and turned on her side, looked for the twentieth time at her watch. ",
+    "quoteTime": "Twenty-five minutes past one",
+    "quoteLast": ".",
+    "title": "The Black Abbot",
+    "author": "Wallace, Edgar, 1875-1932",
+    "gutenbergReference": "75643",
+    "hash": "96ba1f334f4c9817ee349117066912586abff2c7d359f4f3afe1733dbaaf11c8"
   }
 ]

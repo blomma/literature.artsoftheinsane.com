@@ -1,26 +1,6 @@
 [
   {
     "time": "07:41",
-    "quoteFirst": "The hall was empty; ",
-    "quoteTime": "nineteen minutes to eight",
-    "quoteLast": "! The train left at eight o'clock. Had he time to saddle Bolero? He rushed round to the stables; but the cob was out, being shoed. He would—he must get there in time.",
-    "title": "The Dark Flower",
-    "author": "Galsworthy, John, 1867-1933",
-    "gutenbergReference": "2192",
-    "hash": "b5b5e3a80acfb905a3ac586f8388a7ba2792ab5839a41e050d71451f37d11577"
-  },
-  {
-    "time": "07:41",
-    "quoteFirst": "The hall was empty; ",
-    "quoteTime": "nineteen minutes to eight",
-    "quoteLast": "!  The train left at eight o'clock.  Had he time to saddle Bolero?  He rushed round to the stables; but the cob was out, being shoed.  He would--he must get there in time.",
-    "title": "Complete Project Gutenberg John Galsworthy Works",
-    "author": "Galsworthy, John, 1867-1933",
-    "gutenbergReference": "3254",
-    "hash": "06ac225589b8a76fdabce7f3fa784a93b8f1e67bf4bcae469a9d8a63bc0b9a43"
-  },
-  {
-    "time": "07:41",
     "quoteFirst": "Bulb 7.34 to ",
     "quoteTime": "7.41 a.m.",
     "quoteLast": "",
@@ -28,15 +8,5 @@
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
     "hash": "3b6fd8af24b649f087700f79a5b79625a7ed4695752f57c5115290405ecf88a1"
-  },
-  {
-    "time": "07:41",
-    "quoteFirst": "",
-    "quoteTime": "Nineteen minutes to eight",
-    "quoteLast": "! It was time to start. He took up the poker and carefully beat the cinders into small particles, stirring them into the glowing embers of the wood and coal. There was nothing unusual in the appearance of the grate.",
-    "title": "The adventures of Dr. Thorndyke (The singing bone)",
-    "author": "Freeman, R. Austin (Richard Austin), 1862-1943",
-    "gutenbergReference": "59478",
-    "hash": "e29657250da09d6d58c1b4596c1add48eab5825607ee4ad90d95a4a1960a682c"
   }
 ]

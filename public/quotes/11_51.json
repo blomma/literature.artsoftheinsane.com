@@ -1,23 +1,93 @@
 [
   {
     "time": "11:51",
-    "quoteFirst": "Paris, it is only ",
-    "quoteTime": "11.51 A.M.",
-    "quoteLast": " in London; 11.36 A.M. in Madrid; 11.14 A.M.",
-    "title": "Astronomy for Amateurs",
-    "author": "Flammarion, Camille, 1842-1925; Welby, Frances A. (Frances Alice), 1862-1947 [Translator]",
-    "gutenbergReference": "25267",
-    "hash": "997b61ae4de994c41035b772dc4b6447e81efd6df0abc219f3a302514915c93f"
+    "quoteFirst": "The hours of attendance are from ",
+    "quoteTime": "9 to 12 a.m.",
+    "quoteLast": ", 2 to 4 p.m., and 6 to 9 p.m. on the first five days of the working week, and from 9 to 12 a.m. on Saturdays.",
+    "title": "Military schools and courses of instruction in the science and art of war,\r\nin France, Prussia, Austria, Russia, Sweden, Switzerland, Sardinia, England, and the United States. Drawn from recent official reports and documents. Revised Edition",
+    "author": "Barnard, Henry, 1811-1900 [Compiler]",
+    "gutenbergReference": "44443",
+    "hash": "a5e92fb78127c64e7c5af3e90afac654c0460cf15c3dc8f87bf553e08a89f24d"
   },
   {
     "time": "11:51",
-    "quoteFirst": "“Slough, ",
-    "quoteTime": "11.51 a.m.",
-    "quoteLast": "—Several of the suspected persons who came by the various down-trains are lurking about Slough, uttering bitter invectives against the telegraph.  Not one of those cautioned has ventured to proceed to the Montem.”",
-    "title": "Railway Adventures and Anecdotes: Extending over More Than Fifty Years",
-    "author": "Pike, Richard [Editor]",
-    "gutenbergReference": "31395",
-    "hash": "5a1107047c63544fa38753eff89667f89dd848796d29a49a815429417ad3dc30"
+    "quoteFirst": "Among the unbelievers were some of the king's own kindred, and notably his four nephews, Gawain, Gaheris, Agravaine, and Gareth. Arthur was therefore obliged to make war against them; but although Gawain's strength increased in a truly marvelous fashion from ",
+    "quoteTime": "nine to twelve in the morning",
+    "quoteLast": ", and from three to six in the afternoon, the king succeeded in defeating him by following Merlin's advice and taking advantage of his comparatively weak moments.",
+    "title": "Legends of the Middle Ages\nNarrated with Special Reference to Literature and Art",
+    "author": "Guerber, H. A. (Hélène Adeline), 1859-1929",
+    "gutenbergReference": "12455",
+    "hash": "3712df58cec0d3cace4a7fc0084ed00e5ea5cf2d076209fc17d5e480f33690a3"
+  },
+  {
+    "time": "11:51",
+    "quoteFirst": "On the 24th of May, from ",
+    "quoteTime": "9 to 12 A. M.",
+    "quoteLast": ", the same highly esteemed spirit friend wrote on the slate:",
+    "title": "A Book Written by the Spirits of the So-Called Dead",
+    "author": "Helleberg, Carl Gustav [Compiler]",
+    "gutenbergReference": "36009",
+    "hash": "628bcdcebde37599a82d727f26382e713ce1ea1d484b0c78e4dd5608c8bdcf0f"
+  },
+  {
+    "time": "11:51",
+    "quoteFirst": "“My hours are from ",
+    "quoteTime": "9 to 12 in the morning",
+    "quoteLast": ". Whatever I write comes to me perfectly easily and naturally, and I rarely ever make any change in my first copy. My mother used to say that I wrote just as other people hemmed handkerchiefs. Writing has never meant any struggle whatever to me.",
+    "title": "The Women Who Make Our Novels",
+    "author": "Overton, Grant M. (Grant Martin), 1887-1930",
+    "gutenbergReference": "65134",
+    "hash": "9d89cfed9121f3255aca4677d46572313a820be5e3547b1ae90bf75c24eda1a8"
+  },
+  {
+    "time": "11:51",
+    "quoteFirst": "Hanois L.V., 18th, ",
+    "quoteTime": "9 to 12 a.m.",
+    "quoteLast": ", flocks, thirty to forty, to south; and many other notices too numerous to mention. Heligoland, Aug. 21st, a flight, the first; 22nd, the same; Sept. 30th, several great flights.",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1884. Sixth Report\r\n(Vol. II No. 1)",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "65700",
+    "hash": "d053ee72399b1f7e8b66f93dda149e20279a1dd7369b3db22ef835d0018ecdc1"
+  },
+  {
+    "time": "11:51",
+    "quoteFirst": "The Mint, on Chestnut street near Broad, is open to the public daily, excepting Sundays and holidays, from ",
+    "quoteTime": "9 to 12 A. M.",
+    "quoteLast": " Visitors are met by the courteous ushers, who attend them through the various departments. It is estimated that over forty thousand persons have visited the institution in the course of a single year.",
+    "title": "Illustrated history of the United States mint\r\nwith a complete description of American coinage, from the earliest period to the present time",
+    "author": "Evans, George Greenlief [Editor]",
+    "gutenbergReference": "68369",
+    "hash": "eb74442c3ea211bc2ce4f1a1297957f24d323b15059efb49ec95185fc2f705c7"
+  },
+  {
+    "time": "11:51",
+    "quoteFirst": "HOURS FROM ",
+    "quoteTime": "9 TO 12 A.M.",
+    "quoteLast": " AND FROM 1 TO 3 P.M.",
+    "title": "Witchcraft and Devil Lore in the Channel Islands\r\nTranscripts from the Official Records of the Guernsey Royal Court, with an English Translation and Historical Introduction",
+    "author": "Pitts, John Linwood, 1836-1917",
+    "gutenbergReference": "17203",
+    "hash": "3ab29211bc74b04cf7441d65e9e8ce98dfdd1debd4e51eeb2161d7b8c2fd6c1a"
+  },
+  {
+    "time": "11:51",
+    "quoteFirst": "HOURS FROM ",
+    "quoteTime": "9 TO 12 A.M.",
+    "quoteLast": " AND FROM 1 TO 3 P.M.",
+    "title": "Witchcraft and Devil Lore in the Channel Islands\r\nTranscripts from the Official Records of the Guernsey Royal Court, with an English Translation and Historical Introduction",
+    "author": "Pitts, John Linwood, 1836-1917",
+    "gutenbergReference": "17203",
+    "hash": "3ab29211bc74b04cf7441d65e9e8ce98dfdd1debd4e51eeb2161d7b8c2fd6c1a"
+  },
+  {
+    "time": "11:51",
+    "quoteFirst": "Among the unbelievers were some of the king's own kindred, and notably his four nephews, Gawain, Gaheris, Agravaine, and Gareth. Arthur was therefore obliged to make war against them; but although Gawain's strength increased in a truly marvelous fashion from ",
+    "quoteTime": "nine to twelve in the morning",
+    "quoteLast": ", and from three to six in the afternoon, the king succeeded in defeating him by following Merlin's advice and taking advantage of his comparatively weak moments.",
+    "title": "Legends of the Middle Ages\nNarrated with Special Reference to Literature and Art",
+    "author": "Guerber, H. A. (Hélène Adeline), 1859-1929",
+    "gutenbergReference": "12455",
+    "hash": "3712df58cec0d3cace4a7fc0084ed00e5ea5cf2d076209fc17d5e480f33690a3"
   },
   {
     "time": "11:51",
@@ -28,75 +98,5 @@
     "author": "Terman, Lewis M. (Lewis Madison), 1877-1956; Cubberley, Ellwood Patterson, 1868-1941 [Editor]",
     "gutenbergReference": "20662",
     "hash": "131cc4692a3d91cfdc81618f498661d412b1aa71703b0fd4e1118def04af729d"
-  },
-  {
-    "time": "11:51",
-    "quoteFirst": "The hours of attendance are from ",
-    "quoteTime": "9 to 12 a.m.",
-    "quoteLast": ", 2 to 4 p.m., and 6 to 9 p.m. on the first five days of the working week, and from 9 to 12 a.m. on Saturdays.",
-    "title": "Military schools and courses of instruction in the science and art of war,\r\nin France, Prussia, Austria, Russia, Sweden, Switzerland, Sardinia, England, and the United States. Drawn from recent official reports and documents. Revised Edition",
-    "author": "Barnard, Henry, 1811-1900 [Compiler]",
-    "gutenbergReference": "44443",
-    "hash": "a5e92fb78127c64e7c5af3e90afac654c0460cf15c3dc8f87bf553e08a89f24d"
-  },
-  {
-    "time": "11:51",
-    "quoteFirst": "The hours of attendance are from ",
-    "quoteTime": "9 to 12 a.m.",
-    "quoteLast": ", 2 to 4 p.m., and 6 to 9 p.m. on the first five days of the working week, and from 9 to 12 a.m. on Saturdays.",
-    "title": "Military schools and courses of instruction in the science and art of war,\r\nin France, Prussia, Austria, Russia, Sweden, Switzerland, Sardinia, England, and the United States. Drawn from recent official reports and documents. Revised Edition",
-    "author": "Barnard, Henry, 1811-1900 [Compiler]",
-    "gutenbergReference": "44443",
-    "hash": "a5e92fb78127c64e7c5af3e90afac654c0460cf15c3dc8f87bf553e08a89f24d"
-  },
-  {
-    "time": "11:51",
-    "quoteFirst": "The hours of attendance are from ",
-    "quoteTime": "9 to 12 a.m.",
-    "quoteLast": ", 2 to 4 p.m., and 6 to 9 p.m. on the first five days of the working week, and from 9 to 12 a.m.",
-    "title": "Military schools and courses of instruction in the science and art of war,\r\nin France, Prussia, Austria, Russia, Sweden, Switzerland, Sardinia, England, and the United States. Drawn from recent official reports and documents. Revised Edition",
-    "author": "Barnard, Henry, 1811-1900 [Compiler]",
-    "gutenbergReference": "44443",
-    "hash": "ae94f8aad5da0108bc519bf237a3fc37ca84526c5c6f0809d07f8b05575621bc"
-  },
-  {
-    "time": "11:51",
-    "quoteFirst": "“My hours are from ",
-    "quoteTime": "9 to 12 in the morn",
-    "quoteLast": "ing. Whatever I write comes to me perfectly easily and naturally, and I rarely ever make any change in my first copy. My mother used to say that I wrote just as other people hemmed handkerchiefs. Writing has never meant any struggle whatever to me.",
-    "title": "The Women Who Make Our Novels",
-    "author": "Overton, Grant M. (Grant Martin), 1887-1930",
-    "gutenbergReference": "65134",
-    "hash": "323c971428193c484aa02f4f8825fa584f23cc549b0e639eee999d1e9174da3a"
-  },
-  {
-    "time": "11:51",
-    "quoteFirst": "Paris, it is only ",
-    "quoteTime": "11.51 A.M.",
-    "quoteLast": " in London; 11.36 A.M. in Madrid; 11.14 A.M.",
-    "title": "Astronomy for Amateurs",
-    "author": "Flammarion, Camille, 1842-1925; Welby, Frances A. (Frances Alice), 1862-1947 [Translator]",
-    "gutenbergReference": "25267",
-    "hash": "997b61ae4de994c41035b772dc4b6447e81efd6df0abc219f3a302514915c93f"
-  },
-  {
-    "time": "11:51",
-    "quoteFirst": "“Slough, ",
-    "quoteTime": "11.51 a.m.",
-    "quoteLast": "—Several of the suspected persons who came by the various down-trains are lurking about Slough, uttering bitter invectives against the telegraph.  Not one of those cautioned has ventured to proceed to the Montem.”",
-    "title": "Railway Adventures and Anecdotes: Extending over More Than Fifty Years",
-    "author": "Pike, Richard [Editor]",
-    "gutenbergReference": "31395",
-    "hash": "5a1107047c63544fa38753eff89667f89dd848796d29a49a815429417ad3dc30"
-  },
-  {
-    "time": "11:51",
-    "quoteFirst": "Slough, ",
-    "quoteTime": "11.51 A.M.",
-    "quoteLast": "--Several of the suspected persons who came by the various down trains are lurking about Slough, uttering bitter invectives against the telegraph. Not one of those cautioned has ventured to proceed to the Montem.",
-    "title": "Lives of the electricians",
-    "author": "Jeans, William T., 1848-1907",
-    "gutenbergReference": "73641",
-    "hash": "0e1368a0c837b85f880d62c05d250cb50e554ee160286953e9e7df53853a2ed6"
   }
 ]

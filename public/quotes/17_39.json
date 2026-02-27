@@ -11,16 +11,6 @@
   },
   {
     "time": "17:39",
-    "quoteFirst": "_Putney to Mortlake, Thursday, March 15, ",
-    "quoteTime": "5.39 p.m.",
-    "quoteLast": "_",
-    "title": "Boating",
-    "author": "Woodgate, Walter Bradford, 1842-1920; Dadd, Frank, 1851-1929 [Illustrator]",
-    "gutenbergReference": "37462",
-    "hash": "eac98c654ab1dc6ba6e7cc3bfbaee0158a96b3698ff04ba6cdb3b57f9296c09d"
-  },
-  {
-    "time": "17:39",
     "quoteFirst": "Spring began March 20, 1883, at ",
     "quoteTime": "5:39 p. m.",
     "quoteLast": " and lasted 92d, 20h, and 14m.",
@@ -41,16 +31,6 @@
   },
   {
     "time": "17:39",
-    "quoteFirst": "\"Let me see!  It is ",
-    "quoteTime": "twenty-one minutes to six",
-    "quoteLast": ". The figures are not easy to distinguish, but the position of the hands is plain enough.\"",
-    "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
-    "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
-    "gutenbergReference": "46006",
-    "hash": "9fcade249d32f57537d6500d3e9f794d311e257de6f922b6bbd4907eb84993cf"
-  },
-  {
-    "time": "17:39",
     "quoteFirst": "\"Then the photograph showed the time to be ",
     "quoteTime": "twenty-one minutes to six",
     "quoteLast": "; and at the time, it was proved that Evelina was at her mother’s.\"",
@@ -61,12 +41,12 @@
   },
   {
     "time": "17:39",
-    "quoteFirst": "\"",
-    "quoteTime": "Twenty-one minutes to six",
-    "quoteLast": ",\" answered Clara and I at the same moment.",
+    "quoteFirst": "\"Let me see!  It is ",
+    "quoteTime": "twenty-one minutes to six",
+    "quoteLast": ". The figures are not easy to distinguish, but the position of the hands is plain enough.\"",
     "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
     "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
     "gutenbergReference": "46006",
-    "hash": "cd1453fe6cfbcfb8551f23984f3f78d57b750f9abaafb5b222e74c4712441080"
+    "hash": "9fcade249d32f57537d6500d3e9f794d311e257de6f922b6bbd4907eb84993cf"
   }
 ]

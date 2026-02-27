@@ -11,43 +11,13 @@
   },
   {
     "time": "22:48",
-    "quoteFirst": "|               |   (Frankfurt) says, \"O. K. will tell.\" |               | ",
-    "quoteTime": "10.48 p. m.",
-    "quoteLast": "| 12.38 a. m.   | Mount Temple hears Frankfurt give M. G. Y.",
-    "title": "Loss of the Steamship \"Titanic\"",
-    "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
-    "gutenbergReference": "39415",
-    "hash": "fe1fbf3d7971395fba139c539b2fc8be450a1ae4921d4d05f85182497b40b6a6"
-  },
-  {
-    "time": "22:48",
-    "quoteFirst": "January, 1881, at ",
-    "quoteTime": "twelve minutes to eleven",
-    "quoteLast": ", as the faithful M. le Rouzic records.",
-    "title": "In the Track of R. L. Stevenson and Elsewhere in Old France",
-    "author": "Hammerton, J. A. (John Alexander), 1871-1949",
-    "gutenbergReference": "43209",
-    "hash": "8e13fca85b59e96528d1df723449beefdbff07cafb520b5d7aab95b8ab175a46"
-  },
-  {
-    "time": "22:48",
-    "quoteFirst": "“Damn it, we must make Piccadilly by eleven o ’clock.” . . . More houses. . . . A saloon. . . . Francis, head down in the tonneau, groping for his flags, hitting his head against the back of the driving-seat. . . . “",
-    "quoteTime": "Twelve minutes to eleven",
-    "quoteLast": ".” . . . Beatrice, eyes on Peter’s cap, muttering to herself, “He’ll never do it. I’ll never forgive him if he doesn’t do it.” . . .",
-    "title": "Peter Jameson: A Modern Romance",
-    "author": "Frankau, Gilbert, 1884-1952",
-    "gutenbergReference": "59936",
-    "hash": "ec94080db0a39f2471ea15c514d2c4d33c29c846c6315e3828f10f6b218009e3"
-  },
-  {
-    "time": "22:48",
-    "quoteFirst": "|               |   (Frankfurt) says, \"O. K. will tell.\" |               | ",
-    "quoteTime": "10.48 p. m.",
-    "quoteLast": "| 12.38 a. m.   | Mount Temple hears Frankfurt give M. G. Y.",
-    "title": "Loss of the Steamship \"Titanic\"",
-    "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
-    "gutenbergReference": "39415",
-    "hash": "fe1fbf3d7971395fba139c539b2fc8be450a1ae4921d4d05f85182497b40b6a6"
+    "quoteFirst": "\"'No, my dear fellow,\" replied M. Delange. 'We are very far from being there, especially if you mean Africa, for we are not more than three hours from Paris. It is exactly ",
+    "quoteTime": "10.48 p.m.",
+    "quoteLast": " We have just passed Tonnerre, and are going ahead full steam for Dijon!'",
+    "title": "A Parisian Sultana, Vol. 1 (of 3)",
+    "author": "Belot, Adolphe, 1829-1890; Dunstan, H. Mainwaring [Translator]",
+    "gutenbergReference": "58677",
+    "hash": "3a6e1470156770f00d0ac4a8ff687e4ccc5c02edf4e3de16c0c6c60fcf79d33c"
   },
   {
     "time": "22:48",
@@ -81,6 +51,16 @@
   },
   {
     "time": "22:48",
+    "quoteFirst": "January, 1881, at ",
+    "quoteTime": "twelve minutes to eleven",
+    "quoteLast": ", as the faithful M. le Rouzic records.",
+    "title": "In the Track of R. L. Stevenson and Elsewhere in Old France",
+    "author": "Hammerton, J. A. (John Alexander), 1871-1949",
+    "gutenbergReference": "43209",
+    "hash": "8e13fca85b59e96528d1df723449beefdbff07cafb520b5d7aab95b8ab175a46"
+  },
+  {
+    "time": "22:48",
     "quoteFirst": "Indeed, the spirit and attributes of these four cycles weigh the moral and physical atmosphere of each day and night. Supposing the average day begin at 6 A.M., the influence and the attributes of the Golden Age prevail from 6 A.M. to 3:36 P.M.; those of the Silver Age prevail from 3:36 P.M. to ",
     "quoteTime": "10:48 P.M.",
     "quoteLast": "; those of the Copper Age from 10:48 P.M. to 3:36 A.M., and those of the Iron Age from 3:36 A.M. to 6 A.M. Illumination and comparative calmness dwell within and without us from morning tip to high noon owing to the predominance of Sattwa, the predominant attribute of the Golden Age.",
@@ -91,12 +71,12 @@
   },
   {
     "time": "22:48",
-    "quoteFirst": "January, 1881, at ",
+    "quoteFirst": "Who are you?\" \"Captain,\" I said to the man, \"it is time this piece of folly were ended. Now understand me. Look at that clock: it wants ",
     "quoteTime": "twelve minutes to eleven",
-    "quoteLast": ", as the faithful M. le Rouzic records.",
-    "title": "In the Track of R. L. Stevenson and Elsewhere in Old France",
-    "author": "Hammerton, J. A. (John Alexander), 1871-1949",
-    "gutenbergReference": "43209",
-    "hash": "8e13fca85b59e96528d1df723449beefdbff07cafb520b5d7aab95b8ab175a46"
+    "quoteLast": "; I want to see your papers; I give you two minutes to produce them in. If, at ten minutes to eleven, the papers are not forthcoming, I shall adopt measures to place them in my possession.",
+    "title": "The Cruise of the Alabama and the Sumter\r\nFrom the Private Journals and Other Papers of Commander R. Semmes, C.S.N., and Other Officers",
+    "author": "Semmes, Raphael, 1809-1877",
+    "gutenbergReference": "13163",
+    "hash": "61aa81cfefbebd7070c99d0ce8ffb05f82cd1b71362c245ce5f92f0399700b92"
   }
 ]

@@ -1,33 +1,53 @@
 [
   {
     "time": "04:05",
-    "quoteFirst": "Alec looked at his watch. \"",
-    "quoteTime": "Five minutes past four",
-    "quoteLast": ",\" he said. \"No, General, I am due at the university. I like to be punctual; but this slight delay was unavoidable.",
-    "title": "A Son of the Immortals",
-    "author": "Tracy, Louis, 1863-1928; Christy, Howard Chandler, 1873-1952 [Illustrator]",
-    "gutenbergReference": "25017",
-    "hash": "6c674d12fd7d7845d069d2cc985b3991b2e74fccc14440328437a19fbf5ab661"
+    "quoteFirst": "_Q._—How do you know when the vessel foundered? _A._—When I got back to the ship, after being washed overboard the first time, I found on examining my pockets that the water had stopped my watch at ",
+    "quoteTime": "five minutes past four",
+    "quoteLast": ", and I estimate that she sank about twenty minutes after that. (At counsel’s request the witness here handed the watch over, and its rusty works—together with the time its dial indicated—were evidently examined with much interest.",
+    "title": "Battling with waves and lawyers",
+    "author": "Reid, John Arbuckle [Compiler]",
+    "gutenbergReference": "71021",
+    "hash": "032029e52b90aa86c8dc7e37811169a071bf2061739810fda2e984570bbc3bf7"
   },
   {
     "time": "04:05",
-    "quoteFirst": "'I'm glad you agree with me. It is now ",
+    "quoteFirst": "Demarest, who taught agriculture at the Haleyville High School. Bud glanced at the clock on the wall. What seemed an hour ago it had been ",
     "quoteTime": "five minutes past four",
-    "quoteLast": "; do you think the American family would be taking a siesta?'",
-    "title": "Jerry",
-    "author": "Webster, Jean, 1876-1916",
-    "gutenbergReference": "20357",
-    "hash": "1693aae24e80a82936c8a6e879e426c9a8783041620ee1258b5a64a27a91b1b3"
+    "quoteLast": ". Now it was only six minutes after. He sighed and stared out at the snow that was trampled in the yards and left in dirty piles in the street.",
+    "title": "The Black Fawn",
+    "author": "Kjelgaard, Jim, 1910-1959",
+    "gutenbergReference": "35493",
+    "hash": "73f82015b91ad0215f665364afd60817728f2bfe3bf82505e95e6971e1aa04d2"
   },
   {
     "time": "04:05",
-    "quoteFirst": "It was Mr. Twist himself who got on a ladder at ",
+    "quoteFirst": "At ",
     "quoteTime": "five minutes past four",
-    "quoteLast": " that afternoon and pasted a strip of white paper obliquely across the sign of The Open Arms with the word.",
-    "title": "Christopher and Columbus",
-    "author": "Von Arnim, Elizabeth, 1866-1941; Litle, Arthur, 1883-1969 [Illustrator]",
-    "gutenbergReference": "14646",
-    "hash": "95fef3eb95a7ca7f6b7324eb2e130ebc1548f786fc3755d534c870b9710db337"
+    "quoteLast": " Mr Gregory, crimson and wrathful, had plunged into his room with a long statement of how Psmith, deputed to help in the life and thought of the Fixed Deposits Department, had left the building at four o'clock, when there was still another hour and a half's work to be done.",
+    "title": "Psmith in the City",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "6753",
+    "hash": "854bb2d2bad7d4870f4b9e1e804dd8c643f0e34331365ff54255988e387e33b4"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "A passenger train, No. 1, leaving A at 12 midnight and arriving at N at ",
+    "quoteTime": "4.05 A.M.",
+    "quoteLast": " A fast express, No. 2, leaving N at 12.45 and arriving at A at 3.30. A local passenger train, No. 4, which leaves N at 1.15, runs to E by 4 A.M., stops there until 4.",
+    "title": "The American Railway: Its Construction, Development, Management, and Appliances",
+    "author": "Clarke, Thomas Curtis, 1827-1901; Cooley, Thomas McIntyre, 1824-1898 [Author of introduction, etc.]",
+    "gutenbergReference": "54383",
+    "hash": "8fc11b664fb135b9ebfef69ff8466871db8f4733bcfe8adb5aa1e3bc37017de0"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "\"shop\" from his mind at ",
+    "quoteTime": "five minutes past four",
+    "quoteLast": ", when he walked out of his office, and his promptitude in resuming it, exactly where he had left off, at a quarter before ten next morning. But now, when it would have been a relief to his jaded mind to lay cares by for a time, they clung to him all the while, disturbing sleep, even, with confused and harassing visions.",
+    "title": "A Rich Man's Relatives (Vol. 2 of 3)",
+    "author": "Cleland, Robert",
+    "gutenbergReference": "40332",
+    "hash": "ff4b496229e77aa5eff0d59fdf04ba2f93013d01a0e593d558b87b6e829a7522"
   },
   {
     "time": "04:05",
@@ -41,62 +61,42 @@
   },
   {
     "time": "04:05",
-    "quoteFirst": "Mr. WATHERWAX. It was about ",
-    "quoteTime": "5 minutes after 4",
-    "quoteLast": ".",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
-    "hash": "ad79ce5dfa4935ef4fc192858b6c9c61398c8f3ebf7055ec5796d7d0e9641d48"
+    "quoteFirst": "At that same time, and while Her Majesty slept at ",
+    "quoteTime": "4.05 a.m.",
+    "quoteLast": " at Windsor, the Executive of the Sons of England and Lodge Commercial were in meeting at Shaftesbury Hall, Toronto. Precisely at 10.55 p.m., on Saturday 19th, they sang the National Anthem, commenced that same moment on Sunday afternoon in Levuka, and which for the next 17¼ hours was to be coming steadily nearer with the sun until it was over Toronto at 4 p.m. on Sunday afternoon, when the Sons of England in Toronto again joined in the loyal strain as it pushed by them onwards toward the West.",
+    "title": "A Sketch of how \"The Diamond Anthem\" was Sung around the World\nThe 60th Anniversary of the Accession Day of Her Majesty Queen Victoria",
+    "author": "Cumberland, Barlow, 1846-1913",
+    "gutenbergReference": "49034",
+    "hash": "9a7c858cce7f76d36d26beb828f0d71b66661c1a06af986fdbece0fa7c88e21f"
   },
   {
     "time": "04:05",
-    "quoteFirst": "It seemed to him that he had scarcely closed his eyes when some one seized him by the shoulder. He glanced at the clock and saw that Bab had been true to his promise, for the hands pointed to ",
+    "quoteFirst": "They waited till ",
     "quoteTime": "five minutes past four",
-    "quoteLast": ".",
-    "title": "The Sportsman's Club in the Saddle",
-    "author": "Castlemon, Harry, 1842-1915; Faber, Hermann, 1832-1913 [Engraver]",
-    "gutenbergReference": "60890",
-    "hash": "091e8c571f43242ef3bb2cd84095f0e67707fc9247bce348b9ebf54dbd5192e7"
+    "quoteLast": ", but the party they wos egspectin' didn't turn up.",
+    "title": "The Betrayal of John Fordham",
+    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+    "gutenbergReference": "45525",
+    "hash": "39ec330cbb9d27d41be25d171912d2fa7ddc493bbdbeca0ea4615de40584dad9"
   },
   {
     "time": "04:05",
-    "quoteFirst": "Virginia looked up at the clock. It was ",
+    "quoteFirst": "Although she had not gone so far as a regiment of soldiers, that precaution had been taken--and precautions, moreover, which had been found to be adequate, over and over again, on previous occasions--was sufficiently plain. The duchess had travelled in a reserved saloon carriage by the ",
     "quoteTime": "five minutes past four",
-    "quoteLast": ", and she fancied that she had heard the bell.",
-    "title": "The Secret of Chimneys",
-    "author": "Christie, Agatha, 1890-1976",
-    "gutenbergReference": "65238",
-    "hash": "b874cfe1ca9b86632750785e0d56ca8465e8b0b96af31a43087bdbccf1659810"
+    "quoteLast": " train from Windsor to Paddington. She had been accompanied by two servants, her maid, and a man-servant named Stephen Eversleigh.",
+    "title": "The Datchet Diamonds",
+    "author": "Marsh, Richard, 1857-1915; Wood, Stanley L., 1866-1928 [Illustrator]",
+    "gutenbergReference": "40353",
+    "hash": "bed086db31afe8f61279fc7bd2cab4356256281cf9049f72bae148f4652d0c06"
   },
   {
     "time": "04:05",
-    "quoteFirst": "He had been keeping pace with the throng that was sweeping massively up-town, but as the fear seized him that, after all, he had little right to think she might love him, he lengthened his stride in futile impatience to get his answer sooner. He glanced up at Tiffany's clock, then almost over his head, and he slackened his speed as he saw that it was not yet ",
+    "quoteFirst": "It was exactly ",
     "quoteTime": "five minutes past four",
-    "quoteLast": ". He had at least half an hour to wait before he could hope to find her at home.",
-    "title": "Vignettes of Manhattan; Outlines in Local Color",
-    "author": "Matthews, Brander, 1852-1929; Brownell, W. C. (William Crary), 1851-1928 [Author of introduction, etc.]; Smedley, W. T. (William Thomas), 1858-1920 [Illustrator]",
-    "gutenbergReference": "38918",
-    "hash": "da8f379bdc4a8b4090644c06e06a9cb9c095ad96a6be217a8e8824ffc795ac78"
-  },
-  {
-    "time": "04:05",
-    "quoteFirst": "It was then nearly twenty minutes to four and they judged that they had covered about three miles and a half, although as no one had a pedometer save young Chase, and his was, as he explained, absolutely unreliable, this estimate was mostly guesswork and, as indicated later, probably too great by the better part of a mile. At ",
-    "quoteTime": "five minutes past four",
-    "quoteLast": ", they having then struck fairly westward once more, with, as they believed, the lower end of the lake well behind them, another halt was called and Steve recruited for his rear-guard.",
-    "title": "Catcher Craig",
-    "author": "Mathewson, Christy, 1880-1925; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
-    "gutenbergReference": "56337",
-    "hash": "3262f91f2b74c0d5afaf9b5956cd6c2d97044491674eb34584f79007b3d339f0"
-  },
-  {
-    "time": "04:05",
-    "quoteFirst": "At the appointed hour she was waiting near the entrance of Regent’s Park which Jasper had mentioned. Not long ago there had fallen a light shower, but the sky was clear again. At ",
-    "quoteTime": "five minutes past four",
-    "quoteLast": " she still waited, and had begun to fear that the passing rain might have led Jasper to think she would not come. Another five minutes, and from a hansom that rattled hither at full speed, the familiar figure alighted.",
-    "title": "New Grub Street",
-    "author": "Gissing, George, 1857-1903",
-    "gutenbergReference": "1709",
-    "hash": "0513ec4ae33cb8d44700fff53a0afc3da19c499b3aaa3fd8551d061cf9b93fd0"
+    "quoteLast": " as Mr. Robert Audley stepped out upon the platform at Shoreditch, and waited placidly until such time as his dogs and his portmanteau should be delivered up to the attendant porter who had called his cab, and undertaken the general conduct of his affairs, with that disinterested courtesy which does such infinite credit to a class of servitors who are forbidden to accept the tribute of a grateful public.",
+    "title": "Lady Audley's Secret",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "8954",
+    "hash": "b5e9d3e0ef11d7166b09741d13812bd90fdf81975a40076f23644de459d42cb6"
   }
 ]

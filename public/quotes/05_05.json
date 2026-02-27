@@ -1,13 +1,23 @@
 [
   {
     "time": "05:05",
+    "quoteFirst": "Mr. Kurino telegraphed to Baron Komura at ",
+    "quoteTime": "5.05 A. M.",
+    "quoteLast": ", February 5:—",
+    "title": "The Russo-Japanese Conflict: Its Causes and Issues",
+    "author": "Asakawa, Kan'ichi, 1873-1948; Williams, Frederick Wells, 1857-1928 [Author of introduction, etc.]",
+    "gutenbergReference": "57931",
+    "hash": "335ec44218117f42cd4c9a3e99ae3d593c4f46be0003fa4d185f6257a4c33f8d"
+  },
+  {
+    "time": "05:05",
     "quoteFirst": "At ",
     "quoteTime": "five minutes past five",
-    "quoteLast": " in the morning the two rear ships of the enemy, _Le Guillaume Tell_ and _Le Généreux_, were the only French ships of the line that had their colours flying. At fifty-four minutes past five a French frigate, _L'Artemise_, fired a broadside and struck her colours; but such was the unwarrantable and infamous conduct of the French captain that, after having thus surrendered, he set fire to his ship, and with part of his crew made his escape on shore.",
-    "title": "The Admiral: A Romance of Nelson in the Year of the Nile",
-    "author": "Sladen, Douglas Brooke Wheelton, 1856-1947",
-    "gutenbergReference": "47944",
-    "hash": "8fb1af07496a79eebb45ea0f417a3b7e893fd2334401a8cd6e152743444d2e43"
+    "quoteLast": " they entered the Lazaretto.",
+    "title": "Diaries of Sir Moses and Lady Montefiore, Volume 1 (of 2)\r\nComprising Their Life and Work as Recorded in Their Diaries, from 1812 to 1883",
+    "author": "Montefiore, Moses, Sir, 1784-1885; Montefiore, Judith Cohen, Lady, 1784-1862; Loewe, Louis, 1809-1888 [Editor]",
+    "gutenbergReference": "26170",
+    "hash": "1ba03b8a84fb92c7e2fb3caf137ec3e8648820b7a5b36c1447ca9919cec1fdbc"
   },
   {
     "time": "05:05",
@@ -21,73 +31,13 @@
   },
   {
     "time": "05:05",
-    "quoteFirst": "The clouds put on a terrible aspect. Fortunately it was not violent, going off with torrents of rain. Five minutes before 5 p.m. a waterspout was observed to the westward, which emptied itself in torrents over the bow of the _Pheasant_ without intermission, until ",
-    "quoteTime": "5 minutes past 5",
-    "quoteLast": ".",
-    "title": "The Autobiography of Lieutenant-General Sir Harry Smith, Baronet of Aliwal on the Sutlej, G.C.B.",
-    "author": "Smith, Harry George Wakelyn, Sir, 1788-1860; Smith, G. C. Moore (George Charles Moore), 1858-1940 [Editor]",
-    "gutenbergReference": "57094",
-    "hash": "e65727d95f1dd2ed853d4791e19f565b55f028a7ced761f16f69657bc6609176"
-  },
-  {
-    "time": "05:05",
-    "quoteFirst": "Finding no notice, I found the place at last, after a good deal of difficulty. Reaching there at about ",
-    "quoteTime": "five minutes after five",
-    "quoteLast": ", I saw a sign on the door which told me they kept the usual \"banking\" hours, 9 A. M. to 5 P. M. I wondered whether, possibly, some one might not need a little help between 5 P. M.",
-    "title": "\"Broke,\" The Man Without the Dime",
-    "author": "Brown, Edwin A., 1857-1946",
-    "gutenbergReference": "45412",
-    "hash": "003dfe94c115e434ef089a3186f84f822c63e5d1b2ada12f6400354130d69324"
-  },
-  {
-    "time": "05:05",
-    "quoteFirst": "\"After the victory had been secured in the van, such British ships as were in a condition to move, had gone down on the fresh ships of the enemy. At ",
+    "quoteFirst": "At ",
     "quoteTime": "five minutes past five",
-    "quoteLast": " in the morning, the two rear ships of the enemy, Le Guillaume Tell and Le Genereux, were the only French ships of the line that had their colours flying. At fifty-four minutes past five, a French frigate, L'Artemise, fired a broadside, and struck her colours: but such was the unwarrantable and infamous conduct of the French captain, that after having thus surrendered, he set fire to his ship; and, with part of his crew, made his escape on shore.",
-    "title": "The Life of the Right Honourable Horatio Lord Viscount Nelson, Volume 1",
-    "author": "Harrison, James",
-    "gutenbergReference": "16912",
-    "hash": "835d68174c5b352d2bd95fdfa0f23de44b70b1e15db1114537383d32a9309a8b"
-  },
-  {
-    "time": "05:05",
-    "quoteFirst": "\"After the victory had been secured in the van, such British ships as were in a condition to move, had gone down on the fresh ships of the enemy. At ",
-    "quoteTime": "five minutes past five",
-    "quoteLast": " in the morning, the two rear ships of the enemy, Le Guillaume Tell and Le Genereux, were the only French ships of the line that had their colours flying. At fifty-four minutes past five, a French frigate, L'Artemise, fired a broadside, and struck her colours: but such was the unwarrantable and infamous conduct of the French captain, that after having thus surrendered, he set fire to his ship; and, with part of his crew, made his escape on shore.",
-    "title": "The Life of the Right Honourable Horatio Lord Viscount Nelson, Volume 1",
-    "author": "Harrison, James",
-    "gutenbergReference": "16912",
-    "hash": "835d68174c5b352d2bd95fdfa0f23de44b70b1e15db1114537383d32a9309a8b"
-  },
-  {
-    "time": "05:05",
-    "quoteFirst": "They waited neither for orders, nor for the boats to reach the beach, but, springing out into the sea, they waded ashore, and, forming some sort of a rough line, rushed straight on the flashes of the enemy's rifles. Their magazines were not charged, so they just went in with cold steel, and I believe I am right in saying that the first Ottoman Turk since the last Crusade received an Anglo-Saxon bayonet in him at ",
-    "quoteTime": "5 minutes after 5 a.m.",
-    "quoteLast": " on April 25th. It was over in a minute.",
-    "title": "A Source Book of Australian History",
-    "author": "Swinburne, Gwendolen H. [Compiler]",
-    "gutenbergReference": "15337",
-    "hash": "ec17b47dae7a819631ceb4828d931a5e142f27d384ae3f8c9b4511a88103964f"
-  },
-  {
-    "time": "05:05",
-    "quoteFirst": "Wednesday, 14th October, at ",
-    "quoteTime": "five minutes after five",
-    "quoteLast": " in the morning, and that the world would be destroyed by fire on the Friday following. His reputation was high, and the comet appeared.",
-    "title": "Ten Thousand Wonderful Things\r\nComprising whatever is marvellous and rare, curious, eccentric and extraordinary in all ages and nations",
-    "author": "King, E. F. (Edmund Fillingham) [Editor]",
-    "gutenbergReference": "45849",
-    "hash": "381546d845fc48777a71bb4a71bc2a5a7acb05f2aed050f73ed3b05edb740c24"
-  },
-  {
-    "time": "05:05",
-    "quoteFirst": "Chilcombe had died in her arms--\"at ",
-    "quoteTime": "five after five",
-    "quoteLast": ",\" as she said.",
-    "title": "The Spinners",
-    "author": "Phillpotts, Eden, 1862-1960",
-    "gutenbergReference": "15416",
-    "hash": "c7c88a729f38a97f4717bde2bbdeee5e3f4424f1394f063d96cb614ac86b884c"
+    "quoteLast": ", there came a light shock like the jar of a distant explosion. Half a minute later began the subterranean rumbling, with a rapidly increasing vibration, which made the people run for their lives into the streets.",
+    "title": "Great Disasters and Horrors in the World's History",
+    "author": "Godbey, Allen Howard, 1864-1948",
+    "gutenbergReference": "51246",
+    "hash": "3b8b40d549a7f461d805ff4dbd18c69ba7a42fcfa29d6443122c115b62d4b863"
   },
   {
     "time": "05:05",
@@ -98,5 +48,55 @@
     "author": "Warner, Susan, 1819-1885",
     "gutenbergReference": "36159",
     "hash": "e500818b48946044b22b750db4121b28d4292882e8f6e1059c0fea43e43b2ee1"
+  },
+  {
+    "time": "05:05",
+    "quoteFirst": "",
+    "quoteTime": "Five minutes past five",
+    "quoteLast": ". No! it is _not_ sky, after all, that I have been looking at, it is mist, for there beneath our windows are two pine-tops just showing through it like grey spectres. I get up, however.",
+    "title": "\"Magyarland\" Volume 1 (of 2)",
+    "author": "Mazuchelli, Nina Elizabeth, 1832-1914",
+    "gutenbergReference": "77586",
+    "hash": "012c8228eb36490fdce8f61295922aae76dd83a90fc55104d1a73f75e235862d"
+  },
+  {
+    "time": "05:05",
+    "quoteFirst": "I begin to feel anxious about home, and the dear folks among whom I meet. May the Lord bless them.--My uncle evidently changed for the worse, and so continued for two days, until--on the 21st of June, about ",
+    "quoteTime": "five minutes past five",
+    "quoteLast": ", he expired.",
+    "title": "Religion in Earnest: A Memorial of Mrs. Mary Lyth, of York",
+    "author": "Lyth, J. (John), 1821-1886",
+    "gutenbergReference": "11923",
+    "hash": "1833706c50ea80ee2bf6a435f2e880eec75c880d79c00bdd9249215441775bef"
+  },
+  {
+    "time": "05:05",
+    "quoteFirst": "Harthborough. It was now ",
+    "quoteTime": "five minutes past five",
+    "quoteLast": " o'clock--ten minutes before the train's scheduled time of departure; which, allowing two minutes for reaching the station, would mean eight minutes to spend on the platform, even if the train were up to time.",
+    "title": "Ambrotox and Limping Dick",
+    "author": "Fleming, Oliver",
+    "gutenbergReference": "20119",
+    "hash": "75460d36d51fe0703fabff861acfdfa8215a04935b01697e003279b833a91590"
+  },
+  {
+    "time": "05:05",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes past five",
+    "quoteLast": ", there came a light shock like the jar of a distant explosion. Half a minute later began the subterranean rumbling, with a rapidly increasing vibration, which made the people run for their lives into the streets.",
+    "title": "Great Disasters and Horrors in the World's History",
+    "author": "Godbey, Allen Howard, 1864-1948",
+    "gutenbergReference": "51246",
+    "hash": "3b8b40d549a7f461d805ff4dbd18c69ba7a42fcfa29d6443122c115b62d4b863"
+  },
+  {
+    "time": "05:05",
+    "quoteFirst": "Snob may have flattered himself that he made a sensation as he strutted down Bittlestone with his richly gilt knobbed cane (and indeed I vow I saw heads looking at me from Miss Squilsby's, the brass-plated milliner opposite Raymond Gray's, who has three silver-paper bonnets, and two fly-blown prints of fashion in the window), yet what was the emotion produced by my arrival, compared to that which the little street thrilled, when at ",
+    "quoteTime": "five minutes past five",
+    "quoteLast": " the floss-wigged coachman, the yellow hammer-cloth and flunkeys, the black horses and blazing silver harness of Mr. Goldmore whirled down the street!",
+    "title": "The Book of Snobs",
+    "author": "Thackeray, William Makepeace, 1811-1863",
+    "gutenbergReference": "2686",
+    "hash": "d51c3bc07e70415ac37700b5ce278da262c1170d3d9b9a4de5e4ac7a159a94b7"
   }
 ]

@@ -1,53 +1,33 @@
 [
   {
     "time": "15:35",
-    "quoteFirst": "",
-    "quoteTime": "3.35 P.M.",
-    "quoteLast": "--Left Thingvellir (paid $2, 3m. 0sk.).",
-    "title": "Ultima Thule; or, A Summer in Iceland. vol. 2/2",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "59585",
-    "hash": "b039f0a6e7b4ba057575a24b3709c27c5f99eaa7ad153f24c90ee3eb98f5d831"
+    "quoteFirst": "March 18: ",
+    "quoteTime": "3.35 p. m.",
+    "quoteLast": ", 5 cc 2 per cent caffein (107 mg per kilo) injected into subcutaneous tissues in the back; 5.30 p. m., no symptoms.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "hash": "97f047446b6958113d22bcca1997b95a15c581dcf8f0c59231f6a360c340df43"
   },
   {
     "time": "15:35",
-    "quoteFirst": "",
-    "quoteTime": "3.35 p.m.",
-    "quoteLast": "  29.78   81    76        In captain's cabin. Wretched day at El-Wijh and ashore. Very muggy.",
-    "title": "The Land of Midian (Revisited) — Volume 2",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "7113",
-    "hash": "c2cf47b6317454e764a8f7dd29e7d4833663d512c53e11da774099b9075e997f"
+    "quoteFirst": "(Whereupon, at ",
+    "quoteTime": "3:35 p.m.",
+    "quoteLast": ", the President's Commission recessed.)",
+    "title": "Warren Commission (05 of 26): Hearings Vol. V (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44005",
+    "hash": "edef7364ed331c09223a0416db2aa79356609e4c7bdb29427e0db4bee6aa9d35"
   },
   {
     "time": "15:35",
-    "quoteFirst": "CITY POINT, VIRGINIA, March 27, 1865.",
-    "quoteTime": "3.35 P.M.",
-    "quoteLast": "",
-    "title": "The Papers and Writings of Abraham Lincoln — Volume 7: 1863-1865",
-    "author": "Lincoln, Abraham, 1809-1865; Lapsley, Arthur Brooks [Editor]",
-    "gutenbergReference": "2659",
-    "hash": "93ee384b290b0944daea9bf3276e5a370de76ebbe0339b7807c80f2c806afd02"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "_",
-    "quoteTime": "3.35 p.m.",
-    "quoteLast": "_--Enemy cleared from Orchard Keep.",
-    "title": "The Fourth Battalion, The King's Own (Royal Lancaster Regiment) and the Great War",
-    "author": "Wadham, W. F. A. (Walter F. A.); Crossley, J.",
-    "gutenbergReference": "67393",
-    "hash": "d9399d87604e3a01bce0ef80c680b151c39efb2aed4c9a3e1456692433735e53"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "As it rose and widened, he hardly knew how or when he altered the course of the plane. But at last, with an effort that he was fearful he could not make――when the white rolled out beneath him――he shut off the engine. At ",
-    "quoteTime": "3:35 P.M.",
-    "quoteLast": ", the rubber landing wheels were bounding over the glaring white of a shell-strewn beach.",
-    "title": "A Cruise in the Sky; or, The Legend of the Great Pink Pearl",
-    "author": "Sayler, H. L. (Harry Lincoln), 1863-1913; Riesenberg, Sidney H., 1885-1971 [Illustrator]",
-    "gutenbergReference": "57882",
-    "hash": "de9d9d5a460e1d2ee86de773350720fdb940e5feb83d88bef4081b70e1e6d74b"
+    "quoteFirst": "Yours has come, my guest, at precisely this moment. It is, if my watch tells me the truth, ",
+    "quoteTime": "five and twenty minutes to four",
+    "quoteLast": ". It is the last day of April. The year you know. You have exactly one minute to decide whether you will live a short time longer, or whether you will on this last day of April, and before--say, a quarter to four, make that little journey the nature of which you and I have discussed more than once.",
+    "title": "The Vanished Messenger",
+    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+    "gutenbergReference": "1699",
+    "hash": "f45d9d7b652cc141ed5a960751e1d3c958d742fef1cdd9523ae4bf2d718408f1"
   },
   {
     "time": "15:35",
@@ -61,42 +41,62 @@
   },
   {
     "time": "15:35",
-    "quoteFirst": "His mother did die at ",
+    "quoteFirst": "High Wood and Delville Wood. By ",
+    "quoteTime": "3.35 P.M.",
+    "quoteLast": " the enemy were occupying the whole of the sky-line from High Wood for three hundred yards eastwards, and appeared to be unmolested by any artillery fire except that of the nine guns already referred to. No other battery or brigade appeared to get on to them or even to observe them, and this extraordinary and quite inexplicable state of affairs lasted for a considerable time.",
+    "title": "The History of the 33rd Divisional Artillery, in the War, 1914-1918.",
+    "author": "Macartney-Filgate, John Victor; Horne, Henry, 1861-1929 [Author of introduction, etc.]",
+    "gutenbergReference": "51776",
+    "hash": "bb0bb9ff4935b3a6fc928280fa9660a307d2b3908c30f812d2aea8fea7ed2ee7"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "They assured me the \"fun\" was all over, and I was thankful. It was ",
     "quoteTime": "twenty-five minutes to four",
-    "quoteLast": " the next morning.",
+    "quoteLast": ", just five and a half hours after I had started for home from work. A white man came along, and my first impulse was to jump on him and beat him up.",
+    "title": "The Negro in Chicago: A Study of Race Relations and a Race Riot",
+    "author": "Chicago Commission on Race Relations",
+    "gutenbergReference": "57343",
+    "hash": "d18dd3725492161940252e398ee74761766f8995fea0ea578f20f837686f629c"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "Yours has come, my guest, at precisely this moment. It is, if my watch tells me the truth, ",
+    "quoteTime": "five and twenty minutes to four",
+    "quoteLast": ". It is the last day of April. The year you know. You have exactly one minute to decide whether you will live a short time longer, or whether you will on this last day of April, and before--say, a quarter to four, make that little journey the nature of which you and I have discussed more than once.",
+    "title": "The Vanished Messenger",
+    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+    "gutenbergReference": "1699",
+    "hash": "f45d9d7b652cc141ed5a960751e1d3c958d742fef1cdd9523ae4bf2d718408f1"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "February 11: ",
+    "quoteTime": "3.35 p. m.",
+    "quoteLast": ", 8.5 cc 2 per cent caffein injected subcutaneously in the back; 5 p. m., pig very sensitive, anterior extremities paralyzed when handled, frequent spasms of posterior extremities, no symptoms noticed before 5 p. m.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "hash": "ef3a0a2b49091c0a8129dcc78bf26b6d64c7935d983cfa1ccd49b135031b9187"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "(Recess: ",
+    "quoteTime": "3:35 p.m.",
+    "quoteLast": " Reconvened: 3:50 p.m.)",
+    "title": "Warren Commission (09 of 26): Hearings Vol. IX (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44009",
+    "hash": "90431e1097689ed58447db9078bc004b8557035541d7ca2025eda64c7d3b82c5"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "\"at ",
+    "quoteTime": "twenty-five minutes to four",
+    "quoteLast": ".\"",
     "title": "Lippincott's Magazine of Popular Literature and Science, Vol. 26, November, 1880",
     "author": "Various",
     "gutenbergReference": "51453",
-    "hash": "33740bc42ad479090f6a9f98733cde25e4296ae70297147915a8b0e1e7461abc"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "The jury re-entered the Court at ",
-    "quoteTime": "thirty-five minutes past three",
-    "quoteLast": ", having been absent one hour and seventeen minutes.",
-    "title": "The Most Extraordinary Trial of William Palmer, for the Rugeley Poisonings, which lasted Twelve Days",
-    "author": "Anonymous",
-    "gutenbergReference": "51135",
-    "hash": "e933baaaa7e94338601532d745fce6e48a2dc2a0f8134dd875ff34084817b4c5"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "Lv. 7:00 A.M.  Lv. 1:10 P.M.    .0  Silverton     Ar. 11:10 A.M. Ar. 5:20 P.M. 7:34 A.M.      1:44 P.M.   5.0  Burro Bridge      10:36 A.M.     4:46 P.M. 7:49 A.M.      1:59 P.M.   7.5  Chattanooga       10:21 A.M.     4:31 P.M. 8:11 A.M.      2:21 P.M.  12.5  Summit            9:58 A.M.      4:09 P.M. 8:25 A.M.      2:35 P.M.  15.0  Red Mountain      9:50 A.M.      4:00 P.M. 8:26 A.M.      2:36 P.M.  15.5  Vanderbilt        9:44 A.M.      3:54 P.M. 8:27 A.M.      2:37 P.M.  16.0  Yankee Girl       9:43 A.M.      3:53 P.M. 8:45 A.M.      2:55 P.M.  17.0  Paymaster         9:25 A.M.      ",
-    "quoteTime": "3:35 P.M.",
-    "quoteLast": "",
-    "title": "Three little lines",
-    "author": "Crum, Josie Moore, 1888-1972",
-    "gutenbergReference": "62664",
-    "hash": "f67ffb3869594b5c2c0fd653cc1c78a5c3374135ea60e680d6487fede0d0fe8d"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "At ",
-    "quoteTime": "twenty-five minutes to four",
-    "quoteLast": " a three-mast ship was hailed to larboard.",
-    "title": "A Floating City, and The Blockade Runners",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "67829",
-    "hash": "5714c3901735e828a660cb32b8f15f8b24a0d9c328c581aed65e4d4fbf357b76"
+    "hash": "95f5508069a146dfe0aaeca4a52cc9ed939bc2cc8bf543d8b31743445a36d47d"
   }
 ]

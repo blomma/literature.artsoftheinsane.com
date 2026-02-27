@@ -1,16 +1,6 @@
 [
   {
     "time": "11:17",
-    "quoteFirst": "“Oh, dear,” he breathed in consternation, as, free at last, he hurried toward his department. He had caught sight of the clock in the book department. It was ",
-    "quoteTime": "seventeen minutes past eleven",
-    "quoteLast": ". He hurried down the aisle that separated the books from the jewelry, so intent on reaching the exchange desk that he did not see a man, carrying several books, who stepped from a narrow aisle, formed by several tables, into the main one.",
-    "title": "Harry Harding—Messenger \"45\"",
-    "author": "Raymond, Alfred",
-    "gutenbergReference": "52578",
-    "hash": "82cacbd99e27a598d797008ede66159fe8f67f6d4b761d0aa7ded4ca9d884537"
-  },
-  {
-    "time": "11:17",
     "quoteFirst": "[456] On Saturday May 8th, 1875, the _Bessemer_ underwent what may be called her first trial—that is, she crossed from Dover to Calais and back again. It would appear from the narratives in the different journals that she had nothing to contend with, on this occasion, in the way of weather or sea, and that, starting at ",
     "quoteTime": "11.17 A.M.",
     "quoteLast": " and reaching Calais Harbour at 12.45, her speed was about the same as that of the ordinary boats.",
@@ -21,23 +11,23 @@
   },
   {
     "time": "11:17",
-    "quoteFirst": "[456] On Saturday May 8th, 1875, the _Bessemer_ underwent what may be called her first trial—that is, she crossed from Dover to Calais and back again. It would appear from the narratives in the different journals that she had nothing to contend with, on this occasion, in the way of weather or sea, and that, starting at ",
-    "quoteTime": "11.17 A.M.",
-    "quoteLast": " and reaching Calais Harbour at 12.45, her speed was about the same as that of the ordinary boats.",
-    "title": "History of merchant shipping and ancient commerce, Volume 4 (of 4)",
-    "author": "Lindsay, W. S. (William Schaw), 1816-1877",
-    "gutenbergReference": "74393",
-    "hash": "e90014f7f1798c8ffe854afdb196f995a609a6f4850e359efc2f28f7febc180d"
+    "quoteFirst": "NOVEMBER 24, 1963, STAMPED ",
+    "quoteTime": "11:17 A.M.",
+    "quoteLast": "",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "a06fdd29b276e5ca831ba097dbe9132ff41c0cf8f12765605f5f877177289093"
   },
   {
     "time": "11:17",
-    "quoteFirst": "January 21: ",
-    "quoteTime": "11.17 a. m.",
-    "quoteLast": ", 20.2 cc (aqueous solution) of 2 per cent caffein (300 mg per kilo) injected into peritoneal cavity from burette; 11.25 a. m., paralysis; 11.30 a. m., rabbit had convulsion when picked up from the floor, followed by several spasms later; 11.35 a. m.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
-    "hash": "e607d73661e41efa78322aee46a575adb59acf8f07e5b2ba36e6ffbba18678b3"
+    "quoteFirst": "(_a_) Ruby entered the basement of the Dallas Police Department shortly after ",
+    "quoteTime": "11:17 a.m.",
+    "quoteLast": " and killed Lee Harvey Oswald at 11:21 a.m.",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "c33437c349732b20bba92a201f837835e801d1c84f1b0c5ee01c9e85537f0094"
   },
   {
     "time": "11:17",
@@ -48,6 +38,36 @@
     "author": "Wallace, Edgar, 1875-1932",
     "gutenbergReference": "75729",
     "hash": "4beca908edadcfc7fd1d1847d1ae533d05dc616cb95157f039f02136b0b7a6bd"
+  },
+  {
+    "time": "11:17",
+    "quoteFirst": "[456] On Saturday May 8th, 1875, the _Bessemer_ underwent what may be called her first trial—that is, she crossed from Dover to Calais and back again. It would appear from the narratives in the different journals that she had nothing to contend with, on this occasion, in the way of weather or sea, and that, starting at ",
+    "quoteTime": "11.17 A.M.",
+    "quoteLast": " and reaching Calais Harbour at 12.45, her speed was about the same as that of the ordinary boats.",
+    "title": "History of merchant shipping and ancient commerce, Volume 4 (of 4)",
+    "author": "Lindsay, W. S. (William Schaw), 1816-1877",
+    "gutenbergReference": "74393",
+    "hash": "e90014f7f1798c8ffe854afdb196f995a609a6f4850e359efc2f28f7febc180d"
+  },
+  {
+    "time": "11:17",
+    "quoteFirst": "Mr. SEMINGSEN. The first one of the documents on page 1 of the attachment is the original money order application prepared and filed by Jack Ruby in Dallas, Tex., on November 24, 1963, at ",
+    "quoteTime": "11:17 a.m.",
+    "quoteLast": ", as noted by the automatic time stamp shown on the application.",
+    "title": "Warren Commission (10 of 26): Hearings Vol. X (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44010",
+    "hash": "b701f22abc6ddbf3a24a0f4ffa4d664bf33e4f91c98907b5284741320a4a4de2"
+  },
+  {
+    "time": "11:17",
+    "quoteFirst": "Minutes before Oswald appeared in the basement, Ruby was in the Western Union office located on the same block of Main Street some 350 feet from the top of the Main Street ramp. The time stamp on a money order which he sent and on the receipt found in his pocket establish that the order was accepted for transmission at almost exactly ",
+    "quoteTime": "11:17 a.m.",
+    "quoteLast": " Ruby was then observed to depart the office walking in the direction of the police building.[C5-143] Video tapes taken without interruption before the shooting establish that Lieutenant Pierce’s car cleared the crowd at the foot of the ramp 55 seconds before the shooting.",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "d5addb0b25a7f55e07513c18f2e59cc7912e0306c782d2ac0002d400741d0455"
   },
   {
     "time": "11:17",
@@ -71,32 +91,12 @@
   },
   {
     "time": "11:17",
-    "quoteFirst": "NOVEMBER 24, 1963, STAMPED ",
+    "quoteFirst": "COPY OF TELEGRAM ORDER FOR MONEY SENT TO LITTLE LYNN ON NOVEMBER 24, 1963, STAMPED ",
     "quoteTime": "11:17 A.M.",
     "quoteLast": "",
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "hash": "a06fdd29b276e5ca831ba097dbe9132ff41c0cf8f12765605f5f877177289093"
-  },
-  {
-    "time": "11:17",
-    "quoteFirst": "Minutes before Oswald appeared in the basement, Ruby was in the Western Union office located on the same block of Main Street some 350 feet from the top of the Main Street ramp. The time stamp on a money order which he sent and on the receipt found in his pocket establish that the order was accepted for transmission at almost exactly ",
-    "quoteTime": "11:17 a.m.",
-    "quoteLast": " Ruby was then observed to depart the office walking in the direction of the police building.[C5-143] Video tapes taken without interruption before the shooting establish that Lieutenant Pierce’s car cleared the crowd at the foot of the ramp 55 seconds before the shooting.",
-    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58031",
-    "hash": "d5addb0b25a7f55e07513c18f2e59cc7912e0306c782d2ac0002d400741d0455"
-  },
-  {
-    "time": "11:17",
-    "quoteFirst": "Mr. HUBERT. Would you be willing to say that the time that these transactions took place could not have been earlier than ",
-    "quoteTime": "11:17 a.m.",
-    "quoteLast": ", of November 24, nor later than 11:18?",
-    "title": "Warren Commission (13 of 26): Hearings Vol. XIII (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "57111",
-    "hash": "12c9ea201423a38e60531cb4fddfddcd0192ca5a12d6fdc8967fa828c620e9b6"
+    "hash": "fcad674abe92ff26422dd495dda2fca83e3d325c91420564bf1accbcc3faf409"
   }
 ]

@@ -31,16 +31,6 @@
   },
   {
     "time": "15:28",
-    "quoteFirst": "",
-    "quoteTime": "3.28 P.M.",
-    "quoteLast": "--Lowest snow.",
-    "title": "Ultima Thule; or, A Summer in Iceland. vol. 2/2",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "59585",
-    "hash": "b9c68e81c5332699591831969d2045b4fe2c34897001d9d99882bbc83ea98401"
-  },
-  {
-    "time": "15:28",
     "quoteFirst": "After we had gone about half way round, 'Now,' said Mr. Gurney, 'I will show you her speed.' He did, and we completed seven turns round the outside of the road by ",
     "quoteTime": "twenty-eight minutes after three",
     "quoteLast": ". If, therefore, as I was there assured, two and a half turns measured one mile, we went 2.8 miles in ten minutes; that is, at the rate of 16.",
@@ -48,5 +38,15 @@
     "author": "Various",
     "gutenbergReference": "13359",
     "hash": "b1909ad7ac5f5a44be92b534c1f5f388fce57883618bcfe913d7defcf8b114e5"
+  },
+  {
+    "time": "15:28",
+    "quoteFirst": "To cook supper by and iron Abie's pyjamas. Here was democracy. Here is progress--here is the substance of words--UMMMMM: that is to say meat or linen or belly ache.--Three A.M. To be exact ",
+    "quoteTime": "twenty-eight minutes past three",
+    "quoteLast": ".",
+    "title": "The Great American Novel",
+    "author": "Williams, William Carlos, 1883-1963",
+    "gutenbergReference": "63888",
+    "hash": "6d32a8e6c317ca6bd5d3aad2ddbe9ccfd2a1e96259235bf3a3e6578a4e787ed5"
   }
 ]

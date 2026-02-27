@@ -1,16 +1,6 @@
 [
   {
     "time": "06:14",
-    "quoteFirst": "",
-    "quoteTime": "6.14 a.m.",
-    "quoteLast": "--On the road south of ----, a squadron on the march towards ----, and a troop in the village of ----.",
-    "title": "The Aeroplane",
-    "author": "Grahame-White, Claude, 1879-1959; Harper, Harry, 1880-1960",
-    "gutenbergReference": "45825",
-    "hash": "f40603bd8c5333f639c3e9a046c53ac4ad3c6cccb772e924f2d1b1676649fdb3"
-  },
-  {
-    "time": "06:14",
     "quoteFirst": "Meanwhile, in such circumstances and under such conditions, the deployment of the Battle Fleet had been carried through.  It was not until ",
     "quoteTime": "fourteen minutes past six",
     "quoteLast": " that Admiral Jellicoe received definite confirmation from Admiral Beatty as to the position of the High Seas Fleet; and, two minutes later, still on a course southeast by east, he ordered the Fleet to deploy into line of battle on the port {192} wing column, at the same time reducing speed to 14 knots in order to allow the battle-cruisers to pass ahead.",
@@ -18,15 +8,5 @@
     "author": "Hurd, Archibald, 1869-1959; Bashford, H. H. (Henry Howarth), Sir, 1880-1961",
     "gutenbergReference": "47248",
     "hash": "4a1b9f5c1cf41313e6f87e52d7385b51ac08adacd24468726fdf16ad4aae76db"
-  },
-  {
-    "time": "06:14",
-    "quoteFirst": "",
-    "quoteTime": "6.14 A.M.",
-    "quoteLast": "— On the road Cievecoeur-Marseille south of Lihus, a squadron on the march towards Marseille-le-Petit, and a troop in the village of Lihus.",
-    "title": "The Aeroplane in War",
-    "author": "Grahame-White, Claude, 1879-1959; Harper, Harry, 1880-1960",
-    "gutenbergReference": "63597",
-    "hash": "609d1ea11312e3e47590585a9d26ac0d3ea62c688a2c05665da09fb218d96b13"
   }
 ]
