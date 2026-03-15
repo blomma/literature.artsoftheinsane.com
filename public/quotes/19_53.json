@@ -1,33 +1,23 @@
 [
   {
     "time": "19:53",
-    "quoteFirst": "The reception lasted from ",
+    "quoteFirst": "28 Bombardment continued, 126 shells (1 at 1 A. M.; 4 at 10:30 A. M.; 16 from 4 to 6 P. M.; 92 from ",
+    "quoteTime": "7 to 8 P. M.",
+    "quoteLast": "; 13 at 9 P. M.).",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "bb13835b25bb2a8d3e7f26fc2eb14ed961243acd3adb05060afd8809f136736d"
+  },
+  {
+    "time": "19:53",
+    "quoteFirst": "10 6 to 7 p. m.                .02 ",
     "quoteTime": "7 to 8 p. m.",
-    "quoteLast": ", and the party then formed in line and marched to the dining hall.",
-    "title": "The journal of the American-Irish Historical Society, Vol. II, 1899",
-    "author": "Various; Murray, Thomas Hamilton, 1857-1908 [Editor]",
-    "gutenbergReference": "58485",
-    "hash": "5207c5ab0be163e1658eadee45b61ef9bf332f7493f5432d9ae9ee4c052582f1"
-  },
-  {
-    "time": "19:53",
-    "quoteFirst": "28 Bombardment continued, 627 shells (200 from 9 to 11 A. M.; 100 from ",
-    "quoteTime": "7 to 8 P. M.",
-    "quoteLast": "; 327 after 10 P. M.).",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "e2fcae2261bc8ffb947906b5b4bc65fc5b61adc021471a342c0acd7ed0c028e8"
-  },
-  {
-    "time": "19:53",
-    "quoteFirst": "28 Bombardment continued, 627 shells (200 from 9 to 11 A. M.; 100 from ",
-    "quoteTime": "7 to 8 P. M.",
-    "quoteLast": "; 327 after 10 P. M.).",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "e2fcae2261bc8ffb947906b5b4bc65fc5b61adc021471a342c0acd7ed0c028e8"
+    "quoteLast": "                .93 8 to 9 p. m.                .32 9 to 10 p. m.               .",
+    "title": "The Passaic Flood of 1903",
+    "author": "Leighton, Marshall Ora, 1874-1958",
+    "gutenbergReference": "19878",
+    "hash": "2736fc6579e29786d995fb3b4bc16ef2760a42e9a0a26b6edcebb4c152bfce59"
   },
   {
     "time": "19:53",
@@ -41,62 +31,72 @@
   },
   {
     "time": "19:53",
-    "quoteFirst": "Originally delivered to his pupils, they were afterwards thrown open to the public on payment of a fee of four guineas. They were delivered annually from October to April, on alternate evenings at ",
+    "quoteFirst": "24 Bombardment 9 A. M. to noon, 26 shells; renewed 12:30 to 2 P. M., 19 shells; again 2 to 4:30 P. M., 13 shells; again ",
+    "quoteTime": "7 to 8 P. M.",
+    "quoteLast": ", 14 shells.",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "db9776ea33f61667c0341bd778325ccf0daff72e09bbd7435c0c628dd6c489ad"
+  },
+  {
+    "time": "19:53",
+    "quoteFirst": "45 6 to 7 p. m.               1.20 ",
+    "quoteTime": "7 to 8 p. m.",
+    "quoteLast": "                .60 8 to 9 p. m.                .24 9 to 10 p. m.               .",
+    "title": "The Passaic Flood of 1903",
+    "author": "Leighton, Marshall Ora, 1874-1958",
+    "gutenbergReference": "19878",
+    "hash": "7c6ae67b6f634787ef30837b099209d2d9184e715e1b39dbcc243693f45a1214"
+  },
+  {
+    "time": "19:53",
+    "quoteFirst": "_, we did not get up) till eight o’clock Chapel, and attended Cathedral service, which commenced with the Litany at half-past ten; we went into school from four to five to do Greek Testament, and to Chapel again at five. In Cloister-time, Sixth book, and Senior part went into school from ",
+    "quoteTime": "seven to eight P.M.",
+    "quoteLast": ", which period was called “Grotius time,” after the author whose work, “De Veritate,” was then substituted for Greek Testament.",
+    "title": "School-life at Winchester College",
+    "author": "Mansfield, Robert Blachford, 1824-1908",
+    "gutenbergReference": "72944",
+    "hash": "f62bad406af883be5428865b9f343eb2052642d274adde794caa2df5e9c09eec"
+  },
+  {
+    "time": "19:53",
+    "quoteFirst": "; and on the 16th, rises at 4:59 a. m., sets at 7:21 p. m.; on the 30th, rises at 5:03 a. m., sets at ",
+    "quoteTime": "7:53 p. m.",
+    "quoteLast": "",
+    "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55331",
+    "hash": "48ff8595ce32ba34c4b58734cca72828c9dec854595c62ca974ba147ead7c2db"
+  },
+  {
+    "time": "19:53",
+    "quoteFirst": "Mondays and Saturdays, from ",
     "quoteTime": "7 to 8 p.m.",
     "quoteLast": "",
-    "title": "Private Letters of Edward Gibbon (1753-1794)  Volume 1 (of 2)",
-    "author": "Gibbon, Edward, 1737-1794; Sheffield, Henry North Holroyd, Earl of, 1832-1909 [Author of introduction, etc.]; Prothero, Rowland E. (Rowland Edmund), Baron Ernle, 1851-1937 [Editor]",
-    "gutenbergReference": "42578",
-    "hash": "3fff74bb92642160b24c6b415adb4d1342f4aa8fc8e960689098473dfc3b7675"
+    "title": "All about Battersea",
+    "author": "Simmonds, Henry S.",
+    "gutenbergReference": "55045",
+    "hash": "ec811484b7fafaef316417919f56066a2bcd403731f9c48ac1451795a93b2270"
   },
   {
     "time": "19:53",
-    "quoteFirst": "Zölss (41, 42) has published diurnal variation data for Kremsmünster for more than one year, and independently for midsummer (May to August) and midwinter (December to February). His figures show a double daily period in both a+ and a-, the principal maximum occurring about 1 or 2 P.M. The two minima occur, the one from 5 to 7 A.M., the other from ",
-    "quoteTime": "7 to 8 P.M.",
-    "quoteLast": "; they are nearly equal. Taking the figures answering to the whole year, May 1903 to 1904, a+ varied throughout the day from 0.82 to 1.",
-    "title": "Encyclopaedia Britannica, 11th Edition, \"Atherstone\" to \"Austria\"\r\nVolume 2, Slice 8",
-    "author": "Various",
-    "gutenbergReference": "34312",
-    "hash": "4684e6323d1fffe8dace480ca6c6cf4ffb321a563daf97b2866d632a54c80ff6"
+    "quoteFirst": "And the reason is, that the planet is now moving southward, is in fact on the 23rd, the date of its greatest eastern elongation, 1° 16′ south, while the sun is still 11° 9′ north of the equator, and sets, therefore, only about fifty minutes later than the sun. The time of the planet’s setting is for the 1st, 8:07 p. m.; 15th, ",
+    "quoteTime": "7:53 p. m.",
+    "quoteLast": "; 30th, 7:16 p. m. It has a direct motion of 32° 49′ 39″. Its diameter increases 2.6″, namely, from 5.6″ to 8.2″.",
+    "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55208",
+    "hash": "cd50b8dd793697890589fcf664cb6a858de74e79b81e38679b62f6d47812d3a8"
   },
   {
     "time": "19:53",
-    "quoteFirst": "Originally delivered to his pupils, they were afterwards thrown open to the public on payment of a fee of four guineas. They were delivered annually from October to April, on alternate evenings at ",
-    "quoteTime": "7 to 8 p.m.",
-    "quoteLast": "",
-    "title": "Private Letters of Edward Gibbon (1753-1794)  Volume 1 (of 2)",
-    "author": "Gibbon, Edward, 1737-1794; Sheffield, Henry North Holroyd, Earl of, 1832-1909 [Author of introduction, etc.]; Prothero, Rowland E. (Rowland Edmund), Baron Ernle, 1851-1937 [Editor]",
-    "gutenbergReference": "42578",
-    "hash": "3fff74bb92642160b24c6b415adb4d1342f4aa8fc8e960689098473dfc3b7675"
-  },
-  {
-    "time": "19:53",
-    "quoteFirst": "29th, several at night with other birds not known; hazy. A flock of several hundreds on rock in morning. 31st, ",
-    "quoteTime": "7 to 8 P.M.",
-    "quoteLast": ", several about light; rain; one killed.",
-    "title": "Report on the Migration of Birds in the Spring and Autumn of 1886. Eighth Report\r\n(Vol. II, No. 3.)",
-    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
-    "gutenbergReference": "66032",
-    "hash": "273a49fb7ad552013ce7625bc4f363556a572e1f3bc135701bf3478ba4876e29"
-  },
-  {
-    "time": "19:53",
-    "quoteFirst": "At ",
-    "quoteTime": "7.53 P.M.",
-    "quoteLast": " the jury in the trial of Ambrose Doane for treason-felony returned a verdict of not guilty without leaving their seats.  This was a foregone conclusion.",
-    "title": "The Fur Bringers: A Story of the Canadian Northwest",
-    "author": "Footner, Hulbert, 1879-1944",
-    "gutenbergReference": "16289",
-    "hash": "e1e110e5d2dedd4bb8bc6598eb0c37d8b38b65b64de50e0635aced80fe20da18"
-  },
-  {
-    "time": "19:53",
-    "quoteFirst": "HOURS. Dinners begin from ",
-    "quoteTime": "7 to 8 P.M.",
-    "quoteLast": ", and usually last from one hour to an hour and a half.",
-    "title": "The Book of Good Manners; a Guide to Polite Usage for All Social Functions",
-    "author": "Green, Walter Cox, 1866-",
-    "gutenbergReference": "5255",
-    "hash": "9f9c86fb341e3c315854ab9974be992a203a913389baecf38bb28fc35edbb73a"
+    "quoteFirst": "And the reason is, that the planet is now moving southward, is in fact on the 23rd, the date of its greatest eastern elongation, 1° 16′ south, while the sun is still 11° 9′ north of the equator, and sets, therefore, only about fifty minutes later than the sun. The time of the planet’s setting is for the 1st, 8:07 p. m.; 15th, ",
+    "quoteTime": "7:53 p. m.",
+    "quoteLast": "; 30th, 7:16 p. m. It has a direct motion of 32° 49′ 39″. Its diameter increases 2.6″, namely, from 5.6″ to 8.2″.",
+    "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55208",
+    "hash": "cd50b8dd793697890589fcf664cb6a858de74e79b81e38679b62f6d47812d3a8"
   }
 ]

@@ -1,23 +1,43 @@
 [
   {
     "time": "00:40",
-    "quoteFirst": "Balaklava. At ",
-    "quoteTime": "forty minutes after twelve",
-    "quoteLast": ", Captain Calthorpe was sent by Lord Raglan with orders which altered the disposition of our front, for the French, at one P.M. showed further up on our left. As our object was solely to keep Balaklava, we had no desire to bring on a general engagement; and as the Russians would not advance, but kept their cavalry in front of the approach to the mountain passes, it became evident the action was over.",
-    "title": "The British Expedition to the Crimea",
-    "author": "Russell, William Howard, Sir, 1820-1907",
-    "gutenbergReference": "46242",
-    "hash": "d5322a5e571bea4f29cbd659739d02539e2f86721aa72c2e5495f7dab9e8cd54"
+    "quoteFirst": "\"I reckon you know that the Porters have a boy at their house? No? Well, they have. He was born at ",
+    "quoteTime": "twenty minutes to one",
+    "quoteLast": " las' night, or this mornin' ruther, an' old Susan Puffer is to do the nussin'. I heard a wagon drive by here lickety-split at most midnight las' night an' I sez to myself, sez I, 'I'll bet that's Hi Porter tearin' off for old Susan Puffer', an' I got up, an' wrapped a blanket around me, an' waited for the wagon to come back; an' when it did, I called out, 'That you, Hi an' Susan?' It gives 'em a good deal of a start, but Susan called out that it was her, an' I went back to bed.",
+    "title": "Humorous Hits and How to Hold an Audience\nA Collection of Short Selections, Stories and Sketches for All Occasions",
+    "author": "Kleiser, Grenville, 1868-1953 [Compiler]",
+    "gutenbergReference": "47194",
+    "hash": "17a1c09aff47b18008c8c5f31d4d6febfb3b762b5873ad108fe15b2f9274c64c"
   },
   {
     "time": "00:40",
-    "quoteFirst": "At ",
+    "quoteFirst": "It was high water in this creek at ",
+    "quoteTime": "forty minutes past twelve",
+    "quoteLast": " o'clock, and at half past three, they found it divide into two branches, either of which might have been crossed on a tree; but by this time the party were tired, and threatened with heavy rain, which would make their night very uncomfortable, as they had no tent; they therefore took up their residence at a spot where a quantity of timber, from trees, which had already been burnt down by the natives, promised them good fires with little labour.",
+    "title": "An Historical Journal of the Transactions at Port Jackson and Norfolk Island",
+    "author": "Hunter, John, 1737-1821; King, Philip Gidley, 1758-1808 [Contributor]; Phillip, Arthur, 1738-1814 [Contributor]",
+    "gutenbergReference": "15662",
+    "hash": "5b3bd394260f71824e778e6fe232218b046edd46b2fec40d542be6a1b7f8e78c"
+  },
+  {
+    "time": "00:40",
+    "quoteFirst": "I used to get there about a quarter or ",
     "quoteTime": "twenty minutes to one",
-    "quoteLast": ", we started up the tree, mounting by rudely constructed ladders that led from one to the other of the four crudely fashioned platforms. We reached the top breathless and with no false impressions about the stability of our swaying perch.",
-    "title": "\"And they thought we wouldn't fight\"",
-    "author": "Gibbons, Floyd Phillips, 1887-1939",
-    "gutenbergReference": "31086",
-    "hash": "1f848fdec5c96a88454d00452a653e49896fb158bfd738d7d3c71a518333673b"
+    "quoteLast": ". We were supposed to leave school not later than a quarter past twelve, but you know how fellows get fooling about coming out of a day-school, so, though it was really quite near, I was often later.",
+    "title": "Peterkin",
+    "author": "Molesworth, Mrs., 1839-1921; Millar, H. R. (Harold Robert), 1869-1942 [Illustrator]",
+    "gutenbergReference": "26322",
+    "hash": "b9f5ffc141c27d51af1d7d99dd337838c7ea43fc29f531101d9f2dcda967c43c"
+  },
+  {
+    "time": "00:40",
+    "quoteFirst": "“It is ",
+    "quoteTime": "twenty minutes to one",
+    "quoteLast": ",” he said. “I would ask your honour to adjourn until two. I must have time to digest this new testimony. Its remarkable glibness prevented me from giving it the running deliberation that it demanded.”",
+    "title": "Patience Sparhawk and Her Times: A Novel",
+    "author": "Atherton, Gertrude Franklin Horn, 1857-1948",
+    "gutenbergReference": "53009",
+    "hash": "f54ff3cc8e8fa7600cba13bfa6b05af4ae6a6d30223df3def8b0ac9213c599fd"
   },
   {
     "time": "00:40",
@@ -31,6 +51,16 @@
   },
   {
     "time": "00:40",
+    "quoteFirst": "Toward noon she dressed and went into the sitting-room.  He was gone and it had been put to rights.  When he came, at ",
+    "quoteTime": "twenty minutes to one",
+    "quoteLast": ", she was standing at the window, but she did not turn.",
+    "title": "The Cost",
+    "author": "Phillips, David Graham, 1867-1911",
+    "gutenbergReference": "478",
+    "hash": "14a496c6beba39ff15cd552d5cfdfdd6de8758722227c0ca37d49d436b3ea9ae"
+  },
+  {
+    "time": "00:40",
     "quoteFirst": "Between 12.30 and ",
     "quoteTime": "12.40 A. M.",
     "quoteLast": " descended from 29,640 feet altitude to 700 feet. Temperature rose from 2° above zero to 78°. Rain falling and weather sultry. Ipswich, Mass., lights ahead.",
@@ -41,62 +71,32 @@
   },
   {
     "time": "00:40",
-    "quoteFirst": "The night-light fell on the letters scattered about the table, and cast a soft glow on my daughter's face. The sight of her gave me courage. I looked at the clock. It was ",
-    "quoteTime": "12.40 A.M.",
-    "quoteLast": " I went back to the dining-room window, and saw Mariette and her son creep noiselessly through the hall. I ran to the door and, hearing no noise, went two or three steps into the hall.",
-    "title": "My Memoirs",
-    "author": "Steinheil, Marguerite, 1869-1954",
-    "gutenbergReference": "37390",
-    "hash": "78187eb4a283388f62cb3d4f1ab823ee24b9f7afc2f010cc09aeab68a2d247e3"
+    "quoteFirst": "\"Omega-street, Chelsea, next call,\" he cried to the driver; and was soon beyond the confines of Bloomsbury, and rattling away towards the border-land of Belgravia. He had completed his search of the newspapers at ten minutes past twelve, and at ",
+    "quoteTime": "twenty minutes to one",
+    "quoteLast": " he presented himself at the lodging-house in Omega-street, where he found Captain Paget, in whose \"promoting\" business there happened to be a lull just now. With this gentleman he had a long interview; and the result of that interview was the departure of the Captain by the two o'clock express for Ullerton.",
+    "title": "Birds of Prey",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "9362",
+    "hash": "5f3dd63452dc2a064f7fb71b91df9363b9aa520bd016928d47e5ed00c7330a01"
   },
   {
     "time": "00:40",
-    "quoteFirst": "The night-light fell on the letters scattered about the table, and cast a soft glow on my daughter's face. The sight of her gave me courage. I looked at the clock. It was ",
-    "quoteTime": "12.40 A.M.",
-    "quoteLast": " I went back to the dining-room window, and saw Mariette and her son creep noiselessly through the hall. I ran to the door and, hearing no noise, went two or three steps into the hall.",
-    "title": "My Memoirs",
-    "author": "Steinheil, Marguerite, 1869-1954",
-    "gutenbergReference": "37390",
-    "hash": "78187eb4a283388f62cb3d4f1ab823ee24b9f7afc2f010cc09aeab68a2d247e3"
+    "quoteFirst": "In the first place, it was clear, from the testimony recorded, that the prisoner and her daughter had quitted the house of the deceased at half-past eleven--had taken a cab at the Angel at midnight--and had driven straight home, reaching Suffolk-street at ",
+    "quoteTime": "twenty minutes to one",
+    "quoteLast": ". Now the distance from the scene of the murder to the Angel would require rapid walking for two females to accomplish in half an hour, and leave not an instant to accomplish the crime before they set out, much less to cut away the door-post, ransack the deceased’s boxes, and so forth.",
+    "title": "The Mysteries of London, v. 4/4",
+    "author": "Reynolds, George W. M. (George William MacArthur), 1814-1879",
+    "gutenbergReference": "51649",
+    "hash": "1f9647ac093ac4f05232caeeae54c30154856952195b038c48df30b8531090a3"
   },
   {
     "time": "00:40",
-    "quoteFirst": "Park Row, Wellington Avenue, and Cowgate the latter. At ",
-    "quoteTime": "12.40 a.m.",
-    "quoteLast": " on March 30th relief was reported complete, and our friends of the 2/5th South Lancashire Regiment proceeded joyfully to Crown Prince House and the reserve billets in the Rue Marle.",
-    "title": "The History of the 2/6th (Rifle) Battalion, \"the King's\" (Liverpool Regiment) 1914-1919",
-    "author": "Wurtzburg, C. E. (Charles Edward), 1891-1952",
-    "gutenbergReference": "49875",
-    "hash": "f794f29ae9967f7cec05e91970a0b69e56f6a8368371804381319635031f8dbc"
-  },
-  {
-    "time": "00:40",
-    "quoteFirst": "“Dr. Vidrine, C. A. Lorio, Cecil and Dr. Cook present, and put to bed in 325 at ",
+    "quoteFirst": "",
     "quoteTime": "12:40 A.M.",
-    "quoteLast": " Foot of bed elevated.”",
-    "title": "The Huey Long Murder Case",
-    "author": "Deutsch, Hermann B. (Hermann Bacher), 1889-1970",
-    "gutenbergReference": "62864",
-    "hash": "11713aa3af80e2d68a03a77ff701a0b9dcd4cce77bcfa5e4fbd29351ec482025"
-  },
-  {
-    "time": "00:40",
-    "quoteFirst": "The pancreatic secretion digests milk that is rendered alkaline at a temperature between 100° and 150° F. Milk thus treated becomes in from ",
-    "quoteTime": "twenty minutes to one",
-    "quoteLast": " hour thinner, resembling human milk in appearance, and if the peptonizing be continued beyond a certain point, and is more complete, its taste is decidedly {752} bitter. The process should be watched and the peptonizing suspended as soon as the bitterness becomes appreciable, for, although more advanced peptonizing so changes the milk that it is more easily digested by the infant than when the peptonizing is partial, yet the bitterness which is imparted to it renders it very disagreeable as a dietetic preparation.",
-    "title": "A system of practical medicine. By American authors. Vol. 2",
-    "author": "Pepper, William, 1843-1898 [Editor]; Starr, Louis, 1849-1925 [Editor]",
-    "gutenbergReference": "45313",
-    "hash": "0d94a34bfe2a0e1ebb3a5b92d46a066264aa2782959823822c90c1b7ecdc55ae"
-  },
-  {
-    "time": "00:40",
-    "quoteFirst": "\"I reckon you know that the Porters have a boy at their house? No? Well, they have. He was born at ",
-    "quoteTime": "twenty minutes to one",
-    "quoteLast": " las' night, or this mornin' ruther, an' old Susan Puffer is to do the nussin'. I heard a wagon drive by here lickety-split at most midnight las' night an' I sez to myself, sez I, 'I'll bet that's Hi Porter tearin' off for old Susan Puffer', an' I got up, an' wrapped a blanket around me, an' waited for the wagon to come back; an' when it did, I called out, 'That you, Hi an' Susan?' It gives 'em a good deal of a start, but Susan called out that it was her, an' I went back to bed.",
-    "title": "Humorous Hits and How to Hold an Audience\nA Collection of Short Selections, Stories and Sketches for All Occasions",
-    "author": "Kleiser, Grenville, 1868-1953 [Compiler]",
-    "gutenbergReference": "47194",
-    "hash": "17a1c09aff47b18008c8c5f31d4d6febfb3b762b5873ad108fe15b2f9274c64c"
+    "quoteLast": "",
+    "title": "Project Cyclops",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34319",
+    "hash": "45fbd26e8e61ede5a2472bc7037503293de4d341f5f28e81c2600e258af86384"
   }
 ]

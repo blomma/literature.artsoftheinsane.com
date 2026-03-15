@@ -1,53 +1,83 @@
 [
   {
     "time": "19:54",
-    "quoteFirst": "1 Taube dropped bomb 5:30 A. M.; bombardment 11:45 A. M., 6 shells; renewed ",
+    "quoteFirst": "This extraordinary-looking turn-out continued its headlong course over bog-roads and through rough country lanes, to the astonishment of the inhabitants, till the lame farmer's house was reached. He was carefully lifted into the carriage, conveyed to the polling-place, and recorded his vote at ",
+    "quoteTime": "7.54 p.m.",
+    "quoteLast": ", with just six minutes to spare before the poll closed. As it turned out I won the seat by fifty-six votes, so this rapid journey was really superfluous, but we all thought that it would be a much closer thing.",
+    "title": "Here, There and Everywhere",
+    "author": "Hamilton, Frederic, Lord, 1856-1928",
+    "gutenbergReference": "6368",
+    "hash": "491250f261ad9764d49b9a02a648a0ffcbc41774e3c5a6bbd9d9f9a6587d3e0b"
+  },
+  {
+    "time": "19:54",
+    "quoteFirst": "16 Bombardment continued, 173 shells (25 from 3:30 to 6 P. M.; 140 from ",
     "quoteTime": "6 to 8 P. M.",
-    "quoteLast": ", 50 shells.",
+    "quoteLast": "; 8 from 8:45 to 9 P. M.).",
     "title": "The Bombardment of Reims",
     "author": "Ferree, Barr, 1862-1924",
     "gutenbergReference": "49649",
-    "hash": "98e89dfc598e705d75b0569c1f9bcb7b6f61d1d26d69c9fcd6941b29888d39cc"
+    "hash": "ca577da329d0d8c69ccc457cecd4f02e93eb2022ae10e83941df950cca4838c0"
   },
   {
     "time": "19:54",
-    "quoteFirst": "On the first day the examination of surveyors is continued for four hours, viz. from 2 to 4 and ",
+    "quoteFirst": "At ",
+    "quoteTime": "six minutes to eight",
+    "quoteLast": " she opened the door, and came out. She had simply flown into her clothes, in ten minutes! Her eyes were still black as night with resentment, and her bosom rose and fell, while in her white cheeks two scarlet spots flamed.",
+    "title": "The Reason Why",
+    "author": "Glyn, Elinor, 1864-1943",
+    "gutenbergReference": "12450",
+    "hash": "e8e9fa8dda60636fc34c5ea58d813d81be418a0a254ada7a63b196933c20d0e6"
+  },
+  {
+    "time": "19:54",
+    "quoteFirst": "m. to noon; afternoon watch, noon to four p. m.; first dog watch, four to six p. m.; second dog watch, ",
+    "quoteTime": "six to eight p. m.",
+    "quoteLast": " The bell is struck every half-hour to indicate the time, as follows:",
+    "title": "The Circle of Knowledge: A Classified, Simplified, Visualized Book of Answers",
+    "author": "Ruoff, Henry W. (Henry Woldmar), 1865-1935 [Editor]",
+    "gutenbergReference": "48661",
+    "hash": "a87698304bb1354ef777e41db2a45915d339b108c551302cb35701343e07b66a"
+  },
+  {
+    "time": "19:54",
+    "quoteFirst": "21 Bombardment 3 to 6 A. M.; renewed 10:30 A. M.; again 1 P. M., Hôtel de Ville gravely injured; again 2:30 P. M.; again ",
+    "quoteTime": "6 to 8 P. M.",
+    "quoteLast": "; artillery at night. Cathedral injured, 8 shells.",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "9e50cd97c618e4e788c5a3ef707fcef3c34dcc11ad088363103bf21c583e3841"
+  },
+  {
+    "time": "19:54",
+    "quoteFirst": "All the rules of the establishment are printed and posted in your bedroom; you have to submit to them. No question to ask--you know everything. Henceforth you will have to be hungry from 7 to 9 A.M.; from 1 to 3 P.M.; from ",
     "quoteTime": "6 to 8 P.M.",
-    "quoteLast": " and consists of written papers only. Inspectors of nuisances have two hours’ written examination on the first day, viz. from 4 to 6 P.M. On the second day the examination for both classes commences at 11 A.M., and is _vivâ voce_; with one or more questions to be answered in writing if deemed necessary.",
-    "title": "The Municipal and Sanitary Engineer's Handbook",
-    "author": "Boulnois, H. Percy (Henry Percy), 1846-1927",
-    "gutenbergReference": "55935",
-    "hash": "e948cf4dd8003016ded8a87619852edfcbce8ccf689a483941862cda73a33e7d"
+    "quoteLast": " The slightest infringement of the routine would stop the wheel, so don't ask if you could have a meal at four o'clock; you would be taken for a lunatic, or a crank (as they call it in America).",
+    "title": "A Frenchman in America: Recollections of Men and Things",
+    "author": "O'Rell, Max, 1848-1903",
+    "gutenbergReference": "32261",
+    "hash": "080f2c815058b5c2ca8971ec15e71bd8335fdf5ae8768f8f1fa3ae4d6642ac2b"
   },
   {
     "time": "19:54",
-    "quoteFirst": "The next stop was made at Tours from ",
-    "quoteTime": "6 to 8 p. m.",
-    "quoteLast": " A short lay-over was also made at Poitiers at 11 p. m. The troop special was then nearing its destination.",
-    "title": "The Delta of the Triple Elevens",
-    "author": "Bachman, William Elmer, 1894-1966",
-    "gutenbergReference": "20468",
-    "hash": "a5038fba19a3894e2af569d86fc8e53a30abf64882c1123dcc497740db48468d"
+    "quoteFirst": "21 Bombardment 3 to 6 A. M.; renewed 10:30 A. M.; again 1 P. M., Hôtel de Ville gravely injured; again 2:30 P. M.; again ",
+    "quoteTime": "6 to 8 P. M.",
+    "quoteLast": "; artillery at night. Cathedral injured, 8 shells.",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "9e50cd97c618e4e788c5a3ef707fcef3c34dcc11ad088363103bf21c583e3841"
   },
   {
     "time": "19:54",
-    "quoteFirst": "The hours of practice are from 10 to 4, and from ",
-    "quoteTime": "6 to 8 in the evening",
-    "quoteLast": ", daily, except Saturday; and all students are expected to attend regularly and punctually.",
-    "title": "How Women May Earn a Living",
-    "author": "Grogan, Mercy",
-    "gutenbergReference": "54330",
-    "hash": "e41fe1d6b1ef2f4e2b726b7b0739d23bc55f3d7e507084e2956114450373f86d"
-  },
-  {
-    "time": "19:54",
-    "quoteFirst": "‘(Sent ",
-    "quoteTime": "7.54 P.M.",
-    "quoteLast": ", received 8.15 P.M.) Left flank, 19th January.",
-    "title": "Sir Charles Warren and Spion Kop: A Vindication",
-    "author": "Defender",
-    "gutenbergReference": "63356",
-    "hash": "299661283353b4ecc54388b5f86398bb01c0f99bd74a1bb1e27277d70d3330aa"
+    "quoteFirst": "This extraordinary-looking turn-out continued its headlong course over bog-roads and through rough country lanes, to the astonishment of the inhabitants, till the lame farmer's house was reached. He was carefully lifted into the carriage, conveyed to the polling-place, and recorded his vote at ",
+    "quoteTime": "7.54 p.m.",
+    "quoteLast": ", with just six minutes to spare before the poll closed. As it turned out I won the seat by fifty-six votes, so this rapid journey was really superfluous, but we all thought that it would be a much closer thing.",
+    "title": "Here, There and Everywhere",
+    "author": "Hamilton, Frederic, Lord, 1856-1928",
+    "gutenbergReference": "6368",
+    "hash": "491250f261ad9764d49b9a02a648a0ffcbc41774e3c5a6bbd9d9f9a6587d3e0b"
   },
   {
     "time": "19:54",
@@ -61,42 +91,12 @@
   },
   {
     "time": "19:54",
-    "quoteFirst": "“Watch and watch” is the rule on small sailing-vessels: four hours on and four hours off, day and night, except for the “dog watches,” four to six and ",
-    "quoteTime": "six to eight in the evening",
-    "quoteLast": ", which create a daily shift in order that each man may be on watch at a different time on successive days. Always provided, of course, that the ship has any watches at all! I _have_ sailed in a Pacific schooner where the crew spent most of their time playing the accordion and the Jew’s harp, and slept peacefully all night.",
-    "title": "In the Strange South Seas",
-    "author": "Grimshaw, Beatrice, 1871-1953",
-    "gutenbergReference": "54499",
-    "hash": "3f42cbc1fb6e539cda7d15cad426c39927f049eb40036025cea84120caefec08"
-  },
-  {
-    "time": "19:54",
-    "quoteFirst": "P.M., and the larboard from ",
-    "quoteTime": "6 to 8 P.M.",
-    "quoteLast": ", when the watch is set. They are thus changed every night, one having eight hours on deck and four below one night, and the next _vice versa_, continuing thus for the voyage.",
-    "title": "Life and Adventure in the South Pacific",
-    "author": "Jones, John D.",
-    "gutenbergReference": "59684",
-    "hash": "8ed3142d6674968251b22fa81fc296e8f40d95c9e7b6aa5f8c1b6dfe03e0c7a4"
-  },
-  {
-    "time": "19:54",
-    "quoteFirst": "The hours of practice are from 10 to 4, and from ",
-    "quoteTime": "6 to 8 in the evening",
-    "quoteLast": ", daily, except Saturday; and all students are expected to attend regularly and punctually.",
-    "title": "How Women May Earn a Living",
-    "author": "Grogan, Mercy",
-    "gutenbergReference": "54330",
-    "hash": "e41fe1d6b1ef2f4e2b726b7b0739d23bc55f3d7e507084e2956114450373f86d"
-  },
-  {
-    "time": "19:54",
-    "quoteFirst": "16 Bombardment continued, 173 shells (25 from 3:30 to 6 P. M.; 140 from ",
-    "quoteTime": "6 to 8 P. M.",
-    "quoteLast": "; 8 from 8:45 to 9 P. M.).",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "ca577da329d0d8c69ccc457cecd4f02e93eb2022ae10e83941df950cca4838c0"
+    "quoteFirst": "m. to noon; afternoon watch, noon to four p. m.; first dog watch, four to six p. m.; second dog watch, ",
+    "quoteTime": "six to eight p. m.",
+    "quoteLast": " The bell is struck every half-hour to indicate the time, as follows:",
+    "title": "The Circle of Knowledge: A Classified, Simplified, Visualized Book of Answers",
+    "author": "Ruoff, Henry W. (Henry Woldmar), 1865-1935 [Editor]",
+    "gutenbergReference": "48661",
+    "hash": "a87698304bb1354ef777e41db2a45915d339b108c551302cb35701343e07b66a"
   }
 ]
