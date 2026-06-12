@@ -1,12 +1,22 @@
 [
   {
     "time": "00:46",
-    "quoteFirst": "MR. GEORGE BOOTH. [_taken aback and fumbling for his watch._] I think so . . I make it ",
+    "quoteFirst": "At half-past twelve Cooper and Molineaux appeared in the ring, and at ",
+    "quoteTime": "fourteen minutes before one",
+    "quoteLast": ", shook hands and set-to.",
+    "title": "Pugilistica: The History of British Boxing, Volume 1 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
+    "author": "Miles, Henry Downes, 1806-1889",
+    "gutenbergReference": "59465",
+    "hash": "642397520b4a4860e0888745e81e888ff3067c28825d79dd0f6abfdd80ced1b2"
+  },
+  {
+    "time": "00:46",
+    "quoteFirst": "I make it ",
     "quoteTime": "fourteen minutes to one",
-    "quoteLast": ". [_he seizes the occasion._] Trenchard, as a very old and dear friend of your father's, you won't mind me saying how glad I was that you were present to-day. Death closes all. Indeed . .",
+    "quoteLast": ".",
     "title": "Three Plays by Granville-Barker\nThe Marrying of Ann Leete; The Voysey Inheritance; Waste",
     "author": "Granville-Barker, Harley, 1877-1946",
     "gutenbergReference": "35640",
-    "hash": "483e8c341324c8038240b9f9f55e58dc5b3137986095ccab76e17275e7162c02"
+    "hash": "42587ed07ca8d2070cc547d8612bc9b12f9ab0acf4a364ab99cad65232cde985"
   }
 ]

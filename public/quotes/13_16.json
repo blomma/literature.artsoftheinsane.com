@@ -1,33 +1,43 @@
 [
   {
     "time": "13:16",
-    "quoteFirst": "He arrived at approximately 1 p.m. and left a few minutes later. At about ",
-    "quoteTime": "1:16 p.m.",
-    "quoteLast": ", a Dallas police officer, J.\u00A0D. Tippit, was shot less than 1 mile from Oswald’s roominghouse. In deciding whether Oswald killed Patrolman Tippit the Commission considered the following: (1) positive identification of the killer by two eyewitnesses who saw the shooting and seven eyewitnesses who heard the shots and saw the gunman flee the scene with the revolver in his hand, (2) testimony of firearms identification experts establishing the identity of the murder weapon, (3) evidence establishing the ownership of the murder weapon, (4) evidence establishing the ownership of a zipper jacket found along the",
-    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58031",
-    "hash": "d7a9045b13ccfdd037d5c64281168b4a26b9603262c2b1f924529aee9805c0ff"
-  },
-  {
-    "time": "13:16",
-    "quoteFirst": "Benavides promptly reported the shooting to police headquarters over the radio in Tippit’s car. The message was received shortly after ",
+    "quoteFirst": "The message was received shortly after ",
     "quoteTime": "1:16 p.m.",
     "quoteLast": "",
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "hash": "c560331976e053dd7e4cd0678e8a7a33a9b424322e978821a8d83ac78c87aba0"
+    "hash": "66261e58b4afe0598a36b1e5d7f7b8ba15d7ef0e6e61cfde9128e41b1c2b956e"
   },
   {
     "time": "13:16",
-    "quoteFirst": "He saw him empty the gun and throw the shells into some bushes on the southeast corner lot.[C4-507] It was Benavides, using Tippit’s car radio, who first reported the killing of Patrolman Tippit at about ",
+    "quoteFirst": "At about ",
     "quoteTime": "1:16 p.m.",
-    "quoteLast": ": “We’ve had a shooting out here.”[C4-508] He found two empty shells in the bushes and gave them to Patrolman J.\u00A0M. Poe who arrived on the scene shortly after the shooting.",
+    "quoteLast": ", a Dallas police officer, J.\u00A0D. Tippit, was shot less than 1 mile from Oswald’s roominghouse.",
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "hash": "40f5b54bfe8516d969c0a42934147718d4ed83d8ba06c242c974c3e4e15e5f63"
+    "hash": "a6023112ff2d1c6af33793fc093a858741088bb8c0fb0f0064139310a24fece8"
+  },
+  {
+    "time": "13:16",
+    "quoteFirst": "[C4-507] It was Benavides, using Tippit’s car radio, who first reported the killing of Patrolman Tippit at about ",
+    "quoteTime": "1:16 p.m.",
+    "quoteLast": ": “We’ve had a shooting out here.”",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "46a5bdbb59949e916154d030987ecac6d5294605968d203b36c7b08831dc673b"
+  },
+  {
+    "time": "13:16",
+    "quoteFirst": "Oswald could have easily reached this point on foot by about ",
+    "quoteTime": "1:16 p.m.",
+    "quoteLast": ", when Tippit was shot.",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "b2b8d0927f8f45d2f4399c78efe0496866d65c82b8b4cb392a46bd83b2b1c7c8"
   },
   {
     "time": "13:16",
@@ -41,32 +51,22 @@
   },
   {
     "time": "13:16",
-    "quoteFirst": "[C6-95] Oswald was next seen less than 1 mile away, at the point where he shot Patrolman Tippit. Oswald could have easily reached this point on foot by about ",
+    "quoteFirst": "_--The shooting of Tippit has been established at approximately 1:15 or ",
     "quoteTime": "1:16 p.m.",
-    "quoteLast": ", when Tippit was shot. Finally, investigation has produced no evidence that Oswald had prearranged plans for a means to leave Dallas after the assassination or that any other person was to have provided him assistance in hiding or in departing the city.",
+    "quoteLast": " on the basis of a call to police headquarters on Tippit’s car radio by another witness to the assassination, Domingo Benavides.",
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "hash": "2966faa2ac1824808e10376156e4d0f721a7baf56fd3123606487c6629f2aae2"
+    "hash": "cd8c00ab65501b9cd406ae17abf3065fd949232232b0177a00de000294ed4455"
   },
   {
     "time": "13:16",
-    "quoteFirst": "_Commission finding._--The shooting of Tippit has been established at approximately 1:15 or ",
+    "quoteFirst": "_--Other witnesses to the killing of Tippit include Domingo Benavides, who used Tippit’s car radio to notify the police dispatcher of the killing at ",
     "quoteTime": "1:16 p.m.",
-    "quoteLast": " on the basis of a call to police headquarters on Tippit’s car radio by another witness to the assassination, Domingo Benavides. In her various statements and in her testimony, Mrs.",
+    "quoteLast": ", and William Scoggins, a cabdriver parked at the corner of 10th Street and Patton Avenue.",
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "hash": "ad6d8cd3a6147b890a2d5263247909ab69f09288d590d49a43e9070b9f2f1e97"
-  },
-  {
-    "time": "13:16",
-    "quoteFirst": "_Commission finding._--Other witnesses to the killing of Tippit include Domingo Benavides, who used Tippit’s car radio to notify the police dispatcher of the killing at ",
-    "quoteTime": "1:16 p.m.",
-    "quoteLast": ", and William Scoggins, a cabdriver parked at the corner of 10th Street and Patton Avenue. Barbara Jeanette Davis and Virginia Davis saw a man with a pistol in his hand walk across their lawn immediately after they heard the sound of the shots that killed Tippit.",
-    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58031",
-    "hash": "5cfc56f388beed14c6d4bbf8dfa2931ee7f476746a78963402db2db339a536fd"
+    "hash": "57774a4265079a8e19071794a9c8bfb738da38b8c249ef66b74be793d8554753"
   }
 ]

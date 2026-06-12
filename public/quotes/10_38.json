@@ -1,22 +1,32 @@
 [
   {
     "time": "10:38",
-    "quoteFirst": "At twenty past nine one of the enemy's ship's main and mizen-masts went over the stern just as she got abreast of our quarter, and soon after our fore-mast and bowsprit went also. At twenty-five past nine, having passed the enemy's fleet, some of whom went to leeward of us, the Admiral made the signal to tack. At ",
+    "quoteFirst": "At ",
     "quoteTime": "thirty-eight past ten",
-    "quoteLast": " he hoisted signal for the commander of the third post to make more sail; observed the Duke's main topmast go over the side. At fifty past ten, observed the Prince George with her fore topmast gone.",
+    "quoteLast": " he hoisted signal for the commander of the third post to make more sail; observed the Duke's main topmast go over the side.",
     "title": "Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II",
     "author": "Ross, John, Sir, 1777-1856",
     "gutenbergReference": "27151",
-    "hash": "a80d9d4ba15745cdf7a20d94c286bf32176d86c4c551998b62ce895f0b4ab334"
+    "hash": "48c21cf969c98cc9f2fb9be83dee7050de7fbbd9adbdb43de3218c9e931bed41"
   },
   {
     "time": "10:38",
-    "quoteFirst": "",
-    "quoteTime": "10:38 A.M.",
-    "quoteLast": "",
-    "title": "Syndrome",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34321",
-    "hash": "e235e0319db6a58a7029918bfd58ea0e2eef42c5ae70e8b501ed3a9d0f97e0ab"
+    "quoteFirst": "\"It'll be done to a turn,\" said the landlord looking up to the clock--and the very clock had a colour in its fat white face, and looked a clock for Jolly Sandboys to consult--\"it'll be done to a turn at ",
+    "quoteTime": "twenty-two minutes before eleven",
+    "quoteLast": ".\"",
+    "title": "The Ontario Readers: Third Book",
+    "author": "Ontario. Department of Education",
+    "gutenbergReference": "18561",
+    "hash": "7314dc942a43a574535ffff03882a8c49b38160171e0e53eabd32b65cfffba6b"
+  },
+  {
+    "time": "10:38",
+    "quoteFirst": "‘It’ll be done to a turn,’ said the landlord looking up to the clock--and the very clock had a colour in its fat white face, and looked a clock for jolly Sandboys to consult--‘it’ll be done to a turn at ",
+    "quoteTime": "twenty-two minutes before eleven",
+    "quoteLast": ".’",
+    "title": "The Old Curiosity Shop",
+    "author": "Dickens, Charles, 1812-1870",
+    "gutenbergReference": "700",
+    "hash": "60ec21b8053497f65e26250aa9427618c56229c23aa0cff6aed4da8f47d5bac1"
   }
 ]

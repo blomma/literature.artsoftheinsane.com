@@ -1,33 +1,33 @@
 [
   {
     "time": "18:08",
-    "quoteFirst": "and setting at 7:01 p. m.; on the 16th, rising at 8:50 a. m. and setting at 6:32 p. m.; and on the 31st, rising at 8:46 a. m., and setting at ",
+    "quoteFirst": ", and setting at ",
     "quoteTime": "6:08 p. m.",
-    "quoteLast": " Its declination on the 31st is 21° 34′ south. Motion for month direct and amounting to 22° 28′. Diameter decreases from 4.6″ to 4.4″.",
+    "quoteLast": " Its declination on the 31st is 21° 34′ south.",
     "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55218",
-    "hash": "9a54994a28b40260476eade151824556a63de6c141ea9ca6f5b0ca0dd57eb506"
+    "hash": "0a9f43c17ff41c09475f5bbf87ab293d658502ccfbb3863042f8ec0388a8572d"
   },
   {
     "time": "18:08",
-    "quoteFirst": "Stubbs. [_She steps aside._] Its millions of spinning miles the sun casts that shadow and here we know that it is ",
+    "quoteFirst": "_] Its millions of spinning miles the sun casts that shadow and here we know that it is ",
     "quoteTime": "eight minutes past six",
     "quoteLast": ".",
     "title": "Plays",
     "author": "Glaspell, Susan, 1882?-1948; Cook, George Cram, 1873-1924 [Contributor]",
     "gutenbergReference": "59432",
-    "hash": "9e2f2f095002313ace44900a983e87867f3ee7012f6e429047ef1bd01dea00c7"
+    "hash": "6a93c4c7e70845cff0afe528b84e3c0247a9866ca90df7bbc1da6df09b82f205"
   },
   {
     "time": "18:08",
-    "quoteFirst": "I pushed across, stepping over a basket, and jostled by a woman with poultry and vegetables. It was, however, seven or ",
+    "quoteFirst": "It was, however, seven or ",
     "quoteTime": "eight minutes past six",
-    "quoteLast": " when I arrived at the church; the doors of the south porch were open. Within I heard the sound of voices--or, at least, of one voice. I looked in.",
+    "quoteLast": " when I arrived at the church; the doors of the south porch were open.",
     "title": "The Lady of Lynn",
     "author": "Besant, Walter, 1836-1901",
     "gutenbergReference": "42618",
-    "hash": "1fb712500e573f939f0daef94fa970a41d3cc582b82157aa8a00035cd2248253"
+    "hash": "17c25a27b9ae38471b14c1906b350d61203f779e51e0ef4bb431e997c2e2c994"
   },
   {
     "time": "18:08",
@@ -38,5 +38,15 @@
     "author": "Various",
     "gutenbergReference": "9174",
     "hash": "206e9adaf34635739081390fac05c0b0a7f0809836f381acd7f6af56d7b605fa"
+  },
+  {
+    "time": "18:08",
+    "quoteFirst": "It was exactly ",
+    "quoteTime": "eight minutes past six",
+    "quoteLast": " by my watch, and that never loses or gains a second.\"",
+    "title": "Partners in crime",
+    "author": "Christie, Agatha, 1890-1976",
+    "gutenbergReference": "78342",
+    "hash": "e7029f280ca6d7c9908dfd54e6e56163833c4ac194a7876dc7e7b3acd8c0e7be"
   }
 ]

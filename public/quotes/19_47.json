@@ -1,33 +1,33 @@
 [
   {
     "time": "19:47",
-    "quoteFirst": "'The Seven Hunters.  August 9, ",
+    "quoteFirst": "August 9, ",
     "quoteTime": "7.47 p.m.",
     "quoteLast": "",
     "title": "The Disentanglers",
     "author": "Lang, Andrew, 1844-1912",
     "gutenbergReference": "17031",
-    "hash": "f51d3baaeb2e88933b196594e9f99ebe5cd5fe40d8b13340e4160838e8066373"
+    "hash": "ced5e0c888cbd9af1754c3b47d976fd1ed38de740fdf240df1982bf0e7c16cf5"
   },
   {
     "time": "19:47",
-    "quoteFirst": "He particularly remembers it from its peculiar shape and its weight, as well as because it was an unusual object to send by passenger train. At about 7.00 p.m. it was taken charge of by two porters and placed in the van of the ",
+    "quoteFirst": "At about 7.00 p.m. it was taken charge of by two porters and placed in the van of the ",
     "quoteTime": "7.47 p.m.",
-    "quoteLast": " English boat train. The guard of the train was present when they put it into the van, and he should have been there till the train left. The guard is unfortunately off duty at present, but I have sent for him and will get his statement.",
+    "quoteLast": " English boat train.",
     "title": "The Cask",
     "author": "Crofts, Freeman Wills, 1879-1957",
     "gutenbergReference": "59854",
-    "hash": "55edcb322f05a598ad689f61d53c0e0a08b4d365c562995254c571712decd193"
+    "hash": "471f7d6b940074bd8c6ad46534ebe64c1f69a15fd91363645101187f678316db"
   },
   {
     "time": "19:47",
-    "quoteFirst": "But if so, at some point in that triple journey the cask must have been opened, the statue removed, and the body substituted. The evidence was overwhelming that the cask had contained a statue when it left the Boulevard des Capucines yard, and that it had not been tampered with till it reached the van of the ",
+    "quoteFirst": "The evidence was overwhelming that the cask had contained a statue when it left the Boulevard des Capucines yard, and that it had not been tampered with till it reached the van of the ",
     "quoteTime": "7.47 p.m.",
-    "quoteLast": " from the Gare St. Lazare to Havre. Further, it had contained the body on arrival at St. Katherine’s Docks, and here again there was evidence that it could not have been opened in the hold of the _Bullfinch_.",
+    "quoteLast": " from the Gare St. Lazare to Havre.",
     "title": "The Cask",
     "author": "Crofts, Freeman Wills, 1879-1957",
     "gutenbergReference": "59854",
-    "hash": "14c809c687ea90609f2b8a21711c173309a0ea9004f75663f5c90aaa46616ea0"
+    "hash": "ba3bcefd2a89da63fa3d3374378c2c6cebfc221d6d40ab42f7f07e529d11f3b9"
   },
   {
     "time": "19:47",
@@ -38,25 +38,5 @@
     "author": "Lanaghan, Mrs.",
     "gutenbergReference": "38789",
     "hash": "174f8f9e4d5fc054325058e8a62964a68d7d93a1c12662bfb3df740ff506429f"
-  },
-  {
-    "time": "19:47",
-    "quoteFirst": "",
-    "quoteTime": "7:47 P.M.",
-    "quoteLast": "",
-    "title": "Project Cyclops",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34319",
-    "hash": "bc553c090fab6ae9478789ca8ec5d4ba48ee2d9763f192b6a0ceedacfa68f69d"
-  },
-  {
-    "time": "19:47",
-    "quoteFirst": "",
-    "quoteTime": "7:47 P.M.",
-    "quoteLast": "",
-    "title": "Project Cyclops",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34319",
-    "hash": "bc553c090fab6ae9478789ca8ec5d4ba48ee2d9763f192b6a0ceedacfa68f69d"
   }
 ]

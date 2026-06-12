@@ -1,23 +1,13 @@
 [
   {
     "time": "09:43",
-    "quoteFirst": "Lv. 7:00 A.M.  Lv. 1:10 P.M.    .0  Silverton     Ar. 11:10 A.M. Ar. 5:20 P.M. 7:34 A.M.      1:44 P.M.   5.0  Burro Bridge      10:36 A.M.     4:46 P.M. 7:49 A.M.      1:59 P.M.   7.5  Chattanooga       10:21 A.M.     4:31 P.M. 8:11 A.M.      2:21 P.M.  12.5  Summit            9:58 A.M.      4:09 P.M. 8:25 A.M.      2:35 P.M.  15.0  Red Mountain      9:50 A.M.      4:00 P.M. 8:26 A.M.      2:36 P.M.  15.5  Vanderbilt        9:44 A.M.      3:54 P.M. 8:27 A.M.      2:37 P.M.  16.0  Yankee Girl       ",
+    "quoteFirst": "5:20 P.M.      7:34 A.M.      1:44 P.M.   5.0  Burro Bridge      10:36 A.M.     4:46 P.M.      7:49 A.M.      1:59 P.M.   7.5  Chattanooga       10:21 A.M.     4:31 P.M.      8:11 A.M.      2:21 P.M.  12.5  Summit            9:58 A.M.      4:09 P.M.      8:25 A.M.      2:35 P.M.  15.0  Red Mountain      9:50 A.M.      4:00 P.M.      8:26 A.M.      2:36 P.M.  15.5  Vanderbilt        9:44 A.M.      3:54 P.M.      8:27 A.M.      2:37 P.M.  16.0  Yankee Girl       ",
     "quoteTime": "9:43 A.M.",
-    "quoteLast": "      3:53 P.M.",
+    "quoteLast": "      3:53 P.M.      8:45 A.M.      2:55 P.M.  17.0  Paymaster         9:25 A.M.      3:35 P.M.  Ar.",
     "title": "Three little lines",
     "author": "Crum, Josie Moore, 1888-1972",
     "gutenbergReference": "62664",
-    "hash": "55b3b0aac52ca6171128d9d146a147984223aef5ea269a30ff11d0023adb2be5"
-  },
-  {
-    "time": "09:43",
-    "quoteFirst": "Friday ",
-    "quoteTime": "9:43 A.M.",
-    "quoteLast": "",
-    "title": "Project Daedalus",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34320",
-    "hash": "fcbeecde081a22d12d8bddacaecda28985750f6622ad5ad39ae0e3e07c45dea8"
+    "hash": "ee27f21725ee5c03a3b3a90c69db2222674f5d8106b3674b0f3ace663ec104c9"
   },
   {
     "time": "09:43",
@@ -28,6 +18,16 @@
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
     "hash": "09a50f4828b6264890bdb925baa763ff3d9d5e174e051aaaf73763efee0ab436"
+  },
+  {
+    "time": "09:43",
+    "quoteFirst": "Friday ",
+    "quoteTime": "9:43 A.M.",
+    "quoteLast": "",
+    "title": "Project Daedalus",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34320",
+    "hash": "fcbeecde081a22d12d8bddacaecda28985750f6622ad5ad39ae0e3e07c45dea8"
   },
   {
     "time": "09:43",
@@ -43,21 +43,11 @@
     "time": "09:43",
     "quoteFirst": "The testimony of Malcolm O. Couch was taken at ",
     "quoteTime": "9:43 a.m.",
-    "quoteLast": ", on April 1, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex., by Mr. David W.",
+    "quoteLast": ", on April 1, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex.",
     "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44006",
-    "hash": "abb539970b1c7c98ed5134b271882ec2bdf46b39b23c96ecff2060b58ed4f69d"
-  },
-  {
-    "time": "09:43",
-    "quoteFirst": "",
-    "quoteTime": "9:43 A.M.",
-    "quoteLast": "",
-    "title": "Project Cyclops",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34319",
-    "hash": "43f2ab38853fc2edb71d0c4d47bfe00e1878c678510bcda6b1c7bd4b489e91d0"
+    "hash": "4c47ded1f11e271b5105ec7804c40791af05b6cb57731245d33417f3ecb140c0"
   },
   {
     "time": "09:43",

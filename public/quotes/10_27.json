@@ -1,42 +1,32 @@
 [
   {
     "time": "10:27",
-    "quoteFirst": "On September 27 the rabbit weighed 1,772 grams. The temperature at 9.53 a. m. was 102.3°F. The barium was fed for the fifth time. At ",
+    "quoteFirst": "At ",
     "quoteTime": "10.27 a.m.",
-    "quoteLast": "",
+    "quoteLast": " there were general convulsions.",
     "title": "Barium: A Cause of the Loco-Weed Disease",
     "author": "Crawford, Albert C. (Albert Cornelius), 1869-1921",
     "gutenbergReference": "40256",
-    "hash": "e0cddf810ca20645cf8e8df0cd9264b082c01c173c243e1c5e45c681a92eb072"
+    "hash": "4208b0277fb5101c105c29ddb36a6ad93783db94318b7aa4c64f218b5fdfdd92"
   },
   {
     "time": "10:27",
-    "quoteFirst": "Paris observatory on the 29th of June 1850, at ",
+    "quoteFirst": "In the first they ascended from the Paris observatory on the 29th of June 1850, at ",
     "quoteTime": "10.27 A.M.",
-    "quoteLast": ", the balloon being inflated with hydrogen gas.  The day was a rough one, and the ascent took place without any previous attempt having been made to test the ascensional force of the balloon.",
+    "quoteLast": ", the balloon being inflated with hydrogen gas.",
     "title": "The Project Gutenberg Encyclopedia, Volume 1 of 28",
     "author": "Project Gutenberg",
     "gutenbergReference": "200",
-    "hash": "d59fce55419430795e93df4e7a471e5dd6d7a14183ae5b9c4591c53c9d76d67c"
+    "hash": "93803f863e0c0cd5bfa6bfd5162776d460650274748a1b8a508dec85fdfea822"
   },
   {
     "time": "10:27",
-    "quoteFirst": "=Distance from London.=--22 miles. =Average Time.=--51 minutes. (Convenient trains, ",
+    "quoteFirst": "(Convenient trains, ",
     "quoteTime": "10.27 A.M.",
-    "quoteLast": ", 12.17 and 2.27 P.M.)",
+    "quoteLast": ", 12.17   and 2.27 P.M.)",
     "title": "What to See in England\r\nA Guide to Places of Historic Interest, Natural Beauty or Literary Association",
     "author": "Home, Gordon, 1878-1969",
     "gutenbergReference": "11642",
-    "hash": "1154ffb925580df988f86d0bc29b472b8d88b7d2e38ecc9c8742a5d072344783"
-  },
-  {
-    "time": "10:27",
-    "quoteFirst": "=Distance from London.=--23-3/4 miles. =Average Time.=--51 minutes. (Convenient trains, ",
-    "quoteTime": "10.27 A.M.",
-    "quoteLast": ", 12.17 and 2.27 P.M.)",
-    "title": "What to See in England\r\nA Guide to Places of Historic Interest, Natural Beauty or Literary Association",
-    "author": "Home, Gordon, 1878-1969",
-    "gutenbergReference": "11642",
-    "hash": "388c0beaf311bd8ee08d97d0cbfd70a45404bf6475bc9a1777777e2b34d6df8a"
+    "hash": "3a1e56218eb64ffacf1a726bbd3f5fea83f9a9532327c1054041763df6bcf2d5"
   }
 ]

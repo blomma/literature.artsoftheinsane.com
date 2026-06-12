@@ -3,11 +3,11 @@
     "time": "10:29",
     "quoteFirst": "On August 20, 1977, exactly two years after the launch of the Viking spacecraft to Mars, the first of the Voyagers—actually Voyager 2—was boosted into space at ",
     "quoteTime": "10:29 a.m.",
-    "quoteLast": " EDT, less than five minutes after the launch window opened on the first day of the thirty-day launch period. Sixteen days later, at 8:56 a.m. EDT on Labor Day, September 5, 1977, Voyager 1 was hurled into space on a shorter, faster trajectory than its twin, zipping past the orbit of the Moon only ten hours after launch.",
+    "quoteLast": " EDT, less than five minutes after the launch window opened on the first day of the thirty-day launch period.",
     "title": "Voyage to Jupiter",
     "author": "Morrison, David, 1940-; Samz, Jane",
     "gutenbergReference": "58915",
-    "hash": "d8bb4b933b23f519d7a652895b5646b5e599b69f704363a6442d772082001a9c"
+    "hash": "0fbd30ef1610160d390a8b82a18bc498bcda180b140cf0bf9b8f135a6bf99904"
   },
   {
     "time": "10:29",
@@ -31,13 +31,13 @@
   },
   {
     "time": "10:29",
-    "quoteFirst": "He sets at 9:25 on the evening of the 1st; at 8:51 p. m. on the 15th, and at 8:13 p. m. on the 30th. On the 24th, at ",
+    "quoteFirst": "On the 24th, at ",
     "quoteTime": "10:29 a. m.",
     "quoteLast": " he is only 10′ south of the moon.",
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "hash": "176481620924ac55285ec4365446b69f30b6edf321cfb01e4cdec803aa82777c"
+    "hash": "9f104a88270b32624a41c3f93528afce5ba73a131254e47c6ee3444330b53dde"
   },
   {
     "time": "10:29",
@@ -51,12 +51,12 @@
   },
   {
     "time": "10:29",
-    "quoteFirst": "Thank you, but I have studying to do and letters to write to-night. If I stay here for dinner, I'll reach Wayne Hall at ",
+    "quoteFirst": "If I stay here for dinner, I'll reach Wayne Hall at ",
     "quoteTime": "twenty-nine minutes after ten",
-    "quoteLast": ". I know my failings.\"",
+    "quoteLast": ".",
     "title": "Grace Harlowe's Fourth Year at Overton College",
     "author": "Chase, Josephine, -1931",
     "gutenbergReference": "20474",
-    "hash": "613dec17d1c7f72054c04577f45a57d7b623b4016c740c47d169399065d68672"
+    "hash": "f3797aeb8776b33c9fdd048cb3545d51a7c2250a9037c6d47b191761237d88ff"
   }
 ]

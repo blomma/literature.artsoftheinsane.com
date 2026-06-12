@@ -1,42 +1,62 @@
 [
   {
     "time": "02:42",
-    "quoteFirst": "30 160   TAUNTON             \"    ----       ----       12.35 p.m. 180   Collumpton          \"    ----       ----        2.42 29 Bagshot               \"   10.47 p.m.  ----       ---- 67 Andover               \"    2.20 a.m.  ",
+    "quoteFirst": "0   149   Bridgewater         \"    ----       ----       11.30   160   TAUNTON             \"    ----       ----       12.35 p.m.   180   Collumpton          \"    ----       ----        2.42    29 Bagshot               \"   10.47 p.m.  ----       ----    67 Andover               \"    2.20 a.m.  ",
     "quoteTime": "2.42 a.m.",
-    "quoteLast": "  ---- 84   SALISBURY           \"    ----       4.27       ---- 126   Yeovil              \"    ----       8.",
+    "quoteLast": "  ----    84   SALISBURY           \"    ----       4.27       ----   126   Yeovil              \"    ----       8.53       ----   143   Chard               \"    ----      11.",
     "title": "An Old Coachman's Chatter, with Some Practical Remarks on Driving",
     "author": "Corbett, Edward, 1817-1895; Sturgess, J. (John), 1839-1903 [Illustrator]",
     "gutenbergReference": "43895",
-    "hash": "b49ff5053fd268a6f342fce8aa1b8172cdb2414cdf9238e85c478d97485432e4"
+    "hash": "fd6642714feeffd89843467681177e20a4d59f8e73124a04ada2cae185e964fa"
   },
   {
     "time": "02:42",
-    "quoteFirst": "But what were Meadville and New York in 1727? June 21st is our longest day, in latitude 41° 30′, a little more than fifteen hours from sunrise to sunset; the night, of course, a little less than nine hours. On this day the sun reaches his northern limit, 23° 27′ 3.2″, and at ",
+    "quoteFirst": "Wednesday afternoon, and the hands of the clock in the tower of the Congregational Church, seen distantly over the tops of the trees, pointed to ",
+    "quoteTime": "eighteen minutes before three",
+    "quoteLast": ".",
+    "title": "Nid and Nod",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "71633",
+    "hash": "955e3f154a33eb0b63e0cc9d0f82c0a1947909e36240e364f8f1cd097b520599"
+  },
+  {
+    "time": "02:42",
+    "quoteFirst": "On this day the sun reaches his northern limit, 23° 27′ 3.2″, and at ",
     "quoteTime": "2:42 a. m.",
-    "quoteLast": " begins his southern journey; or, to put it astronomically, the sun enters _Gemini_, and summer begins, on June 21st, at 1:42 a. m. On the 1st, sun rises at 4:31 a. m., sets at 7:24 p. m.; on the 16th, rises at 4:29 a. m., sets at 7:32 p. m.",
+    "quoteLast": " begins his southern journey; or, to put it astronomically, the sun enters _Gemini_, and summer begins, on June 21st, at 1:42 a.",
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "hash": "e281e1196bc5bc53928eba60271fd521a23d09a34b4918b33ee1578a8b4202b7"
+    "hash": "2ffceeb81ca3189d7f3090bcc221468d7bb7390d2621a38d16fcb57352b09762"
   },
   {
     "time": "02:42",
-    "quoteFirst": "30  ”  | | 160 |  Taunton        |           |          |           |12.35 p.m.| | 180 |  Cullumpton     |           |          |           | 2.42  ”  | |  29 |Bagshot          |           |10.47 p.m.|           |          | |  67 |Andover          |           | 2.20 a.m.| ",
+    "quoteFirst": "|   +--------+-------------+------------+   |   12   | Hounslow    |  9.12 p.m. |   |   19   | Staines     |  9.56  ”   |   |   29   | Bagshot     | 11.0   ”   |   |   67   | Andover     |  ",
     "quoteTime": "2.42 a.m.",
-    "quoteLast": " |          | |  84 |  Salisbury      | 4.52 a.m. |          | 4.27  ”   |          | | 124½|Dorchester       | 8.57  ”   |          | 8.",
+    "quoteLast": " |   |   84   | Salisbury   |  4.27  ”   |   |  105   | Shaftesbury |  6.41  ”   |   |  126   | Yeovil      |  8.56  ”   |   |  135   | Crewkerne   | 10.12  ”   |   |  143   | Chard       | 11.0   ”   |   |  156   | Honiton     | 12.31 p.m. |   |  173   | Exeter      |  2.14  ”   |   +--------+-------------+------------+",
     "title": "Stage-coach and Mail in Days of Yore, Volume 2 (of 2)\nA picturesque history of the coaching age",
     "author": "Harper, Charles G. (Charles George), 1863-1943",
     "gutenbergReference": "58668",
-    "hash": "4143a96a634b9751be435afedb391a7c31edfbd8470e6d75ffee42dccbd09666"
+    "hash": "0f2353713f5cde4a69e08b942f04fb690ac9b1fa95125edc20f4079209ecf832"
   },
   {
     "time": "02:42",
-    "quoteFirst": "56  ”   | |   29   | Bagshot     | 11.0   ”   | |   67   | Andover     |  ",
+    "quoteFirst": "|           | 5.6   ”  |  | 109 |  Bath           |           |          |           | 7.0   ”  |  | 149 |  Bridgewater    |           |          |           |11.30  ”  |  | 160 |  Taunton        |           |          |           |12.35 p.m.|  | 180 |  Cullumpton     |           |          |           | 2.42  ”  |  |  29 |Bagshot          |           |10.47 p.m.|           |          |  |  67 |Andover          |           | 2.20 a.m.| ",
     "quoteTime": "2.42 a.m.",
-    "quoteLast": " | |   84   | Salisbury   |  4.27  ”   | |  105   | Shaftesbury |  6.",
+    "quoteLast": " |          |  |  84 |  Salisbury      | 4.52 a.m. |          | 4.27  ”   |          |  | 124½|Dorchester       | 8.57  ”   |          | 8.53  ”   |          |  | 126 |  Yeovil         |           |          |           |          |  | 137 |Bridport         |10.5   ”   |          |11.0   ”   |          |  | 143 |  Chard          |           |          |           |          |  |  80 |Amesbury         |           | 3.39  ”  |           |",
     "title": "Stage-coach and Mail in Days of Yore, Volume 2 (of 2)\nA picturesque history of the coaching age",
     "author": "Harper, Charles G. (Charles George), 1863-1943",
     "gutenbergReference": "58668",
-    "hash": "dcd99873f2f319e5717f6f6acdd56eb0cab57c8f1f5ecd5f743bd54b4ab97ca4"
+    "hash": "48a5cf41029edbef9491dbab8fdad93cf9999dba2010061a7595b9f4d0224bbb"
+  },
+  {
+    "time": "02:42",
+    "quoteFirst": "At ",
+    "quoteTime": "eighteen minutes before three",
+    "quoteLast": " he was waving to them from the platform of the last car, having just slipped a two-dollar bill into Penrod's breast-pocket.",
+    "title": "Penrod and Sam",
+    "author": "Tarkington, Booth, 1869-1946",
+    "gutenbergReference": "1158",
+    "hash": "81cd310b49650d253f4fb2caf9599a290e9ff6c71db2ecd2866aa1d47a62cd5e"
   }
 ]

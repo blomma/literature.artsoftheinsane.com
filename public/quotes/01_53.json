@@ -1,32 +1,52 @@
 [
   {
     "time": "01:53",
-    "quoteFirst": "56       ---- 23   Slough              \"    ----       ----       ---- 29   Maidenhead          \"    ----       ----       10.40 58   Newbury             \"    ----       ----        ",
-    "quoteTime": "1.53 a.m.",
-    "quoteLast": "",
-    "title": "An Old Coachman's Chatter, with Some Practical Remarks on Driving",
-    "author": "Corbett, Edward, 1817-1895; Sturgess, J. (John), 1839-1903 [Illustrator]",
-    "gutenbergReference": "43895",
-    "hash": "19a0712ca7bc297878cda3ee15ecea58cb16b9574cbc74a8b377c497c8d8d1bb"
+    "quoteFirst": "_--The sun set last night at fifty-three minutes past nine, by my watch, and rose at ",
+    "quoteTime": "seven minutes before two",
+    "quoteLast": " this morning: we embarked soon after, steering North-North-West, through islands for five miles, and West four miles.",
+    "title": "Voyages from Montreal Through the Continent of North America to the Frozen and Pacific Oceans in 1789 and 1793. Vol. I",
+    "author": "Mackenzie, Alexander, 1764-1820",
+    "gutenbergReference": "35658",
+    "hash": "ac6537fd720d2e3a52d12bbfffefc43f8ff1fd1f42612311548e744166c599af"
   },
   {
     "time": "01:53",
-    "quoteFirst": "'I really must ask you to be good enough to come in from your lunch at the proper time. It was fully ",
+    "quoteFirst": "The sun set at seven minutes before ten, and rose at ",
+    "quoteTime": "seven minutes before two",
+    "quoteLast": " in the morning.",
+    "title": "Travels in North America, From Modern Writers\r\nWith Remarks and Observations; Exhibiting a Connected View of the Geography and Present State of that Quarter of the Globe",
+    "author": "Bingley, William, 1774-1823",
+    "gutenbergReference": "28323",
+    "hash": "c7b171e3745edb21534bfc382b013b9f8b0a49d91d9792cb2497af2a1087aa0f"
+  },
+  {
+    "time": "01:53",
+    "quoteFirst": "----       ----        9.12    19 Staines               \"    ----       9.56       ----    23   Slough              \"    ----       ----       ----    29   Maidenhead          \"    ----       ----       10.40    58   Newbury             \"    ----       ----        ",
+    "quoteTime": "1.53 a.m.",
+    "quoteLast": "    77   Marlborough         \"    ----       ----        3.43    91   Devizes             \"    ----       ----        5.",
+    "title": "An Old Coachman's Chatter, with Some Practical Remarks on Driving",
+    "author": "Corbett, Edward, 1817-1895; Sturgess, J. (John), 1839-1903 [Illustrator]",
+    "gutenbergReference": "43895",
+    "hash": "9669014aa3e157225c0e85afc085203745bfb6c16930478281002fb2c6573278"
+  },
+  {
+    "time": "01:53",
+    "quoteFirst": "It was fully ",
     "quoteTime": "seven minutes to two",
     "quoteLast": " when you returned, and--'",
     "title": "Psmith in the City",
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "6753",
-    "hash": "90968ca6f9337ada505d881240cbe6daaa965daedd0099b3267f3d114d04eb4f"
+    "hash": "cd0b4529023c6df5b209e279d6d0886ba83c7d4f1e189ac8721ab16f1a0668e1"
   },
   {
     "time": "01:53",
-    "quoteFirst": "When Cowan had concluded, Powell took the floor to reply. At ",
+    "quoteFirst": "At ",
     "quoteTime": "1.53 A.M.",
-    "quoteLast": ", Bayard interrupted him with a motion to adjourn, which was negatived by 4 to 35. Powell resumed his speech and made a much longer one than his first, at the end of which he moved an adjournment, negatived by 4 to 32. Then Bayard made a long speech against the bill.",
+    "quoteLast": ", Bayard interrupted him with a motion to adjourn, which was negatived by 4 to 35.",
     "title": "The Life of Lyman Trumbull",
     "author": "White, Horace, 1834-1916",
     "gutenbergReference": "38043",
-    "hash": "7c16be2a3c04595295bcc524a3626a62a778d707e4adfa52dbfb15c87a73b255"
+    "hash": "7981eb1e67e9b4400edb53be372c993868434e85275030a460d5c750c3e82488"
   }
 ]

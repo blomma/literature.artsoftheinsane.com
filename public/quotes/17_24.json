@@ -11,23 +11,13 @@
   },
   {
     "time": "17:24",
-    "quoteFirst": "From Kilimanjaro to Baltimore is one hundred and fourteen degrees, or a difference in time of four hundred and fifty-six minutes. At the moment of discharge it would be ",
+    "quoteFirst": "At the moment of discharge it would be ",
     "quoteTime": "twenty-four minutes past five in the afternoon",
     "quoteLast": " in the great city of Maryland.",
     "title": "The Purchase of the North Pole\nA sequel to \"From the earth to the moon\"",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "60242",
-    "hash": "e03861181f718bfadbc65b61e15f933d258aec5937d8820fad37ede73278ae09"
-  },
-  {
-    "time": "17:24",
-    "quoteFirst": "",
-    "quoteTime": "5.24 p.m.",
-    "quoteLast": ", answering to Kilimanjaro midnight, passed.",
-    "title": "The Purchase of the North Pole\nA sequel to \"From the earth to the moon\"",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "60242",
-    "hash": "d0bd7e9c0c548fb09e453dc7c4a7515aef927de15cd5898b0e85ca93d3743f96"
+    "hash": "aa3867ccb6b51e3491265e092687a87b08b36e0571494f2ac3f9047b90ae879c"
   },
   {
     "time": "17:24",
@@ -41,32 +31,42 @@
   },
   {
     "time": "17:24",
-    "quoteFirst": "The next day was the last day of 1913. Our time was six hours and thirty-six minutes later than Boston and New York time and as the day wore on and it got to be ",
+    "quoteFirst": "",
+    "quoteTime": "5.24 p.m.",
+    "quoteLast": ", answering to Kilimanjaro midnight, passed.",
+    "title": "The Purchase of the North Pole\nA sequel to \"From the earth to the moon\"",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "60242",
+    "hash": "d0bd7e9c0c548fb09e453dc7c4a7515aef927de15cd5898b0e85ca93d3743f96"
+  },
+  {
+    "time": "17:24",
+    "quoteFirst": "Our time was six hours and thirty-six minutes later than Boston and New York time and as the day wore on and it got to be ",
     "quoteTime": "5:24 P. M.",
-    "quoteLast": " I realized that it was midnight on Tremont Street and Broadway and I thought of the friends who would now be seeing the old year out and the new year in. I wondered what they thought had become of us on the _Karluk_, and whether the news of our unforeseen drift had yet reached them from Stefansson.",
+    "quoteLast": " I realized that it was midnight on Tremont Street and Broadway and I thought of the friends who would now be seeing the old year out and the new year in.",
     "title": "The last voyage of the Karluk",
     "author": "Bartlett, Bob, 1875-1946; Hale, Ralph T. (Ralph Tracy), 1880-1951",
     "gutenbergReference": "74622",
-    "hash": "b3d51a487d37d9c004a53c87823f8d7ce02e424d1f9c387ccd837133f367ce3f"
+    "hash": "41422047514dae16bf8010387a9e73e160cca19f57c21f9d98ec0ccf2f64465b"
   },
   {
     "time": "17:24",
-    "quoteFirst": "On the 1st, rises at 5:29 a. m., sets at 5:25 p. m.; on the 16th, rises at 4:56 a. m., sets at ",
+    "quoteFirst": ", sets at ",
     "quoteTime": "5:24 p. m.",
-    "quoteLast": "; on the 30th, rises at 4:27 a. m., sets at 5:23 p. m.; on the 14th, at 12:27 a. m., twelve minutes south of moon.",
+    "quoteLast": "; on the 30th, rises at 4:27 a.",
     "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55061",
-    "hash": "7a724518469599cc560786b3ba26b9eb3439db8638fcd23edd4acba4ede4a3b7"
+    "hash": "7af9c163c86bb6f0d54639ad7533beac5890c2a61c214dec320a53ec0f33f7a0"
   },
   {
     "time": "17:24",
-    "quoteFirst": "Rises on the 1st at 6:32 a. m. and sets at ",
+    "quoteFirst": "and sets at ",
     "quoteTime": "5:24 p. m.",
-    "quoteLast": "; on the 16th, rises at 6:00 a. m. and sets at 5:28 p. m.; on the 30th, rises at 5:33 a. m., sets at 5:25 p. m.",
+    "quoteLast": "; on the 16th, rises at 6:00 a.",
     "title": "The Chautauquan, Vol. 05, March 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
-    "hash": "ffadc2006567c817d0c521df3b2e8b1a5edd4d8a1662feb6b53bafb1dcd2b8be"
+    "hash": "e50480cafec17c2fa17d4d22366438cf3ffafa73c1b6c0397423767f27eb9797"
   }
 ]

@@ -1,32 +1,42 @@
 [
   {
     "time": "14:42",
+    "quoteFirst": "Wednesday afternoon, and the hands of the clock in the tower of the Congregational Church, seen distantly over the tops of the trees, pointed to ",
+    "quoteTime": "eighteen minutes before three",
+    "quoteLast": ".",
+    "title": "Nid and Nod",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "71633",
+    "hash": "1747e17d27c015cb8ef5ed7e2de1d382eb1cbfd2a1bb3df12f459a2c455e0d39"
+  },
+  {
+    "time": "14:42",
     "quoteFirst": "The official start took place at ",
     "quoteTime": "2.42 P.M.",
-    "quoteLast": " In spite of the wind striking me sidewise, with a tendency to take me to the left of the Eiffel Tower, I held my course straight to that goal. Gradually I drove the air-ship onward and upward to a height of about 10 metres above its summit.",
+    "quoteLast": " In spite of the wind striking me sidewise, with a tendency to take me to the left of the Eiffel Tower, I held my course straight to that goal.",
     "title": "My Airships; The Story of My Life",
     "author": "Santos-Dumont, Alberto, 1873-1932",
     "gutenbergReference": "42344",
-    "hash": "4a9627d35e3e17dd2c1ee21744a082ec9c57e58b92606fedad1158eacd5b7ce6"
+    "hash": "c70bb3105286953294aca8acd3fb925f89c154ba7deac73b9d7fb09d71cbf3d3"
   },
   {
     "time": "14:42",
     "quoteFirst": "The start took place at ",
     "quoteTime": "2:42 P.M.",
-    "quoteLast": " of October 19, 1901, with a beam wind blowing. Straight as a bullet the air-ship sped for the steel shaft of the tower, rising as she flew.",
+    "quoteLast": " of October 19, 1901, with a beam wind blowing.",
     "title": "Stories of Inventors: The Adventures of Inventors and Engineers",
     "author": "Doubleday, Russell, 1872-1949",
     "gutenbergReference": "11368",
-    "hash": "1474c2fc1e188b11ef739d7ecdc4883919563e845cd8e5d0c916bcd08d29fc95"
+    "hash": "069818c788e3d3468e61c95723bd1c1f2e84ae6c27fd65c9c17f061bb7effd19"
   },
   {
     "time": "14:42",
-    "quoteFirst": "",
-    "quoteTime": "2:42 P.M.",
-    "quoteLast": "",
-    "title": "Project Cyclops",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34319",
-    "hash": "41755be49d41b7e317d53807b1aca97abffba639121e32cbce5a00f83903edc5"
+    "quoteFirst": "At ",
+    "quoteTime": "eighteen minutes before three",
+    "quoteLast": " he was waving to them from the platform of the last car, having just slipped a two-dollar bill into Penrod's breast-pocket.",
+    "title": "Penrod and Sam",
+    "author": "Tarkington, Booth, 1869-1946",
+    "gutenbergReference": "1158",
+    "hash": "fcda84ad76a98c825b9e7dea296e6c6a2b12eb49f810b859a3d05821c7b855dc"
   }
 ]

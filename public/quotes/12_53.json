@@ -1,32 +1,32 @@
 [
   {
     "time": "12:53",
-    "quoteFirst": "August twenty-fifth, ",
+    "quoteFirst": "Accordingly it was published in The Times, dated August twenty-fifth, ",
     "quoteTime": "fifty-three minutes past twelve",
     "quoteLast": " A.M.!",
     "title": "The Story of the Atlantic Telegraph",
     "author": "Field, Henry M. (Henry Martyn), 1822-1907",
     "gutenbergReference": "34765",
-    "hash": "793ab893b31c197c34950b47b4632da898f18804b3a27ef11404796bc1337a97"
+    "hash": "494a3b4ad248122ee1968a20ce79a92595fd02e9d69db875e2a99b110c1c6e0d"
   },
   {
     "time": "12:53",
-    "quoteFirst": "SERGESTUS. ",
-    "quoteTime": "Seven minutes to noon",
-    "quoteLast": ", sir.",
-    "title": "Diminutive dramas",
-    "author": "Baring, Maurice, 1874-1945",
-    "gutenbergReference": "77668",
-    "hash": "4072435aad79e4fc8ac470200d33ef21f79eda6d488a2d8bdaff2248c3cda127"
-  },
-  {
-    "time": "12:53",
-    "quoteFirst": "ÆNEAS. That’s all. Don’t any of you get talking, and you, Sergestus, report ",
+    "quoteFirst": "Don’t any of you get talking, and you, Sergestus, report ",
     "quoteTime": "seven minutes to noon",
     "quoteLast": " to me.",
     "title": "Diminutive dramas",
     "author": "Baring, Maurice, 1874-1945",
     "gutenbergReference": "77668",
-    "hash": "6203e3830ab8b46191bf57b2bb61348ee38253a308bcd3fc2219f50dacb0cc18"
+    "hash": "647f9bf7cb72da66f4a1c57f442d487589e3f2f8a7a70201e63835850ce5750d"
+  },
+  {
+    "time": "12:53",
+    "quoteFirst": "",
+    "quoteTime": "Seven minutes to noon",
+    "quoteLast": ", sir.",
+    "title": "Diminutive dramas",
+    "author": "Baring, Maurice, 1874-1945",
+    "gutenbergReference": "77668",
+    "hash": "6f7158bd45c2ab13bef1e4840c67c49c145d6343ce87fa8880cf17eb68ef0fe8"
   }
 ]

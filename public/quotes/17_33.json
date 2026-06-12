@@ -1,13 +1,23 @@
 [
   {
     "time": "17:33",
-    "quoteFirst": "2″, and his rising and setting nearly the same as that of the sun. At 8:35 a. m. he rises and at ",
+    "quoteFirst": "I betook myself again to my nap, and at length a second time awoke, when, to my utter amazement, it still wanted ",
+    "quoteTime": "twenty-seven minutes of six",
+    "quoteLast": ".",
+    "title": "The Best American Humorous Short Stories",
+    "author": "Jessup, Alexander, 1871- [Editor]; Bunner, H. C. (Henry Cuyler), 1855-1896 [Contributor]; Chester, George Randolph, 1869-1924 [Contributor]; Cooke, Grace MacGowan, 1863-1944 [Contributor]; Curtis, George William, 1824-1892 [Contributor]; Edwards, Harry Stillwell, 1855-1938 [Contributor]; Hale, Edward Everett, 1822-1909 [Contributor]; Harte, Bret, 1836-1902 [Contributor]; Hastings, Wells, 1879-1923 [Contributor]; Henry, O., 1862-1910 [Contributor]; Holmes, Oliver Wendell, 1809-1894 [Contributor]; Johnston, Richard Malcolm, 1822-1898 [Contributor]; Kirkland, Caroline M. (Caroline Matilda), 1801-1864 [Contributor]; Lampton, William J. (William James), -1917 [Contributor]; Leslie, Eliza, 1787-1858 [Contributor]; Morris, George Pope, 1802-1864 [Contributor]; Poe, Edgar Allan, 1809-1849 [Contributor]; Stockton, Frank R., 1834-1902 [Contributor]; Twain, Mark, 1835-1910 [Contributor]",
+    "gutenbergReference": "10947",
+    "hash": "08cb351a50b395555332267cb9c8111a7ea0336ea0d26de4c34bd3a329fa3eb7"
+  },
+  {
+    "time": "17:33",
+    "quoteFirst": "he rises and at ",
     "quoteTime": "5:33 p. m.",
-    "quoteLast": " sets on the 1st; on the 16th, rises at 8:25 a. m., and sets at 5:25 p. m.; and on the 31st, rises at 8:11 a. m., and sets at 5:21 p. m.",
+    "quoteLast": " sets on the 1st; on the 16th, rises at 8:25 a.",
     "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55250",
-    "hash": "cde21d9bf24f7e9581bb50a0b8e0a4d093a314613351437684c51bb36717de6c"
+    "hash": "56eab319605b1ba6e7a1c13a026def02e2c4be3600280b5273080cbe1118277a"
   },
   {
     "time": "17:33",
@@ -21,22 +31,22 @@
   },
   {
     "time": "17:33",
-    "quoteFirst": "On April 12th of 1911, Paprier, instructor at the Bleriot school at Hendon, made the first non-stop flight between London and Paris. He left the aerodrome at 1.37 p.m., and arrived at Issy-les-Moulineaux at ",
+    "quoteFirst": "He left the aerodrome at 1.37 p.m., and arrived at Issy-les-Moulineaux at ",
     "quoteTime": "5.33 p.m.",
-    "quoteLast": ", thus travelling 250 miles in a little under 4 hours. He followed the railway route practically throughout, crossing from Dover to nearly opposite Calais, keeping along the coast to Boulogne, and then following the Nord Railway to Amiens, Beauvais, and finally Paris.",
+    "quoteLast": ", thus travelling 250 miles in a little under 4 hours.",
     "title": "A History of Aeronautics",
     "author": "Vivian, Evelyn Charles, 1882-1947; Marsh, W. Lockwood (William Lockwood), 1886-1963",
     "gutenbergReference": "58347",
-    "hash": "493f6f96fc2504492ef036402de2ab6e1e290afe3e09da5ac4312dc8ac1c1527"
+    "hash": "6fabe4253b5842fa1c3b9f38ef1cef5b7b11fc1dbb6b6a8b2ac1bdf26460b1e3"
   },
   {
     "time": "17:33",
-    "quoteFirst": "Will be evening star during the entire month, and will afford nothing of especial interest. He rises at 8:46, 8:41 and 8:35 a. m., on the 1st, 16th and 30th, respectively; and sets on the same days at 6:06, 5:47 and ",
+    "quoteFirst": ", on the 1st, 16th and 30th, respectively; and sets on the same days at 6:06, 5:47 and ",
     "quoteTime": "5:33 p. m.",
-    "quoteLast": ", respectively. His direct motion amounts to 24° 52′ 6″, and his diameter diminishes two tenths of a second of arc. On the 19th, at 8:48 a. m., is 5° 26′ south of the moon.",
+    "quoteLast": ", respectively.",
     "title": "The Chautauquan, Vol. 05, November 1884, No. 2",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55241",
-    "hash": "e3b9a4173ec7a0cf35b6217d1627dff52e9b620069c41accdc1eaea6fa4f130c"
+    "hash": "bccad4fd4c1fa53340aabe5a2b51af42503d6e0d1a5e8df12b8db9a433794427"
   }
 ]

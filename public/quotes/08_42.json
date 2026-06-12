@@ -21,13 +21,23 @@
   },
   {
     "time": "08:42",
+    "quoteFirst": "_ ",
+    "quoteTime": "Eighteen minutes of nine",
+    "quoteLast": ".",
+    "title": "The Universal Reciter\n81 Choice Pieces of Rare Poetical Gems",
+    "author": "Various",
+    "gutenbergReference": "29477",
+    "hash": "05458537de67f156332f89e8880e4d7c4fc8d91beb45208405f79d68f96e25c3"
+  },
+  {
+    "time": "08:42",
     "quoteFirst": "“I must shut up for the night at nine,” said the jailer, “and it's now ",
     "quoteTime": "forty-two minutes past eight",
-    "quoteLast": ".” He placed the little candle on a rough pine table, and withdrew.",
+    "quoteLast": ".”",
     "title": "The Pioneers; Or, The Sources of the Susquehanna",
     "author": "Cooper, James Fenimore, 1789-1851",
     "gutenbergReference": "2275",
-    "hash": "0b39ee4f9e926672dbf2fe19d6071b1424a6b2f7a6fc52c1f3ea8c93c595c044"
+    "hash": "e10b7d2ed8e422052b9f639387f0c1ced7277001b95018cc3af676a15000f68c"
   },
   {
     "time": "08:42",
@@ -41,13 +51,13 @@
   },
   {
     "time": "08:42",
-    "quoteFirst": "Well named from its mercurial habits, having the smallest orbit, and being the most rapid traveler, presents in a given time more phases than any other of the planets. Thus we find that on the 3d, at 5:00 p. m., it is in inferior conjunction with the sun, that is, between the earth and the sun; on the 14th, at ",
+    "quoteFirst": ", it is in inferior conjunction with the sun, that is, between the earth and the sun; on the 14th, at ",
     "quoteTime": "8:42 a. m.",
-    "quoteLast": ", 2° 1′ south of the moon; on the 14th, at 3:00 p. m., stationary, that is, it is moving in a direct line (or nearly so) away from the earth, and thus _seems_ to stand still; on the 24th, at 5:00 a. m.",
+    "quoteLast": ", 2° 1′ south of the moon; on the 14th, at 3:00 p.",
     "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
-    "hash": "3654dde29120e21cb8c81f7507b9be2f7d58522c19bb0336b295cd73c568925a"
+    "hash": "b049eecff83f0e4aa2b2efe93833a89b4a1e8dc0ed43b641666009807dc3def3"
   },
   {
     "time": "08:42",
@@ -61,12 +71,12 @@
   },
   {
     "time": "08:42",
-    "quoteFirst": "The General, he had his breakfast at 8:45 A.M. to the tick. He might have been a Long Island commuter. At ",
+    "quoteFirst": "At ",
     "quoteTime": "8:42 A.M.",
     "quoteLast": " I’d go down to the Thirty-fourth Street ferry to meet him—I mean I’d see the Zigler into position at two thousand (I began at three thousand, but that was cold and distant)—and blow him off to two full hoppers—eighteen rounds—just as they were bringing in his coffee.",
     "title": "Traffics and Discoveries",
     "author": "Kipling, Rudyard, 1865-1936",
     "gutenbergReference": "9790",
-    "hash": "554292a15a096d2cda85385e780e77aeef4753496bba1ba3dacf65a45d780102"
+    "hash": "e815c8a99f600f2d6caa26d1e07b00cae825592ee8b9e049c27ccd8f55579543"
   }
 ]

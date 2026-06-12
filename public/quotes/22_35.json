@@ -1,43 +1,73 @@
 [
   {
     "time": "22:35",
-    "quoteFirst": "I put the clock back on the mantelpiece again and once more sat down, still without looking at her. Glancing presently at the clock again I saw that its hands pointed to ",
-    "quoteTime": "five and twenty minutes to eleven",
-    "quoteLast": ".",
-    "title": "The Debit Account",
-    "author": "Onions, Oliver, 1873-1961",
-    "gutenbergReference": "37479",
-    "hash": "4440104a3188dfcd22885ff554c9498922c87b5b7f3e8e5644a877a9dbf59550"
+    "quoteFirst": "\"The President died at ",
+    "quoteTime": "10.35 P. M.",
+    "quoteLast": " After the bulletin was      issued at 5.30 this evening, the President continued in much      the same condition as during the afternoon, the pulse      varying from 102 to 106, with rather increased force and      volume. After taking nourishment he fell into a quiet sleep      about thirty-five minutes before his death, and while asleep      his pulse rose to 120, and was somewhat more feeble. At ten      minutes after ten o'clock he awoke, complaining of severe      pain over the region of the heart, and almost immediately",
+    "title": "The Life and Public Services of James A. Garfield\r\nTwentieth President of the United States, Including Full and Accurate Details of His Eventful Administration, Assassination, Last Hours, Death, Etc., Together with Notable Extracts from His Speeches and Letters",
+    "author": "Brown, E. E. (Emma Elizabeth), 1847-",
+    "gutenbergReference": "34217",
+    "hash": "f49f53f27992d8855bd2430ad3f2fc12dd347b4ebc5b34560ddc8f4a29747d93"
+  },
+  {
+    "time": "22:35",
+    "quoteFirst": "We did not get to camp till ",
+    "quoteTime": "10.35 p.m.",
+    "quoteLast": ": Meares, with his usual good-heartedness, came out from the tent and helped us in for the last miles or so.",
+    "title": "South with Scott",
+    "author": "Mountevans, Edward Ratcliffe Garth Russell Evans, Baron, 1880-1957",
+    "gutenbergReference": "18129",
+    "hash": "bde214d51e662dd092ccc5c98708ff309e80bca53cdde5ce1d30a412650ff76d"
   },
   {
     "time": "22:35",
     "quoteFirst": "At ",
-    "quoteTime": "thirty-five minutes after ten",
-    "quoteLast": ", the Admiral, observing how much the enemy had increased their distance from us by warping in-shore, ordered our cables to be cut, and sail to be made upon the ships, in the hope of being able to close with them. He also sent me on board the Spencer, with orders to Captain Darby to weigh, and work up to the enemy.",
-    "title": "Memoirs and Correspondence of Admiral Lord de Saumarez, Vol. I",
-    "author": "Ross, John, Sir, 1777-1856",
-    "gutenbergReference": "26031",
-    "hash": "143f66dc7d0dd53184476537e88f98366742e73481842e59ad3062257129e63d"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "“From this time, he entered into a kind of sleep, though with his eyes open and fixed. Twenty-four hours, my dearly beloved breathed like a person in common sleep; and then, at ",
-    "quoteTime": "thirty-five minutes past ten",
-    "quoteLast": " on Sunday night, August 14, his precious soul entered into the joy of his Lord, in the fifty-sixth year of his age. I was scarce a minute at a time from him, night or day, during his illness, and I can truly say—",
-    "title": "Wesley's Designated Successor\r\nThe Life, Letters, and Literary Labours of the Rev. John William Fletcher, Vicar of Madeley, Shropshire",
-    "author": "Tyerman, L. (Luke), 1820?-1889",
-    "gutenbergReference": "66910",
-    "hash": "b6f762071bbd0ccb6a30f8649cf406517af25ed7089384e5ece3e9a340e77f60"
+    "quoteTime": "thirty-five minutes past ten P. M.",
+    "quoteLast": ", the President called his family about him, to give them his last earthly advice and bid them his last good-by.",
+    "title": "The Ladies of the White House; Or, in the Home of the Presidents\r\nBeing a Complete History of the Social and Domestic Lives of the Presidents from Washington to the Present Time—1789–1881",
+    "author": "Holloway, Laura C. (Laura Carter), 1848-1930",
+    "gutenbergReference": "66909",
+    "hash": "4623b678723c6655424e4a485868dc675fc2646dc1c837d1b455a13cd0edf65c"
   },
   {
     "time": "22:35",
     "quoteFirst": "On July 11th (see Fig. 30), the cotyledon fell from 7.35 A.M. till 10 A.M.; it then rose (rapidly after 4 P.M.) till it stood quite vertically at 8.40 P.M. During the early morning of the next day (12th) it fell, and continued to fall till 8 A.M., after which hour it rose, then fell, and again rose, so that by ",
     "quoteTime": "10.35 P.M.",
-    "quoteLast": " it stood much higher than it did in the morning, but was not vertical as on the preceding night. During the following early morning and whole day (13th) it fell and circumnutated, but had not risen when observed late in the evening; and this was probably due to the deficiency of heat or light, or of both.",
+    "quoteLast": " it stood much higher than it did in the morning, but was not vertical as on the preceding night.",
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "hash": "30cc5521b1dcb9d540fbc8b5557c84c912f04947145e5b9a3e8fb6b025034ee6"
+    "hash": "83c35fffd79a754f9b5a26c20ed97377a6322ae1c5f19c8effbf59d857a43fbc"
+  },
+  {
+    "time": "22:35",
+    "quoteFirst": "It zigzagged between 6 P.M. and ",
+    "quoteTime": "10.35 P.M.",
+    "quoteLast": ", and ascended a little during the night.",
+    "title": "The Power of Movement in Plants",
+    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "5605",
+    "hash": "b438af6e2fbd1dce9414c055e02173e2f040272e5298440e08e8a52bc1f8551e"
+  },
+  {
+    "time": "22:35",
+    "quoteFirst": "The apex after thus sinking down from 9.10 A.M. to noon, moved a little to the left; it then rose up and circumnutated in a nearly vertical plane until ",
+    "quoteTime": "10.35 P.M.",
+    "quoteLast": " On the following day (26th) it was observed from 6.40 A.M. to 5.20 P.M., and within this time it moved twice up and twice down.",
+    "title": "The Power of Movement in Plants",
+    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "5605",
+    "hash": "625194e768ff8b4a0b1b0fdae92b44b5ee0619ee460dee69785d5c63ec79ec9f"
+  },
+  {
+    "time": "22:35",
+    "quoteFirst": "At ",
+    "quoteTime": "thirty-five minutes past ten P. M.",
+    "quoteLast": ", the President called his family about him, to give them his last earthly advice and bid them his last good-by.",
+    "title": "The Ladies of the White House; Or, in the Home of the Presidents\r\nBeing a Complete History of the Social and Domestic Lives of the Presidents from Washington to the Present Time—1789–1881",
+    "author": "Holloway, Laura C. (Laura Carter), 1848-1930",
+    "gutenbergReference": "66909",
+    "hash": "4623b678723c6655424e4a485868dc675fc2646dc1c837d1b455a13cd0edf65c"
   },
   {
     "time": "22:35",
@@ -51,52 +81,22 @@
   },
   {
     "time": "22:35",
-    "quoteFirst": "of fodder on it--rather too heavy a load, but it all helped, and the sea ice surface was none too bad. We did not get to camp till ",
-    "quoteTime": "10.35 p.m.",
-    "quoteLast": ": Meares, with his usual good-heartedness, came out from the tent and helped us in for the last miles or so. He had driven the dogs out with another load after tea time.",
-    "title": "South with Scott",
-    "author": "Mountevans, Edward Ratcliffe Garth Russell Evans, Baron, 1880-1957",
-    "gutenbergReference": "18129",
-    "hash": "f3a6c64ac9ef051da1aa7c1bcb9394b4b501a2cc697b77fa9453a64edc8274fe"
+    "quoteFirst": "On July 11th (see Fig. 30), the cotyledon fell from 7.35 A.M. till 10 A.M.; it then rose (rapidly after 4 P.M.) till it stood quite vertically at 8.40 P.M. During the early morning of the next day (12th) it fell, and continued to fall till 8 A.M., after which hour it rose, then fell, and again rose, so that by ",
+    "quoteTime": "10.35 P.M.",
+    "quoteLast": " it stood much higher than it did in the morning, but was not vertical as on the preceding night.",
+    "title": "The Power of Movement in Plants",
+    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "5605",
+    "hash": "83c35fffd79a754f9b5a26c20ed97377a6322ae1c5f19c8effbf59d857a43fbc"
   },
   {
     "time": "22:35",
-    "quoteFirst": "April 30. The National Pan-Russian Constituent Universal Duma which met this morning at ten-thirty, was dissolved at ",
+    "quoteFirst": "It was ",
     "quoteTime": "twenty-five minutes to eleven",
     "quoteLast": ".",
-    "title": "The Hohenzollerns in America\r\nWith the Bolsheviks in Berlin and Other Impossibilities",
-    "author": "Leacock, Stephen, 1869-1944",
-    "gutenbergReference": "4781",
-    "hash": "ea8d588538c27cfe3561ed4a783764d83a2a886b39e6da41685f5d8aa1f6917c"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "Several attitudes imply “Make ready.” The “make ready” of ten minutes to one differs from the “make ready” of ten minutes to twelve, as youth differs from age. “Upward and onward” says ",
-    "quoteTime": "twenty-five minutes to eleven",
-    "quoteLast": ".",
-    "title": "Desperate Remedies",
+    "title": "Jude the Obscure",
     "author": "Hardy, Thomas, 1840-1928",
-    "gutenbergReference": "3044",
-    "hash": "93b38f8e86e859647f127c3046b4142a94b7633861ab83c4e6b6109bfa191809"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "At 9:30, I left by train for Utrecht, which I reached at ",
-    "quoteTime": "10:35 p.m.",
-    "quoteLast": " The station was a new and spacious one and the accommodations were again like those which I had been accustomed to, before I saw Holland; so I felt quite at home again.",
-    "title": "The Youthful Wanderer\r\nAn Account of a Tour through England, France, Belgium, Holland, Germany and the Rhine, Switzerland, Italy, and Egypt, Adapted to the Wants of Young Americans Taking Their First Glimpses at the Old World",
-    "author": "Heffner, George H.",
-    "gutenbergReference": "10638",
-    "hash": "83438c056721e00f452d0193d5efd3b7469df1690f833f20832b5ffd920c333f"
-  },
-  {
-    "time": "22:35",
-    "quoteFirst": "April 30. The National Pan-Russian Constituent Universal Duma which met this morning at ten-thirty, was dissolved at ",
-    "quoteTime": "twenty-five minutes to eleven",
-    "quoteLast": ".",
-    "title": "The Hohenzollerns in America\r\nWith the Bolsheviks in Berlin and Other Impossibilities",
-    "author": "Leacock, Stephen, 1869-1944",
-    "gutenbergReference": "4781",
-    "hash": "ea8d588538c27cfe3561ed4a783764d83a2a886b39e6da41685f5d8aa1f6917c"
+    "gutenbergReference": "153",
+    "hash": "0a66fa49819f32ae34cf2c7a585991f8906bd065a366abf7a594af447ce726b2"
   }
 ]

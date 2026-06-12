@@ -1,42 +1,72 @@
 [
   {
     "time": "14:47",
-    "quoteFirst": "1 cc convulsions followed by dyspnoea, then continuous struggling; when 8.3 cc were injected rabbit had another convulsion; ",
+    "quoteFirst": ", 5 cc injected; after injection of 6.1 cc convulsions followed by dyspnoea, then continuous struggling; when 8.3 cc were injected rabbit had another convulsion; ",
     "quoteTime": "2.47 p. m.",
     "quoteLast": ", tonic contraction of anterior extremities; amount injected, 8.7 cc (158 mg per kilo) in 15 minutes and 35 seconds.",
     "title": "The Toxicity of Caffein: An experimental study on different species of animals",
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
-    "hash": "b1077726984ed7989eb525c0feebc25327223e56962c22f7b3c5f2a9630a1bd2"
+    "hash": "d1025ced149c72845f1c39adc98ffa02a8e7ece406955c3818e6cd2e82cd4683"
   },
   {
     "time": "14:47",
-    "quoteFirst": "Mr. Altham, hearing the stopping of a cab at his front-door, got up. It was still ",
+    "quoteFirst": "\"Then if that telephone came at ",
+    "quoteTime": "thirteen minutes before three",
+    "quoteLast": " you must have left not earlier than eight minutes to three, and the accident took place at 3:12, you ran the distance--it is actually thirteen miles and a half--in twenty minutes; that is, at the rate of forty miles an hour.\"",
+    "title": "Manslaughter",
+    "author": "Miller, Alice Duer, 1874-1942; Gruger, Frederic Rodrigo, 1871-1953 [Illustrator]",
+    "gutenbergReference": "33985",
+    "hash": "3aa2ac3a8a5b6ae84feea6ba8723f70215324a679ff89db4c33d2fe67bcca015"
+  },
+  {
+    "time": "14:47",
+    "quoteFirst": "Wiley protested that there was nothing in evidence to show that the telephone call had been made at ",
+    "quoteTime": "thirteen minutes before three",
+    "quoteLast": ", and O'Bannon replied that with the consent of the court he would put the records of the telephone company in evidence to prove the exact hour.",
+    "title": "Manslaughter",
+    "author": "Miller, Alice Duer, 1874-1942; Gruger, Frederic Rodrigo, 1871-1953 [Illustrator]",
+    "gutenbergReference": "33985",
+    "hash": "822071d3318eef24f34de9c796021c98315fa93c78dacc0e6014599bea610662"
+  },
+  {
+    "time": "14:47",
+    "quoteFirst": "The district attorney put the telephone-company records in evidence, showing that only one call had been made to the Bellington house between two and three o'clock March eleventh, and that it had been made at ",
+    "quoteTime": "thirteen minutes before three",
+    "quoteLast": ".",
+    "title": "Manslaughter",
+    "author": "Miller, Alice Duer, 1874-1942; Gruger, Frederic Rodrigo, 1871-1953 [Illustrator]",
+    "gutenbergReference": "33985",
+    "hash": "04d7d53e3081b02a120f255e61e48ac9fa41920e5c42ff998911ba22583dce5a"
+  },
+  {
+    "time": "14:47",
+    "quoteFirst": "It was still ",
     "quoteTime": "thirteen minutes to three",
-    "quoteLast": ", but he was ready to start. Indeed, he felt that motion and distraction would be very welcome, for there had stolen into his brain a strangely upsetting idea. It was very likely quite baseless and ill-founded, but it did occur to him that this defect on the part of Mrs.",
+    "quoteLast": ", but he was ready to start.",
     "title": "Mrs. Ames",
     "author": "Benson, E. F. (Edward Frederic), 1867-1940",
     "gutenbergReference": "60168",
-    "hash": "a0e791cef6e8d36246ea440426e7e2fd69f85e35f8fc2dec0f275390a2786a9d"
+    "hash": "dcb308a9b150b5bd7fbea79ddbaf1ebd45ee5f749dce59ec7baec125f5f9ce09"
   },
   {
     "time": "14:47",
-    "quoteFirst": "A.M., Hereford, ",
+    "quoteFirst": ", 9.58 A.M., and Worcester at 11.58 A.M., and are despatched to London and Shrewsbury at 4.50 P.M., Birmingham 8.45 A.M., Hereford, ",
     "quoteTime": "2.47 P.M.",
     "quoteLast": ", and Worcester at 1.30 P.M.—_Eleanor Sankey_, _post-mistress_.",
     "title": "History, Gazetteer, and Directory of Shropshire [1851]",
     "author": "Bagshaw, Samuel",
     "gutenbergReference": "62250",
-    "hash": "02ed78db397c9393bbd403478354ddafac1391150249d7903f2132c480348135"
+    "hash": "38b0f1626ced724f244c954366dee18147b25ccfd4dfba30ccc9375756268841"
   },
   {
     "time": "14:47",
-    "quoteFirst": "The signal will be three dots for the commencement of the blows. Connection being made between the hammers and the wires, the blows on the spikes were flashed over practically the whole telegraph system of the United States. At ",
+    "quoteFirst": "At ",
     "quoteTime": "2:47 P.M.",
     "quoteLast": " Washington time, 12 M. Promontory local time, came the signal \"Done\" and the bells of Washington, New York, Chicago, San Francisco, and hundreds of other cities and towns announced that the American continent had been spanned, that through rail communication was established, never to be broken, that the Union Pacific Railroad was completed.",
     "title": "The story of the first trans-continental railroad",
     "author": "Bailey, William Francis, 1861-",
     "gutenbergReference": "22598",
-    "hash": "12e80107b934ed7273c8f4ebc2bd4029f337ae14d2a21b5c74b81b33a1b06e65"
+    "hash": "1c24234a90fada889c20d6db5a67294c6cf36d318d27e259e1914f431f23bb63"
   }
 ]

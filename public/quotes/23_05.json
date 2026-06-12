@@ -1,6 +1,26 @@
 [
   {
     "time": "23:05",
+    "quoteFirst": "“There is a train at ",
+    "quoteTime": "five minutes past eleven",
+    "quoteLast": ",” remarked M. Desormeaux.",
+    "title": "Other People's Money",
+    "author": "Gaboriau, Emile, 1832-1873",
+    "gutenbergReference": "1748",
+    "hash": "2a6852cc009d27d17e63584754afcb9ec5aeccb4cf4f1b82b534138b15934c46"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "On another occasion, having a spare hour before lunch, I started out afoot from the ranch house at ",
+    "quoteTime": "five minutes past eleven",
+    "quoteLast": ", found my quail within a quarter mile, had luck in scattering them, secured my limit of twenty-five, and was back at the house at twelve twenty-five!",
+    "title": "The Killer",
+    "author": "White, Stewart Edward, 1873-1946",
+    "gutenbergReference": "16589",
+    "hash": "bfe284184196839f8a25dec36884a3c7a1e69051343c025451b6fe700c6c1423"
+  },
+  {
+    "time": "23:05",
     "quoteFirst": "\"It is ",
     "quoteTime": "five minutes past eleven",
     "quoteLast": ",\" laughed Miss Hammond, \"and there is his train now coming in, and there--if I don't mistake--is Dan.\"",
@@ -11,92 +31,72 @@
   },
   {
     "time": "23:05",
-    "quoteFirst": "It lies buried, I imagine, somewhere on the moor.  The clothes, though sodden, were, however, still recognisable, also the unfortunate man's wrist watch which had stopped at ",
+    "quoteFirst": "These are representations of one of the so-called red prominences, the first giving its appearance at ",
     "quoteTime": "five minutes past eleven",
-    "quoteLast": ", his cuff-links, and his signet ring, which had fallen from his fleshless finger and lay beside it in the 'gruff.'",
-    "title": "Unravelled Knots",
-    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-    "gutenbergReference": "68237",
-    "hash": "2247c599aaf17bc5d235a94f2a509a2c62c32b4a0c234e2f9b88d863f13ee943"
+    "quoteLast": " on the morning of March 14th, 1869, and the last showing the same _ten minutes afterwards_.",
+    "title": "Discoveries and Inventions of the Nineteenth Century",
+    "author": "Routledge, Robert",
+    "gutenbergReference": "54475",
+    "hash": "d89917816d5c05b9634bf731c501e45ed993a1b6f544d4d1bd5b69688b3d7809"
   },
   {
     "time": "23:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past eleven",
-    "quoteLast": " on the sixth day as the steamer departed from Messina, the professor, his wife and his niece began to cry.",
-    "title": "Castellinaria, and Other Sicilian Diversions",
-    "author": "Jones, Henry Festing, 1851-1928",
-    "gutenbergReference": "25077",
-    "hash": "cb8849723e3742cb1ca3d3988232c2b8a93fcb60b74bb4b92cf59f5c34ce296c"
-  },
-  {
-    "time": "23:05",
-    "quoteFirst": "Not until he woke up did he realise that there had been any danger of his going to sleep.  The earthenware clock on the mantelpiece (a birthday gift from Clara and Albert) showed ",
-    "quoteTime": "five minutes past eleven",
-    "quoteLast": ".",
-    "title": "These Twain",
-    "author": "Bennett, Arnold, 1867-1931",
-    "gutenbergReference": "40483",
-    "hash": "b55ca68b8fa7d18d615d209f9d63f4a6b6c7b29ffc675b9888f109985f4e5d9b"
-  },
-  {
-    "time": "23:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past eleven",
-    "quoteLast": " on the sixth day as the steamer departed from Messina, the professor, his wife and his niece began to cry.",
-    "title": "Castellinaria, and Other Sicilian Diversions",
-    "author": "Jones, Henry Festing, 1851-1928",
-    "gutenbergReference": "25077",
-    "hash": "cb8849723e3742cb1ca3d3988232c2b8a93fcb60b74bb4b92cf59f5c34ce296c"
-  },
-  {
-    "time": "23:05",
-    "quoteFirst": "DE LEVIS.  Yes.  Say ",
+    "quoteFirst": "But when I got back to the stairs, the clock there said ",
     "quoteTime": "five past eleven",
+    "quoteLast": ", sir—I remember it perfect.",
+    "title": "The rasp",
+    "author": "MacDonald, Philip, 1901?-1980",
+    "gutenbergReference": "72462",
+    "hash": "a42c4c7e7f974c3edc84caaa677946c87ef83b98eb8f755d2a3cf0236809740e"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "He always reached the appointed meet at five minutes before eleven, by his watch, and by his watch the hounds were always moved from their haunches at ",
+    "quoteTime": "five minutes past eleven",
     "quoteLast": ".",
-    "title": "Loyalties",
-    "author": "Galsworthy, John, 1867-1933",
-    "gutenbergReference": "4765",
-    "hash": "5c88c4b3e04d57444698f57755e67ceb9da5d8e2320d92704a09e92a13039d9e"
+    "title": "The Landleaguers",
+    "author": "Trollope, Anthony, 1815-1882",
+    "gutenbergReference": "30606",
+    "hash": "05a76b02d5c25035e6e42a80bcfacf33da650dfc1de43c8ee08c8748cea01063"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "On another occasion, having a spare hour before lunch, I started out afoot from the ranch house at ",
+    "quoteTime": "five minutes past eleven",
+    "quoteLast": ", found my quail within a quarter mile, had luck in scattering them, secured my limit of twenty-five, and was back at the house at twelve twenty-five!",
+    "title": "The Killer",
+    "author": "White, Stewart Edward, 1873-1946",
+    "gutenbergReference": "16589",
+    "hash": "bfe284184196839f8a25dec36884a3c7a1e69051343c025451b6fe700c6c1423"
   },
   {
     "time": "23:05",
     "quoteFirst": "At ",
     "quoteTime": "five minutes past eleven",
-    "quoteLast": " on the sixth day as the steamer departed from Messina, the professor, his wife and his niece began to cry.",
-    "title": "Castellinaria, and Other Sicilian Diversions",
-    "author": "Jones, Henry Festing, 1851-1928",
-    "gutenbergReference": "25077",
-    "hash": "cb8849723e3742cb1ca3d3988232c2b8a93fcb60b74bb4b92cf59f5c34ce296c"
+    "quoteLast": ", a red rocket went up.",
+    "title": "The Woman of Mystery",
+    "author": "Leblanc, Maurice, 1864-1941; Matzke, Albert [Illustrator]",
+    "gutenbergReference": "34931",
+    "hash": "2c95ec2e25354e9e1bbc618ff1f54986a94df5724201852b7af39d576da348b7"
   },
   {
     "time": "23:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past eleven",
-    "quoteLast": " Carvalho's words of command had ceased echoing through the cloisters, and the men's heels were already resounding on the stones outside.  Some one threw open the western doors of the chapel, and a wave of warm air, heavy with the scent of orange-blossom, surged into the cool dimness to mingle itself with the lingering fragrance of the incense.  The captain looked out.",
-    "title": "Antonio",
-    "author": "Oldmeadow, Ernest, 1867-1949",
-    "gutenbergReference": "74116",
-    "hash": "60ed7687be8caa96b5c3836b20167b0ab585ca4373fa89ccad740420c8c08619"
+    "quoteFirst": "_] ",
+    "quoteTime": "Five minutes past eleven",
+    "quoteLast": ".",
+    "title": "The Easiest Way\r\nRepresentative Plays by American Dramatists: 1856-1911",
+    "author": "Walter, Eugene, 1874-1941",
+    "gutenbergReference": "13050",
+    "hash": "188eef7d008f86ae9feaf02ba97d7902c2808b9b0bfd8d5eff343542c6aae3e2"
   },
   {
     "time": "23:05",
-    "quoteFirst": "It lies buried, I imagine, somewhere on the moor.  The clothes, though sodden, were, however, still recognisable, also the unfortunate man's wrist watch which had stopped at ",
-    "quoteTime": "five minutes past eleven",
-    "quoteLast": ", his cuff-links, and his signet ring, which had fallen from his fleshless finger and lay beside it in the 'gruff.'",
-    "title": "Unravelled Knots",
-    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-    "gutenbergReference": "68237",
-    "hash": "2247c599aaf17bc5d235a94f2a509a2c62c32b4a0c234e2f9b88d863f13ee943"
-  },
-  {
-    "time": "23:05",
-    "quoteFirst": "\"That's very strange,\" said Robert Daventry. He looked at the clock upon the mantel-shelf. It was ",
+    "quoteFirst": "It was ",
     "quoteTime": "five minutes past eleven",
     "quoteLast": ".",
-    "title": "The Turnstile",
-    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
-    "gutenbergReference": "38689",
-    "hash": "f12c18956b9886ae138e719b865043a7159c8a82d1b6567f0e3e82f4a664a37f"
+    "title": "Crump folk going home",
+    "author": "Holme, Constance, 1880-1955",
+    "gutenbergReference": "74603",
+    "hash": "865be7e289d208bdb9aaec8781ffa67d2450666ae6ad10da44ca26e316c93217"
   }
 ]

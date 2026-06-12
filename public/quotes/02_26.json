@@ -1,12 +1,12 @@
 [
   {
     "time": "02:26",
-    "quoteFirst": "During injection, the vehicle was being tracked by Ascension, telemetry ship Twin Falls Victory, and Pretoria. Telemetry ship Whiskey secured the spacecraft signal just after injection and tracked until ",
+    "quoteFirst": "Telemetry ship Whiskey secured the spacecraft signal just after injection and tracked until ",
     "quoteTime": "2:26 a.m.",
-    "quoteLast": "",
+    "quoteLast": " Pretoria began its telemetry track at 2:21 and continued to track for almost two hours, until 4:19 a.m.",
     "title": "Mariner Mission to Venus",
     "author": "Jet Propulsion Laboratory (U.S.)",
     "gutenbergReference": "54585",
-    "hash": "9ac75e84d9f8cabc6bb14aacbb84a2bf2007e9d6d6aee8b3d8c5cba0ff977987"
+    "hash": "394021e93a81f7930b61f1f628a0348f41c4a807c2d4c508837c353afbf099f6"
   }
 ]

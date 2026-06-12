@@ -1,13 +1,13 @@
 [
   {
     "time": "07:47",
-    "quoteFirst": "As the flux tube results were received, champagne bottles began to pop in the particles and fields science offices, in celebration of the successful passage through the inner magnetosphere. Meanwhile, at ",
+    "quoteFirst": "Meanwhile, at ",
     "quoteTime": "7:47 a.m.",
-    "quoteLast": ", closest approach to Io occurred, at a range of only 22 000 kilometers. Voyager was 25 000 times closer to this satellite than were the watchers on Earth.",
+    "quoteLast": ", closest approach to Io occurred, at a range of only 22 000 kilometers.",
     "title": "Voyage to Jupiter",
     "author": "Morrison, David, 1940-; Samz, Jane",
     "gutenbergReference": "58915",
-    "hash": "c649139dcf895b1d5d72e3bc374c5f5aad6a5baa13f6225e857958a71d9502b9"
+    "hash": "edfb73c830abbe27132abb24f0e46b182dc60d65e8d73caf8e1558d41b8834f1"
   },
   {
     "time": "07:47",
@@ -21,22 +21,12 @@
   },
   {
     "time": "07:47",
-    "quoteFirst": "Our road across the valley led past Surkhabad over a river crossed by a masonry bridge of five arches, and then by Shivím to the city, where we found accommodation in the post-house. We arrived at ",
+    "quoteFirst": "We arrived at ",
     "quoteTime": "7.47 A.M.",
-    "quoteLast": ", and at this hour the thermometer rose to 71° Fah. At daybreak on the march it was so low as 48° Fah.",
+    "quoteLast": ", and at this hour the thermometer rose to 71° Fah.",
     "title": "From the Indus to the Tigris",
     "author": "Bellew, H. W. (Henry Walter), 1834-1892",
     "gutenbergReference": "74127",
-    "hash": "516ca0f6bc2e78a1b477b2b480222735cb10999c55cdcd1e62cc06cf17a4dd91"
-  },
-  {
-    "time": "07:47",
-    "quoteFirst": "",
-    "quoteTime": "7:47 A.M.",
-    "quoteLast": "",
-    "title": "Project Cyclops",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34319",
-    "hash": "8e989093852df8fe184b25f5df3c9e5288a18ff07bdaec163f33be2ee032f28f"
+    "hash": "1861d319f1f7672349e5c0ed06c09ebb503c50633e51ac0fe9f23e1e2119dac3"
   }
 ]

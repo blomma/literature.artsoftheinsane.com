@@ -1,32 +1,22 @@
 [
   {
     "time": "06:36",
-    "quoteFirst": "Phases for the month occur in the following order and time (Washington mean time): First quarter on the 2d at 4:09 p. m.; full moon on the 10th at ",
+    "quoteFirst": "; full moon on the 10th at ",
     "quoteTime": "6:36 a. m.",
-    "quoteLast": "; last quarter on the 18th at 10:46 a. m.; new moon on the 25th at 9:49 a. m. It is also on the meridian on the 1st, 15th and 30th, at 5:18 p. m., 3:38 a. m., 5:03 p. m. respectively.",
+    "quoteLast": "; last quarter on the 18th at 10:46 a.",
     "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55134",
-    "hash": "a10f2c1d1ae1e5ff032570562fa52528d6d77e8f4946e6ec3277dc73d9298a6b"
+    "hash": "440298e62e7bf703d18f838f38033bd1e39177942c193143d2af6a5ef43eb8a3"
   },
   {
     "time": "06:36",
-    "quoteFirst": "Body will be darkened, as the 12th represents: and at ",
+    "quoteFirst": "At 31 Minutes after 6, so much of the Sun's Body will be darkened, as the 12th represents: and at ",
     "quoteTime": "36 past 6",
     "quoteLast": ", will be the greatest darkness, when only a small thread of Light will be seen at _London_, on the upper part of the _Sun_ as the 13th Scheme informs; but to all the Southern parts of the Kingdom, it will be totally darkened.",
     "title": "The Pictorial Press: Its Origin and Progress",
     "author": "Jackson, Mason, 1819-1903",
     "gutenbergReference": "36417",
-    "hash": "c64f8108b590007cfb419cd985786f109d41acd72b42b7d8e096d83daa0fd4aa"
-  },
-  {
-    "time": "06:36",
-    "quoteFirst": "",
-    "quoteTime": "6:36 A.M.",
-    "quoteLast": "",
-    "title": "Project Cyclops",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34319",
-    "hash": "0376e8b96b696731576662a1fab663476631c02e580b0f68f4b1f635651719a3"
+    "hash": "26b705806397897adcec5799537153a330ac2cddcb72d83b31f8a39dcfc2e594"
   }
 ]

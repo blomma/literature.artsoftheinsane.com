@@ -1,42 +1,32 @@
 [
   {
     "time": "00:19",
-    "quoteFirst": "Andover                   \"   ",
+    "quoteFirst": "0       ----       ----     Chard                   \"    ----       2.55       ----     Yeovil                  \"    ----       4.30       ----     SALISBURY               \"    ----       8.50       ----   Andover                   \"   ",
     "quoteTime": "12.19 a.m.",
-    "quoteLast": " 11. 0       ---- Bagshot                   \"    4. 2       ----       ---- Collumpton              \"    ----       ----      11.",
+    "quoteLast": " 11.",
     "title": "An Old Coachman's Chatter, with Some Practical Remarks on Driving",
     "author": "Corbett, Edward, 1817-1895; Sturgess, J. (John), 1839-1903 [Illustrator]",
     "gutenbergReference": "43895",
-    "hash": "a5330e0a372ac02b138c43361c9a64adea44815678bb04629769c63c2efd302c"
+    "hash": "aac2ed17ab03ee321ab203b5fdf1a8e2d789b41da6fef21a97295a66cddd5ec5"
   },
   {
     "time": "00:19",
-    "quoteFirst": "They’d been discussing the matter for some time when Pentecost stopped them with a quick motion of his hand and sat listening. After a moment he glanced at his watch. The time was ",
+    "quoteFirst": "The time was ",
     "quoteTime": "nineteen minutes after twelve",
     "quoteLast": ".",
     "title": "The astounding crime on Torrington Road",
     "author": "Gillette, William, 1853-1937",
     "gutenbergReference": "75646",
-    "hash": "4243c8a326382af0952b47e7576701d97bc308f3f37d235ff29ae58501dfc243"
+    "hash": "8caacac073b63a16d17de24658ba2b74e03034ce5e693ab3e90fe259e912f4c7"
   },
   {
     "time": "00:19",
-    "quoteFirst": "Will be evening star during the month, rising on the 1st at 11:24 in the forenoon, and setting next morning at 1:14; on the 15th, rising at 10:29 a. m., and setting on the 16th at ",
+    "quoteFirst": ", and setting on the 16th at ",
     "quoteTime": "12:19 a. m.",
-    "quoteLast": "; and on the 29th, rising at 9:35 a. m., and setting at 11:25 the same evening. Its diameter is 2.6″. Motion direct, amounting to 16′ 56″ of arc. On the 4th, at 6:33 a. m.",
+    "quoteLast": "; and on the 29th, rising at 9:35 a.",
     "title": "The Chautauquan, Vol. 04, February 1884, No. 5.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55132",
-    "hash": "1aaf0883ea2b32e04afee9d577beb28b4f8f56e732b53df3d0281bc5874a0524"
-  },
-  {
-    "time": "00:19",
-    "quoteFirst": "",
-    "quoteTime": "12:19 A.M.",
-    "quoteLast": "",
-    "title": "Project Cyclops",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34319",
-    "hash": "5529d7c20c0708191e3cfb607dc9dedcf56045e360267b415936fcb57ece8e33"
+    "hash": "a2a782933ce6bdfaecd1b7784d109569ec479e92522e8a1264514cef3c6b0433"
   }
 ]

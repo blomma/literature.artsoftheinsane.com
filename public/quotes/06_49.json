@@ -1,32 +1,22 @@
 [
   {
     "time": "06:49",
-    "quoteFirst": "",
-    "quoteTime": "6:49 A.M.",
-    "quoteLast": "",
-    "title": "Syndrome",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34321",
-    "hash": "4e44f7b4f7fb36c30a383e7f63078a01d20f744d1b33500f858184b8e5a415bc"
-  },
-  {
-    "time": "06:49",
     "quoteFirst": "It was ",
     "quoteTime": "eleven minutes to seven",
-    "quoteLast": ". Nevertheless, Arthur felt the pincers, and the feel of the pincers made him look at his watch.",
+    "quoteLast": ".",
     "title": "The Matador of the Five Towns and Other Stories",
     "author": "Bennett, Arnold, 1867-1931",
     "gutenbergReference": "12995",
-    "hash": "0aed92ca4141358207b51450b4d41c200bd912d45ed9725837874aece69baa34"
+    "hash": "0d774de1ffe5f57ce11f995c2f1c5c9b18ba6715cc4aa333a6c117e210469bba"
   },
   {
     "time": "06:49",
-    "quoteFirst": "Bulb 6.39 to ",
+    "quoteFirst": "Black Bulb 6.39 to ",
     "quoteTime": "6.49 a.m.",
-    "quoteLast": "",
+    "quoteLast": " 6.51 to 7.01 a.m. 7.56 to 8.06 a.m. 8.08 to 8.21 a.m. 9.26 to 9.36 a.m. 9.37 to 9.47 a.m. 10.57 to 11.07 a.m. 11·2 13·4 18·4",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "31900c6b8e3a4f3e9380a5d523162a3294fc7432123e9c361fbfe6673416edc2"
+    "hash": "f216b41c04a775e21606eb7a75f4652fa21a6e183cafd3947d0ecdd3591e3686"
   }
 ]

@@ -11,23 +11,23 @@
   },
   {
     "time": "11:42",
-    "quoteFirst": "_The special train leaves Grand Central Station for Glenville at ",
+    "quoteFirst": "_The special train leaves     Grand Central Station for Glenville     at ",
     "quoteTime": "11:42 A.M.",
-    "quoteLast": "",
+    "quoteLast": "     Leaves Glenville for Grand Central Station     at 6:10 P.M.     Please present this card at station door_",
     "title": "Book of Etiquette, Volume I",
     "author": "Watson, Lillian Eichler, 1902-",
     "gutenbergReference": "35975",
-    "hash": "ad4b8f651d4630d61a772f9a9c2ddc248e5104017f233a5df6d51ae45366e30a"
+    "hash": "f58a3b7f666ad131124774993a907c95043d9272e06ea52e668362116cd79ca8"
   },
   {
     "time": "11:42",
-    "quoteFirst": "The type is known as a \"regulator\" clock, with the twenty-four-hour dial and other additions appertaining to the astronomical clock. The illustration shows the time to be: Greenwich, 11.42 (i.e. ",
+    "quoteFirst": "",
     "quoteTime": "42 minutes past 11",
-    "quoteLast": " o'clock); Bristol, 11.32 (i.e. 10 minutes difference). The clock has a mercury pendulum. There was a somewhat similar clock constructed by Dell, of Bristol.",
+    "quoteLast": " o'clock); Bristol, 11.32 (i.",
     "title": "Chats on Old Clocks",
     "author": "Hayden, Arthur, 1868-1946",
     "gutenbergReference": "45772",
-    "hash": "1f5698da0ffb36fffbb571926bb255b039f7985685ff8cdf6163fb31b3b90695"
+    "hash": "c65a3f25ee83062e09061841944ecfe3d6fa2d12255bb640143a2d95646e9c16"
   },
   {
     "time": "11:42",

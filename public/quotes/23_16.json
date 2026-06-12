@@ -1,52 +1,12 @@
 [
   {
     "time": "23:16",
-    "quoteFirst": "",
-    "quoteTime": "11:16 P.M.",
-    "quoteLast": "",
-    "title": "Syndrome",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34321",
-    "hash": "ee05f7d6d19a70b7767182da7af47229ec67c123b9a45908f90588019e2be162"
-  },
-  {
-    "time": "23:16",
-    "quoteFirst": "On the 1st, he rises at 10:34 a. m., and on the 2d sets at 12:06 a. m.; on the 16th, rises at 9:50 a. m., and sets at ",
+    "quoteFirst": ", and sets at ",
     "quoteTime": "11:16 p. m.",
     "quoteLast": "; and on the 30th, rises at 9:03 a.",
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "hash": "edb6f1573428b803a8c4111dc97455f8a00500c70c3a2b6e1f2c66b005a16c5f"
-  },
-  {
-    "time": "23:16",
-    "quoteFirst": "",
-    "quoteTime": "11:16 P.M.",
-    "quoteLast": "",
-    "title": "Knock three-one-two",
-    "author": "Brown, Fredric, 1906-1972",
-    "gutenbergReference": "70944",
-    "hash": "ec966903fe8f84e5c35951ceaf2ba9319bec6a43a65d1d035c0944a8eda8b79d"
-  },
-  {
-    "time": "23:16",
-    "quoteFirst": "",
-    "quoteTime": "11:16 P.M.",
-    "quoteLast": "",
-    "title": "Project Cyclops",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34319",
-    "hash": "a4643b7276330777a1bbee1f53f74eee65036aa3f4f8fb2b1f1c68ef01f33426"
-  },
-  {
-    "time": "23:16",
-    "quoteFirst": "",
-    "quoteTime": "11:16 P.M.",
-    "quoteLast": "",
-    "title": "Project Cyclops",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34319",
-    "hash": "a4643b7276330777a1bbee1f53f74eee65036aa3f4f8fb2b1f1c68ef01f33426"
+    "hash": "2602724253e2036023405ecb4c5308ed22688741ff81e09fe69480ac878cc192"
   }
 ]

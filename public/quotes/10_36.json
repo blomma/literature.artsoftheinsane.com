@@ -1,13 +1,13 @@
 [
   {
     "time": "10:36",
-    "quoteFirst": "Lv. 7:00 A.M.  Lv. 1:10 P.M.    .0  Silverton     Ar. 11:10 A.M. Ar. 5:20 P.M. 7:34 A.M.      1:44 P.M.   5.0  Burro Bridge      ",
+    "quoteFirst": "5:20 P.M.      7:34 A.M.      1:44 P.M.   5.0  Burro Bridge      ",
     "quoteTime": "10:36 A.M.",
-    "quoteLast": "     4:46 P.M.",
+    "quoteLast": "     4:46 P.M.      7:49 A.M.      1:59 P.M.   7.5  Chattanooga       10:21 A.M.     4:31 P.M.      8:11 A.M.      2:21 P.M.  12.5  Summit            9:58 A.M.      4:09 P.M.      8:25 A.M.      2:35 P.M.  15.0  Red Mountain      9:50 A.M.      4:00 P.M.      8:26 A.M.      2:36 P.M.  15.5  Vanderbilt        9:44 A.M.      3:54 P.M.      8:27 A.M.      2:37 P.M.  16.0  Yankee Girl       9:43 A.M.      3:53 P.M.      8:45 A.M.      2:55 P.M.  17.0  Paymaster         9:25 A.M.      3:35 P.M.  Ar.",
     "title": "Three little lines",
     "author": "Crum, Josie Moore, 1888-1972",
     "gutenbergReference": "62664",
-    "hash": "23f46d996fb8c90b4c5ce52eea748e732c0d8270ed61403c02219e158a36e18c"
+    "hash": "4d1df955df3ed1ebd1ae3c7ec9829277abaea949d6a329c191b44452b1147cdb"
   },
   {
     "time": "10:36",
@@ -23,20 +23,20 @@
     "time": "10:36",
     "quoteFirst": "Yarmouth was reached at ",
     "quoteTime": "10.36 a.m.",
-    "quoteLast": ", the 96 miles from Ramsgate having been traversed in 1 hour 28 minutes through the aid of a southerly breeze. Mooring their machine, Harry and Kauper went on board the boat of an Australian friend, Mr. A.",
+    "quoteLast": ", the 96 miles from Ramsgate having been traversed in 1 hour 28 minutes through the aid of a southerly breeze.",
     "title": "H. G. Hawker, airman: his life and work",
     "author": "Hawker, Muriel; Moore-Brabazon, John Theodore Cuthbert, 1884-1964 [Author of introduction, etc.]",
     "gutenbergReference": "64793",
-    "hash": "73304977cd2a7bff042bacb616d7b50af2e61e4b9b1dd8a001335ec0d874e107"
+    "hash": "1b3e365ad02c3060d4c8c8f5791ef3f096fc3399122468486cd256ce6cb8ed0e"
   },
   {
     "time": "10:36",
-    "quoteFirst": "On the 16th, it rises at 5:31 a. m.; on the 1st, it sets at 4:18 a. m.; and on the 30th, sets at 4:11 a. m. Is nearest the earth on the 4th, at ",
+    "quoteFirst": "Is nearest the earth on the 4th, at ",
     "quoteTime": "10:36 a. m.",
-    "quoteLast": ", and farthest away on the 19th, at 9:12 p. m. The sun and moon play an important part, in fact, are the sole cause, as is believed, of a singular phenomenon observable in our largest bodies of water.",
+    "quoteLast": ", and farthest away on the 19th, at 9:12 p.",
     "title": "The Chautauquan, Vol. 05, November 1884, No. 2",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55241",
-    "hash": "0c79dcc001797c6877c63a0b3392c364731fad9be85f63923dfa837581b437a7"
+    "hash": "15c8714213152f0e1b47c478159efd6b23d08059a960fb15eccc0b3ee0285e59"
   }
 ]

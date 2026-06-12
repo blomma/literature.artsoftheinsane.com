@@ -1,32 +1,32 @@
 [
   {
     "time": "00:32",
-    "quoteFirst": "40   „ 25 Redbourne                                           „   10.44  „ 45 Little Brickhill                                    „   ",
+    "quoteFirst": "9.40   „    25 Redbourne                                           „   10.44  „    45 Little Brickhill                                    „   ",
     "quoteTime": "12.32 A.M.",
-    "quoteLast": "",
+    "quoteLast": "   52¼ Stony Stratford                                     „   1.26   „   60¼ Towcester                                           „   2.12   „   72½ Daventry                                            „   3.25   „   80¼ Dunchurch                                           „   4.11   „   91¼ Coventry                                            „   5.18   „   100 Stonebridge                                         „    6.8   „  109¼ Birmingham                                       { arr.",
     "title": "The Holyhead Road: The Mail-coach Road to Dublin. Vol. 1",
     "author": "Harper, Charles G. (Charles George), 1863-1943",
     "gutenbergReference": "58671",
-    "hash": "5e86511154dd10db2e679d6ff81062de35f9ce82a47c8e218439c399c4352ec5"
+    "hash": "4db7989d5dae495f0eaaaf415631ed4af4656db1feeaf3e6a2522ee46b979a12"
   },
   {
     "time": "00:32",
-    "quoteFirst": "Melbourn             ",
+    "quoteFirst": "London (G.P.O.)       8.0  p.m.   Wade's Mill          10.32  \"   Buckland             11.43  \"   Melbourn             ",
     "quoteTime": "12.32 a.m.",
-    "quoteLast": "",
+    "quoteLast": "   Cambridge             1.36  \"   Ely                   3.31  \"   Brandon Creek         4.27  \"   Downham Market        5.21  \"   Lynn                  6.33  \"   Wells                10.43  \"",
     "title": "The Cambridge, Ely, and King's Lynn Road: The Great Fenland Highway",
     "author": "Harper, Charles G. (Charles George), 1863-1943",
     "gutenbergReference": "60205",
-    "hash": "1ae18957607e7c21678322fb0affa38031feb868c661aaf20f5fd4a090559ee6"
+    "hash": "599620cb4533df973330fbd252a86cfbbf0b0b6acbb83f1cce88b1579941a6eb"
   },
   {
     "time": "00:32",
-    "quoteFirst": "thirty-five minutes, from the time the boat came alongside, when observing a flag of truce on shore, but that troops were assembling in considerable numbers in the streets, and on the quays, and that the inhabitants were busily employed in dismantling the vessels; I hauled down the flag of truce, and fired one shot over the town to give warning to the women and children; and shortly after made the signal to commence firing, which was instantly obeyed by the ships and boats. At ",
+    "quoteFirst": "At     ",
     "quoteTime": "thirty-two minutes after twelve",
-    "quoteLast": ", observing several flags of truce hung out in the town, I made the signal to cease firing, and Lieutenant Willes pushed into the harbour with the boats, when he was informed that the Commander had made his escape with all the military.",
+    "quoteLast": ", observing several flags of     truce hung out in the town, I made the signal to cease firing,     and Lieutenant Willes pushed into the harbour with the boats,     when he was informed that the Commander had made his escape     with all the military.",
     "title": "Memoir of the Life and Services of Vice-Admiral Sir Jahleel Brenton, Baronet, K.C.B.",
     "author": "Raikes, Henry, 1782-1854 [Editor]",
     "gutenbergReference": "58746",
-    "hash": "75e5e35e7d1d266427c6e4d01ef88d4296f69ef99ded63cabf09581bdbdc2bfa"
+    "hash": "5c6753e3755cc64e750294dacf09127e36a54d41c12f288ec982be66ea581d14"
   }
 ]

@@ -1,32 +1,22 @@
 [
   {
     "time": "19:28",
-    "quoteFirst": "He will on the 1st rise at 4:34 a. m. and set at 7:33 p. m.; on the 16th, rise at 4:43 a. m., set at ",
+    "quoteFirst": ", set at ",
     "quoteTime": "7:28 p. m.",
-    "quoteLast": "; and on the 30th, rise at 4:56 a. m., and set at 7:17 p. m.",
+    "quoteLast": "; and on the 30th, rise at 4:56 a.",
     "title": "The Chautauquan, Vol. 05, July 1885, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55444",
-    "hash": "0e044230cd465f43d13749d8d1cdd87db4084f46285cb221ef0d54dc88b3121e"
+    "hash": "53689c08d5089701862d01918123747f9a3d97bbd6d549160f4da13df2414f61"
   },
   {
     "time": "19:28",
     "quoteFirst": "Is evening star, setting at 9:24, 8:32 and ",
     "quoteTime": "7:28 p. m.",
-    "quoteLast": " on the 1st, 15th and 30th, respectively. Its motion, 1° 2′ 37″, is direct. Diameter, 2.6″. On the 21st, at 2:00 a. m.",
+    "quoteLast": " on the 1st, 15th and 30th, respectively.",
     "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55134",
-    "hash": "c2a6b640ababd1bdaa3723a3e308c09f17f5e1bf9f513edc4344afbef3a87d52"
-  },
-  {
-    "time": "19:28",
-    "quoteFirst": "",
-    "quoteTime": "7:28 P.M.",
-    "quoteLast": "",
-    "title": "Project Cyclops",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34319",
-    "hash": "088ea59393799ac63e7fc5163cdd84dec22e4a022e6d098cf578abdccd57c32b"
+    "hash": "0ab5d5d54093af5f6ad4ea1f416f32c1dba005af5826742afe0f445180502e3b"
   }
 ]

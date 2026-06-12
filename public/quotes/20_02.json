@@ -1,6 +1,96 @@
 [
   {
     "time": "20:02",
+    "quoteFirst": "We dined ",
+    "quoteTime": "about 8 P. M.",
+    "quoteLast": ", in a fine large hotel owned by the railroad company at a station called \"Glacier,\" for it is right at the foot of one of the most gigantic glaciers of the Selkirks, and many tourists tarry here to see it and climb upon it; Swiss guides being provided by the railway company for these adventures.",
+    "title": "In to the Yukon",
+    "author": "Edwards, William Seymour, 1856-1915",
+    "gutenbergReference": "42611",
+    "hash": "bc78c33a4174f38fb1b566586b4faaa71e670e5a5c1e9a3e25fda95bbd9b3600"
+  },
+  {
+    "time": "20:02",
+    "quoteFirst": "",
+    "quoteTime": "About eight o'clock in the evening",
+    "quoteLast": ", the time which mariners call eight-bells, I was standing beside the captain on the main deck, and he was pointing out a cluster of houses on the shore which he told me was the fishing village of Margate, when we were aware of a commotion in the fore-part of the vessel.",
+    "title": "Palm Tree Island",
+    "author": "Strang, Herbert; Webb, Archibald, 1887-1944 [Illustrator]; Wright, Alan, 1864-1959? [Illustrator]",
+    "gutenbergReference": "37418",
+    "hash": "e8f4b3c0413cc611f303a35e533bcd730e31664b8f5ca3ee69e2363a805f6551"
+  },
+  {
+    "time": "20:02",
+    "quoteFirst": "I saw Lingg and Seliger at Seliger’s house, Tuesday, May  4, at ",
+    "quoteTime": "about 8 P.M.",
+    "quoteLast": ", and 9:30 P.M. I saw them together at Larrabee  Street.",
+    "title": "Anarchy and Anarchists\r\nA History of the Red Terror and the Social Revolution in America and Europe; Communism, Socialism, and Nihilism in Doctrine and in Deed; The Chicago Haymarket Conspiracy and the Detection and Trial of the Conspirators",
+    "author": "Schaack, Michael J.",
+    "gutenbergReference": "52811",
+    "hash": "a59a61202e1f868a2f0dc0ed55d89224c9a4539dbdeb1a9c2e4534b4c73cef74"
+  },
+  {
+    "time": "20:02",
+    "quoteFirst": "I reached the shore at last, ",
+    "quoteTime": "about eight o'clock in the evening",
+    "quoteLast": ", and advanced nearly half a mile inland, but could not discover any sign of inhabitants.",
+    "title": "Every Girl's Library, Volume 8 of 10\r\nA Collection of Appropriate and Instructive Reading for Girls of All Ages from the Best Authors of All Time",
+    "author": "Fitzhugh, Percy Keese, 1876-1950 [Editor]",
+    "gutenbergReference": "40063",
+    "hash": "f4cf43f9c76a3b4cd0bf56294700d6758d1efffe0862ef114ab443bd7cf66ab6"
+  },
+  {
+    "time": "20:02",
+    "quoteFirst": "We breakfasted at Mola, and arrived at Terracina ",
+    "quoteTime": "about eight in the evening",
+    "quoteLast": ", after a considerable detention at Fondi, by custom-house officers, and which was repeated on entering the papal territories; throughout the Neapolitan states, we passed numerous parties of Austrian soldiers posted on the road.",
+    "title": "The narrative of a journey undertaken in the years 1819, 1820 and 1821 through France, Italy, Savoy, Switzerland, parts of Germany bordering on the Rhine, Holland and the Netherlands",
+    "author": "Holman, James, 1786-1857",
+    "gutenbergReference": "71556",
+    "hash": "114529b6fd0a24d7e9f91900b1a01a9dccc7b32fb503462355d14b63e4b92846"
+  },
+  {
+    "time": "20:02",
+    "quoteFirst": "",
+    "quoteTime": "about 8 P.M.",
+    "quoteLast": " in the Course of this day I purchased 4 horses at the town & Capt Lewis purchased one.",
+    "title": "The Journals of Lewis and Clark, 1804-1806",
+    "author": "Lewis, Meriwether, 1774-1809; Clark, William, 1770-1838",
+    "gutenbergReference": "8419",
+    "hash": "2716b8a748607344ce549dafb3e9f14b266218ab34f3068f844eae27c68679d8"
+  },
+  {
+    "time": "20:02",
+    "quoteFirst": "",
+    "quoteTime": "About 8 P.M.",
+    "quoteLast": " it ranged between ninety-five and one hundred miles per hour, and now the whole hut is tremulous and the stove-pipe vibrates so that the two large pots on the stove rattle.\"",
+    "title": "The Home of the Blizzard\r\nBeing the Story of the Australasian Antarctic Expedition, 1911-1914",
+    "author": "Mawson, Douglas, Sir, 1882-1958",
+    "gutenbergReference": "6137",
+    "hash": "b89cd3f1b5e57f01cb6f00004bfac14e84e911daf5f69d25bd763084c328fe9a"
+  },
+  {
+    "time": "20:02",
+    "quoteFirst": "",
+    "quoteTime": "About 8 p.m.",
+    "quoteLast": " one squadron of the 15th Hussars (two troops) was ordered on duty to form part of a strong night picket, the other part of which consisted of two companies of the 88th Regiment.",
+    "title": "Three Accounts of Peterloo by Eyewitnesses\r\nBishop Stanley, Lord Hylton, John Benjamin Smith; with Bishop Stanley's Evidence at the Trial",
+    "author": "Bruton, F. A. (Francis Archibald), 1860-1929 [Editor]; Hylton, William George Hylton Jolliffe, Sir, 1st Baron, 1800-1876; Smith, J. B. (John Benjamin), 1794-1879; Stanley, Edward, 1779-1849",
+    "gutenbergReference": "37004",
+    "hash": "f4ed3ccef4e3e6fea53b2d8c3d5242212419e2572058b52eeb8f189e6c692a1f"
+  },
+  {
+    "time": "20:02",
+    "quoteFirst": "At sun-set, the farthest point of the main bore N. 48 W., and to the northward of this lay some high land, which I took to be an island, and of which the north-west point bore 41 W.; but not being sure of a passage, I came to an anchor ",
+    "quoteTime": "about eight o’clock in the evening",
+    "quoteLast": ", in ten fathom water, with a muddy bottom.",
+    "title": "The Three Voyages of Captain Cook Round the World. Vol. II. Being the Second of the First Voyage",
+    "author": "Cook, James, 1728-1779; Banks, Joseph, 1743-1820 [Contributor]; Hawkesworth, John, 1715?-1773 [Editor]",
+    "gutenbergReference": "57152",
+    "hash": "36222f718fceabb9855adde820ccaade0b9d4eb6b3d5675686d1753501a68394"
+  },
+  {
+    "time": "20:02",
     "quoteFirst": "",
     "quoteTime": "8:02 P. M.",
     "quoteLast": " Arrived at buoy; proceeded to moor ship.",
@@ -8,95 +98,5 @@
     "author": "U.S.S. Leviathan History Committee",
     "gutenbergReference": "59699",
     "hash": "302ab4fa23d9aa5eaf1b4e036f5ef620720c82e21844d800350a714e35d39c19"
-  },
-  {
-    "time": "20:02",
-    "quoteFirst": "We reached Charleston ",
-    "quoteTime": "about eight o'clock in the evening",
-    "quoteLast": ". My father-in-law met us, and after a warm greeting to the little stranger and ourselves, said, \"You are just in time to see the fight at Fort Sumter, for it begins to-night.\" I was terrified and begged to be taken home, but there was no train until morning and, therefore, we had to remain.",
-    "title": "Old Plantation Days: Being Recollections of Southern Life Before the Civil War",
-    "author": "De Saussure, N. B. (Nancy Bostick), 1837-1915",
-    "gutenbergReference": "40767",
-    "hash": "6f5421c3c7f41c7cf4d368f6115296df1d8974ae8950a1b6dcc2ffd4c17f34ee"
-  },
-  {
-    "time": "20:02",
-    "quoteFirst": "We arrived at Turin ",
-    "quoteTime": "about eight o’clock in the evening",
-    "quoteLast": ", and found quarters in the Ligurie, a large, new, first–class hotel, not far from the station. The double windows, thick shutters, and the cloth curtains outside the bedroom doors, were suggestive of what descent in temperature there may sometimes be in Turin; but except a little cold and damp in the evening, resulting from the rain which had fallen before our arrival, we had it warm and sunny during the three days we remained there.",
-    "title": "Wintering in the Riviera\r\nWith Notes of Travel in Italy and France, and Practical Hints to Travellers",
-    "author": "Miller, William James, 1850-",
-    "gutenbergReference": "47463",
-    "hash": "e09f3a5aa7abcf84192986b9ec0c70f22e33719952e3888ee6cdb1cd38feb03b"
-  },
-  {
-    "time": "20:02",
-    "quoteFirst": "\"A curious chapter of accidents happened in Northumberland Avenue yesterday. Early in the morning, Mr. Robert Hume-Frazer quitted his hotel for a stroll in the West End, and narrowly escaped being run over in Whitehall. ",
-    "quoteTime": "About 8 p.m.",
-    "quoteLast": " his cousin, Mr. David Hume-Frazer, was driving through the Avenue in a hansom, when the vehicle upset, and the young gentleman was thrown out. He was picked up in a terrible condition, and is reported to be in danger of his life.",
-    "title": "The Stowmarket Mystery; Or, A Legacy of Hate",
-    "author": "Tracy, Louis, 1863-1928",
-    "gutenbergReference": "14853",
-    "hash": "bdb9de025fa4eb7074590fabcb3e8f07fd765078883f14d6a7efe47ffc3461ad"
-  },
-  {
-    "time": "20:02",
-    "quoteFirst": "when on being relieved by General W. F. Smith's command, we at once started for Petersburg about eight miles away to rejoin the Army of the Potomac, crossing the Appomattox river on the pontoon bridge, and arriving at the outer works ",
-    "quoteTime": "about 8 o'clock p. m.",
-    "quoteLast": " where we bivouaced. Generals Grant and Butler rode along the lines together at Bermuda Hundred this afternoon. It was my first sight of Butler; queer-looking man; his beauty won't kill him.",
-    "title": "Personal Recollections and Civil War Diary, 1864",
-    "author": "Abbott, Lemuel Abijah, 1842-1911",
-    "gutenbergReference": "47332",
-    "hash": "207dc9f94ec0579e6fb99fe0fe264609bc6b9e80fa99767f599c1062f8795ba6"
-  },
-  {
-    "time": "20:02",
-    "quoteFirst": "Then, the gale abating and the fog dispersing, revealed to us the welcome land. We were yet some miles distant, so we made all possible sail, but the wind being light and ahead, we were all that day and part of the next beating in; however, ",
-    "quoteTime": "about eight o’clock in the evening",
-    "quoteLast": " of the 8th, we ‘let go’ our anchor in Simon’s Bay.",
-    "title": "A sailor-boy's log-book from Portsmouth to the Peiho",
-    "author": "White, Walter, 1811-1893 [Editor]",
-    "gutenbergReference": "77313",
-    "hash": "f675c12e0817c2eb8c684dce5a9ceb112dd4d39a7620206f84cc34b09683d28d"
-  },
-  {
-    "time": "20:02",
-    "quoteFirst": "It was now ",
-    "quoteTime": "about eight o'clock in the evening",
-    "quoteLast": ", and the French ships, having formed in line, seemed to have no intention of avoiding us.  A feeling of pride and confidence animated the bosoms of all our crew as we stood round the short heavy guns with which our ship was armed, while advancing towards an enemy of a force apparently so overwhelming.",
-    "title": "Old Jack",
-    "author": "Kingston, William Henry Giles, 1814-1880",
-    "gutenbergReference": "23049",
-    "hash": "16e96bbf98ecebaf715ea62d5404c3a9dd1f8cdf0073566fc2707bd03a255568"
-  },
-  {
-    "time": "20:02",
-    "quoteFirst": "We started ",
-    "quoteTime": "about 8 o’clock in the evening",
-    "quoteLast": ". After travelling about three miles, we saw many horses feeding near the road, and concluding that four legs were better adapted to speed than two, we took one apiece. We went to a barn and took two blankets, but while hunting for bridles, were routed and chased some distance by the faithful watch dogs of the farm.",
-    "title": "The life of John Thompson, a fugitive slave",
-    "author": "Thompson, John, 1812-1860",
-    "gutenbergReference": "70985",
-    "hash": "93927f9952b495533c6a05ef7607cea2426be5887df92b4748bd037b99853f06"
-  },
-  {
-    "time": "20:02",
-    "quoteFirst": "cut like a knife, and we suffered from it, not only on this occasion, but every day during the whole time we were in Tibet. It begins to blow with great fierceness and regularity at one o'clock in the afternoon, and it is only at ",
-    "quoteTime": "about eight in the evening",
-    "quoteLast": " that it sometimes abates and gradually ceases. Frequently, however, the wind, instead of dropping at this time, increases in violence, blowing with terrible vehemence during the whole night.",
-    "title": "In the forbidden land",
-    "author": "Landor, Arnold Henry Savage, 1865-1924",
-    "gutenbergReference": "22210",
-    "hash": "dbd7d347e4c30ee1dc90b377a71b12ef48710b979ad1b6433f023f902328c28b"
-  },
-  {
-    "time": "20:02",
-    "quoteFirst": "It was the 3rd of May and the full moon came up in all her glory just as the sun dropped below the horizon. It seemed to us that it was as light as day, but go we must, and we did go. At ",
-    "quoteTime": "about eight o'clock p.m.",
-    "quoteLast": " Major Pretorius said, \"There is a line,\" and there it was. Cautiously we approached it, then crossed it and smiled a heavenly smile as we looked at the Tommies 600 yards away at the station, smoking, telling jokes and laughing by their camp fires.",
-    "title": "A West Pointer with the Boers\r\n",
-    "author": "Blake, John Y. Fillmore, 1856-1907",
-    "gutenbergReference": "70110",
-    "hash": "e38635e98ef158bf46d1f0fb81d438da420b90253ebf79b78a727271f1597fc4"
   }
 ]

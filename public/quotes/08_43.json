@@ -1,23 +1,23 @@
 [
   {
     "time": "08:43",
-    "quoteFirst": "Then he went into the Criterion bar and sat down. The clock showed ",
+    "quoteFirst": "The clock showed ",
     "quoteTime": "seventeen minutes to nine",
-    "quoteLast": ". His piece was advertised to start at eight-thirty precisely. The Criterion Bar is never empty, but it has its moments of lassitude, and seventeen minutes to nine is one of them.",
+    "quoteLast": ".",
     "title": "A Great Man: A Frolic",
     "author": "Bennett, Arnold, 1867-1931",
     "gutenbergReference": "29860",
-    "hash": "a3566142c833bb6f6020d561302c15d9bb0fe03d6577766688e995d683e2a156"
+    "hash": "18e1d9da0f9d5ca5ac241d7af60db45ee3b641208304b9af1d18e6f5722efe28"
   },
   {
     "time": "08:43",
-    "quoteFirst": "His piece was advertised to start at eight-thirty precisely. The Criterion Bar is never empty, but it has its moments of lassitude, and ",
+    "quoteFirst": "The Criterion Bar is never empty, but it has its moments of lassitude, and ",
     "quoteTime": "seventeen minutes to nine",
     "quoteLast": " is one of them.",
     "title": "A Great Man: A Frolic",
     "author": "Bennett, Arnold, 1867-1931",
     "gutenbergReference": "29860",
-    "hash": "1bb334f1592aef61d3665adcf6a2b4f8ad7bc3b1e6d3a91d39dec40b8a6068da"
+    "hash": "bcb0c848760d4b44c09fd316846d2b89c55851ea97bf843fdfe878441f4d391c"
   },
   {
     "time": "08:43",
@@ -41,12 +41,12 @@
   },
   {
     "time": "08:43",
-    "quoteFirst": "In the year of Her Majesty's accession (1837) there were no fewer than twenty-seven coaches running daily between Bristol and London, and twenty-seven others passed between this city and Bath every twenty-four hours. The times of the London coach were as follow: London depart 8.0 p.m., Bath 7.21 a.m., Bristol arrive ",
+    "quoteFirst": "The times of the London coach were as follow: London depart 8.0 p.m., Bath 7.21 a.m., Bristol arrive ",
     "quoteTime": "8.43 a.m.",
     "quoteLast": ", depart 6.15 p.m., arrive G.P.O. 6.58 a.m.,--a slight acceleration over 1830.",
     "title": "The Bristol Royal Mail: Post, Telegraph, and Telephone",
     "author": "Tombs, Robert Charles, 1842-1923",
     "gutenbergReference": "34197",
-    "hash": "ceb491ea3da0682d438dae60e8fdcb862e3e9e56e2b215a999605dd983ad32f8"
+    "hash": "56010eb531a00d06cdc6c883ba616a240981b8244c24a013e3d590bed2087bbf"
   }
 ]

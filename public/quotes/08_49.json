@@ -1,16 +1,6 @@
 [
   {
     "time": "08:49",
-    "quoteFirst": "",
-    "quoteTime": "8:49 A.M.",
-    "quoteLast": "",
-    "title": "Syndrome",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34321",
-    "hash": "06aca21f8672d77c7a4e8e722abc2779965a102633c38d606a75c4c9668ffa97"
-  },
-  {
-    "time": "08:49",
     "quoteFirst": "Friday ",
     "quoteTime": "8:49 A.M.",
     "quoteLast": "",
@@ -31,12 +21,12 @@
   },
   {
     "time": "08:49",
-    "quoteFirst": "I am the perfectly innocent receiver of written messages about anything between heaven and earth, while the messages which my correspondents receive from me are not always authentic. One of my psychically talented writers reports: “On May 31st at ",
+    "quoteFirst": "One of my psychically talented writers reports: “On May 31st at ",
     "quoteTime": "eight forty-nine A. M.",
-    "quoteLast": " in the midst of a thunderstorm I came into communication with Doctor Münsterberg and asked him to send me a message. He said, 'The name of my son is Wilhelm Münsterberg.",
+    "quoteLast": " in the midst of a thunderstorm I came into communication with Doctor Münsterberg and asked him to send me a message. He said, 'The name of my son is Wilhelm Münsterberg.'”",
     "title": "Psychology and Social Sanity",
     "author": "Münsterberg, Hugo, 1863-1916",
     "gutenbergReference": "25006",
-    "hash": "2ffd55045696a1584ca9ba8aa2b01b9eac9763e3bbc8fd0dade7b7d3b65eef23"
+    "hash": "fdce562c17772dff60db5cbdee452a65d40609ef836441a6542a9034855a7889"
   }
 ]

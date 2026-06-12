@@ -1,6 +1,16 @@
 [
   {
     "time": "19:17",
+    "quoteFirst": "(9) ",
+    "quoteTime": "7.17 P.M.",
+    "quoteLast": " Scheer for the third time makes “swing-around” of whole German Fleet (ships right about) to southwest, under cover of smoke screens and destroyer attacks.",
+    "title": "A True Account of the Battle of Jutland, May 31, 1916",
+    "author": "Frothingham, Thomas Goddard, 1865-1945",
+    "gutenbergReference": "47949",
+    "hash": "9bdf124c789e6ad77a0babff9b37f05e161168f2e13cb4bd1361be88d1927807"
+  },
+  {
+    "time": "19:17",
     "quoteFirst": "“At ",
     "quoteTime": "7:17 P.M.",
     "quoteLast": " the _Leipzig_ was on fire fore and aft, and the _Cornwall_ and _Glasgow_ ceased fire.",
@@ -11,33 +21,13 @@
   },
   {
     "time": "19:17",
-    "quoteFirst": "Cornwall opened fire also on the Leipzig; at ",
-    "quoteTime": "7.17 P. M.",
-    "quoteLast": " the Leipzig was on fire fore and aft, and the Cornwall and Glasgow ceased fire. The Leipzig turned over on her port side and disappeared at 9 P. M.",
-    "title": "History of the World War",
-    "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945",
-    "gutenbergReference": "18993",
-    "hash": "6dee8d274ee6483a6c2322c8e0eb5e0aa1de09b8e27329dde4d94b1af249be78"
-  },
-  {
-    "time": "19:17",
-    "quoteFirst": "P. M. the Cornwall opened fire also on the Leipzig; at ",
-    "quoteTime": "7.17 P. M.",
-    "quoteLast": " the Leipzig was on fire fore and aft, and the Cornwall and Glasgow ceased fire. The Leipzig turned over on her port side and disappeared at 9 P. M. Seven officers and eleven men were saved. At 3.36 P. M.",
-    "title": "History of the World War, Volume 2 (of 7)",
-    "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945; Hare, James H., 1856-1946 [Photographer]; Thompson, Donald C., 1885-1947 [Photographer]",
-    "gutenbergReference": "74727",
-    "hash": "af00c03f5550a60bd2a398afb196a3d1e3d0565000394e7bde252fb43d2a9a75"
-  },
-  {
-    "time": "19:17",
-    "quoteFirst": "No doubt more continued the line to the northward, but that was all that could be seen. The visibility having improved considerably as the sun descended below the clouds, we re-engaged at ",
-    "quoteTime": "7.17 p.m.",
-    "quoteLast": " and increased speed to 22 knots. At 7.32 p.m. my course was SW., speed 18 knots, the leading enemy battleship bearing NW. by W.",
-    "title": "World's War Events, Vol. II",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
-    "gutenbergReference": "25963",
-    "hash": "36350fd0f924c36d8c8387bee6bb883c8e62e9d02b5b7d75a58e81ea0932feee"
+    "quoteFirst": "At ",
+    "quoteTime": "7.17 P.M.",
+    "quoteLast": " the _Leipzig_ was on fire fore and aft, and the   _Cornwall_ and _Glasgow_ ceased fire.",
+    "title": "The Battle of the Falkland Islands, Before and After",
+    "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
+    "gutenbergReference": "50265",
+    "hash": "cf145abfc5855015202a9973dacdf7ee7f887cf95104c750a225d0b3c59a7c7d"
   },
   {
     "time": "19:17",
@@ -51,52 +41,62 @@
   },
   {
     "time": "19:17",
-    "quoteFirst": "“At ",
-    "quoteTime": "7:17 P.M.",
-    "quoteLast": " the _Leipzig_ was on fire fore and aft, and the _Cornwall_ and _Glasgow_ ceased fire.",
-    "title": "The British Navy in Battle",
-    "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
-    "gutenbergReference": "54441",
-    "hash": "504d2f32bf76119ee489db7149dff6e9f203f91ec4d3b16fcd7bab39ed1612c7"
+    "quoteFirst": "At 4.17 P. M. the Cornwall opened fire also on the Leipzig; at ",
+    "quoteTime": "7.17 P. M.",
+    "quoteLast": " the Leipzig was on fire fore and aft, and the Cornwall and Glasgow ceased fire.",
+    "title": "History of the World War, Volume 2 (of 7)",
+    "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945; Hare, James H., 1856-1946 [Photographer]; Thompson, Donald C., 1885-1947 [Photographer]",
+    "gutenbergReference": "74727",
+    "hash": "d363e1a3b475c56ef0a627e7a5d37fdaf0be5819957d2bbc8e335cb9a909463a"
   },
   {
     "time": "19:17",
-    "quoteFirst": "32, Leer 11.16 (Böhme changes for Bremen), Rheine 1.8 (change), Amsterdam ",
+    "quoteFirst": "The visibility having improved considerably as the sun descended below the clouds, we re-engaged at ",
     "quoteTime": "7.17 p.m.",
-    "quoteLast": " Leave again _via_ Hook 8.52, London 9 am.",
-    "title": "The Riddle of the Sands",
-    "author": "Childers, Erskine, 1870-1922",
-    "gutenbergReference": "2360",
-    "hash": "2984b999a985509e1b8ff527baa7a406099e70c2422267e8814063323d85fb29"
-  },
-  {
-    "time": "19:17",
-    "quoteFirst": "32, Leer 11.16 (Böhme changes for Bremen), Rheine 1.8 (change), Amsterdam ",
-    "quoteTime": "7.17 p.m.",
-    "quoteLast": " Leave again _via_ Hook 8.52, London 9 am.",
-    "title": "The Riddle of the Sands",
-    "author": "Childers, Erskine, 1870-1922",
-    "gutenbergReference": "2360",
-    "hash": "2984b999a985509e1b8ff527baa7a406099e70c2422267e8814063323d85fb29"
-  },
-  {
-    "time": "19:17",
-    "quoteFirst": "No doubt more continued the line to the northward, but that was all that could be seen. The visibility having improved considerably as the sun descended below the clouds, we re-engaged at ",
-    "quoteTime": "7.17 p.m.",
-    "quoteLast": " and increased speed to 22 knots. At 7.32 p.m. my course was SW., speed 18 knots, the leading enemy battleship bearing NW. by W.",
+    "quoteLast": " and increased speed to 22 knots.",
     "title": "World's War Events, Vol. II",
     "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
-    "hash": "36350fd0f924c36d8c8387bee6bb883c8e62e9d02b5b7d75a58e81ea0932feee"
+    "hash": "52dfe9f57e29ef1276c29176a2d4a1436dab9ff1a47224e45de74db600378f8d"
   },
   {
     "time": "19:17",
-    "quoteFirst": "He will on the 1st rise at 4:34 a. m. and set at 7:33 p. m.; on the 16th, rise at 4:43 a. m., set at 7:28 p. m.; and on the 30th, rise at 4:56 a. m., and set at ",
-    "quoteTime": "7:17 p. m.",
-    "quoteLast": "",
-    "title": "The Chautauquan, Vol. 05, July 1885, No. 10",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55444",
-    "hash": "bc3023cd8506231534b5f3c786d5ed9892230d2fe3b24c7ebc2d5ad19edf7a8a"
+    "quoteFirst": "At 4.17 P. M. the Cornwall opened fire also on the Leipzig; at ",
+    "quoteTime": "7.17 P. M.",
+    "quoteLast": " the Leipzig was on fire fore and aft, and the Cornwall and Glasgow ceased fire.",
+    "title": "History of the World War, Volume 2 (of 7)",
+    "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945; Hare, James H., 1856-1946 [Photographer]; Thompson, Donald C., 1885-1947 [Photographer]",
+    "gutenbergReference": "74727",
+    "hash": "d363e1a3b475c56ef0a627e7a5d37fdaf0be5819957d2bbc8e335cb9a909463a"
+  },
+  {
+    "time": "19:17",
+    "quoteFirst": "At ",
+    "quoteTime": "7.17 P.M.",
+    "quoteLast": " the _Leipzig_ was on fire fore and aft, and the   _Cornwall_ and _Glasgow_ ceased fire.",
+    "title": "The Battle of the Falkland Islands, Before and After",
+    "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
+    "gutenbergReference": "50265",
+    "hash": "cf145abfc5855015202a9973dacdf7ee7f887cf95104c750a225d0b3c59a7c7d"
+  },
+  {
+    "time": "19:17",
+    "quoteFirst": "At 4.17 P. M. the Cornwall opened fire also on the Leipzig; at ",
+    "quoteTime": "7.17 P. M.",
+    "quoteLast": " the Leipzig was on fire fore and aft, and the Cornwall and Glasgow ceased fire.",
+    "title": "History of the World War, Volume 2 (of 7)",
+    "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945; Hare, James H., 1856-1946 [Photographer]; Thompson, Donald C., 1885-1947 [Photographer]",
+    "gutenbergReference": "74727",
+    "hash": "d363e1a3b475c56ef0a627e7a5d37fdaf0be5819957d2bbc8e335cb9a909463a"
+  },
+  {
+    "time": "19:17",
+    "quoteFirst": "At 7.20 she trained her guns on a battle cruiser of “Lutzow” type, abaft the beam, which hid herself by a destroyer smoke screen; at ",
+    "quoteTime": "7.17 P.M.",
+    "quoteLast": " the _King George V._ opened fire on a vessel, taken to be the leading ship in the enemy’s line at a range of about 13,000 yards; the _Orion_ at a battleship[L]; the _St. Vincent_ was “holding her target (a battleship) effectively till 7.26 P.M., the range being between 10,000 and 9,500 yards”; the _Agincourt_ at 7.6 P.M. opened fire at 11,000 yards on one of four battleships that showed clearly out of the mist, and judged that at least four of her salvoes “straddled” the target; the _Revenge_ was engaging what were taken to be battle cruisers, obtaining distinct hits on two of them; the",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "hash": "dcd5826958a7d75cb1a4b0b3044ac112961fe41bdeace737739d5b74ac844a9e"
   }
 ]

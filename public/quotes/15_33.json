@@ -1,12 +1,22 @@
 [
   {
     "time": "15:33",
-    "quoteFirst": "\"Sir,--As your newspaper is read in France, may I in your columns call attention to what I witnessed yesterday?  I left Dinard by the ",
+    "quoteFirst": "I left Dinard by      the ",
     "quoteTime": "3.33 p.m.",
-    "quoteLast": " train _en route_ for Guingamp, having to change carriages at Lamballe.  An instant before the train moved off from the station, a dying man belonging to the poorest class was thrust into our second class carriage and the door slammed to.",
+    "quoteLast": " train _en route_ for Guingamp, having to change      carriages at Lamballe.",
     "title": "From a Cornish Window\nA New Edition",
     "author": "Quiller-Couch, Arthur, 1863-1944",
     "gutenbergReference": "24946",
-    "hash": "b51bbbf9888084d3c7bfab2193d3a928bfd0d85429383e7d2876fd245ec4309d"
+    "hash": "9b46ba1bd226bdfb6d6af8ea0abccf1b66002d5f8eaa7a7f12870ef5e9d441e6"
+  },
+  {
+    "time": "15:33",
+    "quoteFirst": "The hands said ",
+    "quoteTime": "twenty-seven minutes of four",
+    "quoteLast": " now, and Dave made noises in his throat once again.",
+    "title": "Dave Dawson at Casablanca",
+    "author": "Bowen, Robert Sidney, 1900-1977",
+    "gutenbergReference": "32331",
+    "hash": "304a720552a09bce41cfd5b1dbbeb6dcb6ef5fae0423c89ddb22a9d56e21f2f3"
   }
 ]

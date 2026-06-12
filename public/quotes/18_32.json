@@ -1,13 +1,13 @@
 [
   {
     "time": "18:32",
-    "quoteFirst": "Though accounted an evening star, will be above the horizon in the day time most of the month, on the 1st rising at 8:55 a. m. and setting at 7:01 p. m.; on the 16th, rising at 8:50 a. m. and setting at ",
+    "quoteFirst": "and setting at ",
     "quoteTime": "6:32 p. m.",
-    "quoteLast": "; and on the 31st, rising at 8:46 a. m., and setting at 6:08 p. m. Its declination on the 31st is 21° 34′ south.",
+    "quoteLast": "; and on the 31st, rising at 8:46 a.",
     "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55218",
-    "hash": "b60d20bf2e58ac7e48d353eca5efd00128d2628e181124f3adc809018cc8b280"
+    "hash": "4efb60c9804551e64e93a47a4c65e8d41a1ee30595003b3c895706b8aa12f7cb"
   },
   {
     "time": "18:32",
@@ -21,23 +21,23 @@
   },
   {
     "time": "18:32",
-    "quoteFirst": "“Too —— exact,” he said wearily. “Tellin’ us that old Ed died at exactly ",
+    "quoteFirst": "“Tellin’ us that old Ed died at exactly ",
     "quoteTime": "thirty-two minutes after six",
     "quoteLast": ". I’ll betcha he held a watch on old Ed. What the —— was he tryin’ to do; find out if it was a world’s record? Aw-w-w, gosh! I taste like Paris green!”",
     "title": "The Dead-Line",
     "author": "Tuttle, W. C. (Wilbur C.), 1883-1969",
     "gutenbergReference": "66821",
-    "hash": "cbab6b978e44927eaf7c5685b7ed7fc31bce085ba61407999e699c8241a8899b"
+    "hash": "ef4c5d284be9cef57543bbeede5ce984a9bbad0e453a9edfbd22c20c1ab8ed0f"
   },
   {
     "time": "18:32",
-    "quoteFirst": "His greatest elevation above the horizon in latitude 41° 30′ is about 56° 28′, an indication that his time above the horizon is decidedly shorter than it was last June, when his elevation was a little more than 71° 57′. And this also is confirmed by the times of his rising and setting, which are as follows: On the 1st, rises at 5:28 a. m., and sets at ",
+    "quoteFirst": ", and sets at ",
     "quoteTime": "6:32 p. m.",
-    "quoteLast": "; on the 15th, rises at 5:41 a. m., and sets at 6:09 p. m.; on the 30th, rises at 5:56 a. m., and sets at 5:43 p. m.",
+    "quoteLast": "; on the 15th, rises at 5:41 a.",
     "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
-    "hash": "10a7739263152e57877d9c505bba2c76e5f38bccfeadf685ea994291be523d77"
+    "hash": "c87c44f998b4eba66491dd14b3ac1924ec0c046ec604744da559d206fa2b2e55"
   },
   {
     "time": "18:32",
@@ -48,5 +48,15 @@
     "author": "Vance, Louis Joseph, 1879-1933; Fogarty, Thomas, 1873-1938 [Illustrator]",
     "gutenbergReference": "9779",
     "hash": "0c005f1913374a9591fac87a7e93a9a708d8df54eff6787593e595350511d1e2"
+  },
+  {
+    "time": "18:32",
+    "quoteFirst": "—Letters from LONDON and all parts arrive (from WELLINGTON), every morning at ",
+    "quoteTime": "twenty-eight minutes before seven",
+    "quoteLast": ", and are despatched thereto at seven in the evening.",
+    "title": "Slater's [1859] Shropshire Directory",
+    "author": "Slater, I. (Isaac), 1803-1883",
+    "gutenbergReference": "60729",
+    "hash": "3fb3604adc52d6c2df7bc20da79f5ea34b5c926f7cefa1bea8a5172afde2bd3e"
   }
 ]

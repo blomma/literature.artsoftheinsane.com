@@ -3,21 +3,21 @@
     "time": "01:21",
     "quoteFirst": "",
     "quoteTime": "1.21 A. M.",
-    "quoteLast": ", from Plymouth: “NC-4 left Lisbon 6.23 (New York 2.23 A.",
+    "quoteLast": ", from Plymouth: “NC-4 left Lisbon 6.23 (New York 2.23 A. M.), May 30, and landed Mondego River, getting underway and proceeding to Ferrol, where landed at 16.46 (12.46 New York time). Destroyers standing by NC-4; will proceed to Plymouth to-morrow if weather permits.”",
     "title": "Aircraft",
     "author": "David, Evan John, 1877-1961",
     "gutenbergReference": "74358",
-    "hash": "2578d74c388cfd3a50eb309104a10f63f5a30c5d0ef3c58936816ad1cb8e769c"
+    "hash": "1cebf39bcc696bcaa65b91078c7461cf098cf610ff6f862a00aa65e11c21eb21"
   },
   {
     "time": "01:21",
-    "quoteFirst": "Upon emerging from them at seventeen minutes past one, I tried to take a view of their surface with the camera, but the balloon was ascending too rapidly and spiraling too quickly to allow me to do so. The height of two miles was reached at ",
+    "quoteFirst": "The height of two miles was reached at ",
     "quoteTime": "twenty-one minutes past one",
-    "quoteLast": ". The temperature of the air had fallen to 32 degrees and the dew-point to 26 degrees. The third mile was passed at twenty-eight minutes past one, with an air temperature of 18 degrees, and a dew-point of 13 degrees.",
+    "quoteLast": ".",
     "title": "Wonderful Balloon Ascents; Or, The Conquest of the Skies\r\nA History of Balloons and Balloon Voyages",
     "author": "Marion, Fulgence",
     "gutenbergReference": "899",
-    "hash": "af68dfb30bd057ed6128cf27085eefb6cd52417548d66c34c62d79bacb933ec3"
+    "hash": "df65212298b6b396d96c76f6548f0e95e77d01159782e0454baef6f0d75dca0c"
   },
   {
     "time": "01:21",
@@ -31,12 +31,12 @@
   },
   {
     "time": "01:21",
-    "quoteFirst": "Fairfield) at ",
+    "quoteFirst": "While escorting a New York convoy the _McDougal_ (Commander A. P. Fairfield) at ",
     "quoteTime": "1:21 a. m.",
-    "quoteLast": " sighted the submarine on the surface, and gave chase. The \"sub\" submerged 500 yards ahead. Dropping two depth-charges, the _McDougal_ circled around the spot, and soon noticed oil rising, apparently from the U-boat.",
+    "quoteLast": " sighted the submarine on the surface, and gave chase.",
     "title": "Our Navy at war",
     "author": "Daniels, Josephus, 1862-1948",
     "gutenbergReference": "63596",
-    "hash": "30aeaa32331b108c07e5c7e96adc23d83874b6c7aad8665bbe77ca3d65ae97fb"
+    "hash": "97be306182c3dee86c52ae983c09b8a7424ba85449fdcade38e5d74d76ab1e50"
   }
 ]

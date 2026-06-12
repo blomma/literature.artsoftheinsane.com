@@ -1,22 +1,32 @@
 [
   {
     "time": "17:49",
-    "quoteFirst": "Do we find in the last observation an indication of a growing distaste for such work? One cannot tell.  Between ",
+    "quoteFirst": "Between ",
     "quoteTime": "5.49 p.m.",
-    "quoteLast": " and 6.36 p.m. there are no observations recorded.  Perhaps this period of forty-seven minutes--three-quarters of an hour--were devoted by the young vivisectors to the conviviality of their evening repast.",
+    "quoteLast": " and 6.36 p.m. there are no observations recorded.",
     "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
     "author": "Leffingwell, Albert, 1845-1916",
     "gutenbergReference": "20222",
-    "hash": "27d86abc98c20b97d0a86734b397fbf72263a410df15e40e6de056d67f573b3d"
+    "hash": "b08b5f3ecce6649cf09857b411abd278fbc342344e26c7f62f573ad5f17eff1a"
   },
   {
     "time": "17:49",
-    "quoteFirst": "Fortunately, the Camel had had to put his lights on again, and by now Clif could have picked that particular tail lamp out of a hundred! And so Cotterville’s main street began, brilliantly lighted for a half-dozen blocks, well lined with parked automobiles, busy with the bustling of last-minute shoppers. An illuminated clock pointed its hands at ",
+    "quoteFirst": "An illuminated clock pointed its hands at ",
     "quoteTime": "eleven minutes to six",
-    "quoteLast": ". The Camel dodged on, past the green, past the colorful front of a moving picture theater, and swerved into a tree-lined residence street. Clif’s familiarity with Cotterville was not great, but he knew that the school lay in the direction taken now by the quarry.",
+    "quoteLast": ".",
     "title": "Hold 'em, Wyndham!",
     "author": "Barbour, Ralph Henry, 1870-1944",
     "gutenbergReference": "77370",
-    "hash": "573ef15995a24480b56bc3954740d3e30e5bb114d92fcc5a84446ceac79636cd"
+    "hash": "cde16bbb58fd1cde7f371949f22f5f1e558abb8df1cf4e29e39d15700c9d2934"
+  },
+  {
+    "time": "17:49",
+    "quoteFirst": "—It was ",
+    "quoteTime": "eleven minutes before six",
+    "quoteLast": " o’clock—Napoleon was about to breathe his last!",
+    "title": "Memoirs of the life, exile, and conversations of the Emperor Napoleon. (Vol. IV)",
+    "author": "Las Cases, Emmanuel-Auguste-Dieudonné, comte de, 1766-1842",
+    "gutenbergReference": "53970",
+    "hash": "8522db3cf278a44bda5be362aaf5aefff1cf9241dbac702b9ae9d84a78223912"
   }
 ]

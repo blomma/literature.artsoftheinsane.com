@@ -1,32 +1,42 @@
 [
   {
     "time": "06:23",
-    "quoteFirst": "On the 1st, he rises at 4:56 a. m., and sets at 7:56 p. m.; on the 16th, rises at ",
+    "quoteFirst": "The actual variation of sunrise and sunset ranges from about 5.45 A.M. in August to about ",
+    "quoteTime": "6.23 A.M.",
+    "quoteLast": " in February, and from 6.7 P.M. in August to 6.5 P.M. in February.",
+    "title": "Two happy years in Ceylon",
+    "author": "Gordon Cumming, C. F. (Constance Frederica), 1837-1924",
+    "gutenbergReference": "78228",
+    "hash": "86c544bbc17e6fc19bbfbd7a81bc2ca86d265ddb31f9c15a3a386cdc7644d28a"
+  },
+  {
+    "time": "06:23",
+    "quoteFirst": "; on the 16th, rises at ",
     "quoteTime": "6:23 a. m.",
-    "quoteLast": ", and sets at 8:31 p. m.; on the 30th, rises at 7:16 a. m., and sets at 8:22 p. m.",
+    "quoteLast": ", and sets at 8:31 p.",
     "title": "The Chautauquan, Vol. 05, July 1885, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55444",
-    "hash": "31694dffba98b8248ec96599b9868914e2127b09831ca58133d4c3286f78a2c2"
+    "hash": "9e789d40bbbe289fefff37c2d6ac2bac8ccfe3958f88fc260fd93f8eb459bb58"
   },
   {
     "time": "06:23",
-    "quoteFirst": "It was soon found, however, that there was no sufficient reason for keeping up local time. Even in the extreme West of England the difference between the two only amounted to twenty-three minutes, and it was found that no practical inconvenience resulted from saying that the sun rose at ",
+    "quoteFirst": "Even in the extreme West of England the difference between the two only amounted to twenty-three minutes, and it was found that no practical inconvenience resulted from saying that the sun rose at ",
     "quoteTime": "twenty-three minutes past six",
-    "quoteLast": " on March 22, rather than at six o'clock. The hours of work and business were practically put twenty-three minutes earlier in the day, a change of which very few people took any notice.",
+    "quoteLast": " on March 22, rather than at six o'clock.",
     "title": "The Royal Observatory, Greenwich: A Glance at Its History and Work",
     "author": "Maunder, E. Walter (Edward Walter), 1851-1928",
     "gutenbergReference": "44167",
-    "hash": "390e8be62fa36ca49a112b8934f776a4ea3d9445dd37e0bb5ba3914ccdeab472"
+    "hash": "1edbf71426295fceb4776169a0f90cb1770790607d74e6088a936d9558761e57"
   },
   {
     "time": "06:23",
-    "quoteFirst": "Here's another,\" taking down a watch and reading, \"Colonel John Trumbull. _Run down, too!_ and at ",
+    "quoteFirst": "_ and at ",
     "quoteTime": "twenty-three minutes after six",
-    "quoteLast": ". _He_ was the son of Brother Jonathan, Governor of one of the Mothers, when the Nation was born. Yes, yes, I must be in Lebanon.",
+    "quoteLast": ".",
     "title": "The Only Woman in the Town, and Other Tales of the American Revolution",
     "author": "Prichard, Sarah J. (Sarah Johnson), 1830-1909",
     "gutenbergReference": "33334",
-    "hash": "d1361b321f903e644c4bdb73869b31fdd9d65d1b6ed1340e37a8db5295107df9"
+    "hash": "fc11e8f0836a33ade7c807337e525ace7755087ae6aeaa9e1c79a540196c0d56"
   }
 ]

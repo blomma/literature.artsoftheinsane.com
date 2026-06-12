@@ -1,22 +1,42 @@
 [
   {
     "time": "03:34",
-    "quoteFirst": "Rises at 12:58 p. m. on the 1st and sets at ",
-    "quoteTime": "3:34 a. m.",
-    "quoteLast": " on the 2d; rises at 11:58 a. m. on the 16th and sets at 2:35 a. m. on the 17th; rises at 11:12 a. m. on the 28th and sets at 1:48 a. m. on March 1st.",
-    "title": "The Chautauquan, Vol. 05, February 1885",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55053",
-    "hash": "d064748616680c7ad6fd43cce84425d1aa89919df6b766be211bef9e1e82e256"
+    "quoteFirst": "The testimony of several other persons was taken on this matter, and it was agreed that twenty-five or ",
+    "quoteTime": "twenty-six minutes of four",
+    "quoteLast": " was the time when Mr. Judson met his death.",
+    "title": "Nick Carter Stories No. 11, November 23, 1912: Nick Carter Strikes Oil; or, Uncovering More Than a Murder",
+    "author": "Carter, Nicholas (House name); Bradshaw, Alden F.",
+    "gutenbergReference": "67082",
+    "hash": "7b08b0ca568fe361198e38a023a850fc5b6cc0605d86a788e653cb1c1602d5a9"
   },
   {
     "time": "03:34",
-    "quoteFirst": "Will be our morning star till the 27th, after which it will be evening star till the end of the month. On the 1st it will rise at ",
+    "quoteFirst": "on the 1st and sets at ",
     "quoteTime": "3:34 a. m.",
-    "quoteLast": ", or about one hour earlier than the sun, and can probably be seen by good eyes. On the 16th, it will rise at 3:46 a. m.; and on the 30th, will set at 7:51 p. m.",
+    "quoteLast": " on the 2d; rises at 11:58 a.",
+    "title": "The Chautauquan, Vol. 05, February 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55053",
+    "hash": "3fb47019a46247be3b412eb57ddaa66e45d5a399c4873665c21bf9bf92bca809"
+  },
+  {
+    "time": "03:34",
+    "quoteFirst": "On the 1st it will rise at ",
+    "quoteTime": "3:34 a. m.",
+    "quoteLast": ", or about one hour earlier than the sun, and can probably be seen by good eyes.",
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "hash": "ee866026cdc4e24f4a35dbd4070552366116b77b86488d3c4394af52fb4ca54b"
+    "hash": "63ef5cdbff0cf818f1c76b55c254a5e80e113bd52d7ade3f49fccfa8248923fa"
+  },
+  {
+    "time": "03:34",
+    "quoteFirst": "The testimony of several other persons was taken on this matter, and it was agreed that twenty-five or ",
+    "quoteTime": "twenty-six minutes of four",
+    "quoteLast": " was the time when Mr. Judson met his death.",
+    "title": "The Photographer's Evidence; Or, Clever but Crooked",
+    "author": "Carter, Nicholas (House name)",
+    "gutenbergReference": "62010",
+    "hash": "dc6ca6b4344b5cf3bf65c4b88b2576e52f1784a0556b1770105d3a89d90e257e"
   }
 ]

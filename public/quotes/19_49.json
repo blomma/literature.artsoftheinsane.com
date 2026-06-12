@@ -3,11 +3,11 @@
     "time": "19:49",
     "quoteFirst": "At ",
     "quoteTime": "7.49 p.m.",
-    "quoteLast": ", having recovered the last vestiges of my Anglo-Saxon energy, I drove with Eustace to the house, and bade the family farewell. The girls appeared a trifle distressed, but not so much as we felt they ought to be.",
+    "quoteLast": ", having recovered the last vestiges of my Anglo-Saxon energy, I drove with Eustace to the house, and bade the family farewell.",
     "title": "A Gringo in Mañana-Land",
     "author": "Foster, Harry L. (Harry La Tourette), 1894-1932",
     "gutenbergReference": "67200",
-    "hash": "0297412c62bb90e217a4e499376614d932e59223b94359b381c2ae41182d8b60"
+    "hash": "96225b6a076dd2f9da43e21646d6baec6672d47362a5a73df95d4b5432b1955c"
   },
   {
     "time": "19:49",
@@ -21,42 +21,42 @@
   },
   {
     "time": "19:49",
-    "quoteFirst": "You have already told us that the evidence of your assistant, Dr. Carstairs, is correct as to your movements between half-past seven and ",
-    "quoteTime": "eleven minutes to eight",
-    "quoteLast": ", or, rather, as to your absence from the surgery during those nineteen minutes. You adhere to that?\"",
-    "title": "In the Mayor's Parlour",
-    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
-    "gutenbergReference": "25424",
-    "hash": "fd1b7933da5821d9f76829d81a7da05ff4bd0ed50df0114125b717a3700ea2d4"
-  },
-  {
-    "time": "19:49",
-    "quoteFirst": "\"According to what you say he was out of the surgery, wearing that white linen jacket, exactly nineteen minutes. Did he say anything to you when he came back at ",
+    "quoteFirst": "Did he say anything to you when he came back at ",
     "quoteTime": "eleven minutes to eight",
     "quoteLast": " of where he had been or what he had been doing during the interval between 7.30 and 7.49?\"",
     "title": "In the Mayor's Parlour",
     "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
     "gutenbergReference": "25424",
-    "hash": "b621b9d8725cb4811c2d2ba12366fa15e657138e4193c6add75719da2d3bc48c"
+    "hash": "5ebb8a4f3b37bb0e9c1c609f1c9fd612e385186db168ad74990261ec90c4685e"
   },
   {
     "time": "19:49",
-    "quoteFirst": "On the 5th, at 2:00 p. m., is 48′ north of Mercury; on the 10th, at 6:00 p. m., 1° 29′ south of Mars; on the 10th, at ",
+    "quoteFirst": "You have already told us that the evidence of your assistant, Dr. Carstairs, is correct as to your movements between half-past seven and ",
+    "quoteTime": "eleven minutes to eight",
+    "quoteLast": ", or, rather, as to your absence from the surgery during those nineteen minutes.",
+    "title": "In the Mayor's Parlour",
+    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
+    "gutenbergReference": "25424",
+    "hash": "236b29a1a1d7ba9dd12fb85cec93042514cedda94834d5f250fb8b45fbb075f4"
+  },
+  {
+    "time": "19:49",
+    "quoteFirst": ", 1° 29′ south of Mars; on the 10th, at ",
     "quoteTime": "7:49 p. m.",
-    "quoteLast": ", 2° 21′ north of the moon. The 26-inch equatorial of the National Observatory at Washington, D. C.",
+    "quoteLast": ", 2° 21′ north of the moon.",
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "hash": "025a013d6b7fb4c2bb85dbf3a122f285bb573df82d94a4f70feca68adb21a81c"
+    "hash": "0b850d3013fa777cb4f81af24c031ffae89c69a24fb271c0f31b638a34aabd89"
   },
   {
     "time": "19:49",
     "quoteFirst": "At ",
     "quoteTime": "forty-nine minutes past seven",
-    "quoteLast": ", the first roar was at last heard on the left wing. It was the signal for commencing attack on the enemy along Laotso-shan and Taipo-shan.",
+    "quoteLast": ", the first roar was at last heard on the left wing.",
     "title": "Human Bullets: A Soldier's Story of Port Arthur",
     "author": "Sakurai, Tadayoshi, 1879-1965; Okuma, Shigenobu, 1838-1922 [Author of introduction, etc.]; Bacon, Alice Mabel, 1858-1918 [Editor]; Honda, Masujiro [Translator]",
     "gutenbergReference": "47548",
-    "hash": "04b28bff84e9393cd0372090d2447b4ac66974ae08288df2c747c7d64d3b826d"
+    "hash": "08934f036eb5ab8bfc881909e4633edc22d3c4ecbe257df0f98e5095f01c3621"
   }
 ]

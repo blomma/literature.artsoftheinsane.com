@@ -1,32 +1,42 @@
 [
   {
     "time": "13:49",
-    "quoteFirst": "of fluid, representing the extract of 2,000 grams of _Aragallus lamberti_. The temperature at the time of feeding, 1.10 p. m., was 105.3°F. At ",
+    "quoteFirst": ", was 105.3°F. At ",
     "quoteTime": "1.49 p.m.",
-    "quoteLast": " the sheep could be easily turned on its back. At 2.23 p.m. the temperature was 103.6°F. At 3.42 p.m. the temperature was 103.5°F. At 4.20 p.m. the respiration was fairly rapid. On July 14, at 11.15 a.m., the temperature was 103.6°F. The sheep would run about but could easily be turned over.",
+    "quoteLast": " the sheep could be easily turned on its back.",
     "title": "Barium: A Cause of the Loco-Weed Disease",
     "author": "Crawford, Albert C. (Albert Cornelius), 1869-1921",
     "gutenbergReference": "40256",
-    "hash": "fb5dca5ed9bea025eb77d859626857ada8d6408d781be7dbb797e9216bfec52c"
+    "hash": "b810207fb1ffd0e8627ba7f4de09702c3f4485c49e1d0c035586e28498b1fe1b"
   },
   {
     "time": "13:49",
-    "quoteFirst": "In some respects the attack was peculiar. As was so often the case, the direction of the attack was at an angle to our front, and the London Scottish, starting the assault from the right at 1.45 p.m., were followed by the 4th London Regt. at 1.47 and the Rangers at ",
+    "quoteFirst": "at 1.47 and the Rangers at ",
     "quoteTime": "1.49 p.m.",
     "quoteLast": "; this was calculated to bring the three battalions into line by the time Dewdrop and the gun-pits were reached.",
     "title": "The 56th Division (1st London Territorial Division)",
     "author": "Dudley Ward, C. H. (Charles Humble), 1879-1945; Horne, Henry, 1861-1929 [Author of introduction, etc.]",
     "gutenbergReference": "50379",
-    "hash": "c2ea9778b7583d3a26a5fbcaf5d153f0711603a05831a9991eb974b6a9ffe222"
+    "hash": "e2c7b6039790272e4e6e4bc11c05a9e329b8e4c59f3787519c7ca7576aff7ea3"
   },
   {
     "time": "13:49",
-    "quoteFirst": "",
-    "quoteTime": "1:49 P.M.",
-    "quoteLast": "",
-    "title": "Project Cyclops",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34319",
-    "hash": "07ca0c04c4f5ba7f8dce1c1ebb2a5af2b02bd1a2410b59a2cd569723844c89fb"
+    "quoteFirst": "The Council of War of the 18th sat on from ",
+    "quoteTime": "11 till 2 p.m.",
+    "quoteLast": ", and at 4 p.m. a Grand Chapter of the Order of the Garter was held in the Throne Room--the Emperor being invested with the insignia of the Order--in all the pomp and circumstance of Royal State.",
+    "title": "The Life and Times of Queen Victoria; vol. 2 of 4",
+    "author": "Wilson, Robert, 1846-1893",
+    "gutenbergReference": "63290",
+    "hash": "57a44f1912f17527cb0ae5d1ebca6f6fd3e09f0288f4d6bf9b862cbcb1a9fb2a"
+  },
+  {
+    "time": "13:49",
+    "quoteFirst": "Right now it's ",
+    "quoteTime": "eleven minutes of two",
+    "quoteLast": " and that clock on the wall over your head, Captain, is running two minutes slow.\"",
+    "title": "A Bullet for Cinderella",
+    "author": "MacDonald, John D. (John Dann), 1916-1986",
+    "gutenbergReference": "49931",
+    "hash": "69845e209c40a35d1d21d3d16caf355573c0321ffd74ff355713cf3dee9dbbab"
   }
 ]

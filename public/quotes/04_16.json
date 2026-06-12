@@ -1,22 +1,22 @@
 [
   {
     "time": "04:16",
-    "quoteFirst": "At T minus 80 seconds, power fluctuations in the radio guidance system forced a 34-minute hold. Time was resumed at ",
+    "quoteFirst": "Time was resumed at ",
     "quoteTime": "4:16 a.m.",
     "quoteLast": ", when the countdown was set back to T minus 5 minutes.",
     "title": "Mariner Mission to Venus",
     "author": "Jet Propulsion Laboratory (U.S.)",
     "gutenbergReference": "54585",
-    "hash": "2c61f13e867532e6b40dc3208e7d953e7a2dff9d98fe6ecbe9d05267fc00e5df"
+    "hash": "4f55ff10becf46debf92289add76e378aa1a60dd28b7993467b95e7c5ab89fa4"
   },
   {
     "time": "04:16",
     "quoteFirst": "At ",
     "quoteTime": "sixteen minutes past four",
-    "quoteLast": " a small schooner, bearing towards the steam-ship, was signalled to starboard. There was no longer any possible doubt of its being the pilot’s boat, and he would be on board in fourteen or fifteen minutes at the most.",
+    "quoteLast": " a small schooner, bearing towards the steam-ship, was signalled to starboard.",
     "title": "A Floating City, and The Blockade Runners",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "67829",
-    "hash": "8ff0bf69571a4ff73d7ba83c352f74b0b07a5864d024b81b4574e02a13a3870e"
+    "hash": "85e3c046fa17fb61490b3a941f9a3c795ea08a06f8043f9e9f71943a99f9639d"
   }
 ]

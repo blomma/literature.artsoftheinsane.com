@@ -1,33 +1,43 @@
 [
   {
     "time": "20:33",
-    "quoteFirst": "On the 1st, rises at 5:50 a. m., sets at 8:34 p. m.; on the 16th, rises at 6:25 a. m., sets at ",
+    "quoteFirst": ", sets at ",
     "quoteTime": "8:33 p. m.",
-    "quoteLast": "; and on the 30th, rises at 6:57 a. m., sets at 8:23 p. m. On the 13th, at 10:21 p. m., 5° 22′ north of the moon; on 17th, at 9:00 a. m., 11′ north of Mercury.",
+    "quoteLast": "; and on the 30th, rises at 6:57 a.",
     "title": "The Chautauquan, Vol. 05, July 1885, No. 10",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55444",
-    "hash": "00ff61aba2bd8d0db2a914175b8348928e30de22e8d6f9bb2959cbfc26c9d350"
+    "hash": "6e1757967cfa2f2e3776e96c03b68d8ebd94cb628d07700ac9397b1eaa51eb3d"
   },
   {
     "time": "20:33",
-    "quoteFirst": "The most interesting records, however, are those furnished by the magnetographs at Lisbon, Parc Saint-Maur (near Paris), Greenwich, and Wilhelmshaven. At Lisbon, the records are extremely clear. The curves of the declination, horizontal force and vertical force magnets, as seen in Fig. 21, are abruptly broken at ",
+    "quoteFirst": "“Just think, monsieur, I had no idea that we should go farther than Paris; and all that I saw of Paris was between twenty minutes past ",
+    "quoteTime": "seven and twenty minutes before nine",
+    "quoteLast": " in the morning, between the Northern and the Lyons stations, through the windows of a car, and in a driving rain! How I regret not having seen once more Père la Chaise and the circus in the Champs Elysées!”",
+    "title": "Around the World in Eighty Days",
+    "author": "Verne, Jules, 1828-1905; Towle, George M. (George Makepeace), 1841-1893 [Translator]",
+    "gutenbergReference": "103",
+    "hash": "4f974af5039e972675008f8bdf0c2d3000f5d3adcd6c2130a8bc2bd3fd965983"
+  },
+  {
+    "time": "20:33",
+    "quoteFirst": "The curves of the declination, horizontal force and vertical force magnets, as seen in Fig. 21, are abruptly broken at ",
     "quoteTime": "8.33 P.M.",
     "quoteLast": " (Lisbon time, or 9h.",
     "title": "A Study of Recent Earthquakes",
     "author": "Davison, Charles, 1858-1940",
     "gutenbergReference": "25062",
-    "hash": "eb399a2d18db4807f5e9353308189e8c7324f3cfcd1a60421da01885dd76a658"
+    "hash": "fe7c1aabc27728773e8ac6cd04e022fb72527ed64dc2ec4a7653b0b17c2d9f04"
   },
   {
     "time": "20:33",
-    "quoteFirst": "8:02 P. M. Arrived at buoy; proceeded to moor ship. ",
+    "quoteFirst": "",
     "quoteTime": "8:33 P. M.",
     "quoteLast": " Ship moored and engines secured.",
     "title": "History of the U.S.S. Leviathan, cruiser and transport forces, United States Atlantic fleet\r\nCompiled from the ship's log and data gathered by the history committee on board the ship",
     "author": "U.S.S. Leviathan History Committee",
     "gutenbergReference": "59699",
-    "hash": "d8fdbfb205b7a270b06a81341ebf3f584ebe8365590d47f6c74bae888d83eb1f"
+    "hash": "4169a284322cf95775b1b350f07a29e9da0cb1242af8cd9d3ff4736a2e20520b"
   },
   {
     "time": "20:33",
@@ -41,22 +51,22 @@
   },
   {
     "time": "20:33",
-    "quoteFirst": "Although she acts the part of an evening star, is rather “mild” this month. She rises after the sun, and sets on the 1st, at 7:56; on the 16th, at 8:20; and on the 30th, at ",
+    "quoteFirst": "She rises after the sun, and sets on the 1st, at 7:56; on the 16th, at 8:20; and on the 30th, at ",
     "quoteTime": "8:33 p. m.",
-    "quoteLast": " Her diameter increases four tenths of a second of arc; and she makes a direct motion of 40° 3′. On the 7th, at 5:00 p. m.",
+    "quoteLast": " Her diameter increases four tenths of a second of arc; and she makes a direct motion of 40° 3′.",
     "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
-    "hash": "26ee907c33a02c1a51c36a2de4c31b3fb59acdedd821290381893b8d89203a7b"
+    "hash": "5181693ec685208012726bf5ead3ea89beffb2320ac1202b645620d31f31bfa0"
   },
   {
     "time": "20:33",
-    "quoteFirst": "C.B., D.S.O., received at ",
+    "quoteFirst": "-General A. G. Hunter-Weston,     C.B., D.S.O., received at ",
     "quoteTime": "8.33 p.m.",
-    "quoteLast": " on June 4, is published for information—",
+    "quoteLast": " on June 4, is published for     information—",
     "title": "The 42nd (East Lancashire) Division 1914-1918",
     "author": "Gibbon, Frederick P.",
     "gutenbergReference": "73544",
-    "hash": "2f8007a21fd0eeb355e6bea6ae7ff0d6e5d6e0183b348dac5462bfb5bedcd37e"
+    "hash": "2acd30124a80317c2bf1213fa0dd62cfef2161fbc14fc599c6a282cd3c1abac3"
   }
 ]

@@ -1,22 +1,22 @@
 [
   {
     "time": "02:28",
-    "quoteFirst": "_Arrivals_.         _Mails_.        _Departures_. ",
+    "quoteFirst": "",
     "quoteTime": "2.28 a.m.",
-    "quoteLast": "  London.                  10.35 a.m.",
+    "quoteLast": "  London.",
     "title": "Rogers' Directory of Norwich and Neighbourhood",
     "author": "Rogers, Edmund Dawson, 1823-1910",
     "gutenbergReference": "64006",
-    "hash": "23a169bdf15894c62f1dd24be9404f788027c7fbf7c0ca0516dd5e1f0ec3f4d2"
+    "hash": "20c2874f427ef8ca73e7e201dd318d5a44e6c8d557719abf3a7bde2d27ffd02b"
   },
   {
     "time": "02:28",
     "quoteFirst": "This planet will be evening star throughout the month, setting as follows: On the 2d, at ",
     "quoteTime": "2:28 a. m.",
-    "quoteLast": "; on the 16th, at 1:33 a. m.; and on the 29th, at 12:41 a. m. Its direct motion amounts to 41′ 32.1″ of arc. On the 3d, at 9 a. m., it is stationary. On the 5th, at 7:34 a. m.",
+    "quoteLast": "; on the 16th, at 1:33 a.",
     "title": "The Chautauquan, Vol. 04, February 1884, No. 5.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55132",
-    "hash": "f741c793b711e462f1cabdf19e350e7dd03965f8d6ea30d4b0fdf6ddcf255e43"
+    "hash": "d507d9f55169d43408ec0994ba6d57efc29734f742ca1585712e9bc041a7ce75"
   }
 ]

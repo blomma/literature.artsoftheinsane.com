@@ -1,13 +1,13 @@
 [
   {
     "time": "17:39",
-    "quoteFirst": "west of _Aldebaran_ in the constellation _Taurus_. He rises on the 1st, at 7:38; on the 16th, at 6:39, and on the 31st, at ",
+    "quoteFirst": "He rises on the 1st, at 7:38; on the 16th, at 6:39, and on the 31st, at ",
     "quoteTime": "5:39 p. m.",
     "quoteLast": "",
     "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55218",
-    "hash": "c2ddbde31de5fe6ff34d1f0e86dd31550fc1ea39b0e4f2154feb0d4f3313c966"
+    "hash": "4d9cc3d8c37de1a141e38681931862b896a0215ac14e4a0d097beb6efd7b2384"
   },
   {
     "time": "17:39",
@@ -23,11 +23,21 @@
     "time": "17:39",
     "quoteFirst": "'The beginning of this Eclipse, according to the nicest Computation of the most Judicious, will happen at ",
     "quoteTime": "39 Minutes past 5 in the Afternoon",
-    "quoteLast": " when the Limb of the Moon will just touch the Sun's Limb, as it is represented by the Uppermost Figure to the Right Hand. At 44 Minutes after 5 it will be enter'd the disk, and so much darkened as the 2d Scheme on the Right Hand shews. At 48 Minutes past 5 as the 3d denotes.",
+    "quoteLast": " when the Limb of the Moon will just touch the Sun's Limb, as it is represented by the Uppermost Figure to the Right Hand.",
     "title": "The Pictorial Press: Its Origin and Progress",
     "author": "Jackson, Mason, 1819-1903",
     "gutenbergReference": "36417",
-    "hash": "281ea938f60a83c7d60b9019f1af0319e0a0dad3b298bd99b1fd54b9aa284e72"
+    "hash": "aafd34976529a1b986c92ccc66dd5db0f53bae55cbd544c626bc20b11e1b91b5"
+  },
+  {
+    "time": "17:39",
+    "quoteFirst": "It is ",
+    "quoteTime": "twenty-one minutes to six",
+    "quoteLast": ".",
+    "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
+    "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
+    "gutenbergReference": "46006",
+    "hash": "8864b306b70d25a21b60dba7a720f91ac7f53beae8b2b9b781fef872cda3959b"
   },
   {
     "time": "17:39",
@@ -38,15 +48,5 @@
     "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
     "gutenbergReference": "46006",
     "hash": "15b99df5665bca0ce12c186ada26dca268d1cbe11647c2dc2fb8522e0fde1d0e"
-  },
-  {
-    "time": "17:39",
-    "quoteFirst": "\"Let me see!  It is ",
-    "quoteTime": "twenty-one minutes to six",
-    "quoteLast": ". The figures are not easy to distinguish, but the position of the hands is plain enough.\"",
-    "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
-    "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
-    "gutenbergReference": "46006",
-    "hash": "9fcade249d32f57537d6500d3e9f794d311e257de6f922b6bbd4907eb84993cf"
   }
 ]
