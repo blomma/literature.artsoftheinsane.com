@@ -1,73 +1,13 @@
 [
   {
     "time": "03:35",
-    "quoteFirst": "Phases occur as follows: last quarter, on 7th, at ",
-    "quoteTime": "3:35 a. m.",
-    "quoteLast": "; new moon, 14th, at 10:09 a.",
-    "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55331",
-    "hash": "664bae1b23ff57def1d133359c5ba1ff7f8f25f8372dd0bd7960c938f4931b76"
-  },
-  {
-    "time": "03:35",
-    "quoteFirst": "Two cork bridges were thrown across, and by ",
-    "quoteTime": "3.35 a. m.",
-    "quoteLast": " the infantry were well established on the eastern side of the Canal.",
-    "title": "The Story of the Great War, Volume 8\r\nVictory with the Allies; Armistice; Peace Congress; Canada's War Organizations and vast War Industries; Canadian Battles Overseas",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
-    "gutenbergReference": "34444",
-    "hash": "dda68e59100811ff481f81a4639809b9e957edebeb328124c36c6e42c48824b4"
-  },
-  {
-    "time": "03:35",
-    "quoteFirst": "\"She will die,\" muttered Abbey, who was apparently far out of hearing, \"at ",
-    "quoteTime": "twenty-five minutes to four",
-    "quoteLast": ".\"",
-    "title": "Lippincott's Magazine of Popular Literature and Science, Vol. 26, November, 1880",
-    "author": "Various",
-    "gutenbergReference": "51453",
-    "hash": "343bb822d0d44300c4375ef8228e11db9cb522b582f26c05cb9802c5b1ad6ec6"
-  },
-  {
-    "time": "03:35",
-    "quoteFirst": "At an altitude of three thousand feet, or fifteen hundred feet above the summit of the Rock of Gibraltar, the \"Golden Hind\" received her official send-off at ",
-    "quoteTime": "3.35 A.M.",
-    "quoteLast": ", eighteen hours after the Hun-owned Z64.",
-    "title": "The Airship \"Golden Hind\"",
-    "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Williams, Fleming [Illustrator]",
-    "gutenbergReference": "39488",
-    "hash": "db0c11cabb9735266749970342908c6496d3f53088951532a7cdf171356ec365"
-  },
-  {
-    "time": "03:35",
-    "quoteFirst": "The illuminated clock of the Old Town Hall at the top of the square showed ",
-    "quoteTime": "twenty-five minutes to four",
-    "quoteLast": ".",
-    "title": "These Twain",
-    "author": "Bennett, Arnold, 1867-1931",
-    "gutenbergReference": "40483",
-    "hash": "feb13a9803877f0e66985e065fce68eb707b4b9c245472f9b0bd43a4cd5e8805"
-  },
-  {
-    "time": "03:35",
-    "quoteFirst": "At ",
-    "quoteTime": "3:35 A.M.",
-    "quoteLast": " Saturday incendiary fires burned forty-nine houses in the immigrant neighborhood west of the Stock Yards.",
-    "title": "The Negro in Chicago: A Study of Race Relations and a Race Riot",
-    "author": "Chicago Commission on Race Relations",
-    "gutenbergReference": "57343",
-    "hash": "f5d8e915aac31ca3f7677183fa02a6bf44cd6925eded42ed8f3a4910d67dc421"
-  },
-  {
-    "time": "03:35",
-    "quoteFirst": "By half past twelve we were all safe on the other side, and at ",
-    "quoteTime": "thirty-five minutes past three",
-    "quoteLast": " we arrived at Halifoon, about five miles from the ferry on the east side of the Nile.",
-    "title": "Travels to Discover the Source of the Nile, Volume 4 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
-    "author": "Bruce, James, 1730-1794",
-    "gutenbergReference": "56502",
-    "hash": "5b5f004f4afb2985ebc52b83db1e396ffa731d105bfce628662e8d41dfe70535"
+    "quoteFirst": "If he was not with me at half-past three, he was sure not to be later than ",
+    "quoteTime": "five-and-twenty minutes to four",
+    "quoteLast": "; and when he did come, I received him with bare brow and open arms.",
+    "title": "The Interpreter: A Tale of the War",
+    "author": "Whyte-Melville, G. J. (George John), 1821-1878; Kemp-Welch, Lucy, 1869-1958 [Illustrator]",
+    "gutenbergReference": "40660",
+    "hash": "4e013b84624e634fbdd555f6eacc99ac65ce6fab1f0988ff0f2c52436eb0a744"
   },
   {
     "time": "03:35",
@@ -81,13 +21,73 @@
   },
   {
     "time": "03:35",
-    "quoteFirst": "At an altitude of three thousand feet, or fifteen hundred feet above the summit of the Rock of Gibraltar, the \"Golden Hind\" received her official send-off at ",
+    "quoteFirst": "… The Emperor    expired from loss of blood at ",
+    "quoteTime": "five-and-twenty minutes to four",
+    "quoteLast": ".",
+    "title": "History for ready reference, Volume 4, Nicæa to Tunis",
+    "author": "Larned, J. N. (Josephus Nelson), 1836-1913",
+    "gutenbergReference": "69262",
+    "hash": "2097eeccca03192be393df403d20c00fd6819e66f19ad391ddae6c776c219aa2"
+  },
+  {
+    "time": "03:35",
+    "quoteFirst": "The surgeons found it impossible to stop the hemorrhage, and at ",
+    "quoteTime": "thirty-five minutes past three",
+    "quoteLast": " o’clock in the afternoon he breathed his last without having recovered consciousness for a moment.",
+    "title": "Famous Assassinations of History from Philip of Macedon, 336 B. C., to Alexander of Servia, A. D. 1903",
+    "author": "Johnson, Francis, 1837-1908",
+    "gutenbergReference": "53273",
+    "hash": "b28e9c75d4b9c8f4ca20fe6f9a84e49d25ea2169ec43096cf1f2417cbd0c3ed7"
+  },
+  {
+    "time": "03:35",
+    "quoteFirst": "If he was not with me at half-past three, he was sure not to be later than ",
+    "quoteTime": "five-and-twenty minutes to four",
+    "quoteLast": "; and when he did come, I received him with bare brow and open arms.",
+    "title": "The Interpreter: A Tale of the War",
+    "author": "Whyte-Melville, G. J. (George John), 1821-1878; Kemp-Welch, Lucy, 1869-1958 [Illustrator]",
+    "gutenbergReference": "40660",
+    "hash": "4e013b84624e634fbdd555f6eacc99ac65ce6fab1f0988ff0f2c52436eb0a744"
+  },
+  {
+    "time": "03:35",
+    "quoteFirst": "Phases occur as follows: last quarter, on 7th, at ",
+    "quoteTime": "3:35 a. m.",
+    "quoteLast": "; new moon, 14th, at 10:09 a.",
+    "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55331",
+    "hash": "664bae1b23ff57def1d133359c5ba1ff7f8f25f8372dd0bd7960c938f4931b76"
+  },
+  {
+    "time": "03:35",
+    "quoteFirst": "The sleeper on the ",
     "quoteTime": "3.35 A.M.",
-    "quoteLast": ", eighteen hours after the Hun-owned Z64.",
-    "title": "The Airship \"Golden Hind\"",
-    "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Williams, Fleming [Illustrator]",
-    "gutenbergReference": "39488",
-    "hash": "db0c11cabb9735266749970342908c6496d3f53088951532a7cdf171356ec365"
+    "quoteLast": " elevated train from the Harlem bridge was awake for once.",
+    "title": "Children of the Tenements",
+    "author": "Riis, Jacob A. (Jacob August), 1849-1914; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "21583",
+    "hash": "57fddb89bca06f47e282ee611347c75af77ecbc0138910e4fd928e8073aa96f4"
+  },
+  {
+    "time": "03:35",
+    "quoteFirst": "At ",
+    "quoteTime": "3:35 A.M.",
+    "quoteLast": " Saturday incendiary fires burned forty-nine houses in the immigrant neighborhood west of the Stock Yards.",
+    "title": "The Negro in Chicago: A Study of Race Relations and a Race Riot",
+    "author": "Chicago Commission on Race Relations",
+    "gutenbergReference": "57343",
+    "hash": "f5d8e915aac31ca3f7677183fa02a6bf44cd6925eded42ed8f3a4910d67dc421"
+  },
+  {
+    "time": "03:35",
+    "quoteFirst": "Two cork bridges were thrown across, and by ",
+    "quoteTime": "3.35 a. m.",
+    "quoteLast": " the infantry were well established on the eastern side of the Canal.",
+    "title": "The Story of the Great War, Volume 8\r\nVictory with the Allies; Armistice; Peace Congress; Canada's War Organizations and vast War Industries; Canadian Battles Overseas",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
+    "gutenbergReference": "34444",
+    "hash": "dda68e59100811ff481f81a4639809b9e957edebeb328124c36c6e42c48824b4"
   },
   {
     "time": "03:35",

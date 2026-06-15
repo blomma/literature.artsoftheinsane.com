@@ -1,23 +1,23 @@
 [
   {
     "time": "16:53",
-    "quoteFirst": "The south-bound express passed Annandale at exactly ",
-    "quoteTime": "fifty-three minutes after four P. M.",
-    "quoteLast": " It was scheduled to reach Cincinnati at eleven o’clock sharp.",
-    "title": "The House of a Thousand Candles",
-    "author": "Nicholson, Meredith, 1866-1947; Christy, Howard Chandler, 1873-1952 [Illustrator]",
-    "gutenbergReference": "12441",
-    "hash": "b57949810732714a53d34faec9b191182d236747ad94ad5c38325a28cab3a095"
+    "quoteFirst": "on the 22nd; first quarter on the 29th, at ",
+    "quoteTime": "4:53 p. m.",
+    "quoteLast": " On the 1st it sets at 12:11 a.",
+    "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55208",
+    "hash": "b5eedb10ccee8309c25b6a0da87fbd08d4e984218304851c816e6c0cf195f364"
   },
   {
     "time": "16:53",
-    "quoteFirst": "The south-bound express passed Annandale at exactly ",
-    "quoteTime": "fifty-three minutes after four P. M.",
-    "quoteLast": " It was scheduled to reach Cincinnati at eleven o’clock sharp.",
-    "title": "The House of a Thousand Candles",
-    "author": "Nicholson, Meredith, 1866-1947; Christy, Howard Chandler, 1873-1952 [Illustrator]",
-    "gutenbergReference": "12441",
-    "hash": "b57949810732714a53d34faec9b191182d236747ad94ad5c38325a28cab3a095"
+    "quoteFirst": "It rises at ",
+    "quoteTime": "4:53 p. m.",
+    "quoteLast": ", 3:55 p.",
+    "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55134",
+    "hash": "d6edb7646457123634faf16319574d33625a0f35125b1e6e15800d878b52a84b"
   },
   {
     "time": "16:53",
@@ -31,36 +31,6 @@
   },
   {
     "time": "16:53",
-    "quoteFirst": "on the 22nd; first quarter on the 29th, at ",
-    "quoteTime": "4:53 p. m.",
-    "quoteLast": " On the 1st it sets at 12:11 a.",
-    "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55208",
-    "hash": "b5eedb10ccee8309c25b6a0da87fbd08d4e984218304851c816e6c0cf195f364"
-  },
-  {
-    "time": "16:53",
-    "quoteFirst": "It is ",
-    "quoteTime": "seven minutes to five",
-    "quoteLast": ".",
-    "title": "Diminutive dramas",
-    "author": "Baring, Maurice, 1874-1945",
-    "gutenbergReference": "77668",
-    "hash": "0d68cbf303a30e65fc370797851a064a79163f2ae73868c81f774fecde564239"
-  },
-  {
-    "time": "16:53",
-    "quoteFirst": "His horse and hat were gone; his watch had stopped at ",
-    "quoteTime": "seven minutes to five",
-    "quoteLast": ".",
-    "title": "ODTAA: A novel",
-    "author": "Masefield, John, 1878-1967",
-    "gutenbergReference": "69339",
-    "hash": "ca956bcf5569533514233f92e89e6296dc4891a64084afd3d703fe7b52a80872"
-  },
-  {
-    "time": "16:53",
     "quoteFirst": "It rises at ",
     "quoteTime": "4:53 p. m.",
     "quoteLast": ", 3:55 p.",
@@ -71,13 +41,13 @@
   },
   {
     "time": "16:53",
-    "quoteFirst": "It rises at ",
-    "quoteTime": "4:53 p. m.",
-    "quoteLast": ", 3:55 p.",
-    "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55134",
-    "hash": "d6edb7646457123634faf16319574d33625a0f35125b1e6e15800d878b52a84b"
+    "quoteFirst": "",
+    "quoteTime": "4.53 p.m.",
+    "quoteLast": "  Sciatic nerve stimulated.",
+    "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
+    "author": "Leffingwell, Albert, 1845-1916",
+    "gutenbergReference": "20222",
+    "hash": "c0cdbbaa7f05b70e53b6771aa39c75673ed8b66695483d11dfcc1e6035172949"
   },
   {
     "time": "16:53",
@@ -91,6 +61,16 @@
   },
   {
     "time": "16:53",
+    "quoteFirst": "",
+    "quoteTime": "4.53 p.m.",
+    "quoteLast": "  Sciatic nerve stimulated.",
+    "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
+    "author": "Leffingwell, Albert, 1845-1916",
+    "gutenbergReference": "20222",
+    "hash": "c0cdbbaa7f05b70e53b6771aa39c75673ed8b66695483d11dfcc1e6035172949"
+  },
+  {
+    "time": "16:53",
     "quoteFirst": "It rises at ",
     "quoteTime": "4:53 p. m.",
     "quoteLast": ", 3:55 p.",
@@ -98,5 +78,25 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55134",
     "hash": "d6edb7646457123634faf16319574d33625a0f35125b1e6e15800d878b52a84b"
+  },
+  {
+    "time": "16:53",
+    "quoteFirst": "His horse and hat were gone; his watch had stopped at ",
+    "quoteTime": "seven minutes to five",
+    "quoteLast": ".",
+    "title": "ODTAA: A novel",
+    "author": "Masefield, John, 1878-1967",
+    "gutenbergReference": "69339",
+    "hash": "ca956bcf5569533514233f92e89e6296dc4891a64084afd3d703fe7b52a80872"
+  },
+  {
+    "time": "16:53",
+    "quoteFirst": "His horse and hat were gone; his watch had stopped at ",
+    "quoteTime": "seven minutes to five",
+    "quoteLast": ".",
+    "title": "ODTAA: A novel",
+    "author": "Masefield, John, 1878-1967",
+    "gutenbergReference": "69339",
+    "hash": "ca956bcf5569533514233f92e89e6296dc4891a64084afd3d703fe7b52a80872"
   }
 ]

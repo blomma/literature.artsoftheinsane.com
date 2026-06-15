@@ -1,33 +1,13 @@
 [
   {
     "time": "18:12",
-    "quoteFirst": "His wife      and children had not the mournful consolation to hear his last      words; he remained sotto voce for a few hours, and then was taken      from us at ",
-    "quoteTime": "6.12 P.m.",
-    "quoteLast": "  according to the caprice of God which passeth      understanding.”",
-    "title": "Following the Equator: A Journey Around the World",
-    "author": "Twain, Mark, 1835-1910",
-    "gutenbergReference": "2895",
-    "hash": "c18fec127f30b81588271de2c8b2bea9be65117de5872a383525e95d58f3345e"
-  },
-  {
-    "time": "18:12",
-    "quoteFirst": "The stomach was not free from food until ",
-    "quoteTime": "6.12 P.M.",
-    "quoteLast": " During that time the cat was fastened to the holder at intervals of half an hour, and the waves were always observed following one another in slow and monotonous succession.",
-    "title": "The A.B.-Z. of our own nutrition",
-    "author": "Fletcher, Horace, 1849-1919; Higgins, Hubert [Contributor]; Someren, Ernest van [Contributor]",
-    "gutenbergReference": "67326",
-    "hash": "fd9bd72b2ac498be08cdc2104803f76f3c15e522e01910701742afe8d73aa3b3"
-  },
-  {
-    "time": "18:12",
-    "quoteFirst": "His wife      and children had not the mournful consolation to hear his last      words; he remained sotto voce for a few hours, and then was taken      from us at ",
-    "quoteTime": "6.12 P.m.",
-    "quoteLast": "  according to the caprice of God which passeth      understanding.\"",
-    "title": "The Entire Project Gutenberg Works of Mark Twain",
-    "author": "Twain, Mark, 1835-1910",
-    "gutenbergReference": "3200",
-    "hash": "1039c2076b90c657b387a10b084f0bcdd8450dd34fb0a603194dba70b899cd31"
+    "quoteFirst": "The Astronomer Royal has fixed the Greenwich time at ",
+    "quoteTime": "twelve past six",
+    "quoteLast": ".",
+    "title": "The Poison Belt",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "gutenbergReference": "126",
+    "hash": "e9f2127282f5198f4d09363bc9aa95dd6696b2429e20bc0864d497aee027e6ee"
   },
   {
     "time": "18:12",
@@ -38,16 +18,6 @@
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "2895",
     "hash": "c18fec127f30b81588271de2c8b2bea9be65117de5872a383525e95d58f3345e"
-  },
-  {
-    "time": "18:12",
-    "quoteFirst": "Nevertheless I was forced to ask, because the entire Quarter is being searched for the man who, at ",
-    "quoteTime": "twelve minutes past six",
-    "quoteLast": " to-night, shot and instantly killed Major Ternoff, assistant secretary of police, as he was driving, in his open droschky, through the Pretchishlensky Boulevard, from the public offices of justice towards his home.\" And, with a stiff salute, the sergeant, followed by his three men, turned and left the room and the apartment.",
-    "title": "The Genius",
-    "author": "Potter, Margaret Horton, 1881-1911",
-    "gutenbergReference": "22004",
-    "hash": "f6d703c2bf4aeac7968a537320ece432f5422b0f0683a7509a0f74b4ceaf5083"
   },
   {
     "time": "18:12",
@@ -61,6 +31,56 @@
   },
   {
     "time": "18:12",
+    "quoteFirst": "Here is the vital sentence in his diary, as translated by Mr. Freshfield: “They started again [from the Petits Rochers Rouges], at 5.45 p.m., halted for a moment about every hundred yards, _changed occasionally the leadership_ [the italics are mine], at ",
+    "quoteTime": "6.12 p.m.",
+    "quoteLast": " gained two rocks protruding from the snow, and at 6.23 p.m. were on the actual summit.”",
+    "title": "The Alps",
+    "author": "Lunn, Arnold, 1888-1974",
+    "gutenbergReference": "56358",
+    "hash": "2fd9e447aed4878b5c1d1eade56cc25e8d1bd3e79313c02ec60499e264f4824d"
+  },
+  {
+    "time": "18:12",
+    "quoteFirst": "His wife      and children had not the mournful consolation to hear his last      words; he remained sotto voce for a few hours, and then was taken      from us at ",
+    "quoteTime": "6.12 P.m.",
+    "quoteLast": "  according to the caprice of God which passeth      understanding.”",
+    "title": "Following the Equator: A Journey Around the World",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "2895",
+    "hash": "c18fec127f30b81588271de2c8b2bea9be65117de5872a383525e95d58f3345e"
+  },
+  {
+    "time": "18:12",
+    "quoteFirst": "; first quarter, 21st, at ",
+    "quoteTime": "6:12 p. m.",
+    "quoteLast": "; full moon, 29th, at 1:06 a.",
+    "title": "The Chautauquan, Vol. 05, April 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55061",
+    "hash": "7f10b888a22a7e1715477ff957fbf6f2a2bf8f688f7ad13378a93fab712ddea3"
+  },
+  {
+    "time": "18:12",
+    "quoteFirst": "Nevertheless I was forced to ask, because the entire Quarter is being searched for the man who, at ",
+    "quoteTime": "twelve minutes past six",
+    "quoteLast": " to-night, shot and instantly killed Major Ternoff, assistant secretary of police, as he was driving, in his open droschky, through the Pretchishlensky Boulevard, from the public offices of justice towards his home.\" And, with a stiff salute, the sergeant, followed by his three men, turned and left the room and the apartment.",
+    "title": "The Genius",
+    "author": "Potter, Margaret Horton, 1881-1911",
+    "gutenbergReference": "22004",
+    "hash": "f6d703c2bf4aeac7968a537320ece432f5422b0f0683a7509a0f74b4ceaf5083"
+  },
+  {
+    "time": "18:12",
+    "quoteFirst": "; first quarter, 21st, at ",
+    "quoteTime": "6:12 p. m.",
+    "quoteLast": "; full moon, 29th, at 1:06 a.",
+    "title": "The Chautauquan, Vol. 05, April 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55061",
+    "hash": "7f10b888a22a7e1715477ff957fbf6f2a2bf8f688f7ad13378a93fab712ddea3"
+  },
+  {
+    "time": "18:12",
     "quoteFirst": "He did not touch the earth till ",
     "quoteTime": "6.12 p.m.",
     "quoteLast": ", having been in the air for twenty-four hours and twelve minutes.",
@@ -71,32 +91,12 @@
   },
   {
     "time": "18:12",
-    "quoteFirst": "There was a long running fight in which the _Mikasa_ greatly distinguished herself, and at ",
+    "quoteFirst": "The stomach was not free from food until ",
     "quoteTime": "6.12 P.M.",
-    "quoteLast": " a 12-inch shell came aboard her and burst close to her bridge on the port side.",
-    "title": "Makers of Japan",
-    "author": "Morris, J. (John) (Writer on Japan)",
-    "gutenbergReference": "70710",
-    "hash": "80af839840e8ed4524eda0988e36dbe0f1129468359e8e71e38dd39e15ace59b"
-  },
-  {
-    "time": "18:12",
-    "quoteFirst": "The Astronomer Royal has fixed the Greenwich time at ",
-    "quoteTime": "twelve past six",
-    "quoteLast": ".",
-    "title": "The Poison Belt",
-    "author": "Doyle, Arthur Conan, 1859-1930",
-    "gutenbergReference": "126",
-    "hash": "e9f2127282f5198f4d09363bc9aa95dd6696b2429e20bc0864d497aee027e6ee"
-  },
-  {
-    "time": "18:12",
-    "quoteFirst": "Wednesday ",
-    "quoteTime": "6:12 P.M.",
-    "quoteLast": "",
-    "title": "Project Daedalus",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34320",
-    "hash": "9bd7f9c679ea24e76f3bd8f1ed656c1bec09b784fe980a4ec6507e454f129d3a"
+    "quoteLast": " During that time the cat was fastened to the holder at intervals of half an hour, and the waves were always observed following one another in slow and monotonous succession.",
+    "title": "The A.B.-Z. of our own nutrition",
+    "author": "Fletcher, Horace, 1849-1919; Higgins, Hubert [Contributor]; Someren, Ernest van [Contributor]",
+    "gutenbergReference": "67326",
+    "hash": "fd9bd72b2ac498be08cdc2104803f76f3c15e522e01910701742afe8d73aa3b3"
   }
 ]

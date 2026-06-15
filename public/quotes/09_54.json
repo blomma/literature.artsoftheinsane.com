@@ -11,66 +11,6 @@
   },
   {
     "time": "09:54",
-    "quoteFirst": "Delaware immediately set to work to right conditions, the hours of labor being set from ",
-    "quoteTime": "six to ten in the morning",
-    "quoteLast": ", and from two to four in the afternoon.",
-    "title": "The Colonization of North America, 1492-1783",
-    "author": "Bolton, Herbert Eugene, 1870-1953; Marshall, Thomas Maitland, 1876-1936",
-    "gutenbergReference": "36619",
-    "hash": "3b1555c483cf5b511d91ba683f5a537cc8a446fd6fe48196b550446b4eec0115"
-  },
-  {
-    "time": "09:54",
-    "quoteFirst": "It was ",
-    "quoteTime": "six minutes to ten",
-    "quoteLast": ".",
-    "title": "The Wire Devils",
-    "author": "Packard, Frank L. (Frank Lucius), 1877-1942",
-    "gutenbergReference": "52084",
-    "hash": "ba3dcd5a7b885b585b2069c17a940b87f9654165a844ca09e57bfcd6f7f0e7fd"
-  },
-  {
-    "time": "09:54",
-    "quoteFirst": "The discipline was very strict: three times a week there was drill from ",
-    "quoteTime": "six to ten in the morning",
-    "quoteLast": ", in the quadrangle of the Louvre, and twice a month shooting practice at Vincennes.",
-    "title": "My Memoirs, Vol. V, 1831 to 1832",
-    "author": "Dumas, Alexandre, 1802-1870; Waller, E. M. (Emily Mary) [Translator]",
-    "gutenbergReference": "50768",
-    "hash": "3c797e7b387815fc6fc386fc547d4664f9ea3f2c8a03681c5fe863038fcebab3"
-  },
-  {
-    "time": "09:54",
-    "quoteFirst": "Delaware immediately set to work to right conditions, the hours of labor being set from ",
-    "quoteTime": "six to ten in the morning",
-    "quoteLast": ", and from two to four in the afternoon.",
-    "title": "The Colonization of North America, 1492-1783",
-    "author": "Bolton, Herbert Eugene, 1870-1953; Marshall, Thomas Maitland, 1876-1936",
-    "gutenbergReference": "36619",
-    "hash": "3b1555c483cf5b511d91ba683f5a537cc8a446fd6fe48196b550446b4eec0115"
-  },
-  {
-    "time": "09:54",
-    "quoteFirst": "Delaware immediately set to work to right conditions, the hours of labor being set from ",
-    "quoteTime": "six to ten in the morning",
-    "quoteLast": ", and from two to four in the afternoon.",
-    "title": "The Colonization of North America, 1492-1783",
-    "author": "Bolton, Herbert Eugene, 1870-1953; Marshall, Thomas Maitland, 1876-1936",
-    "gutenbergReference": "36619",
-    "hash": "3b1555c483cf5b511d91ba683f5a537cc8a446fd6fe48196b550446b4eec0115"
-  },
-  {
-    "time": "09:54",
-    "quoteFirst": "Delaware immediately set to work to right conditions, the hours of labor being set from ",
-    "quoteTime": "six to ten in the morning",
-    "quoteLast": ", and from two to four in the afternoon.",
-    "title": "The Colonization of North America, 1492-1783",
-    "author": "Bolton, Herbert Eugene, 1870-1953; Marshall, Thomas Maitland, 1876-1936",
-    "gutenbergReference": "36619",
-    "hash": "3b1555c483cf5b511d91ba683f5a537cc8a446fd6fe48196b550446b4eec0115"
-  },
-  {
-    "time": "09:54",
     "quoteFirst": "Landed 1.54 P. M. Greenwich mean time, or ",
     "quoteTime": "9.54 A. M.",
     "quoteLast": " U. S. A. summer time, at Hazelhurst Field, Long Island.",
@@ -81,13 +21,23 @@
   },
   {
     "time": "09:54",
-    "quoteFirst": "Delaware immediately set to work to right conditions, the hours of labor being set from ",
+    "quoteFirst": "School is in session daily from ",
+    "quoteTime": "six to ten A. M.",
+    "quoteLast": ", at which time all go home to breakfast.",
+    "title": "When I was a boy in China",
+    "author": "Lee, Yan Phou, 1861-1938?",
+    "gutenbergReference": "74717",
+    "hash": "754bc48e5e33d04f2fc17db3881a627bd57836c31921a0cbdb8103338ccf6b75"
+  },
+  {
+    "time": "09:54",
+    "quoteFirst": "Martial law brought order and uniformity in operations and compelled the people to work regularly, the hours being ",
     "quoteTime": "six to ten in the morning",
-    "quoteLast": ", and from two to four in the afternoon.",
-    "title": "The Colonization of North America, 1492-1783",
-    "author": "Bolton, Herbert Eugene, 1870-1953; Marshall, Thomas Maitland, 1876-1936",
-    "gutenbergReference": "36619",
-    "hash": "3b1555c483cf5b511d91ba683f5a537cc8a446fd6fe48196b550446b4eec0115"
+    "quoteLast": ", two to four in the afternoon.",
+    "title": "The First Seventeen Years: Virginia 1607-1624",
+    "author": "Hatch, Charles E., Jr.",
+    "gutenbergReference": "30780",
+    "hash": "c4f6343a0471aa6214d7f7b1ec43dc8d90257f0d3bcb43a006471a79c9a4a6c8"
   },
   {
     "time": "09:54",
@@ -98,5 +48,55 @@
     "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
     "gutenbergReference": "66032",
     "hash": "73110e79578eeb996adb9e003f13bde53f21b9c770d3d678643205c93bad7ada"
+  },
+  {
+    "time": "09:54",
+    "quoteFirst": "School is in session daily from ",
+    "quoteTime": "six to ten A. M.",
+    "quoteLast": ", at which time all go home to breakfast.",
+    "title": "When I was a boy in China",
+    "author": "Lee, Yan Phou, 1861-1938?",
+    "gutenbergReference": "74717",
+    "hash": "754bc48e5e33d04f2fc17db3881a627bd57836c31921a0cbdb8103338ccf6b75"
+  },
+  {
+    "time": "09:54",
+    "quoteFirst": "27th, ",
+    "quoteTime": "6 to 10 a.m.",
+    "quoteLast": ", in large flocks to N.W. At Corton L.V., Nov.",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1880. [Second Report]",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Cordeaux, John, 1831-1899; Kermode, P. M. C. (Philip Moore Callow), 1855?-1932",
+    "gutenbergReference": "65411",
+    "hash": "e77c64b8fde0f4a89e237fd588abcdd62c03b5e4d25f6d0ffcd03c56bbee0c6a"
+  },
+  {
+    "time": "09:54",
+    "quoteFirst": "School is in session daily from ",
+    "quoteTime": "six to ten A. M.",
+    "quoteLast": ", at which time all go home to breakfast.",
+    "title": "When I was a boy in China",
+    "author": "Lee, Yan Phou, 1861-1938?",
+    "gutenbergReference": "74717",
+    "hash": "754bc48e5e33d04f2fc17db3881a627bd57836c31921a0cbdb8103338ccf6b75"
+  },
+  {
+    "time": "09:54",
+    "quoteFirst": "Martial law brought order and uniformity in operations and compelled the people to work regularly, the hours being ",
+    "quoteTime": "six to ten in the morning",
+    "quoteLast": ", two to four in the afternoon.",
+    "title": "The First Seventeen Years: Virginia 1607-1624",
+    "author": "Hatch, Charles E., Jr.",
+    "gutenbergReference": "30780",
+    "hash": "c4f6343a0471aa6214d7f7b1ec43dc8d90257f0d3bcb43a006471a79c9a4a6c8"
+  },
+  {
+    "time": "09:54",
+    "quoteFirst": "In the summer theory is studied from ",
+    "quoteTime": "6 till 10 a.m.",
+    "quoteLast": ", practical work, 10.30 a.m. till 5.30 p.m.; in the winter, theory is from 2 till 6 p.m., practical work, 7.30 a.m. till 1 p.m.",
+    "title": "Gardening for women",
+    "author": "Wolseley, Frances Garnet, Viscountess, 1872-1936",
+    "gutenbergReference": "69705",
+    "hash": "b078f2b2e54b43eb1ed8971c2e1961ff0192242ff56d1059fd303f0f504cc192"
   }
 ]

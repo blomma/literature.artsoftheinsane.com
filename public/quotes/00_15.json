@@ -1,83 +1,43 @@
 [
   {
     "time": "00:15",
-    "quoteFirst": "It was a ",
-    "quoteTime": "quarter past twelve at night",
-    "quoteLast": ", yet not at all dark.",
-    "title": "Lachesis Lapponica; Or, A Tour in Lapland, Volume 1",
-    "author": "Linné, Carl von, 1707-1778; Smith, James Edward, 1759-1828 [Editor]; Troilius, Charles [Translator]",
-    "gutenbergReference": "34779",
-    "hash": "825b303f84c2273881f509c219d5c3ed0fa2c43b22c6e6c7a5011a69db307f3e"
+    "quoteFirst": "If you're catching the ",
+    "quoteTime": "twelve-fifteen",
+    "quoteLast": ", you ought to be staggering round to see you haven't forgotten anything.",
+    "title": "A Damsel in Distress",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "2233",
+    "hash": "f0497dd879b25566084c8b6a76a7c468f7d88221a0c960fb3ed0e5f160ef0ade"
   },
   {
     "time": "00:15",
-    "quoteFirst": "But I was not altogether calm, though I did my best to appear so, when I entered that kitchen at ",
-    "quoteTime": "a quarter past twelve",
-    "quoteLast": ".",
-    "title": "The Rise of Roscoe Paine",
-    "author": "Lincoln, Joseph Crosby, 1870-1944",
-    "gutenbergReference": "3137",
-    "hash": "e81d00eab2b2220af9c19ff45ca1d583b6a360062f0ac68c2ba5fcac7b393772"
+    "quoteFirst": "\"We'll have to look sharp if we're to catch that ",
+    "quoteTime": "twelve-fifteen",
+    "quoteLast": ". Here's luck--a taxi.\"",
+    "title": "Billy Barcroft, R.N.A.S.: A Story of the Great War",
+    "author": "Westerman, Percy F. (Percy Francis), 1876-1959",
+    "gutenbergReference": "35362",
+    "hash": "f44d461f82ffc756f8388bd75b1bda3afe479a52273788431ef7d46ce1ff7287"
   },
   {
     "time": "00:15",
-    "quoteFirst": "Ned considered his plans as near perfect as any human plans can be, still he did not know exactly what would happen at ",
-    "quoteTime": "a quarter past twelve",
-    "quoteLast": ".",
-    "title": "Boy Scouts on Motorcycles; Or, With the Flying Squadron",
-    "author": "Ralphson, G. Harvey (George Harvey), 1879-1940",
-    "gutenbergReference": "11469",
-    "hash": "5155d9701410234d517660328268c70e2b1ef3fe030848e720714f3702b04b3b"
+    "quoteFirst": "",
+    "quoteTime": "Twelve-fifteen",
+    "quoteLast": " was the time set.”",
+    "title": "Death in the dusk",
+    "author": "Markham, Virgil, 1899-1973",
+    "gutenbergReference": "75273",
+    "hash": "3911c1575861b53a6958d712201b8f839bcf8e79a30144d2df55fd3b32d443c9"
   },
   {
     "time": "00:15",
-    "quoteFirst": "\"Yes, at ten minutes past twelve by my clock, ",
-    "quoteTime": "a quarter past twelve",
-    "quoteLast": " by my watch; for I looked, Mr. Leigh. You nodded. I told the gentlemen here how wonderfully particular you were about time, and how your clock would go right to a fraction of a second. If I am not mistaken this gentleman was here. Weren't you here, sir?\"",
-    "title": "Miracle Gold: A Novel (Vol. 3 of 3)",
-    "author": "Dowling, Richard, 1846-1898",
-    "gutenbergReference": "42499",
-    "hash": "a71dc38c4e8ae403bc8a542a5337d18196e63f1b9dec2fc1867b247da05f5da6"
-  },
-  {
-    "time": "00:15",
-    "quoteFirst": "But at ",
-    "quoteTime": "quarter past twelve",
-    "quoteLast": " the assistant surgeon, Doctor Schuchardt, called, as was known, for the second time, and entered without ceremony.",
-    "title": "Lanier of the Cavalry; or, A Week's Arrest",
-    "author": "King, Charles, 1844-1933; McKernan, Frank, 1861-1934 [Illustrator]",
-    "gutenbergReference": "19507",
-    "hash": "fb0406c3fa3d93aac616642c3be02573650be35a4478d93d1527ebe9634b6d25"
-  },
-  {
-    "time": "00:15",
-    "quoteFirst": "“Then I will come at ",
-    "quoteTime": "quarter past twelve",
-    "quoteLast": ". But I shall rely upon you for protection!”",
-    "title": "The Prisoner of the Mill; or, Captain Hayward's \"Body Guard\"",
-    "author": "Hazelton, Harry",
-    "gutenbergReference": "51318",
-    "hash": "165b89bddd414409c5b453002a52db9b9140b4dd54af1746ee6ebef578de1325"
-  },
-  {
-    "time": "00:15",
-    "quoteFirst": "The difficulty of easily recognising the figures \"0015\" as representing ",
-    "quoteTime": "12.15 a.m.",
-    "quoteLast": ", \"1430\" as 2.30 p.m., and \"2245\" as 10.45 p.m., may be quite understood.",
-    "title": "The 28th: A Record of War Service in the Australian Imperial Force, 1915-19, Vol. I\nEgypt, Gallipoli, Lemnos Island, Sinai Peninsula",
-    "author": "Collett, Herbert Brayley, 1877-1947",
-    "gutenbergReference": "25341",
-    "hash": "aa85d34327cce3800a9b58c21d056450e0cf95c9529cb8f7cbbf4f8eff08be8a"
-  },
-  {
-    "time": "00:15",
-    "quoteFirst": "\"He promised to be here at ",
-    "quoteTime": "quarter-past twelve",
-    "quoteLast": ",\" said Florence Cummings, \"but I'm sure it's that now. What if he shouldn't come after all, and spoil our plans? I wish I'd offered him more money, but he seemed perfectly satisfied with my proposition. I think I'd almost be tempted to jump in myself if he didn't come. I don't just like the idea of an ice-cold bath, but I could do the swim all right. Are the ladder and rope here? Joe said he would bring them down after ten.\"",
-    "title": "Jean Cabot at Ashton",
-    "author": "Scott, Gertrude Fisher; Scott, A. O. (Arthur Orange), 1882?-1946 [Illustrator]",
-    "gutenbergReference": "53548",
-    "hash": "9144eda31b005172bb940005fc6ea02201b97df2698f9fea1943a5a6a098570d"
+    "quoteFirst": "30, I arrived at Trier on a second-class      ticket at about 10:30 P.M. There I bought a third-class ticket      and boarded a train leaving about 11:10 P.M. and reached      Luxemburg at about ",
+    "quoteTime": "12:15 A.M.",
+    "quoteLast": " I did not go into the railroad      station, but, trusting to my papers, boarded a military train      leaving at 12:45 A.M., going over Longwy to Longuyon, where I      arrived at 3:30 A.M., Sunday.",
+    "title": "The New York Times Current History: the European War, February, 1915",
+    "author": "Various",
+    "gutenbergReference": "18880",
+    "hash": "54856df87cc7e940273f399c22687ea467e5cdc299d7c35e18db8aef68174b91"
   },
   {
     "time": "00:15",
@@ -91,12 +51,52 @@
   },
   {
     "time": "00:15",
-    "quoteFirst": "When the usual hour of landing for breakfast had arrived, the banks were too marshy to admit of it, and we went on until ",
-    "quoteTime": "a quarter past twelve",
+    "quoteFirst": "As the third ",
+    "quoteTime": "quarter after midnight",
+    "quoteLast": " struck, he stood by the stove, closely wrapped in his mantle, in the upper passage way of the palace, watching with anxious eyes, by the dim light of the almost expiring lamps, the first door on the left.",
+    "title": "Tales from the German.  Volume II.",
+    "author": "Velde, C. F. van der (Carl Franz), 1779-1824; Greene, Nathaniel, 1797-1877 [Translator]",
+    "gutenbergReference": "32444",
+    "hash": "e77726785fcee86df1039f496591b423e94759877f734c9b2b7092e6e18a53b6"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "She glanced at her wrist watch and saw that it was ",
+    "quoteTime": "twelve-fifteen",
     "quoteLast": ".",
-    "title": "Narrative of an Expedition Through the Upper Mississippi to Itasca Lake, the Actual Source of This River\r\nEmbracing an Exploratory Trip Through the St. Croix and Burntwood (or Broule) Rivers",
-    "author": "Schoolcraft, Henry Rowe, 1793-1864",
-    "gutenbergReference": "64866",
-    "hash": "2d044d32e256d53c4fcb14e707144e89ccac0336af68285c86ccbc041c0e5844"
+    "title": "The Deserted Yacht\nMadge Sterling Series, #2",
+    "author": "Wirt, Mildred A. (Mildred Augustine), 1905-2002",
+    "gutenbergReference": "40042",
+    "hash": "668f7fc71d8d5aba875ae7f3cca18fb3afdf7b8bce42bc9eb08979f6706b9c86"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "The stillness had just been broken by the stroke of ",
+    "quoteTime": "a quarter past twelve",
+    "quoteLast": " from a distant church tower, when, from the obscurity of one of these chimney shadows, a head emerged.",
+    "title": "Cashel Byron's Profession",
+    "author": "Shaw, Bernard, 1856-1950",
+    "gutenbergReference": "5872",
+    "hash": "64bb60150ce0070ba17b3afae26f7808bf2ff661d4ef9a2acc14a54b6eb16da4"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "Shortly before the train resumed its long journey, at ",
+    "quoteTime": "a quarter past midnight",
+    "quoteLast": ", the President gave out the following card of thanks to the people of California:",
+    "title": "Speeches of Benjamin Harrison, Twenty-third President of the United States",
+    "author": "Harrison, Benjamin, 1833-1901; Hedges, Charles [Compiler]",
+    "gutenbergReference": "44682",
+    "hash": "b3982b81c8c240fddb002f939126b02404deffa6b056ea5d4344688fc07806b4"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "Mr. Carnegie spoke these last words very slowly and wearily, and with his most wistful look; and then, recalling himself suddenly, and handing me a glass to look at New York with and see what I thought of it, he asked to be excused for a moment, and saying, \"I have fourteen libraries to give away before ",
+    "quoteTime": "a quarter past twelve",
+    "quoteLast": ",\" he hurried out of the room.",
+    "title": "Crowds\nA Moving-Picture of Democracy",
+    "author": "Lee, Gerald Stanley, 1862-1944",
+    "gutenbergReference": "15759",
+    "hash": "9f65a226d343f09bb0fb2d27a22bd1f2806a0bc83e56b1ea996826a063e8ca5b"
   }
 ]

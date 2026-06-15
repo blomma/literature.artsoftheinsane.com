@@ -1,6 +1,26 @@
 [
   {
     "time": "19:40",
+    "quoteFirst": "",
+    "quoteTime": "7.40 p.m.",
+    "quoteLast": "  Evening study.",
+    "title": "The Story of the \"Britannia\"\r\nThe training ship for naval cadets. With some account of previous methods of naval education, and of the new scheme of 1903.",
+    "author": "Statham, Edward Phillips, -1921",
+    "gutenbergReference": "46788",
+    "hash": "49fae02aa77f0d8e8c739cebb8dc47e4a130a144c27347c1dae60560ab6eefc7"
+  },
+  {
+    "time": "19:40",
+    "quoteFirst": "And when she got there it was ",
+    "quoteTime": "twenty minutes to eight",
+    "quoteLast": ".",
+    "title": "The Reason Why",
+    "author": "Glyn, Elinor, 1864-1943",
+    "gutenbergReference": "12450",
+    "hash": "ac816fe0d93fc7ef207df9fc0f52d6d31c70033d97677d2f7edc3190ae6ee09b"
+  },
+  {
+    "time": "19:40",
     "quoteFirst": "The good-humoured little stewardess, however, told me she was not yet up, though it wanted but ",
     "quoteTime": "twenty minutes to eight",
     "quoteLast": ", on which I shot through the companion into the windy splendour of the grandest ocean morning that ever set a man fresh from his bed blinking.",
@@ -11,92 +31,72 @@
   },
   {
     "time": "19:40",
-    "quoteFirst": "Everyone was pretty cheerful—it was ",
-    "quoteTime": "twenty minutes to eight",
-    "quoteLast": " and most of us were young.",
-    "title": "Working With the Working Woman",
-    "author": "Parker, Cornelia Stratton, 1885-1972",
-    "gutenbergReference": "24959",
-    "hash": "c19d4face3569ab8bf5c4927ab492001e1c09222095f5cb88256aae7b710cce8"
+    "quoteFirst": "\"I've got time to make that ",
+    "quoteTime": "seven-forty",
+    "quoteLast": ", if you rush it.\"",
+    "title": "The White Desert",
+    "author": "Cooper, Courtney Ryley, 1886-1940; Fischer, Anton Otto, 1882-1962 [Illustrator]",
+    "gutenbergReference": "20155",
+    "hash": "bd52bb0bd5f8620354d65df3840fb120a445261ad2d8fbd39bb93f50adcffee6"
   },
   {
     "time": "19:40",
-    "quoteFirst": "By ",
+    "quoteFirst": "For some time Captain Lloyd could not believe that it really was a rock, and so to verify it he sailed as close to it as possible; and as the morning was a perfectly clear one, and the hour ",
     "quoteTime": "twenty minutes to eight",
-    "quoteLast": " the 91st Brigade was held up at Lewis House and forced back to its original line; at half-past eight elements of the 20th Brigade had reached Gheluvelt, but were stopped by the enemy pill-boxes and ultimately had to come back.",
-    "title": "The History of the 33rd Divisional Artillery, in the War, 1914-1918.",
-    "author": "Macartney-Filgate, John Victor; Horne, Henry, 1861-1929 [Author of introduction, etc.]",
-    "gutenbergReference": "51776",
-    "hash": "03ac6767b0ad7ec704be9fc0604eb5257848e0276985418abd62d3f723302c4b"
+    "quoteLast": ", he was at last compelled to believe the evidence of his eyes, that here was a large rock, extremely dangerous to navigation, lying five hundred miles north-northwest of the Azores!",
+    "title": "By way of Cape Horn",
+    "author": "Stevenson, Paul Eve, 1868-1910",
+    "gutenbergReference": "75710",
+    "hash": "1932c2b4450a3952c382264c4fb5e92d88f8719ef08fc70057be7eeb8de76cdd"
   },
   {
     "time": "19:40",
-    "quoteFirst": "--well, then at the railway station, the South-Eastern, for Paris: say, ",
+    "quoteFirst": "So it happened that when it was ",
     "quoteTime": "twenty minutes to eight",
-    "quoteLast": ".",
-    "title": "Complete Project Gutenberg Works of George Meredith",
-    "author": "Meredith, George, 1828-1909",
-    "gutenbergReference": "4500",
-    "hash": "9d56ed311262d7d0e7af0437b465c486a62510bb2a4d846613ff35bdfff0a265"
+    "quoteLast": " Mr. Sprague said: \"I feel sleepy. I think I shall turn in now.\"",
+    "title": "Mark Mason's Victory: The Trials and Triumphs of a Telegraph Boy",
+    "author": "Alger, Horatio, Jr., 1832-1899",
+    "gutenbergReference": "34499",
+    "hash": "0bbf061a6f039d4ef9248a6918a0b3061de428a5a1e8af630824b39c4d8649d1"
   },
   {
     "time": "19:40",
-    "quoteFirst": "At Calcutta, the corresponding time would be 6.1-1/2 p.m., Canton ",
+    "quoteFirst": "Jackson came up on the right of the Georgians, \"sweeping before him the rallied fragments who had collected and resumed fire from the woods to the right, and thus, at ",
+    "quoteTime": "7:40 p. m.",
+    "quoteLast": ", we closed our busy day.\" A day of splendid achievement!",
+    "title": "Confederate Military History - Volume 5 (of 12)\nA Library of Confederate States History",
+    "author": "Capers, Ellison, 1837-1908; Evans, Clement A. (Clement Anselm), 1833-1911 [Editor]",
+    "gutenbergReference": "50737",
+    "hash": "f985056ff9b3b68d4c7fbd3553546f9ba398776e33ba56ffba136b684f4c5ba4"
+  },
+  {
+    "time": "19:40",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes before eight",
+    "quoteLast": " the same morning, Mary died.",
+    "title": "Mary Wollstonecraft",
+    "author": "Pennell, Elizabeth Robins, 1855-1936",
+    "gutenbergReference": "22800",
+    "hash": "d0ac9df2451b3e2d4b71777760636135d7c43f77b52ffe4656e6cd2cd0b23a9e"
+  },
+  {
+    "time": "19:40",
+    "quoteFirst": "",
     "quoteTime": "7.40 p.m.",
-    "quoteLast": ", Japan 9.15 p.m., Mexico 5.34 a.m., New Orleans 8.5 a.m., New York 7.11 a.m., New Zealand 11.45 p.m., Nova Scotia 7.55 a.m., San Francisco 4.5 a.m., St., Petersburg 2.10 p.m., Sydney 10.12 p.m., and at Washington just seven o'clock in the morning.",
-    "title": "Showell's Dictionary of Birmingham\r\nA History and Guide, Arranged Alphabetically",
-    "author": "Harman, Thomas T.; Showell, Walter, 1836?-1901",
-    "gutenbergReference": "14472",
-    "hash": "38bc5a2924359b6af0ce6f11a56167c2a024b1c6f0b7c9a0dabfb81678ce6708"
+    "quoteLast": "  Evening study.",
+    "title": "The Story of the \"Britannia\"\r\nThe training ship for naval cadets. With some account of previous methods of naval education, and of the new scheme of 1903.",
+    "author": "Statham, Edward Phillips, -1921",
+    "gutenbergReference": "46788",
+    "hash": "49fae02aa77f0d8e8c739cebb8dc47e4a130a144c27347c1dae60560ab6eefc7"
   },
   {
     "time": "19:40",
-    "quoteFirst": "When she entered the lounge it was ",
-    "quoteTime": "twenty minutes to eight",
-    "quoteLast": " and, although dinner was at seven-thirty, the room was full.",
-    "title": "Patricia Brent, Spinster",
-    "author": "Jenkins, Herbert George, 1876-1923",
-    "gutenbergReference": "33353",
-    "hash": "4f77e1dbaa73f0c1ebab14d774c008697ac9699df1b0991980ab034600531e85"
-  },
-  {
-    "time": "19:40",
-    "quoteFirst": "The five minutes past six train, express from Boston, arrived on time, and at ",
-    "quoteTime": "twenty minutes of eight",
-    "quoteLast": ", Mr. Quincy Adams Sawyer entered the private dining-room in the Eagle Hotel.",
-    "title": "Quincy Adams Sawyer and Mason's Corner Folks\nA Picture of New England Home Life",
-    "author": "Pidgin, Charles Felton, 1844-1923",
-    "gutenbergReference": "16414",
-    "hash": "7dd766793effd0acdeddcc0446a46f5e29ac228ed856737711ca2180bc907e7c"
-  },
-  {
-    "time": "19:40",
-    "quoteFirst": "Hearing this, I went to the railway station, and there learnt that Mr. Curling and my child had started for London by the train that left at ",
-    "quoteTime": "twenty minutes to eight",
-    "quoteLast": ".",
-    "title": "Jilted! Or, My Uncle's Scheme, Volume 3",
-    "author": "Russell, William Clark, 1844-1911",
-    "gutenbergReference": "62586",
-    "hash": "7de35c419f8e86ea0b4dc8a0e7a46afe54a613b568427f868a70f5985e2edd38"
-  },
-  {
-    "time": "19:40",
-    "quoteFirst": "It is ",
-    "quoteTime": "twenty minutes of eight",
-    "quoteLast": " by the local clock in the cable office.",
-    "title": "The Transgressors. Story of a Great Sin. A Political Novel of the Twentieth Century",
-    "author": "Adams, Francis A. (Francis Alexandre), 1874-1975",
-    "gutenbergReference": "14633",
-    "hash": "c23f9410fe11fbcb7f36a2f395e849c4a83bc5cd9105dacb70253901e145ad9d"
-  },
-  {
-    "time": "19:40",
-    "quoteFirst": "I stayed in the cathedral till seven, and at ",
-    "quoteTime": "twenty minutes to eight",
-    "quoteLast": " I found one of the nicest trains I ever saw in my life waiting to take me on to Berlin.",
-    "title": "Dagonet Abroad",
-    "author": "Sims, George R. (George Robert), 1847-1922",
-    "gutenbergReference": "58836",
-    "hash": "c95679979f1c6b3c071ecfabae3b966ed88a8cb9ad38a8c99404bb6fdb7f6c54"
+    "quoteFirst": "On the 30th we had severe skirmishing in which artillery was brought into action, when at ",
+    "quoteTime": "7:40 p. m.",
+    "quoteLast": " General Meade ordered the attack to cease.",
+    "title": "History of the Fifty-Seventh Regiment, Pennsylvania Veteran Volunteer Infantry\r\nFirst Brigade, First Division, Third Corps and Second Brigade, Third Division, Second Corps, Army of the Potomac",
+    "author": "Various",
+    "gutenbergReference": "58315",
+    "hash": "62a5ee70ab29a45df965fde7ba147f803017057b46df9c788dcc74c53b4d9c1e"
   }
 ]

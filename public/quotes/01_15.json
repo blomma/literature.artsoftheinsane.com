@@ -1,53 +1,33 @@
 [
   {
     "time": "01:15",
-    "quoteFirst": "This again was very irregular, for the watch on her wrist told her that it was not yet a ",
+    "quoteFirst": "Along about ",
+    "quoteTime": "a quarter past one",
+    "quoteLast": " in came a delegation of ladies from the Methodist church, nominating their parson, Rev.",
+    "title": "Mark Tidd in Business",
+    "author": "Kelland, Clarence Budington, 1881-1964; Clarke, William Wallace [Illustrator]",
+    "gutenbergReference": "46269",
+    "hash": "7af31d2fd5b9e47d312638de7bdb0fdbf57ac5a5e235e4ec835de50397d28abf"
+  },
+  {
+    "time": "01:15",
+    "quoteFirst": "I was asked then how I could account for my dog being in the church at ",
+    "quoteTime": "quarter after one",
+    "quoteLast": ".",
+    "title": "Nobody's boy (Sans famille)",
+    "author": "Malot, Hector, 1830-1907; Gruelle, Johnny, 1880-1938 [Illustrator]; Crewe-Jones, Florence, 1876-1940 [Translator]",
+    "gutenbergReference": "25102",
+    "hash": "7ecdd9c998f875bdd44b13d548f1bf7b96202d6efc299406525a04a3bd3df037"
+  },
+  {
+    "time": "01:15",
+    "quoteFirst": "As the clocks chimed a ",
     "quoteTime": "quarter-past one",
-    "quoteLast": ", the hour at which he invariably ordered a glass of sherry at the club, to fortify him for his walk home.",
-    "title": "Mrs. Ames",
-    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
-    "gutenbergReference": "60168",
-    "hash": "d2726d3bd2fc66080767be519728329d059e2b1a69ce78b3f7108cca21eb59aa"
-  },
-  {
-    "time": "01:15",
-    "quoteFirst": "At ",
-    "quoteTime": "a quarter past one",
-    "quoteLast": ", two of our ships to windward exchanged a good many shots with the enemy.",
-    "title": "Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II",
-    "author": "Ross, John, Sir, 1777-1856",
-    "gutenbergReference": "27151",
-    "hash": "a057519964859fbbb442e8e563560b29d7cd824313d034b6fc19b7e95cd3350c"
-  },
-  {
-    "time": "01:15",
-    "quoteFirst": "At ",
-    "quoteTime": "a quarter past one",
-    "quoteLast": " afternoon, a small shower, which             lasted one hour 35 minutes.",
-    "title": "Travels to Discover the Source of the Nile, Volume 3 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
-    "author": "Bruce, James, 1730-1794",
-    "gutenbergReference": "54531",
-    "hash": "371582b6745ac803dab86091b1266ec61a24611e3d7b62267af86aa14dd7c1c4"
-  },
-  {
-    "time": "01:15",
-    "quoteFirst": "At midnight candles went out as before, something walked majestically through the room and opened and shut the window; great stones were thrown violently into the room, some whereof fell on the beds, others on the floor; and about ",
-    "quoteTime": "a quarter after one",
-    "quoteLast": ", a noise was heard as of forty cannon discharged together, and again repeated at about eight minutes’ distance.",
-    "title": "Woodstock; or, the Cavalier",
-    "author": "Scott, Walter, 1771-1832",
-    "gutenbergReference": "9785",
-    "hash": "328b0ce398bd22abe0dbb388f28b6ab53d14a39c5603cdbe3fb5792c6a87ef23"
-  },
-  {
-    "time": "01:15",
-    "quoteFirst": "At ",
-    "quoteTime": "a quarter past one",
-    "quoteLast": " Mrs. Geedge observed them returning.",
-    "title": "Bealby; A Holiday",
-    "author": "Wells, H. G. (Herbert George), 1866-1946",
-    "gutenbergReference": "59769",
-    "hash": "ffcac4cb06d94f666423909fc1f6476b68968c8167af01e9bf02b20df4aa5ac3"
+    "quoteLast": " she stood at the pillared portico.",
+    "title": "The Song of Songs",
+    "author": "Sudermann, Hermann, 1857-1928; Marshall, Beatrice, 1861-1944 [Translator]",
+    "gutenbergReference": "34361",
+    "hash": "6918a290b74a1ac6caa7065d63ab2f54110eccb0fd1f6c1e6fd5971cdd866f98"
   },
   {
     "time": "01:15",
@@ -61,42 +41,62 @@
   },
   {
     "time": "01:15",
-    "quoteFirst": "It chimed ",
-    "quoteTime": "a quarter past one",
-    "quoteLast": " as the cyclists reached Blacklands Church.",
-    "title": "The Thirteenth Man",
-    "author": "Kernahan, Coulson, Mrs., 1857-1941",
-    "gutenbergReference": "69024",
-    "hash": "b3734ba79af5334d9719e0857150fede2f2abdf2ebdcb9b56e8433e998a765ed"
+    "quoteFirst": "For ",
+    "quoteTime": "one-fifteen",
+    "quoteLast": "; one-fifteen Allonby, Richards, seven to-night.",
+    "title": "The Story of Louie",
+    "author": "Onions, Oliver, 1873-1961",
+    "gutenbergReference": "37838",
+    "hash": "44a9e2872f42c178bfa24677d4424126c1dd40338133c351d65dee65656782ce"
   },
   {
     "time": "01:15",
-    "quoteFirst": "At ",
-    "quoteTime": "quarter-past one",
-    "quoteLast": ", when the Ridgley team ran out on the field for warming-up practice, Coach Murray looked over the squad and yelled sharply:",
-    "title": "The Mark of the Knife",
-    "author": "Ernst, Clayton H. (Clayton Holt), 1886-1945; Emerson, Chase, 1874?-1922? [Illustrator]",
-    "gutenbergReference": "30985",
-    "hash": "e0e5e01a3f8f185899a1898f6a4ee2cfacc5c9beba535bab3bf4e83dd89d8101"
+    "quoteFirst": "exclaimed Thorndyke, drawing his rug round his shoulders; \"this is a cheerless hour--a ",
+    "quoteTime": "quarter past one",
+    "quoteLast": ". See how chilly and miserable all these poor devils of passengers look. Shall we cab it or walk?\"",
+    "title": "The Red Thumb Mark",
+    "author": "Freeman, R. Austin (Richard Austin), 1862-1943",
+    "gutenbergReference": "11128",
+    "hash": "43d00d854cb76620be6527468e10d5bdace029a08d50ba330248bc179566e8dd"
   },
   {
     "time": "01:15",
-    "quoteFirst": "Just as he reached Grosvenor Gate for the fifth or sixth time, it struck a ",
+    "quoteFirst": "Breakfast was at eight; and from nine till eleven-forty-five, and again in the afternoon from ",
+    "quoteTime": "one-fifteen",
+    "quoteLast": " to three-fifteen, they were at instruction in seamanship, gunnery, torpedo, navigation, or engineering.",
+    "title": "Pincher Martin, O.D.: A Story of the Inner Life of the Royal Navy",
+    "author": "Dorling, H. Taprell (Henry Taprell), 1883-1968; Williams, C. Fleming [Illustrator]",
+    "gutenbergReference": "41774",
+    "hash": "1116600f92c7eb7492867f12379d702a16f0f808018096a460bce52464b944dd"
+  },
+  {
+    "time": "01:15",
+    "quoteFirst": "Mr. Vincent came back at a ",
     "quoteTime": "quarter-past one",
     "quoteLast": ".",
-    "title": "Studies in Wives",
-    "author": "Lowndes, Marie Belloc, 1868-1947",
-    "gutenbergReference": "41415",
-    "hash": "2a5d21704c88c298c6b23774c80575cb4ee42c89440ad15c9ad10b0ce2838a7c"
+    "title": "Margaret Vincent: A Novel",
+    "author": "Clifford, W. K., Mrs., 1846-1929",
+    "gutenbergReference": "39865",
+    "hash": "bf8f76a88d3834be3ef1b48df059b40f9a10197aed9e439d0473b2d9f4b84f78"
   },
   {
     "time": "01:15",
-    "quoteFirst": "A ",
-    "quoteTime": "quarter-past one",
-    "quoteLast": " now struck, and the bell began tolling for dinner, so they went into the hall and took their places, Tom at the very bottom of the second table, next to the præpostor (who sat at the end to keep order there), and East a few paces higher.",
-    "title": "Tom Brown's School Days",
-    "author": "Hughes, Thomas, 1822-1896",
-    "gutenbergReference": "32224",
-    "hash": "ff70c770870f11eba35605882899ffbac4128ff2fd24933d2f9d20e6dd37c895"
+    "quoteFirst": "From ",
+    "quoteTime": "15 minutes past 1",
+    "quoteLast": " till 15 minutes past 2 in the morning; and from 30 minutes past 11 in the forenoon till 15 minutes past 2 in the afternoon.",
+    "title": "How to tell fortunes",
+    "author": "Warford, Aaron A.",
+    "gutenbergReference": "52741",
+    "hash": "1ce2d02d0a52e69e00d7bc982d66c1379103ddb754063899e9dce2134c8c63f5"
+  },
+  {
+    "time": "01:15",
+    "quoteFirst": "exclaimed Thorndyke, drawing his rug round his shoulders; \"this is a cheerless hour--a ",
+    "quoteTime": "quarter past one",
+    "quoteLast": ". See how chilly and miserable all these poor devils of passengers look. Shall we cab it or walk?\"",
+    "title": "The Red Thumb Mark",
+    "author": "Freeman, R. Austin (Richard Austin), 1862-1943",
+    "gutenbergReference": "11128",
+    "hash": "43d00d854cb76620be6527468e10d5bdace029a08d50ba330248bc179566e8dd"
   }
 ]

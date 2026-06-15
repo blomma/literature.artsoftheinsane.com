@@ -11,16 +11,6 @@
   },
   {
     "time": "01:48",
-    "quoteFirst": "The contractor's time table was arranged thus:--Portishead, leave 9.15 p.m.; Clevedon, arrive 10.5 p.m., leave 10.50 p.m.; Yatton, arrive 11.28 p.m.; attend to apparatus and up mail 12.17 a.m., down mail 12.42 a.m.; Yatton, leave 1.5 a.m.; Clevedon, arrive ",
-    "quoteTime": "1.48 a.m.",
-    "quoteLast": ", depart 4.15 a.m.; Portishead, arrive 5.5 a.m.",
-    "title": "The King's Post\r\nBeing a volume of historical facts relating to the posts, mail coaches, coach roads, and railway mail services of and connected with the ancient city of Bristol from 1580 to the present time",
-    "author": "Tombs, Robert Charles, 1842-1923",
-    "gutenbergReference": "28533",
-    "hash": "6cb845f2b9ff8d9bfedf08e71aa2e404027b858016993a1c48dc1be6adae6477"
-  },
-  {
-    "time": "01:48",
     "quoteFirst": "We marched all night long     except from ",
     "quoteTime": "12 to 2 a.m.",
     "quoteLast": ", and did not get to the water until     after midday the next day, and the distance registered in     General Stewart's motor-car was 30 miles instead of 20.",
@@ -68,15 +58,5 @@
     "author": "Reid, Mayne, 1818-1883",
     "gutenbergReference": "35702",
     "hash": "86868a88e241d1b5161655ed73d4cb6bbdd48df72ba4c5f97c282dab700a7c49"
-  },
-  {
-    "time": "01:48",
-    "quoteFirst": "|   ",
-    "quoteTime": "1.48 a. m.",
-    "quoteLast": "  | Asian heard Titanic call SOS.",
-    "title": "Loss of the Steamship \"Titanic\"",
-    "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
-    "gutenbergReference": "39415",
-    "hash": "a09e6cbbc779d5c4580047e67c6a9620762a3b8a0eeeac86ced61179ac00b00e"
   }
 ]

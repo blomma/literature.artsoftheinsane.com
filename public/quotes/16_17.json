@@ -1,63 +1,13 @@
 [
   {
     "time": "16:17",
-    "quoteFirst": "At ",
-    "quoteTime": "4:17 P.M.",
-    "quoteLast": " the Cornwall opened fire, also on the Leipzig.",
-    "title": "New York Times Current History; The European War, Vol 2, No. 2, May, 1915\nApril-September, 1915",
-    "author": "Various",
-    "gutenbergReference": "15479",
-    "hash": "41876ba0429bcbbf1034267b6e2feaa332eb54f3b13dd313938599ebc09014cc"
-  },
-  {
-    "time": "16:17",
-    "quoteFirst": "I noted the time of despatch, ",
-    "quoteTime": "4.17 P.M.",
-    "quoteLast": " It would surely reach Falfani before the last train left Brieg coming my way, and I hardly trusted myself to anticipate the comfort and relief his appearance would bring me.",
-    "title": "The Passenger from Calais",
-    "author": "Griffiths, Arthur, 1838-1908",
-    "gutenbergReference": "16339",
-    "hash": "d243645cf23de1d063f89be21c706180d0c26007b16f0b0eac6b0ce0ba4fd015"
-  },
-  {
-    "time": "16:17",
-    "quoteFirst": "“At ",
-    "quoteTime": "4:17 P.M.",
-    "quoteLast": " the _Cornwall_ opened fire, also on the _Leipzig_.",
+    "quoteFirst": "_Inflexible_ opened fire on the German cruisers at five minutes to one, _Scharnhorst_ sank at ",
+    "quoteTime": "seventeen minutes past four",
+    "quoteLast": ", and _Gneisenau_ just after 6 o’clock.",
     "title": "The British Navy in Battle",
     "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
     "gutenbergReference": "54441",
-    "hash": "6582115817161d64f198ec9044371ceeb5182948f3c5a64563748bcd3f7c5a3f"
-  },
-  {
-    "time": "16:17",
-    "quoteFirst": "At ",
-    "quoteTime": "4.17 P. M.",
-    "quoteLast": " she disappeared.",
-    "title": "History of the World War, Volume 2 (of 7)",
-    "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945; Hare, James H., 1856-1946 [Photographer]; Thompson, Donald C., 1885-1947 [Photographer]",
-    "gutenbergReference": "74727",
-    "hash": "799e5fa333cf76705b737ae8fac13a55e7594bad12f6c049f062b1bb074a70fc"
-  },
-  {
-    "time": "16:17",
-    "quoteFirst": "“At ",
-    "quoteTime": "4:17 P.M.",
-    "quoteLast": " the _Cornwall_ opened fire, also on the _Leipzig_.",
-    "title": "The British Navy in Battle",
-    "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
-    "gutenbergReference": "54441",
-    "hash": "6582115817161d64f198ec9044371ceeb5182948f3c5a64563748bcd3f7c5a3f"
-  },
-  {
-    "time": "16:17",
-    "quoteFirst": ", passed through Watertown at ",
-    "quoteTime": "4:17 p. m.",
-    "quoteLast": ", and arrived at Ogdensburgh at 7:10 p.",
-    "title": "The Story of the Rome, Watertown, and Ogdensburg Railroad",
-    "author": "Hungerford, Edward, 1875-1948",
-    "gutenbergReference": "39021",
-    "hash": "e00cbe5544fa56048c0162132027df32ac92998528d8c46770356e7275224aff"
+    "hash": "5c3dbf87579f02b8def47379068d1ae5718fd9c59375664c4019c6817797ae7f"
   },
   {
     "time": "16:17",
@@ -71,13 +21,23 @@
   },
   {
     "time": "16:17",
-    "quoteFirst": "At   ",
+    "quoteFirst": "“At ",
+    "quoteTime": "4:17 P.M.",
+    "quoteLast": " the _Cornwall_ opened fire, also on the _Leipzig_.",
+    "title": "The British Navy in Battle",
+    "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
+    "gutenbergReference": "54441",
+    "hash": "6582115817161d64f198ec9044371ceeb5182948f3c5a64563748bcd3f7c5a3f"
+  },
+  {
+    "time": "16:17",
+    "quoteFirst": "At 4.4   P.M. the _Scharnhorst_, whose flag remained flying to the last,   suddenly listed heavily to port, and within a minute it became   clear that she was a doomed ship; for the list increased very   rapidly until she lay on her beam ends, and at ",
     "quoteTime": "4.17 P.M.",
-    "quoteLast": " there were sighted to the south-west at first two   ships, and then at 4.25 P.M. a third ship about fifteen miles   away.",
+    "quoteLast": " she   disappeared.",
     "title": "The Battle of the Falkland Islands, Before and After",
     "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
     "gutenbergReference": "50265",
-    "hash": "99e60b28d70621e980cf9e514a5fb29bbd8e4637a23a26df7d646fe06cc72dcf"
+    "hash": "e268301bd618e0c1fc656b829b498915c364f9ba918a8a92d97dc7474254d59e"
   },
   {
     "time": "16:17",
@@ -92,11 +52,51 @@
   {
     "time": "16:17",
     "quoteFirst": "At ",
+    "quoteTime": "seventeen minutes past four in the afternoon",
+    "quoteLast": ", whilst the passengers were assembled at lunch in the great saloon, a slight shock was felt on the hull of the _Scotia_, on her quarter, a little aft of the port-paddle.",
+    "title": "Twenty Thousand Leagues under the Sea",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "164",
+    "hash": "7ff30a05efb7d506d868ab2ca23b2da3454b1a94fc8f931c4ddbe6b90bef29a1"
+  },
+  {
+    "time": "16:17",
+    "quoteFirst": "The first east-bound trans-continental train that was met in transit, passed Sudbury, going eastward, at ",
+    "quoteTime": "4.17 P.M.",
+    "quoteLast": ", after being about five days on the journey.",
+    "title": "Chambers's Journal of Popular Literature, Science, and Art, fifth series, no. 152, vol. III, November 27, 1886",
+    "author": "Various",
+    "gutenbergReference": "75818",
+    "hash": "c25a4445ec7c239f03473a1ff029465b56992950cd45d60dc81e39b1db9aaf67"
+  },
+  {
+    "time": "16:17",
+    "quoteFirst": "At 4.4   P.M. the _Scharnhorst_, whose flag remained flying to the last,   suddenly listed heavily to port, and within a minute it became   clear that she was a doomed ship; for the list increased very   rapidly until she lay on her beam ends, and at ",
+    "quoteTime": "4.17 P.M.",
+    "quoteLast": " she   disappeared.",
+    "title": "The Battle of the Falkland Islands, Before and After",
+    "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
+    "gutenbergReference": "50265",
+    "hash": "e268301bd618e0c1fc656b829b498915c364f9ba918a8a92d97dc7474254d59e"
+  },
+  {
+    "time": "16:17",
+    "quoteFirst": "At ",
     "quoteTime": "4.17 P. M.",
-    "quoteLast": " she disappeared.",
+    "quoteLast": " the Cornwall opened fire also on the Leipzig; at 7.17 P. M. the Leipzig was on fire fore and aft, and the Cornwall and Glasgow ceased fire.",
     "title": "History of the World War",
     "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945",
     "gutenbergReference": "18993",
-    "hash": "0960ed0c5629f70d6480b596d412ea53d92abaea7656f840f5755eccc0421757"
+    "hash": "47d862c55bdaa0f990814104d56d91e27e0ee9a3af1f74e281e8a66e8a476cf5"
+  },
+  {
+    "time": "16:17",
+    "quoteFirst": "At 4:4 P.M. the _Scharnhorst_, whose flag remained flying to the last, suddenly listed heavily to port, and within a minute it became clear that she was a doomed ship; for the list increased very rapidly until she lay on her beam ends, and at ",
+    "quoteTime": "4:17 P.M.",
+    "quoteLast": " she disappeared.”",
+    "title": "The British Navy in Battle",
+    "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
+    "gutenbergReference": "54441",
+    "hash": "9df33d0aa01438a2b646f1ffe659ee63e4545b6755653cb86f52d5ee90c5ad48"
   }
 ]

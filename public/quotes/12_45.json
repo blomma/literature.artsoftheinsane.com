@@ -1,53 +1,23 @@
 [
   {
     "time": "12:45",
-    "quoteFirst": "It was ",
-    "quoteTime": "a quarter to noon",
-    "quoteLast": " when we entered the Golden Gate under a cloudless sky and caught our first glimpse of the world-famed harbor.",
-    "title": "By way of Cape Horn",
-    "author": "Stevenson, Paul Eve, 1868-1910",
-    "gutenbergReference": "75710",
-    "hash": "1e3465eb03db02f4dcbee1c9580097f7c6a2d8c08604f42caccfbbcd8d5e7d1c"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "Meks fort was silenced by about ",
-    "quoteTime": "12.45 P.M.",
-    "quoteLast": ", and a party from the \"Invincible\" landed and disabled the guns.",
-    "title": "Encyclopaedia Britannica, 11th Edition, \"Edwardes, Sir Herbert Benjamin\" to \"Ehrenbreitstein\"\r\nVolume 9, Slice 1",
-    "author": "Various",
-    "gutenbergReference": "32860",
-    "hash": "af6dedfabc4c856846d01b2edceb38bfc9438515f1959195a38c786047168b48"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "—For Birkenhead,               11.0 a.m.        ",
+    "quoteFirst": "On the following day the 43rd, 52nd, 58th, and 60th Battalions, 9th Brigade, relieved the Princess Patricia's Canadian Light Infantry and the 49th Battalion in the centre of the position at ",
     "quoteTime": "12.45 p.m.",
-    "quoteLast": " Upton, Seacombe, New Brighton, Crosby, Bootle, Walton, West Derby, Old Swan, Woolton, and Wavertree.",
-    "title": "Drake's Road Book of the Grand Junction Railway\nfrom Birmingham to Liverpool and Manchester",
-    "author": "Drake, James, active 1825",
-    "gutenbergReference": "43367",
-    "hash": "f65058ff0851b6ab96fcb7daa92007cb0c2009826ab500b065e11df4d074e960"
+    "quoteLast": ", and these regiments were able to go back for a well-deserved rest.",
+    "title": "Canada in Flanders, Volume II",
+    "author": "Beaverbrook, Max Aitken, Baron, 1879-1964",
+    "gutenbergReference": "46115",
+    "hash": "40c850bf89289344adf6df0c7c15aa256c4ca163269bf0964ffaa1e35a3e1c4d"
   },
   {
     "time": "12:45",
-    "quoteFirst": "It is true that he thought he noticed that Clelia's severity seemed to diminish as the material difficulties in the way of any communication between them increased; Fabrizio was fully aware that she no longer pretended to lower her eyes or to look at the birds when he was trying to shew her a sign of his presence by means of his wretched little piece of wire; he had the pleasure of seeing that she never failed to appear in the aviary at the precise moment when the ",
-    "quoteTime": "quarter before noon",
-    "quoteLast": " struck, and he almost presumed to imagine himself to be the cause of this remarkable punctuality.",
-    "title": "The Charterhouse of Parma, Volume 2",
-    "author": "Stendhal, 1783-1842; Scott-Moncrieff, C. K. (Charles Kenneth), 1889-1930 [Translator]",
-    "gutenbergReference": "66375",
-    "hash": "50603ab061e9e52fe65426d085392a39fdbae732e1610629396e1998487321f8"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "\"Yes, and Thorny getting ",
-    "quoteTime": "forty-five after twelve",
-    "quoteLast": " years!\"",
-    "title": "Saturday's Child",
-    "author": "Norris, Kathleen Thompson, 1880-1966",
-    "gutenbergReference": "4687",
-    "hash": "253e4eca509465585a1bcd3471cadfba20d47ddf85c925d1d638e28e21d6e655"
+    "quoteFirst": "The _Broke_ and 12 destroyers left on the 27th to search for a submarine reported to have been sighted to the eastward of the Pentland Firth, and returned on the 28th, not having seen her; but on the 27th Trawler Unit No. 42, working from Peterhead, reported having engaged and sunk a submarine at ",
+    "quoteTime": "12.45 P.M.",
+    "quoteLast": " in Lat.",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "hash": "5d3fc343e1075c8d2b4a1dc8106109887f378f598c23761542c895d6f19ffc58"
   },
   {
     "time": "12:45",
@@ -61,42 +31,72 @@
   },
   {
     "time": "12:45",
-    "quoteFirst": "[C4-496] At ",
-    "quoteTime": "12:45 p.m.",
-    "quoteLast": " the dispatcher ordered No. 78 (Tippit) to “move into central Oak Cliff area.”",
-    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58031",
-    "hash": "a6dbbf2a201c6ae174ce2ce5baf86b8182b73af8ab3685572669dad56a6a3720"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "[C2-226] At approximately ",
-    "quoteTime": "12:45 p.m.",
-    "quoteLast": ", Dr. Robert Shaw, chief of thoracic surgery, arrived at trauma room 2, to take charge of the care of Governor Connally, whose major wound fell within Dr. Shaw’s area of specialization.",
-    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58031",
-    "hash": "862f510cafda109d3f011414969f0863fb67fa45606919b039a796d54af97e8a"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "│ 50 │59·90│0·22│ 43·70    ",
-    "quoteTime": "12.45 pm",
-    "quoteLast": " Punched 2 minutes.",
-    "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
-    "author": "Levy, Donald M.",
-    "gutenbergReference": "59328",
-    "hash": "e3cddfb7c27f9d0c75c42013d753e5ebb4a42cbe8b19e6ad9e3f87a588a75ebc"
-  },
-  {
-    "time": "12:45",
-    "quoteFirst": "Started at 7.15 a.m., bearing 290 degrees; at 11.40 changed to 264 degrees, to some rising ground; at ",
+    "quoteFirst": "Adjourned at ",
     "quoteTime": "12.45 p.m.",
-    "quoteLast": ", after crossing stony hills, we crossed a gum creek on the west side, with long reaches of water in it running north-west, which I supposed to be the Bonney; but as there appeared to be more and larger gum-trees farther on, I continued, to see if there were not another channel.",
-    "title": "Explorations in Australia\r\nThe Journals of John McDouall Stuart During the Years 1858, 1859, 1860, 1861, and 1862, When He Fixed the Centre of the Continent and Successfully Crossed It from Sea to Sea",
-    "author": "Stuart, John McDouall, 1815-1866",
-    "gutenbergReference": "8911",
-    "hash": "b9dc49c3ad5c7df5cc7f6d21939430107a859f9546ae9797097c5b8d14183ad5"
+    "quoteLast": "",
+    "title": "Papers and Proceedings of the Twenty-Third General Meeting of the American Library Association\r\nHeld at Waukesha, Wisconsin, July 4-10, 1901",
+    "author": "American Library Association. General Meeting [Editor]",
+    "gutenbergReference": "44406",
+    "hash": "f9c15d9a0158cfb497e444260899ca83301413c68b96d3c0d3d3d5d04df22371"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "_Monday, ",
+    "quoteTime": "12.45 p.m.",
+    "quoteLast": ", July 28th, 1851.",
+    "title": "Juliette Drouet's Love-Letters to Victor Hugo\nEdited with a Biography of Juliette Drouet",
+    "author": "Drouet, Juliette, 1806-1883; Guimbaud, Louis, 1869-1957; Davidson, Theodora, 1862-1945 [Translator]",
+    "gutenbergReference": "44034",
+    "hash": "0f73053cdc78f4838f713bb00b381e6e5e4fa168064ee88c818e57eff4dd0217"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "\"At ",
+    "quoteTime": "12.45 p.m.",
+    "quoteLast": " the force halted for a short time, and at 1.30     p.m. the enemy were reported as retiring towards the Teselah     Hills and Tamaai. At 2 p.m., about three miles from the Teselah     Hills, the force halted for water and food, and the Mounted     Infantry and a squadron of the 9th Bengal Cavalry were ordered     to reconnoitre the position on these hills, reported to be     lined with the enemy.",
+    "title": "The Egyptian campaigns, 1882 to 1885",
+    "author": "Royle, Charles, 1882-1936",
+    "gutenbergReference": "41744",
+    "hash": "ec6597af614feb7fb8927c11714d842e524de661230a05b1f2bee75e4cfd6358"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "The skipper has surprised us by handing me his sextant now and then, at about ",
+    "quoteTime": "a quarter to noon",
+    "quoteLast": ", with the injunction, “Just look out for her to-day,” and has then disappeared below, to lie concealed often for several hours.",
+    "title": "By way of Cape Horn",
+    "author": "Stevenson, Paul Eve, 1868-1910",
+    "gutenbergReference": "75710",
+    "hash": "885dd3f9137e4d19b58e18d798e0cc1c9c112121fa6ba70542f218061a648be9"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "At ",
+    "quoteTime": "12.45 p.m.",
+    "quoteLast": " emerged from the scrub into open box forest, with limestone and quartz gravel, and a soft black soil producing rather dry scanty grass.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "2c2f6d7fc462407975db80fb694976e8f39e17805a1de05d6b1d891173f2be3e"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "The ",
+    "quoteTime": "Twelve-Forty-Five",
+    "quoteLast": "",
+    "title": "Trees, and Other Poems",
+    "author": "Kilmer, Joyce, 1886-1918",
+    "gutenbergReference": "263",
+    "hash": "326d66c50d2936f02b4ccff34947a5120a7fb19b240616490969b97a7f4ecf30"
+  },
+  {
+    "time": "12:45",
+    "quoteFirst": "But, when he rose, in the last ",
+    "quoteTime": "quarter before noon",
+    "quoteLast": ", his face was white.",
+    "title": "Tragic Romances\r\nRe-issue of the Shorter Stories of Fiona Macleod; Rearranged, with Additional Tales",
+    "author": "Sharp, William, 1855-1905",
+    "gutenbergReference": "53839",
+    "hash": "8eb7ff000412e2e31d2eed9039562fcf588e27a22fb2abbc2cc48ba9f6d46dc2"
   }
 ]

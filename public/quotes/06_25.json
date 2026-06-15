@@ -1,6 +1,36 @@
 [
   {
     "time": "06:25",
+    "quoteFirst": "\"The Aboukir was struck at about ",
+    "quoteTime": "6:25 A.M.",
+    "quoteLast": " on the starboard beam. The Hogue and Cressy closed and took up a position, the Hogue ahead of the Aboukir, and the Cressy about 400 yards on her port beam. As soon as it was seen that the Aboukir was in danger of sinking all the boats were sent away from the Cressy, and a picket boat was hoisted out without steam up. When cutters full of the Aboukir's men were returning to the Cressy the Hogue was struck, apparently under the aft 9.2 magazine, as a very heavy explosion took place immediately. Almost directly after the Hogue was hit we observed a periscope on our port bow about 300 yards",
+    "title": "The New York Times Current History of the European War, Vol 1, Issue 4, January 23, 1915",
+    "author": "Various",
+    "gutenbergReference": "16363",
+    "hash": "3d7a06e4e2612177c3a24119f03fb8a4f896245a201f42ef1203e801626fc081"
+  },
+  {
+    "time": "06:25",
+    "quoteFirst": "He lingered until the 17th, and then at ",
+    "quoteTime": "twenty-five minutes after six",
+    "quoteLast": " in the morning, died, quietly and without pain.",
+    "title": "The Last Ninety Days of the War in North-Carolina",
+    "author": "Spencer, Cornelia Phillips, 1825-1908",
+    "gutenbergReference": "62332",
+    "hash": "31f5c43e979d2b49160438f4c8103de8f900c18231e128c21992e2c32866d478"
+  },
+  {
+    "time": "06:25",
+    "quoteFirst": "The first machine of No. 2 Squadron to start left at ",
+    "quoteTime": "6.25 a.m.",
+    "quoteLast": ", and the first to arrive landed at Amiens at 8.20 a.m. This machine was flown by Lieutenant H. D. Harvey-Kelly, one of the lightest hearted and highest spirited of the young pilots who gave their lives in the war.",
+    "title": "The War in the Air; Vol. 1\nThe Part played in the Great War by the Royal Air Force",
+    "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
+    "gutenbergReference": "28226",
+    "hash": "34588bc32d6ccb45a2627450d7573ffaba9b8f6993c0d972a81de7edc4e9372a"
+  },
+  {
+    "time": "06:25",
     "quoteFirst": "“January 12, at ",
     "quoteTime": "6.25 a. m.",
     "quoteLast": ", made a sail four leagues away, and set chase.",
@@ -11,23 +41,23 @@
   },
   {
     "time": "06:25",
-    "quoteFirst": "Leaving at ",
-    "quoteTime": "6.25 A. M.",
-    "quoteLast": ", he landed at Cleveland, Lock Haven, and landed at Hicksville, Long Island, in the dark.",
-    "title": "Aircraft",
-    "author": "David, Evan John, 1877-1961",
-    "gutenbergReference": "74358",
-    "hash": "8871009d4306b4a8eb7207edad3d2867fdd44a0b6e4fa803ecc803b3eff9e004"
+    "quoteFirst": "9.40 p.m.      ",
+    "quoteTime": "6.25 a.m.",
+    "quoteLast": "  Ipswich.",
+    "title": "Rogers' Directory of Norwich and Neighbourhood",
+    "author": "Rogers, Edmund Dawson, 1823-1910",
+    "gutenbergReference": "64006",
+    "hash": "6a44ba7d602c1963451b9e4a883ef621127db0929147268d5fd485f493353171"
   },
   {
     "time": "06:25",
-    "quoteFirst": "Steered north 160 degrees east from ",
-    "quoteTime": "6.25 a.m.",
-    "quoteLast": " till 7.0 across the basaltic plain, then crossed a large creek trending east, in which there were some large pools of water.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "138902c490bf4d9c68a3d6589601605c0c0de29e0912b9daf0f0f8c37e834b7f"
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-five past six",
+    "quoteLast": " I turned on the hot water in the bath, and covertly swallowed a small glass of brandy.",
+    "title": "The Little White Bird; Or, Adventures in Kensington Gardens",
+    "author": "Barrie, J. M. (James Matthew), 1860-1937",
+    "gutenbergReference": "1376",
+    "hash": "ad459f9fd8b06908333e8c7e85fb0f78a2cbe6f29a2bb34409b399e25794aec1"
   },
   {
     "time": "06:25",
@@ -41,62 +71,32 @@
   },
   {
     "time": "06:25",
-    "quoteFirst": "Continued our route at ",
-    "quoteTime": "6.25 a.m.",
-    "quoteLast": ", steering nearly east till 8.30, when the river turned to the north round a range of sandstone hills, crossing which, reached the river again at 10.5 flowing south, with fine openly-timbered flats on the banks; steering south till 1.0 p.m., camped on the bank of the river just below a ridge of slate rock which crossed the channel.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "52de154563b79cc5f33a247ccf6981d3c7819f956741a94d4ae660b7eac9586f"
+    "quoteFirst": "\"The Aboukir,\" says this report, \"was struck at about ",
+    "quoteTime": "6.25 A. M.",
+    "quoteLast": " on the starboard beam. The Hogue and Cressy closed, and took up a position, the Hogue ahead of the Aboukir, and the Cressy about four hundred yards on her port beam. As soon as it was seen that the Aboukir was in danger of sinking, all the boats were sent away from the Cressy, and a picket boat was hoisted out without steam up. When cutters full of the Aboukir's men were returning to the Cressy, the Hogue was struck, apparently under the aft 9.2 magazine, as a very heavy explosion took place immediately. Almost directly after the Hogue was hit we observed a periscope on our",
+    "title": "History of the World War",
+    "author": "March, Francis A., Jr., 1863-1928; Beamish, Richard J. (Richard Joseph), 1867-1945",
+    "gutenbergReference": "18993",
+    "hash": "29e49c30f551b0afa11c871cc4796e394106ccb6240df3a20544a13e7d540e1c"
   },
   {
     "time": "06:25",
-    "quoteFirst": "Premising, however, that the shilling is properly suspended, you will observe, that when it has recovered its equilibrium, it will for a moment be stationary: it will then of its own accord, and without the least agency from the person holding it, assume the action of a pendulum, vibrating from side to side of the glass, and, after a few seconds, will strike the hour nearest to the time of day; for instance, if the time be ",
-    "quoteTime": "twenty-five minutes past six",
-    "quoteLast": ", it will strike six; if thirty-five minutes past six, it will strike seven; and so on of any other hour.",
-    "title": "The Magician's Own Book, or, the Whole Art of Conjuring\r\nBeing a complete hand-book of parlor magic, and containing over one thousand optical, chemical, mechanical, magnetical, and magical experiments, amusing transmutations, astonishing sleights and subtleties, celebrated card deceptions, ingenious tricks with numbers, curious and entertaining puzzles, together with all the most noted tricks of modern performers.",
-    "author": "Arnold, George, 1834-1865; Cahill, Frank",
-    "gutenbergReference": "60687",
-    "hash": "222bce58cfd369b1dcdf45f1d5f441ec38001429f4f068b07f056798752b33f5"
-  },
-  {
-    "time": "06:25",
-    "quoteFirst": "He lingered until the 17th, and then at ",
-    "quoteTime": "twenty-five minutes after six in the morning",
-    "quoteLast": ", died, quietly and without pain.",
-    "title": "Lives of Distinguished North Carolinians, with Illustrations and Speeches",
-    "author": "Peele, W. J. (William Joseph), 1855-1919 [Compiler]",
-    "gutenbergReference": "49353",
-    "hash": "d108a1b29c30cd1ac0850680277903848f544c30490fe3e1c82fa32b01fb8967"
-  },
-  {
-    "time": "06:25",
-    "quoteFirst": "At ",
-    "quoteTime": "6.25 a.m.",
-    "quoteLast": " every gun opened on the German lines, and for one hour the enemy was pelted with shells of all sizes, the maximum speed of fire being reached at 7.20 and lasting for ten minutes.",
-    "title": "The 56th Division (1st London Territorial Division)",
-    "author": "Dudley Ward, C. H. (Charles Humble), 1879-1945; Horne, Henry, 1861-1929 [Author of introduction, etc.]",
-    "gutenbergReference": "50379",
-    "hash": "32541223fa18dd22aaedafb4fcb1445be4a93a1b2a9c0256ed6fe20d888d79f3"
-  },
-  {
-    "time": "06:25",
-    "quoteFirst": "_] It is ",
-    "quoteTime": "twenty-five minutes past six",
-    "quoteLast": ".",
-    "title": "Liliom",
-    "author": "Molnár, Ferenc, 1878-1952; Glazer, Benjamin F. (Benjamin Floyer), 1887-1956 [Translator]",
-    "gutenbergReference": "48749",
-    "hash": "d8a459afe7ed38a37ed23e3ebba7654191b1778407b513fccda18c9e6edb0fff"
-  },
-  {
-    "time": "06:25",
-    "quoteFirst": "At ",
+    "quoteFirst": "The instant he had put down the receiver he had realized that it would not be easy for him to be at the Colladium at ",
     "quoteTime": "twenty-five past six",
-    "quoteLast": " I turned on the hot water in the bath, and covertly swallowed a small glass of brandy.",
-    "title": "The Little White Bird; Or, Adventures in Kensington Gardens",
-    "author": "Barrie, J. M. (James Matthew), 1860-1937",
-    "gutenbergReference": "1376",
-    "hash": "ad459f9fd8b06908333e8c7e85fb0f78a2cbe6f29a2bb34409b399e25794aec1"
+    "quoteLast": ".",
+    "title": "Angel Pavement",
+    "author": "Priestley, J. B. (John Boynton), 1894-1984",
+    "gutenbergReference": "78329",
+    "hash": "b06d7d425b77203169d773fc6ff1372623cc29ffb4239f4e1c5e3b5b93d2c473"
+  },
+  {
+    "time": "06:25",
+    "quoteFirst": "He always said--he had said it a thousand times--that he was converted in Douglas marketplace, a piece off the west door of ould St. Matthew's, at ",
+    "quoteTime": "five-and-twenty minutes past six",
+    "quoteLast": " on a Sabbath evening in July, when he was two-and-twenty for harvest.",
+    "title": "The Manxman : a novel",
+    "author": "Caine, Hall, Sir, 1853-1931",
+    "gutenbergReference": "25570",
+    "hash": "94de478aaaf533aa83fb84925d047903664808331da30d55a53a72b53a03db14"
   }
 ]

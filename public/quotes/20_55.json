@@ -1,73 +1,53 @@
 [
   {
     "time": "20:55",
-    "quoteFirst": "The hours are 6.30 to 1.30, then either 1.30 to 5, or ",
-    "quoteTime": "5 till 9 p.m.",
-    "quoteLast": " She has lost her brother at the front.",
-    "title": "A Patriotic Schoolgirl",
-    "author": "Brazil, Angela, 1869-1947; Salmon, Balliol, 1868-1953 [Illustrator]",
-    "gutenbergReference": "25145",
-    "hash": "3d3f08a31ccc59f8ca0a0bfa63573422c0d3c2fdeb403c2e88bd0ef4326588cd"
+    "quoteFirst": "The clock in the dining-room said ",
+    "quoteTime": "five minutes of nine",
+    "quoteLast": ", and I hadn't eaten my breakfast, hadn't studied any of my German grammar lesson, and had to get to school besides.",
+    "title": "What happened to Inger Johanne, as told by herself",
+    "author": "Zwilgmeyer, Dikken, 1853-1913; Young, Florence Liley, 1872-1974 [Illustrator]; Poulsson, Emilie, 1853-1939 [Translator]",
+    "gutenbergReference": "32502",
+    "hash": "a6b3a402466a244f034bce47beea8971e8a091938574016b5b52fdecd9e5eca0"
   },
   {
     "time": "20:55",
-    "quoteFirst": "Such complete silence had been maintained during the advance and deployment that the presence of the column was unknown to the enemy until a prearranged artillery bombardment of his trenches commenced at ",
-    "quoteTime": "8.55 p.m.",
-    "quoteLast": " The shells all appeared to take effect against the main German position, and consequently well beyond the immediate objective.",
-    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
-    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
-    "gutenbergReference": "73159",
-    "hash": "d95a1d5865ced2a0401ed9aecbfb6bc5ea689099716b46fa522a04f4f4624184"
-  },
-  {
-    "time": "20:55",
-    "quoteFirst": "If you want me again this evening, I shall dine at the Cafe Royal at eight o’clock, and shall return here at ",
-    "quoteTime": "five minutes to nine",
-    "quoteLast": ".”",
-    "title": "The Malefactor",
-    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
-    "gutenbergReference": "1314",
-    "hash": "ca4a6689f4e6fed63e2c14bf1ac4f05c59c0af434afb7bf8f341bd8e83bbcd34"
-  },
-  {
-    "time": "20:55",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes before nine",
-    "quoteLast": " we were there.",
-    "title": "Abroad at Home: American Ramblings, Observations, and Adventures of Julian Street",
-    "author": "Street, Julian, 1879-1947; Morgan, Wallace, 1875-1948 [Illustrator]",
-    "gutenbergReference": "35965",
-    "hash": "461d164c22d6d89defbcc3ee3fd98f9cc62bca62a2fd8a8cebd7076c2afecc98"
-  },
-  {
-    "time": "20:55",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes to nine",
-    "quoteLast": " on the following morning, Mildred walked into Miss Cartwright's study, and tendered an explanation of her absence the afternoon before, together with an apology for her behaviour.",
-    "title": "The Girls of St. Cyprian's: A Tale of School Life",
-    "author": "Brazil, Angela, 1869-1947; Davis, Stanley [Illustrator]",
-    "gutenbergReference": "37161",
-    "hash": "0f71b2a793507826d3d908ab50da8ed8135db46ac5f42207e328a9ba162aef58"
-  },
-  {
-    "time": "20:55",
-    "quoteFirst": "As for Bartley, he arrived in the bull-ring at ",
-    "quoteTime": "five minutes to nine",
-    "quoteLast": ", met David beside it and shook hands with him and his father.",
-    "title": "The Virgin in Judgment",
-    "author": "Phillpotts, Eden, 1862-1960",
-    "gutenbergReference": "46926",
-    "hash": "f727398c1b63f890a28964fb2cec58e27ffc6d1d2649252c0630065dbe334881"
-  },
-  {
-    "time": "20:55",
-    "quoteFirst": "WE reached Vincennes at ",
-    "quoteTime": "five minutes to nine",
+    "quoteFirst": "It was lacking ",
+    "quoteTime": "five minutes of nine",
     "quoteLast": ".",
-    "title": "The Corsican Brothers",
-    "author": "Dumas, Alexandre, 1802-1870; Frith, Henry, 1840- [Translator]",
-    "gutenbergReference": "41881",
-    "hash": "94dcbd0bddcac47e817d2027a00524350791c4eddb903229e4a848c72970b4c3"
+    "title": "The Cable Game\r\nThe Adventures of an American Press-Boat in Turkish Waters During the Russian Revolution",
+    "author": "Washburn, Stanley, 1878-1950",
+    "gutenbergReference": "61903",
+    "hash": "eb1b7bbb5592e94d15ed69f5b16dbab79c886630f2edc6cb4e7941ed2e85917a"
+  },
+  {
+    "time": "20:55",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes to nine",
+    "quoteLast": ", the bailies again came up Liberton's Wynd, still in their robes, and with their rods, and stood round the scaffold.",
+    "title": "The Court of Cacus; Or, The Story of Burke and Hare",
+    "author": "Leighton, Alexander, 1800-1874",
+    "gutenbergReference": "41642",
+    "hash": "c8ec83d8b9a8d89de7848ad75a3722ad91d62cde4cad7c71dbfcceafcfd7a6d6"
+  },
+  {
+    "time": "20:55",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes to nine",
+    "quoteLast": ", the bailies again came up Liberton's Wynd, still in their robes, and with their rods, and stood round the scaffold.",
+    "title": "The Court of Cacus; Or, The Story of Burke and Hare",
+    "author": "Leighton, Alexander, 1800-1874",
+    "gutenbergReference": "41642",
+    "hash": "c8ec83d8b9a8d89de7848ad75a3722ad91d62cde4cad7c71dbfcceafcfd7a6d6"
+  },
+  {
+    "time": "20:55",
+    "quoteFirst": "The express stops at Kenny Junction at ",
+    "quoteTime": "five minutes to nine",
+    "quoteLast": ", but that’s six miles away, and I must take some luggage—”",
+    "title": "Kitty Carstairs",
+    "author": "Bell, J. J. (John Joy), 1871-1934",
+    "gutenbergReference": "60310",
+    "hash": "43518337357c0a62cdbf550f1bad86dca2d269cc74b95d8e512a51f6aba71813"
   },
   {
     "time": "20:55",
@@ -81,22 +61,42 @@
   },
   {
     "time": "20:55",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes to nine",
-    "quoteLast": " the next morning Mr. Draycott again presented himself.",
-    "title": "Four Max Carrados Detective Stories",
-    "author": "Bramah, Ernest, 1868-1942",
-    "gutenbergReference": "12932",
-    "hash": "67e3f06132e4304018fa4f9b522d2f5118e64d6d9d6b2fd6546517af89b4fcf2"
+    "quoteFirst": "The following were the data for a day of 24 hours, with an interval of half an hour: ",
+    "quoteTime": "8:55 P.M.",
+    "quoteLast": " one day to 8:55 P.M. the next, interval 8:30 to 9 A.M. Anthracite used, 18.4 cwt.",
+    "title": "Scientific American Supplement, No. 799, April 25, 1891",
+    "author": "Various",
+    "gutenbergReference": "11649",
+    "hash": "e0217883d179ddd7c6983a1afdb7ac310405fa970513f15fd1135fcd91cd1123"
   },
   {
     "time": "20:55",
-    "quoteFirst": ", midnight to 6 A.M.; wind light, overcast each day; 25th, flock going N. November 4th, one about ship; 6th, \"hundreds of birds of various kinds, ",
-    "quoteTime": "5 to 9 P.M.",
-    "quoteLast": ", about light; dozens killed and wounded; lots fell overboard\"--[Perhaps some were Starling.",
-    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
-    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
-    "gutenbergReference": "66152",
-    "hash": "cd6a5ad1678497ff0d4e7f18daccf674d98cdf2ec92f16bae7c728c2b35fc75b"
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes to nine",
+    "quoteLast": " a man goes to his house--an impressive stranger, well-dressed, cold-eyed, with the aristocratic attitude toward servants that sees in them merely pieces of furniture.",
+    "title": "The Plunderers: A Novel",
+    "author": "Lefevre, Edwin, 1871-1943; Bracker, M. Leone, 1885-1937 [Illustrator]",
+    "gutenbergReference": "51970",
+    "hash": "0ce73ffef6a69ac75c6e5fdea2160c156ff539ab8320b9b467419006eb9e3aa3"
+  },
+  {
+    "time": "20:55",
+    "quoteFirst": "The express stops at Kenny Junction at ",
+    "quoteTime": "five minutes to nine",
+    "quoteLast": ", but that’s six miles away, and I must take some luggage—”",
+    "title": "Kitty Carstairs",
+    "author": "Bell, J. J. (John Joy), 1871-1934",
+    "gutenbergReference": "60310",
+    "hash": "43518337357c0a62cdbf550f1bad86dca2d269cc74b95d8e512a51f6aba71813"
+  },
+  {
+    "time": "20:55",
+    "quoteFirst": "The time was now ",
+    "quoteTime": "five minutes to nine",
+    "quoteLast": ", and as unfailing punctuality had ever been a foible of Sir Walter, his guests usually respected it.",
+    "title": "The Grey Room",
+    "author": "Phillpotts, Eden, 1862-1960",
+    "gutenbergReference": "1577",
+    "hash": "fccf3fe3f637cfd965cc079116c049dac76282916b0c616c381a9e748338872d"
   }
 ]

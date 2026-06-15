@@ -1,13 +1,13 @@
 [
   {
     "time": "13:26",
-    "quoteFirst": "At ",
-    "quoteTime": "1.26 P.M.",
-    "quoteLast": " being sufficiently from the land, and      finding the ship to be an English frigate, took in the main-sail      and royals, tacked ship and stood for the enemy.",
-    "title": "The Medallic History of the United States of America 1776-1876",
-    "author": "Loubat, J. F. (Joseph Florimond), 1831-1927; Jacquemart, Jules-Ferdinand, 1837-1880 [Illustrator]",
-    "gutenbergReference": "21880",
-    "hash": "f3232eb4b2ec04c5618070e883f8da373e0f84a21e868bf9dab4aa7848f7f667"
+    "quoteFirst": "",
+    "quoteTime": "1:26 P. M.",
+    "quoteLast": " Let go all lines.",
+    "title": "History of the U.S.S. Leviathan, cruiser and transport forces, United States Atlantic fleet\r\nCompiled from the ship's log and data gathered by the history committee on board the ship",
+    "author": "U.S.S. Leviathan History Committee",
+    "gutenbergReference": "59699",
+    "hash": "6b704d9cdbe2da7e317bec2d983a20d1c63f892a558985203f115a0074aaa792"
   },
   {
     "time": "13:26",
@@ -21,13 +21,33 @@
   },
   {
     "time": "13:26",
-    "quoteFirst": "I notice in the radio log transcript, which is marked Sawyer Deposition Exhibit A, that at ",
-    "quoteTime": "1:26 p.m.",
-    "quoteLast": ", between 1:26 p.m., and 1:32 p.m., there was a call from No. 19 to 531.",
-    "title": "Warren Commission (07 of 26): Hearings Vol. VII (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44007",
-    "hash": "5c397e9a5dc432f63957bddd7dff462ad47d51f3bcd59f726432169c4838cd43"
+    "quoteFirst": "",
+    "quoteTime": "1.26 p.m.",
+    "quoteLast": "  Blood-pressure 110; three minutes later.\"",
+    "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
+    "author": "Leffingwell, Albert, 1845-1916",
+    "gutenbergReference": "20222",
+    "hash": "cf91a517fd138daa1f54374a9463c5bb8bf0b19192457548aedc45e9be7d14af"
+  },
+  {
+    "time": "13:26",
+    "quoteFirst": "",
+    "quoteTime": "1:26 P. M.",
+    "quoteLast": " Let go all lines.",
+    "title": "History of the U.S.S. Leviathan, cruiser and transport forces, United States Atlantic fleet\r\nCompiled from the ship's log and data gathered by the history committee on board the ship",
+    "author": "U.S.S. Leviathan History Committee",
+    "gutenbergReference": "59699",
+    "hash": "6b704d9cdbe2da7e317bec2d983a20d1c63f892a558985203f115a0074aaa792"
+  },
+  {
+    "time": "13:26",
+    "quoteFirst": ", and setting at ",
+    "quoteTime": "1:26 p. m.",
+    "quoteLast": " on the 1st; rising at 12:30 a.",
+    "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55250",
+    "hash": "c514ae64a386fc92e6feda8741cbc11420d11f92e6b3f1312b894346ea864938"
   },
   {
     "time": "13:26",
@@ -38,36 +58,6 @@
     "author": "Barbour, Ralph Henry, 1870-1944; Rockwell, Norman, 1894-1978 [Illustrator]",
     "gutenbergReference": "71181",
     "hash": "0a99d48fcbf007da7a6019fd46b65c7f256d3ee501427ef6dc32e30916f17a09"
-  },
-  {
-    "time": "13:26",
-    "quoteFirst": "At ",
-    "quoteTime": "1.26 P.M.",
-    "quoteLast": " the \"Chasseur\" had come within pistol-shot (3), on the port side, when the enemy disclosed a tier of ten ports and opened his broadside, with round shot, grape, and musket balls.",
-    "title": "Sea Power in its Relations to the War of 1812. Volume 2",
-    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
-    "gutenbergReference": "25912",
-    "hash": "3ab5dabc49240d92e8a9656caedc9bb77b19f7d55f1c9c22e4f0d968b6e2e95f"
-  },
-  {
-    "time": "13:26",
-    "quoteFirst": "At ",
-    "quoteTime": "1.26 P.M.",
-    "quoteLast": " being sufficiently from the land, and      finding the ship to be an English frigate, took in the main-sail      and royals, tacked ship and stood for the enemy.",
-    "title": "The Medallic History of the United States of America 1776-1876",
-    "author": "Loubat, J. F. (Joseph Florimond), 1831-1927; Jacquemart, Jules-Ferdinand, 1837-1880 [Illustrator]",
-    "gutenbergReference": "21880",
-    "hash": "f3232eb4b2ec04c5618070e883f8da373e0f84a21e868bf9dab4aa7848f7f667"
-  },
-  {
-    "time": "13:26",
-    "quoteFirst": "At ",
-    "quoteTime": "1.26 p.m.",
-    "quoteLast": " steamship _Titanic_:",
-    "title": "Loss of the Steamship \"Titanic\"",
-    "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
-    "gutenbergReference": "39415",
-    "hash": "c3198e36bff8312e049ab1a84bd83d5f77034728aa884c8101f94e61ae238976"
   },
   {
     "time": "13:26",
@@ -82,21 +72,31 @@
   {
     "time": "13:26",
     "quoteFirst": "At ",
-    "quoteTime": "1.26 P.M.",
-    "quoteLast": ", the _St. Lawrence_ fired the first broadside, within pistol shot, to which the _Chasseur_ replied with her great guns and musketry.",
-    "title": "The Naval War of 1812\r\nOr the History of the United States Navy during the Last War with Great Britain to Which Is Appended an Account of the Battle of New Orleans",
-    "author": "Roosevelt, Theodore, 1858-1919",
-    "gutenbergReference": "9104",
-    "hash": "614e270bb928ed06ea15e15a3deeed62246502fdf6942621826feee712051381"
+    "quoteTime": "1.26 p.m.",
+    "quoteLast": " steamship _Titanic_:",
+    "title": "Loss of the Steamship \"Titanic\"",
+    "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
+    "gutenbergReference": "39415",
+    "hash": "c3198e36bff8312e049ab1a84bd83d5f77034728aa884c8101f94e61ae238976"
+  },
+  {
+    "time": "13:26",
+    "quoteFirst": ", and setting at ",
+    "quoteTime": "1:26 p. m.",
+    "quoteLast": " on the 1st; rising at 12:30 a.",
+    "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55250",
+    "hash": "c514ae64a386fc92e6feda8741cbc11420d11f92e6b3f1312b894346ea864938"
   },
   {
     "time": "13:26",
     "quoteFirst": "At ",
-    "quoteTime": "1.26 P.M.",
-    "quoteLast": ", the _St. Lawrence_ fired the first broadside, within pistol shot, to which the _Chasseur_ replied with her great guns and musketry.",
-    "title": "The Naval War of 1812\r\nOr the History of the United States Navy during the Last War with Great Britain to Which Is Appended an Account of the Battle of New Orleans",
-    "author": "Roosevelt, Theodore, 1858-1919",
-    "gutenbergReference": "9104",
-    "hash": "614e270bb928ed06ea15e15a3deeed62246502fdf6942621826feee712051381"
+    "quoteTime": "1.26 p.m.",
+    "quoteLast": " steamship _Titanic_:",
+    "title": "Loss of the Steamship \"Titanic\"",
+    "author": "Great Britain. Court to investigate loss of steamship \"Titanic\"",
+    "gutenbergReference": "39415",
+    "hash": "c3198e36bff8312e049ab1a84bd83d5f77034728aa884c8101f94e61ae238976"
   }
 ]

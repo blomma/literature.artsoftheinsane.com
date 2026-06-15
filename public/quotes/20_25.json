@@ -1,26 +1,6 @@
 [
   {
     "time": "20:25",
-    "quoteFirst": ", by direct connection, at ",
-    "quoteTime": "8:25 p. m.",
-    "quoteLast": " This advertisement is signed by W. F. Parsons, as General Passenger Agent, and by Mr. Britton, as General Manager of the line.",
-    "title": "The Story of the Rome, Watertown, and Ogdensburg Railroad",
-    "author": "Hungerford, Edward, 1875-1948",
-    "gutenbergReference": "39021",
-    "hash": "8ad32d841e564711dcb9e726b6e063c57b190432d833c98625993d499e598554"
-  },
-  {
-    "time": "20:25",
-    "quoteFirst": "At ",
-    "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": " Gypo left the police-station by a door in the rear of the building.",
-    "title": "The informer",
-    "author": "O'Flaherty, Liam, 1896-1984",
-    "gutenbergReference": "75583",
-    "hash": "44c530860d521709642f9872316bbce9487c1d1fcb1dbb4cf12a8e72cd770e2f"
-  },
-  {
-    "time": "20:25",
     "quoteFirst": "It was ",
     "quoteTime": "twenty-five minutes past eight",
     "quoteLast": ", and a fine October morning, when Mr. Wolff Mason, the popular novelist and editor of _Mayfair_, emerged from the dressing-room of his house in Kensington and came downstairs dabbing his chin with his clean pocket-handkerchief.",
@@ -31,72 +11,92 @@
   },
   {
     "time": "20:25",
-    "quoteFirst": "True enough, it was nearly ",
+    "quoteFirst": "Badoura and Madame Coralie could both swear that he was in the still-room at eight o'clock, when it was really ",
+    "quoteTime": "five-and-twenty minutes past eight",
+    "quoteLast": ".",
+    "title": "The Pink Shop",
+    "author": "Hume, Fergus, 1859-1932",
+    "gutenbergReference": "56237",
+    "hash": "f7b68b96ed23dfd1357bc83672f503cada0c0c9d00ab211db80c7ea4299b4472"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": ", by direct connection, at ",
+    "quoteTime": "8:25 p. m.",
+    "quoteLast": " This advertisement is signed by W. F. Parsons, as General Passenger Agent, and by Mr. Britton, as General Manager of the line.",
+    "title": "The Story of the Rome, Watertown, and Ogdensburg Railroad",
+    "author": "Hungerford, Edward, 1875-1948",
+    "gutenbergReference": "39021",
+    "hash": "8ad32d841e564711dcb9e726b6e063c57b190432d833c98625993d499e598554"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "It was now ",
     "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": " before she appeared; she shook hands with the ladies, bowed to the gentlemen, and proceeded to the _salle à manger_.",
-    "title": "Life of Her Most Gracious Majesty the Queen — Volume 2",
-    "author": "Tytler, Sarah, 1827-1914",
-    "gutenbergReference": "7086",
-    "hash": "0b3d96c8ee77e06827acda8627ed7ad166fbe3349d37d9eea3d9103deeccf4d9"
+    "quoteLast": ".",
+    "title": "A Life For a Love: A Novel",
+    "author": "Meade, L. T., 1854-1914",
+    "gutenbergReference": "37107",
+    "hash": "55f345ee9f2ba337b2289788fbb5629a2d554da4ed74710f1488afc5e6873165"
   },
   {
     "time": "20:25",
-    "quoteFirst": "“the tracks of three torpedoes were seen from the fore-top, one of which passed very close and was avoided by the use of the helm”; in the _Agincourt’s_ report, a statement occurred that “at 7.8 P.M. a torpedo just missed astern, it having been reported from aloft and course altered”; and again, “at 7.38 P.M. tracks of two torpedoes running parallel were observed approaching; course altered to avoid torpedoes which passed ahead; and at ",
+    "quoteFirst": "On the same day at ",
+    "quoteTime": "8.25 p.m.",
+    "quoteLast": ", land was first sighted and the coast line was crossed near Clifden, county Galway, at 9 p.m.  On the following morning, July 13th, at 7.57 a.m. (British summer time), the long voyage was completed and R 34 was safely housed in the shed, having been in the air 75 hours 3 minutes.",
+    "title": "British Airships, Past, Present, and Future",
+    "author": "Whale, George",
+    "gutenbergReference": "762",
+    "hash": "312fc23096671a9e8ff8ea0cada28529be535ca1bb1c378a4d3ec1e14dd90f4b"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "It was ",
+    "quoteTime": "five-and-twenty past eight",
+    "quoteLast": ".",
+    "title": "The Combined Maze",
+    "author": "Sinclair, May, 1863-1946",
+    "gutenbergReference": "28461",
+    "hash": "9045f5e39b5bef08a1f1767d5965e615d9199002d5ea3d297a9b4175dae47261"
+  },
+  {
+    "time": "20:25",
+    "quoteFirst": "But when they see her Signal they let her pass O.K. started to coal up at ",
     "quoteTime": "8.25 P.M.",
-    "quoteLast": " torpedo track on starboard side, turned at full speed; torpedo broke surface at about 150 yards on the starboard bow”; the _Revenge_ remarked, “at 7.35 P.M. altered course to port to avoid two torpedoes, one passed about ten yards ahead and the other about twenty yards astern, and at 7.43 P.M. altered course to avoid torpedoes, two passing astern”; the _Colossus_ stated, “at 7.35 P.M. turned to port to avoid a torpedo coming from starboard",
-    "title": "The Grand Fleet, 1914-1916",
-    "author": "Jellicoe, John Rushworth, 1859-1935",
-    "gutenbergReference": "75323",
-    "hash": "6c85927fe986e42448d7b471f2b3746bcaa1757ff708ae0c9eeb8910cff7a382"
+    "quoteLast": " and we get out of hear as soon as we can.",
+    "title": "The Voyage of the Oregon from San Francisco to Santiago in 1898",
+    "author": "Cross, R., active 1898",
+    "gutenbergReference": "25723",
+    "hash": "b440d1fc435b4d95c5ca9b3623f3b0456f11d393e507e0171d5acdc7cd8ded12"
   },
   {
     "time": "20:25",
-    "quoteFirst": "This time is ",
-    "quoteTime": "8.25 P.M.",
-    "quoteLast": " At this time, however, it appears that the waves must have been more than double the distance between the true origin and Iquique, from Iquique on their way towards the opposite side of the Pacific.",
-    "title": "Earthquakes and other earth movements",
-    "author": "Milne, John, 1850-1913",
-    "gutenbergReference": "60007",
-    "hash": "8cd30d6f04b5ad56cec97d3f6db08b43a8f899b10f4e15683f4737bce65e56f3"
-  },
-  {
-    "time": "20:25",
-    "quoteFirst": "By ",
-    "quoteTime": "8.25 p. m.",
-    "quoteLast": " the party was posted ready in the Hohlweg.",
-    "title": "The English of military communications",
-    "author": "Ganoe, William Addleman, 1881-1966",
-    "gutenbergReference": "71741",
-    "hash": "cb340324158120508db5cd3aed6156a2c68e07858048f90511dcf78cb3e79e64"
+    "quoteFirst": "“I left home that evening about half-past seven o’clock and walked  down with my brother Henry, arriving at the Haymarket about twenty or  ",
+    "quoteTime": "twenty-five minutes after eight",
+    "quoteLast": ". I had understood from the invitation  that I should address the meeting in German; and, knowing that the  English speeches would come first, I did not go there in time to reach  the opening of the meeting. When I got there, there was no meeting  in progress, however; simply crowds were standing around the corners  here and there, talking together. I called them together. After having  looked around for a speakers’ stand—we generally had very primitive  platforms—I saw this wagon on Desplaines Street; and being right  near the corner, I thought it was a good place to choose and told the",
+    "title": "Anarchy and Anarchists\r\nA History of the Red Terror and the Social Revolution in America and Europe; Communism, Socialism, and Nihilism in Doctrine and in Deed; The Chicago Haymarket Conspiracy and the Detection and Trial of the Conspirators",
+    "author": "Schaack, Michael J.",
+    "gutenbergReference": "52811",
+    "hash": "df50cd507f2ff9dd2d83883fa34d7df00fd8510b925449609109a78fa10b3df6"
   },
   {
     "time": "20:25",
     "quoteFirst": "At ",
-    "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": " Gypo left the police-station by a door in the rear of the building.",
-    "title": "The informer",
-    "author": "O'Flaherty, Liam, 1896-1984",
-    "gutenbergReference": "75583",
-    "hash": "44c530860d521709642f9872316bbce9487c1d1fcb1dbb4cf12a8e72cd770e2f"
+    "quoteTime": "five-and-twenty minutes past eight that evening",
+    "quoteLast": " Lutchester, who was waiting in the entrance hall of the Ritz-Carlton, became just a little restless.",
+    "title": "The Pawns Count",
+    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+    "gutenbergReference": "9836",
+    "hash": "ffc45b9903dd5284d11932b966782e21472bc771e123b13092dc3fc4921c4519"
   },
   {
     "time": "20:25",
-    "quoteFirst": "Quite clearly, then, if, instead of being 8:25 A.M., it were ",
-    "quoteTime": "8:25 P.M.",
-    "quoteLast": ", then 8½ times 14.67 seconds would have to be, not added, but _subtracted_; for, if, at noon, the sun were 1 minute and 26 seconds behind time, and if it were catching up with where it ought to be at the rate of 14.67 seconds per hour, then at 8.25 P.M. it would be much nearer where it ought to be than it had been at noon.",
-    "title": "The cruise of the Snark",
-    "author": "London, Jack, 1876-1916",
-    "gutenbergReference": "2512",
-    "hash": "e4fff81130812cea331392de8df7e123e7c1b10a27a6810bb95a3794d098120f"
-  },
-  {
-    "time": "20:25",
-    "quoteFirst": "By hurrying he was just able to finish it by ",
-    "quoteTime": "twenty-five minutes past eight",
-    "quoteLast": ".",
-    "title": "Pitcher Pollock",
-    "author": "Mathewson, Christy, 1880-1925; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
-    "gutenbergReference": "50761",
-    "hash": "660319a13895d6bf7a9dddaf4449d789d5ef5f1df1667e09afa80ddd1f42a4ba"
+    "quoteFirst": "\"DR. SIR: Come at once to Peirce City by train No. 3, leaving St. Louis ",
+    "quoteTime": "8:25 p.m.",
+    "quoteLast": " Inclosed find note to messenger on the train, which you can use for a pass in case you see Mr. Damsel in time. Agent at Peirce City will instruct you further.",
+    "title": "Jim Cummings; Or, The Great Adams Express Robbery",
+    "author": "Pinkerton, A. Frank",
+    "gutenbergReference": "5695",
+    "hash": "4228b2f3bef5ec26004a9f97feab59027c3a47fe33ccdf3e542602d009b2af01"
   }
 ]

@@ -1,6 +1,36 @@
 [
   {
     "time": "00:55",
+    "quoteFirst": "I knew he would not move until Lady Portarles had exhausted the subject, which will not be for another quarter of an hour at least, and it is ",
+    "quoteTime": "five minutes to one",
+    "quoteLast": " now.”",
+    "title": "The Scarlet Pimpernel",
+    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+    "gutenbergReference": "60",
+    "hash": "030e5747c9903d9f4c15d0f32907d5566e2147d90d380664f355f05f35c4f6d8"
+  },
+  {
+    "time": "00:55",
+    "quoteFirst": "“It is now ",
+    "quoteTime": "five minutes of one",
+    "quoteLast": ". The deed must have been committed just after you left the house. Had you noticed anything out of the way in your--husband’s manner?”",
+    "title": "Driven from Home; Or, Carl Crawford's Experience",
+    "author": "Alger, Horatio, Jr., 1832-1899",
+    "gutenbergReference": "530",
+    "hash": "821c6488e7b3fc037fa09ddd3490e00d1cbb7cd1b251845e67e987309e79dc49"
+  },
+  {
+    "time": "00:55",
+    "quoteFirst": "It was at ",
+    "quoteTime": "five minutes to one",
+    "quoteLast": ", at a range of about nine miles, that the first shot was fired by the _Inflexible_, taking for her target the light cruiser _Leipzig_, the last vessel of von Spee's line.",
+    "title": "The Heroic Record of the British Navy: A Short History of the Naval War, 1914-1918",
+    "author": "Hurd, Archibald, 1869-1959; Bashford, H. H. (Henry Howarth), Sir, 1880-1961",
+    "gutenbergReference": "47248",
+    "hash": "1153fa09258290d07f7a116e74038df632a2ace8682c609aed73c6db6ef14451"
+  },
+  {
+    "time": "00:55",
     "quoteFirst": "So we propose to call for you in time to get the ",
     "quoteTime": "five minutes to one",
     "quoteLast": " from Langford Junction.",
@@ -11,92 +41,62 @@
   },
   {
     "time": "00:55",
-    "quoteFirst": "Place section in 1-5 per cent silver nitrate solution, and     expose to daylight ",
-    "quoteTime": "5 minutes to 1",
-    "quoteLast": " hour.",
-    "title": "Practical pathology",
-    "author": "Warthin, Aldred Scott, 1866-1931",
-    "gutenbergReference": "71116",
-    "hash": "0fd510a3d78c0a7295cb6288c56c96df58f322135c26c4ee5964cc7a0751a07a"
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes to one",
+    "quoteLast": " we felt a slight scraping.",
+    "title": "The Adventures of the U-202: An Actual Narrative",
+    "author": "Spiegel, E. (Edgar), Freiherr von, 1885-",
+    "gutenbergReference": "32216",
+    "hash": "6cce195aae6550429889d6f335ac927f762ec1bc7dc040b1e44a3d117e8cc292"
   },
   {
     "time": "00:55",
-    "quoteFirst": "It lacked ",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes to one",
+    "quoteLast": " we felt a slight scraping.",
+    "title": "The Adventures of the U-202: An Actual Narrative",
+    "author": "Spiegel, E. (Edgar), Freiherr von, 1885-",
+    "gutenbergReference": "32216",
+    "hash": "6cce195aae6550429889d6f335ac927f762ec1bc7dc040b1e44a3d117e8cc292"
+  },
+  {
+    "time": "00:55",
+    "quoteFirst": "There were no breaks, or interruptions, and at ",
+    "quoteTime": "12:55 A. M.",
+    "quoteLast": ", precisely 55 minutes from the starting time, the 120 messages were received and were en route to New York, accomplishing, probably, the most unequalled feat of fast sending ever attempted.",
+    "title": "Portland, Oregon, A.D. 1999, and other sketches",
+    "author": "Hayes, J. W. (Jeff W.), 1853-1917",
+    "gutenbergReference": "62495",
+    "hash": "940a1c7a1cae455710985f6b82c2a857e878adad89c9c035b9aa76a5c2bbbabc"
+  },
+  {
+    "time": "00:55",
+    "quoteFirst": "His spirits took a quick downward turn at ",
+    "quoteTime": "five minutes to one",
+    "quoteLast": ", when the debonair Mr. Hyane appeared most unexpectedly.",
+    "title": "Bones in London",
+    "author": "Wallace, Edgar, 1875-1932",
+    "gutenbergReference": "27525",
+    "hash": "05653d234cf86133da1d5cb327b99fa756dd24384ab8d0969e8b5aacaf4557c9"
+  },
+  {
+    "time": "00:55",
+    "quoteFirst": "They had promised not to go to the library until ",
     "quoteTime": "five minutes of one",
-    "quoteLast": ".",
-    "title": "The Second Mate",
-    "author": "Bedford-Jones, H. (Henry), 1887-1949",
-    "gutenbergReference": "60796",
-    "hash": "9ad74bcf92bf50e2e8517b844ea5e923eaaa26a5930e9247f1bfd416e6e529f7"
+    "quoteLast": ", and the ten minutes intervening seemed interminable.",
+    "title": "Dick and Dolly",
+    "author": "Wells, Carolyn, 1862-1942; Budell, Ada, 1873-1961 [Illustrator]",
+    "gutenbergReference": "53166",
+    "hash": "903d9c2ae3afc449dd09fc3871d2c9550243d767806529692789c26e72b1422d"
   },
   {
     "time": "00:55",
-    "quoteFirst": "",
-    "quoteTime": "Five minutes to one",
-    "quoteLast": ", eh?",
-    "title": "St. Nicholas Magazine for Boys and Girls, Vol. 5, No. 07, May 1878\r\nScribner's Illustrated",
-    "author": "Various; Dodge, Mary Mapes, 1830-1905 [Editor]",
-    "gutenbergReference": "16173",
-    "hash": "1784429dd633567b3c4a766acc5be35aa94a56e40b0f77c488e808331508bd62"
-  },
-  {
-    "time": "00:55",
-    "quoteFirst": "It must be realised that these movements and proceedings of _Iris_ had occupied over half an hour; it was about ",
-    "quoteTime": "12.55 A.M.",
-    "quoteLast": " before _Iris_ was secured to _Vindictive_.",
-    "title": "The Blocking of Zeebrugge",
-    "author": "Carpenter, Alfred Francis Blakeney, 1881-1955",
-    "gutenbergReference": "45718",
-    "hash": "825a95cde013c50164977c35500dd506ab2ee738c203fad43888500b0a1bdf85"
-  },
-  {
-    "time": "00:55",
-    "quoteFirst": "It was ",
+    "quoteFirst": "At ",
     "quoteTime": "five minutes to one",
-    "quoteLast": ".",
-    "title": "Parson Kelly",
-    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948; Lang, Andrew, 1844-1912",
-    "gutenbergReference": "38684",
-    "hash": "6c5fb95e73273a9d8dbabdfba70079c1be894fb4439383e73edf8906d754a21e"
-  },
-  {
-    "time": "00:55",
-    "quoteFirst": "It was wrong--but it was exhilarating: instead of trudging another slow mile home, to get into the corner of one of those wooden settles and feel the glow of the generous fire, and imbibe slowly a glass of “summat,” and suck slowly at the tube of a long clay pipe, and make a remark once in ",
-    "quoteTime": "five minutes to one",
-    "quoteLast": " of the neighbours, who each of them took an equally long time to produce an original observation--had all the delight of dissipation in it.",
-    "title": "Harry Joscelyn; vol. 1 of 3",
-    "author": "Oliphant, Mrs. (Margaret), 1828-1897",
-    "gutenbergReference": "63142",
-    "hash": "7d5e4ce0737fbfaa75ef7dc7ee4dd5137a692bd53676cbbd93c63e376ff5956c"
-  },
-  {
-    "time": "00:55",
-    "quoteFirst": "It was ",
-    "quoteTime": "five minutes to one",
-    "quoteLast": " when he looked first; by five minutes past that shop-window and the Strand itself knew Harry Ringrose no more.",
-    "title": "Young Blood",
-    "author": "Hornung, E. W. (Ernest William), 1866-1921",
-    "gutenbergReference": "42902",
-    "hash": "e1067d2614cbf4d8a3b659bdf64819e7b1f53bc46841f76095bdea04ad69b42b"
-  },
-  {
-    "time": "00:55",
-    "quoteFirst": "The calls           vary from ",
-    "quoteTime": "five minutes to one",
-    "quoteLast": " and a half hours, and           the number of children examined from one or two           or none, to twenty or thirty per day.",
-    "title": "Types of News Writing",
-    "author": "Bleyer, Willard Grosvenor, 1873-1935",
-    "gutenbergReference": "59606",
-    "hash": "0af48fa0249788ac29ce6a1e0f7d99851e132cbd61efec12d5e493cac6e91a7c"
-  },
-  {
-    "time": "00:55",
-    "quoteFirst": "The calls           vary from ",
-    "quoteTime": "five minutes to one",
-    "quoteLast": " and a half hours, and           the number of children examined from one or two           or none, to twenty or thirty per day.",
-    "title": "Types of News Writing",
-    "author": "Bleyer, Willard Grosvenor, 1873-1935",
-    "gutenbergReference": "59606",
-    "hash": "0af48fa0249788ac29ce6a1e0f7d99851e132cbd61efec12d5e493cac6e91a7c"
+    "quoteLast": " the picture of the empty sea was altered.",
+    "title": "The Secret Service Submarine: A Story of the Present War",
+    "author": "Thorne, Guy, 1875-1923",
+    "gutenbergReference": "40581",
+    "hash": "89e5cf7e85824d58f98de192deea1fcfc67d111791d641b54b9000ad30a547de"
   }
 ]

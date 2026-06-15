@@ -1,16 +1,6 @@
 [
   {
     "time": "12:32",
-    "quoteFirst": "7.20  \"      -1.2°    \"     \"      \"                           7.27  \"      -2.5°    \"     \"      \"                           7.50  \"      -2.9°   Minimum of night                  -5.8°                -4.9°   10th January, 1858  10.53 A. M.,  -3.4°  10.12 A. M.,  -4.6°    \"     \"       \"    11.14  \"      -3.1°  10.30  \"      -4.5°    \"     \"       \"    11.45  \"      -2.2°  11.20  \"      -4.4°    \"     \"       \"    ",
-    "quoteTime": "12.32 P. M.",
-    "quoteLast": ",  -2.4°  12.14 P. M.,  -4.4°    \"     \"       \"     1.12  \"      -0.9°   1.30  \"      -4.2°    \"     \"       \"     3.03  \"      -2.9°   2.30  \"      -4.1°    \"     \"       \"     3.56  \"      -3.5°   3.14  \"      -4.0°    \"     \"       \"     4.26  \"      -3.7°   4.00  \"      -3.8°   Minimum of night                  -7.6°                -6.8°   11th January, 1858                        9.34 A. M.,  -5.6°   2d April, 1858       6.20 P. M.,",
-    "title": "Glacières; or, Freezing Caverns",
-    "author": "Balch, Edwin Swift, 1856-1927",
-    "gutenbergReference": "52216",
-    "hash": "46d8a2864a1c9a657c94e5d8d439096ae7452fa1f5b026b0e3f4f8ee2840177c"
-  },
-  {
-    "time": "12:32",
     "quoteFirst": "Around 12:30 I began plowing through an electrical field, sheet lightning, vast livid flashes, but it wasn't until two minutes later, ",
     "quoteTime": "12:32 P.M.",
     "quoteLast": ", that I first saw the thunderhead.",
@@ -18,16 +8,6 @@
     "author": "Williams, Nick B. (Nick Boddie), 1906-1992",
     "gutenbergReference": "73135",
     "hash": "a04767fc92877bb17af71f18fb4fd41134e0702bff9b7b2491587e0231c9742b"
-  },
-  {
-    "time": "12:32",
-    "quoteFirst": "\"       \"  11.14  \"   26°·384   \"     \"       \"  11.45  \"   28°·04    \"     \"       \"  ",
-    "quoteTime": "12.32 P.M.",
-    "quoteLast": " 27°·944   \"     \"       \"   1.12  \"   30°·644   \"     \"       \"   3.3   \"   26°·834   \"     \"       \"   3.56  \"   25°·7     \"     \"       \"   4.26  \"   25°·25    \"",
-    "title": "Ice-Caves of France and Switzerland",
-    "author": "Browne, G. F. (George Forrest), 1833-1930",
-    "gutenbergReference": "14012",
-    "hash": "c2766b83fbd26c8f57dfdb393986235014f2b67e5335515f14d02c3ef4830ddb"
   },
   {
     "time": "12:32",

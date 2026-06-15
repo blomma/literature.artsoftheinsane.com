@@ -1,13 +1,33 @@
 [
   {
     "time": "08:54",
-    "quoteFirst": "",
-    "quoteTime": "8:54 A.M.",
-    "quoteLast": " KHAQQ from _Itasca_: “Your signals O.K. on 3,105. Go ahead with position on 3,105 or 500 kilocycles.”",
-    "title": "Daughter of the sky",
-    "author": "Briand, Paul L., Jr., 1920-1986",
-    "gutenbergReference": "70263",
-    "hash": "9b1f5cf52cbd315b8991618b0073e9fd9a3400b53a6c02ca992f6a6ec826c218"
+    "quoteFirst": "At ",
+    "quoteTime": "8.54 A.M.",
+    "quoteLast": " the bow of the _Californian_  went down, apparently resting on bottom.",
+    "title": "The Corsair in the war zone",
+    "author": "Paine, Ralph Delahaye, 1871-1925",
+    "gutenbergReference": "72760",
+    "hash": "ef73221e226e25609e13386a457690e9f72009c5165777ca3f40e583a3c148a2"
+  },
+  {
+    "time": "08:54",
+    "quoteFirst": "At the commencement the routine provided for reveille at 4.30 a.m. and parades to be held from ",
+    "quoteTime": "6 to 9 a.m.",
+    "quoteLast": " and 4.30 to 7 p.m. Indoor (_i.",
+    "title": "The 28th: A Record of War Service in the Australian Imperial Force, 1915-19, Vol. I\nEgypt, Gallipoli, Lemnos Island, Sinai Peninsula",
+    "author": "Collett, Herbert Brayley, 1877-1947",
+    "gutenbergReference": "25341",
+    "hash": "2352a6918d4c086a5c6d74742a48ee120cf51acae6ee358f755c708979b507dd"
+  },
+  {
+    "time": "08:54",
+    "quoteFirst": "17th, continuous flocks with Curlews and Godwits from ",
+    "quoteTime": "6 to 9 a.m.",
+    "quoteLast": ", and also the preceding night, W., calm; and at intervals to Sept.",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1881. Third Report",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Cordeaux, John, 1831-1899; Kermode, P. M. C. (Philip Moore Callow), 1855?-1932; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "65471",
+    "hash": "b962cc95ea68ccee008f6b832ee4a42a9b56ee06a2d301f63632f6ed62b1e728"
   },
   {
     "time": "08:54",
@@ -18,16 +38,6 @@
     "author": "Chaucer, Geoffrey, 1343?-1400; Skeat, Walter W. (Walter William), 1835-1912 [Editor]",
     "gutenbergReference": "43097",
     "hash": "969b35c78365887af853026cbc5164b8f59c63e409ae2898c51a411cddd550ca"
-  },
-  {
-    "time": "08:54",
-    "quoteFirst": "From 15 minutes past ",
-    "quoteTime": "6 till 9 in the morning",
-    "quoteLast": "; and from 8 till 9 in the evening.",
-    "title": "How to tell fortunes",
-    "author": "Warford, Aaron A.",
-    "gutenbergReference": "52741",
-    "hash": "00dff3ca080eaf4467eed6f5b705ff4e76c1ef8241a0f7513744890fd1db38d9"
   },
   {
     "time": "08:54",
@@ -41,62 +51,52 @@
   },
   {
     "time": "08:54",
-    "quoteFirst": "The hours of elephant labour at Poozoondoung are strictly limited, being from ",
-    "quoteTime": "six to nine in the morning",
-    "quoteLast": " and from three to six in the afternoon.",
-    "title": "Through India and Burmah with pen and brush",
-    "author": "Fisher, A. Hugh (Alfred Hugh), 1867-1945",
-    "gutenbergReference": "71505",
-    "hash": "2e06dedcb47f10fa899e73649787b008e2f2e931dc9b161ea1710799949c28bf"
+    "quoteFirst": "\"At ",
+    "quoteTime": "8.54 A.M.",
+    "quoteLast": " I sent the following telegram:",
+    "title": "Cyrus W. Field, His Life and Work [1819-1892]",
+    "author": "Judson, Isabella Field, 1846- [Editor]",
+    "gutenbergReference": "43753",
+    "hash": "184f29421f25ef92cc3ac3fc4c74065df6e270513b6a53529faced1999a7a94c"
   },
   {
     "time": "08:54",
-    "quoteFirst": "Then, as _prime_ shifted from ",
+    "quoteFirst": "At the equinox=     Tierce,   Sunrise to the end of the third hour   ",
     "quoteTime": "6 to 9 a.m.",
-    "quoteLast": ", _undern_ shifted from 9 to 10 or half-past ten.",
-    "title": "Chaucer's Works, Volume 6 —  Introduction, Glossary, and Indexes",
+    "quoteLast": "     Sext,     Fourth to end of sixth hour            9 a.m. to 12 noon     Nones,    Seventh to end of ninth                12 noon to 3 p.m.     Vespers,  Tenth hour to sunset                   3 to 6 p.m.",
+    "title": "Dante and the early astronomers",
+    "author": "Orr, M. A. (Mary Acworth), 1867-1949",
+    "gutenbergReference": "64489",
+    "hash": "90edf24a7d91ab4c3307e5c8cbef0e64f425c69d1c46c777b2699aff188e3fc4"
+  },
+  {
+    "time": "08:54",
+    "quoteFirst": "\"At ",
+    "quoteTime": "8.54 A.M.",
+    "quoteLast": " I sent the following telegram:",
+    "title": "Cyrus W. Field, His Life and Work [1819-1892]",
+    "author": "Judson, Isabella Field, 1846- [Editor]",
+    "gutenbergReference": "43753",
+    "hash": "184f29421f25ef92cc3ac3fc4c74065df6e270513b6a53529faced1999a7a94c"
+  },
+  {
+    "time": "08:54",
+    "quoteFirst": "_ That is, half-past seven o'clock; taking _prime_ to mean the first quarter of the day, or the period from ",
+    "quoteTime": "6 to 9 A.M.",
+    "quoteLast": " It was also used to denote the _end_ of that period, or 9 A.M., as in B. 4387, where the meaning is certain.",
+    "title": "Chaucer's Works, Volume 5 — Notes to the Canterbury Tales",
     "author": "Chaucer, Geoffrey, 1343?-1400; Skeat, Walter W. (Walter William), 1835-1912 [Editor]",
-    "gutenbergReference": "43097",
-    "hash": "969b35c78365887af853026cbc5164b8f59c63e409ae2898c51a411cddd550ca"
+    "gutenbergReference": "43016",
+    "hash": "0bcbf117f1370e575321e18318012b0e698a2912c8ec2176577cc530d0af348e"
   },
   {
     "time": "08:54",
-    "quoteFirst": "",
-    "quoteTime": "8:54 A.M.",
-    "quoteLast": " KHAQQ from _Itasca_: “Your signals O.K. on 3,105. Go ahead with position on 3,105 or 500 kilocycles.”",
-    "title": "Daughter of the sky",
-    "author": "Briand, Paul L., Jr., 1920-1986",
-    "gutenbergReference": "70263",
-    "hash": "9b1f5cf52cbd315b8991618b0073e9fd9a3400b53a6c02ca992f6a6ec826c218"
-  },
-  {
-    "time": "08:54",
-    "quoteFirst": "",
-    "quoteTime": "8:54 A.M.",
-    "quoteLast": " KHAQQ from _Itasca_: “Your signals O.K. on 3,105. Go ahead with position on 3,105 or 500 kilocycles.”",
-    "title": "Daughter of the sky",
-    "author": "Briand, Paul L., Jr., 1920-1986",
-    "gutenbergReference": "70263",
-    "hash": "9b1f5cf52cbd315b8991618b0073e9fd9a3400b53a6c02ca992f6a6ec826c218"
-  },
-  {
-    "time": "08:54",
-    "quoteFirst": "From 15 minutes past ",
-    "quoteTime": "6 till 9 in the morning",
-    "quoteLast": "; and from 8 till 9 in the evening.",
-    "title": "How to tell fortunes",
-    "author": "Warford, Aaron A.",
-    "gutenbergReference": "52741",
-    "hash": "00dff3ca080eaf4467eed6f5b705ff4e76c1ef8241a0f7513744890fd1db38d9"
-  },
-  {
-    "time": "08:54",
-    "quoteFirst": "From ",
-    "quoteTime": "six to nine in the morning",
-    "quoteLast": " the forests resound with the mingled cries and strains of the feathered race; after this they gradually die away.",
-    "title": "Wanderings in South America",
-    "author": "Waterton, Charles, 1782-1865",
-    "gutenbergReference": "8159",
-    "hash": "f3cfd0c03b15cf52dc3482373aa49a279183304f783588cd8aa7bfceade00671"
+    "quoteFirst": "to help feed the animals and hosses, and assist the chef in the cook tent; waited on table for the canvas men and other nobility from ",
+    "quoteTime": "six to nine a. m.",
+    "quoteLast": ", 'doubled in brass' as the sayin' goes, with the band, by carryin' the front end of the bass drum in the gra-a-nd street parade, wore a toga as a Roman senator in the great entree, handled jugglin' and other apparatus durin' two performances, and at midnight helped to take down the big top.",
+    "title": "The Boy Scouts on the Yukon",
+    "author": "Victor, Ralph; Mencl, Rudolf [Illustrator]",
+    "gutenbergReference": "26257",
+    "hash": "3fea03940456c90a56bc3922a3f7d53a8ffe1b20ad3d171ba883008bc65cba49"
   }
 ]

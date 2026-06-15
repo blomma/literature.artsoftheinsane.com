@@ -1,83 +1,63 @@
 [
   {
     "time": "10:51",
-    "quoteFirst": "",
-    "quoteTime": "10.51 a.m.",
-    "quoteLast": " Sciatic nerve stimulated.",
-    "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
-    "author": "Leffingwell, Albert, 1845-1916",
-    "gutenbergReference": "20222",
-    "hash": "ef8cf31286233f3f1991aa3bb290a344db97dc573464c5d3812663ebea855537"
-  },
-  {
-    "time": "10:51",
-    "quoteFirst": "5 Aerial combat; bombardment ",
+    "quoteFirst": "28 Bombardment continued, 627 shells (200 from ",
     "quoteTime": "9 to 11 A. M.",
-    "quoteLast": ", 7 killed, 7 wounded;    renewed 3 P. M. to 10 A. M.",
+    "quoteLast": "; 100 from    7 to 8 P. M.; 327 after 10 P. M.).",
     "title": "The Bombardment of Reims",
     "author": "Ferree, Barr, 1862-1924",
     "gutenbergReference": "49649",
-    "hash": "d8cada8ab504c6424103573a871d57aab2c0ad004cd0536a0ecd04e643c6e95b"
+    "hash": "662762d9e5827fd8cf95fa7a0205f237f32565ec7f5d03334dda88074f6f2b72"
   },
   {
     "time": "10:51",
-    "quoteFirst": "9 Bombardment continued, 140 shells (50 from ",
+    "quoteFirst": "Spitting at ",
+    "quoteTime": "9 to 11 a.m.",
+    "quoteLast": "   Sun hot at 12.",
+    "title": "Zanzibar; city, island, and coast. Vol. 2 (of 2)",
+    "author": "Burton, Richard Francis, Sir, 1821-1890",
+    "gutenbergReference": "70032",
+    "hash": "6ee714d77f6e6877cd4b137b895fafaace98a5b32d4c99e122e4fa005d0099a2"
+  },
+  {
+    "time": "10:51",
+    "quoteFirst": "This library was open to the public daily from ",
+    "quoteTime": "9 to 11 a.m.",
+    "quoteLast": " and from 3 to 5 p.m.[519]",
+    "title": "The Care of Books",
+    "author": "Clark, John Willis, 1833-1910",
+    "gutenbergReference": "26378",
+    "hash": "00805061266901398a48286ac5620ce761394a0398acd11b94eb7d6f62f13a66"
+  },
+  {
+    "time": "10:51",
+    "quoteFirst": "The early morning, from ",
+    "quoteTime": "9 till 11 A.M.",
+    "quoteLast": ", is the best time for shooting; and then, perhaps, late in the evening.",
+    "title": "Automatic Pistol Shooting\nTogether with Information on Handling the Duelling Pistol and Revolver",
+    "author": "Winans, Walter, 1852-1920",
+    "gutenbergReference": "41335",
+    "hash": "12a889938994dcf213c72d94f00032f73b7c9df5ef27c80a94358a676ed121fb"
+  },
+  {
+    "time": "10:51",
+    "quoteFirst": "After Mrs. Cooper moved to Louisville I made acquaintance with Mrs. Jennie McKee, a real lady of high moral and truthful qualities, who had wonderful medial gifts, and permitted me to come to her residence, No. 47-1/2 Sherman avenue, Cincinnati, for a slate-writing seance weekly, every Thursday, from ",
     "quoteTime": "9 to 11 A. M.",
-    "quoteLast": "; 90 from 10    to 11 P. M.).",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "0b9d17221af3798ae9ca857ee9303b254bb73465ba83f43b5ad1bd5f817903e6"
+    "quoteLast": " The spirits wrote independent, in broad daylight, when she held the slate under the stand, which was never covered with any thing, and with a pencil so small (about one-eighth part of a common wheat grain) that no human fingers in the body could write with it.",
+    "title": "A Book Written by the Spirits of the So-Called Dead",
+    "author": "Helleberg, Carl Gustav [Compiler]",
+    "gutenbergReference": "36009",
+    "hash": "ab74700d75a2e0ba1e1810978c5150764bb12f18a3c4b329d31032fd95faeb6a"
   },
   {
     "time": "10:51",
-    "quoteFirst": "=--As regards riding in town, the hours for practice in the Row are from 8 to 10 a.m. in summer and ",
-    "quoteTime": "9 to 11 a.m.",
-    "quoteLast": " in winter, for inexperienced riders and beginners; young ladies ride with a riding-master or with a riding-mistress, or with a relative, as the case may be.",
-    "title": "Manners and Rules of Good Society; or, Solecisms to be Avoided",
-    "author": "Anonymous",
-    "gutenbergReference": "39040",
-    "hash": "e12dec559466c159b4a747dc8e0b1e457edc288315f578a7f397188ac90b1c60"
-  },
-  {
-    "time": "10:51",
-    "quoteFirst": "At eleven p.m. supper was usually served, and breakfast was from ",
-    "quoteTime": "nine to eleven a.m.",
-    "quoteLast": " The House of Commons commenced sitting at two, and the Opera began at seven.",
-    "title": "The Evolution of Fashion",
-    "author": "Gardiner, Florence Mary",
-    "gutenbergReference": "34845",
-    "hash": "351eb5b1f914a06c30f585949db8046c1ca3d18015bcf32a0c1c29e570ff2c67"
-  },
-  {
-    "time": "10:51",
-    "quoteFirst": "At eleven p.m. supper was usually served, and breakfast was from ",
-    "quoteTime": "nine to eleven a.m.",
-    "quoteLast": " The House of Commons commenced sitting at two, and the Opera began at seven.",
-    "title": "The Evolution of Fashion",
-    "author": "Gardiner, Florence Mary",
-    "gutenbergReference": "34845",
-    "hash": "351eb5b1f914a06c30f585949db8046c1ca3d18015bcf32a0c1c29e570ff2c67"
-  },
-  {
-    "time": "10:51",
-    "quoteFirst": "=--As regards riding in town, the hours for practice in the Row are from 8 to 10 a.m. in summer and ",
-    "quoteTime": "9 to 11 a.m.",
-    "quoteLast": " in winter, for inexperienced riders and beginners; young ladies ride with a riding-master or with a riding-mistress, or with a relative, as the case may be.",
-    "title": "Manners and Rules of Good Society; or, Solecisms to be Avoided",
-    "author": "Anonymous",
-    "gutenbergReference": "39040",
-    "hash": "e12dec559466c159b4a747dc8e0b1e457edc288315f578a7f397188ac90b1c60"
-  },
-  {
-    "time": "10:51",
-    "quoteFirst": "[345] Under these regulations the library was open from ",
-    "quoteTime": "nine to eleven in the morning",
-    "quoteLast": ", and from one to four in the afternoon, Sundays and mass days excepted.",
-    "title": "Old English libraries",
-    "author": "Savage, Ernest Albert, 1877-1966; Hutt, James, 1870-1937 [Contributor]",
-    "gutenbergReference": "1615",
-    "hash": "afa4927f82829accefacf5cb2c5d8f031ef92f0f7c23a143a157169824e979ad"
+    "quoteFirst": "Breakfast call at 7 A. M. Doctor's call at 8 A. M. Guard mount at 9 A. M. Drill ",
+    "quoteTime": "9 to 11 A. M.",
+    "quoteLast": " Roll call and dinner at noon.",
+    "title": "Diary of an Enlisted Man",
+    "author": "Van Alstyne, Lawrence, 1839-1923",
+    "gutenbergReference": "40890",
+    "hash": "fc5cec5750f43dfacac31d3ab645be35c0b44d43d1d6db8ebe76e49ab770e1bc"
   },
   {
     "time": "10:51",
@@ -88,6 +68,26 @@
     "author": "De Quincey, Thomas, 1785-1859; Masson, David, 1822-1907 [Editor]",
     "gutenbergReference": "42909",
     "hash": "99fc487ba07b5f61db0a95008cb3d942b05b9a9f8b67510d7c6877c259ebae0a"
+  },
+  {
+    "time": "10:51",
+    "quoteFirst": "This library was open to the public daily from ",
+    "quoteTime": "9 to 11 a.m.",
+    "quoteLast": " and from 3 to 5 p.m.[519]",
+    "title": "The Care of Books",
+    "author": "Clark, John Willis, 1833-1910",
+    "gutenbergReference": "26378",
+    "hash": "00805061266901398a48286ac5620ce761394a0398acd11b94eb7d6f62f13a66"
+  },
+  {
+    "time": "10:51",
+    "quoteFirst": "5 Aerial combat; bombardment ",
+    "quoteTime": "9 to 11 A. M.",
+    "quoteLast": ", 7 killed, 7 wounded;    renewed 3 P. M. to 10 A. M.",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "d8cada8ab504c6424103573a871d57aab2c0ad004cd0536a0ecd04e643c6e95b"
   },
   {
     "time": "10:51",

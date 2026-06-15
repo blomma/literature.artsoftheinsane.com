@@ -1,36 +1,6 @@
 [
   {
     "time": "16:10",
-    "quoteFirst": "\"We'll be ready to start within ",
-    "quoteTime": "ten minutes after four",
-    "quoteLast": ".\"",
-    "title": "Frank Merriwell's Son; Or, A Chip Off the Old Block",
-    "author": "Standish, Burt L., 1866-1945",
-    "gutenbergReference": "25316",
-    "hash": "3f375622c11220bc1da2bc3ec5c1fe56faeccea7c6449ce2db3940b519674efb"
-  },
-  {
-    "time": "16:10",
-    "quoteFirst": "As it was, we reached the railroad station at ",
-    "quoteTime": "ten minutes past four",
-    "quoteLast": " the next morning.",
-    "title": "Retrospect of Western Travel, Volume 1 (of 2)",
-    "author": "Martineau, Harriet, 1802-1876",
-    "gutenbergReference": "40280",
-    "hash": "281d02ee5c20bba33489d7dcf4b17626f9c644c34db0c14f6ad060ad6637f848"
-  },
-  {
-    "time": "16:10",
-    "quoteFirst": "It was ",
-    "quoteTime": "ten minutes past four",
-    "quoteLast": " when they descended into the electric publicity of the Grand Babylon.",
-    "title": "The Old Adam: A Story of Adventure",
-    "author": "Bennett, Arnold, 1867-1931",
-    "gutenbergReference": "40168",
-    "hash": "2f1b4a8c2c2252f2965696ef2c5472d19480d16cf70a2f29944b2ec0cf1308de"
-  },
-  {
-    "time": "16:10",
     "quoteFirst": "It asked us to arrive by the ",
     "quoteTime": "4.10 p.m.",
     "quoteLast": " train from London, August 6th.",
@@ -41,62 +11,92 @@
   },
   {
     "time": "16:10",
-    "quoteFirst": "\"We'll be ready to start within ",
-    "quoteTime": "ten minutes after four",
-    "quoteLast": ".\"",
-    "title": "Frank Merriwell's Son; Or, A Chip Off the Old Block",
-    "author": "Standish, Burt L., 1866-1945",
-    "gutenbergReference": "25316",
-    "hash": "3f375622c11220bc1da2bc3ec5c1fe56faeccea7c6449ce2db3940b519674efb"
-  },
-  {
-    "time": "16:10",
-    "quoteFirst": "I made another ice bath and again immersed the hand in it until ",
-    "quoteTime": "4:10 p.m.",
-    "quoteLast": ", at which time it was removed from the water.",
-    "title": "Natural History of Cottonmouth Moccasin, Agkistrodon piscovorus (Reptilia)",
-    "author": "Burkett, Ray D., 1938-",
-    "gutenbergReference": "38308",
-    "hash": "6f0317fac4ede2e575641cfc94767a614974f97c4a8ae100dbdc3051f7213389"
-  },
-  {
-    "time": "16:10",
-    "quoteFirst": "They left the house at ",
-    "quoteTime": "ten minutes past four",
-    "quoteLast": ".",
-    "title": "The Crystal Stopper",
-    "author": "Leblanc, Maurice, 1864-1941",
-    "gutenbergReference": "1563",
-    "hash": "23ab28c1ffc1d4607d8135b5ef8dd6ac769916e4a7622d42fa4f2d2613ce2778"
-  },
-  {
-    "time": "16:10",
-    "quoteFirst": "The first entry was dated June 3rd, ",
-    "quoteTime": "4:10 p. m.",
-    "quoteLast": " Earth time.",
-    "title": "The Beasts in the Void",
-    "author": "Fairman, Paul W., 1909-1977; Terry, W. E., 1921-1992 [Illustrator]",
-    "gutenbergReference": "32162",
-    "hash": "f7d3c88b70708671e5851ae8b06d22b6330e5f8321d6a5d034c9173b994ce0d1"
-  },
-  {
-    "time": "16:10",
-    "quoteFirst": "\"At about ",
-    "quoteTime": "ten minutes past four",
-    "quoteLast": " a gentleman came hurrying along.",
-    "title": "Dorcas Dene, detective",
-    "author": "Sims, George R. (George Robert), 1847-1922",
-    "gutenbergReference": "78210",
-    "hash": "47f2f541e84caeb50d4a7e19ac00123bc4304972f524f2b35c9bce2c7c0ec1f9"
-  },
-  {
-    "time": "16:10",
-    "quoteFirst": "The 7th K.O.Y.L.I. left Poperinghe at ",
+    "quoteFirst": "“A thunder-storm began at ",
     "quoteTime": "4.10 P.M.",
-    "quoteLast": " for Vlamertinghe, and came under the orders of the 60th Brigade.",
-    "title": "The history of the Twentieth (Light) Division",
-    "author": "Inglefield, Valentine Erskine, 1886-1947; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]",
-    "gutenbergReference": "74129",
-    "hash": "ab8f08f9bd942abdca02c00c0b44e6425f95e8feb8e7e0fe75503b5c9fb7d250"
+    "quoteLast": " and ended at 7.40 P.M.,   moving from southwest to northwest. Hail began at 5.18 P.M.   and ended at 5.26 P.M., the hailstones being spheroidal in   shape and about two inches in diameter; formation, solid snow.   The ‘break’ (hills) at the foot of the plains several miles   northwest of station were absolutely white with hailstones for   three hours after the storm. This was observed by everybody   at the station; on the morning of the 26th I walked down to   the Sweetwater Creek, three fourths of a mile distant, and saw",
+    "title": "Aërial Navigation\r\nA Popular Treatise on the Growth of Air Craft and on Aëronautical Meteorology",
+    "author": "Zahm, Albert Francis, 1862-1954",
+    "gutenbergReference": "60277",
+    "hash": "94ff3a325bc87dcb14f81da55b30aede7b564bb9580326c944318be690886fe8"
+  },
+  {
+    "time": "16:10",
+    "quoteFirst": "The train goes at ",
+    "quoteTime": "four-ten",
+    "quoteLast": ", no matter what.\"",
+    "title": "Jokes For All Occasions\nSelected and Edited by One of America's Foremost Public Speakers",
+    "author": "Anonymous",
+    "gutenbergReference": "21084",
+    "hash": "b92f833cbe548fe7e5279c41b196b52d442f4f7c0290f05b5b581399a57431fe"
+  },
+  {
+    "time": "16:10",
+    "quoteFirst": "Letters announcing this intention had been sent to us from home, and a later missive from London, containing a copy of their “itinerary,” repeated the invitation to join them at the steamboat landing in Lucerne, July 23d, ",
+    "quoteTime": "4.10 p.m.",
+    "quoteLast": " for a sail up the lake and a night on the Rigi.",
+    "title": "Loitering in Pleasant Paths",
+    "author": "Harland, Marion, 1830-1922",
+    "gutenbergReference": "50511",
+    "hash": "3c6ef59a97dfb945a9e78f4c924339f39a1f929bedc966921c824f3b1f1329a0"
+  },
+  {
+    "time": "16:10",
+    "quoteFirst": "Then suddenly, at ",
+    "quoteTime": "ten minutes after four",
+    "quoteLast": ", the New Yorker ceased to have any significance at all to her, at least for the moment.",
+    "title": "Girl Alone",
+    "author": "Austin, Anne, 1895-1975",
+    "gutenbergReference": "35077",
+    "hash": "18a57cd9797d37c2e9869852b3013e187aff6629d0c5b25676529f36d5e266dd"
+  },
+  {
+    "time": "16:10",
+    "quoteFirst": "The testimony of Mrs. Earlene Roberts was taken at ",
+    "quoteTime": "4:10 p.m.",
+    "quoteLast": ", on April 8, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex.",
+    "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44006",
+    "hash": "8c175106d297c5c73648967d1314b4c22962268672a104225038c927f2b325a6"
+  },
+  {
+    "time": "16:10",
+    "quoteFirst": ", convulsions of short duration; raised himself on posterior legs, anterior legs wide apart; ",
+    "quoteTime": "4.10 p. m.",
+    "quoteLast": ", looked normal, not hypersensitive; 4.30 p.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "hash": "9df8de64658370e0d26bf724bbc36592aa2aa229701261556e3c2a31d3b59fff"
+  },
+  {
+    "time": "16:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past four",
+    "quoteLast": ", amid a stillness so intense that the creaking of my slippers seemed a loud disturbance, I crossed the room and pushed open the door of Smith's bedroom.",
+    "title": "The Hand of Fu-Manchu\r\nBeing a New Phase in the Activities of Fu-Manchu, the Devil Doctor",
+    "author": "Rohmer, Sax, 1883-1959",
+    "gutenbergReference": "17959",
+    "hash": "325cc27546dc212a05343e244dbbf88b539080afc17c59a4c507ee6c56a14d16"
+  },
+  {
+    "time": "16:10",
+    "quoteFirst": "“A thunder-storm began at ",
+    "quoteTime": "4.10 P.M.",
+    "quoteLast": " and ended at 7.40 P.M.,   moving from southwest to northwest. Hail began at 5.18 P.M.   and ended at 5.26 P.M., the hailstones being spheroidal in   shape and about two inches in diameter; formation, solid snow.   The ‘break’ (hills) at the foot of the plains several miles   northwest of station were absolutely white with hailstones for   three hours after the storm. This was observed by everybody   at the station; on the morning of the 26th I walked down to   the Sweetwater Creek, three fourths of a mile distant, and saw",
+    "title": "Aërial Navigation\r\nA Popular Treatise on the Growth of Air Craft and on Aëronautical Meteorology",
+    "author": "Zahm, Albert Francis, 1862-1954",
+    "gutenbergReference": "60277",
+    "hash": "94ff3a325bc87dcb14f81da55b30aede7b564bb9580326c944318be690886fe8"
+  },
+  {
+    "time": "16:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past four",
+    "quoteLast": ", the anxious Antis in the Remington living-room heard the candidate for district attorney running down the stairs, and even Mrs. Brewster-Smith was hushed.",
+    "title": "The sturdy oak",
+    "author": "Jordan, Elizabeth Garver, 1867-1947 [Editor]; Austin, Mary, 1868-1934 [Contributor]; Cooke, Marjorie Benton, 1876-1920 [Contributor]; Fisher, Dorothy Canfield, 1879-1958 [Contributor]; Grant, Ethel Watts Mumford, 1878-1940 [Contributor]; Hurst, Fannie, 1889-1968 [Contributor]; Merwin, Samuel, 1874-1936 [Contributor]; Miller, Alice Duer, 1874-1942 [Contributor]; Norris, Kathleen Thompson, 1880-1966 [Contributor]; O'Hagan, Anne, 1869-1934 [Contributor]; Scott, Leroy, 1875-1929 [Contributor]; Vorse, Mary Heaton, 1874-1966 [Contributor]; Webster, Henry Kitchell, 1875-1932 [Contributor]; White, William Allen, 1868-1944 [Contributor]; Wilson, Harry Leon, 1867-1939 [Contributor]",
+    "gutenbergReference": "8435",
+    "hash": "9a55162986eff50db2aa61911c502cce1c34466af78803cdcc1e317232a30897"
   }
 ]

@@ -1,26 +1,6 @@
 [
   {
     "time": "11:35",
-    "quoteFirst": "At ",
-    "quoteTime": "thirty-five minutes past eleven",
-    "quoteLast": " the first gun was fired.",
-    "title": "Waterloo",
-    "author": "Watson, Thomas E. (Thomas Edward), 1856-1922",
-    "gutenbergReference": "75682",
-    "hash": "30e6a56f94cf13a4565be906146746338c0b9fbb7dd8307ad37d4ea8145ddab0"
-  },
-  {
-    "time": "11:35",
-    "quoteFirst": ", urine from bladder acid, no albumen, no sugar; ",
-    "quoteTime": "11.35 a. m.",
-    "quoteLast": ", 22 cc 2 per cent caffein (275 mg per kilo) injected subcutaneously; 11.45 a.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
-    "hash": "59d9d3a8c4e318f6c5aa840db600fe013230582272ef593c99e90df9121602ca"
-  },
-  {
-    "time": "11:35",
     "quoteFirst": "It was now ",
     "quoteTime": "twenty-five minutes to twelve",
     "quoteLast": ".",
@@ -31,43 +11,83 @@
   },
   {
     "time": "11:35",
-    "quoteFirst": "Now at ",
+    "quoteFirst": "All the vessels were soon satisfactorily and hotly at work, and the action continued with varying phases till ",
     "quoteTime": "11.35 A.M.",
-    "quoteLast": " the sun’s disc would have risen to the altitude of 35°\u00A08′; and the highest visible point of light would, owing to the eclipse, then have been about 35°\u00A04′; and at 11.40 A.M., being the time of greatest obscuration, the extreme cusps of light produced by the intervention of the Moon would still have stood at about 35°\u00A04′, just 23′ below the highest point of light at noon (Fig. 12).",
-    "title": "The Story of Eclipses",
-    "author": "Chambers, George F. (George Frederick), 1841-1915",
-    "gutenbergReference": "24222",
-    "hash": "df2f64821a93c67f0fae84654c524dba7237a2d5a5fb3c41a2cb1bfc96dc4c3d"
+    "quoteLast": " The leading two ships in both orders got well to leeward of the lines, the British two having to tack to regain their places to windward.",
+    "title": "The Major Operations of the Navies in the War of American Independence",
+    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+    "gutenbergReference": "16602",
+    "hash": "c69701b6c77c3f1f9e09c02f610434f1121eb1f8eb938b112e26c4e4ab8adb9e"
   },
   {
     "time": "11:35",
-    "quoteFirst": "At 11:20 A.M. I called the Attack alongside, shifting my flag to her at about ",
-    "quoteTime": "11:35 A.M.",
-    "quoteLast": " I proceeded at utmost speed to rejoin the squadron, and met them at noon retiring north-northwest.",
-    "title": "New York Times Current History; The European War, Vol 2, No. 2, May, 1915\nApril-September, 1915",
-    "author": "Various",
-    "gutenbergReference": "15479",
-    "hash": "d0ab101f916eb83fc726967cfa2eb21af898458ef5092c4733c03cabfbec94c1"
+    "quoteFirst": "The girl there heard a taxicab drive up about      ",
+    "quoteTime": "twenty-five minutes to twelve",
+    "quoteLast": " and stop for a few minutes and      start off again.",
+    "title": "The Negro in Chicago: A Study of Race Relations and a Race Riot",
+    "author": "Chicago Commission on Race Relations",
+    "gutenbergReference": "57343",
+    "hash": "ea74344638f63072a621f6294286ffaf65406d03cb9bc143cfe244ccde63298d"
   },
   {
     "time": "11:35",
-    "quoteFirst": "The attack against the position of Hougomont lasted, on the whole, from ",
-    "quoteTime": "twenty-five minutes before twelve",
-    "quoteLast": " until a little past seven at night.",
-    "title": "The battles of the British Army",
-    "author": "Blackwood, Robert Melvin",
-    "gutenbergReference": "51056",
-    "hash": "3b9a46cc76f4558f68a97b41683326a6342ec2ff2a472d31eb0894a71b1b166e"
-  },
-  {
-    "time": "11:35",
-    "quoteFirst": "At ",
+    "quoteFirst": "At 11.3 A.M. an injury to the _Lion_ being reported as incapable     of immediate repair, I directed _Lion_ to shape course N.W. At     11.20 A.M. I called the _Attack_ alongside, shifting my flag to     her at about ",
     "quoteTime": "11.35 A.M.",
-    "quoteLast": " the S.O.S. signal was again sent up by the 100th Brigade, and again the guns burst forth in their support—this time with success.",
-    "title": "The History of the 33rd Divisional Artillery, in the War, 1914-1918.",
-    "author": "Macartney-Filgate, John Victor; Horne, Henry, 1861-1929 [Author of introduction, etc.]",
-    "gutenbergReference": "51776",
-    "hash": "20d95935d80fee699e0020bb4780512d8edc8a8d3dccdd55d0c794d7e55bc6d9"
+    "quoteLast": " I proceeded at utmost speed to rejoin the     Squadron, and met them at noon retiring N.N.W.",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "hash": "a097f89dc5d6f67ca61375fd6b7aa54237ba180df6af9cbba84a26affd049172"
+  },
+  {
+    "time": "11:35",
+    "quoteFirst": "",
+    "quoteTime": "Twenty-five minutes of twelve",
+    "quoteLast": ", said the ferry clock.",
+    "title": "Saturday's Child",
+    "author": "Norris, Kathleen Thompson, 1880-1966",
+    "gutenbergReference": "4687",
+    "hash": "71162021cc4dd713ae449a460e1a751be06c2824bdfb2b0b221e158b962e0570"
+  },
+  {
+    "time": "11:35",
+    "quoteFirst": "“She tells me that she arrived at her home in Lexham Gardens, Kensington, at ",
+    "quoteTime": "twenty-five minutes to twelve",
+    "quoteLast": ". She has occupied a flat there for some time now. Yesterday evening she had been to the theatre and reached home about the same time as the previous evening. As she entered she states that she heard her telephone ringing. Before she could get into the room to answer it the ringing ceased and was not again repeated. Being very tired and attaching no particular importance to it, she didn’t trouble to make inquiries, she says, but went straight to bed. Early this morning the Police called with the fantastic story (to her, of course) that Daphne Carruthers had been",
+    "title": "The mystery of the Peacock's Eye",
+    "author": "Flynn, Brian, 1885-1958",
+    "gutenbergReference": "75195",
+    "hash": "5bdceac0c458bc9c12f69ecf21a61bd41e0f4aba4b3fd53c171b95343d13da6a"
+  },
+  {
+    "time": "11:35",
+    "quoteFirst": ", 12 cc of 2 per cent caffein (200 mg per kilo) injected into peritoneal cavity; ",
+    "quoteTime": "11.35 a. m.",
+    "quoteLast": ", while being released from holder, tetanus occurred, repeated attacks later, clonic convulsions with tonic rigidity of posterior extremities during the attacks as well as during intervals, anterior extremities were relaxed during the intervals between the attacks, opisthotonos of cervical region but kyphosis in lumbar region were observed, no salivation nor dilatation of the pupils; 2 p.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "hash": "c0b58291231a7346be553f1ca709496c168257a453d917fd6fb5e92ac9a51ba6"
+  },
+  {
+    "time": "11:35",
+    "quoteFirst": "[C2-85] Vice President Johnson’s airplane, _Air Force Two_, had arrived at Love Field at approximately ",
+    "quoteTime": "11:35 a.m.",
+    "quoteLast": ", and the Vice President and Mrs. Johnson were in the receiving line to greet President and Mrs. Kennedy.",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "b94edc15b7974bd175569ba105a462cc3015e955b1befe594854001c5782521e"
+  },
+  {
+    "time": "11:35",
+    "quoteFirst": "\"At precisely ",
+    "quoteTime": "twenty-five minutes of twelve",
+    "quoteLast": ",\" said the foreman, in a solemn voice.",
+    "title": "Round the Block: An American Novel",
+    "author": "Bouton, John Bell, 1830-1902",
+    "gutenbergReference": "12243",
+    "hash": "9a02e2f92e2a0efdc6e8a1603f04e81c668d29f98978efa37337d381be4d2d22"
   },
   {
     "time": "11:35",
@@ -78,25 +98,5 @@
     "author": "Bouton, John Bell, 1830-1902",
     "gutenbergReference": "12243",
     "hash": "127acf2ed5278681c7476cd5e0ec4023aba8e5e78a204ef365ca700de03517eb"
-  },
-  {
-    "time": "11:35",
-    "quoteFirst": "He even wondered, quakingly, if daylight would not overtake them at their work—when his startled eyes, chancing to fall on a nearby clock-dial, saw that the hour was only ",
-    "quoteTime": "twenty-five minutes to twelve",
-    "quoteLast": ".",
-    "title": "The Wire Tappers",
-    "author": "Stringer, Arthur, 1874-1950",
-    "gutenbergReference": "50203",
-    "hash": "67bb449e9be32d018a812eae3cbcd8fe718b0f3dd9f0bddc2b73ec06b26a9d3e"
-  },
-  {
-    "time": "11:35",
-    "quoteFirst": "At ",
-    "quoteTime": "11.35 A.M.",
-    "quoteLast": " the S.O.S. signal was again sent up by the 100th Brigade, and again the guns burst forth in their support—this time with success.",
-    "title": "The History of the 33rd Divisional Artillery, in the War, 1914-1918.",
-    "author": "Macartney-Filgate, John Victor; Horne, Henry, 1861-1929 [Author of introduction, etc.]",
-    "gutenbergReference": "51776",
-    "hash": "20d95935d80fee699e0020bb4780512d8edc8a8d3dccdd55d0c794d7e55bc6d9"
   }
 ]

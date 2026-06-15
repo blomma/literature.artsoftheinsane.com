@@ -1,63 +1,73 @@
 [
   {
     "time": "14:15",
-    "quoteFirst": "By ",
-    "quoteTime": "2:15 P.M.",
-    "quoteLast": " the engine was warm and ready to start.",
-    "title": "Our polar flight",
-    "author": "Amundsen, Roald, 1872-1928; Ellsworth, Lincoln, 1880-1951",
-    "gutenbergReference": "71497",
-    "hash": "ddd58a3fedb9e0701ca431b091577e8f04338d35cf91b274c7b5ce494e6ff646"
-  },
-  {
-    "time": "14:15",
-    "quoteFirst": "(_to DAVID_) ",
-    "quoteTime": "A quarter past two",
-    "quoteLast": ",",
-    "title": "Woodcock's Little Game: A Comedy-Farce, In Two Acts",
-    "author": "Morton, John Maddison, 1811-1891",
-    "gutenbergReference": "57451",
-    "hash": "49fe11c9954f6c102978b760a12e7c0eb66c68d9aaac3fd02d7a27ce0a5ffd6a"
-  },
-  {
-    "time": "14:15",
-    "quoteFirst": "On the morning of the day of his death, however, paralysis seized his heart and lungs, soon depriving him of speech, and under which he rapidly, but gently, sank away and died at ",
-    "quoteTime": "fifteen minutes past two",
-    "quoteLast": " of the same day.",
-    "title": "Cleveland Past and Present: Its Representative Men\r\nComprising Biographical Sketches of Pioneer Settlers and Prominent Citizens",
-    "author": "Joblin, Maurice [Unknown role]",
-    "gutenbergReference": "9328",
-    "hash": "7be4995b26d74a0d1be0afccf5b1c784849a68ef6a6737183faa277a0d97e723"
-  },
-  {
-    "time": "14:15",
-    "quoteFirst": "Supper lasted till about ",
+    "quoteFirst": "At ",
     "quoteTime": "a quarter past two",
-    "quoteLast": ", when dancing was resumed, and continued till Sol warned the festive party to disperse.",
-    "title": "The Choice Humorous Works, Ludicrous Adventures, Bons Mots, Puns, and Hoaxes of Theodore Hook",
-    "author": "Hook, Theodore Edward, 1788-1841",
-    "gutenbergReference": "50401",
-    "hash": "96e3901374a2cfc20a88afc8491b327d694f1c9170c6d80160f4252ceab8349c"
+    "quoteLast": ", the sight of a fine river, running through a deep valley, induced us to come to an anchor in thirteen fathoms water, with a sandy bottom; the extreme points of the bay bearing S.W. by W. 1/2 W., and N.E. by E. 3/4 E., and the mouth of the river S.E. 1/2 E., one mile distant.",
+    "title": "A General History and Collection of Voyages and Travels, Volume 16",
+    "author": "Kerr, Robert, 1755-1813",
+    "gutenbergReference": "16471",
+    "hash": "bbc4cb9f51bdd0299be257d46dc3ad5bd229358227da53e7823bc51ae189e31d"
   },
   {
     "time": "14:15",
-    "quoteFirst": "A ",
-    "quoteTime": "quarter after two",
-    "quoteLast": ".",
-    "title": "Expedition to discover the sources of the White Nile, in the years 1840, 1841, Vol. 2 (of 2)",
-    "author": "Werne, Ferdinand, 1800-1874; O'Reilly, Charles William [Translator]",
-    "gutenbergReference": "73466",
-    "hash": "32a5528194dd1315ded9cdc93c3d008bc8f59d28f0da5bb299f52f0a40180606"
+    "quoteFirst": "She said, “At ",
+    "quoteTime": "two-fifteen",
+    "quoteLast": ", then,” and swam away for good.",
+    "title": "The Beauty and the Bolshevist",
+    "author": "Miller, Alice Duer, 1874-1942",
+    "gutenbergReference": "13146",
+    "hash": "2dbc59699a8b2bf51fd1827c86f5be89538adb3f407d8197a225acdba8e3ecd4"
   },
   {
     "time": "14:15",
-    "quoteFirst": "At last the old man pulls out of his pocket a silver watch and looks at the time: ",
+    "quoteFirst": "Toombs and Hill \"yes,\" and Mr. Stephens \"no.\" At ",
+    "quoteTime": "2.15 P. M.",
+    "quoteLast": " on the 19th of January, a signal gun was fired, and the \"Stars and Stripes\" lowered from the State Capitol.",
+    "title": "Robert Toombs\nStatesman, Speaker, Soldier, Sage",
+    "author": "Stovall, Pleasant A., 1857-1935",
+    "gutenbergReference": "26069",
+    "hash": "7848836dcfe16954aab9ba34b528fea79c9600652bfa9a259d98f2ff4ec5dd35"
+  },
+  {
+    "time": "14:15",
+    "quoteFirst": "\"It's ",
     "quoteTime": "a quarter past two",
-    "quoteLast": ".",
-    "title": "Project Gutenberg Compilation of Short Stories by Chekhov",
-    "author": "Chekhov, Anton Pavlovich, 1860-1904; Widger, David, 1932-2021? [Editor]",
-    "gutenbergReference": "57333",
-    "hash": "448fc6b2767c8ef12e4d356d34a447deb2e5138039913ccce348308edc290b66"
+    "quoteLast": ", monsieur.\"",
+    "title": "Monsieur Cherami",
+    "author": "Kock, Paul de, 1793-1871; Ives, George Burnham, 1856-1930 [Translator]",
+    "gutenbergReference": "34338",
+    "hash": "b583b86244bd2afd027a8934e96c09ca0607c68c6609ed69b74ce387dfe40f08"
+  },
+  {
+    "time": "14:15",
+    "quoteFirst": "By 12 noon on the 11th it was found that the attack of the Dehra Dun Brigade could not continue under the conditions, and I issued orders for it to be renewed on the Bois du Biez at ",
+    "quoteTime": "2.15 P.M.",
+    "quoteLast": ", with the Jalandar Brigade in support.",
+    "title": "With the Indians in France",
+    "author": "Willcocks, James, Sir, 1857-1926",
+    "gutenbergReference": "77003",
+    "hash": "50edcea9b26a2f9c92f6865120469ce4c564d9d9f7cd9499bef8fc5d5f5e1b98"
+  },
+  {
+    "time": "14:15",
+    "quoteFirst": "24 Artillery action; 4 shells ",
+    "quoteTime": "2:15 P. M.",
+    "quoteLast": "",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "720c280cd0a9ada375ac20951356ddbb9d0633aedcddddb004e6f24c8257a218"
+  },
+  {
+    "time": "14:15",
+    "quoteFirst": "At ",
+    "quoteTime": "a quarter past two",
+    "quoteLast": " he died, Lasne only being in the room at the time.",
+    "title": "Court Memoirs of France Series — Complete",
+    "author": "Various",
+    "gutenbergReference": "3900",
+    "hash": "3969f09a8eb5f62283282b090769f8c1074d884e4d253a2e4c4050c4a1cd004d"
   },
   {
     "time": "14:15",
@@ -71,32 +81,22 @@
   },
   {
     "time": "14:15",
-    "quoteFirst": "At ",
-    "quoteTime": "a quarter past two that afternoon",
-    "quoteLast": ", the afternoon of Friday, March 20, 1908, Monsieur Yves Durand returned to the Police Prefecture and told Monsieur Lépine what he had done.",
-    "title": "The Caillaux Drama",
-    "author": "Raphael, John N. (John Nathan), 1868-1917",
-    "gutenbergReference": "52680",
-    "hash": "eb7e06bad0ad3f30e779b763d24bf2a9e9aa71f846011f145d121be4856907bd"
-  },
-  {
-    "time": "14:15",
-    "quoteFirst": "If you would not mind,  I will ride over with the work to-morrow after luncheon, about a  ",
-    "quoteTime": "quarter-past two",
+    "quoteFirst": "He then went to No. 1220, Rue Fosse St. Bernard, section      of the Sans-Culottes, and dined there at ",
+    "quoteTime": "a quarter past two",
     "quoteLast": ".",
-    "title": "The house on the marsh",
-    "author": "Warden, Florence, 1857-1929",
-    "gutenbergReference": "71788",
-    "hash": "a2334ac40f5b5c0f84624744d66cd1df8a1e2d0d58e7bfc550e63c3628b0464f"
+    "title": "A Residence in France During the Years 1792, 1793, 1794 and 1795, Complete\r\nDescribed in a Series of Letters from an English Lady: with General and Incidental Remarks on the French Character and Manners",
+    "author": "Biggs, Charlotte, 1763?-1827; Gifford, John, 1758-1818 [Editor]",
+    "gutenbergReference": "11996",
+    "hash": "e72276aa6da942cc58a8f23778aa3942689b38c8016385d3960c87c26f792269"
   },
   {
     "time": "14:15",
-    "quoteFirst": "Remounted, ",
-    "quoteTime": "2.15 P.M.",
-    "quoteLast": " Passed Hrossaborg block, and began the Mý-vatn Öræfi (Desert of Mý-vatn).",
-    "title": "Ultima Thule; or, A Summer in Iceland. vol. 2/2",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "59585",
-    "hash": "4d1f0481821f0c36a18852e1c1a467029d332324bac128567a706f79ae35278d"
+    "quoteFirst": "According to this time-table you can take a local that leaves here at ",
+    "quoteTime": "two-fifteen",
+    "quoteLast": " and get to Pacific fifteen minutes ahead of the express on which he is coming in, and you’ve just about time to make it.",
+    "title": "Free, and other stories",
+    "author": "Dreiser, Theodore, 1871-1945",
+    "gutenbergReference": "68542",
+    "hash": "21c63598e4210871c8395512b40c49343deec1caff38707c04cca541de8af48b"
   }
 ]

@@ -1,96 +1,6 @@
 [
   {
     "time": "02:35",
-    "quoteFirst": "\"Your calculation is that as the accident took place at 3:12 and you left at ",
-    "quoteTime": "twenty-five minutes to three",
-    "quoteLast": " you drove fifteen miles in thirty-seven minutes--that is to say, at the rate of twenty-four miles an hour. Is that right?\"",
-    "title": "Manslaughter",
-    "author": "Miller, Alice Duer, 1874-1942; Gruger, Frederic Rodrigo, 1871-1953 [Illustrator]",
-    "gutenbergReference": "33985",
-    "hash": "13d09b7be87f2654f6170f555fdd6667e0fed0829d0a81b9636a69050be5839c"
-  },
-  {
-    "time": "02:35",
-    "quoteFirst": "on the 16th and sets at ",
-    "quoteTime": "2:35 a. m.",
-    "quoteLast": " on the 17th; rises at 11:12 a.",
-    "title": "The Chautauquan, Vol. 05, February 1885",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55053",
-    "hash": "0561f766d09a7f9a53476763ba8b8200acfad4ba0fcf3006b8e362de5272bb43"
-  },
-  {
-    "time": "02:35",
-    "quoteFirst": "\"HEAD-QUARTERS, FREDERICK, September 13, 1862, 12 M.         (\"Received ",
-    "quoteTime": "2.35 A.M.",
-    "quoteLast": ", September 14.)",
-    "title": "From Manassas to Appomattox: Memoirs of the Civil War in America",
-    "author": "Longstreet, James, 1821-1904",
-    "gutenbergReference": "38418",
-    "hash": "df262d8b5361f664bb4a99379cfd4cf4225ade090d87812409b293f74501653a"
-  },
-  {
-    "time": "02:35",
-    "quoteFirst": "On September 26, Oswald boarded Continental Trailways bus No. 5133 in Houston and departed at ",
-    "quoteTime": "2:35 a.m.",
-    "quoteLast": " for Laredo, Tex.",
-    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58031",
-    "hash": "fe14b65e75b8b33762bba431ddfd0bbac99e6141e25b4239d2c6eb388022efaa"
-  },
-  {
-    "time": "02:35",
-    "quoteFirst": "At ",
-    "quoteTime": "thirty-five minutes after two",
-    "quoteLast": ", Wednesday afternoon, Uncle Joe's train came into the station, and Uncle Joe got out and shouted among his relatives.",
-    "title": "Penrod and Sam",
-    "author": "Tarkington, Booth, 1869-1946",
-    "gutenbergReference": "1158",
-    "hash": "1c8e01e878a27dcdfa38a0a92fc63f0035a2dad9a2b89edccd3a439baa8ae85a"
-  },
-  {
-    "time": "02:35",
-    "quoteFirst": "On September 26, Oswald boarded Continental Trailways bus No. 5133 in Houston and departed at ",
-    "quoteTime": "2:35 a.m.",
-    "quoteLast": " for Laredo, Tex.",
-    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58031",
-    "hash": "fe14b65e75b8b33762bba431ddfd0bbac99e6141e25b4239d2c6eb388022efaa"
-  },
-  {
-    "time": "02:35",
-    "quoteFirst": "At ",
-    "quoteTime": "2.35 A.M.",
-    "quoteLast": " the destroyer _Moresby_, of the 13th Flotilla, sighted four battleships of the “Deutschland” class, and attacked, firing one torpedo; an explosion was subsequently heard.",
-    "title": "The Grand Fleet, 1914-1916",
-    "author": "Jellicoe, John Rushworth, 1859-1935",
-    "gutenbergReference": "75323",
-    "hash": "99ac91767be1b059ea9a5de8807446762d659bb706f7915774c1a681480713b8"
-  },
-  {
-    "time": "02:35",
-    "quoteFirst": "The Commission noted that the only time not strictly accounted for during the period that Mrs. Odio thought Oswald might have visited her is the span between the morning of September 25 and ",
-    "quoteTime": "2:35 a.m.",
-    "quoteLast": " on September 26.",
-    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58031",
-    "hash": "8e6edff30d67f2b86058820dfae017343fd32dd1771f0801bab0aa7d3de82ec2"
-  },
-  {
-    "time": "02:35",
-    "quoteFirst": "At ",
-    "quoteTime": "thirty-five minutes after two",
-    "quoteLast": ", Wednesday afternoon, Uncle Joe's train came into the station, and Uncle Joe got out and shouted among his relatives.",
-    "title": "Penrod and Sam",
-    "author": "Tarkington, Booth, 1869-1946",
-    "gutenbergReference": "1158",
-    "hash": "1c8e01e878a27dcdfa38a0a92fc63f0035a2dad9a2b89edccd3a439baa8ae85a"
-  },
-  {
-    "time": "02:35",
     "quoteFirst": "The hands indicated ",
     "quoteTime": "twenty-five minutes of three",
     "quoteLast": ".",
@@ -98,5 +8,95 @@
     "author": "Pardo Bazán, Emilia, condesa de, 1852-1921; Seeger, Annabel Hord [Translator]",
     "gutenbergReference": "41509",
     "hash": "314f6dab8e6a415fb7ab97f82e6e47c6c1996c410f36309e21745ce82cd748ee"
+  },
+  {
+    "time": "02:35",
+    "quoteFirst": "Once more we separated, and as I glanced at the clock I saw it then was ",
+    "quoteTime": "thirty-five minutes past two",
+    "quoteLast": ".",
+    "title": "The Corsican Brothers",
+    "author": "Dumas, Alexandre, 1802-1870; Frith, Henry, 1840- [Translator]",
+    "gutenbergReference": "41881",
+    "hash": "626d05893797d8ccad555b2aad17b4433de487ef31a089edfc87726db9ddc0b1"
+  },
+  {
+    "time": "02:35",
+    "quoteFirst": "It was ",
+    "quoteTime": "2.35 a.m.",
+    "quoteLast": " I picked up the poker from my fireside and went out of my room.",
+    "title": "Murder in the maze",
+    "author": "Connington, J. J., 1880-1947",
+    "gutenbergReference": "71351",
+    "hash": "2f9efb72bf67e8fb3b67d2d20766a0b730b5d075de121219262b69bdba98683a"
+  },
+  {
+    "time": "02:35",
+    "quoteFirst": "He was making excellent progress with it and at ",
+    "quoteTime": "five and twenty minutes to three",
+    "quoteLast": " he was at the end of it.",
+    "title": "Happy Pollyooly: The Rich Little Poor Girl",
+    "author": "Jepson, Edgar, 1863-1938; Birch, Reginald B. (Reginald Bathurst), 1856-1943 [Illustrator]",
+    "gutenbergReference": "19310",
+    "hash": "cab3eaf717d78d61bf4e2732c6fe09a631ac84b3ca57ccff7da612ebe531e0d3"
+  },
+  {
+    "time": "02:35",
+    "quoteFirst": "[C6-726] There is strong evidence that on September 26, 1963, Oswald traveled on Continental Trailways bus No. 5133 which left Houston at ",
+    "quoteTime": "2:35 a.m.",
+    "quoteLast": " for Laredo, Tex.",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "5fc9cc551e82003718b620078409311446a9371067b6b71fc784dee5490d84d3"
+  },
+  {
+    "time": "02:35",
+    "quoteFirst": "He was making excellent progress with it and at ",
+    "quoteTime": "five and twenty minutes to three",
+    "quoteLast": " he was at the end of it.",
+    "title": "Happy Pollyooly: The Rich Little Poor Girl",
+    "author": "Jepson, Edgar, 1863-1938; Birch, Reginald B. (Reginald Bathurst), 1856-1943 [Illustrator]",
+    "gutenbergReference": "19310",
+    "hash": "cab3eaf717d78d61bf4e2732c6fe09a631ac84b3ca57ccff7da612ebe531e0d3"
+  },
+  {
+    "time": "02:35",
+    "quoteFirst": "He was making excellent progress with it and at ",
+    "quoteTime": "five and twenty minutes to three",
+    "quoteLast": " he was at the end of it.",
+    "title": "Happy Pollyooly: The Rich Little Poor Girl",
+    "author": "Jepson, Edgar, 1863-1938; Birch, Reginald B. (Reginald Bathurst), 1856-1943 [Illustrator]",
+    "gutenbergReference": "19310",
+    "hash": "cab3eaf717d78d61bf4e2732c6fe09a631ac84b3ca57ccff7da612ebe531e0d3"
+  },
+  {
+    "time": "02:35",
+    "quoteFirst": "My watch showed ",
+    "quoteTime": "2.35 a.m.",
+    "quoteLast": "; thus our rate of progress so far was satisfactory.",
+    "title": "The making of a mountaineer",
+    "author": "Finch, George Ingle, 1888-1970",
+    "gutenbergReference": "69128",
+    "hash": "9ab7c4ef77597759ba6bc56f6b2c18bcd557ac3df0bd47b832cccfd8b40bbb4c"
+  },
+  {
+    "time": "02:35",
+    "quoteFirst": "At ",
+    "quoteTime": "five-and-twenty minutes to three",
+    "quoteLast": " a royal salute from the Tower and other guns announced the joyous intelligence to her Majesty’s subjects in the metropolis.",
+    "title": "Curiosities of Street Literature",
+    "author": "Hindley, Charles, -1893 [Editor]",
+    "gutenbergReference": "49128",
+    "hash": "39e59581c6ce93b4e687fb92d74123a3403eca8057b92b99fd85958b71c0f59f"
+  },
+  {
+    "time": "02:35",
+    "quoteFirst": "He scribbled a line on the table, and said as he rose: “It is ",
+    "quoteTime": "thirty-five minutes past two",
+    "quoteLast": ". You would perhaps find the doctor at home now.”",
+    "title": "A Love Episode",
+    "author": "Zola, Émile, 1840-1902; Starkweather, C. C. [Translator]",
+    "gutenbergReference": "13695",
+    "hash": "a3d1c1a5484d7506fac1552e62f730bc54ccc04a84296193efec8b42c13b8568"
   }
 ]

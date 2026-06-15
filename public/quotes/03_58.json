@@ -1,6 +1,26 @@
 [
   {
     "time": "03:58",
+    "quoteFirst": "",
+    "quoteTime": "About 4 A.M.",
+    "quoteLast": " the President of the United States landed on the Mammouth Building in New York and was taken down in the elevator to the 110th floor to Supreme Commander Gordon's office.",
+    "title": "The tunnel thru the air",
+    "author": "Gann, William D. (William Delbert), 1878-1955",
+    "gutenbergReference": "74988",
+    "hash": "8927b9354b0215a9e66a9791ad70bfae9b065561a89f4e106baaf9232f834d00"
+  },
+  {
+    "time": "03:58",
+    "quoteFirst": "By the position of the moon I guessed it was ",
+    "quoteTime": "about four a.m.",
+    "quoteLast": " A frightened cry from a native running up from the beach broke in on the revelry.",
+    "title": "The cradle of the deep",
+    "author": "Lowell, Joan, 1900-1967; Wiese, Kurt, 1887-1974 [Illustrator]",
+    "gutenbergReference": "75093",
+    "hash": "a16b1b5b87f8156180531722f556d6c254bb338ecddfcf916d02655bb67975c8"
+  },
+  {
+    "time": "03:58",
     "quoteFirst": "_--Rain began falling ",
     "quoteTime": "about 4 A.M.",
     "quoteLast": " and continued to do so till 8 A.M., when the heat became insufferable.",
@@ -11,53 +31,33 @@
   },
   {
     "time": "03:58",
-    "quoteFirst": "And as the captain invariably rose ",
+    "quoteFirst": "Oh, that good fellow, how he did work as if he had just begun his day instead of having been at it since ",
     "quoteTime": "about 4 A.M.",
-    "quoteLast": ", he was able to keep his eye upon the mate and see that he did nothing wrong, but he never actively interfered.",
-    "title": "Frank Brown, Sea Apprentice",
-    "author": "Bullen, Frank Thomas, 1857-1915; Twidle, Arthur, 1865-1936 [Illustrator]",
-    "gutenbergReference": "61682",
-    "hash": "5ad69503ffcc394ae7d637bc508fd7f9b0c68c81f1b11ca63d708f6e90d3cdcc"
+    "quoteLast": " He helped me set up the beds, straighten up a living room, lit a fire, fetched some supper from a local pork butcher's, and at last with an earnest enquiry as to whether he couldn't do anything more for me, supposed he'd better be getting towards home as he had to be up at three the next morning.",
+    "title": "Confessions of a Tradesman",
+    "author": "Bullen, Frank Thomas, 1857-1915",
+    "gutenbergReference": "63556",
+    "hash": "f5903e4d73765d9b493d12944ad02eb2622d6e7db5edd00cb5a23542ab23f87c"
   },
   {
     "time": "03:58",
-    "quoteFirst": "",
-    "quoteTime": "About 4 A.M.",
-    "quoteLast": " one of the guides incautiously moved his head, and having thus disturbed his equilibrium fell heavily on to the floor.",
-    "title": "Above the Snow Line: Mountaineering Sketches Between 1870 and 1880",
-    "author": "Dent, C. T. (Clinton Thomas), 1850-1912; Whymper, Edward, 1840-1911 [Engraver]; Macquoid, Percy, -1925 [Illustrator]",
-    "gutenbergReference": "35434",
-    "hash": "44ecedc51e0e34310c180e07b5346452df61565a719f349ff742ef72c36e3eaf"
-  },
-  {
-    "time": "03:58",
-    "quoteFirst": "One lovely summer night I was driving a young lad to catch the midnight train which used to arrive at Waterloo ",
+    "quoteFirst": "He quickly mustered his crew and the members of his Naval Brigade and left Dunnville at 2 o'clock a.m., arriving at Port Colborne at ",
     "quoteTime": "about 4 a.m.",
-    "quoteLast": " He had come over from New Zealand when the call came (he emigrated a few years before the war) and he had just been home on leave to see his parents.",
-    "title": "Ghosts in the Great War, and true tales of haunted houses",
-    "author": "Giraud, S. Louis ( Stephen Louis), 1879-1950 [Editor]",
-    "gutenbergReference": "76814",
-    "hash": "6ac94d660139566815c6e42ec248c2cc5a1f20e27329e81acf7043a2b0851cb7"
+    "quoteLast": " Meanwhile the Welland Canal Field Battery, under command of Capt.",
+    "title": "Troublous Times in Canada\nA History of the Fenian Raids of 1866 and 1870",
+    "author": "MacDonald, John A. (John Alexander), 1846-1922",
+    "gutenbergReference": "19599",
+    "hash": "d76a01c7a0242e270cce588fefc9e8bc1a72dcaee3518aa90efe40588180ef3c"
   },
   {
     "time": "03:58",
-    "quoteFirst": "It raged till ",
-    "quoteTime": "about four A. M.",
-    "quoteLast": " on the 18th, when    the wind subsided, and the flames were got under control.",
-    "title": "History for ready reference, Volumes 1 to 5",
-    "author": "Larned, J. N. (Josephus Nelson), 1836-1913",
-    "gutenbergReference": "70427",
-    "hash": "292b67a003cb9b429c3ac5bbf54e0dd2a450b11ff754832844b4e05432dc5d52"
-  },
-  {
-    "time": "03:58",
-    "quoteFirst": "Thanks to the corporal of the guard we did not get up till ",
-    "quoteTime": "nearly 4 A. M.",
-    "quoteLast": " this morning, as he slept and did not wake the orderly at the proper time.",
-    "title": "An Artilleryman's Diary",
-    "author": "Jones, Jenkins Lloyd, 1843-1918",
-    "gutenbergReference": "33211",
-    "hash": "90a7d532cba83681c7a104b8669bc9c4937ce3503ac993daa6381508d7b284e9"
+    "quoteFirst": "The label then points nearly to the 32nd degree near the letter Q, or about S.E. by E.; shewing that the sun is S.E. by E. (and the moon consequently due E.) at ",
+    "quoteTime": "about 4 A.M.",
+    "quoteLast": " In fact, the article merely asserts that the moon's place in the sky is known from the sun's place, if the difference of their longitudes be known.",
+    "title": "Chaucer's Works, Volume 3 — The House of Fame; The Legend of Good Women; The Treatise on the Astrolabe; The Sources of the Canterbury Tales",
+    "author": "Chaucer, Geoffrey, 1343?-1400; Skeat, Walter W. (Walter William), 1835-1912 [Editor]",
+    "gutenbergReference": "45027",
+    "hash": "5288fbbc180a5f00b354cc13a15a20f7988cf73cdf99244721df3005caff6a8e"
   },
   {
     "time": "03:58",
@@ -71,32 +71,32 @@
   },
   {
     "time": "03:58",
-    "quoteFirst": "I turned into my cot and slept soundly until ",
+    "quoteFirst": "It is ",
+    "quoteTime": "two minutes to four",
+    "quoteLast": ".”",
+    "title": "Virginia's Adventure Club",
+    "author": "North, Grace May, 1876-1960; Colborne, Elizabeth, 1885-1948 [Illustrator]; Gooch, Thelma, 1895-1973 [Illustrator]",
+    "gutenbergReference": "61987",
+    "hash": "37a35d7b1602cadae71c1e2bf8209e6bb8289f9023e45f3f3c3cfc6b0737164d"
+  },
+  {
+    "time": "03:58",
+    "quoteFirst": "In the afternoon the yacht was again brought to an anchor, and remained so till Saturday, ",
     "quoteTime": "about 4 A.M.",
-    "quoteLast": ", when I woke to find that the wind had changed and that the fire was rapidly coming down upon us.",
-    "title": "A Glimpse at Guatemala\nAnd Some Notes on the Ancient Monuments of Central America",
-    "author": "Maudslay, Anne Cary, -1926; Maudslay, Alfred Percival, 1850-1931",
-    "gutenbergReference": "47693",
-    "hash": "729b6c5450c8ef1a320f282348743221e8b89fb413f3d5263b741920bb055c93"
+    "quoteLast": ", when a breeze springing up from the southward, her head was pointed towards the Welsh coast.",
+    "title": "Yachting, Vol. 1",
+    "author": "Sullivan, Edward, Sir, 1852-1928; Brassey, Thomas Brassey, Earl, 1836-1918; Pritchett, R. T. (Robert Taylor), 1828-1907; Seth-Smith, C. E.; Watson. G. L. (George Lennox), 1851-1904",
+    "gutenbergReference": "41971",
+    "hash": "e96c023d6d94175025056acdbeb6b181da42e0a5bfe3f2838a51f656d6756141"
   },
   {
     "time": "03:58",
-    "quoteFirst": "Musketry and machine-gun fire continued without interruption till after dark, and from then up to ",
-    "quoteTime": "about 4 a.m.",
-    "quoteLast": " next day.",
-    "title": "Sir Ian Hamilton's Despatches from the Dardanelles, etc.",
-    "author": "Hamilton, Ian, 1853-1947; Wood, Evelyn, 1838-1919 [Author of introduction, etc.]",
-    "gutenbergReference": "53959",
-    "hash": "852532e01e1cedca4fad2e25f7bc811ddb3167ce6f8c5dcadfb9022cb1d6c515"
-  },
-  {
-    "time": "03:58",
-    "quoteFirst": "\"The first intimation we had of trouble was when Lieutenant Burroughs telephoned from the water impact range where they were doing night firing last night at ",
-    "quoteTime": "about four A.M.",
-    "quoteLast": " Two ambulances went down and brought him and his four men back, all of them stricken with what I take to be an extremely rapidly developing form of lobar pneumonia. All of the men who went down were stricken with the same disease, two of them as soon as they got back. So far we have had eight deaths among these men and all of the rest, except Lieutenant Burroughs, are apt to go at any moment.",
-    "title": "Poisoned Air",
-    "author": "Meek, S. P. (Sterner St. Paul), 1894-1972",
-    "gutenbergReference": "29069",
-    "hash": "d6cdf4a6346ea09a8b7ac326f65acafbca3752c77d2634ef5186ef4aa2446f98"
+    "quoteFirst": "A whole division was brought in, but it was found impossible to check the flames, which by midnight, had become unmanageable and raged until ",
+    "quoteTime": "about four a. m.",
+    "quoteLast": ", when the wind subsiding, they were brought under control.",
+    "title": "The 125th Regiment, Illinois Volunteer Infantry: Attention Batallion!",
+    "author": "Rogers, Robert M., 1839-1904",
+    "gutenbergReference": "52399",
+    "hash": "1c0f4c3de52681facc4d8d5298fa087a9f7109b0ac1d82c572a1881b6ee18991"
   }
 ]

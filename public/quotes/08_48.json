@@ -1,26 +1,6 @@
 [
   {
     "time": "08:48",
-    "quoteFirst": "Two gilt candelabra adorned the ends of the mantel, and a black marble clock, whose stumpy hands had stopped at ",
-    "quoteTime": "twelve minutes to nine",
-    "quoteLast": " on some long-past day, stood squarely in the center.",
-    "title": "Nid and Nod",
-    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
-    "gutenbergReference": "71633",
-    "hash": "7eccef52ab40934ec4acfd1fe94fb07148ed1ae3f620681bcc8268616a7d9d6f"
-  },
-  {
-    "time": "08:48",
-    "quoteFirst": "On the 19th, at ",
-    "quoteTime": "8:48 a. m.",
-    "quoteLast": ", is 5° 26′ south of the moon.",
-    "title": "The Chautauquan, Vol. 05, November 1884, No. 2",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55241",
-    "hash": "455beaf212ee1495903ff75abba70eab4889fd78e439a7037b18c2e381ad33bb"
-  },
-  {
-    "time": "08:48",
     "quoteFirst": "Is nearest to the earth on the 7th, at ",
     "quoteTime": "8:48 a. m.",
     "quoteLast": ", and farthest away on the 23d, at 7:48 a.",
@@ -31,23 +11,23 @@
   },
   {
     "time": "08:48",
-    "quoteFirst": "Travelling Post Offices, with a combined coach length of from 48 feet on the day mails to 158 feet on the night mails, are attached to the Great Western down trains which arrive at Bristol at 12.13 a.m. and ",
-    "quoteTime": "8.48 a.m.",
-    "quoteLast": "; to the up trains, at 12.45 a.m. and 3.0 p.m.; to the trains leaving Bristol for the West at 6.15 a.m. and 12.9 p.m., and for the North at 7.40 p.m. The Midland travelling Post Office carriages are attached to the 5.40 a.m. inward train and to the 7.0 p.m. outward train.",
-    "title": "The Bristol Royal Mail: Post, Telegraph, and Telephone",
-    "author": "Tombs, Robert Charles, 1842-1923",
-    "gutenbergReference": "34197",
-    "hash": "123ded266f8103e0008baab26bd362ee374e9f51c46e285bf0de9139208e6d84"
+    "quoteFirst": "\"It only wants ",
+    "quoteTime": "twelve minutes to nine",
+    "quoteLast": ",\" Constance pointed out.",
+    "title": "The Old Wives' Tale",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "5247",
+    "hash": "49e25863901b78835d21c733241e9eb05e9b96e601d5bfa6d1cd241f84d78072"
   },
   {
     "time": "08:48",
-    "quoteFirst": "On the 19th, at ",
-    "quoteTime": "8:48 a. m.",
-    "quoteLast": ", is 5° 26′ south of the moon.",
-    "title": "The Chautauquan, Vol. 05, November 1884, No. 2",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55241",
-    "hash": "455beaf212ee1495903ff75abba70eab4889fd78e439a7037b18c2e381ad33bb"
+    "quoteFirst": "At ",
+    "quoteTime": "8.48 A.M.",
+    "quoteLast": " Brig.",
+    "title": "The history of the 9th (Scottish) Division, 1914-1919",
+    "author": "Ewing, John, M.C.; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator]",
+    "gutenbergReference": "75001",
+    "hash": "1ec93f42bea2c1a4bf1a2ed520d24e452467dc357d716565ac258b7ba1ebd4f9"
   },
   {
     "time": "08:48",
@@ -71,13 +51,33 @@
   },
   {
     "time": "08:48",
-    "quoteFirst": "",
-    "quoteTime": "Twelve minutes to nine",
+    "quoteFirst": "Kendall glanced at a small traveling clock on Gerald’s chiffonier and informed him that it was ",
+    "quoteTime": "twelve minutes to nine",
     "quoteLast": ".",
-    "title": "The Landloper: The Romance of a Man on Foot",
-    "author": "Day, Holman, 1865-1935",
-    "gutenbergReference": "4712",
-    "hash": "d0f26126c7dc6c5eb8c5bb26fdc540eb37504c0bbab5f8c92ff506dc4790019f"
+    "title": "Around the End",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]; Wrenn, Charles L. (Charles Lewis), 1880-1952 [Illustrator]",
+    "gutenbergReference": "59874",
+    "hash": "31a850c86cb00e96578393ef3f0ffaa505de1d107fe5cbac3135cf9bbafabc37"
+  },
+  {
+    "time": "08:48",
+    "quoteFirst": "We started at ",
+    "quoteTime": "8.48 a.m.",
+    "quoteLast": " and at 9.23 had made two and a quarter miles in a south-west by south direction.",
+    "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
+    "author": "Landsborough, William, 1825-1886",
+    "gutenbergReference": "16243",
+    "hash": "7eb71abc960c8dd26659005a22fa472a1bb1835ff968223f7f0948651ce3a3b8"
+  },
+  {
+    "time": "08:48",
+    "quoteFirst": "Travelling Post Offices, with a combined coach length of from 48 feet on the day mails to 158 feet on the night mails, are attached to the Great Western down trains which arrive at Bristol at 12.13 a.m. and ",
+    "quoteTime": "8.48 a.m.",
+    "quoteLast": "; to the up trains, at 12.45 a.m. and 3.0 p.m.; to the trains leaving Bristol for the West at 6.15 a.m. and 12.9 p.m., and for the North at 7.40 p.m. The Midland travelling Post Office carriages are attached to the 5.40 a.m. inward train and to the 7.0 p.m. outward train.",
+    "title": "The Bristol Royal Mail: Post, Telegraph, and Telephone",
+    "author": "Tombs, Robert Charles, 1842-1923",
+    "gutenbergReference": "34197",
+    "hash": "123ded266f8103e0008baab26bd362ee374e9f51c46e285bf0de9139208e6d84"
   },
   {
     "time": "08:48",
@@ -88,15 +88,5 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55241",
     "hash": "455beaf212ee1495903ff75abba70eab4889fd78e439a7037b18c2e381ad33bb"
-  },
-  {
-    "time": "08:48",
-    "quoteFirst": "At ",
-    "quoteTime": "8.48 A.M.",
-    "quoteLast": " Brig.",
-    "title": "The history of the 9th (Scottish) Division, 1914-1919",
-    "author": "Ewing, John, M.C.; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator]",
-    "gutenbergReference": "75001",
-    "hash": "1ec93f42bea2c1a4bf1a2ed520d24e452467dc357d716565ac258b7ba1ebd4f9"
   }
 ]

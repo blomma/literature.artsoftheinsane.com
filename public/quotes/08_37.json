@@ -1,13 +1,43 @@
 [
   {
     "time": "08:37",
-    "quoteFirst": "It was then exactly ",
+    "quoteFirst": "Black Bulb 6.05 to 6.18 a.m. 6.22 to 6.35 a.m. 6.38 to 6.51 a.m. 8.27 to ",
+    "quoteTime": "8.37 a.m.",
+    "quoteLast": " 8.39 to 8.52 a.m. 2·6 6·5 9·6 21·7 23·0   62·0 63·5 66·7 78·8",
+    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6478",
+    "hash": "2f2a4d4fef006b9dcfa4b9a76381d82ad5adbea04c868e9d4fad4100297edce8"
+  },
+  {
+    "time": "08:37",
+    "quoteFirst": "\"   12     ",
+    "quoteTime": "8.37 A.M.",
+    "quoteLast": "     Arr. Ogden           Fri.  \"   13     5.00 P.M.     Lv.",
+    "title": "A Flight in Spring\r\nIn the car Lucania from New York to the Pacific coast and back, during April and May, 1898",
+    "author": "Knowles, J. Harris (John Harris), 1832-1908",
+    "gutenbergReference": "33620",
+    "hash": "08c417b431de9f97973a066e45924b98f56994c1574777ec251594ee653c47ad"
+  },
+  {
+    "time": "08:37",
+    "quoteFirst": "Things were in this state at this meeting on the 13th of June, which threatened to end in a riot—insults exchanged, fisticuffs succeeding the insults, cane thrashings succeeding the fisticuffs, revolver shots succeeding the cane thrashings—when at ",
     "quoteTime": "thirty-seven minutes past eight",
-    "quoteLast": ".",
-    "title": "Facing the Flag",
+    "quoteLast": " there occurred a diversion.",
+    "title": "Robur the Conqueror",
     "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "11556",
-    "hash": "079909421814cec8ff534a0bc3d25ac496e79ce6a74ffb6639adf0edb50b3f84"
+    "gutenbergReference": "3808",
+    "hash": "abc28cf82781d8691e001692095a08fcc258ab0d5be71af160430514a7d911ad"
+  },
+  {
+    "time": "08:37",
+    "quoteFirst": "A plant was placed in darkness at ",
+    "quoteTime": "8.37 A.M.",
+    "quoteLast": ", and at 2 P.M. (i.",
+    "title": "The Power of Movement in Plants",
+    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "5605",
+    "hash": "a1356c5efaa048838980a719405d5181ff336512998d857e1f69aa51241ef0be"
   },
   {
     "time": "08:37",
@@ -18,46 +48,6 @@
     "author": "McKinlay, John, 1819-1872",
     "gutenbergReference": "13248",
     "hash": "bbe59a3bdd13fbcab93b5c10851e4ec8e95ed73bf775117f03bcae3cf3cd8309"
-  },
-  {
-    "time": "08:37",
-    "quoteFirst": "It was then exactly ",
-    "quoteTime": "thirty-seven minutes past eight",
-    "quoteLast": ".",
-    "title": "Facing the Flag",
-    "author": "Verne, Jules, 1828-1905",
-    "gutenbergReference": "11556",
-    "hash": "079909421814cec8ff534a0bc3d25ac496e79ce6a74ffb6639adf0edb50b3f84"
-  },
-  {
-    "time": "08:37",
-    "quoteFirst": "“Well,” said Jim, as he looked at the standing timber, at the stream, and spit some black tobacco juice down on the red ground, “I should make it ",
-    "quoteTime": "thirty-seven minutes after eight",
-    "quoteLast": ". You see, a shell may drop in here and kill a mule, or something, and delay us. Make it thirty-seven, and I will go you.”",
-    "title": "How Private George W. Peck Put Down the Rebellion\r\nor, The Funny Experiences of a Raw Recruit - 1887",
-    "author": "Peck, George W. (George Wilbur), 1840-1916",
-    "gutenbergReference": "25492",
-    "hash": "4017a8d794a7ee5fa20e5a141fc7cd78474dfd068d1e058f307f973724f3488f"
-  },
-  {
-    "time": "08:37",
-    "quoteFirst": "Started at ",
-    "quoteTime": "8.37 a.m.",
-    "quoteLast": ", our course for a short distance about south-east then east-south-east; at one and a half miles crossed rocky creek, easily passable for drays, from west-south-west; crossed sandy oak creek from south-east by south (dry).",
-    "title": "McKinlay's Journal of Exploration in the Interior of Australia",
-    "author": "McKinlay, John, 1819-1872",
-    "gutenbergReference": "13248",
-    "hash": "bbe59a3bdd13fbcab93b5c10851e4ec8e95ed73bf775117f03bcae3cf3cd8309"
-  },
-  {
-    "time": "08:37",
-    "quoteFirst": "Friday ",
-    "quoteTime": "8:37 A.M.",
-    "quoteLast": "",
-    "title": "Project Daedalus",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34320",
-    "hash": "c86b43a59a6960d4a7ddb182ff385f67d2a57bd6499a1f6eafb40f4f98cc6382"
   },
   {
     "time": "08:37",
@@ -71,26 +61,6 @@
   },
   {
     "time": "08:37",
-    "quoteFirst": "Started at ",
-    "quoteTime": "8.37 a.m.",
-    "quoteLast": ", our course for a short distance about south-east then east-south-east; at one and a half miles crossed rocky creek, easily passable for drays, from west-south-west; crossed sandy oak creek from south-east by south (dry).",
-    "title": "McKinlay's Journal of Exploration in the Interior of Australia",
-    "author": "McKinlay, John, 1819-1872",
-    "gutenbergReference": "13248",
-    "hash": "bbe59a3bdd13fbcab93b5c10851e4ec8e95ed73bf775117f03bcae3cf3cd8309"
-  },
-  {
-    "time": "08:37",
-    "quoteFirst": "Friday ",
-    "quoteTime": "8:37 A.M.",
-    "quoteLast": "",
-    "title": "Project Daedalus",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34320",
-    "hash": "c86b43a59a6960d4a7ddb182ff385f67d2a57bd6499a1f6eafb40f4f98cc6382"
-  },
-  {
-    "time": "08:37",
     "quoteFirst": "Boston, ",
     "quoteTime": "8:37 A. M.",
     "quoteLast": " Boston!",
@@ -98,5 +68,35 @@
     "author": "Williams, Wayland Wells, 1888-1945",
     "gutenbergReference": "37906",
     "hash": "ca8e68c8c82b3b0d736bf3be5fc6719f3659b99538fd523eea6c7508e0d6d436"
+  },
+  {
+    "time": "08:37",
+    "quoteFirst": "A plant was placed in darkness at ",
+    "quoteTime": "8.37 A.M.",
+    "quoteLast": ", and at 2 P.M. (i.",
+    "title": "The Power of Movement in Plants",
+    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "5605",
+    "hash": "a1356c5efaa048838980a719405d5181ff336512998d857e1f69aa51241ef0be"
+  },
+  {
+    "time": "08:37",
+    "quoteFirst": "It is ",
+    "quoteTime": "twenty-three minutes to nine",
+    "quoteLast": " and you had better grab Harvie and Shorty and beat it.",
+    "title": "Back at School with the Tucker Twins",
+    "author": "Speed, Nell, 1878-1913; Scott, A. O. (Arthur Orange), 1882?-1946 [Illustrator]",
+    "gutenbergReference": "36089",
+    "hash": "c55b2a7f182d99e228bd3cd08952140ffe85462f50a4edeb081149b29a566407"
+  },
+  {
+    "time": "08:37",
+    "quoteFirst": "It was then exactly ",
+    "quoteTime": "thirty-seven minutes past eight",
+    "quoteLast": ".",
+    "title": "Facing the Flag",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "11556",
+    "hash": "079909421814cec8ff534a0bc3d25ac496e79ce6a74ffb6639adf0edb50b3f84"
   }
 ]

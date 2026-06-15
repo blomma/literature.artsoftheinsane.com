@@ -1,53 +1,23 @@
 [
   {
     "time": "19:56",
-    "quoteFirst": "6 Bombardment continued to 5:30 A. M.; renewed ",
-    "quoteTime": "4 to 8 P. M.",
-    "quoteLast": ", and again    in night.",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "39dad90a2b9cde91200383894ef093d0f8e8fc475c7cc9aab0575849f50ba549"
+    "quoteFirst": "\"Ah, ",
+    "quoteTime": "four minutes of eight",
+    "quoteLast": ",\" says Fussy, pulling out a \"bull's eye\" watch, with as much flourish as if it was a premium eighteen-_carat lever_.",
+    "title": "The Humors of Falconbridge\nA Collection of Humorous and Every Day Scenes",
+    "author": "Falconbridge, 1818-1854",
+    "gutenbergReference": "30480",
+    "hash": "c94e129cc8440b69909769e08e65c5517feaca9e23a39f0dfd755235e961c125"
   },
   {
     "time": "19:56",
-    "quoteFirst": "At ",
-    "quoteTime": "fifty-six minutes past seven",
-    "quoteLast": ", the signal for close action was made, and, to the astonishment of our squadron, the enemy never fired a shot, although they might have done considerable damage to our ships had they opened their fire on them as they approached end on to them, on their weather beam.",
-    "title": "Memoirs and Correspondence of Admiral Lord de Saumarez, Vol. I",
-    "author": "Ross, John, Sir, 1777-1856",
-    "gutenbergReference": "26031",
-    "hash": "19a7971be432570440e994cbe88eb028f5ea4782de23ccaad41a1530bed76d15"
-  },
-  {
-    "time": "19:56",
-    "quoteFirst": "From ",
-    "quoteTime": "four to eight p. m.",
-    "quoteLast": " the time is divided into two dog-watches, although the second half of that spell is the actual dog-watch.",
-    "title": "From Sea to Sea; Or, Clint Webb's Cruise on the Windjammer",
-    "author": "Foster, W. Bert (Walter Bertram), 1869-1929",
-    "gutenbergReference": "67495",
-    "hash": "f2dc3c886a238d1e4eb9c86e4f13563911ce8742fcc6e5acff8c5c7aa0c39db8"
-  },
-  {
-    "time": "19:56",
-    "quoteFirst": "At that time they are again changed, the watch that had “eight hours out” having the “forenoon watch below,” from 8 till 12 M.; and in the afternoon the watch that had but “four hours out” the night before have the afternoon watch below, from 12 to 4 P.M. The time from ",
-    "quoteTime": "4 to 8 P.M.",
-    "quoteLast": " is divided into two short watches, called “dog-watches,” for the purpose of regulating or keeping them in proper succession.",
-    "title": "Life and Adventure in the South Pacific",
-    "author": "Jones, John D.",
-    "gutenbergReference": "59684",
-    "hash": "198adb2edba776babca94988b5ddd66342b54ffb2172f2e3649e941bf79ef4aa"
-  },
-  {
-    "time": "19:56",
-    "quoteFirst": "6 Bombardment continued to 5:30 A. M.; renewed ",
-    "quoteTime": "4 to 8 P. M.",
-    "quoteLast": ", and again    in night.",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "39dad90a2b9cde91200383894ef093d0f8e8fc475c7cc9aab0575849f50ba549"
+    "quoteFirst": "that from ",
+    "quoteTime": "4 to 8 p.m.",
+    "quoteLast": ", was subdivided into two \"dog\" watches of two hours each.",
+    "title": "The Men of the Merchant Service\nBeing the polity of the mercantile marine for 'longshore readers",
+    "author": "Bullen, Frank Thomas, 1857-1915",
+    "gutenbergReference": "64896",
+    "hash": "2543f70a3c5d25883da17a47a30e5771903625d350d9f92556739d2ac75070c0"
   },
   {
     "time": "19:56",
@@ -61,42 +31,72 @@
   },
   {
     "time": "19:56",
-    "quoteFirst": "It was just ",
+    "quoteFirst": "Although\"--Mr. Fernald glanced at the clock--\"it's only ",
     "quoteTime": "four minutes to eight",
-    "quoteLast": ".",
-    "title": "The Flying Stingaree: A Rick Brant Science-Adventure Story",
-    "author": "Goodwin, Harold L. (Harold Leland), 1914-1990",
-    "gutenbergReference": "30401",
-    "hash": "21774e00412695d14b41258de392cfd2f6e94f6f1ee29a6c07551b49882da275"
+    "quoteLast": " and he'd better get back to his room.",
+    "title": "Left Guard Gilbert",
+    "author": "Barbour, Ralph Henry, 1870-1944; Caswell, Edward C., 1879-1963 [Illustrator]",
+    "gutenbergReference": "26149",
+    "hash": "c3b150c53ef71cdda7a5cb7722978e864108529afbc34d2bffe6c070e5f88f3b"
   },
   {
     "time": "19:56",
-    "quoteFirst": "\"To-day, from ",
+    "quoteFirst": "The ",
+    "quoteTime": "4 to 8 P.M.",
+    "quoteLast": " watch had difficulty in keeping steam for  12 knots.",
+    "title": "The Corsair in the war zone",
+    "author": "Paine, Ralph Delahaye, 1871-1925",
+    "gutenbergReference": "72760",
+    "hash": "f9d07b0e155eefea42603f986e0dd80eb19bf19c51da16da984664121b32e804"
+  },
+  {
+    "time": "19:56",
+    "quoteFirst": "From ",
+    "quoteTime": "four to eight p. m.",
+    "quoteLast": " the time is divided into two dog-watches, although the second half of that spell is the actual dog-watch.",
+    "title": "From Sea to Sea; Or, Clint Webb's Cruise on the Windjammer",
+    "author": "Foster, W. Bert (Walter Bertram), 1869-1929",
+    "gutenbergReference": "67495",
+    "hash": "f2dc3c886a238d1e4eb9c86e4f13563911ce8742fcc6e5acff8c5c7aa0c39db8"
+  },
+  {
+    "time": "19:56",
+    "quoteFirst": "For the convenience of teachers, instruction is given from 7 to 9 a.m. and from ",
     "quoteTime": "4 to 8 p.m.",
-    "quoteLast": ", the trench occupied by my company was      heavily bombarded. Shells and bombs have damaged our works very      seriously for about 50 yards. Two shelters were entirely destroyed.      The men behaved splendidly in spite of heavy losses: 10 killed, 27      wounded--a dozen severely. Stretcher-bearers just arrived. The      company has got to work again. Moral excellent.\"",
-    "title": "The Belgian Front and Its Notable Features",
-    "author": "Breton, Willy, 1877-",
-    "gutenbergReference": "49328",
-    "hash": "35b709b9f349ace723a28c8a4c3955e3fbc70c1a8e213ba46eefe452b1c05a14"
+    "quoteLast": "",
+    "title": "Some phases of educational progress in Latin America",
+    "author": "Montgomery, Walter A. (Walter Alexander), 1872-1949",
+    "gutenbergReference": "68716",
+    "hash": "917794cfba988b2299003176ac066eb72342911e2932421cc064848b1069407f"
   },
   {
     "time": "19:56",
-    "quoteFirst": "It was just ",
-    "quoteTime": "four minutes to eight",
-    "quoteLast": ".",
-    "title": "The Flying Stingaree: A Rick Brant Science-Adventure Story",
-    "author": "Goodwin, Harold L. (Harold Leland), 1914-1990",
-    "gutenbergReference": "30401",
-    "hash": "21774e00412695d14b41258de392cfd2f6e94f6f1ee29a6c07551b49882da275"
-  },
-  {
-    "time": "19:56",
-    "quoteFirst": "The last watch of from ",
+    "quoteFirst": "; retreated to Beernem, ",
     "quoteTime": "4 to 8 p.m.",
-    "quoteLast": " is divided into two, and is called the dog watch; it prevents the necessity of one officer always coming on duty at the same hour every day.",
-    "title": "Forty Thousand Miles Over Land and Water\nThe Journal of a Tour Through the British Empire and America",
-    "author": "Vincent, Ethel Gwendoline, 1861-",
-    "gutenbergReference": "48013",
-    "hash": "a6719ff5c73aa599d87f8428c18faade0bc1732efb334d50585364aea44d413e"
+    "quoteLast": ", 11 Oct.",
+    "title": "The Roll of Honour, Volume 1",
+    "author": "Ruvigny et Raineval, Melville Henry Massue, marquis de, 1868-1921",
+    "gutenbergReference": "75883",
+    "hash": "a3ed7ff10357de6969362e539a2387318330a1e36f105145b913de23d9957fa9"
+  },
+  {
+    "time": "19:56",
+    "quoteFirst": "The action began     at ",
+    "quoteTime": "fifty-six minutes after seven",
+    "quoteLast": ", exchanging broadsides when     within pistol shot, passing along their line, and cutting off     the cutter and gun boats.",
+    "title": "Memoir of the Life and Services of Vice-Admiral Sir Jahleel Brenton, Baronet, K.C.B.",
+    "author": "Raikes, Henry, 1782-1854 [Editor]",
+    "gutenbergReference": "58746",
+    "hash": "cfc81b27dbf010c28530118e69672b8e661190855cf7cee701cf01f9d86191e4"
+  },
+  {
+    "time": "19:56",
+    "quoteFirst": "6 Bombardment continued to 5:30 A. M.; renewed ",
+    "quoteTime": "4 to 8 P. M.",
+    "quoteLast": ", and again    in night.",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "39dad90a2b9cde91200383894ef093d0f8e8fc475c7cc9aab0575849f50ba549"
   }
 ]

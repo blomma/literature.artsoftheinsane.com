@@ -1,53 +1,63 @@
 [
   {
     "time": "16:56",
-    "quoteFirst": "At about ",
-    "quoteTime": "4:56 P.M.",
-    "quoteLast": " C.S.T. a brilliant detonating fireball soared over an area including Kansas, Nebraska, Colorado, Oklahoma, and Texas, and left a large white cloud that was visible for about an hour afterward.",
-    "title": "The World of Flying Saucers: A Scientific Examination of a Major Myth of the Space Age",
-    "author": "Menzel, Donald H. (Donald Howard), 1901-1976; Boyd, Lyle Gifford, 1907-1982",
-    "gutenbergReference": "66639",
-    "hash": "ec2df2aa9258b38e46798380604af02af47432dc7cbcd0af6dbd991a38b91318"
-  },
-  {
-    "time": "16:56",
-    "quoteFirst": "28 Bombardment 8 A. M., 12 shells; renewed 12:30 to 2:30 P. M., 32    shells; Taube 2 P. M.; renewed ",
+    "quoteFirst": "30 Bombardment 9:30 to 10 A. M., 10 shells; renewed 2:20 to 2:45 P. M.,    15 shells, 1 killed, 2 wounded; again ",
     "quoteTime": "4 to 5 P. M.",
-    "quoteLast": ", 50 shells, 3 wounded.",
+    "quoteLast": ", 6 shells,    3 killed, 2 wounded; French artillery at night.",
     "title": "The Bombardment of Reims",
     "author": "Ferree, Barr, 1862-1924",
     "gutenbergReference": "49649",
-    "hash": "6462e9a8700a41607585f0f1f17b783f3511dfcc3434846837dd777e3cf4bdae"
+    "hash": "47248b41ee3d86f74af0c3832b7acb42a1cedae11a23e3e8d401c733887e3135"
   },
   {
     "time": "16:56",
-    "quoteFirst": "1 Bombardment 2:45 to 3:45 P. M., 7 shells; renewed ",
-    "quoteTime": "4 to 5 P. M.",
-    "quoteLast": ",    12 shells.",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "2cfff09e9e5663857499faf9d83663e91522384917b6e6d25544f831c0c8f284"
+    "quoteFirst": "From ",
+    "quoteTime": "4 to 5 p.m.",
+    "quoteLast": " the temperature was 24°, with a very cold wind; the elevation by the barometer was 15,260 feet, and the dew-point 10.5°, giving the humidity 0·610, and the amount of vapour 1·09 grains in a cubic foot of air; the same elements at Calcutta, at the same hour, being thermometer 66·5°, dew-point 60·5°, humidity 0·840, and weight of vapour 5·9 grains.",
+    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6478",
+    "hash": "9d647b28287161a97bcf414434c28b72bb7dda5c40a0845587ed327e82e74b32"
   },
   {
     "time": "16:56",
-    "quoteFirst": "At ",
-    "quoteTime": "four minutes to five",
-    "quoteLast": " by yours.",
-    "title": "The Point Of Honor: A Military Tale",
-    "author": "Conrad, Joseph, 1857-1924; Groesbeck, Dan Sayre, 1878-1950 [Illustrator]",
-    "gutenbergReference": "17620",
-    "hash": "cf04dae0d5342462ed3c2579c166a42aeee35e1051fd99245ed2cfceceef204a"
+    "quoteFirst": "From ",
+    "quoteTime": "4 to 5 p.m.",
+    "quoteLast": " the temperature was 24°, with a very cold wind; the elevation by the barometer was 15,260 feet, and the dew-point 10.5°, giving the humidity 0·610, and the amount of vapour 1·09 grains in a cubic foot of air; the same elements at Calcutta, at the same hour, being thermometer 66·5°, dew-point 60·5°, humidity 0·840, and weight of vapour 5·9 grains.",
+    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6478",
+    "hash": "9d647b28287161a97bcf414434c28b72bb7dda5c40a0845587ed327e82e74b32"
   },
   {
     "time": "16:56",
-    "quoteFirst": "28 Bombardment 10:30 A. M.; renewed ",
-    "quoteTime": "4 to 5 P. M.",
-    "quoteLast": "; again 7 to 11 P. M.",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "a2bd7dc404ae83b11a69c6ec09d6ef223f1da369ca744d0a51b5a075258f2fdb"
+    "quoteFirst": "From 2 till 5 in the morning; and from ",
+    "quoteTime": "4 till 5 in the afternoon",
+    "quoteLast": ".",
+    "title": "How to tell fortunes",
+    "author": "Warford, Aaron A.",
+    "gutenbergReference": "52741",
+    "hash": "0dff06938c26cebe4c86eeabb8f660b0049eb2379f14321aeec82bfc273da0d0"
+  },
+  {
+    "time": "16:56",
+    "quoteFirst": "From 2 till 5 in the morning; and from ",
+    "quoteTime": "4 till 5 in the afternoon",
+    "quoteLast": ".",
+    "title": "How to tell fortunes",
+    "author": "Warford, Aaron A.",
+    "gutenbergReference": "52741",
+    "hash": "0dff06938c26cebe4c86eeabb8f660b0049eb2379f14321aeec82bfc273da0d0"
+  },
+  {
+    "time": "16:56",
+    "quoteFirst": "In the afternoon two hours of pistol drill and standing gun drill were followed by stables, ",
+    "quoteTime": "4 to 5 p. m.",
+    "quoteLast": ", filling the time as completely as in the morning.",
+    "title": "Battery E in France: 149th Field Artillery, Rainbow (42nd) Division",
+    "author": "Kilner, Frederic Richard, 1892-",
+    "gutenbergReference": "33119",
+    "hash": "95f1ff54f24b7894a0531c45ee0002783b0545ca926ff0bd044d8dd63c411560"
   },
   {
     "time": "16:56",
@@ -61,33 +71,13 @@
   },
   {
     "time": "16:56",
-    "quoteFirst": "“I wish that stupid old judge would bestir himself,” replied Lord Charles, looking at his watch; “it wants ",
-    "quoteTime": "four minutes to five",
-    "quoteLast": ": he 'll scarcely be in court before it strikes, and I shall lose a pony through it.”",
-    "title": "Roland Cashel, Volume II (of II)",
-    "author": "Lever, Charles, 1806-1872; Browne, Hablot Knight, 1815-1882 [Illustrator]",
-    "gutenbergReference": "33469",
-    "hash": "1d44bd7e5cd8171f53bab712576cf1019f8bc3b1cc4daa07eb58754eefde4828"
-  },
-  {
-    "time": "16:56",
-    "quoteFirst": ", dinner from ",
-    "quoteTime": "4 to 5 p. m.",
-    "quoteLast": " If supper is taken, it is at a very late hour; coffee is drank early in the morning, and tea in the evening.",
-    "title": "Exploration of the Valley of the Amazon, Part 2 (of 2)",
-    "author": "Herndon, William Lewis, 1813-1857; Gibbon, Lardner, 1819-1910",
-    "gutenbergReference": "57771",
-    "hash": "f7f10e9e65c7bfaf500615c1c056e9d2df6094f61ec1f28f6359485a6fbc9a80"
-  },
-  {
-    "time": "16:56",
-    "quoteFirst": "For a whole month the music continues from ",
-    "quoteTime": "four to five in the afternoon",
-    "quoteLast": ".",
-    "title": "The Inferno",
-    "author": "Strindberg, August, 1849-1912; Field, Claud, 1863-1941 [Translator]",
-    "gutenbergReference": "44108",
-    "hash": "8a335124ce2272b5950920238ca25aadea2b0980881c3c1f9fca03553c7deb10"
+    "quoteFirst": "_, when it is noon in New York it is ",
+    "quoteTime": "fifty-six minutes past four",
+    "quoteLast": " in the afternoon at London.",
+    "title": "How to Travel\r\nHints, Advice, and Suggestions to Travelers by Land and Sea all over the Globe.",
+    "author": "Knox, Thomas Wallace, 1835-1896",
+    "gutenbergReference": "45162",
+    "hash": "4ae35de6fce55dfdc7a6d360be348fd910091a489f2df8eab9862c12d264624a"
   },
   {
     "time": "16:56",
@@ -98,5 +88,15 @@
     "author": "Ferree, Barr, 1862-1924",
     "gutenbergReference": "49649",
     "hash": "318ea07ceed080b766b8381b0d280e1a104c53d697274cc9deb6cb80f91eb1f4"
+  },
+  {
+    "time": "16:56",
+    "quoteFirst": "_, when it is noon in New York it is ",
+    "quoteTime": "fifty-six minutes past four",
+    "quoteLast": " in the afternoon at London.",
+    "title": "How to Travel\r\nHints, Advice, and Suggestions to Travelers by Land and Sea all over the Globe.",
+    "author": "Knox, Thomas Wallace, 1835-1896",
+    "gutenbergReference": "45162",
+    "hash": "4ae35de6fce55dfdc7a6d360be348fd910091a489f2df8eab9862c12d264624a"
   }
 ]

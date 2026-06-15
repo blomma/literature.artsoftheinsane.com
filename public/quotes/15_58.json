@@ -1,23 +1,93 @@
 [
   {
     "time": "15:58",
-    "quoteFirst": "Our felucca came round from Porto Mauritio in the night, and embarking next morning, we arrived at Nice ",
-    "quoteTime": "about four in the afternoon",
-    "quoteLast": ".",
-    "title": "Travels through France and Italy",
-    "author": "Smollett, T. (Tobias), 1721-1771; Seccombe, Thomas, 1866-1923 [Author of introduction, etc.]",
-    "gutenbergReference": "2311",
-    "hash": "c882da93638f99e9b9d119c48c307abea89a8bece116328e3c6fb4d6c5d83704"
+    "quoteFirst": "",
+    "quoteTime": "About four in the afternoon",
+    "quoteLast": " we stopped to measure a dead crocodile which had been cast ashore.",
+    "title": "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 2",
+    "author": "Humboldt, Alexander von, 1769-1859; Bonpland, Aimé, 1773-1858; Ross, Thomasina [Translator]",
+    "gutenbergReference": "7014",
+    "hash": "44ac8a53ef569c389b1bd92de6203195fac1ad96eb4b10bb81f2a796b9cfdde9"
   },
   {
     "time": "15:58",
-    "quoteFirst": "The Senators and Syndic came again to compliment Whitelocke for the Lords, and to wish him a good journey; and, after ceremonies passed, ",
+    "quoteFirst": "\"_October 1st._--We had a heavy pull against tide, and arrived at Sarawak ",
+    "quoteTime": "about 4 P.M.",
+    "quoteLast": " We had eaten nothing since breakfast at 8; and we had to sit and talk, and drink tea and smoke, till 8 in the evening; then dinner was announced, and we retired to the private apartments--my poor men came willingly too! The table was laid _à l'Anglaise_, a good curry and rice, grilled fowls, and a bottle of wine. We did justice to our cheer; and the rajah, throwing away all reserve, bustled about with the proud and pleasing consciousness of having given us an English dinner in proper style; now drawing the wine; now changing our plates; pressing us to eat; saying, 'You are at home.' Dinner over, we sat,",
+    "title": "The Expedition to Borneo of H.M.S. Dido\nFor the Suppression of Piracy",
+    "author": "Keppel, Henry, Sir, 1809-1904; James, Rajah of Sarawak, 1803-1868",
+    "gutenbergReference": "22903",
+    "hash": "6cd80fab521581f0e4c020a15604cc607ef5eea8081dd374199e8122b7cb4b31"
+  },
+  {
+    "time": "15:58",
+    "quoteFirst": "It was ",
+    "quoteTime": "about four in the afternoon",
+    "quoteLast": ", when the victory was clearly decided in favour of the British flag.",
+    "title": "Glenarvon, Volume 3 (of 3)",
+    "author": "Lamb, Caroline, Lady, 1785-1828",
+    "gutenbergReference": "68776",
+    "hash": "90eef97dc403d4d109ba32c06a95833a140e61e7e363f598cefa86dd8887daae"
+  },
+  {
+    "time": "15:58",
+    "quoteFirst": "The nocturnal sinking movement, which is merely a great increase of one of the diurnal oscillations, commenced ",
+    "quoteTime": "about 4 P.M.",
+    "quoteLast": "",
+    "title": "The Power of Movement in Plants",
+    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "5605",
+    "hash": "3b083ab7d679d20b8090820a5defe5c2f4490cc451952766509fd18ca92efe37"
+  },
+  {
+    "time": "15:58",
+    "quoteFirst": "At ",
+    "quoteTime": "about 4 P.M.",
+    "quoteLast": ", some twenty Delawares dismounted in front of the fort, and displayed their wares on the prairie.",
+    "title": "The Backwoodsman; Or, Life on the Indian Frontier",
+    "author": "Wraxall, Lascelles, Sir, 1828-1865 [Editor]",
+    "gutenbergReference": "37100",
+    "hash": "3f3aeaa5248f034c615891e32ea6fcd1cd280479398b849abb0c5863faac5ea0"
+  },
+  {
+    "time": "15:58",
+    "quoteFirst": "It was ",
+    "quoteTime": "about four in the afternoon",
+    "quoteLast": " when the sun, veiled in clouds, with subdued light and tempered beams, enabled Don Quixote to relate, without heat or inconvenience, what he had seen in the cave of Montesinos to his two illustrious hearers, and he began as follows:",
+    "title": "Don Quixote",
+    "author": "Cervantes Saavedra, Miguel de, 1547-1616; Ormsby, John, 1829-1895 [Translator]",
+    "gutenbergReference": "996",
+    "hash": "bb638cd842000bd6305fd2e6cc5d518f9f7052552edba00591b99669b12b2d9f"
+  },
+  {
+    "time": "15:58",
+    "quoteFirst": "The whole ceremony closed ",
     "quoteTime": "about four o'clock in the afternoon",
-    "quoteLast": ", Whitelocke took his coach for Hamburg; he had another coach and four waggons for his people.",
-    "title": "A Journal of the Swedish Embassy in the Years 1653 and 1654, Vol II.",
-    "author": "Whitelocke, Bulstrode, 1605-1675; Morton, Charles, 1716-1799 [Editor]; Reeve, Henry, 1813-1895 [Editor]",
-    "gutenbergReference": "17407",
-    "hash": "78f1fa414922c0ae1c55c73ea93ce492bf77726c06d214f6405d528ce0a4e113"
+    "quoteLast": ".",
+    "title": "Notes on the Kiowa Sun Dance",
+    "author": "Spier, Leslie, 1893-1961",
+    "gutenbergReference": "36224",
+    "hash": "8ef47e4dbfe340e6ec93b584d1d7310ca037934fbee94a33775a63aa9d98e1ec"
+  },
+  {
+    "time": "15:58",
+    "quoteFirst": "It was ",
+    "quoteTime": "nearly four o'clock in the afternoon",
+    "quoteLast": " before the Sixth Corps came up with the Rebels.",
+    "title": "The Boys of '61\nor, Four Years of Fighting, Personal Observations with the Army and Navy",
+    "author": "Coffin, Charles Carleton, 1823-1896",
+    "gutenbergReference": "34843",
+    "hash": "727b4cfa7cc1dc658a584aaf82fafaab6ed3455ff88321b7294593af4d0488d0"
+  },
+  {
+    "time": "15:58",
+    "quoteFirst": "We slept at Duengnas the first night, and reached Valladolid on the following day, ",
+    "quoteTime": "about four o'clock in the afternoon",
+    "quoteLast": ".",
+    "title": "The Adventures of Gil Blas of Santillane, Volume 1 (of 3)",
+    "author": "Le Sage, Alain René, 1668-1747; Saintsbury, George, 1845-1933 [Contributor]; Smollett, T. (Tobias), 1721-1771 [Translator]",
+    "gutenbergReference": "66677",
+    "hash": "91a50914ed7ab76636302ce3fa69d969ae01e2989921df138035efeda6995832"
   },
   {
     "time": "15:58",
@@ -28,75 +98,5 @@
     "author": "Lamb, Caroline, Lady, 1785-1828",
     "gutenbergReference": "68776",
     "hash": "d63ba5325b0e5be8b996aa9c3c3c0432c92973916d492314ba7984a8c801f510"
-  },
-  {
-    "time": "15:58",
-    "quoteFirst": "It was ",
-    "quoteTime": "about four o'clock in the afternoon",
-    "quoteLast": " that the fever which had been very high all through the day, began to subside.",
-    "title": "The Lights and Shadows of Real Life",
-    "author": "Arthur, T. S. (Timothy Shay), 1809-1885",
-    "gutenbergReference": "4627",
-    "hash": "00e2f14d3cba608b34ddd63f2f133c93ec1796ecc0e6682437a79da1558cd898"
-  },
-  {
-    "time": "15:58",
-    "quoteFirst": "It was at ",
-    "quoteTime": "about four o’clock in the afternoon",
-    "quoteLast": " that I saw Brand and the German girl again.",
-    "title": "Wounded Souls",
-    "author": "Gibbs, Philip, 1877-1962",
-    "gutenbergReference": "65907",
-    "hash": "164cc7d022b7247b99be9e7592e75ca1029e1a5f5825167e80c63e2fb3ed9233"
-  },
-  {
-    "time": "15:58",
-    "quoteFirst": "",
-    "quoteTime": "About four o'clock in the afternoon",
-    "quoteLast": ", it got suddenly hotter again, as abruptly as before.",
-    "title": "The Sentimentalists",
-    "author": "Leinster, Murray, 1896-1975",
-    "gutenbergReference": "51102",
-    "hash": "9dc387f6d82fc999667ac70861db6a4af37f7466b08595151437a6c70ca48844"
-  },
-  {
-    "time": "15:58",
-    "quoteFirst": "That was on May 26, 1863, ",
-    "quoteTime": "about 4 o’clock in the afternoon",
-    "quoteLast": ", and the sun was shining brightly.",
-    "title": "Then and Now; or, Thirty-Six Years in the Rockies\r\nPersonal Reminiscences of Some of the First Pioneers of the State of Montana",
-    "author": "Vaughn, Robert, 1836-1918",
-    "gutenbergReference": "47334",
-    "hash": "85ca29e1df15b0b34dbd5049616bf6c0fa6f068d329b015a44b7c3ac6f2b20cb"
-  },
-  {
-    "time": "15:58",
-    "quoteFirst": "\"John,\" said father, ",
-    "quoteTime": "about four o'clock in the afternoon",
-    "quoteLast": " the day after the fair--\"John, did you buy all these things?\"",
-    "title": "The Blunders of a Bashful Man",
-    "author": "Victor, Metta Victoria Fuller, 1831-1885",
-    "gutenbergReference": "20754",
-    "hash": "69bbf3e556e25f71b4df0767fa9162ba18d4683ed690371f3cd35f48add710c2"
-  },
-  {
-    "time": "15:58",
-    "quoteFirst": "Our mother, weeping as she went, called me away with the children Hannah and Dinah, and we took the road that led to Hamble Town, which we reached ",
-    "quoteTime": "about four o'clock in the afternoon",
-    "quoteLast": ".",
-    "title": "The History of Mary Prince, a West Indian Slave",
-    "author": "Prince, Mary, 1788?-1833",
-    "gutenbergReference": "17851",
-    "hash": "403b8331a25d613ddef725a22393c6db357a97cc845807cbc77a67207cfce2e6"
-  },
-  {
-    "time": "15:58",
-    "quoteFirst": "We left this place about twelve, and arrived at Calais at ",
-    "quoteTime": "about four in the afternoon",
-    "quoteLast": ", much fatigued with our journey.",
-    "title": "Dr. Stearns's Tour from London to Paris",
-    "author": "Stearns, Samuel, 1741-1809",
-    "gutenbergReference": "47233",
-    "hash": "d3244ac233a23f0dd41910c38041bd15321d054423fe50851e1177e6bb0b2ec6"
   }
 ]

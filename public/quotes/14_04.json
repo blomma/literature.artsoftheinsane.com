@@ -1,16 +1,6 @@
 [
   {
     "time": "14:04",
-    "quoteFirst": "We departed at ",
-    "quoteTime": "4 minutes after 2",
-    "quoteLast": " from Parkland.",
-    "title": "Warren Commission (02 of 26): Hearings Vol. II (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44002",
-    "hash": "44e95df254255075264333cc08faf1f29d93d4533e90f366500b08492b6fd7e9"
-  },
-  {
-    "time": "14:04",
     "quoteFirst": "to ",
     "quoteTime": "2:04 p. m.",
     "quoteLast": "; Columbus, Ohio, 11:20 a.",
@@ -31,6 +21,16 @@
   },
   {
     "time": "14:04",
+    "quoteFirst": "It was now, noted another spectator, precisely ",
+    "quoteTime": "four minutes past two",
+    "quoteLast": ".",
+    "title": "Oliver Cromwell and the Rule of the Puritans in England",
+    "author": "Firth, C. H. (Charles Harding), 1857-1936",
+    "gutenbergReference": "57268",
+    "hash": "cc147ff39c4dbbfc1ade53b4ea6939ccdfa7f50fb015dc4350bbfcef108d7de2"
+  },
+  {
+    "time": "14:04",
     "quoteFirst": "At ",
     "quoteTime": "four minutes past two",
     "quoteLast": " he entered.",
@@ -41,43 +41,23 @@
   },
   {
     "time": "14:04",
-    "quoteFirst": "│   │    │      │     │     │     ",
-    "quoteTime": "2.04 pm",
-    "quoteLast": " Sample No. 13 blowing,    │ 2 │ 10 │ 0·052│ 0·01│ 0·78│0·033     2.05 pm Punched 2 minutes.",
-    "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
-    "author": "Levy, Donald M.",
-    "gutenbergReference": "59328",
-    "hash": "cb1c6f35ec0c593cc6e5aac04638ea883c0f5ea0b3d8d9bc0df02045a49efe93"
+    "quoteFirst": "to ",
+    "quoteTime": "2:04 p. m.",
+    "quoteLast": "; Columbus, Ohio, 11:20 a.",
+    "title": "The Chautauquan, Vol. 05, March 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55060",
+    "hash": "de47b91e71dd51e5b546cc82e8445a6b2fde2869d9a7f9f537996e53fa2e8a3d"
   },
   {
     "time": "14:04",
-    "quoteFirst": "│   │    │      │     │     │     ",
-    "quoteTime": "2.04 pm",
-    "quoteLast": " Sample No. 13 blowing,    │ 2 │ 10 │ 0·052│ 0·01│ 0·78│0·033     2.05 pm Punched 2 minutes.",
-    "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
-    "author": "Levy, Donald M.",
-    "gutenbergReference": "59328",
-    "hash": "cb1c6f35ec0c593cc6e5aac04638ea883c0f5ea0b3d8d9bc0df02045a49efe93"
-  },
-  {
-    "time": "14:04",
-    "quoteFirst": "We departed at ",
-    "quoteTime": "4 minutes after 2",
-    "quoteLast": " from Parkland.",
-    "title": "Warren Commission (02 of 26): Hearings Vol. II (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44002",
-    "hash": "44e95df254255075264333cc08faf1f29d93d4533e90f366500b08492b6fd7e9"
-  },
-  {
-    "time": "14:04",
-    "quoteFirst": "We departed at ",
-    "quoteTime": "4 minutes after 2",
-    "quoteLast": " from Parkland.",
-    "title": "Warren Commission (02 of 26): Hearings Vol. II (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44002",
-    "hash": "44e95df254255075264333cc08faf1f29d93d4533e90f366500b08492b6fd7e9"
+    "quoteFirst": "to ",
+    "quoteTime": "2:04 p. m.",
+    "quoteLast": "; Columbus, Ohio, 11:20 a.",
+    "title": "The Chautauquan, Vol. 05, March 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55060",
+    "hash": "de47b91e71dd51e5b546cc82e8445a6b2fde2869d9a7f9f537996e53fa2e8a3d"
   },
   {
     "time": "14:04",
@@ -91,12 +71,32 @@
   },
   {
     "time": "14:04",
-    "quoteFirst": "It was now, noted another spectator, precisely ",
-    "quoteTime": "four minutes past two",
-    "quoteLast": ".",
-    "title": "Oliver Cromwell and the Rule of the Puritans in England",
-    "author": "Firth, C. H. (Charles Harding), 1857-1936",
-    "gutenbergReference": "57268",
-    "hash": "cc147ff39c4dbbfc1ade53b4ea6939ccdfa7f50fb015dc4350bbfcef108d7de2"
+    "quoteFirst": "The following day at ",
+    "quoteTime": "2.04 p.m.",
+    "quoteLast": " the temperature registered 102.5°F. The same amount of extract was given at 2.09 p.m. The temperature at 4 p.m. was 99.8°F., the animal was dull, and the pupils were perhaps a little smaller.",
+    "title": "Barium: A Cause of the Loco-Weed Disease",
+    "author": "Crawford, Albert C. (Albert Cornelius), 1869-1921",
+    "gutenbergReference": "40256",
+    "hash": "23717a3b07e119ffe476080361dda6076809694f6b96a5063dbad0c50ce5e5f3"
+  },
+  {
+    "time": "14:04",
+    "quoteFirst": "We departed at ",
+    "quoteTime": "4 minutes after 2",
+    "quoteLast": " from Parkland.",
+    "title": "Warren Commission (02 of 26): Hearings Vol. II (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44002",
+    "hash": "44e95df254255075264333cc08faf1f29d93d4533e90f366500b08492b6fd7e9"
+  },
+  {
+    "time": "14:04",
+    "quoteFirst": "to ",
+    "quoteTime": "2:04 p. m.",
+    "quoteLast": "; Indianapolis, Ind.",
+    "title": "The Chautauquan, Vol. 05, March 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55060",
+    "hash": "195dc863dcaa7281e65550aab2bbce2dc3630e2b2a507ded7849ca5053ccc951"
   }
 ]

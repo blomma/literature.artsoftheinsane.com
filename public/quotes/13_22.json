@@ -1,6 +1,36 @@
 [
   {
     "time": "13:22",
+    "quoteFirst": "You also said at the time the rifle was found at ",
+    "quoteTime": "1:22 p.m.",
+    "quoteLast": ", is that correct?",
+    "title": "Warren Commission (07 of 26): Hearings Vol. VII (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44007",
+    "hash": "494d761534180462b9ed886083c4971e92e294f1746165f39f30d17488d21231"
+  },
+  {
+    "time": "13:22",
+    "quoteFirst": "[C4-517] Her description and that of other eyewitnesses led to the police broadcast at ",
+    "quoteTime": "1:22 p.m.",
+    "quoteLast": " describing the slayer as “about 30, 5’8”, black hair, slender.”",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "a394be02847f339919d7a4aba353f3b1e5d262fe43370bf36b05c186ff418148"
+  },
+  {
+    "time": "13:22",
+    "quoteFirst": "Truly estimated that he gave this information to Fritz about 15 or 20 minutes after the shots,[C4-416] but it was probably no earlier than ",
+    "quoteTime": "1:22 p.m.",
+    "quoteLast": ", the time when the rifle was found.",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "213caa5574ea1d187cf61a6b158bb551c7b97cbbb644886e8a609224dfcd750e"
+  },
+  {
+    "time": "13:22",
     "quoteFirst": "Mooney’s discovery intensified the search for additional evidence on the sixth floor, and at ",
     "quoteTime": "1:22 p.m.",
     "quoteLast": ", approximately 10 minutes after the cartridge cases were found, Deputy Sheriff Eugene Boone turned his flashlight in the direction of two rows of boxes in the northwest corner near the staircase.",
@@ -13,41 +43,21 @@
     "time": "13:22",
     "quoteFirst": "At ",
     "quoteTime": "1:22 p.m.",
-    "quoteLast": ", on the transcript of the radio log, I note it says, \"Have a description of suspect on Jefferson. Last seen about the 300 block of East Jefferson. White male, 30's; 5'8\", black hair, slender built, wearing white shirt, black slacks.\"",
-    "title": "Warren Commission (07 of 26): Hearings Vol. VII (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44007",
-    "hash": "f35db3d3fbf1d278ba7fe250a16a500a2d2d3e483542cc011ea179ef0b922444"
-  },
-  {
-    "time": "13:22",
-    "quoteFirst": "Brennan’s description should also be compared with the eyewitness description broadcast over the Dallas police radio at ",
-    "quoteTime": "1:22 p.m.",
-    "quoteLast": " of the man who shot Patrolman J.\u00A0D. Tippit.",
+    "quoteLast": " the Dallas police radio described the man wanted for the murder of Tippit as “a white male about thirty, five foot eight inches, black hair, slender, wearing a white jacket, white shirt and dark slacks.”",
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "hash": "f68df53f880a6b483f7d531e50ef3f19d5067b38a0f569cc36c569b8aa190838"
+    "hash": "532d1b48fd4e74040a1f0122f163a6d7cf80dc08df81f0dc596a0ee88c0444f8"
   },
   {
     "time": "13:22",
-    "quoteFirst": "Brennan’s description should also be compared with the eyewitness description broadcast over the Dallas police radio at ",
+    "quoteFirst": "At ",
     "quoteTime": "1:22 p.m.",
-    "quoteLast": " of the man who shot Patrolman J.\u00A0D. Tippit.",
+    "quoteLast": " Deputy Sheriff Eugene Boone and Deputy Constable Seymour Weitzman found a bolt-action rifle with a telescopic sight between two rows of boxes in the northwest corner near the staircase on the sixth floor.",
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "hash": "f68df53f880a6b483f7d531e50ef3f19d5067b38a0f569cc36c569b8aa190838"
-  },
-  {
-    "time": "13:22",
-    "quoteFirst": "Mooney’s discovery intensified the search for additional evidence on the sixth floor, and at ",
-    "quoteTime": "1:22 p.m.",
-    "quoteLast": ", approximately 10 minutes after the cartridge cases were found, Deputy Sheriff Eugene Boone turned his flashlight in the direction of two rows of boxes in the northwest corner near the staircase.",
-    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58031",
-    "hash": "5f78b363e8c8e312608f40bf568a1448bf68ddfefd1d5f1c508a6e3d56a53a3d"
+    "hash": "39ae03ed0a79094eaf56b7e77c556eafd180e15e0fe60849bbba889129de187b"
   },
   {
     "time": "13:22",
@@ -62,41 +72,31 @@
   {
     "time": "13:22",
     "quoteFirst": "At ",
-    "quoteTime": "1.22 P. M.",
-    "quoteLast": " we arrived at Harrisburg, where a short stop of eight minutes was made in changing engines.",
-    "title": "Nine Thousand Miles on a Pullman Train\r\nAn Account of a Tour of Railroad Conductors from Philadelphia to the Pacific Coast and Return",
-    "author": "Shaw, Milton M.",
-    "gutenbergReference": "51341",
-    "hash": "faf5ee5bbce26271336a2c383f6297cad155cfd7dec0d6dd00e925ed0c97be21"
-  },
-  {
-    "time": "13:22",
-    "quoteFirst": "│   │    │      │     │     │     ",
-    "quoteTime": "1.22 pm",
-    "quoteLast": " Skimmed.",
-    "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
-    "author": "Levy, Donald M.",
-    "gutenbergReference": "59328",
-    "hash": "78a56a495b4eeeaf5d79958d4945242055604d41936142ea13ec09183b970c8f"
-  },
-  {
-    "time": "13:22",
-    "quoteFirst": "Brennan’s description should also be compared with the eyewitness description broadcast over the Dallas police radio at ",
     "quoteTime": "1:22 p.m.",
-    "quoteLast": " of the man who shot Patrolman J.\u00A0D. Tippit.",
+    "quoteLast": " the Dallas police radio described the man wanted for the murder of Tippit as “a white male about thirty, five foot eight inches, black hair, slender, wearing a white jacket, white shirt and dark slacks.”",
     "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
     "author": "United States. Warren Commission",
     "gutenbergReference": "58031",
-    "hash": "f68df53f880a6b483f7d531e50ef3f19d5067b38a0f569cc36c569b8aa190838"
+    "hash": "532d1b48fd4e74040a1f0122f163a6d7cf80dc08df81f0dc596a0ee88c0444f8"
   },
   {
     "time": "13:22",
-    "quoteFirst": "│   │    │     │    │     ",
-    "quoteTime": "1.22 pm",
-    "quoteLast": " Skimmed.",
-    "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
-    "author": "Levy, Donald M.",
-    "gutenbergReference": "59328",
-    "hash": "60d7527e8edf8933b32c4cf86cc3244461e52084e9ee46b37a4cd06cea7682d5"
+    "quoteFirst": "At ",
+    "quoteTime": "1:22 p.m.",
+    "quoteLast": ", on the transcript of the radio log, I note it says, \"Have a description of suspect on Jefferson. Last seen about the 300 block of East Jefferson. White male, 30's; 5'8\", black hair, slender built, wearing white shirt, black slacks.\"",
+    "title": "Warren Commission (07 of 26): Hearings Vol. VII (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44007",
+    "hash": "f35db3d3fbf1d278ba7fe250a16a500a2d2d3e483542cc011ea179ef0b922444"
+  },
+  {
+    "time": "13:22",
+    "quoteFirst": "You also said at the time the rifle was found at ",
+    "quoteTime": "1:22 p.m.",
+    "quoteLast": ", is that correct?",
+    "title": "Warren Commission (07 of 26): Hearings Vol. VII (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44007",
+    "hash": "494d761534180462b9ed886083c4971e92e294f1746165f39f30d17488d21231"
   }
 ]

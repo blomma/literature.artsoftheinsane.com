@@ -1,23 +1,53 @@
 [
   {
     "time": "09:05",
-    "quoteFirst": "It's ",
+    "quoteFirst": "If she arrives at a station at ",
     "quoteTime": "five minutes past nine",
-    "quoteLast": ", Suzie, and as I am accustomed to get my dinner at half-past seven, I hope your cook means to be punctual.",
-    "title": "Sons of fire, Vol. II.",
-    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
-    "gutenbergReference": "75174",
-    "hash": "2830071052facbc79adc928a6f891321503d31caeec06141dbc6e62d1bc355a5"
+    "quoteLast": " to catch a train which has already left at nine minutes past five, she knows that it is her Henry who is responsible, just as he was responsible the day before for a shower of rain coming on when she was wearing her new hat.",
+    "title": "Sam in the Suburbs",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "67368",
+    "hash": "a06f7be0ac1b8463e8e9038df61b9340e57aa993cd549b8664eba9286eb06196"
   },
   {
     "time": "09:05",
-    "quoteFirst": "Dundee greeted the district attorney's private secretary Thursday morning at ",
-    "quoteTime": "five minutes after nine",
-    "quoteLast": ".",
-    "title": "Murder at Bridge",
-    "author": "Austin, Anne, 1895-1975",
-    "gutenbergReference": "19403",
-    "hash": "5415a1dc142351d418bf35b5bca3185ecc59643f117071b0b8ce82d37694ce5a"
+    "quoteFirst": "\"At ",
+    "quoteTime": "five minutes past nine",
+    "quoteLast": " last night a gentleman named Marsland came to the police station. I was in my office at the time, preparing a report. He told me that he had found the dead body of a man in this house.\"",
+    "title": "The Mystery of the Downs",
+    "author": "Watson, John R. (John Reay), 1872-; Rees, Arthur J. (Arthur John), 1872-1942",
+    "gutenbergReference": "45658",
+    "hash": "1821eb634d4a0be4a2ad50a08b6c8e2f8436b8e0818f007f162af19c01c94ec5"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "“He was here--in this room--in that chair--from ",
+    "quoteTime": "five minutes past nine",
+    "quoteLast": " to close on ten o'clock the night before his death,” replied Harker.",
+    "title": "The Paradise Mystery",
+    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
+    "gutenbergReference": "5308",
+    "hash": "818024fb3c9ece22fa6cd034d489a61ca419f72fc2e41a707570189db4a9a9f1"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "“I had to make the ",
+    "quoteTime": "nine-five",
+    "quoteLast": " train. So I wrote a note to Fargo explaining things, and asked him to tell you about it. I left it on the table in our room. You must have missed it, Buck, or didn’t you go to the room?”",
+    "title": "Lefty o' the Big League",
+    "author": "Standish, Burt L., 1866-1945",
+    "gutenbergReference": "75250",
+    "hash": "aeb21052c283b8c19eb7d869c6d0783abe298e6de5dc66282f6eb49ef730d1e7"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "",
+    "quoteTime": "Five minutes past nine",
+    "quoteLast": ": ten minutes past nine: what did Anne mean?",
+    "title": "Johnny Ludlow, Second Series",
+    "author": "Wood, Henry, Mrs., 1814-1887",
+    "gutenbergReference": "40928",
+    "hash": "fe553d1a9f9a321f24ba7b5edc493aa99df4459ff33a8ca3c89860d601b1dd81"
   },
   {
     "time": "09:05",
@@ -31,72 +61,42 @@
   },
   {
     "time": "09:05",
-    "quoteFirst": "It was ",
+    "quoteFirst": "I found that at ",
     "quoteTime": "five minutes past nine",
-    "quoteLast": " when I entered the great salon of the hotel and looked round for Lord Langerdale.",
-    "title": "Mr. Marx's Secret",
-    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946; Wilson, F. Vaux (Francis Vaux), 1874-1938 [Illustrator]",
-    "gutenbergReference": "39018",
-    "hash": "56847d7fe213b5a202331c689982e0b156cf4a69faff51f8af87e97597b4dc4f"
+    "quoteLast": " he stopped a car some four miles from Oxford.",
+    "title": "The Motor Pirate",
+    "author": "Paternoster, G. Sidney, 1866-1925",
+    "gutenbergReference": "26657",
+    "hash": "848ada4d5bce94fa7063cb8bbe16f620205a6df9326ad2e3d9291322ae0cc16e"
   },
   {
     "time": "09:05",
-    "quoteFirst": "Madame Marie left the library at ",
+    "quoteFirst": "Leave three-five P. M. (you needn't wire that); arrive ",
+    "quoteTime": "nine-five",
+    "quoteLast": " P. M. Wednesday.",
+    "title": "\"Captains Courageous\": A Story of the Grand Banks",
+    "author": "Kipling, Rudyard, 1865-1936; Taber, I. W. (Isaac Walton), 1857-1933 [Illustrator]",
+    "gutenbergReference": "2225",
+    "hash": "6603fdcc11837e37dc8eb877485e81309b5fad1e852352d1f1dd691c0be16410"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "Convinced at length, she agreed to allow them to remain the night in return for the deposit, so that they might be able to depart by the morning train, outward bound at ",
+    "quoteTime": "nine-five",
+    "quoteLast": " a.m.  This difficulty overcome, it was not so clear to our two friends how they were to subsist during the long journey which lay before them.",
+    "title": "Ralph Sinclair's Atonement",
+    "author": "Sargent, Antony",
+    "gutenbergReference": "49727",
+    "hash": "7bb239c00144c2b2e74ed2ebcd4f2056d5f84a351389ecaadf53395fd87baef2"
+  },
+  {
+    "time": "09:05",
+    "quoteFirst": "He got up, murmuring, “Just ",
     "quoteTime": "five minutes after nine",
-    "quoteLast": "; by fifteen minutes past I left it also, and by the window, on my way to Folkstone.",
-    "title": "The Sacred Herb",
-    "author": "Hume, Fergus, 1859-1932",
-    "gutenbergReference": "55642",
-    "hash": "9dbb48bf81b779097e52b9d8d65e5446e5451211b0a88a6adc7e5e48c45620f5"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "The Norwegian vessel collided with the “Mont Blanc,” and almost immediately her deck cargo of benzine caught fire and a few minutes later, at ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": " to be exact, the three thousand tons of high explosives aboard exploded with a dull reverberating roar and a crash that defies description.",
-    "title": "The Halifax Catastrophe\r\nForty views showing extent of damage in Canada's historic city as the result of terrific explosion on Thursday, December 6th, 1917, which killed 1200 men, women and children, injured 3000 and rendered 6000 homeless, causing property damage of nearly $50,000,000",
-    "author": "Royal Print & Litho Limited",
-    "gutenbergReference": "53135",
-    "hash": "6d20662c8973378ae94871f8a7db2abd921cd5f6e35880a4dc624e52d669f136"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "(The subscription list will open on Saturday next at Four o’clock in the afternoon, and will close at ",
-    "quoteTime": "five minutes past Nine",
-    "quoteLast": " on Monday morning.)",
-    "title": "Parodies of the works of English & American authors, vol. VI",
-    "author": "Hamilton, Walter, 1844-1899 [Compiler]",
-    "gutenbergReference": "70548",
-    "hash": "9fb4f52f18ce46b9fd56b95c613563bd17ab530869c34153c2891eb6a201ebe0"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "On the next morning, Sunday the 29th, Heany arrived at Mafeking, and after making the purchases detailed above, left by special cart for the camp at Pitsani, where he probably arrived about eight o'clock a.m. At ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": " Dr. Jameson telegraphed to Harris, Charter, Capetown: 'Shall leave to-night for the Transvaal.",
-    "title": "The Transvaal from Within: A Private Record of Public Affairs",
-    "author": "Fitzpatrick, Percy, 1862-1931",
-    "gutenbergReference": "16494",
-    "hash": "c3cb4b9ff16a5e576ce4162585628be127a7674ef3dbd703a98e2232517ef9d9"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "\"Nevil said in his telegram that he would be here about a quarter past seven, and it is now ",
-    "quoteTime": "five minutes past nine",
-    "quoteLast": ",\" said Mrs. Arbuthnot tearfully.",
-    "title": "Mrs. Fitz",
-    "author": "Snaith, J. C. (John Collis), 1876-1936",
-    "gutenbergReference": "34398",
-    "hash": "d4fc92ebf5c501c9e984d883c013cf2074f91e419105a2fbb7d473d82843c8f3"
-  },
-  {
-    "time": "09:05",
-    "quoteFirst": "My watch fell at ",
-    "quoteTime": "five minutes after nine",
-    "quoteLast": ".",
-    "title": "Sight Unseen",
-    "author": "Rinehart, Mary Roberts, 1876-1958",
-    "gutenbergReference": "1960",
-    "hash": "ffd209199f307342aaa99275cc829389b9625a019cb23f9334bea3ceed44d975"
+    "quoteLast": ",” and faced his clock.",
+    "title": "Alonzo Fitz, and Other Stories",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3184",
+    "hash": "8b9f626b05f73c7018335474d2f0f98018bfc527b7407366cfbcac45bf9ac08f"
   }
 ]

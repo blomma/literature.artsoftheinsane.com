@@ -1,102 +1,102 @@
 [
   {
     "time": "08:35",
+    "quoteFirst": "Observations in Washington, D. C., September 5, 1879, ",
+    "quoteTime": "8:35 A.M.",
+    "quoteLast": ", Boston time, near Congressional Cemetery.",
+    "title": "Scientific American Supplement, No. 385, May 19, 1883",
+    "author": "Various",
+    "gutenbergReference": "8950",
+    "hash": "906e3b60bbe3ac349d9167cf625d60a53aa860f6ace462fb60475f631c47006b"
+  },
+  {
+    "time": "08:35",
+    "quoteFirst": "The Pompée,    Venerable, and Audacious were soon at an anchor, and at    ",
+    "quoteTime": "thirty-five minutes after eight",
+    "quoteLast": " began the action with the enemy.",
+    "title": "Memoirs and Correspondence of Admiral Lord de Saumarez, Vol. I",
+    "author": "Ross, John, Sir, 1777-1856",
+    "gutenbergReference": "26031",
+    "hash": "19e528ddcdf592dc17628ff963d8fe59553201e0bee1c7058a2ee35770786c61"
+  },
+  {
+    "time": "08:35",
+    "quoteFirst": "Advance from the Frezenberg Ridge was resumed at ",
+    "quoteTime": "8.35 A.M.",
+    "quoteLast": " The dispositions of the 28th Brigade remained unaltered, but in the 26th the Camerons passed through the Seaforths and Black Watch.",
+    "title": "The history of the 9th (Scottish) Division, 1914-1919",
+    "author": "Ewing, John, M.C.; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator]",
+    "gutenbergReference": "75001",
+    "hash": "5888df98a352a8d55605dd04af02b78bf58b043d2a92dfe79084ed4703a3c552"
+  },
+  {
+    "time": "08:35",
     "quoteFirst": "At ",
-    "quoteTime": "8.35 A.M.",
-    "quoteLast": " on the 29th the 59th Brigade gained touch with the French, who held Mézières and a line from there back towards Moreuil, but no trace of the 8th and 24th Divisions could be found.",
-    "title": "The history of the Twentieth (Light) Division",
-    "author": "Inglefield, Valentine Erskine, 1886-1947; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]",
-    "gutenbergReference": "74129",
-    "hash": "64b50598853a8625054a3095a8b0baba5d5df0f2427375896355a7541ce3b662"
-  },
-  {
-    "time": "08:35",
-    "quoteFirst": "We set out from Cushlác at ",
-    "quoteTime": "8.35 A.M.",
-    "quoteLast": ", and marched eighteen miles to Hykalzai on the plain of Peshín, the ground covered with snow for most of the way.",
-    "title": "From the Indus to the Tigris",
-    "author": "Bellew, H. W. (Henry Walter), 1834-1892",
-    "gutenbergReference": "74127",
-    "hash": "323693723b0745db292f2629930311b73f805d35371f09800f0c1145d624051f"
-  },
-  {
-    "time": "08:35",
-    "quoteFirst": "At ",
-    "quoteTime": "8.35 A. M.",
-    "quoteLast": " the R-34 became visible from Mineola Field, looking at first like a splinter split off from the bluish horizon in the northeast.",
-    "title": "Aircraft",
-    "author": "David, Evan John, 1877-1961",
-    "gutenbergReference": "74358",
-    "hash": "050c68b71266d2601d896bf285abee578db7efce464dc7fd1faf1b01364649cd"
-  },
-  {
-    "time": "08:35",
-    "quoteFirst": "At twenty minutes past eight, you slipped away adroitly; at ",
-    "quoteTime": "thirty-five minutes past eight",
-    "quoteLast": ", you took the train at the St Lazare station; at nine o’clock, you alighted at the station at Rueil, and took the road to La Jonchere; at a quarter past nine, you knocked at the window-shutter of Widow Lerouge’s cottage.",
-    "title": "The Lerouge Case",
-    "author": "Gaboriau, Emile, 1832-1873",
-    "gutenbergReference": "3802",
-    "hash": "ea4b5146fc32f74020218d809f8776a7317e9064ab2189ca994e45e9b9c867eb"
-  },
-  {
-    "time": "08:35",
-    "quoteFirst": "The testimony of George Senator was taken at ",
-    "quoteTime": "8:35 a.m.",
-    "quoteLast": ", on April 22, 1964, at 200 Maryland Avenue NE.",
-    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "56190",
-    "hash": "0bce3eb668473e5ac7c57a8151be9c343b4ae5937770e4fdc3eb168094440a69"
-  },
-  {
-    "time": "08:35",
-    "quoteFirst": "The clock (regulated by the maker, only the day before) pointed to ",
-    "quoteTime": "twenty-five minutes to nine",
-    "quoteLast": ".",
-    "title": "Poor Miss Finch",
-    "author": "Collins, Wilkie, 1824-1889",
-    "gutenbergReference": "3632",
-    "hash": "0b6929ff051df8e7ec978deffb1866cbcf987ed11893d74ce59ae48609fcd33f"
-  },
-  {
-    "time": "08:35",
-    "quoteFirst": "WAR DEPARTMENT, October 12, 1863.",
-    "quoteTime": "8.35 A.M.",
-    "quoteLast": "",
-    "title": "The Papers and Writings of Abraham Lincoln, Complete",
-    "author": "Lincoln, Abraham, 1809-1865; Choate, Joseph Hodges, 1832-1917 [Contributor]; Roosevelt, Theodore, 1858-1919 [Contributor]; Schurz, Carl, 1829-1906 [Contributor]; Lapsley, Arthur Brooks [Editor]",
-    "gutenbergReference": "3253",
-    "hash": "459c1d46e291a511e31896c01f5aca6209d1fe48eff049340eeb6c3fdb53dc32"
-  },
-  {
-    "time": "08:35",
-    "quoteFirst": "The testimony of George Senator was taken at ",
-    "quoteTime": "8:35 a.m.",
-    "quoteLast": ", on April 22, 1964, at 200 Maryland Avenue NE.",
-    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "56190",
-    "hash": "0bce3eb668473e5ac7c57a8151be9c343b4ae5937770e4fdc3eb168094440a69"
-  },
-  {
-    "time": "08:35",
-    "quoteFirst": "Now “Let all things be done decently and in order,” as St. Paul says, and the whole party or whole of the parties were halted at the site of the Iron Bridge at ",
     "quoteTime": "8.35 a.m.",
-    "quoteLast": " Then the welcome order came that the 35th Brigade was to enter the city first, the Buffs to lead the column.",
-    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
-    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
-    "gutenbergReference": "73159",
-    "hash": "ba31f0197a334d176f8e71818422e41de61e40fa18384d85f87f1d91f408ade8"
+    "quoteLast": " you will be in heaven and Ireland will be free.",
+    "title": "Ulysses",
+    "author": "Joyce, James, 1882-1941",
+    "gutenbergReference": "4300",
+    "hash": "dcfda97385be32c78ef26bc49afc34150db82d228287493aff52726a1525d428"
   },
   {
     "time": "08:35",
-    "quoteFirst": "I sucked on the finger until ",
-    "quoteTime": "8:35 a.m.",
-    "quoteLast": ", when a pan of ice water that I had requested was brought to me.",
-    "title": "Natural History of Cottonmouth Moccasin, Agkistrodon piscovorus (Reptilia)",
-    "author": "Burkett, Ray D., 1938-",
-    "gutenbergReference": "38308",
-    "hash": "2cd3ccbb26422ece32eee9eb1971b76758d368834413368a47c375cac1531652"
+    "quoteFirst": "Advance from the Frezenberg Ridge was resumed at ",
+    "quoteTime": "8.35 A.M.",
+    "quoteLast": " The dispositions of the 28th Brigade remained unaltered, but in the 26th the Camerons passed through the Seaforths and Black Watch.",
+    "title": "The history of the 9th (Scottish) Division, 1914-1919",
+    "author": "Ewing, John, M.C.; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator]",
+    "gutenbergReference": "75001",
+    "hash": "5888df98a352a8d55605dd04af02b78bf58b043d2a92dfe79084ed4703a3c552"
+  },
+  {
+    "time": "08:35",
+    "quoteFirst": "\"Only ",
+    "quoteTime": "twenty-five minutes to nine",
+    "quoteLast": ", son. Isn't it a bit early?\"",
+    "title": "A son of the city",
+    "author": "Seely, Herman Gastrell; Arting, Fred J., 1875-1922 [Illustrator]",
+    "gutenbergReference": "20708",
+    "hash": "0f8e9afe276284178a23ba5accaa008c978e7054c9633c74f189ed6d800240ba"
+  },
+  {
+    "time": "08:35",
+    "quoteFirst": "\"Only ",
+    "quoteTime": "twenty-five minutes to nine",
+    "quoteLast": ", son. Isn't it a bit early?\"",
+    "title": "A son of the city",
+    "author": "Seely, Herman Gastrell; Arting, Fred J., 1875-1922 [Illustrator]",
+    "gutenbergReference": "20708",
+    "hash": "0f8e9afe276284178a23ba5accaa008c978e7054c9633c74f189ed6d800240ba"
+  },
+  {
+    "time": "08:35",
+    "quoteFirst": "We remained on deck till ",
+    "quoteTime": "twenty-five minutes to nine",
+    "quoteLast": ", and saw many bonfires on the Scotch coast--at _Dunbar_--Lord Haddington’s place, _Tyninghame_, and at other points on the coast.",
+    "title": "Leaves From the Journal of Our Life in the Highlands, From 1848 to 1861",
+    "author": "Victoria, Queen of Great Britain, 1819-1901; Helps, Arthur, Sir, 1813-1875 [Editor]",
+    "gutenbergReference": "66173",
+    "hash": "e18083398a781c717bc1a1a9aa1e9bd00af0dd6970966d0f308d206a3fe48452"
+  },
+  {
+    "time": "08:35",
+    "quoteFirst": "Up to five o'clock he was conscious, and from this time his strength declined almost imperceptibly until ",
+    "quoteTime": "twenty-five minutes before nine",
+    "quoteLast": ", when he died.",
+    "title": "The letters of Queen Victoria, vol. 3, 1854-1861",
+    "author": "Victoria, Queen of Great Britain, 1819-1901; Benson, Arthur Christopher, 1862-1925 [Editor]; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
+    "gutenbergReference": "28649",
+    "hash": "3eb1f18d8d9e15d1968a7668c9cb4c9d4c1149258f96da558aab3ae8c8ed60b5"
+  },
+  {
+    "time": "08:35",
+    "quoteFirst": "Started at ",
+    "quoteTime": "8.35 a.m.",
+    "quoteLast": "; pursued a general course of 310 degrees, gradually ascending the sandy downs on the north side of the valley for three miles; it then turned to the north of west, and we again descended, and found the bottom occupied by a narrow samphire flat, 50 to 100 yards wide, over which the water runs during heavy rains, but it was now dry, and in some parts covered with a thin crust of salt; 11.26 passed a native well of slightly brackish water, amongst loose blocks of red sandstone; a small well was passed at 11.50; the samphire flat then changed to a small sandy channel, among large blocks of sandstone",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "5d20df4e7f277837d8b52e9619f76670f533632ea2e4c10ed3938248c1fb1b41"
   }
 ]

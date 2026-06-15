@@ -1,6 +1,46 @@
 [
   {
     "time": "11:49",
+    "quoteFirst": "Yes, just now, at ",
+    "quoteTime": "eleven minutes to twelve",
+    "quoteLast": ", I tossed a sixpence to decide.",
+    "title": "Death in the dusk",
+    "author": "Markham, Virgil, 1899-1973",
+    "gutenbergReference": "75273",
+    "hash": "976db9e1fa87e1ec73cd09edb13020a692d355863c973bd9e0a9456a34b4d864"
+  },
+  {
+    "time": "11:49",
+    "quoteFirst": "It was ",
+    "quoteTime": "eleven minutes to twelve",
+    "quoteLast": ", and the Inspector recognised he would have to run for it.",
+    "title": "The Ponson case",
+    "author": "Crofts, Freeman Wills, 1879-1957",
+    "gutenbergReference": "72235",
+    "hash": "52b288d336491cffc37d4a6558d3fb60c0a3867a7157fca74b3291300a27ef3d"
+  },
+  {
+    "time": "11:49",
+    "quoteFirst": "When the thermal water is only prescribed, the most favourable time for drinking it is from seven to eight and ",
+    "quoteTime": "eleven to twelve a.m.",
+    "quoteLast": ", and from four to five p.m., but when ordered to be taken in conjunction with the chalybeate, the former should be taken in the morning and the latter in the afternoon.",
+    "title": "Buxton and its Medicinal Waters",
+    "author": "Gifford-Bennet, Robert Ottiwell, 1834-1902",
+    "gutenbergReference": "30682",
+    "hash": "4ff3dcc5215c8c1525f4684710e0483102e2c3e546647a9da7dcce8fae745982"
+  },
+  {
+    "time": "11:49",
+    "quoteFirst": "It was ",
+    "quoteTime": "eleven minutes to twelve",
+    "quoteLast": ", and the Inspector recognised he would have to run for it.",
+    "title": "The Ponson case",
+    "author": "Crofts, Freeman Wills, 1879-1957",
+    "gutenbergReference": "72235",
+    "hash": "52b288d336491cffc37d4a6558d3fb60c0a3867a7157fca74b3291300a27ef3d"
+  },
+  {
+    "time": "11:49",
     "quoteFirst": "All art exhibits will be open to the general public during the week at a nominal fee from ",
     "quoteTime": "11 to 12 A. M.",
     "quoteLast": " and 2 to 5 P. M.",
@@ -11,13 +51,33 @@
   },
   {
     "time": "11:49",
-    "quoteFirst": "From ",
-    "quoteTime": "eleven to twelve in the morning",
-    "quoteLast": ", he generally gave audiences, either to the authorities of Aix, with whom he maintained cordial relations, or to strangers of note who were presented to him during his stay.",
-    "title": "Their Majesties as I Knew Them\nPersonal Reminiscences of the Kings and Queens of Europe",
-    "author": "Paoli, Xavier, 1835-; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
-    "gutenbergReference": "45786",
-    "hash": "fb5e0e62448eaf6a6bfb2607a420a506938227a5c6daa73db942231001975410"
+    "quoteFirst": ", 8:59 to ",
+    "quoteTime": "11:49 a. m.",
+    "quoteLast": "; Wheeling, W. Va.",
+    "title": "The Chautauquan, Vol. 05, March 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55060",
+    "hash": "361ca67c6cf3ea46082e44e4af819b9ec889020cab26ebbccef4e383e5af352c"
+  },
+  {
+    "time": "11:49",
+    "quoteFirst": "“At precisely at ",
+    "quoteTime": "eleven minutes before twelve",
+    "quoteLast": " they set to. Odds seven to four in favour of Pearce, from the former rencontre.”",
+    "title": "Pugilistica: The History of British Boxing, Volume 1 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
+    "author": "Miles, Henry Downes, 1806-1889",
+    "gutenbergReference": "59465",
+    "hash": "e6094f9e17e86c734a2db413cac4426af859b6eb5d2b333b1fb78a354c5d1f09"
+  },
+  {
+    "time": "11:49",
+    "quoteFirst": "“At precisely at ",
+    "quoteTime": "eleven minutes before twelve",
+    "quoteLast": " they set to. Odds seven to four in favour of Pearce, from the former rencontre.”",
+    "title": "Pugilistica: The History of British Boxing, Volume 1 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
+    "author": "Miles, Henry Downes, 1806-1889",
+    "gutenbergReference": "59465",
+    "hash": "e6094f9e17e86c734a2db413cac4426af859b6eb5d2b333b1fb78a354c5d1f09"
   },
   {
     "time": "11:49",
@@ -28,66 +88,6 @@
     "author": "Gifford-Bennet, Robert Ottiwell, 1834-1902",
     "gutenbergReference": "30682",
     "hash": "4ff3dcc5215c8c1525f4684710e0483102e2c3e546647a9da7dcce8fae745982"
-  },
-  {
-    "time": "11:49",
-    "quoteFirst": "From ",
-    "quoteTime": "11 to 12 a.m.",
-    "quoteLast": " is perhaps the busiest part of the day in the bazaar.",
-    "title": "A Ride to India across Persia and Baluchistán",
-    "author": "De Windt, Harry, 1856-1933",
-    "gutenbergReference": "10974",
-    "hash": "ca565b411e6764a87291c59d72329c2c757bdc5cea32122996967cab87c19b35"
-  },
-  {
-    "time": "11:49",
-    "quoteFirst": "",
-    "quoteTime": "11 to 12 A.M.",
-    "quoteLast": "  {Ballet Dances (Toe, Classical, Etc.)                {Musical Comedy Dances",
-    "title": "The Art of Stage Dancing\nThe Story of a Beautiful and Profitable Profession",
-    "author": "Wayburn, Ned, 1874-1942",
-    "gutenbergReference": "27367",
-    "hash": "366ea509cf22880851f04378d2a0bc86e48381d7fffcced0b1aa02b87736170f"
-  },
-  {
-    "time": "11:49",
-    "quoteFirst": "When the thermal water is only prescribed, the most favourable time for drinking it is from seven to eight and ",
-    "quoteTime": "eleven to twelve a.m.",
-    "quoteLast": ", and from four to five p.m., but when ordered to be taken in conjunction with the chalybeate, the former should be taken in the morning and the latter in the afternoon.",
-    "title": "Buxton and its Medicinal Waters",
-    "author": "Gifford-Bennet, Robert Ottiwell, 1834-1902",
-    "gutenbergReference": "30682",
-    "hash": "4ff3dcc5215c8c1525f4684710e0483102e2c3e546647a9da7dcce8fae745982"
-  },
-  {
-    "time": "11:49",
-    "quoteFirst": "From ",
-    "quoteTime": "11 to 12 a.m.",
-    "quoteLast": " is perhaps the busiest part of the day in the bazaar.",
-    "title": "A Ride to India across Persia and Baluchistán",
-    "author": "De Windt, Harry, 1856-1933",
-    "gutenbergReference": "10974",
-    "hash": "ca565b411e6764a87291c59d72329c2c757bdc5cea32122996967cab87c19b35"
-  },
-  {
-    "time": "11:49",
-    "quoteFirst": "When the thermal water is only prescribed, the most favourable time for drinking it is from seven to eight and ",
-    "quoteTime": "eleven to twelve a.m.",
-    "quoteLast": ", and from four to five p.m., but when ordered to be taken in conjunction with the chalybeate, the former should be taken in the morning and the latter in the afternoon.",
-    "title": "Buxton and its Medicinal Waters",
-    "author": "Gifford-Bennet, Robert Ottiwell, 1834-1902",
-    "gutenbergReference": "30682",
-    "hash": "4ff3dcc5215c8c1525f4684710e0483102e2c3e546647a9da7dcce8fae745982"
-  },
-  {
-    "time": "11:49",
-    "quoteFirst": "From ",
-    "quoteTime": "eleven to twelve in the morning",
-    "quoteLast": ", he generally gave audiences, either to the authorities of Aix, with whom he maintained cordial relations, or to strangers of note who were presented to him during his stay.",
-    "title": "Their Majesties as I Knew Them\nPersonal Reminiscences of the Kings and Queens of Europe",
-    "author": "Paoli, Xavier, 1835-; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
-    "gutenbergReference": "45786",
-    "hash": "fb5e0e62448eaf6a6bfb2607a420a506938227a5c6daa73db942231001975410"
   },
   {
     "time": "11:49",

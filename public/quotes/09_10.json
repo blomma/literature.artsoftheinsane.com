@@ -1,63 +1,43 @@
 [
   {
     "time": "09:10",
-    "quoteFirst": "The boat was then moved an eighth of a mile beyond the island to the north, where, at ",
-    "quoteTime": "ten minutes after nine",
-    "quoteLast": ", the remaining wasps were set free.",
-    "title": "Wasps, Social and Solitary",
-    "author": "Peckham, George W. (George Williams), 1845-1914; Peckham, E. G. (Elizabeth Gifford), 1854-; Emerton, J. H. (James Henry), 1847-1930 [Illustrator]",
-    "gutenbergReference": "47508",
-    "hash": "1127153bc4aebc22812bfbe7de1c0899ba456f515be61fcb8e39cdc6b1d52ab3"
+    "quoteFirst": "Willis therefore haunted the Paragon station, watching the trains leave, and he was well satisfied when he saw Benson get on board the ",
+    "quoteTime": "9.10 a.m.",
+    "quoteLast": " By means of a word of explanation and the passing of a couple of shillings, he induced an official to examine the traveller’s ticket, which proved to be a third return to King’s Cross.",
+    "title": "The Pit-Prop Syndicate",
+    "author": "Crofts, Freeman Wills, 1879-1957",
+    "gutenbergReference": "2013",
+    "hash": "b17767bfdf85a047a21d18125205d31bfa88f186833085169af3a621689dcc27"
   },
   {
     "time": "09:10",
-    "quoteFirst": "It was ",
+    "quoteFirst": "test was the following morning between 8:30 and ",
+    "quoteTime": "9:10 a.m.",
+    "quoteLast": " Each subject of course came at the same hour each week.",
+    "title": "Harvard Psychological Studies, Volume 1\r\nContaining Sixteen Experimental Investigations from the Harvard Psychological Laboratory.",
+    "author": "Münsterberg, Hugo, 1863-1916 [Editor]",
+    "gutenbergReference": "16266",
+    "hash": "b9ab8311ea0eee84a4644537f801fd2703d9b0f54ae72de6643db44c4b54516f"
+  },
+  {
+    "time": "09:10",
+    "quoteFirst": "Five minutes past nine: ",
     "quoteTime": "ten minutes past nine",
-    "quoteLast": ", and he sat still to await the quarter hour.",
-    "title": "Despair's Last Journey",
-    "author": "Murray, David Christie, 1847-1907",
-    "gutenbergReference": "22276",
-    "hash": "b0f3172510e2d279f4c5fe794388dc0f7bb19068d7a25ccf3f19720a2529d0b2"
+    "quoteLast": ": what did Anne mean?",
+    "title": "Johnny Ludlow, Second Series",
+    "author": "Wood, Henry, Mrs., 1814-1887",
+    "gutenbergReference": "40928",
+    "hash": "5505c961960d6d9fce8b4be0c70fb84fa588125ba927695b7aee4089f28dcccf"
   },
   {
     "time": "09:10",
-    "quoteFirst": "By bus he can make the round trip the same day--leave Wahoo ",
-    "quoteTime": "9:10 A.M.",
-    "quoteLast": "; arrive Omaha 11:30 A.M.; leave Omaha 2:00 P.M. and arrive back home at 4:20 P.M.; or he can have still more time in the city by leaving at 5:10 and arriving home at 7:30 P.M.",
-    "title": "Highways and Highway Transportation",
-    "author": "Chatburn, George R., 1863-1940",
-    "gutenbergReference": "66482",
-    "hash": "386ee5825e6ea19023e0e62a479ddd47cb5e4b4d60f6659a2c659d79fd1ad112"
-  },
-  {
-    "time": "09:10",
-    "quoteFirst": "It’s ",
-    "quoteTime": "ten past nine",
-    "quoteLast": ".”",
-    "title": "Augustus Carp, Esq., by Himself: Being the Autobiography of a Really Good Man",
-    "author": "Bashford, H. H. (Henry Howarth), Sir, 1880-1961; Blood, Marjorie (Artist) [Illustrator]",
-    "gutenbergReference": "64587",
-    "hash": "d498c8b0e12f259d5bd8db1685dea729252ea37f0e0f9dcdfdaf5bf8bdde2752"
-  },
-  {
-    "time": "09:10",
-    "quoteFirst": "The motor reached the Sawley railway station at ",
-    "quoteTime": "ten minutes after nine",
+    "quoteFirst": "This was about ",
+    "quoteTime": "ten minutes past nine",
     "quoteLast": ".",
-    "title": "Desolate splendour",
-    "author": "Sadleir, Michael, 1888-1957",
-    "gutenbergReference": "77432",
-    "hash": "f6c04e9f4432684792227db7735055046ed03fcbc12056cf87da1a6ef30622a5"
-  },
-  {
-    "time": "09:10",
-    "quoteFirst": "—Letters arrive from Whitchurch                at ",
-    "quoteTime": "9.10 A.M.",
-    "quoteLast": " and are despatched at 5.0 P.M.",
-    "title": "History, Gazetteer, and Directory of Shropshire [1851]",
-    "author": "Bagshaw, Samuel",
-    "gutenbergReference": "62250",
-    "hash": "29946dfcbc64561001e7f738b4a17a371111fc187d9541ee3ef711b4e9571b49"
+    "title": "Mysteries of Police and Crime, Vol. 1 (of 3)",
+    "author": "Griffiths, Arthur, 1838-1908",
+    "gutenbergReference": "46846",
+    "hash": "a28503882331211023a672c5458f278106f7355688aa3204998ddc6c1b379ba3"
   },
   {
     "time": "09:10",
@@ -68,26 +48,6 @@
     "author": "Stevenson, Burton Egbert, 1872-1962",
     "gutenbergReference": "35247",
     "hash": "f8fdb87a0af666759aa0b7ad3dfd2cb21b0263c75cd9f996f6de7b323774976b"
-  },
-  {
-    "time": "09:10",
-    "quoteFirst": "\"Yes, sir; maybe ",
-    "quoteTime": "ten minutes after nine",
-    "quoteLast": ".\"",
-    "title": "That Affair at Elizabeth",
-    "author": "Stevenson, Burton Egbert, 1872-1962",
-    "gutenbergReference": "35247",
-    "hash": "f8fdb87a0af666759aa0b7ad3dfd2cb21b0263c75cd9f996f6de7b323774976b"
-  },
-  {
-    "time": "09:10",
-    "quoteFirst": "Phalaris Canariensis: apogeotropic movement of cotyledon, traced on a vertical and horizontal glass, from ",
-    "quoteTime": "9.10 A.M.",
-    "quoteLast": " Sept.",
-    "title": "The Power of Movement in Plants",
-    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
-    "gutenbergReference": "5605",
-    "hash": "31ce031ed5ae7af92ce844d07bea47db271c0ba97d49806db02a626f1c20ebca"
   },
   {
     "time": "09:10",
@@ -98,5 +58,45 @@
     "author": "United States. Warren Commission",
     "gutenbergReference": "58030",
     "hash": "42ca3c88c7704ad0da5f9727b7a0dc6792a11343815a87ca2c4931c44feeaaed"
+  },
+  {
+    "time": "09:10",
+    "quoteFirst": "Leaving our encampment at ",
+    "quoteTime": "9.10 a.m.",
+    "quoteLast": ", we steered a southerly course, passing over a succession of low granite hills, thickly covered with acacia, to the exclusion of almost every other kind of vegetation, save a few scattered tufts of grass.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "45006dea6204fc7478b286222f0ee8a2d6f419c0daf43a075c84cafa6133300b"
+  },
+  {
+    "time": "09:10",
+    "quoteFirst": "In Paris it is ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": "; in Berlin it is six minutes before ten; at St. Petersburg it is eleven o'clock; at New York it is four o'clock in the afternoon.",
+    "title": "The inner house",
+    "author": "Besant, Walter, 1836-1901",
+    "gutenbergReference": "52169",
+    "hash": "1926ffe8e8776c443f9583d85b9aeb5c6f4ac9f3e160a86ee73c7b2f47fe59e3"
+  },
+  {
+    "time": "09:10",
+    "quoteFirst": "I looked at the watch, it was exactly ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": ".",
+    "title": "The Corsican Brothers",
+    "author": "Dumas, Alexandre, 1802-1870; Frith, Henry, 1840- [Translator]",
+    "gutenbergReference": "41881",
+    "hash": "0d3285fa99a19065c47ad709c1192342f7ad83a0ede1b2ca9bffce98d536692d"
+  },
+  {
+    "time": "09:10",
+    "quoteFirst": "\"It means that at ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": " I shall be dead. I have been forewarned, that is all. My father appeared to me last night and announced my death.\"",
+    "title": "The World's Greatest Books — Volume 03 — Fiction",
+    "author": "Mee, Arthur, 1875-1943 [Editor]; Hammerton, J. A. (John Alexander), 1871-1949 [Editor]",
+    "gutenbergReference": "10748",
+    "hash": "a1c08125c9c28d9b296d53ce461a8c5ab435f93faad347d7f5c82458dcab37a2"
   }
 ]

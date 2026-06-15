@@ -1,33 +1,93 @@
 [
   {
     "time": "01:01",
-    "quoteFirst": "Here every foundling finds its lost mamma; Each rogue, repentant, melts his stern papa; Misers relent, the spendthrift's debts are paid, The cheats are taken in the traps they laid; ",
-    "quoteTime": "One after one",
-    "quoteLast": " the troubles all are past Till the fifth act comes right side up at last, When the young couple, old folks, rogues, and all, Join hands, so happy at the curtain's fall.",
-    "title": "The Poetical Works of Oliver Wendell Holmes — Volume 06\r\nPoems from the Breakfast Table Series",
-    "author": "Holmes, Oliver Wendell, 1809-1894",
-    "gutenbergReference": "7393",
-    "hash": "69cadc16b58788c94381f28ecf40981d3a09e2cc33ee5f1c3ce05456a7ca63fe"
+    "quoteFirst": "│                       │  Grand evening party    │Strange singing in the │Nothing but                         │  ears and dancing     │  barley-sugar temples                         │  before the eyes all  │  for breakfast, and                         │  night; curious noises│  blanc-manges for                         │  over head, and a     │  dinner for days                         │  fearful famine that  │  afterwards                         │  devours everything   │                         │  ",
+    "quoteTime": "about 1 a.m.",
+    "quoteLast": "; blows  │                         │  dreadful             │                         │  cornet-a-pistons till│                         │  the next morning     │",
+    "title": "The Comic Almanack, Volume 2\r\nAn Ephemeris in Jest and Earnest, Containing Merry Tales, Humerous Poetry, Quips, and Oddities",
+    "author": "Thackeray, William Makepeace, 1811-1863; À Beckett, Gilbert Abbott, 1811-1856; Mayhew, Henry, 1812-1887; Mayhew, Horace, 1816-1872; Smith, Albert, 1816-1860; Cruikshank, George, 1792-1878 [Illustrator]",
+    "gutenbergReference": "52204",
+    "hash": "68e9925a6043f0fd8c172cdfd39cca7326c43d416d645a65f67e65944bd38348"
   },
   {
     "time": "01:01",
-    "quoteFirst": "This was now ",
+    "quoteFirst": "Orders just come to be at St Omer by 10 P.M. If that means loading-up further on ",
     "quoteTime": "about 1 A.M.",
-    "quoteLast": ", and for a time the _St. Thomas_ had the impudence to pretend she was a French police boat.",
-    "title": "King's Cutters and Smugglers 1700-1855",
-    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
-    "gutenbergReference": "17563",
-    "hash": "73d06c9703db9950057a8445ed74dc7cf15b674abcd01af13f8237fb78b87f58"
+    "quoteLast": " I think we shall all die!",
+    "title": "Diary of a Nursing Sister on the Western Front, 1914-1915",
+    "author": "Anonymous",
+    "gutenbergReference": "18910",
+    "hash": "05deca5c9ee48083bfe794cb042e55ad77722e33007a551dae42c209ebde3b9f"
+  },
+  {
+    "time": "01:01",
+    "quoteFirst": "The Royal messenger arrived at the Temple ",
+    "quoteTime": "about 1 a.m.",
+    "quoteLast": ", and at once proceeded to Sir Edward's lodging.",
+    "title": "Chronicles of an Old Inn; Or, A Few Words about Gray's Inn",
+    "author": "Hope, Andrée, -1898",
+    "gutenbergReference": "63844",
+    "hash": "db663783e657fae45e3565320a7bff217ae8aa12b51b2c30f8aa1610d4ac4152"
+  },
+  {
+    "time": "01:01",
+    "quoteFirst": "See, I set it for precisely ",
+    "quoteTime": "one minute after one",
+    "quoteLast": ".”",
+    "title": "The Assassination Bureau, Ltd.",
+    "author": "London, Jack, 1876-1916; Fish, Robert L., 1912-1981",
+    "gutenbergReference": "75562",
+    "hash": "a3dc91548267350b5ba066d5133ec9042e306524e221b649e6c8d742dbd37b05"
   },
   {
     "time": "01:01",
     "quoteFirst": "",
-    "quoteTime": "One after one",
-    "quoteLast": ", the snow-peaks passed from the pallor of death to the glow of life.",
-    "title": "The Great Amulet",
-    "author": "Diver, Maud, 1867-1945",
-    "gutenbergReference": "20238",
-    "hash": "eb7e7fcaf1ed4ecb789ac6d33119dab90f0dcbe64a34e632d9cef6e267be1f27"
+    "quoteTime": "About 1 a.m.",
+    "quoteLast": " (I forget the exact day in February), whilst sleeping soundly [at Tangier], I was woke by hearing distinctly the voice of my daughter-in-law, who was with her husband at Mogador, saying in a clear but distressed tone of voice, ‘Oh, I wish papa only knew that Robert is ill.’",
+    "title": "A memoir of Sir John Drummond Hay, P.C., K.C.B., G.C.M.G., sometime minister at the court of Morocco",
+    "author": "Brooks, Louisa Annette Edla Drummond-Hay, -1902; Drummond-Hay, Alice Emily, 1851-1940; Hay, John H. Drummond (John Hay Drummond), 1816-1893; De Winton, Francis, Sir, 1835-1901 [Author of introduction, etc.]",
+    "gutenbergReference": "71860",
+    "hash": "efa0948e50d36820a4794152f5f988ffb48bd790ada541624db0e2763d88be98"
+  },
+  {
+    "time": "01:01",
+    "quoteFirst": "This resolution was carried out, and ",
+    "quoteTime": "about 1 a.m.",
+    "quoteLast": " the caravan was _en route_ under the blessed coolness of the night, and aided by the light of the moon, which rose about the time the men commenced to load up the camels.",
+    "title": "Exploration of Aïr",
+    "author": "Buchanan, Angus, 1886-1954",
+    "gutenbergReference": "70323",
+    "hash": "e42ef23776dd47b8dd88f44d2989ee63d9e6343a5444ffdfc48a0b2ad18d237b"
+  },
+  {
+    "time": "01:01",
+    "quoteFirst": "The main column got into bivouac ",
+    "quoteTime": "shortly after 1 a.m.",
+    "quoteLast": ", but this unfortunate company was out till 5, which, seeing the march was resumed at 6, was rather hard luck.",
+    "title": "The Second Battalion Royal Dublin Fusiliers in the South African War\nWith a Description of the Operations in the Aden Hinterland",
+    "author": "Romer, Cecil Francis, 1869-; Mainwaring, Arthur Edward, 1864-",
+    "gutenbergReference": "25618",
+    "hash": "cdf942df008fc2f010f564cc00d253624dcb00af015226a692a32855b1913aef"
+  },
+  {
+    "time": "01:01",
+    "quoteFirst": "",
+    "quoteTime": "About 1 a.m.",
+    "quoteLast": ", on the 3rd, shots were fired into the camp from about 800 to 1,000 yards.",
+    "title": "The Egyptian campaigns, 1882 to 1885",
+    "author": "Royle, Charles, 1882-1936",
+    "gutenbergReference": "41744",
+    "hash": "ad6a6b7381b1b38f0120ba8fa84b79c07d4a4ba8f38f432e77ec87895b9b1901"
+  },
+  {
+    "time": "01:01",
+    "quoteFirst": "Reserve Corps was busy there and helped me to get the second half of my train unloaded; this was ",
+    "quoteTime": "about 1 o'clock at night",
+    "quoteLast": ".",
+    "title": "The German Army in Belgium, the White Book of May 1915",
+    "author": "Germany. Auswärtiges Amt; Bennett, E. N. (Ernest Nathaniel), Sir, 1868-1947 [Translator]",
+    "gutenbergReference": "54296",
+    "hash": "97ea8f63dda6c18b48419e4832ac3cd677f8b48b05e9c3c506fb1d11b1dcfde7"
   },
   {
     "time": "01:01",
@@ -38,65 +98,5 @@
     "author": "Marshall, Logan, 1884-1937 [Editor]",
     "gutenbergReference": "781",
     "hash": "732f8cb24f7b23f6c8b320998babaf424c08ea1be9bd2b9a0d3c81b2dbae27c7"
-  },
-  {
-    "time": "01:01",
-    "quoteFirst": "A flock of sheep that leisurely pass by,   ",
-    "quoteTime": "One after one",
-    "quoteLast": "; the sound of rain, and bees   Murmuring; the fall of rivers, winds and seas,   Smooth fields, white sheets of water, and pure sky;   I've thought of all by turns; and still I lie   Sleepless; and soon the small birds' melodies   Must hear, first utter'd from my orchard trees;   And the first Cuckoo's melancholy cry.",
-    "title": "Poems in Two Volumes, Volume 1",
-    "author": "Wordsworth, William, 1770-1850",
-    "gutenbergReference": "8774",
-    "hash": "86082ae0a0c971f6dd7a75b74fbb47f81358bd775811766bd6c94f7cdb8aee39"
-  },
-  {
-    "time": "01:01",
-    "quoteFirst": "\"They could shoot us down ",
-    "quoteTime": "one after one",
-    "quoteLast": " as we go in. They would see us against the light, while we should be able to make out nothing.\"",
-    "title": "One of the 28th: A Tale of Waterloo",
-    "author": "Henty, G. A. (George Alfred), 1832-1902",
-    "gutenbergReference": "14313",
-    "hash": "14de040b5c5a3c01a02bb45917a4d8879f0d86919d093fb1f420a9de1977ca1f"
-  },
-  {
-    "time": "01:01",
-    "quoteFirst": "",
-    "quoteTime": "About 1 A.M.",
-    "quoteLast": " the man sleeping on the floor of the shelter heard his friend shouting for help.",
-    "title": "Unaddressed Letters",
-    "author": "Swettenham, Frank Athelstane, Sir, 1850-1946 [Editor]",
-    "gutenbergReference": "47420",
-    "hash": "1875242a32a2fba8e378471324ac60b646bdd5b04d9b3643d6416df2fce416d3"
-  },
-  {
-    "time": "01:01",
-    "quoteFirst": "",
-    "quoteTime": "One after one",
-    "quoteLast": " by the horned Moon     (Listen, O Stranger!",
-    "title": "The Complete Poetical Works of Samuel Taylor Coleridge. Vol 2 (of 2)",
-    "author": "Coleridge, Samuel Taylor, 1772-1834; Coleridge, Ernest Hartley, 1846-1920 [Editor]",
-    "gutenbergReference": "29092",
-    "hash": "288655acad8428f106e6bbbc745f042c01e07f833612cee21a2057ed170ef47b"
-  },
-  {
-    "time": "01:01",
-    "quoteFirst": "Of breaker issued from the belt, and still     Grew with the growing note, and when the note     Had reach’d a thunderous fulness, on those cliffs     Broke, mixt with awful light (the same as that     Living within the belt) whereby she saw     That all those lines of cliffs were cliffs no more,     But huge cathedral fronts of every age,     Grave, florid, stern, as far as eye could see,     ",
-    "quoteTime": "One after one",
-    "quoteLast": ": and then the great ridge drew,     Lessening to the lessening music, back,     And past into the belt and swell’d again     Slowly to music: ever when it broke     The statues, king or saint or founder fell;     Then from the gaps and chasms of ruin left     Came men and women in dark clusters round,     Some crying, ‘Set them up! they shall not fall!’",
-    "title": "Alfred Tennyson",
-    "author": "Lang, Andrew, 1844-1912",
-    "gutenbergReference": "3654",
-    "hash": "dee0f255d33bf4441502efe40d230102eb28d807a4584076051fec13143bbd84"
-  },
-  {
-    "time": "01:01",
-    "quoteFirst": "At ",
-    "quoteTime": "about 1 a.m.",
-    "quoteLast": " of the 13th the _Southampton_ sighted a large steamer proceeding slowly eastwards.",
-    "title": "The Invasion of 1910, with a full account of the siege of London",
-    "author": "Le Queux, William, 1864-1927",
-    "gutenbergReference": "51905",
-    "hash": "e67aa4d8c554672d6558be63470d1a4d1ba3d2b3aff0e5504172b58e49a59ea3"
   }
 ]

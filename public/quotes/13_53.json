@@ -1,93 +1,33 @@
 [
   {
     "time": "13:53",
-    "quoteFirst": "From 10:25 a.m., until ",
+    "quoteFirst": "Summer began June 21, 1883, at ",
+    "quoteTime": "1:53 p. m.",
+    "quoteLast": " and lasts 93d, 14h, and 35m.",
+    "title": "The inter ocean curiosity shop for the year 1883",
+    "author": "Various; Jones, William P. [Editor]",
+    "gutenbergReference": "70718",
+    "hash": "f6cef5d0c0e40df0420936cd3582f5fb44080f9431a52293690b5e5566bc275d"
+  },
+  {
+    "time": "13:53",
+    "quoteFirst": "_--The sun set last night at fifty-three minutes past nine, by my watch, and rose at ",
+    "quoteTime": "seven minutes before two",
+    "quoteLast": " this morning: we embarked soon after, steering North-North-West, through islands for five miles, and West four miles.",
+    "title": "Voyages from Montreal Through the Continent of North America to the Frozen and Pacific Oceans in 1789 and 1793. Vol. I",
+    "author": "Mackenzie, Alexander, 1764-1820",
+    "gutenbergReference": "35658",
+    "hash": "51e0f0c05bbd77f9fd6446a80016674252960a0432dd3cd6982a90099d576247"
+  },
+  {
+    "time": "13:53",
+    "quoteFirst": "It apparently doesn't go in detail much past 1:58 p.m., on Sawyer Deposition Exhibit B, and ",
     "quoteTime": "1:53 p.m.",
-    "quoteLast": "",
+    "quoteLast": ", on Sawyer's Deposition Exhibit A.",
     "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
     "author": "United States. Warren Commission",
     "gutenbergReference": "44006",
-    "hash": "f3af4044c9ee95f3fad6bf11e9401860149c5feb0b08750c53e786714ab7e1ad"
-  },
-  {
-    "time": "13:53",
-    "quoteFirst": "Reached highest point ",
-    "quoteTime": "1.53 P.M.",
-    "quoteLast": " Total, 3 hours 13 min.",
-    "title": "Ultima Thule; or, A Summer in Iceland. vol. 2/2",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "59585",
-    "hash": "061471e35fe16dbf6188822f145e372f5d3dc8f140741835f4186fe3fad82202"
-  },
-  {
-    "time": "13:53",
-    "quoteFirst": "The sun set at seven minutes before ten, and rose at ",
-    "quoteTime": "seven minutes before two",
-    "quoteLast": " in the morning.",
-    "title": "Travels in North America, From Modern Writers\r\nWith Remarks and Observations; Exhibiting a Connected View of the Geography and Present State of that Quarter of the Globe",
-    "author": "Bingley, William, 1774-1823",
-    "gutenbergReference": "28323",
-    "hash": "ffc1fb7791b485c9ff60e161f0923ebfc86f03abd0168c3bd89c0ae327cc8d3a"
-  },
-  {
-    "time": "13:53",
-    "quoteFirst": "Reached highest point ",
-    "quoteTime": "1.53 P.M.",
-    "quoteLast": " Total, 3 hours 13 min.",
-    "title": "Ultima Thule; or, A Summer in Iceland. vol. 2/2",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "59585",
-    "hash": "061471e35fe16dbf6188822f145e372f5d3dc8f140741835f4186fe3fad82202"
-  },
-  {
-    "time": "13:53",
-    "quoteFirst": "Reached highest point ",
-    "quoteTime": "1.53 P.M.",
-    "quoteLast": " Total, 3 hours 13 min.",
-    "title": "Ultima Thule; or, A Summer in Iceland. vol. 2/2",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "59585",
-    "hash": "061471e35fe16dbf6188822f145e372f5d3dc8f140741835f4186fe3fad82202"
-  },
-  {
-    "time": "13:53",
-    "quoteFirst": "That last call then was made at ",
-    "quoteTime": "1:53 p.m.",
-    "quoteLast": ", in which you advised who was in the car?",
-    "title": "Warren Commission (07 of 26): Hearings Vol. VII (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44007",
-    "hash": "14c7341343d919eca947bb21e635f3d0509e8a9c1c57fa20cfa927ab9c2a1688"
-  },
-  {
-    "time": "13:53",
-    "quoteFirst": "The sun set at seven minutes before ten, and rose at ",
-    "quoteTime": "seven minutes before two",
-    "quoteLast": " in the morning.",
-    "title": "Travels in North America, From Modern Writers\r\nWith Remarks and Observations; Exhibiting a Connected View of the Geography and Present State of that Quarter of the Globe",
-    "author": "Bingley, William, 1774-1823",
-    "gutenbergReference": "28323",
-    "hash": "ffc1fb7791b485c9ff60e161f0923ebfc86f03abd0168c3bd89c0ae327cc8d3a"
-  },
-  {
-    "time": "13:53",
-    "quoteFirst": "From 10:25 a.m., until ",
-    "quoteTime": "1:53 p.m.",
-    "quoteLast": "",
-    "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44006",
-    "hash": "f3af4044c9ee95f3fad6bf11e9401860149c5feb0b08750c53e786714ab7e1ad"
-  },
-  {
-    "time": "13:53",
-    "quoteFirst": "That last call then was made at ",
-    "quoteTime": "1:53 p.m.",
-    "quoteLast": ", in which you advised who was in the car?",
-    "title": "Warren Commission (07 of 26): Hearings Vol. VII (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44007",
-    "hash": "14c7341343d919eca947bb21e635f3d0509e8a9c1c57fa20cfa927ab9c2a1688"
+    "hash": "9732b49cb448385abd8f4ece017242c77b9c96d1be8605338c18be1af6228585"
   },
   {
     "time": "13:53",
@@ -98,5 +38,65 @@
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
     "hash": "0f965b67743ef701bbec7c0e1fa693cad59a58050f71b280f5c86362be0e129d"
+  },
+  {
+    "time": "13:53",
+    "quoteFirst": "Reached highest point ",
+    "quoteTime": "1.53 P.M.",
+    "quoteLast": " Total, 3 hours 13 min.",
+    "title": "Ultima Thule; or, A Summer in Iceland. vol. 2/2",
+    "author": "Burton, Richard Francis, Sir, 1821-1890",
+    "gutenbergReference": "59585",
+    "hash": "061471e35fe16dbf6188822f145e372f5d3dc8f140741835f4186fe3fad82202"
+  },
+  {
+    "time": "13:53",
+    "quoteFirst": "_--The sun set last night at fifty-three minutes past nine, by my watch, and rose at ",
+    "quoteTime": "seven minutes before two",
+    "quoteLast": " this morning: we embarked soon after, steering North-North-West, through islands for five miles, and West four miles.",
+    "title": "Voyages from Montreal Through the Continent of North America to the Frozen and Pacific Oceans in 1789 and 1793. Vol. I",
+    "author": "Mackenzie, Alexander, 1764-1820",
+    "gutenbergReference": "35658",
+    "hash": "51e0f0c05bbd77f9fd6446a80016674252960a0432dd3cd6982a90099d576247"
+  },
+  {
+    "time": "13:53",
+    "quoteFirst": "Reached highest point ",
+    "quoteTime": "1.53 P.M.",
+    "quoteLast": " Total, 3 hours 13 min.",
+    "title": "Ultima Thule; or, A Summer in Iceland. vol. 2/2",
+    "author": "Burton, Richard Francis, Sir, 1821-1890",
+    "gutenbergReference": "59585",
+    "hash": "061471e35fe16dbf6188822f145e372f5d3dc8f140741835f4186fe3fad82202"
+  },
+  {
+    "time": "13:53",
+    "quoteFirst": "Reached highest point ",
+    "quoteTime": "1.53 P.M.",
+    "quoteLast": " Total, 3 hours 13 min.",
+    "title": "Ultima Thule; or, A Summer in Iceland. vol. 2/2",
+    "author": "Burton, Richard Francis, Sir, 1821-1890",
+    "gutenbergReference": "59585",
+    "hash": "061471e35fe16dbf6188822f145e372f5d3dc8f140741835f4186fe3fad82202"
+  },
+  {
+    "time": "13:53",
+    "quoteFirst": "Black Bulb 7.51 to 8.13 a.m. 9.03 to 9.17 a.m. 9.20 to 9.33 a.m. 11.15 to 11.28 a.m. 11.32 to 11.45 a.m. 1.20 to 1.33 p.m. 1.40 to ",
+    "quoteTime": "1.53 p.m.",
+    "quoteLast": " 13·0 19·5 21·2 21·1 16·5 21·6 21·4   88·0   96·0 107·0",
+    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6478",
+    "hash": "0f965b67743ef701bbec7c0e1fa693cad59a58050f71b280f5c86362be0e129d"
+  },
+  {
+    "time": "13:53",
+    "quoteFirst": "Summer began June 21, 1883, at ",
+    "quoteTime": "1:53 p. m.",
+    "quoteLast": " and lasts 93d, 14h, and 35m.",
+    "title": "The inter ocean curiosity shop for the year 1883",
+    "author": "Various; Jones, William P. [Editor]",
+    "gutenbergReference": "70718",
+    "hash": "f6cef5d0c0e40df0420936cd3582f5fb44080f9431a52293690b5e5566bc275d"
   }
 ]

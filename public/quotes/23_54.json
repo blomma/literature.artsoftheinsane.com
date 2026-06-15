@@ -1,13 +1,13 @@
 [
   {
     "time": "23:54",
-    "quoteFirst": "103,650,000         ",
-    "quoteTime": "6 to 12 p. m.",
-    "quoteLast": "               73,530,000",
-    "title": "The Passaic Flood of 1903",
-    "author": "Leighton, Marshall Ora, 1874-1958",
-    "gutenbergReference": "19878",
-    "hash": "490c936da3536baea975ece4b84dbf7f12722017c67f2d3556ad81330ad4c23d"
+    "quoteFirst": "[101] This computation of time separates the day into four       portions of six hours each--two of which, from 1 to 6, and from 6       to 12 A.M. compose the _morning_, and the other two, from 1 to 6,       and from ",
+    "quoteTime": "6 to 12 P.M.",
+    "quoteLast": " compose the _evening_.",
+    "title": "The Myth of Hiawatha, and Other Oral Legends, Mythologic and Allegoric, of the North American Indians",
+    "author": "Schoolcraft, Henry Rowe, 1793-1864",
+    "gutenbergReference": "21620",
+    "hash": "52fede399649786981233ada0cc63f8a1ecdff93c3f0b07b04e037ab5220c843"
   },
   {
     "time": "23:54",
@@ -18,26 +18,6 @@
     "author": "Miles, Henry Downes, 1806-1889",
     "gutenbergReference": "64111",
     "hash": "56f5a457d787b9d3e403fef086e480cd1cbde544bb2b4caef96a483d446ac231"
-  },
-  {
-    "time": "23:54",
-    "quoteFirst": "At 11 came my good Lablache and stayed till ",
-    "quoteTime": "6 minutes to 12",
-    "quoteLast": ".",
-    "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
-    "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
-    "gutenbergReference": "75138",
-    "hash": "7e3f059c41a425383158724667e99f109f6b6664e8e8bc3b6c51549d0d9d7ecf"
-  },
-  {
-    "time": "23:54",
-    "quoteFirst": "8,022,000         ",
-    "quoteTime": "6 to 12 p. m.",
-    "quoteLast": "                7,353,000",
-    "title": "The Passaic Flood of 1903",
-    "author": "Leighton, Marshall Ora, 1874-1958",
-    "gutenbergReference": "19878",
-    "hash": "7ef9f6474faa0302b2f76af1f57304dc5e270568e95204e42f0065bc803ff369"
   },
   {
     "time": "23:54",
@@ -58,16 +38,6 @@
     "author": "Harrison, Harry, 1925-2012",
     "gutenbergReference": "21873",
     "hash": "a58eafe54744a19968c788465d88eb8f10ae95b5afde4cf00183846faa7f8007"
-  },
-  {
-    "time": "23:54",
-    "quoteFirst": "Umpires and a referee were soon appointed, and at ",
-    "quoteTime": "six minutes to twelve",
-    "quoteLast": " the men toed the scratch.",
-    "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
-    "author": "Miles, Henry Downes, 1806-1889",
-    "gutenbergReference": "64111",
-    "hash": "56f5a457d787b9d3e403fef086e480cd1cbde544bb2b4caef96a483d446ac231"
   },
   {
     "time": "23:54",
@@ -81,6 +51,16 @@
   },
   {
     "time": "23:54",
+    "quoteFirst": "There, as himself informs us, she was under Examination from ",
+    "quoteTime": "six to twelve at Night",
+    "quoteLast": ", and then, after many hard Struggles and stout Denials, such are his own Words, she did, what?",
+    "title": "The Story of Elizabeth Canning Considered",
+    "author": "Hill, John, 1714?-1775",
+    "gutenbergReference": "51334",
+    "hash": "e6f9fded4c4fe7969bdc949716692ccb6be411338149e6a540622ef10c7f9da9"
+  },
+  {
+    "time": "23:54",
     "quoteFirst": "103,650,000         ",
     "quoteTime": "6 to 12 p. m.",
     "quoteLast": "               73,530,000",
@@ -88,6 +68,26 @@
     "author": "Leighton, Marshall Ora, 1874-1958",
     "gutenbergReference": "19878",
     "hash": "490c936da3536baea975ece4b84dbf7f12722017c67f2d3556ad81330ad4c23d"
+  },
+  {
+    "time": "23:54",
+    "quoteFirst": "Umpires and a referee were soon appointed, and at ",
+    "quoteTime": "six minutes to twelve",
+    "quoteLast": " the men toed the scratch.",
+    "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
+    "author": "Miles, Henry Downes, 1806-1889",
+    "gutenbergReference": "64111",
+    "hash": "56f5a457d787b9d3e403fef086e480cd1cbde544bb2b4caef96a483d446ac231"
+  },
+  {
+    "time": "23:54",
+    "quoteFirst": "18,450,000         ",
+    "quoteTime": "6 to 12 p. m.",
+    "quoteLast": "               15,105,000     13, 12 to 6 a.",
+    "title": "The Passaic Flood of 1903",
+    "author": "Leighton, Marshall Ora, 1874-1958",
+    "gutenbergReference": "19878",
+    "hash": "db14bd760ef7dadae4800122d78dc767796dd5257953cd14faef9b3f78c4c71b"
   },
   {
     "time": "23:54",

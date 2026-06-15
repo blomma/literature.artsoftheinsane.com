@@ -1,16 +1,6 @@
 [
   {
     "time": "08:27",
-    "quoteFirst": "5:20 P.M.      7:34 A.M.      1:44 P.M.   5.0  Burro Bridge      10:36 A.M.     4:46 P.M.      7:49 A.M.      1:59 P.M.   7.5  Chattanooga       10:21 A.M.     4:31 P.M.      8:11 A.M.      2:21 P.M.  12.5  Summit            9:58 A.M.      4:09 P.M.      8:25 A.M.      2:35 P.M.  15.0  Red Mountain      9:50 A.M.      4:00 P.M.      8:26 A.M.      2:36 P.M.  15.5  Vanderbilt        9:44 A.M.      3:54 P.M.      ",
-    "quoteTime": "8:27 A.M.",
-    "quoteLast": "      2:37 P.M.  16.0  Yankee Girl       9:43 A.M.      3:53 P.M.      8:45 A.M.      2:55 P.M.  17.0  Paymaster         9:25 A.M.      3:35 P.M.  Ar.",
-    "title": "Three little lines",
-    "author": "Crum, Josie Moore, 1888-1972",
-    "gutenbergReference": "62664",
-    "hash": "9057da1ef31f35c8c6603da8301b6a383849f4a2cb560e2134fec7cae5244ed6"
-  },
-  {
-    "time": "08:27",
     "quoteFirst": "It is now ",
     "quoteTime": "twenty-seven minutes past eight",
     "quoteLast": ".",
@@ -21,13 +11,13 @@
   },
   {
     "time": "08:27",
-    "quoteFirst": "",
-    "quoteTime": "Twenty-seven minutes past eight",
-    "quoteLast": ".",
-    "title": "The Education of Eric Lane",
-    "author": "McKenna, Stephen, 1888-1967",
-    "gutenbergReference": "29041",
-    "hash": "93568bb1d83456ae758ae765b8fa0f66868525a7e0fd78e15ba7bcfd3cfbc1f7"
+    "quoteFirst": "At ",
+    "quoteTime": "seven-and-twenty minutes past eight",
+    "quoteLast": " Mrs. Lofthouse was seated at Aurora's piano, in the first agonies of a prelude in six flats; a prelude which demanded such extraordinary uses of the left hand across the right, and the right over the left, and such exercise of the thumbs in all sorts of positions,--in which, according to all orthodox theories of the pre-Thalberg-ite school, no pianist's thumbs should ever be used,--that Mrs. Mellish felt that her friend's attention was not very likely to wander from the keys.",
+    "title": "Aurora Floyd, Vol. 2\r\nFifth Edition",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "48021",
+    "hash": "6e7f4b017c2dd7a5311ccf63054601c6ef02450d4f607817275473b0bdbed418"
   },
   {
     "time": "08:27",

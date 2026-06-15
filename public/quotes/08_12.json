@@ -1,73 +1,13 @@
 [
   {
     "time": "08:12",
-    "quoteFirst": "the ",
-    "quoteTime": "Twelve after eight",
-    "quoteLast": " days; 7.",
-    "title": "Systematic Theology (Volume 1 of 3)",
-    "author": "Strong, Augustus Hopkins, 1836-1921",
-    "gutenbergReference": "44035",
-    "hash": "34eb6019b025bfc1f856b3536edf3470bdb67139e9bfbbeb396eb237ed97e894"
-  },
-  {
-    "time": "08:12",
-    "quoteFirst": "Between ",
-    "quoteTime": "8.12 A.M.",
-    "quoteLast": " and 5 P.M. on the 18th, the apex of the cotyledon moved 7 times upwards or downwards (Fig. 14).",
-    "title": "The Power of Movement in Plants",
-    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
-    "gutenbergReference": "5605",
-    "hash": "5d6f11e994868f38f030642eec3c792bbbd1150beb27bccb5d3f32c464452d98"
-  },
-  {
-    "time": "08:12",
-    "quoteFirst": "Oxalis rosea: conjoint circumnutation of the cotyledons and hypocotyl, traced from ",
-    "quoteTime": "8.12 A.M.",
-    "quoteLast": " on June 18th to 7.30 A.M. 19th.",
-    "title": "The Power of Movement in Plants",
-    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
-    "gutenbergReference": "5605",
-    "hash": "a742b880e1a812c6239c837c6090fc33e26ea6e563655bbb506dea395b731757"
-  },
-  {
-    "time": "08:12",
-    "quoteFirst": "",
-    "quoteTime": "8.12 A.M.",
-    "quoteLast": ": Observed 'C 27' fire a torpedo, which missed astern.",
-    "title": "The Story of Our Submarines",
-    "author": "Bower, John Graham, 1886-1940",
-    "gutenbergReference": "40765",
-    "hash": "cac0a5c99250a8b4d1093a8131082acdab024e8dabbff668d472e36834724e55"
-  },
-  {
-    "time": "08:12",
-    "quoteFirst": "There is corroborative evidence that she arrived at Bourne End station at ",
-    "quoteTime": "twelve minutes past eight",
-    "quoteLast": " as she says she did--the murder was committed at forty minutes past seven, a few minutes before or after.”",
-    "title": "Red aces",
-    "author": "Wallace, Edgar, 1875-1932",
-    "gutenbergReference": "76541",
-    "hash": "23d67cda3cec1a59194955316da0253b8a13fa39b7b43f1e127d7877eb0501da"
-  },
-  {
-    "time": "08:12",
-    "quoteFirst": "Oxalis rosea: conjoint circumnutation of the cotyledons and hypocotyl, traced from ",
-    "quoteTime": "8.12 A.M.",
-    "quoteLast": " on June 18th to 7.30 A.M. 19th.",
-    "title": "The Power of Movement in Plants",
-    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
-    "gutenbergReference": "5605",
-    "hash": "a742b880e1a812c6239c837c6090fc33e26ea6e563655bbb506dea395b731757"
-  },
-  {
-    "time": "08:12",
-    "quoteFirst": "At ",
-    "quoteTime": "twelve minutes past eight",
-    "quoteLast": " it again filled-away by signal, and stood slowly down for the enemy (June 1, Fig. 1).",
-    "title": "The Influence of Sea Power upon the French Revolution and Empire 1793-1812, vol 1",
-    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
-    "gutenbergReference": "52588",
-    "hash": "ef7aa7f96241579edf73028be67ce370c413cf58440a1c38a8602a84573eb9a3"
+    "quoteFirst": "Do not write _about 27 cents_ or _about ",
+    "quoteTime": "12 minutes after 8",
+    "quoteLast": " o'clock_, but write _about $10_ or _about 10,000 persons_.",
+    "title": "The Style Book of The Detroit News",
+    "author": "Detroit news; Weeks, A. L. (Albert Loren), 1888-1963 [Editor]",
+    "gutenbergReference": "32997",
+    "hash": "6353600c9e81e225f1466b929c796128399a2c370f012105bd6335bd5b4558aa"
   },
   {
     "time": "08:12",
@@ -81,6 +21,36 @@
   },
   {
     "time": "08:12",
+    "quoteFirst": "",
+    "quoteTime": "8.12 A.M.",
+    "quoteLast": ": Observed 'C 27' fire a torpedo, which missed astern.",
+    "title": "The Story of Our Submarines",
+    "author": "Bower, John Graham, 1886-1940",
+    "gutenbergReference": "40765",
+    "hash": "cac0a5c99250a8b4d1093a8131082acdab024e8dabbff668d472e36834724e55"
+  },
+  {
+    "time": "08:12",
+    "quoteFirst": "By ",
+    "quoteTime": "8.12 a. m.",
+    "quoteLast": " the Second Battalion of the 366th had completely occupied Bois Voivrotte and taken three prisoners, and by 11.45 the Second Battalion of the 365th completely occupied Bois Frehaut, although it had been heavily shelled with gas and high explosives.",
+    "title": "Sidelights on Negro Soldiers",
+    "author": "Williams, Charles H. (Charles Halston), 1886-; Brawley, Benjamin Griffith, 1882-1939 [Author of introduction, etc.]",
+    "gutenbergReference": "67093",
+    "hash": "fb7443541886f11033ce046d5bf7426fa8adc784481f618b561c9c7c1126e041"
+  },
+  {
+    "time": "08:12",
+    "quoteFirst": "It was ",
+    "quoteTime": "twelve minutes past eight",
+    "quoteLast": ".",
+    "title": "The Man in the Brown Suit",
+    "author": "Christie, Agatha, 1890-1976",
+    "gutenbergReference": "61168",
+    "hash": "6c042df7606f4a8ecbcbafbe5c5d4b9912edc9b1d3482e3452391d0c4abf5075"
+  },
+  {
+    "time": "08:12",
     "quoteFirst": "Between ",
     "quoteTime": "8.12 A.M.",
     "quoteLast": " and 5 P.M. on the 18th, the apex of the cotyledon moved 7 times upwards or downwards (Fig. 14).",
@@ -98,5 +68,25 @@
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
     "hash": "a742b880e1a812c6239c837c6090fc33e26ea6e563655bbb506dea395b731757"
+  },
+  {
+    "time": "08:12",
+    "quoteFirst": "There is corroborative evidence that she arrived at Bourne End station at ",
+    "quoteTime": "twelve minutes past eight",
+    "quoteLast": " as she says she did--the murder was committed at forty minutes past seven, a few minutes before or after.”",
+    "title": "Red aces",
+    "author": "Wallace, Edgar, 1875-1932",
+    "gutenbergReference": "76541",
+    "hash": "23d67cda3cec1a59194955316da0253b8a13fa39b7b43f1e127d7877eb0501da"
+  },
+  {
+    "time": "08:12",
+    "quoteFirst": "At ",
+    "quoteTime": "twelve minutes past eight",
+    "quoteLast": " it again filled-away by signal, and stood slowly down for the enemy (June 1, Fig. 1).",
+    "title": "The Influence of Sea Power upon the French Revolution and Empire 1793-1812, vol 1",
+    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+    "gutenbergReference": "52588",
+    "hash": "ef7aa7f96241579edf73028be67ce370c413cf58440a1c38a8602a84573eb9a3"
   }
 ]
