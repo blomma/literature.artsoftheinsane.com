@@ -1,63 +1,33 @@
 [
   {
     "time": "04:57",
-    "quoteFirst": "At ",
-    "quoteTime": "about 5 o'clock A.M.",
-    "quoteLast": ", Jared Wells, my old tent mate, and I went out blackberrying.",
-    "title": "The Twenty-fifth Regiment Connecticut Volunteers in the War of the Rebellion",
-    "author": "Bissell, George P. (George Perkins), 1820-1891; Ellis, Samuel K. (Samuel Kimball), 1839-1918; Goodell, Henry Hill, 1839-1905; McManus, Thomas, 1834-1914",
-    "gutenbergReference": "24307",
-    "hash": "e09cc84f6939d2632905a8cc9f51c66c11bd425fafd50b17d995054b1ba3e6b6"
+    "quoteFirst": "At daybreak (",
+    "quoteTime": "about 5 A.M.",
+    "quoteLast": ") a heavy fire was opened on the      rearguard.",
+    "title": "South Africa and the Transvaal War, Vol. 7 (of 8)\r\nThe Guerilla War, from February 1901 to the Conclusion of Hostilities",
+    "author": "Creswicke, Louis",
+    "gutenbergReference": "47132",
+    "hash": "8b0ea4a7717416acb34291b00e7d65d2d8813827c2c4fe72df6f943cd26c72ba"
   },
   {
     "time": "04:57",
-    "quoteFirst": "11 Bombardment continued, 600 to 660 shells (60 from ",
-    "quoteTime": "3 to 5 A. M.",
-    "quoteLast": "; 50    from 9:30 to 10:30 A. M.; more than 500 from 3 to 9 P. M.).",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "d314b7cecc557bb18cc70c27fe8543914f4be8e3642513605403f50eb3427861"
+    "quoteFirst": "On Tuesday morning, the 12th of this month, I was awakened ",
+    "quoteTime": "about five o'clock",
+    "quoteLast": ", or half past five, by a little darkey boy, who came up to my room and says: \"Oh, Mr. Benton, all of Forrest's men have come, and they are just going into the fort. What will I do?\"",
+    "title": "Reports of the Committee on the Conduct of the War\r\nFort Pillow Massacre. Returned Prisoners.",
+    "author": "United States. Congress. Joint Committee on the Conduct of the War; Gooch, Daniel W. (Daniel Wheelwright), 1820-1891; Wade, B. F. (Benjamin Franklin), 1800-1878",
+    "gutenbergReference": "41787",
+    "hash": "ddae2fa3b173261e97617752d6529730f254a5cfe312fd5eabf9da01c352ef1e"
   },
   {
     "time": "04:57",
-    "quoteFirst": "Marched ",
-    "quoteTime": "about 5 o'clock a. m.",
-    "quoteLast": "; took a crossroad and went to the Rockville and Alexandria pike; hard march; camped at Hyattstown; are headed for Frederick Junction on the Monocacy River, where we had our fight July 9, 1864.",
-    "title": "Personal Recollections and Civil War Diary, 1864",
-    "author": "Abbott, Lemuel Abijah, 1842-1911",
-    "gutenbergReference": "47332",
-    "hash": "05d04db34e31d61c794e7ffcb372ecf95ea584f4246a53f318699f3fa9a03020"
-  },
-  {
-    "time": "04:57",
-    "quoteFirst": "",
-    "quoteTime": "About five that night",
-    "quoteLast": ", we reached the ruined village of H--, and I got my first sight of the awful destruction caused by German Kultur.",
-    "title": "\"Over the Top,\" by an American Soldier Who Went\r\nTogether with Tommy's Dictionary of the Trenches",
-    "author": "Empey, Arthur Guy, 1883-1963",
-    "gutenbergReference": "7962",
-    "hash": "8fc85ed95384fbabb709a3ae1bcd01a99d96c1b97d0f2183c73a8339b934c19c"
-  },
-  {
-    "time": "04:57",
-    "quoteFirst": "At ",
+    "quoteFirst": "The minimum temperature is attained in my green house at ",
     "quoteTime": "about 5 a.m.",
-    "quoteLast": " the tent pole was bending so ominously that the two Lieutenants in the tent with me, having put on all the clothes they possessed, held the pole by turns.",
-    "title": "From Midshipman to Field Marshal",
-    "author": "Wood, Evelyn, 1838-1919",
-    "gutenbergReference": "61812",
-    "hash": "0636e6dcf2a22690b90a26f2d60ef127fb4e11502949e6aa51b5eb54affc9753"
-  },
-  {
-    "time": "04:57",
-    "quoteFirst": "Wednesday morning while on post from ",
-    "quoteTime": "3 to 5 A. M.",
-    "quoteLast": " I was taken with violent chills and ague, continuing nearly the two hours I was on.",
-    "title": "An Artilleryman's Diary",
-    "author": "Jones, Jenkins Lloyd, 1843-1918",
-    "gutenbergReference": "33211",
-    "hash": "159d5d42c995f55fd43f2de746e63eaa28dd284e3bfa6cbb4b8625158169fb89"
+    "quoteLast": " in summer, and at about 7 a.m. in winter.",
+    "title": "Life Movements in Plants, Volume II",
+    "author": "Bose, Jagadis Chandra, 1858-1937",
+    "gutenbergReference": "40050",
+    "hash": "84b4c3dcaab3823724a90c43914841260b95741efcf1928d18c260fed72087f8"
   },
   {
     "time": "04:57",
@@ -71,32 +41,162 @@
   },
   {
     "time": "04:57",
-    "quoteFirst": "The _Polaris_ was first stopped by the ice off the western shore of Hakluyt Island, ",
+    "quoteFirst": "On April 11th Colonel Justice, Lieutenant D. M. Allen (Acting Engineer), a Commissariat officer, and myself, started from Cape Coast ",
     "quoteTime": "about 5 a.m.",
-    "quoteLast": " on the 27th August, but by forcing ahead, open water was reached the same day.",
-    "title": "The Siege and Conquest of the North Pole",
-    "author": "Bryce, George, 1844-1931",
-    "gutenbergReference": "50976",
-    "hash": "4e32917b10254ea3360baaedeba66b086c3335dcf141247c37a2e0812ee43510"
+    "quoteLast": " in hammocks for Mansu, where we had heard the Governor was.",
+    "title": "The Land of Fetish",
+    "author": "Ellis, A. B. (Alfred Burdon), 1852-1894",
+    "gutenbergReference": "65997",
+    "hash": "62862c3f93fef3ed7e3f893f9460ca654bd41c8f752f2dc13582bade05428aa6"
   },
   {
     "time": "04:57",
-    "quoteFirst": "At ",
-    "quoteTime": "about five a.m.",
-    "quoteLast": ", quite close to us, I     heard horns blowing and German words of command and cheering,     and I knew that the Germans had attacked the Indians on our     right.",
-    "title": "Francis and Riversdale Grenfell",
-    "author": "Buchan, John, 1875-1940",
-    "gutenbergReference": "77309",
-    "hash": "12dc600447c7b903ed689d9f7919435f88eba27ca5d5a76cee3cd719262f03cb"
+    "quoteFirst": "Marched ",
+    "quoteTime": "about 5 o'clock a. m.",
+    "quoteLast": "; took a crossroad and went to the Rockville and Alexandria pike; hard march; camped at Hyattstown; are headed for Frederick Junction on the Monocacy River, where we had our fight July 9, 1864.",
+    "title": "Personal Recollections and Civil War Diary, 1864",
+    "author": "Abbott, Lemuel Abijah, 1842-1911",
+    "gutenbergReference": "47332",
+    "hash": "05d04db34e31d61c794e7ffcb372ecf95ea584f4246a53f318699f3fa9a03020"
   },
   {
     "time": "04:57",
-    "quoteFirst": "Instead of pushing on to the uttermost extremity of the summit, the forlorn hope halted ",
+    "quoteFirst": "They were to take place at dawn (at ",
+    "quoteTime": "about 5 A.M.",
+    "quoteLast": " or half an hour before the main attacks), without any preliminary bombardment from the fleet upon the landing places.",
+    "title": "Gallipoli",
+    "author": "Masefield, John, 1878-1967",
+    "gutenbergReference": "53682",
+    "hash": "23a9e48d9b256f5c9fa4e1993ab018ba22758ab18048573e69265f0d876ca008"
+  },
+  {
+    "time": "04:57",
+    "quoteFirst": "We started away from that reunion at ",
+    "quoteTime": "about five o’clock at night",
+    "quoteLast": " and everybody was sorry to see us go.",
+    "title": "Roy Blakeley's Motor Caravan",
+    "author": "Fitzhugh, Percy Keese, 1876-1950",
+    "gutenbergReference": "44172",
+    "hash": "a4c89e0c67a69b5358b374c83fa46cf0202a5bb7f36abbb5402e188b24f33e99"
+  },
+  {
+    "time": "04:57",
+    "quoteFirst": "\"'The morn, the noon, the day is pass'd' in the reports, the speeches, the recriminations and defences of these parties, until it is ",
+    "quoteTime": "nearly five o'clock",
+    "quoteLast": ". In the very same room the Hooping Cough Asylum Dinner is to take place at six; and the Mexican Bondholders are stamping and hooting above, on the same floor which in an hour is to support the feast of some Worshipful Company which makes it their hall. The feat appears to be altogether impossible; nevertheless, it must and will be most accurately performed.\"",
+    "title": "Club Life of London, Vol. 2 (of 2)\r\nWith Anecdotes of the Clubs, Coffee-Houses and Taverns of the Metropolis During the 17th, 18th, and 19th Centuries",
+    "author": "Timbs, John, 1801-1875",
+    "gutenbergReference": "41516",
+    "hash": "a03d108eb7290cc123c9236f3419ecabd844eca0e0cab46f3056eaa8951bd70a"
+  },
+  {
+    "time": "04:57",
+    "quoteFirst": "",
+    "quoteTime": "About 5 a.m.",
+    "quoteLast": " the northern limit of the Sea of Rains was at last passed.",
+    "title": "The Moon-Voyage",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "12901",
+    "hash": "26b530d9278ed62684e836d991536b2d97596f740ed3b14b6fd19321ca27f181"
+  },
+  {
+    "time": "04:57",
+    "quoteFirst": "--One of those scenes which occasionally disgrace even Smithfield, took place there ",
+    "quoteTime": "about five o'clock",
+    "quoteLast": " on Friday evening (July 14th), namely--a man exposing his wife for sale.",
+    "title": "Social England under the Regency, Vol. 1 (of 2)",
+    "author": "Ashton, John, 1834-1911",
+    "gutenbergReference": "48390",
+    "hash": "29b40cd7e24f121b5c62152de0ae12f8f79bc39ca50b9545a617a2ab756ef417"
+  },
+  {
+    "time": "04:57",
+    "quoteFirst": "_--A heavy and most effective thaw coming on I got home ",
+    "quoteTime": "about five at night",
+    "quoteLast": ", and found the haugh covered with water, dogs, pigs, cows, to say nothing of human beings, all who slept at the offices in danger of being drowned.",
+    "title": "The Journal of Sir Walter Scott\nFrom the Original Manuscript at Abbotsford",
+    "author": "Scott, Walter, 1771-1832; Douglas, David, 1823-1916 [Editor]",
+    "gutenbergReference": "14860",
+    "hash": "ecfbf77a0d4e4153293b4f7dbbaa8b41b027f02e84f09854326d6007107471ba"
+  },
+  {
+    "time": "04:57",
+    "quoteFirst": "Colonel Pierce, who had been in Massachusetts for several weeks prior to this, upon learning of the arrival of the regiment at Cincinnati, came to that city on the 3d of April, assumed command, and on the 7th started with the regiment for Boston, arriving there ",
+    "quoteTime": "about five o’clock",
+    "quoteLast": " on Saturday afternoon, April 9.",
+    "title": "The History of the Twenty-ninth Regiment of Massachusetts Volunteer Infantry\nin the Late War of the Rebellion",
+    "author": "Osborne, William H.",
+    "gutenbergReference": "50687",
+    "hash": "a69f82ec099bdd4a91683e3b02fe37ddad7ee957ee8ebc1886fdf8c37830e76f"
+  },
+  {
+    "time": "04:57",
+    "quoteFirst": "This was written in anticipation of the action of a few Conservatives who, rebelling against their own leaders, obstructed the measure when it came on for discussion after other matters ",
+    "quoteTime": "about five o'clock",
+    "quoteLast": " in the morning.",
+    "title": "Charles Bradlaugh: a Record of His Life and Work, Volume 2 (of 2)\r\nWith an Account of his Parliamentary Struggle, Politics and Teachings. Seventh Edition",
+    "author": "Bonner, Hypatia Bradlaugh, 1858-1935; Robertson, J. M. (John Mackinnon), 1856-1933",
+    "gutenbergReference": "45131",
+    "hash": "9e0b0f5c19de48fb2cef4b836a986af6c7748dd7eaf11242fc453bb631dce672"
+  },
+  {
+    "time": "04:57",
+    "quoteFirst": "\"He had met her ",
+    "quoteTime": "about five o'clock",
+    "quoteLast": ", and they walked about in the park for a short time. Then he told her that he had an errand to do, after which he was coming to call upon me. Then Mary laughed and replied that she would see him later.\"",
+    "title": "With Links of Steel; Or, The Peril of the Unknown",
+    "author": "Carter, Nicholas (House name)",
+    "gutenbergReference": "14096",
+    "hash": "de4ed39bda0432f2e5191049247cbc91bed05342f275f4f2bc14e4bb79f100a1"
+  },
+  {
+    "time": "04:57",
+    "quoteFirst": "We gave ourselves up to all sorts of hypotheses, when, ",
+    "quoteTime": "about five o’clock",
+    "quoteLast": ", Commissary Rodionof, who had come to Tobolsk to fetch us, entered our carriage and told us we were not wanted and were free.",
+    "title": "Thirteen years at the Russian court\r\n(a personal record of the last years and death of the Czar Nicholas II. and his family)",
+    "author": "Gilliard, Pierre, 1879-1962; Holt, F. A. (Frederic Appleby), 1888-1980 [Translator]",
+    "gutenbergReference": "60546",
+    "hash": "2565186a720a3ff86b6e3425d6a92c1a283020c0c0de0ee70b2947d69e8fe3a7"
+  },
+  {
+    "time": "04:57",
+    "quoteFirst": "However, dawn is early in these latitudes, and the sun shone down with considerable fierceness from ",
     "quoteTime": "about 5 a.m.",
-    "quoteLast": " at a Boer trench which was captured without episode.",
-    "title": "With the Flag to Pretoria: A History of the Boer War of 1899-1900. Volume 1",
-    "author": "Wilson, Herbert Wrigley, 1866-1940",
-    "gutenbergReference": "48534",
-    "hash": "59ee0f10b2372f6faea7b66bfbee8fb34e2b5493d35b1bcff885fa464bc9e146"
+    "quoteLast": " The oppressive heat of the tents soon woke every one, to say nothing of the heavy hum of the aeroplanes from the local aerodrome, which flew so low that they missed the tent tops by a few feet, much to the dismay of the occupants.",
+    "title": "The History of the Prince of Wales' Civil Service Rifles",
+    "author": "Anonymous",
+    "gutenbergReference": "51387",
+    "hash": "3a2f497149a31c4ef9e77d5b6c8bbf897ea88ee157453fc08dbaf257df0b1bb0"
+  },
+  {
+    "time": "04:57",
+    "quoteFirst": "There were the afternoon letters to dictate, which took her nearly an hour; and there were callers who kept her in the office until ",
+    "quoteTime": "nearly five o'clock",
+    "quoteLast": ".",
+    "title": "A Woman for Mayor: A Novel of To-day",
+    "author": "Winslow, Helen M. (Helen Maria), 1851-1938; Goldbeck, Walter Dean, 1882-1925 [Illustrator]",
+    "gutenbergReference": "22267",
+    "hash": "e68c49af12558d733ff098423081555a44a69acc4224705ca26d68f21d0fa831"
+  },
+  {
+    "time": "04:57",
+    "quoteFirst": "_ ",
+    "quoteTime": "About 5 AM",
+    "quoteLast": ".",
+    "title": "Privateering and Piracy in the Colonial Period\nIllustrative Documents",
+    "author": "Jameson, J. Franklin (John Franklin), 1859-1937 [Editor]",
+    "gutenbergReference": "24882",
+    "hash": "79097367abdf0fcb57fc9f2cfc77aadb9169a61014b20e898ee699693a92c9bc"
+  },
+  {
+    "time": "04:57",
+    "quoteFirst": "",
+    "quoteTime": "About 5 A. M.",
+    "quoteLast": ", when at almost the identical spot where the Confederate ram “Arkansas” was blown up, the fire reached the magazine and the “Mississippi” existed only in story.",
+    "title": "Company K, First Alabama Regiment; or, Three Years in the Confederate Service",
+    "author": "Smith, Daniel P.",
+    "gutenbergReference": "63820",
+    "hash": "99b8f505f223ad8f12a6bd3d28143d975f5eb6fd8ba6148db12c61db6a8232a8"
   }
 ]

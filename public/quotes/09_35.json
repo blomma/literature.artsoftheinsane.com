@@ -1,73 +1,13 @@
 [
   {
     "time": "09:35",
-    "quoteFirst": "At ",
-    "quoteTime": "twenty-five minutes to ten",
-    "quoteLast": " that evening I was writing a note, and wondering, while I did so, whether the original 'Incroyables' ever sat down.",
-    "title": "Jonah and Co.",
-    "author": "Yates, Dornford, 1885-1960",
-    "gutenbergReference": "27079",
-    "hash": "38151d8fa82ab68980c6be19bcdda45033bcee40811c4fe65749b96d46bd1856"
-  },
-  {
-    "time": "09:35",
-    "quoteFirst": "Porlieria hygrometrica: circumnutation and nyctitropic movements of petiole of leaf, traced from ",
-    "quoteTime": "9.35 A.M.",
-    "quoteLast": " July 7th to about midnight on the 8th.",
-    "title": "The Power of Movement in Plants",
-    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
-    "gutenbergReference": "5605",
-    "hash": "d329d33febe81b0762e73e64034043598bfe1c8ad947a3194c4638f2580cfd78"
-  },
-  {
-    "time": "09:35",
-    "quoteFirst": "'Yes, mamma; it was ",
-    "quoteTime": "twenty-five minutes to ten",
-    "quoteLast": ".'",
-    "title": "Muslin",
-    "author": "Moore, George, 1852-1933",
-    "gutenbergReference": "14659",
-    "hash": "3c37a31dd2fa5785a4ded55f526cd4794577840251e2b5de530c89d588e61d8b"
-  },
-  {
-    "time": "09:35",
-    "quoteFirst": "At ",
-    "quoteTime": "9.35 A.M.",
-    "quoteLast": " proceeded in  formation at 12 knots.",
-    "title": "The Corsair in the war zone",
-    "author": "Paine, Ralph Delahaye, 1871-1925",
-    "gutenbergReference": "72760",
-    "hash": "da0bdabbab0e310b5257856a1aab27d0ccb7b7cc258e7bcfbaeded6b8d8e5522"
-  },
-  {
-    "time": "09:35",
-    "quoteFirst": "\"It’s ",
-    "quoteTime": "twenty-five minutes to ten",
-    "quoteLast": " now.  Thompson said ten, but he might come a bit sooner.  We must get Norman away at once. You understand that you’re to let Mr. Merriam go to bed in his stead.  When Thompson comes you must admit him.  You can pretend to be unwilling to do so, but you must let him in without too much fuss.  You’re to tell him that Norman’s not here and has not been here--that there’s a man here who looks tremendously like Norman and that at first you fooled Margery into thinking it was Norman.\"",
-    "title": "Mollie's Substitute Husband",
-    "author": "McConn, Max, 1881-",
-    "gutenbergReference": "48626",
-    "hash": "8c119fccbf4a180ff07edbeb5a2534ef091cacee9a27f305bebb219927a754d1"
-  },
-  {
-    "time": "09:35",
-    "quoteFirst": "\"First flowing, 9.20 A.M. to ",
-    "quoteTime": "9.35 A.M.",
-    "quoteLast": "; length, 15 minutes.",
-    "title": "Wonders of the Yellowstone",
-    "author": "Richardson, James (Geologist)",
-    "gutenbergReference": "46911",
-    "hash": "19f665d10fd1b62741e1ea69663a56ba10963cfa719486d08084df06bfe39a2f"
-  },
-  {
-    "time": "09:35",
-    "quoteFirst": "He backed the Mercedes into the garage of the Bear and Key at ",
+    "quoteFirst": "During the patience the clock had moved from ten minutes past eight to ",
     "quoteTime": "twenty-five minutes to ten",
     "quoteLast": ".",
-    "title": "The rasp",
-    "author": "MacDonald, Philip, 1901?-1980",
-    "gutenbergReference": "72462",
-    "hash": "0271c974c358890881bf358265700cc15b32fb61e55dae8e3148c5994ea0c08d"
+    "title": "The Third Miss Symons",
+    "author": "Mayor, F. M. (Flora Macdonald), 1872-1932",
+    "gutenbergReference": "27071",
+    "hash": "1a60391b1296c7fcb1c38945e4c5807d6a28903ca415d41aa877fc970c40a01c"
   },
   {
     "time": "09:35",
@@ -81,6 +21,86 @@
   },
   {
     "time": "09:35",
+    "quoteFirst": "\"It is now ",
+    "quoteTime": "twenty-five minutes to ten",
+    "quoteLast": ",\" he said.",
+    "title": "The Blue Germ",
+    "author": "Nicoll, Maurice, 1884-1953",
+    "gutenbergReference": "26852",
+    "hash": "f6b003a6a9be56b9c3c614dff95334acc9a7b0195dc0fc9101e2a32ae14d086f"
+  },
+  {
+    "time": "09:35",
+    "quoteFirst": "At ",
+    "quoteTime": "9.35 A.M.",
+    "quoteLast": " proceeded in  formation at 12 knots.",
+    "title": "The Corsair in the war zone",
+    "author": "Paine, Ralph Delahaye, 1871-1925",
+    "gutenbergReference": "72760",
+    "hash": "da0bdabbab0e310b5257856a1aab27d0ccb7b7cc258e7bcfbaeded6b8d8e5522"
+  },
+  {
+    "time": "09:35",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-five minutes to ten in the morning",
+    "quoteLast": " you are suddenly attacked also by a platoon of infantry from the direction of Herman.",
+    "title": "The English of military communications",
+    "author": "Ganoe, William Addleman, 1881-1966",
+    "gutenbergReference": "71741",
+    "hash": "05c3d0fbc1e9e0c4c227d08ef61298f1533354318e129f305387e7625fb11333"
+  },
+  {
+    "time": "09:35",
+    "quoteFirst": "\"First flowing, 9.20 A.M. to ",
+    "quoteTime": "9.35 A.M.",
+    "quoteLast": "; length, 15 minutes.",
+    "title": "Wonders of the Yellowstone",
+    "author": "Richardson, James (Geologist)",
+    "gutenbergReference": "46911",
+    "hash": "19f665d10fd1b62741e1ea69663a56ba10963cfa719486d08084df06bfe39a2f"
+  },
+  {
+    "time": "09:35",
+    "quoteFirst": "Pilot Trent V. Fry left Chicago at ",
+    "quoteTime": "9.35 A. M.",
+    "quoteLast": ", and arrived at Cleveland at 12.48 P. M., in a rebuilt D. H. 4, carrying 450 pounds of mail.",
+    "title": "Aircraft",
+    "author": "David, Evan John, 1877-1961",
+    "gutenbergReference": "74358",
+    "hash": "f13dc9853c682008a3d64864158868a08f284006d1e38ddd3bb43a8aa43c47df"
+  },
+  {
+    "time": "09:35",
+    "quoteFirst": "At ",
+    "quoteTime": "9.35 A.M.",
+    "quoteLast": ", while most of the men were at Sunday inspection, the enemy’s ships were discovered slowly steaming down the narrow channel of the harbor.",
+    "title": "Decisive Battles of America",
+    "author": "Hitchcock, Ripley, 1857-1918 [Editor]",
+    "gutenbergReference": "57899",
+    "hash": "f93a3cccc561f06fa9234aefc7183ebefd2000cc55e9dc6c40019c0966c6cd20"
+  },
+  {
+    "time": "09:35",
+    "quoteFirst": "Counter-attacks were immediately organized and, in connection with this, D Company of the Buffs was, at ",
+    "quoteTime": "9.35 a.m.",
+    "quoteLast": ", sent up to occupy the northern defences of the village of Thiepval, and at 1.25 this company got orders to send two platoons to act in conjunction with the East Surrey in attacking and capturing the Schwaben Redoubt.",
+    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
+    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
+    "gutenbergReference": "73159",
+    "hash": "e02db9f699a05cf733f846a8fbe1ec5e4143dcd12a1b46d3064554ff48d4a946"
+  },
+  {
+    "time": "09:35",
+    "quoteFirst": "Counter-attacks were immediately organized and, in connection with this, D Company of the Buffs was, at ",
+    "quoteTime": "9.35 a.m.",
+    "quoteLast": ", sent up to occupy the northern defences of the village of Thiepval, and at 1.25 this company got orders to send two platoons to act in conjunction with the East Surrey in attacking and capturing the Schwaben Redoubt.",
+    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
+    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
+    "gutenbergReference": "73159",
+    "hash": "e02db9f699a05cf733f846a8fbe1ec5e4143dcd12a1b46d3064554ff48d4a946"
+  },
+  {
+    "time": "09:35",
     "quoteFirst": "It was ",
     "quoteTime": "twenty-five minutes to ten",
     "quoteLast": ", and at ten the magistrate would be knocking at the door.",
@@ -91,12 +111,92 @@
   },
   {
     "time": "09:35",
-    "quoteFirst": "“It was two minutes to nine when the taxi stopped,” replied Thorndyke; “and, as it is now only ",
+    "quoteFirst": "Pilot Trent V. Fry left Chicago at ",
+    "quoteTime": "9.35 A. M.",
+    "quoteLast": ", and arrived at Cleveland at 12.48 P. M., in a rebuilt D. H. 4, carrying 450 pounds of mail.",
+    "title": "Aircraft",
+    "author": "David, Evan John, 1877-1961",
+    "gutenbergReference": "74358",
+    "hash": "f13dc9853c682008a3d64864158868a08f284006d1e38ddd3bb43a8aa43c47df"
+  },
+  {
+    "time": "09:35",
+    "quoteFirst": "\"First flowing, 9.20 A.M. to ",
+    "quoteTime": "9.35 A.M.",
+    "quoteLast": "; length, 15 minutes.",
+    "title": "Wonders of the Yellowstone",
+    "author": "Richardson, James (Geologist)",
+    "gutenbergReference": "46911",
+    "hash": "19f665d10fd1b62741e1ea69663a56ba10963cfa719486d08084df06bfe39a2f"
+  },
+  {
+    "time": "09:35",
+    "quoteFirst": "In the course of the day fifty-five mail bags are forwarded, containing about 20,000 letters; the trains used being those leaving at 3.10 a.m., 7.50 a.m., ",
+    "quoteTime": "9.35 a.m.",
+    "quoteLast": ", 11.40 a.m., 12.13 p.m., 1.54 p.m., 3.0 p.m., 3.43 p.m., 4.45 p.m., 7.22 p.m., and 12.45 a.m. So numerous are the London and \"London forward\" letters in the evening, that three clerks are engaged from 5.0 p.m. to midnight in sorting them.",
+    "title": "The Bristol Royal Mail: Post, Telegraph, and Telephone",
+    "author": "Tombs, Robert Charles, 1842-1923",
+    "gutenbergReference": "34197",
+    "hash": "4716b8d28c1915d49704abb299d34c0c9ad8d2149e2e6eb5b930cf48f5ec1398"
+  },
+  {
+    "time": "09:35",
+    "quoteFirst": "\"_Malolos_, January 4, 1899, ",
+    "quoteTime": "9.35 A.M.",
+    "quoteLast": "",
+    "title": "The Philippines: Past and Present (Volume 1 of 2)",
+    "author": "Worcester, Dean C. (Dean Conant), 1866-1924",
+    "gutenbergReference": "12077",
+    "hash": "ee9b3cd08ad6caab2c068a47627df16a3e46c8bc41de3c277ab6eca0a34e8a18"
+  },
+  {
+    "time": "09:35",
+    "quoteFirst": "Esther Crozier, who commenced on Wednesday (29th of October, 1817) morning, on the Croydon road, to walk 1000 miles in 20 days, completed 50 miles that evening, at ",
+    "quoteTime": "35 minutes past 9",
+    "quoteLast": ".",
+    "title": "Social England under the Regency, Vol. 2 (of 2)",
+    "author": "Ashton, John, 1834-1911",
+    "gutenbergReference": "48780",
+    "hash": "07cd7da225b5153d4645994427be84e40c92b92dd18f95b03d855a6d4e13b387"
+  },
+  {
+    "time": "09:35",
+    "quoteFirst": "Pilot Trent V. Fry left Chicago at ",
+    "quoteTime": "9.35 A. M.",
+    "quoteLast": ", and arrived at Cleveland at 12.48 P. M., in a rebuilt D. H. 4, carrying 450 pounds of mail.",
+    "title": "Aircraft",
+    "author": "David, Evan John, 1877-1961",
+    "gutenbergReference": "74358",
+    "hash": "f13dc9853c682008a3d64864158868a08f284006d1e38ddd3bb43a8aa43c47df"
+  },
+  {
+    "time": "09:35",
+    "quoteFirst": "operates regular daily automobile service to the park from the following places: Denver, leaving at 8:45 a.m. and 2:30 p.m.; Greeley, 9:15 a.m.; Fort Collins, 7:45 a.m.; Loveland, 9:50 a.m.; Longmont, 9:45 a.m.; Lyons, 11:30 a.m.; Boulder, ",
+    "quoteTime": "9:35 a.m.",
+    "quoteLast": " Corresponding return service from Estes Park is available, return trips for Denver starting from Estes Park at 8:15 a.m. and 1:45 p.m.",
+    "title": "Rocky Mountain National Park [Colorado]",
+    "author": "United States. Department of the Interior",
+    "gutenbergReference": "37918",
+    "hash": "af420862967e766fc1cc2dec644d7be9d793245cdf14751ce0b77374bfc88a94"
+  },
+  {
+    "time": "09:35",
+    "quoteFirst": "“Only ",
     "quoteTime": "twenty-five minutes to ten",
-    "quoteLast": ", we have good time if Mr. Meade can spare us the taxi. I have the address.”",
-    "title": "The magic casket",
-    "author": "Freeman, R. Austin (Richard Austin), 1862-1943",
-    "gutenbergReference": "76919",
-    "hash": "905de01206808749398073d1087b27c941c6e7f659e015a017ec4eaabe43def7"
+    "quoteLast": ". The beauty contest must just have begun. She’s awfully tiny, isn’t she?”",
+    "title": "Marjorie Dean Macy's Hamilton Colony",
+    "author": "Chase, Josephine, -1931",
+    "gutenbergReference": "53987",
+    "hash": "128ef7ba15107e5a55cdd62226ddff1b1b353af27188fdb30a1375c5f414987a"
+  },
+  {
+    "time": "09:35",
+    "quoteFirst": "According to your own story, you must have heard that scream between nine-thirty and ",
+    "quoteTime": "twenty-five minutes to ten",
+    "quoteLast": ", granting that you spent three or four minutes on the cottage porch and took ten minutes to walk back to the house.",
+    "title": "The Bellamy trial",
+    "author": "Hart, Frances Noyes, 1890-1943",
+    "gutenbergReference": "75325",
+    "hash": "5bdcc213e929e28a82b11afaceae571dd111caf8d2929d281e18112d420856cd"
   }
 ]

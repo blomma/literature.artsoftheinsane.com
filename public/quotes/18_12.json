@@ -1,13 +1,43 @@
 [
   {
     "time": "18:12",
-    "quoteFirst": "The Astronomer Royal has fixed the Greenwich time at ",
-    "quoteTime": "twelve past six",
-    "quoteLast": ".",
-    "title": "The Poison Belt",
-    "author": "Doyle, Arthur Conan, 1859-1930",
-    "gutenbergReference": "126",
-    "hash": "e9f2127282f5198f4d09363bc9aa95dd6696b2429e20bc0864d497aee027e6ee"
+    "quoteFirst": "There was a long running fight in which the _Mikasa_ greatly distinguished herself, and at ",
+    "quoteTime": "6.12 P.M.",
+    "quoteLast": " a 12-inch shell came aboard her and burst close to her bridge on the port side.",
+    "title": "Makers of Japan",
+    "author": "Morris, J. (John) (Writer on Japan)",
+    "gutenbergReference": "70710",
+    "hash": "80af839840e8ed4524eda0988e36dbe0f1129468359e8e71e38dd39e15ace59b"
+  },
+  {
+    "time": "18:12",
+    "quoteFirst": "Wednesday ",
+    "quoteTime": "6:12 P.M.",
+    "quoteLast": "",
+    "title": "Project Daedalus",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34320",
+    "hash": "9bd7f9c679ea24e76f3bd8f1ed656c1bec09b784fe980a4ec6507e454f129d3a"
+  },
+  {
+    "time": "18:12",
+    "quoteFirst": "Meanwhile, has it occurred to you that the time is ",
+    "quoteTime": "twelve minutes past six",
+    "quoteLast": " and that if we want food we’d better get a move on us?",
+    "title": "Right Tackle Todd",
+    "author": "Barbour, Ralph Henry, 1870-1944; Crump, Leslie, 1894-1962 [Illustrator]",
+    "gutenbergReference": "53518",
+    "hash": "000e88fb89c13ce202736980327f5ff760c4f853ffb29541f3febf364bb6be1f"
+  },
+  {
+    "time": "18:12",
+    "quoteFirst": "He did not touch the earth till ",
+    "quoteTime": "6.12 p.m.",
+    "quoteLast": ", having been in the air for twenty-four hours and twelve minutes.",
+    "title": "Aircraft in war",
+    "author": "Bruce, Eric Stuart, 1855-1935",
+    "gutenbergReference": "71736",
+    "hash": "d7c946a0c4414703eb96991f2c2c107c0aa6ccc63282f7bc2dcd92c31022c492"
   },
   {
     "time": "18:12",
@@ -21,6 +51,16 @@
   },
   {
     "time": "18:12",
+    "quoteFirst": "On June 21, at ",
+    "quoteTime": "6.12 p. m.",
+    "quoteLast": ", the young were fully fledged in green plumage above and dirty yellow beneath.",
+    "title": "Life histories of North American wood warblers, Part 1 (of 2)",
+    "author": "Bent, Arthur Cleveland, 1866-1954; Tyler, Winsor Marrett, 1876-1954 [Contributor]",
+    "gutenbergReference": "40100",
+    "hash": "d6cf0fbc993df662965515fa3bc6f12479be8098d8d60ede03c91d5191a84b21"
+  },
+  {
+    "time": "18:12",
     "quoteFirst": "At ",
     "quoteTime": "12 Minutes past 6",
     "quoteLast": ", as is shewn by the 8th Figure.",
@@ -28,6 +68,46 @@
     "author": "Jackson, Mason, 1819-1903",
     "gutenbergReference": "36417",
     "hash": "70890740f502e7744bd6371a19c48ddf0ff555dba4d080370710b6b210159913"
+  },
+  {
+    "time": "18:12",
+    "quoteFirst": "Nevertheless I was forced to ask, because the entire Quarter is being searched for the man who, at ",
+    "quoteTime": "twelve minutes past six",
+    "quoteLast": " to-night, shot and instantly killed Major Ternoff, assistant secretary of police, as he was driving, in his open droschky, through the Pretchishlensky Boulevard, from the public offices of justice towards his home.\" And, with a stiff salute, the sergeant, followed by his three men, turned and left the room and the apartment.",
+    "title": "The Genius",
+    "author": "Potter, Margaret Horton, 1881-1911",
+    "gutenbergReference": "22004",
+    "hash": "f6d703c2bf4aeac7968a537320ece432f5422b0f0683a7509a0f74b4ceaf5083"
+  },
+  {
+    "time": "18:12",
+    "quoteFirst": "The Astronomer Royal has fixed the Greenwich time at ",
+    "quoteTime": "twelve past six",
+    "quoteLast": ".",
+    "title": "The Poison Belt",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "gutenbergReference": "126",
+    "hash": "e9f2127282f5198f4d09363bc9aa95dd6696b2429e20bc0864d497aee027e6ee"
+  },
+  {
+    "time": "18:12",
+    "quoteFirst": "His wife      and children had not the mournful consolation to hear his last      words; he remained sotto voce for a few hours, and then was taken      from us at ",
+    "quoteTime": "6.12 P.m.",
+    "quoteLast": "  according to the caprice of God which passeth      understanding.\"",
+    "title": "The Entire Project Gutenberg Works of Mark Twain",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3200",
+    "hash": "1039c2076b90c657b387a10b084f0bcdd8450dd34fb0a603194dba70b899cd31"
+  },
+  {
+    "time": "18:12",
+    "quoteFirst": "; first quarter, 21st, at ",
+    "quoteTime": "6:12 p. m.",
+    "quoteLast": "; full moon, 29th, at 1:06 a.",
+    "title": "The Chautauquan, Vol. 05, April 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55061",
+    "hash": "7f10b888a22a7e1715477ff957fbf6f2a2bf8f688f7ad13378a93fab712ddea3"
   },
   {
     "time": "18:12",
@@ -43,51 +123,11 @@
     "time": "18:12",
     "quoteFirst": "His wife      and children had not the mournful consolation to hear his last      words; he remained sotto voce for a few hours, and then was taken      from us at ",
     "quoteTime": "6.12 P.m.",
-    "quoteLast": "  according to the caprice of God which passeth      understanding.”",
-    "title": "Following the Equator: A Journey Around the World",
+    "quoteLast": "  according to the caprice of God which passeth      understanding.\"",
+    "title": "Following the Equator: A Journey Around the World. Part 7",
     "author": "Twain, Mark, 1835-1910",
-    "gutenbergReference": "2895",
-    "hash": "c18fec127f30b81588271de2c8b2bea9be65117de5872a383525e95d58f3345e"
-  },
-  {
-    "time": "18:12",
-    "quoteFirst": "; first quarter, 21st, at ",
-    "quoteTime": "6:12 p. m.",
-    "quoteLast": "; full moon, 29th, at 1:06 a.",
-    "title": "The Chautauquan, Vol. 05, April 1885",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55061",
-    "hash": "7f10b888a22a7e1715477ff957fbf6f2a2bf8f688f7ad13378a93fab712ddea3"
-  },
-  {
-    "time": "18:12",
-    "quoteFirst": "Nevertheless I was forced to ask, because the entire Quarter is being searched for the man who, at ",
-    "quoteTime": "twelve minutes past six",
-    "quoteLast": " to-night, shot and instantly killed Major Ternoff, assistant secretary of police, as he was driving, in his open droschky, through the Pretchishlensky Boulevard, from the public offices of justice towards his home.\" And, with a stiff salute, the sergeant, followed by his three men, turned and left the room and the apartment.",
-    "title": "The Genius",
-    "author": "Potter, Margaret Horton, 1881-1911",
-    "gutenbergReference": "22004",
-    "hash": "f6d703c2bf4aeac7968a537320ece432f5422b0f0683a7509a0f74b4ceaf5083"
-  },
-  {
-    "time": "18:12",
-    "quoteFirst": "; first quarter, 21st, at ",
-    "quoteTime": "6:12 p. m.",
-    "quoteLast": "; full moon, 29th, at 1:06 a.",
-    "title": "The Chautauquan, Vol. 05, April 1885",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55061",
-    "hash": "7f10b888a22a7e1715477ff957fbf6f2a2bf8f688f7ad13378a93fab712ddea3"
-  },
-  {
-    "time": "18:12",
-    "quoteFirst": "He did not touch the earth till ",
-    "quoteTime": "6.12 p.m.",
-    "quoteLast": ", having been in the air for twenty-four hours and twelve minutes.",
-    "title": "Aircraft in war",
-    "author": "Bruce, Eric Stuart, 1855-1935",
-    "gutenbergReference": "71736",
-    "hash": "d7c946a0c4414703eb96991f2c2c107c0aa6ccc63282f7bc2dcd92c31022c492"
+    "gutenbergReference": "5814",
+    "hash": "a4a18dd16ff873fa5ae853c4274810a25f68c5d459de44edcebcd5f51d353b8a"
   },
   {
     "time": "18:12",
@@ -98,5 +138,15 @@
     "author": "Fletcher, Horace, 1849-1919; Higgins, Hubert [Contributor]; Someren, Ernest van [Contributor]",
     "gutenbergReference": "67326",
     "hash": "fd9bd72b2ac498be08cdc2104803f76f3c15e522e01910701742afe8d73aa3b3"
+  },
+  {
+    "time": "18:12",
+    "quoteFirst": "Here the operation is continued by the deeper constrictions till, finally (in this instance at ",
+    "quoteTime": "6.12 P.M.",
+    "quoteLast": "), with the exception of a slight trace of food in the fundus, nothing is to be seen in the stomach at all.",
+    "title": "The A.B.-Z. of our own nutrition",
+    "author": "Fletcher, Horace, 1849-1919; Higgins, Hubert [Contributor]; Someren, Ernest van [Contributor]",
+    "gutenbergReference": "67326",
+    "hash": "57a3f22a06fce50c72bbd5ccd55af4b5aeff3e926198252c3fb0c9c37fb0ef97"
   }
 ]

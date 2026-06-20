@@ -11,6 +11,16 @@
   },
   {
     "time": "06:32",
+    "quoteFirst": "",
+    "quoteTime": "6.32 A.M.",
+    "quoteLast": "—        At point 1800 metres north of Feuquieres, two companies on        outpost, one facing north and the other northeast, astride the        Feuquieres-Sarcus road.",
+    "title": "The Aeroplane in War",
+    "author": "Grahame-White, Claude, 1879-1959; Harper, Harry, 1880-1960",
+    "gutenbergReference": "63597",
+    "hash": "d17db441b5adcb286aec278c660a5e134746fb77f16a40d89ab79d4d7a29d319"
+  },
+  {
+    "time": "06:32",
     "quoteFirst": "Rises on the 1st at ",
     "quoteTime": "6:32 a. m.",
     "quoteLast": " and sets at 5:24 p.",
@@ -18,15 +28,5 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55060",
     "hash": "8bf72574886e9e59bc09dafea88ebeee1d6e6ffd626e9e7f4eb8f1a18af01674"
-  },
-  {
-    "time": "06:32",
-    "quoteFirst": "—Letters from LONDON and all parts arrive (from WELLINGTON), every morning at ",
-    "quoteTime": "twenty-eight minutes before seven",
-    "quoteLast": ", and are despatched thereto at seven in the evening.",
-    "title": "Slater's [1859] Shropshire Directory",
-    "author": "Slater, I. (Isaac), 1803-1883",
-    "gutenbergReference": "60729",
-    "hash": "41fc331c48a4d1553ff0c0952d74f5f5973d7699538ed958a99afa57ba9830bf"
   }
 ]

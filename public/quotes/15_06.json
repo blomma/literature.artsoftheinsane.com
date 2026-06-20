@@ -1,6 +1,26 @@
 [
   {
     "time": "15:06",
+    "quoteFirst": "By five or ",
+    "quoteTime": "six minutes past three",
+    "quoteLast": " it was all done completely, and it was the work of a wicked old mule.",
+    "title": "Two Arrows: A Story of Red and White",
+    "author": "Stoddard, William O., 1835-1925",
+    "gutenbergReference": "29616",
+    "hash": "ec5d54fd8d3fd15b72e1486c12c371cf25aa972663b3f492f2341f197e9e5734"
+  },
+  {
+    "time": "15:06",
+    "quoteFirst": "By five or ",
+    "quoteTime": "six minutes past three",
+    "quoteLast": " all of that herd were racing westward, with boys and men getting out of breath behind it, and all the squaws in the camp were holding hard upon the lariats of the ponies tethered among the lodges.",
+    "title": "Two Arrows: A Story of Red and White",
+    "author": "Stoddard, William O., 1835-1925",
+    "gutenbergReference": "29616",
+    "hash": "6c47b01a1b4c07655ca8690b99315c88087b035e16966c42812ea889a22e4c21"
+  },
+  {
+    "time": "15:06",
     "quoteFirst": "He grew rapidly worse and passed away at ",
     "quoteTime": "3.06 P.M.",
     "quoteLast": " on Tuesday, leaving a vacancy in our midst which will be hard to fill, if at all.",
@@ -68,5 +88,15 @@
     "author": "Johnston, William, 1871-1929",
     "gutenbergReference": "11240",
     "hash": "93b18ed7a052b2f24a7aade49840d5bfc48380443e076a38ed45a584b062f389"
+  },
+  {
+    "time": "15:06",
+    "quoteFirst": "\"",
+    "quoteTime": "Six minutes past three",
+    "quoteLast": ", and not a sign of them!\"",
+    "title": "When William Came",
+    "author": "Saki, 1870-1916",
+    "gutenbergReference": "14540",
+    "hash": "635114e4daac27803938aba01b9e80469c4f4125e438c109cc5812200dea05e5"
   }
 ]

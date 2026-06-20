@@ -1,102 +1,202 @@
 [
   {
     "time": "01:59",
-    "quoteFirst": "",
-    "quoteTime": "About two o'clock A.M.",
-    "quoteLast": " I was awoke by a very heavy storm of rain and wind, attended with loud peals of thunder.",
-    "title": "Personal Memoirs of a Residence of Thirty Years with the Indian Tribes on the American Frontiers",
-    "author": "Schoolcraft, Henry Rowe, 1793-1864",
-    "gutenbergReference": "11119",
-    "hash": "92b364c0669d3c16bc08fc571a2f02201049673fe661da7f7cb089f5d65f3d48"
+    "quoteFirst": ", and then one meal at ",
+    "quoteTime": "about two a. m.",
+    "quoteLast": "; none until six or seven a.",
+    "title": "Mother's Remedies\r\nOver One Thousand Tried and Tested Remedies from Mothers of the United States and Canada",
+    "author": "Ritter, Thomas Jefferson, 1855-",
+    "gutenbergReference": "17439",
+    "hash": "01e2298f4e609d0154069ddfb32ac4d34d92603223a4519f6f91a5170e81f1f8"
   },
   {
     "time": "01:59",
-    "quoteFirst": "Owing to this detention, he was prevented from meeting Mr. Gorsuch and his friends at the appointed time, and when he reached Penningtonville, ",
+    "quoteFirst": "The attack was repulsed all along the line, finally dying away at ",
+    "quoteTime": "about 2 a.m.",
+    "quoteLast": " Two hours later they had another try to push us over the ridge, advancing under cover of the heaviest artillery fire we have so far experienced.",
+    "title": "On the Anzac trail: Being extracts from the diary of a New Zealand sapper",
+    "author": "Anzac",
+    "gutenbergReference": "68345",
+    "hash": "ecb619adadaa88e369513205a3f9bca0cedded083f96e6541089bbd03d96a465"
+  },
+  {
+    "time": "01:59",
+    "quoteFirst": "This we certainly did, as we rose ",
+    "quoteTime": "about 2 a.m.",
+    "quoteLast": ", and had finished breakfast by 3 a.m. About 6 a.m. we moved down to the railway line between Anzin and St. Aubin--Artillery Point was the name of the spot--and entrained.",
+    "title": "The History of the 2/6th (Rifle) Battalion, \"the King's\" (Liverpool Regiment) 1914-1919",
+    "author": "Wurtzburg, C. E. (Charles Edward), 1891-1952",
+    "gutenbergReference": "49875",
+    "hash": "e36d759b8f06f58003240de76c7774a5750d75eda3721afbd7931d97aa9ec1dd"
+  },
+  {
+    "time": "01:59",
+    "quoteFirst": "Avkzentieff, Argunoff, Rogovsky, and Zenzinoff) and the Russian guard, together with a detachment of British troops under my command, left Omsk ",
     "quoteTime": "about 2 A.M.",
-    "quoteLast": " on the 10th of September, they had gone.",
-    "title": "The Atlantic Monthly, Volume 17, No. 101, March, 1866\r\nA Magazine of Literature, Science, Art, and Politics",
-    "author": "Various",
-    "gutenbergReference": "21288",
-    "hash": "dcb8b990bf025dbc917c0cc8c3b078bc112e3b2f96eb4e17913fadd8e4aed143"
+    "quoteLast": " on November 21, and arrived at Harbin on November 27.",
+    "title": "With the \"Die-Hards\" in Siberia",
+    "author": "Ward, John, 1866-1934",
+    "gutenbergReference": "10972",
+    "hash": "a40a6c272e6c9e97455ee1fa47ac7194ccb54b6e113b4bcfc06f60ce7d07ebbd"
   },
   {
     "time": "01:59",
-    "quoteFirst": "The trench round the tent must be well looked to, the lines tightened, and the ponies tethered, as it is rather disagreeable to be awakened ",
+    "quoteFirst": "On the 14th of September, at ",
+    "quoteTime": "about 2 A. M.",
+    "quoteLast": ", he reached an eminence about half a mile from the Fort.",
+    "title": "Fort Duquesne and Fort Pitt; Early Names of Pittsburgh Streets",
+    "author": "Daughters of the American Revolution. Pittsburgh Chapter (Pittsburgh, Pa.)",
+    "gutenbergReference": "40037",
+    "hash": "469b07771b98f03042fe9cde151e580f9ed96bee8628e6d304b26eb340a29824"
+  },
+  {
+    "time": "01:59",
+    "quoteFirst": "At ",
+    "quoteTime": "about two o'clock",
+    "quoteLast": " in the morning, soon after we had returned, we were all having a much-needed sleep, for we were worn out with constant coming and going day and night.",
+    "title": "With the Zionists in Gallipoli",
+    "author": "Patterson, J. H. (John Henry), 1867-1947",
+    "gutenbergReference": "41248",
+    "hash": "2f2a35562b55bcb5cf515928987c0b2b3a8285a1560d487645d64ac8f498ba10"
+  },
+  {
+    "time": "01:59",
+    "quoteFirst": "On the night of November 12, 1916, I was trying to get some sleep in my cellar at Hébuterne when ",
     "quoteTime": "about two A.M.",
-    "quoteLast": " by a storm of rain and wind, and to discover your pony, with his linked fore-legs well tangled in tent lines, doing his best to pull down the whole concern on the heads of the occupants.",
-    "title": "\"Gamle Norge\": Rambles and Scrambles in Norway",
-    "author": "Pritchett, R. T. (Robert Taylor), 1828-1907",
-    "gutenbergReference": "63851",
-    "hash": "ce21740e7373429f53897a4748808b80bf893e792b5f77f720499dad1cc2034c"
+    "quoteLast": " a motorcycle despatch-rider awakened me and handed me the following message, marked \"Secret and Confidential.\"",
+    "title": "Fighting the Boche Underground",
+    "author": "Trounce, H. D. (Harry Davis), 1885-",
+    "gutenbergReference": "46757",
+    "hash": "d7ef56d418e22d44a7d731bdaae35aad8c22dad71cd5a71f3d7be450d8862141"
   },
   {
     "time": "01:59",
-    "quoteFirst": "The road being clear at nine o'clock, the army marched; the First Corps, in advance, crossed ",
-    "quoteTime": "about two A.M.",
-    "quoteLast": " on the 19th, awaited to guard the crossing, and at daylight was deployed on the south side.",
-    "title": "From Manassas to Appomattox: Memoirs of the Civil War in America",
-    "author": "Longstreet, James, 1821-1904",
-    "gutenbergReference": "38418",
-    "hash": "83d8fe365d79813a5ca86d869f81cba3177e54e223621afa0b9f02d729f01841"
-  },
-  {
-    "time": "01:59",
-    "quoteFirst": "We arrived in Tampico ",
-    "quoteTime": "about two A.M.",
-    "quoteLast": " on the second night.",
-    "title": "My American Diary",
-    "author": "Sheridan, Clare, 1885-1970",
-    "gutenbergReference": "59066",
-    "hash": "5aa91108a221fd5e69774d8f5f223c3b59c20d170c644fb8904be91d0c99484f"
-  },
-  {
-    "time": "01:59",
-    "quoteFirst": "The rebel army, commanded by General Albert Sidney Johnston, was, according to their own reports and admissions, forty-five thousand strong, had the momentum of attack, and beyond all question fought skillfully from early morning till ",
-    "quoteTime": "about 2 a.m.",
-    "quoteLast": ", when their commander-in-chief was killed by a Mini-ball in the calf of his leg, which penetrated the boot and severed the main artery.",
-    "title": "Memoirs of the Union's Three Great Civil War Generals",
-    "author": "Grant, Ulysses S. (Ulysses Simpson), 1822-1885; Sheridan, Philip Henry, 1831-1888; Sherman, William T. (William Tecumseh), 1820-1891; Widger, David, 1932-2021? [Editor]",
-    "gutenbergReference": "4546",
-    "hash": "1d46414809fe3db2fdf2ad90692543ba083b03d3a8ea4768fe6c250493cb0d20"
+    "quoteFirst": "We find Surratt's name on the hotel register at Montreal, where he arrived at ",
+    "quoteTime": "about two o'clock",
+    "quoteLast": " on the 18th of April, he having been absent from that place from the 12th.",
+    "title": "Assassination of Lincoln: a History of the Great Conspiracy\r\nTrial of the Conspirators by a Military Commission, and a Review of the Trial of John H. Surratt",
+    "author": "Harris, T. M. (Thomas Mealey), 1817-1906",
+    "gutenbergReference": "42855",
+    "hash": "9989f5c607ba9e10ea6f4027979540318c6f6195b241667ba4a6803852eb3729"
   },
   {
     "time": "01:59",
     "quoteFirst": "",
-    "quoteTime": "About 2 a.m.",
-    "quoteLast": " on Saturday (2nd) we started, and arrived there a little after 4 a.m. We then took on the Welland Field Battery, numbering 59 men and 3 officers, commanded by Capt.",
-    "title": "Troublous Times in Canada\nA History of the Fenian Raids of 1866 and 1870",
-    "author": "MacDonald, John A. (John Alexander), 1846-1922",
-    "gutenbergReference": "19599",
-    "hash": "6628aeeb7bb0191a010d0faccdbe61b7d9bb29cbd087db9facea91d1f6d8e667"
+    "quoteTime": "About 2 A.M.",
+    "quoteLast": " the next morning there came a loud knock at the grandparents’ house.",
+    "title": "Tales of the R.I.C.",
+    "author": "Unknown [Adapter]",
+    "gutenbergReference": "53324",
+    "hash": "dbdd03d0df69bddde8ee21ec4fa1eaddf47b7fad6765de706d22e29decd75529"
   },
   {
     "time": "01:59",
-    "quoteFirst": "But we decided that it was too early for the wiring, so Moore and I sat talking and smoking until ",
+    "quoteFirst": "Now it so happened that Billy MacLaggan was not killed at all, for ",
+    "quoteTime": "about two o'clock",
+    "quoteLast": " in the morning, as Bully Hayes and Tom Denison were sitting on the verandah of the former's house at Matautu Point, drinking brandy and soda, and dabbing arnica bandages on their various contusions, Pilot Hamilton hailed them from the front gate.",
+    "title": "By Rock and Pool on an Austral Shore, and Other Stories",
+    "author": "Becke, Louis, 1855-1913",
+    "gutenbergReference": "12798",
+    "hash": "b80b8a81f2a881608f419846c83c31ddb3ad355be0112e8b22cd63d51d615b58"
+  },
+  {
+    "time": "01:59",
+    "quoteFirst": "He had dressed at home but not dined there and had seen nothing of his father until very late, ",
+    "quoteTime": "about two o'clock",
+    "quoteLast": " in the morning, when he noticed a light in his room as he passed on the way to his own.",
+    "title": "Mary Wollaston",
+    "author": "Webster, Henry Kitchell, 1875-1932",
+    "gutenbergReference": "11161",
+    "hash": "b7a4a48a1a569871dc6b8c4319c6e35a5b520dd6293510dfff0a53b072adcc7f"
+  },
+  {
+    "time": "01:59",
+    "quoteFirst": "",
+    "quoteTime": "About 2 A.M.",
+    "quoteLast": " we came in sight of the big prison camp at Dulmen.",
+    "title": "Into the Jaws of Death",
+    "author": "O'Brien, Jack",
+    "gutenbergReference": "18963",
+    "hash": "79f00510fe60307ad3835e639f88ff7236f16b267b02f4dad0d2e19dba83b201"
+  },
+  {
+    "time": "01:59",
+    "quoteFirst": "Along ",
+    "quoteTime": "about two o'clock",
+    "quoteLast": " a taxicab came putt-putting up the street, stopped at the corner, and two men carrying black bags hopped out.",
+    "title": "On Secret Service\r\nDetective-Mystery Stories Based on Real Cases Solved by Government Agents",
+    "author": "Taft, William Nelson",
+    "gutenbergReference": "38131",
+    "hash": "6ae6ab3fcc382d35e8c6efdb1cbbda03097ef175f65b5e46175a07cbd349ef50"
+  },
+  {
+    "time": "01:59",
+    "quoteFirst": "By the time we had landed from the steamer, and the servants had discovered the whereabouts of our camels and luggage, it was ",
+    "quoteTime": "nearly two o'clock",
+    "quoteLast": ", and the camp had practically broken up.",
+    "title": "The Downfall of the Dervishes; or, The Avenging of Gordon",
+    "author": "Bennett, E. N. (Ernest Nathaniel), Sir, 1868-1947",
+    "gutenbergReference": "51520",
+    "hash": "732fc134d5ed3a40e5a4f48ccf22102e2968c154eda20af019ba99cb1ffc3b45"
+  },
+  {
+    "time": "01:59",
+    "quoteFirst": "He left Boston at ",
+    "quoteTime": "about two o'clock",
+    "quoteLast": ", in a carriage provided by the State for his accommodation, and attended by the committee of arrangements of the city, and by the Governor's aids, who waited on him to the bounds of Connecticut.",
+    "title": "Memoirs of General Lafayette\r\nWith an Account of His Visit to America and His Reception By the People of the United States; From His Arrival, August 15th, to the Celebration at Yorktown, October 19th, 1824.",
+    "author": "Knapp, Samuel L. (Samuel Lorenzo), 1783-1838; Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 [Contributor]",
+    "gutenbergReference": "7449",
+    "hash": "c2b9ba3319c99b5ae4a3f6501af78b6cadbd78947a20602a925ee00dc734f7d6"
+  },
+  {
+    "time": "01:59",
+    "quoteFirst": "When I awoke the sun was up, and upon inquiry I was informed that ",
+    "quoteTime": "about two o'clock",
+    "quoteLast": " in the morning a message was received from headquarters countermanding the order for the assault.",
+    "title": "Civil War Experiences\r\nunder Bayard, Gregg, Kilpatrick, Custer, Raulston, and Newberry, 1862, 1863, 1864",
+    "author": "Meyer, Henry C. (Henry Coddington), 1844-1935",
+    "gutenbergReference": "33280",
+    "hash": "b9d900258070d68467c5c7d828d360eac2e5e0f8902043f3670349cc86c1f9c3"
+  },
+  {
+    "time": "01:59",
+    "quoteFirst": ", and then one meal at ",
+    "quoteTime": "about two a. m.",
+    "quoteLast": "; none until six or seven a.",
+    "title": "Mother's Remedies\r\nOver One Thousand Tried and Tested Remedies from Mothers of the United States and Canada",
+    "author": "Ritter, Thomas Jefferson, 1855-",
+    "gutenbergReference": "17439",
+    "hash": "01e2298f4e609d0154069ddfb32ac4d34d92603223a4519f6f91a5170e81f1f8"
+  },
+  {
+    "time": "01:59",
+    "quoteFirst": "",
+    "quoteTime": "About 2 A.M.",
+    "quoteLast": " some one knocked loudly at her door and bade her open, but she lay still and gave no answer.",
+    "title": "Tales of the R.I.C.",
+    "author": "Unknown [Adapter]",
+    "gutenbergReference": "53324",
+    "hash": "e1d44b656b353c1d454686735a1d81c227eb4f1bd1a276302e7c15d1763d6bb6"
+  },
+  {
+    "time": "01:59",
+    "quoteFirst": "As it developed, the game could have been played after all, for the rain ceased and the sun shone out brightly ",
+    "quoteTime": "about two o’clock",
+    "quoteLast": ", but it was then too late to change the arrangements.",
+    "title": "Baseball Joe, champion of the league",
+    "author": "Chadwick, Lester, 1873-1962; Gooch, Thelma, 1895-1973 [Illustrator]",
+    "gutenbergReference": "73737",
+    "hash": "ea7bab2b2e7d27579d30291c206ea1ea74a01662146441820ad3e618f79179b7"
+  },
+  {
+    "time": "01:59",
+    "quoteFirst": "The moon rose about midnight, and as the rain had ceased, we decided to start ",
     "quoteTime": "about 2 a.m.",
-    "quoteLast": " I also called in Larry, and told him that if the buzzer rang at any time in my absence he was to drop everything else and answer it, and to follow Moore’s instructions to the limit.",
-    "title": "The house of the missing",
-    "author": "Gluck, Sinclair, 1887-1956",
-    "gutenbergReference": "73742",
-    "hash": "271f58e655fce96e2a60b3b7b9bf27dc12c6072c6343640f48d16c5e4f669ed7"
-  },
-  {
-    "time": "01:59",
-    "quoteFirst": "We soon approached the Cathedral Hotel, where I alighted ",
-    "quoteTime": "about 2 a.m.",
-    "quoteLast": ", rang up the porter, and was shown to a room.",
-    "title": "Bidwell's Travels, from Wall Street to London Prison: Fifteen Years in Solitude",
-    "author": "Bidwell, Austin",
-    "gutenbergReference": "24739",
-    "hash": "1b1428e80e423360893bbec8427364372a1b2571710695f9f6aac95f33a45e76"
-  },
-  {
-    "time": "01:59",
-    "quoteFirst": "There were grand times ashore that night, and the captain returned on board ",
-    "quoteTime": "about 2 A.M.",
-    "quoteLast": " with some rubber and pissava and two new hands whose appearance fitted them to join our vessel; for a more villainous-looking set than our crew I never laid eye on.",
-    "title": "Travels in West Africa: Congo Français, Corisco and Cameroons",
-    "author": "Kingsley, Mary Henrietta, 1862-1900",
-    "gutenbergReference": "5891",
-    "hash": "be76634925be6636432f543bfba1f1cc42a5501a80bdfd4bceb1413b0a12c73f"
+    "quoteLast": ", leaving our horses and belongings in camp.",
+    "title": "Reminiscences of Queensland, 1862-1869",
+    "author": "Corfield, William Henry, 1843-1927",
+    "gutenbergReference": "27099",
+    "hash": "a1bd29837b16eae4a5b5aa3e22e665449087979655be6a87e6b182c0eebecaba"
   }
 ]

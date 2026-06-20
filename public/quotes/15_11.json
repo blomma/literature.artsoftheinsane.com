@@ -1,6 +1,16 @@
 [
   {
     "time": "15:11",
+    "quoteFirst": "'",
+    "quoteTime": "Eleven minutes past three",
+    "quoteLast": ",' said he, 'and I've a meeting at my house at half-past: so, unless you complete that instrument _now_, I regret to say I must take it back unfinished, and the result may be to defeat the arrangement altogether, and if the consequences should prove serious, I, at least, am not to blame.'",
+    "title": "Wylder's Hand",
+    "author": "Le Fanu, Joseph Sheridan, 1814-1873",
+    "gutenbergReference": "9983",
+    "hash": "c0a41fdc0032de57c3bafd428e8a397f6670a91457033c6ce5f16307f5203fa2"
+  },
+  {
+    "time": "15:11",
     "quoteFirst": "; rises on the 31st at ",
     "quoteTime": "3:11 p. m.",
     "quoteLast": ", and sets on the first day of the new year at 5:47 a.",

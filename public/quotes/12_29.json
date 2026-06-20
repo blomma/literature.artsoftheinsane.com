@@ -1,6 +1,16 @@
 [
   {
     "time": "12:29",
+    "quoteFirst": "",
+    "quoteTime": "12:29 P. M.",
+    "quoteLast": "—Sighted submarine pursuing us on our port quarter,     about 1,500 yards distant.",
+    "title": "History of the U.S.S. Leviathan, cruiser and transport forces, United States Atlantic fleet\r\nCompiled from the ship's log and data gathered by the history committee on board the ship",
+    "author": "U.S.S. Leviathan History Committee",
+    "gutenbergReference": "59699",
+    "hash": "d792ed21c681a77bb5e3030045d6f6c01039bfb24cd8473a3582c86e70f06788"
+  },
+  {
+    "time": "12:29",
     "quoteFirst": "The girl was gone at ",
     "quoteTime": "twenty-nine minutes after twelve",
     "quoteLast": ".",
@@ -8,6 +18,16 @@
     "author": "Lewis, Sinclair, 1885-1951",
     "gutenbergReference": "26732",
     "hash": "065f3ed0f4bd615f5284a3c3d89930fee9e18e927164cb4a87b6c67604de2bb9"
+  },
+  {
+    "time": "12:29",
+    "quoteFirst": "The station agent hauled out his big silver watch, looked at it critically and announced: \"",
+    "quoteTime": "Twenty-nine minutes past twelve",
+    "quoteLast": ".\"",
+    "title": "The Mark of the Knife",
+    "author": "Ernst, Clayton H. (Clayton Holt), 1886-1945; Emerson, Chase, 1874?-1922? [Illustrator]",
+    "gutenbergReference": "30985",
+    "hash": "6a6823be7d54fb93f955e09bd238f2c1c0fe814ed024913ca120a1d6a9f7931d"
   },
   {
     "time": "12:29",

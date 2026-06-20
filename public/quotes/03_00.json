@@ -1,102 +1,202 @@
 [
   {
     "time": "03:00",
+    "quoteFirst": "The signal ",
+    "quoteTime": "at three o’clock",
+    "quoteLast": " “to prepare for battle” was not to be followed by any immediate action.",
+    "title": "Jane Austen's sailor brothers",
+    "author": "Hubback, J. H. (John Henry), 1844-; Hubback, Edith C. (Edith Charlotte), 1876-1945",
+    "gutenbergReference": "69815",
+    "hash": "05c3b64de4f23d58f81075f4f81f2fe967a7a25aa4725330223fffeec3342011"
+  },
+  {
+    "time": "03:00",
+    "quoteFirst": "It was after ",
+    "quoteTime": "three o'clock",
+    "quoteLast": " when Grace left Mrs. Gray at the Tourraine and went back to Harlowe House.",
+    "title": "Grace Harlowe's Problem",
+    "author": "Chase, Josephine, -1931",
+    "gutenbergReference": "20342",
+    "hash": "e4530ed5c9634b640d421daa7fdf4adc710736d4619ad938d09e1484d383cbe3"
+  },
+  {
+    "time": "03:00",
+    "quoteFirst": "From half-past ",
+    "quoteTime": "three o’clock",
+    "quoteLast": " till five it was again possible to brew tea and cook, and from four to six to be in the yard.",
+    "title": "My Escape from Germany",
+    "author": "Keith, Eric A.",
+    "gutenbergReference": "49509",
+    "hash": "8b9b5b838e9e513d6eb8e85f3454fa14f15327f1695a20f616b044646c182a5c"
+  },
+  {
+    "time": "03:00",
     "quoteFirst": "",
     "quoteTime": "At three o’clock",
-    "quoteLast": " this morning in a damp, chill mist all hands were roused to work.",
-    "title": "Memoir of Fleeming Jenkin",
-    "author": "Stevenson, Robert Louis, 1850-1894",
-    "gutenbergReference": "698",
-    "hash": "1b6b6d880861d12df2cc2a349380db450c6262d7a3f747e083f802fa8e198d20"
+    "quoteLast": " the party came to a stop in a pleasant place where a few pine trees afforded a little protection.",
+    "title": "The Girl Scouts on the Ranch",
+    "author": "Lavell, Edith",
+    "gutenbergReference": "55386",
+    "hash": "401cbc423224c35ab8589f3685f30c6e00598bf25449afbd7d53987c09fd5848"
   },
   {
     "time": "03:00",
-    "quoteFirst": "Next day ",
-    "quoteTime": "at three o’clock",
-    "quoteLast": " I knocked at Mrs. Mayhew’s: she opened the door herself: I cried, “how kind of you” and once in the room drew her to me and kissed her time and time again: she seemed cold and numb.",
-    "title": "My Life and Loves, Vol. 1 (of 4)",
-    "author": "Harris, Frank, 1856-1931",
-    "gutenbergReference": "59827",
-    "hash": "93e90698a059604ecba4e0fe8ce5f4e05ace46dcac2e246bdd3cfd646898d8f7"
+    "quoteFirst": "About ",
+    "quoteTime": "three o'clock",
+    "quoteLast": " in the afternoon the travelers had their first vision of Jim's three pine cone hills with the stream of brackish water running down the side of one of them, and in the background a dense thicket of evergreens.",
+    "title": "The Ranch Girls' Pot of Gold",
+    "author": "Vandercook, Margaret, 1876-1958; Bodine, Hugh A. [Illustrator]",
+    "gutenbergReference": "33656",
+    "hash": "7e483211a53382f32548911676ea3cbe04b644b21a046e714330a1a89a7c5f0f"
+  },
+  {
+    "time": "03:00",
+    "quoteFirst": "Marryat is so exact about sums of money, and has such a turn for showing how profits are to be made, that we are quite prepared to hear of him bursting into his brother’s room ",
+    "quoteTime": "at 3 o’clock a.m.",
+    "quoteLast": ", with splendid schemes for draining the marshes of Clay-by-the-Sea, and thereby realizing wealth beyond the dreams of avarice.",
+    "title": "Life of Frederick Marryat",
+    "author": "Hannay, David, 1853-1934; Anderson, John Parker, 1841-1925 [Contributor]; Robertson, Eric S. (Eric Sutherland) [Editor]",
+    "gutenbergReference": "53796",
+    "hash": "5d199a3c79b1ce3d5c53e9be839bdfcb6f7efbc85a6a605edfbc8cd6e6e798c2"
+  },
+  {
+    "time": "03:00",
+    "quoteFirst": "On Thursday next the 2d of June, ",
+    "quoteTime": "at 3 o'clock",
+    "quoteLast": " P.M., in Staniford's Street, near the Bowling Green, will be Baited a Bear, by John Coleson; where all Gentlemen and others that would divert themselves may repair.",
+    "title": "Every Day Life in the Massachusetts Bay Colony",
+    "author": "Dow, George Francis, 1868-1936",
+    "gutenbergReference": "43970",
+    "hash": "d760c11a6a375a7227babaafecca7f807c0e561b59b81c7674b6e561500b8002"
+  },
+  {
+    "time": "03:00",
+    "quoteFirst": "I didn't suppose it was more than ",
+    "quoteTime": "three o'clock",
+    "quoteLast": ", at the latest.\"",
+    "title": "Derrick Sterling: A Story of the Mines",
+    "author": "Munroe, Kirk, 1850-1930",
+    "gutenbergReference": "21863",
+    "hash": "723fb6f834d5c02fb7fea8082acd0200165c7420b15da8ae86e3aa0b6fdd9bba"
+  },
+  {
+    "time": "03:00",
+    "quoteFirst": "The newspaper men allowed me to come over, after the paper went to press, ",
+    "quoteTime": "at 3 A.M.",
+    "quoteLast": ", and get all the exchanges I wanted.",
+    "title": "The boys' life of Edison",
+    "author": "Meadowcroft, Wm. H. (William Henry), 1853-",
+    "gutenbergReference": "50523",
+    "hash": "68576ae98a5f117da894aaa0156f3489035c72ee5e50a18a134b1ba31a386c97"
+  },
+  {
+    "time": "03:00",
+    "quoteFirst": "_ We started early, and after passing over one of the worst roads in the world, found ourselves on a lake about ",
+    "quoteTime": "three o'clock",
+    "quoteLast": "; took its outlet [Dean creek] and struck the Mississippi about one mile below the [Chippewa] canoes mentioned on Jan.",
+    "title": "The Expeditions of Zebulon Montgomery Pike, Volume 1 (of 3)\r\nTo Headwaters of the Mississippi River Through Louisiana Territory, and in New Spain, During the Years 1805-6-7.",
+    "author": "Pike, Zebulon Montgomery, 1779-1813; Coues, Elliott, 1842-1899 [Editor]",
+    "gutenbergReference": "43774",
+    "hash": "0495647d1e3137b5c5680218fea7a5bb556372c1ed79cfe085587492d0150ca1"
+  },
+  {
+    "time": "03:00",
+    "quoteFirst": "We were to start by diligence for Algodonales, our final destination, ",
+    "quoteTime": "at 3 a.m.",
+    "quoteLast": ", and pretty Rosario had agreed to let me sleep till two—if I could, which seemed doubtful in view of the incessant noise in the main street on which my tiny window looked.",
+    "title": "My Spanish Year",
+    "author": "Whishaw, Ellen M.",
+    "gutenbergReference": "59293",
+    "hash": "bea1e1c176328d599c254b5d8bc3b96ec78449ba89a7f86f51fa6396564b18d1"
   },
   {
     "time": "03:00",
     "quoteFirst": "",
-    "quoteTime": "Three o'clock",
-    "quoteLast": ", and Hobomok scrambled down from the roof, and stood in the open doorway.",
-    "title": "Standish of Standish: A Story of the Pilgrims",
-    "author": "Austin, Jane G. (Jane Goodwin), 1831-1894",
-    "gutenbergReference": "22052",
-    "hash": "1994fdd8fa214b46e9f165ba34b932a0b6a61c9475a1506217943dba088b3934"
+    "quoteTime": "At three o'clock",
+    "quoteLast": " the dance was over, the greetings were all said and Willie Anderson anxious to carry off his bride on the tide top.",
+    "title": "Christine: A Fife Fisher Girl",
+    "author": "Barr, Amelia E., 1831-1919; Mulford, Stockton, 1886-1960 [Illustrator]",
+    "gutenbergReference": "32085",
+    "hash": "110e762a642c825eddd8fad17016aa52136f1684bc5f77c8e6fd9d3618bdb4e1"
   },
   {
     "time": "03:00",
-    "quoteFirst": "Being tired with walking, we refreshed ourselves here with a mouthful of bread and some ale, and immediately mounted post-horses, and arrived about two or ",
-    "quoteTime": "three o’clock",
-    "quoteLast": " in the morning at Dover.",
-    "title": "Travels in England during the reign of Queen Elizabeth; with Fragmenta regalia\r\nor, Observations on Queen Elizabeth, her times and favourites",
-    "author": "Hentzner, Paul, 1558-1623; Naunton, Robert, Sir, 1563-1635",
-    "gutenbergReference": "1992",
-    "hash": "65a950ca678796187d272d6aabd73345c28b85e51a1d37186e87bf93886a44e0"
-  },
-  {
-    "time": "03:00",
-    "quoteFirst": "Humphreys moved at two, and Wright ",
+    "quoteFirst": "They do not purpose to leave until late, I know, for Lovelace is promised to Mallaby ",
     "quoteTime": "at three o'clock",
-    "quoteLast": " in the morning, without rations, as I have said, the wagons being far in the rear.",
-    "title": "Personal Memoirs of U. S. Grant — Volume 2",
-    "author": "Grant, Ulysses S. (Ulysses Simpson), 1822-1885",
-    "gutenbergReference": "1068",
-    "hash": "37d2de1032600c06240cb6504045c4f123ff9d7bc7a5b6fb1d3622ae5abf52cc"
+    "quoteLast": ".",
+    "title": "The Black Moth: A Romance of the XVIIIth Century",
+    "author": "Heyer, Georgette, 1902-1974",
+    "gutenbergReference": "38703",
+    "hash": "108aa243d09cc8ef25777ebfd8634507e26f6ec25a0505ab7c125f529c7b1d38"
   },
   {
     "time": "03:00",
-    "quoteFirst": "I sent him      for answer, that I was to dine from home, but would return and      be at home ",
+    "quoteFirst": "To begin exactly ",
+    "quoteTime": "at three of the clock",
+    "quoteLast": ".\"]",
+    "title": "The Tatler, Volume 1",
+    "author": "Steele, Richard, Sir, 1672-1729; Addison, Joseph, 1672-1719; Aitken, George Atherton, 1860-1917 [Editor]",
+    "gutenbergReference": "13645",
+    "hash": "b0e22cbd0c82b2148a599ee3871a636bb9889413632e1c3a246ed73a19118504"
+  },
+  {
+    "time": "03:00",
+    "quoteFirst": "",
+    "quoteTime": "At three o'clock",
+    "quoteLast": " four of their Divisions advanced towards the Tronville copses.",
+    "title": "The Franco-German War of 1870-71",
+    "author": "Moltke, Helmuth, Graf von, 1800-1891; Forbes, Archibald, 1838-1900 [Translator]",
+    "gutenbergReference": "36209",
+    "hash": "928226a8e08194a6cf55de1b669a67b9c7eb62ad4c1c5cfc7f4cfeb6a9a8d674"
+  },
+  {
+    "time": "03:00",
+    "quoteFirst": "You can also let Mr. Curtis know that he is to be here ",
     "quoteTime": "at three o'clock",
-    "quoteLast": " that afternoon.",
-    "title": "State Trials, Political and Social. Volume 2 (of 2)",
-    "author": "Stephen, Harry Lushington, 1860-1945 [Editor]",
-    "gutenbergReference": "38088",
-    "hash": "99def3c8d7533af95cf39c91e3a0841f5742de046261977fdddd967e6d574b71"
+    "quoteLast": ".",
+    "title": "Antony Gray,—Gardener",
+    "author": "LM (Leslie Moore), 1888-1978",
+    "gutenbergReference": "26241",
+    "hash": "43dab89f47b97f24b777cd43c8e0b7ae768f2b25664142f0b2a3d5dcbcb1dff8"
   },
   {
     "time": "03:00",
-    "quoteFirst": "“On one of the last days of July, about the year 1860, ",
-    "quoteTime": "at 3 o’clock",
-    "quoteLast": " p.m., I was sitting in the drawing room at the Rectory, reading, and my thoughts entirely occupied. I suddenly looked up and saw most distinctly a tall, thin old gentleman enter the room and walk to the table. He wore a peculiar, old-fashioned cloak which I recognized as belonging to my great-uncle. I then looked at him closely and remembered his features and appearance perfectly, although I had not seen him since I was quite a child. In his hand was a roll of paper, and he appeared to be very agitated. I was not in the least alarmed, as",
-    "title": "Complete Hypnotism, Mesmerism, Mind-Reading and Spiritualism\r\nHow to Hypnotize: Being an Exhaustive and Practical System of Method, Application, and Use",
-    "author": "Alpheus, A.",
-    "gutenbergReference": "19342",
-    "hash": "de836a6760dfd4e3cd8bec6a40195c8009e2e028fb5d0a19d3b6392fdeb2c830"
-  },
-  {
-    "time": "03:00",
-    "quoteFirst": "An attack is usually preceded by diarrhœa or by uneasiness in the stomach and bowels for some days, or is suddenly announced by vomiting and purging, commencing about ",
-    "quoteTime": "three o’clock",
-    "quoteLast": " in the morning, when the temperature is lowest of the twenty-four hours; and is followed and accompanied by cramps or spasmodic contractions of the abdomen.",
-    "title": "The Cholera Gazette, Vol. I. No. 5. Wednesday, August 8th, 1832.",
-    "author": "Various",
-    "gutenbergReference": "52859",
-    "hash": "856e83a720550dd6c84b721b95d240a40d125578ad6900e2215414b5d1923708"
-  },
-  {
-    "time": "03:00",
-    "quoteFirst": "It was ",
-    "quoteTime": "three o'clock",
-    "quoteLast": " when they turned in, to share Pete's one blanket, and then Andy was too full of Pete's adventures to sleep, asking an occasional question which Pete answered, until Andy, suddenly recalling that Pete had told him The Spider had left him his money, asked Pete if he had packed all that dough with him, or banked it in El Paso.",
-    "title": "The Ridin' Kid from Powder River",
-    "author": "Knibbs, Henry Herbert, 1874-1945; Brinkerhoff, R. M. (Robert Moore), 1879-1958 [Illustrator]; Wood, Stanley L., 1866-1928 [Illustrator]",
-    "gutenbergReference": "16530",
-    "hash": "8bcce3977b2a9b6864319e5ae07cb4710c06393b0caee1b7fa4457b85150aee5"
-  },
-  {
-    "time": "03:00",
-    "quoteFirst": "On the 3rd of April Mr. Hunt, accompanied by Mr. Halsey, Mr. Seaton, Mr. Clapp, and Mr. Farnham, embarked on board the _Pedlar_ ",
+    "quoteFirst": "I arrived ",
     "quoteTime": "at three o’clock",
-    "quoteLast": " in the afternoon, and took their final departure from Fort George.",
-    "title": "Ross's Adventures of the first settlers on the Oregon or Columbia River, 1810-1813",
-    "author": "Thwaites, Reuben Gold, 1853-1913 [Editor]; Ross, Alexander, 1783-1856",
-    "gutenbergReference": "73930",
-    "hash": "582b7db88ff0cebd17dd1f7ddf47083e9b41b6eb3be80e4ba8f0056078864bd9"
+    "quoteLast": " in the afternoon, in _Lancaster_; and was quite refreshed, to have the favour to see my brethren.",
+    "title": "Journals of Conrad Weiser (1748), George Croghan (1750-1765), Christian Frederick Post (1758), and Thomas Morris (1764)",
+    "author": "Thwaites, Reuben Gold, 1853-1913 [Editor]; Croghan, George, 1720?-1782; Morris, Thomas, 1732?-1818?; Post, Christian Frederick, 1710?-1785; Weiser, Conrad, 1696-1760",
+    "gutenbergReference": "73714",
+    "hash": "47ba06f1785ddcb156504a457e87265120868f6e939737e848619f597f45a833"
+  },
+  {
+    "time": "03:00",
+    "quoteFirst": "It was about ",
+    "quoteTime": "three o'clock",
+    "quoteLast": " to-day, that we started on our way from Louisville, down the Ohio.",
+    "title": "Gleanings by the Way",
+    "author": "Clark, John A. (John Alonzo), 1801-1843",
+    "gutenbergReference": "38644",
+    "hash": "f852d723400567aeb81203bd5c02dd368f00ed97775ca6e96c1cb32a192155a6"
+  },
+  {
+    "time": "03:00",
+    "quoteFirst": "From _Charlestown_ it drives on Tuesday and Thursday in each week, ",
+    "quoteTime": "at three o'clock",
+    "quoteLast": " in the afternoon, and returns back as far as _Richardson's_ tavern in _Concord_--and from that place it starts at 8 o'clock in the mornings, of Wednesday and Friday, and runs again to _Charlestown_.",
+    "title": "The Bay State Monthly — Volume 1, No. 1, January, 1884",
+    "author": "Various",
+    "gutenbergReference": "9174",
+    "hash": "3404104f82218817eea891a634ffe9c70a4793a1624d88f7be246a50dbfe913c"
+  },
+  {
+    "time": "03:00",
+    "quoteFirst": "It helped to pass the time; the last movie was off the air at two or ",
+    "quoteTime": "three o'clock",
+    "quoteLast": ", and then he could go to bed and, with any luck, sleep till past noon.",
+    "title": "Survival Kit",
+    "author": "Pohl, Frederik, 1919-2013; Gaughan, Jack, 1930-1985 [Illustrator]",
+    "gutenbergReference": "51809",
+    "hash": "8a0bc849abfff001e73b4c794daea649e724bc7272749b02b85a629f42734d5e"
   }
 ]

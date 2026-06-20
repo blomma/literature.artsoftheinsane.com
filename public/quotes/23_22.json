@@ -11,6 +11,16 @@
   },
   {
     "time": "23:22",
+    "quoteFirst": "“",
+    "quoteTime": "Twenty-two minutes after eleven",
+    "quoteLast": ",” returned Passepartout, drawing an enormous silver watch from the depths of his pocket.",
+    "title": "Around the World in Eighty Days",
+    "author": "Verne, Jules, 1828-1905; Towle, George M. (George Makepeace), 1841-1893 [Translator]",
+    "gutenbergReference": "103",
+    "hash": "68519e3b565f8bee93674f34cdaf220455b98716ce02727c91f0f4cbe75fe981"
+  },
+  {
+    "time": "23:22",
     "quoteFirst": "(Reasoning is more conspicuous when the problem is more complicated, as in the calculation of the number of seconds intervening between, say, ",
     "quoteTime": "twenty-two minutes past eleven",
     "quoteLast": " and seventeen minutes past three o’clock.)",
@@ -61,6 +71,26 @@
   },
   {
     "time": "23:22",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty-two minutes past eleven",
+    "quoteLast": ",\" replied the valet, as he consulted an enormous silver watch.",
+    "title": "Round the World in Eighty Days",
+    "author": "Verne, Jules, 1828-1905; Frith, Henry, 1840- [Translator]",
+    "gutenbergReference": "32972",
+    "hash": "6eee04e602335f7aab0b5a6c6108533e513e23e931ccabc67e7a6ba4766d5404"
+  },
+  {
+    "time": "23:22",
+    "quoteFirst": "On May 15, 1954, at ",
+    "quoteTime": "11:22 P.M.",
+    "quoteLast": ", more than 100 persons observed (and reported) a slow-moving fireball, blue-green changing to red, of luminosity so great that it woke sleeping people.",
+    "title": "The World of Flying Saucers: A Scientific Examination of a Major Myth of the Space Age",
+    "author": "Menzel, Donald H. (Donald Howard), 1901-1976; Boyd, Lyle Gifford, 1907-1982",
+    "gutenbergReference": "66639",
+    "hash": "23e3a0bbf2958e85b1aa7aca0b57379460aec5378f302a239b3bd2190824bdf3"
+  },
+  {
+    "time": "23:22",
     "quoteFirst": "At lateness of ",
     "quoteTime": "11.22 p.m.",
     "quoteLast": " 6 additional persons depart off from dinner-eat.",
@@ -68,6 +98,16 @@
     "author": "Irvin, Wallace, 1876-1959; Strothmann, F. (Frederick), 1872-1958 [Illustrator]",
     "gutenbergReference": "65189",
     "hash": "9806e8f5a1105ca9d724a003af31be0a176d4932ed123d66d4ab3d239eb42293"
+  },
+  {
+    "time": "23:22",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty-two minutes after eleven",
+    "quoteLast": ",\" returned Passepartout, drawing an enormous silver watch from the depths of his pocket.",
+    "title": "Around the World in Eighty Days. Junior Deluxe Edition",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "2154",
+    "hash": "dd530d1b3d3c13ecb7c6ee811d883ed69c9d9ff06c5b281408eef933b7c82b19"
   },
   {
     "time": "23:22",

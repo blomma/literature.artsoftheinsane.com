@@ -11,6 +11,16 @@
   },
   {
     "time": "12:12",
+    "quoteFirst": "According to Frank, Mary Phagan had arrived in his office at ",
+    "quoteTime": "12:12 p.m.",
+    "quoteLast": " that Saturday.",
+    "title": "... and justice for all",
+    "author": "Kunstler, William M. (William Moses), 1919-1995",
+    "gutenbergReference": "78229",
+    "hash": "f680208bb3f8806f2b2fa6545c1701c5c2defc17ae57a7d29e23a2a6d1f79fe2"
+  },
+  {
+    "time": "12:12",
     "quoteFirst": "; on the 16th, rises at ",
     "quoteTime": "12:12 p. m.",
     "quoteLast": ", and on the 17th, sets at 12:18 a.",
@@ -18,16 +28,6 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
     "hash": "9cf33850db7e8f1421d08f18b52b2dbcd6ee200ffdf3c327c06cf2675aafb1e3"
-  },
-  {
-    "time": "12:12",
-    "quoteFirst": "Mrs. Nelson did not die until ",
-    "quoteTime": "twelve minutes after twelve",
-    "quoteLast": " o’clock; so we have still,” added Mr. Chester, glancing at his watch, “twenty minutes in which to find this treasure. If we do find it within that time, the property belongs to Mrs. Truman and her children.”",
-    "title": "The quest for the rose of Sharon",
-    "author": "Stevenson, Burton Egbert, 1872-1962; Fogarty, Thomas, 1873-1938 [Illustrator]",
-    "gutenbergReference": "69112",
-    "hash": "b3ae17dfa899439ada07ad4c3f6b279ced09a48b82774bfd986d4e210bd8aa81"
   },
   {
     "time": "12:12",

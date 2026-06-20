@@ -1,53 +1,83 @@
 [
   {
     "time": "07:20",
-    "quoteFirst": "It was ",
-    "quoteTime": "twenty minutes past seven",
-    "quoteLast": " by the waiting-room clock when they got back to the station and the message was awaiting them.",
-    "title": "First Base Faulkner",
-    "author": "Mathewson, Christy, 1880-1925; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
-    "gutenbergReference": "64435",
-    "hash": "8877c2552b4f8c2ed171a36a3e650087bee12a7374d72ce87d70be755f6e8ed9"
+    "quoteFirst": "At ",
+    "quoteTime": "7.20 A.M.",
+    "quoteLast": " on September 11, the \"moleques\" seized our luggage, and we suddenly found ourselves on the path.",
+    "title": "Two Trips to Gorilla Land and the Cataracts of the Congo, Volume 2",
+    "author": "Burton, Richard Francis, Sir, 1821-1890",
+    "gutenbergReference": "5761",
+    "hash": "9a9f1d90f519e2eda4233df08328c3a3cc3c36a2a77cb6d860c6f46532b50d57"
   },
   {
     "time": "07:20",
-    "quoteFirst": "He was in the station at ",
+    "quoteFirst": "The hands pointed to ",
     "quoteTime": "twenty minutes past seven",
     "quoteLast": ".",
-    "title": "Fortitude",
-    "author": "Walpole, Hugh, 1884-1941",
-    "gutenbergReference": "7887",
-    "hash": "248b01fc15eb6de35c4dc746dbf63642191f4b0942fb2d394f9f25bcb639f51a"
+    "title": "The Sea Scouts of the Kestrel\r\nThe story of a cruise of adventure & pluck in a small yacht on the English Channel",
+    "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Wigfull, W. Edward (William Edward), 1875-1944 [Illustrator]",
+    "gutenbergReference": "69612",
+    "hash": "4f06d2229e7d6dad585c67b69f4a09ab61f9823cf16ae9e1ab7a5943ec87afc4"
   },
   {
     "time": "07:20",
-    "quoteFirst": "On January 20, 1952, at ",
+    "quoteFirst": "\"Seven-thirty is the time every one goes to work here in the morning,\" went on Mr. Whiggam to Clyde informatively, \"but they all ring in a little earlier--about ",
     "quoteTime": "seven-twenty",
-    "quoteLast": " in the evening, two master sergeants, both intelligence specialists, were walking down a street on the Fairchild Air Force Base, close to Spokane, Washington.",
-    "title": "The Report on Unidentified Flying Objects",
-    "author": "Ruppelt, Edward J., 1922-1960",
-    "gutenbergReference": "17346",
-    "hash": "8c2a8c7753911df95294724e8d747f3615718aab502da706e475c3bc7d21250d"
+    "quoteLast": " or so, so as to have time to change their clothes and get to the machines.",
+    "title": "An American tragedy, v. 1",
+    "author": "Dreiser, Theodore, 1871-1945",
+    "gutenbergReference": "75181",
+    "hash": "52e04c5897e823c9ec4e017ac8ddecd130ad11782754c8325c8fd3303f074a66"
   },
   {
     "time": "07:20",
-    "quoteFirst": "At ",
+    "quoteFirst": "\"Five and ",
+    "quoteTime": "twenty past seven",
+    "quoteLast": ", Mas' Don, but I'm afraid I'm a little slow. These here baths don't do one's watch any good.\"",
+    "title": "The Adventures of Don Lavington: Nolens Volens",
+    "author": "Fenn, George Manville, 1831-1909",
+    "gutenbergReference": "21316",
+    "hash": "a389caa6851dd8a23ccc69e3e65553d090f94bd5e911ad3f0fbbcfbce184da9c"
+  },
+  {
+    "time": "07:20",
+    "quoteFirst": "At four we passed Wady Rowel, on the eastern side; at five, the small village of Sidin on the same side; at six, a large village called Karmim; at three quarters past six we passed Sayal, a small village on the east bank; at a quarter past seven, Dakkel, on the same side; at ",
     "quoteTime": "twenty minutes past seven",
-    "quoteLast": " he was driving his car slowly through London.",
-    "title": "The rasp",
-    "author": "MacDonald, Philip, 1901?-1980",
-    "gutenbergReference": "72462",
-    "hash": "a68e594a361694a6a3f104645027b96892ed12b29b9ec7ab5d0ac9047e6cbc6b"
+    "quoteLast": ", El Fodlet; and at half past seven we moored for the night at the village of Unmatur, on the western side.",
+    "title": "Travels in Ethiopia, above the second cataract of the Nile",
+    "author": "Hoskins, G. A. (George Alexander), 1802-1863; Bandoni, L. [Illustrator]",
+    "gutenbergReference": "74151",
+    "hash": "75b9dd8c7f119412f99efe85b5870f8bcae1e58c13f3f2e709d7d22fba92fc0d"
   },
   {
     "time": "07:20",
-    "quoteFirst": "At ",
+    "quoteFirst": "The vessels of the Fourth Light-Cruiser Squadron remained ahead of the British battleships until ",
+    "quoteTime": "seven-twenty",
+    "quoteLast": " P.M., when they moved out to counter the attack of hostile destroyers, and successfully drove them off.",
+    "title": "Pincher Martin, O.D.: A Story of the Inner Life of the Royal Navy",
+    "author": "Dorling, H. Taprell (Henry Taprell), 1883-1968; Williams, C. Fleming [Illustrator]",
+    "gutenbergReference": "41774",
+    "hash": "f9dcb9672a7b59366306245b585d379a48d69c34f4c106f0d31aa641169ca80b"
+  },
+  {
+    "time": "07:20",
+    "quoteFirst": "Starting at ",
     "quoteTime": "7.20 a.m.",
-    "quoteLast": " resumed our journey southwards, over a high and somewhat rugged range of sandstone hills; passed a short distance to the east of Mounts Peron and Lesueur.",
+    "quoteLast": ", steered east over grassy hills, with granite bases and table summits of red sandstone, the latter rock forming but a poor soil with scanty feed and scrub; crossed several small gullies running into the Chapman.",
     "title": "Journals of Australian Explorations",
     "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
     "gutenbergReference": "10461",
-    "hash": "5ef96b27680f2ddb53bebfc61ce93a53c7f45d06f2ef5d33abd44a1ee7ca12a3"
+    "hash": "92ec0ac3730d9396eaa93a0027f8aeb8596adc4ca1d5c9f0087a18eecf80030d"
+  },
+  {
+    "time": "07:20",
+    "quoteFirst": "The country to the south-east being very rocky and broken, we followed down the river, leaving the camp at ",
+    "quoteTime": "7.20 a.m.",
+    "quoteLast": ", the general course north-east; the sandstone hills rose abruptly from the bank of the river, the sandstone rock being frequently worn away in a partial manner, so as to leave isolated columns sometimes three feet in diameter and thirty feet high; a few miles below the camp a few pools of water were seen, but there was no grass near them, and we continued our route for four hours, and camped at a shallow pool with a small patch of grass on the bank of the river; the principal channel of the river was only twenty-three yards wide, but in times of flood the side channels carry off the greater portion of the water, which rises nearly forty feet; considerable quantities of mussel-shells lay at the old camps of the blacks along the bank of the river.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "dcaf604b323a713b6f6b60e08ece72f93f9ccb6f315989a0ce2edf3278021e2a"
   },
   {
     "time": "07:20",
@@ -61,42 +91,112 @@
   },
   {
     "time": "07:20",
-    "quoteFirst": "Hulloa, it is ",
+    "quoteFirst": "The Second Battle-Squadron was in action with other German battleships between six-thirty and ",
+    "quoteTime": "seven-twenty",
+    "quoteLast": " P.M., and also with a battle-cruiser which had dropped astern seriously injured; while the Fourth Battle-Squadron, with which was Sir John Jellicoe's flagship the _Iron Duke_, engaged two battleships, as well as battle-cruisers, cruisers, and light cruisers.",
+    "title": "Pincher Martin, O.D.: A Story of the Inner Life of the Royal Navy",
+    "author": "Dorling, H. Taprell (Henry Taprell), 1883-1968; Williams, C. Fleming [Illustrator]",
+    "gutenbergReference": "41774",
+    "hash": "52ce08ec78f7dfcacf1cf7a6fc128859b99176ffd86443c69a16330015be5850"
+  },
+  {
+    "time": "07:20",
+    "quoteFirst": "When next morning we were again in the saddle at ",
+    "quoteTime": "twenty minutes after seven",
+    "quoteLast": ", the mown pastures looked green and fresh after the rain of the preceding evening, and it was a delight to breathe the crisp air.",
+    "title": "Armenia, Travels and Studies (Volume 2 of 2)\r\nThe Turkish Provinces",
+    "author": "Lynch, H. F. B. (Harry Finnis Blosse), 1862-1913",
+    "gutenbergReference": "53568",
+    "hash": "43c9b95475caed7bc3cf87e9e27741f7e52805108edff4287a27ce209644dbdb"
+  },
+  {
+    "time": "07:20",
+    "quoteFirst": "I had sat there until ",
     "quoteTime": "twenty minutes past seven",
-    "quoteLast": ", and we dine at half past.",
-    "title": "Colonel Quaritch, V.C.: A Tale of Country Life",
-    "author": "Haggard, H. Rider (Henry Rider), 1856-1925",
-    "gutenbergReference": "11882",
-    "hash": "847fd19f2ac05ee93a538534e2e2558fc246c3155c0b9aac3ac5ac2a7bac3b59"
+    "quoteLast": ", and during that time there had been no other ring at the hall door.",
+    "title": "The house on the marsh",
+    "author": "Warden, Florence, 1857-1929",
+    "gutenbergReference": "71788",
+    "hash": "9d3f9d139421b3c4929c0be6faaddfe5cb51a593efe3a8a4e2549a63c4addf39"
   },
   {
     "time": "07:20",
-    "quoteFirst": "As there was no grass for the horses, we were compelled to push on our journey, and at ",
-    "quoteTime": "7.20 a.m.",
-    "quoteLast": " steered 160 degrees; the country was more broken up by valleys, the soil sand and ironstone, with heathy scrub, banksia, and grass trees (xanthorrhoea) with a few patches of white-gum forest; at 10.30 steered 138 degrees towards a high summit, distant twelve miles.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "c02997f64db9e332f97c98600404750d26456093b425dbbb57cab0255ddb6475"
+    "quoteFirst": "He says in his reply he received the communication, ",
+    "quoteTime": "twenty minutes past seven",
+    "quoteLast": ", P.M., on the 26th.",
+    "title": "Report of the Committee Appointed to Investigate the Railroad Riots in July, 1877\nRead in the Senate and House of Representatives May 23, 1878",
+    "author": "Pennsylvania. General Assembly. Committee Appointed to Investigate the Railroad Riots in July, 1877",
+    "gutenbergReference": "42766",
+    "hash": "445b3247a12f100fbda9e88387c4ec866d8e83b51b311b2ef266d87a1a2d88f0"
   },
   {
     "time": "07:20",
-    "quoteFirst": "At ",
-    "quoteTime": "7.20 a.m.",
-    "quoteLast": " steered east through level box flats, the country gradually becoming more open and better grassed, though very scantily; at noon crossed some open grassy plains, and altered the course to north-east, north-north-east, and north, and at 3.20 p.m. again came on the bank of the river and encamped at a small pool of water; the rest of the channel, which exceeded a quarter of a mile in width, being dry and overgrown with large melaleuca and flooded-gum trees.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "629b5547b5f50ed2d18ab806383292633df3859e507e2e69de261859286e25d0"
+    "quoteFirst": "\"Haste thee, for I ordered dinner,      Waiting to the very last,   ",
+    "quoteTime": "Twenty minutes after seven",
+    "quoteLast": ",      And 'tis now the quarter past.   'Tis a dinner which Lucullus      Would have wept with joy to see,   One, might wake the soul of Curtis      From death's drowsy atrophy.",
+    "title": "The Book of Ballads\r\nEleventh Edition, 1870",
+    "author": "Martin, Theodore, Sir, 1816-1909; Aytoun, William Edmondstoune, 1813-1865; Crowquill, Alfred, 1804-1872 [Illustrator]; Doyle, Richard, 1824-1883 [Illustrator]; Leech, John, 1817-1864 [Illustrator]",
+    "gutenbergReference": "44798",
+    "hash": "c3cbb3fd5c0df2a76bbebb5680780fc63ccdaa381977cc4dd8b7bf15d8074201"
+  },
+  {
+    "time": "07:20",
+    "quoteFirst": "_Languard_ L.H., Skylarks, Linnets, and House Sparrows, ",
+    "quoteTime": "7.20 A.M.",
+    "quoteLast": ", to W. (N.E., 6.)",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "66152",
+    "hash": "2a8db2cc8317d215dcc75647e1ff37860ce1d78c46a55fb0c73822aca46d6aab"
+  },
+  {
+    "time": "07:20",
+    "quoteFirst": "The Second Battle-Squadron was in action with other German battleships between six-thirty and ",
+    "quoteTime": "seven-twenty",
+    "quoteLast": " P.M., and also with a battle-cruiser which had dropped astern seriously injured; while the Fourth Battle-Squadron, with which was Sir John Jellicoe's flagship the _Iron Duke_, engaged two battleships, as well as battle-cruisers, cruisers, and light cruisers.",
+    "title": "Pincher Martin, O.D.: A Story of the Inner Life of the Royal Navy",
+    "author": "Dorling, H. Taprell (Henry Taprell), 1883-1968; Williams, C. Fleming [Illustrator]",
+    "gutenbergReference": "41774",
+    "hash": "52ce08ec78f7dfcacf1cf7a6fc128859b99176ffd86443c69a16330015be5850"
+  },
+  {
+    "time": "07:20",
+    "quoteFirst": "Then he discovered a current time-table and learnt that now even were all the ticket difficulties over-ridden he could not get Lady Harman to Putney before ",
+    "quoteTime": "twenty minutes past seven",
+    "quoteLast": ", so completely is the South Western Railway not organized for conveying people from Hampton Court to Putney.",
+    "title": "The Wife of Sir Isaac Harman",
+    "author": "Wells, H. G. (Herbert George), 1866-1946",
+    "gutenbergReference": "30855",
+    "hash": "6f96d89ed5c4933f152338ccaf6d60d59bd97ce7c2d128fa755a237ae513272d"
+  },
+  {
+    "time": "07:20",
+    "quoteFirst": "Your time will be from ",
+    "quoteTime": "seven-twenty",
+    "quoteLast": " to seven-thirty.",
+    "title": "The Brother of a Hero",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "63297",
+    "hash": "948cf375945933e26005584e265771ea51b1ed283c7fcc18095092d831dff503"
+  },
+  {
+    "time": "07:20",
+    "quoteFirst": "At about ",
+    "quoteTime": "twenty past seven",
+    "quoteLast": " Christy came in, and everyone stood up till he had sat down.",
+    "title": "The Loom of Youth",
+    "author": "Waugh, Alec, 1898-1981",
+    "gutenbergReference": "18863",
+    "hash": "ee0b950780305ad9695f10804b3e587ae32e7494865d17699cc3379c76d90ce6"
   },
   {
     "time": "07:20",
     "quoteFirst": "It was ",
-    "quoteTime": "twenty minutes past seven",
-    "quoteLast": " when I paid my gondolier his fare at the railway station.",
-    "title": "The Clock and the Key",
-    "author": "Vesey, A. H. (Arthur Henry)",
-    "gutenbergReference": "54888",
-    "hash": "f7996c1a31d52d5886c34a2ab528a13397c21d54a9c15833d39f63695848b5d8"
+    "quoteTime": "twenty minutes after seven",
+    "quoteLast": " when the captain observed,--scanning the levee in every direction to see if there was another cart or carriage coming towards us,--\"No use waiting any longer, I reckon: throw off, Mr. Heady.\"",
+    "title": "With the World's Great Travellers, Volume 1",
+    "author": "Morris, Charles, 1833-1922 [Editor]; Leigh, Oliver Herbrand Gordon [Editor]",
+    "gutenbergReference": "31908",
+    "hash": "b255243aa583cd8c12090a168a9d1fa59348f806bdee627031e6109c59c3593e"
   }
 ]

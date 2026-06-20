@@ -43,11 +43,11 @@
     "time": "04:53",
     "quoteFirst": "\"At ",
     "quoteTime": "seven minutes to five",
-    "quoteLast": " Lord Melbourne came to me and stayed till half-past five. He gave me the copies of Anson's conversations with Peel. Lord Melbourne then gave me a letter from the Chancellor to read, strongly advocating a dissolution, and wishing that there should be a division also on Lord John Russell's amendment.[26]",
+    "quoteLast": " Lord Melbourne came to me and stayed till half-past five. He gave me the copies of Anson's conversations with Peel. Lord Melbourne then gave me a letter from the Chancellor to read, strongly advocating a dissolution, and wishing that there should be a division also on Lord John Russell's amendment.",
     "title": "The letters of Queen Victoria, vol. 1, 1837-1843",
     "author": "Victoria, Queen of Great Britain, 1819-1901; Benson, Arthur Christopher, 1862-1925 [Editor]; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
     "gutenbergReference": "20023",
-    "hash": "b30e9f02d2d7f49280a31bc6884b9d87184842c4e9fefcdf5033cf2e268cc21c"
+    "hash": "cee4a71125704c1c655c2291b8e553fa2972700c1e6e19a6e20a97ff33011ed7"
   },
   {
     "time": "04:53",
@@ -78,5 +78,15 @@
     "author": "Baring, Maurice, 1874-1945",
     "gutenbergReference": "77668",
     "hash": "e68718e786fede498eb429bb7c646f35bdb9601dc6fc4596536735c92da5f8fe"
+  },
+  {
+    "time": "04:53",
+    "quoteFirst": "At New London, which is reached at ",
+    "quoteTime": "4:53 A. M.",
+    "quoteLast": ", go the papers for Norwich, Worcester, Newport, and New Bedford.",
+    "title": "The Modern Railroad",
+    "author": "Hungerford, Edward, 1875-1948",
+    "gutenbergReference": "40242",
+    "hash": "2a10a792eb99dc048d377064ee1b5cbf633f535ead4db1029e35e0aaa99f991b"
   }
 ]

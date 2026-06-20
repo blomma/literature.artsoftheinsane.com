@@ -31,6 +31,16 @@
   },
   {
     "time": "03:17",
+    "quoteFirst": "(Reasoning is more conspicuous when the problem is more complicated, as in the calculation of the number of seconds intervening between, say, twenty-two minutes past eleven and ",
+    "quoteTime": "seventeen minutes past three",
+    "quoteLast": " o’clock.)",
+    "title": "The unconscious",
+    "author": "Prince, Morton, 1854-1929",
+    "gutenbergReference": "69930",
+    "hash": "9be987b727cc2e4b959cb82878cebaa88ebf8406af6504644cf0b7c80afd0afa"
+  },
+  {
+    "time": "03:17",
     "quoteFirst": ", and on the 30th at ",
     "quoteTime": "3:17 a. m.",
     "quoteLast": " On the 21st at 6:28 a.",
@@ -48,5 +58,25 @@
     "author": "Various; Buckland, A. R. (Augustus Robert), 1857-1942 [Editor]",
     "gutenbergReference": "18661",
     "hash": "a267bf43fbf7f0bf95d0a942ee7185747dc63cafe7b5fa75620e4917bd51a202"
+  },
+  {
+    "time": "03:17",
+    "quoteFirst": "It was precisely ",
+    "quoteTime": "seventeen minutes past three",
+    "quoteLast": ".”",
+    "title": "The Markenmore Mystery",
+    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
+    "gutenbergReference": "59818",
+    "hash": "89550befc0cbf1c48a1b91a857df4c8821ffd49974b142eef24cde73a8467081"
+  },
+  {
+    "time": "03:17",
+    "quoteFirst": "At ",
+    "quoteTime": "seventeen minutes past three",
+    "quoteLast": " Felicia Day, seamstress, became a thief.",
+    "title": "Little Miss By-The-Day",
+    "author": "Van Slyke, Lucille, 1880-",
+    "gutenbergReference": "6002",
+    "hash": "2f6dbd5bbc474df431757c5d6110a916d82ba411209c912be871c44031b41e5c"
   }
 ]

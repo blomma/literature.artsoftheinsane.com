@@ -1,102 +1,202 @@
 [
   {
     "time": "14:58",
-    "quoteFirst": "I had left Tiflis ",
-    "quoteTime": "about 3 in the afternoon",
-    "quoteLast": " of the 5th of September, and reached this place in the evening of the 9th, five days to travel 274 wersti (195 miles).",
-    "title": "A woman's journey round the world",
-    "author": "Pfeiffer, Ida, 1797-1858",
-    "gutenbergReference": "11039",
-    "hash": "68ddfd76c459f6e98fbfc49fda2f3e60b02045b6b5561fa7972aef2e747f8d74"
+    "quoteFirst": "While scouting, ",
+    "quoteTime": "about 3 P. M.",
+    "quoteLast": " one of General Smith's body-guards, riding a little in the advance, was shot dead by some cowardly bushwhackers, stripped of all valuables, boots and hat, leaving the corpse in the road, taking two other prisoners.",
+    "title": "An Artilleryman's Diary",
+    "author": "Jones, Jenkins Lloyd, 1843-1918",
+    "gutenbergReference": "33211",
+    "hash": "fa079fc81f04745456f39f6fa3e5621ac3f170bed666832031c2bd1e46d3e784"
   },
   {
     "time": "14:58",
-    "quoteFirst": "The Tenth Vermont was relieved by some of the Fifth Corps ",
-    "quoteTime": "about 3 o'clock p. m.",
-    "quoteLast": ", our Division having been ordered further to the left adjoining the \"Bloody Angle\" or \"Slaughter Pen.\"",
-    "title": "Personal Recollections and Civil War Diary, 1864",
-    "author": "Abbott, Lemuel Abijah, 1842-1911",
-    "gutenbergReference": "47332",
-    "hash": "3aa1418d0efa45ba08f57c914c3d6d15ba9b84fd08a30028d462c16f7213a2ef"
+    "quoteFirst": "I hoped to remain until night, when I intended to try to get to Hell Gate and cross the Sound; but ",
+    "quoteTime": "about 3 o'clock in the afternoon",
+    "quoteLast": " was discovered by a party of Hessians and obliged to surrender--thus ended the career of that day.",
+    "title": "The Campaign of 1776 around New York and Brooklyn\r\nIncluding a new and circumstantial account of the battle of Long island and the loss of New York, with a review of events to the close of the year",
+    "author": "Johnston, Henry Phelps, 1842-1923",
+    "gutenbergReference": "21990",
+    "hash": "fd90ade58a333cc7661204ce50f950157dde1e6a677f572b44eef8b4962e7f64"
   },
   {
     "time": "14:58",
-    "quoteFirst": "At ",
+    "quoteFirst": "At last, ",
+    "quoteTime": "about three P.M.",
+    "quoteLast": ", we found a vacant space near the Matbakh, or kitchen, formerly belonging to a Sharif\u0092s palace, but now a ruin with a few shells of arches.",
+    "title": "Personal Narrative of a Pilgrimage to Al-Madinah & Meccah — Volume 2",
+    "author": "Burton, Richard Francis, Sir, 1821-1890",
+    "gutenbergReference": "4658",
+    "hash": "1c067a69a2ccb8f8df1ca5e264900d16db40e66bbef18a90f12139b36f82cc81"
+  },
+  {
+    "time": "14:58",
+    "quoteFirst": "Cefalonia, the opposite feature, shows more fertility, because we see her landward face, and her tall cones Georgio and Elato, which make sunset ",
+    "quoteTime": "about three p.m.",
+    "quoteLast": ", condense the vapours and water her with 'Scotch mist.'",
+    "title": "The Life of Captain Sir Richard F. Burton, volume 2 (of 2)\r\nBy His Wife, Isabel Burton",
+    "author": "Burton, Isabel, Lady, 1831-1896",
+    "gutenbergReference": "54846",
+    "hash": "4267309a2436d444246b516884f9ebf783ccf418b3b09e77e02007a277f86eee"
+  },
+  {
+    "time": "14:58",
+    "quoteFirst": "Yet once more they were assailed by German volleys before, ",
     "quoteTime": "about 3 p.m.",
-    "quoteLast": " the minarets of Stamboul stood out of a glorious afternoon sky.",
-    "title": "The Secrets of a Kuttite\nAn Authentic Story of Kut, Adventures in Captivity and Stamboul Intrigue",
-    "author": "Mousley, Edward O. (Edward Opotiki), 1886-",
-    "gutenbergReference": "41213",
-    "hash": "c90f0550372227f21a002e10ad084d20b6eabbb347a6c0e73b6ef5b032417d9d"
+    "quoteLast": ", they found a haven near Montdidier.",
+    "title": "The Dominion of the Air: The Story of Aerial Navigation",
+    "author": "Bacon, John M. (John Mackenzie), 1846-1904",
+    "gutenbergReference": "861",
+    "hash": "757334f5722f01514a6fbbfd81af80c54cedd897bb811ac765b88d8dd94f504b"
   },
   {
     "time": "14:58",
-    "quoteFirst": "At this time the wind had lulled, and we were only making eight knots an hour; so that ",
-    "quoteTime": "about three o’clock in the afternoon",
-    "quoteLast": " the strange sail was distant from us perhaps six miles, and following directly astern, with the “stars and stripes” run up on her foremast.",
-    "title": "A year in China",
-    "author": "Williams, Martha Noyes, 1813-1879; Bryant, William Cullen, 1794-1878 [Author of introduction, etc.]",
-    "gutenbergReference": "76474",
-    "hash": "d7c216f0775754c055d56c69dbd5f52bdb2cf34da8c74d137b3a8ac54551c724"
+    "quoteFirst": "\"Either because he has confidence in me, or is indifferent on the subject, he seldom questions me about the way in which I spend my time; but a couple of days ago, not feeling as well as usual, he returned home ",
+    "quoteTime": "about three o'clock in the afternoon",
+    "quoteLast": ". I supposed that he would be absent all day, as he told me in the morning that he would not dine at home, so I did not return from Michel's until ten in the evening.\"",
+    "title": "The Seven Cardinal Sins: Envy and Indolence",
+    "author": "Sue, Eugène, 1804-1857; Marcel, Adrian [Illustrator]",
+    "gutenbergReference": "38142",
+    "hash": "0bf763cc4d9e1187c7646a1a3dd93047030ab1d8a9e28fa9203d8310a39dc896"
   },
   {
     "time": "14:58",
-    "quoteFirst": "",
-    "quoteTime": "About 3 o'clock in the afternoon",
-    "quoteLast": ", a squad of the bans hove in sight of a small village, _i.",
-    "title": "Lincolniana; Or, The Humors of Uncle Abe",
-    "author": "Adderup, Andrew",
-    "gutenbergReference": "45386",
-    "hash": "e8e3a51592f7a92b2225f4ff5d4dc21ef5e2d2a54d2b5738e0c476ba29023c75"
+    "quoteFirst": "I arrived at Captain Brentwood's ",
+    "quoteTime": "about three o'clock in the afternoon",
+    "quoteLast": ".",
+    "title": "The Recollections of Geoffrey Hamlyn",
+    "author": "Kingsley, Henry, 1830-1876",
+    "gutenbergReference": "3786",
+    "hash": "3d91826c5157fd8b291526e79663b87e8fe60aaa2d2f8543aa40aba248c191c1"
   },
   {
     "time": "14:58",
-    "quoteFirst": "",
-    "quoteTime": "About three in the afternoon",
-    "quoteLast": " the stage put me down at Terry's Tavern on the \"plank-road\" in Olive.",
-    "title": "Our Friend John Burroughs",
-    "author": "Barrus, Clara, 1864-1931",
-    "gutenbergReference": "6561",
-    "hash": "a7daf13c5c172f63512c685d44e37a9e82576f1300ce4575f0950023dd366390"
+    "quoteFirst": "This took place ",
+    "quoteTime": "about 3 p.m.",
+    "quoteLast": ", and was witnessed by General Sherman and General Bernard (United States Engineers) and myself.",
+    "title": "Memoirs of General William T. Sherman — Volume 2",
+    "author": "Sherman, William T. (William Tecumseh), 1820-1891",
+    "gutenbergReference": "2617",
+    "hash": "0c7dd71eb6dfd3588758956a9809ffe5f7b0a7b17f4e259759df43f76735c19f"
+  },
+  {
+    "time": "14:58",
+    "quoteFirst": "We reached the grotto at ",
+    "quoteTime": "about three in the afternoon",
+    "quoteLast": ", and proceeded at once to make the experiments.",
+    "title": "The Innocents Abroad",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3176",
+    "hash": "dceb8f0e38a5f514863a8cf3934abd25137a059fdaa86e7c12d02c0d8b472dc4"
+  },
+  {
+    "time": "14:58",
+    "quoteFirst": "“Yesterday, from ",
+    "quoteTime": "about 3 o’clock in the afternoon",
+    "quoteLast": ", till about nightfall, Hyde Park was the scene of one continual riot, of a disgraceful and intolerable description; and not the less so, perhaps, because it was not accompanied by any serious injury to property, nor any loss of life--results with which the mind is apt to connect great popular tumults--though in many instances it was attended with the commission of personal violence on a number of unoffending persons. It is a naked, incontrovertible fact, let it bear what interpretation it may, and with whomsoever the blame may rest, that a place set apart for the recreation of the people of all ranks and classes, without distinction, was, yesterday (a Sunday), almost wholly surrendered to a lawless, ruffianly mob, without anything like an organized attempt to suppress the tumult to which they gave themselves up, or to prevent the",
+    "title": "Hyde Park from Domesday-book to Date",
+    "author": "Ashton, John, 1834-1911",
+    "gutenbergReference": "51438",
+    "hash": "66fb07405f78a7f9b633db3ec43e64f7814e1948d0552c24008425a383c91373"
+  },
+  {
+    "time": "14:58",
+    "quoteFirst": "--During my being there, the steeple of St. Mary's Church was much battered by two cannons purposely placed: I was there one day ",
+    "quoteTime": "about three of the clock in the afternoon",
+    "quoteLast": ", talking with the cannoneer, when presently he desired us to look to ourselves, for he perceived by his perspective glass there was a piece charged in the castle against his work, and ready to be discharged.",
+    "title": "William Lilly's History of His Life and Times, from the Year 1602 to 1681",
+    "author": "Lilly, William, 1602-1681; Ashmole, Elias, 1617-1692 [Editor]",
+    "gutenbergReference": "15835",
+    "hash": "8b72843b75c7047bab77ae6d75b92db78513a30e80bd24e58705aa8f392495bd"
+  },
+  {
+    "time": "14:58",
+    "quoteFirst": "He proceeded to Easingwold and got a pint of ale; from thence to Thirsk, at which place he arrived at eleven o'clock; from Thirsk he went to Northallerton, where he arrived ",
+    "quoteTime": "about three o'clock in the afternoon",
+    "quoteLast": " in a state of apparent fatigue.",
+    "title": "Yorkshire Oddities, Incidents, and Strange Events",
+    "author": "Baring-Gould, S. (Sabine), 1834-1924",
+    "gutenbergReference": "47386",
+    "hash": "305eed3cefd3f629c1e2aa7766ba45134a15b0b561b75ef166f795c36ec2dd6a"
+  },
+  {
+    "time": "14:58",
+    "quoteFirst": "We had a refreshing nap, then got up ",
+    "quoteTime": "about three in the afternoon",
+    "quoteLast": " and put on our panoply.",
+    "title": "A Tramp Abroad",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "119",
+    "hash": "181e510abf76c1ba52545c18405589006ad9255527e8ea53530f2468e34bc301"
+  },
+  {
+    "time": "14:58",
+    "quoteFirst": "General Smith, our division commander, ",
+    "quoteTime": "about three o'clock in the afternoon",
+    "quoteLast": " received orders to advance upon the enemy in our front, and immediately our attacking force was formed by Lauman's brigade, in column of regiments, consisting of the Twenty-fifth Indiana, and three Iowa regiments, General Smith himself leading the attack.",
+    "title": "War Stories for my Grandchildren",
+    "author": "Foster, John Watson, 1836-1917",
+    "gutenbergReference": "51552",
+    "hash": "7f29bec727f84661d3000a5d71a282195d1566b950e8295791f8d529930bbe2c"
+  },
+  {
+    "time": "14:58",
+    "quoteFirst": "The two Whippets remained out on patrol for about an hour, but no further attack was attempted, and they returned to the village ",
+    "quoteTime": "about 3 p.m.",
+    "quoteLast": " Later in the afternoon the gap in our lines was filled by the arrival of a New Zealand Division.",
+    "title": "The Tank Corps",
+    "author": "Williams-Ellis, Clough, 1883-1978; Williams-Ellis, Amabel, 1894-1984; Elles, Hugh Jamieson, 1880-1945 [Author of introduction, etc.]",
+    "gutenbergReference": "62881",
+    "hash": "a8a222f55974ff1a922c66bb569ea3cd05ec805d94304973d906bb116b569f40"
+  },
+  {
+    "time": "14:58",
+    "quoteFirst": "He did not breakfast at home the next morning; I did not see him the next morning; I saw him ",
+    "quoteTime": "about three o'clock in the afternoon",
+    "quoteLast": " of Monday; my wife made his bed.\"",
+    "title": "The Trial of Charles Random de Berenger, Sir Thomas Cochrane, commonly called Lord Cochrane, the Hon. Andrew Cochrane Johnstone, Richard Gathorne Butt, Ralph Sandom, Alexander M'Rae, John Peter Holloway, and Henry Lyte for A Conspiracy\r\nIn the Court of King's Bench, Guildhall, on Wednesday the 8th, and Thursday the 9th of June, 1814",
+    "author": "Gurney, William Brodie, 1777-1855 [Transcriber]",
+    "gutenbergReference": "21027",
+    "hash": "dadce72328b0b40152e722fe89a8367842c92a52c77420228b20344e0a81fa1a"
   },
   {
     "time": "14:58",
     "quoteFirst": "",
     "quoteTime": "About three o’clock in the afternoon",
-    "quoteLast": " my friend came in with the good tidings that he had changed his mind, and concluded to accompany me, which quite encouraged me, though it did not change my trust from divine to human aid.",
-    "title": "The life of John Thompson, a fugitive slave",
-    "author": "Thompson, John, 1812-1860",
-    "gutenbergReference": "70985",
-    "hash": "80c805891e5e2cee6e441f19ccb65deb6f6067a1025244a10c19d25ce39eff8f"
+    "quoteLast": ", while we were passing through a very dense tract of forest country, we came upon a place about three or four acres in extent, that seemed to have been lately cleared, with a small house formed of stakes and palm leaves, standing in the centre.",
+    "title": "Travels in the Interior of Brazil\r\nPrincipally through the northern provinces, and the gold and diamond districts, during the years 1836-1841",
+    "author": "Gardner, George, 1812-1849",
+    "gutenbergReference": "58045",
+    "hash": "57b6b1458a110cd13885526ec33dfd15de681b7a81b20a2c0eceb191c327a731"
   },
   {
     "time": "14:58",
-    "quoteFirst": "",
-    "quoteTime": "About three o'clock in the afternoon",
-    "quoteLast": " during the warm weather Mother would begin skimming the milk, carrying it pan by pan to the big cream pan, where with a quick movement of a case knife the cream was separated from the sides of the pan, the pan tilted on the edge of the cream pan and the heavy mantle of cream, in folds or flakes, slid off into the receptacle and the thick milk emptied into pails to be carried to the swill barrel for the hogs.",
-    "title": "My Boyhood",
-    "author": "Burroughs, John, 1837-1921",
-    "gutenbergReference": "7280",
-    "hash": "2c51eca7be6bdbfb1d02686b5e04610f78f62068af982e7c504a5ec37c96fbc6"
-  },
-  {
-    "time": "14:58",
-    "quoteFirst": "It has been noticed that the song of the Yellow Hammer may always be heard ",
-    "quoteTime": "about three o'clock in the afternoon",
-    "quoteLast": ".",
-    "title": "British Birds in Their Haunts",
-    "author": "Johns, C. A. (Charles Alexander), 1811-1874; Owen, J. A. (Jean Allan), 1841-1922 [Editor]; Foster, William, 1853-1924 [Illustrator]",
-    "gutenbergReference": "38077",
-    "hash": "e29bfb6c964966aa3a03bf83c9ff4b7c6355e3bb3839245191aaa4ef7f032615"
-  },
-  {
-    "time": "14:58",
-    "quoteFirst": "It was one of the hottest days of August, when in those parts the heat is very great, and it was ",
+    "quoteFirst": "At ten o’clock on Thursday morning, the Court met according to adjournment, to bring the business then before them to a close, without much hope of hearing any further of the horse-stealer at this time; when ",
     "quoteTime": "about three in the afternoon",
-    "quoteLast": " when Sancho left them.",
-    "title": "Don Quixote of the Mancha, Retold by Judge Parry",
-    "author": "Parry, Edward Abbott, Sir, 1863-1943; Cervantes Saavedra, Miguel de, 1547-1616; Crane, Walter, 1845-1915 [Illustrator]",
-    "gutenbergReference": "55106",
-    "hash": "b00397eb4dac0f4ae5cee8eb7cc2acee1158ef8cfd08536d9d3b4babc6859759"
+    "quoteLast": ", a servant of Mr. Knox’s, (who it will be remembered was the plaintiff in the cause,) came direct to the Court with information to his master, that his other horse was missing out of the pasture; that he had been known to be in the pasture at one o’clock at night, and was gone in the morning; and that a strange Indian had been seen about the place.",
+    "title": "Henry More Smith: The Mysterious Stranger",
+    "author": "Bates, Walter",
+    "gutenbergReference": "65686",
+    "hash": "3531b041443c7949b05bbbf9db1dd14f1e3fdc8f011346746c123fb2d59212d3"
+  },
+  {
+    "time": "14:58",
+    "quoteFirst": "\"After Dinner ",
+    "quoteTime": "about 3 P.M.",
+    "quoteLast": " I went to see the Execution. Many were      the people that saw upon Broughtons Hill But when I came to see      how the River was covered with People I was amazed; Some say there      were 100 boats. 150 Boats & Canoes saith Cousin Moody of York. He      Told them. Mr. Cotton Mather came with Captain Quelch & 6 others      for Execution from the Prison to Scarletts Wharf and from thence in      Boat to the place of Execution. When the Scaffold was hoisted to a      due height the seven Malefactors went up. Mr. Mather pray'd for      them standing upon the Boat. Ropes were all fastened to the Gallows      save King who was Reprieved. When the Scaffold was let to sink      there was such a Screech of the Women that my wife heard it sitting      in our Entry next the Orchard and was much surprised at it, yet the      wind was sou-west. Our house is a full mile",
+    "title": "Customs and Fashions in Old New England",
+    "author": "Earle, Alice Morse, 1851-1911",
+    "gutenbergReference": "24159",
+    "hash": "7f15ff33cae152ce4e97333a0bf291790335471e77079ab73bbc7e08d4a41706"
+  },
+  {
+    "time": "14:58",
+    "quoteFirst": "On Saturday the 10th of March, ",
+    "quoteTime": "about three in the afternoon",
+    "quoteLast": ", he suddenly burst into tears, and said with a loud cry, \"Oh, forsake me not!\"",
+    "title": "The Works of William Cowper\r\nHis life, letters, and poems, now first completed by the introduction of Cowper's private correspondence",
+    "author": "Cowper, William, 1731-1800; Cunningham, J. W. (John William), 1780-1861 [Contributor]; Hayley, William, 1745-1820 [Contributor]; Grimshawe, T. S. (Thomas Shuttleworth), 1778-1850 [Editor]",
+    "gutenbergReference": "47790",
+    "hash": "087f2b25aa8f617319a37176541d218acae3dbfa595930a1c64da09ec11899aa"
   }
 ]

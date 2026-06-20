@@ -41,6 +41,16 @@
   },
   {
     "time": "12:24",
+    "quoteFirst": "The meeting adjourned at ",
+    "quoteTime": "12:24 p. m.",
+    "quoteLast": "",
+    "title": "Papers and Proceedings of the Thirty-Fourth Annual Meeting of the American Library Association\r\nHeld at Ottawa, Canada, June 26-July 2, 1912",
+    "author": "American Library Association. General Meeting [Editor]",
+    "gutenbergReference": "45756",
+    "hash": "f5f4da73c872ca150291e689d4603617c2e482b96dc2275fc73b3b472121113d"
+  },
+  {
+    "time": "12:24",
     "quoteFirst": "Saturday at New York, U. S.   ",
     "quoteTime": "12:24 p. m.",
     "quoteLast": " Saturday at Boston, U. S.   4:31 p.",

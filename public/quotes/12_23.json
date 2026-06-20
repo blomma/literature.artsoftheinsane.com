@@ -1,6 +1,16 @@
 [
   {
     "time": "12:23",
+    "quoteFirst": "“",
+    "quoteTime": "Twenty-three minutes after twelve",
+    "quoteLast": ", afternoon shall--”",
+    "title": "Alonzo Fitz, and Other Stories",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3184",
+    "hash": "9ef2e406e394be3d0e4946653f71155726c58c41524c6f645449e90fdc17b99f"
+  },
+  {
+    "time": "12:23",
     "quoteFirst": "The time now was ",
     "quoteTime": "twenty-three minutes past twelve",
     "quoteLast": ".",
@@ -21,6 +31,16 @@
   },
   {
     "time": "12:23",
+    "quoteFirst": "\"The letter ends there,\" said M. Masseron, handing it back to Coralie, \"and we know by an unimpeachable sign that the last lines were written immediately before M. Essarès' death, because, in falling, he upset a little clock which stood on his desk and which marked ",
+    "quoteTime": "twenty-three minutes past twelve",
+    "quoteLast": ". I assume that he felt unwell and that, on trying to rise, he was seized with a fit of giddiness and fell to the floor. Unfortunately, the fireplace was near, with a fierce fire blazing in it; his head struck the grate; and the wound that resulted was so deep--the surgeon testified to this--that he fainted. Then the fire close at hand did its work .\u00A0.\u00A0. with the effects which you have seen. .\u00A0.\u00A0.\"",
+    "title": "The Golden Triangle: The Return of Arsène Lupin",
+    "author": "Leblanc, Maurice, 1864-1941",
+    "gutenbergReference": "34795",
+    "hash": "e21a1d22bd10b7f508589fb7103a56dddc561b6fdcf6a8e705bb7e61942b95d7"
+  },
+  {
+    "time": "12:23",
     "quoteFirst": "A few hours later, at ",
     "quoteTime": "twenty-three minutes past twelve",
     "quoteLast": ", this same amethyst pendant is discovered clutched in the hand of another man.",
@@ -28,6 +48,26 @@
     "author": "Leblanc, Maurice, 1864-1941",
     "gutenbergReference": "34795",
     "hash": "443a862fb1af09a557b73380d1313bbdaa6f9880834eeed0af66973e12d99382"
+  },
+  {
+    "time": "12:23",
+    "quoteFirst": "And, five hours later, at ",
+    "quoteTime": "twenty-three past twelve",
+    "quoteLast": ", Essarès Bey himself was murdered, presumably by one of his accomplices.",
+    "title": "The Golden Triangle: The Return of Arsène Lupin",
+    "author": "Leblanc, Maurice, 1864-1941",
+    "gutenbergReference": "34795",
+    "hash": "d3fe907f27b89f22a5b5ccc3ed69c51bef332b2297c0b96e40e579be98618abc"
+  },
+  {
+    "time": "12:23",
+    "quoteFirst": "The most that I am able to presume is that, like the pendant, the scrap of paper was snatched by Essarès Bey from the man who died at nineteen minutes past seven this morning and that, when he himself was killed at ",
+    "quoteTime": "twenty-three minutes past twelve",
+    "quoteLast": ", he was occupied in examining it.\"",
+    "title": "The Golden Triangle: The Return of Arsène Lupin",
+    "author": "Leblanc, Maurice, 1864-1941",
+    "gutenbergReference": "34795",
+    "hash": "1af2517d28c40a54a43baf7eefca59c884845f775c3c59f0b16973043fdd7fab"
   },
   {
     "time": "12:23",
@@ -41,6 +81,16 @@
   },
   {
     "time": "12:23",
+    "quoteFirst": "In Chapter XIX, \"Rue Guimart\" was changed to \"Rue Guimard\", \"which stoppd at ",
+    "quoteTime": "twenty-three minutes past twelve",
+    "quoteLast": "\" was changed to \"which stopped at twenty-three minutes past twelve\", and \"to discovered the hiding-place\" was changed to \"to discover the hiding-place\".",
+    "title": "The Golden Triangle: The Return of Arsène Lupin",
+    "author": "Leblanc, Maurice, 1864-1941",
+    "gutenbergReference": "34795",
+    "hash": "0b94f9f24d72febfbdde661b856395c8b4c78393711b8683c926f781dbd0fd8a"
+  },
+  {
+    "time": "12:23",
     "quoteFirst": "7th) the hypocotyl moved from 8 A.M. to ",
     "quoteTime": "12.23 P.M.",
     "quoteLast": ", toward the light in a zigzag line, then turned abruptly to the left and afterwards described a small ellipse.",
@@ -48,5 +98,15 @@
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
     "hash": "629b3f647fbfc88ac92e637f04affd6ad9ea51123dc025c235456f75465008b8"
+  },
+  {
+    "time": "12:23",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty-three minutes after twelve",
+    "quoteLast": ", afternoon shall--\"",
+    "title": "The Entire Project Gutenberg Works of Mark Twain",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3200",
+    "hash": "eba27772a0958144eedf8cd32e45e10f7ec19316b2dbe9d79f6b37e1c67ecd07"
   }
 ]

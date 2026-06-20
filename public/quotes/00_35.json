@@ -1,53 +1,13 @@
 [
   {
     "time": "00:35",
-    "quoteFirst": "We came here in about the following courses: 10.27 south-south-west for four and three-quarter miles to Salton Creek; 11.5 a.m. south-south-west for one and three-quarter miles to Salton Creek; 11.30 a.m. south-south-east for one and a half miles to Isabella Creek; 12 a.m. south-south-east for one and a half miles; ",
-    "quoteTime": "12.35 a.m.",
-    "quoteLast": " east one mile; 12.50 a.m. south-east for one mile; 1.55 p.m. west-south-west for three miles; 3.30 a.m. south-south-west for three and a half miles to Stark Creek.",
-    "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
-    "author": "Landsborough, William, 1825-1886",
-    "gutenbergReference": "16243",
-    "hash": "d043079ebfff51564ae42ee6f5ef255c0b9653e9b15b538d7ca5156c4e95ad0c"
-  },
-  {
-    "time": "00:35",
-    "quoteFirst": "What Freddie might have replied to this pertinent question will never be known, for at this moment, looking nervously at his watch for the twentieth time, he observed that the hands had passed the half-hour and were well on their way to ",
-    "quoteTime": "twenty-five minutes to one",
-    "quoteLast": ".",
-    "title": "Leave it to Psmith",
-    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
-    "gutenbergReference": "60067",
-    "hash": "043747f8de0899e6b9db10200dc3aa1f368411e160d34cd8e4c3e66754e6cb60"
-  },
-  {
-    "time": "00:35",
-    "quoteFirst": "The report read: \"I beg to report that at ",
-    "quoteTime": "12.35 A. M.",
-    "quoteLast": " Monday 18th inst. I was informed of urgent message from Titanic with her position. I immediately ordered ship turned around and put her in course for that position, we being then 58 miles S. 52--E. 'T' from her; had heads of all departments called and issued what I considered the necessary orders, to be in preparation for any emergency.",
-    "title": "Sinking of the Titanic and Great Sea Disasters",
-    "author": "Marshall, Logan, 1884-1937 [Editor]",
-    "gutenbergReference": "781",
-    "hash": "a6c755b4c3a369299736502a097d609d7af636d8901f13a3d7383bbd9f13102e"
-  },
-  {
-    "time": "00:35",
-    "quoteFirst": "He started at ",
-    "quoteTime": "12.35 a.m.",
-    "quoteLast": ", and rowed to Beccles Bridge, a distance of 40 miles, and returned to Carrow Bridge; he then pulled down the river to Rockland Dyke, and back, a distance of 20 miles, finishing at 8.28 p.m., and completing the whole distance in 19 hrs.",
-    "title": "Norfolk Annals, Vol. 1\r\nA Chronological Record of Remarkable Events in the Nineteeth Century",
-    "author": "Mackie, Charles, 1858?-1940",
-    "gutenbergReference": "34439",
-    "hash": "33f5c1b17d28c3126857c3fa74ed79e6585e9bcdeb4de6b16bcc12e14c776816"
-  },
-  {
-    "time": "00:35",
-    "quoteFirst": "The Queen entered the chapel at ",
-    "quoteTime": "twenty-five minutes to one",
-    "quoteLast": ", and immediately proceeded to her chair in front of the altar-rails.",
-    "title": "Life of Her Most Gracious Majesty the Queen — Volume 1",
-    "author": "Tytler, Sarah, 1827-1914",
-    "gutenbergReference": "6910",
-    "hash": "79cfee323e4489cd66f6f41254db5c6af1b8ebcf7ce4fbed95aa246bbe9937cd"
+    "quoteFirst": "The party left Cache Island at ",
+    "quoteTime": "12.35 A.M.",
+    "quoteLast": ", crossing the land-ices by portage, and going south for about a mile to avoid a couple of bad seams caused by the breakage of the glacier.",
+    "title": "The Far North: Exploration in the Arctic Regions",
+    "author": "Kane, Elisha Kent, 1820-1857",
+    "gutenbergReference": "52631",
+    "hash": "1324b55df371b282443c77adbb583904640f0c7f8f63973271128b4affe65c85"
   },
   {
     "time": "00:35",
@@ -61,13 +21,13 @@
   },
   {
     "time": "00:35",
-    "quoteFirst": "He then took the express which arrives in Paris at 4:30 p.m., intending to return by the ",
-    "quoteTime": "12:35 a.m.",
-    "quoteLast": " train so as not to have to sleep at a hotel.",
-    "title": "The Works of Guy de Maupassant, Volume VIII.",
-    "author": "Maupassant, Guy de, 1850-1893",
-    "gutenbergReference": "22069",
-    "hash": "d324eb0884886c0df4d0e1465796acb3fe653e6b8416eba65e34d09df17d491b"
+    "quoteFirst": "Caleb Trench had been seen to enter the building at ",
+    "quoteTime": "twenty-five minutes to one",
+    "quoteLast": " o’clock, and his time up to the assassination was unaccounted for.",
+    "title": "Caleb Trench",
+    "author": "Taylor, Mary Imlay, 1878-1938; McConnell, Emlen, 1872-1947 [Illustrator]",
+    "gutenbergReference": "69145",
+    "hash": "539591adc5a1e3118010e06e32cc5ff917e61db6c94a3e41ca16a6054781b197"
   },
   {
     "time": "00:35",
@@ -81,6 +41,46 @@
   },
   {
     "time": "00:35",
+    "quoteFirst": "The report read: \"I beg to report that at ",
+    "quoteTime": "12.35 A. M.",
+    "quoteLast": " Monday 18th inst. I was informed of urgent message from Titanic with her position. I immediately ordered ship turned around and put her in course for that position, we being then 58 miles S. 52--E. 'T' from her; had heads of all departments called and issued what I considered the necessary orders, to be in preparation for any emergency.",
+    "title": "The Tragic Story of the Empress of Ireland, and Other Great Sea Disasters",
+    "author": "Marshall, Logan, 1884-1937",
+    "gutenbergReference": "58274",
+    "hash": "2f4b2dbc376f13740a037c557f1bf2e96be7e7b3cfd2cda55d358d718bfb1c78"
+  },
+  {
+    "time": "00:35",
+    "quoteFirst": "The Queen entered the chapel at ",
+    "quoteTime": "twenty-five minutes to one",
+    "quoteLast": ", and immediately proceeded to her chair in front of the altar-rails.",
+    "title": "Life of Her Most Gracious Majesty the Queen — Volume 1",
+    "author": "Tytler, Sarah, 1827-1914",
+    "gutenbergReference": "6910",
+    "hash": "79cfee323e4489cd66f6f41254db5c6af1b8ebcf7ce4fbed95aa246bbe9937cd"
+  },
+  {
+    "time": "00:35",
+    "quoteFirst": "The party left Cache Island at ",
+    "quoteTime": "12.35 A.M.",
+    "quoteLast": ", crossing the land-ices by portage, and going south for about a mile to avoid a couple of bad seams caused by the breakage of the glacier.",
+    "title": "The Far North: Exploration in the Arctic Regions",
+    "author": "Kane, Elisha Kent, 1820-1857",
+    "gutenbergReference": "52631",
+    "hash": "1324b55df371b282443c77adbb583904640f0c7f8f63973271128b4affe65c85"
+  },
+  {
+    "time": "00:35",
+    "quoteFirst": "About ",
+    "quoteTime": "twenty-five minutes before one",
+    "quoteLast": " o’clock Langan entered the ring, attended by his second, Halton, with Norman as his bottle-holder; immediately after, Owen M’Gowran, attended by Kearney as his second, with his bottle-holder, advanced to the scene of action.",
+    "title": "Pugilistica: The History of British Boxing, Volume 2 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-1740, to the Last Championship Battle Between King and Heenan, in December 1863",
+    "author": "Miles, Henry Downes, 1806-1889",
+    "gutenbergReference": "61649",
+    "hash": "c8cfb7ee1bb12822f75127545cb95a028ec301a2c9e69bd2fe87e1c3d8ba1c79"
+  },
+  {
+    "time": "00:35",
     "quoteFirst": "Where was Oswald between ",
     "quoteTime": "12:35 a.m.",
     "quoteLast": ", and 1:10 a.m., on Saturday, November 23, that is right after midnight?",
@@ -91,12 +91,112 @@
   },
   {
     "time": "00:35",
-    "quoteFirst": "His lordship, who in his time had seen many juries befooled, summed up rather wearily, and at ",
+    "quoteFirst": "He turned the hands of his clock forward till they marked ",
     "quoteTime": "twenty-five minutes to one",
-    "quoteLast": " Mr. Morgan was found \"Not guilty.\"",
-    "title": "Anthony Lyveden",
-    "author": "Yates, Dornford, 1885-1960",
-    "gutenbergReference": "27684",
-    "hash": "12a282d5ed29a09dbbd6e291120e015b239ae07b4d267624a840a0bcc7cd469e"
+    "quoteLast": ", and said, \"Now see if you can't keep right for a while --else I'll raffle you!\"",
+    "title": "The Entire Project Gutenberg Works of Mark Twain",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3200",
+    "hash": "da543e9ac50d6c94494d547fab0c848c497da0ed5953b9b4c93fa5b32cf36efa"
+  },
+  {
+    "time": "00:35",
+    "quoteFirst": "The report read: \"I beg to report that at ",
+    "quoteTime": "12.35 A. M.",
+    "quoteLast": " Monday 18th inst. I was informed of urgent message from Titanic with her position. I immediately ordered ship turned around and put her in course for that position, we being then 58 miles S. 52--E. 'T' from her; had heads of all departments called and issued what I considered the necessary orders, to be in preparation for any emergency.",
+    "title": "The Tragic Story of the Empress of Ireland, and Other Great Sea Disasters",
+    "author": "Marshall, Logan, 1884-1937",
+    "gutenbergReference": "58274",
+    "hash": "2f4b2dbc376f13740a037c557f1bf2e96be7e7b3cfd2cda55d358d718bfb1c78"
+  },
+  {
+    "time": "00:35",
+    "quoteFirst": "The hands of the clock marked ",
+    "quoteTime": "twenty-five minutes before one",
+    "quoteLast": ".",
+    "title": "Mrs Peixada",
+    "author": "Harland, Henry, 1861-1905",
+    "gutenbergReference": "52702",
+    "hash": "aa136675c03ed79d67da8deedce212547a60e8644c52d83d8b086615d988a2ba"
+  },
+  {
+    "time": "00:35",
+    "quoteFirst": "The report read: \"I beg to report that at ",
+    "quoteTime": "12.35 A. M.",
+    "quoteLast": " Monday 18th inst. I was informed of urgent message from Titanic with her position. I immediately ordered ship turned around and put her in course for that position, we being then 58 miles S. 52--E. 'T' from her; had heads of all departments called and issued what I considered the necessary orders, to be in preparation for any emergency.",
+    "title": "The Tragic Story of the Empress of Ireland, and Other Great Sea Disasters",
+    "author": "Marshall, Logan, 1884-1937",
+    "gutenbergReference": "58274",
+    "hash": "2f4b2dbc376f13740a037c557f1bf2e96be7e7b3cfd2cda55d358d718bfb1c78"
+  },
+  {
+    "time": "00:35",
+    "quoteFirst": "He then took the express which arrives in Paris at 4:30 P.M., intending to return by the ",
+    "quoteTime": "12:35 A.M.",
+    "quoteLast": " train, so as not to have to sleep at a hotel.",
+    "title": "Complete Original Short Stories of Guy De Maupassant",
+    "author": "Maupassant, Guy de, 1850-1893; Henderson, A. E. [Translator]; McMaster, Albert Cohn [Translator]; Quesada, Louise Charlotte Garstin, 1864?- [Translator]",
+    "gutenbergReference": "3090",
+    "hash": "56d2f3669f627845c893790d1e096ed3198eee1d5de123fa26e9876bce6041f2"
+  },
+  {
+    "time": "00:35",
+    "quoteFirst": "The boiling takes from one hour and ",
+    "quoteTime": "twenty-five minutes to one",
+    "quoteLast": " hour and forty-five minutes, and about forty-five tons of granulated sugar can be made at each boiling in a fourteen-foot pan.",
+    "title": "Something about sugar",
+    "author": "Rolph, George M. (George Morrison), 1873-1932",
+    "gutenbergReference": "73616",
+    "hash": "9d0fc8b8ca0c0cf3ca1b0e15eb831618cf500fcb63e7e691263c920effca6bb6"
+  },
+  {
+    "time": "00:35",
+    "quoteFirst": "Caleb Trench had been seen to enter the building at ",
+    "quoteTime": "twenty-five minutes to one",
+    "quoteLast": " o’clock, and his time up to the assassination was unaccounted for.",
+    "title": "Caleb Trench",
+    "author": "Taylor, Mary Imlay, 1878-1938; McConnell, Emlen, 1872-1947 [Illustrator]",
+    "gutenbergReference": "69145",
+    "hash": "539591adc5a1e3118010e06e32cc5ff917e61db6c94a3e41ca16a6054781b197"
+  },
+  {
+    "time": "00:35",
+    "quoteFirst": "At noon on the day of the race the horses and carriages were taken to the course; at ",
+    "quoteTime": "five and twenty minutes to one",
+    "quoteLast": " Lord Lonsdale drove up in a pair-horse brougham; at one o'clock to the second he trotted his single horse, War Paint, to the starting-point, and War Paint bounded down the road.",
+    "title": "Highways and Byways in Surrey",
+    "author": "Parker, Eric, 1870-1955; Thomson, Hugh, 1860-1920 [Illustrator]",
+    "gutenbergReference": "28057",
+    "hash": "7ca5dd09f4cf362963cff847f24f193248a0c32b0ee7227697bdb1faa3a54b0a"
+  },
+  {
+    "time": "00:35",
+    "quoteFirst": "The report read: \"I beg to report that at ",
+    "quoteTime": "12.35 A. M.",
+    "quoteLast": " Monday 18th inst. I was informed of urgent message from Titanic with her position. I immediately ordered ship turned around and put her in course for that position, we being then 58 miles S. 52--E. 'T' from her; had heads of all departments called and issued what I considered the necessary orders, to be in preparation for any emergency.",
+    "title": "Sinking of the Titanic and Great Sea Disasters",
+    "author": "Marshall, Logan, 1884-1937 [Editor]",
+    "gutenbergReference": "781",
+    "hash": "a6c755b4c3a369299736502a097d609d7af636d8901f13a3d7383bbd9f13102e"
+  },
+  {
+    "time": "00:35",
+    "quoteFirst": "The last attempt of the Russians took place at about ",
+    "quoteTime": "thirty-five minutes past twelve",
+    "quoteLast": ".",
+    "title": "The British Expedition to the Crimea",
+    "author": "Russell, William Howard, Sir, 1820-1907",
+    "gutenbergReference": "46242",
+    "hash": "8aea918aba6ec37b0f2e0332aee1a38533a8ba62a0bd339d3188509510135f40"
+  },
+  {
+    "time": "00:35",
+    "quoteFirst": "At noon on the day of the race the horses and carriages were taken to the course; at ",
+    "quoteTime": "five and twenty minutes to one",
+    "quoteLast": " Lord Lonsdale drove up in a pair-horse brougham; at one o'clock to the second he trotted his single horse, War Paint, to the starting-point, and War Paint bounded down the road.",
+    "title": "Highways and Byways in Surrey",
+    "author": "Parker, Eric, 1870-1955; Thomson, Hugh, 1860-1920 [Illustrator]",
+    "gutenbergReference": "28057",
+    "hash": "7ca5dd09f4cf362963cff847f24f193248a0c32b0ee7227697bdb1faa3a54b0a"
   }
 ]

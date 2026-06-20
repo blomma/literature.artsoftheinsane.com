@@ -1,102 +1,202 @@
 [
   {
     "time": "14:02",
-    "quoteFirst": "On the 4th, while we were waiting for a wind, we amused ourselves by fishing, and gathering shells and seeds of various kinds; and early in the morning of the 5th, we cast off the hawser, hove short on the bower, and carried the kedge-anchor out, in order to warp the ship out of the cove, which having done, ",
-    "quoteTime": "about two o’clock in the afternoon",
-    "quoteLast": ", we hove up the anchor and got under sail; but the wind soon failing, we were obliged to come to an anchor again a little above Motuara.",
-    "title": "The Three Voyages of Captain Cook Round the World. Vol. I. Being the First of the First Voyage.",
-    "author": "Cook, James, 1728-1779; Banks, Joseph, 1743-1820 [Contributor]; Hawkesworth, John, 1715?-1773 [Editor]",
-    "gutenbergReference": "56196",
-    "hash": "41ab0ce07c68274d6464b86e9eb3d2b8dd841048cdf4e1c0bd68cdfe48f4c994"
+    "quoteFirst": "The same day, ",
+    "quoteTime": "about two in the afternoon",
+    "quoteLast": ", Courtin left La Logerie to go to Machecoul under pretence of buying a draught-ox, but in reality to get news of the events of the night,--events in which the municipal functionary had a special interest, as our readers will fully understand.",
+    "title": "The Last Vendée; or, the She-Wolves of Machecoul",
+    "author": "Dumas, Alexandre, 1802-1870",
+    "gutenbergReference": "49784",
+    "hash": "6cdd476db53847c7dd393b09b7c956bb9c2ae51f1154f2da697ad6a3c664337a"
   },
   {
     "time": "14:02",
-    "quoteFirst": "This was ",
-    "quoteTime": "about two o'clock in the afternoon",
-    "quoteLast": ".",
-    "title": "African Nature Notes and Reminiscences",
-    "author": "Selous, Frederick Courteney, 1851-1917; Roosevelt, Theodore, 1858-1919 [Author of introduction, etc.]; Caldwell, E. (Edmund G.), 1852-1930 [Illustrator]",
-    "gutenbergReference": "49270",
-    "hash": "4e42fdc98dba26ea3f5242b9c935b932806152da4356da03e01b360c8896ed0b"
+    "quoteFirst": "",
+    "quoteTime": "About 2 o’clock",
+    "quoteLast": " the Brown Line was occupied, where the trenches were found in almost perfect order, having suffered little from our bombardment.",
+    "title": "The history of the South African forces in France",
+    "author": "Buchan, John, 1875-1940",
+    "gutenbergReference": "76673",
+    "hash": "e43610af37bef21e87fb616d6c65eb98599e43e468ba0a9934da1e3f2d8de5f6"
+  },
+  {
+    "time": "14:02",
+    "quoteFirst": "I left here at ",
+    "quoteTime": "about 2 p.m.",
+    "quoteLast": " and returned at about 7 p.m. pretty tired.",
+    "title": "James Lusk: Letters & Memories",
+    "author": "Lusk, James, 1878-1915",
+    "gutenbergReference": "59757",
+    "hash": "c18c1066195f98ebc3dc04ad9332a2500d33db5321689573384bb25439ce1fd8"
+  },
+  {
+    "time": "14:02",
+    "quoteFirst": "",
+    "quoteTime": "About 2 o’clock P. M.",
+    "quoteLast": " the firing became general along the entire line, which continued until late in the afternoon, when the rebels were driven from the field with great loss.",
+    "title": "Journal History of the Twenty-Ninth Ohio Veteran Volunteers, 1861-1865\r\nIts Victories and its Reverses. And the campaigns and battles of Winchester, Port Republic, Cedar Mountain, Chancellorsville, Gettysburg, Lookout Mountain, Atlanta, the March to the Sea, and the campaign of the Carolinas, in which it bore an honorable part",
+    "author": "SeCheverell, J. Hamp (John Hamilton)",
+    "gutenbergReference": "65589",
+    "hash": "2f1d5d3b51021de5a25cc1f05503ce22c910efb19110ec6943977ea8af8b4763"
+  },
+  {
+    "time": "14:02",
+    "quoteFirst": "",
+    "quoteTime": "Shortly after two o’clock",
+    "quoteLast": " the _Euphrates_, _Crocodile_, and _Malabar_ hove to off Osborne as an escort to the royal yachts when the Queen embarked.",
+    "title": "Modern ships of war",
+    "author": "Reed, Edward J. (Edward James), Sir, 1830-1906; Simpson, Edward, 1824-1888; Kelley, J. D. Jerrold (James Douglas Jerrold), 1847-1922 [Contributor]",
+    "gutenbergReference": "73887",
+    "hash": "45dd898d29a0c8501696af5db3c5b18d85027568d13b39cbd20e461d1331c89e"
+  },
+  {
+    "time": "14:02",
+    "quoteFirst": "On the 27th of August, at ",
+    "quoteTime": "about two p. m.",
+    "quoteLast": ", our steamer stopped at Aquia Creek landing.",
+    "title": "Personal Recollections of the War of 1861\nAs Private, Sergeant and Lieutenant in the Sixty-First Regiment, New York Volunteer Infantry",
+    "author": "Fuller, Charles A.",
+    "gutenbergReference": "31353",
+    "hash": "a707bfe9d8e647c0712733844b35688c046704202bd18d8daf9e80b7a6986d06"
+  },
+  {
+    "time": "14:02",
+    "quoteFirst": "The business of the ring commences, ",
+    "quoteTime": "about 2 p.m.",
+    "quoteLast": " by a curious sort of prelude.",
+    "title": "The Mirror of Literature, Amusement, and Instruction. Volume 13, No. 352, January 17, 1829",
+    "author": "Various",
+    "gutenbergReference": "11342",
+    "hash": "0a75358bada25a466968aca18e15c711a3275d8c5104bd3d6755ef6fb36e7cd4"
+  },
+  {
+    "time": "14:02",
+    "quoteFirst": "At ",
+    "quoteTime": "about 2 p.m.",
+    "quoteLast": ", however, a start was effected, and all went well till a small drift was reached, when the 'cow-gun,' which had taken the place of our old and tried friend, the Naval gun, stuck hopelessly.",
+    "title": "The Second Battalion Royal Dublin Fusiliers in the South African War\nWith a Description of the Operations in the Aden Hinterland",
+    "author": "Romer, Cecil Francis, 1869-; Mainwaring, Arthur Edward, 1864-",
+    "gutenbergReference": "25618",
+    "hash": "fdcc5cf42a4eb7a8c784e35f0d63421c1d715840f89b67ffeaceab6cd5b9238e"
+  },
+  {
+    "time": "14:02",
+    "quoteFirst": "",
+    "quoteTime": "About two P.M.",
+    "quoteLast": " they met in Bank Street; Ford asked Dixon if he was ready; and upon an affirmative response being given, they both drew their revolvers and commenced firing.",
+    "title": "A Rebel War Clerk's Diary at the Confederate States Capital",
+    "author": "Jones, J. B. (John Beauchamp), 1810-1866",
+    "gutenbergReference": "31087",
+    "hash": "86845b8d175c98bc409b152a1810a36b29026a3fa61bb54790c93052d798b575"
+  },
+  {
+    "time": "14:02",
+    "quoteFirst": "",
+    "quoteTime": "About two o’clock in the afternoon",
+    "quoteLast": " we could make out black objects some distance ahead of us; as we drew nearer we could see that they were moving.",
+    "title": "The last voyage of the Karluk",
+    "author": "Bartlett, Bob, 1875-1946; Hale, Ralph T. (Ralph Tracy), 1880-1951",
+    "gutenbergReference": "74622",
+    "hash": "4b7ddf0a66fca9b62775e41a57f1cea16da5fce9fe88afe83900eebd95df10ea"
+  },
+  {
+    "time": "14:02",
+    "quoteFirst": "One day, after a long and fatiguing ride, he arrived, ",
+    "quoteTime": "about two in the afternoon",
+    "quoteLast": ", in a very ravenous state, at a convent or parsonage.",
+    "title": "Recollections of Manilla and the Philippines\nDuring 1848, 1849 and 1850",
+    "author": "MacMicking, Robert",
+    "gutenbergReference": "20189",
+    "hash": "cecf74e7403d073213e414d72824b7ac0804b382357e526e2078b1b365f75f65"
+  },
+  {
+    "time": "14:02",
+    "quoteFirst": "We remained here until ",
+    "quoteTime": "about two o'clock",
+    "quoteLast": ", when we were ordered back to camp, where we arrived at day-light and found everything ready to move.",
+    "title": "Three Years in the Service\nA Record of the Doings of the 11th Reg. Missouri Vols.",
+    "author": "McCall, D.",
+    "gutenbergReference": "48822",
+    "hash": "070fa92268ca668a42ea12f30efafa4327e98abf77f830c8966bf8908df15170"
+  },
+  {
+    "time": "14:02",
+    "quoteFirst": "",
+    "quoteTime": "About two in the afternoon",
+    "quoteLast": ", we saw a pretty high island bearing west from us; and at five, saw more islands and rocks to the westward of that.",
+    "title": "The Three Voyages of Captain Cook Round the World. Vol. I. Being the First of the First Voyage.",
+    "author": "Cook, James, 1728-1779; Banks, Joseph, 1743-1820 [Contributor]; Hawkesworth, John, 1715?-1773 [Editor]",
+    "gutenbergReference": "56196",
+    "hash": "ee78741ea4ed196f8e65d798bb9a2e356348439ac5ebc5e371ea371edaabbc59"
   },
   {
     "time": "14:02",
     "quoteFirst": "",
     "quoteTime": "About two o'clock in the afternoon",
-    "quoteLast": " a bombardment of the town began; the fire was concentrated near the Tifonty Mill and grew heavier every minute.",
-    "title": "The Truth About Port Arthur",
-    "author": "Nozhin, E. K. (Evgenii Konstantinovich); Swinton, E. D. (Ernest Dunlop), 1868-1951 [Editor]; Lindsay, A. B. (Alexander Bertram), 1872-1914 [Translator]",
-    "gutenbergReference": "59972",
-    "hash": "4bc857f90573ebe7ba80ee4e7294b92178c035ea266405f8eb9107bb4e679aff"
+    "quoteLast": " of the following day, one of the keepers carried him his dinner; and having carefully examined his irons, and found them fast, he left him.",
+    "title": "The Chronicles of Crime or The New Newgate Calendar. v. 1/2\r\nbeing a series of memoirs and anecdotes of notorious characters who have outraged the laws of Great Britain from the earliest period to 1841.",
+    "author": "Pelham, Camden; Browne, Hablot Knight, 1815-1882 [Illustrator]",
+    "gutenbergReference": "46585",
+    "hash": "f79415656db8d72417f03f30d611836e261825dc09b5cf3876178633e25fbbaa"
   },
   {
     "time": "14:02",
-    "quoteFirst": "Boulogne was reached ",
-    "quoteTime": "about 2 p.m.",
-    "quoteLast": ", but owing to the speed of the other vessels we were last in.",
-    "title": "The History of the 2/6th (Rifle) Battalion, \"the King's\" (Liverpool Regiment) 1914-1919",
-    "author": "Wurtzburg, C. E. (Charles Edward), 1891-1952",
-    "gutenbergReference": "49875",
-    "hash": "52ff2e8c602d3bbf50ab68def723acc661164163382aa4bb0fd874adbf8ef1f8"
+    "quoteFirst": "I remember once in India, when looking out for Venus, which was visible ",
+    "quoteTime": "about two p.m.",
+    "quoteLast": ", a native servant directed me to look “about one bamboo length from the moon;” and a young Englishman afterwards told me that he had seen it “about five feet from the moon.”",
+    "title": "Mirabilia descripta: The wonders of the East",
+    "author": "Jordanus, Catalani, Bishop of Columbum, active 1302-1330; Yule, Henry, Sir, 1820-1889 [Commentator]",
+    "gutenbergReference": "65474",
+    "hash": "d90b4c523a783015f77b83dc3ec50afbf5d97d202070bbf3c798a52b73924574"
   },
   {
     "time": "14:02",
-    "quoteFirst": "",
-    "quoteTime": "About two o’clock in the afternoon",
-    "quoteLast": ", therefore, Bob sent for one of the prisoners, and with Fazl as interpreter, gave him his instructions.",
-    "title": "The Air Patrol: A Story of the North-west Frontier",
-    "author": "Strang, Herbert; Cuneo, Cyrus, 1879-1916 [Illustrator]",
-    "gutenbergReference": "42417",
-    "hash": "4e35613312a0c12b6919d13e0c377843a9bb594c4416d93f567900359969af4c"
-  },
-  {
-    "time": "14:02",
-    "quoteFirst": "On Friday, the 30th December,     I came into the shop ",
-    "quoteTime": "about 2 p.m.",
-    "quoteLast": " It was a very quiet     day.",
-    "title": "The Gun Alley Tragedy: Record of the Trial of Colin Campbell Ross",
-    "author": "Brennan, T. C. (Thomas Cornelius), 1866-1944",
-    "gutenbergReference": "62861",
-    "hash": "9d3c996899c2f67199feb074c1538b34c11f5ae46ec7ee1a71224eb868b28bb4"
-  },
-  {
-    "time": "14:02",
-    "quoteFirst": "We were, however, not without hopes of getting round the western point of the reef and into the bay, till ",
-    "quoteTime": "about two o’clock in the afternoon",
-    "quoteLast": ", when we came before an opening or break in the reef, through which I hoped to get with the ships.",
-    "title": "The Three Voyages of Captain Cook Round the World, Vol. III. Being the First of the Second Voyage",
-    "author": "Cook, James, 1728-1779; Forster, Georg, 1754-1794",
-    "gutenbergReference": "61155",
-    "hash": "9e78b7a6d0cc6bc60c123ad5976196cf2537c03fd129a70e007a227b50aa289b"
+    "quoteFirst": "Masséna, on receiving Ney’s report, rode up to the front at ",
+    "quoteTime": "about two o’clock",
+    "quoteLast": " on the 26th--a late hour, but he is said to have been employed in private matters at Mortagoa[419].",
+    "title": "A history of the Peninsular War, Vol. 3, Sep. 1809-Dec. 1810",
+    "author": "Oman, Charles, 1860-1946",
+    "gutenbergReference": "55231",
+    "hash": "58f3b670095e00730d7acfd78efb52c16629c3062cbf70513cd3e92f6a555ea8"
   },
   {
     "time": "14:02",
     "quoteFirst": "",
-    "quoteTime": "About two o'clock P. M.",
-    "quoteLast": ", for want of something better to do, I climbed the high mountain in front of our camp.",
-    "title": "The Citizen-Soldier\nor, Memoirs of a Volunteer",
-    "author": "Beatty, John, 1828-1914",
-    "gutenbergReference": "20460",
-    "hash": "24d3bab5634239950f544793beb5c5db57b28d3f740e8bca4038e9b1cb156ca7"
+    "quoteTime": "About two o’clock p.m.",
+    "quoteLast": " a great alarm was given throughout the ship from the effects of a very heavy sea which struck her, and almost filled the waist, pouring down into the berths below, through every chink and crevice of the hatches and skylights.",
+    "title": "Records of a Family of Engineers",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "gutenbergReference": "280",
+    "hash": "a225f363c79def8f7d9edbd74336105f5d5f4db74eee8b4bd9d9e5433c189e84"
   },
   {
     "time": "14:02",
-    "quoteFirst": "Our air plane first reported that a certain fort, which stood about a mile in advance of the enemy's left flank, was strongly held; but we seem to have shelled them out of that pretty easily, for ",
-    "quoteTime": "about 2 p.m.",
-    "quoteLast": " it reported again that the enemy had left his trenches on the Canal.",
-    "title": "Letters from Mesopotamia in 1915 and January, 1916\r\nFrom Robert Palmer, who was killed in the Battle of Um El Hannah, June 21, 1916, aged 27 years",
-    "author": "Palmer, Robert Stafford Arthur, 1888-1916",
-    "gutenbergReference": "17584",
-    "hash": "66b2bff136dca4c271090e3e7a664536cf731b8ac00b83bd923dc4f6b30c097c"
+    "quoteFirst": "(It was ",
+    "quoteTime": "about two o’clock",
+    "quoteLast": ", _post meridian_.)",
+    "title": "John Smith's Funny Adventures on a Crutch\nOr The Remarkable Peregrinations of a One-legged Soldier after the War",
+    "author": "Hill, A. F. (Ashbel Fairchild), 1842-1876",
+    "gutenbergReference": "49961",
+    "hash": "adebec7443f16e0d79b20deebfbe8b0d523b683a8791cd6658e2672258a0be51"
+  },
+  {
+    "time": "14:02",
+    "quoteFirst": "The following day ",
+    "quoteTime": "about two o’clock",
+    "quoteLast": ", he saw a well-meaning friend arrive.",
+    "title": "Paddy at Home (\"Chez Paddy\")",
+    "author": "Mandat-Grancey, E. (Edmond), baron de, 1842-1911",
+    "gutenbergReference": "65514",
+    "hash": "4ba933dbe712b64690aec0bd9938f9fb35ec27aa152d458ac4f6958dc51158c4"
   },
   {
     "time": "14:02",
     "quoteFirst": "",
-    "quoteTime": "About two o’clock in the afternoon",
-    "quoteLast": " of November 4th, large clouds of extraordinary blackness enveloped the mountains of the Brigantine and Tataraqual, extending gradually to the zenith.",
-    "title": "Graham's Magazine, Vol. XL, No. 4, April 1852",
-    "author": "Various; Graham, George R., 1813-1894 [Editor]",
-    "gutenbergReference": "60148",
-    "hash": "c21db4710e7128fe84a33e5c6e1456e359a83b4ff4764770edae4766d1dd7f7a"
+    "quoteTime": "About two P.M.",
+    "quoteLast": " it was completed, and we then loaded the ponies and set out.",
+    "title": "Journals of Two Expeditions of Discovery in North-West and Western Australia, Volume 1",
+    "author": "Grey, George, 1812-1898",
+    "gutenbergReference": "16027",
+    "hash": "4f1370bad1478888fd8ae113dc7cf80442f1e34394664e2f92281a1c0cc5893d"
   }
 ]

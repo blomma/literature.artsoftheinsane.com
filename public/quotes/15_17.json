@@ -1,6 +1,16 @@
 [
   {
     "time": "15:17",
+    "quoteFirst": "",
+    "quoteTime": "3.17 P. M.",
+    "quoteLast": "—From Admiral Plunkett, commander of destroyer force at Plymouth: “NC-4 arrived at Plymouth 13.24 (9.24 A. M. New York time) in perfect condition. Joint mission of seaplane division and destroyer force accomplished. Regret loss of NC-1 and damage to NC-3; nevertheless, information of utmost value gained thereby. Has department any further instructions?”",
+    "title": "Aircraft",
+    "author": "David, Evan John, 1877-1961",
+    "gutenbergReference": "74358",
+    "hash": "2193a8003c7ef517574c862070dc876a16897bf56e24c3174ff5ea747c895b38"
+  },
+  {
+    "time": "15:17",
     "quoteFirst": "From the kitchen came the rackety-banging of the alarm-clock, proving that, as the clock was set to ring at six, Peter had found a mother for the fatherless children at just ",
     "quoteTime": "seventeen minutes past three",
     "quoteLast": ".",
@@ -31,6 +41,16 @@
   },
   {
     "time": "15:17",
+    "quoteFirst": "(Reasoning is more conspicuous when the problem is more complicated, as in the calculation of the number of seconds intervening between, say, twenty-two minutes past eleven and ",
+    "quoteTime": "seventeen minutes past three",
+    "quoteLast": " o’clock.)",
+    "title": "The unconscious",
+    "author": "Prince, Morton, 1854-1929",
+    "gutenbergReference": "69930",
+    "hash": "746c2daea1df7915be453c616151a0f0386f511b9e4564d841810b4c919159aa"
+  },
+  {
+    "time": "15:17",
     "quoteFirst": "By looking at a watch he could tell the time, and explained to the audience that it was now ",
     "quoteTime": "seventeen minutes past three",
     "quoteLast": ", by pawing on a plank of wood with his hoof three times, and then, after a moment's pause, seventeen times.",
@@ -41,13 +61,23 @@
   },
   {
     "time": "15:17",
-    "quoteFirst": "8.40 to 8.53 a.m. 9.04 to 9.08 a.m. 9.52 to 9.56 a.m. 10.02 to 10.06 a.m. 11.16 to 11.29 a.m. 11.52 to 11.56 a.m. 1.38 to 1.41 p.m. 1.47 to 1.51 p.m. 3.10 to ",
+    "quoteFirst": "Black Bulb 7.39 to 7.52 a.m. 8.40 to 8.53 a.m. 9.04 to 9.08 a.m. 9.52 to 9.56 a.m. 10.02 to 10.06 a.m. 11.16 to 11.29 a.m. 11.52 to 11.56 a.m. 1.38 to 1.41 p.m. 1.47 to 1.51 p.m. 3.10 to ",
     "quoteTime": "3.17 p.m.",
-    "quoteLast": " 3.18 to 3.25 p.m. 10·0 21·3 23·2 24·3 25·1 24·3 26·6 24·7",
+    "quoteLast": " 3.18 to 3.25 p.m. 10·0 21·3 23·2 24·3 25·1 24·3 26·6 24·7 25·4 21·1 19·3 70·0 91·5 89·5 87·3 90·5 84·5 92·6 84·0 90·7 86·0 89·3   8·3700 14·1219 15·6136 16·7341 16·7668 17·1558 17·5028 17·5123 16·8418 14·6645 13·0468 29·874",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "b73aea02eb4567d7a6c80a26d0baa3ad213354e33430592e24e6f3a457c870ce"
+    "hash": "7aa6c83eaa02eff7a19b66d1f8d027482d481bb1c572f6506136854e27047857"
+  },
+  {
+    "time": "15:17",
+    "quoteFirst": "It was precisely ",
+    "quoteTime": "seventeen minutes past three",
+    "quoteLast": ".”",
+    "title": "The Markenmore Mystery",
+    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
+    "gutenbergReference": "59818",
+    "hash": "9061a19cba171dbe8115c7529d4b4f72d2304f3c2437e51bf55491519d56d999"
   },
   {
     "time": "15:17",
@@ -58,5 +88,15 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
     "hash": "89f53644ec10ec5de72a7292cc432b20aa0e4d71bfe68cc2b84814c44d3a12f9"
+  },
+  {
+    "time": "15:17",
+    "quoteFirst": "At ",
+    "quoteTime": "seventeen minutes past three",
+    "quoteLast": " Felicia Day, seamstress, became a thief.",
+    "title": "Little Miss By-The-Day",
+    "author": "Van Slyke, Lucille, 1880-",
+    "gutenbergReference": "6002",
+    "hash": "b2671bcf3a43f5f5efab49f84464d5600d62b95251ec143c5e4100c952c62724"
   }
 ]

@@ -11,6 +11,16 @@
   },
   {
     "time": "06:22",
+    "quoteFirst": "; on the 28th, rises at ",
+    "quoteTime": "6:22 a. m.",
+    "quoteLast": ", sets at 4:46 p.",
+    "title": "The Chautauquan, Vol. 05, February 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55053",
+    "hash": "1e4c3dac770349c40413cd24485d433d0d3b31d0aa0ce1d51da4e7f1a7fbecb7"
+  },
+  {
+    "time": "06:22",
     "quoteFirst": "Two more were seen the next day, and at ",
     "quoteTime": "6.22 A.M.",
     "quoteLast": " on December 9, noon position 65° 8´ S., 177° 41´ W., the pack was sighted ahead by Rennick.",
@@ -21,6 +31,16 @@
   },
   {
     "time": "06:22",
+    "quoteFirst": "Say, \"Suppose it is six-twenty-two o'clock, that is, ",
+    "quoteTime": "twenty-two minutes after six",
+    "quoteLast": "; can you see in your mind where the large hand would be, and where the small hand would be?\"",
+    "title": "Condensed guide for the Stanford revision of the Binet-Simon intelligence tests",
+    "author": "Terman, Lewis M. (Lewis Madison), 1877-1956",
+    "gutenbergReference": "34307",
+    "hash": "36a902ed88b99a23ae9935ef83191840f3e31266f6f733321ed01f0e25818c26"
+  },
+  {
+    "time": "06:22",
     "quoteFirst": "\"19th: ",
     "quoteTime": "6.22 A.M.",
     "quoteLast": " sighted funnels and masts of heavy ships to the     E.N.E....\"",
@@ -28,6 +48,16 @@
     "author": "Bower, John Graham, 1886-1940",
     "gutenbergReference": "40765",
     "hash": "c27a5155bf540d94a1b78df2eadcca78dce9c23b849f3d1c34644fa0b1860e52"
+  },
+  {
+    "time": "06:22",
+    "quoteFirst": "Black Bulb 6.12 to ",
+    "quoteTime": "6.22 a.m.",
+    "quoteLast": " 6.24 to 6.37 a.m. 7.13 to 7.23 a.m. 7.24 to 7.34 a.m. 8.34 to 8.44 a.m. 8.47 to 9.00 a.m. 9.53 to 10.03 a.m. 10.04 to 10.17 a.m. 11.24 to 11.31 a.m.   2·9   6·1 12·4 14·7 19·9 21·7 23·5 25·3 33·3 60·6 66·0 70·8 76·0 82·8 88·8 86·6 89·5 111·5     3·5988   5·4472 10·2672 11·4025 14·2653 14·7343 16·2620 17·0775 20·7014 25·783",
+    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6478",
+    "hash": "3326896f8f6b34734fd30a83960ef3ff87988d4de8e0c1332be08e514673f974"
   },
   {
     "time": "06:22",

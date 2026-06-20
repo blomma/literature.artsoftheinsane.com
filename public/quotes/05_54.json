@@ -11,6 +11,16 @@
   },
   {
     "time": "05:54",
+    "quoteFirst": "\"",
+    "quoteTime": "Six minutes before six",
+    "quoteLast": ".\"",
+    "title": "Black Spirits and White: A Book of Ghost Stories",
+    "author": "Cram, Ralph Adams, 1863-1942",
+    "gutenbergReference": "26687",
+    "hash": "654a337b2d5392cff7edc67bdc7bc313e4bc19522479597aacad6ddfa2b6881e"
+  },
+  {
+    "time": "05:54",
     "quoteFirst": "At      ",
     "quoteTime": "fifty-four minutes past five",
     "quoteLast": ", a French frigate, L'Artemise, fired a      broadside, and struck her colours: but such was the unwarrantable      and infamous conduct of the French captain, that after having thus      surrendered, he set fire to his ship; and, with part of his crew,      made his escape on shore.",
@@ -78,5 +88,15 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55133",
     "hash": "c5260a370119101108715fd44355213eda903d75552dc88da590b5e6c3d18b95"
+  },
+  {
+    "time": "05:54",
+    "quoteFirst": "At ",
+    "quoteTime": "fifty-four minutes past five",
+    "quoteLast": " a French frigate, _L'Artemise_, fired a broadside and struck her colours; but such was the unwarrantable and infamous conduct of the French captain that, after having thus surrendered, he set fire to his ship, and with part of his crew made his escape on shore.",
+    "title": "The Admiral: A Romance of Nelson in the Year of the Nile",
+    "author": "Sladen, Douglas Brooke Wheelton, 1856-1947",
+    "gutenbergReference": "47944",
+    "hash": "c534d778df2f4546a204c854fb6c303e06f908fe5a393f15ba4826060a4ee916"
   }
 ]

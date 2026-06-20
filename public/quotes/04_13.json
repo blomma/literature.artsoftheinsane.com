@@ -71,6 +71,16 @@
   },
   {
     "time": "04:13",
+    "quoteFirst": "It seemed to fall on him like a cloud of icy vapour, chilling him to the heart, and through that vapour he could see the ormolu clock which stood on a bracket in the recess, and even note the time, which was ",
+    "quoteTime": "thirteen minutes past four",
+    "quoteLast": ".",
+    "title": "Love Eternal",
+    "author": "Haggard, H. Rider (Henry Rider), 1856-1925",
+    "gutenbergReference": "3709",
+    "hash": "8d44e2243ca9cd889a467e6fe9c6629c4e448a34bf7e451edae5d06d9df977e6"
+  },
+  {
+    "time": "04:13",
     "quoteFirst": "Well,      sir, next they took it into their heads that they would like some      music; so they made me stand up and sing 'When Johnny Comes      Marching Home' till I dropped--at ",
     "quoteTime": "thirteen minutes past four",
     "quoteLast": " this      morning.",
@@ -88,5 +98,15 @@
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3200",
     "hash": "55b00bc83ef923795271999d1fcc396c97e07e903eb757bcc2e36937c3fa359d"
+  },
+  {
+    "time": "04:13",
+    "quoteFirst": "The big clock in the hall ticking loudly showed ",
+    "quoteTime": "thirteen minutes after four",
+    "quoteLast": ".",
+    "title": "The Adventures of a Freshman",
+    "author": "Williams, Jesse Lynch, 1871-1929",
+    "gutenbergReference": "34986",
+    "hash": "137bbc948914ddb5271fafcd34313f4be777030099697e2608312834669add0c"
   }
 ]

@@ -1,102 +1,202 @@
 [
   {
     "time": "00:15",
-    "quoteFirst": "If you're catching the ",
-    "quoteTime": "twelve-fifteen",
-    "quoteLast": ", you ought to be staggering round to see you haven't forgotten anything.",
-    "title": "A Damsel in Distress",
-    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
-    "gutenbergReference": "2233",
-    "hash": "f0497dd879b25566084c8b6a76a7c468f7d88221a0c960fb3ed0e5f160ef0ade"
+    "quoteFirst": "",
+    "quoteTime": "12:15 a. m.",
+    "quoteLast": "—To Watch by Night     XII.",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "hash": "4806edb5c95cc1c91b93281932c1433f9e2ba7b4b025bed799ceb7d1dd5ae410"
   },
   {
     "time": "00:15",
-    "quoteFirst": "\"We'll have to look sharp if we're to catch that ",
+    "quoteFirst": "Marched at 8 p.m. to Houchin,                             via Chocques, Le Perlecques, and                             Vaudricourt, arriving ",
+    "quoteTime": "12.15 a.m.",
+    "quoteLast": "                             (18/7/15).",
+    "title": "The History of the 7th Battalion Queen's Own Cameron Highlanders",
+    "author": "Sandilands, James Walter; MacLeod, Norman, 1872-1960",
+    "gutenbergReference": "50301",
+    "hash": "88f3a48eb3edbd6fb506b6ad4b1ecd1f59e7f88ec19d36691bb5abf90ef24b7e"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "“I told you to give me until twelve; not ",
     "quoteTime": "twelve-fifteen",
-    "quoteLast": ". Here's luck--a taxi.\"",
-    "title": "Billy Barcroft, R.N.A.S.: A Story of the Great War",
-    "author": "Westerman, Percy F. (Percy Francis), 1876-1959",
-    "gutenbergReference": "35362",
-    "hash": "f44d461f82ffc756f8388bd75b1bda3afe479a52273788431ef7d46ce1ff7287"
+    "quoteLast": ".”",
+    "title": "Lanagan, Amateur Detective",
+    "author": "Hurlbut, Edward H., 1881?-1954; Steele, Frederic Dorr, 1873-1944 [Illustrator]",
+    "gutenbergReference": "56720",
+    "hash": "a1e8882951bef00512c9e5ebfb008db48100b58a3decfad81c8db92a0cf459c9"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "At ",
+    "quoteTime": "fifteen minutes past twelve",
+    "quoteLast": " he had won a bond for two hundred pistoles from Sir Asinus; at sixteen minutes past twelve his Excellency rose, and taking the cards up with both hands, threw them out of the window.",
+    "title": "The Youth of Jefferson\r\nOr, a Chronicle of College Scrapes at Williamsburg, in Virginia, A.D. 1764",
+    "author": "Cooke, John Esten, 1830-1886",
+    "gutenbergReference": "23283",
+    "hash": "4c253e5a1a1c20bfe349b2a3ebbbc5a05ce0cd0af4ca1df619fa54c76af98bad"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "I sat like this till ",
+    "quoteTime": "a quarter past twelve",
+    "quoteLast": "; the clock struck the quarter as usual.",
+    "title": "Orpheus in Mayfair, and Other Stories and Sketches",
+    "author": "Baring, Maurice, 1874-1945",
+    "gutenbergReference": "2492",
+    "hash": "638e1f083df50f95c81013fc0231ac6a4d7fc288bbfb6d3a74d3491c573449bf"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "\"It was on Friday, the eighth of the month, at ",
+    "quoteTime": "a quarter past twelve",
+    "quoteLast": ".\"",
+    "title": "Bohemians of the Latin Quarter",
+    "author": "Murger, Henri, 1822-1861",
+    "gutenbergReference": "18445",
+    "hash": "c19959820a4b06fbcd5824adce4b3cde720c9713faef1c40da20f5290b4a6c33"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "At ",
+    "quoteTime": "a quarter past twelve",
+    "quoteLast": " Evans heard the sounds for which he had been so expectantly waiting.",
+    "title": "The girl from Hollywood",
+    "author": "Burroughs, Edgar Rice, 1875-1950; Monahan, P. J., 1882-1931 [Illustrator]",
+    "gutenbergReference": "62409",
+    "hash": "dd7bb7b54c9adcdec1a9c46a8a3e09eaea8fb6dcc1b23b149a06ff365e0d342e"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "The best is the ",
+    "quoteTime": "twelve-fifteen",
+    "quoteLast": ".",
+    "title": "A Damsel in Distress",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "2233",
+    "hash": "ececd3d0567f8b57cd91f599f29ebe8ab104018bb4bf00875afa03f4fb0f22bf"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "But I swear to you I left London last night by the ",
+    "quoteTime": "twelve-fifteen",
+    "quoteLast": ", and I swear to you I did not wind up my clock last night.",
+    "title": "Miracle Gold: A Novel (Vol. 3 of 3)",
+    "author": "Dowling, Richard, 1846-1898",
+    "gutenbergReference": "42499",
+    "hash": "212fbc64a13a15baa9dbc7ccc83956686e02079f436decf5de01b2924c54522b"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "At ",
+    "quoteTime": "twelve-fifteen",
+    "quoteLast": ", in the midst of Conrad’s delightful chapter, “The Weight of the Burden,” I heard Mr. Pike come along the hall.",
+    "title": "The Mutiny of the Elsinore",
+    "author": "London, Jack, 1876-1916",
+    "gutenbergReference": "2415",
+    "hash": "834b0d6d41627af709b8e31fa9c9964276a79cffa06c39761d2657e7df5754ab"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "Remember, now, you are to start down stairs at ",
+    "quoteTime": "quarter-past Twelve",
+    "quoteLast": ", precisely, and JOCKO will open the front door for you.",
+    "title": "The Orpheus C. Kerr Papers, Series 2",
+    "author": "Newell, R. H. (Robert Henry), 1836-1901",
+    "gutenbergReference": "34754",
+    "hash": "e1297292d0a357a6dc03f8f9f0265fd28d491772ad0a98f3c6b7cb28c54e4d88"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "At ",
+    "quoteTime": "a quarter past twelve",
+    "quoteLast": " the _Belleisle_, the next ship, ranged under the stern of the unfortunate _Santa Anna_, and fired her larboard guns, double shotted, into that ship, with the result that her three masts fell over the side.",
+    "title": "Deeds that Won the Empire\nHistoric Battle Scenes",
+    "author": "Fitchett, W. H. (William Henry), 1845-1928",
+    "gutenbergReference": "19255",
+    "hash": "3f5b963fa725a8ec7451300db039669400934d75e14c2baa9be4a9f89e0fae32"
   },
   {
     "time": "00:15",
     "quoteFirst": "",
+    "quoteTime": "12:15 a.m.",
+    "quoteLast": "—Rolled him on to his back and got his feet on the bed.",
+    "title": "Deep Waters",
+    "author": "Jacobs, W. W. (William Wymark), 1863-1943; Owen, Will, 1869-1957 [Illustrator]",
+    "gutenbergReference": "11482",
+    "hash": "03cb511140ee93ae4bb480cf483eea40eb2189682ec51e3ec32cf36377557a40"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "My father had left us at a ",
+    "quoteTime": "quarter-past twelve",
+    "quoteLast": ", and he must have taken a quarter of an hour to walk to the Imperial Hotel, for the concierge, having seen the corpse, recognized it, and remembered that it was just about half-past twelve when my father inquired of him what was the number of Mr. Rochdale's rooms.",
+    "title": "The Lock and Key Library: the Most Interesting Stories of All Nations: French Novels",
+    "author": "Hawthorne, Julian, 1846-1934 [Editor]; Bourget, Paul, 1852-1935 [Contributor]; Cherbuliez, Victor, 1829-1899 [Contributor]",
+    "gutenbergReference": "2047",
+    "hash": "32584f6c5897ffc3804bf8f722457f09588dea27cbc92019c83958ea27bb483f"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "By this time it was a ",
+    "quoteTime": "quarter-past twelve",
+    "quoteLast": ".",
+    "title": "Rupert Godwin",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "77631",
+    "hash": "c0c764d063a46e4b023c2999b3b87382a567c7143740b3603cabeaa71eba1564"
+  },
+  {
+    "time": "00:15",
+    "quoteFirst": "\"",
     "quoteTime": "Twelve-fifteen",
-    "quoteLast": " was the time set.”",
-    "title": "Death in the dusk",
-    "author": "Markham, Virgil, 1899-1973",
-    "gutenbergReference": "75273",
-    "hash": "3911c1575861b53a6958d712201b8f839bcf8e79a30144d2df55fd3b32d443c9"
+    "quoteLast": " train.\"",
+    "title": "Boy Woodburn: A Story of the Sussex Downs",
+    "author": "Ollivant, Alfred, 1874-1927",
+    "gutenbergReference": "17965",
+    "hash": "6de2cd4168c5ac796fe78b290b9bd1dcba08e5de0cabd82b663cb86cc5310718"
   },
   {
     "time": "00:15",
-    "quoteFirst": "30, I arrived at Trier on a second-class      ticket at about 10:30 P.M. There I bought a third-class ticket      and boarded a train leaving about 11:10 P.M. and reached      Luxemburg at about ",
-    "quoteTime": "12:15 A.M.",
-    "quoteLast": " I did not go into the railroad      station, but, trusting to my papers, boarded a military train      leaving at 12:45 A.M., going over Longwy to Longuyon, where I      arrived at 3:30 A.M., Sunday.",
-    "title": "The New York Times Current History: the European War, February, 1915",
-    "author": "Various",
-    "gutenbergReference": "18880",
-    "hash": "54856df87cc7e940273f399c22687ea467e5cdc299d7c35e18db8aef68174b91"
+    "quoteFirst": "At a ",
+    "quoteTime": "quarter-past twelve",
+    "quoteLast": " you will attend a lecture on English literature, which will last till one o'clock.",
+    "title": "The Lonely Unicorn: A Novel",
+    "author": "Waugh, Alec, 1898-1981",
+    "gutenbergReference": "43952",
+    "hash": "a7a53081d432279f302bf139b78f6cc2f990e8fa2262fc134319da65ab746cfa"
   },
   {
     "time": "00:15",
-    "quoteFirst": "Logotheti felt a sensation of deep relief when the man came aboard at a ",
-    "quoteTime": "quarter-past midnight",
-    "quoteLast": " and reported himself empty-handed; but he resolved to wait till the following evening before definitely leaving Naples for the ten days which must elapse before Baraka could try on her beautiful Feringhi clothes.",
-    "title": "The Diva's Ruby",
-    "author": "Crawford, F. Marion (Francis Marion), 1854-1909; Flagg, James Montgomery, 1877-1960 [Illustrator]",
-    "gutenbergReference": "40844",
-    "hash": "92355c9c29576b298eb6a8c3eea0cf492df62064f140c084d5a76dd8fd3188f1"
-  },
-  {
-    "time": "00:15",
-    "quoteFirst": "As the third ",
-    "quoteTime": "quarter after midnight",
-    "quoteLast": " struck, he stood by the stove, closely wrapped in his mantle, in the upper passage way of the palace, watching with anxious eyes, by the dim light of the almost expiring lamps, the first door on the left.",
-    "title": "Tales from the German.  Volume II.",
-    "author": "Velde, C. F. van der (Carl Franz), 1779-1824; Greene, Nathaniel, 1797-1877 [Translator]",
-    "gutenbergReference": "32444",
-    "hash": "e77726785fcee86df1039f496591b423e94759877f734c9b2b7092e6e18a53b6"
-  },
-  {
-    "time": "00:15",
-    "quoteFirst": "She glanced at her wrist watch and saw that it was ",
+    "quoteFirst": "I had made an appointment with the president of the Deep Harbor National Bank for ",
     "quoteTime": "twelve-fifteen",
     "quoteLast": ".",
-    "title": "The Deserted Yacht\nMadge Sterling Series, #2",
-    "author": "Wirt, Mildred A. (Mildred Augustine), 1905-2002",
-    "gutenbergReference": "40042",
-    "hash": "668f7fc71d8d5aba875ae7f3cca18fb3afdf7b8bce42bc9eb08979f6706b9c86"
+    "title": "I Walked in Arden",
+    "author": "Crawford, Jack Randall, 1878-1968",
+    "gutenbergReference": "35796",
+    "hash": "bea50f952afd9d0676281bc913abde3926092a33df3f6c257d71beec2e8f1d89"
   },
   {
     "time": "00:15",
-    "quoteFirst": "The stillness had just been broken by the stroke of ",
+    "quoteFirst": "It is ",
     "quoteTime": "a quarter past twelve",
-    "quoteLast": " from a distant church tower, when, from the obscurity of one of these chimney shadows, a head emerged.",
-    "title": "Cashel Byron's Profession",
-    "author": "Shaw, Bernard, 1856-1950",
-    "gutenbergReference": "5872",
-    "hash": "64bb60150ce0070ba17b3afae26f7808bf2ff661d4ef9a2acc14a54b6eb16da4"
+    "quoteLast": ".",
+    "title": "Dead men's shoes, vol. 2 (of 3)",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "78773",
+    "hash": "c1d8290fa2911bd2d9d582fee0c112616a5b2e97a23b55ce032b6a0343c1ea6f"
   },
   {
     "time": "00:15",
-    "quoteFirst": "Shortly before the train resumed its long journey, at ",
-    "quoteTime": "a quarter past midnight",
-    "quoteLast": ", the President gave out the following card of thanks to the people of California:",
-    "title": "Speeches of Benjamin Harrison, Twenty-third President of the United States",
-    "author": "Harrison, Benjamin, 1833-1901; Hedges, Charles [Compiler]",
-    "gutenbergReference": "44682",
-    "hash": "b3982b81c8c240fddb002f939126b02404deffa6b056ea5d4344688fc07806b4"
-  },
-  {
-    "time": "00:15",
-    "quoteFirst": "Mr. Carnegie spoke these last words very slowly and wearily, and with his most wistful look; and then, recalling himself suddenly, and handing me a glass to look at New York with and see what I thought of it, he asked to be excused for a moment, and saying, \"I have fourteen libraries to give away before ",
-    "quoteTime": "a quarter past twelve",
-    "quoteLast": ",\" he hurried out of the room.",
-    "title": "Crowds\nA Moving-Picture of Democracy",
-    "author": "Lee, Gerald Stanley, 1862-1944",
-    "gutenbergReference": "15759",
-    "hash": "9f65a226d343f09bb0fb2d27a22bd1f2806a0bc83e56b1ea996826a063e8ca5b"
+    "quoteFirst": "",
+    "quoteTime": "12:15 a.m.",
+    "quoteLast": " Rushhour starts unusually early and great numbers of slips for spareparts are coming in.",
+    "title": "The Brain",
+    "author": "Hauser, Heinrich, 1901-1955",
+    "gutenbergReference": "32498",
+    "hash": "9da4544f9ab07da37bdaaf5f1742892be22e7daeb41731cf152071391c855dfd"
   }
 ]

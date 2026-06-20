@@ -1,6 +1,36 @@
 [
   {
     "time": "19:20",
+    "quoteFirst": "At ",
+    "quoteTime": "20 minutes past 7",
+    "quoteLast": " we quitted Chamouni, bearing with us the good wishes of a portion of its inhabitants.",
+    "title": "The Glaciers of the Alps\r\nBeing a narrative of excursions and ascents, an account of the origin and phenomena of glaciers and an exposition of the physical principles to which they are related",
+    "author": "Tyndall, John, 1820-1893",
+    "gutenbergReference": "34192",
+    "hash": "1eed8fcfbb2e21257d536d14f77415ebb1eb5de44a39c40ac8e5c71b752a4a98"
+  },
+  {
+    "time": "19:20",
+    "quoteFirst": "He was in the station at ",
+    "quoteTime": "twenty minutes past seven",
+    "quoteLast": ".",
+    "title": "Fortitude",
+    "author": "Walpole, Hugh, 1884-1941",
+    "gutenbergReference": "7887",
+    "hash": "d3e7b66927ffde22943a31ac1dd9470ddd479ac7c5125f4a4ab2d24f35ac3997"
+  },
+  {
+    "time": "19:20",
+    "quoteFirst": "At about ",
+    "quoteTime": "twenty past seven",
+    "quoteLast": " Christy came in, and everyone stood up till he had sat down.",
+    "title": "The Loom of Youth",
+    "author": "Waugh, Alec, 1898-1981",
+    "gutenbergReference": "18863",
+    "hash": "54a9753e88bf19cb370d8dd5ae700c836db5f91266663273c73c35638921e7c0"
+  },
+  {
+    "time": "19:20",
     "quoteFirst": "The Fourth Light-cruiser Squadron, under Commodore Charles E. Le Mesurier, occupied a position in the van until ordered to attack enemy destroyers at ",
     "quoteTime": "7.20 p.m.",
     "quoteLast": ", and again at 8.18 p.m., when they supported the Eleventh Flotilla, which had moved out under Commodore James R. P. Hawksley, M.V.O., to attack.",
@@ -11,23 +41,73 @@
   },
   {
     "time": "19:20",
-    "quoteFirst": "When next morning we were again in the saddle at ",
-    "quoteTime": "twenty minutes after seven",
-    "quoteLast": ", the mown pastures looked green and fresh after the rain of the preceding evening, and it was a delight to breathe the crisp air.",
-    "title": "Armenia, Travels and Studies (Volume 2 of 2)\r\nThe Turkish Provinces",
-    "author": "Lynch, H. F. B. (Harry Finnis Blosse), 1862-1913",
-    "gutenbergReference": "53568",
-    "hash": "4bf7b940e593e64c816ba5efb5c4ef7ef0e91d008147b2b41751de6844afc723"
+    "quoteFirst": "“Then we’d ought to get an answer about ",
+    "quoteTime": "twenty minutes past seven",
+    "quoteLast": ". What time does that train go? Seven-thirty?”",
+    "title": "First Base Faulkner",
+    "author": "Mathewson, Christy, 1880-1925; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "64435",
+    "hash": "6708583e6af68ee32e8a826ed627f0d2f4abb746b74cdb8bb26df6e9f6a95bcb"
   },
   {
     "time": "19:20",
-    "quoteFirst": "He then made me acquainted with them and I went home to wash myself and get supper, returning at ",
-    "quoteTime": "twenty minutes past seven P.M.",
-    "quoteLast": " (I left work at about half-past five P.M., that day.)",
-    "title": "The Molly Maguires and the detectives",
-    "author": "Pinkerton, Allan, 1819-1884",
-    "gutenbergReference": "76641",
-    "hash": "98a8ac629a698b9648b2ef0cdabe9212cd694f35a0379a8fb5a9b99dc8557d71"
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes past seven",
+    "quoteLast": " precisely, as he learned from his watch, he found himself at the foot of Redwood's stoop.",
+    "title": "The Yoke of the Thorah",
+    "author": "Harland, Henry, 1861-1905",
+    "gutenbergReference": "54854",
+    "hash": "350f198789c0e32985c859a8bf5cfd916d33310c6e109b25348a08bc7657968e"
+  },
+  {
+    "time": "19:20",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes past seven",
+    "quoteLast": ",     the largest ship of the two brought-to on our lee-bow, within     musket shot.",
+    "title": "Daring Deeds of Famous Pirates\nTrue stories of the stirring adventures, bravery and resource of pirates, filibusters & buccaneers",
+    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
+    "gutenbergReference": "64954",
+    "hash": "2679915712ab650ae64174fea85f660b479a78e7ff41874fcc6aa892b6b8e6ab"
+  },
+  {
+    "time": "19:20",
+    "quoteFirst": "An adult male (69249) was shot at ",
+    "quoteTime": "7:20 p.m.",
+    "quoteLast": " while flying six to eight feet from the ground between pinyon trees up to 20 feet high; the air temperature was 70° F. A female (69251) was found seemingly exhausted on the floor in the museum at Park Headquarters in the daytime, and was immature as indicated by small size, open basicranial sutures, unworn teeth, weakly ossified zygoma, and open epiphyseal sutures of phalanges.",
+    "title": "Mammals of Mesa Verde National Park, Colorado",
+    "author": "Anderson, Sydney, 1927-2018",
+    "gutenbergReference": "31035",
+    "hash": "146cf70cfc990e4033f22e43e6a8d945a32236148c2362ce4c05f37daae99054"
+  },
+  {
+    "time": "19:20",
+    "quoteFirst": "In spite of her injuries, the _Suvaroff_ held off a swarm of cruisers and destroyers until at last torpedoed at ",
+    "quoteTime": "7.20 p. m.",
+    "quoteLast": "",
+    "title": "A History of Sea Power",
+    "author": "Stevens, William Oliver, 1878-1955; Westcott, Allan F. (Allan Ferguson), 1882-1953",
+    "gutenbergReference": "24797",
+    "hash": "987d9cef63aada1ea848d354938b45d7ef4304adc67a1a8928f1e6fad2c271c0"
+  },
+  {
+    "time": "19:20",
+    "quoteFirst": "He was taken to his home, and died at ",
+    "quoteTime": "twenty minutes after seven",
+    "quoteLast": " the next morning.",
+    "title": "Abraham Lincoln and the Abolition of Slavery in the United States",
+    "author": "Leland, Charles Godfrey, 1824-1903",
+    "gutenbergReference": "52412",
+    "hash": "ce322d94674103a3f34095218192f28dc5b9804689804c5a61e266207cb72cd7"
+  },
+  {
+    "time": "19:20",
+    "quoteFirst": "“Jim went in for the men with his car, and said he'd surely have them here by ",
+    "quoteTime": "seven-twenty",
+    "quoteLast": ". You'll have to go over and do the honours for him till he comes. He'll have to dress after he gets here.”",
+    "title": "Red Pepper Burns",
+    "author": "Richmond, Grace S. (Grace Smith), 1866-1959",
+    "gutenbergReference": "2725",
+    "hash": "18a3b1ab7fc6a098ded698b4af29a7ac2d98527569b371021a9f9ff957309047"
   },
   {
     "time": "19:20",
@@ -41,62 +121,82 @@
   },
   {
     "time": "19:20",
-    "quoteFirst": "Then we go in on the ",
-    "quoteTime": "seven-twenty",
-    "quoteLast": ".",
-    "title": "Henry Is Twenty: A Further Episodic History of Henry Calverly, 3rd",
-    "author": "Merwin, Samuel, 1874-1936",
-    "gutenbergReference": "51948",
-    "hash": "90d3c484cb06884743cd21f3213233a3f0c84263bb413b28642f473f0fc1d424"
-  },
-  {
-    "time": "19:20",
-    "quoteFirst": "When they had finished, Phil's watch--the only one of six which had neither run down for lack of winding or been incapacitated by immersion in salt water--gave the hour as ",
+    "quoteFirst": "It was not more than ",
     "quoteTime": "twenty minutes past seven",
-    "quoteLast": ".",
-    "title": "The Adventure Club Afloat",
-    "author": "Barbour, Ralph Henry, 1870-1944; Caswell, Edward C., 1879-1963 [Illustrator]",
-    "gutenbergReference": "13897",
-    "hash": "20889f85f6785cd5ee8a346a4ab561eb6e50b89add945f532f499299010fa706"
+    "quoteLast": " when approaching wheels were to be heard.",
+    "title": "The Old Pincushion; or, Aunt Clotilda's Guests",
+    "author": "Molesworth, Mrs., 1839-1921; Troubridge, Laura, 1858-1929 [Illustrator]",
+    "gutenbergReference": "39833",
+    "hash": "d52ef22a4d87e6147d48aafaf9a68382b6abd57f6163e1bed584e9e672a0d4ce"
   },
   {
     "time": "19:20",
-    "quoteFirst": "The fortunate connection enabled him to board the ",
+    "quoteFirst": "Gardiner                               ",
+    "quoteTime": "7:20 P.M.",
+    "quoteLast": "",
+    "title": "Yellowstone via Gallatin Gateway Montana",
+    "author": "Chicago, Milwaukee, St. Paul, and Pacific Railroad Company",
+    "gutenbergReference": "46305",
+    "hash": "01f3b530d8ad03577252361bd260c72b7e7ee748012400e2819fd821b937d622"
+  },
+  {
+    "time": "19:20",
+    "quoteFirst": "About ",
     "quoteTime": "seven-twenty",
-    "quoteLast": " express to London, where he hoped to arrive shortly before eleven that same evening.",
-    "title": "The Mystery Queen",
-    "author": "Hume, Fergus, 1859-1932; Somerville, Howard [Illustrator]",
-    "gutenbergReference": "55137",
-    "hash": "103848a38b30812bac04b54ad0871d9d43cf79419940fce87e71c2a141b0b87e"
+    "quoteLast": " maybe.”",
+    "title": "Shadow in the House",
+    "author": "Gluck, Sinclair, 1887-1956",
+    "gutenbergReference": "66859",
+    "hash": "153c1d916c3e8afe2b6e52aefcf022b2b798604fcc074c2debb2753b6b5501c0"
   },
   {
     "time": "19:20",
-    "quoteFirst": "Our train left Sanford at ",
+    "quoteFirst": "Gardiner                               ",
+    "quoteTime": "7:20 P.M.",
+    "quoteLast": "",
+    "title": "Yellowstone via Gallatin Gateway Montana",
+    "author": "Chicago, Milwaukee, St. Paul, and Pacific Railroad Company",
+    "gutenbergReference": "46305",
+    "hash": "01f3b530d8ad03577252361bd260c72b7e7ee748012400e2819fd821b937d622"
+  },
+  {
+    "time": "19:20",
+    "quoteFirst": "\"It's ",
+    "quoteTime": "twenty past seven",
+    "quoteLast": ".  It will be supper time soon.\"",
+    "title": "The Sailor",
+    "author": "Snaith, J. C. (John Collis), 1876-1936; Hottinger, W. A. [Illustrator]",
+    "gutenbergReference": "38186",
+    "hash": "dd641de4cdf990b82c869df5119584dd6f8cbf4d1786fcb2cfe9fefc22700f31"
+  },
+  {
+    "time": "19:20",
+    "quoteFirst": "It was not more than ",
     "quoteTime": "twenty minutes past seven",
-    "quoteLast": " this morning.",
-    "title": "Marjorie Dean, College Senior",
-    "author": "Chase, Josephine, -1931",
-    "gutenbergReference": "36906",
-    "hash": "5c83df529d186e032dde45e6025164434fca6d3b3a32607fd44cb50b3adaee2f"
+    "quoteLast": " when approaching wheels were to be heard.",
+    "title": "The Old Pincushion; or, Aunt Clotilda's Guests",
+    "author": "Molesworth, Mrs., 1839-1921; Troubridge, Laura, 1858-1929 [Illustrator]",
+    "gutenbergReference": "39833",
+    "hash": "d52ef22a4d87e6147d48aafaf9a68382b6abd57f6163e1bed584e9e672a0d4ce"
   },
   {
     "time": "19:20",
-    "quoteFirst": "At ",
-    "quoteTime": "twenty minutes after seven that evening",
-    "quoteLast": ", Frederica Whitney was about as nearly dressed as she usually was ten minutes before the hour at which she had invited guests to dinner--not quite near enough dressed to prevent a feeling that she had to hurry.",
-    "title": "The Real Adventure",
-    "author": "Webster, Henry Kitchell, 1875-1932; Crosby, Raymond Moreau, 1876-1945 [Illustrator]",
-    "gutenbergReference": "15384",
-    "hash": "82e5cb7b27626115aa84dc8b298aa120c270392ad2ab6d073b89b5aa3ab7f864"
-  },
-  {
-    "time": "19:20",
-    "quoteFirst": "And at ",
+    "quoteFirst": "\"It is five minutes late now, and they must make that ",
     "quoteTime": "seven-twenty",
-    "quoteLast": " or thereabouts we parted with mutual expressions of esteem--they to shove off in Aunt Dahlia’s car to Brinkley Court, her place in Worcestershire, where they were expecting to entertain Tuppy in a day or two; I to go to the flat, drop my luggage, clean up a bit, and put on the soup and fish preparatory to pushing round to the Drones for a bite of dinner.",
-    "title": "Right Ho, Jeeves",
-    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
-    "gutenbergReference": "10554",
-    "hash": "cc58f677715af337e514160ae75f82534969fee49b382fb9dadf0d550f47b581"
+    "quoteLast": " New York train. Hurry!\"",
+    "title": "The Golden Bird",
+    "author": "Daviess, Maria Thompson, 1872-1924; Chase, Edward L. (Edward Leigh), 1884-1965 [Illustrator]",
+    "gutenbergReference": "16963",
+    "hash": "d0692b7a0b7a981d40173fd877d74835de2a632e67b12379225cf2a59e9217bd"
+  },
+  {
+    "time": "19:20",
+    "quoteFirst": "It was already ",
+    "quoteTime": "twenty minutes after seven",
+    "quoteLast": ".",
+    "title": "Blix",
+    "author": "Norris, Frank, 1870-1902",
+    "gutenbergReference": "401",
+    "hash": "bf09c6208637a3381d30f5d1e180f74f1d06d85fcf4e12caf6242f249db90b00"
   }
 ]

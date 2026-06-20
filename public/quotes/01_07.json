@@ -1,6 +1,16 @@
 [
   {
     "time": "01:07",
+    "quoteFirst": "I wouldn't be afraid to bet it wasn't 6 or ",
+    "quoteTime": "7 minutes after 1",
+    "quoteLast": ".",
+    "title": "Warren Commission (03 of 26): Hearings Vol. III (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44003",
+    "hash": "bb20a423fc61924f692f5e043c003f199db6274da2e5232c7bbe368fdbb0ca09"
+  },
+  {
+    "time": "01:07",
     "quoteFirst": "At ",
     "quoteTime": "7 minutes past 1",
     "quoteLast": " came Lord Melbourne and stayed till a ¼ to 3....",
@@ -31,16 +41,6 @@
   },
   {
     "time": "01:07",
-    "quoteFirst": "On the eleventh of December, 1741, at ",
-    "quoteTime": "seven minutes past one",
-    "quoteLast": " in the afternoon, a globe of fire, somewhat larger than the horizontal full moon, and as bright as the moon appears at any time when the sun is above the horizon, was seen at Peckham, in Surrey, in a south-south-east direction, moving toward the east with a continued equable motion, and leaving behind it a narrow streak of light, whiter than the globe itself, throughout its whole course.",
-    "title": "The wonders of the world",
-    "author": "Abbott, John Loraine",
-    "gutenbergReference": "75040",
-    "hash": "b8b910cc7ff6ae1e794d8a28fbf5cd761cfe11d638af8f0c7553508544e2209e"
-  },
-  {
-    "time": "01:07",
     "quoteFirst": "After a few days we left the little place about half-past nine in the forenoon, packed closely in two small boats; and, by ",
     "quoteTime": "seven minutes past one",
     "quoteLast": " when we reached an inhabited hut in the forest, we had descended more than forty streams of a foot and a foot and a half and more in depth.",
@@ -58,6 +58,16 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55194",
     "hash": "188bd839db547e113dd3ed205026ff9aac114e290c31305f80d4148efefcc37c"
+  },
+  {
+    "time": "01:07",
+    "quoteFirst": "On her left wrist was a watch which had stopped at ",
+    "quoteTime": "seven minutes past one",
+    "quoteLast": ".",
+    "title": "The purple sickle murders",
+    "author": "Crofts, Freeman Wills, 1879-1957",
+    "gutenbergReference": "75488",
+    "hash": "116c6c82d048019c8cfeaa8d0ef1e38e3d452fe2b29d45ecd3338f6a2edd5c09"
   },
   {
     "time": "01:07",

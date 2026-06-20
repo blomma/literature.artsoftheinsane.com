@@ -1,26 +1,6 @@
 [
   {
     "time": "11:49",
-    "quoteFirst": "Yes, just now, at ",
-    "quoteTime": "eleven minutes to twelve",
-    "quoteLast": ", I tossed a sixpence to decide.",
-    "title": "Death in the dusk",
-    "author": "Markham, Virgil, 1899-1973",
-    "gutenbergReference": "75273",
-    "hash": "976db9e1fa87e1ec73cd09edb13020a692d355863c973bd9e0a9456a34b4d864"
-  },
-  {
-    "time": "11:49",
-    "quoteFirst": "It was ",
-    "quoteTime": "eleven minutes to twelve",
-    "quoteLast": ", and the Inspector recognised he would have to run for it.",
-    "title": "The Ponson case",
-    "author": "Crofts, Freeman Wills, 1879-1957",
-    "gutenbergReference": "72235",
-    "hash": "52b288d336491cffc37d4a6558d3fb60c0a3867a7157fca74b3291300a27ef3d"
-  },
-  {
-    "time": "11:49",
     "quoteFirst": "When the thermal water is only prescribed, the most favourable time for drinking it is from seven to eight and ",
     "quoteTime": "eleven to twelve a.m.",
     "quoteLast": ", and from four to five p.m., but when ordered to be taken in conjunction with the chalybeate, the former should be taken in the morning and the latter in the afternoon.",
@@ -28,6 +8,16 @@
     "author": "Gifford-Bennet, Robert Ottiwell, 1834-1902",
     "gutenbergReference": "30682",
     "hash": "4ff3dcc5215c8c1525f4684710e0483102e2c3e546647a9da7dcce8fae745982"
+  },
+  {
+    "time": "11:49",
+    "quoteFirst": "",
+    "quoteTime": "11 to 12 A.M.",
+    "quoteLast": "  {Ballet Dances (Toe, Classical, Etc.)                {Musical Comedy Dances",
+    "title": "The Art of Stage Dancing\nThe Story of a Beautiful and Profitable Profession",
+    "author": "Wayburn, Ned, 1874-1942",
+    "gutenbergReference": "27367",
+    "hash": "366ea509cf22880851f04378d2a0bc86e48381d7fffcced0b1aa02b87736170f"
   },
   {
     "time": "11:49",
@@ -51,43 +41,23 @@
   },
   {
     "time": "11:49",
-    "quoteFirst": ", 8:59 to ",
-    "quoteTime": "11:49 a. m.",
-    "quoteLast": "; Wheeling, W. Va.",
-    "title": "The Chautauquan, Vol. 05, March 1885",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55060",
-    "hash": "361ca67c6cf3ea46082e44e4af819b9ec889020cab26ebbccef4e383e5af352c"
+    "quoteFirst": "As a part of this excellent system, she had to walk round the square from ",
+    "quoteTime": "eleven to twelve A. M.",
+    "quoteLast": ", but never alone; he was not going to have Sir Charles surprising her into an interview.",
+    "title": "A Terrible Temptation: A Story of To-Day",
+    "author": "Reade, Charles, 1814-1884",
+    "gutenbergReference": "7895",
+    "hash": "f276e605e6a8aebfd659de18930302a85ebb0dc08c30a6d6320210373d2845f9"
   },
   {
     "time": "11:49",
-    "quoteFirst": "“At precisely at ",
-    "quoteTime": "eleven minutes before twelve",
-    "quoteLast": " they set to. Odds seven to four in favour of Pearce, from the former rencontre.”",
-    "title": "Pugilistica: The History of British Boxing, Volume 1 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
-    "author": "Miles, Henry Downes, 1806-1889",
-    "gutenbergReference": "59465",
-    "hash": "e6094f9e17e86c734a2db413cac4426af859b6eb5d2b333b1fb78a354c5d1f09"
-  },
-  {
-    "time": "11:49",
-    "quoteFirst": "“At precisely at ",
-    "quoteTime": "eleven minutes before twelve",
-    "quoteLast": " they set to. Odds seven to four in favour of Pearce, from the former rencontre.”",
-    "title": "Pugilistica: The History of British Boxing, Volume 1 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
-    "author": "Miles, Henry Downes, 1806-1889",
-    "gutenbergReference": "59465",
-    "hash": "e6094f9e17e86c734a2db413cac4426af859b6eb5d2b333b1fb78a354c5d1f09"
-  },
-  {
-    "time": "11:49",
-    "quoteFirst": "When the thermal water is only prescribed, the most favourable time for drinking it is from seven to eight and ",
-    "quoteTime": "eleven to twelve a.m.",
-    "quoteLast": ", and from four to five p.m., but when ordered to be taken in conjunction with the chalybeate, the former should be taken in the morning and the latter in the afternoon.",
-    "title": "Buxton and its Medicinal Waters",
-    "author": "Gifford-Bennet, Robert Ottiwell, 1834-1902",
-    "gutenbergReference": "30682",
-    "hash": "4ff3dcc5215c8c1525f4684710e0483102e2c3e546647a9da7dcce8fae745982"
+    "quoteFirst": "Morning Treatment Period     ",
+    "quoteTime": "11 to 12 AM",
+    "quoteLast": "....",
+    "title": "Stammering, its cause and cure",
+    "author": "Bogue, Benjamin Nathaniel, 1882-1964",
+    "gutenbergReference": "4256",
+    "hash": "025167f29d1e49d78512286d2a148df98b23048e16ed6d96fd69a58e0822e3f8"
   },
   {
     "time": "11:49",
@@ -98,5 +68,75 @@
     "author": "Paoli, Xavier, 1835-; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
     "gutenbergReference": "45786",
     "hash": "fb5e0e62448eaf6a6bfb2607a420a506938227a5c6daa73db942231001975410"
+  },
+  {
+    "time": "11:49",
+    "quoteFirst": "It is orthodoxly rung at Ecclesfield from ",
+    "quoteTime": "eleven to twelve a.m.",
+    "quoteLast": " Plenty of information on this subject may be found in Brand's _Popular Antiquities_.",
+    "title": "Notes and Queries, Number 239, May 27, 1854\r\nA Medium of Inter-communication for Literary Men, Artists, Antiquaries, Genealogists, etc.",
+    "author": "Various; Bell, George, 1814-1890 [Other]",
+    "gutenbergReference": "31690",
+    "hash": "24c613eb80528dc103d72ed785fc6aeedce9efd6fb47419ec2d20c6ac70c7ca4"
+  },
+  {
+    "time": "11:49",
+    "quoteFirst": "The enemy made a sortie yesterday about ",
+    "quoteTime": "11 to 12 A.M.",
+    "quoteLast": ", with about 2500 men, but were repulsed with loss it is supposed of about 300 men.",
+    "title": "Letters from the peninsula, 1808-1812",
+    "author": "Warre, William, Sir, 1784-1853; Warre, Edmond, 1837-1920 [Editor]",
+    "gutenbergReference": "73292",
+    "hash": "5b161f2d964a9829b95abbf93a73640d49928cb0880d25bae9b8ce042e7a0076"
+  },
+  {
+    "time": "11:49",
+    "quoteFirst": "Yes, just now, at ",
+    "quoteTime": "eleven minutes to twelve",
+    "quoteLast": ", I tossed a sixpence to decide.",
+    "title": "Death in the dusk",
+    "author": "Markham, Virgil, 1899-1973",
+    "gutenbergReference": "75273",
+    "hash": "976db9e1fa87e1ec73cd09edb13020a692d355863c973bd9e0a9456a34b4d864"
+  },
+  {
+    "time": "11:49",
+    "quoteFirst": "“At precisely at ",
+    "quoteTime": "eleven minutes before twelve",
+    "quoteLast": " they set to. Odds seven to four in favour of Pearce, from the former rencontre.”",
+    "title": "Pugilistica: The History of British Boxing, Volume 1 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
+    "author": "Miles, Henry Downes, 1806-1889",
+    "gutenbergReference": "59465",
+    "hash": "e6094f9e17e86c734a2db413cac4426af859b6eb5d2b333b1fb78a354c5d1f09"
+  },
+  {
+    "time": "11:49",
+    "quoteFirst": "It was ",
+    "quoteTime": "eleven minutes before twelve",
+    "quoteLast": " midnight on Saturday, the 9th day of January, 1907, when I saw the strange sight off the headland known as the Spear of Ivan on the coast of the Land of the Blue Mountains.",
+    "title": "The Lady of the Shroud",
+    "author": "Stoker, Bram, 1847-1912",
+    "gutenbergReference": "3095",
+    "hash": "c07ece45960a3a2dc8c179e888bc0df5d603e367d1b90196584d89691aedde87"
+  },
+  {
+    "time": "11:49",
+    "quoteFirst": ", 8:59 to ",
+    "quoteTime": "11:49 a. m.",
+    "quoteLast": "; Wheeling, W. Va.",
+    "title": "The Chautauquan, Vol. 05, March 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55060",
+    "hash": "361ca67c6cf3ea46082e44e4af819b9ec889020cab26ebbccef4e383e5af352c"
+  },
+  {
+    "time": "11:49",
+    "quoteFirst": "From ",
+    "quoteTime": "11 to 12 a.m.",
+    "quoteLast": " is perhaps the busiest part of the day in the bazaar.",
+    "title": "A Ride to India across Persia and Baluchistán",
+    "author": "De Windt, Harry, 1856-1933",
+    "gutenbergReference": "10974",
+    "hash": "ca565b411e6764a87291c59d72329c2c757bdc5cea32122996967cab87c19b35"
   }
 ]

@@ -21,6 +21,16 @@
   },
   {
     "time": "20:07",
+    "quoteFirst": "\"",
+    "quoteTime": "Seven minutes past eight",
+    "quoteLast": ". What time does the last train start, Jeanne?\"",
+    "title": "The Immortals: Masterpieces of Fiction, Crowned by the French Academy — Complete",
+    "author": "Various",
+    "gutenbergReference": "4000",
+    "hash": "45b6d30e531efb345a324e7f75381705788fab4d1a70cffbe663e389b744cb82"
+  },
+  {
+    "time": "20:07",
     "quoteFirst": "At ",
     "quoteTime": "seven minutes past eight",
     "quoteLast": " the mayor began to speak.",
@@ -31,13 +41,13 @@
   },
   {
     "time": "20:07",
-    "quoteFirst": "No one could say that Letitia was untruthful; to lie was quite outside her code; but if at ",
-    "quoteTime": "seven minutes past eight",
-    "quoteLast": " she was late, she said it was barely eight o'clock, and if you were late she said it was almost a quarter past.",
-    "title": "Are Parents People?",
-    "author": "Miller, Alice Duer, 1874-1942",
-    "gutenbergReference": "64917",
-    "hash": "5aa0bb8b4a1a7a2127e764c84b17afa80b265ee9bb6b149dcd5de72d49caacac"
+    "quoteFirst": "\"",
+    "quoteTime": "Seven minutes past eight",
+    "quoteLast": ".  What time does the last train start, Jeanne?\"",
+    "title": "The Ink-Stain (Tache d'encre) — Volume 2",
+    "author": "Bazin, René, 1853-1932",
+    "gutenbergReference": "3973",
+    "hash": "48797fe04be5aa1b10359861935c66b38995bac9de546ae573d407e6611a2459"
   },
   {
     "time": "20:07",
@@ -51,6 +61,16 @@
   },
   {
     "time": "20:07",
+    "quoteFirst": "“",
+    "quoteTime": "Seven minutes past eight",
+    "quoteLast": ". What time does the last train start, Jeanne?”",
+    "title": "The Ink-Stain (Tache d'encre) — Complete",
+    "author": "Bazin, René, 1853-1932",
+    "gutenbergReference": "3975",
+    "hash": "86cefdbeae4b77635754a7c46019183bb1f1de8a6197bea34eb90d1da6026372"
+  },
+  {
+    "time": "20:07",
     "quoteFirst": "This was at exactly ",
     "quoteTime": "seven minutes after eight",
     "quoteLast": " by the town hall clock which wasn’t going, no doubt in honor of the great occasion.",
@@ -58,6 +78,16 @@
     "author": "Fitzhugh, Percy Keese, 1876-1950; Barbour, Harold S., 1889-1961 [Illustrator]",
     "gutenbergReference": "72220",
     "hash": "82bdcbcdc07405c9f65dab2f57b78c584e7c091af0b7c48545a1c17ef5ba3c1b"
+  },
+  {
+    "time": "20:07",
+    "quoteFirst": "“He will be clear at ",
+    "quoteTime": "seven minutes past eight",
+    "quoteLast": " this evening. Yes, he could just manage it then. He has no one at all from seven past to the quarter past”--and so at the appointed hour I have my patient precipitating himself into my room with the demeanour of the man who charges in for his bowl of hot soup at a railway station.",
+    "title": "The Stark Munro Letters\r\nBeing series of twelve letters written by J. Stark Munro, M.B., to his friend and former fellow-student, Herbert Swanborough, of Lowell, Massachusetts, during the years 1881-1884",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "gutenbergReference": "290",
+    "hash": "a22cea59d75d518b8210cacc496eb16bd3406fa5e7581399c819b01bd4853746"
   },
   {
     "time": "20:07",

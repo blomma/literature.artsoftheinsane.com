@@ -1,6 +1,26 @@
 [
   {
     "time": "21:22",
+    "quoteFirst": "",
+    "quoteTime": "Twenty-two minutes past nine",
+    "quoteLast": " to the tick.",
+    "title": "The Lighted Way",
+    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946; Wenzell, A. B. (Albert Beck), 1864-1917 [Illustrator]",
+    "gutenbergReference": "15893",
+    "hash": "1bcab70e6446fdbf939d1f4a82f35fe42acaf9c351cfb7e436ef5f2bdda490f3"
+  },
+  {
+    "time": "21:22",
+    "quoteFirst": "Instead, the clock pointed to only ",
+    "quoteTime": "twenty-two minutes past nine",
+    "quoteLast": ".",
+    "title": "The Matador of the Five Towns and Other Stories",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "12995",
+    "hash": "a380fe63fe0409a7ee17f2b7ac5414a9cd447f790b28bcb145df9e84d1eafe82"
+  },
+  {
+    "time": "21:22",
     "quoteFirst": "PRETORIA, _April 12, 1902_, ",
     "quoteTime": "9.22 P.M.",
     "quoteLast": "",
@@ -8,5 +28,15 @@
     "author": "Creswicke, Louis",
     "gutenbergReference": "47132",
     "hash": "a106c596719971727aa73a0cb7f44c9cb03a157c9e613334da002eed6c9b6ffa"
+  },
+  {
+    "time": "21:22",
+    "quoteFirst": "Elizabeth Teresa Howard borne the 6 of April, being Easter Eve, ",
+    "quoteTime": "22 minutes after 9",
+    "quoteLast": " of the clock in the evening.",
+    "title": "Brief Lives, Vol. 1",
+    "author": "Aubrey, John, 1626-1697; Clark, Andrew, 1856-1922 [Editor]",
+    "gutenbergReference": "47787",
+    "hash": "6ab323482d17faac8bb86fe34e7ff179e1b4aa81c83b3c71443a48cb04a85ea3"
   }
 ]

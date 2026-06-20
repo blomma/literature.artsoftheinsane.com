@@ -1,6 +1,26 @@
 [
   {
     "time": "05:06",
+    "quoteFirst": "",
+    "quoteTime": "5:06 A. M.",
+    "quoteLast": "—Albarado from Bandon.",
+    "title": "The Maltese falcon",
+    "author": "Hammett, Dashiell, 1894-1961",
+    "gutenbergReference": "77600",
+    "hash": "3d164bd2dd540636e904f0bee9298c9fa3a83c51b0c144d0a31ce320cb72ebad"
+  },
+  {
+    "time": "05:06",
+    "quoteFirst": "The lightning of calamity struck Ug one afternoon at ",
+    "quoteTime": "six minutes past five",
+    "quoteLast": ".",
+    "title": "Apes and Angels",
+    "author": "Connell, Richard Edward, 1893-1949",
+    "gutenbergReference": "65201",
+    "hash": "62eb4442c4fffb9845a659a6d85e95bfa051ab3ccad7c47db1fb862fdb193f91"
+  },
+  {
+    "time": "05:06",
     "quoteFirst": "\"Special passed here ",
     "quoteTime": "six past five",
     "quoteLast": ".--Earlstown.\"",
@@ -11,6 +31,16 @@
   },
   {
     "time": "05:06",
+    "quoteFirst": "; on 30th, rises at ",
+    "quoteTime": "5:06 a. m.",
+    "quoteLast": ", sets at 6:42 p.",
+    "title": "The Chautauquan, Vol. 05, April 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55061",
+    "hash": "85696ce81c3eaaf4f43c44135e2731a033828010106682dab0b14ef0f176cfb4"
+  },
+  {
+    "time": "05:06",
     "quoteFirst": "“Special passed here ",
     "quoteTime": "six past five",
     "quoteLast": ".—Earlestown.”",
@@ -18,5 +48,15 @@
     "author": "Doyle, Arthur Conan, 1859-1930; Castaigne, J. André, 1861-1929 [Illustrator]",
     "gutenbergReference": "54109",
     "hash": "91c4901f957a1bb00fee3d470d43273a004d53250ac89feaf8f7fa4952a43c6b"
+  },
+  {
+    "time": "05:06",
+    "quoteFirst": "\"",
+    "quoteTime": "Six minutes past five",
+    "quoteLast": ",\" said she, looking at the watch again.",
+    "title": "Jimmy, Lucy, and All",
+    "author": "May, Sophie, 1833-1906",
+    "gutenbergReference": "14608",
+    "hash": "897fb22d2da410dc2bf63051ddb9eb017c3cde04f9b7ffdd22d60d9a8d244551"
   }
 ]

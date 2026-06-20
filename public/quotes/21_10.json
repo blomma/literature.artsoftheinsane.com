@@ -1,83 +1,163 @@
 [
   {
     "time": "21:10",
-    "quoteFirst": "She has been called for nine A. M. As it is her first experience with the charities she is at the doors at eight-thirty A. M. When the doors swing open at ",
+    "quoteFirst": "I have many affairs needing attention between now and the ",
     "quoteTime": "nine-ten",
-    "quoteLast": " she is almost frozen.",
-    "title": "Crimes of Charity",
-    "author": "Bercovici, Konrad, 1882-1961; Reed, John, 1887-1920 [Author of introduction, etc.]",
-    "gutenbergReference": "42363",
-    "hash": "ce09ed72c3bd86296371d31cb666fbcb1948355ac971074176700365c752e460"
+    "quoteLast": " train from Victoria.",
+    "title": "The Black Bag",
+    "author": "Vance, Louis Joseph, 1879-1933; Fogarty, Thomas, 1873-1938 [Illustrator]",
+    "gutenbergReference": "9779",
+    "hash": "aba0151699c0f758aece929e51f0a513680d791214cd34ce6b14f1c182769304"
   },
   {
     "time": "21:10",
-    "quoteFirst": "It was nearly ",
+    "quoteFirst": "\"",
+    "quoteTime": "Ten minutes after nine",
+    "quoteLast": ",\" said Doctor Hugh, all too soon.",
+    "title": "Rainbow Hill",
+    "author": "Lawrence, Josephine, 1897?-1978; Gooch, Thelma, 1895-1973 [Illustrator]",
+    "gutenbergReference": "26533",
+    "hash": "b4b2c44a49f8c76d729093642e843d4e6141c33c8deb915cc733492c081bf570"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "He said twangingly, \"",
+    "quoteTime": "Ten minutes past nine",
+    "quoteLast": ", Miss Melville!\"",
+    "title": "The Judge",
+    "author": "West, Rebecca, 1892-1983",
+    "gutenbergReference": "16125",
+    "hash": "16d6e9aa4cf65581915959fea0d609758ce6a76b4a8d951a52ff3abe282ff755"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "Uranus is an evening star, setting at the following dates: 1st, at ",
+    "quoteTime": "9:10 p. m.",
+    "quoteLast": "; 15th, at 8:17 p.",
+    "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55208",
+    "hash": "24ecc349ce65c3dbefc8fb670a7e717fec0b55c7f7780c218ca660173c48f912"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "\"Yes, sir; maybe ",
+    "quoteTime": "ten minutes after nine",
+    "quoteLast": ".\"",
+    "title": "That Affair at Elizabeth",
+    "author": "Stevenson, Burton Egbert, 1872-1962",
+    "gutenbergReference": "35247",
+    "hash": "50e3ac9d561a6b19f621bf726301c2044fa498e41a2eac6333bb4a614fea14a8"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "He could see by the clock above him that it was ",
     "quoteTime": "ten minutes past nine",
     "quoteLast": ".",
-    "title": "A Sub. of the R.N.R.: A Story of the Great War",
-    "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Wigfull, W. Edward (William Edward), 1875-1944 [Illustrator]",
-    "gutenbergReference": "50578",
-    "hash": "aa8201ad12112a2e04ab2e157a41a15bad75811b9d9ec65e67066dfd2b28b4b8"
+    "title": "Daughters of the Revolution and Their Times\n1769 - 1776 A Historical Romance",
+    "author": "Coffin, Charles Carleton, 1823-1896",
+    "gutenbergReference": "29849",
+    "hash": "771df4b0611d8e036b47ccdaf9c4392fb1f5ddb2a9e5506e34120461c5943fdc"
   },
   {
     "time": "21:10",
-    "quoteFirst": "It weighs 17,000 pounds, and at ",
-    "quoteTime": "ten minutes past nine P.M.",
-    "quoteLast": " strikes one hundred and ten times, the number of students “on the foundation.”",
-    "title": "Loitering in Pleasant Paths",
-    "author": "Harland, Marion, 1830-1922",
-    "gutenbergReference": "50511",
-    "hash": "a9d6b95f5cd852cf55e1e6cb026a2aefe3279899e8448be001a57b5c5fb6081f"
+    "quoteFirst": "Listen: Friday, at ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": ", sent to the Rue d’Ulm---- do you think of that?”",
+    "title": "Baron Trigault's Vengeance",
+    "author": "Gaboriau, Emile, 1832-1873",
+    "gutenbergReference": "547",
+    "hash": "e35856596a32a9804cc8b53cadae7d3a811cce34c20bcb999277dbe8d29b16cf"
   },
   {
     "time": "21:10",
-    "quoteFirst": "\"_Arrive ",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": ", exactly, the door opened, and a thick-set, florid man, buttoned up in a fawn colored raincoat and wearing a bowler hat of obsolete build, entered.",
+    "title": "The Yellow Claw",
+    "author": "Rohmer, Sax, 1883-1959",
+    "gutenbergReference": "2028",
+    "hash": "85919bb7c3099d7e6e4f194de51c641c8bc756fed035d93f53eb2897e857420d"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "She intended to catch the ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": " train from London Bridge Station and go right on board Lord Calliston's yacht and insist upon his sailing and leaving Lady Balscombe in the lurch.",
+    "title": "The Piccadilly Puzzle: A Mysterious Story",
+    "author": "Hume, Fergus, 1859-1932",
+    "gutenbergReference": "55376",
+    "hash": "3786bbb780b8068af887fc95f86f6d9fc097aa10aac56592b25a56e37a68705d"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "“",
+    "quoteTime": "Ten minutes past nine",
+    "quoteLast": ",” answered Kent, who carried the luminous wrist-watch.",
+    "title": "My Escape from Germany",
+    "author": "Keith, Eric A.",
+    "gutenbergReference": "49509",
+    "hash": "10173ecdd8a0aba1a5e682649f323754ea82425d08e9101265c90e7b9ead726c"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "It is high water full and change at ",
+    "quoteTime": "ten minutes after nine",
+    "quoteLast": ", and the tide appears to rise between four and six feet.",
+    "title": "Journals of Two Expeditions into the Interior of New South Wales",
+    "author": "Oxley, John, 1783-1828",
+    "gutenbergReference": "5334",
+    "hash": "37b425b45d1469e8b03ff9b9577a147c8b6332c898e366e76f6fa3ea4e6cd0fc"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "said Jess, \"What about this ",
     "quoteTime": "nine-ten",
-    "quoteLast": " to-night all my love Gilbert_\"",
-    "title": "The Drunkard",
-    "author": "Thorne, Guy, 1875-1923",
-    "gutenbergReference": "41139",
-    "hash": "3f524e38b26d5b29a78937131e5936beb08d526f03537f0daea07a3a359e4e2f"
-  },
-  {
-    "time": "21:10",
-    "quoteFirst": "The man who drove the car, I mean, or the one who possibly took the ",
-    "quoteTime": "nine-ten",
-    "quoteLast": " express out of town that night?",
+    "quoteLast": " express Bobby spoke of?\"",
     "title": "The Girls of Central High Aiding the Red Cross\r\nOr, Amateur Theatricals for a Worthy Cause",
     "author": "Morrison, Gertrude W.",
     "gutenbergReference": "8137",
-    "hash": "a27184277395a8df6dbac6599894e35db00a48bc57a1b29808eaf57b9ad447c6"
+    "hash": "3eb347ada90f26f116a2ba09659ef05ae740c0cdf95f671b2dd982ea4961f5d3"
   },
   {
     "time": "21:10",
-    "quoteFirst": "IT was ",
-    "quoteTime": "ten minutes past nine",
-    "quoteLast": ", and Tom,* with a sonorous voice, was ordering all College gates to be shut, when the wine party, which had just left Mr. Bouncer's room, passed round the corner of St. Mary's, and dashed across the High.",
-    "title": "The Adventures of Mr. Verdant Green",
-    "author": "Bede, Cuthbert, 1827-1889",
-    "gutenbergReference": "4644",
-    "hash": "374a88b32183879683e4e357a6fe2b59eefc2c0f2fae3c948e9742f7faf7ee21"
+    "quoteFirst": "The seismograph at the university of this city registered two small shocks, the first at ",
+    "quoteTime": "9.10 P.M.",
+    "quoteLast": ", and the second and stronger at 9.25 P.M.; and De Rossi states that at about 9.30 P.M. the seismographs at Ceccano, Velletri, and Rome recorded a shock consisting of very slow undulations.",
+    "title": "A Study of Recent Earthquakes",
+    "author": "Davison, Charles, 1858-1940",
+    "gutenbergReference": "25062",
+    "hash": "3d63c273198b31181f1bc0f14f63cace20d61c06cfddc6fe66796e104e7c0ee9"
   },
   {
     "time": "21:10",
-    "quoteFirst": "Napier had stood outside the entrance to the dock, waiting for Nan, since ",
+    "quoteFirst": "If you must go, Mrs. Tennant, I am afraid you must, for the next train leaves Charing Cross for Merrifield at ",
     "quoteTime": "ten minutes past nine",
-    "quoteLast": ".",
-    "title": "The Messenger",
-    "author": "Robins, Elizabeth, 1862-1952; Giguere, George [Illustrator]",
-    "gutenbergReference": "35671",
-    "hash": "a8ff6b63436edf61a6af84467763d999c68e40c78b0a0f2904197bdb558ffbab"
+    "quoteLast": ".\"",
+    "title": "The Rebel of the School",
+    "author": "Meade, L. T., 1854-1914",
+    "gutenbergReference": "15839",
+    "hash": "aa3e24a782b1295999f8f47cb14ed0fd4046f16034e06ff0e3e4386c735ef49e"
   },
   {
     "time": "21:10",
-    "quoteFirst": "Just before he saw Mr. Horbury and his companion, he heard the clock at Scarnham Parish Church strike nine, and after they had passed him he had gone on to the Green Archer public-house, and had noticed that it was ",
-    "quoteTime": "ten minutes past nine",
-    "quoteLast": " when he entered.",
-    "title": "The Chestermarke Instinct",
-    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
-    "gutenbergReference": "27965",
-    "hash": "d9a748c22dba20f9e18919d77d5961d14b1f036e9f5041121d2b49be069bcdfd"
+    "quoteFirst": "\"",
+    "quoteTime": "Ten minutes past nine",
+    "quoteLast": ",\" he said, looking somewhat dismayed in his turn; \"I had no idea it was so late. Luckily it is Saturday, so there are no recitations to miss.\"",
+    "title": "The Girl from Arizona",
+    "author": "Rhoades, Nina, 1863-1940; Withington, Elizabeth R. (Elizabeth Rupp), 1883-1962 [Illustrator]",
+    "gutenbergReference": "32417",
+    "hash": "380375d1ccee9746fd879396b594b0d798e30941f1d0a10d22e4132353c908e3"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "\"",
+    "quoteTime": "Ten minutes after nine",
+    "quoteLast": ",\" said Doctor Hugh, all too soon.",
+    "title": "Rainbow Hill",
+    "author": "Lawrence, Josephine, 1897?-1978; Gooch, Thelma, 1895-1973 [Illustrator]",
+    "gutenbergReference": "26533",
+    "hash": "b4b2c44a49f8c76d729093642e843d4e6141c33c8deb915cc733492c081bf570"
   },
   {
     "time": "21:10",
@@ -91,12 +171,32 @@
   },
   {
     "time": "21:10",
-    "quoteFirst": "It was nearly ",
+    "quoteFirst": "Mr. Herndon, did you hear the testimony of Dr. William Beavers which was taken immediately following the administration of the polygraph examination commencing at ",
+    "quoteTime": "9:10 p.m.",
+    "quoteLast": ", on July 18, 1964?",
+    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "56190",
+    "hash": "9297845a635def25b5d2e97959421d6dde37c99becc08df559c0dc77844fbd20"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "ate a hearty dinner with me, young Angus not having been heard from further, and fell asleep in a gold armchair at ",
     "quoteTime": "ten minutes past nine",
     "quoteLast": ".",
-    "title": "A Sub. of the R.N.R.: A Story of the Great War",
-    "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Wigfull, W. Edward (William Edward), 1875-1944 [Illustrator]",
-    "gutenbergReference": "50578",
-    "hash": "aa8201ad12112a2e04ab2e157a41a15bad75811b9d9ec65e67066dfd2b28b4b8"
+    "title": "Somewhere in Red Gap",
+    "author": "Wilson, Harry Leon, 1867-1939; Gruger, Frederic Rodrigo, 1871-1953 [Illustrator]; Neill, John R. (John Rea), 1877-1943 [Illustrator]; Raleigh, Henry, 1880-1945 [Illustrator]",
+    "gutenbergReference": "14376",
+    "hash": "38ac47a63934b8c547c393fedb1ecf37fcfe5585b16afa454f4d7d6f5e4b2134"
+  },
+  {
+    "time": "21:10",
+    "quoteFirst": "That position indicates ",
+    "quoteTime": "ten minutes past nine",
+    "quoteLast": ".\"",
+    "title": "Max Carrados",
+    "author": "Bramah, Ernest, 1868-1942",
+    "gutenbergReference": "34732",
+    "hash": "62c103dcc74956a37c56f16bb33447be3257906135d8d8c5bf9030ee970ea5e8"
   }
 ]

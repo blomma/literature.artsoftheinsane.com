@@ -1,53 +1,83 @@
 [
   {
     "time": "05:40",
-    "quoteFirst": "But now, with another delay near Hannibal Bridge owing to grade crossing, it was ",
+    "quoteFirst": "“To be exact, at ",
+    "quoteTime": "twenty minutes of six",
+    "quoteLast": ".”",
+    "title": "The moving finger",
+    "author": "Lincoln, Natalie Sumner, 1881-1935; Wrenn, Charles L. (Charles Lewis), 1880-1952 [Illustrator]",
+    "gutenbergReference": "74210",
+    "hash": "79bf5ee894975aa1d191f1f3552b492c9e808bc47494f2fddff38485a870a87d"
+  },
+  {
+    "time": "05:40",
+    "quoteFirst": "When I took my temperature at ",
     "quoteTime": "twenty minutes to six",
-    "quoteLast": " before the bridge was crossed and Wyandotte Street reached.",
-    "title": "An American tragedy, v. 1",
-    "author": "Dreiser, Theodore, 1871-1945",
-    "gutenbergReference": "75181",
-    "hash": "bead9c6bba0e2bcc18adb2a46678d7e3f0db2bee8ae9fb0b30bfcedbbbed5a8f"
+    "quoteLast": "....”",
+    "title": "The Girl on the Boat",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "20717",
+    "hash": "ebc3cfd0b67ea276b20a534739b67844d50a1ac2057fb5201c8d919cd6cd0dd7"
   },
   {
     "time": "05:40",
-    "quoteFirst": "Arrive       ",
+    "quoteFirst": "The attack was launched on the 9th May at ",
+    "quoteTime": "5.40 a.m.",
+    "quoteLast": " after a forty minutes' bombardment of the enemy lines by all available guns.",
+    "title": "The War History of the 4th Battalion, the London Regiment (Royal Fusiliers), 1914-1919",
+    "author": "Grimwade, F. Clive",
+    "gutenbergReference": "50098",
+    "hash": "eb5576e26de9d26f9334a43fdfd1bef40bd37af60719c8f04bb19c4549df372e"
+  },
+  {
+    "time": "05:40",
+    "quoteFirst": "The evidence of the waitress in the teashop at Calstock—four miles from Tranfield—that he was there at ",
     "quoteTime": "five-forty",
-    "quoteLast": ".",
-    "title": "The Hound of the Baskervilles",
-    "author": "Doyle, Arthur Conan, 1859-1930",
-    "gutenbergReference": "2852",
-    "hash": "d5bef02a04161b2e71b654c7062c3452762adbbdfd3821c11fbe4c550c78b0ee"
-  },
-  {
-    "time": "05:40",
-    "quoteFirst": "\"It's ",
-    "quoteTime": "twenty minutes of six",
-    "quoteLast": ",\" declared Dan, glancing at his watch.",
-    "title": "The Grammar School Boys in Summer Athletics",
-    "author": "Hancock, H. Irving (Harrie Irving), 1868-1922",
-    "gutenbergReference": "12735",
-    "hash": "8f556d8b6253731916eac473a089263444a078d3398c81c9fa85b8dcd142236d"
-  },
-  {
-    "time": "05:40",
-    "quoteFirst": "I paced our little street, from the hotel entrance to the _glacis_, until ",
-    "quoteTime": "twenty minutes of six",
-    "quoteLast": ".",
-    "title": "Anthony the Absolute",
-    "author": "Merwin, Samuel, 1874-1936; Crosby, Raymond Moreau, 1876-1945 [Illustrator]",
-    "gutenbergReference": "52507",
-    "hash": "76807de845704f5fb2e53baf97589f3304d61b21a574c208e1f401c4fec69b79"
+    "quoteLast": " on the evening of the murder told heavily against him at the trial.",
+    "title": "The mystery of the Peacock's Eye",
+    "author": "Flynn, Brian, 1885-1958",
+    "gutenbergReference": "75195",
+    "hash": "2b4df0b412b7657a0312ab49468d06bbc84930e4b1a41c4f7a5ca3b03e462834"
   },
   {
     "time": "05:40",
     "quoteFirst": "At ",
-    "quoteTime": "5:40 A.M.",
-    "quoteLast": " the next morning, 2,410 miles, fifteen hours, and forty-seven minutes after Oakland, the Electra touched down at Wheeler Field.",
-    "title": "Daughter of the sky",
-    "author": "Briand, Paul L., Jr., 1920-1986",
-    "gutenbergReference": "70263",
-    "hash": "4aafb0d47d8c7e059801fa09297ce592c773f150b5adcbd84c212e4cc99ec4e4"
+    "quoteTime": "5.40 A.M.",
+    "quoteLast": " the barrage began, the nearest fringe of it dropping one hundred and fifty yards in front of the infantry as they formed up for the attack.",
+    "title": "The History of the 33rd Divisional Artillery, in the War, 1914-1918.",
+    "author": "Macartney-Filgate, John Victor; Horne, Henry, 1861-1929 [Author of introduction, etc.]",
+    "gutenbergReference": "51776",
+    "hash": "6f26451442bd229f0115bfa6aa626f72b00f3b24b6a4077c8dced27bd2e046f7"
+  },
+  {
+    "time": "05:40",
+    "quoteFirst": "At ",
+    "quoteTime": "five-forty",
+    "quoteLast": " a blur of smoky white emerged from the veil ahead, and the glint of orange sunlight on water showed through the whirling disk of the propeller as Billy stared into the south.",
+    "title": "The last crash",
+    "author": "Latour, Kenneth",
+    "gutenbergReference": "71313",
+    "hash": "c54836374a0944efbfaa6a04cfdbc4a7869aac18fc03facfaa0d4bdc56ae4811"
+  },
+  {
+    "time": "05:40",
+    "quoteFirst": "Rising at an early hour one day, they took the train of the Southern & Western Railway at ",
+    "quoteTime": "5.40 A.M.",
+    "quoteLast": ", and rode straight through to Roma, three hundred and seventeen miles, which they reached at ten o'clock at night.",
+    "title": "The Boy Travellers in Australasia\r\nAdventures of Two Youths in a Journey to the Sandwich, Marquesas, Society, Samoan, and Feejee Islands",
+    "author": "Knox, Thomas Wallace, 1835-1896",
+    "gutenbergReference": "60696",
+    "hash": "751c8cd82cc6414367e641368144ab5707f93e4d32fdc6695eedc75c3432e251"
+  },
+  {
+    "time": "05:40",
+    "quoteFirst": "At 4.20 A.M. the Admiralty informed me that the enemy was bombarding Lowestoft, and that the 5th Light Cruiser Squadron was in touch with the enemy’s ships; and at ",
+    "quoteTime": "5.40 A.M.",
+    "quoteLast": " the Aldeburgh wireless station reported enemy battle cruisers in sight steaming to the eastward.",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "hash": "d45f24465c3c9e2e4d825d0a5e828583c86b538f41a885bc6a98a4ebbfa12f33"
   },
   {
     "time": "05:40",
@@ -61,42 +91,112 @@
   },
   {
     "time": "05:40",
-    "quoteFirst": "At ",
-    "quoteTime": "twenty minutes to six A.M.",
-    "quoteLast": ", got underweigh with a light breeze; in the centre of Hannibal Bay, Risk Point ahead.",
-    "title": "Narrative of the Voyage of H.M.S. Rattlesnake, Commanded By the Late Captain Owen Stanley, R.N., F.R.S. Etc. During the Years 1846-1850. — Volume 2\r\nIncluding Discoveries and Surveys in New Guinea, the Louisiade Archipelago, Etc. to Which Is Added the Account of Mr. E.B. Kennedy's Expedition for the Exploration of the Cape York Peninsula. By John Macgillivray, F.R.G.S. Naturalist to the Expedition.",
-    "author": "MacGillivray, John, 1822-1867",
-    "gutenbergReference": "12525",
-    "hash": "1a790341044a3dbdadd761b1754a1148525011b3b1fd3a862289e35ba68df16c"
+    "quoteFirst": "Paragraph 50 of the same despatch gives an account of the attack launched at ",
+    "quoteTime": "5.40 a.m.",
+    "quoteLast": " on 20th September (the Battle of the Menin Road Ridge), “a most successful operation,” notwithstanding the excessively bad state of the ground.",
+    "title": "The Territorial Divisions, 1914-1918",
+    "author": "Stirling, John",
+    "gutenbergReference": "70633",
+    "hash": "217334af61eb97910b918464bbc1a5f9bb779dd9147222c69afbe4186f6c76a4"
   },
   {
     "time": "05:40",
-    "quoteFirst": "On the 1st, rises at ",
-    "quoteTime": "5:40 a. m.",
-    "quoteLast": ", and sets at 8:24 p.",
-    "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55394",
-    "hash": "f0d66acc1b182f8fb8c426c0d14ef71fd2fb5cfcc2e25ef581516a93dbc4950c"
+    "quoteFirst": "Dinner passed as breakfast had done, and Mr. Fogg reappeared in the reading-room and sat down to the Pall Mall at ",
+    "quoteTime": "twenty minutes before six",
+    "quoteLast": ".",
+    "title": "Around the World in Eighty Days. Junior Deluxe Edition",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "2154",
+    "hash": "956c3ab21d118de1be19fc9981d61310abad41778a5ee38a4feb7063871d3852"
   },
   {
     "time": "05:40",
-    "quoteFirst": "--Started at ",
+    "quoteFirst": "The arrest of Tom Rain and Old Death took place at about ",
     "quoteTime": "twenty minutes to six",
-    "quoteLast": " o'clock, intending to make an easy day's stage along the creek.",
-    "title": "Successful Exploration Through the Interior of Australia\r\nFrom Melbourne to the Gulf of Carpentaria",
-    "author": "Wills, William John, 1834-1861",
-    "gutenbergReference": "5816",
-    "hash": "8d16208cc7f4673ee911e265ccbdea24a4be6745d2f0a8cfe83c114673b40459"
+    "quoteLast": " on the evening in question; and by ten o’clock that night the news were circulated throughout every quarter of the metropolis.",
+    "title": "The Mysteries of London, v. 4/4",
+    "author": "Reynolds, George W. M. (George William MacArthur), 1814-1879",
+    "gutenbergReference": "51649",
+    "hash": "7ff663df91295969c85068fd0a514625ac71770b0a7181fc2bf04db8eee0dff1"
+  },
+  {
+    "time": "05:40",
+    "quoteFirst": "After another similar experience with the hatching of nine marked eggs, which extended over a period from ",
+    "quoteTime": "5:40 a. m.",
+    "quoteLast": " one day until 10:48 a.",
+    "title": "Life histories of North American woodpeckers",
+    "author": "Bent, Arthur Cleveland, 1866-1954",
+    "gutenbergReference": "73940",
+    "hash": "66e4c2cf162ed1529c9f6c0bce1f45d1605775944392a8d3c934c51a3ebba99f"
+  },
+  {
+    "time": "05:40",
+    "quoteFirst": "Leaving the camp at ",
+    "quoteTime": "5.40 a.m.",
+    "quoteLast": ", traced the creek to the south-west for about three miles.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "24add1929b2d8e2b31d42945140ee3a4a9d0c2f5602d6599662b744600dd75a9"
   },
   {
     "time": "05:40",
     "quoteFirst": "At ",
     "quoteTime": "5.40 a.m.",
-    "quoteLast": " D and C Companies formed in front line, with A in support, and advanced to take the Blue Line.",
-    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
-    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
-    "gutenbergReference": "73159",
-    "hash": "c7618156aef99151f216a26de5f274668b93f9011d9a01a58e3024c24d388b29"
+    "quoteLast": " a terrific trench mortar fire fell on the forward posts doing very severe damage, and causing many casualties.",
+    "title": "The War History of the 4th Battalion, the London Regiment (Royal Fusiliers), 1914-1919",
+    "author": "Grimwade, F. Clive",
+    "gutenbergReference": "50098",
+    "hash": "5d4e3726351df9f6600603b020ae8fe8f297178d6d210c43d6fbda5b04788410"
+  },
+  {
+    "time": "05:40",
+    "quoteFirst": "21: The attack which started at ",
+    "quoteTime": "5.40 A.M.",
+    "quoteLast": " was carried out by two of our Divisional Infantry brigades; a brigade of another Division attacked simultaneously.",
+    "title": "Pushed and the Return Push",
+    "author": "Nichols, George Herbert Fosdike",
+    "gutenbergReference": "22324",
+    "hash": "d3e7f77fd70043e922e281723fe311bdf06f08a418c3db38473ea97dc318523c"
+  },
+  {
+    "time": "05:40",
+    "quoteFirst": "By ",
+    "quoteTime": "5.40 A.M.",
+    "quoteLast": " the whole of the first objective was in our hands.",
+    "title": "The history of the Twentieth (Light) Division",
+    "author": "Inglefield, Valentine Erskine, 1886-1947; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]",
+    "gutenbergReference": "74129",
+    "hash": "196049e62bf71571dfbe14ed7ead2b1450d10df888028f173a33929e1f2214e9"
+  },
+  {
+    "time": "05:40",
+    "quoteFirst": "When I awoke the sun shone into the room, and getting out of bed and looking at the watch which was to be shortly converted into money, I saw that it was ",
+    "quoteTime": "twenty minutes to six",
+    "quoteLast": ".",
+    "title": "Chatterbox, 1905.",
+    "author": "Various",
+    "gutenbergReference": "20117",
+    "hash": "247c7fef02fd61274a14302091c47b92c17fdec5b2aedeee0053df369b208c52"
+  },
+  {
+    "time": "05:40",
+    "quoteFirst": "The clock struck ",
+    "quoteTime": "twenty minutes to six",
+    "quoteLast": ",       When a frog sat on my knee;   I asked him to lend me eighteenpence,       But he borrowed a shilling of me.",
+    "title": "A Nonsense Anthology",
+    "author": "Wells, Carolyn, 1862-1942 [Compiler]",
+    "gutenbergReference": "9380",
+    "hash": "c5053152506045de4018b802cf2fd3dbfcb5d3acb76691d3b212bb2fd31825ab"
+  },
+  {
+    "time": "05:40",
+    "quoteFirst": "It is to get past the road fork where the main road goes out of the town at the southeastern edge at ",
+    "quoteTime": "twenty minutes to six",
+    "quoteLast": ".",
+    "title": "The English of military communications",
+    "author": "Ganoe, William Addleman, 1881-1966",
+    "gutenbergReference": "71741",
+    "hash": "f61eb13706be4e76f11027cdeaa8e2e76913470acac02db284e60584f9e59185"
   }
 ]

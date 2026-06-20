@@ -11,6 +11,16 @@
   },
   {
     "time": "04:42",
+    "quoteFirst": "",
+    "quoteTime": "4:42 a.m.",
+    "quoteLast": "—Voyager 1 had made its closest approach to Jupiter 37 minutes earlier.",
+    "title": "Voyage to Jupiter",
+    "author": "Morrison, David, 1940-; Samz, Jane",
+    "gutenbergReference": "58915",
+    "hash": "876aa771d94e85e53ee70343dbaff21111aadc9838d2cd36c26e79d7bed76420"
+  },
+  {
+    "time": "04:42",
     "quoteFirst": "The above clock face indicates a little before ",
     "quoteTime": "42 minutes past 4",
     "quoteLast": ".",

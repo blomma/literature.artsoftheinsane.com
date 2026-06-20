@@ -1,6 +1,16 @@
 [
   {
     "time": "21:13",
+    "quoteFirst": "At ",
+    "quoteTime": "thirteen minutes past nine",
+    "quoteLast": " he composed his face into a dour truculence, an expression to which the heavy conformation of the lower part lent itself admirably.",
+    "title": "The Loudwater Mystery",
+    "author": "Jepson, Edgar, 1863-1938",
+    "gutenbergReference": "9808",
+    "hash": "710bddf1ba4288ffc99bda8e1222481a4b85dada47e1a170a65f47d96b8fc5ac"
+  },
+  {
+    "time": "21:13",
     "quoteFirst": "\"It was put through at ",
     "quoteTime": "9.13 P.M.",
     "quoteLast": " from a public call-box at Charing Cross Underground Station.\"",
@@ -23,11 +33,11 @@
     "time": "21:13",
     "quoteFirst": "\"Writing in the Austrian papers some days ago, he pointed out that the annular eclipse of the sun, which commenced on Tuesday morning at 6.41 Greenwich time, was central at ",
     "quoteTime": "9.13 P. M.",
-    "quoteLast": ", and ended on the earth generally at twenty-five minutes past midnight on Wednesday morning, was likely to be accompanied with strong atmospheric and seismic disturbances. The learned physicist has gained great reputation by previous similar forecasts. His first and great success was the foretelling the destructive shock at Belluno, on June 29, 1873. Nearly the whole of Northern Italy was affected, and upwards of fifty lives were lost. Very shortly afterwards he gave warning of the probability of an eruption of Etna, which followed at the time anticipated in",
+    "quoteLast": ", and ended on the earth generally at twenty-five minutes past midnight on Wednesday morning, was likely to be accompanied with strong atmospheric and seismic disturbances. The learned physicist has gained great reputation by previous similar forecasts. His first and great success was the foretelling the destructive shock at Belluno, on June 29, 1873. Nearly the whole of Northern Italy was affected, and upwards of fifty lives were lost. Very shortly afterwards he gave warning of the probability of an eruption of Etna, which followed at the time anticipated in 1874.\"",
     "title": "Buchanan's Journal of Man, April 1887\nVolume 1, Number 3",
     "author": "Buchanan, Joseph R. (Joseph Rodes), 1814-1899 [Editor]",
     "gutenbergReference": "25890",
-    "hash": "f6e8210d1921435d08565930950c200283027f480086c42cf69beb605b7a84ef"
+    "hash": "e3d1079c0f8a483a2d586cc24bb27342a556327e5a06ddf3c354031fbc5e7313"
   },
   {
     "time": "21:13",

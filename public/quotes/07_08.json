@@ -31,6 +31,16 @@
   },
   {
     "time": "07:08",
+    "quoteFirst": "The Professor had then taken the train which leaves Dijon at ",
+    "quoteTime": "eight minutes past seven",
+    "quoteLast": ", and had arrived at Lyons at four minutes after ten and at Valence at forty-seven minutes after midnight.",
+    "title": "The perfume of the lady in black",
+    "author": "Leroux, Gaston, 1868-1927; Simont [Illustrator]",
+    "gutenbergReference": "75258",
+    "hash": "a25d68ab167e8eb6d299924e2bb7319a9c65a4927b4027e23a36004e028ea495"
+  },
+  {
+    "time": "07:08",
     "quoteFirst": "They had arrived at 6:27 o’clock, exactly on time, and M. Stangerson had left Dijon at ",
     "quoteTime": "eight minutes after seven",
     "quoteLast": ", and the Darzacs at just seven o’clock.",
@@ -38,6 +48,16 @@
     "author": "Leroux, Gaston, 1868-1927; Simont [Illustrator]",
     "gutenbergReference": "75258",
     "hash": "241f8213025cf45218dccc0e47635f19476aade3c21ded209b7fa528f3e4b6ef"
+  },
+  {
+    "time": "07:08",
+    "quoteFirst": "At 9.08 A. M. Eastern (",
+    "quoteTime": "7.08 A. M.",
+    "quoteLast": " Mountain) time we leave Grand Junction, on the Denver and Rio Grande Railroad, with engine No. 522, Engineer “Cyclone” Thompson, Fireman Bert Roberts, Conductor William M. Newman, Brakemen J. Grout and O. McCullough.",
+    "title": "Nine Thousand Miles on a Pullman Train\r\nAn Account of a Tour of Railroad Conductors from Philadelphia to the Pacific Coast and Return",
+    "author": "Shaw, Milton M.",
+    "gutenbergReference": "51341",
+    "hash": "225c52eec1c644fd5e2d88edf07a17c0edbcb9731251e84f7138be3d6b09d925"
   },
   {
     "time": "07:08",

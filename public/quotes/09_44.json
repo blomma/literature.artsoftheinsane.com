@@ -1,6 +1,16 @@
 [
   {
     "time": "09:44",
+    "quoteFirst": "\"",
+    "quoteTime": "9.44 a.m.",
+    "quoteLast": " Working party seen at ----, fired on, dispersed.\"",
+    "title": "Servants of the Guns",
+    "author": "Jeffery, Jeffery E. (Jeffery Eardley), 1887-",
+    "gutenbergReference": "37628",
+    "hash": "71f9a9702251470143d8451073470b56af510070cca58f140354cd4bd67d876d"
+  },
+  {
+    "time": "09:44",
     "quoteFirst": "Friday ",
     "quoteTime": "9:44 A.M.",
     "quoteLast": "",
@@ -28,5 +38,15 @@
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
     "hash": "bab363259b8d2b16824876111fce0b20815bbc3bf33aa25f9c50bb669ab4c650"
+  },
+  {
+    "time": "09:44",
+    "quoteFirst": "; Bismarck, Dakota, ",
+    "quoteTime": "9:44 a. m.",
+    "quoteLast": " to 12:33 p.",
+    "title": "The Chautauquan, Vol. 05, March 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55060",
+    "hash": "1e04f5b52205219c3b01d3bbeab36204614c03fc43fb8aebc4d28f4aa54164f6"
   }
 ]

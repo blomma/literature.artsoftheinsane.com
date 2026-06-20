@@ -1,6 +1,36 @@
 [
   {
     "time": "21:55",
+    "quoteFirst": "At exactly ",
+    "quoteTime": "five minutes before ten",
+    "quoteLast": ", Martha came cool-skinned from the dampness.",
+    "title": "The swing of the pendulum",
+    "author": "Spadoni, Adriana, 1879-1953",
+    "gutenbergReference": "74768",
+    "hash": "6e4fae27cbe74db3e1f6471c3c3b246972eb6c514d4f56c5b20f9a342660d9cf"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "'It is ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": ",' said the doctor, taking out an ugly nickel watch, the sort that cannot be pawned, attached to a sordid black cord.",
+    "title": "The Land of Cockayne: A Novel",
+    "author": "Serao, Matilde, 1856-1927",
+    "gutenbergReference": "54614",
+    "hash": "5fbed81c8fcb17f84cec275279a0411f7f4988c32d71c8a22529e9975904074d"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "That train leaves at ten-thirty and it is ",
+    "quoteTime": "five minutes of ten",
+    "quoteLast": " now.",
+    "title": "Frank Armstrong at College",
+    "author": "Colton, Matthew M., 1859-1925; Scott, A. O. (Arthur Orange), 1882?-1946 [Illustrator]",
+    "gutenbergReference": "47966",
+    "hash": "6eb5c99908e14634f68f9d1dd183c690d1146fa503f739b4fe0f5c6ca6be12a7"
+  },
+  {
+    "time": "21:55",
     "quoteFirst": "At ",
     "quoteTime": "five minutes to ten at night",
     "quoteLast": " you have formed your line as ordered and are beginning to entrench.",
@@ -11,92 +41,162 @@
   },
   {
     "time": "21:55",
-    "quoteFirst": "Without quite knowing what “seeing the freshmen” meant, Frank got his gown, and as it was ",
-    "quoteTime": "five minutes to ten",
-    "quoteLast": ", made his way to the Dean’s rooms.",
-    "title": "Oxford Days; or, How Ross Got His Degree",
-    "author": "Weatherly, F. E. (Frederic Edward), 1848-1929",
-    "gutenbergReference": "50618",
-    "hash": "50c1cc19194af7fa557b2e987b0877433483a075a6976f6ac2b9d498edcce39c"
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes to ten",
+    "quoteLast": ",\" said 'Bias with a glance at the clock.",
+    "title": "Hocken and Hunken\r\nA Tale of Troy",
+    "author": "Quiller-Couch, Arthur, 1863-1944",
+    "gutenbergReference": "14533",
+    "hash": "387e99258a6eed49ddb40aeb7dd0e0569f755e06f57981ce16c5faa69fa4e4e2"
   },
   {
     "time": "21:55",
-    "quoteFirst": "When I looked at the clock it still wanted ",
+    "quoteFirst": "They hurried Bollup, half supporting him, over the grounds and got into main quarters and into his room unperceived; undressed him and put him to bed, finishing this at “warning bell,” ",
+    "quoteTime": "five minutes before ten",
+    "quoteLast": ".",
+    "title": "Ralph Osborn, Midshipman at Annapolis: A Story of Life at the U.S. Naval Academy",
+    "author": "Beach, Edward L. (Edward Latimer), 1867-1943; Merrill, Frank T., 1848-1923 [Illustrator]",
+    "gutenbergReference": "61610",
+    "hash": "dc82b9b6804835e808084d862f6ac8c3f925f214606d52c583015e0628602f78"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "But just about ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": ", before the Stock Exchange opened, the news came in over the wire from our financial man on Broad Street: \"The System has forced James Bruce, partner of Kerr Parker, the dead banker, to sell his railroad, steamship, and rubber holdings to it. On this condition it promises unlimited support to the market.\"",
+    "title": "Master Tales of Mystery, Volume 3",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Compiler]",
+    "gutenbergReference": "11949",
+    "hash": "1d006294154896f7e58d1eb19010c5ad22bcc1dc20a8b164ba4a23f41245dffd"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "Mark turned up the gas, and they saw that it wanted ",
     "quoteTime": "five minutes to ten",
     "quoteLast": ".",
-    "title": "Psychopathology of Everyday Life",
-    "author": "Freud, Sigmund, 1856-1939; Brill, A. A. (Abraham Arden), 1874-1948 [Translator]",
-    "gutenbergReference": "67332",
-    "hash": "23a324b10f34fcac4e378ca4f38be08742d8c09c631e88a4e177565cc7bd7ece"
-  },
-  {
-    "time": "21:55",
-    "quoteFirst": "Suddenly, at ",
-    "quoteTime": "five minutes to ten",
-    "quoteLast": ", in the very midst of a duke's speech, the Regent, with dizzy brain, was on his feet: there was a few moments' gasp and breathlessness; and then--all at once--it was as though a wind from hell swept through that House, whirling in its vehemence Regent, lords, Gallery, Black Rod, Clerk, Usher, and all; and every face was marble, and every eye a blaze.",
-    "title": "The Lord of the Sea",
-    "author": "Shiel, M. P. (Matthew Phipps), 1865-1947",
-    "gutenbergReference": "6993",
-    "hash": "5ea49a1a0b04a4f4b9f06b43b72758a0726a877ae276499e159b43d1842abf2a"
-  },
-  {
-    "time": "21:55",
-    "quoteFirst": "",
-    "quoteTime": "Five minutes to ten",
-    "quoteLast": ", he will be late.",
-    "title": "Monsieur, Madame, and Bébé — Complete",
-    "author": "Droz, Gustave, 1832-1895",
-    "gutenbergReference": "3926",
-    "hash": "137711e9e74e1dc3d649421edd2fc1e695c3a21dc315a610e9ac5ff2b464f75f"
-  },
-  {
-    "time": "21:55",
-    "quoteFirst": "The correct time is ",
-    "quoteTime": "five minutes to ten",
-    "quoteLast": ".\"",
-    "title": "Self-Doomed: A Novel",
-    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
-    "gutenbergReference": "53096",
-    "hash": "9e3310d3a3ce01b2b44b27885ca6744940d6d970a73843aabb9d27f9b1b4bf03"
-  },
-  {
-    "time": "21:55",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes to ten",
-    "quoteLast": " he went down to the station, and handing over his horse and trap to the care of the boy, walked upon the up platform.",
-    "title": "The Markenmore Mystery",
-    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
-    "gutenbergReference": "59818",
-    "hash": "85c69ddb835ef97aaacca701933bfb7cb752b80db3461f288a81d06f56381ea7"
+    "title": "The Girl's Own Paper, Vol. VIII, No. 369, January 22, 1887",
+    "author": "Various",
+    "gutenbergReference": "65897",
+    "hash": "043b5be11ef808094fe8061142f1bfaed3b269c2b7213c294cfc9b8ff73b185f"
   },
   {
     "time": "21:55",
     "quoteFirst": "It was ",
     "quoteTime": "five minutes to ten",
-    "quoteLast": ".",
-    "title": "The Black Box",
-    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
-    "gutenbergReference": "17197",
-    "hash": "8347e454d46a019701588c15e653ec8969ed495eb3976fa677540d83871e274b"
+    "quoteLast": " by his watch when Kirby entered the Paradox Apartments.",
+    "title": "Tangled Trails: A Western Detective Story",
+    "author": "Raine, William MacLeod, 1871-1954",
+    "gutenbergReference": "17066",
+    "hash": "c461276c3e638c49c9235eeb9098f131fcddb6b72f367a4e33ceebca52a4cd52"
   },
   {
     "time": "21:55",
-    "quoteFirst": "Now, although the doctor had said that the school we were to visit was in Arlington, which I knew to be some distance out of the city, and that the examination would take place at ten o'clock, he continued to sit comfortably in his chair, though the time was ",
-    "quoteTime": "five minutes of ten",
-    "quoteLast": ".",
-    "title": "Equality",
-    "author": "Bellamy, Edward, 1850-1898",
-    "gutenbergReference": "7303",
-    "hash": "d6ef19b109968e0c074e63c61d22f7375ff66a83aeb81ae59f9fb720c78c23f6"
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes to ten",
+    "quoteLast": ". Eight hours and ten minutes left, and we've got a darn long ways to go.\"",
+    "title": "Astounding Stories, March, 1931",
+    "author": "Various; Bates, Harry, 1900-1981 [Editor]",
+    "gutenbergReference": "30166",
+    "hash": "85858533c5f58f015605a143c66e1a4693d7277295017dbab46d039b78cc436d"
   },
   {
     "time": "21:55",
-    "quoteFirst": "When I looked at the clock it still wanted ",
+    "quoteFirst": "The Professor kept us until ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": ", lecturing us on his discoveries upon the original elementary tubular structure of animal tissues.",
+    "title": "Sir James Young Simpson and Chloroform (1811-1870)\nMasters of Medicine",
+    "author": "Gordon, H. Laing (Henry Laing); Hart, Ernest Abraham, 1835-1898 [Editor]",
+    "gutenbergReference": "34128",
+    "hash": "b07c6c2638abf385d5a04a49bcfd9465512c25d7e40fb94912b9a95bee46a759"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "and I struggled with zippers and malfunctioning air-cons, and I managed somehow to leave the apartment at ",
     "quoteTime": "five minutes to ten",
     "quoteLast": ".",
-    "title": "Psychopathology of Everyday Life",
-    "author": "Freud, Sigmund, 1856-1939; Brill, A. A. (Abraham Arden), 1874-1948 [Translator]",
-    "gutenbergReference": "67332",
-    "hash": "23a324b10f34fcac4e378ca4f38be08742d8c09c631e88a4e177565cc7bd7ece"
+    "title": "The Spy in the Elevator",
+    "author": "Westlake, Donald E., 1933-2008; West [Illustrator]",
+    "gutenbergReference": "51687",
+    "hash": "89f9160ed6481821d79c993ae04d0f3471008f30be20a8bdf0fd8d641ec46514"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "The hands of the wall clock were within ",
+    "quoteTime": "five minutes of ten",
+    "quoteLast": ", the hour at which the inquest had been called, on Tuesday morning, when the outer door opened and Ted Rodgers stepped inside the room, followed a second later by Benjamin Potter.",
+    "title": "The Cat's Paw",
+    "author": "Lincoln, Natalie Sumner, 1881-1935; Fisher, William, 1890-1985 [Illustrator]",
+    "gutenbergReference": "66627",
+    "hash": "aaef5aa31ba4d7cb4260416a6df7f3ee0ae79de44f23acec9e037d8d56b4abef"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "We left Chicago at ",
+    "quoteTime": "9.55 p.m.",
+    "quoteLast": ", and we reached St. Paul at 2.25 p.m. next day, a distance of 409 miles.",
+    "title": "Frank's Ranche; Or, My Holiday in the Rockies\r\nBeing a Contribution to the Inquiry into What We Are to Do with Our Boys",
+    "author": "Marston, E. (Edward), 1825-1914",
+    "gutenbergReference": "52625",
+    "hash": "7a0a569dd77f8f68f765545b46a5c293b45a4f87ecf6680a55ca17c275515a73"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "At last it was ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": ".",
+    "title": "England, My England",
+    "author": "Lawrence, D. H. (David Herbert), 1885-1930",
+    "gutenbergReference": "8914",
+    "hash": "e7646b6ca11bcc86a6d38a2c4ceb84fa2af84cbc6f93362cbaa4fdf3e76bb306"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "The exact time at which the train struck poor Hunter must have been      about ",
+    "quoteTime": "9.55 P.M.",
+    "quoteLast": ", and his death must have been instantaneous.",
+    "title": "Human Personality and Its Survival of Bodily Death",
+    "author": "Myers, F. W. H. (Frederic William Henry), 1843-1901; Myers, L. H. (Leopold Hamilton), 1881-1944 [Editor]",
+    "gutenbergReference": "38492",
+    "hash": "76f1d61c8510465658892d476c2dd8065faf7a178aac3077d04105540a51af7b"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes to ten that night",
+    "quoteLast": " a locomotive lay, the steam roaring in clouds through her safety valve, on the siding by the freight depot; and stretching off behind her was a long string of empties.",
+    "title": "The Road Builders",
+    "author": "Merwin, Samuel, 1874-1936; Masters, F. B. (Frank B.), 1873-1955 [Illustrator]",
+    "gutenbergReference": "41825",
+    "hash": "f4c0cecb936b3a35a7e3c0eb73ad2cd778498bb5de0deff88a9802035c578fb3"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "At exactly ",
+    "quoteTime": "five minutes of ten",
+    "quoteLast": ", Professor Strout emerged from the rear of the platform and proceeded towards the new organ.",
+    "title": "Quincy Adams Sawyer and Mason's Corner Folks\nA Picture of New England Home Life",
+    "author": "Pidgin, Charles Felton, 1844-1923",
+    "gutenbergReference": "16414",
+    "hash": "ae9f28ed580a287ad17ae05067e428070f6e29dfc886f41871131bfe1f3d4d14"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "“As near as I can reckon, it would be ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": ",” answered Mr. Folliot.",
+    "title": "The Paradise Mystery",
+    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
+    "gutenbergReference": "5308",
+    "hash": "1118d69fb114d0ce2d235776f9f45ea5ad770da0626cf46e05a82b9f3d853012"
+  },
+  {
+    "time": "21:55",
+    "quoteFirst": "62,430,000         ",
+    "quoteTime": "5 to 10 p. m.",
+    "quoteLast": "               89,040,000         10 to 11 p.",
+    "title": "The Passaic Flood of 1903",
+    "author": "Leighton, Marshall Ora, 1874-1958",
+    "gutenbergReference": "19878",
+    "hash": "116799ac6fe5234a1653b1fa90968faa7943e41e59e3a9068ce8526f23ce36d4"
   }
 ]

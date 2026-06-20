@@ -1,102 +1,202 @@
 [
   {
     "time": "02:10",
+    "quoteFirst": "V. E. Preferred would be reported at five hundred, but the Northern Landing Exchange said ",
+    "quoteTime": "two-ten",
+    "quoteLast": ".",
+    "title": "Venus Equilateral",
+    "author": "Smith, George O. (George Oliver), 1911-1981; Campbell, John W., Jr. (John Wood), 1910-1971 [Author of introduction, etc.]; Levin, Sol [Illustrator]",
+    "gutenbergReference": "68008",
+    "hash": "ef9bff852466bc17a096d9a282c7e5549096c9a9f759a18673983ff59da6836d"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "My father had to bring up five children on ",
+    "quoteTime": "two-ten",
+    "quoteLast": " a week.",
+    "title": "Plays: Lady Frederick, The Explorer, A Man of Honour",
+    "author": "Maugham, W. Somerset (William Somerset), 1874-1965",
+    "gutenbergReference": "37962",
+    "hash": "9a186c6ec783f6dc3fb5f2ef451ceff82fcb540ad3f72c1c22b86443c917d6f4"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "‘",
+    "quoteTime": "Ten past two",
+    "quoteLast": ",’ he said.",
+    "title": "Seven Men [Excerpts]",
+    "author": "Beerbohm, Max, Sir, 1872-1956",
+    "gutenbergReference": "1306",
+    "hash": "887d3dfe26e6af8c2c0c5ebc71c6c95593a3b0d362dcc269cd3dd4b83a67364c"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "Tom Conolly came down from the Castle yesterday and offered me five pounds for a good mob to rack a house, and ",
+    "quoteTime": "two-ten",
+    "quoteLast": " if they'd draw Lord Clare home; but I refused,--I did, on the virtue of my oath.",
+    "title": "The Knight Of Gwynne, Vol. 1 (of 2)",
+    "author": "Lever, Charles, 1806-1872; Browne, Hablot Knight, 1815-1882 [Illustrator]",
+    "gutenbergReference": "35755",
+    "hash": "c3273022cf5ecec2ca5ce9d0b0299191e95f592828623f050f0118681a41a78a"
+  },
+  {
+    "time": "02:10",
     "quoteFirst": "It was ",
-    "quoteTime": "2.10 a.m.",
-    "quoteLast": ", and a quarter of an hour later came the Kaufbeuren report.",
-    "title": "Dr. Mabuse, master of mystery",
-    "author": "Jacques, Norbert, 1880-1954; Clare, Lilian A. (Lilian Ada), 1865- [Translator]",
-    "gutenbergReference": "75967",
-    "hash": "35da7a13cddd54a2c858c90178cb8cc4948bbf32291d129e6fe2cf161a3617e0"
-  },
-  {
-    "time": "02:10",
-    "quoteFirst": "It would be necessary to leave here at ",
-    "quoteTime": "2:10 A.M.",
-    "quoteLast": " to take the 6 A.M. train, though it is only eighteen miles; but the ferry represents an unknown quantity.",
-    "title": "A Woman Rice Planter",
-    "author": "Pringle, Elizabeth W. Allston (Elizabeth Waties Allston), 1845-1921; Wister, Owen, 1860-1938 [Author of introduction, etc.]; Smith, Alice R. Huger (Alice Ravenel Huger), 1876-1958 [Illustrator]",
-    "gutenbergReference": "57744",
-    "hash": "ebec5514c802b8da43fd798cb79ef02b2b5a2f9b05061a67c4609b3f5dc42a6c"
-  },
-  {
-    "time": "02:10",
-    "quoteFirst": "The conductor, in reply to Tom’s inquiry, told him that the car would reach Petersburg at ",
-    "quoteTime": "ten minutes past two",
-    "quoteLast": ", if it was on time.",
-    "title": "Pitcher Pollock",
-    "author": "Mathewson, Christy, 1880-1925; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
-    "gutenbergReference": "50761",
-    "hash": "4e975be3b3f6828742cbee358f8c2c1b6627436fa04a1aede1f2bc365b3d6d1f"
-  },
-  {
-    "time": "02:10",
-    "quoteFirst": "When his valet opens it he explains that he had left his latchkey indoors, and casually inquires the time, which the man informs him is ",
     "quoteTime": "ten minutes past two",
     "quoteLast": ".",
-    "title": "Oscar Wilde",
-    "author": "Thorne, Guy, 1875-1923",
-    "gutenbergReference": "38251",
-    "hash": "6d1cf4f3fe84fb3f2f42523760cbfb174160391c8b6d82634c3b24cf9206a4e4"
+    "title": "A Rock in the Baltic",
+    "author": "Barr, Robert, 1850-1912",
+    "gutenbergReference": "4982",
+    "hash": "08c4bcf4758a50374e91dc80c85734d063108d75aa66d9ec8ccbed1117419d62"
   },
   {
     "time": "02:10",
-    "quoteFirst": "Smoke barrages were made at ",
+    "quoteFirst": "\"",
+    "quoteTime": "Two-ten",
+    "quoteLast": ",\" he replied promptly and without protest.",
+    "title": "From a Bench in Our Square",
+    "author": "Adams, Samuel Hopkins, 1871-1958",
+    "gutenbergReference": "10944",
+    "hash": "80ccb7a49124213dc9c5c17e53e8be1c268a4dca132bd1eb7a7e75db3d8d0b29"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "It was then exactly ",
+    "quoteTime": "ten minutes past two",
+    "quoteLast": ".",
+    "title": "Bill Bolton and the Winged Cartwheels",
+    "author": "Sainsbury, Noel, 1884-",
+    "gutenbergReference": "58407",
+    "hash": "a7b4ed0fd8bd92fd71ca8cc49017422545948f23372475542b40dc1315b8436f"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "\"It's ",
+    "quoteTime": "ten minutes past two",
+    "quoteLast": ".\"",
+    "title": "The Landlord at Lion's Head — Volume 2",
+    "author": "Howells, William Dean, 1837-1920",
+    "gutenbergReference": "3376",
+    "hash": "4fdc8faedd06c877042a1a78cf31b0e34544870eef755dad817fdded044c2cd4"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "Only one of these shocks, that of February 24th, at ",
     "quoteTime": "2.10 A.M.",
-    "quoteLast": " on the flanks of the gas, and the artillery and trench mortars carried out a most excellent and accurate bombardment.",
-    "title": "The history of the Twentieth (Light) Division",
-    "author": "Inglefield, Valentine Erskine, 1886-1947; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]",
-    "gutenbergReference": "74129",
-    "hash": "a5aa81cc2fd53296180159d0cd43a15b4af6095f745d0471b04790ce73337dec"
+    "quoteLast": ", was strong enough to cause slight damage to buildings.",
+    "title": "A Study of Recent Earthquakes",
+    "author": "Davison, Charles, 1858-1940",
+    "gutenbergReference": "25062",
+    "hash": "8f057e02827058c75437ee6e218d37f13bbc523ebc848a30c01867e1818c0efb"
   },
   {
     "time": "02:10",
-    "quoteFirst": "It means you'd get ",
-    "quoteTime": "two-ten",
-    "quoteLast": " a week, and study leading business on the quiet till you thought you were as good as Ellen Terry.",
-    "title": "One Man's View",
-    "author": "Merrick, Leonard, 1864-1939; Granville-Barker, Harley, 1877-1946 [Author of introduction, etc.]",
-    "gutenbergReference": "43971",
-    "hash": "3bee09fa9b900b16f751255a6caf2d9c6c0ab84137396a23784f1aa361adfd71"
+    "quoteFirst": "The pointers indicated ",
+    "quoteTime": "ten minutes past two",
+    "quoteLast": ".",
+    "title": "St. Nicholas, Vol. 13, No. 12, October 1886",
+    "author": "Various; Dodge, Mary Mapes, 1830-1905 [Editor]",
+    "gutenbergReference": "76024",
+    "hash": "36fe9264466082cc40ef8306d68a1ce28174a97b7628be3aebb11895957e0730"
   },
   {
     "time": "02:10",
     "quoteFirst": "At ",
-    "quoteTime": "2.10 A.M.",
-    "quoteLast": " Lieut.",
-    "title": "Submarine and Anti-submarine",
-    "author": "Newbolt, Henry John, Sir, 1862-1938; Wilkinson, Norman, 1882-1934 [Illustrator]",
-    "gutenbergReference": "52425",
-    "hash": "5fe2b98102c500b33afb037346c8dfbb70ace3cb97d4b89c1e4dcc1e785ca59e"
-  },
-  {
-    "time": "02:10",
-    "quoteFirst": "One more division just to wind up, and at ",
     "quoteTime": "ten minutes past two",
-    "quoteLast": " Vote carried and House up.",
-    "title": "Punch, Or The London Charivari, Volume 102, March 26, 1892",
-    "author": "Various",
-    "gutenbergReference": "14389",
-    "hash": "bc0616da8026fc4354c709c272eac0128007eedbc42cb8be8a731a121dbd5849"
+    "quoteLast": " bells in the morning, without any warning--the lead even shewing deep soundings--a crashing, grating sound was heard, accompanied by a distinct trembling vibration, proceeding, apparently, from under the ship's bottom.",
+    "title": "In Eastern Seas\r\nOr, the Commission of H.M.S. 'Iron Duke,' flag-ship in China, 1878-83",
+    "author": "Smith, J. J.",
+    "gutenbergReference": "27926",
+    "hash": "c9c9f8342a4c1488247d0610d875941f9f6772674a0f414ea0afdc0f1bf367e3"
   },
   {
     "time": "02:10",
-    "quoteFirst": "July 12th, ",
-    "quoteTime": "2:10 a.m.",
-    "quoteLast": ";\" and then followed a long row of ciphers, each of which I carefully wrote down upon the paper before me, reading it through aloud, in order that he might compare it with his copy.",
-    "title": "Her Majesty's Minister",
-    "author": "Le Queux, William, 1864-1927",
-    "gutenbergReference": "41000",
-    "hash": "9c38c52149927a07d1228bf1d5a0d034c780dca0b615b9e34b679f371a410b6e"
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past two",
+    "quoteLast": " Felicia had mended two pairs of short white cotton socks.",
+    "title": "Little Miss By-The-Day",
+    "author": "Van Slyke, Lucille, 1880-",
+    "gutenbergReference": "6002",
+    "hash": "1f6b96ae1e1b12550f51cc9cccee636ace76ecdb89c701696d8be41471248103"
   },
   {
     "time": "02:10",
-    "quoteFirst": "\"I can catch the ",
+    "quoteFirst": "Good gracious,” she broke off suddenly, “it’s ",
+    "quoteTime": "ten past two",
+    "quoteLast": "; I should be at a polishing job in Whitehall.  I must scuttle off like a giddy rabbit.  Thanking you ever so.”",
+    "title": "The Toys of Peace, and Other Papers",
+    "author": "Saki, 1870-1916",
+    "gutenbergReference": "1477",
+    "hash": "caee8c55f67fd12fb3e4ca082e0798371900e2fab83c51f9effa50ab428e6b2f"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "I remember we were out driving at the time, I took him out behind Lizella--she's almost straight Wilkes' blood and can trot in ",
     "quoteTime": "two-ten",
-    "quoteLast": ". Or better yet, Aunt Jo, I'll take them right out there and deliver them myself.\"",
-    "title": "Saturday's Child",
-    "author": "Norris, Kathleen Thompson, 1880-1966",
-    "gutenbergReference": "4687",
-    "hash": "3deeb347fd7eba18df1150955969b05f6c099d16aa4b37a73b62c12c835b2abf"
+    "quoteLast": ", but you can believe he didn't know that--and, as I say, I told him what my motto was, and he said, 'J., good for you; you keep to that.",
+    "title": "The pit",
+    "author": "Norris, Frank, 1870-1902",
+    "gutenbergReference": "4382",
+    "hash": "420f910ac78ca4d4eb872eb4706e4ad323765af3b355f9ae460fea1d5525d290"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "“Paterson, you must put luncheon on at ",
+    "quoteTime": "two-ten",
+    "quoteLast": ". I ordered it at one-fifty, did I not?”",
+    "title": "A Princess of Thule",
+    "author": "Black, William, 1841-1898",
+    "gutenbergReference": "49786",
+    "hash": "3a39628c5c349a6e6b62adcf1f948b3751b62c25dfd1ac402f429202e3a3f1cf"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "Finally, about ",
+    "quoteTime": "2.10 a. m.",
+    "quoteLast": ", October 16, the _Tamarisk_ lowered a boat in rough sea and sent grass line by means of which our eight-inch hawser was sent over to her.",
+    "title": "World's War Events, Vol. II",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
+    "gutenbergReference": "25963",
+    "hash": "edfa8408589f07a307875b916fc735a89e16205a162a7d2f4f2e72bfdfd5e0aa"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "But within a comparatively short time a number of trotters turned off a mile in ",
+    "quoteTime": "two-ten",
+    "quoteLast": ", and from this figure, within a short period, a large company of famous horses had reached the two-five mark, but every quarter of a second which reduced this mark meant greater achievement in breeding than was represented by the reduction of records from two-sixteen to two-five, and we have not yet seen the horse which, in single harness, without a running mate, can turn the mile track in two minutes flat.",
+    "title": "The Corning Egg Farm book, by Corning himself",
+    "author": "Corning, Edward, 1839-1914; Corning, Gardner, 1867-1945",
+    "gutenbergReference": "72042",
+    "hash": "4fea116bdaca5891ae79760500a90cf4ea38d7a0eda23289f20c2ca5b701b369"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "On the left the 49th were ready at ",
+    "quoteTime": "2.10 a.m.",
+    "quoteLast": ", but without their left-hand battalion (the 52nd) or their support (the 60th).",
+    "title": "Canada in Flanders, Volume II",
+    "author": "Beaverbrook, Max Aitken, Baron, 1879-1964",
+    "gutenbergReference": "46115",
+    "hash": "7669e3018b32fa4f14c3b4d355edf5cb5917f66d93bff0b7d0fb32466971a10d"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "At ",
+    "quoteTime": "two-ten",
+    "quoteLast": " sharp the parrot in the flat   Across the way his monologue essays.",
+    "title": "Tobogganing on Parnassus",
+    "author": "Adams, Franklin P. (Franklin Pierce), 1881-1960",
+    "gutenbergReference": "6122",
+    "hash": "c07466dba2bc8693a922cfedaa6ec8db99ebf79f2c1bc612e11d30cd2ddf4aa4"
+  },
+  {
+    "time": "02:10",
+    "quoteFirst": "¶ He bought a pair of shoes, a smart Stein-Bloch Company suit, saw his trade, and left for Omaha on the ",
+    "quoteTime": "Two-ten",
+    "quoteLast": ".",
+    "title": "The philosophy of Elbert Hubbard",
+    "author": "Hubbard, Elbert, 1856-1915; Hoyle, John T. (John Thomas), 1873- [Compiler]",
+    "gutenbergReference": "70579",
+    "hash": "13147757db71dac129e44ac90376c2e3d696c75028b8315cdc684aa99289615b"
   }
 ]

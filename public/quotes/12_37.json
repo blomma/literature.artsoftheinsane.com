@@ -31,6 +31,16 @@
   },
   {
     "time": "12:37",
+    "quoteFirst": "To set our time pieces, we must, when the sun is on the meridian, on the 1st, make them indicate ",
+    "quoteTime": "12:37 p. m.",
+    "quoteLast": "; on the 15th, 11:59.8 a.",
+    "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55134",
+    "hash": "b5a3133a86aed3fb694ae27cfcb3c182f3e767b240fc4e435c9d9f5d59594771"
+  },
+  {
+    "time": "12:37",
     "quoteFirst": "The apparent noon on March 12 is thus found to fall at ",
     "quoteTime": "12:37 P.M.",
     "quoteLast": ", and 3:00 P.M. is 2 hours and 23 minutes later.",
@@ -58,6 +68,16 @@
     "author": "United States. Warren Commission",
     "gutenbergReference": "44006",
     "hash": "5e9d0c8ba5f293fc698b727463a0b0cce37e68c2f3b46c7557f7cfcb71474468"
+  },
+  {
+    "time": "12:37",
+    "quoteFirst": "_ of the Senate, signed on behalf of that body, and when he had affixed his name he thoughtfully noted in the margin the hour of the day--'",
+    "quoteTime": "12.37 P.M.",
+    "quoteLast": "' The signature of President Harrison comes last, and is at the lower left-hand side of the paper.\"",
+    "title": "Harper's Round Table, June 18, 1895",
+    "author": "Various",
+    "gutenbergReference": "33025",
+    "hash": "4db7ac7deea56f101aa3e0f27a04d7e2101e89158f0ee3b7c84d20293a2f5e70"
   },
   {
     "time": "12:37",

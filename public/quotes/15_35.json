@@ -1,13 +1,23 @@
 [
   {
     "time": "15:35",
-    "quoteFirst": "By half past twelve we were all safe on the other side, and at ",
-    "quoteTime": "thirty-five minutes past three",
-    "quoteLast": " we arrived at Halifoon, about five miles from the ferry on the east side of the Nile.",
-    "title": "Travels to Discover the Source of the Nile, Volume 4 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
-    "author": "Bruce, James, 1730-1794",
-    "gutenbergReference": "56502",
-    "hash": "cae6aae742b05b16246b1c701a2a472fe6e0b6dce46b38e625b6ec4a5559c78c"
+    "quoteFirst": "\"WEDNESDAY, _July 19-31, 1877_, ",
+    "quoteTime": "3.35 P.M.",
+    "quoteLast": "   \"PRINCE CHARLES OF ROUMANIA.",
+    "title": "Reminiscences of the King of Roumania",
+    "author": "Kremnitz, Mite, 1852-1916; Whitman, Sidney, -1925 [Editor]",
+    "gutenbergReference": "48509",
+    "hash": "76ec0b8f90846fa67ff08568e68e4c5ee46ce06c46beafff8921bc758e0a495d"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "It is, if my watch tells me the truth, ",
+    "quoteTime": "five and twenty minutes to four",
+    "quoteLast": ".",
+    "title": "The Vanished Messenger",
+    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+    "gutenbergReference": "1699",
+    "hash": "1b25d5bb45f8346188490da0fd052d03f63a9a970c203f0425c4d929d8fd1faf"
   },
   {
     "time": "15:35",
@@ -21,73 +31,13 @@
   },
   {
     "time": "15:35",
-    "quoteFirst": "At ",
-    "quoteTime": "3:35 P.M.",
-    "quoteLast": ", the rubber landing wheels were bounding over the glaring white of a shell-strewn beach.",
-    "title": "A Cruise in the Sky; or, The Legend of the Great Pink Pearl",
-    "author": "Sayler, H. L. (Harry Lincoln), 1863-1913; Riesenberg, Sidney H., 1885-1971 [Illustrator]",
-    "gutenbergReference": "57882",
-    "hash": "336c08b5c7cf25729764d433ba8729df77d28c80cbe1c765a76bc4c9070eca58"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "[382] The Prince de Talleyrand died on the 17th of May 1838, at ",
-    "quoteTime": "thirty-five minutes past three in the afternoon",
-    "quoteLast": "; he was horn on the 2nd of February 1754, and was consequently 84 years, 3 months and 15 days old.",
-    "title": "The Memoirs of François René Vicomte de Chateaubriand sometime Ambassador to England. Volume 6 (of 6)\r\nMémoires d'outre-tombe volume 6",
-    "author": "Chateaubriand, François-René, vicomte de, 1768-1848; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
-    "gutenbergReference": "55124",
-    "hash": "b6e0d352d3932cac4f463ed0f69dc5a403b87e81a158b308aad979050533fcd2"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "The illuminated clock of the Old Town Hall at the top of the square showed ",
-    "quoteTime": "twenty-five minutes to four",
-    "quoteLast": ".",
-    "title": "These Twain",
-    "author": "Bennett, Arnold, 1867-1931",
-    "gutenbergReference": "40483",
-    "hash": "fc1281c53cd503f38b36923f53c5e17ab38e849539f249e34734b8ac506fc560"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "\"She will die,\" muttered Abbey, who was apparently far out of hearing, \"at ",
-    "quoteTime": "twenty-five minutes to four",
-    "quoteLast": ".\"",
-    "title": "Lippincott's Magazine of Popular Literature and Science, Vol. 26, November, 1880",
-    "author": "Various",
-    "gutenbergReference": "51453",
-    "hash": "a556b70b9cd930f695883436fc7b0eac270aca903e22e39e6a6f09bce5613eb5"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "(Whereupon, at ",
-    "quoteTime": "3:35 p.m.",
-    "quoteLast": ", the President's Commission recessed.)",
-    "title": "Warren Commission (05 of 26): Hearings Vol. V (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44005",
-    "hash": "edef7364ed331c09223a0416db2aa79356609e4c7bdb29427e0db4bee6aa9d35"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "By ",
+    "quoteFirst": "It was now ",
     "quoteTime": "3.35 P.M.",
-    "quoteLast": " the enemy were occupying the whole of the sky-line from High Wood for three hundred yards eastwards, and appeared to be unmolested by any artillery fire except that of the nine guns already referred to.",
-    "title": "The History of the 33rd Divisional Artillery, in the War, 1914-1918.",
-    "author": "Macartney-Filgate, John Victor; Horne, Henry, 1861-1929 [Author of introduction, etc.]",
-    "gutenbergReference": "51776",
-    "hash": "b21f26315058690fa3616d2799cbc59b3bf0149bdbcde7fa4736cb3dbde80cec"
-  },
-  {
-    "time": "15:35",
-    "quoteFirst": "One said ",
-    "quoteTime": "twenty-five minutes of four",
-    "quoteLast": ".",
-    "title": "Nick Carter Stories No. 11, November 23, 1912: Nick Carter Strikes Oil; or, Uncovering More Than a Murder",
-    "author": "Carter, Nicholas (House name); Bradshaw, Alden F.",
-    "gutenbergReference": "67082",
-    "hash": "ee215f48561621066d9269cdba4f6c87c689778b13fe828561f9e9f3ecd2fcb8"
+    "quoteLast": ", and the armed trawler _Sarba_ was seen approaching.",
+    "title": "Submarine and Anti-submarine",
+    "author": "Newbolt, Henry John, Sir, 1862-1938; Wilkinson, Norman, 1882-1934 [Illustrator]",
+    "gutenbergReference": "52425",
+    "hash": "132b4eff6ed55d083c5562fcd464d9fb68a44b5a35e2f585ae15cdafbe2a2725"
   },
   {
     "time": "15:35",
@@ -98,5 +48,155 @@
     "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
     "gutenbergReference": "46356",
     "hash": "4aac5af265fee7724accc11baab4154db46dde41edff81a1f57d899b3ad1ffe7"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "At ",
+    "quoteTime": "3:35 P.M.",
+    "quoteLast": ", the rubber landing wheels were bounding over the glaring white of a shell-strewn beach.",
+    "title": "A Cruise in the Sky; or, The Legend of the Great Pink Pearl",
+    "author": "Sayler, H. L. (Harry Lincoln), 1863-1913; Riesenberg, Sidney H., 1885-1971 [Illustrator]",
+    "gutenbergReference": "57882",
+    "hash": "336c08b5c7cf25729764d433ba8729df77d28c80cbe1c765a76bc4c9070eca58"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "At ",
+    "quoteTime": "3:35 P.M.",
+    "quoteLast": ", the rubber landing wheels were bounding over the glaring white of a shell-strewn beach.",
+    "title": "A Cruise in the Sky; or, The Legend of the Great Pink Pearl",
+    "author": "Sayler, H. L. (Harry Lincoln), 1863-1913; Riesenberg, Sidney H., 1885-1971 [Illustrator]",
+    "gutenbergReference": "57882",
+    "hash": "336c08b5c7cf25729764d433ba8729df77d28c80cbe1c765a76bc4c9070eca58"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "It was half-past three when she said as much to the Highgate policeman, who up to that time had been an ordinary easy-going Conservative; by ",
+    "quoteTime": "five-and-twenty minutes to four",
+    "quoteLast": " she had made of him a fuming Radical.",
+    "title": "A Crooked Mile",
+    "author": "Onions, Oliver, 1873-1961",
+    "gutenbergReference": "37584",
+    "hash": "d909b681bc184d46047642f58e06ccfdcd4a1dc192c07295509aedf8185b2bc1"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "… The Emperor    expired from loss of blood at ",
+    "quoteTime": "five-and-twenty minutes to four",
+    "quoteLast": ".",
+    "title": "History for ready reference, Volumes 1 to 5",
+    "author": "Larned, J. N. (Josephus Nelson), 1836-1913",
+    "gutenbergReference": "70427",
+    "hash": "83951ba84c73e644c6badb50c9153af129954f4915382911963112335c1696df"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "If he was not with me at half-past three, he was sure not to be later than ",
+    "quoteTime": "five-and-twenty minutes to four",
+    "quoteLast": "; and when he did come, I received him with bare brow and open arms.",
+    "title": "The Interpreter: A Tale of the War",
+    "author": "Whyte-Melville, G. J. (George John), 1821-1878; Kemp-Welch, Lucy, 1869-1958 [Illustrator]",
+    "gutenbergReference": "40660",
+    "hash": "ef596268f1c675010ddc9b1c702666a0a02e2453df1a78432c288b1ad363a193"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "At 5 p.m. on the 5th Sir Berkeley Milne received the signal sent by the _Gloucester_ at ",
+    "quoteTime": "3.35 p.m.",
+    "quoteLast": " reporting the presence of the _Goeben_ at Messina.",
+    "title": "The World Crisis, Volume 1 (of 6)",
+    "author": "Churchill, Winston, 1874-1965",
+    "gutenbergReference": "59794",
+    "hash": "eed32d1e168bfa2df011bbd2a69307959523ccecd1863379a9a7c90e981ab235"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "March 18: ",
+    "quoteTime": "3.35 p. m.",
+    "quoteLast": ", 5 cc 2 per cent caffein (107 mg per kilo) injected into subcutaneous tissues in the back; 5.30 p.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "hash": "fdf1c34f1cf453a02e5b6a0f66a2a54762e59faaca239a794e19d104bcae996e"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "It was      ",
+    "quoteTime": "twenty-five minutes to four",
+    "quoteLast": ", just five and a half hours after      I had started for home from work.",
+    "title": "The Negro in Chicago: A Study of Race Relations and a Race Riot",
+    "author": "Chicago Commission on Race Relations",
+    "gutenbergReference": "57343",
+    "hash": "7f9c040c7c7da7671d1571750d5b0fbd34e120e04c19a8a4fec9878daf6bfc96"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "… The Emperor    expired from loss of blood at ",
+    "quoteTime": "five-and-twenty minutes to four",
+    "quoteLast": ".",
+    "title": "History for ready reference, Volume 4, Nicæa to Tunis",
+    "author": "Larned, J. N. (Josephus Nelson), 1836-1913",
+    "gutenbergReference": "69262",
+    "hash": "a9e35e76da588c89432da4f0d472fd2fbf3cec32fe7464632a623df452a52d99"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "On an earlier occasion (",
+    "quoteTime": "3.35 p.m.",
+    "quoteLast": " on 2 October 1920) in bitterly cold weather I took twin young ones measuring 40 mm.",
+    "title": "The platypus",
+    "author": "Burrell, Harry, 1873-1945",
+    "gutenbergReference": "78386",
+    "hash": "70d2608e10c208b44cbc8f37f9c56e7b5fd0a17726d0192d351df485eb34e1ce"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "Then, looking at his watch, he said, \"It is ",
+    "quoteTime": "twenty-five minutes to four",
+    "quoteLast": ". I shall take a cab and go directly to the legation. I was on my way to my hotel, but there is no time for that now,\" and, after shaking hands with the professor, he hailed a cab.",
+    "title": "The Adventures of Captain Horn",
+    "author": "Stockton, Frank R., 1834-1902",
+    "gutenbergReference": "12190",
+    "hash": "9fb0542226014b6a956a54c3ab35d41cde16f522436602398d7d3a6d6ae8ee55"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "Accordingly on Thursday at ",
+    "quoteTime": "twenty-five minutes to four",
+    "quoteLast": ", Mildred appeared, in answer to a summons, in the quiet-colored, pleasant drawing-room at Ascham, with its French windows giving on to the lawn, where some of the girls were playing hockey, not without cries.",
+    "title": "The Invader: A Novel",
+    "author": "Woods, Margaret L. (Margaret Louisa), 1856-1945",
+    "gutenbergReference": "28162",
+    "hash": "8d90cbd7b316c19e126e9d80944e213688513fb1c0afcb28d47e8636be543ae0"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "… The Emperor    expired from loss of blood at ",
+    "quoteTime": "five-and-twenty minutes to four",
+    "quoteLast": ".",
+    "title": "History for ready reference, Volume 4, Nicæa to Tunis",
+    "author": "Larned, J. N. (Josephus Nelson), 1836-1913",
+    "gutenbergReference": "69262",
+    "hash": "a9e35e76da588c89432da4f0d472fd2fbf3cec32fe7464632a623df452a52d99"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "It was half-past three when she said as much to the Highgate policeman, who up to that time had been an ordinary easy-going Conservative; by ",
+    "quoteTime": "five-and-twenty minutes to four",
+    "quoteLast": " she had made of him a fuming Radical.",
+    "title": "Gray youth: The story of a very modern courtship and a very modern marriage",
+    "author": "Onions, Oliver, 1873-1961",
+    "gutenbergReference": "45682",
+    "hash": "b9d757f5701b9e7510c313b31b0e55d6e7290361b239eb4e6ae780cca3e2747f"
+  },
+  {
+    "time": "15:35",
+    "quoteFirst": "One said ",
+    "quoteTime": "twenty-five minutes of four",
+    "quoteLast": ".",
+    "title": "The Photographer's Evidence; Or, Clever but Crooked",
+    "author": "Carter, Nicholas (House name)",
+    "gutenbergReference": "62010",
+    "hash": "8751eb7756dbc698f8487e8ba563fa045518ed0201f756f213b857ea6affb269"
   }
 ]

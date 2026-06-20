@@ -1,102 +1,202 @@
 [
   {
     "time": "19:00",
-    "quoteFirst": "I heard ",
+    "quoteFirst": "",
+    "quoteTime": "At 7 p.m.",
+    "quoteLast": " the Buffs (less half D Company)[8] and 2nd East Surrey Regiment (less one and a half companies) assembled at the place ordered, that is, on the road junction on the Ypres-St. Eloi road, 620 yards south of the canal.",
+    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
+    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
+    "gutenbergReference": "73159",
+    "hash": "4361da4c9701e5e78e695321adcb854d5a3433f0d53d9e7a81cada5e8ee18597"
+  },
+  {
+    "time": "19:00",
+    "quoteFirst": "",
+    "quoteTime": "Seven o'clock",
+    "quoteLast": " struck in the clocks of New York.",
+    "title": "The Way of Ambition",
+    "author": "Hichens, Robert, 1864-1950; Soper, James Hamlin Gardner, 1877-1939 [Illustrator]",
+    "gutenbergReference": "19491",
+    "hash": "d58f9a42edf1dd222094e842458a7a99ebe19d07abc6b073931a955ae54cbe64"
+  },
+  {
+    "time": "19:00",
+    "quoteFirst": "At ",
+    "quoteTime": "seven that evening",
+    "quoteLast": " Ravenel, sitting in his sleeping-car seat, gave March his hand for good-by.",
+    "title": "John March, Southerner",
+    "author": "Cable, George Washington, 1844-1925",
+    "gutenbergReference": "31470",
+    "hash": "41e8e0591eddab993ca1f66fabc5e8a81780441b2d368aa5efc267fe06f4b512"
+  },
+  {
+    "time": "19:00",
+    "quoteFirst": "I crossed the Waterloo Bridge to the Surrey side, cut across to Blackfriars Road, coming out near the Surrey Theatre, and arrived at the Salvation Army barracks before ",
     "quoteTime": "seven o’clock",
-    "quoteLast": " striking as I finished my toilet, and knowing that I had no time to lose, I buckled on my sword and left the house, declining a carriage which Jacques offered me, since my first errand must be done on foot.",
-    "title": "At Odds with the Regent: A Story of the Cellamare Conspiracy",
-    "author": "Stevenson, Burton Egbert, 1872-1962; Betts, Anna Whelan, 1875-1959 [Illustrator]",
-    "gutenbergReference": "66721",
-    "hash": "27cd0ac56bfc0f4e3beb06757145e2c4955eb87a0bc459f151a92b605364e134"
+    "quoteLast": ".",
+    "title": "The People of the Abyss",
+    "author": "London, Jack, 1876-1916",
+    "gutenbergReference": "1688",
+    "hash": "d37b07c01777f0697e1da42fe586de64c668edf59895ed0cbb75daf86f840a54"
   },
   {
     "time": "19:00",
-    "quoteFirst": "Monday evening is the band concert and promenade from ",
-    "quoteTime": "seven o'clock",
-    "quoteLast": " until eight-thirty.",
-    "title": "Hester's Counterpart: A Story of Boarding School Life",
-    "author": "Baird, Jean K. (Jean Katherine), 1872-1918",
-    "gutenbergReference": "26973",
-    "hash": "4f4718ddc1c3b37b63497a32dcd2bc63b674919e4d664bed4c60bdbebe188da8"
+    "quoteFirst": "However, a couple of hours later, ",
+    "quoteTime": "at 7 P.M.",
+    "quoteLast": ", the anxious solicitude came to an end, and happily.",
+    "title": "A Tramp Abroad — Volume 07",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "5788",
+    "hash": "7f5458b0067fb5d1a9b50fc77971cae3452096960772d440f725fa8650376caf"
   },
   {
     "time": "19:00",
-    "quoteFirst": "Brush him up, and send him to Bellingham by the ",
+    "quoteFirst": "‘AT an early hour this morning the bells of all the churches struck ",
+    "quoteTime": "seven o’clock",
+    "quoteLast": "; the effect of which, in the present lively state of the town, was extremely singular.  While I was at breakfast, a yellow gig, drawn by a dark grey horse, with a patch of white over his right eyelid, proceeded at a rapid pace in the direction of the Original Pig stables; it is currently reported that this gentleman has arrived here for the purpose of attending the association, and, from what I have heard, I consider it extremely probable, although nothing decisive is yet known regarding him. You may conceive the anxiety with which we are all looking forward to the arrival of the four o’clock coach this afternoon.",
+    "title": "Mudfog and Other Sketches",
+    "author": "Dickens, Charles, 1812-1870",
+    "gutenbergReference": "912",
+    "hash": "5ac3f591e8a5f633e2b9c27aa2d85a469f618169c8155b01112d34e91c8c1e98"
+  },
+  {
+    "time": "19:00",
+    "quoteFirst": "They began to move forward ",
+    "quoteTime": "at 7 P.M.",
+    "quoteLast": " along the road which follows the crest of the ridge as far as the cross-roads at Pilckem, then down the Langemarck road for a mile, after which they branched off to the north.",
+    "title": "The history of the Twentieth (Light) Division",
+    "author": "Inglefield, Valentine Erskine, 1886-1947; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]",
+    "gutenbergReference": "74129",
+    "hash": "a3636dab50450d49029659611a28890b70c1bae351288f96a7f0d3367c2636c7"
+  },
+  {
+    "time": "19:00",
+    "quoteFirst": "In the morning, about ",
+    "quoteTime": "seven o’clock",
+    "quoteLast": ", Madame Leon was obliged to shake her to rouse her from the kind of lethargy into which she had fallen.",
+    "title": "The Count's Millions",
+    "author": "Gaboriau, Emile, 1832-1873",
+    "gutenbergReference": "305",
+    "hash": "00b278b6562d7de59cd8d9b478491fb9c279830642ab45014fa928acc4e56add"
+  },
+  {
+    "time": "19:00",
+    "quoteFirst": "But when ",
     "quoteTime": "seven o'clock",
-    "quoteLast": " train.",
-    "title": "The Ordeal of Richard Feverel: A History of a Father and Son",
-    "author": "Meredith, George, 1828-1909; Chandler, Frank Wadleigh, 1873-1947 [Editor]",
-    "gutenbergReference": "34858",
-    "hash": "9be019159b552ed5e71fbae83c71ff0891876840b3c60e1dbc3595c7214aca07"
+    "quoteLast": " came she went down to Whitney's to inquire.",
+    "title": "A Little Girl in Old New York",
+    "author": "Douglas, Amanda M., 1831-1916",
+    "gutenbergReference": "23780",
+    "hash": "ab4d8bbe557e003262f3caaae14b5dadd063a8efd1387e5a9a00d5786f9fb7e9"
+  },
+  {
+    "time": "19:00",
+    "quoteFirst": "To this End let a Child be undress’d, it’s Night things put on, and be fed or suckled ",
+    "quoteTime": "at seven o’Clock",
+    "quoteLast": ", and then put into it’s Cradle; where without rocking (if used to it and in Health) it will fall asleep.",
+    "title": "An essay on the government of children, under three general heads, viz. health, manners, and education",
+    "author": "Nelson, James, 1710-1794",
+    "gutenbergReference": "59551",
+    "hash": "c7903c938617e10bc5a0ef8a0deeb7fa0f98796a3a7c21621552008e365a4e3d"
+  },
+  {
+    "time": "19:00",
+    "quoteFirst": "At about half past ",
+    "quoteTime": "seven in the evening",
+    "quoteLast": " I chanced to be standing near the engine-room door.",
+    "title": "The last voyage of the Karluk",
+    "author": "Bartlett, Bob, 1875-1946; Hale, Ralph T. (Ralph Tracy), 1880-1951",
+    "gutenbergReference": "74622",
+    "hash": "ca560b5e31145e8b91fb50e2541a01c7deabd88e2c22dc4158f59a1b829201f8"
+  },
+  {
+    "time": "19:00",
+    "quoteFirst": "\"I'll be ready by ",
+    "quoteTime": "seven o'clock",
+    "quoteLast": ", and I'll show you the place where tradition says an Indian maiden jumped from the bluff into her lover's waiting skiff below, to elude her angry father's pursuit, and lost her life on the rocks.\"",
+    "title": "Leah Mordecai: A Novel",
+    "author": "Abbott, Belle K. (Belle Kendrick), 1842-1893",
+    "gutenbergReference": "4955",
+    "hash": "aeec5e38893c381b5723c5e7d79b4394db75dc449f4372af51dafba3227c0399"
+  },
+  {
+    "time": "19:00",
+    "quoteFirst": "",
+    "quoteTime": "Seven o’clock",
+    "quoteLast": " had struck.",
+    "title": "The Rejuvenation of Miss Semaphore: A Farcical Novel",
+    "author": "Eccles, Charlotte O'Conor, 1863-1911",
+    "gutenbergReference": "65871",
+    "hash": "820821e9954ce9c864f3101fcdf176bb302dd475f5743a689a9562bc06cdcb6e"
+  },
+  {
+    "time": "19:00",
+    "quoteFirst": "“",
+    "quoteTime": "At seven o’clock",
+    "quoteLast": ", monsieur, I shall fly the birds.”",
+    "title": "The Man in the Iron Mask",
+    "author": "Dumas, Alexandre, 1802-1870",
+    "gutenbergReference": "2759",
+    "hash": "ba806ed14766c78cf9e82ae03bffb8768b090ea62158615d8d44ba358d88477c"
+  },
+  {
+    "time": "19:00",
+    "quoteFirst": "She commenced her second day's journey yesterday morning (October 30th) at a quarter before ",
+    "quoteTime": "7 o'clock",
+    "quoteLast": ", and, at a quarter past 4 she had gone 32-3/4 miles.\" She is mentioned again and again in the papers as going on with her task; but I do not think she accomplished it, as I find no triumphal record of it.",
+    "title": "Social England under the Regency, Vol. 2 (of 2)",
+    "author": "Ashton, John, 1834-1911",
+    "gutenbergReference": "48780",
+    "hash": "f1adc1d3b042df62bfa02025a6050e8b197a6ad891110c7ecbcb37283507fa2e"
+  },
+  {
+    "time": "19:00",
+    "quoteFirst": "The expedition started two hours before daybreak, and, making a long detour, fell upon the Sepoys ",
+    "quoteTime": "at seven o’clock",
+    "quoteLast": ".",
+    "title": "Rujub, the Juggler",
+    "author": "Henty, G. A. (George Alfred), 1832-1902",
+    "gutenbergReference": "7229",
+    "hash": "400c5f306e37f110202b9d061cd8c487be06a9e80eb4cf1051bf7609415bfb80"
+  },
+  {
+    "time": "19:00",
+    "quoteFirst": "Out of the blue-black bruise in the distance crept a long line of moving lights upon the desolation of the land, and the twelve men of Fish gathered like ghosts at the shanty depot to watch the passing of the ",
+    "quoteTime": "seven o’clock",
+    "quoteLast": " train, the Transcontinental Express from Chicago.",
+    "title": "Tales of the Jazz Age",
+    "author": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
+    "gutenbergReference": "6695",
+    "hash": "8347091bc84c8d8e8d7fe28b2156762811775949a4451022edf56d1626245d67"
+  },
+  {
+    "time": "19:00",
+    "quoteFirst": "We reached the house about ",
+    "quoteTime": "seven o'clock",
+    "quoteLast": ", by way of an ancient hack which met us at the depot and carried us up the hill, into the yard of an old-fashioned mansion sheltered by great trees.",
+    "title": "A Daughter of the Middle Border",
+    "author": "Garland, Hamlin, 1860-1940",
+    "gutenbergReference": "22329",
+    "hash": "ec28203a5ee83725f27289a10ca80da5b3c0053e0e9ab98a5c7b7a2f641e4d20"
   },
   {
     "time": "19:00",
     "quoteFirst": "",
     "quoteTime": "At seven o'clock",
-    "quoteLast": " last evening two volantes were in readiness at the door of the Montfort mansion.",
-    "title": "Rita",
-    "author": "Richards, Laura Elizabeth Howe, 1850-1943; Barry, Etheldred B. (Etheldred Breeze), 1870-1967 [Illustrator]",
-    "gutenbergReference": "24827",
-    "hash": "7537e3c2875b0c1d877ec1d633c84955f987bf0b9b0d2739249feb7a85f22cb1"
+    "quoteLast": " we adjourned the discussion in favour of a scratch meal, which consisted chiefly of champagne and biscuits.",
+    "title": "Greensea Island: A Mystery of the Essex Coast",
+    "author": "Bridges, Victor, 1878-1972",
+    "gutenbergReference": "66969",
+    "hash": "749d874627891e1854d5dbd6d0ee83b49e100df7530c9256fd8df9f35b3f8232"
   },
   {
     "time": "19:00",
-    "quoteFirst": "He takes the new comer aside, and all you can overhear is spoken by the latter, who says he insists on Monsieur withdrawing his \"School\" by the ",
-    "quoteTime": "seven o'clock",
-    "quoteLast": " train.",
-    "title": "Recollections of a Policeman",
-    "author": "Russell, William",
-    "gutenbergReference": "46462",
-    "hash": "ee6681c01bc8d6b6ce71e21000aabe3f67bf3156577cc32d15161cf0c62f71e2"
-  },
-  {
-    "time": "19:00",
-    "quoteFirst": "At daylight the breeze was strong from East-South-East: ",
-    "quoteTime": "at seven o'clock",
-    "quoteLast": ", having fetched in with the land on the north side, we tacked and stood across to the opposite shore.",
-    "title": "Narrative of a Survey of the Intertropical and Western Coasts of Australia — Vol. 1\r\nPerformed between the years 1818 and 1822",
-    "author": "King, Philip Parker, 1793-1856",
-    "gutenbergReference": "11203",
-    "hash": "1b0417ae8c3d9ccbd4cabdb959ba97911fbf842c5d6fdd5d8f93597daa68ad5e"
-  },
-  {
-    "time": "19:00",
-    "quoteFirst": "All the girls were up ",
-    "quoteTime": "at seven o’clock",
-    "quoteLast": " the next morning, feeling little the worse for the excitement of the night.",
-    "title": "The Girl Scouts at Singing Sands",
-    "author": "Wirt, Mildred A. (Mildred Augustine), 1905-2002; Geyer, Marguerite [Illustrator]",
-    "gutenbergReference": "60977",
-    "hash": "f6a13e962d98b65d37751d9097e4735129f01eaa7c807ecbffa0808c16dcc8af"
-  },
-  {
-    "time": "19:00",
-    "quoteFirst": "Another dense fog prevented our progress after ",
-    "quoteTime": "seven in the evening",
-    "quoteLast": ", as the pilot refused to incur the responsibility of the vessel; and we accordingly anchored until three o’clock the following morning, when we started again in a bright flood of moonlight; and in about four hours we arrived opposite to Widdin, where we anchored.",
-    "title": "The City of the Sultan; and Domestic Manners of the Turks, in 1836, Vol. 2 (of 2)",
-    "author": "Pardoe, Miss (Julia), 1804?-1862",
-    "gutenbergReference": "51879",
-    "hash": "32fb33908d0ec16aca2d4ada374c08f800d4ad3322d0d2479834538400e4cabe"
-  },
-  {
-    "time": "19:00",
-    "quoteFirst": "I got into Salisbury about half-past ",
-    "quoteTime": "seven o'clock",
-    "quoteLast": ", less tired than I recollect ever to have been after so long a ride; for, including my several crossings of the river and my deviations to look at churches and farm-yards, and rick-yards, I think I must have ridden nearly forty miles.",
-    "title": "Rural Rides",
-    "author": "Cobbett, William, 1763-1835",
-    "gutenbergReference": "34238",
-    "hash": "e90260fff8032d472f09ee81b0a1edbdb79b80496eb88b1d08c0396bd839b3bb"
-  },
-  {
-    "time": "19:00",
-    "quoteFirst": "Having breakfasted and gotten the best team in town hitched to a light buckboard, Scot and the doctor were rolling away into the south on the Sumner trail before ",
-    "quoteTime": "seven o'clock",
-    "quoteLast": ", over long stretches of level grassy mesa and past tall black volcanic buttes.",
-    "title": "The Red-Blooded Heroes of the Frontier",
-    "author": "Bronson, Edgar Beecher, 1856-1917",
-    "gutenbergReference": "22350",
-    "hash": "da872f5923c30cf13b83f9020a19b7af4e4f7b8d5775f5d34fbe0e09b4335907"
+    "quoteFirst": "Just then ",
+    "quoteTime": "it struck seven",
+    "quoteLast": ", with a noisy chime.",
+    "title": "The Heritage of the Kurts, Volume 1 (of 2)",
+    "author": "Bjørnson, Bjørnstjerne, 1832-1910; Fairfax, Cecil [Translator]",
+    "gutenbergReference": "37801",
+    "hash": "9cf70722aad3df8eb16b1fe4829ae4386ff0983fb026fba794758962c4010ec7"
   }
 ]

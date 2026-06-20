@@ -1,6 +1,26 @@
 [
   {
     "time": "09:24",
+    "quoteFirst": "",
+    "quoteTime": "9.24 A. M.",
+    "quoteLast": "—From Admiral Knapp at London: “NC-4 passed station four at 09.06 (5.06 New York time).”",
+    "title": "Aircraft",
+    "author": "David, Evan John, 1877-1961",
+    "gutenbergReference": "74358",
+    "hash": "23e31de473b19bf6cd691b745c0b7d151d1022a239b2e28061edc8f9dc513f5f"
+  },
+  {
+    "time": "09:24",
+    "quoteFirst": "3.17 P. M.—From Admiral Plunkett, commander of destroyer force at Plymouth: “NC-4 arrived at Plymouth 13.24 (",
+    "quoteTime": "9.24 A. M.",
+    "quoteLast": " New York time) in perfect condition. Joint mission of seaplane division and destroyer force accomplished. Regret loss of NC-1 and damage to NC-3; nevertheless, information of utmost value gained thereby. Has department any further instructions?”",
+    "title": "Aircraft",
+    "author": "David, Evan John, 1877-1961",
+    "gutenbergReference": "74358",
+    "hash": "050121c01ff4c28507d64bd48e65a7120e8a4f168bf681d5b1bb3576ca27f4e6"
+  },
+  {
+    "time": "09:24",
     "quoteFirst": "It was in the winter solstice, and the sun rose at the extremity of an immense plain at ",
     "quoteTime": "twenty-four minutes past nine",
     "quoteLast": ", so I am able to state that the longest night in Russia consists of eighteen hours and three quarters.",
@@ -18,6 +38,16 @@
     "author": "Ferris, Richard",
     "gutenbergReference": "55268",
     "hash": "4bd45581538cf930a467dad6a203ec23cf9510233749741ee76774b7295bfaa9"
+  },
+  {
+    "time": "09:24",
+    "quoteFirst": "9.11 to ",
+    "quoteTime": "9.24 a.m.",
+    "quoteLast": " 9.34 to 9.41 a.m. 9.50 to 9.57 a.m. 10.07 to 10.14 a.m. 11.03 to 11.16 a.m. Noon to 12.03 p.m. 12.58 to 1.11 p.m. 2.51 to 3.04 p.m. 3.55 to 4.08 p.m. 4.09 to 4.22 p.m. 4.23 to 4.36 p.m. 19·4 22·7 25·3 26·5 26·3 26·4 27·6 23·0 17·6 15·5 12·0 69·0 81·0 87·5 91·5 89·0 90·0 94·0 93·0 91·5 93·5 93·7 16·4706 16·5937 17·3558 17·5695 17·5251 17·8144 17·9676 15·0880 11·6688 11·0215   7·8360",
+    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6478",
+    "hash": "36c6e8ecd31ba37bd340c542bfd348e10b5653964052ffad41b318bfef5ff538"
   },
   {
     "time": "09:24",

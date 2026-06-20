@@ -1,102 +1,202 @@
 [
   {
     "time": "06:10",
-    "quoteFirst": "\"We really ought to see her now--it's getting late and Mrs. Spicer wants to make that ",
+    "quoteFirst": "It’s ",
+    "quoteTime": "ten minutes past six",
+    "quoteLast": " now.”",
+    "title": "Left Half Harmon",
+    "author": "Barbour, Ralph Henry, 1870-1944; Crump, Leslie, 1894-1962 [Illustrator]",
+    "gutenbergReference": "47226",
+    "hash": "e09bc7c3831cabd1b1b193902e7d6c5319e23ef4a5bcf44a359f803c3a6bb719"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "Sam did not remain long but caught the ",
     "quoteTime": "six-ten",
-    "quoteLast": " train.\"",
-    "title": "Miss Pat at Artemis Lodge",
-    "author": "Ginther, Pemberton, 1869-1959",
-    "gutenbergReference": "22244",
-    "hash": "deb1c790be4093792bb25d0800d0add02239c4c8c0ab6ce64d697a86b58cf1bd"
+    "quoteLast": " train back to Aberdeen.",
+    "title": "The Mystery of the Sea",
+    "author": "Stoker, Bram, 1847-1912",
+    "gutenbergReference": "42455",
+    "hash": "39fd1519c678033675410c070ccea5bea0d7f589a14c30c5f2f21175de3ca8f2"
   },
   {
     "time": "06:10",
-    "quoteFirst": "\"Well,\" Lépine continued, \"at ",
+    "quoteFirst": "IT was ",
     "quoteTime": "ten minutes past six",
-    "quoteLast": " on Monday morning, this message was filed at the office here,\" and he spread out the second sheet of tissue.",
-    "title": "The Destroyer: A Tale of International Intrigue",
-    "author": "Stevenson, Burton Egbert, 1872-1962",
-    "gutenbergReference": "29629",
-    "hash": "30976ef68a28a4f67da85bd4c03eba54338d60f80359fc4fbc5ff0f39cf8f4b3"
-  },
-  {
-    "time": "06:10",
-    "quoteFirst": "A few minutes past six, while the prisoners were innocently, and unapprehensive of danger, walking in the prison yards and those in No. 1, 3 and 4 were particularly so, as the yards of these prisons are entirely separated every way from the yard in which the hole in the wall had been made--the alarm bells rung, and the drums of the garrison in every direction beat to arms; this was about ",
-    "quoteTime": "ten minutes past six",
-    "quoteLast": ".",
-    "title": "The prisoners' memoirs, or, Dartmoor prison",
-    "author": "Andrews, C. (Charles)",
-    "gutenbergReference": "71090",
-    "hash": "140954b098e9bef5b35c3090c4ae7ff5ded09e5934b3c102d980f3e886cebcb0"
-  },
-  {
-    "time": "06:10",
-    "quoteFirst": "RAGUENEAU:   ",
-    "quoteTime": "Ten minutes after six",
-    "quoteLast": ".",
-    "title": "Cyrano de Bergerac",
-    "author": "Rostand, Edmond, 1868-1918; Guillemard, Mary F. [Translator]; Thomas, Gladys [Translator]",
-    "gutenbergReference": "1254",
-    "hash": "8b2b59a36eefcd64f37337f73b26d2d3c4df8fa164d15d68670ce0ec1ab279e9"
+    "quoteLast": ", and Phillips Hall (such of it as was not late) was dining, when the maid arrived with Mr. Algernon Vivian Todhunter's card.",
+    "title": "When Patty Went to College",
+    "author": "Webster, Jean, 1876-1916; Williams, C. D. (Charles D.), 1875-1954 [Illustrator]",
+    "gutenbergReference": "21639",
+    "hash": "cdd230e9da50cad93613d459b2469ffd2e5460892ca96208ced73ac3aa9e0c59"
   },
   {
     "time": "06:10",
     "quoteFirst": "At ",
     "quoteTime": "ten minutes past six",
-    "quoteLast": " the King appeared in the so-called \"Imperial box.\"",
-    "title": "Ludwig the Second, King of Bavaria",
-    "author": "Tschudi, Clara, 1856-1945; Hearn, Ethel Harriet [Translator]",
-    "gutenbergReference": "48578",
-    "hash": "d85942ba73155b2b582d628cd2670896ebafa43936b5fdd5db8cd963ae4872cd"
+    "quoteLast": " Mr. Glover rose and with great unwillingness said he must go.",
+    "title": "The skipper's wooing, and The brown man's servant",
+    "author": "Jacobs, W. W. (William Wymark), 1863-1943",
+    "gutenbergReference": "21336",
+    "hash": "1d42bc4ad3847253731d85c98c0f5f65bdc24c289eb35fa0969e73e8f1c7c757"
   },
   {
     "time": "06:10",
-    "quoteFirst": "As day broke clouds began to gather, and when we halted for breakfast at ",
+    "quoteFirst": "\"At ",
+    "quoteTime": "six-ten",
+    "quoteLast": ", sir. I come on duty at six.\"",
+    "title": "Mary Louise Solves a Mystery",
+    "author": "Baum, L. Frank (Lyman Frank), 1856-1919",
+    "gutenbergReference": "24578",
+    "hash": "057e410c90e174c3d30ca44f5b2cca027f23af07d282c07be0b8db5d01658a88"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "As the pair emerged on to the plateau on the top of Scawfell at ",
+    "quoteTime": "6.10 a.m.",
+    "quoteLast": " the mists began to roll away, and the first streaks of dawn were viable in the east.",
+    "title": "In Lakeland Dells and Fells",
+    "author": "Palmer, William T., 1877-1954",
+    "gutenbergReference": "62607",
+    "hash": "04569840d23802f2b900da3a00418848b998e552c19c352a9fd3920d4160205f"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "30·08 74·5  73   76   73   23.06N   67.43E  96    54  NW                                                                             to W                                                                             by S                                                                             1 to                                                                             3 10   ",
     "quoteTime": "6.10 A.M.",
-    "quoteLast": " they hung so heavy on the Weisskugel that after breakfast, instead of going straight on, we diverged to the top of the rocks leading down towards Kurzras, with the intention of waiting a short time to see what the weather would do, and if it did not mend, of going down to Kurzras, where a friend was awaiting me.",
-    "title": "Adventures on the Roof of the World",
-    "author": "Le Blond, Aubrey, Mrs., 1861-1934",
-    "gutenbergReference": "43314",
-    "hash": "86a62692699ce4d2f7fd1f0d7f0b073c8097083147c97039294e721624e2cf21"
+    "quoteLast": " arrived      Kurrachi         --    70    67   69   67·5 --      --      132   --   SW                                                                             to E                                                                             4 to                                                                             6      From January      10th to February      7th at Kurrachi  --    --    --   --   --   --      --      --    --   -- Feb.",
+    "title": "The Last Voyage: To India and Australia, in the 'Sunbeam'",
+    "author": "Brassey, Annie, 1839-1887; Brassey, Thomas Brassey, Earl, 1836-1918 [Commentator]; Pritchett, R. T. (Robert Taylor), 1828-1907 [Illustrator]",
+    "gutenbergReference": "29778",
+    "hash": "8c89107ae725aab15d389c4a1c33ff04b9302c971a7a91cd57b37df42384617d"
   },
   {
     "time": "06:10",
-    "quoteFirst": "This information being complete, a party of five of the robbers repaired to the premises at ",
-    "quoteTime": "ten minutes past six",
-    "quoteLast": " on the evening of Saturday, February 4, 1865.",
-    "title": "Protection from fire and thieves",
-    "author": "Chubb, George Hayter, 1848-1946",
-    "gutenbergReference": "49704",
-    "hash": "e3dc00fdf0924695607f8c7a0bd9f940833e526c48661052b24b497506297bc0"
-  },
-  {
-    "time": "06:10",
-    "quoteFirst": "\"We really ought to see her now--it's getting late and Mrs. Spicer wants to make that ",
-    "quoteTime": "six-ten",
-    "quoteLast": " train.\"",
-    "title": "Miss Pat at Artemis Lodge",
-    "author": "Ginther, Pemberton, 1869-1959",
-    "gutenbergReference": "22244",
-    "hash": "deb1c790be4093792bb25d0800d0add02239c4c8c0ab6ce64d697a86b58cf1bd"
-  },
-  {
-    "time": "06:10",
-    "quoteFirst": "Up to ",
-    "quoteTime": "six-ten",
-    "quoteLast": " a week I’ve been, and down to eighteen bob and provide your shoes and gloves.",
-    "title": "First the Blade: A Comedy of Growth",
-    "author": "Dane, Clemence, 1888-1965",
-    "gutenbergReference": "63501",
-    "hash": "d34ce0ff150f1af26e23708cbaedd076f6cd463299ecde6d2e4e37516b900a94"
-  },
-  {
-    "time": "06:10",
-    "quoteFirst": "It is scarcely a quarter of an hour since I told you it was but ",
-    "quoteTime": "ten minutes past six",
+    "quoteFirst": "“",
+    "quoteTime": "Six-ten",
     "quoteLast": ".”",
-    "title": "East Lynne",
-    "author": "Wood, Henry, Mrs., 1814-1887",
-    "gutenbergReference": "3322",
-    "hash": "30215fb0d03ec7321d7df11154f52b4248d227b536f8c3788483d05e4d665cfb"
+    "title": "A Simpleton",
+    "author": "Reade, Charles, 1814-1884",
+    "gutenbergReference": "2301",
+    "hash": "46552e71f5ad079fb336d97ee810da5b926ec3990bad4f95e2be1e3b58169e5b"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "It was ",
+    "quoteTime": "ten minutes after six in the morning",
+    "quoteLast": " of the 22nd when I caught sight of one of the big cruisers of the enemy.",
+    "title": "America's War for Humanity",
+    "author": "Russell, Thomas Herbert, 1862-1947",
+    "gutenbergReference": "10147",
+    "hash": "6f6da473c82ffbc8b806592cda71c79e3b29f493879f869f31ee024cd664380c"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "At ",
+    "quoteTime": "6.10 A.M.",
+    "quoteLast": " the signal was made for line abreast, the ships running down nearly before the wind.",
+    "title": "The Major Operations of the Navies in the War of American Independence",
+    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+    "gutenbergReference": "16602",
+    "hash": "9499d0b7e9f2a8eba0c0aef72bebbf9208c1b02005aa7b07f88e3051b4a20345"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "It’s ",
+    "quoteTime": "ten minutes past six",
+    "quoteLast": " now.”",
+    "title": "Left Half Harmon",
+    "author": "Barbour, Ralph Henry, 1870-1944; Crump, Leslie, 1894-1962 [Illustrator]",
+    "gutenbergReference": "47226",
+    "hash": "e09bc7c3831cabd1b1b193902e7d6c5319e23ef4a5bcf44a359f803c3a6bb719"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "“You are a dandy,” was Jerry’s greeting as Marjorie walked into their room at ",
+    "quoteTime": "ten minutes past six",
+    "quoteLast": ".",
+    "title": "Marjorie Dean, College Junior",
+    "author": "Chase, Josephine, -1931",
+    "gutenbergReference": "37176",
+    "hash": "2d56b6e7b1db1812485b5621ee5d88b88a9c9ec8034d23a05eadc8e0f6735e30"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "On the 12th the order to move to the Concentration Area, near Gorre, was received at ",
+    "quoteTime": "6.10 a.m.",
+    "quoteLast": ", and within ten minutes the Battalion had moved off.",
+    "title": "The Fourth Battalion, The King's Own (Royal Lancaster Regiment) and the Great War",
+    "author": "Wadham, W. F. A. (Walter F. A.); Crossley, J.",
+    "gutenbergReference": "67393",
+    "hash": "e14220fc243100b403090819d7d9a3efb8440be3b63367a3e5fa86456ecd2382"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "So I caught the ",
+    "quoteTime": "six-ten",
+    "quoteLast": " train and Hofheim met me at the station.",
+    "title": "V. V.'s Eyes",
+    "author": "Harrison, Henry Sydnor, 1880-1930; Crosby, Raymond Moreau, 1876-1945 [Illustrator]",
+    "gutenbergReference": "13985",
+    "hash": "7f29ba6ef94ec7dcc5f24ed38791e85be0f55078a4114872b9f7907262237a5a"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past six",
+    "quoteLast": " Mr. Glover rose and with great unwillingness said he must go.",
+    "title": "The skipper's wooing, and The brown man's servant",
+    "author": "Jacobs, W. W. (William Wymark), 1863-1943",
+    "gutenbergReference": "21336",
+    "hash": "1d42bc4ad3847253731d85c98c0f5f65bdc24c289eb35fa0969e73e8f1c7c757"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "“It is ",
+    "quoteTime": "ten minutes past six",
+    "quoteLast": ",” answered Net, after glancing at the time-piece on the mantel-shelf.",
+    "title": "Brandon Coyle's wife",
+    "author": "Southworth, Emma Dorothy Eliza Nevitte, 1819-1899",
+    "gutenbergReference": "77295",
+    "hash": "395d0dd5435e60039ec74b7d50ec55d4f44e7b06d2cb6489636193e40d2e6dd0"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "The attack which commenced at ",
+    "quoteTime": "ten minutes past six",
+    "quoteLast": " on the morning on November 18th--a day of ice-covered slushiness--was held up owing to the insufficiency of the artillery barrage and the heavy enemy machine gun fire.",
+    "title": "The Seventeenth Highland Light Infantry (Glasgow Chamber of Commerce Battalion)",
+    "author": "Arthur, John W. (John William), 1848-1921 [Editor]; Munro, Ion S. (Ion Smeaton), 1887-1970 [Editor]",
+    "gutenbergReference": "20136",
+    "hash": "0b33caba841de9482bec7798154d9da302f6e90cb6bc09b504e9c275b6416c44"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "When I got back at ",
+    "quoteTime": "six-ten",
+    "quoteLast": " to-night I drove to Foscari's, found the Irishman and the boss, heard how he'd pulled your leg--paid the bill--$9.60, wasn't it?",
+    "title": "The Veiled Lady, and Other Men and Women",
+    "author": "Smith, Francis Hopkinson, 1838-1915",
+    "gutenbergReference": "4713",
+    "hash": "b74426823366a6a7381ab48e9523e3460ddee7d5df3ee7bf0c1f014519a3c1da"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "\"",
+    "quoteTime": "Six-ten",
+    "quoteLast": ".\"",
+    "title": "The Heart of Rachael",
+    "author": "Norris, Kathleen Thompson, 1880-1966",
+    "gutenbergReference": "4915",
+    "hash": "4f529bbebcf465240877398e0312d68fdf44dbc63514e3b6ecd3fd2e3e35176a"
+  },
+  {
+    "time": "06:10",
+    "quoteFirst": "The artistes accepted our invitation with the most charming good grace, and we took the train for Buffalo, where we arrived at ",
+    "quoteTime": "ten minutes past six in the morning",
+    "quoteLast": ".",
+    "title": "My Double Life: The Memoirs of Sarah Bernhardt",
+    "author": "Bernhardt, Sarah, 1844-1923",
+    "gutenbergReference": "9100",
+    "hash": "3c09e86e31b5699c442dbd894146ec9a083c86e8c77083e9c9aa08d78e2a58f4"
   }
 ]

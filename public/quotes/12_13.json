@@ -33,11 +33,21 @@
     "time": "12:13",
     "quoteFirst": "Black Bulb 8.00 to 8.13 a.m. 8.15 to 8.28 a.m. 9.00 to 9.13 a.m. 10.00 to 10.13 a.m. 11.00 to 11.13 a.m. Noon to ",
     "quoteTime": "12.13 p.m.",
-    "quoteLast": " 1.00 to 1.13 p.m. 2.00 to 2.13 p.m. 11·1 15·0 17·7 19·1 19·0 18·8 17·2",
+    "quoteLast": " 1.00 to 1.13 p.m. 2.00 to 2.13 p.m. 11·1 15·0 17·7 19·1 19·0 18·8 17·2 17·4 65·5 69·5 71·5 72·5 75·0 75·0 73·3 74·0   9·9900 12·2645 14·5140 15·4710 14·9150 12·7600 13·8976 13·8330 22·960",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "38d7bfeede075f699ddd3027160b5a3dac886a1344b2c30d800c361ee96f1325"
+    "hash": "07ba396b2cf7535b6121fb484694b88e6cf4e017674389c9f78c276663a90ee1"
+  },
+  {
+    "time": "12:13",
+    "quoteFirst": "Black Bulb 7.34 to 7.41 a.m. 8.38 to 8.45 a.m. 9.44 to 9.51 a.m. 10.46 to 10.53 a.m. 11.50 to 11.57 a.m. 12.06 to ",
+    "quoteTime": "12.13 p.m.",
+    "quoteLast": " 12.58 to 1.02 p.m. 1.45 to 1.52 p.m. 3.15 to 3.22 p.m. 4.27 to 4.34 p.m. 4.36 to 4.43 p.m. 4.45 to 4.52 p.m. 4.56 to 5.09 p.m. 5.12 to 5.18 p.m. 10·0 16·0 19·5 21·0 21·5 24·1 23·9 21·4 18·1 10·2   9·8   8·5   5·6   3·8 69·4 70·0 74·7 78·2 81·2 88·0 87·2 84·5 82·5 82·0 84·0 85·0 85·0 84·0 8·4200 13·3920 15·3660 15·8550 15·6950 16·4603 16·4432 15·0870 13·0320 7·3746 6·9482 5·9670 3·9312 2·6942 29·948",
+    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6478",
+    "hash": "28852ab03eb708690689e05b088dc30cfdea168e14bc253d77d55d3f5949701e"
   },
   {
     "time": "12:13",

@@ -11,6 +11,16 @@
   },
   {
     "time": "20:17",
+    "quoteFirst": "At ",
+    "quoteTime": "seventeen minutes past eight",
+    "quoteLast": " Prince was dead; but not until I awoke, near two o'clock, did I dare approach him.",
+    "title": "The Grey Room",
+    "author": "Phillpotts, Eden, 1862-1960",
+    "gutenbergReference": "1577",
+    "hash": "9dfc9c8a9f0194717cfe6da54945bc57d6e9e084eb8723143edd1f72e086cb27"
+  },
+  {
+    "time": "20:17",
     "quoteFirst": "; 15th, at ",
     "quoteTime": "8:17 p. m.",
     "quoteLast": "; 30th, at 7:20 p.",
@@ -18,6 +28,16 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
     "hash": "1f3d1ea1af0f01ab6d32589d69a0ac3a3799dc0726ba4e28a19effcd17adde34"
+  },
+  {
+    "time": "20:17",
+    "quoteFirst": "(Reporter’s note: ",
+    "quoteTime": "8:17 p.m.",
+    "quoteLast": ")",
+    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "56190",
+    "hash": "d79f070c6b9f303e50587b0767808fa121014bf29153862ca14b7e4f4131fb63"
   },
   {
     "time": "20:17",

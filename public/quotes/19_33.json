@@ -41,6 +41,16 @@
   },
   {
     "time": "19:33",
+    "quoteFirst": "\"Union Station, ",
+    "quoteTime": "7.33 P. M.",
+    "quoteLast": "\"",
+    "title": "The Mermaid of Druid Lake, and Other Stories",
+    "author": "Bump, Charles Weathers, 1872-1908",
+    "gutenbergReference": "31082",
+    "hash": "4489c27c71dfad974283910fd84ccfacf4aff6c6ff027ecf8c87cea253fadee6"
+  },
+  {
+    "time": "19:33",
     "quoteFirst": "The daily passenger train leaves at 6.30 A.M., and reaches Vera Cruz, or rather is due there, at ",
     "quoteTime": "7.33 P.M.",
     "quoteLast": " The distance is 263 miles, and there is a branch line to Puebla twenty-nine miles in length.",
@@ -68,6 +78,16 @@
     "author": "Chambers, George F. (George Frederick), 1841-1915",
     "gutenbergReference": "24222",
     "hash": "d42dca48418d2f568e72273666fb2a0d78256030839a860a24b327cac715a007"
+  },
+  {
+    "time": "19:33",
+    "quoteFirst": "(Reporter’s note: ",
+    "quoteTime": "7:33 p.m.",
+    "quoteLast": ")",
+    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "56190",
+    "hash": "e5c82a0502ea466292cb9e6e4aa5e95d749d29cc94190a3426854cc8c2f8ce5e"
   },
   {
     "time": "19:33",

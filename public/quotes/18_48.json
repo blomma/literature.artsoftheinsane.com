@@ -1,6 +1,36 @@
 [
   {
     "time": "18:48",
+    "quoteFirst": ", set at ",
+    "quoteTime": "6:48 p. m.",
+    "quoteLast": "; on the 30th, rise at 3:54 a.",
+    "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55331",
+    "hash": "2fdde5805c84b75bcfc71d7ce46d647dd9dc67ecc86d90e8ba76cfcd93a8db8f"
+  },
+  {
+    "time": "18:48",
+    "quoteFirst": "The hands of the clock pointed to a quarter of six and Tom's own watch, which was as honest, plain and reliable as he was himself, said ",
+    "quoteTime": "twelve minutes of seven",
+    "quoteLast": ".",
+    "title": "Tom Slade with the Colors",
+    "author": "Fitzhugh, Percy Keese, 1876-1950; Clarity, Thomas [Illustrator]",
+    "gutenbergReference": "20986",
+    "hash": "d1568199676dbb610ad3d50a932feadddcb3e27efb70eef06f61fae8065a741d"
+  },
+  {
+    "time": "18:48",
+    "quoteFirst": "_ at ",
+    "quoteTime": "forty-eight minutes past six",
+    "quoteLast": " at the end of three degrees, and the second morning the sun will rise at forty-four minutes past six, sixteen minutes earlier than at the place he started from, and thirty-two minutes earlier than with the other man, with whom on the same morning it does not rise till sixteen minutes past seven.",
+    "title": "The Every-day Book and Table Book. v. 3 (of 3)\r\nEverlasting Calerdar of Popular Amusements, Sports, Pastimes, Ceremonies, Manners, Customs and Events, Incident to Each of the Three Hundred and Sixty-five Days, in past and Present Times; Forming a Complete History of the Year, Month, and Seasons, and a Perpetual Key to the Almanac",
+    "author": "Hone, William, 1780-1842",
+    "gutenbergReference": "53277",
+    "hash": "0f7fbcd4cb0ee3b99756fb6f2b444a9c736bbf68d0fabfc94fdad0c02dc4b25c"
+  },
+  {
+    "time": "18:48",
     "quoteFirst": "Rises on the 1st at ",
     "quoteTime": "6:48 p. m.",
     "quoteLast": ", and sets on the 2d at 8:06 a.",
@@ -8,6 +38,56 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55053",
     "hash": "309106e26f6f6fe8ca8641c29dbc7db0d56318220350fbf460bad532c3b3e67b"
+  },
+  {
+    "time": "18:48",
+    "quoteFirst": "“He got the six-thirty-four train, and it’s ",
+    "quoteTime": "twelve minutes to seven",
+    "quoteLast": " now.”",
+    "title": "The Fighting Scrub",
+    "author": "Barbour, Ralph Henry, 1870-1944; Rahn, A. D. [Illustrator]",
+    "gutenbergReference": "73435",
+    "hash": "69479dc5abb144c90bf7ae759e8c1bfa5ca43670f80d55feac9bce74fae25026"
+  },
+  {
+    "time": "18:48",
+    "quoteFirst": "This particular series began according to my charts at 4:35 p.m., and the next subsequent series began at ",
+    "quoteTime": "6:48 p.m.",
+    "quoteLast": "",
+    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "56190",
+    "hash": "00e200c15509ac279b3ee50363366a934299192ca955cb9a393f0840d48c7e69"
+  },
+  {
+    "time": "18:48",
+    "quoteFirst": "On the 16th, at ",
+    "quoteTime": "6:48 p. m.",
+    "quoteLast": ", is 5° 42′ south of the moon.",
+    "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55251",
+    "hash": "14d6029988cca1330cc75672faefec036dba7962fef5db158ae80439a50bd456"
+  },
+  {
+    "time": "18:48",
+    "quoteFirst": "“",
+    "quoteTime": "Twelve minutes to seven",
+    "quoteLast": ".”",
+    "title": "The Virginian: A Horseman of the Plains",
+    "author": "Wister, Owen, 1860-1938",
+    "gutenbergReference": "1298",
+    "hash": "54d12930356564e0673ba4845fd98ff311014d6ca50143eccd795a03bd3e1047"
+  },
+  {
+    "time": "18:48",
+    "quoteFirst": "OLD MORALITY might have moved Closure at ",
+    "quoteTime": "twelve minutes to seven",
+    "quoteLast": ", and carried Clause 3.",
+    "title": "Punch, or the London Charivari, Volume 100, May 9, 1891",
+    "author": "Various",
+    "gutenbergReference": "13313",
+    "hash": "22b639c1228aad1c7c83ad5e0c586b440884126b3bb7fc311191bc422c8a2f1a"
   },
   {
     "time": "18:48",
@@ -21,66 +101,6 @@
   },
   {
     "time": "18:48",
-    "quoteFirst": "At ",
-    "quoteTime": "6.48 p.m.",
-    "quoteLast": " summertime (5.51 Greenwich or 3.15 St. Johns) on Sunday, May 18th, 1919, Harry and Grieve set out to cross the Atlantic from St. Johns to Ireland, and, if possible, to Brooklands, in a single non-stop flight.",
-    "title": "H. G. Hawker, airman: his life and work",
-    "author": "Hawker, Muriel; Moore-Brabazon, John Theodore Cuthbert, 1884-1964 [Author of introduction, etc.]",
-    "gutenbergReference": "64793",
-    "hash": "21c0299bace7dc19179efec9822030096862eb08aadc8320ddb4b236cc1df964"
-  },
-  {
-    "time": "18:48",
-    "quoteFirst": "OLD MORALITY might have moved Closure at ",
-    "quoteTime": "twelve minutes to seven",
-    "quoteLast": ", and carried Clause 3.",
-    "title": "Punch, or the London Charivari, Volume 100, May 9, 1891",
-    "author": "Various",
-    "gutenbergReference": "13313",
-    "hash": "22b639c1228aad1c7c83ad5e0c586b440884126b3bb7fc311191bc422c8a2f1a"
-  },
-  {
-    "time": "18:48",
-    "quoteFirst": "OLD MORALITY might have moved Closure at ",
-    "quoteTime": "twelve minutes to seven",
-    "quoteLast": ", and carried Clause 3.",
-    "title": "Punch, or the London Charivari, Volume 100, May 9, 1891",
-    "author": "Various",
-    "gutenbergReference": "13313",
-    "hash": "22b639c1228aad1c7c83ad5e0c586b440884126b3bb7fc311191bc422c8a2f1a"
-  },
-  {
-    "time": "18:48",
-    "quoteFirst": "OLD MORALITY might have moved Closure at ",
-    "quoteTime": "twelve minutes to seven",
-    "quoteLast": ", and carried Clause 3.",
-    "title": "Punch, or the London Charivari, Volume 100, May 9, 1891",
-    "author": "Various",
-    "gutenbergReference": "13313",
-    "hash": "22b639c1228aad1c7c83ad5e0c586b440884126b3bb7fc311191bc422c8a2f1a"
-  },
-  {
-    "time": "18:48",
-    "quoteFirst": "OLD MORALITY might have moved Closure at ",
-    "quoteTime": "twelve minutes to seven",
-    "quoteLast": ", and carried Clause 3.",
-    "title": "Punch, or the London Charivari, Volume 100, May 9, 1891",
-    "author": "Various",
-    "gutenbergReference": "13313",
-    "hash": "22b639c1228aad1c7c83ad5e0c586b440884126b3bb7fc311191bc422c8a2f1a"
-  },
-  {
-    "time": "18:48",
-    "quoteFirst": "“It wants ",
-    "quoteTime": "twelve minutes to seven",
-    "quoteLast": " now!”",
-    "title": "When shadows die",
-    "author": "Southworth, Emma Dorothy Eliza Nevitte, 1819-1899",
-    "gutenbergReference": "75317",
-    "hash": "b65b477c37f12617dff4343ed5cc0af6f4890e9f19e34048c3b818dc8fb16517"
-  },
-  {
-    "time": "18:48",
     "quoteFirst": "Meanwhile, H. G. Hawker, pilot of the Sopwith biplane, together with Commander Mackenzie Grieve, R.N., his navigator, found the weather sufficiently auspicious to set out at ",
     "quoteTime": "6.48 p.m.",
     "quoteLast": " On Sunday, May 18th, in the hope of completing the trip by the direct route before N.C.4 could reach Plymouth.",
@@ -91,6 +111,16 @@
   },
   {
     "time": "18:48",
+    "quoteFirst": "Meanwhile, H.\u00A0G. Hawker, pilot of the Sopwith biplane, together with Commander Mackenzie Grieve, R.N., his navigator, found the weather sufficiently auspicious to set out at ",
+    "quoteTime": "6.48 p.m.",
+    "quoteLast": " on Sunday, May 18th, in the hope of completing the trip by the direct route before N.C.4 could reach Plymouth.",
+    "title": "A History of Aeronautics",
+    "author": "Vivian, Evelyn Charles, 1882-1947; Marsh, W. Lockwood (William Lockwood), 1886-1963",
+    "gutenbergReference": "58347",
+    "hash": "b9bc4564c1b0eb86eaa6343e361e3cb52c90db37c8bc743237cdc89a8dfe7089"
+  },
+  {
+    "time": "18:48",
     "quoteFirst": "“It wants ",
     "quoteTime": "twelve minutes to seven",
     "quoteLast": " now!”",
@@ -98,5 +128,15 @@
     "author": "Southworth, Emma Dorothy Eliza Nevitte, 1819-1899",
     "gutenbergReference": "75317",
     "hash": "b65b477c37f12617dff4343ed5cc0af6f4890e9f19e34048c3b818dc8fb16517"
+  },
+  {
+    "time": "18:48",
+    "quoteFirst": "At ",
+    "quoteTime": "6.48 p.m.",
+    "quoteLast": " summertime (5.51 Greenwich or 3.15 St. Johns) on Sunday, May 18th, 1919, Harry and Grieve set out to cross the Atlantic from St. Johns to Ireland, and, if possible, to Brooklands, in a single non-stop flight.",
+    "title": "H. G. Hawker, airman: his life and work",
+    "author": "Hawker, Muriel; Moore-Brabazon, John Theodore Cuthbert, 1884-1964 [Author of introduction, etc.]",
+    "gutenbergReference": "64793",
+    "hash": "21c0299bace7dc19179efec9822030096862eb08aadc8320ddb4b236cc1df964"
   }
 ]

@@ -1,6 +1,16 @@
 [
   {
     "time": "02:38",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty-two minutes to three",
+    "quoteLast": ".",
+    "title": "Lefty Locke, pitcher-manager",
+    "author": "Standish, Burt L., 1866-1945; Wrenn, Charles L. (Charles Lewis), 1880-1952 [Illustrator]",
+    "gutenbergReference": "34100",
+    "hash": "135c55ad721df435743c7942443ed5b794603cd82d8d1faf26333f97e6592fa2"
+  },
+  {
+    "time": "02:38",
     "quoteFirst": "On July 2nd, at ",
     "quoteTime": "2.38 a.m.",
     "quoteLast": " (British summer time), R 34 left the ground at East Fortune, carrying a total number of 30 persons.",

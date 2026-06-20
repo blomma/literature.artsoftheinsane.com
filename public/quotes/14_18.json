@@ -31,6 +31,16 @@
   },
   {
     "time": "14:18",
+    "quoteFirst": "The jury then retired to consider their verdict at ",
+    "quoteTime": "eighteen minutes past two",
+    "quoteLast": ", the judges also retiring; and the prisoner, who wore upon his features an expression of mute despair, was then, according to such cases, taken down below.",
+    "title": "The Most Extraordinary Trial of William Palmer, for the Rugeley Poisonings, which lasted Twelve Days",
+    "author": "Anonymous",
+    "gutenbergReference": "51135",
+    "hash": "6fed819db06bae039cedf43ac10020010e1baed985ea5f8ee65bd133dfa6fe61"
+  },
+  {
+    "time": "14:18",
     "quoteFirst": "At ",
     "quoteTime": "2.18 p.m.",
     "quoteLast": " the 35th Brigade came up, passed through the 37th and pushed on to the final objective.",
@@ -68,5 +78,15 @@
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
     "hash": "53fd265678e9b20efcae0de05b51458960d34f643c0659fb8c2f58fa20d4d480"
+  },
+  {
+    "time": "14:18",
+    "quoteFirst": "to ",
+    "quoteTime": "2:18 p. m.",
+    "quoteLast": "; Wilmington, Del.",
+    "title": "The Chautauquan, Vol. 05, March 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55060",
+    "hash": "3f769e08b1cf4ea3f42cbb2e6d18bf7974e0f271c1c945aa5d0a0eb7ec9241b2"
   }
 ]

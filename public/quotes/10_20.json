@@ -1,63 +1,143 @@
 [
   {
     "time": "10:20",
-    "quoteFirst": "At ",
-    "quoteTime": "10.20 A.M.",
-    "quoteLast": " the signal for a general chase was made.",
-    "title": "The Battle of the Falkland Islands, Before and After",
-    "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
-    "gutenbergReference": "50265",
-    "hash": "475d17700865b63bb789d0da4e2c05fd4464da25875a2e8bea13d9e9418ae9af"
-  },
-  {
-    "time": "10:20",
-    "quoteFirst": "\"'Yes, sir, while I was waiting to speak to 'is lordship I looked at the clock, sir; it was ",
-    "quoteTime": "twenty past ten",
-    "quoteLast": ", sir.'",
-    "title": "The Old Man in the Corner",
-    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-    "gutenbergReference": "10556",
-    "hash": "66ff6c0406eca0a1344f80fa6513b387861066acd0a2d1d8fcacaa1caa9a8a22"
-  },
-  {
-    "time": "10:20",
-    "quoteFirst": "The Queen’s Hotel, Ennis, county Clare, where Rudolph Bloom (Rudolf Virag) died on the evening of the 27 June 1886, at some hour unstated, in consequence of an overdose of monkshood (aconite) selfadministered in the form of a neuralgic liniment composed of 2 parts of aconite liniment to 1 of chloroform liniment (purchased by him at ",
-    "quoteTime": "10.20 a.m.",
-    "quoteLast": " on the morning of 27 June 1886 at the medical hall of Francis Dennehy, 17 Church street, Ennis) after having, though not in consequence of having, purchased at 3.15 p.m. on the afternoon of 27 June 1886 a new boater straw hat, extra smart (after having, though not in consequence of having, purchased at the hour and in the place aforesaid, the toxin aforesaid), at the general drapery store of James Cullen, 4 Main street, Ennis.",
-    "title": "Ulysses",
-    "author": "Joyce, James, 1882-1941",
-    "gutenbergReference": "4300",
-    "hash": "953236e30902e7ee36213fb2b7500795864268a483e4412f845c75b5e5601632"
-  },
-  {
-    "time": "10:20",
-    "quoteFirst": "asks Sir Guy, at exactly ",
-    "quoteTime": "twenty minutes past ten",
-    "quoteLast": " on Wednesday night.",
-    "title": "Airy Fairy Lilian",
-    "author": "Duchess, 1855?-1897",
-    "gutenbergReference": "35228",
-    "hash": "a6df38240d8ba0f00f4801b2c8dac78d0c3cdaeb0c02b236793303c2c0e38f69"
-  },
-  {
-    "time": "10:20",
-    "quoteFirst": "At    ",
-    "quoteTime": "twenty minutes past ten A. M.",
-    "quoteLast": ", we discovered her steering    towards us.",
-    "title": "History for ready reference, Volumes 1 to 5",
-    "author": "Larned, J. N. (Josephus Nelson), 1836-1913",
-    "gutenbergReference": "70427",
-    "hash": "1b211ec52994463c2e891c32c3948624e95179683b7b915d1a4d8dee40304122"
-  },
-  {
-    "time": "10:20",
-    "quoteFirst": "\"I'm going to catch the ",
+    "quoteFirst": "There’s a train about ",
     "quoteTime": "ten-twenty",
-    "quoteLast": ",\" said Butler, jamming his hat down firmly.",
-    "title": "What's-His-Name",
-    "author": "McCutcheon, George Barr, 1866-1928; Fisher, Harrison, 1875-1934 [Illustrator]",
-    "gutenbergReference": "28512",
-    "hash": "43603a388ae60ae402123b406b00cd7266d19a43c1d58f8bf590e7601f7c0437"
+    "quoteLast": ", I think.”",
+    "title": "Right Half Hollins",
+    "author": "Barbour, Ralph Henry, 1870-1944; Crump, Leslie, 1894-1962 [Illustrator]",
+    "gutenbergReference": "53986",
+    "hash": "96b106c2a9ecdeb7e32d1d1d60f21ccd71c2467057b058e2350a76cf9cab5914"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "We left London at ",
+    "quoteTime": "10:20 A.M.",
+    "quoteLast": " on the London & Northwestern Railroad for Liverpool and arrived at the latter place at 2:30 P.M. We boarded the steamer Philadelphia, of the American line, and noticed on the side of the boat an immense American flag painted in colors, as well as the words \"American Line\".",
+    "title": "A Journey Through France in War Time",
+    "author": "Butler, Joseph G. (Joseph Green), 1840-1927",
+    "gutenbergReference": "20464",
+    "hash": "7bddf52a0e04fdabf9e21cd141928abd2cef1c7bd3d696ecd85b9ce3a6491cf8"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes past ten",
+    "quoteLast": " a hundred searchlights flashed into the sky and the first gun-shot woke the sleeping city.",
+    "title": "The adventures of Heine",
+    "author": "Wallace, Edgar, 1875-1932",
+    "gutenbergReference": "76462",
+    "hash": "eb363dd1bf43c97a749aaf9632f56606c8d3e613ecf8a8652bab0a713d2cc013"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "July 23rd, Pentland Skerries, one \"Chaser\" flying W., ",
+    "quoteTime": "10.20 a.m.",
+    "quoteLast": ";      light N.",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1883. Fifth Report",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "65609",
+    "hash": "1755478053826bfae84c090586902a3d4dada4f8d3ca07ec5c60820535d1b28c"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty minutes past ten",
+    "quoteLast": " when the door opened.",
+    "title": "Cecilia: A Story of Modern Rome",
+    "author": "Crawford, F. Marion (Francis Marion), 1854-1909",
+    "gutenbergReference": "31723",
+    "hash": "b09cfa0cae2e92f9a27661c4194211d00a5173a4718b4f7ca3ac6ab45d961ccc"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "Then glancing back at the clock, she remarked, \"It's ",
+    "quoteTime": "twenty minutes past ten",
+    "quoteLast": ". Too late for us to go now. We can go to-morrow night, can't we?\"",
+    "title": "Grace Harlowe's First Year at Overton College",
+    "author": "Chase, Josephine, -1931",
+    "gutenbergReference": "17988",
+    "hash": "2120821419c71efcc979cc0d312e69745fe60ee2f4370fa04d3aff3ee20bfdb4"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "Dr. Ringwood, glancing at his watch, saw that it was ",
+    "quoteTime": "twenty minutes past ten",
+    "quoteLast": ".",
+    "title": "The case with nine solutions",
+    "author": "Connington, J. J., 1880-1947",
+    "gutenbergReference": "72816",
+    "hash": "3684242d513a3844551ba54a7d4a64a83493b95312770d0eb2acb42e2c28c87d"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "July 23rd, Pentland Skerries, one \"Chaser\" flying W., ",
+    "quoteTime": "10.20 a.m.",
+    "quoteLast": ";      light N.",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1883. Fifth Report",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "65609",
+    "hash": "1755478053826bfae84c090586902a3d4dada4f8d3ca07ec5c60820535d1b28c"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "The Committee propose $400,000,000 of ",
+    "quoteTime": "Ten-Twenty",
+    "quoteLast": " five per cents.",
+    "title": "Charles Sumner: his complete works, volume 17 (of 20)",
+    "author": "Sumner, Charles, 1811-1874",
+    "gutenbergReference": "50370",
+    "hash": "4f03ac75c1b91ebaa532bb02ada0ddff246b26d2bde6944c70f596ee9858806d"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "“You kin s'lect the ",
+    "quoteTime": "ten-twenty",
+    "quoteLast": ", Mr. Burruz, if you whirl over in a taxi an' shoot the tunnel,” said Donovan, who was rather a graphic conversationalist.",
+    "title": "The Gold Bag",
+    "author": "Wells, Carolyn, 1862-1942",
+    "gutenbergReference": "2883",
+    "hash": "3bad3815f79b31c14a0e13037469470118b56b9bba620e15f36f95793c146aa6"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "It was precisely ",
+    "quoteTime": "twenty minutes past ten",
+    "quoteLast": ", Mr. Burress told me later, when he detected, by stealing on tiptoe to my chair, and bending above me, that I was sound asleep, and the mantel clock was on the stroke of eleven when I awoke.",
+    "title": "Miriam Monfort\nA Novel",
+    "author": "Warfield, Catherine A. (Catherine Ann), 1816-1877",
+    "gutenbergReference": "12453",
+    "hash": "46c95e900e1bf33476467c1a10df9bd1e3522340e53e0d3d710bb952b91231aa"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "The change from a Ten-Forty bond to a ",
+    "quoteTime": "Ten-Twenty",
+    "quoteLast": " bond, as proposed by the Committee, is a change, so far as I can perceive, made up of disadvantages.",
+    "title": "Charles Sumner: his complete works, volume 17 (of 20)",
+    "author": "Sumner, Charles, 1811-1874",
+    "gutenbergReference": "50370",
+    "hash": "f8dc425419e876cb8eb6790065c871d7d6aa630fe63ea144abc0d6144241f74c"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty minutes past ten",
+    "quoteLast": ".",
+    "title": "The Turtles of Tasman",
+    "author": "London, Jack, 1876-1916",
+    "gutenbergReference": "16257",
+    "hash": "a48bf23fd186b6932ef27a6af673c50fb804ea6390dc474c204544b1c23b2480"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "The time was ",
+    "quoteTime": "twenty minutes past ten",
+    "quoteLast": ".",
+    "title": "Patience Sparhawk and Her Times: A Novel",
+    "author": "Atherton, Gertrude Franklin Horn, 1857-1948",
+    "gutenbergReference": "53009",
+    "hash": "92aa8e3ca2475e97a30632b0f1464e21da5c21ffa456bf8b7c4b4f065569ad7b"
   },
   {
     "time": "10:20",
@@ -71,32 +151,52 @@
   },
   {
     "time": "10:20",
-    "quoteFirst": "It was about ",
-    "quoteTime": "twenty minutes past ten",
-    "quoteLast": " when the cat pilgrims reached a lovely spot.",
-    "title": "Pussy-Cat Town",
-    "author": "Taggart, Marion Ames, 1866-1945; Chase, Rebecca [Illustrator]",
-    "gutenbergReference": "63458",
-    "hash": "92e65c8346c7e56e750e9f637ca369f8f22c8de0031c9d1e166341fb2c2b18c4"
-  },
-  {
-    "time": "10:20",
     "quoteFirst": "At ",
-    "quoteTime": "10:20 a.m.",
-    "quoteLast": ", Voyager reappeared from behind Jupiter and radio contact was restored; at 11:24 a.m., it emerged from shadow into sunlight, speeding on toward encounter with Ganymede.",
-    "title": "Voyage to Jupiter",
-    "author": "Morrison, David, 1940-; Samz, Jane",
-    "gutenbergReference": "58915",
-    "hash": "3160654d6cb59acd84b5dc0e56a1b4f4769338be62597d202b5554946ec9faa0"
+    "quoteTime": "10.20 A. M.",
+    "quoteLast": " of Thursday, May 30, we left for that peculiarly named town, Stoke-upon-Trent.",
+    "title": "The Cathedral Towns and Intervening Places of England, Ireland and Scotland:\r\nA Description of Cities, Cathedrals, Lakes, Mountains, Ruins, and Watering-places.",
+    "author": "Silloway, Thomas W. (Thomas William), 1828-1910; Powers, Lee L.",
+    "gutenbergReference": "45909",
+    "hash": "c805283546bd6b2a69cdc373c35d24b28d36379b444d94d006aea879609a80cf"
   },
   {
     "time": "10:20",
-    "quoteFirst": "I make out the two times as being between ten-fifteen and ",
+    "quoteFirst": "I gave a nervous glance at my watch, and found it nearly ",
     "quoteTime": "ten-twenty",
-    "quoteLast": ", and, allowing for the fact that the big machine did not overtake any car on the Colnbrook by-pass, that puts the time at ten-seventeen.",
-    "title": "The clue of the silver key",
-    "author": "Wallace, Edgar, 1875-1932",
-    "gutenbergReference": "77643",
-    "hash": "4a7f9ae7b95abe4f4e7ead08da2ac9388aa321eb3e3324cbd8088d12df8acf1b"
+    "quoteLast": ".",
+    "title": "The Sack of Monte Carlo: An Adventure of To-day",
+    "author": "Frith, Walter",
+    "gutenbergReference": "50515",
+    "hash": "99cdbc24f6dca81c533e1ed56768936f8a02dbd135471457276ab02638aa02d9"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "Trains left Waterloo for Mortlake at ",
+    "quoteTime": "10.20 a.m.",
+    "quoteLast": ", arriving at 11.47.",
+    "title": "The Life of Captain Sir Richard F. Burton, volume 2 (of 2)\r\nBy His Wife, Isabel Burton",
+    "author": "Burton, Isabel, Lady, 1831-1896",
+    "gutenbergReference": "54846",
+    "hash": "a642ea4acc07acd781f36d90c2c43b20d80a22e877c8d9594cce67a9fb7b309e"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "\"There's a train at ",
+    "quoteTime": "ten-twenty",
+    "quoteLast": ". Can you be ready in five--seven minutes?\"",
+    "title": "The Helpmate",
+    "author": "Sinclair, May, 1863-1946",
+    "gutenbergReference": "17867",
+    "hash": "ea1ea4964f6b0abdfb34ede2e8beac4d39bfe40d979a5eedce5f7c12a96ebd3e"
+  },
+  {
+    "time": "10:20",
+    "quoteFirst": "",
+    "quoteTime": "Ten-twenty",
+    "quoteLast": " in addition, you shall have, if all is done right.",
+    "title": "Complete Project Gutenberg Works of George Meredith",
+    "author": "Meredith, George, 1828-1909",
+    "gutenbergReference": "4500",
+    "hash": "7fad6beabc57a6e69cf34a98c436437bba0517e4f2d78026ae482b22d5eb396d"
   }
 ]

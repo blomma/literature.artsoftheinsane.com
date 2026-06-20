@@ -1,26 +1,6 @@
 [
   {
     "time": "13:12",
-    "quoteFirst": "Searching that area he found at approximately ",
-    "quoteTime": "1:12 p.m.",
-    "quoteLast": " three empty cartridge cases on the floor near the window.",
-    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58031",
-    "hash": "07e9a35f2740a143111810193823881d7ab1660ea8c82c2bf67edb377cb2d9a3"
-  },
-  {
-    "time": "13:12",
-    "quoteFirst": "",
-    "quoteTime": "1.12 p.m.",
-    "quoteLast": "  Electrical stimulation of sciatic nerve cause A RISE ...",
-    "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
-    "author": "Leffingwell, Albert, 1845-1916",
-    "gutenbergReference": "20222",
-    "hash": "c93aa8ea49572e962e6b1c40073ad3916a3bed2d14ab6313367d02659587f6b4"
-  },
-  {
-    "time": "13:12",
     "quoteFirst": "│   │    │     │    │     ",
     "quoteTime": "1.12 pm",
     "quoteLast": " Blow stopped.",
@@ -28,26 +8,6 @@
     "author": "Levy, Donald M.",
     "gutenbergReference": "59328",
     "hash": "e229a8e1894190df2a771e6afd551e338364f273d742cb7dddbfa72edc237271"
-  },
-  {
-    "time": "13:12",
-    "quoteFirst": "My poor dear child breathed her last at ",
-    "quoteTime": "twelve minutes past one",
-    "quoteLast": " o’clock on Friday morning, the 14th.",
-    "title": "The autobiography of Arthur Young",
-    "author": "Young, Arthur, 1741-1820; Betham-Edwards, Matilda, 1836-1919 [Editor]",
-    "gutenbergReference": "73426",
-    "hash": "614118e0290723caca5b6aa4e858a9e5b40ba059e013ecb20a31711c4b1fe0eb"
-  },
-  {
-    "time": "13:12",
-    "quoteFirst": "",
-    "quoteTime": "1.12 p.m.",
-    "quoteLast": "  Electrical stimulation of sciatic nerve cause A RISE ...",
-    "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
-    "author": "Leffingwell, Albert, 1845-1916",
-    "gutenbergReference": "20222",
-    "hash": "c93aa8ea49572e962e6b1c40073ad3916a3bed2d14ab6313367d02659587f6b4"
   },
   {
     "time": "13:12",
@@ -63,11 +23,101 @@
     "time": "13:12",
     "quoteFirst": "At ",
     "quoteTime": "twelve minutes past one",
+    "quoteLast": " the adjutant, Wilde, and myself sat down to lunch.",
+    "title": "Pushed and the Return Push",
+    "author": "Nichols, George Herbert Fosdike",
+    "gutenbergReference": "22324",
+    "hash": "b3157e3d4e179d9cb77ca919db8e92bffecc93ecbda51554dd98d793a5e61ad4"
+  },
+  {
+    "time": "13:12",
+    "quoteFirst": "At ",
+    "quoteTime": "twelve minutes past one",
     "quoteLast": " by the gold hunting repeater, the heir to the barony was acclaimed in triumph from the threshold of Number 300 Eaton Place by five kids and their nannas, who were beginning almost to fear that Uncle Phil had forgotten to call for ’em.",
     "title": "The principal girl",
     "author": "Snaith, J. C. (John Collis), 1876-1936",
     "gutenbergReference": "68069",
     "hash": "583cb93332556524900b66bc81f60d6bd6fa58ecccaf9319f0b5023af54216ff"
+  },
+  {
+    "time": "13:12",
+    "quoteFirst": "All preliminaries having been adjusted the men were delivered at the scratch, the seconds retired to their corners, and at ",
+    "quoteTime": "twelve minutes after one",
+    "quoteLast": " began",
+    "title": "Pugilistica: The History of British Boxing, Volume 2 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-1740, to the Last Championship Battle Between King and Heenan, in December 1863",
+    "author": "Miles, Henry Downes, 1806-1889",
+    "gutenbergReference": "61649",
+    "hash": "4d82f55a048dda90fe46700655a30ecf1e13b6fb03efc059dbb06396c598f657"
+  },
+  {
+    "time": "13:12",
+    "quoteFirst": "Searching that area he found at approximately ",
+    "quoteTime": "1:12 p.m.",
+    "quoteLast": " three empty cartridge cases on the floor near the window.",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "07e9a35f2740a143111810193823881d7ab1660ea8c82c2bf67edb377cb2d9a3"
+  },
+  {
+    "time": "13:12",
+    "quoteFirst": ", arriving in Washington at   ",
+    "quoteTime": "1.12 p. m.",
+    "quoteLast": " Reduced round trip rates have been arranged for on this   line, a dining-car will be attached for our comfort and convenience,   and this is the only train landing us in Washington in time to get to   our quarters at the hotel and be in season for the President’s   Reception.",
+    "title": "The journal of the American-Irish Historical Society, Vol. VIII, 1909",
+    "author": "Various; Lee, Thomas Zanslaur, 1866-1931 [Editor]",
+    "gutenbergReference": "74099",
+    "hash": "a10f8785e7ce3bfd2433554287dcb138fff1ab1b803444d383f2978c978eb407"
+  },
+  {
+    "time": "13:12",
+    "quoteFirst": "At ",
+    "quoteTime": "twelve minutes past one",
+    "quoteLast": " Zaïda’s restlessness again broke into speech.",
+    "title": "A Night in Acadie",
+    "author": "Chopin, Kate, 1850-1904; Hazenplug, Frank, 1874-1931 [Illustrator]; Pape, Eric, 1870-1938 [Illustrator]",
+    "gutenbergReference": "63025",
+    "hash": "f9f8fa8ff63f7da66d47f9d145138618987158de6b4bce33b38e0d9ea55d4129"
+  },
+  {
+    "time": "13:12",
+    "quoteFirst": "At ",
+    "quoteTime": "1:12 p.m.",
+    "quoteLast": " Special Agent Emory Roberts brought the news that President Kennedy was dead.",
+    "title": "Warren Commission (07 of 26): Hearings Vol. VII (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44007",
+    "hash": "d9f3831861fbe1e90916c54464e3e9815b4ab89a6b0d42a3d0f906b9c2da0714"
+  },
+  {
+    "time": "13:12",
+    "quoteFirst": "On May 12th, one Woodpecker flying S.W. past Bell Rock, ",
+    "quoteTime": "1.12 p.m.",
+    "quoteLast": "; strong S.W.; and on 28th, a few Rock Doves at Pentland Skerries; strong S., and fog.",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1883. Fifth Report",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "65609",
+    "hash": "3014d28c96e914fc30cb64134dfa53742604502d910c4c1dba41bc1792e53e6b"
+  },
+  {
+    "time": "13:12",
+    "quoteFirst": "The testimony of Dr. Jackie Hansen Hunt was taken at ",
+    "quoteTime": "1:12 p.m.",
+    "quoteLast": ", on March 24, 1964, at Parkland Memorial Hospital, Dallas, Tex.",
+    "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44006",
+    "hash": "3c52ea65a2fe5b5d4d1247c75c4a9ab5f1ba2280df468fb06772b0b9f82988de"
+  },
+  {
+    "time": "13:12",
+    "quoteFirst": "Now looking down on this log until the next time your number appears, is ",
+    "quoteTime": "1:12 p.m.",
+    "quoteLast": " What does that say?",
+    "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44006",
+    "hash": "d5c9bb94066f521c131c1c6c988bcfc11a6316924789b8da713dd8964c59bec5"
   },
   {
     "time": "13:12",
@@ -81,22 +131,22 @@
   },
   {
     "time": "13:12",
-    "quoteFirst": "At ",
-    "quoteTime": "twelve minutes past one",
-    "quoteLast": " by the gold hunting repeater, the heir to the barony was acclaimed in triumph from the threshold of Number 300 Eaton Place by five kids and their nannas, who were beginning almost to fear that Uncle Phil had forgotten to call for ’em.",
-    "title": "The principal girl",
-    "author": "Snaith, J. C. (John Collis), 1876-1936",
-    "gutenbergReference": "68069",
-    "hash": "583cb93332556524900b66bc81f60d6bd6fa58ecccaf9319f0b5023af54216ff"
+    "quoteFirst": "",
+    "quoteTime": "1.12 p.m.",
+    "quoteLast": "  Electrical stimulation of sciatic nerve cause A RISE ...",
+    "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
+    "author": "Leffingwell, Albert, 1845-1916",
+    "gutenbergReference": "20222",
+    "hash": "c93aa8ea49572e962e6b1c40073ad3916a3bed2d14ab6313367d02659587f6b4"
   },
   {
     "time": "13:12",
-    "quoteFirst": "At ",
-    "quoteTime": "twelve minutes past one",
-    "quoteLast": " the adjutant, Wilde, and myself sat down to lunch.",
-    "title": "Pushed and the Return Push",
-    "author": "Nichols, George Herbert Fosdike",
-    "gutenbergReference": "22324",
-    "hash": "b3157e3d4e179d9cb77ca919db8e92bffecc93ecbda51554dd98d793a5e61ad4"
+    "quoteFirst": "Started for Grand Bahama Banks on _Pelican_ at ",
+    "quoteTime": "1:12 P.M.",
+    "quoteLast": "     Hope to reach Nassau, New Providence, to-morrow after stop on     Grande Banks.",
+    "title": "A Cruise in the Sky; or, The Legend of the Great Pink Pearl",
+    "author": "Sayler, H. L. (Harry Lincoln), 1863-1913; Riesenberg, Sidney H., 1885-1971 [Illustrator]",
+    "gutenbergReference": "57882",
+    "hash": "3a34a343c35e0fe9c3d029a4630df9e3fef5151f27c219dbda6635f333880a73"
   }
 ]

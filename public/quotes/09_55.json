@@ -1,63 +1,63 @@
 [
   {
     "time": "09:55",
-    "quoteFirst": "I'll be here at ",
+    "quoteFirst": "From ",
+    "quoteTime": "9.55 A.M.",
+    "quoteLast": " to 10.50 A.M.",
+    "title": "Stokers and pokers",
+    "author": "Head, Francis Bond, Sir, 1793-1875",
+    "gutenbergReference": "74809",
+    "hash": "b2dc773dcbdee57051fa6c5666a711fcde2ae0ceca85f9b4f9640e68cd5cc3ac"
+  },
+  {
+    "time": "09:55",
+    "quoteFirst": "As the “Oakland” pokes her nose against the San Francisco dock I look at my watch; it is ",
+    "quoteTime": "9.55 A. M.",
+    "quoteLast": ", Pacific time.",
+    "title": "Nine Thousand Miles on a Pullman Train\r\nAn Account of a Tour of Railroad Conductors from Philadelphia to the Pacific Coast and Return",
+    "author": "Shaw, Milton M.",
+    "gutenbergReference": "51341",
+    "hash": "73cd19b4b531534f85de80b7b2560eb44d735d11c4464504dd651f5eb3bea415"
+  },
+  {
+    "time": "09:55",
+    "quoteFirst": "But just about ",
     "quoteTime": "five minutes to ten",
-    "quoteLast": ".",
-    "title": "The Vehement Flame",
-    "author": "Deland, Margaret Wade Campbell, 1857-1945",
-    "gutenbergReference": "15927",
-    "hash": "60beca3038940c3e09ed0944baa9c954f2f75314839cc861fc00e5e5506d1f94"
+    "quoteLast": ", before the Stock Exchange opened, the news came in over the wire from our financial man on Broad Street: \"The System has forced James Bruce, partner of Kerr Parker, the dead banker, to sell his railroad, steamship, and rubber holdings to it. On this condition it promises unlimited support to the market.\"",
+    "title": "Master Tales of Mystery, Volume 3",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Compiler]",
+    "gutenbergReference": "11949",
+    "hash": "809c5c8a59a4e2b74811c65f94c132dae3e45d672f82cee5256e477ec5110d7c"
   },
   {
     "time": "09:55",
-    "quoteFirst": "One Friday night in the middle of November, at ",
-    "quoteTime": "five minutes before ten",
-    "quoteLast": ", the bugles in Bancroft Hall rang out their customary discordant warnings that all midshipmen were to repair to their rooms immediately.",
-    "title": "An Annapolis First Classman",
-    "author": "Beach, Edward L. (Edward Latimer), 1867-1943; Merrill, Frank T., 1848-1923 [Illustrator]",
-    "gutenbergReference": "40368",
-    "hash": "639bee6b652234b2b0ed61e9f85d2795e3330dff5e3f7a43505df420661d3cee"
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes to ten",
+    "quoteLast": ",\" said he.",
+    "title": "The Watchers: A Novel",
+    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+    "gutenbergReference": "38693",
+    "hash": "3ad487c88a1fd459900bcfb522b1374d5778a59a96387c878d60223ae01d4f64"
   },
   {
     "time": "09:55",
-    "quoteFirst": "The correct time is ",
+    "quoteFirst": "Only ",
     "quoteTime": "five minutes to ten",
-    "quoteLast": ".\"",
-    "title": "Self-Doomed: A Novel",
-    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
-    "gutenbergReference": "53096",
-    "hash": "e92d6ea2f7277a2780afb0344ef55777e953a3dcdfbaaaa0503b7f4e403d7c25"
+    "quoteLast": " now!",
+    "title": "The Young O'Briens: Being an Account of Their Sojourn in London",
+    "author": "Westrup, Margaret",
+    "gutenbergReference": "45324",
+    "hash": "2f44ba8ff576a9b1740e88279e31e3f1cdb13917b3bdc520b28c9a87bac3ed9b"
   },
   {
     "time": "09:55",
-    "quoteFirst": "Now, although the doctor had said that the school we were to visit was in Arlington, which I knew to be some distance out of the city, and that the examination would take place at ten o'clock, he continued to sit comfortably in his chair, though the time was ",
-    "quoteTime": "five minutes of ten",
-    "quoteLast": ".",
-    "title": "Equality",
-    "author": "Bellamy, Edward, 1850-1898",
-    "gutenbergReference": "7303",
-    "hash": "9b386af9b22907b19da2b132f7b3c5241fe429e0a0a158600c7dd939e7f0f7bd"
-  },
-  {
-    "time": "09:55",
-    "quoteFirst": "It was ",
-    "quoteTime": "five minutes to ten",
-    "quoteLast": ".",
-    "title": "The Black Box",
-    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
-    "gutenbergReference": "17197",
-    "hash": "fc7e64f14d68fdfd3a4c15a5d0ace7b19777a5cc6818f183e7b1d6ca42378a86"
-  },
-  {
-    "time": "09:55",
-    "quoteFirst": "The airship, however, struggled on, and though at one time the possibility of landing at Montauk, at the northern end of Long Island, was considered, she managed after a night of considerable anxiety to reach Mineola and land there in safety on July 6th at ",
-    "quoteTime": "9.55 a.m.",
-    "quoteLast": " (British summer time).",
-    "title": "British Airships, Past, Present, and Future",
-    "author": "Whale, George",
-    "gutenbergReference": "762",
-    "hash": "d09c9d14e9097da4f96fdd183ceae98b59b8a41d69b72a697aded3d5ad33b402"
+    "quoteFirst": "Now the customary hour for dining in those days was from ",
+    "quoteTime": "five to ten in the morning",
+    "quoteLast": ", changing a little with the seasons.",
+    "title": "The Stones of Paris in History and Letters, Volume 2 (of 2)",
+    "author": "Martin, Benjamin Ellis, 1839-1909; Martin, Charlotte M.",
+    "gutenbergReference": "42367",
+    "hash": "327ef028244a4a944a30f4e0b39c082d3cac840c89d5dfb44effe33a061095ed"
   },
   {
     "time": "09:55",
@@ -71,32 +71,132 @@
   },
   {
     "time": "09:55",
-    "quoteFirst": "The time was ",
-    "quoteTime": "five minutes of ten",
-    "quoteLast": ", and he had been married about an hour and a half.",
-    "title": "One Wonderful Night: A Romance of New York",
-    "author": "Tracy, Louis, 1863-1928",
-    "gutenbergReference": "19707",
-    "hash": "bb9cf3a93391ec90eac68cbf5437f183fcbed295e8f8fa22317e57131a1e56ce"
-  },
-  {
-    "time": "09:55",
-    "quoteFirst": "It wanted ",
+    "quoteFirst": "He looked at the clock--it was ",
     "quoteTime": "five minutes to ten",
     "quoteLast": ".",
-    "title": "The Clue of the Twisted Candle",
-    "author": "Wallace, Edgar, 1875-1932",
-    "gutenbergReference": "2688",
-    "hash": "17bdb580f1090f49d4b958ea74a849b8e9929abc40b75846de20e86a57b2dd83"
+    "title": "Donovan Pasha, and Some People of Egypt — Complete",
+    "author": "Parker, Gilbert, 1862-1932",
+    "gutenbergReference": "6260",
+    "hash": "8859425f3e99a8ea4b9c5ef62da0c1091b0f59ad6809ecc97ded33ff2377f108"
   },
   {
     "time": "09:55",
-    "quoteFirst": "We advanced at about three miles within the hour or rather more, and travelled from half-past ",
-    "quoteTime": "five to ten in the morning",
-    "quoteLast": ", and in the afternoon from two, or half-past two, to six o’clock.",
-    "title": "Travels in Brazil",
-    "author": "Koster, Henry, 1793-1820?",
-    "gutenbergReference": "48960",
-    "hash": "5b5c9309eb4c61a19e11462f314764d2e76bd193fef585e57c209a1273baac29"
+    "quoteFirst": "Only ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": " now!",
+    "title": "The Young O'Briens: Being an Account of Their Sojourn in London",
+    "author": "Westrup, Margaret",
+    "gutenbergReference": "45324",
+    "hash": "2f44ba8ff576a9b1740e88279e31e3f1cdb13917b3bdc520b28c9a87bac3ed9b"
+  },
+  {
+    "time": "09:55",
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes to ten",
+    "quoteLast": ",\" said he.",
+    "title": "The Watchers: A Novel",
+    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+    "gutenbergReference": "38693",
+    "hash": "3ad487c88a1fd459900bcfb522b1374d5778a59a96387c878d60223ae01d4f64"
+  },
+  {
+    "time": "09:55",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes before ten",
+    "quoteLast": " a bugle call was heard, and both Ralph and Creelton got into their beds.",
+    "title": "Ralph Osborn, Midshipman at Annapolis: A Story of Life at the U.S. Naval Academy",
+    "author": "Beach, Edward L. (Edward Latimer), 1867-1943; Merrill, Frank T., 1848-1923 [Illustrator]",
+    "gutenbergReference": "61610",
+    "hash": "805b58ca82e1896755d863f6fa06d83cdcb63567b1b0b114232ecc20b391192b"
+  },
+  {
+    "time": "09:55",
+    "quoteFirst": "That train leaves at ten-thirty and it is ",
+    "quoteTime": "five minutes of ten",
+    "quoteLast": " now.",
+    "title": "Frank Armstrong at College",
+    "author": "Colton, Matthew M., 1859-1925; Scott, A. O. (Arthur Orange), 1882?-1946 [Illustrator]",
+    "gutenbergReference": "47966",
+    "hash": "6ef950b614e3acfdf5a786419e5d7c743458d49ae81d12dcadea0bcc8d9cecc4"
+  },
+  {
+    "time": "09:55",
+    "quoteFirst": "He looked at the clock--it was ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": ".",
+    "title": "The Project Gutenberg Complete Works of Gilbert Parker",
+    "author": "Parker, Gilbert, 1862-1932",
+    "gutenbergReference": "6300",
+    "hash": "03fe8aea4f2f62094fa63a2e5c5bd1acf6e07dd3739106b3f12ab6077f8524bb"
+  },
+  {
+    "time": "09:55",
+    "quoteFirst": "",
+    "quoteTime": "Five minutes to ten",
+    "quoteLast": ", he will be late.",
+    "title": "Monsieur, Madame, and Bébé — Volume 02",
+    "author": "Droz, Gustave, 1832-1895",
+    "gutenbergReference": "3924",
+    "hash": "3fb9e04571e75ab51164d75637b0e8d59c2e5e7a35b16a97518014062f630147"
+  },
+  {
+    "time": "09:55",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": " by the wristlet watch there came a cough from the other side of the ground sheet, and Dan picked himself up.",
+    "title": "With Haig on the Somme",
+    "author": "Parry, D. H.; Webb, Archibald, 1887-1944 [Illustrator]",
+    "gutenbergReference": "26982",
+    "hash": "99e5377bc898bb95da34c34d8679b3b94022a966e9439d3325b59c75f127ef0e"
+  },
+  {
+    "time": "09:55",
+    "quoteFirst": "You, whom I expected last, you arrive at ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": ", when the time fixed was half-past!",
+    "title": "The Count of Monte Cristo",
+    "author": "Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888",
+    "gutenbergReference": "1184",
+    "hash": "f05a17dbd6e94bd120b2a9840a97d7c1cffa70efcc46f9058c751f9cded07741"
+  },
+  {
+    "time": "09:55",
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes to ten",
+    "quoteLast": ".  Let us go below,\" and down we went.",
+    "title": "A Marriage at Sea",
+    "author": "Russell, William Clark, 1844-1911",
+    "gutenbergReference": "32516",
+    "hash": "040480fc2e04dfb3e900543edd2635712be5e0532fccdde2f93a4bc8e78dbd31"
+  },
+  {
+    "time": "09:55",
+    "quoteFirst": "He looked at the clock--it was ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": ".",
+    "title": "Donovan Pasha, and Some People of Egypt — Complete",
+    "author": "Parker, Gilbert, 1862-1932",
+    "gutenbergReference": "6260",
+    "hash": "8859425f3e99a8ea4b9c5ef62da0c1091b0f59ad6809ecc97ded33ff2377f108"
+  },
+  {
+    "time": "09:55",
+    "quoteFirst": "I wrote down on February 15, June's birthday, ",
+    "quoteTime": "9:55 a.m.",
+    "quoteLast": ", Minsk.",
+    "title": "Warren Commission (09 of 26): Hearings Vol. IX (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44009",
+    "hash": "2cfb55cb456134382fa5997ff220326452540e2e7a54d4a5fd61e68a3385e6f5"
+  },
+  {
+    "time": "09:55",
+    "quoteFirst": "But just about ",
+    "quoteTime": "five minutes to ten",
+    "quoteLast": ", before the Stock Exchange opened, the news came in over the wire from our financial man on Broad Street: \"The System has forced James Bruce, partner of Kerr Parker, the dead banker, to sell his railroad, steamship, and rubber holdings to it. On this condition it promises unlimited support to the market.\"",
+    "title": "Master Tales of Mystery, Volume 3",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Compiler]",
+    "gutenbergReference": "11949",
+    "hash": "809c5c8a59a4e2b74811c65f94c132dae3e45d672f82cee5256e477ec5110d7c"
   }
 ]

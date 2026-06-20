@@ -1,13 +1,43 @@
 [
   {
     "time": "17:25",
-    "quoteFirst": "It was only ",
-    "quoteTime": "twenty-five minutes past five",
+    "quoteFirst": ", sets at ",
+    "quoteTime": "5:25 p. m.",
+    "quoteLast": "; on the 16th, rises at 4:56 a.",
+    "title": "The Chautauquan, Vol. 05, April 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55061",
+    "hash": "73ca71ef792e26dd781ad3f1808afd5696acd4265b1c85049875ab45613b045f"
+  },
+  {
+    "time": "17:25",
+    "quoteFirst": "The time was ",
+    "quoteTime": "twenty-five past five",
     "quoteLast": ".",
-    "title": "White nights, and other stories",
-    "author": "Dostoyevsky, Fyodor, 1821-1881; Garnett, Constance, 1861-1946 [Translator]",
-    "gutenbergReference": "36034",
-    "hash": "56a2f0322502a2b31bc9c15e01e61988e9a8ca8496aee3e42ad406d6bc6e7408"
+    "title": "Mike",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "7423",
+    "hash": "712aab04f54b591b0d02ab94028b87fab56a1c19db7bbca96d5ae9250a651926"
+  },
+  {
+    "time": "17:25",
+    "quoteFirst": "She was ready to engage, and at ",
+    "quoteTime": "5:25 P.M.",
+    "quoteLast": " action opened; fourteen minutes later the _Peacock_ was a prize and sinking.",
+    "title": "The American Navy",
+    "author": "Chadwick, French Ensor, 1844-1919",
+    "gutenbergReference": "67270",
+    "hash": "ec15ca468c0f29888262037be0abeefd7780620b503091fa52f83f930a4fe7f7"
+  },
+  {
+    "time": "17:25",
+    "quoteFirst": ", sets at ",
+    "quoteTime": "5:25 p. m.",
+    "quoteLast": " Motion direct and amounts to 22° 25´ 38´´; diameter, 4.2´´; on 7th, at 9:00 a.",
+    "title": "The Chautauquan, Vol. 05, March 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55060",
+    "hash": "bcd537dd79926de57319d9165a9920acf88ab3f7b6c04389d22358cc5211cbf6"
   },
   {
     "time": "17:25",
@@ -21,63 +51,73 @@
   },
   {
     "time": "17:25",
-    "quoteFirst": ", sticking close to the artillery barrage, had again advanced at ",
-    "quoteTime": "5.25 p.m.",
-    "quoteLast": " and gained their final objective.",
-    "title": "The 56th Division (1st London Territorial Division)",
-    "author": "Dudley Ward, C. H. (Charles Humble), 1879-1945; Horne, Henry, 1861-1929 [Author of introduction, etc.]",
-    "gutenbergReference": "50379",
-    "hash": "0c2e328a80a6f35b9f246d100770b8efb67f49d30459d8a584f339c036a264f9"
-  },
-  {
-    "time": "17:25",
-    "quoteFirst": "",
-    "quoteTime": "Twenty-five minutes after five",
-    "quoteLast": ", remember, punctual.",
-    "title": "Oswald Cray: A Novel",
-    "author": "Wood, Henry, Mrs., 1814-1887",
-    "gutenbergReference": "58188",
-    "hash": "ed0bffb549d8053a2a279f49b896cb5951586118ea22907a6de2719edc0b6198"
-  },
-  {
-    "time": "17:25",
-    "quoteFirst": ", arrives at Trenton Falls ",
-    "quoteTime": "5.25 p. m.",
-    "quoteLast": ", Lowville 7.00   p.",
-    "title": "\"Chicago to the Sea.\" Eastern Excursionist\r\nA complete guide to the principal eastern summer resorts, including: Niagara Falls, the White Mountains, Saint Lawrence and Saguenay Rivers, Montreal and Quebec, the New England sea beaches, etc., and how and when to enjoy them.",
-    "author": "Gage, William C.",
-    "gutenbergReference": "49894",
-    "hash": "f6437317aa311917e0eaca0149a1bd9d25e69adf94e85553ec43bdc73177ab1c"
-  },
-  {
-    "time": "17:25",
-    "quoteFirst": ", set at ",
+    "quoteFirst": ", and sets at ",
     "quoteTime": "5:25 p. m.",
-    "quoteLast": "",
-    "title": "The Chautauquan, Vol. 05, February 1885",
+    "quoteLast": "; and on the 31st, rises at 8:11 a.",
+    "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55053",
-    "hash": "d3fbd576aeb80b1726ce4c00e412ded8493c245c291f9d4cd8b01046539fd8f6"
+    "gutenbergReference": "55250",
+    "hash": "19597ced554c8f138db04731092329215353eb4cecf8e6b4768fd9a9b7b92724"
   },
   {
     "time": "17:25",
-    "quoteFirst": "At ",
-    "quoteTime": "5:25 P.M.",
-    "quoteLast": " the Electra touched down.",
-    "title": "Daughter of the sky",
-    "author": "Briand, Paul L., Jr., 1920-1986",
-    "gutenbergReference": "70263",
-    "hash": "708e3d9015c473d811ddbc4ee47c48996650526c66fc276172ed74bb27719367"
-  },
-  {
-    "time": "17:25",
-    "quoteFirst": "Then, if his calculation was right, at twenty-four or ",
-    "quoteTime": "twenty-five minutes after five",
-    "quoteLast": " he must pass before the lodge, which should still be empty at that moment.",
-    "title": "The Immortals: Masterpieces of Fiction, Crowned by the French Academy — Complete",
+    "quoteFirst": "REICH SECURITY MAIN OFFICE                              Communication Communication No. 11194                                           Urgent RFSS Munich—Teletype No. 2020, 20 October 1942, ",
+    "quoteTime": "5:25 p. m.",
+    "quoteLast": " To: SS Obersturmbannfuehrer Dr. Brandt Field Command Post [Feldkommandostelle] Hegewald Highly esteemed Obersturmbannfuehrer:",
+    "title": "Trials of war criminals before the Nuernberg military tribunals under control council law no. 10, volume I",
     "author": "Various",
-    "gutenbergReference": "4000",
-    "hash": "f625624e4b3488e7f3b83c36a479a2a415bbf173e00f28a5a6f31ba1b683dcdf"
+    "gutenbergReference": "54899",
+    "hash": "d5e895d381d91795137f6b4ea5485b053cf934f3fbc3150d9f8e4804b1b77f88"
+  },
+  {
+    "time": "17:25",
+    "quoteFirst": "On seeing this, the firing ceased, and at ",
+    "quoteTime": "twenty-five minutes past five",
+    "quoteLast": ", she surrendered.",
+    "title": "Great Events in the History of North and South America",
+    "author": "Goodrich, Charles A. (Charles Augustus), 1790-1862",
+    "gutenbergReference": "42410",
+    "hash": "387d7bc9502b8341c5ebeeddbc360b8ebf2b3350ce0baeb7ba9862c5a2b1da2a"
+  },
+  {
+    "time": "17:25",
+    "quoteFirst": "I kept as sharp a look out as any man with only one pair of eyes could, right away from ten minutes to two until ",
+    "quoteTime": "five-and-twenty past five",
+    "quoteLast": ", when the boat sailed, but she never turned up.",
+    "title": "The Charing Cross Mystery",
+    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
+    "gutenbergReference": "59893",
+    "hash": "01e12570973e91457e599f97e9945932a9f04d30f3929c071b0689367936cfa2"
+  },
+  {
+    "time": "17:25",
+    "quoteFirst": "It’s ",
+    "quoteTime": "twenty-five past five",
+    "quoteLast": ", and I told John we’d get away by six.”",
+    "title": "Harilek",
+    "author": "Gompertz, Martin Louis Alan, 1886-1951",
+    "gutenbergReference": "70913",
+    "hash": "81bed96d3e2696618d87056bbc463f468aa72c0d91c23de2dc535841076c7763"
+  },
+  {
+    "time": "17:25",
+    "quoteFirst": "Remained in      theatre till ",
+    "quoteTime": "5.25 P.M.",
+    "quoteLast": " fitting costume.",
+    "title": "Memoirs of an American Prima Donna",
+    "author": "Kellogg, Clara Louise, 1842-1916",
+    "gutenbergReference": "38023",
+    "hash": "6d4a563107a9ca4969fe69ce32fcc23d0bc403e6179f0ae80f8721193a417df6"
+  },
+  {
+    "time": "17:25",
+    "quoteFirst": "She said that the afternoon train reached London at ",
+    "quoteTime": "twenty-five minutes past five",
+    "quoteLast": ", which would give me thirty-five minutes to take a taxi to my flat, get the necklace, and catch the return express at six o'clock.",
+    "title": "The Hand in the Dark",
+    "author": "Rees, Arthur J. (Arthur John), 1872-1942",
+    "gutenbergReference": "20546",
+    "hash": "69ffa499ebdc6503eb499ddefda80d4003f089a517725e353bbb8c1fa8e9d54c"
   },
   {
     "time": "17:25",
@@ -91,12 +131,72 @@
   },
   {
     "time": "17:25",
-    "quoteFirst": ", and sets at ",
+    "quoteFirst": "Then, if his calculation was right, at twenty-four or ",
+    "quoteTime": "twenty-five minutes after five",
+    "quoteLast": " he must pass before the lodge, which should still be empty at that moment.",
+    "title": "Conscience — Complete",
+    "author": "Malot, Hector, 1830-1907",
+    "gutenbergReference": "3990",
+    "hash": "4734b301f8f1884b7116210284034469dc05744a67b0b1728fa82e899cc767f4"
+  },
+  {
+    "time": "17:25",
+    "quoteFirst": "respectively in the sections directly west and east of the Greenwich section; and 1:25 and ",
     "quoteTime": "5:25 p. m.",
-    "quoteLast": "; and on the 31st, rises at 8:11 a.",
-    "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
+    "quoteLast": " respectively in the next adjoining sections; and so on.",
+    "title": "The Chautauquan, Vol. 04, January 1884\r\nA Monthly Magazine Devoted to the Promotion of True Culture.\r\nOrgan of the Chautauqua Literary and Scientific Circle.",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55250",
-    "hash": "19597ced554c8f138db04731092329215353eb4cecf8e6b4768fd9a9b7b92724"
+    "gutenbergReference": "53652",
+    "hash": "c037f5432acc6ca2c8fa77f0c0dbdfbeae066622dc51fae82841406a312d4084"
+  },
+  {
+    "time": "17:25",
+    "quoteFirst": "It was only ",
+    "quoteTime": "twenty-five minutes past five",
+    "quoteLast": ".",
+    "title": "White nights, and other stories",
+    "author": "Dostoyevsky, Fyodor, 1821-1881; Garnett, Constance, 1861-1946 [Translator]",
+    "gutenbergReference": "36034",
+    "hash": "56a2f0322502a2b31bc9c15e01e61988e9a8ca8496aee3e42ad406d6bc6e7408"
+  },
+  {
+    "time": "17:25",
+    "quoteFirst": ", sets at ",
+    "quoteTime": "5:25 p. m.",
+    "quoteLast": "; on the 16th, rises at 4:56 a.",
+    "title": "The Chautauquan, Vol. 05, April 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55061",
+    "hash": "73ca71ef792e26dd781ad3f1808afd5696acd4265b1c85049875ab45613b045f"
+  },
+  {
+    "time": "17:25",
+    "quoteFirst": "—Letters from all parts arrive every morning at eight, and are despatched at ",
+    "quoteTime": "twenty-five minutes past five",
+    "quoteLast": " in the evening.",
+    "title": "Slater's [1859] Shropshire Directory",
+    "author": "Slater, I. (Isaac), 1803-1883",
+    "gutenbergReference": "60729",
+    "hash": "6b2a925f8c4eac7cb37bba169bb602125c33c8b4ea4a9e55fc39cea229268ac2"
+  },
+  {
+    "time": "17:25",
+    "quoteFirst": "At ",
+    "quoteTime": "5.25 p.m.",
+    "quoteLast": " the machine was started, at first slowly and then at an increased speed; after 250 or 300 metres, the two men who were being dragged by the apparatus were exhausted and forced to fall flat on the ground in order to allow the wings to pass over them, and the trip around the track was completed, a total of 1,400 metres, without incident, at a fair speed, which could be estimated to be from 300 to 400 metres per minute.",
+    "title": "A History of Aeronautics",
+    "author": "Vivian, Evelyn Charles, 1882-1947; Marsh, W. Lockwood (William Lockwood), 1886-1963",
+    "gutenbergReference": "874",
+    "hash": "6c47bac78d556a8844e5d99693077bde224629838fb3af9d4e74408eef05932d"
+  },
+  {
+    "time": "17:25",
+    "quoteFirst": "It was only ",
+    "quoteTime": "twenty-five minutes past five",
+    "quoteLast": ".",
+    "title": "White nights, and other stories",
+    "author": "Dostoyevsky, Fyodor, 1821-1881; Garnett, Constance, 1861-1946 [Translator]",
+    "gutenbergReference": "36034",
+    "hash": "56a2f0322502a2b31bc9c15e01e61988e9a8ca8496aee3e42ad406d6bc6e7408"
   }
 ]

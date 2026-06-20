@@ -1,6 +1,16 @@
 [
   {
     "time": "12:26",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty-six minutes after twelve",
+    "quoteLast": " when I left that dining-room, and several waitresses were still struggling with their over-abundance of cut flowers and potted plants.",
+    "title": "Four Years in the Underbrush: Adventures as a Working Woman in New York",
+    "author": "Anonymous",
+    "gutenbergReference": "57480",
+    "hash": "9ff2114d20724bbed3aaa5d4953db174eec121efbe975f3ec309e469b0e72287"
+  },
+  {
+    "time": "12:26",
     "quoteFirst": "Train leaves North Philadelphia Station ",
     "quoteTime": "12.26 p. m.",
     "quoteLast": " for Queen Lane Station.",

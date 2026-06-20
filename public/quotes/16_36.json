@@ -1,6 +1,16 @@
 [
   {
     "time": "16:36",
+    "quoteFirst": "“Last Friday afternoon, between half-past ",
+    "quoteTime": "four and twenty minutes to five",
+    "quoteLast": ", your servant Sarah Gooch was seen to give the contents of a black bag to a man in Beaconsburgh. The fact excited no suspicion. The man took the next train to London, travelling second-class. But south of Colchester he was seized with a fit; he was taken out at the next station, the bag he had with him examined for his address, jewels found in it, and the police at Scotland Yard communicated with. The man escaped; but, on inquiries being made, witnesses were found to prove conclusively that the biscuit-tin which contained the jewel had been handed to him in a street in Beaconsburgh, on Friday afternoon, between half-past four and twenty minutes to five, by a woman who was identified as Sarah Gooch.”",
+    "title": "The house on the marsh",
+    "author": "Warden, Florence, 1857-1929",
+    "gutenbergReference": "71788",
+    "hash": "2e2f5900403a35fd80b22d47dd0b5c6fc575342d26a2be107772b051202c752b"
+  },
+  {
+    "time": "16:36",
     "quoteFirst": "The man escaped; but, on inquiries being made, witnesses were found to prove conclusively that the biscuit-tin which contained the jewel had been handed to him in a street in Beaconsburgh, on Friday afternoon, between half-past ",
     "quoteTime": "four and twenty minutes to five",
     "quoteLast": ", by a woman who was identified as Sarah Gooch.”",
@@ -21,12 +31,42 @@
   },
   {
     "time": "16:36",
-    "quoteFirst": "9.50 to 9.57 a.m. 10.07 to 10.14 a.m. 11.03 to 11.16 a.m. Noon to 12.03 p.m. 12.58 to 1.11 p.m. 2.51 to 3.04 p.m. 3.55 to 4.08 p.m. 4.09 to 4.22 p.m. 4.23 to ",
+    "quoteFirst": "It was high water, on the full and change of the moon, at ",
+    "quoteTime": "thirty-six minutes past four",
+    "quoteLast": ", and the greatest rise was five feet eight inches.",
+    "title": "The Three Voyages of Captain Cook Round the World. Vol. VII. Being the Third of the Third Voyage",
+    "author": "King, James, 1750-1784",
+    "gutenbergReference": "62659",
+    "hash": "3e4866a1f8bb1ea8159be826a4bdb087375b6d9d5f546c86258a0081d69007a3"
+  },
+  {
+    "time": "16:36",
+    "quoteFirst": "9.11 to 9.24 a.m. 9.34 to 9.41 a.m. 9.50 to 9.57 a.m. 10.07 to 10.14 a.m. 11.03 to 11.16 a.m. Noon to 12.03 p.m. 12.58 to 1.11 p.m. 2.51 to 3.04 p.m. 3.55 to 4.08 p.m. 4.09 to 4.22 p.m. 4.23 to ",
     "quoteTime": "4.36 p.m.",
-    "quoteLast": " 19·4 22·7 25·3 26·5 26·3 26·4 27·6 23·0 17·6",
+    "quoteLast": " 19·4 22·7 25·3 26·5 26·3 26·4 27·6 23·0 17·6 15·5 12·0 69·0 81·0 87·5 91·5 89·0 90·0 94·0 93·0 91·5 93·5 93·7 16·4706 16·5937 17·3558 17·5695 17·5251 17·8144 17·9676 15·0880 11·6688 11·0215   7·8360",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "0fdeda5d958292de2ca40a371e7719c982748a757bb86e8b5c47a9cfff72f563"
+    "hash": "551cece8d68b36e4f25b1521a7d447e53bfa3bb26a066f76b05763f86f355471"
+  },
+  {
+    "time": "16:36",
+    "quoteFirst": "(Reporter’s note: ",
+    "quoteTime": "4:36 p.m.",
+    "quoteLast": ")",
+    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "56190",
+    "hash": "249e32935940440904d00c5491630577516c635375f366a0d889866ffe379af4"
+  },
+  {
+    "time": "16:36",
+    "quoteFirst": "It was high water, on the full and change of the moon, at ",
+    "quoteTime": "thirty-six minutes past four",
+    "quoteLast": ", and the greatest rise was five feet eight inches.",
+    "title": "A General History and Collection of Voyages and Travels, Volume 17\nArranged in Systematic Order: Forming a Complete History\nof the Origin and Progress of Navigation, Discovery, and\nCommerce, by Sea and Land, from the Earliest Ages to the\nPresent Time",
+    "author": "Kerr, Robert, 1755-1813",
+    "gutenbergReference": "15425",
+    "hash": "ec23b7cce76aa79e5827deb66bd8fbc347db845064d1031cca92de39fcead0dd"
   }
 ]

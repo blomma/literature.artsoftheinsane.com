@@ -41,13 +41,23 @@
   },
   {
     "time": "20:27",
-    "quoteFirst": "It was ",
+    "quoteFirst": "(Reporter’s note: ",
+    "quoteTime": "8:27 p.m.",
+    "quoteLast": ")",
+    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "56190",
+    "hash": "0a4adcb3cb2d4c4a51a2b9685a7fa25d895a1d69c89f25812d8a8090098d25e0"
+  },
+  {
+    "time": "20:27",
+    "quoteFirst": "She did not dare look at the clock, but after a while, when she did so, she found it was ",
     "quoteTime": "twenty-seven minutes after eight",
-    "quoteLast": " o’clock.",
-    "title": "In a Yellow Wood",
-    "author": "Vidal, Gore, 1925-2012",
-    "gutenbergReference": "66940",
-    "hash": "1d3b1c40c364e163d3a9dda37e72eeecae15d7245b12c75333c73ce1713bd5c8"
+    "quoteLast": ".",
+    "title": "The Debtor: A Novel",
+    "author": "Freeman, Mary Eleanor Wilkins, 1852-1930; Stevens, William Dodge, 1870-1942 [Illustrator]",
+    "gutenbergReference": "17793",
+    "hash": "c28f5210e3bb38c7a16e754f344bc06723e479aa58876548e927f0627346bd5f"
   },
   {
     "time": "20:27",

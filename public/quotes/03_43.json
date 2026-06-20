@@ -1,6 +1,16 @@
 [
   {
     "time": "03:43",
+    "quoteFirst": "8.11 A. M.—From Admiral Knapp at London: “Following received from U. S. S. _George Washington_: ‘From U. S. S. _Stockton_, NC-4 passed station two at 07.43 (",
+    "quoteTime": "3.43 A. M.",
+    "quoteLast": " New York time).’”",
+    "title": "Aircraft",
+    "author": "David, Evan John, 1877-1961",
+    "gutenbergReference": "74358",
+    "hash": "54d8b011ef866607166e0755beb367f801d0e92249910e7eed5b57fc8db1005c"
+  },
+  {
+    "time": "03:43",
     "quoteFirst": "Our earliest sunrise is at ",
     "quoteTime": "43 minutes past 3",
     "quoteLast": ", theirs at 24 minutes past 4; our latest sunset is at 17 minutes past 8, theirs at 36 minutes past 7.",
@@ -28,5 +38,15 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55251",
     "hash": "98aa5efa65046fb8ea88e8b17c8f6ba1db019145c8aa57013aff7f00ef44a89f"
+  },
+  {
+    "time": "03:43",
+    "quoteFirst": "Bok wondered how he should, as it then lacked only ",
+    "quoteTime": "seventeen minutes of four",
+    "quoteLast": ".",
+    "title": "The Americanization of Edward Bok\r\nThe Autobiography of a Dutch Boy Fifty Years After",
+    "author": "Bok, Edward William, 1863-1930",
+    "gutenbergReference": "3538",
+    "hash": "73050884aeea9f5631a23b0d535fa6c7b790bf3c14fa8c46ac8f25e78c09d22d"
   }
 ]

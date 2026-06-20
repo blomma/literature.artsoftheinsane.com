@@ -1,102 +1,202 @@
 [
   {
     "time": "19:30",
-    "quoteFirst": "I lived well and enjoyed myself, being a hearty man, noways a drunkard, working every day from half-past five in the morning till ",
-    "quoteTime": "half-past seven",
-    "quoteLast": " at night--long hours, that time, master.",
-    "title": "London Labour and the London Poor, Vol. 3",
-    "author": "Mayhew, Henry, 1812-1887",
-    "gutenbergReference": "57060",
-    "hash": "ba02cc7acb855f76f1f74b3bbbebc9b6603925278d94ec68896ad836db60bc87"
-  },
-  {
-    "time": "19:30",
-    "quoteFirst": "They had been up with the sun: by ",
-    "quoteTime": "half-past seven",
-    "quoteLast": " it was time to put the self-binder to bed in the field; by eight, or soon after, many were in bed themselves.",
-    "title": "'Murphy': A Message to Dog Lovers",
-    "author": "Gambier-Parry, Ernest, 1853-1936",
-    "gutenbergReference": "25763",
-    "hash": "631a5e2881b866af4bf76cef9a3f8d76aade195ab9954104075cd8bb58edcdc8"
-  },
-  {
-    "time": "19:30",
-    "quoteFirst": "It was already ",
-    "quoteTime": "half-past seven",
-    "quoteLast": ", and Irene, dressed for dinner,       was seated in the drawing-room.",
-    "title": "The Forsyte Saga - Complete",
-    "author": "Galsworthy, John, 1867-1933",
-    "gutenbergReference": "4397",
-    "hash": "11d74332c2f3c99ec789b655a5a9df75b52e61dfe4105f2fd5226019e4037f7c"
-  },
-  {
-    "time": "19:30",
     "quoteFirst": "At ",
     "quoteTime": "half-past seven",
-    "quoteLast": ", the hour set for the meeting, the hall was filled to the doors.",
-    "title": "The Spirit of the School",
-    "author": "Barbour, Ralph Henry, 1870-1944",
-    "gutenbergReference": "54190",
-    "hash": "cd2cba4eb2a1e580a95fb42c5362dfec9d8d337fe0fe5ab7670df1c75da9e5f1"
+    "quoteLast": " comes a transition period.",
+    "title": "\"Erb\"",
+    "author": "Ridge, W. Pett (William Pett), 1859-1930",
+    "gutenbergReference": "56029",
+    "hash": "a0146c9350b55c7afdb99a5403a1d0e9ed32ad396e88955be1fb56078a184691"
   },
   {
     "time": "19:30",
-    "quoteFirst": "This was done, and the division took position on the right of the cavalry early next morning; Chaffee’s Brigade arriving first, about ",
+    "quoteFirst": "The Parisians had been on the ground in great numbers from noon and waited patiently for hours; but, unfortunately, the train was behind time, the evening became dark and cold, and when at length her Majesty appeared at ",
     "quoteTime": "half-past seven",
-    "quoteLast": ", and the other brigades before noon.",
-    "title": "History of the Gatling Gun Detachment, Fifth Army Corps, at Santiago\r\nWith a Few Unvarnished Truths Concerning that Expedition",
-    "author": "Parker, John H. (John Henry), 1866-1942",
-    "gutenbergReference": "6888",
-    "hash": "ceb9e9262eee54be95da88d2c085f9d4c8a60f874c92c9d24ed94bccc176340b"
+    "quoteLast": ", the demonstration was shorn of much of its splendour.",
+    "title": "Cassell's History of England, Vol. 6 (of 8)\r\nFrom the Death of Sir Robert Peel to the Illness of the Prince of Wales",
+    "author": "Anonymous",
+    "gutenbergReference": "61502",
+    "hash": "8639676e64c60647f7c3e392b849ea763fed644d6dca6f2ded507c022d2c648b"
   },
   {
     "time": "19:30",
-    "quoteFirst": "“Never gets here before nine; and it’s not ",
+    "quoteFirst": "\"I caught the ",
+    "quoteTime": "seven-thirty",
+    "quoteLast": ".\"",
+    "title": "Sons and Lovers",
+    "author": "Lawrence, D. H. (David Herbert), 1885-1930; Macy, John Albert, 1877-1932 [Author of introduction, etc.]",
+    "gutenbergReference": "47634",
+    "hash": "62582caf68f1af81ea82811df38f216e720f0072daed377db866fb20ad05654c"
+  },
+  {
+    "time": "19:30",
+    "quoteFirst": "\"Well, by the fact that Boyle, to whom he was unknown, rang him up that evening at ",
+    "quoteTime": "half-past seven",
+    "quoteLast": " and, posing as an anonymous friend, warned him that there was a warrant out for him and that, as a friend, he gave him an opportunity to escape.\"",
+    "title": "Number 70, Berlin: A Story of Britain's Peril",
+    "author": "Le Queux, William, 1864-1927",
+    "gutenbergReference": "41131",
+    "hash": "a9965ebe2510913ba3de3383f0b6c2dd283522b7310decaba99b1b4a5c0bd353"
+  },
+  {
+    "time": "19:30",
+    "quoteFirst": "I took a couple of hours' sleep, was called at six, dressed myself, and prepared to go on board at ",
     "quoteTime": "half past seven",
-    "quoteLast": " yet.”",
-    "title": "The City of Comrades",
-    "author": "King, Basil, 1859-1928",
-    "gutenbergReference": "64255",
-    "hash": "58cd2300aa2bc624a75f090499aaf80834bb0daa58c3b2f9235dbf97fda28b5e"
+    "quoteLast": ".",
+    "title": "Frank Mildmay; Or, The Naval Officer",
+    "author": "Marryat, Frederick, 1792-1848",
+    "gutenbergReference": "13010",
+    "hash": "fb375abc8ac2176ef74306a367a495f16e11b77dfb2a571619df2afe1bbef9b8"
+  },
+  {
+    "time": "19:30",
+    "quoteFirst": "At the hour of ",
+    "quoteTime": "seven-thirty",
+    "quoteLast": ", just when George Finch was trying out his fifth tie, a woman stood pacing the floor in the Byzantine boudoir at Number 16, Seventy-Ninth Street, East.",
+    "title": "The small bachelor",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "70041",
+    "hash": "0faee1ceb359d0c29fc9ec2015d3bdb2c0c52936ddf3fce222c7c01ccee9052a"
+  },
+  {
+    "time": "19:30",
+    "quoteFirst": "He took her to his house for supper tonight and never brought her back until ",
+    "quoteTime": "half-past seven",
+    "quoteLast": ", a scandalous hour for a young miss of three.",
+    "title": "Dear Enemy",
+    "author": "Webster, Jean, 1876-1916",
+    "gutenbergReference": "238",
+    "hash": "9f95e1733708d47f721133439d7a39dc3f0bb147bb822a42cff64ff3561af7df"
+  },
+  {
+    "time": "19:30",
+    "quoteFirst": "It was nearly ",
+    "quoteTime": "half-past seven",
+    "quoteLast": ", and it only wanted the arrival of the Samuel Sachses--who came from the St. John’s Wood synagogue--for the whole party to descend into the dining-room, where the much-needed meal awaited them.",
+    "title": "Reuben Sachs",
+    "author": "Levy, Amy, 1861-1889",
+    "gutenbergReference": "74419",
+    "hash": "d999fabe99224303d4b22fed7054af3ca5325311d3c3f8a8deb98243e0b2d7a4"
+  },
+  {
+    "time": "19:30",
+    "quoteFirst": "At any rate, none of the children woke till Jane came to draw up the blinds and let the ",
+    "quoteTime": "half-past seven",
+    "quoteLast": " sunshine into their rooms.",
+    "title": "The Wonderful Garden; or, The Three Cs",
+    "author": "Nesbit, E. (Edith), 1858-1924; Millar, H. R. (Harold Robert), 1869-1942 [Illustrator]",
+    "gutenbergReference": "52907",
+    "hash": "9a1795610328c844c0687aae13e83068cef826fb75aad33beb1037bba06d4e14"
   },
   {
     "time": "19:30",
     "quoteFirst": "By ",
     "quoteTime": "half-past seven",
-    "quoteLast": " of a bright and crisp morning I was climbing the steep hill-side over which Jackson Falls pour down.",
-    "title": "The Heart of the White Mountains, Their Legend and Scenery\nTourist's Edition",
-    "author": "Drake, Samuel Adams, 1833-1905",
-    "gutenbergReference": "42447",
-    "hash": "b8d76043aa82ee3d3dde02d19f9adb33c6e62c38a688ec99bbbd1c5d9beda3d6"
+    "quoteLast": " I was on the road and proceeded rapidly to the front, ordering all trains that were in front of troops off the road.",
+    "title": "Personal Memoirs of U. S. Grant, Complete",
+    "author": "Grant, Ulysses S. (Ulysses Simpson), 1822-1885",
+    "gutenbergReference": "4367",
+    "hash": "e2dda0956ccffb7419b2651bf14caeeabd8e75477085911713e9106e50aaf052"
   },
   {
     "time": "19:30",
-    "quoteFirst": "It would be about ",
+    "quoteFirst": "Yet there I was being collected by the winner at so early an hour as ",
+    "quoteTime": "half-after seven",
+    "quoteLast": ".",
+    "title": "Ruggles of Red Gap",
+    "author": "Wilson, Harry Leon, 1867-1939",
+    "gutenbergReference": "9151",
+    "hash": "2476e8cf19e6953ce568b384ce2f34d3b10e7d2c58fbe6e136eb2cd372abd834"
+  },
+  {
+    "time": "19:30",
+    "quoteFirst": "When ",
     "quoteTime": "half-past seven",
-    "quoteLast": ", perhaps more, when I at last slipped open the panel, and crossed over to the Moot Hall.",
-    "title": "In the Mayor's Parlour",
-    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
-    "gutenbergReference": "25424",
-    "hash": "747e8a82ef02da320a4a9ae28236459b1ec04165e615ff4d08d4b8a148734522"
+    "quoteLast": " chimes out, and the solemn retainer of the House of Mordaunt announces dinner as being served, both Major Blake and Captain Halkett make a hard fight of it to take Miss Cissy down; but Fate, in the person of Sir Thomas Lobin, interferes, and balks them of their prey.",
+    "title": "Chambers's Journal of Popular Literature, Science, and Art, No. 707, July 14, 1877",
+    "author": "Various; Chambers, Robert, 1802-1871 [Editor]; Chambers, William, 1800-1883 [Editor]",
+    "gutenbergReference": "49246",
+    "hash": "4b3be189d678b910cddb7d74085aeaca2b2799345196444fbb8d31fafa684ec1"
   },
   {
     "time": "19:30",
-    "quoteFirst": "We had variable light airs next to a calm, and thick foggy weather, till ",
-    "quoteTime": "half-past seven o'clock in the evening",
-    "quoteLast": " of the 22d, when we got a fine breeze at north, and the weather was so clear that we could see two or three leagues round us.",
-    "title": "A General History and Collection of Voyages and Travels — Volume 15\r\nForming A Complete History Of The Origin And Progress Of Navigation, Discovery, And Commerce, By Sea And Land, From The Earliest Ages To The Present Time",
-    "author": "Kerr, Robert, 1755-1813",
-    "gutenbergReference": "14611",
-    "hash": "a7300252ce12d8cfd079ec186e7cbbbc80f63452512bea6b0c799c52697a2bb3"
-  },
-  {
-    "time": "19:30",
-    "quoteFirst": "Your saintly, _next_ to great and high 'uns-- (A Viscount, be he what he may, Would cut a Saint out any day,) Has just announced a godly rout, Where Murtagh's to be first brought out, And shown in his tame, _week-day_ state:-- \"Prayers, ",
+    "quoteFirst": "The next morning, at ",
     "quoteTime": "half-past seven",
-    "quoteLast": ", tea at eight.\"",
-    "title": "The Complete Poems of Sir Thomas Moore\nCollected by Himself with Explanatory Notes",
-    "author": "Moore, Thomas, 1779-1852; Rossetti, William Michael, 1829-1919 [Commentator]",
-    "gutenbergReference": "8187",
-    "hash": "7fc45993239a5c0c100bd396ee2a51cd6437bafd04062261be45d5f168cc2f71"
+    "quoteLast": ", Masonic Hall was filled to repletion.",
+    "title": "The Great Riots of New York, 1712 to 1873",
+    "author": "Headley, Joel Tyler, 1813-1897",
+    "gutenbergReference": "6856",
+    "hash": "3ddf2f700fda88338b0e670660387437c00cffb0a762c4c8293cecce03d9bfcc"
+  },
+  {
+    "time": "19:30",
+    "quoteFirst": "At ",
+    "quoteTime": "half-past seven",
+    "quoteLast": " he was on his way to the hospital.",
+    "title": "A Poor Wise Man",
+    "author": "Rinehart, Mary Roberts, 1876-1958",
+    "gutenbergReference": "1970",
+    "hash": "758bfb3040aa092e6d73d6f7ce53654959bab3de7e6f4ac2f0f8e949388de9bd"
+  },
+  {
+    "time": "19:30",
+    "quoteFirst": "And that evening at ",
+    "quoteTime": "half-past seven",
+    "quoteLast": ", being too lazy to go to the Gilt Edge, I was so hungry I had to go down to Mrs. Galway and beg the loan of three Uneedas and a hard boiled egg.",
+    "title": "The Girl at Central",
+    "author": "Bonner, Geraldine, 1870-1930; Brown, Arthur William, 1881-1966 [Illustrator]",
+    "gutenbergReference": "35503",
+    "hash": "a246d19baed106b2ef7e05f9668feca120acb276a9c767d68ca6619cbef65899"
+  },
+  {
+    "time": "19:30",
+    "quoteFirst": "That evening, however, about ",
+    "quoteTime": "half-past seven",
+    "quoteLast": ", Charles and I strolled out together on the King's Road for a blow before dinner.",
+    "title": "An African Millionaire: Episodes in the Life of the Illustrious Colonel Clay",
+    "author": "Allen, Grant, 1848-1899",
+    "gutenbergReference": "4715",
+    "hash": "07f31f0596d1fd591ece01807920cce2caff9c37574e47259ec026e33fa67001"
+  },
+  {
+    "time": "19:30",
+    "quoteFirst": "\"I propose, if you are not too tired, to leave here by the express at ",
+    "quoteTime": "half-past seven",
+    "quoteLast": ",\" I replied, \"and travel as far as Wittenberge, which place we should reach by half-past ten. We can manage it very easily. I will telegraph for rooms, and to-morrow morning early we can continue our journey to Hamburg, where we shall have no difficulty in obtaining a steamer for London. Pharos would never think of looking for us in a small place like Wittenberge, and we should be on board the steamer and _en route_ to England by this time to-morrow evening.\"",
+    "title": "Pharos, The Egyptian: A Romance",
+    "author": "Boothby, Guy, 1867-1905",
+    "gutenbergReference": "33610",
+    "hash": "97bfefd5e7b055370a961b77e852a1d2e8b82d9838118acf821f64e962335359"
+  },
+  {
+    "time": "19:30",
+    "quoteFirst": "“It wasn’t ",
+    "quoteTime": "half-past seven",
+    "quoteLast": ", miss, when he was downstairs calling for a cup of tay from the servants’ breakfast, and, afther he taking it, he went out of the house,” Roche answered, rising stiffly from his knees after he had swept up and replenished the drawing-room grate.",
+    "title": "An Irish Cousin; vol. 2/2",
+    "author": "Somerville, E. Oe. (Edith Oenone), 1858-1949; Ross, Martin, 1862-1915",
+    "gutenbergReference": "58634",
+    "hash": "be32015245193cba09bce9c6a860e85773e530a95958d50c7be3d3b1c095dde0"
+  },
+  {
+    "time": "19:30",
+    "quoteFirst": "Soon after sunset the wind began to blow from the southward, and by the time we turned in, which was generally about ",
+    "quoteTime": "half-past seven",
+    "quoteLast": ", because we had nothing to do after supper, there was a pretty stiff breeze.",
+    "title": "A new Robinson Crusoe",
+    "author": "Alden, W. L. (William Livingston), 1837-1908",
+    "gutenbergReference": "70016",
+    "hash": "e4db125d50b89e2054d1c400a050b7bce47f3321b1e7716f7275431dc8feea3f"
+  },
+  {
+    "time": "19:30",
+    "quoteFirst": "",
+    "quoteTime": "Half-past seven",
+    "quoteLast": ", a train from Reading at nine, and madame’s       train, if she had caught it, came in at eight-forty—he would meet       that, and go on.",
+    "title": "The Forsyte Saga - Complete",
+    "author": "Galsworthy, John, 1867-1933",
+    "gutenbergReference": "4397",
+    "hash": "0ec2dadfc185dfdb29a25f0f4645dbdff1fc4bd4e00da311c9afb9c8f27a78eb"
   }
 ]

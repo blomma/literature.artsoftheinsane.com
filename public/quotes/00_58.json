@@ -1,102 +1,202 @@
 [
   {
     "time": "00:58",
-    "quoteFirst": "Bound thither on the second Wednesday in August 1896, I bought a ticket at the Goulburn railway station, and at some time ",
-    "quoteTime": "about 1 a.m.",
-    "quoteLast": " took my seat in a second class carriage of the mail-train on its way to Melbourne.",
-    "title": "My Brilliant Career",
-    "author": "Franklin, Miles, 1879-1954",
-    "gutenbergReference": "11620",
-    "hash": "89d927678737891ab5acf4c02498dbd65e695a068a3665346c26cbc00f06a4fe"
+    "quoteFirst": "\"It was now ",
+    "quoteTime": "about 1 A. M.",
+    "quoteLast": "; a beautiful starlight night, with no moon, and so not very light. The sea was as calm as a pond, just a gentle heave as the boat dipped up and down in the swell; an ideal night, except for the bitter cold, for anyone who had to be out in the middle of the Atlantic ocean in an open boat. And if ever there was a time when such a night was needed, surely it was now, with hundreds of people, mostly women and children, afloat hundreds of miles from land.",
+    "title": "Sinking of the Titanic and Great Sea Disasters",
+    "author": "Marshall, Logan, 1884-1937 [Editor]",
+    "gutenbergReference": "781",
+    "hash": "1914979be8df746e951ac709e3541bcaa95692f687ef8fafb5363eb8965d3b23"
   },
   {
     "time": "00:58",
     "quoteFirst": "",
-    "quoteTime": "About one o’clock that night",
-    "quoteLast": " the Legislature held a special session.",
-    "title": "Eugenie, Empress of the French",
-    "author": "Tschudi, Clara, 1856-1945; Holm, Erich, 1844-1921 [Translator]; Upton, George P. (George Putnam), 1834-1919 [Translator]",
-    "gutenbergReference": "62965",
-    "hash": "322ffd46eaa1e3c197c4e036302ad74b58b4f77e13fdf0fe4a2016110b6e09dd"
+    "quoteTime": "About one a.m.",
+    "quoteLast": " they were replaced by another Pastorian and another member of the family.",
+    "title": "The life of Pasteur",
+    "author": "Vallery-Radot, René, 1853-1933; Osler, William, Sir, 1849-1919 [Author of introduction, etc.]; Devonshire, R. L., Mrs., 1864-1949 [Translator]",
+    "gutenbergReference": "60956",
+    "hash": "577a141702f64e8c219c1d3233658038f4b05a2ad2ea6923738b25f66a1fb375"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "By ",
+    "quoteTime": "about 1 A.M.",
+    "quoteLast": " the two gaffs with which Bernard had contrived to shore up the slowly heeling yacht began to show signs of yielding, and, in approved shipwreck fashion, we took to the boats, the yacht's crew in the gig remaining in attendance on what seemed likely to be the last moments of the _Eileen Oge_, while we, in the dinghy, sought for the harbour.",
+    "title": "Some Experiences of an Irish R.M.",
+    "author": "Somerville, E. Oe. (Edith Oenone), 1858-1949; Ross, Martin, 1862-1915",
+    "gutenbergReference": "34630",
+    "hash": "e05fb353a36cf5cd051650027677ce54372f0deae318e38ede85083054df969b"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "Leaving Tompkinsville at three o'clock in the afternoon, after paroling the prisoners, we reached Glasgow ",
+    "quoteTime": "about one o'clock that night",
+    "quoteLast": ".",
+    "title": "History of Morgan's Cavalry",
+    "author": "Duke, Basil Wilson, 1838-1916",
+    "gutenbergReference": "31232",
+    "hash": "32301f129afec8841a3944abff260fc9c7fd46397f37ec5446990ddeb2cf15c8"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "I'le be with you, answered the Empress, ",
+    "quoteTime": "about one of the Clock at night",
+    "quoteLast": ".",
+    "title": "The Description of a New World, Called the Blazing-World",
+    "author": "Newcastle, Margaret Cavendish, Duchess of, 1624?-1674",
+    "gutenbergReference": "51783",
+    "hash": "ae31386c6200a1567b65576fe091a9d1119fee83d68c3ad58a280a6502167f04"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "_--Rain set in again ",
+    "quoteTime": "about 1 a.m.",
+    "quoteLast": ", and soon grew to a furious storm.",
+    "title": "Our campaign around Gettysburg\r\nBeing a memorial of what was endured, suffered and accomplished by the Twenty-third regiment (N. Y. S. N. G.) and other regiments associated with them, in their Pennsylvania and Maryland campaign, during the second rebel invasion of the loyal states in June-July, 1863",
+    "author": "Lockwood, John, 1826?-1901",
+    "gutenbergReference": "31258",
+    "hash": "8dbf14ee3100b62222bd6ee93481909958d7d13d615f4431772a58974e9119c5"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "One night while I had rooms in the business part of a Territorial city in the Rocky Mountain cattle country, I was awakened at ",
+    "quoteTime": "about one o'clock A. M.",
+    "quoteLast": " by the most blood-curdling cry of “Murder” I ever heard.",
+    "title": "Remarks",
+    "author": "Nye, Bill, 1850-1896",
+    "gutenbergReference": "8220",
+    "hash": "48f37812e295aa8422d1de13fb9e2ac7dad104f37e61d67d76e2a9dba4af288a"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "At ",
+    "quoteTime": "about 1 a.m.",
+    "quoteLast": " of the 13th the _Southampton_ sighted a large steamer proceeding slowly eastwards.",
+    "title": "The Invasion of 1910, with a full account of the siege of London",
+    "author": "Le Queux, William, 1864-1927",
+    "gutenbergReference": "51905",
+    "hash": "4b7e572b41adafb5029b7aecdcd923aa79892c9f0e67cd2eab75fe9858da206b"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "Then, ",
+    "quoteTime": "about one o’clock",
+    "quoteLast": " and about six in the morning, the march was resumed.",
+    "title": "Buffalo Bill and the Overland Trail\r\nBeing the story of how boy and man worked hard and played hard to blaze the white trail, by wagon train, stage coach and pony express, across the great plains and the mountains beyond, that the American republic might expand and flourish",
+    "author": "Sabin, Edwin L. (Edwin Legrand), 1870-1952; Stephens, Charles H., 1851-1931 [Illustrator]",
+    "gutenbergReference": "64231",
+    "hash": "fd1acbd65f50d10e4e33877ef13f00458d8c8a7b10cf6c1f1e3a7bc914e3e4d4"
   },
   {
     "time": "00:58",
     "quoteFirst": "It was ",
-    "quoteTime": "about one o'clock at night",
-    "quoteLast": " when I entered the principal street in Albany, and, as the lady predicted, a watchman came to me and asked why I was out that time of night.",
-    "title": "Life in the Grey Nunnery at Montreal\r\nAn Authentic Narrative of the Horrors, Mysteries, and Cruelties of Convent Life",
-    "author": "Richardson, Sarah J., 1835-",
-    "gutenbergReference": "5734",
-    "hash": "83c239bec7b0087d1783ebe3e5beac34a0f4f1f79e75302aea8d9df9f1a770c2"
+    "quoteTime": "about one o'clock",
+    "quoteLast": " in the morning by that time, and the sky had cleared a very little, so that a faint gleam of moonlight enabled them to see the boat of mercy plunging towards them through a very chaos of surging seas and whirling foam.",
+    "title": "Battles with the Sea",
+    "author": "Ballantyne, R. M. (Robert Michael), 1825-1894",
+    "gutenbergReference": "21717",
+    "hash": "49b8818dc1b01d590f3ee9b28ef739f52c57cb20709c131299fc86090265faf4"
   },
   {
     "time": "00:58",
-    "quoteFirst": "From Walker’s coach-office at the “Tontine,” the mail-coach for London started at ",
-    "quoteTime": "about 1 a.m.",
-    "quoteLast": ", called at the Post Office in Glassford Street for the bags, left there at 1.15, pulled up again at the “Tontine” for the way-bill, and then was off in earnest, its five lamps glaring through the darkness.",
-    "title": "The Manchester and Glasgow Road, Volume 2 (of 2)\r\nThis Way to Gretna Green",
-    "author": "Harper, Charles G. (Charles George), 1863-1943",
-    "gutenbergReference": "58482",
-    "hash": "85e8861301a79f631edda095a02f989ccffae307087cbef9e0a3237e11ab7bfb"
+    "quoteFirst": "",
+    "quoteTime": "About 1 o'clock at night",
+    "quoteLast": " we were awakened by the bursting of two or three shells in my camp.",
+    "title": "History of Morgan's Cavalry",
+    "author": "Duke, Basil Wilson, 1838-1916",
+    "gutenbergReference": "31232",
+    "hash": "1c49237e124720c2ce8d226c6b9e477f1ebc313c39823338afd4464506355200"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "After returning to her bed at ",
+    "quoteTime": "about one a.m.",
+    "quoteLast": ", Harriett had occupied it just upon three hours, when at about 4 a.m., she heard a third pistol explosion, which caused her immediately to rise from her couch, and run downstairs to her husband, who received her with a thrilling statement of his narrow escape from death by the pistol that had just gone off.",
+    "title": "The Real Shelley. New Views of the Poet's Life. Vol. 2 (of 2)",
+    "author": "Jeaffreson, John Cordy, 1831-1901",
+    "gutenbergReference": "41748",
+    "hash": "a0cf18e22dc9fb9d601327a026ee53b1562a47b6130dec09c154fa6a3a9c1cbd"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "Take that picture of the somber, discontented Parnell, coming, late in the evening, to Mr. Morley's room in the House of Commons, to complain of the finance of the Home Rule Bill--Mr. Gladstone's entrance at 10.30 P.M., after an exhausting day--and he, the man of seventy-seven, sitting down to work between the Chief Secretary and the Irish leader, till at last, with a sigh of weariness at ",
+    "quoteTime": "nearly 1 A.M.",
+    "quoteLast": ", the tired Prime Minister pleads to go to bed.",
+    "title": "A Writer's Recollections — Volume 2",
+    "author": "Ward, Humphry, Mrs., 1851-1920",
+    "gutenbergReference": "9821",
+    "hash": "2238813d6a10394486c08cce6d864cbd25c4645ad9579823940c88eb9b9aaadb"
   },
   {
     "time": "00:58",
     "quoteFirst": "",
     "quoteTime": "About 1 a.m.",
-    "quoteLast": " (I forget the exact day in February), whilst sleeping soundly [at Tangier], I was woke by hearing distinctly the voice of my daughter-in-law, who was with her husband at Mogador, saying in a clear but distressed tone of voice, ‘Oh, I wish papa only knew that Robert is ill.’",
-    "title": "A memoir of Sir John Drummond Hay, P.C., K.C.B., G.C.M.G., sometime minister at the court of Morocco",
-    "author": "Brooks, Louisa Annette Edla Drummond-Hay, -1902; Drummond-Hay, Alice Emily, 1851-1940; Hay, John H. Drummond (John Hay Drummond), 1816-1893; De Winton, Francis, Sir, 1835-1901 [Author of introduction, etc.]",
-    "gutenbergReference": "71860",
-    "hash": "f5c837a67350d2c5dabbed9062f8ac45538dcddd1fe29156b7c79f0cc4b264ac"
-  },
-  {
-    "time": "00:58",
-    "quoteFirst": "Consequently it was ",
-    "quoteTime": "about 1 a.m.",
-    "quoteLast": " when I got to sleep.",
-    "title": "From Chart House to Bush Hut\nBeing the Record of a Sailor's 7 Years in the Queensland Bush",
-    "author": "Bryde, C. W.",
-    "gutenbergReference": "36340",
-    "hash": "0b2f016f9fdb0916f1597f83c9d3165d3f0503cc6aa6a807e1ea52dc6364c29c"
-  },
-  {
-    "time": "00:58",
-    "quoteFirst": "About two o'clock in the afternoon I found a hack driver who said he wanted to hire a boy to take care of his horses; he said he would not be going home until ",
-    "quoteTime": "about one o'clock that night",
-    "quoteLast": " and for me to wait for him in front of the Court house on Fourth street.",
-    "title": "A Texas Cow Boy\r\nor, fifteen years on the hurricane deck of a Spanish pony, taken from real life",
-    "author": "Siringo, Charles A., 1855-1928",
-    "gutenbergReference": "38309",
-    "hash": "4e48ff3948f3c9a059396619f0a33ba5323008f0378239c0c0ae79889f248172"
-  },
-  {
-    "time": "00:58",
-    "quoteFirst": "The boys did not care about night work and usually sat round the camp fire smoking, spinning yarns, or crooning their charmingly plaintive mountain melodies until ",
-    "quoteTime": "about 1 A.M.",
-    "quoteLast": ", when they curled up under the verandah and went to sleep.",
-    "title": "Two Years Among New Guinea Cannibals\r\nA Naturalist's Sojourn Among the Aborigines of Unexplored New Guinea",
-    "author": "Pratt, A. E. (Antwerp Edgar), 1852-1924; Pratt, Henry [Annotator]",
-    "gutenbergReference": "66773",
-    "hash": "4488758632ea2b661da792095e0152b0feb693f3abb98dc0b147ec800855b7d1"
-  },
-  {
-    "time": "00:58",
-    "quoteFirst": "We arrived at the house of the magistrate ",
-    "quoteTime": "about one o'clock at night",
-    "quoteLast": ", and all were soundly sleeping.",
-    "title": "Twenty-Two Years a Slave, and Forty Years a Freeman\r\nEmbracing a Correspondence of Several Years, While President of Wilberforce Colony, London, Canada West",
-    "author": "Steward, Austin, 1794-1860",
-    "gutenbergReference": "11137",
-    "hash": "01521e04814deea5a5d7e03f41f5ba99963bda1575d1523596d83e24681931af"
+    "quoteLast": " the flotilla coming in sight of the _Chevrette_, she opened a heavy fire on them of grape and musketry, and at the same time they were assailed by a fire of musketry from the shore.",
+    "title": "How Britannia Came to Rule the Waves\nUpdated to 1900",
+    "author": "Kingston, William Henry Giles, 1814-1880",
+    "gutenbergReference": "23496",
+    "hash": "fb46283e4c5bf19edd1d1bfaac5ea884581093e05820ff5107598147862ce8c2"
   },
   {
     "time": "00:58",
     "quoteFirst": "",
-    "quoteTime": "About 1 o'clock that night",
-    "quoteLast": " we heard a rifle shot: it was a German spy shooting at the sentry sailor on the armoured train alongside of us; they didn't catch him.",
-    "title": "Diary of a Nursing Sister on the Western Front, 1914-1915",
-    "author": "Anonymous",
-    "gutenbergReference": "18910",
-    "hash": "445e331eff7790dd39f6b31a2830267426341d516beedfddf3d0d649315abc0a"
+    "quoteTime": "About 1 A.M.",
+    "quoteLast": " a report was heard from the Hastings direction, and a significant blue light was seen burning.",
+    "title": "King's Cutters and Smugglers 1700-1855",
+    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
+    "gutenbergReference": "17563",
+    "hash": "4b92a47df59382f2f63d03041f9a85e887ad2ba7baabb3e84493f7a5b5454e02"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "It is ",
+    "quoteTime": "nearly one o'clock",
+    "quoteLast": ".'",
+    "title": "Suspense, Volume 2 (of 3)",
+    "author": "Merriman, Henry Seton, 1862-1903",
+    "gutenbergReference": "74461",
+    "hash": "a2a9c8ac819b3e29b55efa5c5ca55a6b9615b70f045b3cc720f57f5a211405bf"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "Now we came to a river, waded through it, then clambered over some palisades, passed again through a second river up to our necks, clambered up some rising ground, leaped over fallen trees, and arrived ",
+    "quoteTime": "about one A.M.",
+    "quoteLast": " at a little wood, where we sank down from exhaustion and fever.",
+    "title": "Lay Down Your Arms: The Autobiography of Martha von Tilling",
+    "author": "Suttner, Bertha von, 1843-1914; Holmes, T. [Translator]",
+    "gutenbergReference": "49294",
+    "hash": "2b892b2626f8aa975b9b3adc2176234a9d3799c0ab828ed9cab96b756db5c36a"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "At noon late to dinner, and after dinner spent till night with Mr. Gibson and Hater discoursing and making myself more fully [know] the trade of pursers, and what fittest to be done in their business, and so to the office till midnight writing letters, and so home, and after supper with my wife ",
+    "quoteTime": "about one o'clock",
+    "quoteLast": " to bed.",
+    "title": "Diary of Samuel Pepys — Volume 40: November/December 1665",
+    "author": "Pepys, Samuel, 1633-1703; Braybrooke, Richard Griffin, Baron, 1783-1858 [Editor]; Wheatley, Henry B. (Henry Benjamin), 1838-1917 [Editor]; Bright, Mynors, 1818-1883 [Translator]",
+    "gutenbergReference": "4161",
+    "hash": "469cad42eb839ad6fc84c0b44f3c31b29ff33f5892f7299b30834e8286755b48"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "I had never met the old man before, but that night, ",
+    "quoteTime": "about 1 o'clock A.M.",
+    "quoteLast": ", I had the pleasure of his acquaintance.",
+    "title": "Remarks",
+    "author": "Nye, Bill, 1850-1896",
+    "gutenbergReference": "8220",
+    "hash": "bc1a287e4fcb3a8dd3cb7752d7c32b9f5d6028f9eaf18f86b25d1673f8e67e43"
+  },
+  {
+    "time": "00:58",
+    "quoteFirst": "I did not find out what was before me until I reached the       camp ",
+    "quoteTime": "about 1 a.m.",
+    "quoteLast": " on the terrible 8th.",
+    "title": "A Soldier's Experience; or, A Voice from the Ranks\r\nShowing the Cost of War in Blood and Treasure. A Personal Narrative of the Crimean Campaign, from the Standpoint of the Ranks; the Indian Mutiny, and Some of its Atrocities; the Afghan Campaigns of 1863",
+    "author": "Gowing, T. (Timothy), 1834-1908",
+    "gutenbergReference": "46989",
+    "hash": "98e29081ec241110bf15877b1ac9280c4fcd33313da87c7d88e010f1c29445b2"
   }
 ]

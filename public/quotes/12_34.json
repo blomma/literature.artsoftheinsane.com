@@ -31,6 +31,26 @@
   },
   {
     "time": "12:34",
+    "quoteFirst": "At ",
+    "quoteTime": "12:34 p.m.",
+    "quoteLast": ", the Dallas police radio mentioned the Depository Building as a possible source of the shots, and at 12:45 p.m., the police radio broadcast a description of the suspected assassin based primarily on Brennan’s observations.",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "4b2173cead23ea28254f76074451975e71defbad9a638b08d5b64d4af59958f8"
+  },
+  {
+    "time": "12:34",
+    "quoteFirst": "Inspector J. Herbert Sawyer of the Dallas Police Department arrived at the scene shortly after hearing the first of these police radio messages at ",
+    "quoteTime": "12:34 p.m.",
+    "quoteLast": " Some of the officers who had been assigned to the area of Elm and Houston Streets for the motorcade were talking to witnesses and watching the building when Sawyer arrived.",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "366cc08ef6b62d8c0a74f71e18e0ef13aa06f54373cfab7fb420a40b4e75b663"
+  },
+  {
+    "time": "12:34",
     "quoteFirst": "[C4-406] At ",
     "quoteTime": "12:34 p.m.",
     "quoteLast": " Sawyer heard a call over the police radio that the shots had come from the Depository Building.",
@@ -53,10 +73,10 @@
     "time": "12:34",
     "quoteFirst": "Observations: altitude 86.52, latitude 18 degrees 18 minutes; we started again at ",
     "quoteTime": "12.34 p.m.",
-    "quoteLast": "; at 1.17 made two miles north-west to where we crossed to the left side of eastern channel; at 1.35 made one mile north-west to watercourse with fine stream of water; at 1.50 made three-quarters of a mile north, where we watered the horses, and started again at 4.25; at 4.33 made a quarter of a mile about north where Jemmy and I encamped last Monday night; at 4.5 made one mile north-north-east to where we crossed to left side of eastern watercourse; at 5.24 made one mile and a half north-north-east over a thickly-grassed slightly-wooded plain with flood-marks on it; at 6.2 made one mile and three-quarters",
+    "quoteLast": "; at 1.17 made two miles north-west to where we crossed to the left side of eastern channel; at 1.35 made one mile north-west to watercourse with fine stream of water; at 1.50 made three-quarters of a mile north, where we watered the horses, and started again at 4.25; at 4.33 made a quarter of a mile about north where Jemmy and I encamped last Monday night; at 4.5 made one mile north-north-east to where we crossed to left side of eastern watercourse; at 5.24 made one mile and a half north-north-east over a thickly-grassed slightly-wooded plain with flood-marks on it; at 6.2 made one mile and three-quarters north over a similar country, slightly timbered with flooded box; at 6.13 made half a mile north-north-west; at 6.35 made three-quarters of a mile north-west by north over similar country; then",
     "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
-    "hash": "818e857774ee9ddc9d5683a344bd5d5cc4746d24bbd0e501d409154651c7c85b"
+    "hash": "8fdc1f7d385638ddb37dfe2579d9085a176ae6b7ca0a8b534fcfd8242d34fc32"
   }
 ]

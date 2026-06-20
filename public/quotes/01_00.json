@@ -1,102 +1,202 @@
 [
   {
     "time": "01:00",
-    "quoteFirst": "Said she, “John Styles, it’s ",
-    "quoteTime": "one o’clock",
-    "quoteLast": ";     You’ll die of indigestion;   I’m sick of all this popping corn—     Why don’t you pop the question?”",
-    "title": "New Century Speaker and Writer: Being a Standard Work on Composition and Oratory",
-    "author": "Northrop, Henry Davenport, 1836-1909",
-    "gutenbergReference": "66982",
-    "hash": "1341641baf2228d04531e416e8db2d32b38768fa38550dfab094d87e15ab712f"
+    "quoteFirst": "We reached the shore of Armidale before ",
+    "quoteTime": "one o'clock",
+    "quoteLast": ".",
+    "title": "Life of Johnson, Volume 5\r\nTour to the Hebrides (1773) and Journey into North Wales (1774)",
+    "author": "Boswell, James, 1740-1795; Hill, George Birkbeck Norman, 1835-1903 [Editor]",
+    "gutenbergReference": "10451",
+    "hash": "ead67c2fa74fb3c929833043cfb4fcff467c56159ca391fa7b25259a70670468"
   },
   {
     "time": "01:00",
-    "quoteFirst": "Got up about twelve or ",
+    "quoteFirst": "“Report ",
+    "quoteTime": "at one o’clock",
+    "quoteLast": " this afternoon. That’s all.”",
+    "title": "Sailor Jack, the Trader",
+    "author": "Castlemon, Harry, 1842-1915; White, George G. (George Gorgas), -1898 [Illustrator]",
+    "gutenbergReference": "54049",
+    "hash": "6395a3f01ff4e739036b5058ef7fe56d539f7e673e5754aca62b0c30346ba0ef"
+  },
+  {
+    "time": "01:00",
+    "quoteFirst": "We reached the wooded island about ",
     "quoteTime": "one o’clock",
-    "quoteLast": ", took a smoke and then lay down until near daylight.",
-    "title": "Prison Life in the Old Capitol and Reminiscences of the Civil War",
-    "author": "Williamson, James J., 1834-1915; Williamson, B. F. [Illustrator]",
-    "gutenbergReference": "66470",
-    "hash": "ec11feb1ab7c26bd722e01b953654274bcc8ed364654a3f1c226854c51c5b12a"
+    "quoteLast": ", made coffee, took on a store of wood, and set sail direct for the icy country, finding it very hard indeed to believe the woodless part of Charley’s description of the Icy Bay, so heavily and uniformly are all the shores forested wherever we had been.",
+    "title": "Travels in Alaska",
+    "author": "Muir, John, 1838-1914",
+    "gutenbergReference": "7345",
+    "hash": "665840e077e22e84d3c88250a496b57f5896392e4241cc0f0fe3453478b3a163"
+  },
+  {
+    "time": "01:00",
+    "quoteFirst": "He ordered his carriage ",
+    "quoteTime": "at one o'clock",
+    "quoteLast": " in the morning--an hour in which he supposed she would be most soundly asleep.",
+    "title": "Josephine\nMakers of History",
+    "author": "Abbott, John S. C. (John Stevens Cabot), 1805-1877",
+    "gutenbergReference": "32047",
+    "hash": "311362e74142e75e7fc5eba67570249be44f287607704b36c6ddbf453b6c8f07"
+  },
+  {
+    "time": "01:00",
+    "quoteFirst": "",
+    "quoteTime": "At one o'clock",
+    "quoteLast": " that afternoon we resumed our march in a southerly direction, through forest and swamps and across bottom lands.",
+    "title": "History of the Thirty-sixth Regiment Massachusetts Volunteers. 1862-1865",
+    "author": "Burrage, Henry S. (Henry Sweetser), 1837-1926; Hodgkins, William H. (William Henry), 1840-1905; Noyes, Edmund W.; Ranlett, S. Alonzo; White, Alonzo A.",
+    "gutenbergReference": "50422",
+    "hash": "72924969955f8f3295a88501256710f044e705d380af7fbdc42304a6129428c5"
+  },
+  {
+    "time": "01:00",
+    "quoteFirst": "I have been swimming half an hour; I have dictated twenty letters; I have scolded the gardeners, and I have seen three boxes from Worth unpacked; it is only ",
+    "quoteTime": "one o'clock",
+    "quoteLast": ", and I can already feel as good a conscience as Titus.",
+    "title": "Princess Napraxine, Volume 2 (of 3)",
+    "author": "Ouida, 1839-1908",
+    "gutenbergReference": "50836",
+    "hash": "4a1e71db5286228f9dfa648ddf717df0dedb1efb7e2f5ac3de93c0566c6e36c4"
+  },
+  {
+    "time": "01:00",
+    "quoteFirst": "He knows a cove who knows a balley-gal, and she pads her legs like ",
+    "quoteTime": "one o'clock",
+    "quoteLast": ".'",
+    "title": "Blade-O'-Grass. Golden Grain. and Bread and Cheese and Kisses.",
+    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+    "gutenbergReference": "43190",
+    "hash": "eb8e8b925c5fa3b48f11f1732af0707662f3f1adde88ce7bffdf2ef6467d04f3"
+  },
+  {
+    "time": "01:00",
+    "quoteFirst": "“Here is a letter I was told to give you ",
+    "quoteTime": "at one o’clock",
+    "quoteLast": ".”",
+    "title": "Don Miguel Lehumada: discoverer of liquid from the sun's rays\r\nan occult romance of Mexico and the United States",
+    "author": "Greenleaf, Sue",
+    "gutenbergReference": "67753",
+    "hash": "6542234dab171d5cee7e62e08a03e5c1e9c997405f5e4c999379f9fad20956cd"
+  },
+  {
+    "time": "01:00",
+    "quoteFirst": "Needless to say, there was not much peace or rest for any ",
+    "quoteTime": "one that night",
+    "quoteLast": ".",
+    "title": "The Petticoat Commando: Boer Women in Secret Service",
+    "author": "Brandt, Johanna, 1876-1964",
+    "gutenbergReference": "20194",
+    "hash": "dc37a4357664527f176836e5351adf0b624433f782a2890cf666bede5523c4e9"
+  },
+  {
+    "time": "01:00",
+    "quoteFirst": "But—will you lunch with me ",
+    "quoteTime": "at one o’clock",
+    "quoteLast": " to-morrow—or,   rather, to-day—at my hotel?",
+    "title": "The seventh shot",
+    "author": "Landon, Herman, 1882-1960",
+    "gutenbergReference": "76659",
+    "hash": "4eb455fd33975cd549b69d59756f5b04ca73d4339b7113ad861c4029dcb5654a"
+  },
+  {
+    "time": "01:00",
+    "quoteFirst": "It was almost ",
+    "quoteTime": "one o'clock",
+    "quoteLast": " when we got home, but all hands helped and I had plenty cooked anyway, so we soon had a good dinner on the table.",
+    "title": "Letters of a Woman Homesteader",
+    "author": "Stewart, Elinore Pruitt, 1878-",
+    "gutenbergReference": "16623",
+    "hash": "b6afcf9b3d15daf9cca5981fc62111beaa5a913d96bfd0f455cdfeabd5f75cc6"
+  },
+  {
+    "time": "01:00",
+    "quoteFirst": "In keeping with our pretensions to be a \"swagger\" ship and crew, the wardroom mess took lunch, instead of dinner, ",
+    "quoteTime": "at one o'clock",
+    "quoteLast": ", dining at seven o'clock in the evening.",
+    "title": "The First Mate: The Story of a Strange Cruise",
+    "author": "Collingwood, Harry, 1851-1922; Hodgson, E. S. (Edward Smith), 1866-1937 [Illustrator]",
+    "gutenbergReference": "25818",
+    "hash": "e785e966b33cb8ea9df0be0a0492c4fb384b5a9390e0c8be45200cd8e366b440"
+  },
+  {
+    "time": "01:00",
+    "quoteFirst": "\"He'll be here ",
+    "quoteTime": "at one o'clock",
+    "quoteLast": ", when I go to my lunch, my lord.\"",
+    "title": "The unpleasantness at the Bellona Club",
+    "author": "Sayers, Dorothy L. (Dorothy Leigh), 1893-1957",
+    "gutenbergReference": "72855",
+    "hash": "8245ea7897a344109a8f36c6ca8ab0b1be76439d27bcf5aeb60e5756ee3b1a00"
+  },
+  {
+    "time": "01:00",
+    "quoteFirst": "The _Savoia_ ran as true to the hour as a railway train, and was scheduled to leave ",
+    "quoteTime": "at one A.M.",
+    "quoteLast": " in order to make the best rail connections.",
+    "title": "The Owl Taxi",
+    "author": "Footner, Hulbert, 1879-1944",
+    "gutenbergReference": "57088",
+    "hash": "96085d35af80f1cc19277e6ec97fffe43cdf0c96a2b6e5efc906f69465d5ca12"
+  },
+  {
+    "time": "01:00",
+    "quoteFirst": "",
+    "quoteTime": "At one o'clock",
+    "quoteLast": " in the morning I passed the police station on Penn street, in the immediate vicinity, and the police officers were arresting every person passing with goods and there was no resistance.",
+    "title": "Report of the Committee Appointed to Investigate the Railroad Riots in July, 1877\nRead in the Senate and House of Representatives May 23, 1878",
+    "author": "Pennsylvania. General Assembly. Committee Appointed to Investigate the Railroad Riots in July, 1877",
+    "gutenbergReference": "42766",
+    "hash": "bacead092b4d91beab99185464160298d3346ccc6d4ed5bf52bb548380b9c4ed"
   },
   {
     "time": "01:00",
     "quoteFirst": "",
     "quoteTime": "One o'clock",
-    "quoteLast": " and hard labour.",
-    "title": "Glimpses into the Abyss",
-    "author": "Higgs, Mary, 1854-",
-    "gutenbergReference": "40122",
-    "hash": "a2a3818de03ae7c1b6ded5800235d37cd1b0b71cda521d9db427790dd221271b"
+    "quoteLast": " was the daily training hour in the playing-fields, and Saturday afternoon four weeks hence was the date fixed for the School sports.",
+    "title": "The Master of the Shell",
+    "author": "Reed, Talbot Baines, 1852-1893",
+    "gutenbergReference": "21050",
+    "hash": "1ef5fbdcf1f203f7eb8a432d7bacbcccd39861f475f2dbca5cc954e89463fbbb"
   },
   {
     "time": "01:00",
-    "quoteFirst": "Then after a hearty supper and a few hours' sleep, we all sprung upon our chargers again, and dashed off about ",
+    "quoteFirst": "Luncheon had been served early, and towards ",
     "quoteTime": "one o'clock",
-    "quoteLast": ", to try our fortune with colonel Tynes.",
-    "title": "The Life of General Francis Marion",
-    "author": "Weems, M. L. (Mason Locke), 1759-1825",
-    "gutenbergReference": "846",
-    "hash": "19cced67b6931019b8c5756221d963a226127ce6d38cf0c443057c0739bd65b3"
+    "quoteLast": " the boat stopped, when still some distance from land.",
+    "title": "Irma in Italy: A Travel Story",
+    "author": "Reed, Helen Leah, 1860?-1926; McCullough, W. A. (William A.) [Illustrator]",
+    "gutenbergReference": "39629",
+    "hash": "ddfa2e7762fc47ed46fe9416c0ff0681ad098e6ab46555add6b6b52cc6271f14"
   },
   {
     "time": "01:00",
-    "quoteFirst": "It was past ",
+    "quoteFirst": "About ",
+    "quoteTime": "one o'clock",
+    "quoteLast": " in the morning the soldier who had been put on watch at the gate called out, \"Mademoiselle, I hear something,\" and hurrying to him Madeleine, by the aid of the snow light, was able to see a small number of cattle huddled close to the fort.",
+    "title": "Ten Girls from History",
+    "author": "Sweetser, Kate Dickinson, 1870-1939",
+    "gutenbergReference": "32363",
+    "hash": "dddd495c97bf84b3dc0a6617df50080ef7211c4ea4cdce64cac22a309c342f3f"
+  },
+  {
+    "time": "01:00",
+    "quoteFirst": "Thomas Taylor was at the conference of 1777, and tells us that, on the conference Sunday, the morning service, in the Broadmead chapel, lasted from half-past nine till nearly ",
     "quoteTime": "one o’clock",
-    "quoteLast": " on Monday when the train reached Memphis, in Tennessee, which is situated on a high bluff overhanging the Mississippi.",
-    "title": "Pictures of Southern Life, Social, Political, and Military.",
-    "author": "Russell, William Howard, Sir, 1820-1907",
-    "gutenbergReference": "40727",
-    "hash": "dbe3ab2bfc465b61170aedb700ca5ba7bc4bdff634bce2d09a875128ca2ee1be"
+    "quoteLast": "; that, at five in the afternoon, Wesley preached to a large and serious crowd out of doors, and afterwards, in a full society meeting, “expatiated upon the rules, and said many useful things.”",
+    "title": "The life and times of the Rev. John Wesley, M.A., founder of the Methodists. Vol. 3 (of 3)",
+    "author": "Tyerman, L. (Luke), 1820?-1889",
+    "gutenbergReference": "76882",
+    "hash": "e63edd6bad53b060634df82c31de9b6103d0e74899af2d129a08008e64b9840c"
   },
   {
     "time": "01:00",
-    "quoteFirst": "“What the devil can that mean ",
-    "quoteTime": "at one o’clock",
-    "quoteLast": " at night?”",
-    "title": "The Fall of a Nation\nA Sequel to the Birth of a Nation",
-    "author": "Dixon, Thomas, Jr., 1864-1946; Wrenn, Charles L. (Charles Lewis), 1880-1952 [Illustrator]",
-    "gutenbergReference": "48089",
-    "hash": "0b84a9940b8d0a7ecb8f485273ab9d049ad1a137536a057ffa90b29fbd470ace"
-  },
-  {
-    "time": "01:00",
-    "quoteFirst": "It was ",
+    "quoteFirst": "He was trying to catch the ",
     "quoteTime": "one o'clock",
-    "quoteLast": ".",
-    "title": "The Lion and the Mouse; a Story of an American Life",
-    "author": "Klein, Charles, 1867-1915; Hornblow, Arthur, 1865-1942",
-    "gutenbergReference": "5119",
-    "hash": "c67e9aa6868e7b823589ec42a3dfad8173984f916dca06f4aa2e92e713d7ee9f"
-  },
-  {
-    "time": "01:00",
-    "quoteFirst": "At about ",
-    "quoteTime": "one o’clock",
-    "quoteLast": " in the afternoon of the 12th we left Geba, exchanging salutes with our flags with the station.",
-    "title": "French enterprise in Africa",
-    "author": "Hourst, 1864-1940; D'Anvers, N., 1844-1933 [Translator]",
-    "gutenbergReference": "71649",
-    "hash": "589b2adcb6c8d126ff7aafbeb8523104d7fd3739d7ef215198e5e5bd6449e825"
-  },
-  {
-    "time": "01:00",
-    "quoteFirst": "The next day I do the same; that is, if I receive _before_ ",
-    "quoteTime": "one o'clock",
-    "quoteLast": " the official notification that your civil marriage has taken place.",
-    "title": "Black Diamonds: A Novel",
-    "author": "Jókai, Mór, 1825-1904; Gerard, Frances A. [Translator]",
-    "gutenbergReference": "32668",
-    "hash": "a4cc11548222d32775267beb397e06026ca1f5881034cf6b6929bdd42f49a261"
-  },
-  {
-    "time": "01:00",
-    "quoteFirst": "That was ",
-    "quoteTime": "at one o'clock",
-    "quoteLast": " in the morning.",
-    "title": "Tonio, Son of the Sierras: A Story of the Apache War",
-    "author": "King, Charles, 1844-1933; Post, Charles Johnson, 1873-1956 [Illustrator]",
-    "gutenbergReference": "23487",
-    "hash": "aa0d6173ce2bf13eb8d8d52574be5afd2d4ed67dccca8c9e6ddeea124aa3dcaf"
+    "quoteLast": " express to London.",
+    "title": "Mysterious Mr. Sabin",
+    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
+    "gutenbergReference": "35661",
+    "hash": "b35ada62db37c68b3528b861986c77d879c53e75b335c8b6ea9cfaf06d548d42"
   }
 ]

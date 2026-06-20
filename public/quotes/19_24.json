@@ -11,6 +11,16 @@
   },
   {
     "time": "19:24",
+    "quoteFirst": ", sets at ",
+    "quoteTime": "7:24 p. m.",
+    "quoteLast": "; on the 16th, rises at 4:29 a.",
+    "title": "The Chautauquan, Vol. 05, June 1885, No. 9",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55394",
+    "hash": "9896f881ef3f3ef68ea9d79f56bfbf8535a343830735e636e7a45290f77e3ee1"
+  },
+  {
+    "time": "19:24",
     "quoteFirst": "On the twelfth of August, 1762, at ",
     "quoteTime": "twenty-four minutes after seven",
     "quoteLast": ", an heir apparent to the throne afterwards king George IV.",
@@ -18,6 +28,16 @@
     "author": "Hone, William, 1780-1842",
     "gutenbergReference": "53276",
     "hash": "efc5b84da54b36def0b77274345cc8e65c35b3cfe7cc7e3dca1ca83eeec30a69"
+  },
+  {
+    "time": "19:24",
+    "quoteFirst": "On the 4th, at ",
+    "quoteTime": "7:24 p. m.",
+    "quoteLast": ", he is 4° 2′ north of the moon.",
+    "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55251",
+    "hash": "3737acba95d6df4ed73c319da9ac89bece2b8285ef692b44d7d2065b78f4e392"
   },
   {
     "time": "19:24",

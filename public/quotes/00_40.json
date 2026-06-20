@@ -1,102 +1,202 @@
 [
   {
     "time": "00:40",
-    "quoteFirst": "At ",
-    "quoteTime": "12.40 A.M.",
-    "quoteLast": ", Richardson moved that the Senate adjourn; negatived by 5 to 30.",
-    "title": "The Life of Lyman Trumbull",
-    "author": "White, Horace, 1834-1916",
-    "gutenbergReference": "38043",
-    "hash": "01e30c2116b5799ee6eec554aafd267f2ca10a6a4cc95466a98e4a204b29c0e9"
+    "quoteFirst": "Glancing at the clock he was astonished to see that it marked ",
+    "quoteTime": "twenty minutes of one",
+    "quoteLast": ".",
+    "title": "Common Cause: A Novel of the War in America",
+    "author": "Adams, Samuel Hopkins, 1871-1958; Brown, Arthur William, 1881-1966 [Illustrator]",
+    "gutenbergReference": "55400",
+    "hash": "764dc192483187ce6432efceb6ee9f8382eb4a468c1734adb54e4669717a5b69"
   },
   {
     "time": "00:40",
     "quoteFirst": "It was ",
     "quoteTime": "twenty minutes to one",
+    "quoteLast": ", and he had slept more than twelve hours!",
+    "title": "No. 13 Toroni",
+    "author": "Regis, Julius, 1889-1925",
+    "gutenbergReference": "52498",
+    "hash": "c937d3b3d8227084a5a386ef42f38e2cc7158d19f301c6fbb8e2323a3a31e3e4"
+  },
+  {
+    "time": "00:40",
+    "quoteFirst": "At ",
+    "quoteTime": "forty minutes past twelve",
+    "quoteLast": " we left El Cowie, and at five o'clock in the evening alighted in a wood, called Terfowey, full of trees and grass.",
+    "title": "Travels to Discover the Source of the Nile, Volume 4 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
+    "author": "Bruce, James, 1730-1794",
+    "gutenbergReference": "56502",
+    "hash": "13b9a444d695fddad2741597d49c5faa424642c127c36d1c127700abefa8a33b"
+  },
+  {
+    "time": "00:40",
+    "quoteFirst": "When he came, at ",
+    "quoteTime": "twenty minutes to one",
+    "quoteLast": ", she was standing at the window, but she did not turn.",
+    "title": "The Cost",
+    "author": "Phillips, David Graham, 1867-1911",
+    "gutenbergReference": "478",
+    "hash": "b2f45615355b3d25080b84bf2268de31fe887bcda9509a41024b41cade6590dd"
+  },
+  {
+    "time": "00:40",
+    "quoteFirst": "\"It's ",
+    "quoteTime": "twenty minutes to one",
+    "quoteLast": ". You'd better run along, dears,\" he said.",
+    "title": "The Bent Twig",
+    "author": "Fisher, Dorothy Canfield, 1879-1958",
+    "gutenbergReference": "11221",
+    "hash": "122e78a4f8eddca3d97327e07d6067f6bb900dffd89ce394ed672796ce092c3c"
+  },
+  {
+    "time": "00:40",
+    "quoteFirst": "each 5 minutes, and the glycosuria appeared in from ",
+    "quoteTime": "20 minutes to 1",
+    "quoteLast": " hour and 30 minutes after the beginning of the infusion.",
+    "title": "On the mechanism of the physiological action of the cathartics",
+    "author": "MacCallum, John Bruce, 1876-1906",
+    "gutenbergReference": "70308",
+    "hash": "806f53dacf51459f19d105a87ff09ecb2ff9de5330bc31146c5986beb54d7f81"
+  },
+  {
+    "time": "00:40",
+    "quoteFirst": "\"It's ",
+    "quoteTime": "twenty minutes to one",
+    "quoteLast": ". You'd better run along, dears,\" he said.",
+    "title": "The Bent Twig",
+    "author": "Fisher, Dorothy Canfield, 1879-1958",
+    "gutenbergReference": "11221",
+    "hash": "122e78a4f8eddca3d97327e07d6067f6bb900dffd89ce394ed672796ce092c3c"
+  },
+  {
+    "time": "00:40",
+    "quoteFirst": "As it was then ",
+    "quoteTime": "twenty minutes to one",
+    "quoteLast": ", Carter had assumed that she would not again leave the building, and had returned to the Yard.",
+    "title": "The purple sickle murders",
+    "author": "Crofts, Freeman Wills, 1879-1957",
+    "gutenbergReference": "75488",
+    "hash": "03b2c5872fe35c6c2a9d585f9af3a7857e921121c84d16e4c79ceaa95f6d3e6e"
+  },
+  {
+    "time": "00:40",
+    "quoteFirst": "It was only at the crossing-place of the 45th Infantry Brigade at Les Rivages that everything, at first, appeared to go smoothly, so that the 23rd Infantry Division reported at ",
+    "quoteTime": "12.40 a.m.",
+    "quoteLast": " through Major v.",
+    "title": "The German Army in Belgium, the White Book of May 1915",
+    "author": "Germany. Auswärtiges Amt; Bennett, E. N. (Ernest Nathaniel), Sir, 1868-1947 [Translator]",
+    "gutenbergReference": "54296",
+    "hash": "25cd5266942e9b96f4a85a857b0e32b53d97232ebc8e3d29822aceb80b1c04d2"
+  },
+  {
+    "time": "00:40",
+    "quoteFirst": "In the first place, it was clear, from the testimony recorded, that the prisoner and her daughter had quitted the house of the deceased at half-past eleven--had taken a cab at the Angel at midnight--and had driven straight home, reaching Suffolk-street at ",
+    "quoteTime": "twenty minutes to one",
     "quoteLast": ".",
-    "title": "The Drunkard",
-    "author": "Thorne, Guy, 1875-1923",
-    "gutenbergReference": "41139",
-    "hash": "de640a11b60e3c07fa13ef18ff64eff6ecae525c8c9b05759ae5cc41a1f24799"
+    "title": "The Mysteries of London, v. 4/4",
+    "author": "Reynolds, George W. M. (George William MacArthur), 1814-1879",
+    "gutenbergReference": "51649",
+    "hash": "f1971f6615d5d592d59b420313c84ca95c4d76f28b95a47b2375b4bce9b7edcd"
   },
   {
     "time": "00:40",
-    "quoteFirst": "\"I can catch the ",
-    "quoteTime": "twelve-forty",
-    "quoteLast": " to New York. Don't give out that I am away. We had better do a little camouflage act of our own. I am ill, very ill! That will do! Let it be--what shall it be?\"",
-    "title": "Molly Brown's College Friends",
-    "author": "Speed, Nell, 1878-1913; Wrenn, Charles L. (Charles Lewis), 1880-1952 [Illustrator]",
-    "gutenbergReference": "36733",
-    "hash": "f83696b18659b4c3404bd772a10f5b726ea5107ee6ebf029b5298748795dc05a"
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty minutes to one",
+    "quoteLast": ",\" said Perry.",
+    "title": "St. Nicholas Magazine for Boys and Girls, Vol. 5, No. 07, May 1878\r\nScribner's Illustrated",
+    "author": "Various; Dodge, Mary Mapes, 1830-1905 [Editor]",
+    "gutenbergReference": "16173",
+    "hash": "a9543acd1d0e273962a53c1a20cfb1c97bd66a06227de843e18cbf4a29a324fe"
   },
   {
     "time": "00:40",
-    "quoteFirst": "It's nearly ",
-    "quoteTime": "twenty minutes of one",
-    "quoteLast": ", Willie.”",
-    "title": "Seventeen\r\nA Tale of Youth and Summer Time and the Baxter Family, Especially William",
-    "author": "Tarkington, Booth, 1869-1946",
-    "gutenbergReference": "1611",
-    "hash": "1e26db7241e65af15a166e53afe7a4b9e7f3f342f0573e08b83a420537f1ea53"
+    "quoteFirst": "The kitchen clock pointed to the half hour, and even to ",
+    "quoteTime": "twenty minutes to one",
+    "quoteLast": ".",
+    "title": "Polly: A New-Fashioned Girl",
+    "author": "Meade, L. T., 1854-1914",
+    "gutenbergReference": "18666",
+    "hash": "c5f899cf11dcd29c9c91777582845405e4688b5741a946f59face533775b15f2"
   },
   {
     "time": "00:40",
     "quoteFirst": "“It is ",
-    "quoteTime": "twenty minutes to one",
-    "quoteLast": ",” he said.",
-    "title": "Patience Sparhawk and Her Times: A Novel",
-    "author": "Atherton, Gertrude Franklin Horn, 1857-1948",
-    "gutenbergReference": "53009",
-    "hash": "a59b95463dbe4d46f5991fad00886503f4e78ddf79187f97218347156fcac340"
+    "quoteTime": "twelve-forty",
+    "quoteLast": ",” he apologised.",
+    "title": "Thornley Colton",
+    "author": "Stagg, Clinton H. (Clinton Holland), 1888-1916",
+    "gutenbergReference": "78643",
+    "hash": "d5c51fe5a0b010201a482f648a1ee5de8ca86bf3ff506519d0ecd4086a3b4167"
+  },
+  {
+    "time": "00:40",
+    "quoteFirst": "The last agony of the unfortunate child (whose sufferings had been greatly accelerated ever since the fourteenth of January) commenced at five in the evening of the twenty-first, and did not terminate till ",
+    "quoteTime": "forty minutes past twelve",
+    "quoteLast": ", at which time he drew his last breath in a long sigh of relief.",
+    "title": "A moment of madness, and other stories (vol. 2 of 3)",
+    "author": "Marryat, Florence, 1833-1899",
+    "gutenbergReference": "72575",
+    "hash": "0629371fe863074c84d2376c53822bcb1a386bd8e936c8a2dd840106cb56db59"
   },
   {
     "time": "00:40",
     "quoteFirst": "At ",
-    "quoteTime": "12.40 A.M.",
-    "quoteLast": ", Richardson moved that the Senate adjourn; negatived by 5 to 30.",
-    "title": "The Life of Lyman Trumbull",
-    "author": "White, Horace, 1834-1916",
-    "gutenbergReference": "38043",
-    "hash": "01e30c2116b5799ee6eec554aafd267f2ca10a6a4cc95466a98e4a204b29c0e9"
+    "quoteTime": "12.40 a.m.",
+    "quoteLast": " on March 30th relief was reported complete, and our friends of the 2/5th South Lancashire Regiment proceeded joyfully to Crown Prince House and the reserve billets in the Rue Marle.",
+    "title": "The History of the 2/6th (Rifle) Battalion, \"the King's\" (Liverpool Regiment) 1914-1919",
+    "author": "Wurtzburg, C. E. (Charles Edward), 1891-1952",
+    "gutenbergReference": "49875",
+    "hash": "f5b5cdfd2a619c96c78683ed4203be764df95b18fa6216d7322c046b2503d98b"
   },
   {
     "time": "00:40",
-    "quoteFirst": "It was ",
-    "quoteTime": "12.40 A.M.",
-    "quoteLast": " I went back to the dining-room window, and saw Mariette and her son creep noiselessly through the hall.",
-    "title": "My Memoirs",
-    "author": "Steinheil, Marguerite, 1869-1954",
-    "gutenbergReference": "37390",
-    "hash": "32286a99c2097a8732250cd27b32c8fc4d1944dfd939621ef4d14223cc352c43"
-  },
-  {
-    "time": "00:40",
-    "quoteFirst": "He escaped to the adjacent railroad-yards, stole a corduroy coat and pair of blue overalls hanging in a switchman's shanty and caught the ",
-    "quoteTime": "twelve-forty",
-    "quoteLast": " freight up Green River.'\"",
-    "title": "O. Henry Memorial Award Prize Stories of 1920",
-    "author": "Society of Arts and Sciences (U.S.) [Editor]; Williams, Blanche Colton, 1879-1944 [Author of introduction, etc.]",
-    "gutenbergReference": "11721",
-    "hash": "681a89ac0a05d3badda9d42ccef85de22d64f2f4fc91429d52cd531b7bba0a90"
-  },
-  {
-    "time": "00:40",
-    "quoteFirst": "",
-    "quoteTime": "Twelve-forty",
-    "quoteLast": ", Thursday.”",
-    "title": "The Light That Failed",
-    "author": "Kipling, Rudyard, 1865-1936",
-    "gutenbergReference": "2876",
-    "hash": "66650b0bee775b13ea991db6f85390744b10f5602f1c206c976a82dd7fae6499"
-  },
-  {
-    "time": "00:40",
-    "quoteFirst": "She was confident it was barely so late as ",
+    "quoteFirst": "it was ",
     "quoteTime": "twenty minutes to one",
-    "quoteLast": " when the post-chaise drove up to the door.",
-    "title": "Harper's New Monthly Magazine, Vol. V, No. XXV, June, 1852",
-    "author": "Various",
-    "gutenbergReference": "45764",
-    "hash": "bd2c6a20d3a248d73a265fd2e20605396a8f3426c09b8773a50ed2772691b161"
+    "quoteLast": " and she would be late.",
+    "title": "Rebecca of Sunnybrook Farm",
+    "author": "Wiggin, Kate Douglas Smith, 1856-1923",
+    "gutenbergReference": "498",
+    "hash": "93c11ad82cbd51ae13e55062c7d2ade4b1b54a36dea37d68d178b03930112bfe"
+  },
+  {
+    "time": "00:40",
+    "quoteFirst": "This must have been about ",
+    "quoteTime": "12.40 A.M.",
+    "quoteLast": " I suppose the band must have begun to play soon after this and gone on until after 2 A.M. Many brave things were done that night, but none more brave than by those few men playing minute after minute as the ship settled quietly lower and lower in the sea and the sea rose higher and higher to where they stood; the music they played serving alike as their own immortal requiem and their right to be recorded on the rolls of undying fame.",
+    "title": "The Loss of the S. S. Titanic: Its Story and Its Lessons",
+    "author": "Beesley, Lawrence, 1877-1967",
+    "gutenbergReference": "6675",
+    "hash": "cb891d923f57e1ccd5c3efef41c780e635932bfac75235099d32914907a9858e"
+  },
+  {
+    "time": "00:40",
+    "quoteFirst": "He told me so in confidence when he felt certain I couldn't possibly be a competitor--told it to me, and kidded me for a dead one at ",
+    "quoteTime": "twenty minutes of one",
+    "quoteLast": ", when he knew I couldn't possibly have time to act.",
+    "title": "Cappy Ricks Retires: But That Doesn't Keep Him from Coming Back Stronger Than Ever",
+    "author": "Kyne, Peter B. (Peter Bernard), 1880-1957",
+    "gutenbergReference": "6020",
+    "hash": "00ad0ab4b37a6881c307b2eda052cb698978a005644ee985d6eec3b8a67d2b1f"
+  },
+  {
+    "time": "00:40",
+    "quoteFirst": "At noon on the day of the race the horses and carriages were taken to the course; at five and ",
+    "quoteTime": "twenty minutes to one",
+    "quoteLast": " Lord Lonsdale drove up in a pair-horse brougham; at one o'clock to the second he trotted his single horse, War Paint, to the starting-point, and War Paint bounded down the road.",
+    "title": "Highways and Byways in Surrey",
+    "author": "Parker, Eric, 1870-1955; Thomson, Hugh, 1860-1920 [Illustrator]",
+    "gutenbergReference": "28057",
+    "hash": "faf772381e4cc601e1b7f9a54a6a5e348c1b92a56aa4115f436bb7befbdf6323"
+  },
+  {
+    "time": "00:40",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes to one",
+    "quoteLast": " we reached _Falooja_; the heat had become intense, and incessant swarms of black stinging flies annoyed our horses beyond patience.",
+    "title": "Byeways in Palestine",
+    "author": "Finn, James, -1872",
+    "gutenbergReference": "22097",
+    "hash": "cf60cce659a3919503dcff6b1f93604fe1d3953e98de18ef8be4fd392dac442b"
   }
 ]

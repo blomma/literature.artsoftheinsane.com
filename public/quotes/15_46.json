@@ -41,6 +41,26 @@
   },
   {
     "time": "15:46",
+    "quoteFirst": "2       ----       ----     Collumpton              \"    ----       ----      11.38     TAUNTON                 \"    ----       ----       1.37 p.m.     Bridgewater             \"    ----       ----       2.52     BATH                    \"    ----       ----       7.30     Devizes                 \"    ----       ----       9.24     Marlborough             \"    ----       ----      10.49     Newbury                 \"    ----       ----      12.42 a.m.     Maidenhead              \"    ----       ----       3.44     Slough                  \"    ----       ----       ----   Staines                   \"    ----       ",
+    "quoteTime": "3.46 p.m.",
+    "quoteLast": "  ----   Hounslow                  \"    ----       ----       5.26   ST. MARTIN'S-LE-GRAND    arr.",
+    "title": "An Old Coachman's Chatter, with Some Practical Remarks on Driving",
+    "author": "Corbett, Edward, 1817-1895; Sturgess, J. (John), 1839-1903 [Illustrator]",
+    "gutenbergReference": "43895",
+    "hash": "f216d3ecebfe876af2486bc4e6090b923f2e85ce6bddac6889e5cdb462931eb0"
+  },
+  {
+    "time": "15:46",
+    "quoteFirst": "At ",
+    "quoteTime": "forty-six minutes past three",
+    "quoteLast": ", I give you permission to leave this room.",
+    "title": "Arsène Lupin versus Herlock Sholmes",
+    "author": "Leblanc, Maurice, 1864-1941; Morehead, George [Translator]",
+    "gutenbergReference": "40203",
+    "hash": "63503d1ae2f1975f970c279b0d63989fdd9dcc001d679c4ade95a7867b4a0102"
+  },
+  {
+    "time": "15:46",
     "quoteFirst": "Not one minute sooner than ",
     "quoteTime": "forty-six minutes past three",
     "quoteLast": ".”",

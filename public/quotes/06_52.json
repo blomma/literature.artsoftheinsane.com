@@ -31,6 +31,16 @@
   },
   {
     "time": "06:52",
+    "quoteFirst": "\"",
+    "quoteTime": "Eight minutes to seven",
+    "quoteLast": ".\"",
+    "title": "At the Sign of the Silver Flagon",
+    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+    "gutenbergReference": "53062",
+    "hash": "bdeebf9dd8138da005bab15f8d4539357bdec01a23f4ab5a6f6278f862a17fe7"
+  },
+  {
+    "time": "06:52",
     "quoteFirst": ", and sets on the 17th at ",
     "quoteTime": "6:52 a. m.",
     "quoteLast": "; rises on the 31st at 3:11 p.",

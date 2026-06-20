@@ -1,6 +1,16 @@
 [
   {
     "time": "05:13",
+    "quoteFirst": "Its times of rising are as follows: On the 1st, ",
+    "quoteTime": "5:13 a. m.",
+    "quoteLast": "; on the 16th, 4:19 a.",
+    "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55218",
+    "hash": "e07e3f0f31c042e3580f6af3cb2ab68b9d6e008cf36f81b0202543f06a3f7950"
+  },
+  {
+    "time": "05:13",
     "quoteFirst": ", new moon; on the 27th, at ",
     "quoteTime": "5:13 a. m.",
     "quoteLast": ", first quarter.",

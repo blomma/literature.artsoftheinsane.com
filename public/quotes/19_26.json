@@ -1,6 +1,16 @@
 [
   {
     "time": "19:26",
+    "quoteFirst": "On Telstar’s sixth orbit around the earth—at ",
+    "quoteTime": "7:26 p.m.",
+    "quoteLast": "—the first transmission to and from the satellite took place.",
+    "title": "Satellite Communications Physics",
+    "author": "Foster, R. M. (Ronald Martin), 1896-1998 [Editor]",
+    "gutenbergReference": "62886",
+    "hash": "1b4775075494a3ac56b342a07bfb677559120ee1b02b4d64bcaf7417f2fbc302"
+  },
+  {
+    "time": "19:26",
     "quoteFirst": "\"It is ",
     "quoteTime": "twenty-six minutes past seven",
     "quoteLast": ".\"",

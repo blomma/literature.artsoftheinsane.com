@@ -1,6 +1,16 @@
 [
   {
     "time": "17:14",
+    "quoteFirst": "A fox was once unkennelled near Boroughbridge in Yorkshire, at twenty-seven minutes past nine, and except half-an-hour taken up in bolting him from a rabbit-burrow, the hounds had a continued run until ",
+    "quoteTime": "fourteen minutes past five",
+    "quoteLast": " in the evening, when they killed the fox in good style.",
+    "title": "Anecdotes of Dogs",
+    "author": "Jesse, Edward, 1780-1868",
+    "gutenbergReference": "26500",
+    "hash": "2d26df0c4f559e22cc78c71a284fbb3581a7860aaaf9a8b93979fecc9c250401"
+  },
+  {
+    "time": "17:14",
     "quoteFirst": "But twisting her head to see the round clock, just above the entrance, with its great brass weights ponderously doling off the time, in plain view, she started with dismay, for its hands remorselessly pointed to ",
     "quoteTime": "fourteen minutes past five",
     "quoteLast": ".",
@@ -38,6 +48,16 @@
     "author": "Harper, Charles G. (Charles George), 1863-1943",
     "gutenbergReference": "54140",
     "hash": "8ad818e8b9ba121b6bf09cfb308554c3435086b5a48a4ed44ec612b4ffea48f1"
+  },
+  {
+    "time": "17:14",
+    "quoteFirst": "When the first shots were fired, Preston Johnston, son of the Confederate commander, looked at his watch, and it was just ",
+    "quoteTime": "fourteen minutes past five",
+    "quoteLast": " o'clock.",
+    "title": "General Nelson's Scout",
+    "author": "Dunn, Byron A. (Byron Archibald), 1842-1926; Braunhold, Louis [Illustrator]",
+    "gutenbergReference": "49529",
+    "hash": "6f2ed8f5a5bc9e9a7fab4a325d45057bd45014f27371a83e196d36f2cc22bd58"
   },
   {
     "time": "17:14",

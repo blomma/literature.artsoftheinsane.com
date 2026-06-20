@@ -1,6 +1,46 @@
 [
   {
     "time": "23:25",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty-five minutes past eleven",
+    "quoteLast": ".",
+    "title": "The Old Wives' Tale",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "5247",
+    "hash": "d9671da458282e7dd6ad81a579523e5ccd8f1fd5d042f02d4e4d73166a16a145"
+  },
+  {
+    "time": "23:25",
+    "quoteFirst": "He closed his eyes, and, inasmuch as the town clock furnishes the official time for Rearward, the published report of Tommy McGuffy's going records that he passed at ",
+    "quoteTime": "twenty-five minutes after eleven P.M.",
+    "quoteLast": ", November 11, 1890.",
+    "title": "Tales from Bohemia",
+    "author": "Stephens, Robert Neilson, 1867-1906",
+    "gutenbergReference": "8869",
+    "hash": "08a9110c421117bfffe859e17196f0255615e054093b981d0a995e3e02e29735"
+  },
+  {
+    "time": "23:25",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty-five minutes past eleven",
+    "quoteLast": ".",
+    "title": "Captain Desmond, V.C.",
+    "author": "Diver, Maud, 1867-1945",
+    "gutenbergReference": "27629",
+    "hash": "46611e43b45ecf86dea03d0a8a431dfa796ca9451d8e1e952deef86b42ce7966"
+  },
+  {
+    "time": "23:25",
+    "quoteFirst": "Accordingly, at 9.50 p.m. the finest pair of climbers the Lake District has ever seen turned back on the Glendaterra, reaching Keswick at ",
+    "quoteTime": "11.25 p.m.",
+    "quoteLast": " in extremely strong condition, considering the day’s exertion.",
+    "title": "In Lakeland Dells and Fells",
+    "author": "Palmer, William T., 1877-1954",
+    "gutenbergReference": "62607",
+    "hash": "cf941d03c062c348e1bb2bd2240b08013053d04536881d2f1ffeb82a6015aa7b"
+  },
+  {
+    "time": "23:25",
     "quoteFirst": "On the night of October 2, 1917, at ",
     "quoteTime": "11.25 P.M.",
     "quoteLast": ", a dark object was  sighted by the officer of the deck, bearing about three points on the  port bow.",
@@ -11,23 +51,13 @@
   },
   {
     "time": "23:25",
-    "quoteFirst": "At ",
-    "quoteTime": "11.25 P.M.",
-    "quoteLast": " sub called _Corsair_ and asked for a repetition of the  second group.",
-    "title": "The Corsair in the war zone",
-    "author": "Paine, Ralph Delahaye, 1871-1925",
-    "gutenbergReference": "72760",
-    "hash": "bb01e753248a03bf11338dc09bdff63f67a5db7761e35b0d4b2c5736d692bd22"
-  },
-  {
-    "time": "23:25",
-    "quoteFirst": "\"Just ",
-    "quoteTime": "twenty-five minutes after eleven",
-    "quoteLast": ", sir.\"",
-    "title": "A Chain of Evidence",
-    "author": "Wells, Carolyn, 1862-1942; Hoskins, Gayle Porter, 1887-1962 [Illustrator]",
-    "gutenbergReference": "43351",
-    "hash": "bc4160ca2019b216b13649c699d1f474e8040dc46f8a19689aceafc1f3dbc871"
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty-five minutes past eleven",
+    "quoteLast": ",\" he murmured dreamily.",
+    "title": "A Master of Mysteries",
+    "author": "Meade, L. T., 1854-1914; Eustace, Robert, 1869-1943; Walton, J. Ambrose, 1874- [Illustrator]",
+    "gutenbergReference": "22278",
+    "hash": "9ba317e63a952fb0e19df68200425b42bb0e7f17fc94c0a42c3db7cac99bf5b5"
   },
   {
     "time": "23:25",
@@ -41,6 +71,26 @@
   },
   {
     "time": "23:25",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-five minutes past eleven",
+    "quoteLast": " the second gun was fired.",
+    "title": "Robur the Conqueror",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "3808",
+    "hash": "6cd7ca479d4fb4b7ac021d308f6bf10202bd2ff691592466eda548cb12181e81"
+  },
+  {
+    "time": "23:25",
+    "quoteFirst": "",
+    "quoteTime": "11.25 P. M.",
+    "quoteLast": " Investigator counted 2 street walkers at the corner of Sixth Avenue and ---- Street in the vicinity of this hotel.",
+    "title": "Commercialized Prostitution in New York City",
+    "author": "Kneeland, George J. (George Jackson), 1872-; Rockefeller, John D., Jr. (John Davison), 1874-1960 [Author of introduction, etc.]; Davis, Katharine Bement, 1860-1935 [Contributor]",
+    "gutenbergReference": "36506",
+    "hash": "a404ac20e91ec25ee04133f13dedbe7d24506b3bb700e90fd27ccb665e5290c6"
+  },
+  {
+    "time": "23:25",
     "quoteFirst": "It was ",
     "quoteTime": "twenty-five minutes past eleven",
     "quoteLast": ".",
@@ -51,13 +101,63 @@
   },
   {
     "time": "23:25",
-    "quoteFirst": "It was then ",
+    "quoteFirst": "It was ",
     "quoteTime": "twenty-five minutes past eleven",
-    "quoteLast": "; and very soon after that he had fallen asleep.",
-    "title": "The Greene murder case",
-    "author": "Van Dine, S. S., 1888-1939; Balcolm, Lowell Leroy, 1887-1938 [Illustrator]",
-    "gutenbergReference": "72719",
-    "hash": "a066fe4dc0e257a4f2bfb95d2391481577e2c6b71aaf03014033650c8cb89c3c"
+    "quoteLast": ".",
+    "title": "The Old Wives' Tale",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "5247",
+    "hash": "d9671da458282e7dd6ad81a579523e5ccd8f1fd5d042f02d4e4d73166a16a145"
+  },
+  {
+    "time": "23:25",
+    "quoteFirst": "“",
+    "quoteTime": "Twenty-five past eleven",
+    "quoteLast": ",” he said, looking at his watch.",
+    "title": "The avenger",
+    "author": "Wallace, Edgar, 1875-1932",
+    "gutenbergReference": "69788",
+    "hash": "bc805eefbebf841f6e866724587d5843f36baf777836534815d4159836624a96"
+  },
+  {
+    "time": "23:25",
+    "quoteFirst": "30,               ",
+    "quoteTime": "11.25 P. M.",
+    "quoteLast": "              Pleasant.",
+    "title": "The Knickerbocker, Vol. 22, No. 5, November 1843",
+    "author": "Various",
+    "gutenbergReference": "47805",
+    "hash": "81f70086821098940a16906e2e722ca5feba0b8a4130f5c46e316d06f2644c6f"
+  },
+  {
+    "time": "23:25",
+    "quoteFirst": "Colonel Grey came out of the library window at about ",
+    "quoteTime": "twenty-five minutes past eleven",
+    "quoteLast": ", after a distressing interview with Lady Loudwater, apparently in a very bad temper.",
+    "title": "The Loudwater Mystery",
+    "author": "Jepson, Edgar, 1863-1938",
+    "gutenbergReference": "9808",
+    "hash": "ee51fbab2161f4c144a5e6d310406ed72558b33ffab630db1fba8c49986ce29a"
+  },
+  {
+    "time": "23:25",
+    "quoteFirst": "“It was about ",
+    "quoteTime": "twenty-five minutes after eleven",
+    "quoteLast": ", on the morning of a Thursday, that I sat pondering in my mind the ques-ti-on what to do with the butter and the veg-et-ables. Here was butter, and here was green corn and lima-beans and trophy tomats, far more than I ere could use. And here was a horse, idly cropping the fol-i-age in the field, for as my employer had advis-ed and order-ed I had put the steed to grass. And here was a wagon, none too new, which had it the top taken off, or even the curtains roll-ed up, would do for a li-cen-ced vender.",
+    "title": "Rudder Grange",
+    "author": "Stockton, Frank R., 1834-1902",
+    "gutenbergReference": "2011",
+    "hash": "4b9ac47f0d8f5390bdc78c2c05c318852ff0c732312968fa46a88d0592a6dde1"
+  },
+  {
+    "time": "23:25",
+    "quoteFirst": "The complaint was filed at ",
+    "quoteTime": "11:25 p.m.",
+    "quoteLast": ", was accepted by me at 11:26 p.m. It was filed at approximately 11:25 p.m. by Capt.",
+    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58030",
+    "hash": "9337a42e6262fd3336f7e168054f67683061d6c3e6da629f5c1cd82c11b19fc5"
   },
   {
     "time": "23:25",
@@ -71,32 +171,32 @@
   },
   {
     "time": "23:25",
-    "quoteFirst": "On the night of October 2, 1917, at ",
-    "quoteTime": "11.25 P.M.",
-    "quoteLast": ", a dark object was  sighted by the officer of the deck, bearing about three points on the  port bow.",
-    "title": "The Corsair in the war zone",
-    "author": "Paine, Ralph Delahaye, 1871-1925",
-    "gutenbergReference": "72760",
-    "hash": "85edcced784b7d68cbe2f57a5871f7f5d7ed618938cde9c27a93f708f1645198"
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty-five minutes past eleven",
+    "quoteLast": ",\" he murmured dreamily.",
+    "title": "A Master of Mysteries",
+    "author": "Meade, L. T., 1854-1914; Eustace, Robert, 1869-1943; Walton, J. Ambrose, 1874- [Illustrator]",
+    "gutenbergReference": "22278",
+    "hash": "9ba317e63a952fb0e19df68200425b42bb0e7f17fc94c0a42c3db7cac99bf5b5"
   },
   {
     "time": "23:25",
-    "quoteFirst": "At ",
-    "quoteTime": "11.25 P.M.",
-    "quoteLast": " sub called _Corsair_ and asked for a repetition of the  second group.",
-    "title": "The Corsair in the war zone",
-    "author": "Paine, Ralph Delahaye, 1871-1925",
-    "gutenbergReference": "72760",
-    "hash": "bb01e753248a03bf11338dc09bdff63f67a5db7761e35b0d4b2c5736d692bd22"
+    "quoteFirst": "The raid took place at ",
+    "quoteTime": "11.25 p.m.",
+    "quoteLast": " A heavy barrage of trench-mortar and machine-gun fire was met with at a place called Dolls’ House in “No Man’s Land”: here the infantry were held up, and though reinforced were unable to advance further.",
+    "title": "Tanks in the Great War, 1914-1918",
+    "author": "Fuller, J. F. C. (John Frederick Charles), 1878-1966",
+    "gutenbergReference": "49808",
+    "hash": "26414c6d2f51ccce5a192507ad01f9e2333d99b8a983e538e0266a657c3ddc37"
   },
   {
     "time": "23:25",
-    "quoteFirst": "At ",
-    "quoteTime": "11.25 P.M.",
-    "quoteLast": " sub called _Corsair_ and asked for a repetition of the  second group.",
-    "title": "The Corsair in the war zone",
-    "author": "Paine, Ralph Delahaye, 1871-1925",
-    "gutenbergReference": "72760",
-    "hash": "bb01e753248a03bf11338dc09bdff63f67a5db7761e35b0d4b2c5736d692bd22"
+    "quoteFirst": "Just ",
+    "quoteTime": "twenty-five minutes past eleven",
+    "quoteLast": ".",
+    "title": "From School to Battle-field: A Story of the War Days",
+    "author": "King, Charles, 1844-1933; Oakley, Violet, 1874-1961 [Illustrator]; Stephens, Charles H., 1851-1931 [Illustrator]",
+    "gutenbergReference": "37672",
+    "hash": "f4f1ad20b6e11686134442f54a2ad520734c5eacc54ba577890db5796c1d05f9"
   }
 ]

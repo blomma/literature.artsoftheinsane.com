@@ -1,102 +1,202 @@
 [
   {
     "time": "09:50",
-    "quoteFirst": "It's ",
-    "quoteTime": "ten minutes to ten",
-    "quoteLast": " now.\"",
-    "title": "Ideala",
-    "author": "Grand, Sarah, 1854-1943",
-    "gutenbergReference": "6855",
-    "hash": "5fedb6bea28ac79ac6d64eb68526a976a9493d607729f287637ea05466b6f576"
-  },
-  {
-    "time": "09:50",
-    "quoteFirst": "Majendie had promised to be home in time to start by the ",
-    "quoteTime": "nine-fifty",
-    "quoteLast": " train.",
-    "title": "The Helpmate",
-    "author": "Sinclair, May, 1863-1946",
-    "gutenbergReference": "17867",
-    "hash": "c69c1879f8a2e987bfe101b6a50e84b6f85828c2f90ec57de3ad2fa0bbc9bbe5"
-  },
-  {
-    "time": "09:50",
-    "quoteFirst": "At ",
+    "quoteFirst": "4   2   1   2   3   4   6   9   1 11 12   7   4   7 10 12 10 10   4   5   6   8 11 11   7   6   8 10   1   1 Sinchul Sinchul Ascent of Tonglo Tambur river Sakkiazong Chateng Buckim Buckim Chateng Lachoong, 7 a.m. Lachoong, ",
     "quoteTime": "9.50 a.m.",
-    "quoteLast": " started motor and ran it until 0.50 p.m.; and again from 3.24 p.m. to 5.45 p.m. Notwithstanding our using power, it was 10 p.m. before the light on Cape Mala could be entered in the log as just dipping.",
-    "title": "The mystery of Easter island: the story of an expedition",
-    "author": "Routledge, Katherine, 1866-1935",
-    "gutenbergReference": "69807",
-    "hash": "3386334cac2a1614b4801e4d7e8398f61c12d4ff6379a1e459650f36c377c619"
-  },
-  {
-    "time": "09:50",
-    "quoteFirst": "At ",
-    "quoteTime": "9.50 A.M.",
-    "quoteLast": ", on the morning of the 8th of September I went aboard the vestibule train of the New York Central & Hudson River Railroad, at Forty-second Street, New York; and having travelled on the principal railroads around the world, I can truly say that no train which has ever carried me has approached this one in luxurious ease, comfort, and safety.",
-    "title": "Around the World in Seven Months",
-    "author": "Gillis, Charles J.",
-    "gutenbergReference": "43495",
-    "hash": "410076ba4fd646df02578f39af1c36a7fc18c0c3b6f76f0a45fb5dd6e69610cc"
-  },
-  {
-    "time": "09:50",
-    "quoteFirst": "“There’s an eight and a ",
-    "quoteTime": "nine-fifty",
-    "quoteLast": ", sir, from Waterloo.”",
-    "title": "The purple sickle murders",
-    "author": "Crofts, Freeman Wills, 1879-1957",
-    "gutenbergReference": "75488",
-    "hash": "772c7ebbac322831501233cd94821d4e6f7330a50a384973105ac9b4e81b5ea1"
-  },
-  {
-    "time": "09:50",
-    "quoteFirst": "operates regular daily automobile service to the park from the following places: Denver, leaving at 8:45 a.m. and 2:30 p.m.; Greeley, 9:15 a.m.; Fort Collins, 7:45 a.m.; Loveland, ",
-    "quoteTime": "9:50 a.m.",
-    "quoteLast": "; Longmont, 9:45 a.m.; Lyons, 11:30 a.m.; Boulder, 9:35 a.m. Corresponding return service from Estes Park is available, return trips for Denver starting from Estes Park at 8:15 a.m. and 1:45 p.m.",
-    "title": "Rocky Mountain National Park [Colorado]",
-    "author": "United States. Department of the Interior",
-    "gutenbergReference": "37918",
-    "hash": "691b3a9f25e987e01a0c493e580c926ab939a16eb12f8eeeb25d1aa6c61abb5c"
-  },
-  {
-    "time": "09:50",
-    "quoteFirst": "At ",
-    "quoteTime": "9.50 a.m.",
-    "quoteLast": " the barometer is at its highest, and falls till 4 p.m., when it stands on the average of the year 0.074 of an inch lower; during the same period the Calcutta fall is upwards of one-tenth of an inch (0.121 Prinsep).",
-    "title": "Himalayan Journals — Volume 2\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
-    "author": "Hooker, Joseph Dalton, 1817-1911",
-    "gutenbergReference": "6477",
-    "hash": "4512c95317a0280f89eaa26bcb5c97736aac7f741953aaa2e6d3533ec17664e4"
-  },
-  {
-    "time": "09:50",
-    "quoteFirst": "By ",
-    "quoteTime": "nine-fifty",
-    "quoteLast": " the balcony was filling up, and by one minute to ten there was not a seat left anywhere, not even in the second balcony.",
-    "title": "Stormy, Misty's Foal",
-    "author": "Henry, Marguerite, 1902-1997; Dennis, Wesley, 1903-1966 [Illustrator]",
-    "gutenbergReference": "67298",
-    "hash": "10215d3f24b451a5e109787d75c2dd397572c0f213f0ca00014b98ef674b7869"
-  },
-  {
-    "time": "09:50",
-    "quoteFirst": "6   3   2   1   1 Yangma valley Choonjerma pass Lachee-pia Momay, 7 a.m. Momay, ",
-    "quoteTime": "9.50 a.m.",
-    "quoteLast": " Momay, noon Momay, 2.40 p.m. Momay, 4 p.m. Momay, sunset Momay, Miscellaneous Momay, Miscellaneous Sittong Palung",
+    "quoteLast": " Lachoong, noon Lachoong, 2.40 p.m. Lachoong, 4 p.m. Lachoong, sunset Lachoong, Miscellaneous Lamteng, 6 a.m. Lamteng, 9.50 a.m. Lamteng, noon Lamteng, 2.40 p.m. Lamteng, 4 p.m. Lamteng, sunset Zemu Samdong, 7 a.m. Zemu Samdong, 9.50 a.m. Zemu Samdong, noon Zemu Samdong, 2.40 p.m. Zemu Samdong, sunset Zemu Samdong, 4 p.m. Goong Tendong (top) 8607 8607 8148 8081 8353 8418 8659 8659 8752 8777 8777 8777 8777 8777 8777 8777 8884 8884 8884 8884 8884 8884 8976 8976 8976 8976 8976 8976 8999 8663 Jan.",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "9ff9a6c4fe1d56cc6b77b8029ea4735d028ccb745c489e1f303aa9597c238ae1"
+    "hash": "9b1f21508dfdb4c2a37a4a00925c811c8d79dcfe603940258bc191d3e611f740"
   },
   {
     "time": "09:50",
-    "quoteFirst": "448  11         ,,       ",
+    "quoteFirst": "Mine says ",
+    "quoteTime": "ten minutes to ten",
+    "quoteLast": ", and Dirty’s says fifteen minutes after ten.",
+    "title": "Creepin' Tintypes",
+    "author": "Tuttle, W. C. (Wilbur C.), 1883-1969",
+    "gutenbergReference": "66045",
+    "hash": "cbb93f316ce2a276d85071bdef283ca4501c983aedc6ed8ec381248e71f9881b"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "_Joe_: “",
+    "quoteTime": "Nine-fifty",
+    "quoteLast": ".”",
+    "title": "Retail Shoe Salesmanship",
+    "author": "Hamilton, George F.; Butterworth, Frank; Conner, H. T.; Geuting, A. H.",
+    "gutenbergReference": "54962",
+    "hash": "7080362a4732f8dd704225e5571c6082023c645d047c158fb516bb9c0bec4b35"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes to ten",
+    "quoteLast": " on Monday morning, her majesty, consort, and children, came upon deck, and were received with acclamations.",
+    "title": "The History of England in Three Volumes, Vol.III.\r\nFrom the Accession of George III. to the Twenty-Third Year of the Reign of Queen Victoria",
+    "author": "Farr, Edward; Nolan, E. H. (Edward Henry)",
+    "gutenbergReference": "19218",
+    "hash": "20228d92934bb102d2059a29701279b7d389ae546f2169db7bbe0807f396502f"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "Trucks were in waiting at the station to rush our baggage to the auditorium, our men had put on their evening dress in the baggage-car, and I began the opening overture with all the instruments properly tuned at ",
+    "quoteTime": "ten minutes before ten",
+    "quoteLast": ".",
+    "title": "My Musical Life",
+    "author": "Damrosch, Walter, 1862-1950",
+    "gutenbergReference": "58871",
+    "hash": "1a92e5b351232508a96006145cb2a747d73910bcf35f949adc3f4ff39ab6d070"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "They had started at ",
+    "quoteTime": "ten minutes to ten",
+    "quoteLast": " and made wonderful time, so that it could not be very late, he thought.",
+    "title": "Joe Leslie's Wife; or, a Skeleton in the Closet",
+    "author": "Robertson, Alexander, M.D., 1854-1938",
+    "gutenbergReference": "64125",
+    "hash": "fcd0ad8235c8c8ad6d465b5378ba55401cd72d52c01af0bc798ab9ff9b7a359f"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "Hain't nobody willin' to bid ",
+    "quoteTime": "nine-fifty",
+    "quoteLast": " on this fine brood sow all ready to farrow?",
+    "title": "Weeds",
+    "author": "Kelley, Edith Summers, 1884-1956",
+    "gutenbergReference": "61201",
+    "hash": "9fa30a0f66ef6f3ba4fbd7ccf18f9c75c51f4bd577ade2819096b810111a2662"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "23 21 17 13 31 31 31 Jillapahar     …     …     … The Dale,[429]     …     … 7430 … … … 6952 … … ",
     "quoteTime": "9.50 a.m.",
-    "quoteLast": "   ,, )  June   59.7  52.8   6.9   .",
+    "quoteLast": " Noon 2.40 p.m. 4 p.m. 6 a.m. 2 p.m. 6 p.m. 64·2 64·7 64·7 63·9 60·5 65·3 62·8 62·4 63·3 62·8 62·5 59·5 63·6 61·8 1·8 1·4 1·9 1·4 1·0 1·7 1·0 ·567 ·584 ·574 ·568 ·551 ·628 ·591 85·8 87·2 87·4 86·5 80·8 87·2 83·7 79·1 79·2 79·3 79·5 78·8 79·2 78·7 6·7 8·0 8·1 7·0 2·0 8·0 5·0 ·973 ·976 ·979 ·984 ·962 ·976 ·959 167 … … Mean 63·7 62·3 1·5 ·580 85·5 79·1 6·4  ·973",
+    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6478",
+    "hash": "50a9bea37687158918e1997b89628fba67a96ff6a1a0e04949c47fa3a3e10751"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "1   1   8 12   6   4   8 10 16   8   6   3   2   1   1 Yangma valley Choonjerma pass Lachee-pia Momay, 7 a.m. Momay, ",
+    "quoteTime": "9.50 a.m.",
+    "quoteLast": " Momay, noon Momay, 2.40 p.m. Momay, 4 p.m. Momay, sunset Momay, Miscellaneous Momay, Miscellaneous Sittong Palung Kambachen pass Yeumtong 15,186 15,259 15,262 15,262 15,262 15,262 15,262 15,262 15,262 15,262 15,262 15,372 15,676 15,770 15,985 Dec.",
+    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6478",
+    "hash": "0efd4cd475551897334510d5a8f38d76396a10a5cecb31b315e516a3f52bb176"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes to ten",
+    "quoteLast": " the single brougham with the luggage tray on top stood waiting at the door, and the footman who was to accompany it was in the hall waiting for the odd man to come through the baize doors with the luggage.",
+    "title": "Spinster of This Parish",
+    "author": "Maxwell, W. B. (William Babington), 1866-1938",
+    "gutenbergReference": "48685",
+    "hash": "598682958b2d82d22cd00d62b59094fff01eb970dd37511b00fae6e4cab1383e"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "Mr. Kislingbury, the divisional superintendent of the Great Western Railway, ever ready to heartily co-operate with the local Post Office, had a special tender placed in readiness for the reception of the mails at Temple Meads and they were despatched by the ",
+    "quoteTime": "9.50 a.m.",
+    "quoteLast": " train to Avonmouth.",
+    "title": "The Bristol Royal Mail: Post, Telegraph, and Telephone",
+    "author": "Tombs, Robert Charles, 1842-1923",
+    "gutenbergReference": "34197",
+    "hash": "b09b5ade9362023a6e04bddd9e5f31fe6316bc10ade552a91f2881dc0300d00f"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "_Joe_: “",
+    "quoteTime": "Nine-fifty",
+    "quoteLast": ".”",
+    "title": "Retail Shoe Salesmanship",
+    "author": "Hamilton, George F.; Butterworth, Frank; Conner, H. T.; Geuting, A. H.",
+    "gutenbergReference": "54962",
+    "hash": "7080362a4732f8dd704225e5571c6082023c645d047c158fb516bb9c0bec4b35"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "In the hall Queed looked at his watch; ",
+    "quoteTime": "ten minutes to ten",
+    "quoteLast": ".",
+    "title": "Queed: A Novel",
+    "author": "Harrison, Henry Sydnor, 1880-1930; Crosby, Raymond Moreau, 1876-1945 [Illustrator]",
+    "gutenbergReference": "14303",
+    "hash": "e86166b3a8e9f981c7fc6228779c4effcf3824a32223bdf495619e694a2915ee"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "He was ordered to find the A.B.C. and, this done, accepted, with bowed head, all the responsibility for the circumstance that no train ever left Paddington for Wallingford after ",
+    "quoteTime": "nine-fifty",
+    "quoteLast": " p.m.",
+    "title": "The Amazing Years",
+    "author": "Ridge, W. Pett (William Pett), 1859-1930",
+    "gutenbergReference": "62418",
+    "hash": "27b42522d9019ffcad1b8f7c33a39ec8353ba657553721093728a8dd7891429e"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "The mate drew out his watch and by the light of the binnacle-lamp, saw that it was ",
+    "quoteTime": "ten minutes to ten",
+    "quoteLast": ".",
+    "title": "A master of craft",
+    "author": "Jacobs, W. W. (William Wymark), 1863-1943",
+    "gutenbergReference": "21929",
+    "hash": "0c2aab57340e4a36802e1502b2a29d906aff7652f6301fdc99359c27997cb962"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "532   8        ,,     ",
+    "quoteTime": "9.50 a.m.",
+    "quoteLast": "      ,,    Aug.",
     "title": "Himalayan Journals — Volume 2\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6477",
-    "hash": "951b03faf16ead7dcdc75dee6bd83748380e8be1077fb142bebf791d25fce9e9"
+    "hash": "0f2d76b59e262974f407ad5c2f91a5224cc1ac93bf170eba1b0f781c6899d51c"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "826   7        ,,     ",
+    "quoteTime": "9.50 a.m.",
+    "quoteLast": "      ,,    May    89.8  80.0  19.8  1.000   5        ,,     noon           ,,    May    92.7  79.9  12.8   .",
+    "title": "Himalayan Journals — Volume 2\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6477",
+    "hash": "8445a5f2e91780173248e3c0d5973e310b9d174d62c8c50aa43a7a9b7b9100d1"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "It was about ",
+    "quoteTime": "ten minutes to ten",
+    "quoteLast": " when I had finished.",
+    "title": "Whose Body? A Lord Peter Wimsey Novel",
+    "author": "Sayers, Dorothy L. (Dorothy Leigh), 1893-1957",
+    "gutenbergReference": "58820",
+    "hash": "55d5d58bd73847d51f07431d59cb3cf7fcfccf5a7f0048823ab700b99225fdbe"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "However, just before ten o'clock I did manage to lose consciousness; I recall the time by the sounds of the ",
+    "quoteTime": "nine-fifty",
+    "quoteLast": " New York Central train.",
+    "title": "Within Prison Walls\r\nbeing a narrative during a week of voluntary confinement in the state prison at Auburn, New York",
+    "author": "Osborne, Thomas Mott, 1859-1926",
+    "gutenbergReference": "33255",
+    "hash": "7c163398b1020274fe5f025251ba549d20d3e274433510d86353ad6da0820b9a"
+  },
+  {
+    "time": "09:50",
+    "quoteFirst": "But I want to go and give this ",
+    "quoteTime": "nine-fifty",
+    "quoteLast": " to Mrs. Bennett.",
+    "title": "First Base Faulkner",
+    "author": "Mathewson, Christy, 1880-1925; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "64435",
+    "hash": "df98a94f9548fd3f7e36f646fbafa999b35ee07a41fc9aeee91aec29c2c4dd53"
   }
 ]

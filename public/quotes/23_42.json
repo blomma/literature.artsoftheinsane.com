@@ -11,6 +11,16 @@
   },
   {
     "time": "23:42",
+    "quoteFirst": "; and on the 29th, sets at ",
+    "quoteTime": "11:42 p. m.",
+    "quoteLast": " Is farthest from the earth on the 16th, at 10:18 p.",
+    "title": "The Chautauquan, Vol. 04, June 1884, No. 9",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55194",
+    "hash": "be692475e78f0120675b3aac4096a090a9f870a2ec66d26902fc50d098408b02"
+  },
+  {
+    "time": "23:42",
     "quoteFirst": ", is 3° 21′ north of the moon, and again on the 28th at ",
     "quoteTime": "11:42 p. m.",
     "quoteLast": ", 3° 21′ north of the moon.",
@@ -31,12 +41,12 @@
   },
   {
     "time": "23:42",
-    "quoteFirst": "",
-    "quoteTime": "42 minutes past 11",
-    "quoteLast": " o'clock); Bristol, 11.32 (i.",
-    "title": "Chats on Old Clocks",
-    "author": "Hayden, Arthur, 1868-1946",
-    "gutenbergReference": "45772",
-    "hash": "331ef811d03cc4547bf29e16087333ce151d8d29f6ae9d6a43b8793681eac8ef"
+    "quoteFirst": "“",
+    "quoteTime": "Eighteen minutes of twelve",
+    "quoteLast": ",” answered Dick, glancing at a very handsome gold watch.",
+    "title": "Harry's Island",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "54909",
+    "hash": "2042f4371d955a9792f06ed87b785ba2511894a7e4fe2af95e34534c323d004f"
   }
 ]

@@ -1,6 +1,46 @@
 [
   {
     "time": "07:11",
+    "quoteFirst": "At ",
+    "quoteTime": "eleven minutes after seven",
+    "quoteLast": ", when the longitude, by the time-keeper, was 189° 24', it extended from S. 72° W. to N. 41° E. Between the S.W. extreme, and a point which bore W., two leagues distant, the shore forms a large bay, in which we anchored at ten o'clock in the forenoon, about two miles from the north shore, in ten fathoms water, over a gravelly bottom.",
+    "title": "A General History and Collection of Voyages and Travels, Volume 16",
+    "author": "Kerr, Robert, 1755-1813",
+    "gutenbergReference": "16471",
+    "hash": "11de46ce519fcd6769847a245b9749e14293a9ea5a02f576ab476e4ffcb40529"
+  },
+  {
+    "time": "07:11",
+    "quoteFirst": "At ",
+    "quoteTime": "eleven minutes after seven",
+    "quoteLast": ", when the longitude, by the time-keeper, was 189° 24ʹ, it extended from south, 72° west to north, 41° east.",
+    "title": "The Three Voyages of Captain Cook Round the World. Vol. VI. Being the Second of the Third Voyage",
+    "author": "Cook, James, 1728-1779",
+    "gutenbergReference": "62507",
+    "hash": "d7f5ab737409cc4446b2f3d8d4b170ece62b4d131ba4eabcbaa53152050aaa92"
+  },
+  {
+    "time": "07:11",
+    "quoteFirst": "",
+    "quoteTime": "7:11 a. m.",
+    "quoteLast": "—The Criminal and Weapon of the Crime    XXXI.",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "hash": "687c6815b9103c3ce2a9320a2e85682a2f51d34f6026a50e2dd96c2b7b21e1f9"
+  },
+  {
+    "time": "07:11",
+    "quoteFirst": "",
+    "quoteTime": "7:11 a. m.",
+    "quoteLast": "—The Criminal and Weapon of the Crime",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "hash": "a4d13f1d12af0f1fe74be1a9ac2d9d527ea759ce9d02f909d2b393a825cd7e29"
+  },
+  {
+    "time": "07:11",
     "quoteFirst": ", making our day only nine hours and twenty minutes long; and on the 31st rises at ",
     "quoteTime": "7:11 a. m.",
     "quoteLast": " and sets at 5:16 p.",

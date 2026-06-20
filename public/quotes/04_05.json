@@ -1,13 +1,33 @@
 [
   {
     "time": "04:05",
-    "quoteFirst": "It is now ",
+    "quoteFirst": "Cap'n Buck Fluter, holding his watch in the approved conductor's grip, glanced back and forth the short length of the ",
+    "quoteTime": "four-five",
+    "quoteLast": " accommodation and raised his free hand in warning:",
+    "title": "Local Color",
+    "author": "Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944",
+    "gutenbergReference": "41297",
+    "hash": "22cf43b8e9b4c39cdc516da5839843cb2bf2f1529b10886d395d5cb2bf7b3101"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "At ",
     "quoteTime": "five minutes past four",
-    "quoteLast": "; do you think the American family would be taking a siesta?'",
-    "title": "Jerry",
-    "author": "Webster, Jean, 1876-1916",
-    "gutenbergReference": "20357",
-    "hash": "5e28bdcbb83e38e63327f5b531a68ba8b47829444be83d42c086826958da8b00"
+    "quoteLast": " on Saturday morning, an alarm was given by one of the company.",
+    "title": "The wonders of the world",
+    "author": "Abbott, John Loraine",
+    "gutenbergReference": "75040",
+    "hash": "62e5407369647caa9d50df18bea81185f88dff154baf9bc43ec4e29fd5ffb052"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "I came by here last night at ",
+    "quoteTime": "five minutes after four",
+    "quoteLast": ", and you weren't in sight anywhere; was yesterday a holiday?\"",
+    "title": "The Lonesome Trail and Other Stories",
+    "author": "Bower, B. M., 1871-1940",
+    "gutenbergReference": "14542",
+    "hash": "9f89d9b253a88fc0302cc9580ac34e16f2707236a56ef47769870bd71c02ca1b"
   },
   {
     "time": "04:05",
@@ -21,13 +41,143 @@
   },
   {
     "time": "04:05",
-    "quoteFirst": "At the clubhouse the hands of the old wooden-faced clock pointed to ",
+    "quoteFirst": "Two degrees ",
+    "quoteTime": "four-five",
+    "quoteLast": " minutes elevation!",
+    "title": "The Straits Impregnable",
+    "author": "Loch, Sydney, 1889-1954",
+    "gutenbergReference": "60875",
+    "hash": "ee346cbf5952b392e511bfc511bcce3dd7ad517eff213de95124d6ac0248663c"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "_A._—When I got back to the ship, after being washed overboard the first time, I found on examining my pockets that the water had stopped my watch at ",
+    "quoteTime": "five minutes past four",
+    "quoteLast": ", and I estimate that she sank about twenty minutes after that.",
+    "title": "Battling with waves and lawyers",
+    "author": "Reid, John Arbuckle [Compiler]",
+    "gutenbergReference": "71021",
+    "hash": "60c260da16b855da7e7b539d90a783c0d7e6d6144761c84be8df8e8c541cc1df"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes past four",
+    "quoteLast": ",\" he said.",
+    "title": "A Son of the Immortals",
+    "author": "Tracy, Louis, 1863-1928; Christy, Howard Chandler, 1873-1952 [Illustrator]",
+    "gutenbergReference": "25017",
+    "hash": "297a27e256de7b34a4844b90c494f74070a3879cd7fd321f80c0df65c9681e3a"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "The first is at 10.30 A.M., the second at noon, and the third at 2.30 P.M. It is the busiest of all, and continues until ",
+    "quoteTime": "five minutes past four",
+    "quoteLast": ", when the last delivery must be made.",
+    "title": "Encyclopaedia Britannica, 11th Edition, \"Cincinnatus\" to \"Cleruchy\"\r\nVolume 6, Slice 4",
+    "author": "Various",
+    "gutenbergReference": "31641",
+    "hash": "a59fa0de41304e73a024feb9c7de3a384880099ecb1eb520a23bcf3438615e31"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "“She’s doing what she’s been doing every chance she got these last ",
+    "quoteTime": "four-five",
+    "quoteLast": " days, that’s what.”",
+    "title": "The cowboy and the lady and her pa",
+    "author": "Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944; Allen, James E., 1894-1964 [Illustrator]",
+    "gutenbergReference": "69929",
+    "hash": "b2de0e7dbb7a1365ed7011ed781a4d90ab0c3bf1d95abfd96a5c7204e46228a6"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes past four",
+    "quoteLast": ",\" he said.",
+    "title": "A Son of the Immortals",
+    "author": "Tracy, Louis, 1863-1928; Christy, Howard Chandler, 1873-1952 [Illustrator]",
+    "gutenbergReference": "25017",
+    "hash": "297a27e256de7b34a4844b90c494f74070a3879cd7fd321f80c0df65c9681e3a"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "They waited till ",
+    "quoteTime": "five minutes past four",
+    "quoteLast": ", but the party they wos egspectin' didn't turn up.",
+    "title": "The Betrayal of John Fordham",
+    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+    "gutenbergReference": "45525",
+    "hash": "39ec330cbb9d27d41be25d171912d2fa7ddc493bbdbeca0ea4615de40584dad9"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "Vincent glanced at his watch: ",
+    "quoteTime": "five minutes past four",
+    "quoteLast": " was the time.",
+    "title": "Stand Fast, Craig-Royston! (Volume II)",
+    "author": "Black, William, 1841-1898",
+    "gutenbergReference": "42730",
+    "hash": "c46475b4b4eb57f8538c4a3df316888b9e1e7313f3c33a5a92c5a924553aeb3a"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "I came by here last night at ",
     "quoteTime": "five minutes after four",
-    "quoteLast": ".",
-    "title": "Interference and Other Football Stories",
-    "author": "Sherman, Harold M. (Harold Morrow), 1898-1987",
-    "gutenbergReference": "29705",
-    "hash": "09e0377cc9d12cabcc58e765631e5c78f3deb5d3655d473126bf975a038d5946"
+    "quoteLast": ", and you weren't in sight anywhere; was yesterday a holiday?\"",
+    "title": "The Lonesome Trail and Other Stories",
+    "author": "Bower, B. M., 1871-1940",
+    "gutenbergReference": "14542",
+    "hash": "9f89d9b253a88fc0302cc9580ac34e16f2707236a56ef47769870bd71c02ca1b"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "I say his place at the instant was 2° 26′ of Virgo, whose declination was as before 10° 35′; the latitude of the place was 78° 47′ whose complement was 11° 13′ the declination being subtracted from the complement of the pole’s elevation, leaveth 38′, ",
+    "quoteTime": "four-five",
+    "quoteLast": " part of which 12′, which being subtracted from 38 leaveth 26′ for refraction.",
+    "title": "The lands of silence",
+    "author": "Markham, Clements R. (Clements Robert), Sir, 1830-1916; Guillemard, F. H. H. (Francis Henry Hill), 1852-1933 [Editor]",
+    "gutenbergReference": "71127",
+    "hash": "4690d30d3f840af30e734d941ffb01c5a346328ee18171b37aa5956f4c78cd3b"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "At that same time, and while Her Majesty slept at ",
+    "quoteTime": "4.05 a.m.",
+    "quoteLast": " at Windsor, the Executive of the Sons of England and Lodge Commercial were in meeting at Shaftesbury Hall, Toronto.",
+    "title": "A Sketch of how \"The Diamond Anthem\" was Sung around the World\nThe 60th Anniversary of the Accession Day of Her Majesty Queen Victoria",
+    "author": "Cumberland, Barlow, 1846-1913",
+    "gutenbergReference": "49034",
+    "hash": "9e2640ed4118d19b6a200c970e85f31120d6895e039ef23c9ee5c12b77cfb15e"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "\"It's ",
+    "quoteTime": "five minutes after four",
+    "quoteLast": ",\" announced the stranger, consulting his watch.",
+    "title": "Four Little Blossoms and Their Winter Fun",
+    "author": "Hawley, Mabel C.",
+    "gutenbergReference": "15655",
+    "hash": "7143835e439800d7644c96150f166fc51f9f4206534459656f0b711d640f09c3"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "\"Mary Donovan,\" said the lady of the house with dignity, \"it is ",
+    "quoteTime": "five minutes past four",
+    "quoteLast": "; you need not wait any longer to-day.\"",
+    "title": "Mad: A Story of Dust and Ashes",
+    "author": "Fenn, George Manville, 1831-1909",
+    "gutenbergReference": "35367",
+    "hash": "c884b58d9d93710445db030e43d1b9a9f9d3599a2138c0ee1738c1653a1a8eae"
+  },
+  {
+    "time": "04:05",
+    "quoteFirst": "First of all came the Leeds, at ",
+    "quoteTime": "five minutes past four",
+    "quoteLast": ", followed at an interval of over an hour--5.15--by the Glasgow, and then, at 5.39, by the Edinburgh.",
+    "title": "Stage-coach and Mail in Days of Yore, Volume 2 (of 2)\nA picturesque history of the coaching age",
+    "author": "Harper, Charles G. (Charles George), 1863-1943",
+    "gutenbergReference": "58668",
+    "hash": "740bc2a33a87322bbcd0eb6875a163a11d77f9a9617306af77c86175593fd80a"
   },
   {
     "time": "04:05",
@@ -41,62 +191,12 @@
   },
   {
     "time": "04:05",
-    "quoteFirst": "",
-    "quoteTime": "Four-five",
-    "quoteLast": " hundred men working for him, one way or another.",
-    "title": "The Great Accident",
-    "author": "Williams, Ben Ames, 1889-1953",
-    "gutenbergReference": "64002",
-    "hash": "7b8d2c08a39c34f47b9a0a8b4c1d7af750de9dd2a7505dd1fdbc81e07237e217"
-  },
-  {
-    "time": "04:05",
-    "quoteFirst": "She deposited the baby on the seat beside her, fumbled for a nickel, and asked the conductor pantingly if she would be in time to catch the ",
-    "quoteTime": "four-five",
-    "quoteLast": " to the city.",
-    "title": "Cabin Fever",
-    "author": "Bower, B. M., 1871-1940",
-    "gutenbergReference": "1204",
-    "hash": "492839e7901f1fcb87c5714b0f262c1f0ebf5339ce1c5733fc2b55f7709911c8"
-  },
-  {
-    "time": "04:05",
-    "quoteFirst": "The ",
-    "quoteTime": "four-five",
-    "quoteLast": ".",
-    "title": "Regiment of Women",
-    "author": "Dane, Clemence, 1888-1965",
-    "gutenbergReference": "40264",
-    "hash": "20c024bef1f88f0250e6c5acbd7f76e829f3320e9f6e2273f9d39574084fb35b"
-  },
-  {
-    "time": "04:05",
-    "quoteFirst": "He glanced at the clock and saw that Bab had been true to his promise, for the hands pointed to ",
+    "quoteFirst": "\"Mary Donovan,\" said the lady of the house with dignity, \"it is ",
     "quoteTime": "five minutes past four",
-    "quoteLast": ".",
-    "title": "The Sportsman's Club in the Saddle",
-    "author": "Castlemon, Harry, 1842-1915; Faber, Hermann, 1832-1913 [Engraver]",
-    "gutenbergReference": "60890",
-    "hash": "912c6fcef6e6fdc816e4beb60ddba19575c26d851069f3b9adf04a616b8365c5"
-  },
-  {
-    "time": "04:05",
-    "quoteFirst": "“Wint at ",
-    "quoteTime": "four-five",
-    "quoteLast": ".”",
-    "title": "We Can't Have Everything: A Novel",
-    "author": "Hughes, Rupert, 1872-1956",
-    "gutenbergReference": "7077",
-    "hash": "891e8313a1540dc31e34249ae9496ba7a54bca4de81b3f2d691a0803ad1279b9"
-  },
-  {
-    "time": "04:05",
-    "quoteFirst": "It was Mr. Twist himself who got on a ladder at ",
-    "quoteTime": "five minutes past four",
-    "quoteLast": " that afternoon and pasted a strip of white paper obliquely across the sign of The Open Arms with the word.",
-    "title": "Christopher and Columbus",
-    "author": "Von Arnim, Elizabeth, 1866-1941; Litle, Arthur, 1883-1969 [Illustrator]",
-    "gutenbergReference": "14646",
-    "hash": "95fef3eb95a7ca7f6b7324eb2e130ebc1548f786fc3755d534c870b9710db337"
+    "quoteLast": "; you need not wait any longer to-day.\"",
+    "title": "Mad: A Story of Dust and Ashes",
+    "author": "Fenn, George Manville, 1831-1909",
+    "gutenbergReference": "35367",
+    "hash": "c884b58d9d93710445db030e43d1b9a9f9d3599a2138c0ee1738c1653a1a8eae"
   }
 ]

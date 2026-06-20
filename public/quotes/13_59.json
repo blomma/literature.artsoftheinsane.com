@@ -1,102 +1,202 @@
 [
   {
     "time": "13:59",
+    "quoteFirst": "He saith that the Saturday Sir Edmund Berry Godfrey was missing, ",
+    "quoteTime": "about two in the afternoon",
+    "quoteLast": " as he (Godfrey) was going home, two or three gentlemen met him and said they could discover some persons near the Strand Bridge that were agitators in the Plot, upon which Sir E. Godfrey showed great readiness, but they desired him to walk into a houseyard till a constable was got ready; but Sir E. Godfrey had scarce made two or three turns but several people rushed out upon him and stopped his mouth; two friars and some of Lord Bellasis’ servants executing the same, and having carried him into an inner chamber demanded of him Mr. Oates his deposition, promising they would save his life if he would render it to them; yet their design was to have taken away his life though he had given them that satisfaction.",
+    "title": "The Popish Plot: A study in the history of the reign of Charles II",
+    "author": "Pollock, John, 1878-1963",
+    "gutenbergReference": "69912",
+    "hash": "b67619c37e68e4b942e65dbc8779c73d253514ccc38e8ecb9cea4faf76dfde5f"
+  },
+  {
+    "time": "13:59",
+    "quoteFirst": "“",
+    "quoteTime": "About two o’clock in the afternoon",
+    "quoteLast": ".”",
+    "title": "Two fares east",
+    "author": "Tuttle, W. C. (Wilbur C.), 1883-1969",
+    "gutenbergReference": "68426",
+    "hash": "42577e45dfa66503bac6f0c95344a39d77b13a80a1880895283ceb60c573289a"
+  },
+  {
+    "time": "13:59",
+    "quoteFirst": "At length, ",
+    "quoteTime": "about two in the afternoon",
+    "quoteLast": ", we arrived at our intended station.",
+    "title": "The Three Voyages of Captain Cook Round the World. Vol. V. Being the First of the Third Voyage",
+    "author": "Cook, James, 1728-1779",
+    "gutenbergReference": "62095",
+    "hash": "b8686c8b85a02248ffefd4b8825a08b5baeae6a97d819991c7cfca51e31d122e"
+  },
+  {
+    "time": "13:59",
     "quoteFirst": "",
-    "quoteTime": "About 2 p.m.",
-    "quoteLast": " the Worcester Regiment dashes forward.",
-    "title": "The Children's Story of the War Volume 4 (of 10)\r\nThe Story of the Year 1915",
-    "author": "Parrott, Edward, 1863-1921",
-    "gutenbergReference": "35386",
-    "hash": "498d933b6dc39c5d9255592abdd853b941a508aad87a8eddd237d66fcae1514d"
+    "quoteTime": "About 2 P. M.",
+    "quoteLast": " cries of death were again heard on the opposite side of the River.",
+    "title": "The Conspiracy of Pontiac and the Indian War after the Conquest of Canada",
+    "author": "Parkman, Francis, 1823-1893",
+    "gutenbergReference": "39253",
+    "hash": "05fb38c1ad2470cb173a1f7ef39880e40a32df3347c72f8bc7cba37f2b4a4595"
   },
   {
     "time": "13:59",
-    "quoteFirst": "10         ",
-    "quoteTime": "1 to 2 p. m.",
-    "quoteLast": "                .",
-    "title": "The Passaic Flood of 1903",
-    "author": "Leighton, Marshall Ora, 1874-1958",
-    "gutenbergReference": "19878",
-    "hash": "c75272bfdb1c3bca91ab2f1fd87b64dcf3aa362e50717af1b068ca144a5a3fb7"
+    "quoteFirst": "Meade himself reached Jetersville ",
+    "quoteTime": "about two o'clock in the afternoon",
+    "quoteLast": ", but in advance of all his troops.",
+    "title": "Memoirs of the Union's Three Great Civil War Generals",
+    "author": "Grant, Ulysses S. (Ulysses Simpson), 1822-1885; Sheridan, Philip Henry, 1831-1888; Sherman, William T. (William Tecumseh), 1820-1891; Widger, David, 1932-2021? [Editor]",
+    "gutenbergReference": "4546",
+    "hash": "d5c58dec07399340fdd2f24cd1df056606721d929818defc85543b782d3d6ea6"
   },
   {
     "time": "13:59",
-    "quoteFirst": "The labours of the peasantry will now be of a severer nature than hitherto; he has to toil under the scorching rays of the sun, whose beams, at least in some parts of Syria and Palestine, are far more powerful than those ever endured by English reapers; consequently the fellah is compelled to desist from his occupation from mid-day till ",
+    "quoteFirst": "Paddock and lawn and the stands were filled until ",
+    "quoteTime": "about two in the afternoon",
+    "quoteLast": ".",
+    "title": "The Summons",
+    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+    "gutenbergReference": "16381",
+    "hash": "46b379c7ff87f4fe5ecb3479f0e6ed84fb3975c065ad7629ef46fdca722c5cc6"
+  },
+  {
+    "time": "13:59",
+    "quoteFirst": "Ribágo, or perhaps more correctly, Ribádo (“the prince’s residence”)[169], a large and important Púllo settlement, the residence of the powerful chief Bágeri (Bú Bakr), and situated on a watercourse of some size, called by the Fúlbe “Máyo Gelangéro,” which joins the river Bénuwé at a hamlet called “Rúmde Hámma Salátu,” distant from Ribádo two days’ journey, sleeping the first night in a village of the Dáma, called Úro Kanáwachi[170], which is reached ",
+    "quoteTime": "about two o’clock P.M.",
+    "quoteLast": ", and arriving in Rúmde the next morning.",
+    "title": "Travels and discoveries in North and Central Africa, Vol. 2 (of 5)",
+    "author": "Barth, Heinrich, 1821-1865; Bernatz, Johann Martin, 1802-1878 [Illustrator]",
+    "gutenbergReference": "76317",
+    "hash": "e37a2119bcd5172f2d96c1d39d46749d63af07b23ec5df70edbd156be6b7ba11"
+  },
+  {
+    "time": "13:59",
+    "quoteFirst": "It was then ",
+    "quoteTime": "about 2 P.M.",
+    "quoteLast": ", and tea mixed with milk was set before us, with a quart pot full of fine salt, and some hard-boiled eggs.",
+    "title": "Journal of an Expedition into the Interior of Tropical Australia, in Search of a Route from Sydney to the Gulf of Carpentaria (1848)",
+    "author": "Mitchell, T. L. (Thomas Livingstone), 1792-1855",
+    "gutenbergReference": "9943",
+    "hash": "ebc1286efd1dee7165773f5a4077697ff60b6a9d0a1d43b86799eec621e6a94b"
+  },
+  {
+    "time": "13:59",
+    "quoteFirst": "",
+    "quoteTime": "About two o’clock in the afternoon",
+    "quoteLast": " we perceived a sail in the S. S. W. We were not a little alarmed, believing that it was the same brig which we had seen some days before; for it was lying to, as if awaiting our approach.",
+    "title": "Brackenridge's Journal of a voyage up the river Missouri, 1811; Franchère's Voyage to Northwest Coast, 1811-1814",
+    "author": "Thwaites, Reuben Gold, 1853-1913 [Editor]; Brackenridge, H. M. (Henry Marie), 1786-1871; Franchère, Gabriel, 1786-1863; Huntington, J. V. (Jedediah Vincent), 1815-1862 [Translator]",
+    "gutenbergReference": "76209",
+    "hash": "2b509a940d0be07d2f8c480d616771abfa6810191765e56cb6e6475c02aaf00b"
+  },
+  {
+    "time": "13:59",
+    "quoteFirst": "He had the story from a Mr. Angus, a clergyman, who had it from ‘a young man in a grey coat,’ in a bookseller’s shop near St. Paul’s, ",
     "quoteTime": "about two o’clock in the afternoon",
     "quoteLast": ".",
-    "title": "The Thistle and the Cedar of Lebanon",
-    "author": "Risk Allah, Habeeb",
-    "gutenbergReference": "35322",
-    "hash": "368ae407ad23a3058f1d58e4919946b37dc0331eb063c64a14ca96b5543f1d93"
+    "title": "The Valet's Tragedy, and Other Studies",
+    "author": "Lang, Andrew, 1844-1912",
+    "gutenbergReference": "2073",
+    "hash": "71553017f1d5fd1e8dfcad934407ad360e39bb5f274cffd550975d4ff4770aea"
   },
   {
     "time": "13:59",
-    "quoteFirst": "It was the usual habit of this young man to get very drunk every night, and to sleep until ",
+    "quoteFirst": "",
+    "quoteTime": "About 2 o'clock in the afternoon",
+    "quoteLast": " we arrived well up near the base of the range of hills, and though it was growing late we still had time to accomplish something, but our commanding officer decided that it was best to go into camp, and make a systematic attack next morning.",
+    "title": "Personal Memoirs of P. H. Sheridan, General, United States Army — Complete",
+    "author": "Sheridan, Philip Henry, 1831-1888",
+    "gutenbergReference": "4362",
+    "hash": "a992f03625bd33f92481275dff28b3ba5b41834a45fcf37262ee4b13fd7cb181"
+  },
+  {
+    "time": "13:59",
+    "quoteFirst": "The fluttering spread of leaves, that hang like tips of empty gloves one day, and after one kind night lift forth (like the hand of a baby with his mind made up), and the change of colour all under the trees, whether the ground be grassed or naked; also the delicate sliding of the light in and out the peeling wands of brush-wood, and flat upon the lichened stones, and even in the coarsest hour of the day--which generally is from ",
+    "quoteTime": "1 to 2 p.m.",
+    "quoteLast": ", when all mankind are dining--the quiet spread and receptive width of growth that has to catch its light--for none of these pretty little scenes did Miss Patch care so much as half a patch.",
+    "title": "Cripps, the Carrier: A Woodland Tale",
+    "author": "Blackmore, R. D. (Richard Doddridge), 1825-1900",
+    "gutenbergReference": "43281",
+    "hash": "48a50d2a373175c98988d88e5893c8cab39c25b1768a33e4bce39f51692f7ce0"
+  },
+  {
+    "time": "13:59",
+    "quoteFirst": "The German bombardment, with which they as usual opened the day, was more than usually severe, and lasted the whole morning, and ",
     "quoteTime": "about 2 p.m.",
-    "quoteLast": ", when he dressed and attended at his public divan.",
-    "title": "Ismailia",
-    "author": "Baker, Samuel White, Sir, 1821-1893",
-    "gutenbergReference": "3607",
-    "hash": "49223843275e348f62df962ed1c8adf9981a5925ba3edcaf5969a5f162b5c2fa"
+    "quoteLast": " it was followed by an infantry attack before which the left of the French and the right of the Irish Guards was driven in.",
+    "title": "The First Seven Divisions\nBeing a Detailed Account of the Fighting from Mons to Ypres",
+    "author": "Hamilton, Ernest, Lord, 1858-1939",
+    "gutenbergReference": "39158",
+    "hash": "1a2090d07cae360a78eab97b360ffae987bee59c135de78894810d4f95dc21a4"
   },
   {
     "time": "13:59",
-    "quoteFirst": "My daily food, when I was in the town, consisted of some milk and bread in the morning, a little kuskus, which the Sheikh used to send, ",
+    "quoteFirst": "\"If Monsieur de Mardeille will take the trouble to be at the Jardin      des Plantes, on the path in front of the monkey house, on the 25th      of this month, ",
+    "quoteTime": "about two o'clock in the afternoon",
+    "quoteLast": ", he will find      there Mademoiselle Georgette, who will explain her conduct toward      him. It would be very obliging on his part if he would bring with      him her little black petticoat.\"",
+    "title": "Frédérique, vol. 2",
+    "author": "Kock, Paul de, 1793-1871",
+    "gutenbergReference": "38332",
+    "hash": "102513f3f4536b82189634da22c13110e936ba3b3744d847848cc061ebff51b6"
+  },
+  {
+    "time": "13:59",
+    "quoteFirst": "",
+    "quoteTime": "About two in the afternoon",
+    "quoteLast": ", our brigade was ordered to the assistance of Thomas, it then being some three miles to his left, and going this distance on the double-quick.",
+    "title": "History of the Eighty-sixth Regiment, Illinois Volunteer Infantry, during its term of service",
+    "author": "Kinnear, John R.",
+    "gutenbergReference": "24906",
+    "hash": "c699cc53c4774fd25f6fe917faa559e09df9ae06bc4915164303ee2e7d076c66"
+  },
+  {
+    "time": "13:59",
+    "quoteFirst": "We arrived at ",
     "quoteTime": "about two in the afternoon",
-    "quoteLast": ", and a dish of negro millet, containing a little meat, or seasoned with the sauce of the kobéwa, or _Cucurbita Melopepo_, after sunset.",
-    "title": "Travels and discoveries in North and Central Africa, Vol. 5 (of 5)",
-    "author": "Barth, Heinrich, 1821-1865; Newman, Francis William, 1805-1897 [Contributor]; Nicholson, John, 1808-1886 [Contributor]; Petermann, A. (August), 1822-1878 [Contributor]; Bernatz, Johann Martin, 1802-1878 [Illustrator]",
-    "gutenbergReference": "76320",
-    "hash": "99b7f70611aabbeda11384ef33ccf9716d46b77af889a28b772ff90f5f021329"
+    "quoteLast": ", and were unceremoniously handed over to a regular gaoler, a Mons.",
+    "title": "My adventures during the late war",
+    "author": "O'Brien, Donat Henchy, 1785-1857; Oman, Charles, 1860-1946 [Editor]",
+    "gutenbergReference": "49911",
+    "hash": "0badd191408afd02db41e69358acf3ecdeb2f16ec099418fe11b1756dba9d017"
   },
   {
     "time": "13:59",
     "quoteFirst": "",
-    "quoteTime": "About 2 p.m.",
-    "quoteLast": " the army reached the northern outskirts of Omdurman, the British division upon the left.",
-    "title": "Khartoum Campaign, 1898; or the Re-Conquest of the Soudan",
-    "author": "Burleigh, Bennet, 1840?-1914",
-    "gutenbergReference": "25504",
-    "hash": "81e10771009734675a81c6161eb4bca7143e8f03261a29e4e130787d3be9d261"
+    "quoteTime": "About two o’clock in the afternoon",
+    "quoteLast": " an orderly with foam-covered horse rode up to our colonel and handed him a message.",
+    "title": "Drum Taps in Dixie: Memories of a Drummer Boy, 1861-1865",
+    "author": "Miller, Delavan S.",
+    "gutenbergReference": "41608",
+    "hash": "ae976a1ff5543ff89696bddbb5f5ead9bbdce54aaf1eba48d73cc49443f14b2b"
   },
   {
     "time": "13:59",
-    "quoteFirst": "When we got clear of Ghudwah we halted for the day, ",
+    "quoteFirst": "The tide will serve pretty nicely at ",
+    "quoteTime": "about two in the afternoon",
+    "quoteLast": ", sir.",
+    "title": "A Tale of Two Cities",
+    "author": "Dickens, Charles, 1812-1870",
+    "gutenbergReference": "98",
+    "hash": "2ec1c4841b84bc6f01204d34c6710400bd8fff1c4e86fcd48ecc21ffaed95774"
+  },
+  {
+    "time": "13:59",
+    "quoteFirst": "He arrived ",
     "quoteTime": "about 2 P.M.",
-    "quoteLast": ", near a well called Bel-Kashee-Faree.",
-    "title": "Travels in the Great Desert of Sahara, in the Years of 1845 and 1846",
-    "author": "Richardson, James, 1806-1851",
-    "gutenbergReference": "22094",
-    "hash": "5f7ce3ce06223aeb849fc84dfb2413246bdc3e5bad8aa00047b431460045fb64"
+    "quoteLast": " Mr. Hope-Scott was able to see him, spoke of the blessing which his church would bring on him (the splendid church of St. Philip's, Arundel, just completed by the Duke), and promised to pray for him the next day, when it was to be opened.",
+    "title": "Memoirs of James Robert Hope-Scott, Volume 2",
+    "author": "Ornsby, Robert, 1820-1889",
+    "gutenbergReference": "7975",
+    "hash": "947e8417a64ca7b60b16c62e8728d334ef4a5b8785fdb3eafc753009e6ad4d26"
   },
   {
     "time": "13:59",
-    "quoteFirst": "It was now ",
-    "quoteTime": "about two o’clock in the afternoon",
-    "quoteLast": " and a stop was made about twenty-five miles easterly from Stillman’s Run, on the west of a large grove, to allow the ponies to graze on the bank of the river.",
-    "title": "Indian Creek Massacre and Captivity of Hall Girls\r\nComplete history of the massacre of sixteen whites on Indian creek, near Ottawa, Ill., and Sylvia Hall and Rachel Hall as captives in Illinois and Wisconsin during the Black Hawk war, 1832",
-    "author": "Scanlan, Charles Martin, 1854-1940",
-    "gutenbergReference": "50294",
-    "hash": "7ec4a2e10e82895e886d9aa8d7144d9bd49016296f6f608b1572b47730151392"
-  },
-  {
-    "time": "13:59",
-    "quoteFirst": "",
-    "quoteTime": "About 2 p.m.",
-    "quoteLast": " Colonel Hasler was badly wounded,[3] and command of the front line devolved on Major McDouall.",
-    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
-    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
-    "gutenbergReference": "73159",
-    "hash": "b10f7faede3da7f6e0c3d659c28777c1843ac9792ac5bd86e534e3ee91416f5d"
-  },
-  {
-    "time": "13:59",
-    "quoteFirst": "The atmosphere becoming more clear ",
-    "quoteTime": "about two P.M.",
-    "quoteLast": ", we again embarked, and endeavoured to get to seaward.",
-    "title": "Narrative of a Second Expedition to the Shores of the Polar Sea, in the Years 1825, 1826, and 1827",
-    "author": "Franklin, John, 1786-1847; Richardson, John, Sir, 1787-1865",
-    "gutenbergReference": "33467",
-    "hash": "21a401c3d3b95036a8cdbcd81b3a7c0ecf14019867afc33682e7fe48d3221572"
+    "quoteFirst": "It must have been ",
+    "quoteTime": "nearly 2 p.m.",
+    "quoteLast": "  when he arrived, as before, with General Wade Hampton.",
+    "title": "Memoirs of General W. T. Sherman, Volume II., Part 4",
+    "author": "Sherman, William T. (William Tecumseh), 1820-1891",
+    "gutenbergReference": "5853",
+    "hash": "cccdfd15f2eb23d6978ade0a7e563341827fae6e6ca248066be6743a7af8c482"
   }
 ]

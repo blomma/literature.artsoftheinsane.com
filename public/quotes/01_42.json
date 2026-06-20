@@ -11,6 +11,16 @@
   },
   {
     "time": "01:42",
+    "quoteFirst": "The time was ",
+    "quoteTime": "eighteen minutes to two",
+    "quoteLast": ".",
+    "title": "The Turner Twins",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "37209",
+    "hash": "4094aa896c51287c0215e47660243b933f6a29b3d05a59540c6b04f6d7794b2d"
+  },
+  {
+    "time": "01:42",
     "quoteFirst": "begins his southern journey; or, to put it astronomically, the sun enters _Gemini_, and summer begins, on June 21st, at ",
     "quoteTime": "1:42 a. m.",
     "quoteLast": " On the 1st, sun rises at 4:31 a.",

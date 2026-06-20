@@ -1,23 +1,13 @@
 [
   {
     "time": "08:53",
-    "quoteFirst": "\"It is ",
-    "quoteTime": "seven minutes to nine",
-    "quoteLast": ".  Time we began to collect our taxis.\"",
-    "title": "Mrs. Fitz",
-    "author": "Snaith, J. C. (John Collis), 1876-1936",
-    "gutenbergReference": "34398",
-    "hash": "1c591c609df1b3eb1c2074985eceb33fee092cc2a8452c5db6b9d99ea9fe1cf2"
-  },
-  {
-    "time": "08:53",
-    "quoteFirst": "From ",
-    "quoteTime": "seven to nine in the morning",
-    "quoteLast": " were the favorite calling-hours in the Cabbage Patch.",
-    "title": "Mrs. Wiggs of the Cabbage Patch",
-    "author": "Rice, Alice Caldwell Hegan, 1870-1942",
-    "gutenbergReference": "4377",
-    "hash": "e3f78c27556095b77c47eb38e64bee4cd7efac0cef50bde640824d551cf7c264"
+    "quoteFirst": "Drilled from ",
+    "quoteTime": "7 to 9 A. M.",
+    "quoteLast": " Rode out to graze in a fruitful orchard.",
+    "title": "An Artilleryman's Diary",
+    "author": "Jones, Jenkins Lloyd, 1843-1918",
+    "gutenbergReference": "33211",
+    "hash": "98d3df20a7efb47a0dd365d2e46a223f58d56670f745c1c9b417e6a0a61c471f"
   },
   {
     "time": "08:53",
@@ -31,13 +21,53 @@
   },
   {
     "time": "08:53",
-    "quoteFirst": "Started at ",
-    "quoteTime": "8.53 a.m.",
-    "quoteLast": ", course east by north, each man taking with him a certain weight of the boiled camel before him, as we are now reduced to eleven horses, one alone with pack-bags.",
-    "title": "McKinlay's Journal of Exploration in the Interior of Australia",
-    "author": "McKinlay, John, 1819-1872",
-    "gutenbergReference": "13248",
-    "hash": "e2e344eb715904c794b0f77151007887b302cbbc3f0c2ad290c4efe6137c9940"
+    "quoteFirst": "_Llyn Wells_ L.V., Crows, large flock, ",
+    "quoteTime": "7 to 9 A.M.",
+    "quoteLast": ", S.S.E. to W.N.W. (W.S.W., 5.)",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "66152",
+    "hash": "0e697acf4d1c81ef1f80b1533c1260c6664abe7535dab48d550458eda3732643"
+  },
+  {
+    "time": "08:53",
+    "quoteFirst": "From ",
+    "quoteTime": "7 to 9 A.M.",
+    "quoteLast": " and from 3 to 4 P.M. are their working hours, while the noontide is almost invariably a time of rest.",
+    "title": "At home in Fiji",
+    "author": "Gordon Cumming, C. F. (Constance Frederica), 1837-1924",
+    "gutenbergReference": "76974",
+    "hash": "9cd7c3f021780379ce96ddc641cae9feba8901d649281886aacd0f76db9dc3fc"
+  },
+  {
+    "time": "08:53",
+    "quoteFirst": "--_Skerries Rock_ L.H., several Blackbirds on island at 9 A.M. Small flocks of Thrushes and Skylarks on island from ",
+    "quoteTime": "7 to 9 A.M.",
+    "quoteLast": " About 100 Starlings on island at 8.30 A.M. (N., 4; C. V.) _Cardigan Bay_ L.V., three Martins roosted for the night on the vessel.",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "66152",
+    "hash": "05a76009a9bbe8a7d3670befdd368503009d312d48c5f99e53efd0ba5a10e47b"
+  },
+  {
+    "time": "08:53",
+    "quoteFirst": "He shall visit the Dispensary twice a day, from ",
+    "quoteTime": "7 to 9 A.M.",
+    "quoteLast": "     and from 3 to 4 P.M. He shall enter upon his memorandum-book, and upon     the pass-book of the girl, the result of all accidental or necessary     visits.",
+    "title": "The History of Prostitution: Its Extent, Causes, and Effects throughout the World",
+    "author": "Sanger, William W., 1819-1872",
+    "gutenbergReference": "41873",
+    "hash": "b634a739a51e5e6e8d002851393e6199f621d0d14999dd2163020ce969ee6bd4"
+  },
+  {
+    "time": "08:53",
+    "quoteFirst": "It is ",
+    "quoteTime": "seven minutes to nine",
+    "quoteLast": ".",
+    "title": "Celibates",
+    "author": "Moore, George, 1852-1933",
+    "gutenbergReference": "6005",
+    "hash": "b091afaaa6a06f6d31271aa4e416afbf9e430c41ae649814fafd0a70c5cbe21e"
   },
   {
     "time": "08:53",
@@ -51,23 +81,73 @@
   },
   {
     "time": "08:53",
-    "quoteFirst": "At ",
-    "quoteTime": "seven minutes before nine",
-    "quoteLast": ", twenty of the wasps were liberated an eighth of a mile from shore near the end of the island.",
-    "title": "Wasps, Social and Solitary",
-    "author": "Peckham, George W. (George Williams), 1845-1914; Peckham, E. G. (Elizabeth Gifford), 1854-; Emerton, J. H. (James Henry), 1847-1930 [Illustrator]",
-    "gutenbergReference": "47508",
-    "hash": "926c8c0500d004c7596bc01a604b7a5a593e0c34073f7ad23a8de10515e344ed"
+    "quoteFirst": "Friday ",
+    "quoteTime": "8:53 A.M.",
+    "quoteLast": "",
+    "title": "Project Daedalus",
+    "author": "Hoover, Thomas, 1941-",
+    "gutenbergReference": "34320",
+    "hash": "778d52cacc6772015618637c97fc8d1ce4d373a7ecaa30fd457e03838ab28d35"
   },
   {
     "time": "08:53",
-    "quoteFirst": "It is an early place, and from ",
-    "quoteTime": "7 till 9 A.M.",
-    "quoteLast": " from the month of June to the end of September are described as the orthodox periods.",
-    "title": "Hesperothen; Notes from the West, Vol. 2 (of 2)\r\nA Record of a Ramble in the United States and Canada in the Spring and Summer of 1881",
-    "author": "Russell, William Howard, Sir, 1820-1907",
-    "gutenbergReference": "44333",
-    "hash": "259ccdf346aeb38fde6d117ea11935c2604fdfe19c1e41e2c3ece14dd41b9aaa"
+    "quoteFirst": "Colleville, a musician in the evening, kept the books of a merchant from ",
+    "quoteTime": "seven to nine in the morning",
+    "quoteLast": ", and by ten o’clock he was at his ministry.",
+    "title": "The Lesser Bourgeoisie",
+    "author": "Balzac, Honoré de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+    "gutenbergReference": "1641",
+    "hash": "9b07eedb0d23c9a1962b6f451652d4e0aab3e8804ebcac6babd33e59da7dfd69"
+  },
+  {
+    "time": "08:53",
+    "quoteFirst": "Colleville, a musician in the evening, kept the books of a merchant from ",
+    "quoteTime": "seven to nine in the morning",
+    "quoteLast": ", and by ten o’clock he was at his ministry.",
+    "title": "The Lesser Bourgeoisie",
+    "author": "Balzac, Honoré de, 1799-1850; Wormeley, Katharine Prescott, 1830-1908 [Translator]",
+    "gutenbergReference": "1641",
+    "hash": "9b07eedb0d23c9a1962b6f451652d4e0aab3e8804ebcac6babd33e59da7dfd69"
+  },
+  {
+    "time": "08:53",
+    "quoteFirst": "(W.S.W., 5; Q. M.) _Nash_ (_E._) L.H., Starlings, Larks, Fieldfares, and Lapwings; a good many passing to N.W. from ",
+    "quoteTime": "7 to 9 A.M.",
+    "quoteLast": " (N.N.W., 5; C. G.) _Burnham_ L.H., flocks of Lapwings flying S. all day.",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "66152",
+    "hash": "c35b19f5f50613b2082d37670794f10efdef718992265fda93857782fb4d417e"
+  },
+  {
+    "time": "08:53",
+    "quoteFirst": "--_Langness_ L.H., large number of Swallows from ",
+    "quoteTime": "7 to 9 A.M.",
+    "quoteLast": " (Light S.; clear.)",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "66152",
+    "hash": "e975cf3d5269b0654b88b4be9a2e2242d8d9df0851c0b93c4b7414cda4d1ca0f"
+  },
+  {
+    "time": "08:53",
+    "quoteFirst": "It was ",
+    "quoteTime": "seven minutes to nine",
+    "quoteLast": ", and the last of the luggage was packed.",
+    "title": "Capt'n Davy's Honeymoon",
+    "author": "Caine, Hall, Sir, 1853-1931",
+    "gutenbergReference": "25572",
+    "hash": "9b06dbc6ddb4f517d2c2e06757b6ace84d856bfc6dd3e0e735751b9b181ba01c"
+  },
+  {
+    "time": "08:53",
+    "quoteFirst": "Henceforth you will have to be hungry from ",
+    "quoteTime": "7 to 9 A.M.",
+    "quoteLast": "; from 1 to 3 P.M.; from 6 to 8 P.M. The slightest infringement of the routine would stop the wheel, so don't ask if you could have a meal at four o'clock; you would be taken for a lunatic, or a crank (as they call it in America).",
+    "title": "A Frenchman in America: Recollections of Men and Things",
+    "author": "O'Rell, Max, 1848-1903",
+    "gutenbergReference": "32261",
+    "hash": "96aeae29f9003095bd87d86abb0630963fdc65fd02f7eb76a7cf416a1b69554a"
   },
   {
     "time": "08:53",
@@ -81,22 +161,42 @@
   },
   {
     "time": "08:53",
-    "quoteFirst": "_Whitby_ L.H., several hundreds Grey Crows, also Larks and Finches, ",
-    "quoteTime": "7 to 9 A.M.",
-    "quoteLast": ", to N. _Outer Dowsing_ L.V., one hundred Starlings, two Larks, E. to W. _Llyn Wells_ L.V., Crows and Larks all day, S. to N. (N.W., 3.)",
-    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
-    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
-    "gutenbergReference": "66152",
-    "hash": "51eb4ded079b2ab7e769eb5bfa56dec3f6e08785a35b8ae7cbf7a1e1cbea4650"
+    "quoteFirst": "At ",
+    "quoteTime": "seven minutes before nine",
+    "quoteLast": ", twenty of the wasps were liberated an eighth of a mile from shore near the end of the island.",
+    "title": "Wasps, Social and Solitary",
+    "author": "Peckham, George W. (George Williams), 1845-1914; Peckham, E. G. (Elizabeth Gifford), 1854-; Emerton, J. H. (James Henry), 1847-1930 [Illustrator]",
+    "gutenbergReference": "47508",
+    "hash": "926c8c0500d004c7596bc01a604b7a5a593e0c34073f7ad23a8de10515e344ed"
   },
   {
     "time": "08:53",
-    "quoteFirst": "It was ",
-    "quoteTime": "seven minutes to nine",
-    "quoteLast": ", and the last of the luggage was packed.",
-    "title": "Capt'n Davy's Honeymoon",
-    "author": "Caine, Hall, Sir, 1853-1931",
-    "gutenbergReference": "25572",
-    "hash": "9b06dbc6ddb4f517d2c2e06757b6ace84d856bfc6dd3e0e735751b9b181ba01c"
+    "quoteFirst": "--_Langness_ L.H., large number of Swallows from ",
+    "quoteTime": "7 to 9 A.M.",
+    "quoteLast": " (Light S.; clear.)",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "66152",
+    "hash": "e975cf3d5269b0654b88b4be9a2e2242d8d9df0851c0b93c4b7414cda4d1ca0f"
+  },
+  {
+    "time": "08:53",
+    "quoteFirst": "He shall visit the Dispensary twice a day, from ",
+    "quoteTime": "7 to 9 A.M.",
+    "quoteLast": "     and from 3 to 4 P.M. He shall enter upon his memorandum-book, and upon     the pass-book of the girl, the result of all accidental or necessary     visits.",
+    "title": "The History of Prostitution: Its Extent, Causes, and Effects throughout the World",
+    "author": "Sanger, William W., 1819-1872",
+    "gutenbergReference": "41873",
+    "hash": "b634a739a51e5e6e8d002851393e6199f621d0d14999dd2163020ce969ee6bd4"
+  },
+  {
+    "time": "08:53",
+    "quoteFirst": "The oxeye, like the other tits, assembles in numbers at the    water-trap, commonly from ",
+    "quoteTime": "seven to nine in the morning",
+    "quoteLast": ", and from four    to five in the evening.",
+    "title": "The Natural History of Cage Birds\r\nTheir Management, Habits, Food, Diseases, Treatment, Breeding, and the Methods of Catching Them.",
+    "author": "Bechstein, Johann Matthäus, 1757-1822",
+    "gutenbergReference": "40055",
+    "hash": "6f5e5bc616d4a8c243be40382fa9c2c25891ec330866789ff01a883d92eb1cee"
   }
 ]

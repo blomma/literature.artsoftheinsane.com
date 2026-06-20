@@ -51,6 +51,26 @@
   },
   {
     "time": "04:29",
+    "quoteFirst": "",
+    "quoteTime": "4:29 a. m.",
+    "quoteLast": "—A Turn of the Screw    XXIV.",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "hash": "63ebe8ac48325d3d147d75f1271359b2ce2519c14f7024ec20055d332e60ad9b"
+  },
+  {
+    "time": "04:29",
+    "quoteFirst": "",
+    "quoteTime": "4:29 a. m.",
+    "quoteLast": "—A Turn of the Screw",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "hash": "5c701537304f1dee06dd56c6b9ae5f2fc6f0432d21abe583d917efd866cbf456"
+  },
+  {
+    "time": "04:29",
     "quoteFirst": ", sets on the 17th at ",
     "quoteTime": "4:29 a. m.",
     "quoteLast": "; rises on the 31st at 1:35 p.",

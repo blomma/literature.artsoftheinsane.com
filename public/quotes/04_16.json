@@ -1,6 +1,16 @@
 [
   {
     "time": "04:16",
+    "quoteFirst": "It’s only--no--it’s ",
+    "quoteTime": "sixteen minutes past four",
+    "quoteLast": " by my little clock.”",
+    "title": "The Ralstons",
+    "author": "Crawford, F. Marion (Francis Marion), 1854-1909",
+    "gutenbergReference": "49954",
+    "hash": "713bd828ed655fd20ccbe5c1814328841d4f6347ab2070fe50f0aec751eb09a7"
+  },
+  {
+    "time": "04:16",
     "quoteFirst": "Time was resumed at ",
     "quoteTime": "4:16 a.m.",
     "quoteLast": ", when the countdown was set back to T minus 5 minutes.",

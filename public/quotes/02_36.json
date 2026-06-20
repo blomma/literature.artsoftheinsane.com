@@ -1,6 +1,16 @@
 [
   {
     "time": "02:36",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-four minutes to three",
+    "quoteLast": " the baron flung out the last damning phrase (with the appropriate splendid gesture) at his image in the looking-glass over the mantelpiece.",
+    "title": "Happy Pollyooly: The Rich Little Poor Girl",
+    "author": "Jepson, Edgar, 1863-1938; Birch, Reginald B. (Reginald Bathurst), 1856-1943 [Illustrator]",
+    "gutenbergReference": "19310",
+    "hash": "bc23906f86f8d7ac293722bacb7f190c66b507ad3be96ff97843215ed603b73b"
+  },
+  {
+    "time": "02:36",
     "quoteFirst": "At twenty-one minutes past two on the afternoon of July 30th the _Agamemnon_ signalled that she had passed her one-hundred-and-fifty-mile limit, and at ",
     "quoteTime": "twenty-four minutes of three",
     "quoteLast": " the same was reported on the _Niagara_.",
@@ -18,5 +28,15 @@
     "author": "Grautoff, Ferdinand Heinrich, 1871-1935",
     "gutenbergReference": "19498",
     "hash": "f0f87ef8c9c6d56e4368ad1284a42cfbed1bcebdb5f2248c27c25f0cd51a718a"
+  },
+  {
+    "time": "02:36",
+    "quoteFirst": "The next day it is all entered quietly in the station log: “",
+    "quoteTime": "Two thirty-six A.M.",
+    "quoteLast": " saw freighter standing in toward outer bar, burnt Coston signals, freighter whistled and changed her course.”",
+    "title": "The outermost house",
+    "author": "Beston, Henry, 1888-1968",
+    "gutenbergReference": "73328",
+    "hash": "e4ff4d48c98718e31763b1485501d2be634648fd2257c8c0c458c782bd837d65"
   }
 ]

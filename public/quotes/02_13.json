@@ -1,6 +1,56 @@
 [
   {
     "time": "02:13",
+    "quoteFirst": "I looked at my watch by the moonlight, and found that it was ",
+    "quoteTime": "thirteen minutes after two a. m.",
+    "quoteLast": " Then, thinking I might get a sight of the burglar from our bedroom window, I drew the heavy, old-fashioned curtains aside, and peered out over the silent landscape thirty feet below.",
+    "title": "The Adventures of the Eleven Cuff-Buttons\r\nBeing one of the exciting episodes in the career of the famous detective Hemlock Holmes, as recorded by his friend Dr. Watson",
+    "author": "Thierry, James Francis",
+    "gutenbergReference": "31135",
+    "hash": "0dd97d5ee1bd0e278877c3167ad7fb80b5353fcb70ce238e2445cf4ea4ccda83"
+  },
+  {
+    "time": "02:13",
+    "quoteFirst": "",
+    "quoteTime": "2:13 a. m.",
+    "quoteLast": "—The Thin Steel Blade     XVI.",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "hash": "8438fc0dd718da46519b641ef6bf682fbf3e846da249d209404dd1176320706c"
+  },
+  {
+    "time": "02:13",
+    "quoteFirst": "",
+    "quoteTime": "2:13 a. m.",
+    "quoteLast": "—Time _versus_ Death    XVII.",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "hash": "b14ac89beda765967f6668da40311ea28af99178a521b1d5f63523630a6bad18"
+  },
+  {
+    "time": "02:13",
+    "quoteFirst": "",
+    "quoteTime": "2:13 a. m.",
+    "quoteLast": "—The Thin Steel Blade",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "hash": "92c2963c16ed8b9ce2db908e96266cdb55cd95997fbbdcb6f774b2650f0bfbd7"
+  },
+  {
+    "time": "02:13",
+    "quoteFirst": "",
+    "quoteTime": "2:13 a. m.",
+    "quoteLast": "—Time _versus_ Death",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "hash": "c0bba20558d23f982ce635abf6fac43474a6f4eab2ea7340d2c49f5c231b3f20"
+  },
+  {
+    "time": "02:13",
     "quoteFirst": "; on the 16th, at ",
     "quoteTime": "2:13 a. m.",
     "quoteLast": "; and on the 31st, at 1:14 a.",
@@ -8,6 +58,16 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55158",
     "hash": "2877b354fd39d72a8023bb0b9baae3461991e648602858aa013518579290276f"
+  },
+  {
+    "time": "02:13",
+    "quoteFirst": "We knew we could catch a ",
+    "quoteTime": "2.13 a.m.",
+    "quoteLast": " train at Goslar (a small town about 15 kilometres due north of Clausthal), and after that we had to trust to luck to find trains to take us _via_ Cassel to Rotweil, a village near the Swiss frontier.",
+    "title": "The Escaping Club",
+    "author": "Evans, A. J. (Alfred John), 1889-",
+    "gutenbergReference": "34421",
+    "hash": "dc86b7f8526b0868edfa549af1cfaaf6b120e9882f3fd56e7e1469dfb21c838e"
   },
   {
     "time": "02:13",

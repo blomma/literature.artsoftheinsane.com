@@ -23,11 +23,11 @@
     "time": "06:18",
     "quoteFirst": "Black Bulb 6.05 to ",
     "quoteTime": "6.18 a.m.",
-    "quoteLast": " 6.22 to 6.35 a.m. 6.38 to 6.51 a.m. 8.27 to 8.37 a.m. 8.39 to 8.52 a.m. 2·6 6·5 9·6 21·7 23·0   62·0",
+    "quoteLast": " 6.22 to 6.35 a.m. 6.38 to 6.51 a.m. 8.27 to 8.37 a.m. 8.39 to 8.52 a.m. 2·6 6·5 9·6 21·7 23·0   62·0 63·5 66·7 78·8 81·7 2·4986 6·0710 8·5152 16·2750 19·4750   25·781 56·5 57·0 61·0 64·2 64·5 54·5 55·1 57·4 59·3 59·4 2·0 1·9 3·6 4·9 5·1 ·935 ·935 ·888 ·855 ·847",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "f246312eb45e4b61176bbe63c9a439c5ec465dc439e5416e60ac9905cd882677"
+    "hash": "5b26186176d5222c0b92fc14f84e1c96806bd3f4c6a2433a3696bf473635f1dc"
   },
   {
     "time": "06:18",
@@ -38,5 +38,15 @@
     "author": "Adams, Henry, 1838-1918",
     "gutenbergReference": "72846",
     "hash": "854bcd291ad425501d4e1a5baac684510be54e41b918f503c4b6aca744f68b34"
+  },
+  {
+    "time": "06:18",
+    "quoteFirst": "\"At ",
+    "quoteTime": "6.18 A.M.",
+    "quoteLast": "\"",
+    "title": "The Son of Monte-Cristo, Volume I",
+    "author": "Lermina, Jules, 1839-1915",
+    "gutenbergReference": "22018",
+    "hash": "2b727c2671e588cc6f44757ebb26b972c8f5fa347f7a168a78fc8ef5f5e9bc6b"
   }
 ]

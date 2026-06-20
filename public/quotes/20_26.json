@@ -1,6 +1,26 @@
 [
   {
     "time": "20:26",
+    "quoteFirst": "(Reporter’s note: ",
+    "quoteTime": "8:26 p.m.",
+    "quoteLast": ")",
+    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "56190",
+    "hash": "d5de07245431953717ddead1c485a6e2f912f22b9e43cb89b11439d44dd79afe"
+  },
+  {
+    "time": "20:26",
+    "quoteFirst": "It was marked ",
+    "quoteTime": "twenty-six minutes past eight",
+    "quoteLast": ".",
+    "title": "The Blue Lights: A Detective Story",
+    "author": "Kummer, Frederic Arnold, 1873-1943; Grefé, Will, 1875-1957 [Illustrator]",
+    "gutenbergReference": "38577",
+    "hash": "18dff45776533ce62bb1af20fd94a5a68b33efff792b3ff655fb6d4b529e7aea"
+  },
+  {
+    "time": "20:26",
     "quoteFirst": "It was ",
     "quoteTime": "twenty-six minutes past eight",
     "quoteLast": ".",

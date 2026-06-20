@@ -11,6 +11,16 @@
   },
   {
     "time": "01:26",
+    "quoteFirst": "He looked at the clock and saw that the hands now reached ",
+    "quoteTime": "twenty-six minutes past one",
+    "quoteLast": ".",
+    "title": "The House of the Arrow",
+    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+    "gutenbergReference": "67514",
+    "hash": "368e66be8a941525a1bb90969ccb02b92190ca7ba1f6c13eacab2cef529cae07"
+  },
+  {
+    "time": "01:26",
     "quoteFirst": "They could see the clock on the latter, and Monty, after a surreptitious glance at his watch, said that he could even tell the time, which was ",
     "quoteTime": "twenty-six minutes after one",
     "quoteLast": ", and Leon believed him at first, and was appropriately surprised by his powers of vision.",
@@ -18,5 +28,15 @@
     "author": "Barbour, Ralph Henry, 1870-1944; Rockwell, Norman, 1894-1978 [Illustrator]",
     "gutenbergReference": "71181",
     "hash": "ebdbcf0e739727563cd8dff38d91fa9fabceb6e389d473ac01df20f7925276f9"
+  },
+  {
+    "time": "01:26",
+    "quoteFirst": "By the clock in the chart house of the _Jules Verne_ it was just ",
+    "quoteTime": "twenty-six minutes after one",
+    "quoteLast": ".",
+    "title": "The Brighton Boys in the Submarine Treasure Ship",
+    "author": "Driscoll, James R.; Hofstetter, W. A. [Illustrator]",
+    "gutenbergReference": "54364",
+    "hash": "4f0c2b7a6177f0512532680fbfdb62c4657a44ab3c0c6acf3679f80f0bf93f98"
   }
 ]

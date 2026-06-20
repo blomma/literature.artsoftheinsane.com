@@ -1,102 +1,202 @@
 [
   {
     "time": "02:00",
-    "quoteFirst": "It was an old-fashioned, orthodox Russian household in which they kept the fasts, went to early matins, put a cross on the doors on the Eve of Epiphany, made marvellous pancakes on Shrove Tuesday, ate pork with horse-radish, dined exactly ",
-    "quoteTime": "at two o’clock",
-    "quoteLast": " and supped at nine.",
-    "title": "My past and thoughts, vol. 2 (of 6)",
-    "author": "Herzen, Aleksandr, 1812-1870; Garnett, Constance, 1861-1946 [Translator]",
-    "gutenbergReference": "78332",
-    "hash": "94aa062c9c4161d708b339edcbb1bf7c50cff73773ccaf093365a86fd676e23a"
-  },
-  {
-    "time": "02:00",
-    "quoteFirst": "[66] About ",
+    "quoteFirst": "In the provinces distant from Paris, it is very common to dine at nine; they make a second repast about ",
     "quoteTime": "two o'clock",
-    "quoteLast": " in the afternoon, the British force began firing from the cover of woodpiles, ditches, and buildings, Allen's men returning the fusillade from positions quite as favorable, till near half the enemy began a flank movement on their right.",
-    "title": "Vermont: A Study of Independence",
-    "author": "Robinson, Rowland Evans, 1833-1900; Scudder, Horace Elisha, 1838-1902 [Editor]",
-    "gutenbergReference": "35573",
-    "hash": "29d8cd859fc51f2ca5350badaa1d8db4909ce0903195d6fb8aba91a68d204b3e"
+    "quoteLast": ", sup at five; and their last meal is made just before they retire to bed.",
+    "title": "Curiosities of Literature,  Vol. 2",
+    "author": "Disraeli, Isaac, 1766-1848; Disraeli, Benjamin, Earl of Beaconsfield, 1804-1881 [Editor]",
+    "gutenbergReference": "16350",
+    "hash": "8e70ee5cab6b5a07196d9b7b60771768bed17595162df2d439635db69c77fd23"
   },
   {
     "time": "02:00",
-    "quoteFirst": "All the employés of the institution are prepared to testify that Mr. Ward did not leave his office until ",
+    "quoteFirst": "At about ",
+    "quoteTime": "two o'clock",
+    "quoteLast": " in the morning Giant awoke, to find the rain coming down steadily on the tent.",
+    "title": "Young Hunters of the Lake; or, Out with Rod and Gun",
+    "author": "Stratemeyer, Edward, 1862-1930",
+    "gutenbergReference": "12936",
+    "hash": "b1a71170e1d54c8efbdb2c781c884adb7c0f6764ec33fefb6ab8bce79cbce2bc"
+  },
+  {
+    "time": "02:00",
+    "quoteFirst": "You must see to this matter at once, for the _bureau_ closes ",
+    "quoteTime": "at two o'clock",
+    "quoteLast": ".",
+    "title": "In the Days of My Youth: A Novel",
+    "author": "Edwards, Amelia B., 1831-1892",
+    "gutenbergReference": "12442",
+    "hash": "f8f55e6b66965434d36a00d4865fbba04ed16466e91b4b5cf9d861fd4c3eb56f"
+  },
+  {
+    "time": "02:00",
+    "quoteFirst": "I'll be back ",
+    "quoteTime": "at 2 o'clock",
+    "quoteLast": ".",
+    "title": "Warren Commission (10 of 26): Hearings Vol. X (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44010",
+    "hash": "ce324e4c51ff297c79e359997f3d821ab08ba646cc329aedebaedd5634fd8a8a"
+  },
+  {
+    "time": "02:00",
+    "quoteFirst": "We were, however, not without hopes of getting round the western point of the reef and into the bay, till about ",
+    "quoteTime": "two o'clock",
+    "quoteLast": " in the afternoon, when we came before an opening or break in the reef, through which I hoped to get with the ships.",
+    "title": "A Voyage Towards the South Pole and Round the World, Volume 1",
+    "author": "Cook, James, 1728-1779; Furneaux, Tobias, 1735-1781 [Contributor]",
+    "gutenbergReference": "15777",
+    "hash": "b712af70f96857db20df3c377b452e85a2f4149f699e75ed66c04f1437b251b5"
+  },
+  {
+    "time": "02:00",
+    "quoteFirst": "'It fell in the storm ",
+    "quoteTime": "at two o'clock",
+    "quoteLast": " after midnight, and you on the sea!'",
+    "title": "Beauchamp's Career — Volume 3",
+    "author": "Meredith, George, 1828-1909",
+    "gutenbergReference": "4455",
+    "hash": "fca96cb47cf6532c1dce17413b8a3059eaef4f8945da8b1b669fed17915087bd"
+  },
+  {
+    "time": "02:00",
+    "quoteFirst": "It was ",
+    "quoteTime": "two o’clock",
+    "quoteLast": " before I toddled into the mess-room.",
+    "title": "The Fortunes of Hector O'Halloran, and His Man, Mark Antony O'Toole",
+    "author": "Maxwell, W. H. (William Hamilton), 1792-1850; Doyle, Richard, 1824-1883 [Illustrator]; Leech, John, 1817-1864 [Illustrator]",
+    "gutenbergReference": "46864",
+    "hash": "a52f65cbdc0c0f2e2db6e362a6eecab706d62a706ce2de36844a029b9b65a722"
+  },
+  {
+    "time": "02:00",
+    "quoteFirst": "Order the carriage for half-past ",
     "quoteTime": "two o'clock",
     "quoteLast": ".\"",
-    "title": "The Substitute Prisoner",
-    "author": "Marcin, Max, 1879-1948",
-    "gutenbergReference": "18965",
-    "hash": "5c2b5142cd47ea4656e27fbd3eb9f301f49b4b9f1780a5c8bc6362d11df8b216"
+    "title": "The Story of Charles Strange: A Novel. Vol. 3 (of 3)",
+    "author": "Wood, Henry, Mrs., 1814-1887",
+    "gutenbergReference": "38625",
+    "hash": "41e1c42344a2276c05d705fdb3af75be9efe09ca83cd61049bc2f43a1462e7c9"
+  },
+  {
+    "time": "02:00",
+    "quoteFirst": "They sat long, and I forced to follow Sir Thomas Ingram, the Duke, and others, so that when I got free and come to look for Cutler, he was gone with his coach, without leaving any word with any body to tell me so; so that I was forced with great trouble to walk up and down looking of him, and at last forced to get a boat to carry me to Kingston, and there, after eating a bit at a neat inne, which pleased me well, I took boat, and slept all the way, without intermission, from thence to Queenhive, where, it being about ",
+    "quoteTime": "two o’clock",
+    "quoteLast": ", too late and too soon to go home to bed, I lay and slept till about four,",
+    "title": "The Diary of Samuel Pepys — Complete",
+    "author": "Pepys, Samuel, 1633-1703; Braybrooke, Richard Griffin, Baron, 1783-1858 [Editor]; Wheatley, Henry B. (Henry Benjamin), 1838-1917 [Editor]; Bright, Mynors, 1818-1883 [Translator]",
+    "gutenbergReference": "4200",
+    "hash": "fd54b777bf7d156e9f204f96d2aa9ccf55f8a49902a69d21e2821069f171ab51"
   },
   {
     "time": "02:00",
     "quoteFirst": "About ",
     "quoteTime": "two o'clock",
-    "quoteLast": " supper is announced, and this is done all over the world, I believe, by the strains of the Priests' March in Norma.",
-    "title": "The Complete Bachelor: Manners for Men",
-    "author": "Germain, Walter",
-    "gutenbergReference": "25950",
-    "hash": "c6e5fd5ade15d966ba09e4d9d008953f885b24764a68314049c7ad5e6f60215c"
+    "quoteLast": " in the afternoon we saw three clusters of houses on a tableland which juts into a chasm cut by a tributary of the great river.",
+    "title": "Camps and Trails in China\nA Narrative of Exploration, Adventure, and Sport in Little-Known China",
+    "author": "Andrews, Roy Chapman, 1884-1960; Andrews, Yvette Borup, 1891-1959",
+    "gutenbergReference": "12296",
+    "hash": "e30ffe6b6c7a030639ea4f75dc379d7388ae370e56e3faa42208c8ed94280175"
   },
   {
     "time": "02:00",
-    "quoteFirst": "All was still, the only sign of life being a light in a neighbouring hut, and I sat out in the open air in comparative comfort, until driven indoors again by torrents of rain, at about half-past ",
+    "quoteFirst": "I beg     Y.L. to forgive such a long letter, but it is after ",
+    "quoteTime": "two o'clock",
+    "quoteLast": ",     and I cannot sleep; if it pleases you that I should tell you     tittle-tattle I have certainly done so.",
+    "title": "The Story of Don John of Austria",
+    "author": "Coloma, Luis, 1851-1915; Moreton, Lady, 1863?-1944 [Translator]",
+    "gutenbergReference": "53383",
+    "hash": "f4842fd29020f69999a1e87f97e635a6bf11e286910a65abbe83bd7aa410812e"
+  },
+  {
+    "time": "02:00",
+    "quoteFirst": "I suppose that you will, both of you, be able to knock off work at about ",
+    "quoteTime": "two o'clock",
+    "quoteLast": "; you will then want an hour to have a bath and to get your shooting-coats on.",
+    "title": "Baboe Dalima; or, The Opium Fiend",
+    "author": "Perelaer, M. T. H. (Michael Theophile Hubert), 1831-1901; Venning, Edwin James [Translator]",
+    "gutenbergReference": "60751",
+    "hash": "f3e86ce1188d18e2afde604589a341849d4a2a9b3969d769f596cd63d76abce6"
+  },
+  {
+    "time": "02:00",
+    "quoteFirst": "He found it was ",
+    "quoteTime": "two o'clock",
+    "quoteLast": ", and that the guess he had made was not far amiss.",
+    "title": "Phil Bradley's Mountain Boys",
+    "author": "Boone, Silas K.",
+    "gutenbergReference": "22279",
+    "hash": "d3c7a0eabc084bf61b19bf68e172babc21c82ea43ebeacc792368310e3acd112"
+  },
+  {
+    "time": "02:00",
+    "quoteFirst": "I brought him down here for the benefit of General Granier’s society, who has promised to teach him a few things; and, as neither one of them returned to the hotel until ",
+    "quoteTime": "two o’clock",
+    "quoteLast": " this morning, I am in hopes that Eugène is reforming.”",
+    "title": "The Chateau of Montplaisir",
+    "author": "Seawell, Molly Elliot, 1860-1916; Armstrong, Margaret, 1867-1944 [Illustrator]; Grant, Gordon, 1875-1962 [Illustrator]",
+    "gutenbergReference": "77315",
+    "hash": "6e657bb8799273a29ed4f034eb16e890ece7ea0f35dc49ec27a7ef6589a35285"
+  },
+  {
+    "time": "02:00",
+    "quoteFirst": "",
+    "quoteTime": "The clock struck two",
+    "quoteLast": ": and the wish became determination.",
+    "title": "A Laodicean : A Story of To-day",
+    "author": "Hardy, Thomas, 1840-1928",
+    "gutenbergReference": "3258",
+    "hash": "4968d3dc08a9109360f35c62d7c708a3fd7c835af72e61a8bd7273466155298c"
+  },
+  {
+    "time": "02:00",
+    "quoteFirst": "",
+    "quoteTime": "At two o’clock",
+    "quoteLast": ", as Moore was on his way to the outposts, a messenger came from General Hope, to inform him that the enemy “was getting under arms.”",
+    "title": "The Girl's Own Paper, Vol. XX. No. 1010, May 6, 1899",
+    "author": "Various",
+    "gutenbergReference": "59003",
+    "hash": "56924c68e0650604188e70208d33c0c71fabc0c05ff03bdd05f3ff70d514e084"
+  },
+  {
+    "time": "02:00",
+    "quoteFirst": "I moved late in the afternoon, so as not to come within the enemy's view before dark, and after night-fall Hancock's corps passed me and began crossing the pontoon-bridge about ",
+    "quoteTime": "2 o'clock",
+    "quoteLast": " in the morning.",
+    "title": "Personal Memoirs of P. H. Sheridan, General, United States Army — Complete",
+    "author": "Sheridan, Philip Henry, 1831-1888",
+    "gutenbergReference": "4362",
+    "hash": "b95541857bbbb78f1bc185dbe72aa943f204ac1cef110e54172c8c53b715ef00"
+  },
+  {
+    "time": "02:00",
+    "quoteFirst": "\"I last saw him here ",
+    "quoteTime": "at two o'clock",
+    "quoteLast": " on Saturday,\" replied Neale.",
+    "title": "The Chestermarke Instinct",
+    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
+    "gutenbergReference": "27965",
+    "hash": "1800b61a0567a93af55566d6ad69d3c7c1b0f2fef2e643f83687b64ffc7f611b"
+  },
+  {
+    "time": "02:00",
+    "quoteFirst": "He would have guessed that it was at least ",
     "quoteTime": "two o'clock",
     "quoteLast": ".",
-    "title": "A Voyage in the 'Sunbeam', Our Home on the Ocean for Eleven Months",
-    "author": "Brassey, Annie, 1839-1887",
-    "gutenbergReference": "14836",
-    "hash": "3bbde0cccaa97d6f85d410c1aaf285e963acfbf66490ea4c14dac5a1d80498a9"
+    "title": "McClure's Magazine, Vol. XXXI, September 1908, No. 5",
+    "author": "Various",
+    "gutenbergReference": "45924",
+    "hash": "3720ba9d8f2eed1c9a2c710f8ba551083c6d57cd0353a53885ceef8d7f01b248"
   },
   {
     "time": "02:00",
-    "quoteFirst": "But about ",
-    "quoteTime": "two of the clock",
-    "quoteLast": " we noted that the body of the army--with which was the King himself--had since dinner made such haste that there was now a great space left between them and us; for we had received no command to quicken our marching.",
-    "title": "With the King at Oxford: A Tale of the Great Rebellion",
-    "author": "Church, Alfred John, 1829-1912",
-    "gutenbergReference": "42197",
-    "hash": "ec1b87e312b53e6f473394bf5ec3390227d5987600b23f61d0fcdb00b30f8705"
-  },
-  {
-    "time": "02:00",
-    "quoteFirst": "He was a wild, drunken, half-crazy fellow, and I remember he came to Hessle about ",
+    "quoteFirst": "Having reached home, Munich ordered his aide-de-camp, Manstein, to be ready by ",
     "quoteTime": "two o'clock",
-    "quoteLast": " one afternoon, and drove full gallop, with postillions, up to my father's house.",
-    "title": "The Hero of the Humber; Or, The History of the Late Mr. John Ellerthorpe",
-    "author": "Woodcock, Henry, 1830-",
-    "gutenbergReference": "20520",
-    "hash": "074b0676a1b40c8043b9e8dcf1e9cc8987ce7e3d13c85197f24a6e61e4ec8a6b"
-  },
-  {
-    "time": "02:00",
-    "quoteFirst": "The first division was driven back from its trenches and after that the line swayed forward and backward for hours, but by ",
-    "quoteTime": "two o'clock",
-    "quoteLast": " in the afternoon the position remained unchanged.",
-    "title": "The Story of the Great War, Volume III (of 12)\nThe War Begins, Invasion of Belgium, Battle of the Marne",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
-    "gutenbergReference": "18213",
-    "hash": "6f0cdcc95658c7ed9a20d185dfbb9f290ae01401f7fb3ecb1b438ce8349d5a24"
-  },
-  {
-    "time": "02:00",
-    "quoteFirst": "The Thirty-third passed up Pennsylvania Avenue about 7 o’clock, and marching until ",
-    "quoteTime": "2 o’clock",
-    "quoteLast": " Sunday morning, halted at Tanlytown.",
-    "title": "The story of the Thirty-Third N. Y. S. Vols\r\nor two years campaigning in Virginia and Maryland",
-    "author": "Judd, David Wright, 1838-1888",
-    "gutenbergReference": "68232",
-    "hash": "4c8bef6767a6f2ebb47d87c9bba841fd53c4e4a433fec2cdadd0447c851e2620"
-  },
-  {
-    "time": "02:00",
-    "quoteFirst": "We left Portsmouth for Boston, as already stated, at midnight and arrived there ",
-    "quoteTime": "at two o’clock",
-    "quoteLast": "; we set out again at four, through Lexington, Lancaster, Worcester, Tolland, and Hartford.",
-    "title": "Lafayette in America in 1824 and 1825, Vol. 1 (of 2)\r\nOr, Journal of a Voyage to the United States",
-    "author": "Levasseur, Auguste, 1795-1878; Godman, John D. (John Davidson), 1794-1830 [Translator]",
-    "gutenbergReference": "61518",
-    "hash": "028f0c0ec06821fa9a3c7f1670b4dbd9816fdc1da56e49ab18af9ec252577a81"
+    "quoteLast": ".",
+    "title": "Memoirs of the Empress Catherine II.\nWritten by Herself",
+    "author": "Catherine II, Empress of Russia, 1729-1796; Herzen, Aleksandr, 1812-1870 [Translator]",
+    "gutenbergReference": "46407",
+    "hash": "69f55d3fe706f7722af47c1a700092609517c21073fbd2120206a69c88860ac5"
   }
 ]

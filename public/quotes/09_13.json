@@ -1,6 +1,16 @@
 [
   {
     "time": "09:13",
+    "quoteFirst": "At ",
+    "quoteTime": "thirteen minutes past nine",
+    "quoteLast": " he composed his face into a dour truculence, an expression to which the heavy conformation of the lower part lent itself admirably.",
+    "title": "The Loudwater Mystery",
+    "author": "Jepson, Edgar, 1863-1938",
+    "gutenbergReference": "9808",
+    "hash": "fa657f5cbc9347d7543d9426eca778f717a7b397aba3f361da5084cce191174d"
+  },
+  {
+    "time": "09:13",
     "quoteFirst": "The hands of the Dutch clock in the hall pointed to ",
     "quoteTime": "thirteen minutes past nine",
     "quoteLast": "; those of the ormolu clock in the sitting-room to eleven minutes past ten; those of the carriage clock on the bookshelf to fourteen minutes to six.",
@@ -13,21 +23,21 @@
     "time": "09:13",
     "quoteFirst": "Black Bulb 8.00 to 8.13 a.m. 8.15 to 8.28 a.m. 9.00 to ",
     "quoteTime": "9.13 a.m.",
-    "quoteLast": " 10.00 to 10.13 a.m. 11.00 to 11.13 a.m. Noon to 12.13 p.m. 1.00 to 1.13 p.m. 2.00 to 2.13 p.m. 11·1 15·0 17·7 19·1",
+    "quoteLast": " 10.00 to 10.13 a.m. 11.00 to 11.13 a.m. Noon to 12.13 p.m. 1.00 to 1.13 p.m. 2.00 to 2.13 p.m. 11·1 15·0 17·7 19·1 19·0 18·8 17·2 17·4 65·5 69·5 71·5 72·5 75·0 75·0 73·3 74·0   9·9900 12·2645 14·5140 15·4710 14·9150 12·7600 13·8976 13·8330 22·960",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "9e972d63b9057364b6b8d378da7d48685e1deadcf60b6a18936f81b1c2ca8f12"
+    "hash": "49d623184e8dd7f6af42b39370da85021878e94c7f260971d9264e70081dfc29"
   },
   {
     "time": "09:13",
     "quoteFirst": "Black Bulb 8.0 to 8.30 a.m. 9.0 to ",
     "quoteTime": "9.13 a.m.",
-    "quoteLast": " 10.0 to 10.13 a.m. 11·8 17·8 18·8 64·0 73·3 65·0 10·9150 14·2750 14·7580 22·969 22·974",
+    "quoteLast": " 10.0 to 10.13 a.m. 11·8 17·8 18·8 64·0 73·3 65·0 10·9150 14·2750 14·7580 22·969 22·974 22·985 54·2 56·2 57·0 43·4 44·1 42·5 10·8 12·1 14·5 ·691 ·662 ·609 74·0 92·0 92·0 Dense haze, S.E. wind, cloudless sky.",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "11dfad3f6019688ffeba337aa2e465906b66fa5a13a3ce7a550b072e0bd99324"
+    "hash": "7b24a18522dbdf00c7322983b8daea3dadc706e4f225c7408c2649d9596bdbae"
   },
   {
     "time": "09:13",

@@ -11,13 +11,33 @@
   },
   {
     "time": "10:06",
-    "quoteFirst": "Black Bulb 7.39 to 7.52 a.m. 8.40 to 8.53 a.m. 9.04 to 9.08 a.m. 9.52 to 9.56 a.m. 10.02 to ",
+    "quoteFirst": "Then he asked for a match to see the time and it was ",
+    "quoteTime": "six minutes past ten",
+    "quoteLast": ".",
+    "title": "The Human Boy Again",
+    "author": "Phillpotts, Eden, 1862-1960",
+    "gutenbergReference": "47198",
+    "hash": "4ef79c439de2b0872c665e3b821b1ffc393877973d4f1ac7cf53c8ae2c5d7075"
+  },
+  {
+    "time": "10:06",
+    "quoteFirst": "9.53 to ",
     "quoteTime": "10.06 a.m.",
-    "quoteLast": " 11.16 to 11.29 a.m. 11.52 to 11.56 a.m. 1.38 to 1.41 p.m. 1.47 to 1.51 p.m. 3.10 to 3.17 p.m. 3.18 to 3.25 p.m. 10·0 21·3 23·2",
+    "quoteLast": " 10.50 to 11.03 a.m. 11.31 to 11.44 a.m. 12.33 to 12.46 p.m. 1.07 to 1.21 p.m. 2.47 to 3.00 p.m. 3.48 to 4.00 p.m. 4.03 to 4.16 p.m. 25·8 26·1 28·5 30·9 29·1 21·1 16·7 16·2 78·0 80·5 84·0 91·5 90·5 75·0 73·0 75·0 17·5306 19·1835 20·2065 20·4267 20·4388 16·5635 13·4435 12·7170 25·854",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "6dab60aaaecdd35d6076cc856ce6cbb93a42d4c42650d7dbba116772ae8cd703"
+    "hash": "4ab1590c9e822fbe0ef294fce133ae9a7a4db2237a81399daa049fd3e4a37567"
+  },
+  {
+    "time": "10:06",
+    "quoteFirst": "Black Bulb 7.39 to 7.52 a.m. 8.40 to 8.53 a.m. 9.04 to 9.08 a.m. 9.52 to 9.56 a.m. 10.02 to ",
+    "quoteTime": "10.06 a.m.",
+    "quoteLast": " 11.16 to 11.29 a.m. 11.52 to 11.56 a.m. 1.38 to 1.41 p.m. 1.47 to 1.51 p.m. 3.10 to 3.17 p.m. 3.18 to 3.25 p.m. 10·0 21·3 23·2 24·3 25·1 24·3 26·6 24·7 25·4 21·1 19·3 70·0 91·5 89·5 87·3 90·5 84·5 92·6 84·0 90·7 86·0 89·3   8·3700 14·1219 15·6136 16·7341 16·7668 17·1558 17·5028 17·5123 16·8418 14·6645 13·0468 29·874",
+    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6478",
+    "hash": "1c7368468af1e13f39d326d87c222099341131f94a5fbc443ad999cf4c12504c"
   },
   {
     "time": "10:06",

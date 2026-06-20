@@ -11,6 +11,16 @@
   },
   {
     "time": "01:52",
+    "quoteFirst": "They say: \"",
+    "quoteTime": "Eight minutes of two",
+    "quoteLast": ". Three minutes of two. Two. Four minutes after two. Ten minutes after two.\"",
+    "title": "A Thousand and One Afternoons in Chicago",
+    "author": "Hecht, Ben, 1894-1964",
+    "gutenbergReference": "7988",
+    "hash": "786f31666707cc4926493013e539c377ed09d977165a87fb1ee5d30f4b0db443"
+  },
+  {
+    "time": "01:52",
     "quoteFirst": "The Canadian Pacific steamer _Empress of Ireland_, from Quebec to Liverpool, was run down in fog off Father Point by the Norwegian collier _Storstad_ at ",
     "quoteTime": "1.52 A.M.",
     "quoteLast": ", and sunk in 17 min.",
@@ -21,6 +31,16 @@
   },
   {
     "time": "01:52",
+    "quoteFirst": "\"It lacks just ",
+    "quoteTime": "eight minutes of two",
+    "quoteLast": ",\" he added.",
+    "title": "A Quarter-Back's Pluck: A Story of College Football",
+    "author": "Chadwick, Lester, 1873-1962",
+    "gutenbergReference": "40668",
+    "hash": "35d353bd47333cfd4c90b214d89d1b203582dc0f82e6d54cf0f000b6c00e7af5"
+  },
+  {
+    "time": "01:52",
     "quoteFirst": "At ",
     "quoteTime": "fifty-two minutes past one",
     "quoteLast": ", Greenwich time      (ship's time, forty-five minutes past ten P.M., last night),      the fore tank being nearly empty, preparations were made for      passing the bight of the cable into the main tank.",
@@ -28,5 +48,15 @@
     "author": "Field, Henry M. (Henry Martyn), 1822-1907",
     "gutenbergReference": "34765",
     "hash": "fb981b8414a1706d5fa7c9ba2ed8f80c31fc6336cee21b998b6f1887f7bf6c6f"
+  },
+  {
+    "time": "01:52",
+    "quoteFirst": "Perhaps he ascribed considerable importance to this visit; perhaps he thought Polly had not been candid with him, and that, in reality, she knew more of its object than she had avowed; and so he walked hurriedly from room to room, and out into the garden, and across the road to the river's side, and once as far as the bridge, consulting his watch, and calculating that as it now only wanted ",
+    "quoteTime": "eight minutes of two",
+    "quoteLast": " o'clock, the arrival could scarcely be long delayed.",
+    "title": "Barrington. Volume 1 (of 2)",
+    "author": "Lever, Charles, 1806-1872; Browne, Hablot Knight, 1815-1882 [Illustrator]",
+    "gutenbergReference": "34882",
+    "hash": "e745d5f9c3669d54918c43c257b6c0d2320b6e3fe38ba6b0b591e198daf7e2b1"
   }
 ]

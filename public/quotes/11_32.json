@@ -1,6 +1,16 @@
 [
   {
     "time": "11:32",
+    "quoteFirst": "If I pick up a passenger, say, like ",
+    "quoteTime": "28 minutes to 12",
+    "quoteLast": " o'clock, we put 20 minutes to 12.",
+    "title": "Warren Commission (03 of 26): Hearings Vol. III (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44003",
+    "hash": "3a422189c9da7bdf74b4b185ea41e338d5e1b0cff32eda45e4d2a3902efd2a49"
+  },
+  {
+    "time": "11:32",
     "quoteFirst": "The first broadside was fired at ",
     "quoteTime": "11.32 A.M.",
     "quoteLast": " Lieutenant Biddle hauled down the enemy’s flag at 12.15.",

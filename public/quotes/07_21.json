@@ -11,6 +11,16 @@
   },
   {
     "time": "07:21",
+    "quoteFirst": "Dan Dalzell was the last of the six boys to reach post outside the locked gate of the yard, and he was there no later than ",
+    "quoteTime": "twenty-one minutes past seven",
+    "quoteLast": ".",
+    "title": "The High School Boys' Canoe Club",
+    "author": "Hancock, H. Irving (Harrie Irving), 1868-1922",
+    "gutenbergReference": "12728",
+    "hash": "cd1ac52f20c62bed9f76ab308ddce6ca75c52caa4a79969918462b27686fe9b2"
+  },
+  {
+    "time": "07:21",
     "quoteFirst": "The times of the London coach were as follow: London depart 8.0 p.m., Bath ",
     "quoteTime": "7.21 a.m.",
     "quoteLast": ", Bristol arrive 8.43 a.m., depart 6.15 p.m., arrive G.P.O. 6.58 a.m.,--a slight acceleration over 1830.",
@@ -18,5 +28,15 @@
     "author": "Tombs, Robert Charles, 1842-1923",
     "gutenbergReference": "34197",
     "hash": "175a7e8bfe9b409978f8505599152f15c87a69c046721a62c33ad3ea08952f91"
+  },
+  {
+    "time": "07:21",
+    "quoteFirst": "'Let the Holy Ghost descend upon us now,' the revivalist pleaded with restrained passion; and then, opening his eyes and looking at the clock in front of the gallery, he repeated, 'Now, now, at ",
+    "quoteTime": "twenty-one minutes past seven",
+    "quoteLast": ".'",
+    "title": "Anna of the Five Towns",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "35505",
+    "hash": "23619a78f3ba87cbf851832b9d8bfc27fa60a3f2e766cf2d59609bf73e48b0d9"
   }
 ]

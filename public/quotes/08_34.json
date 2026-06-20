@@ -1,6 +1,16 @@
 [
   {
     "time": "08:34",
+    "quoteFirst": "‘Enemy seen flying here at ",
+    "quoteTime": "8.34 A.M.",
+    "quoteLast": "’",
+    "title": "David Blaize and the Blue Door",
+    "author": "Benson, E. F. (Edward Frederic), 1867-1940; Ford, H. J. (Henry Justice), 1860-1941 [Illustrator]",
+    "gutenbergReference": "48505",
+    "hash": "ea0e911c29c50d91a69d58459060fb2fe1fd31501022b2998ac767279d9e96b9"
+  },
+  {
+    "time": "08:34",
     "quoteFirst": "At ",
     "quoteTime": "8:34 a.m.",
     "quoteLast": ", the English Channel came again into view.",

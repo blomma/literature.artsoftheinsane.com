@@ -11,6 +11,16 @@
   },
   {
     "time": "11:24",
+    "quoteFirst": "\"",
+    "quoteTime": "11.24 A.M.",
+    "quoteLast": ": Fired stern tube at _Dal Alfven_. _Wale_ was 100 yards     on our beam. Torpedo ran well and vessel sank in two minutes.\"",
+    "title": "The Story of Our Submarines",
+    "author": "Bower, John Graham, 1886-1940",
+    "gutenbergReference": "40765",
+    "hash": "c480e3b784dfe4229164215aadef7d656d6591d534ba58ae5bb74f94c820705b"
+  },
+  {
+    "time": "11:24",
     "quoteFirst": ", and ",
     "quoteTime": "11:24 a. m.",
     "quoteLast": ", and sets on the 2d, 16th, and May 1st at 3:09, 2:22, and 1:38 a.",

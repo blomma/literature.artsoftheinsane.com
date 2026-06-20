@@ -1,13 +1,53 @@
 [
   {
     "time": "23:05",
-    "quoteFirst": "Their answer was given on the 31st, at ",
+    "quoteFirst": "Every night before the Moon is full you will find it due south 55 minutes earlier, so that you must subtract 55 minutes from 12 o’clock for each day; that is, one day before full Moon it is due south at ",
+    "quoteTime": "11:05 P. M.",
+    "quoteLast": "; two days before full Moon it is due south at 10:10 P. M.; three days before full Moon it is due south at 9:15 P. M., and so on.",
+    "title": "The Book of Stars: Being a Simple Explanation of the Stars and Their Uses to Boy Life",
+    "author": "Collins, A. Frederick (Archie Frederick), 1869-1952",
+    "gutenbergReference": "67234",
+    "hash": "c40ac5badf114ed492d4c031abb6d6f4d5881a948dc5e0300d1e07997ad36716"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "I stood in line till I realized that I must make it snappy if I wanted to catch the ",
+    "quoteTime": "eleven-five",
+    "quoteLast": " for Paris; then I butted my way into the august presence of Him of the Beard.",
+    "title": "My four weeks in France",
+    "author": "Lardner, Ring, 1885-1933; Morgan, Wallace, 1875-1948 [Illustrator]",
+    "gutenbergReference": "73059",
+    "hash": "55554d38bed08a6d3db934a1d1bbdbb6de9edef3ead3209f98194469a68e5348"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "\"I can play draughts for thirty-five minutes,\" she remarked--\"from ",
+    "quoteTime": "eleven-five",
+    "quoteLast": " to eleven-forty--and then Gracie must take my place, as Margaret will be baking, and I have the soup-kitchen accounts to make up.\"",
+    "title": "A Lame Dog's Diary",
+    "author": "Macnaughtan, S. (Sarah), 1864-1916",
+    "gutenbergReference": "34777",
+    "hash": "02dd5536af199004c04cb5287660b29fe8bdf3f17a6f4b83f5e544339aa6e602"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "A clock on a shelf told the hour: it was ",
     "quoteTime": "five minutes past eleven",
-    "quoteLast": ", only an hour before the expiry of the term of grace.",
-    "title": "The life of Henry Labouchere",
-    "author": "Thorold, Algar, 1866-1936",
-    "gutenbergReference": "75377",
-    "hash": "1142898835bc1451a0d082713a011a9fbcbdf92b6cd1fadf05022b1394026025"
+    "quoteLast": ".",
+    "title": "Swift and Sure: The Story of a Hydroplane",
+    "author": "Strang, Herbert; Finnemore, Joseph, 1860-1939 [Illustrator]",
+    "gutenbergReference": "39151",
+    "hash": "0363101d92c82fd5cf0dfd77187eb4c15d360e084a9a9e4c2cef6d63c66ca120"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "\"We'd just got the last customer out--about ",
+    "quoteTime": "five past eleven",
+    "quoteLast": ", that would be, and George was locking the door, when I see something white on the seat. Somebody's handkerchief I thought it was, but when I picked it up, I see it was the paper packet. So I said to George, 'Hullo! the gentleman's left his medicine behind him.' So George asked what gentleman, and I told him, and he said, 'What is it?' and I looked, but the label had been torn off. It was just one of them chemist's packets, you know, with the ends turned up and a label stuck across, but there wasn't a bit of the label left.\"",
+    "title": "Strong poison",
+    "author": "Sayers, Dorothy L. (Dorothy Leigh), 1893-1957",
+    "gutenbergReference": "78157",
+    "hash": "0c54a9632c0c054360cc0cc6d672add64e70a16d589a84da9235af7b0cda5558"
   },
   {
     "time": "23:05",
@@ -21,6 +61,136 @@
   },
   {
     "time": "23:05",
+    "quoteFirst": "He soon failed, however; and on the last day of January, 1892, on Sunday, at ",
+    "quoteTime": "five minutes past eleven at night",
+    "quoteLast": ", at Hotel Beau Rivage, he passed away.",
+    "title": "Famous leaders among men",
+    "author": "Bolton, Sarah Knowles, 1841-1916",
+    "gutenbergReference": "57666",
+    "hash": "70f559982c148ed58722b90015c7eb09f9ed3b9c4ed119ebf48fce4455e13b0d"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "We got to Waterloo at eleven, and asked where the ",
+    "quoteTime": "eleven-five",
+    "quoteLast": " started from.",
+    "title": "Three men in a boat (to say nothing of the dog)",
+    "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+    "gutenbergReference": "308",
+    "hash": "fa2d6d0d4839de27290975d5a5f1b3b27e4eb9327d2a4236fae8f196d9d1e552"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "“Upon and after the hour of ",
+    "quoteTime": "11:05 P.M.",
+    "quoteLast": ", I am.”",
+    "title": "The stories editors buy and why",
+    "author": "Wick, Jean [Compiler]",
+    "gutenbergReference": "76740",
+    "hash": "4bc5c5e31a62c84929daef046050b1c28d702393b0fe56fcab25d4a1e388055a"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "Percy then hurried off to the schoolhouse, and at ",
+    "quoteTime": "five minutes past eleven that night",
+    "quoteLast": ", as I have already told, we were running down the white chalk road on our way to Southampton, twenty-five miles distant.",
+    "title": "The treasure of Mushroom Rock",
+    "author": "Hamp, Sidford F. (Sidford Frederick), 1855-1919; Edwards, H. C. (Harry C.), 1868-1922 [Illustrator]",
+    "gutenbergReference": "74105",
+    "hash": "4ffcbef7f7ba8e170133e1bf00fdff96485546397c82cc2f50296b48c311d109"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "It was ",
+    "quoteTime": "five minutes past eleven",
+    "quoteLast": " on May 31, 1902.",
+    "title": "The peace negotiations between the governments of the South African Republic and the Orange Free State, and the representatives of the British government, which terminated in the peace concluded at Vereeniging on the 31st May, 1902",
+    "author": "Kestell, J. D. (John Daniel), 1854-1941; Velden, D. E. van; Velden, D. E. van [Translator]",
+    "gutenbergReference": "27529",
+    "hash": "5c2460fb5a4d033dce6f0b6e972b996a55ed81c29b995b7e71f0fc818663e57e"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "She was pale as death, and at Spezia she declared that she would alight at Pisa, where we should arrive at ",
+    "quoteTime": "eleven-five",
+    "quoteLast": ", see a doctor, and remain there the night.",
+    "title": "The indiscretions of a lady's maid",
+    "author": "Le Queux, William, 1864-1927",
+    "gutenbergReference": "77575",
+    "hash": "448b00a346001126d8bf329bd9808b0f2b96c68a92c576caaec7bad2ae0dc245"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "At some point between eleven-four and ",
+    "quoteTime": "eleven-five",
+    "quoteLast": " Belford finds the study empty of life.",
+    "title": "The rasp",
+    "author": "MacDonald, Philip, 1901?-1980",
+    "gutenbergReference": "72462",
+    "hash": "c5ce2dec776fa74839ee16c5364ec49ce7296114491ed053bfa9a6387d9a5ea2"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "_] ",
+    "quoteTime": "Five minutes past eleven",
+    "quoteLast": ".",
+    "title": "The Easiest Way\r\nRepresentative Plays by American Dramatists: 1856-1911",
+    "author": "Walter, Eugene, 1874-1941",
+    "gutenbergReference": "13050",
+    "hash": "188eef7d008f86ae9feaf02ba97d7902c2808b9b0bfd8d5eff343542c6aae3e2"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes past eleven",
+    "quoteLast": ".\"",
+    "title": "My Little Sister",
+    "author": "Robins, Elizabeth, 1862-1952",
+    "gutenbergReference": "36220",
+    "hash": "956e530a673ffe03068d39eb97872f1e55222fb13c8b35e960f5efa31390387b"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "and then spoke up and answered with admirably counterfeited unconcern, “",
+    "quoteTime": "Five minutes after eleven",
+    "quoteLast": ".”",
+    "title": "Alonzo Fitz, and Other Stories",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3184",
+    "hash": "6d28f989c7c744eb2e6e2583cd2f8457d0cbe4e0fc08c72037ca6ed4a5b4bd1e"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "“Ask me something easy, but he can have it if it’s anything we can give him, that goes without saying,” Bob replied and Jack nodded assent The officer was sitting on the front porch when, at ",
+    "quoteTime": "five minutes past eleven",
+    "quoteLast": ", the two boys dismounted in front of the house.",
+    "title": "The Golden Boys Rescued by Radio",
+    "author": "Wyman, L. P. (Levi Parker), 1873-1950; Schaeffer, Phil [Illustrator]",
+    "gutenbergReference": "58595",
+    "hash": "76fc6847b7ab020403cde246e946da460476e0f716ab1c9a384132e7281d891f"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes past eleven",
+    "quoteLast": " the telephone-bell rings.",
+    "title": "Punch, or the London Charivari, Volume 153, July 25, 1917",
+    "author": "Various",
+    "gutenbergReference": "11704",
+    "hash": "8273c2ff8ba9238520e694b40199a01872c90502736fa067f9519f853ac09fbd"
+  },
+  {
+    "time": "23:05",
+    "quoteFirst": "Even ere you, my troops, had put aside the external signs of mourning for your Emperor and King, William I, who lives ever in your hearts, you are called upon to suffer another heavy blow through the death this morning, at ",
+    "quoteTime": "five minutes past eleven",
+    "quoteLast": ", of my dear and deeply beloved father, his Majesty, the Emperor and King, Frederick III.",
+    "title": "The German Emperor as Shown in His Public Utterances",
+    "author": "William II, German Emperor, 1859-1941; Gauss, Christian, 1878-1951 [Editor]",
+    "gutenbergReference": "43666",
+    "hash": "dc6b3dc9bd5158753ed563ffb45d31c5066c4220fd47aea083e4746bad0548bb"
+  },
+  {
+    "time": "23:05",
     "quoteFirst": "The eleventh special from the Olympic, brought the total of men disembarked up to 5,430, and left at ",
     "quoteTime": "five minutes past eleven",
     "quoteLast": ".",
@@ -28,75 +198,5 @@
     "author": "Hanna, D. B. (David Blyth), 1858-1938; Hawkes, Arthur, 1871-1933 [Editor]",
     "gutenbergReference": "63059",
     "hash": "7edd3773941e284420640da086244c95d1b9ee29fe21cb2d1f54176e4b8703c8"
-  },
-  {
-    "time": "23:05",
-    "quoteFirst": "The clock, back of the cigarstand, said it was ",
-    "quoteTime": "five minutes after eleven",
-    "quoteLast": ".",
-    "title": "Jane Cable",
-    "author": "McCutcheon, George Barr, 1866-1928",
-    "gutenbergReference": "5971",
-    "hash": "836f0b1c22d3114824d32cd561e4eb3f192f1a201f1531c94415d54f372658bb"
-  },
-  {
-    "time": "23:05",
-    "quoteFirst": "The ",
-    "quoteTime": "eleven-five",
-    "quoteLast": " train will do you quite nicely.”",
-    "title": "The Emperor of Elam, and other stories",
-    "author": "Dwight, H. G. (Harrison Griswold), 1875-1959",
-    "gutenbergReference": "71279",
-    "hash": "cf9f23336bbf3052e6b77d1f95fc1d8b21a3de793cb96115991fcbaec7647ebb"
-  },
-  {
-    "time": "23:05",
-    "quoteFirst": "He comes home from his club every night by the ",
-    "quoteTime": "eleven-five",
-    "quoteLast": ".",
-    "title": "The Fellowship of the Frog",
-    "author": "Wallace, Edgar, 1875-1932",
-    "gutenbergReference": "69789",
-    "hash": "a79d57b68abcfc4106e345d96cf1195bfe1a0fa209dc254293b4ab2c9cf3714a"
-  },
-  {
-    "time": "23:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past eleven",
-    "quoteLast": ", when Winona was eating her lunch in the gymnasium, Kirsty tapped her on the shoulder.",
-    "title": "The Luckiest Girl in the School",
-    "author": "Brazil, Angela, 1869-1947",
-    "gutenbergReference": "18019",
-    "hash": "875bc1eaf12bf3b605121f1e0bbf46e293cde73d8a0e2492b6f7dc283c125914"
-  },
-  {
-    "time": "23:05",
-    "quoteFirst": "It was ",
-    "quoteTime": "five minutes after eleven",
-    "quoteLast": ".",
-    "title": "The noise of the world",
-    "author": "Spadoni, Adriana, 1879-1953",
-    "gutenbergReference": "75113",
-    "hash": "4a0d2733647b3efa3593690a92c164ea0b2fc5260cb3cbb6828b077480e8e8b9"
-  },
-  {
-    "time": "23:05",
-    "quoteFirst": "Every night before the Moon is full you will find it due south 55 minutes earlier, so that you must subtract 55 minutes from 12 o’clock for each day; that is, one day before full Moon it is due south at ",
-    "quoteTime": "11:05 P. M.",
-    "quoteLast": "; two days before full Moon it is due south at 10:10 P. M.; three days before full Moon it is due south at 9:15 P. M., and so on.",
-    "title": "The Book of Stars: Being a Simple Explanation of the Stars and Their Uses to Boy Life",
-    "author": "Collins, A. Frederick (Archie Frederick), 1869-1952",
-    "gutenbergReference": "67234",
-    "hash": "c40ac5badf114ed492d4c031abb6d6f4d5881a948dc5e0300d1e07997ad36716"
-  },
-  {
-    "time": "23:05",
-    "quoteFirst": "The earthenware clock on the mantelpiece (a birthday gift from Clara and Albert) showed ",
-    "quoteTime": "five minutes past eleven",
-    "quoteLast": ".",
-    "title": "These Twain",
-    "author": "Bennett, Arnold, 1867-1931",
-    "gutenbergReference": "40483",
-    "hash": "dfa97f383edfc77164c5108476f6decf50eebd2d91b7fc315748e218a78b168e"
   }
 ]

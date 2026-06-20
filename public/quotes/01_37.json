@@ -1,6 +1,16 @@
 [
   {
     "time": "01:37",
+    "quoteFirst": "On the 24th, at ",
+    "quoteTime": "1:37 a. m.",
+    "quoteLast": ", it will be only one minute of arc south of the moon, but as both it and the moon will at that hour be below our horizon, we can not see the conjunction.",
+    "title": "The Chautauquan, Vol. 04, May 1884, No. 8",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55158",
+    "hash": "eb09fa622816cecb5997fb11d75ec7197b54e3c7c1ebe633d468b8a9a9141cc1"
+  },
+  {
+    "time": "01:37",
     "quoteFirst": "But she came at last, and it was ",
     "quoteTime": "twenty-three minutes to two",
     "quoteLast": ".",

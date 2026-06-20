@@ -1,13 +1,73 @@
 [
   {
     "time": "22:10",
-    "quoteFirst": "I saw Palmer at ",
+    "quoteFirst": "We left Merligen on foot at a quarter before seven, and, making no stops on the way, reached the Schafloch at ",
     "quoteTime": "ten minutes past ten",
     "quoteLast": ".",
-    "title": "The Most Extraordinary Trial of William Palmer, for the Rugeley Poisonings, which lasted Twelve Days",
-    "author": "Anonymous",
-    "gutenbergReference": "51135",
-    "hash": "3c2da050b021613273656fb3cbe96a718d24f09bdea4aabca06542241045c320"
+    "title": "Glacières; or, Freezing Caverns",
+    "author": "Balch, Edwin Swift, 1856-1927",
+    "gutenbergReference": "52216",
+    "hash": "d4a49d75c93915dc8518f421e015888f95a59f21be490528d951ba6e4faba158"
+  },
+  {
+    "time": "22:10",
+    "quoteFirst": "“There’s one at ",
+    "quoteTime": "ten-ten",
+    "quoteLast": ",” said the woman, behind the window.",
+    "title": "The Little Warrior",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "6837",
+    "hash": "b79b547d8891fa598f67494271bcc6307e7de45a238d7bd196d3ab3024f98c16"
+  },
+  {
+    "time": "22:10",
+    "quoteFirst": "",
+    "quoteTime": "Ten minutes past ten",
+    "quoteLast": " now.",
+    "title": "\"Green Balls\" : The Adventures of a Night-Bomber",
+    "author": "Bewsher, Paul, 1894-1966",
+    "gutenbergReference": "37392",
+    "hash": "44ebbc89d5b3b00069d414c3f9e919cf925f4139bc486da78b759b1059ac700e"
+  },
+  {
+    "time": "22:10",
+    "quoteFirst": "If I'm not in at ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": " don't look for me until the morning.\"",
+    "title": "The Palace Beautiful: A Story for Girls",
+    "author": "Meade, L. T., 1854-1914",
+    "gutenbergReference": "15149",
+    "hash": "f839ff9f72c471e922874e3056ead940e6624d7c9e0cb412ae0d2d77728b1c18"
+  },
+  {
+    "time": "22:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": " he had said to General Swaim, who was standing beside him, as he put his hand upon his heart, \"I have great pain here.\"",
+    "title": "Famous American Statesmen",
+    "author": "Bolton, Sarah Knowles, 1841-1916",
+    "gutenbergReference": "39012",
+    "hash": "ad77fe367c18c28c9fe065d37bfa481a1318ddf36d20fdb4d8771c149e8d9d22"
+  },
+  {
+    "time": "22:10",
+    "quoteFirst": "If I'm not in at ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": " don't look for me until the morning.\"",
+    "title": "The Palace Beautiful: A Story for Girls",
+    "author": "Meade, L. T., 1854-1914",
+    "gutenbergReference": "15149",
+    "hash": "f839ff9f72c471e922874e3056ead940e6624d7c9e0cb412ae0d2d77728b1c18"
+  },
+  {
+    "time": "22:10",
+    "quoteFirst": "The yellow envelope which contained the few lines meaning life or death to little Hiram Joash Baker was delivered at Dr. Morgan's Back Bay office at ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": ".",
+    "title": "The Depot Master",
+    "author": "Lincoln, Joseph Crosby, 1870-1944",
+    "gutenbergReference": "2307",
+    "hash": "f298e250fd9dc5f5e9bdbd3a6bb0a6d420bd1e8e3cb973d54aeb05aa5f9ef178"
   },
   {
     "time": "22:10",
@@ -21,82 +81,122 @@
   },
   {
     "time": "22:10",
-    "quoteFirst": "'Seven minutes, or ",
-    "quoteTime": "ten minutes past ten",
-    "quoteLast": ".'",
-    "title": "The Romany Rye\nA Sequel to 'Lavengro'",
-    "author": "Borrow, George, 1803-1881; Sampson, John, 1862-1931 [Editor]",
-    "gutenbergReference": "25071",
-    "hash": "f3189fbeed7dc56ca00dac81fd4f33530c0494b2f10356422013fb7b8b62d4c3"
-  },
-  {
-    "time": "22:10",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes past ten",
-    "quoteLast": " we got into the barge and landed.",
-    "title": "Leaves From the Journal of Our Life in the Highlands, From 1848 to 1861",
-    "author": "Victoria, Queen of Great Britain, 1819-1901; Helps, Arthur, Sir, 1813-1875 [Editor]",
-    "gutenbergReference": "66173",
-    "hash": "b099ef1d61d41d3838f376aa66bc3e3d2a8820c15009d0b20bc7060b27c6ed70"
-  },
-  {
-    "time": "22:10",
-    "quoteFirst": "At ",
+    "quoteFirst": "Louis sat composedly ",
     "quoteTime": "ten minutes after ten",
-    "quoteLast": " he had ceased to live.",
-    "title": "History of the French Revolution from 1789 to 1814",
-    "author": "Mignet, M. (François-Auguste-Marie-Alexis), 1796-1884",
-    "gutenbergReference": "9602",
-    "hash": "b923d50aaa5da8abfdbecb3c4eda1cc7a727610cae1e4cc7cf487995ec96c779"
+    "quoteLast": " minutes, but at last his impatience to know why he was brought to so deserted an abode, and who he was to see, got the better of his determination to quietly await events, and he rose to ring the bell.",
+    "title": "The Pastor's Fire-side Vol. 1 (of 4)",
+    "author": "Porter, Jane, 1776-1850",
+    "gutenbergReference": "46570",
+    "hash": "ceb6b3667dc271c4e21c2fe34a8a99925570e8971849dd1a90128222956b6199"
   },
   {
     "time": "22:10",
-    "quoteFirst": "“It’s nine o’clock now, and the bus leaves at ",
-    "quoteTime": "ten minutes after ten",
-    "quoteLast": ". You’ll just about have time to eat your breakfast and gather your things together before it’s time to leave.”",
-    "title": "Cottage on the Curve",
-    "author": "Lamers, Mary, 1908-",
-    "gutenbergReference": "54946",
-    "hash": "58e48128cbf4cf08a1f907c8a6d37cc007b209b4bba8e677bab8f477ebb3a28e"
+    "quoteFirst": "Every evening at ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": " the shadow of Mr. Belk would move across the yellow blind of the drawing-room window on the right; the light would go out, and presently a blond blur would appear behind the blind of the bedroom window on the left.",
+    "title": "Mary Olivier: a Life",
+    "author": "Sinclair, May, 1863-1946",
+    "gutenbergReference": "9366",
+    "hash": "8664443a4ecbbca6dc6e100d9bcd5a2f74900c5e6abe253fd887de2e73108752"
   },
   {
     "time": "22:10",
-    "quoteFirst": "\"I want to catch the ",
-    "quoteTime": "ten-ten",
-    "quoteLast": " for Elizabeth.\"",
-    "title": "That Affair at Elizabeth",
-    "author": "Stevenson, Burton Egbert, 1872-1962",
-    "gutenbergReference": "35247",
-    "hash": "69bf16a0514602ab20903152837a5beb47662000b93092f92737b4b2cd28eb83"
+    "quoteFirst": "To begin with, it was established that at about ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": " the previous evening, that is to say a quarter of an hour or so after Haasberg had parted from Arthur Saunders outside his own lodgings, the latter had returned to the Majestic, and at once asked for the tin box which he had deposited in the bureau.",
+    "title": "Unravelled Knots",
+    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+    "gutenbergReference": "68237",
+    "hash": "e35503d88c1ab5d34605eb789f34c2aa0a824a8a2a6a8d894eca19ed6870c4cc"
   },
   {
     "time": "22:10",
     "quoteFirst": "It is now ",
-    "quoteTime": "ten minutes after ten",
-    "quoteLast": ", and I have to meet a client at eleven.",
-    "title": "Dorothy Harcourt's secret",
-    "author": "Southworth, Emma Dorothy Eliza Nevitte, 1819-1899",
-    "gutenbergReference": "71098",
-    "hash": "1ab3f783df4f60ddc7f2da0704d8aef982cf3f117fe2c1d23326972baf491e28"
-  },
-  {
-    "time": "22:10",
-    "quoteFirst": "They had a dreadful, slow, stopping journey, and reached Paddington at ",
     "quoteTime": "ten minutes past ten",
-    "quoteLast": ", benumbed with cold, sleepy, and depressed.",
-    "title": "The fog princes",
-    "author": "Warden, Florence, 1857-1929",
-    "gutenbergReference": "72077",
-    "hash": "12631e195a2664c22a09eede7bc074d560d42cd883cf3648a60cc06622f6aacd"
+    "quoteLast": "; how many potions have you given?\"",
+    "title": "Beulah",
+    "author": "Evans, Augusta J. (Augusta Jane), 1835-1909",
+    "gutenbergReference": "4246",
+    "hash": "d8db59aa6369bfff9ee161fb6424a55927adfce1bc33b0d2d202226b7553db01"
   },
   {
     "time": "22:10",
-    "quoteFirst": "About ",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": " I saw the soldiers at the door of the prison form up, and then I knew that the twenty prisoners of whom they formed the escort were starting; but the moment they began to move, I fired at the big bell in the campanile, which responded with a loud clang.",
+    "title": "Fashionable Philosophy, and Other Sketches",
+    "author": "Oliphant, Laurence, 1829-1888",
+    "gutenbergReference": "17120",
+    "hash": "b07ddd004e84292eda81c68568435c5f88a96a59f722b727d237e621e39ebf9a"
+  },
+  {
+    "time": "22:10",
+    "quoteFirst": "In some apprehension he consulted his watch under the last street-lamp he passed, to find comfort in assuring himself it was only ",
     "quoteTime": "ten minutes after ten",
-    "quoteLast": " by the clock, the moon was near the zenith, and the sun rose an instant later.",
-    "title": "The man who mastered time",
-    "author": "Cummings, Ray, 1887-1957; Valigursky, Ed, 1926-2009 [Illustrator]",
-    "gutenbergReference": "76503",
-    "hash": "f5bd963455881099051476123de036379019cd4c8d7c13593747cd56d91506ff"
+    "quoteLast": ".",
+    "title": "The yellow book, an illustrated quarterly. Vol. 1, April 1894",
+    "author": "Harland, Henry, 1861-1905 [Editor]",
+    "gutenbergReference": "41875",
+    "hash": "b31f3dc16d6640917480885ac3a552d839bcc15834fb304f3e02fa92b7c111ee"
+  },
+  {
+    "time": "22:10",
+    "quoteFirst": "1/4 before 10 tacked ship, ",
+    "quoteTime": "10 past 10",
+    "quoteLast": " began to run between Cavill's Island and mainland, not being able to work out of the bay, up keel and fore-sail down jib and main-sail.",
+    "title": "The Logbooks of the Lady Nelson\r\nWith the journal of her first commander Lieutenant James Grant",
+    "author": "Lee, Ida, 1865-1943",
+    "gutenbergReference": "7509",
+    "hash": "87cdf9c11268cce706d973c1d0818fe5cd05dc77be95514c94330b390d61008e"
+  },
+  {
+    "time": "22:10",
+    "quoteFirst": "The train left at 8:43, and was not due in Jersey City till ",
+    "quoteTime": "10:10 P.M.",
+    "quoteLast": " At Port Jervis a young lady came on board dressed in a very plain and quiet manner.",
+    "title": "The Erie Train Boy",
+    "author": "Alger, Horatio, Jr., 1832-1899",
+    "gutenbergReference": "26075",
+    "hash": "23e6e2e69b911ecb1ee7af95c18814ab9506d9483755e7bea5a666bc971a02eb"
+  },
+  {
+    "time": "22:10",
+    "quoteFirst": "From the top of the crag on which the village of ",
+    "quoteTime": "Ten-ten",
+    "quoteLast": " is situated there may be counted fourteen ranges stretching away into the far distance, and in such hollows as are practicable for agriculture, wheat, poppy, rice and hemp are grown.",
+    "title": "Chinese mettle",
+    "author": "Kemp, E. G. (Emily Georgiana), 1860-1939; Sze, Sao-Ke Alfred, 1877-1958 [Author of introduction, etc.]",
+    "gutenbergReference": "71727",
+    "hash": "0216c759a793d9d79545a8215526dc544ed046c5ec0b5bd53ed1bd040e30eb07"
+  },
+  {
+    "time": "22:10",
+    "quoteFirst": "\"Will be in Fayre on ",
+    "quoteTime": "ten-ten",
+    "quoteLast": " from New York on Thursday,\" she read.",
+    "title": "The Little Grey House",
+    "author": "Taggart, Marion Ames, 1866-1945",
+    "gutenbergReference": "48363",
+    "hash": "87d0ff7b9265e08d771ba929d8f4da2429031f92aff8fe257b8f43603bbc345f"
+  },
+  {
+    "time": "22:10",
+    "quoteFirst": "It is now ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": "; how many potions have you given?\"",
+    "title": "Beulah",
+    "author": "Evans, Augusta J. (Augusta Jane), 1835-1909",
+    "gutenbergReference": "4246",
+    "hash": "d8db59aa6369bfff9ee161fb6424a55927adfce1bc33b0d2d202226b7553db01"
+  },
+  {
+    "time": "22:10",
+    "quoteFirst": "It seemed plain enough that Walter Brooklyn had called at about ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": ", had been refused an interview with Sir Vernon, and had left a few minutes later.",
+    "title": "The Brooklyn murders",
+    "author": "Cole, G. D. H. (George Douglas Howard), 1889-1959",
+    "gutenbergReference": "73716",
+    "hash": "cbb31b6b6a59e2cd7fd2f1ad45d4274e376b6fa3eb7dd2de3a09780791791100"
   }
 ]

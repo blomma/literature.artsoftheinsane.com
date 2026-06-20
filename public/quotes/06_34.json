@@ -1,6 +1,16 @@
 [
   {
     "time": "06:34",
+    "quoteFirst": "On the 1st, 16th and 28th the sun rises at 7:09, 6:52 and ",
+    "quoteTime": "6:34 a. m.",
+    "quoteLast": ", and on the same days sets at 5:18, 5:36 and 5:50 p.",
+    "title": "The Chautauquan, Vol. 05, February 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55053",
+    "hash": "c98875f2eb97debe447242168bf322b581e9c91e8bb481f2ed3c636bbc8f87ab"
+  },
+  {
+    "time": "06:34",
     "quoteFirst": "is 1° 10′ south of Mercury; and on the same day at ",
     "quoteTime": "6:34 a. m.",
     "quoteLast": " is 5° 21′ north of the moon.",

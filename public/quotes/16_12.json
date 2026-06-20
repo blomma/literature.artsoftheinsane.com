@@ -61,6 +61,16 @@
   },
   {
     "time": "16:12",
+    "quoteFirst": "(Reporter’s note: ",
+    "quoteTime": "4:12 p.m.",
+    "quoteLast": ")",
+    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "56190",
+    "hash": "9f4713d37951acea1ea2c1ffcdc78937fe5e7778448ae4b74de63d972a07f428"
+  },
+  {
+    "time": "16:12",
     "quoteFirst": "Slowly the submarine overhauled the Q-ship, firing at intervals, and at ",
     "quoteTime": "4.12 p.m.",
     "quoteLast": ", when she was within 1,000 yards, _Penshurst_ stopped her engines, the panic party ‘abandoned’ ship, and the two boat-loads pulled away to starboard.",

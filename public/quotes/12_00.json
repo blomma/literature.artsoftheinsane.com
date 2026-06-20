@@ -1,102 +1,202 @@
 [
   {
     "time": "12:00",
+    "quoteFirst": "I shall make my report ",
+    "quoteTime": "at noon",
+    "quoteLast": " tomorrow.\"",
+    "title": "The Rifle Rangers",
+    "author": "Reid, Mayne, 1818-1883",
+    "gutenbergReference": "21241",
+    "hash": "51039b1046152dd7c5ad1233d3fd4e66e20b21303519fd1089f1f1a8d6832d22"
+  },
+  {
+    "time": "12:00",
+    "quoteFirst": "3rd April, 1872, position ",
+    "quoteTime": "at noon",
+    "quoteLast": ", lat.",
+    "title": "The Colonial Clippers",
+    "author": "Lubbock, Basil, 1876-1944",
+    "gutenbergReference": "52897",
+    "hash": "a25a49127df3f46987933ef9ef56dc6adc3e210f6f5342aec1dffa2905290d75"
+  },
+  {
+    "time": "12:00",
+    "quoteFirst": "See it in its varied moods--for every hour it changes; see it at sunrise, ",
+    "quoteTime": "at midday",
+    "quoteLast": ", at sunset, in the ghostly night, by moonlight.",
+    "title": "The Book of the National Parks",
+    "author": "Yard, Robert Sterling, 1861-1945",
+    "gutenbergReference": "27513",
+    "hash": "d7206d3a7c3a100d1e173107b920ecb3d238fb343d08fe5196079b6acd117f0a"
+  },
+  {
+    "time": "12:00",
+    "quoteFirst": "But as he began to feel exhausted ",
+    "quoteTime": "at noon",
+    "quoteLast": ", he took up the grass braid and eat it.",
+    "title": "The American Indians\r\nTheir History, Condition and Prospects, from Original Notes and Manuscripts",
+    "author": "Schoolcraft, Henry Rowe, 1793-1864",
+    "gutenbergReference": "39607",
+    "hash": "7b11577cd745997707c1ee854ae17697fca660a63a22fcdf09bcc14fa46e46ae"
+  },
+  {
+    "time": "12:00",
+    "quoteFirst": "I promised Bellew to go down to the kennels with him, and as it is past ",
+    "quoteTime": "twelve o'clock",
+    "quoteLast": ", I'm afraid my bliss cannot well be consummated to-day.\"",
+    "title": "Red as a Rose is She: A Novel",
+    "author": "Broughton, Rhoda, 1840-1920",
+    "gutenbergReference": "45178",
+    "hash": "7f5c9efdaf9c9af9cea4dd01e6ac02585742ecf8fd9afa59cfd30119470dfafd"
+  },
+  {
+    "time": "12:00",
+    "quoteFirst": "On a full night it is generally thronged towards ",
+    "quoteTime": "twelve o'clock",
+    "quoteLast": " with smokers.",
+    "title": "The Social History of Smoking",
+    "author": "Apperson, George Latimer, 1857-1937",
+    "gutenbergReference": "18096",
+    "hash": "111f535ad8cd75d2686dae5aec5fac585bf240a4a88d76483a7b0cb564a6a796"
+  },
+  {
+    "time": "12:00",
     "quoteFirst": "",
     "quoteTime": "At noon",
-    "quoteLast": " a good venison pasty and a turkey to ourselves without any body so much as invited by us, a thing unusuall for so small a family of my condition: but we did it and were very merry.",
-    "title": "Diary of Samuel Pepys — Volume 33: January/February 1664-65",
-    "author": "Pepys, Samuel, 1633-1703; Braybrooke, Richard Griffin, Baron, 1783-1858 [Editor]; Wheatley, Henry B. (Henry Benjamin), 1838-1917 [Editor]; Bright, Mynors, 1818-1883 [Translator]",
-    "gutenbergReference": "4154",
-    "hash": "3fb25dbe581e6c898b618e2906bdc1eee6ef3375247b1725868a6424c5641cc4"
+    "quoteLast": " we were abreast of the north end of this latter, which bore E. N. E. and observed in 15° 28ʹ 1/2.",
+    "title": "The Three Voyages of Captain Cook Round the World. Vol. IV. Being the Second of the Second Voyage.",
+    "author": "Cook, James, 1728-1779; Forster, Georg, 1754-1794",
+    "gutenbergReference": "61492",
+    "hash": "1ef086a814e061b3b000a9e31a66bb21a6e1227fe74a29165013aff567c5bb2d"
   },
   {
     "time": "12:00",
-    "quoteFirst": "and where go you   ",
+    "quoteFirst": "Lucilla waited till ",
+    "quoteTime": "twelve o'clock",
+    "quoteLast": ", as she had said, for Mr Cavendish's visit; and so mingled are human sentiments, even in the mind of a person of genius, that there is no doubt she was at once a little disappointed, and that Mr Cavendish gained largely in her estimation by not coming.",
+    "title": "Miss Marjoribanks",
+    "author": "Oliphant, Mrs. (Margaret), 1828-1897",
+    "gutenbergReference": "41286",
+    "hash": "e4d12c4fa66aa6695ea00ae51ed0325e1cd8ee7df0edbcc7383d930dc2709dfc"
+  },
+  {
+    "time": "12:00",
+    "quoteFirst": "The engineers of the Vandalia road struck ",
+    "quoteTime": "at twelve o’clock",
+    "quoteLast": ", the night of the 27th, and attempted to prevent trains passing through Terre Haute, by tampering with the engines, and intimidation.",
+    "title": "Annals of the great strikes in the United States",
+    "author": "Dacus, J. A. (Joseph A.), 1838-1885",
+    "gutenbergReference": "77297",
+    "hash": "9f3d15118c07be1ebebdcc545bee8628a9e9a30d4fcff70d23f61f3ed28ea141"
+  },
+  {
+    "time": "12:00",
+    "quoteFirst": "The three Americans and myself had a very pleasant time and returned on board the vessel about ",
+    "quoteTime": "twelve o'clock",
+    "quoteLast": ".",
+    "title": "The Story of a Strange Career: Being the Autobiography of a Convict\r\nAn Authentic Document",
+    "author": "Waterloo, Stanley, 1846-1913 [Editor]",
+    "gutenbergReference": "33631",
+    "hash": "27c3bd2d3e5feef40c3987029cdb1bb77f90292580e03eb756b0161dbb847430"
+  },
+  {
+    "time": "12:00",
+    "quoteFirst": "The Suffrage pickets went on duty as usual ",
+    "quoteTime": "at twelve o’clock",
+    "quoteLast": ", and picketed all that afternoon.",
+    "title": "The Story of the Woman's Party",
+    "author": "Gillmore, Inez Haynes, 1873-1970",
+    "gutenbergReference": "56701",
+    "hash": "041c140f3d804446c3391f49b65cc5f9f8eb4dc09cbbcf2745053a34aca641e7"
+  },
+  {
+    "time": "12:00",
+    "quoteFirst": "",
     "quoteTime": "At noon",
-    "quoteLast": ", when all the lizards are asleep,   And not a lark but sobers?",
-    "title": "A Jar of Honey from Mount Hybla",
-    "author": "Hunt, Leigh, 1784-1859; Doyle, Richard, 1824-1883 [Illustrator]",
-    "gutenbergReference": "42644",
-    "hash": "20f14226722c9eed3e9351a3bcd56c8647aed20703c4b0823bbaa30897ca470e"
+    "quoteLast": " late to dinner, my wife gone out to Hales's about her picture, and, after dinner, I after her, and do mightily like her picture, and think it will be as good as my Lady Peters's.",
+    "title": "Diary of Samuel Pepys — Volume 41: January/February 1665-66",
+    "author": "Pepys, Samuel, 1633-1703; Braybrooke, Richard Griffin, Baron, 1783-1858 [Editor]; Wheatley, Henry B. (Henry Benjamin), 1838-1917 [Editor]; Bright, Mynors, 1818-1883 [Translator]",
+    "gutenbergReference": "4163",
+    "hash": "05f35a27dedf299e8180ac8e8d26528989ff958ff2912e533d0793200e39dd0d"
   },
   {
     "time": "12:00",
-    "quoteFirst": "We now tacked and stood off; but the wind dying away, ",
+    "quoteFirst": "The inland trail which they were following had its disadvantages, for water for the stock was scarce there, and the third day, after watering the cattle ",
     "quoteTime": "at noon",
-    "quoteLast": " we had got no farther than three leagues from the coast, which extended from north-west by north three quarters west, to south half east, and was, for the most part, bold and cliffy.",
-    "title": "The Three Voyages of Captain Cook Round the World. Vol. VII. Being the Third of the Third Voyage",
-    "author": "King, James, 1750-1784",
-    "gutenbergReference": "62659",
-    "hash": "e0b7bb9ec348f018141d6173d6f41081196ab59b074bfd7580d5a28d427c0d6b"
+    "quoteLast": ", Roosevelt and his men drove them along the very backbone of the divide through barren and forbidding country.",
+    "title": "Roosevelt in the Bad Lands",
+    "author": "Hagedorn, Hermann, 1882-1964",
+    "gutenbergReference": "24317",
+    "hash": "7cf6438d7531204f296d02b3bdc60b4aa2c2c35fca9e0de54fcbd18902f32b64"
   },
   {
     "time": "12:00",
-    "quoteFirst": "It was ",
-    "quoteTime": "twelve o’clock",
-    "quoteLast": " when he rose and put the boots into his green bag, and gathering up his measure and some tools, set out once more.",
-    "title": "The cobbler of Nîmes",
-    "author": "Taylor, Mary Imlay, 1878-1938",
-    "gutenbergReference": "69180",
-    "hash": "a947d5aded0706e65514aceaacb41b564409af2766e5d11fdfd8116299f41621"
-  },
-  {
-    "time": "12:00",
-    "quoteFirst": "So about the hour o’ ",
-    "quoteTime": "twelve o’clock",
-    "quoteLast": " ’ee turns round to the door again, an’ there was five or six of these ghostses came in to ’im this time an’ sperrits.",
-    "title": "Gypsy folk-tales",
-    "author": "Groome, Francis Hindes, 1851-1902",
-    "gutenbergReference": "71092",
-    "hash": "3991ce19c0427e8d08e5082c7f926c67bf9a66c846252bdb496f03bc25fb3ffc"
-  },
-  {
-    "time": "12:00",
-    "quoteFirst": "We turned in towards the river ",
+    "quoteFirst": "She goes at half past seven in the morning, has half an hour ",
     "quoteTime": "at noon",
-    "quoteLast": ", and gave our horses two hours for food and rest.",
-    "title": "The Exploring Expedition to the Rocky Mountains, Oregon and California\r\nTo which is Added a Description of the Physical Geography of California, with Recent Notices of the Gold Region from the Latest and Most Authentic Sources",
-    "author": "Frémont, John Charles, 1813-1890",
-    "gutenbergReference": "9294",
-    "hash": "76935c8b2e7a03f6dbda2467ce3063f7b708acb2afe75d2a0989baaf1578ef5e"
+    "quoteLast": ", and returns and works until four, for which she is paid $4 a week.",
+    "title": "The Employments of Women: A Cyclopædia of Woman's Work",
+    "author": "Penny, Virginia, 1826-",
+    "gutenbergReference": "49912",
+    "hash": "419a6dda86b0ce567d2ae4ee087ce25cd35241eefb3f3e63941d9d27c2cba81b"
   },
   {
     "time": "12:00",
-    "quoteFirst": "This was ",
+    "quoteFirst": "Preceding your conversation ",
+    "quoteTime": "at noon",
+    "quoteLast": " today, when was the last time you talked to him before that, do you remember, approximately?",
+    "title": "Warren Commission (11 of 26): Hearings Vol. XI (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44011",
+    "hash": "178adcbcca3305e59181920ea2d6bfeffaf7a9e8a1f892dcfb08996a6249d770"
+  },
+  {
+    "time": "12:00",
+    "quoteFirst": "Before she could reply ",
+    "quoteTime": "the hour of twelve",
+    "quoteLast": " rang forth.",
+    "title": "The Sword Maker",
+    "author": "Barr, Robert, 1850-1912",
+    "gutenbergReference": "14656",
+    "hash": "6e312b4ee91fafea2ec1213ce3762fe15a3baa9062976ee992ee5aaf088da090"
+  },
+  {
+    "time": "12:00",
+    "quoteFirst": "But on the following days more precautions against being ambushed were taken, the company breaking up into detachments, which followed one another at a little distance, the whole party reuniting ",
     "quoteTime": "at mid-day",
-    "quoteLast": "; but night came, and another noon, yet there was no sign of Miss Ashton’s appearance; and Mrs. Ashton had made no overtures to her refractory daughter.",
-    "title": "The Manchester Man",
-    "author": "Banks, G. Linnaeus (George Linnaeus), Mrs., 1821-1897",
-    "gutenbergReference": "64320",
-    "hash": "14c15dfef8abc1c87e0f6dd1dd397cd5ffc17d9a6c43091137c37e5973574acd"
+    "quoteLast": " and at sundown.",
+    "title": "With Rogers on the Frontier: A Story of 1756",
+    "author": "Oxley, J. Macdonald (James Macdonald), 1855-1907; Devitt, F. J. [Illustrator]",
+    "gutenbergReference": "53560",
+    "hash": "85464817fc4002701ca1d4629e71d59ac0fddd79a4c577b47726ecb4937c53c4"
   },
   {
     "time": "12:00",
-    "quoteFirst": "By the advice of my dear friend and benefactor, who called upon me again ",
+    "quoteFirst": "Drilled ",
     "quoteTime": "at noon",
-    "quoteLast": ", I sent for a physician, and told him the fact, and the stroke I apprehended.",
-    "title": "The Works of William Cowper\r\nHis life, letters, and poems, now first completed by the introduction of Cowper's private correspondence",
-    "author": "Cowper, William, 1731-1800; Cunningham, J. W. (John William), 1780-1861 [Contributor]; Hayley, William, 1745-1820 [Contributor]; Grimshawe, T. S. (Thomas Shuttleworth), 1778-1850 [Editor]",
-    "gutenbergReference": "47790",
-    "hash": "18569af5f946abbb21fe97161e0fc4c9ba50ad2fd241de7b55518b93f3d87bb0"
+    "quoteLast": ", heavy fever followed it.",
+    "title": "An Artilleryman's Diary",
+    "author": "Jones, Jenkins Lloyd, 1843-1918",
+    "gutenbergReference": "33211",
+    "hash": "59360974abce75af58276bdbaae287667d232c7fc536bb7111548e1390657f91"
   },
   {
     "time": "12:00",
-    "quoteFirst": "“I know no such an thing then, Miss Die, for the miller swore himself as black as night, that he stopt them ",
-    "quoteTime": "at twelve o'clock",
-    "quoteLast": " midnight that was.”",
-    "title": "Rob Roy — Complete",
-    "author": "Scott, Walter, 1771-1832",
-    "gutenbergReference": "7025",
-    "hash": "b4a8da5f23b1252f851c633703bcf1700fcccd3a63a4d7bef46a8b4b91563a41"
+    "quoteFirst": "\"It is now between eleven and ",
+    "quoteTime": "twelve o'clock",
+    "quoteLast": " at night, and I am writing you while you are sleeping with our little darling near you,--if she hasn't waked you up! You may wonder why I am writing you at this late hour. Well, I'm 'officer of the day' for the Barracks, and a part of my duty is to make 'the grand rounds' of the guards at least once _after twelve o'clock at night_. Rather than get a half sleep and be waked up, I prefer to sit up and write my wife till the time comes.",
+    "title": "War Stories for my Grandchildren",
+    "author": "Foster, John Watson, 1836-1917",
+    "gutenbergReference": "51552",
+    "hash": "daa8fd40a58351dc0561c461913764197337dc42de6f2a64c8ca4fba0c6a93c2"
   },
   {
     "time": "12:00",
-    "quoteFirst": "The general rule was three hours' rest ",
-    "quoteTime": "at midday",
-    "quoteLast": " and a Saturday half-holiday.",
-    "title": "The Negro and the Nation\nA History of American Slavery and Enfranchisement",
-    "author": "Merriam, George Spring, 1843-1914",
-    "gutenbergReference": "24613",
-    "hash": "ef3b62f10a9c8cb17a6432e94fbd089a1ea0910518c1a2bbe2ee2e9d83eef361"
+    "quoteFirst": "There are probably two reasons for this, one being that the midday is generally warmer with them than with us, although this did not apply to us in the cool, timbered regions of the high sierras; while the second reason is clearly found in the fact that they seldom feed their mules on these mountain trips, and must give them time to graze a fair-sized meal ",
+    "quoteTime": "at noon",
+    "quoteLast": ".",
+    "title": "In the Land of Cave and Cliff Dwellers",
+    "author": "Schwatka, Frederick, 1849-1892",
+    "gutenbergReference": "51532",
+    "hash": "3b0e86d6ecf1193c7246fcf23c46507f0109b0c27bcde1afecfe940adda64c02"
   }
 ]

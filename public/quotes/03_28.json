@@ -11,6 +11,16 @@
   },
   {
     "time": "03:28",
+    "quoteFirst": "The message was given at ",
+    "quoteTime": "twenty-eight minutes past three",
+    "quoteLast": ".",
+    "title": "Tracked by Wireless",
+    "author": "Le Queux, William, 1864-1927",
+    "gutenbergReference": "59434",
+    "hash": "d0df62ab4454625469286d3e5fe3f9d05ed4f8aa74abf9dd1ea6d2985c242f3e"
+  },
+  {
+    "time": "03:28",
     "quoteFirst": "; new moon, 16th, ",
     "quoteTime": "3:28 a. m.",
     "quoteLast": "; first quarter, 23d, 8:18 p.",

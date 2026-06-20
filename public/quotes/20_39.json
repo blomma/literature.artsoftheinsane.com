@@ -11,6 +11,16 @@
   },
   {
     "time": "20:39",
+    "quoteFirst": "The Atlas crew asked for a hold at T minus 205 minutes (",
+    "quoteTime": "8:39 p.m.",
+    "quoteLast": ") because of stray voltages in the command destruct system caused by a defective Agena battery.",
+    "title": "Mariner Mission to Venus",
+    "author": "Jet Propulsion Laboratory (U.S.)",
+    "gutenbergReference": "54585",
+    "hash": "ecbbabb975c597d50976261cd41777d534b48359eaa0bdb695d50740c357e9a5"
+  },
+  {
+    "time": "20:39",
     "quoteFirst": "First Quarter  ",
     "quoteTime": "8.39 p.m.",
     "quoteLast": "  Fair.",

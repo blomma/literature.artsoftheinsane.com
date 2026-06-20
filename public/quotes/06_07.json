@@ -31,6 +31,16 @@
   },
   {
     "time": "06:07",
+    "quoteFirst": "At ",
+    "quoteTime": "7 Minutes after 6",
+    "quoteLast": ", as in the 7th.",
+    "title": "The Pictorial Press: Its Origin and Progress",
+    "author": "Jackson, Mason, 1819-1903",
+    "gutenbergReference": "36417",
+    "hash": "42eddec75e0e05887a7a67d92b829d4da2e07d0960728ac06f39e3dcfee1cb8a"
+  },
+  {
+    "time": "06:07",
     "quoteFirst": "and sets on the 2d at ",
     "quoteTime": "6:07 a. m.",
     "quoteLast": "; rises on the 16th at 3:35 p.",

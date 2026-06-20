@@ -1,23 +1,53 @@
 [
   {
     "time": "04:35",
-    "quoteFirst": "It was ",
-    "quoteTime": "twenty-five minutes of five",
-    "quoteLast": ".",
-    "title": "Outside Inn",
-    "author": "Kelley, Ethel M. (Ethel May), 1878-1955; King, W. B. [Illustrator]",
-    "gutenbergReference": "30483",
-    "hash": "86cac49d52e25ce405e60b78e94e98fdedc68fc88561dbfbcb6afc6872482920"
+    "quoteFirst": "At ",
+    "quoteTime": "4.35 a.m.",
+    "quoteLast": " on the 10th August, in accordance with orders received, an attempt was made to capture Lower Starpost, 2nd Lieut.",
+    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
+    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
+    "gutenbergReference": "73159",
+    "hash": "5bd3cd9e3d8cc8607f9919417c5ae8ef5f460763ccb35babfc49aa37b76a6e91"
   },
   {
     "time": "04:35",
-    "quoteFirst": "There are two similar trains, leaving New York at ",
+    "quoteFirst": "The signal company will be ready to march at ",
+    "quoteTime": "twenty-five minutes of five",
+    "quoteLast": " and to follow the battalion of engineers until the signal company gets to the southeast corner of Tracy.",
+    "title": "The English of military communications",
+    "author": "Ganoe, William Addleman, 1881-1966",
+    "gutenbergReference": "71741",
+    "hash": "96fe6d602b125f8960507872f0fec164b615f464b572e5b7b823eeb344842fc1"
+  },
+  {
+    "time": "04:35",
+    "quoteFirst": "And at the tick of ",
+    "quoteTime": "4:35 A. M.",
+    "quoteLast": ", the heavens seemed to crash asunder, as tons and tons of hot metal sailed over the forest, bound for the German line.",
+    "title": "\"And they thought we wouldn't fight\"",
+    "author": "Gibbons, Floyd Phillips, 1887-1939",
+    "gutenbergReference": "31086",
+    "hash": "eb88b6adca167aebce91018daf317b46c99b126f451508b7bf365dc19c88b2fd"
+  },
+  {
+    "time": "04:35",
+    "quoteFirst": "'Only think,' wrote Joseph Parkes on May 18, 'that at three yesterday all was gloomy foreboding in the Cabinet, and at ",
+    "quoteTime": "twenty-five minutes before five",
+    "quoteLast": " last night Lord Althorp did not know the King's answer till Lord Grey returned at half-past five--\"All right.\"",
+    "title": "Lord John Russell",
+    "author": "Reid, Stuart J. (Stuart Johnson), 1848-1927",
+    "gutenbergReference": "27553",
+    "hash": "6f7c1bafaf80c099c6c12ac7752e9be72451d9e706fc9835936fbf6a77e7cb29"
+  },
+  {
+    "time": "04:35",
+    "quoteFirst": "\"The following telegram received at Washington, ",
     "quoteTime": "4.35 A.M.",
-    "quoteLast": ", and at 10.30 A.M., with a less number of cars; and three moving in the opposite direction.",
-    "title": "The Bay State Monthly — Volume 1, No. 1, January, 1884",
-    "author": "Various",
-    "gutenbergReference": "9174",
-    "hash": "053e710be958ef8bfef7dc36561e376a9dc50a3f437dc83cdc109f1a592a48a6"
+    "quoteLast": ", February      2, 1865.  From City Point, Va.",
+    "title": "The Great Conspiracy, Volume 7",
+    "author": "Logan, John Alexander, 1826-1886",
+    "gutenbergReference": "7139",
+    "hash": "21077d47660c98aef95415f4ebbd89e71cf626ea553965284ca8d46b6704e7be"
   },
   {
     "time": "04:35",
@@ -31,6 +61,106 @@
   },
   {
     "time": "04:35",
+    "quoteFirst": "And at the tick of ",
+    "quoteTime": "4:35 A. M.",
+    "quoteLast": ", the heavens seemed to crash asunder, as tons and tons of hot metal sailed over the forest, bound for the German line.",
+    "title": "\"And they thought we wouldn't fight\"",
+    "author": "Gibbons, Floyd Phillips, 1887-1939",
+    "gutenbergReference": "31086",
+    "hash": "eb88b6adca167aebce91018daf317b46c99b126f451508b7bf365dc19c88b2fd"
+  },
+  {
+    "time": "04:35",
+    "quoteFirst": "The signal company will be ready to march at ",
+    "quoteTime": "twenty-five minutes of five",
+    "quoteLast": " and to follow the battalion of engineers until the signal company gets to the southeast corner of Tracy.",
+    "title": "The English of military communications",
+    "author": "Ganoe, William Addleman, 1881-1966",
+    "gutenbergReference": "71741",
+    "hash": "96fe6d602b125f8960507872f0fec164b615f464b572e5b7b823eeb344842fc1"
+  },
+  {
+    "time": "04:35",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-five minutes to five",
+    "quoteLast": " in the morning you are charged by a squadron of cavalry from the J. Bell farm.",
+    "title": "The English of military communications",
+    "author": "Ganoe, William Addleman, 1881-1966",
+    "gutenbergReference": "71741",
+    "hash": "75cde9033b74bfdac931a16d65009ef69ed2afe259303bce8cb38664e4c39414"
+  },
+  {
+    "time": "04:35",
+    "quoteFirst": "There are two similar trains, leaving New York at ",
+    "quoteTime": "4.35 A.M.",
+    "quoteLast": ", and at 10.30 A.M., with a less number of cars; and three moving in the opposite direction.",
+    "title": "The Bay State Monthly — Volume 1, No. 1, January, 1884",
+    "author": "Various",
+    "gutenbergReference": "9174",
+    "hash": "053e710be958ef8bfef7dc36561e376a9dc50a3f437dc83cdc109f1a592a48a6"
+  },
+  {
+    "time": "04:35",
+    "quoteFirst": "{46} He died on the 19th of April, 1689, at ",
+    "quoteTime": "thirty-five minutes past four",
+    "quoteLast": " in the morning.",
+    "title": "Notes and Queries, Number 167, January 8, 1853\r\nA Medium of Inter-communication for Literary Men, Artists, Antiquaries, Genealogists, etc.",
+    "author": "Various; Bell, George, 1814-1890 [Editor]",
+    "gutenbergReference": "42782",
+    "hash": "92f9f8704e5da23b3d272a687ce051f1106e51aae6adccfdb5cb8c3fdacf2d84"
+  },
+  {
+    "time": "04:35",
+    "quoteFirst": "“Then they left, at exactly ",
+    "quoteTime": "thirty-five minutes past four",
+    "quoteLast": ". They went back to Maromme in Alfred Auvard’s car, as on most Friday nights. The club servant, Joseph, waited for another hour. Then, tiring of his vigil, he went in search of Paul Erstein, and found him lying in the Round Room, twisted and inert. He was dead.”",
+    "title": "Arsène Lupin intervenes",
+    "author": "Leblanc, Maurice, 1864-1941",
+    "gutenbergReference": "75896",
+    "hash": "3f0a65e7571ab3d5ccf169ddae96ef6aded3b37198d092b6ab50d2800677d7ff"
+  },
+  {
+    "time": "04:35",
+    "quoteFirst": "At ",
+    "quoteTime": "4.35 a.m.",
+    "quoteLast": " on May 12, 1864, one of General Ulysses Grant's Corps, under General Hancock, assaulted \"the Salient,\" part of General Robert Lee's entrenchments in The Wilderness of Virginia (_Spottsylvania_).",
+    "title": "Lectures on Land Warfare; A tactical Manual for the Use of Infantry Officers\nAn Examination of the Principles Which Underlie the Art of Warfare, with Illustrations of the Principles by Examples Taken from Military History, from the Battle of Thermopylae, B.C. 480, to the Battle of the Sambre, November 1-11, 1918",
+    "author": "Anonymous",
+    "gutenbergReference": "23473",
+    "hash": "7cb55d5279ea97983d88805867820cf1ee1cd49ba73d94288e457f382e5fcb9f"
+  },
+  {
+    "time": "04:35",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty-five minutes to five",
+    "quoteLast": ".",
+    "title": "Senator North",
+    "author": "Atherton, Gertrude Franklin Horn, 1857-1948",
+    "gutenbergReference": "6091",
+    "hash": "42e1f7872e879f19676b144f7eae00ddaa8ecbbd459aaede7e6acc997415bcaa"
+  },
+  {
+    "time": "04:35",
+    "quoteFirst": "He breathed his last in the Tower of London, on the 19th of April, 1689, at ",
+    "quoteTime": "thirty-five minutes past four",
+    "quoteLast": " in the morning.",
+    "title": "Atrocious Judges : Lives of Judges Infamous as Tools of Tyrants and Instruments of Oppression",
+    "author": "Campbell, John Campbell, Baron, 1779-1861; Hildreth, Richard, 1807-1865 [Editor]",
+    "gutenbergReference": "40076",
+    "hash": "ec5d30198347b8d0dc0743616252614f04aa494df3817a352800ae16253fcdd1"
+  },
+  {
+    "time": "04:35",
+    "quoteFirst": "The armistice began at ",
+    "quoteTime": "thirty-five minutes after four",
+    "quoteLast": " o’clock on the second day of the month; five hours later a telegram was sent to the Czar, the delegates dined together, and fair copies of the terms of capitulation were made in English and Japanese.",
+    "title": "From the Yalu to Port Arthur",
+    "author": "Maxwell, William, Sir, 1860-1928",
+    "gutenbergReference": "76216",
+    "hash": "1ca368af7285ade6e40e01f9a41dc33c9caef96487a554c84c7e045706406949"
+  },
+  {
+    "time": "04:35",
     "quoteFirst": "It was ",
     "quoteTime": "twenty-five minutes of five",
     "quoteLast": ".",
@@ -41,62 +171,32 @@
   },
   {
     "time": "04:35",
-    "quoteFirst": "",
-    "quoteTime": "Twenty-five minutes to five",
-    "quoteLast": " the writ was returned as served, June 25th.",
-    "title": "The City of the Saints, and Across the Rocky Mountains to California",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "66791",
-    "hash": "a5a1c378b1b7e0f9b9d6387328490fb83ad07af9959efab9ca2c9d2db551db59"
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty-five minutes of five",
+    "quoteLast": ".",
+    "title": "Outside Inn",
+    "author": "Kelley, Ethel M. (Ethel May), 1878-1955; King, W. B. [Illustrator]",
+    "gutenbergReference": "30483",
+    "hash": "86cac49d52e25ce405e60b78e94e98fdedc68fc88561dbfbcb6afc6872482920"
   },
   {
     "time": "04:35",
     "quoteFirst": "\"The following telegram received at Washington, ",
     "quoteTime": "4.35 A.M.",
-    "quoteLast": ",     February 2, 1865. From City Point, Va.,     February 1, 10.30 P.M., 1865",
-    "title": "Project Gutenberg Edition of The Memoirs of Four Civil War Generals",
-    "author": "Grant, Ulysses S. (Ulysses Simpson), 1822-1885; Logan, John Alexander, 1826-1886; Sheridan, Philip Henry, 1831-1888; Sherman, William T. (William Tecumseh), 1820-1891; Widger, David, 1932-2021? [Compiler]",
-    "gutenbergReference": "57383",
-    "hash": "d8b516110d37780c72e0fd9737d7ce730839d9b87c480294524ef4fe476c239e"
-  },
-  {
-    "time": "04:35",
-    "quoteFirst": "At ",
-    "quoteTime": "4.35 a.m.",
-    "quoteLast": " on the 10th August, in accordance with orders received, an attempt was made to capture Lower Starpost, 2nd Lieut.",
-    "title": "Historical records of the Buffs, East Kent Regiment (3rd Foot)",
-    "author": "Moody, R. S. H. (Richard Stanley Hawks), 1854-1930; Alexander, Herbert, 1874-1946 [Artist]; Butler, Elizabeth (Elizabeth Southerden Thompson), 1846-1933 [Artist]; Paget, Arthur, 1851-1928 [Author of introduction, etc.]",
-    "gutenbergReference": "73159",
-    "hash": "5bd3cd9e3d8cc8607f9919417c5ae8ef5f460763ccb35babfc49aa37b76a6e91"
-  },
-  {
-    "time": "04:35",
-    "quoteFirst": "At ",
-    "quoteTime": "4.35 a.m.",
-    "quoteLast": " our men went forward, penetrating the immediate German barrage without hesitation, and moving as if on parade.",
-    "title": "Thirty Canadian V.Cs., 23d April 1915 to 30th March 1918",
-    "author": "Canadian War Records Office; Martin, Stuart, Military Historian; Richards, Robin; Roberts, Theodore Goodridge, 1877-1953",
-    "gutenbergReference": "40649",
-    "hash": "a96264ea910c4ddac6ddcff1f47690cc69b24af38e94ac62b068b15b8eae8a8a"
-  },
-  {
-    "time": "04:35",
-    "quoteFirst": "The attack was launched at ",
-    "quoteTime": "4.35 a.m.",
-    "quoteLast": " in a slight fog which accentuated its surprise.",
-    "title": "Tanks in the Great War, 1914-1918",
-    "author": "Fuller, J. F. C. (John Frederick Charles), 1878-1966",
-    "gutenbergReference": "49808",
-    "hash": "2513bdf2db0b5042f7c843db94ffd6de91ba974c0f00630efacb16509bddcc9c"
-  },
-  {
-    "time": "04:35",
-    "quoteFirst": "\"The following telegram received at Washington, ",
-    "quoteTime": "4.35 A.M.",
-    "quoteLast": ", February      2, 1865.  From City Point, Va., February 1, 10.30 P.M., 1865",
-    "title": "The Great Conspiracy, Complete",
+    "quoteLast": ", February      2, 1865.  From City Point, Va.",
+    "title": "The Great Conspiracy, Volume 7",
     "author": "Logan, John Alexander, 1826-1886",
-    "gutenbergReference": "7140",
-    "hash": "5652f6a82533d551117820de7ede757cfb7e9c0003e38dc4c081722bde69d150"
+    "gutenbergReference": "7139",
+    "hash": "21077d47660c98aef95415f4ebbd89e71cf626ea553965284ca8d46b6704e7be"
+  },
+  {
+    "time": "04:35",
+    "quoteFirst": "The signal company will be ready to march at ",
+    "quoteTime": "twenty-five minutes of five",
+    "quoteLast": " and to follow the battalion of engineers until the signal company gets to the southeast corner of Tracy.",
+    "title": "The English of military communications",
+    "author": "Ganoe, William Addleman, 1881-1966",
+    "gutenbergReference": "71741",
+    "hash": "96fe6d602b125f8960507872f0fec164b615f464b572e5b7b823eeb344842fc1"
   }
 ]

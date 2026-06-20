@@ -31,13 +31,33 @@
   },
   {
     "time": "15:54",
+    "quoteFirst": "It is ",
+    "quoteTime": "6 minutes to 4",
+    "quoteLast": ".",
+    "title": "Trial of the major war criminals before the International Military Tribunal, Nuremburg, 14 November 1945-1 October 1946, volume 18",
+    "author": "Various",
+    "gutenbergReference": "75266",
+    "hash": "409e83ea46848cf4ecf3167977d328181056e603c163125c8261936972611034"
+  },
+  {
+    "time": "15:54",
+    "quoteFirst": ", is 90° east of the sun; on the 1st at ",
+    "quoteTime": "3:54 p. m.",
+    "quoteLast": ", is 3° 21′ north of the moon, and again on the 28th at 11:42 p.",
+    "title": "The Chautauquan, Vol. 04, June 1884, No. 9",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55194",
+    "hash": "c1f812ab50bd280008c074bc8a4dcaf8176f002d9449864f5eeb302aaec38ede"
+  },
+  {
+    "time": "15:54",
     "quoteFirst": "At ",
-    "quoteTime": "six minutes before four",
-    "quoteLast": " in the afternoon the attack began.",
+    "quoteTime": "six minutes before four in the afternoon",
+    "quoteLast": " the attack began.",
     "title": "Admiral Farragut",
     "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
     "gutenbergReference": "27750",
-    "hash": "63520cfb8f02ee5eee61d27b2b2e7d597d7808f81fb9b3c442fd93637c276790"
+    "hash": "fdc5ca2211ecc48d62bc84c2cf4e1c4599d283b3db68e57920fe694a381d7e1a"
   },
   {
     "time": "15:54",

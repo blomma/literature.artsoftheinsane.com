@@ -1,53 +1,103 @@
 [
   {
     "time": "22:52",
-    "quoteFirst": "It was now ",
-    "quoteTime": "eight minutes to eleven",
-    "quoteLast": ", and he began to feel rather cross and impatient.",
-    "title": "From out the Vasty Deep",
-    "author": "Lowndes, Marie Belloc, 1868-1947",
-    "gutenbergReference": "11581",
-    "hash": "40968793a4154b06e06a16f20aaf001c2355a8fb0cc4a988fb17c661e7608bbf"
-  },
-  {
-    "time": "22:52",
-    "quoteFirst": "But afterwards, this repulsive stranger, with his cadaverous ghastliness, extraordinary hair, and glazed eyes, showing himself intermittingly through the hours from ",
+    "quoteFirst": "From 12 M.   to  5 P.M.        5 hours   From  7 P.M. to 10 P.M.        3 hours   (or from ",
     "quoteTime": "8 to 11 P.M.",
-    "quoteLast": ", revolved upon the memory of all who had steadily observed him with something of the same freezing effect as belongs to the two assassins in 'Macbeth,' who present themselves reeking from the murder of Banquo, and gleaming dimly, with dreadful faces, from the misty background, athwart the pomps of the regal banquet.",
-    "title": "Note Book of an English Opium-Eater",
-    "author": "De Quincey, Thomas, 1785-1859",
-    "gutenbergReference": "6881",
-    "hash": "68e028c2d290e1172e314af53e2e04d087cfbae79d8132194904e15f50e456a9"
+    "quoteLast": ")                                  -------                                  8 hours",
+    "title": "Wanted, a Young Woman to Do Housework: Business principles applied to housework",
+    "author": "Barker, C. Hélène, 1868-",
+    "gutenbergReference": "14117",
+    "hash": "a716ffafc07475b75f57a262da3c67c8cca66da90a6785bf64f6175aa2188df3"
   },
   {
     "time": "22:52",
-    "quoteFirst": "22 Heavy bombardment 9:30 A. M. to noon; renewed 2 to 5:30 P. M.;    2 shells on cathedral; 6 killed, 24 wounded; again ",
-    "quoteTime": "8 to 11 P. M.",
-    "quoteLast": "",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "05c81da147f9e424ce53cc31f21af9d4a4e3b57f7df4c855b2ef485fc7986f7a"
+    "quoteFirst": "A stroll up and back the Champs Elysées from ",
+    "quoteTime": "8 till 11 P.M.",
+    "quoteLast": " will feed the curiosity of any Yankee that may happen to be in Paris.",
+    "title": "From Vermont to Damascus",
+    "author": "Brown, Adna, 1828-1901",
+    "gutenbergReference": "76336",
+    "hash": "152d342afbc242124a5e5795b18f0b5f6701ee285bc682cbe1b3c34e004211bb"
   },
   {
     "time": "22:52",
-    "quoteFirst": "All at once, at ",
+    "quoteFirst": "; and full on the 28th, at ",
+    "quoteTime": "10:52 p. m.",
+    "quoteLast": " In apogee (farthest from earth) on the 9th, at 7:24 p.",
+    "title": "The Chautauquan, Vol. 05, February 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55053",
+    "hash": "e9ce5a1554264e29bee4de9170066f9d2b466e944722ee633778df156db1b060"
+  },
+  {
+    "time": "22:52",
+    "quoteFirst": "From ",
+    "quoteTime": "eight to eleven P.M.",
+    "quoteLast": " His Majesty teaches schoolmasters how to teach, wives how to attend to their families, bankers how to carry on their business, and cooks how to prepare dinners.",
+    "title": "Punch, or the London Charivari, Volume 101, November 14, 1891",
+    "author": "Various",
+    "gutenbergReference": "14074",
+    "hash": "8a56012f25fce9c31b3580118db557dcac1ed537f4c30193ada73c6383d9651f"
+  },
+  {
+    "time": "22:52",
+    "quoteFirst": "Some of the yearlings never missed a hop, and there were three of them a week, from ",
+    "quoteTime": "8 to 11 p. m.",
+    "quoteLast": " Others of us who were not proficient in the art took dancing lessons occasionally, but generally found our pleasure in boating and in being with the ladies, or with one another, listening to the music; in promenading on “Flirtation Walk,” or calling at the hotel.",
+    "title": "Cadet Life at West Point",
+    "author": "Reed, Hugh T., 1850-1934",
+    "gutenbergReference": "64925",
+    "hash": "522d1b39b2ca66d7481aa99593e40f176cf577f64a9a1d5f360a5967c1dfa2c2"
+  },
+  {
+    "time": "22:52",
+    "quoteFirst": "“Digby-Coates, I reasoned, _must_ have begun his preparations immediately after Belford saw him standing in the doorway of his room at ",
     "quoteTime": "eight minutes to eleven",
-    "quoteLast": ", the luck turned in his favor, and his pile mounted again.",
-    "title": "Northern Lights",
-    "author": "Parker, Gilbert, 1862-1932",
-    "gutenbergReference": "26905",
-    "hash": "1ac5f888199304aee252306ed4e6d9c0199b2666790b27feba201013201a1ba3"
+    "quoteLast": ". To descend the wall; to enter the study; to hold Hoode in chaffing conversation for a moment to allay his curiosity regarding the unusual method of entry; to kill him; to reassemble the wood-rasp; to set the ‘struggle’ scene; arrange the clock; to climb back up the wall again; and all as noiseless as you please, cannot have taken him less than eight minutes at the very least. As I have shown, he was in all probability back in his room by four minutes past the hour (if not earlier) and it will be seen, therefore, that he must have begun descent of the wall by four minutes to at the latest.",
+    "title": "The rasp",
+    "author": "MacDonald, Philip, 1901?-1980",
+    "gutenbergReference": "72462",
+    "hash": "aac57d0dfac854699078d5dab39d23f994932e8343469c11beabd3d692edf662"
   },
   {
     "time": "22:52",
-    "quoteFirst": "They breakfast anywhere from eight to eleven, lunch from twelve to four, have tea always at five, and dinner from ",
-    "quoteTime": "eight to eleven at night",
-    "quoteLast": ".",
-    "title": "By the Way: Travel Letters Written During Several Journeys Abroad",
-    "author": "Foster, Agness Greene, 1863-1933",
-    "gutenbergReference": "58416",
-    "hash": "3b5aa0942838a8acffbc0436260cac98b2c093d3daf36b21d64b6045323ae61b"
+    "quoteFirst": "_Breaksea_ L.V.--A few Fieldfares from ",
+    "quoteTime": "8 to 11 P.M.",
+    "quoteLast": "",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1886. Eighth Report\r\n(Vol. II, No. 3.)",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "66032",
+    "hash": "269da9b9b2e909ff0c86279243f53eeef1b87fab575e340e70260425361c0cc4"
+  },
+  {
+    "time": "22:52",
+    "quoteFirst": "From ",
+    "quoteTime": "8 to 11 p.m.",
+    "quoteLast": " seems to be one of the great times for doing it.",
+    "title": "Potterism: A Tragi-Farcical Tract",
+    "author": "Macaulay, Rose, 1881-1958",
+    "gutenbergReference": "11163",
+    "hash": "85a07ea024e83c1e37451e4eb007d6ef0b1a6d8664bd21e56516cd14ec37623b"
+  },
+  {
+    "time": "22:52",
+    "quoteFirst": "; and full on the 28th, at ",
+    "quoteTime": "10:52 p. m.",
+    "quoteLast": " In apogee (farthest from earth) on the 9th, at 7:24 p.",
+    "title": "The Chautauquan, Vol. 05, February 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55053",
+    "hash": "e9ce5a1554264e29bee4de9170066f9d2b466e944722ee633778df156db1b060"
+  },
+  {
+    "time": "22:52",
+    "quoteFirst": "Some of the yearlings never missed a hop, and there were three of them a week, from ",
+    "quoteTime": "8 to 11 p. m.",
+    "quoteLast": " Others of us who were not proficient in the art took dancing lessons occasionally, but generally found our pleasure in boating and in being with the ladies, or with one another, listening to the music; in promenading on “Flirtation Walk,” or calling at the hotel.",
+    "title": "Cadet Life at West Point",
+    "author": "Reed, Hugh T., 1850-1934",
+    "gutenbergReference": "64925",
+    "hash": "522d1b39b2ca66d7481aa99593e40f176cf577f64a9a1d5f360a5967c1dfa2c2"
   },
   {
     "time": "22:52",
@@ -61,6 +111,26 @@
   },
   {
     "time": "22:52",
+    "quoteFirst": "From ",
+    "quoteTime": "eight to eleven P.M.",
+    "quoteLast": " His Majesty teaches schoolmasters how to teach, wives how to attend to their families, bankers how to carry on their business, and cooks how to prepare dinners.",
+    "title": "Punch, or the London Charivari, Volume 101, November 14, 1891",
+    "author": "Various",
+    "gutenbergReference": "14074",
+    "hash": "8a56012f25fce9c31b3580118db557dcac1ed537f4c30193ada73c6383d9651f"
+  },
+  {
+    "time": "22:52",
+    "quoteFirst": "“Digby-Coates, I reasoned, _must_ have begun his preparations immediately after Belford saw him standing in the doorway of his room at ",
+    "quoteTime": "eight minutes to eleven",
+    "quoteLast": ". To descend the wall; to enter the study; to hold Hoode in chaffing conversation for a moment to allay his curiosity regarding the unusual method of entry; to kill him; to reassemble the wood-rasp; to set the ‘struggle’ scene; arrange the clock; to climb back up the wall again; and all as noiseless as you please, cannot have taken him less than eight minutes at the very least. As I have shown, he was in all probability back in his room by four minutes past the hour (if not earlier) and it will be seen, therefore, that he must have begun descent of the wall by four minutes to at the latest.",
+    "title": "The rasp",
+    "author": "MacDonald, Philip, 1901?-1980",
+    "gutenbergReference": "72462",
+    "hash": "aac57d0dfac854699078d5dab39d23f994932e8343469c11beabd3d692edf662"
+  },
+  {
+    "time": "22:52",
     "quoteFirst": "But afterwards, this repulsive stranger, with his cadaverous ghastliness, extraordinary hair, and glazed eyes, showing himself intermittingly through the hours from ",
     "quoteTime": "8 to 11 P.M.",
     "quoteLast": ", revolved upon the memory of all who had steadily observed him with something of the same freezing effect as belongs to the two assassins in 'Macbeth,' who present themselves reeking from the murder of Banquo, and gleaming dimly, with dreadful faces, from the misty background, athwart the pomps of the regal banquet.",
@@ -71,13 +141,33 @@
   },
   {
     "time": "22:52",
-    "quoteFirst": "We usually made two treks of perhaps three hours each, say from 3 to 6, and from ",
-    "quoteTime": "8 to 11 P.M.",
-    "quoteLast": ", and set off again about 2 A.M. and trekked till sunrise, which was about 6 A.M., making a trek of about four hours.",
-    "title": "Matabele land and the Victoria Falls",
-    "author": "Oates, Frank, 1840-1875; Oates, C. G. (Charles George), 1844-1901 [Editor]",
-    "gutenbergReference": "77803",
-    "hash": "2048784a1ac0d09399efbaf506c3dcc3d7c1e2094e9a7aa9a66f088cffaa372c"
+    "quoteFirst": "All at once, at ",
+    "quoteTime": "eight minutes to eleven",
+    "quoteLast": ", the luck turned in his favour, and his pile mounted again.",
+    "title": "The Project Gutenberg Complete Works of Gilbert Parker",
+    "author": "Parker, Gilbert, 1862-1932",
+    "gutenbergReference": "6300",
+    "hash": "f31145cd27625776e4e573b9e3988ca04466075a0148c723644263ee665bcb2c"
+  },
+  {
+    "time": "22:52",
+    "quoteFirst": "All at once, at ",
+    "quoteTime": "eight minutes to eleven",
+    "quoteLast": ", the luck turned in his favor, and his pile mounted again.",
+    "title": "Northern Lights",
+    "author": "Parker, Gilbert, 1862-1932",
+    "gutenbergReference": "26905",
+    "hash": "1ac5f888199304aee252306ed4e6d9c0199b2666790b27feba201013201a1ba3"
+  },
+  {
+    "time": "22:52",
+    "quoteFirst": "It was ",
+    "quoteTime": "eight minutes to eleven",
+    "quoteLast": " as we slid past the lodge and on to the Bilberry road.",
+    "title": "Berry and Co.",
+    "author": "Yates, Dornford, 1885-1960",
+    "gutenbergReference": "17469",
+    "hash": "908fd950bb2a587d982e76f6ddd5f9c7d95d627275e414be92d62c453bb2d095"
   },
   {
     "time": "22:52",
@@ -91,12 +181,22 @@
   },
   {
     "time": "22:52",
-    "quoteFirst": "From   ",
-    "quoteTime": "eight to eleven P.M.",
-    "quoteLast": " His Majesty teaches schoolmasters how to   teach, wives how to attend to their families, bankers how to carry on   their business, and cooks how to prepare dinners.",
-    "title": "Mr. Punch's History of Modern England, Vol. 3 (of 4).—1874-1892",
-    "author": "Graves, Charles L. (Charles Larcom), 1856-1944",
-    "gutenbergReference": "47300",
-    "hash": "f85f6382797b2ee68bcdba940dc07c4d46ef17fff1c91e941e8910da3da5782c"
+    "quoteFirst": "From ",
+    "quoteTime": "8 to 11 p.m.",
+    "quoteLast": " seems to be one of the great times for doing it.",
+    "title": "Potterism: A Tragi-Farcical Tract",
+    "author": "Macaulay, Rose, 1881-1958",
+    "gutenbergReference": "11163",
+    "hash": "85a07ea024e83c1e37451e4eb007d6ef0b1a6d8664bd21e56516cd14ec37623b"
+  },
+  {
+    "time": "22:52",
+    "quoteFirst": "All at once, at ",
+    "quoteTime": "eight minutes to eleven",
+    "quoteLast": ", the luck turned in his favour, and his pile mounted again.",
+    "title": "Northern Lights, Volume 5.",
+    "author": "Parker, Gilbert, 1862-1932",
+    "gutenbergReference": "6190",
+    "hash": "39229f2175dd7bb703b98bc093117c44a3becf9550478e5e5202d216086e788f"
   }
 ]

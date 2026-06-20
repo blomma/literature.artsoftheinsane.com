@@ -11,6 +11,36 @@
   },
   {
     "time": "04:25",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-five minutes past four",
+    "quoteLast": " he rose to move Amendment condemnatory of Land Purchase Act of last year.",
+    "title": "Punch, or the London Charivari, Volume 102, February 27, 1892",
+    "author": "Various",
+    "gutenbergReference": "14344",
+    "hash": "208cfb698e6e5f0df3301eebdcbb01fc6b6b90941d11e20e6ddd5381e619f5df"
+  },
+  {
+    "time": "04:25",
+    "quoteFirst": "",
+    "quoteTime": "4.25 A.M.",
+    "quoteLast": " Proceeded E. × S., 12 knots.",
+    "title": "The Story of Our Submarines",
+    "author": "Bower, John Graham, 1886-1940",
+    "gutenbergReference": "40765",
+    "hash": "b3ff56edd74304c950c8d7b6bc75da28e19911502db3c23f83cf0bb0782ffce0"
+  },
+  {
+    "time": "04:25",
+    "quoteFirst": "When the artillery stopped, about ",
+    "quoteTime": "4.25 a.m.",
+    "quoteLast": ", the Turk commenced a barrage of machine-gun fire.",
+    "title": "New Zealanders at Gallipoli",
+    "author": "Waite, Fred, 1885-1952",
+    "gutenbergReference": "45354",
+    "hash": "fd7a3f37b3ca75144472ead0eafc09d5f94a503493325752be609eb6d53b4eb9"
+  },
+  {
+    "time": "04:25",
     "quoteFirst": "Marlowe,” he proceeded, swinging ponderously round on Sir Mallaby like a liner turning in the river, “I assure you that at ",
     "quoteTime": "twenty-five minutes past four",
     "quoteLast": " this afternoon I was very nearly convinced that I should have to call you up on the ’phone and cancel this dinner engagement. When I took my temperature at twenty minutes to six....”",
@@ -18,46 +48,6 @@
     "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
     "gutenbergReference": "20717",
     "hash": "d26c1b7e845acf607276f53c54c20b311b033661f855a2e327f97c7cc36554dc"
-  },
-  {
-    "time": "04:25",
-    "quoteFirst": "5      ",
-    "quoteTime": "4.25 A. M.",
-    "quoteLast": "       1461    Jan.",
-    "title": "The Leardo Map of the World, 1452 or 1453\nIn the Collections of the American Geographical Society",
-    "author": "Wright, John Kirtland, 1891-1969; Hoen, Albert Berthold [Contributor]",
-    "gutenbergReference": "53480",
-    "hash": "3c9784016f6857070a58a589d3cd9df13f2a8986830e03805b3b425d2ca1cba7"
-  },
-  {
-    "time": "04:25",
-    "quoteFirst": "It was ",
-    "quoteTime": "twenty-five minutes past four",
-    "quoteLast": ".",
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "Doyle, Arthur Conan, 1859-1930",
-    "gutenbergReference": "1661",
-    "hash": "0d48293713828270bfabc5082c0e91fa0354c68c13f15cbabe7f1da936dbfe84"
-  },
-  {
-    "time": "04:25",
-    "quoteFirst": "They had already received many reports that a brilliant fireball had flashed through the sky at ",
-    "quoteTime": "4:25 A.M.",
-    "quoteLast": ", the time in question, and had been observed by many witnesses in the area between Washington, D.C., and Pittsburgh, Pennsylvania, but no fireball could account for the ground light.",
-    "title": "The World of Flying Saucers: A Scientific Examination of a Major Myth of the Space Age",
-    "author": "Menzel, Donald H. (Donald Howard), 1901-1976; Boyd, Lyle Gifford, 1907-1982",
-    "gutenbergReference": "66639",
-    "hash": "c124818fc2ea0a30aedaed3c629b9b0a64a2c2186e9b8342db72e45e30320ce8"
-  },
-  {
-    "time": "04:25",
-    "quoteFirst": "At ",
-    "quoteTime": "4.25 a. m.",
-    "quoteLast": " on August 15, 1917, the Canadian corps attacked on a front of 4,000 yards southeast and east of Loos.",
-    "title": "The Story of the Great War, Volume 8\r\nVictory with the Allies; Armistice; Peace Congress; Canada's War Organizations and vast War Industries; Canadian Battles Overseas",
-    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
-    "gutenbergReference": "34444",
-    "hash": "fd4563bdcb5a2ae0ffc5f5dfcf89c2456e018039202ab72fac918b4a381acb37"
   },
   {
     "time": "04:25",
@@ -71,32 +61,142 @@
   },
   {
     "time": "04:25",
-    "quoteFirst": "At ",
-    "quoteTime": "twenty-five minutes past four",
-    "quoteLast": " he took a copy of the order to bring the prisoners from jail to trial, and afterwards he took names of witnesses.",
-    "title": "The Rise and Fall of Nauvoo",
-    "author": "Roberts, B. H. (Brigham Henry), 1857-1933",
-    "gutenbergReference": "50302",
-    "hash": "a3736daf50375ef7daab02d3e1bebf7fa5f4bccdc62271fb1b82670e9a749431"
+    "quoteFirst": "Before midnight of the 14th the battalion was in position, and at ",
+    "quoteTime": "4.25 a.m.",
+    "quoteLast": " the attack began.",
+    "title": "Thirty Canadian V.Cs., 23d April 1915 to 30th March 1918",
+    "author": "Canadian War Records Office; Martin, Stuart, Military Historian; Richards, Robin; Roberts, Theodore Goodridge, 1877-1953",
+    "gutenbergReference": "40649",
+    "hash": "adc8033184b0603ca7d8d3bbafc43aca9bec76a33cccae235442072eac7ab454"
   },
   {
     "time": "04:25",
-    "quoteFirst": "At ",
-    "quoteTime": "4.25 A.M.",
-    "quoteLast": " the cruiser _Dublin_ reported by wireless that she had sighted an enemy cruiser and two destroyers, and she gave her position.",
-    "title": "The Grand Fleet, 1914-1916",
-    "author": "Jellicoe, John Rushworth, 1859-1935",
-    "gutenbergReference": "75323",
-    "hash": "c581c61a819c5988ffffc0a9daac386a8644b21c0deedd44b1d7c442a74b3dee"
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty-five minutes past four",
+    "quoteLast": ", sir.\"",
+    "title": "A Naval Venture: The War Story of an Armoured Cruiser",
+    "author": "Jeans, T. T. (Thomas Tendron); Gillett, Frank, 1874-1927 [Illustrator]",
+    "gutenbergReference": "45960",
+    "hash": "b06fdbff36b850f6d2fdd8b46dca341e538918437af6df506b9876cdf6e7e485"
+  },
+  {
+    "time": "04:25",
+    "quoteFirst": "But I should say that it was about four or five minutes before the boy got there--say about ",
+    "quoteTime": "five-and-twenty minutes past four",
+    "quoteLast": ".",
+    "title": "Cleek of Scotland Yard: Detective Stories",
+    "author": "Hanshew, Thomas W., 1857-1914",
+    "gutenbergReference": "32198",
+    "hash": "7ff73a32052cfa5e7aa642d1fab7d9ade7c97583c1eff3098c8c5c2466ed380a"
+  },
+  {
+    "time": "04:25",
+    "quoteFirst": "Marlowe,” he proceeded, swinging ponderously round on Sir Mallaby like a liner turning in the river, “I assure you that at ",
+    "quoteTime": "twenty-five minutes past four",
+    "quoteLast": " this afternoon I was very nearly convinced that I should have to call you up on the ’phone and cancel this dinner engagement. When I took my temperature at twenty minutes to six....”",
+    "title": "The Girl on the Boat",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "20717",
+    "hash": "d26c1b7e845acf607276f53c54c20b311b033661f855a2e327f97c7cc36554dc"
+  },
+  {
+    "time": "04:25",
+    "quoteFirst": "At 3.45 a.m. on the 6th the enemy began to shell our line: at ",
+    "quoteTime": "4.25 a.m.",
+    "quoteLast": " strong bodies of Turks were working their way down the Krithia nullahs.",
+    "title": "The 42nd (East Lancashire) Division 1914-1918",
+    "author": "Gibbon, Frederick P.",
+    "gutenbergReference": "73544",
+    "hash": "b1034e5e57a87f16ab74723b8ea8cee58bf56acecaa76547643c7da5021b4182"
+  },
+  {
+    "time": "04:25",
+    "quoteFirst": "At 3.45 a.m. on the 6th the enemy began to shell our line: at ",
+    "quoteTime": "4.25 a.m.",
+    "quoteLast": " strong bodies of Turks were working their way down the Krithia nullahs.",
+    "title": "The 42nd (East Lancashire) Division 1914-1918",
+    "author": "Gibbon, Frederick P.",
+    "gutenbergReference": "73544",
+    "hash": "b1034e5e57a87f16ab74723b8ea8cee58bf56acecaa76547643c7da5021b4182"
+  },
+  {
+    "time": "04:25",
+    "quoteFirst": "The spurs (latitude 5 degrees ",
+    "quoteTime": "35 minutes to 5",
+    "quoteLast": " degrees 40 minutes) which this peak sends eastward are crossed by the Orinoco in the first Great Cataract (that of Mapura or the Atures); further on they unite together and, rising in a chain, stretch towards the sources of the Cataniapo, the rapids of Ventuari, situated on the north of the confluence of the Asisi (latitude 5 degrees 10 minutes) and the Cerro Cunevo.",
+    "title": "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 3",
+    "author": "Humboldt, Alexander von, 1769-1859; Bonpland, Aimé, 1773-1858; Ross, Thomasina [Translator]",
+    "gutenbergReference": "7254",
+    "hash": "e1012b249c3e5782701eb3f92147ae0202cfc5bd230b0eec90e8a2dff7ba1522"
+  },
+  {
+    "time": "04:25",
+    "quoteFirst": "Mortlake: At about ",
+    "quoteTime": "five and twenty minutes past four",
+    "quoteLast": ".",
+    "title": "The Big Bow Mystery",
+    "author": "Zangwill, Israel, 1864-1926",
+    "gutenbergReference": "28164",
+    "hash": "675e833d4452d48252dbb0006383032ba0cb3b5bccec40ef31989916f70cc52d"
+  },
+  {
+    "time": "04:25",
+    "quoteFirst": "Marlowe,” he proceeded, swinging ponderously round on Sir Mallaby like a liner turning in the river, “I assure you that at ",
+    "quoteTime": "twenty-five minutes past four",
+    "quoteLast": " this afternoon I was very nearly convinced that I should have to call you up on the ’phone and cancel this dinner engagement. When I took my temperature at twenty minutes to six....”",
+    "title": "The Girl on the Boat",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "20717",
+    "hash": "d26c1b7e845acf607276f53c54c20b311b033661f855a2e327f97c7cc36554dc"
   },
   {
     "time": "04:25",
     "quoteFirst": "It was ",
     "quoteTime": "twenty-five minutes past four",
     "quoteLast": ".",
-    "title": "Over Prairie Trails",
-    "author": "Grove, Frederick Philip, 1879-1948",
-    "gutenbergReference": "6111",
-    "hash": "d716666ce085e356ffc0ad558aab39e1697068515438acaaa1207abe18e72393"
+    "title": "Adventures of Sherlock Holmes\nIllustrated",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "gutenbergReference": "48320",
+    "hash": "c42f9f5e5624614a74e36944b6ed2522805f3cd8b061baba42a56d5a146daa5b"
+  },
+  {
+    "time": "04:25",
+    "quoteFirst": "\"The assault was launched at ",
+    "quoteTime": "4.25 a. m.",
+    "quoteLast": " by British and Canadian troops and resulted in heavy fighting, which continued throughout the greater part of the 28th and 29th of April, 1917. The enemy delivered counterattack after counterattack with the greatest determination and most lavish expenditure of men. Our positions at Gavrelle alone were again attacked seven times with strong forces, and on each occasion the enemy was repulsed with great loss.",
+    "title": "The Story of the Great War, Volume 8\r\nVictory with the Allies; Armistice; Peace Congress; Canada's War Organizations and vast War Industries; Canadian Battles Overseas",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
+    "gutenbergReference": "34444",
+    "hash": "dfba15866e9bd583b19b3abb333d4ab3b0dfb42f262ba38e833f14f117f5f1a1"
+  },
+  {
+    "time": "04:25",
+    "quoteFirst": "Saturday, April 22, at ",
+    "quoteTime": "4:25 a.m.",
+    "quoteLast": ", the U.S. steamers Valley City and Whitehead got under weigh, and at 8:30 a.m. arrived at Plymouth, where we anchored.",
+    "title": "Reminiscences of Two Years in the United States Navy",
+    "author": "Batten, John M. (John Mullin), 1837-1916",
+    "gutenbergReference": "25764",
+    "hash": "b21f305900c1ed9ddba915c5ff16f141536f3522c3ee0656faaaacaf5a1d995e"
+  },
+  {
+    "time": "04:25",
+    "quoteFirst": "At ",
+    "quoteTime": "4.25 a. m.",
+    "quoteLast": " on August 15, 1917, the Canadian corps attacked on a front of 4,000 yards southeast and east of Loos.",
+    "title": "The Story of the Great War, Volume 8\r\nVictory with the Allies; Armistice; Peace Congress; Canada's War Organizations and vast War Industries; Canadian Battles Overseas",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
+    "gutenbergReference": "34444",
+    "hash": "fd4563bdcb5a2ae0ffc5f5dfcf89c2456e018039202ab72fac918b4a381acb37"
+  },
+  {
+    "time": "04:25",
+    "quoteFirst": "\"It's ",
+    "quoteTime": "five-and-twenty past four",
+    "quoteLast": ",\" said Jack Vance, looking at his watch, \"and it's a good six miles by road; we shall never walk it in the time.\"",
+    "title": "The Triple Alliance, Its Trials and Triumphs",
+    "author": "Avery, Harold, 1867-1943",
+    "gutenbergReference": "10027",
+    "hash": "e752501aa1d0a617e3e9340d483fc27428a98b41d2dd3f5bb1bd0de8a8eac3f8"
   }
 ]

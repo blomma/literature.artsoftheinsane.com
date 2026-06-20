@@ -1,13 +1,93 @@
 [
   {
     "time": "03:40",
-    "quoteFirst": "At ",
+    "quoteFirst": "“But, speaking frankly,” the lawyer replied, “it is, if I may say so, perfectly inconceivable, even in the case of the most important legal documents, that any one should stop the ",
     "quoteTime": "three-forty",
-    "quoteLast": " o’clock, P. M., the Commissioners, accompanied by His Excellency Ambassador Jusserand and the French delegation, boarded the special train for Plattsburgh under the escort of Hon.",
-    "title": "The Champlain tercentenary",
-    "author": "New York (State). Lake Champlain Tercentenary Commission; Hill, Henry Wayland, 1853-1929; Foster, David J. (David Johnson), 1857-1912 [Contributor]; Knapp, H. Wallace (Horatio Wallace), 1869-1929 [Contributor]; Mott, Edward, 1731-1800 [Contributor]; Nelson, Charles Alexander, 1839-1933 [Contributor]; Perkins, George H. (George Henry), 1844-1933 [Contributor]",
-    "gutenbergReference": "70842",
-    "hash": "a5c12ca205f4fb09e9f62015b2ff925ff891929136b3bc080f4eda57ffb14a0b"
+    "quoteLast": " express—the Induna—Our Induna, my dear sir.”",
+    "title": "The Day's Work",
+    "author": "Kipling, Rudyard, 1865-1936",
+    "gutenbergReference": "2569",
+    "hash": "4eb823364936e3532d24499164d2c0a40018ecbe992759faa74212e43a6431fd"
+  },
+  {
+    "time": "03:40",
+    "quoteFirst": "It was nice, she thought, of Fanny to make Mr. Bevan take her for these long walks when she couldn't go with them; but Barbara felt all the time that she ought to apologize to the young man for not being Fanny, especially when Mr. Waddington was coming back to-day by the ",
+    "quoteTime": "three-forty",
+    "quoteLast": " train and this afternoon would be their last for goodness knew how long.",
+    "title": "Mr. Waddington of Wyck",
+    "author": "Sinclair, May, 1863-1946",
+    "gutenbergReference": "9967",
+    "hash": "9bcdc80cc0bbc96081dd9b73f4805fc2097e01bd1a065d91bc4fd1ff947dc4f9"
+  },
+  {
+    "time": "03:40",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes to four",
+    "quoteLast": " an elderly woman places her basket upon the shafts, slowly mounts, takes up a seat inside, and folds her hands and her lips.",
+    "title": "Life's Little Ironies\r\nA set of tales with some colloquial sketches entitled A Few Crusted Characters",
+    "author": "Hardy, Thomas, 1840-1928",
+    "gutenbergReference": "3047",
+    "hash": "061ee9a89d7037566ed1bc7d33f11fe568a08415f55e3eca8cf6b3f7f103ec27"
+  },
+  {
+    "time": "03:40",
+    "quoteFirst": "At ",
+    "quoteTime": "3.40 a.m.",
+    "quoteLast": " a gentle, rising slope, which laid between the troops and the Dervish camp, was reached; here the force halted and the men were allowed to sleep.",
+    "title": "The Egyptian campaigns, 1882 to 1885",
+    "author": "Royle, Charles, 1882-1936",
+    "gutenbergReference": "41744",
+    "hash": "ed9f6ae7d62237263d1d4c6b1526edaa8091655d8d1bcce458d2228fe628a1db"
+  },
+  {
+    "time": "03:40",
+    "quoteFirst": "“Suppose, for example, the book shows that the clerk signed it at ",
+    "quoteTime": "twenty minutes to four",
+    "quoteLast": ".",
+    "title": "Nick Carter Stories No. 11, November 23, 1912: Nick Carter Strikes Oil; or, Uncovering More Than a Murder",
+    "author": "Carter, Nicholas (House name); Bradshaw, Alden F.",
+    "gutenbergReference": "67082",
+    "hash": "d8d1fae5c9fec9c4b9da70ce2529ece88ebb53a7302fb43c2d11a92aa8ca91e3"
+  },
+  {
+    "time": "03:40",
+    "quoteFirst": "The hands of the clock stood at ",
+    "quoteTime": "twenty minutes of four",
+    "quoteLast": ".",
+    "title": "A Prince to Order",
+    "author": "Wayne, Charles Stokes, 1858-1920",
+    "gutenbergReference": "54916",
+    "hash": "a4eeed9838474309ec481a1988a68bfe5b64557f90e25f85be40e4bada7fa7f6"
+  },
+  {
+    "time": "03:40",
+    "quoteFirst": "It had taken him twenty minutes to walk the mile--he knew it, because the hermit’s clock had pointed to ",
+    "quoteTime": "twenty minutes to four",
+    "quoteLast": " when he left the shanty.",
+    "title": "The hermit of Turkey Hollow",
+    "author": "Train, Arthur Cheney, 1875-1945",
+    "gutenbergReference": "77895",
+    "hash": "93b97cd51c77bf6bf1df080d0758a637971d06faede681c40fc478a5f6ef2ce6"
+  },
+  {
+    "time": "03:40",
+    "quoteFirst": "At about ",
+    "quoteTime": "twenty minutes to four",
+    "quoteLast": " the gates of the Hall were thrown open to admit the procession on its return.",
+    "title": "Coronation Anecdotes",
+    "author": "Gossip, Giles",
+    "gutenbergReference": "27589",
+    "hash": "6e422fa714b8a7f2384edf423f7fb6842f290d2f0404d990f1c08498c71c01e2"
+  },
+  {
+    "time": "03:40",
+    "quoteFirst": "Jachin Fell left the house at ",
+    "quoteTime": "three-forty",
+    "quoteLast": ".",
+    "title": "The Mardi Gras Mystery",
+    "author": "Bedford-Jones, H. (Henry), 1887-1949; Howitt, John Newton, 1885-1958 [Illustrator]",
+    "gutenbergReference": "39229",
+    "hash": "9680acbc1c56db35560f45de3e1a247f9043f8274486d75a81deac1424211259"
   },
   {
     "time": "03:40",
@@ -21,73 +101,93 @@
   },
   {
     "time": "03:40",
-    "quoteFirst": "“We must get to Albion in time to catch the ",
+    "quoteFirst": "“It seems that you, or Howard for you, stopped the ",
     "quoteTime": "three-forty",
-    "quoteLast": " train. You can’t stop us.”",
-    "title": "Shaming the Speed Limit",
-    "author": "Standish, Burt L., 1866-1945",
-    "gutenbergReference": "65914",
-    "hash": "21948141607a890da08dfb3dcd3800e3701028eded0904eb3ca18b5affc6dc99"
+    "quoteLast": " Northern down.”",
+    "title": "The Day's Work",
+    "author": "Kipling, Rudyard, 1865-1936",
+    "gutenbergReference": "2569",
+    "hash": "5f12055909f03c59832261a14454eddb7225a32413d7d033cca4368e419af6fd"
   },
   {
     "time": "03:40",
-    "quoteFirst": "“We must get to Albion in time to catch the ",
-    "quoteTime": "three-forty",
-    "quoteLast": " train. You can’t stop us.”",
-    "title": "Shaming the Speed Limit",
-    "author": "Standish, Burt L., 1866-1945",
-    "gutenbergReference": "65914",
-    "hash": "21948141607a890da08dfb3dcd3800e3701028eded0904eb3ca18b5affc6dc99"
+    "quoteFirst": "\"You may call me at ",
+    "quoteTime": "twenty minutes of four",
+    "quoteLast": ", if you please,\" and she disappeared into the house.",
+    "title": "Across the Mesa",
+    "author": "Bagg, Helen, 1879-1959; Pitz, Henry C. (Henry Clarence), 1895-1976 [Illustrator]",
+    "gutenbergReference": "26984",
+    "hash": "97b43bfd379355de42970e775ff2a866142f01a33af9c68f5c76594b40b56546"
   },
   {
     "time": "03:40",
-    "quoteFirst": "“Thought you were wedded to the ",
+    "quoteFirst": "asked the mail carrier, “It’s be’n ",
+    "quoteTime": "twenty minutes to four",
+    "quoteLast": ", twict a day ever sence I kin remember, but I never heer’d no one ravin’ about it before.”",
+    "title": "North",
+    "author": "Hendryx, James B. (James Beardsley), 1880-1963",
+    "gutenbergReference": "76722",
+    "hash": "6af9ac9e4ca36a8c9b30fa76b18aecb761c428a4352c8b894495ca7de0fe375a"
+  },
+  {
+    "time": "03:40",
+    "quoteFirst": "",
+    "quoteTime": "Three-forty",
+    "quoteLast": " is the time of the train.",
+    "title": "Oriole's daughter, a novel, Volume 2 (of 3)",
+    "author": "Fothergill, Jessie, 1851-1891",
+    "gutenbergReference": "76220",
+    "hash": "5696f8ff37e9ab0021a079c015edfec99fa130086db1821dca69e9b1aeb3524e"
+  },
+  {
+    "time": "03:40",
+    "quoteFirst": "It was then ",
+    "quoteTime": "3.40 A.M.",
+    "quoteLast": "",
+    "title": "The Corsican Brothers",
+    "author": "Dumas, Alexandre, 1802-1870; Frith, Henry, 1840- [Translator]",
+    "gutenbergReference": "41881",
+    "hash": "f222945cf238279f97270cc26b680f9a0e590b22adad2549d9eda1b10d905432"
+  },
+  {
+    "time": "03:40",
+    "quoteFirst": "'It always seems to me so unlike you,' Aylmer said (he had arrived punctually at ",
+    "quoteTime": "twenty minutes to four",
+    "quoteLast": ")--'your extreme fondness for newspapers.",
+    "title": "Tenterhooks",
+    "author": "Leverson, Ada, 1862-1933",
+    "gutenbergReference": "10021",
+    "hash": "6822d6cc2c1ed5eb806c6da4fa0bd46d37c8de74971b9d21324f029aaa5228b6"
+  },
+  {
+    "time": "03:40",
+    "quoteFirst": "\"We'll reason with her--we'll persuade her to go back by the ",
     "quoteTime": "three-forty",
-    "quoteLast": "; it’s been a bully afternoon for golf.”",
-    "title": "Ashes to ashes",
-    "author": "Ostrander, Isabel, 1883-1924",
-    "gutenbergReference": "73155",
-    "hash": "c552c2a0b17550b0247f854a5fb571641ba5d79056dd12962de89f7784fc7353"
+    "quoteLast": ".\"",
+    "title": "The Fruit of the Tree",
+    "author": "Wharton, Edith, 1862-1937; Kimball, Alonzo, 1874-1923 [Illustrator]",
+    "gutenbergReference": "19191",
+    "hash": "d54253534cbf5f873332e36d554e4ea37e32ca5697d8ac206c6738a5d70bd020"
+  },
+  {
+    "time": "03:40",
+    "quoteFirst": "It was nice, she thought, of Fanny to make Mr. Bevan take her for these long walks when she couldn't go with them; but Barbara felt all the time that she ought to apologize to the young man for not being Fanny, especially when Mr. Waddington was coming back to-day by the ",
+    "quoteTime": "three-forty",
+    "quoteLast": " train and this afternoon would be their last for goodness knew how long.",
+    "title": "Mr. Waddington of Wyck",
+    "author": "Sinclair, May, 1863-1946",
+    "gutenbergReference": "9967",
+    "hash": "9bcdc80cc0bbc96081dd9b73f4805fc2097e01bd1a065d91bc4fd1ff947dc4f9"
   },
   {
     "time": "03:40",
     "quoteFirst": "At ",
-    "quoteTime": "three-forty",
-    "quoteLast": " there came a tap-tapping across the floor of the outer room, and a knock at the door brought them all to their feet.",
-    "title": "Average Jones",
-    "author": "Adams, Samuel Hopkins, 1871-1958",
-    "gutenbergReference": "6864",
-    "hash": "dcbcf53b5abbcf2139eac06eca11986dce2c33bb20a8dea922eab14855daee93"
-  },
-  {
-    "time": "03:40",
-    "quoteFirst": "The ",
-    "quoteTime": "three-forty",
-    "quoteLast": " trotter soon left boots, shoes, and all behind, and deposited us at the door of the uncle's villa, where a friendly hand welcomed us to its hospitalities.",
-    "title": "Lands of the Slave and the Free; Or, Cuba, the United States, and Canada",
-    "author": "Murray, Henry A. (Henry Anthony), 1810-1865",
-    "gutenbergReference": "11329",
-    "hash": "d53ba998fe86cd90098aa3cecb754836ee257e4690e65941e19af7694b5fa229"
-  },
-  {
-    "time": "03:40",
-    "quoteFirst": "_Winterton_ L.H., one Lark and two Starlings, ",
-    "quoteTime": "3.40 A.M.",
-    "quoteLast": ", at lantern.",
-    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
-    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
-    "gutenbergReference": "66152",
-    "hash": "f680964f665a9c044af2f6bb7b385045fe7493e3d2c255534778a4935ba94697"
-  },
-  {
-    "time": "03:40",
-    "quoteFirst": "Stuart’s first event was the half mile, and that was set for ",
-    "quoteTime": "three-forty",
-    "quoteLast": ", and so, clutching his robe closely about his bare legs, he seated himself on the turf beside Tom Hanson.",
-    "title": "For the good of the team",
-    "author": "Barbour, Ralph Henry, 1870-1944",
-    "gutenbergReference": "70829",
-    "hash": "6244006fa91f5be6e2993aebc4289219461c32f1be3f475ac1f56951c80ed5b0"
+    "quoteTime": "twenty minutes to four",
+    "quoteLast": " Pascal signed to Ramond to approach.",
+    "title": "Doctor Pascal",
+    "author": "Zola, Émile, 1840-1902; Serrano, Mary J. (Mary Jane), -1923 [Translator]",
+    "gutenbergReference": "10720",
+    "hash": "b1ebee536b15c1b417383d423e492eeb6488bcf0632b1e021e282878ca542b0a"
   },
   {
     "time": "03:40",

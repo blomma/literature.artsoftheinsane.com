@@ -21,6 +21,16 @@
   },
   {
     "time": "12:32",
+    "quoteFirst": "At ",
+    "quoteTime": "thirty-two minutes after twelve",
+    "quoteLast": " he was in his room, packing his wicker suitcase by the method of throwing things in and stamping on the case till it closed.",
+    "title": "Free Air",
+    "author": "Lewis, Sinclair, 1885-1951",
+    "gutenbergReference": "26732",
+    "hash": "d2044a9ef59be8a74ff3dae3d2387d5fb58f9d65e36ab622156644d6e8c7e163"
+  },
+  {
+    "time": "12:32",
     "quoteFirst": "_--John Conolly died, at ",
     "quoteTime": "thirty-two minutes past noon",
     "quoteLast": ".",

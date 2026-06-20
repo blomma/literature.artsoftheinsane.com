@@ -1,102 +1,202 @@
 [
   {
     "time": "05:00",
-    "quoteFirst": "It was not ",
+    "quoteFirst": "About ",
     "quoteTime": "five o'clock",
-    "quoteLast": " when she started.",
-    "title": "Meg's Friend: A Story for Girls",
-    "author": "Corkran, Alice, 1844?-1916; Fowler, Robert, 1853-1926 [Illustrator]",
-    "gutenbergReference": "39936",
-    "hash": "4561eab0865f893a4b2cdf12b1d8c20aeac8b9b28cad6c21567ec40668cb23bb"
+    "quoteLast": " on the same afternoon Madge, Phyllis, Lillian and Miss Betsey were out on the lawn eating watermelon.",
+    "title": "Madge Morton's Trust",
+    "author": "Chalmers, Amy D. V.",
+    "gutenbergReference": "31719",
+    "hash": "7c2aad1e75b5081ec89a8a6e9e623ff3db7c15b0b385ff136373a3f0df775a03"
   },
   {
     "time": "05:00",
-    "quoteFirst": "In this, however, he was disappointed, for the automobile did not arrive until after ",
+    "quoteFirst": "Tea and toast and jam; a few tears, and much laughter, and a Sultana cake--the very kind that grew in Oxford windows and graced our ",
     "quoteTime": "five o'clock",
-    "quoteLast": ", an hour after the tractor had been run into the barnyard, where the agent left it and drove to town in his auto.",
-    "title": "Hidden Treasure: The Story of a Chore Boy Who Made the Old Farm Pay",
-    "author": "Simpson, John Thomas",
-    "gutenbergReference": "5870",
-    "hash": "8f0a7ea758b3102b95f77406837ebd9d97e62a4150ab70ef56827953a1c7c964"
+    "quoteLast": " banquets; a Sultana cake calls to my mind the profoundest problems of life and destiny, so many of them we discussed over the crumbs,--this, I am afraid, meant a rather ascetic repast for the young Belgians, but I thought that anything more, with their great draughts of happiness, would be indigestible.",
+    "title": "The Worn Doorstep",
+    "author": "Sherwood, Margaret Pollock, 1864-1955",
+    "gutenbergReference": "42797",
+    "hash": "6d8d541b7bac86b66e02da38db578d3822c0a08ddfb01aff8626c0722e074306"
+  },
+  {
+    "time": "05:00",
+    "quoteFirst": "It was one continued dream from the     time I fell asleep until I was called, ",
+    "quoteTime": "at five o'clock",
+    "quoteLast": " in the     morning.",
+    "title": "Cornish Characters and Strange Events",
+    "author": "Baring-Gould, S. (Sabine), 1834-1924",
+    "gutenbergReference": "41775",
+    "hash": "7015311b1a730dd7623eb8a7e093c5019cd8ed99fc1b73f3265ff22e1f0c6ac0"
+  },
+  {
+    "time": "05:00",
+    "quoteFirst": "I arrived in town about ",
+    "quoteTime": "five o'clock",
+    "quoteLast": " in the morning, and, forcing my way into the Clarendon, wrote a note to Mr. Somers, telling him of my arrival, alluding briefly, but firmly, to false reports having been spread of my conduct, and mentioning the fact of my having been ill for two months, and ignorant of all that had passed in London.",
+    "title": "The Desultory Man\r\nCollection of Ancient and Modern British Novels and Romances. Vol. CXLVII.",
+    "author": "James, G. P. R. (George Payne Rainsford), 1801?-1860",
+    "gutenbergReference": "49718",
+    "hash": "8b9faa3b89ee2834cac5eb9df240af4b6254a3cc9241e10385a12972db9d228c"
+  },
+  {
+    "time": "05:00",
+    "quoteFirst": "It might be about four or ",
+    "quoteTime": "five o’clock",
+    "quoteLast": " in the afternoon; we were ten miles from Callander, exceedingly tired, and wished heartily for the poor horse and car.",
+    "title": "Recollections of a Tour Made in Scotland A.D. 1803",
+    "author": "Wordsworth, Dorothy, 1771-1855; Shairp, John Campbell, 1819-1885 [Editor]",
+    "gutenbergReference": "28880",
+    "hash": "5714a061a75f21703222cf7b73510fc272eb0441917fdc93c469dcbc1d9c6e88"
+  },
+  {
+    "time": "05:00",
+    "quoteFirst": "",
+    "quoteTime": "Five o'clock",
+    "quoteLast": ", my think so.",
+    "title": "East of Suez: A Play in Seven Scenes",
+    "author": "Maugham, W. Somerset (William Somerset), 1874-1965",
+    "gutenbergReference": "34860",
+    "hash": "a82b469027d3c6d0ddc273cefbd09e0f607098ee07112266dc72148f136b7168"
+  },
+  {
+    "time": "05:00",
+    "quoteFirst": "“I’ve bin kicking my ’eels up ’ere since ",
+    "quoteTime": "five o’clock",
+    "quoteLast": ", and I cawn’t say it’s bin lively!”",
+    "title": "Beggars on Horseback; A riding tour in North Wales",
+    "author": "Ross, Martin, 1862-1915; Somerville, E. Oe. (Edith Oenone), 1858-1949",
+    "gutenbergReference": "59158",
+    "hash": "03fd3b4318b62af5fe2f37c0083b1a38c17cf72a4d7763e7c149ed539cd6d368"
+  },
+  {
+    "time": "05:00",
+    "quoteFirst": "They returned between four and ",
+    "quoteTime": "five o’clock",
+    "quoteLast": ", gave me the information they had secured, and, while they reported to the city editor, received instructions as to writing the story, and got their evening’s assignment, I wrote the articles at railroad speed.",
+    "title": "The Picaroons",
+    "author": "Burgess, Gelett, 1866-1951; Irwin, Will, 1873-1948",
+    "gutenbergReference": "55164",
+    "hash": "7cb0fbeaa78a200eda70bca0f3df67bbdc98182cdbde16e46cef8ee460ea9aec"
+  },
+  {
+    "time": "05:00",
+    "quoteFirst": "The subway guards in New York City say that the rush which comes just before ",
+    "quoteTime": "five o'clock",
+    "quoteLast": " (the closing time of most of the business houses) is as great as the one which comes just after.",
+    "title": "The Book of Business Etiquette",
+    "author": "Braddy, Nella, 1894-1973",
+    "gutenbergReference": "23025",
+    "hash": "890b593f8a2333f6c3ce12b6cda30a6376f150e9d4375f89b6cc650a802f605f"
+  },
+  {
+    "time": "05:00",
+    "quoteFirst": "Going to school on Monday was such an unusual thing with him that he had awakened ",
+    "quoteTime": "at five o'clock",
+    "quoteLast": ", and had not been able to go to sleep again.",
+    "title": "Pee-wee Harris Adrift",
+    "author": "Fitzhugh, Percy Keese, 1876-1950; Barbour, Harold S., 1889-1961 [Illustrator]",
+    "gutenbergReference": "17767",
+    "hash": "f1a258b68d07c84b41731ac844585aa02d816de17ed09dc011b8aa6636b00e44"
+  },
+  {
+    "time": "05:00",
+    "quoteFirst": "(He always calls obligingly ",
+    "quoteTime": "at five o’clock",
+    "quoteLast": " for my afternoon mail.)",
+    "title": "The Flower-Patch Among the Hills",
+    "author": "Klickmann, Flora, 1867-1958",
+    "gutenbergReference": "51228",
+    "hash": "f5f1aea15ef3528d258060e0c3014ed48cdc68b48ce5f3b6e8d9d978fac541d8"
   },
   {
     "time": "05:00",
     "quoteFirst": "",
     "quoteTime": "At 5 A.M.",
-    "quoteLast": " the carriage has not yet come so I have twenty minutes to make a lamplit study and reflections generally--Have rifle ready, some soda water, tobacco, and a new stock of hope and faith in my aim.",
-    "title": "From Edinburgh to India & Burmah",
-    "author": "Burn Murdoch, W. G. (William Gordon), 1862-1939",
-    "gutenbergReference": "22749",
-    "hash": "71e02c04be896106970dba2b8a69e3914fffed4c8e19135bba6738bc2d8f2507"
+    "quoteLast": " I heard the noise of heavy squalls, and noticed that the vessel trembled in a curious manner, as if she were aground.",
+    "title": "The wilds of Patagonia",
+    "author": "Skottsberg, Carl, 1880-1963",
+    "gutenbergReference": "76274",
+    "hash": "92b03a0f474c8bd72c0382d2e6d26d3ffcafc1d0fb26359304d6a92aaac30086"
   },
   {
     "time": "05:00",
-    "quoteFirst": "That afternoon the young editor left his office ",
-    "quoteTime": "at five o’clock",
-    "quoteLast": " and asked Miss Lawrence to be his wife.",
-    "title": "An Ambitious Man",
-    "author": "Wilcox, Ella Wheeler, 1850-1919",
-    "gutenbergReference": "7866",
-    "hash": "528865a84484592aa5602913f636a505e3adbdf2628d3ace7d0c5ec31ee44f30"
+    "quoteFirst": "",
+    "quoteTime": "At five o'clock",
+    "quoteLast": " the sounding of a Chinese gong called everybody to come to the Christmas tree.",
+    "title": "Patty's Social Season",
+    "author": "Wells, Carolyn, 1862-1942",
+    "gutenbergReference": "25857",
+    "hash": "e156beb30bd5a86fc3524ca256751dc5d56ccec7d49e8e264e23f4a7f633d09f"
   },
   {
     "time": "05:00",
-    "quoteFirst": "Marched ",
+    "quoteFirst": "Between two and ",
+    "quoteTime": "five o’clock",
+    "quoteLast": " Nejdanov stayed in his own room writing letters to his St. Petersburg friends.",
+    "title": "Virgin Soil",
+    "author": "Turgenev, Ivan Sergeevich, 1818-1883; Townsend, R. S. [Translator]",
+    "gutenbergReference": "2466",
+    "hash": "370d2c1b52a152d749e6c10564874f610b3e02601531ae4791a9e9a30f3f4575"
+  },
+  {
+    "time": "05:00",
+    "quoteFirst": "",
+    "quoteTime": "At 5 o'clock",
+    "quoteLast": " in the afternoon, when the men were refreshed, and when Augereau's immediate junction might be counted on, he directed Gen.",
+    "title": "The Southern Literary Messenger, Vol. II., No. 9, August, 1836",
+    "author": "Various; Poe, Edgar Allan, 1809-1849 [Editor]",
+    "gutenbergReference": "74083",
+    "hash": "d8d46ecfc26b7e33732d15f96d939e67a1109841ca131dff34b84d8b1b1ca63e"
+  },
+  {
+    "time": "05:00",
+    "quoteFirst": "A meeting was arranged for ",
+    "quoteTime": "five o’clock",
+    "quoteLast": " that afternoon, and Detective Kelso was to be there with McCord and Radford.",
+    "title": "From Boniface to Bank Burglar; Or, The Price of Persecution\r\nHow a Successful Business Man, Through the Miscarriage of Justice, Became a Notorious Bank Looter",
+    "author": "White, George M. (George Miles)",
+    "gutenbergReference": "57760",
+    "hash": "97237ec5e0807b9ab627d8d30be74cac970063d394575817a105607c27256d2e"
+  },
+  {
+    "time": "05:00",
+    "quoteFirst": "“My dear, ",
+    "quoteTime": "five o’clock",
+    "quoteLast": " is five o’clock, not twenty minutes past,” retorted Mrs. Macallister, smoothing her silvery hair, which had been decidedly ruffled by Peggy’s precipitancy.",
+    "title": "The Trevor case",
+    "author": "Lincoln, Natalie Sumner, 1881-1935; Frederick, Edmund, 1870-1949 [Illustrator]",
+    "gutenbergReference": "69004",
+    "hash": "dfed9ec2517f27b641cefed2c6aa55ce33d8802409862633388b33ab522691c3"
+  },
+  {
+    "time": "05:00",
+    "quoteFirst": "His daily work begins ",
     "quoteTime": "at five o'clock",
-    "quoteLast": "; came ten miles and encamped without water.",
-    "title": "The Expeditions of Zebulon Montgomery Pike, Volume 2 (of 3)\r\nTo Headwaters of the Mississippi River Through Louisiana Territory, and in New Spain, During the Years 1805-6-7.",
-    "author": "Pike, Zebulon Montgomery, 1779-1813; Coues, Elliott, 1842-1899",
-    "gutenbergReference": "43775",
-    "hash": "ae1d142ffa3d7b8354dce801b96986d10b03385625bcedf9e8cf2c6967c8ba09"
+    "quoteLast": " in the morning, and closes at six in the evening; for forty-seven years he has worked through twelve hours daily, to support himself and those depending on him.",
+    "title": "Harper's New Monthly Magazine, No. XXIV, May 1852, Vol. IV",
+    "author": "Various",
+    "gutenbergReference": "42267",
+    "hash": "0c76a7dfd6b4748eeda8a0461144564a49971d727876f8c3c1f1848bfa1541b4"
   },
   {
     "time": "05:00",
-    "quoteFirst": "So he carried me up into Tower Street, and showed me his house, and ordered me to come there at ",
-    "quoteTime": "five o’clock at night",
-    "quoteLast": "; which accordingly I did, and carried the letter-case with me.",
-    "title": "The History and Remarkable Life of the Truly Honourable Colonel Jacque, Commonly Called Colonel Jack",
-    "author": "Defoe, Daniel, 1661?-1731",
-    "gutenbergReference": "52603",
-    "hash": "676f72f2109c7db118c4ad897b1e896aaa6aa86beecb83554e79ffdc4283f04d"
+    "quoteFirst": "Thus hostilities ceased at this point also, at about ",
+    "quoteTime": "five o'clock",
+    "quoteLast": " in the afternoon, allowing the weary troops on both sides to take breath and reorganize.",
+    "title": "The German Classics of the Nineteenth and Twentieth Centuries, Volume 10\r\nPrince Otto Von Bismarck, Count Helmuth Von Moltke, Ferdinand Lassalle",
+    "author": "Francke, Kuno, 1855-1930 [Editor]",
+    "gutenbergReference": "13056",
+    "hash": "3d1b0372a1b34a12ee3ff64fc946540408df00ec2251c4172b8ed554ad753c66"
   },
   {
     "time": "05:00",
-    "quoteFirst": "21st.  Up between 4 and ",
-    "quoteTime": "5 o'clock",
-    "quoteLast": " and to set several papers to rights, and so to the office, where we had an extraordinary meeting.",
-    "title": "Diary of Samuel Pepys — Volume 43: May/June 1666",
+    "quoteFirst": "About ",
+    "quoteTime": "five o'clock",
+    "quoteLast": " my wife come home, it having lightened all night hard, and one great shower of rain.",
+    "title": "Diary of Samuel Pepys — Volume 35: May/June 1665",
     "author": "Pepys, Samuel, 1633-1703; Braybrooke, Richard Griffin, Baron, 1783-1858 [Editor]; Wheatley, Henry B. (Henry Benjamin), 1838-1917 [Editor]; Bright, Mynors, 1818-1883 [Translator]",
-    "gutenbergReference": "4165",
-    "hash": "437a7bf57702e0bdffa822157837563c462a7231196504bf1892bddd39b0b168"
-  },
-  {
-    "time": "05:00",
-    "quoteFirst": "He said they were worse and more dangerous than the bodily ailment  which befell him on that same Saturday evening about ",
-    "quoteTime": "five o’clock",
-    "quoteLast": "  and which was so serious that we feared he would succumb under it.”",
-    "title": "Luther, vol. 5 of 6",
-    "author": "Grisar, Hartmann, 1845-1932; Dessoulavy, C. L. (Charles Louis) [Editor]; Lamond, E. M. [Translator]",
-    "gutenbergReference": "49171",
-    "hash": "51d74d43bc1ad5fca68273654e98c7495a0e9ed6fefbee86f0fd4a71fc13a696"
-  },
-  {
-    "time": "05:00",
-    "quoteFirst": "They       brought him tea ",
-    "quoteTime": "at five o’clock",
-    "quoteLast": ", and a letter.",
-    "title": "The Forsyte Saga - Complete",
-    "author": "Galsworthy, John, 1867-1933",
-    "gutenbergReference": "4397",
-    "hash": "89dca968568c7bd495e11453e221615f27866c791cb0c43c38a47e6affc0af4c"
-  },
-  {
-    "time": "05:00",
-    "quoteFirst": "Every second afternoon, about ",
-    "quoteTime": "five o’clock",
-    "quoteLast": ", the workshop door would open slightly, and a naked, floury arm introduced the newspaper and laid it on the counter.",
-    "title": "Pelle the Conqueror — Volume 02",
-    "author": "Andersen Nexø, Martin, 1869-1954; Miall, Bernard, 1876-1953 [Translator]",
-    "gutenbergReference": "7792",
-    "hash": "62267fa39c4b14a65c90422fb3da65a70654042ca40e1f199be692cf8f31d626"
+    "gutenbergReference": "4156",
+    "hash": "ef90158d0dc1878e7c20a688fa868c152a1c159add41d31f1c0d34cc1e2ebe1f"
   }
 ]

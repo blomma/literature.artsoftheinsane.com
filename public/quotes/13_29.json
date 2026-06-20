@@ -11,6 +11,16 @@
   },
   {
     "time": "13:29",
+    "quoteFirst": "* * *”[C4-262] At ",
+    "quoteTime": "1:29 p.m.",
+    "quoteLast": " the police radio reported that the description of the suspect in the Tippit shooting was similar to the description which had been given by Brennan in connection with the assassination.",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "a8c5612bd3ce51523f4948d40e355e92020080a55ba707442d3c20cca2aca203"
+  },
+  {
+    "time": "13:29",
     "quoteFirst": "The Dallas Police Department radio log shows that the police radio dispatcher at ",
     "quoteTime": "1:29 p.m.",
     "quoteLast": " noted a similarity between the broadcast descriptions of the President’s assassin and Tippit’s slayer.",

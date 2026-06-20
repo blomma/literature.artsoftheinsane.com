@@ -1,102 +1,202 @@
 [
   {
     "time": "01:45",
-    "quoteFirst": "At school, on the Wednesday immediately preceding, the chosen few who were Miss Brown's personal aides, stayed after school at noon to decorate the room for the entertainment to be given at ",
+    "quoteFirst": "At ",
     "quoteTime": "a quarter of two",
-    "quoteLast": ".",
-    "title": "A son of the city",
-    "author": "Seely, Herman Gastrell; Arting, Fred J., 1875-1922 [Illustrator]",
-    "gutenbergReference": "20708",
-    "hash": "10240bfc131cef9a68be06154262048a0d33844127f41d7da11473077035e86e"
+    "quoteLast": " they were returning to the circus ground, and not alone.",
+    "title": "Four Afoot: Being the Adventures of the Big Four on the Highway",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "50983",
+    "hash": "4da7ea08d7d2c0d400974ecdef3229f3f39fcc9cc048942a5f124b5c51b83c34"
   },
   {
     "time": "01:45",
-    "quoteFirst": "Harvey was puzzled by this unpunctuality; it would soon be ",
+    "quoteFirst": "Imprisoned in a corner of the saloon by a barrister, who had taken that opportune moment to recommend a case to him, the bridegroom looked, from time to time, at the timepiece, which pointed to ",
     "quoteTime": "a quarter to two",
     "quoteLast": ".",
-    "title": "The Whirlpool",
-    "author": "Gissing, George, 1857-1903",
-    "gutenbergReference": "4299",
-    "hash": "923b0755b07005302e6ac76daf6efba03b8c93c97f6e8a0ec6f4fe94ce4f2825"
+    "title": "Chambers's Edinburgh Journal, No. 456\nVolume 18, New Series, September 25, 1852",
+    "author": "Various; Chambers, Robert, 1802-1871 [Editor]; Chambers, William, 1800-1883 [Editor]",
+    "gutenbergReference": "23655",
+    "hash": "69efa2bfd53088ed7288e8538b94db29f7340a6759e6ab7d56a28cb8e64d4f3a"
   },
   {
     "time": "01:45",
-    "quoteFirst": "The call to change into togs came at half-past one and at ",
+    "quoteFirst": "There was little ill-humor among the listeners, for Queen Bess was striking the last ",
+    "quoteTime": "quarter before two",
+    "quoteLast": ", and a savory smell from the inn kitchens inspired them with an agreeable consciousness that the speakers were helping to trifle away the brief time before dinner.",
+    "title": "Felix Holt, the Radical",
+    "author": "Eliot, George, 1819-1880",
+    "gutenbergReference": "40882",
+    "hash": "20c20565bc773a2fd3292f0c896d5c593ead8f3dfab5f0db67609c49e388b4e3"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "\"Just ",
+    "quoteTime": "a quarter of two",
+    "quoteLast": ".\"",
+    "title": "Miss Caprice",
+    "author": "Rathborne, St. George, 1854-1938",
+    "gutenbergReference": "15979",
+    "hash": "c8e1cfbb4c64c42ce48d6790398ff2dfaada945555dd6bfb5e165c421375cc7a"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "It was ",
     "quoteTime": "a quarter to two",
-    "quoteLast": " they were all ready.",
-    "title": "The Fighting Scrub",
-    "author": "Barbour, Ralph Henry, 1870-1944; Rahn, A. D. [Illustrator]",
-    "gutenbergReference": "73435",
-    "hash": "2329de0a4abc9012dec833b99e179aee9d831e71cc8cc8bd30c9184a42c61ff9"
+    "quoteLast": " on the Thursday and Joan, dressed in the black silk gown that she used to wear when on duty at Messrs.",
+    "title": "Joan Haste",
+    "author": "Haggard, H. Rider (Henry Rider), 1856-1925; Wilson, F. S. [Illustrator]",
+    "gutenbergReference": "66528",
+    "hash": "e0233323a60ca2653d297b6b0f5a4299728a96b500a402a9a30a45c3d024e941"
   },
   {
     "time": "01:45",
-    "quoteFirst": "In this region of the lake, from ",
+    "quoteFirst": "At ",
     "quoteTime": "a quarter to two",
-    "quoteLast": " miles from shore, at wide intervals isolated rocks rise up out of the water, or mere points of land covered with a thick growth of underbrush show themselves, so small they look from a distance like a floating fleck of green that the waves could drift about at pleasure.",
-    "title": "The Automaton Ear, and Other Sketches",
-    "author": "McLandburgh, Florence, 1850-1934",
-    "gutenbergReference": "67476",
-    "hash": "1da548865a8a9e3613d27cd6df0edbed0390c26221eb20bc2d84a980d4e51006"
-  },
-  {
-    "time": "01:45",
-    "quoteFirst": "We could stay on the summit only a short time, and at ",
-    "quoteTime": "a quarter to two",
-    "quoteLast": " prepared for the descent.",
-    "title": "The Ascent of the Matterhorn",
-    "author": "Whymper, Edward, 1840-1911",
-    "gutenbergReference": "38044",
-    "hash": "975cb1fbc173d65f66b0a74e00c932aad8c2d212afcd42f997cd0254604f1374"
-  },
-  {
-    "time": "01:45",
-    "quoteFirst": "She was abandoned and destroyed by a torpedo at ",
-    "quoteTime": "1.45 A.M.",
-    "quoteLast": " Admiral Scheer cites the fact that these events could happen, without disturbance by the enemy, as “proving that the English Naval forces made no attempt to occupy the waters between the scene of battle and Horn Reef.”",
-    "title": "A True Account of the Battle of Jutland, May 31, 1916",
-    "author": "Frothingham, Thomas Goddard, 1865-1945",
-    "gutenbergReference": "47949",
-    "hash": "9f39cbcae8aa0c94173fcaefcbb2275f14e241020a1b8adc7e6efa7da5639d19"
-  },
-  {
-    "time": "01:45",
-    "quoteFirst": "Bottles, with mouths from an inch and ",
-    "quoteTime": "a quarter to two",
-    "quoteLast": " inches in diameter, must also be procured, and these must be three-fourths full of spirits, such as weak brandy, rum, gin or whisky.",
-    "title": "How to stuff birds and animals",
-    "author": "Warford, Aaron A.",
-    "gutenbergReference": "43090",
-    "hash": "84363aaf9c8bffcbcb3af76c5a057fb00768cd34349391c54a51a1199ccc1399"
-  },
-  {
-    "time": "01:45",
-    "quoteFirst": "The foregoing observations showed that fatigue raises the normal threshold of a muscle, on the average, between 100 and 200 per cent (it may be increased more than 600 per cent); that this increase is dependent on the time the muscle works, but also varies with the animal; that rest, ",
-    "quoteTime": "15 minutes to 2",
-    "quoteLast": " hours, restores the normal irritability; and that this recovery of the threshold depends upon the time given to rest, the duration of the work, and also upon the condition of the animal.",
-    "title": "Bodily changes in pain, hunger, fear, and rage",
-    "author": "Cannon, Walter B. (Walter Bradford), 1871-1945",
-    "gutenbergReference": "73932",
-    "hash": "1bf4d6b917d5fb4def9938ec8fa92df56c3f281162a849ea62ba34eeb2797d40"
+    "quoteLast": " the Queen re-entered Buckingham Palace.",
+    "title": "Sixty Years a Queen: The Story of Her Majesty's Reign",
+    "author": "Maxwell, Herbert, Sir, 1845-1937",
+    "gutenbergReference": "42386",
+    "hash": "b9bc899d697a54cb8b7e0e1e1ec25c4bf53ef3fabec379928d5dbc1eb498eeca"
   },
   {
     "time": "01:45",
     "quoteFirst": "About ",
     "quoteTime": "a quarter before two",
-    "quoteLast": " o'clock, the Duke of Montrose arrived, being the first of the privy councillors who attended; he was followed by all the royal dukes, and a very numerous assembly of privy councillors, who had all arrived by a quarter before three o'clock.",
-    "title": "Social England under the Regency, Vol. 1 (of 2)",
-    "author": "Ashton, John, 1834-1911",
-    "gutenbergReference": "48390",
-    "hash": "dfce25c2226bb683dc592e53e1769983b0da5f1727a9fec2e0b5748800bcd434"
+    "quoteLast": " another boat was seen coming off.",
+    "title": "Harry Milvaine; Or, The Wanderings of a Wayward Boy",
+    "author": "Stables, Gordon, 1840-1910",
+    "gutenbergReference": "37325",
+    "hash": "1362f9ec8e48db4c53b7292c12ad8df32923179f844fc6c1128b7faf8cd416a3"
   },
   {
     "time": "01:45",
-    "quoteFirst": "“And you say that was at about ",
+    "quoteFirst": "He was disturbed, however, and very unexpectedly, between half-past one and ",
     "quoteTime": "a quarter to two",
-    "quoteLast": ", Tuesday morning?”",
-    "title": "The Markenmore Mystery",
-    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
-    "gutenbergReference": "59818",
-    "hash": "3731601560e44d47d9c645db855a77309c959fe84c01df272cada3ed5667b595"
+    "quoteLast": " in the morning.",
+    "title": "The Witch of Prague: A Fantastic Tale",
+    "author": "Crawford, F. Marion (Francis Marion), 1854-1909",
+    "gutenbergReference": "3816",
+    "hash": "c7ba15348bd315726308f149fe288664ef2ce8cf3b55eb14d790438997c59fa4"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "It was nearly ",
+    "quoteTime": "a quarter to two",
+    "quoteLast": " when they at last piloted their tiny fleet up the deep dykes, once cut by the monks for the due supply of their Abbey, placed with rare felicity among the windings of many streams.",
+    "title": "The girl from nowhere",
+    "author": "Reynolds, Baillie, Mrs., 1861-1939",
+    "gutenbergReference": "72969",
+    "hash": "99427d9e5c70e815d20d491a00e92e6fc05b22f4bbb56793d6c8a690cdd71572"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "As I ran down the stairs I heard the stable clock strike the ",
+    "quoteTime": "quarter to two",
+    "quoteLast": " in the morning.",
+    "title": "The Lock and Key Library: Classic Mystery and Detective Stories: Modern English",
+    "author": "Hawthorne, Julian, 1846-1934 [Editor]; Castle, Egerton, 1858-1920 [Contributor]; Collins, Wilkie, 1824-1889 [Contributor]; Doyle, Arthur Conan, 1859-1930 [Contributor]; Kipling, Rudyard, 1865-1936 [Contributor]; Stevenson, Robert Louis, 1850-1894 [Contributor]; Weyman, Stanley John, 1855-1928 [Contributor]",
+    "gutenbergReference": "2038",
+    "hash": "602789745ffefae79724a151ea019af0e8fbaa384333e509d0a9af55be050df3"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "\"",
+    "quoteTime": "A quarter to two",
+    "quoteLast": ",\" said Pell, looking at the parlour clock.",
+    "title": "The Posthumous Papers of the Pickwick Club, v. 2 (of 2)",
+    "author": "Dickens, Charles, 1812-1870; Aldin, Cecil, 1870-1935 [Illustrator]",
+    "gutenbergReference": "47535",
+    "hash": "7ed0ea1fe7411feccd48e7058ae78ca7c395b6628107f61130a3454efedd049d"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "It lacked ",
+    "quoteTime": "a quarter of two",
+    "quoteLast": ".",
+    "title": "Big Timber: A Story of the Northwest",
+    "author": "Sinclair, Bertrand W., 1881-1972",
+    "gutenbergReference": "11223",
+    "hash": "45c356957bb021a258e4fbedf09211f665b5fd0b62f5bdc8cf73306ea227c18e"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "This is the regular sash, commonly called the square _obi_; but when we are at home, go out for a walk, or visit an intimate friend, we prefer another kind of sash, which is a piece of white crêpe, about ten feet long and varying in width from a foot and ",
+    "quoteTime": "a quarter to two",
+    "quoteLast": " feet, and stitched at the ends to prevent their fraying.",
+    "title": "Home Life in Tokyo",
+    "author": "Inouye, Jukichi, 1862-1929",
+    "gutenbergReference": "65870",
+    "hash": "3e57fa70b1ce0cf162a575eccd2b97891f80697cc6e9830efbda489d7d125ba0"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "“There is one at twenty minutes to two, and another at the quarter,” was the reply; and I learned on the same reliable authority that the ",
+    "quoteTime": "quarter to two",
+    "quoteLast": " train got there first.",
+    "title": "Crying for the Light; Or, Fifty Years Ago. Vol. 3 [of 3]",
+    "author": "Ritchie, J. Ewing (James Ewing), 1820-1898",
+    "gutenbergReference": "36810",
+    "hash": "d758e1c8c4588ed62940f11ef3acc799694aa447a1e3518b272a6339ba0f6d63"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "For at about ",
+    "quoteTime": "a quarter to two",
+    "quoteLast": ", just as Miss Burden had returned from a visit to the circulating library, the occurrence happened.",
+    "title": "Araminta",
+    "author": "Snaith, J. C. (John Collis), 1876-1936",
+    "gutenbergReference": "73133",
+    "hash": "d0add79626ba041f39f6b7d3f9c2fe156866c6a9ab1617a22c8e00890b65e583"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "The clock chimed ",
+    "quoteTime": "a quarter to two",
+    "quoteLast": ", and Burke started to his feet.",
+    "title": "Jack Hinton: The Guardsman",
+    "author": "Lever, Charles, 1806-1872; Browne, Hablot Knight, 1815-1882 [Illustrator]",
+    "gutenbergReference": "33082",
+    "hash": "67f65bfeaaadfd6d4c0fa50f072cfda6c0770ff6723fedbcf0e571d0e95591e6"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "That is to say it was somewhere between ",
+    "quoteTime": "a quarter of 2",
+    "quoteLast": " and a quarter past 2, or 5 minutes of 2 and 25 minutes after 2?",
+    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58030",
+    "hash": "1494a620fe8563a6a43bb4daa7ba8e6b0c1928001d53fb58d55acf13ce9b8f40"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "_Treatment_: First give dose castor oil, say half teaspoonful to two tablespoonfuls,[1] with from two[1] to ten drops of laudanum, or a pill containing from ",
+    "quoteTime": "a quarter to two",
+    "quoteLast": " grains of calomel, with the eighth to one grain of powdered opium.",
+    "title": "The Dog's Medical Dictionary\nAn encyclopædia of the diseases, their diagnosis & treatment, and the physical development of the dog",
+    "author": "Sewell, Alfred Joseph",
+    "gutenbergReference": "66458",
+    "hash": "be81f4475a76ca283ba489082b973cb6c57297cd3d2a3497584d633d270a2ae0"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "Half-past one o’clock, W.S.W.; then shortly S.W., and ",
+    "quoteTime": "a quarter before two",
+    "quoteLast": ", to W., where the Haba below seems to be close to the shore, and on the left side it is scarcely half an hour distant; on the right a pastoral village.",
+    "title": "Expedition to discover the sources of the White Nile, in the years 1840, 1841, Vol. 2 (of 2)",
+    "author": "Werne, Ferdinand, 1800-1874; O'Reilly, Charles William [Translator]",
+    "gutenbergReference": "73466",
+    "hash": "8f278af4dcd83bd474f0ee5487024bda4ddf98f7653fa4de1accaf6b0470a4ec"
+  },
+  {
+    "time": "01:45",
+    "quoteFirst": "It was perhaps ",
+    "quoteTime": "quarter of two",
+    "quoteLast": " when they took their seats on the wooden bench under the trees, and, lighting their pipes, gazed out over the broad sweeping flood of the Mississippi, gleaming like a silvered shield in the moonlight.",
+    "title": "Waring's Peril",
+    "author": "King, Charles, 1844-1933",
+    "gutenbergReference": "24148",
+    "hash": "d3888a0642d115af10e9d76d18a32fb157da04dbee8b0792cb644f4eb4b62eb6"
   }
 ]

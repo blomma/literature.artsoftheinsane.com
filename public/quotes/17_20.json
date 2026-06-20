@@ -1,73 +1,183 @@
 [
   {
     "time": "17:20",
-    "quoteFirst": "I put on my hat and walked out refreshed, having slept from ",
+    "quoteFirst": "If any gentleman will tell me, I shall be glad to learn how it will be easier to pay sixteen hundred millions in gold in the redemption of greenbacks, than to pay the same amount in the redemption of ",
+    "quoteTime": "Five-twenty",
+    "quoteLast": " bonds?",
+    "title": "Hidden Treasures; Or, Why Some Succeed While Others Fail",
+    "author": "Lewis, Harry A.",
+    "gutenbergReference": "20151",
+    "hash": "57e7d4364223d00ad0894b9e52017963252d6cd4794a4fd1a9956fdb1908989f"
+  },
+  {
+    "time": "17:20",
+    "quoteFirst": "In one of the upper rooms could be seen a mantel with a lambrequin on it and a clock stopped at ",
+    "quoteTime": "twenty minutes after five",
+    "quoteLast": ".",
+    "title": "The Complete Story of the Galveston Horror",
+    "author": "Coulter, John [Editor]",
+    "gutenbergReference": "34304",
+    "hash": "d7b083254175ffefb0230687197a1c343aabd06b1856d85855423ce1c7deb4a5"
+  },
+  {
+    "time": "17:20",
+    "quoteFirst": ", and sets at ",
+    "quoteTime": "5:20 p. m.",
+    "quoteLast": "; on the 16th rises at 7:51 a.",
+    "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55251",
+    "hash": "c271d798fdd30ed4cd31ddfc39955d8cb7afa5d3da63da2041f86d4401abdc1b"
+  },
+  {
+    "time": "17:20",
+    "quoteFirst": "\"The time was about ",
+    "quoteTime": "twenty minutes after five",
+    "quoteLast": ", and the light pretty good.  But the lane is pretty well overgrown, as you know.  I looked down and along it, and it appeared to end in a tangle or brambles. I turned my attention to the house, and was studying it through my glasses, taking stock of its windows and chimneys, and generally (as you might say) reckoning it up, along with the extent of its garden, when, happening to take another glance down the lane, to run a measure of the garden wall--or perhaps a movement caught my eye-- I saw a man step across the path between the brambles, out of the garden, as you might say, and into the plantation opposite.  The path being so narrow, I glimpsed him for half a second only.  But the glimpse of him gave me a start, for, if to suppose it had been anywise possible, I could have sworn the man was one I had known in Falmouth and left behind",
+    "title": "Poison Island",
+    "author": "Quiller-Couch, Arthur, 1863-1944",
+    "gutenbergReference": "16604",
+    "hash": "a617055ead34f48aec4aba0cee9c75b60a966a37e8fcf48ac2177c3f5dc8d9dc"
+  },
+  {
+    "time": "17:20",
+    "quoteFirst": "The proceeds from the sales of the five per cent bonds were pledged to the redemption of the six per cent ",
     "quoteTime": "five-twenty",
-    "quoteLast": " until twelve, or six hours and forty minutes straight.",
-    "title": "The Genial Idiot: His Views and Reviews",
-    "author": "Bangs, John Kendrick, 1862-1922",
-    "gutenbergReference": "35302",
-    "hash": "46b3f3574b70a7ba15d763b5e87e9474d435b78601e68941f22d8e3179c66be8"
+    "quoteLast": " bonds, reckoned at their par value.",
+    "title": "Reminiscences of Sixty Years in Public Affairs, Vol. 2",
+    "author": "Boutwell, George S. (George Sewall), 1818-1905",
+    "gutenbergReference": "20109",
+    "hash": "956555b85e2df3b60467eab251772bf9c4d81022728fbe5ad4b37bba63eccbcc"
+  },
+  {
+    "time": "17:20",
+    "quoteFirst": "I again sent a dispatch from Laramie City, same day, ",
+    "quoteTime": "five-twenty",
+    "quoteLast": ", P.M.:",
+    "title": "Report of the Committee Appointed to Investigate the Railroad Riots in July, 1877\nRead in the Senate and House of Representatives May 23, 1878",
+    "author": "Pennsylvania. General Assembly. Committee Appointed to Investigate the Railroad Riots in July, 1877",
+    "gutenbergReference": "42766",
+    "hash": "27f4a7df592948f18681ece3cc6d3e84543c835cb0162c0e9e4d149a3d6121a1"
+  },
+  {
+    "time": "17:20",
+    "quoteFirst": "It's only ",
+    "quoteTime": "twenty minutes past five",
+    "quoteLast": ".\"",
+    "title": "Eyebright: A Story",
+    "author": "Coolidge, Susan, 1835-1905",
+    "gutenbergReference": "27223",
+    "hash": "5db340c711fad9c4dd3e92d0fea3ed916a21972ebb0578a4a796c40883c5a086"
+  },
+  {
+    "time": "17:20",
+    "quoteFirst": "\"They were two ",
+    "quoteTime": "five-twenty",
+    "quoteLast": " government bonds of a hundred dollars each.\"",
+    "title": "Making His Way; Or, Frank Courtney's Struggle Upward",
+    "author": "Alger, Horatio, Jr., 1832-1899",
+    "gutenbergReference": "13803",
+    "hash": "6573da58a5770ab1aa5c122fad387f50ff2d44078ee8dea47e0d3dbccd67024c"
   },
   {
     "time": "17:20",
     "quoteFirst": "\"Payment of the ",
     "quoteTime": "Five-twenty",
-    "quoteLast": " bonds in paper currency involves therefore a limitless issue of greenbacks, with attendant evils of gigantic magnitude and far-reaching consequence. And the worse evil of the whole is the delusion which calls this a payment at all. It is no payment in any proper sense, for it neither gives the creditor what he is entitled to, nor does it release the debtor from subsequent responsibility. You may get rid of the Five-twenty by issuing the greenback, but how will you get rid of the greenback except by paying gold? The only escape from ultimate payment of gold is to declare that as a nation we permanently",
+    "quoteLast": " bonds in paper currency involves therefore a limitless issue of greenbacks, with attendant evils of gigantic magnitude and far-reaching consequence. And the worse evil of the whole is the delusion which calls this a payment at all. It is no payment in any proper sense, for it neither gives the creditor what he is entitled to, nor does it release the debtor from subsequent responsibility. You may get rid of the Five-twenty by issuing the greenback, but how will you get rid of the greenback except by paying gold? The only escape from ultimate payment of gold is to declare that as a nation we permanently and finally renounce all idea of ever attaining a specie standard--that we launch ourselves on an ocean of paper money without shore or sounding, with no rudder to guide us and no compass to steer by. And this is precisely what is involved if we adopt this",
     "title": "Hidden Treasures; Or, Why Some Succeed While Others Fail",
     "author": "Lewis, Harry A.",
     "gutenbergReference": "20151",
-    "hash": "9b7b7cbb5f35db886726b692870b7adae03719f02d26e029920f94736cfabcab"
+    "hash": "f99fc12f60db4886845608327697ad110dba79356cd4264ed26e21e062359367"
   },
   {
     "time": "17:20",
-    "quoteFirst": "The testimony of Mrs. Helen P. Cunningham was taken at ",
-    "quoteTime": "5:20 p.m.",
-    "quoteLast": ", on April 1, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex.",
-    "title": "Warren Commission (10 of 26): Hearings Vol. X (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44010",
-    "hash": "39be242151e75ef744d2e1e0fe9c1d20b3773d692029646fe890370e53331b79"
+    "quoteFirst": "Little variation occurred in the direction of travel, which averaged thirty-eight miles an hour, and the descent took place at ",
+    "quoteTime": "5.20 p.m.",
+    "quoteLast": " at Swavesey, near Cambridge.",
+    "title": "The Dominion of the Air: The Story of Aerial Navigation",
+    "author": "Bacon, John M. (John Mackenzie), 1846-1904",
+    "gutenbergReference": "861",
+    "hash": "bb4a2e1ae0475b11c7bc1d5232ea17992d5e1d3449e17f4d2cff59699dee6220"
   },
   {
     "time": "17:20",
-    "quoteFirst": "Only ",
-    "quoteTime": "twenty past five",
-    "quoteLast": ".",
-    "title": "Daphne Bruno",
-    "author": "Raymond, Ernest, 1888-1974",
-    "gutenbergReference": "78201",
-    "hash": "f518cf6a7a8b7f731d281180073807aea9df55d9958e49823d66373eedc92cdb"
-  },
-  {
-    "time": "17:20",
-    "quoteFirst": "I put on my hat and walked out refreshed, having slept from ",
+    "quoteFirst": "At ",
     "quoteTime": "five-twenty",
-    "quoteLast": " until twelve, or six hours and forty minutes straight.",
-    "title": "The Genial Idiot: His Views and Reviews",
-    "author": "Bangs, John Kendrick, 1862-1922",
-    "gutenbergReference": "35302",
-    "hash": "46b3f3574b70a7ba15d763b5e87e9474d435b78601e68941f22d8e3179c66be8"
+    "quoteLast": " we left there and walked together to my hotel; we parted, and I did not see him again until twenty-six hours after, he thinking me burnt, and I thinking that he was burnt.",
+    "title": "A Letter From the Fire: Being an Account of the Great Chicago Fire.",
+    "author": "Foster, Thomas Dove, 1847-1915; Foster, Thomas Henry, 1875-1951 [Author of introduction, etc.]",
+    "gutenbergReference": "66472",
+    "hash": "148166e8981566bf9bfa3f559db6a3aaf9fd535b1982e67d44f1bf540f3cf0d1"
   },
   {
     "time": "17:20",
-    "quoteFirst": "The collision happened at ",
+    "quoteFirst": "The first attempt to dispose of the five per cent bonds was made by the Treasury Department through an invitation to the public to subscribe for the bonds, payment to be made in the currency of the country, or by an exchange of outstanding ",
+    "quoteTime": "five-twenty",
+    "quoteLast": " bonds which bore interest at the rate of six per cent.",
+    "title": "Reminiscences of Sixty Years in Public Affairs, Vol. 2",
+    "author": "Boutwell, George S. (George Sewall), 1818-1905",
+    "gutenbergReference": "20109",
+    "hash": "41af378b3330c97424e1440acb042d784081ea7d742f38f24d1ca2fef4e86fc2"
+  },
+  {
+    "time": "17:20",
+    "quoteFirst": "According to the explicit statement   of Garfield in 1868, when the original ",
+    "quoteTime": "five-twenty",
+    "quoteLast": " bond bill was   before the House in 1862, all who referred to the subject stated that   the principal of these bonds was payable in gold, and coin payment was   the understanding of every member of the committee of ways and   means....",
+    "title": "War—What For?",
+    "author": "Kirkpatrick, George R. (George Ross), 1867-1937",
+    "gutenbergReference": "58266",
+    "hash": "2cc4d3739f5b6a3422209913892794b2fa8c6c73f03078042baefceacb626e70"
+  },
+  {
+    "time": "17:20",
+    "quoteFirst": "Above them, folded up, was the ",
+    "quoteTime": "five-twenty",
+    "quoteLast": " U. S. bond for five hundred dollars, and upon it a small roll of green-backs.",
+    "title": "Rufus and Rose; Or, The Fortunes of Rough and Ready",
+    "author": "Alger, Horatio, Jr., 1832-1899",
+    "gutenbergReference": "25967",
+    "hash": "3c9c46d07e3adeecb55faac7535b60845edc4d443f2fc82b6bc4bad5c8c0cb4a"
+  },
+  {
+    "time": "17:20",
+    "quoteFirst": "The testimony of Dr. Renatus Hartogs was taken at ",
+    "quoteTime": "5:20 p.m.",
+    "quoteLast": ", on April 16, 1964, at 7 East 86th Street, New York, N.Y., by Mr. Wesley J. Liebeler, assistant counsel of the President's Commission.",
+    "title": "Warren Commission (08 of 26): Hearings Vol. VIII (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44008",
+    "hash": "c47d1f98faaa809aa9e0be79b3f2315d7bcb436b77b5d785ec9b9d4ea1e56f32"
+  },
+  {
+    "time": "17:20",
+    "quoteFirst": "It was, therefore, at least ",
     "quoteTime": "twenty minutes after five",
-    "quoteLast": " in the morning; by six o’clock all the rescued were on the deck of the _Seagull_.",
-    "title": "The Boy Fortune Hunters in China",
-    "author": "Baum, L. Frank (Lyman Frank), 1856-1919; Nelson, Emile A. [Illustrator]",
-    "gutenbergReference": "55767",
-    "hash": "6b306c5987c536e9def48dfe7ddc773b52a57ccedacd904848e84756a11a49c1"
+    "quoteLast": " before the criminal act was perpetrated.",
+    "title": "A Whim, and Its Consequences\nCollection of British Authors Vol. CXIV",
+    "author": "James, G. P. R. (George Payne Rainsford), 1801?-1860",
+    "gutenbergReference": "51715",
+    "hash": "96f8333b801d419ee9ac66051272eecf55ca69bec0cde7fb81b39d9c87b1e6bd"
   },
   {
     "time": "17:20",
-    "quoteFirst": "They left these rocks shortly after 2 p.m., and Green’s Saddle was passed at ",
-    "quoteTime": "5.20 pm",
-    "quoteLast": ".",
-    "title": "A climber in New Zealand",
-    "author": "Ross, Malcolm, 1862-1930; Bryce, James Bryce, Viscount, 1838-1922 [Author of introduction, etc.]",
-    "gutenbergReference": "68737",
-    "hash": "bf0c3672960c4cffb65719e784c02809699ce6bf38184c5f345d300dae11e1d5"
+    "quoteFirst": "\"Payment of the ",
+    "quoteTime": "Five-twenty",
+    "quoteLast": " bonds in paper currency involves therefore a limitless issue of greenbacks, with attendant evils of gigantic magnitude and far-reaching consequence. And the worse evil of the whole is the delusion which calls this a payment at all. It is no payment in any proper sense, for it neither gives the creditor what he is entitled to, nor does it release the debtor from subsequent responsibility. You may get rid of the Five-twenty by issuing the greenback, but how will you get rid of the greenback except by paying gold? The only escape from ultimate payment of gold is to declare that as a nation we permanently and finally renounce all idea of ever attaining a specie standard--that we launch ourselves on an ocean of paper money without shore or sounding, with no rudder to guide us and no compass to steer by. And this is precisely what is involved if we adopt this",
+    "title": "Hidden Treasures; Or, Why Some Succeed While Others Fail",
+    "author": "Lewis, Harry A.",
+    "gutenbergReference": "20151",
+    "hash": "f99fc12f60db4886845608327697ad110dba79356cd4264ed26e21e062359367"
+  },
+  {
+    "time": "17:20",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes past five",
+    "quoteLast": " dinner was announced, and the Queen, preceded by the Lord Mayor and the Lady Mayoress, and conducted by the Lord Chamberlain, in \"respectful silence,\" descended into the hall where the banquet was prepared.",
+    "title": "Life of Her Most Gracious Majesty the Queen — Volume 1",
+    "author": "Tytler, Sarah, 1827-1914",
+    "gutenbergReference": "6910",
+    "hash": "2fe3f13cb11f4d5b05df9bbe7ce6a304b4be5bc58d31b0dcc2b2e0069b3b797f"
   },
   {
     "time": "17:20",
@@ -81,22 +191,12 @@
   },
   {
     "time": "17:20",
-    "quoteFirst": "25 Taube dropped 3 bombs ",
-    "quoteTime": "5:20 P. M.",
-    "quoteLast": ", 1 killed; bombardment 6 to    7:10 P. M., 150 shells, 1 killed, 4 wounded.",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "4ca995d36f980764696aab33c766f69762afbf449ce3566462874e5a6ac0bc1c"
-  },
-  {
-    "time": "17:20",
-    "quoteFirst": ", and sets at ",
-    "quoteTime": "5:20 p. m.",
-    "quoteLast": "; on the 16th rises at 7:51 a.",
-    "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55251",
-    "hash": "c271d798fdd30ed4cd31ddfc39955d8cb7afa5d3da63da2041f86d4401abdc1b"
+    "quoteFirst": "The proceeds from the sales of the five per cent bonds were pledged to the redemption of the six per cent ",
+    "quoteTime": "five-twenty",
+    "quoteLast": " bonds, reckoned at their par value.",
+    "title": "Reminiscences of Sixty Years in Public Affairs, Vol. 2",
+    "author": "Boutwell, George S. (George Sewall), 1818-1905",
+    "gutenbergReference": "20109",
+    "hash": "956555b85e2df3b60467eab251772bf9c4d81022728fbe5ad4b37bba63eccbcc"
   }
 ]

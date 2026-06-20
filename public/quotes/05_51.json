@@ -1,6 +1,16 @@
 [
   {
     "time": "05:51",
+    "quoteFirst": "At ",
+    "quoteTime": "nine minutes before six",
+    "quoteLast": " this evening, to my great joy, my little sister Fanny came into the world.",
+    "title": "The Life and Letters of Maria Edgeworth, Volume 1",
+    "author": "Edgeworth, Maria, 1768-1849; Hare, Augustus J. C. (Augustus John Cuthbert), 1834-1903 [Editor]",
+    "gutenbergReference": "8825",
+    "hash": "f4e0b5ee8bf8edab971476599bf3f1331d7f177f77dd8dbac59d34ab61bbae57"
+  },
+  {
+    "time": "05:51",
     "quoteFirst": "; on the 16th, ",
     "quoteTime": "5:51 a. m.",
     "quoteLast": "; on the 30th, 5:36 a.",

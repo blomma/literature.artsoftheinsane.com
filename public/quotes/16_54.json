@@ -21,6 +21,16 @@
   },
   {
     "time": "16:54",
+    "quoteFirst": "“",
+    "quoteTime": "Six minutes to five",
+    "quoteLast": ".”",
+    "title": "The viaduct murder",
+    "author": "Knox, Ronald Arbuthnott, 1888-1957",
+    "gutenbergReference": "72585",
+    "hash": "30212a468735a91c625ab8a2ac63cfa19c22a513b65080368d8c7ea8e6a0e4b9"
+  },
+  {
+    "time": "16:54",
     "quoteFirst": "The 4.50 from Paston Oatvile would be just passing here at ",
     "quoteTime": "six minutes to five",
     "quoteLast": ".",
@@ -28,5 +38,15 @@
     "author": "Knox, Ronald Arbuthnott, 1888-1957",
     "gutenbergReference": "72585",
     "hash": "56a3e44df96379f98e9a2c065de947e2b9467e13e8614350233600d1d34b4486"
+  },
+  {
+    "time": "16:54",
+    "quoteFirst": "There was a clock in the room, the hands pointing to ",
+    "quoteTime": "six minutes before five",
+    "quoteLast": ".",
+    "title": "For the Right",
+    "author": "Franzos, Karl Emil, 1848-1904; MacDonald, George, 1824-1905 [Author of introduction, etc.]; Sutter, Julie [Translator]",
+    "gutenbergReference": "36904",
+    "hash": "d49eb75fe152572f60f878b4f5e3c7a64798a77beefbe5df89b420078984e9e2"
   }
 ]

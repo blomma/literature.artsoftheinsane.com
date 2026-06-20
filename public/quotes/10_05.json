@@ -1,43 +1,113 @@
 [
   {
     "time": "10:05",
-    "quoteFirst": "\"At ",
-    "quoteTime": "five minutes past ten",
-    "quoteLast": " a man of mine, still a little out of breath from his haste, comes to us in the Grande Taverne and tells us that Jean Cladel has just reached home.  He reached home then at five minutes to ten.\"",
-    "title": "The House of the Arrow",
-    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
-    "gutenbergReference": "67514",
-    "hash": "043a6736b7d827a7d38e165b8b0f4bb7579ee2d0a0a02eada8f8907ec85ce2aa"
-  },
-  {
-    "time": "10:05",
-    "quoteFirst": "The clock at Nicholson’s Brewery showed ",
-    "quoteTime": "five minutes past ten",
-    "quoteLast": " as they crawled down into the town; opened out again for the Bridge; swished over it past Skindle’s Hotel.",
-    "title": "Peter Jameson: A Modern Romance",
-    "author": "Frankau, Gilbert, 1884-1952",
-    "gutenbergReference": "59936",
-    "hash": "1fdb7977fa5b772e199f389008bb06aeffd31b56623533b423217e1bc8545143"
-  },
-  {
-    "time": "10:05",
     "quoteFirst": "At ",
-    "quoteTime": "five minutes past ten",
-    "quoteLast": " o'clock he had given the last brush to his shabby hat and the last scouring with bread-crumb to his dirty gloves.",
-    "title": "Masterpieces of Mystery in Four Volumes: Detective Stories",
-    "author": "French, Joseph Lewis, 1858-1936 [Editor]",
-    "gutenbergReference": "27523",
-    "hash": "bd9547521422c27b5bb62dea2a31619b6023d64e40cf870ff5a84b4b8e9d6891"
+    "quoteTime": "10:05 A.M.",
+    "quoteLast": " our man came out and walked up the long block to Broadway.",
+    "title": "Thieves' Wit: An Everyday Detective Story",
+    "author": "Footner, Hulbert, 1879-1944",
+    "gutenbergReference": "57236",
+    "hash": "1f3431f40588e8421afc0a43df1761cb507705ca4aef343fc8728c19b1c28083"
   },
   {
     "time": "10:05",
-    "quoteFirst": "\"It's ",
+    "quoteFirst": "After a while she went down again to Cousin Charlie, and was surprised to find it so late; the clock pointed to ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": "; and with trembling hands she closed the windows, listening for an instant to the dash of the waves outside, with a strange, wild feeling that they never sounded so before.",
+    "title": "General Bounce; Or, The Lady and the Locusts",
+    "author": "Whyte-Melville, G. J. (George John), 1821-1878; Ewan, Frances [Illustrator]",
+    "gutenbergReference": "41828",
+    "hash": "75d32dc4d7ac1dad3397c2c6fdcd8000e90f8d64f648ac0fdcb8ec41d5b8f9b4"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "\"",
+    "quoteTime": "Ten-five",
+    "quoteLast": ",\" he muttered.",
+    "title": "The Boy Allies in Great Peril; Or, With the Italian Army in the Alps",
+    "author": "Hayes, Clair W. (Clair Wallace), 1887-",
+    "gutenbergReference": "12682",
+    "hash": "627a34836d3dbc1694d3b50fb826188c1eb1e27829b1b9c5185dfd709ea90c3d"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes past ten",
+    "quoteLast": ".\"",
+    "title": "The Seventh Noon",
+    "author": "Bartlett, Frederick Orin, 1876-1945; Frederick, Edmund, 1870-1949 [Illustrator]",
+    "gutenbergReference": "20429",
+    "hash": "49fd3de8ebe36e0be5d316988fca2ee93205b435d3dac5041340972f4ab4dfae"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "The clock said twenty past, so I know it must have been ",
     "quoteTime": "five past ten",
-    "quoteLast": " now, and he said he'd cut the call short.\"",
-    "title": "Jimmy Kirkland and the Plot for a Pennant",
-    "author": "Fullerton, Hugh S. (Hugh Stuart), 1873-1945; Gray, Charles Paxson [Illustrator]",
-    "gutenbergReference": "32044",
-    "hash": "1f888b1a089239f7e14e4ecc97fac3b0e1ab2872818d18c1fcfa8a18bd79ccc2"
+    "quoteLast": " really.",
+    "title": "Strong poison",
+    "author": "Sayers, Dorothy L. (Dorothy Leigh), 1893-1957",
+    "gutenbergReference": "78157",
+    "hash": "492af2e73e3f4a712990119f40175e1d4ef88e9cac29cbd976356144a8df67ab"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "They reached the station at ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": "; the train was not due until a quarter past.",
+    "title": "Henry Dunbar: A Novel",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "9189",
+    "hash": "fa62b4e774f602adeced90c6242d4aa9dd43e8049be9eda1415dc55fc02b02b8"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "\"Send out Car Naught-fifty, President Vennor and party, on      Number 103, ",
+    "quoteTime": "ten-five",
+    "quoteLast": " this P.M.",
+    "title": "A Romance in Transit",
+    "author": "Lynde, Francis, 1856-1930",
+    "gutenbergReference": "33399",
+    "hash": "03155778ae0512bf715dbd81469eddc8dfd765641728ee48938f5cc73ac15ede"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "General Smith and party returned to their lodgings at ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": ".\"--_Deseret News, No. 35, Nov. 4, 1857, page 274_.",
+    "title": "The Rise and Fall of Nauvoo",
+    "author": "Roberts, B. H. (Brigham Henry), 1857-1933",
+    "gutenbergReference": "50302",
+    "hash": "2e84b43a2dfb5cced7b2380c01e3f97eb77bdf08d237eeaf236c4adf95282413"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "He was visible--and when she went up the Burton walk at ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": ", her step was confident and her face eager; and there was about her manner none of the furtive, nervous questioning that had marked her coming the day before.",
+    "title": "Dawn",
+    "author": "Porter, Eleanor H. (Eleanor Hodgman), 1868-1920",
+    "gutenbergReference": "5874",
+    "hash": "5839911837b75de11e8b55bf2bc1af39feb2e4e9d59c615c6c4c0e6c82e2fa70"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "After a while she went down again to Cousin Charlie, and was surprised to find it so late; the clock pointed to ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": "; and with trembling hands she closed the windows, listening for an instant to the dash of the waves outside, with a strange, wild feeling that they never sounded so before.",
+    "title": "General Bounce; Or, The Lady and the Locusts",
+    "author": "Whyte-Melville, G. J. (George John), 1821-1878; Ewan, Frances [Illustrator]",
+    "gutenbergReference": "41828",
+    "hash": "75d32dc4d7ac1dad3397c2c6fdcd8000e90f8d64f648ac0fdcb8ec41d5b8f9b4"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "He was hopeless at ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": "; he was radiant when the minute hand had moved on to the next figure on the dial.",
+    "title": "The trail of the serpent",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "75840",
+    "hash": "84dcd8d43aa5d9fffe19e25a0a6d5412706622ed941b5ce9e7bc01a0f2c34951"
   },
   {
     "time": "10:05",
@@ -51,52 +121,82 @@
   },
   {
     "time": "10:05",
-    "quoteFirst": "So engrossed was Alick in this work that it was ",
+    "quoteFirst": "At ",
     "quoteTime": "five minutes past ten",
-    "quoteLast": " before he looked up at the clock—a cheap one which he had bought from a Jew pedlar, and fixed upon the wall himself—\"to see the time to go home by,\" his mates said.",
-    "title": "Cleg Kelly, Arab of the City: His Progress and Adventures",
-    "author": "Crockett, S. R. (Samuel Rutherford), 1860-1914",
-    "gutenbergReference": "48354",
-    "hash": "9cb8355492a76db211ace0a62f78bb087eef922262d0a778c3819756ba353c93"
+    "quoteLast": ", her father, on leaving the college, failed to see her on the pavement where she usually waited for him.",
+    "title": "The Blonde Lady\nBeing a Record of the Duel of Wits between Arsène Lupin and the English Detective",
+    "author": "Leblanc, Maurice, 1864-1941",
+    "gutenbergReference": "24839",
+    "hash": "5bbb3c5cb22f2d96403f70a634eed1739f6ecb9233aca2ba7fba2fa3306e15a2"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "It was ",
+    "quoteTime": "five minutes after ten",
+    "quoteLast": ", and No. 18 scheduled Selkirk at ten-twenty.",
+    "title": "The Wire Devils",
+    "author": "Packard, Frank L. (Frank Lucius), 1877-1942",
+    "gutenbergReference": "52084",
+    "hash": "71de474d8b8facbca7c4920864fa3fcd24cc6feccca26e1b6471837f1b0de092"
   },
   {
     "time": "10:05",
     "quoteFirst": "At ",
     "quoteTime": "five minutes past ten",
-    "quoteLast": ", he was coming up the steps of a residence with Purbeckian marble pillars to the door-way.",
-    "title": "Vanderdecken",
-    "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
-    "gutenbergReference": "54473",
-    "hash": "234d8901cecd3b04853c61808882ae21c5ebb7c945a742b84564c03a3049e22f"
+    "quoteLast": " we reached _B'rair_, near which we rested for an hour, the day being very sultry, under an old tamarisk-tree, which on the plains instead of _Turfa_ is called _Itil_.",
+    "title": "Byeways in Palestine",
+    "author": "Finn, James, -1872",
+    "gutenbergReference": "22097",
+    "hash": "fe84f6b772242e2eacff9c9de9c7e867eb2ed74c83254f8787ae050fe95b4ab1"
   },
   {
     "time": "10:05",
-    "quoteFirst": "So you would have left your home about ",
-    "quoteTime": "5 minutes after 10",
-    "quoteLast": ", or 10?",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
-    "hash": "9846a419e4f8a9e36e7d9c90b11ee2688dea3b485ec7b4a464e25ba515e49fe0"
-  },
-  {
-    "time": "10:05",
-    "quoteFirst": "He thinks, or seems to think, that his son came in at about ",
+    "quoteFirst": "“The Action began at ",
     "quoteTime": "five minutes past ten",
-    "quoteLast": ".",
-    "title": "The Great Speeches and Orations of Daniel Webster\r\nWith an Essay on Daniel Webster as a Master of English Style",
-    "author": "Webster, Daniel, 1782-1852; Whipple, Edwin Percy, 1819-1886",
-    "gutenbergReference": "12606",
-    "hash": "666ad7134a033a6233f7eddc427f96b401693a298eba67ef64cdfb77d0fcfddb"
+    "quoteLast": ". In about half an hour afterwards, the first half of our Fleet was engaged, and before half-past eleven, the Battle became general. The _Elephant’s_ station was in the centre, opposite to the Danish Commodore.... The judgment with which each Ship calculated her station in that intricate Channel, was admirable throughout. The failure of the three Ships that were aground, and whose force was to have been opposed to the Trekroner battery, left this day, as glorious for seamanship as for courage, incomplete.... The gallant Riou, perceiving the blank in the original plan for the attack of the Crown Battery, proceeded down the Line with his Squadron of Frigates, and attempted, but in vain, to fulfil the duty of the absent Ships of the Line. His force was unequal to it; and the general signal of recall, which was made about mid-action by the",
+    "title": "The Boys' Nelson",
+    "author": "Wheeler, Harold, 1877-",
+    "gutenbergReference": "50731",
+    "hash": "f7503827764fdda3fb8eea3b7ab636a155ac810575a7458dbdf7beb7e364d476"
   },
   {
     "time": "10:05",
-    "quoteFirst": "Wednesday ",
-    "quoteTime": "10:05 A.M.",
-    "quoteLast": "",
-    "title": "Project Daedalus",
-    "author": "Hoover, Thomas, 1941-",
-    "gutenbergReference": "34320",
-    "hash": "fe223851259068f26cbfc0128a49f53b84caed3aa6beb20fec55a8b8b4efd5a4"
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes past ten",
+    "quoteLast": ".\"",
+    "title": "The Seventh Noon",
+    "author": "Bartlett, Frederick Orin, 1876-1945; Frederick, Edmund, 1870-1949 [Illustrator]",
+    "gutenbergReference": "20429",
+    "hash": "49fd3de8ebe36e0be5d316988fca2ee93205b435d3dac5041340972f4ab4dfae"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "One hour later a suit against the Pacific Shipping Company was filed in the county clerk's office, and at ",
+    "quoteTime": "five minutes after ten",
+    "quoteLast": " a deputy-sheriff appeared at the paying-teller's window in the Marine National Bank and filed a writ of attachment on the funds to their credit.",
+    "title": "Cappy Ricks; Or, the Subjugation of Matt Peasley",
+    "author": "Kyne, Peter B. (Peter Bernard), 1880-1957",
+    "gutenbergReference": "5738",
+    "hash": "6ec7234b910899d97edb7c2e11e751a3e8a2419bcd6e0acecff0ef9abceece46"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": ", when      L'Orient blew up, having burnt seventy minutes, the six van ships      had surrendered.",
+    "title": "The Life of the Right Honourable Horatio Lord Viscount Nelson, Volume 2",
+    "author": "Harrison, James",
+    "gutenbergReference": "16913",
+    "hash": "169fa8c6a5d68944c0ac6a03ddc2bc0fbd91fa8f02092d330ec503a7931de48c"
+  },
+  {
+    "time": "10:05",
+    "quoteFirst": "15   = ",
+    "quoteTime": "ten-five",
+    "quoteLast": ", one foot, three fives.",
+    "title": "The Number Concept: Its Origin and Development",
+    "author": "Conant, Levi L. (Levi Leonard), 1857-1916",
+    "gutenbergReference": "16449",
+    "hash": "bf43da0b7d672ca77a9d567c9f79b5754aeb30ab361c0b64cf6ec3192e9fcd1e"
   }
 ]

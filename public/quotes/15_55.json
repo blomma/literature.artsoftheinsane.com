@@ -1,93 +1,183 @@
 [
   {
     "time": "15:55",
-    "quoteFirst": "\"It is ",
-    "quoteTime": "five minutes to four",
-    "quoteLast": ", sir--it will be quite impossible to finish that pile of papers to-day--And I _did_ come from Bindon's Green--and I am going back there by the six o'clock train from Victoria, to a supper party at my home--That is why my hair is crimped and I have on this new blouse.\"",
-    "title": "The Career of Katherine Bush",
-    "author": "Glyn, Elinor, 1864-1943; Frederick, Edmund, 1870-1949 [Illustrator]",
-    "gutenbergReference": "40893",
-    "hash": "b8333cd5a10df34573f338954e8f1be732a73fa52fa588c40b9908c87517b7c7"
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes to four that afternoon",
+    "quoteLast": " I entered the big Gambrinus Café, which was nearly opposite my hotel on the other side of the piazza, and I took a seat just inside the door.",
+    "title": "The Stretton Street Affair",
+    "author": "Le Queux, William, 1864-1927",
+    "gutenbergReference": "27147",
+    "hash": "6b2b64c206366eeed5e3a0e0eb52109e91da6879aec2319edb717a7ec298f77f"
   },
   {
     "time": "15:55",
-    "quoteFirst": ", ",
-    "quoteTime": "3:55 p. m.",
-    "quoteLast": " and 2:54 p.",
-    "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55134",
-    "hash": "ddf09c232b9d5be8c891f041cca3d86cb15a5827e53af3a65e6695d3b29d7878"
+    "quoteFirst": "It was ",
+    "quoteTime": "five minutes of four",
+    "quoteLast": ".",
+    "title": "When I Was a Little Girl",
+    "author": "Gale, Zona, 1874-1938; Pelton, Agnes, 1881-1961 [Illustrator]",
+    "gutenbergReference": "60457",
+    "hash": "23c85a146278c98926612a128907705b98f53d73f4cad6a3e2ee81c10d35f33c"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "Our young friend Lovel, who had received a corresponding invitation, punctual to the hour of appointment, arrived at Monkbarns about ",
+    "quoteTime": "five minutes before four",
+    "quoteLast": " o’clock on the 17th of July.",
+    "title": "The Antiquary — Complete",
+    "author": "Scott, Walter, 1771-1832",
+    "gutenbergReference": "7005",
+    "hash": "6fdd2a6a3aed7d61ad5592c349742f2b3c8543f11a3847445d417c4813e9bca5"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes to four",
+    "quoteLast": ",\" he said.",
+    "title": "The Boy Allies Under the Sea; Or, The Vanishing Submarines",
+    "author": "Hayes, Clair W. (Clair Wallace), 1887-",
+    "gutenbergReference": "14711",
+    "hash": "7e945e741948a0e64ffc24d01af93d1e7db3c090640f41a2c1124ea1bb6d05cc"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "The invited guests, complete in number, had been waiting in the drawing-room since ",
+    "quoteTime": "five minutes to four",
+    "quoteLast": ",--and now it was eight minutes past, and no dinner had as yet been announced.",
+    "title": "Twos and Threes",
+    "author": "Stern, G. B. (Gladys Bronwyn), 1890-1973",
+    "gutenbergReference": "46049",
+    "hash": "19c8f376b61e70c1e0ef30f5cf523da920b163a2e5e422c9132dd9b4af9cc184"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "The testimony of Louis D. Miller was taken at ",
+    "quoteTime": "3:55 p.m.",
+    "quoteLast": ", on March 24, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex.",
+    "title": "Warren Commission (12 of 26): Hearings Vol. XII (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44012",
+    "hash": "2eb0dcc26ea57881cde20c3d9182799833ac3e56d96c092c57c611452bc9c9e7"
   },
   {
     "time": "15:55",
     "quoteFirst": "At ",
-    "quoteTime": "3:55 P.M.",
-    "quoteLast": ", the navigator screeched over the interphone: “It’s up to one hundred miles an hour, now. Gee, is this some storm!”",
-    "title": "The Hurricane Hunters",
-    "author": "Tannehill, Ivan Ray, 1890-1959",
-    "gutenbergReference": "57973",
-    "hash": "7c3e66094cae9ff404a1ed4f95b1bcde9f571a0ce7b22928c73ff63bf7b672a7"
+    "quoteTime": "five minutes to four",
+    "quoteLast": " tea was served in the gun-room, and, twenty minutes later, Action Stations were taken up again.",
+    "title": "The Heroic Record of the British Navy: A Short History of the Naval War, 1914-1918",
+    "author": "Hurd, Archibald, 1869-1959; Bashford, H. H. (Henry Howarth), Sir, 1880-1961",
+    "gutenbergReference": "47248",
+    "hash": "16a11f6d33fe280bc7b59c7657e1e36d60fdb68bca08078cdaf3521ccc657996"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "May 19th, ",
+    "quoteTime": "3:55 P. M.",
+    "quoteLast": " I have just failed to administer to   the patient in Bed 11, Ward B, Medicine Clinic, a hypodermic of   coniine.",
+    "title": "The Hospital Murders",
+    "author": "Davis, Means, 1904-1999",
+    "gutenbergReference": "54445",
+    "hash": "e15f0ec003d8a35c958b1e9ba37ec518f75621e98a887ebe6e1122756451103d"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "The \"father of the House,\" Representative King of Erath, alone spoke for it but the opponents talked until ",
+    "quoteTime": "3:55 p. m.",
+    "quoteLast": ", when some one moved the previous question.",
+    "title": "The History of Woman Suffrage, Volume VI",
+    "author": "Harper, Ida Husted, 1851-1931 [Editor]",
+    "gutenbergReference": "30051",
+    "hash": "3d9334244b102f18ba4da36f2bac98c509a3b2c1aeb1dbd32c0a99aa4b86f57d"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "About ",
+    "quoteTime": "five minutes of four",
+    "quoteLast": " Carol came rushing up the road and dashed in at her gate, late as usual.",
+    "title": "Three Sides of Paradise Green",
+    "author": "Seaman, Augusta Huiell, 1879-1950; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "52946",
+    "hash": "33b28d506314c8c165355202aa9433161e956838c6aef24f4e22fa6172ea255e"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "Arrived at this splendid lake (Caunboogonannie) at ",
+    "quoteTime": "3.55 p.m.",
+    "quoteLast": " Splendid water and feed.",
+    "title": "McKinlay's Journal of Exploration in the Interior of Australia",
+    "author": "McKinlay, John, 1819-1872",
+    "gutenbergReference": "13248",
+    "hash": "34d6064b4392d8efcc711948dc51113f263d17785b42e2468433d1d0792a4c28"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "\"",
+    "quoteTime": "3.55 P.M.",
+    "quoteLast": " Fall of temperature very apparent. Cold wind blowing through the atmosphere.",
+    "title": "Astronomy for Amateurs",
+    "author": "Flammarion, Camille, 1842-1925; Welby, Frances A. (Frances Alice), 1862-1947 [Translator]",
+    "gutenbergReference": "25267",
+    "hash": "fc973004fcfe9b044d810bdfb4d3618328b34b48950d78bf4bcd7b42b995dbe1"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "'At ",
+    "quoteTime": "five minutes to four",
+    "quoteLast": " I shall begin to collect your papers, but those who wish may go on till ten past.",
+    "title": "Tales of St. Austin's",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "6980",
+    "hash": "3fda1ce573dc45fbdf5e576a89d6e68a14422bc30603265e56008e90554ceb86"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes to four",
+    "quoteLast": " tea was served in the gun-room, and, twenty minutes later, Action Stations were taken up again.",
+    "title": "The Heroic Record of the British Navy: A Short History of the Naval War, 1914-1918",
+    "author": "Hurd, Archibald, 1869-1959; Bashford, H. H. (Henry Howarth), Sir, 1880-1961",
+    "gutenbergReference": "47248",
+    "hash": "16a11f6d33fe280bc7b59c7657e1e36d60fdb68bca08078cdaf3521ccc657996"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "Two women who were hastening home to scramble their husbands’ dinners together—it was ",
+    "quoteTime": "five minutes to four",
+    "quoteLast": "—stopped to look at her.",
+    "title": "The Prussian Officer",
+    "author": "Lawrence, D. H. (David Herbert), 1885-1930",
+    "gutenbergReference": "22480",
+    "hash": "3fb3898166725557b1caee40853c4b3c2a412f24232c3c0b1d8517f7cfa7c6ee"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "He appeared at the house at ",
+    "quoteTime": "five minutes to four",
+    "quoteLast": ".",
+    "title": "The Grain of Dust: A Novel",
+    "author": "Phillips, David Graham, 1867-1911; Wenzell, A. B. (Albert Beck), 1864-1917 [Illustrator]",
+    "gutenbergReference": "430",
+    "hash": "1630694fbb0f928a4d6920df4f5823ff12df09cf7623e3a6df7eeea5fdbee8c0"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "Two women who were hastening home to scramble their husbands’ dinners together—it was ",
+    "quoteTime": "five minutes to four",
+    "quoteLast": "—stopped to look at her.",
+    "title": "The Prussian Officer",
+    "author": "Lawrence, D. H. (David Herbert), 1885-1930",
+    "gutenbergReference": "22480",
+    "hash": "3fb3898166725557b1caee40853c4b3c2a412f24232c3c0b1d8517f7cfa7c6ee"
   },
   {
     "time": "15:55",
     "quoteFirst": "It was ",
     "quoteTime": "five minutes to four",
-    "quoteLast": " when she purchased her ticket to New York.",
-    "title": "Grace Harlowe's Return to Overton Campus",
-    "author": "Chase, Josephine, -1931",
-    "gutenbergReference": "9901",
-    "hash": "a4af35852adde7e1dbc48c7d9a99d06091849c0c16507c26d24d396279aa4cc9"
-  },
-  {
-    "time": "15:55",
-    "quoteFirst": "I would say it was around 5 o’clock in the afternoon when he asked me--this search warrant was filed at ",
-    "quoteTime": "3:55 p.m.",
-    "quoteLast": " on November 22, and I also have a copy which I will give you of the officers’ names who I personally know were involved in the investigation, officers whom I had contact with both at the Dallas Police Department and at the sheriff’s office; to clear this up also, about how I came into this thing--my first contact--I was attending the luncheon, when one of the sergeants of the Dallas Police Department came to my table and asked me to please come with him, and I was then informed of what had happened, and was asked to go immediately to Parkland Hospital, and upon arriving",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
-    "hash": "1dee02e5cfaa65b75bce302d48f47ecb55ac39bfe13ec91da2bc495a401fc16c"
-  },
-  {
-    "time": "15:55",
-    "quoteFirst": "\"If Jack or you had to die in a quarter of an hour's time, that is to say at ",
-    "quoteTime": "five minutes to four",
-    "quoteLast": " in horrible agony, which would you choose?\"",
-    "title": "Dodo Wonders--",
-    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
-    "gutenbergReference": "40719",
-    "hash": "1ea3ee532b63b4fd153224bd4d9b8cb97453392e5c9f924760c0c802bacfc0fd"
-  },
-  {
-    "time": "15:55",
-    "quoteFirst": "It was three o'clock when the carriage drove away from the entrance of the Dolphin Hotel: it wanted ",
-    "quoteTime": "five minutes to four",
-    "quoteLast": " when Mr. Dunbar and his companion entered the handsome hall of the George.",
-    "title": "Henry Dunbar: A Novel",
-    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
-    "gutenbergReference": "9189",
-    "hash": "3a5f37138f116f685025a1b871bf2a3d8c545a5cdc0fed3dbf0091ef0b4f8419"
-  },
-  {
-    "time": "15:55",
-    "quoteFirst": "Call me up at the Post Graduate at ",
-    "quoteTime": "five minutes to four",
-    "quoteLast": ".",
-    "title": "Comrade Yetta",
-    "author": "Edwards, Albert, 1879-1929",
-    "gutenbergReference": "38860",
-    "hash": "8feba1c27c55a71488654a553b72486a50fb08afcf71e3468956e44f1069c179"
-  },
-  {
-    "time": "15:55",
-    "quoteFirst": ", convulsions set in at ",
-    "quoteTime": "3.55 p. m.",
-    "quoteLast": "; tonic rigidity of the posterior extremities; profuse salivation; convulsions were both tonic and clonic in character, and resembled those seen in rabbits in caffein intoxication; a striking feature was the duration of the spasm, which began at 3.55 p.",
-    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
-    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
-    "gutenbergReference": "46356",
-    "hash": "1a80c3d1d479e9c94d18897d1e0d0c2e087ce01d56844aba7630adf8ded3ff66"
+    "quoteLast": " when Frank arrived, and the lady had not yet appeared.",
+    "title": "A Duet, with an Occasional Chorus",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "gutenbergReference": "5260",
+    "hash": "0799af2fc5f4b1e3b014b4a5704988e363ecd457e5d706c0c5de9e89c92f531c"
   },
   {
     "time": "15:55",
@@ -98,5 +188,15 @@
     "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
     "gutenbergReference": "60125",
     "hash": "768bc8fc9fbd25f8855a608b00d04a546a7b95ea018a984236a92e728499d401"
+  },
+  {
+    "time": "15:55",
+    "quoteFirst": "This final cessation of their efforts to hold Bois Voivrotte and withdrawal of their lines to the _southern_ edge of it was _one_ reason for the next entry on same page: “",
+    "quoteTime": "3:55 p. m.",
+    "quoteLast": " Orders received from Commanding General 92nd Division not to launch attack as planned for 5 p. m., but to consolidate positions gained, holding them at all costs against possible counter attacks.”",
+    "title": "My Colored Battalion",
+    "author": "Ross, Warner A., 1879-",
+    "gutenbergReference": "58507",
+    "hash": "8dd67b746c25f20ae32cec448e5ce3731d96829ffc462de0718e7efa9a173a18"
   }
 ]

@@ -1,102 +1,202 @@
 [
   {
     "time": "22:30",
-    "quoteFirst": "said I to myself, as Bedos entered with my things, and was ordered immediately to have all in preparation for \"the dressball at the rooms,\" at the hour of ",
+    "quoteFirst": "_--At ",
+    "quoteTime": "half-past ten",
+    "quoteLast": " yesterday, Troutbeck,      Duckworth, Bowden, and I, met the Professor and twenty-eight      fellow-geologists at the station.",
+    "title": "The Story of My Life, volumes 1-3",
+    "author": "Hare, Augustus J. C. (Augustus John Cuthbert), 1834-1903",
+    "gutenbergReference": "35589",
+    "hash": "1b04459e21932830a36bb92e78570249615b09d6c9c68e3190e817f850a265eb"
+  },
+  {
+    "time": "22:30",
+    "quoteFirst": "Brought out his globe, at ",
+    "quoteTime": "half-past ten",
+    "quoteLast": ",",
+    "title": "Christmas Carols and Midsummer Songs",
+    "author": "Various",
+    "gutenbergReference": "45294",
+    "hash": "2a367c90706fd6a3638d7d78eeed1d072fc6220a4992e4145a7f785b57d6dc35"
+  },
+  {
+    "time": "22:30",
+    "quoteFirst": "I left Venice next morning by the 5.55 train, and reached Palmanova at ",
     "quoteTime": "half-past ten",
     "quoteLast": ".",
-    "title": "Pelham — Volume 03",
-    "author": "Lytton, Edward Bulwer Lytton, Baron, 1803-1873",
-    "gutenbergReference": "7617",
-    "hash": "39f2ac43b0ee1a8a893b5ad1da270988faa4ee6e9957986eda14cb2e153e1e35"
+    "title": "With British Guns in Italy: A Tribute to Italian Achievement",
+    "author": "Dalton, Hugh Dalton, Baron, 1887-1962",
+    "gutenbergReference": "10107",
+    "hash": "8ea9a070802c9c1424b3c1c687f0ebf91fda6efe3a7f48d41d31f4e7d72761e5"
   },
   {
     "time": "22:30",
-    "quoteFirst": "True, it makes no difference in regard to what you are about to relate, whether you arrived at ",
-    "quoteTime": "half-past ten",
-    "quoteLast": " or at ten.",
-    "title": "The Moral Instruction of Children",
-    "author": "Adler, Felix, 1851-1933",
-    "gutenbergReference": "38730",
-    "hash": "ff0d96bd9c95b8773460cd490a26ca42776759ae69db0dc8511dcecad67f2eae"
-  },
-  {
-    "time": "22:30",
-    "quoteFirst": "“It’s ",
+    "quoteFirst": "She is driving out here at ",
     "quoteTime": "ten-thirty",
-    "quoteLast": ",” Mr. Stuart continued, “and, if this party is to be a strictly on time affair, you must be off! You couldn’t have a more wonderful day.”",
-    "title": "The Automobile Girls at Newport; Or, Watching the Summer Parade",
-    "author": "Crane, Laura Dent",
-    "gutenbergReference": "36273",
-    "hash": "3e62881cd1f00ed3b1f3bcafbd2a7bf8cc668e700df6a40fadac15e0b7dc2806"
+    "quoteLast": ".",
+    "title": "The Cabala",
+    "author": "Wilder, Thornton, 1897-1975",
+    "gutenbergReference": "68105",
+    "hash": "8bd1c84a6b4c726151a3cae67987d59762714dcb7f8c6e072bbdcecdf21109fd"
   },
   {
     "time": "22:30",
-    "quoteFirst": "“At ",
+    "quoteFirst": "We moved up to the front trenches at about ",
+    "quoteTime": "half-past ten",
+    "quoteLast": ".",
+    "title": "A Yankee in the Trenches",
+    "author": "Holmes, Robert Derby",
+    "gutenbergReference": "13279",
+    "hash": "66df597136f9f968ae96b8223fa44a7e4a6da3d0b9c40c89b819fd76dbc85bb8"
+  },
+  {
+    "time": "22:30",
+    "quoteFirst": "At about ",
+    "quoteTime": "half-past ten",
+    "quoteLast": " I began to long for the good-night pipe, but Laura looked so white that I felt it would be brutal of me to fill our sitting-room with the fumes of strong cavendish.",
+    "title": "Grim Tales",
+    "author": "Nesbit, E. (Edith), 1858-1924",
+    "gutenbergReference": "40321",
+    "hash": "0dc1c173a030f1e3d4424eee16a5cd13bb8bdd53a07dde659c05473b057eec4c"
+  },
+  {
+    "time": "22:30",
+    "quoteFirst": "The poor Austrians were not inspired with the fury of the Prussians, but nevertheless, showed a true courage; for, at ",
+    "quoteTime": "half-past ten",
+    "quoteLast": " they had won the ramparts, and although, from all the neighboring windows, we kept up a deadly fire, we could not force them back.",
+    "title": "The Conscript: A Story of the French war of 1813",
+    "author": "Erckmann-Chatrian",
+    "gutenbergReference": "31288",
+    "hash": "7b67dc5737f2e7b79f2ef23ec269fd23d8d76fb1caa414eaf0fb917f3c1f3ce4"
+  },
+  {
+    "time": "22:30",
+    "quoteFirst": "It was about ",
+    "quoteTime": "half-past ten",
+    "quoteLast": " when I arrived.",
+    "title": "The Cheyne mystery",
+    "author": "Crofts, Freeman Wills, 1879-1957",
+    "gutenbergReference": "72986",
+    "hash": "fa6beb3482197565f682033ac65b637a69c674ff16fa73d29dd0b48251781137"
+  },
+  {
+    "time": "22:30",
+    "quoteFirst": "It began shortly before nine and was over by ",
+    "quoteTime": "half-past ten",
+    "quoteLast": ".",
+    "title": "The Campaign of Waterloo: A Military History\r\nThird Edition",
+    "author": "Ropes, John Codman, 1836-1899",
+    "gutenbergReference": "56995",
+    "hash": "ee95ede9284791f5c759c39435f2abde5cfec69418d9f1ff58ffc7ece8cbc333"
+  },
+  {
+    "time": "22:30",
+    "quoteFirst": "Where in the early     morning every tree had viewed her image among the reflected     tints of sunrise, at ",
     "quoteTime": "ten-thirty",
-    "quoteLast": ".”",
-    "title": "The Bellamy trial",
-    "author": "Hart, Frances Noyes, 1890-1943",
-    "gutenbergReference": "75325",
-    "hash": "86a430bea8cc58facdf26b2a77bf0c73351166bd8bd48a534a98abbc092e1867"
+    "quoteLast": " white-caps flashed and     disappeared to flash in a different place among the     everchanging eddies.",
+    "title": "The Lake of the Sky\nLake Tahoe in the High Sierras of California and Nevada, its History, Indians, Discovery by Frémont, Legendary Lore, Various Namings, Physical Characteristics, Glacial Phenomena, Geology, Single Outlet, Automobile Routes, Historic Towns, Early Mining Excitements, Steamer Ride, Mineral Springs, Mountain and Lake Resorts, Trail and Camping Out Trips, Summer Residences, Fishing, Hunting, Flowers, Birds, Animals, Trees, and Chaparral, with a Full Account of the Tahoe National Forest, the Public Use of the Water of Lake Tahoe and Much Other Interesting Matter",
+    "author": "James, George Wharton, 1858-1923",
+    "gutenbergReference": "13170",
+    "hash": "e2c05be29bcd65bede47eaba0f902b873b61c5a31d1ccc4d03445da8e33c6f0f"
   },
   {
     "time": "22:30",
-    "quoteFirst": "The Superb anchored about ",
-    "quoteTime": "half-past ten",
-    "quoteLast": ", and I immediately went on board, and gave the Admiral an account of all that had occurred, adding, \"I trust I have done right, and that the Government will approve of my conduct, as I considered it of much importance to prevent Buonaparte's escape to America, and to get possession of his person.\"",
-    "title": "The Surrender of Napoleon\r\nBeing the narrative of the surrender of Buonaparte, and of his residence on board H.M.S. Bellerophon, with a detail of the principal events that occurred in that ship between the 24th of May and the 8th of August 1815",
-    "author": "Maitland, Frederick Lewis, Sir, 1777-1839; Dickson, William Kirk, 1860-1949 [Editor]",
-    "gutenbergReference": "28934",
-    "hash": "50153b68345b8e67a2f94f31a55f9e7776e5fab44d47657717c6825631936092"
+    "quoteFirst": "She took it into the bedroom, glanced at the clock and saw that it was nearly ",
+    "quoteTime": "ten-thirty",
+    "quoteLast": ".",
+    "title": "Picture frames",
+    "author": "Winslow, Thyra Samter, 1893-1961",
+    "gutenbergReference": "78464",
+    "hash": "9107afe7ab7d1ba8f0de9c2d43a1f116f454eb7d187f7e78efa1ad35b7e10e79"
   },
   {
     "time": "22:30",
-    "quoteFirst": "That was about ",
+    "quoteFirst": "When  I came to Engel’s, at about ",
     "quoteTime": "half-past ten",
-    "quoteLast": "; and we read them until nearly two in the morning.",
-    "title": "The Life of Charles Dickens, Vol. I-III, Complete",
-    "author": "Forster, John, 1812-1876",
-    "gutenbergReference": "25851",
-    "hash": "5e2a5d6740c7e3ebd7fb4c3e4d1a020ae87db69262019c3250b68926740b2aaa"
+    "quoteLast": ", there were in his house  Breitenfeld, the little Krueger, Kraemer, and a few others.",
+    "title": "Anarchy and Anarchists\r\nA History of the Red Terror and the Social Revolution in America and Europe; Communism, Socialism, and Nihilism in Doctrine and in Deed; The Chicago Haymarket Conspiracy and the Detection and Trial of the Conspirators",
+    "author": "Schaack, Michael J.",
+    "gutenbergReference": "52811",
+    "hash": "8052290642e30481d4fa255935b6b3dc973fd2f84b2c318a761feae864b5ce67"
+  },
+  {
+    "time": "22:30",
+    "quoteFirst": "Bert and Hugh and Nick and several others were seated on the steps of Trow at about ",
+    "quoteTime": "ten-thirty",
+    "quoteLast": ".",
+    "title": "Rivals for the Team: A Story of School Life and Football",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "67805",
+    "hash": "e8e288ffa61a82260f24eabeccfd178fcdf6626e583c11ac33bd6318715b5c52"
+  },
+  {
+    "time": "22:30",
+    "quoteFirst": "At ",
+    "quoteTime": "ten-thirty",
+    "quoteLast": " P. M., the lines were loosed and a new start made.",
+    "title": "A Negro Explorer at the North Pole",
+    "author": "Henson, Matthew Alexander, 1866-1955; Peary, Robert E. (Robert Edwin), 1856-1920 [Author of introduction, etc.]; Washington, Booker T., 1856-1915 [Author of introduction, etc.]",
+    "gutenbergReference": "20923",
+    "hash": "0c60f53ad2853ca4742678f53786e41d98c56d0a7dcf86173ecab5317b08d557"
+  },
+  {
+    "time": "22:30",
+    "quoteFirst": "It was the night of the Maxwell Court ball, and the carriage had been ordered for ",
+    "quoteTime": "half-past ten",
+    "quoteLast": ".",
+    "title": "Marcella",
+    "author": "Ward, Humphry, Mrs., 1851-1920",
+    "gutenbergReference": "13728",
+    "hash": "83202c2b5d7693886c0c47fce2dc44949fbfe908a1d995d1eea56e82cf36a454"
+  },
+  {
+    "time": "22:30",
+    "quoteFirst": "She said she'd come, if he came with her; and I arranged for ",
+    "quoteTime": "half-past ten",
+    "quoteLast": " to-night.\"",
+    "title": "Sonia Married",
+    "author": "McKenna, Stephen, 1888-1967",
+    "gutenbergReference": "46096",
+    "hash": "e81ea6359ce755a76adef22bd582bed7873cd40a7d93be98f97172e91b887533"
+  },
+  {
+    "time": "22:30",
+    "quoteFirst": "About ten o'clock Mr. Thompson, whose health, he said, could not stand late hours, would bid his guests good night, and by ",
+    "quoteTime": "half-past ten",
+    "quoteLast": " the front door of No. 5, East Terrace, Evelina Road, would be locked and bolted, and the house plunged in darkness.",
+    "title": "A Book of Remarkable Criminals",
+    "author": "Irving, H. B. (Henry Brodribb), 1870-1919",
+    "gutenbergReference": "446",
+    "hash": "dfc084bbd43602113efd52f0796068e90b777e7158399679999e1d7c3e3656b3"
+  },
+  {
+    "time": "22:30",
+    "quoteFirst": "\"",
+    "quoteTime": "Half-past ten",
+    "quoteLast": ",\" said Mrs. Prymmer, in a voice that boded no good to the loitering maid, \"and her hour is ten sharp. There she is,--the witch,\" as a ring at the bell resounded through the silent house.",
+    "title": "Deficient Saints: A Tale of Maine",
+    "author": "Saunders, Marshall, 1861-1947",
+    "gutenbergReference": "52783",
+    "hash": "7a55c316fd65270109fa5e3cde73bc298bb9650a4a450a1a1c7a2326c42fe785"
   },
   {
     "time": "22:30",
     "quoteFirst": "At ",
     "quoteTime": "half-past ten",
-    "quoteLast": " the Missionary suggested that it would be unseasonable to continue the meeting longer; he therefore opened a book of signatures to the total-abstinence pledge, and one hundred and sixty new names were received.",
-    "title": "Narratives of Colored Americans",
-    "author": "Mott, Abigail, 1766-1851 [Compiler]; Wood, M. S. (Mary Sutton), 1805-1894 [Compiler]",
-    "gutenbergReference": "64628",
-    "hash": "e8800e4c82bfb33adda5ac0de123f54aad236a0dafade9b31f1c6c71edb5d445"
+    "quoteLast": " went to Mrs.      Norton's.",
+    "title": "Records of a Girlhood",
+    "author": "Kemble, Fanny, 1809-1893",
+    "gutenbergReference": "16478",
+    "hash": "1f87fd9bd2fcd4a9479a6e4838cdd75f5caeeaebd9a2bc26bbae5f3c6efa7a2e"
   },
   {
     "time": "22:30",
-    "quoteFirst": "At ",
-    "quoteTime": "half-past ten",
-    "quoteLast": " he heard the recorder go out, and knew he was going to see if the chicken thieves and motor truck driver had been brought in by his men.",
-    "title": "Betty Gordon at Bramble Farm; Or, The Mystery of a Nobody",
-    "author": "Emerson, Alice B.",
-    "gutenbergReference": "43907",
-    "hash": "405f97946b934ae4fabefdb72cfe7aec3a6068c2d007d6120e4ccbac9b561a38"
-  },
-  {
-    "time": "22:30",
-    "quoteFirst": "Meantime Prince Frederick Charles had, by degrees, also arrived at the conclusion that the French would accept battle, and, at ",
-    "quoteTime": "half-past ten",
-    "quoteLast": ", he likewise instructed General von Manstein to move towards La Folie and begin an attack with his artillery, provided the enemy’s right was not beyond Amanvillers.",
-    "title": "The Campaign of Sedan: The Downfall of the Second Empire, August-September 1870",
-    "author": "Hooper, George, 1824-1890",
-    "gutenbergReference": "54823",
-    "hash": "37bf971f4516043553af73799756895035920486d50e3271645359e0e1664305"
-  },
-  {
-    "time": "22:30",
-    "quoteFirst": "Still, they made Hounslow by ",
-    "quoteTime": "half-past ten",
-    "quoteLast": "; edged warily over tram-lines; pulled up for a second to avoid disaster.",
-    "title": "Peter Jameson: A Modern Romance",
-    "author": "Frankau, Gilbert, 1884-1952",
-    "gutenbergReference": "59936",
-    "hash": "86ff68ea1d47b62863925324caeed10991d52d938933c5c5acfbeb64b224be9e"
+    "quoteFirst": "",
+    "quoteTime": "Ten-thirty",
+    "quoteLast": ", and me having to start the spring sport of ditch cleaning to-morrow morning at seven!",
+    "title": "Ma Pettengill",
+    "author": "Wilson, Harry Leon, 1867-1939",
+    "gutenbergReference": "14348",
+    "hash": "9829bb91f67eedf8452b74afdaaa34e022bb5d1f88ee3c2a41448b34206f0522"
   }
 ]

@@ -21,6 +21,16 @@
   },
   {
     "time": "16:07",
+    "quoteFirst": "The beginning of totality will be at ",
+    "quoteTime": "4:07 p. m.",
+    "quoteLast": ", and the ending at 5:40 p.",
+    "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55218",
+    "hash": "2049ca7083b47debbaa4d87ebef6b4811c9199c26a9c4fd9eea19967e74fa747"
+  },
+  {
+    "time": "16:07",
     "quoteFirst": "Sailing from Civita Vecchia at ",
     "quoteTime": "4.07 P. M.",
     "quoteLast": " Thursday, the _Bayern_ arrived at Messina at 5 P. M. Friday, flying the American Ensign at the fore, the Red Cross on the triatic stay between foremast and funnel, and the German merchant flag aft.",
@@ -32,12 +42,12 @@
   {
     "time": "16:07",
     "quoteFirst": "At ",
-    "quoteTime": "seven minutes after four",
-    "quoteLast": " in the afternoon the first shock was felt.",
+    "quoteTime": "seven minutes after four in the afternoon",
+    "quoteLast": " the first shock was felt.",
     "title": "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 1",
     "author": "Humboldt, Alexander von, 1769-1859; Bonpland, Aimé, 1773-1858; Ross, Thomasina [Translator]",
     "gutenbergReference": "6322",
-    "hash": "1d3025faee4397bf91c9952977e6598f9d93c57d6b75ca1d334a94b5e69df391"
+    "hash": "1d0ec2fc0b9182a265c2ada3acb492b51ff34e1cc3c3a606a49c27934acd4eaa"
   },
   {
     "time": "16:07",

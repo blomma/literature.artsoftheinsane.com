@@ -11,6 +11,16 @@
   },
   {
     "time": "15:47",
+    "quoteFirst": "‘",
+    "quoteTime": "Thirteen minutes to four",
+    "quoteLast": ". I must be punctual,’ he said.",
+    "title": "One of Our Conquerors — Complete",
+    "author": "Meredith, George, 1828-1909",
+    "gutenbergReference": "4476",
+    "hash": "683f3f89a9c1240d639bcc2243e9dda66eeb08cb7d89542bae30cfa0ad6dc7cb"
+  },
+  {
+    "time": "15:47",
     "quoteFirst": "One day, the 30th September, at ",
     "quoteTime": "3.47 p.m.",
     "quoteLast": ", a telegram, transmitted by cable from Valentia (Ireland) to Newfoundland and the American mainland, arrived at the address of President Barbicane.",
@@ -38,5 +48,45 @@
     "author": "Barzini, Luigi, 1874-1947; Longstreet, Hattie [Illustrator]; Woodruff, S. F. [Translator]",
     "gutenbergReference": "54678",
     "hash": "d35f535985a3400dc625729772e51fcc4cc88a21227365c643cfa10be30b687a"
+  },
+  {
+    "time": "15:47",
+    "quoteFirst": "'",
+    "quoteTime": "Thirteen minutes to four",
+    "quoteLast": ".",
+    "title": "Complete Project Gutenberg Works of George Meredith",
+    "author": "Meredith, George, 1828-1909",
+    "gutenbergReference": "4500",
+    "hash": "aa08437e9ed46f34894dbda23d3d8f691ae4c9dafeb0554ea06397b77ab4c914"
+  },
+  {
+    "time": "15:47",
+    "quoteFirst": "The enemy dived, and at ",
+    "quoteTime": "3.47 p.m.",
+    "quoteLast": " reappeared on the starboard beam 5 miles away.",
+    "title": "Q-Ships and Their Story",
+    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
+    "gutenbergReference": "54338",
+    "hash": "e89e2be5b4c0f39a24c34f56700d09766724bef3d95dc5df001c6994a3c73de4"
+  },
+  {
+    "time": "15:47",
+    "quoteFirst": "'",
+    "quoteTime": "Thirteen minutes to four",
+    "quoteLast": ".",
+    "title": "One of Our Conquerors — Volume 5",
+    "author": "Meredith, George, 1828-1909",
+    "gutenbergReference": "4475",
+    "hash": "e8dc156963be36ef5ed39cc5bcf5c2738b0a7f1b9e29e6a196e3cff65dac6d07"
+  },
+  {
+    "time": "15:47",
+    "quoteFirst": "The shadow of the Moon in effect took only eleven minutes (",
+    "quoteTime": "3.47 P.M.",
+    "quoteLast": " to 3.58 P.M.) to traverse the Iberian Peninsula from Porto to Alicante, _i.",
+    "title": "Astronomy for Amateurs",
+    "author": "Flammarion, Camille, 1842-1925; Welby, Frances A. (Frances Alice), 1862-1947 [Translator]",
+    "gutenbergReference": "25267",
+    "hash": "acf3b1b97ecd96f883571bc1b093bf2d9f1eab3f1ea73ed889150085407fcc05"
   }
 ]

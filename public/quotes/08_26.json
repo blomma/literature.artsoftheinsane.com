@@ -1,6 +1,16 @@
 [
   {
     "time": "08:26",
+    "quoteFirst": "It was marked ",
+    "quoteTime": "twenty-six minutes past eight",
+    "quoteLast": ".",
+    "title": "The Blue Lights: A Detective Story",
+    "author": "Kummer, Frederic Arnold, 1873-1943; Grefé, Will, 1875-1957 [Illustrator]",
+    "gutenbergReference": "38577",
+    "hash": "c9274a0860b39bc985c00cfcd96ceb54c88b7b77481a9892bf96be2896bc45b5"
+  },
+  {
+    "time": "08:26",
     "quoteFirst": "On June 20th, 1908, at ",
     "quoteTime": "8:26 a.m.",
     "quoteLast": " the craft ascended and remained aloft for 12 hours, during which time it made an encouraging circular tour.",

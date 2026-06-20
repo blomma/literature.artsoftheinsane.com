@@ -1,6 +1,16 @@
 [
   {
     "time": "14:22",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-two past two",
+    "quoteLast": " the Admiral made the Resolution signal to tack, and we discontinued engaging.",
+    "title": "Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II",
+    "author": "Ross, John, Sir, 1777-1856",
+    "gutenbergReference": "27151",
+    "hash": "5f3293328753edbd022b38c811df5f9fe9a32eda1d9424b1a3434d600a8fd105"
+  },
+  {
+    "time": "14:22",
     "quoteFirst": "'Well, I should reckon, colonel,' he said, addressing the stage-driver, 'it mout be about ",
     "quoteTime": "twenty-two minutes past two",
     "quoteLast": ".",

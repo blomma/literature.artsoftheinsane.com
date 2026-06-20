@@ -1,102 +1,202 @@
 [
   {
     "time": "05:15",
-    "quoteFirst": "The train which used to pass through Lovering at four o’clock now came at ",
-    "quoteTime": "quarter past five",
-    "quoteLast": ", and Annie heard the whistle and wondered if there would be a letter for her.",
-    "title": "Doctor Hathern's daughters",
-    "author": "Holmes, Mary Jane, 1825-1907",
-    "gutenbergReference": "70883",
-    "hash": "f670340f5aae2134d2670d128c5c832e0eae6e15ba3ab9ea592c9d87109472b3"
+    "quoteFirst": "The clock in the lobby showed dimly ",
+    "quoteTime": "a quarter past five",
+    "quoteLast": ".",
+    "title": "The Price of Love",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "12912",
+    "hash": "4c638e1ec46271b22c27fc3b9edfab40c70017542e0e5b1e82d8928e02816ada"
   },
   {
     "time": "05:15",
-    "quoteFirst": "“Miss Amelia was very favourably impressed with this person’s respectable and motherly appearance, and she left for Edinburgh by the ",
-    "quoteTime": "5.15 a.m.",
-    "quoteLast": " train on the morning of Thursday, 19th November, feeling confident that her father would be well looked after. She certainly had not heard from the old man while she was away, but she had not expected to hear unless, indeed, something had been wrong.",
-    "title": "The case of Miss Elliott",
-    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947; Brock, H. M. (Henry Matthew), 1875-1960 [Illustrator]",
-    "gutenbergReference": "75461",
-    "hash": "40950beb2283f9f84d11fd8018c8cee2e169bf828551cc7c691af51b651bd098"
+    "quoteFirst": "Lord Derby was not able to hear quite the commencement of the Speech, having been obliged to attend the House of Lords, which, however, was up at ",
+    "quoteTime": "a quarter past five",
+    "quoteLast": ", Mr Disraeli having then been speaking about half an hour.",
+    "title": "The letters of Queen Victoria, vol. 2, 1844-1853",
+    "author": "Victoria, Queen of Great Britain, 1819-1901; Benson, Arthur Christopher, 1862-1925 [Editor]; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
+    "gutenbergReference": "24780",
+    "hash": "ad8a81a3359c2ae5989e11993036bc78202a683fd00d2e32d26f2da418723d0c"
   },
   {
     "time": "05:15",
-    "quoteFirst": "He had been in waiting, he said, himself, ever since ",
-    "quoteTime": "a quarter after five",
-    "quoteLast": " o'clock in the morning, at which time he showed himself under the king's window, and walked before the house till six!",
-    "title": "The Diary and Letters of Madame D'Arblay — Volume 2",
-    "author": "Burney, Fanny, 1752-1840",
-    "gutenbergReference": "6042",
-    "hash": "7b7bc649d0fb12913a4ae88e6679d78d15be64e990ff111680bca2ae811b1896"
+    "quoteFirst": "O God, do not turn away your face from me, and you, Lord, who can read in my soul--Louise will wait till ",
+    "quoteTime": "a quarter past five",
+    "quoteLast": "; besides, the bodice fits--there is only the skirt to try on.",
+    "title": "Monsieur, Madame, and Bébé — Volume 01",
+    "author": "Droz, Gustave, 1832-1895",
+    "gutenbergReference": "3923",
+    "hash": "396c5d935989d8c3dc8537551097230236599f5198169f557c7631ebdfadba17"
   },
   {
     "time": "05:15",
-    "quoteFirst": "I’ll be back at ",
+    "quoteFirst": "“But the janitor saw you going down the stairs about ",
     "quoteTime": "a quarter past five",
     "quoteLast": ".”",
-    "title": "Bliss, and other stories",
-    "author": "Mansfield, Katherine, 1888-1923",
-    "gutenbergReference": "44385",
-    "hash": "c2fded272764ed533bde7e3f2ad33d3325cc40f6cc75a04c0aafb97de073e5ff"
+    "title": "Nick Carter weekly  No. 186, July 21, 1900: Nick Carter rescues a daughter; or, The junior partner's strange behavior.",
+    "author": "Carter, Nicholas (House name)",
+    "gutenbergReference": "69032",
+    "hash": "650e7bd19ac24cef46d36f1267640f80995b6f69033eda7a67f9ae7342ae2f85"
+  },
+  {
+    "time": "05:15",
+    "quoteFirst": "Matcham Church clock was chiming the third ",
+    "quoteTime": "quarter after five",
+    "quoteLast": " when he opened the gate and went into Discombe Wood; but when the Discombe dressing-bell rang at half-past seven--an old-fashioned bell in a cupola, which gave needless information to every cottager within half a mile of the Manor House--Geoffrey had not come in.",
+    "title": "Sons of fire, Vol. III.",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "75175",
+    "hash": "4042a80409468babcd723b90a99b4430b6d7e4c8e6f5cacdee51da7d9ed72866"
+  },
+  {
+    "time": "05:15",
+    "quoteFirst": "Before the revolution, the fashionable hour of dinner in Paris was three o'clock, or at latest four: public places then began early; the curtain at the grand French opera drew up at ",
+    "quoteTime": "a quarter past five",
+    "quoteLast": ".",
+    "title": "Paris as It Was and as It Is\r\nA Sketch Of The French Capital, Illustrative Of The Effects Of The Revolution",
+    "author": "Blagdon, Francis William, 1778-1819",
+    "gutenbergReference": "8998",
+    "hash": "a623273841afd440cd4c0989e4f08eae0c1e206cc95acb34e428340bf23945ef"
+  },
+  {
+    "time": "05:15",
+    "quoteFirst": "All resistance ceased at ",
+    "quoteTime": "a quarter past five",
+    "quoteLast": ".",
+    "title": "To Herat and Cabul: A Story of the First Afghan War",
+    "author": "Henty, G. A. (George Alfred), 1832-1902; Sheldon, Charles Mills, 1866-1928 [Illustrator]",
+    "gutenbergReference": "55779",
+    "hash": "fbbe090f946894ce8892f961f3b378c167aff8d423df03449589b731c365f390"
   },
   {
     "time": "05:15",
     "quoteFirst": "At ",
-    "quoteTime": "a quarter past five",
-    "quoteLast": " they are all alive,   At the palace, for coaches are fast rolling in, And to every guest his card had express'd   \"Half-past\" as the hour for \"a greasy chin.\"",
-    "title": "The Humorous Poetry of the English Language; from Chaucer to Saxe",
-    "author": "Parton, James, 1822-1891 [Editor]",
-    "gutenbergReference": "6652",
-    "hash": "11c361e0bbdea1e667ff9c0dfd25bdff1eaa7ca0b5971506237432180680f1ba"
+    "quoteTime": "5.15 a.m.",
+    "quoteLast": " a cavalry patrol was pushed along the destroyed railway line, but before it had advanced a quarter of a mile it came across the main body of the Dervishes, and retired to the railway station, from behind which a heavy fire was now directed on the enemy's position.",
+    "title": "The Egyptian campaigns, 1882 to 1885",
+    "author": "Royle, Charles, 1882-1936",
+    "gutenbergReference": "41744",
+    "hash": "e3ba29a8fb2e94a24c18f5bedf3bdeeacee311b61abe52f884991056da3279a8"
   },
   {
     "time": "05:15",
-    "quoteFirst": "“And before ",
+    "quoteFirst": "A misreading of the watch, so that I roused myself and Walter at 3.30 A. M. instead of ",
+    "quoteTime": "5.15 A. M.",
+    "quoteLast": ", and did not realise the mistake until the fire was made and it was not worth while returning to bed, gave us a fine start and we made good progress.",
+    "title": "Ten Thousand Miles with a Dog Sled\nA Narrative of Winter Travel in Interior Alaska",
+    "author": "Stuck, Hudson, 1863-1920",
+    "gutenbergReference": "22965",
+    "hash": "b536551e67fb81a8f7ae9af7426ae50e53fb16fd876eb71d81777381fc081522"
+  },
+  {
+    "time": "05:15",
+    "quoteFirst": "\"I only came in to tell Mrs. Matilda that I would meet her at the Cantrell tea at ",
+    "quoteTime": "five-fifteen",
+    "quoteLast": " and afterward we could make that visit together. The muffins were divine!\"",
+    "title": "Andrew the Glad",
+    "author": "Daviess, Maria Thompson, 1872-1924",
+    "gutenbergReference": "13679",
+    "hash": "8e59616b4657fbb9cbfbfd8975d31b54949f1db89ee463bc26a464120fd3c33f"
+  },
+  {
+    "time": "05:15",
+    "quoteFirst": "It was now ",
     "quoteTime": "a quarter past five",
-    "quoteLast": " o’clock?”",
+    "quoteLast": ".",
+    "title": "The Incomplete Amorist",
+    "author": "Nesbit, E. (Edith), 1858-1924",
+    "gutenbergReference": "9385",
+    "hash": "8753b15d029f153cc02fa89f5b3fcad9735d1bb6a6e94b1aba4f2b7ba91eeb3a"
+  },
+  {
+    "time": "05:15",
+    "quoteFirst": "oh, about two or three minutes later, say about ",
+    "quoteTime": "a quarter past five",
+    "quoteLast": ".”",
+    "title": "The Yellow Streak",
+    "author": "Williams, Valentine, 1883-1946",
+    "gutenbergReference": "9974",
+    "hash": "ecfd8781f93256db582450765f13630c73338f3454d05d4ab46c35553cdc2823"
+  },
+  {
+    "time": "05:15",
+    "quoteFirst": "At ",
+    "quoteTime": "5.15 a.m.",
+    "quoteLast": " we followed them, marching militairement, as my friend Sefer Pasha had strongly advised at Cairo.",
+    "title": "The Land of Midian (Revisited) — Volume 2",
+    "author": "Burton, Richard Francis, Sir, 1821-1890",
+    "gutenbergReference": "7113",
+    "hash": "d6e000a8a39e960d9f90632f39c913227d1b87b0d5c5ff409648e84fe85a617c"
+  },
+  {
+    "time": "05:15",
+    "quoteFirst": "Upon this day he was, nevertheless, somewhat late, some visit had detained him unexpectedly, and it was a ",
+    "quoteTime": "quarter-past five",
+    "quoteLast": " when he inserted his latch-key in Mrs. Rumney's door.",
+    "title": "The Stoneground Ghost Tales\r\nCompiled from the recollections of the Reverend Roland Batchel, Vicar of the parish.",
+    "author": "Swain, E. G. (Edmund Gill), 1861-1938",
+    "gutenbergReference": "44581",
+    "hash": "272e0e74d7778940acd157a5eea1e0de1bb749a098f236288d52721dc73993bc"
+  },
+  {
+    "time": "05:15",
+    "quoteFirst": "It was ",
+    "quoteTime": "a quarter past five",
+    "quoteLast": ".",
+    "title": "Clover",
+    "author": "Coolidge, Susan, 1835-1905",
+    "gutenbergReference": "15798",
+    "hash": "27c2a121a7cb4a3080b2af925da609d93da7e3ec089b90c4720a596e72d20229"
+  },
+  {
+    "time": "05:15",
+    "quoteFirst": "\"And before ",
+    "quoteTime": "a quarter past five",
+    "quoteLast": " o'clock?\"",
+    "title": "Conscience — Volume 2",
+    "author": "Malot, Hector, 1830-1907",
+    "gutenbergReference": "3987",
+    "hash": "77667ef5a20dd6712c03c488f23ca82eb1aaf8d0527087dbdcac86e9f5b599b8"
+  },
+  {
+    "time": "05:15",
+    "quoteFirst": "It was between a quarter past and half past five o’clock that Caffie was assassinated; at exactly ",
+    "quoteTime": "a quarter past five",
+    "quoteLast": ", a woman of respectable position, and whose intellectual as well as physical faculties render her worthy of being believed, saw in Caffies office a man, with whom it is materially impossible to confound Florentin Cormier, draw the curtains of the window, and thus prepare for the crime.",
     "title": "Conscience — Complete",
     "author": "Malot, Hector, 1830-1907",
     "gutenbergReference": "3990",
-    "hash": "f6bba1425ba64a21d190d976871f19da629d5649eec710449c5606446726de30"
+    "hash": "423a1c5f07623d2c39aaccab381d69a93991f4fd83f906cae273ce9e1b0287eb"
   },
   {
     "time": "05:15",
-    "quoteFirst": "At ",
-    "quoteTime": "5.15 A.M.",
-    "quoteLast": " two boats from the  _Californian_ were alongside and survivors came on board.",
-    "title": "The Corsair in the war zone",
-    "author": "Paine, Ralph Delahaye, 1871-1925",
-    "gutenbergReference": "72760",
-    "hash": "4626f042a59c13fcc855139672e3f47a540ca2d7a433d5e89da240ad875d6cae"
+    "quoteFirst": "There were the porters who saw him leave Euston by the 7:15 train for Liverpool, and arrive just too late for the 5:15; there was the cabman (2,138), who drove him to Euston just in time, he (witness) thought, to catch the ",
+    "quoteTime": "5:15 a. m.",
+    "quoteLast": " Under cross-examination, the cabman got a little confused; he was asked whether, if he really picked up the prisoner at Bow Railway Station at about 4:30, he ought not to have caught the first train at Euston.",
+    "title": "The Big Bow Mystery",
+    "author": "Zangwill, Israel, 1864-1926",
+    "gutenbergReference": "28164",
+    "hash": "916599c4216ab344487dfefb844e564e0e014819109633e98c40dfc3dcd176a0"
   },
   {
     "time": "05:15",
-    "quoteFirst": "Three o'clock, you write me, and it's now ",
+    "quoteFirst": "Only ",
     "quoteTime": "a quarter past five",
-    "quoteLast": ".",
-    "title": "Maurice Guest",
-    "author": "Richardson, Henry Handel, 1870-1946",
-    "gutenbergReference": "3727",
-    "hash": "d48aeb5a0b732d69da71a7191b4f42139960852928eb8be7162c113a06f4e4ec"
+    "quoteLast": ", m’m.",
+    "title": "The Greater Inclination",
+    "author": "Wharton, Edith, 1862-1937",
+    "gutenbergReference": "9190",
+    "hash": "2c07d0b2b074bee2151de08c40c05d6c339f31f11bd44a77ac0ca5bdd4819df6"
   },
   {
     "time": "05:15",
-    "quoteFirst": "It’s only ",
+    "quoteFirst": "I changed clothes and punched out around ",
     "quoteTime": "five-fifteen",
-    "quoteLast": " now.",
-    "title": "Marjorie Dean, College Junior",
-    "author": "Chase, Josephine, -1931",
-    "gutenbergReference": "37176",
-    "hash": "d7ff665bb6ffd5a60cd714b64843f739b626d597245f3ecddd81f29c3caecdba"
-  },
-  {
-    "time": "05:15",
-    "quoteFirst": "At a ",
-    "quoteTime": "quarter-past five",
-    "quoteLast": " he drew up in front of No. 49, Deansgate, Manchester.",
-    "title": "The Old Wives' Tale",
-    "author": "Bennett, Arnold, 1867-1931",
-    "gutenbergReference": "5247",
-    "hash": "72bda6c71900388d258e88dc72d52a4d47329ec3597e4281d6a8e9ac148267ec"
+    "quoteLast": ".",
+    "title": "Twelve Times Zero",
+    "author": "Browne, Howard, 1907-1999",
+    "gutenbergReference": "32564",
+    "hash": "181ea082910eafffe5587b8e24e2464ab1d910963dbeec0035d0fb1debf10b7c"
   }
 ]

@@ -1,6 +1,16 @@
 [
   {
     "time": "01:22",
+    "quoteFirst": "H.                              A 2 J—",
+    "quoteTime": "1:22 A. M.",
+    "quoteLast": "",
+    "title": "The Brass Check: A Study of American Journalism",
+    "author": "Sinclair, Upton, 1878-1968; Rolland, Romain, 1866-1944 [Author of introduction, etc.]",
+    "gutenbergReference": "64657",
+    "hash": "fe3819b8e90449b41b268211989bdae7ed3eb3df28c5856d2d0bdb2c382c03a4"
+  },
+  {
+    "time": "01:22",
     "quoteFirst": "However, his habits are quite regular; and we note that he takes the _rôle_ of evening star, setting on the 2d at ",
     "quoteTime": "1:22 a. m.",
     "quoteLast": "; on the 17th, at 12:23 a.",
@@ -21,12 +31,22 @@
   },
   {
     "time": "01:22",
-    "quoteFirst": "“At ",
-    "quoteTime": "twenty-two minutes past one",
-    "quoteLast": " this morning I awoke very suddenly. I’m a very light sleeper and the slightest sound is sufficient to wake me. What I had heard was a step passing my bedroom door. Of course I couldn’t be sure which direction the steps had taken. But I slipped out of bed and opened my door. I stood listening for some time and then I heard the steps coming back. Whoever it was, was coming upstairs again. Naturally I had to bolt back into my bedroom, but I held the door handle so that I could open it quickly and noiselessly immediately the prowler had passed. I just",
+    "quoteFirst": "“",
+    "quoteTime": "Twenty-two minutes past one",
+    "quoteLast": ",” he muttered.",
     "title": "The case of the Black Twenty-Two",
     "author": "Flynn, Brian, 1885-1958",
     "gutenbergReference": "75209",
-    "hash": "fb67e2624c56e0ab5e7f432dfaab2654b1c172bb938c41966a330d675a2ffa6b"
+    "hash": "eecefe972c6fe1a31fc125349f9babee6e6ba7d376b9eb060e18b441026edb8d"
+  },
+  {
+    "time": "01:22",
+    "quoteFirst": "“At ",
+    "quoteTime": "twenty-two minutes past one",
+    "quoteLast": " this morning I awoke very suddenly. I’m a very light sleeper and the slightest sound is sufficient to wake me. What I had heard was a step passing my bedroom door. Of course I couldn’t be sure which direction the steps had taken. But I slipped out of bed and opened my door. I stood listening for some time and then I heard the steps coming back. Whoever it was, was coming upstairs again. Naturally I had to bolt back into my bedroom, but I held the door handle so that I could open it quickly and noiselessly immediately the prowler had passed. I just had time to see the gentleman disappear into the room next to yours. You may guess that I went back to bed and did a little bit of quiet thinking.”",
+    "title": "The case of the Black Twenty-Two",
+    "author": "Flynn, Brian, 1885-1958",
+    "gutenbergReference": "75209",
+    "hash": "06b66d20a930a998f12652ac2ef9749270b0fd5d283c805a6c9f89d9ea80bd2c"
   }
 ]

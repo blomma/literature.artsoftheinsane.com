@@ -1,43 +1,133 @@
 [
   {
     "time": "11:20",
-    "quoteFirst": "It is just ",
-    "quoteTime": "twenty minutes past eleven",
-    "quoteLast": ".",
-    "title": "Champions of the fleet",
-    "author": "Fraser, Edward, 1859?-",
-    "gutenbergReference": "65978",
-    "hash": "d5a88c248dde1d06866979bf4da37244e7c727c8bee885d5e04c56225ec76e43"
-  },
-  {
-    "time": "11:20",
-    "quoteFirst": "It meant, of course, that our barrage, which advanced again at ",
+    "quoteFirst": "At ",
     "quoteTime": "11.20 a.m.",
-    "quoteLast": " (five-and-a-half hours after Zero) was slightly ahead of us, but that was now too late to be altered and we had to make the best of it.",
-    "title": "The Sherwood Foresters in the Great War 1914 - 1919\nHistory of the 1/8th Battalion",
-    "author": "Weetman, W. C. C.",
-    "gutenbergReference": "20527",
-    "hash": "667e98c4f0264bf48e37380a19077ae9ad01249e6b1e80f566fc1c49c14ad539"
+    "quoteLast": " this steamer picked them up: she happened to be another disguised sloop, the Q-ship _Aubrietia_, commanded by Admiral Marx, a gallant admiral who had come back to sea from his retirement, and as Captain, R.N.R., was now taking a hand in the great adventure.",
+    "title": "Q-Ships and Their Story",
+    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
+    "gutenbergReference": "54338",
+    "hash": "faa53c175444f91164ba3ef4b74da41ee17d96dc6ff805a2bcd17af329f27304"
   },
   {
     "time": "11:20",
-    "quoteFirst": "Then she went—it might be at ",
+    "quoteFirst": "We shall catch the ",
+    "quoteTime": "eleven-twenty",
+    "quoteLast": " at Waterloo.",
+    "title": "Love Among the Chickens\nA Story of the Haps and Mishaps on an English Chicken Farm",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975; Both, Armand, 1881-1922 [Illustrator]",
+    "gutenbergReference": "20532",
+    "hash": "f31343b8295e395e60fb39981b50afdbe5c925cbe2e1650ebdd032addfe99786"
+  },
+  {
+    "time": "11:20",
+    "quoteFirst": "And presently the girls were exclaiming that it was ",
     "quoteTime": "twenty minutes past eleven",
-    "quoteLast": ", and it might be at twenty minutes past twelve; we ain’t got no watches here to know the time by, nor yet clocks.",
-    "title": "Bleak House",
-    "author": "Dickens, Charles, 1812-1870",
-    "gutenbergReference": "1023",
-    "hash": "884edd3a6dd25d04371a1680b759d8323c213e80f67e1bddd3f61521eaf88dae"
+    "quoteLast": " and they really _must_ go, but it was Mrs. Wetherby's fault for always giving them such a perfectly wonderful time that they forgot to watch the clock, and Mrs. Wetherby was beaming back at them and insisting that she had enjoyed it all just as much as they had, and that she hoped she could always keep young at heart.",
+    "title": "Jane Journeys On",
+    "author": "Mitchell, Ruth Comfort, 1882-1954",
+    "gutenbergReference": "20230",
+    "hash": "b7039466a0c0c2d6b5fa39649cb4ca069c0ae4e0f87960d0fc2b3940d4977d43"
   },
   {
     "time": "11:20",
-    "quoteFirst": "That gets me to East Mendon at ",
+    "quoteFirst": "We began our day’s hunting at three A.M. and wound up and started home at ",
+    "quoteTime": "eleven-twenty",
+    "quoteLast": " P.M. We have to go, without waiting for another whale, for we fear the station hands may be standing idle and we have ninety miles to cover at not much more than six miles an hour, for the dead whale alongside stops our speed.",
+    "title": "Modern Whaling & Bear-Hunting\r\nA record of present-day whaling with up-to-date appliances in many parts of the world, and of bear and seal hunting in the Arctic regions",
+    "author": "Burn Murdoch, W. G. (William Gordon), 1862-1939",
+    "gutenbergReference": "67446",
+    "hash": "2680885e642475991b14fd6f11fb82d9195b5b6405a622f4a1d5a9c31b056b42"
+  },
+  {
+    "time": "11:20",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes past eleven",
+    "quoteLast": " a blast of wind carried an airy bit of ignited fern several yards forward, in a direction parallel to the houses and inn, and there deposited it on the ground.",
+    "title": "Desperate Remedies",
+    "author": "Hardy, Thomas, 1840-1928",
+    "gutenbergReference": "3044",
+    "hash": "d303b2af8d96555779af0d031d017242dc13e55dc0d93a1401569be30aefc644"
+  },
+  {
+    "time": "11:20",
+    "quoteFirst": "And again I seized his meaning, that it was ",
+    "quoteTime": "twenty past eleven",
+    "quoteLast": ", and we must be there by twelve.",
+    "title": "Raffles: Further Adventures of the Amateur Cracksman",
+    "author": "Hornung, E. W. (Ernest William), 1866-1921",
+    "gutenbergReference": "707",
+    "hash": "377c8a1d67af5e942365ff99ccdb9312fff3de1a2b4f8a71ee5fe1ed5cbd0648"
+  },
+  {
+    "time": "11:20",
+    "quoteFirst": "32 revolver, at ",
+    "quoteTime": "11.20 A. M.",
+    "quoteLast": ",   twenty days after Chester has been killed and within five minutes of   the time Ada phones him from the District Attorney’s office.",
+    "title": "The Greene murder case",
+    "author": "Van Dine, S. S., 1888-1939; Balcolm, Lowell Leroy, 1887-1938 [Illustrator]",
+    "gutenbergReference": "72719",
+    "hash": "3942809f420a91aa0789063772d720515161c2645cbd9d36c078b3c098824b30"
+  },
+  {
+    "time": "11:20",
+    "quoteFirst": "\"It is ",
+    "quoteTime": "twenty minutes past eleven",
+    "quoteLast": ", M'sieur le Prince,\" replied the servant.",
+    "title": "Those Who Smiled, and Eleven Other Stories",
+    "author": "Gibbon, Perceval, 1879-1926",
+    "gutenbergReference": "23993",
+    "hash": "300a6eea7d2b31c734d5c074334b8469c0bae6a9bd46ba13ffc198562da9e331"
+  },
+  {
+    "time": "11:20",
+    "quoteFirst": "\"It's now ",
+    "quoteTime": "twenty past eleven",
+    "quoteLast": ", and I am in the habit of being in bed at half past. Fantômas is bound to know it: when he comes or sends, he must not notice anything out of the way. Get into your wicker case and shut the lid down carefully. By the by, I shall leave the window slightly open.\"",
+    "title": "The Exploits of Juve\nBeing the Second of the Series of the \"Fantômas\" Detective Tales",
+    "author": "Souvestre, Pierre, 1874-1914; Allain, Marcel, 1885-1969",
+    "gutenbergReference": "30586",
+    "hash": "b9c8d4de9e9688caeb67aac8352d885ebda221a21710679852d7ecf52bf4581a"
+  },
+  {
+    "time": "11:20",
+    "quoteFirst": "We shall catch the ",
+    "quoteTime": "eleven-twenty",
+    "quoteLast": " at Waterloo.",
+    "title": "Love Among the Chickens",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "3829",
+    "hash": "840b716f59fee3a4b1c025e2b6018758d7a60a16dca04632b4d2983aaf4ea34e"
+  },
+  {
+    "time": "11:20",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes past eleven",
+    "quoteLast": " the carriage of the Duc de Berry drove up to the entrance door.",
+    "title": "Famous Assassinations of History from Philip of Macedon, 336 B. C., to Alexander of Servia, A. D. 1903",
+    "author": "Johnson, Francis, 1837-1908",
+    "gutenbergReference": "53273",
+    "hash": "f31d493a6172999852ff2078aeabe015f46e518a2681e8f2e457e287fdc480c2"
+  },
+  {
+    "time": "11:20",
+    "quoteFirst": "Only ",
     "quoteTime": "eleven-twenty",
     "quoteLast": ".",
-    "title": "Catcher Craig",
-    "author": "Mathewson, Christy, 1880-1925; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
-    "gutenbergReference": "56337",
-    "hash": "15e8ae85524f69b9c7794dc9e07b61c003f0a8f724614f4bd1ba351cf5a52077"
+    "title": "Mamba's daughters",
+    "author": "Heyward, DuBose, 1885-1940",
+    "gutenbergReference": "76211",
+    "hash": "a41ba169aa21c35b15ab83574112c379f4d67ecb98423551e1621c3582973f9b"
+  },
+  {
+    "time": "11:20",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty minutes past eleven",
+    "quoteLast": ".",
+    "title": "Bessy Rane: A Novel",
+    "author": "Wood, Henry, Mrs., 1814-1887",
+    "gutenbergReference": "58288",
+    "hash": "25d21dec8fd18f8cdd16cdccbd93b699d063ad5576ee5ab12f7b43d0c441baad"
   },
   {
     "time": "11:20",
@@ -51,52 +141,62 @@
   },
   {
     "time": "11:20",
-    "quoteFirst": "At ",
-    "quoteTime": "11.20 A.M.",
-    "quoteLast": " firing ceased at the  shore battery.",
-    "title": "The Corsair in the war zone",
-    "author": "Paine, Ralph Delahaye, 1871-1925",
-    "gutenbergReference": "72760",
-    "hash": "4c98bae1e065f09a776d3b1b2033ada18ffff2a5bb45c24bdab49484c33ef7ce"
-  },
-  {
-    "time": "11:20",
-    "quoteFirst": "Transferred to the county at ",
-    "quoteTime": "11:20 a.m.",
-    "quoteLast": ", on the 24th of November.",
-    "title": "Warren Commission (12 of 26): Hearings Vol. XII (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44012",
-    "hash": "249f832b4c44b62492b11545204e8bfe044952b1c7349159dbb8a724069f829a"
-  },
-  {
-    "time": "11:20",
-    "quoteFirst": "Sam thanked the Chief gratefully and hurried off to send a reply, and four days later Sam and Steve walked over to Indian Lake and met the visitors on the arrival of the ",
-    "quoteTime": "eleven-twenty",
-    "quoteLast": " train, which to-day rambled in at a quarter to twelve.",
-    "title": "Catcher Craig",
-    "author": "Mathewson, Christy, 1880-1925; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
-    "gutenbergReference": "56337",
-    "hash": "ec394a615bf039c6a18a42289eba1ac80a0c5b15a12f3a7fc5b76fd95cb14036"
-  },
-  {
-    "time": "11:20",
-    "quoteFirst": "It was ",
-    "quoteTime": "twenty minutes past eleven",
-    "quoteLast": " when they drew up at the Green Dragon in Hereford, and the Squire and the Vicar got out, stiff after thirty miles of sitting cramped in their seats.",
-    "title": "The Sheep-Stealers",
-    "author": "Jacob, Violet, 1863-1946",
-    "gutenbergReference": "57427",
-    "hash": "45666d87187b81541a0615629ab9b4b85151393cb8f0c42ff7d2b7ac1e51ed76"
-  },
-  {
-    "time": "11:20",
-    "quoteFirst": "It was ",
+    "quoteFirst": "He died that night at ",
     "quoteTime": "twenty minutes past eleven",
     "quoteLast": ".",
-    "title": "Bessy Rane: A Novel",
-    "author": "Wood, Henry, Mrs., 1814-1887",
-    "gutenbergReference": "58288",
-    "hash": "25d21dec8fd18f8cdd16cdccbd93b699d063ad5576ee5ab12f7b43d0c441baad"
+    "title": "A Journalist's Note-Book",
+    "author": "Moore, Frank Frankfort, 1855-1931",
+    "gutenbergReference": "51952",
+    "hash": "511db8c23a36a88709be97dc52b06cde501394ad79169f4e32e66ebff70cf2c3"
+  },
+  {
+    "time": "11:20",
+    "quoteFirst": "On the morning of 7th March the Danish Royal Family first saw the white cliffs of Old England, and at ",
+    "quoteTime": "twenty minutes past eleven",
+    "quoteLast": ", the Royal yacht, which had steamed slowly up the river amid craft splendidly decorated with flags and flowers, anchored opposite the pier at Gravesend.",
+    "title": "His Most Gracious Majesty King Edward VII",
+    "author": "Lowndes, Marie Belloc, 1868-1947",
+    "gutenbergReference": "52237",
+    "hash": "253be623ddcb87a8dda9e3ab0786098148cd05fbb71f5070292b8f96bed99a68"
+  },
+  {
+    "time": "11:20",
+    "quoteFirst": "First, the foremost funnel of her went, secondly the foremast, and she was badly on fire aft, then the second funnel went, and lastly the third funnel, and I saw she was making for the beach on North Keeling Island, where she grounded at ",
+    "quoteTime": "11.20 a.m.",
+    "quoteLast": " I gave her two more broadsides and left her, to pursue a merchant ship which had come up during the action.",
+    "title": "A Source Book of Australian History",
+    "author": "Swinburne, Gwendolen H. [Compiler]",
+    "gutenbergReference": "15337",
+    "hash": "64644d6f7cbc84f886f6bd3b8fe5c8a4f1739216cecc2566d64b64d3ccc72a5c"
+  },
+  {
+    "time": "11:20",
+    "quoteFirst": "28th, one Crow in vicinity, ",
+    "quoteTime": "11.20 a.m.",
+    "quoteLast": ", gentle S. breeze, slight fog.",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1881. Third Report",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Cordeaux, John, 1831-1899; Kermode, P. M. C. (Philip Moore Callow), 1855?-1932; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "65471",
+    "hash": "58f7a47ab973b8e08465a47ed0987e2e0a6e45f3d11cee3929369a41f43e1abd"
+  },
+  {
+    "time": "11:20",
+    "quoteFirst": "It appeared afterwards that on the same evening, at ",
+    "quoteTime": "twenty past eleven",
+    "quoteLast": ", he made another very eccentric and unexpected visit.",
+    "title": "Crime and Punishment",
+    "author": "Dostoyevsky, Fyodor, 1821-1881; Garnett, Constance, 1861-1946 [Translator]",
+    "gutenbergReference": "2554",
+    "hash": "87a46bcd981f340593146ce0fe1dafac743990c9fa0d6d1f66aea7484be4018e"
+  },
+  {
+    "time": "11:20",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes after eleven",
+    "quoteLast": " Wilbur started on the second flight.",
+    "title": "The Early History of the Airplane",
+    "author": "Wright, Orville, 1871-1948; Wright, Wilbur, 1867-1912",
+    "gutenbergReference": "25420",
+    "hash": "d0ed6dd0779f737efde09ec621eebbd530b496b8b355d2242bc285e7dfd5e085"
   }
 ]

@@ -1,102 +1,202 @@
 [
   {
     "time": "14:03",
-    "quoteFirst": "",
-    "quoteTime": "About two o’clock in the afternoon",
-    "quoteLast": " another halt was called for rest and refreshment.",
-    "title": "The castaways of the flag",
-    "author": "Verne, Jules, 1828-1905; Murphy, H. C. (Henry Cruse), 1886-1931 [Illustrator]; Wyss, Johann David, 1743-1818 [Other]; Metcalfe, Cranstoun, 1866-1939 [Translator]",
-    "gutenbergReference": "61600",
-    "hash": "760c62adde646457e8d407c48e78b2bcdf185fd9604ace6ba9352e356d7ae67e"
-  },
-  {
-    "time": "14:03",
-    "quoteFirst": "At length, ",
-    "quoteTime": "about two in the afternoon",
-    "quoteLast": ", we arrived at our intended station.",
-    "title": "The Three Voyages of Captain Cook Round the World. Vol. V. Being the First of the Third Voyage",
-    "author": "Cook, James, 1728-1779",
-    "gutenbergReference": "62095",
-    "hash": "fc6783476e98090111c35aab7792fbc849f3c5515d56ddab72d3810a09490819"
-  },
-  {
-    "time": "14:03",
-    "quoteFirst": "_ ",
-    "quoteTime": "About two P.M.",
-    "quoteLast": " the sky was suddenly darkened with angry looking clouds, and I watched them with interest as they grew more threatening and the thunder spoke in louder tones.",
-    "title": "To and Through Nebraska",
-    "author": "Fulton, Frances I. Sims",
-    "gutenbergReference": "44688",
-    "hash": "fc92030e49b615ffd479afaa5f1406e93ba4ff52d822fe17f37fe6be3724e672"
-  },
-  {
-    "time": "14:03",
-    "quoteFirst": "",
-    "quoteTime": "About 2 P.M.",
-    "quoteLast": ", therefore, the Admiral signalled the squadron to spread on a line bearing N.E. by E. from the _Good Hope_, which steered N.W. by N. at 10 knots.",
-    "title": "The Battle of the Falkland Islands, Before and After",
-    "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
-    "gutenbergReference": "50265",
-    "hash": "6c461aa2709754f38b681836ea478993b7db4e56410979d3b7ce04f24a48ef84"
-  },
-  {
-    "time": "14:03",
-    "quoteFirst": "WHO sayeth and confesseth, that he, this examinant, on Monday was seventh night, ",
-    "quoteTime": "about two of the clock in the afternoon",
-    "quoteLast": ", this examinant was walking in a Close, betwixt Cawood and Wistow; and he farther sayeth, that he threw his said wife into the pond, where she was drowned, and the day following, towards the evening, got a hay-spade at a hay-stake in the said Close, and made a grave beside the said pond, and buried her.",
-    "title": "Miscellanies Upon Various Subjects",
-    "author": "Aubrey, John, 1626-1697",
-    "gutenbergReference": "4254",
-    "hash": "081809ce1102a762e84089a0af168c82446e8bd65c8f380a3c5905d2ba5f7b23"
-  },
-  {
-    "time": "14:03",
-    "quoteFirst": "",
-    "quoteTime": "About two o’clock in the afternoon",
-    "quoteLast": " came a letter inviting the Englishmen, Mr. Pyne, myself, and one of the two Engineers, to meet His Highness there.",
-    "title": "At the Court of the Amîr: A Narrative",
-    "author": "Gray, John Alfred",
-    "gutenbergReference": "44395",
-    "hash": "16e671ff5bfa77af34d8c53f6e5ad14dc6342a3601a72f11d6e523a43fc88048"
-  },
-  {
-    "time": "14:03",
-    "quoteFirst": "On his entrance, which was ",
-    "quoteTime": "about two o'clock in the afternoon",
-    "quoteLast": ", the bells of all the churches were rung, and the mitred abbots, and all others of the clergy, went out in procession to meet him dressed in their sacred robes, bearing many relics, who, with chaunting, conducted the king to the cathedral of our Lady.",
-    "title": "The chronicles of Enguerrand de Monstrelet, Vol. 05 [of 13]",
-    "author": "Monstrelet, Enguerrand de, 1390?-1453; Johnes, Thomas, 1748-1816 [Translator]",
-    "gutenbergReference": "73983",
-    "hash": "a0afebb2ed22ab79ca3de5f6f331d99a0ca131a5e4aa2eb2aa93a8714e74e313"
-  },
-  {
-    "time": "14:03",
-    "quoteFirst": "Meade himself reached Jetersville ",
-    "quoteTime": "about two o'clock in the afternoon",
-    "quoteLast": ", but in advance of all his troops.",
-    "title": "Project Gutenberg Edition of The Memoirs of Four Civil War Generals",
-    "author": "Grant, Ulysses S. (Ulysses Simpson), 1822-1885; Logan, John Alexander, 1826-1886; Sheridan, Philip Henry, 1831-1888; Sherman, William T. (William Tecumseh), 1820-1891; Widger, David, 1932-2021? [Compiler]",
-    "gutenbergReference": "57383",
-    "hash": "82105bf58ca9b4fd612db9655e9a1db6b21e2202f69f2d0bf2435f9e5dfdf342"
-  },
-  {
-    "time": "14:03",
-    "quoteFirst": "At ",
+    "quoteFirst": "Pararani, a small stopping-place, was reached ",
     "quoteTime": "about 2 p.m.",
-    "quoteLast": " the platoon of A Company holding Distillery Post next the Oise Canal was driven in and Lieut.",
-    "title": "The War History of the 4th Battalion, the London Regiment (Royal Fusiliers), 1914-1919",
-    "author": "Grimwade, F. Clive",
-    "gutenbergReference": "50098",
-    "hash": "dc1f16f044d08cc38a7f76768bdcd970f48df89ac2af47e9ff0361796789677c"
+    "quoteLast": ", and as both we and the animals had just about had enough of it, we decided to remain for the night.",
+    "title": "Argentina from a British Point of View, and Notes on Argentine Life",
+    "author": "Ogilvie, Campbell Patrick [Compiler]",
+    "gutenbergReference": "14366",
+    "hash": "4801c324c7053950e51e484aa921924000ce1172b34f68e1827bb56efa5b7d26"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "On this particular day he had gone to announce the fact that a small detachment of German infantry had halted at his house the day before, ",
+    "quoteTime": "about two o'clock in the afternoon",
+    "quoteLast": ", and had left again almost immediately.",
+    "title": "Original Short Stories — Volume 01",
+    "author": "Maupassant, Guy de, 1850-1893; Henderson, A. E. [Translator]; McMaster, Albert Cohn [Translator]; Quesada, Louise Charlotte Garstin, 1864?- [Translator]",
+    "gutenbergReference": "3077",
+    "hash": "0968124c7bef0fbf47787127783622d6f8220edae263a9951a55e8c4449a4631"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "He stayed at anchor, waiting for his ships, till ",
+    "quoteTime": "about two P.M.",
+    "quoteLast": " His cavalry did not get across till four days afterwards.",
+    "title": "The Commentaries of Cæsar",
+    "author": "Trollope, Anthony, 1815-1882",
+    "gutenbergReference": "55926",
+    "hash": "fda0e254789b5417069abcf0950e956bb9714824391dcc2c73ac6c0523138367"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "It began blowing a gale ",
+    "quoteTime": "about 2 o’clock in the afternoon",
+    "quoteLast": ", but the wind did not reach an alarming height until about 4 o’clock.",
+    "title": "The Great Galveston Disaster\nContaining a Full and Thrilling Account of the Most Appalling Calamity of Modern Times Including Vivid Descriptions of the Hurricane and Terrible Rush of Waters; Immense Destruction of Dwellings, Business Houses, Churches, and Loss of Thousands of Human Lives; Thrilling Tales of Heroic Deeds; Panic-Stricken Multitudes and Heart-Rending Scenes of Agony; Frantic Efforts to Escape a Horrible Fate; Separation of Loved Ones, etc., etc.; Narrow Escapes from the Jaws of Death; Terrible Sufferings of the Survivors; Vandals Plundering Bodies of the Dead; Wonderful Exhibitions of Popular Sympathy; Millions of Dollars Sent for the Relief of the Stricken Sufferers",
+    "author": "Lester, Paul; Spillane, Richard [Author of introduction, etc.]",
+    "gutenbergReference": "60105",
+    "hash": "2b722edbdeba517a71a061bb3f7da4ddf3b9fcbb3bcbf16db0b1af557ca4fadf"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "His brigade was about to attack the Russian artillery, and ",
+    "quoteTime": "about 2 P.M.",
+    "quoteLast": " had hardly advanced twenty paces before the cry of “Halt!”",
+    "title": "Our Cavalry",
+    "author": "Rimington, Michael Frederic, 1858-1928",
+    "gutenbergReference": "53349",
+    "hash": "49f7f4c816f29459a770d7bae3bd5838bfbbf3b13d44cabfa941173829b479dd"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "The first division to reach the river arrived at ",
+    "quoteTime": "about 2 p.m.",
+    "quoteLast": ", the next at about 6 p.m., then pushed on towards Château-Thierry, where the 10th Colonials (General Marchand) were just organising the defence of the town.",
+    "title": "The Americans in the Great War; v 1. The Second Battle of the Marne\r\n(Château-Thierry, Soissons, Fismes)",
+    "author": "Pneu Michelin (Firm) [Publisher]",
+    "gutenbergReference": "50395",
+    "hash": "1d593ddb9d321d2d71995a341a1cdb276de70c00f92fdb007acc307628b0b929"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "He finds that its northern extremity begins to move westward at about seven or eight o’clock in the morning, and continues to deviate in that direction until ",
+    "quoteTime": "about two o’clock in the afternoon",
+    "quoteLast": ", when it becomes stationary; it soon begins to return to the eastward and becomes again stationary during the night.",
+    "title": "Bibliographical history of electricity & magnetism, chronologically arranged",
+    "author": "Mottelay, Paul Fleury, 1841-1922 [Compiler]; Glazebrook, Richard, 1854-1935 [Author of introduction, etc.]; Thompson, Silvanus P. (Silvanus Phillips), 1851-1916 [Author of introduction, etc.]",
+    "gutenbergReference": "74764",
+    "hash": "6eca836a56fa829c66580ea6db37de61a7ef2235e6fe90ad266969a3df4bc903"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "If any persons desire to come and hear it they may repair to the Fleece Tavern near St James’ ",
+    "quoteTime": "about two of the clock in the afternoon",
+    "quoteLast": " every day in the week except Sundays.",
+    "title": "Chats on Violoncellos",
+    "author": "Racster, Olga",
+    "gutenbergReference": "57130",
+    "hash": "b7b6effdde345857042d2740a5ead63879a76d120d7dbef9269c15c6dfc17288"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "Colonel Loomis had made good progress to the right, and ",
+    "quoteTime": "about 2 p.m.",
+    "quoteLast": ", General John E. Smith, judging the battle to be most severe on the hill, and being required to support General Ewing, ordered up Colonel Raum's and General Matthias's brigades across the field to the summit that was being fought for.",
+    "title": "Memoirs of the Union's Three Great Civil War Generals",
+    "author": "Grant, Ulysses S. (Ulysses Simpson), 1822-1885; Sheridan, Philip Henry, 1831-1888; Sherman, William T. (William Tecumseh), 1820-1891; Widger, David, 1932-2021? [Editor]",
+    "gutenbergReference": "4546",
+    "hash": "bc29489d69e9651e8650ea7a6cc0b774c09f7c44b1020cbb92c5928cd2b10012"
   },
   {
     "time": "14:03",
     "quoteFirst": "",
-    "quoteTime": "About two o'clock in the afternoon",
-    "quoteLast": " the clouds rolled away like a scroll; in a very short time they had disappeared, and the Cascade Range lay before us in all its greatness.",
-    "title": "Mount Rainier, a Record of Exploration",
-    "author": "Meany, Edmond S. (Edmond Stephen), 1862-1935 [Editor]",
-    "gutenbergReference": "42314",
-    "hash": "bf4553b78405bbccbfaf0d3236f0dee90ca6c317fe3c409dcb7a2363bd9d5339"
+    "quoteTime": "About two o'clock p. m.",
+    "quoteLast": " our brigade was relieved from the line where we had fought in the morning, and held in reserve, ready to be taken to any point on the line where our services might be most needed.",
+    "title": "The Campaigns of the 124th Regiment, Ohio Volunteer Infantry, with Roster and Roll of Honor",
+    "author": "Lewis, G. W. (George W.), 1837-",
+    "gutenbergReference": "52223",
+    "hash": "011b1fe81af6d884c9b1612d47417216310ddd5bc0796b9b17269ef325ddfe61"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "This must have been ",
+    "quoteTime": "about 2 P.M.",
+    "quoteLast": " Once over the bar, the sails were hoisted, and we glided along rapidly with a strong, fair, northwest wind.",
+    "title": "Memoirs of General William T. Sherman — Volume 1",
+    "author": "Sherman, William T. (William Tecumseh), 1820-1891",
+    "gutenbergReference": "2616",
+    "hash": "047241cb34631dd155904b9db1f6100de6514f1e7f6299b403bc0aa6f3d8b43d"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "_ We set out for San Luis Gonzaga, arriving ",
+    "quoteTime": "about two o'clock in the afternoon",
+    "quoteLast": ".",
+    "title": "Colonial Expeditions to the Interior of California Central Valley, 1800-1820",
+    "author": "Cook, Sherburne Friend, 1896-1974",
+    "gutenbergReference": "36387",
+    "hash": "16c24176682b79767809cbe482e31efa2440bf5500babdce5241fc45c360e2a2"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "",
+    "quoteTime": "About two o’clock in the afternoon",
+    "quoteLast": " a servant came into the hall to say that a wain drawn by three horses and accompanied by two men, one of whom led the horses, was coming down the road from Steeple village.",
+    "title": "The Brethren",
+    "author": "Haggard, H. Rider (Henry Rider), 1856-1925",
+    "gutenbergReference": "2762",
+    "hash": "3b3041a4d38961b83e195a10e366d62b549b717c75b1d4116187b02456692a7b"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "Finally, the situation culminated when, ",
+    "quoteTime": "about 2 p.m.",
+    "quoteLast": ", the enemy launched a terrific attack on our left flank and attempted to storm our position.",
+    "title": "Three years of war in East Africa",
+    "author": "Buchanan, Angus, 1886-1954; Cranworth, Bertram Francis Gurdon, Baron, 1877-1964 [Author of introduction, etc.]",
+    "gutenbergReference": "68854",
+    "hash": "4b3cecf52e0d3c85b53c8c80d33719226310fb5112307aa8b92157ee4dc67361"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "It might be ",
+    "quoteTime": "about two o’clock",
+    "quoteLast": " in the morning.",
+    "title": "The Man Who Laughs: A Romance of English History",
+    "author": "Hugo, Victor, 1802-1885",
+    "gutenbergReference": "12587",
+    "hash": "9dab4bd4ed8d4b111a9f97be988679d64528820f35303fee5a08b969a377adb3"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "",
+    "quoteTime": "About 2 o'clock in the afternoon",
+    "quoteLast": " we arrived well up near the base of the range of hills, and though it was growing late we still had time to accomplish something, but our commanding officer decided that it was best to go into camp, and make a systematic attack next morning.",
+    "title": "Memoirs of the Union's Three Great Civil War Generals",
+    "author": "Grant, Ulysses S. (Ulysses Simpson), 1822-1885; Sheridan, Philip Henry, 1831-1888; Sherman, William T. (William Tecumseh), 1820-1891; Widger, David, 1932-2021? [Editor]",
+    "gutenbergReference": "4546",
+    "hash": "17d6b9fd3c0c0294ce62ca4212da520c64ee6b1559bd37c6bb043874d66b4f57"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "",
+    "quoteTime": "About 2 p.m.",
+    "quoteLast": " we were off the island of Socorro.",
+    "title": "A Voyage in the 'Sunbeam', Our Home on the Ocean for Eleven Months",
+    "author": "Brassey, Annie, 1839-1887",
+    "gutenbergReference": "14836",
+    "hash": "c1ff3769500665db6d10de3ae56aa6e7e64e7db6081029ebc42730ecf800c00d"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "Somewhere ",
+    "quoteTime": "about two o'clock",
+    "quoteLast": " in the morning they halted and removed the blanket-pads from their horses' hoofs.",
+    "title": "The Lost Valley",
+    "author": "Walsh, J. M. (James Morgan), 1897-1952",
+    "gutenbergReference": "19162",
+    "hash": "678c36df0984fbc32c39211e5b70ee86310e1b5f5d2d47b4a407602c5270955b"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "“I got to the hotel ",
+    "quoteTime": "about 2 o'clock in the afternoon",
+    "quoteLast": ". I sat down in the office and tried to get my spirits up to the pitch of my surroundings, but it was a dismal failure. I felt that I was 'country' from crown to heel, and I was terribly uncomfortable. I happened to think of some familiar names, and among others of Mr. Wiebusch. The directory gave me his address, a porter posted me on street-cars and the way to Beekman street, and in due time I presented myself at the door. I felt timid about going in. I was only a clerk; I had no business on hand; I would simply be taking up some of their time in the store, and with no profit to them. But I went up stairs, and after telling a clerk who I was and whom I was connected with, was by him introduced to Mr. Wiebusch.”",
+    "title": "A Man of Samples. Something about the men he met \"On the Road\"",
+    "author": "Maher, William H., 1846-1913",
+    "gutenbergReference": "6132",
+    "hash": "9bcbee45102e7f3187951a6d191a13006ed795465df3ac04632352c06b052b66"
+  },
+  {
+    "time": "14:03",
+    "quoteFirst": "We started at about 6 A.M. and never halted once until we arrived at Debra Tabor at ",
+    "quoteTime": "about 2 P.M.",
+    "quoteLast": " As soon as we reached the foot of the hill on which the Imperial houses arise, we received a message from his Majesty telling us not to dismount, and shortly afterwards he rode towards us, accompanied by a few of his bodyguard.",
+    "title": "Narrative of Captivity in Abyssinia with Some Account of the Late Emperor the Late Emperor Theodore, His Country and People",
+    "author": "Blanc, Henry, 1831-1911",
+    "gutenbergReference": "8815",
+    "hash": "067a892cc990cc45dfae12ec646174e569eb2893896b43f023dc30a09e146ca7"
   }
 ]

@@ -1,6 +1,16 @@
 [
   {
     "time": "00:27",
+    "quoteFirst": "'",
+    "quoteTime": "Twenty-seven minutes past twelve",
+    "quoteLast": ".",
+    "title": "Wych Hazel",
+    "author": "Warner, Susan, 1819-1885; Warner, Anna Bartlett, 1824-1915",
+    "gutenbergReference": "17800",
+    "hash": "b403fdd276ba19419a00ba41470a63e1b500c4dc85f2b77bf99e40c081e35b7d"
+  },
+  {
+    "time": "00:27",
     "quoteFirst": "On the 14th, at ",
     "quoteTime": "12:27 a. m.",
     "quoteLast": ", 12′ south of the moon.",

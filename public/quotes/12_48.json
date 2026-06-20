@@ -31,6 +31,16 @@
   },
   {
     "time": "12:48",
+    "quoteFirst": "[C4-499] Tippit must have heard the description of the suspect wanted for the President’s shooting; it was broadcast over channel 1 at 12:45 p.m., again at ",
+    "quoteTime": "12:48 p.m.",
+    "quoteLast": ", and again at 12:55 p.m.[C4-500] The suspect was described as a “white male, approximately 30, slender build, height 5 foot 10 inches, weight 165 pounds.”",
+    "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58031",
+    "hash": "73655348396b783018ecf070301de1d871dad3d75a6eeeae317bbd3db94579d7"
+  },
+  {
+    "time": "12:48",
     "quoteFirst": "",
     "quoteTime": "12.48 p.m.",
     "quoteLast": "  Sciatic nerve stimulated.",
@@ -58,5 +68,15 @@
     "author": "Doubleday, Abner, 1819-1893",
     "gutenbergReference": "24972",
     "hash": "d900a158e3ae48cea6e0bc3a6113a57fa5e4667560758c4f28b8f44fb76a11c1"
+  },
+  {
+    "time": "12:48",
+    "quoteFirst": ", begins at ",
+    "quoteTime": "12:48 p. m.",
+    "quoteLast": ", ends at 3:23 p.",
+    "title": "The Chautauquan, Vol. 05, March 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55060",
+    "hash": "a0900754608b9fb38565e04d880278855aef5bbe468d73c9f08af0215a424930"
   }
 ]

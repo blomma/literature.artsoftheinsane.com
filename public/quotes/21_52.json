@@ -1,63 +1,33 @@
 [
   {
     "time": "21:52",
-    "quoteFirst": "The hour was not quite so late as his fears had imagined, but still it wanted only ",
+    "quoteFirst": "At ",
+    "quoteTime": "9:52 p.m.",
+    "quoteLast": ", T minus 100 minutes, a 40-minute hold was called to replace the Atlas main battery.",
+    "title": "Mariner Mission to Venus",
+    "author": "Jet Propulsion Laboratory (U.S.)",
+    "gutenbergReference": "54585",
+    "hash": "a0c69453b78a6e30f41d64bcdc036327c276174b97f005f904a4e18dcc9bd56c"
+  },
+  {
+    "time": "21:52",
+    "quoteFirst": "Wogan dressed with some ceremony, supped, and at ",
     "quoteTime": "eight minutes to ten",
-    "quoteLast": ".",
-    "title": "The olive branch, and other stories",
-    "author": "A. L. O. E., 1821-1893",
-    "gutenbergReference": "77151",
-    "hash": "ecc4cd788822642e780765352474687433c244618b99ccc27df8c5fa0b43d521"
+    "quoteLast": " slipped down the stairs and out of doors.",
+    "title": "Clementina",
+    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948; Partridge, Bernard, 1861-1945 [Illustrator]",
+    "gutenbergReference": "13567",
+    "hash": "a9f1f82dedcb9907c4289119bbefeadee94b011ca5b50ab41f6944f1633977b9"
   },
   {
     "time": "21:52",
-    "quoteFirst": "Slow clouds from N.   at ",
+    "quoteFirst": "On January 19 from ",
     "quoteTime": "8 to 10 p.m.",
-    "quoteLast": "",
-    "title": "Zanzibar; city, island, and coast. Vol. 2 (of 2)",
-    "author": "Burton, Richard Francis, Sir, 1821-1890",
-    "gutenbergReference": "70032",
-    "hash": "f65998ea295a706608a67af1d6ab5d95e309e574692e24dc67ae9fce64b840bd"
-  },
-  {
-    "time": "21:52",
-    "quoteFirst": "he exclaimed; “why, it’s only ",
-    "quoteTime": "eight minutes before ten",
-    "quoteLast": ".”",
-    "title": "Around the World in Eighty Days",
-    "author": "Verne, Jules, 1828-1905; Towle, George M. (George Makepeace), 1841-1893 [Translator]",
-    "gutenbergReference": "103",
-    "hash": "85ecd878ed516c4e4b7fbcc440eff5b9c12a64e891909b8c242e1d05aec17e1c"
-  },
-  {
-    "time": "21:52",
-    "quoteFirst": "Beginning at ",
-    "quoteTime": "9.52 P.M.",
-    "quoteLast": " (Wilhelmshaven mean time, or 9h.",
-    "title": "A Study of Recent Earthquakes",
-    "author": "Davison, Charles, 1858-1940",
-    "gutenbergReference": "25062",
-    "hash": "08f94e76359d9ecbf0d8c1dae257042c21ee84e82b679ad234a87e98291154a6"
-  },
-  {
-    "time": "21:52",
-    "quoteFirst": "Evening tests might be had from ",
-    "quoteTime": "8 to 10 P.M.",
-    "quoteLast": " Ring third bell.",
-    "title": "Bunker Bean",
-    "author": "Wilson, Harry Leon, 1867-1939; Gruger, Frederic Rodrigo, 1871-1953 [Illustrator]",
-    "gutenbergReference": "15743",
-    "hash": "296788ca2913961d1d558be18c64628bcdf2ea990a451e08c43ce19eb27bb6ba"
-  },
-  {
-    "time": "21:52",
-    "quoteFirst": "It is amusing to take a walk through the residential district from ",
-    "quoteTime": "eight till ten P.M.",
-    "quoteLast": " and see the hundreds of young fellows hanging on the bars courting their lady-loves.",
-    "title": "Seeking Fortune in America",
-    "author": "Grey, F. W. (Frederick William); Grey, Leopold John Herbert, 1840-1921 [Author of introduction, etc.]",
-    "gutenbergReference": "57963",
-    "hash": "a427b3068bc6b314747a14bf1576f96bbfd983978da580d1e93fbab9d72d3df3"
+    "quoteLast": ", CBS will broadcast the pilot for a new Marvel-based series, _Captain America_.",
+    "title": "100 New Yorkers of the 1970s",
+    "author": "Millard, Max",
+    "gutenbergReference": "17385",
+    "hash": "221ab986150b74d8cc589d9382577de6da2c286593882d8496e14704746bf3e4"
   },
   {
     "time": "21:52",
@@ -71,23 +41,13 @@
   },
   {
     "time": "21:52",
-    "quoteFirst": "he exclaimed; “why, it’s only ",
-    "quoteTime": "eight minutes before ten",
-    "quoteLast": ".”",
-    "title": "Around the World in Eighty Days",
-    "author": "Verne, Jules, 1828-1905; Towle, George M. (George Makepeace), 1841-1893 [Translator]",
-    "gutenbergReference": "103",
-    "hash": "85ecd878ed516c4e4b7fbcc440eff5b9c12a64e891909b8c242e1d05aec17e1c"
-  },
-  {
-    "time": "21:52",
-    "quoteFirst": "It is asking too much, that young workers who have been using themselves up twelve hours in the day, should go to school from ",
-    "quoteTime": "eight to ten at night",
-    "quoteLast": ".",
-    "title": "The Condition of the Working-Class in England in 1844\nwith a Preface written in 1892",
-    "author": "Engels, Friedrich, 1820-1895; Kelley, Florence, 1859-1932 [Translator]",
-    "gutenbergReference": "17306",
-    "hash": "72395b3c7097948a8fc5c3277079c9c561667d215bec10450ff13fe46f69d61a"
+    "quoteFirst": "On January 19 from ",
+    "quoteTime": "8 to 10 p.m.",
+    "quoteLast": ", CBS will broadcast the pilot for a new Marvel-based series, _Captain America_.",
+    "title": "100 New Yorkers of the 1970s",
+    "author": "Millard, Max",
+    "gutenbergReference": "17385",
+    "hash": "221ab986150b74d8cc589d9382577de6da2c286593882d8496e14704746bf3e4"
   },
   {
     "time": "21:52",
@@ -98,5 +58,145 @@
     "author": "Ferree, Barr, 1862-1924",
     "gutenbergReference": "49649",
     "hash": "6cd4a7949a7f9f0aa8bbbf92017e9ca6e54e5ac0bb51dea186b9328e2a0fe195"
+  },
+  {
+    "time": "21:52",
+    "quoteFirst": "From the usual band stand Sunday, Thursday, and Saturday evenings   concerts of good classical and operatic music are given, in summer   from ",
+    "quoteTime": "eight to ten p.m.",
+    "quoteLast": ", in winter from six to seven.",
+    "title": "The South American Tour",
+    "author": "Peck, Annie S. (Annie Smith), 1850-1935",
+    "gutenbergReference": "59715",
+    "hash": "de901442afa5676e024e62745b24a086fe7575984b359cda0a39c51948ade924"
+  },
+  {
+    "time": "21:52",
+    "quoteFirst": "The people in Egyptian cities do not eat their evening meal until from ",
+    "quoteTime": "eight to ten at night",
+    "quoteLast": ".",
+    "title": "Birdseye Views of Far Lands",
+    "author": "Nichols, James T. (James Thomas), 1865-",
+    "gutenbergReference": "28340",
+    "hash": "3852a034a6cf94fe5633081c47664c0dba4c53b401b44372c0840d25892343f9"
+  },
+  {
+    "time": "21:52",
+    "quoteFirst": "From ",
+    "quoteTime": "eight to ten at night",
+    "quoteLast": " I am always at home, and whenever you have nothing else to do, come in and spend those hours with us.'",
+    "title": "Beauchamp; or, The Error.",
+    "author": "James, G. P. R. (George Payne Rainsford), 1801?-1860",
+    "gutenbergReference": "51898",
+    "hash": "ef9d127c2c7b979e5fe694b9230cf48947466ea2c120abd8f9d3a8ee2c7509dd"
+  },
+  {
+    "time": "21:52",
+    "quoteFirst": "The people in Egyptian cities do not eat their evening meal until from ",
+    "quoteTime": "eight to ten at night",
+    "quoteLast": ".",
+    "title": "Birdseye Views of Far Lands",
+    "author": "Nichols, James T. (James Thomas), 1865-",
+    "gutenbergReference": "28340",
+    "hash": "3852a034a6cf94fe5633081c47664c0dba4c53b401b44372c0840d25892343f9"
+  },
+  {
+    "time": "21:52",
+    "quoteFirst": "He was so eager to learn that he went to night school from ",
+    "quoteTime": "eight to ten at night",
+    "quoteLast": ".",
+    "title": "Hero Tales from History",
+    "author": "Burnham, Smith, 1866-1947",
+    "gutenbergReference": "49356",
+    "hash": "553e9b44aa49c9d6f974f99688c461822dde3ba8c90efa82ee0c45c029e36c87"
+  },
+  {
+    "time": "21:52",
+    "quoteFirst": "I went on show from ten to twelve in the morning, from three to five in the afternoon, and from ",
+    "quoteTime": "eight to ten at night",
+    "quoteLast": ".",
+    "title": "Doctor Dolittle in the Moon",
+    "author": "Lofting, Hugh, 1886-1947",
+    "gutenbergReference": "73411",
+    "hash": "1ff401d8ed83f6b7d18d96b67e5a454434e04b2f06608de542b8fa0e196aa8f6"
+  },
+  {
+    "time": "21:52",
+    "quoteFirst": "From four to six in the morning, and from ",
+    "quoteTime": "eight to ten at night",
+    "quoteLast": ", you’ll keep watch in the crow’s-nest, and save us two natives.",
+    "title": "Working my Way Around the World",
+    "author": "Franck, Harry Alverson, 1881-1962; Franck, Lena M.",
+    "gutenbergReference": "55129",
+    "hash": "2eb7935c97b4a533851488f088ac2cbf0d2f4092a7e83ef32b0410579e826cdd"
+  },
+  {
+    "time": "21:52",
+    "quoteFirst": "The King ordered that to prevent this for the future, she should have a guard; and on the next Sunday she made herself ridiculous by walking in the Park from ",
+    "quoteTime": "eight to ten P. M.",
+    "quoteLast": " with two sergeants of the Guards in front with their halberds and twelve soldiers following her.”",
+    "title": "Old world masters in new world collections",
+    "author": "Singleton, Esther, 1865-1930",
+    "gutenbergReference": "77067",
+    "hash": "fddc3f415e1e6d89fd6bd79c4a72cd7c7a20ab263c0633039e0d1d219f3a5e9f"
+  },
+  {
+    "time": "21:52",
+    "quoteFirst": "16 Bombardment continued, 2537 shells (50 at 6 A. M.; 250 from 8 A. M.    to 1 P. M.; 1231 from 2 to 7 P. M.; 30 from ",
+    "quoteTime": "8 to 10 P. M.",
+    "quoteLast": ").",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "748e189a26b89022e288ae84d206b4253d1c70cb33fe154e6bfb0a1d418f82d6"
+  },
+  {
+    "time": "21:52",
+    "quoteFirst": "He was so eager to learn that he went to night school from ",
+    "quoteTime": "eight to ten at night",
+    "quoteLast": ".",
+    "title": "Hero Tales from History",
+    "author": "Burnham, Smith, 1866-1947",
+    "gutenbergReference": "49356",
+    "hash": "553e9b44aa49c9d6f974f99688c461822dde3ba8c90efa82ee0c45c029e36c87"
+  },
+  {
+    "time": "21:52",
+    "quoteFirst": "From the usual band stand Sunday, Thursday, and Saturday evenings   concerts of good classical and operatic music are given, in summer   from ",
+    "quoteTime": "eight to ten p.m.",
+    "quoteLast": ", in winter from six to seven.",
+    "title": "The South American Tour",
+    "author": "Peck, Annie S. (Annie Smith), 1850-1935",
+    "gutenbergReference": "59715",
+    "hash": "de901442afa5676e024e62745b24a086fe7575984b359cda0a39c51948ade924"
+  },
+  {
+    "time": "21:52",
+    "quoteFirst": "I can put in from half-past ",
+    "quoteTime": "eight till ten at night",
+    "quoteLast": ", and from five till half-past six in the morning, besides an hour at dinner-time.",
+    "title": "The Gayton Scholarship: A School Story",
+    "author": "Hayens, Herbert, 1861-1944",
+    "gutenbergReference": "46020",
+    "hash": "58fa1087cc7ef10262c1e754a484e3fa06b92fe717870225eac08a4a29103ab8"
+  },
+  {
+    "time": "21:52",
+    "quoteFirst": "When the childish punishment known as 10_a_ (which consisted of compelling blacklist men to stand on the lee side of the quarter-deck from ",
+    "quoteTime": "8 to 10 p.m.",
+    "quoteLast": ", to have their meals under the sentry's charge and to be deprived of grog and tobacco) was abolished, Garboard, then a junior lieutenant, asserted that the Service was going, to the dogs.",
+    "title": "The Dreadnought of the Air",
+    "author": "Westerman, Percy F. (Percy Francis), 1876-1959",
+    "gutenbergReference": "46117",
+    "hash": "2be874d75e4be1030a9a37d127153f4a352ff822c8762ef16a01686375eecec1"
+  },
+  {
+    "time": "21:52",
+    "quoteFirst": "It is ",
+    "quoteTime": "fifty-two minutes past nine",
+    "quoteLast": ".\"",
+    "title": "Round the World in Eighty Days",
+    "author": "Verne, Jules, 1828-1905; Frith, Henry, 1840- [Translator]",
+    "gutenbergReference": "32972",
+    "hash": "abfc6d28414dfc2ff2c86d8f58c91af95f3bac1e6ae9ca3634846b5eedfddd63"
   }
 ]

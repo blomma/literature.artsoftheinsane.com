@@ -1,6 +1,16 @@
 [
   {
     "time": "07:22",
+    "quoteFirst": "On the evening of April 14, 1865, while seated in a box at Ford's Theatre, witnessing the play, \"Our American Cousin,\" he was shot by an actor, J. Wilkes Booth, and at ",
+    "quoteTime": "twenty-two minutes past seven",
+    "quoteLast": " on the morning of the 15th his life ended.",
+    "title": "Great Men and Famous Women. Vol. 4\r\nA series of pen and pencil sketches of the lives of more than 200 of the most prominent personages in History",
+    "author": "Horne, Charles F. (Charles Francis), 1870-1942 [Editor]",
+    "gutenbergReference": "26424",
+    "hash": "db786c9dfcd0abc414f9a2055631f0276b82b3fb02cbe33436e693ed56c0f1c1"
+  },
+  {
+    "time": "07:22",
     "quoteFirst": "A little later, \"a look of unspeakable peace came over his worn features\"(15), and at ",
     "quoteTime": "twenty-two minutes after seven",
     "quoteLast": " on the morning of the fifteenth of April, he died.",
@@ -11,33 +21,123 @@
   },
   {
     "time": "07:22",
-    "quoteFirst": "He was carried from the theatre to a house near at hand, where, at ",
-    "quoteTime": "twenty-two minutes past seven",
-    "quoteLast": " the next morning, he expired, with his mourning friends around him.",
-    "title": "The Backwoods Boy; or, The Boyhood and Manhood of Abraham Lincoln",
-    "author": "Alger, Horatio, Jr., 1832-1899",
-    "gutenbergReference": "52073",
-    "hash": "fa563755ebe978f1393650bb107a775fbffa5a81cb5e1540835533b3d341c842"
+    "quoteFirst": "",
+    "quoteTime": "7.22 A. M.",
+    "quoteLast": "—From Admiral Knapp at London: “NC-4 left Ferrol at 06.27 (2.27 A. M. New York time).”",
+    "title": "Aircraft",
+    "author": "David, Evan John, 1877-1961",
+    "gutenbergReference": "74358",
+    "hash": "712f10458a704134e4f19514d5aa7083fdb80fd68746e360b5f62d503fe5d0e4"
   },
   {
     "time": "07:22",
     "quoteFirst": "At ",
-    "quoteTime": "twenty-two minutes past seven",
-    "quoteLast": " he ceased breathing, and thus expired.",
-    "title": "Complete Life of William McKinley and Story of His Assassination\nAn Authentic and Official Memorial Edition, Containing Every Incident in the Career of the Immortal Statesman, Soldier, Orator and Patriot",
-    "author": "Everett, Marshall, 1863-1939",
-    "gutenbergReference": "58740",
-    "hash": "355752a8f29a957110f02b9752fea543878011f094adb4363673f8c462a9f5c2"
+    "quoteTime": "twenty-two minutes past seven in the morning",
+    "quoteLast": " he died.",
+    "title": "The Boys' Life of Abraham Lincoln",
+    "author": "Nicolay, Helen, 1866-1954",
+    "gutenbergReference": "1815",
+    "hash": "104bff23a899e7e8fd629607419ceeeaa616cf9a978479e435712ffc9e4db65e"
   },
   {
     "time": "07:22",
     "quoteFirst": "At ",
+    "quoteTime": "twenty-two minutes after seven",
+    "quoteLast": " he died.",
+    "title": "Abraham Lincoln",
+    "author": "Curtis, William Eleroy, 1850-1911",
+    "gutenbergReference": "42526",
+    "hash": "32a3c5475ad1a444c769fe842638060f97a46c0079b3a2b0e38b2794c5b2adaa"
+  },
+  {
+    "time": "07:22",
+    "quoteFirst": "Having been conveyed as soon as possible to a house opposite the theatre, he expired there the next morning, April fifteenth, 1865, at ",
     "quoteTime": "twenty-two minutes past seven",
-    "quoteLast": ", A. M., the soul of Abraham Lincoln fled from its earthly tabernacle “to that bourne from which no traveler returns.”",
-    "title": "Pictorial history of the war for the Union, volume 2 (of 2)",
-    "author": "Stephens, Ann S. (Ann Sophia), 1810-1886",
-    "gutenbergReference": "74187",
-    "hash": "b90fce037cf6f25a5dd32c7fcf287d2b49e79981abb3e83416c4b2d68f95e6d7"
+    "quoteLast": " o’clock, attended by the principal members of his Cabinet and other friends, from all of whom the heart-rending spectacle drew copious tears of sorrow.",
+    "title": "Life of Abraham Lincoln, Sixteenth President of the United States",
+    "author": "Crosby, Frank",
+    "gutenbergReference": "44166",
+    "hash": "1fb7a668f2a07de9becf4839706684af174d72b316f2aacfef83860c00c8b9bc"
+  },
+  {
+    "time": "07:22",
+    "quoteFirst": "His automatic moaning ceased, a look of unspeakable peace came upon his worn features, and at ",
+    "quoteTime": "twenty-two minutes after seven",
+    "quoteLast": " he died.",
+    "title": "A Short Life of Abraham Lincoln\nCondensed from Nicolay & Hay's Abraham Lincoln: A History",
+    "author": "Nicolay, John G. (John George), 1832-1901",
+    "gutenbergReference": "16332",
+    "hash": "a4340415554ac52fd00ff304a252e7d19f29e87c62bb0f5dfb2e5947c6e4b9fe"
+  },
+  {
+    "time": "07:22",
+    "quoteFirst": "The bleeding President was carried to a house across the street, No. 516, where he died at ",
+    "quoteTime": "twenty-two minutes past seven",
+    "quoteLast": " the next morning.",
+    "title": "Lincoln's Birthday",
+    "author": "Schauffler, Robert Haven, 1879-1964 [Editor]",
+    "gutenbergReference": "21267",
+    "hash": "228027a562d0d6ae9052599e5b10defd294bee253cd281f7361e9d860c5b5a78"
+  },
+  {
+    "time": "07:22",
+    "quoteFirst": "He never recovered consciousness, but lingered through the night and died at ",
+    "quoteTime": "twenty-two minutes past seven in the morning",
+    "quoteLast": ".",
+    "title": "Abraham Lincoln",
+    "author": "Curtis, William Eleroy, 1850-1911",
+    "gutenbergReference": "42526",
+    "hash": "094b66a8f51c4ec1675954e7d151d22c464f81e0cd241413bcc9d0b7655e72d1"
+  },
+  {
+    "time": "07:22",
+    "quoteFirst": "By dawn, his breath had become stertorous and labored and, at ",
+    "quoteTime": "7:22 a.m.",
+    "quoteLast": ", Surgeon-General Joseph K. Barnes, recorded the last heartbeat.",
+    "title": "... and justice for all",
+    "author": "Kunstler, William M. (William Moses), 1919-1995",
+    "gutenbergReference": "78229",
+    "hash": "83078403035a9ffcf8136bed85b88703df7bce2e09d8167cfcca781359ed4809"
+  },
+  {
+    "time": "07:22",
+    "quoteFirst": "In a solemn hush, at ",
+    "quoteTime": "twenty-two minutes after seven in the morning",
+    "quoteLast": " of Saturday, April 15, 1865, the great soul of Abraham Lincoln went back to the God Who had given him to America and to the world.",
+    "title": "Tom Strong, Lincoln's Scout\r\nA Story of the United States in the Times That Tried Men's Souls",
+    "author": "Mason, Alfred Bishop, 1851-1933",
+    "gutenbergReference": "44132",
+    "hash": "46ac7c3f915911ba904e0a2a249d1894c05e84b508c0b4d76cf7e47157476bae"
+  },
+  {
+    "time": "07:22",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-two minutes after seven",
+    "quoteLast": " he died.",
+    "title": "Abraham Lincoln",
+    "author": "Curtis, William Eleroy, 1850-1911",
+    "gutenbergReference": "42526",
+    "hash": "32a3c5475ad1a444c769fe842638060f97a46c0079b3a2b0e38b2794c5b2adaa"
+  },
+  {
+    "time": "07:22",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-two minutes past seven in the morning",
+    "quoteLast": " he died.",
+    "title": "The Boys' Life of Abraham Lincoln",
+    "author": "Nicolay, Helen, 1866-1954",
+    "gutenbergReference": "1815",
+    "hash": "104bff23a899e7e8fd629607419ceeeaa616cf9a978479e435712ffc9e4db65e"
+  },
+  {
+    "time": "07:22",
+    "quoteFirst": "He never recovered consciousness, but lingered through the night and died at ",
+    "quoteTime": "twenty-two minutes past seven in the morning",
+    "quoteLast": ".",
+    "title": "Abraham Lincoln",
+    "author": "Curtis, William Eleroy, 1850-1911",
+    "gutenbergReference": "42526",
+    "hash": "094b66a8f51c4ec1675954e7d151d22c464f81e0cd241413bcc9d0b7655e72d1"
   },
   {
     "time": "07:22",
@@ -51,52 +151,52 @@
   },
   {
     "time": "07:22",
-    "quoteFirst": "On the evening of April 14, 1865, while seated in a box at Ford's Theatre, witnessing the play, \"Our American Cousin,\" he was shot by an actor, J. Wilkes Booth, and at ",
+    "quoteFirst": "His automatic moaning ceased, a look of unspeakable peace came upon his worn features, and at ",
+    "quoteTime": "twenty-two minutes after seven",
+    "quoteLast": " he died.",
+    "title": "A Short Life of Abraham Lincoln\nCondensed from Nicolay & Hay's Abraham Lincoln: A History",
+    "author": "Nicolay, John G. (John George), 1832-1901",
+    "gutenbergReference": "16332",
+    "hash": "a4340415554ac52fd00ff304a252e7d19f29e87c62bb0f5dfb2e5947c6e4b9fe"
+  },
+  {
+    "time": "07:22",
+    "quoteFirst": "And there the strong constitution of Mr. Lincoln struggled with death, until ",
     "quoteTime": "twenty-two minutes past seven",
-    "quoteLast": " on the morning of the 15th his life ended.",
-    "title": "Great Men and Famous Women. Vol. 4\r\nA series of pen and pencil sketches of the lives of more than 200 of the most prominent personages in History",
-    "author": "Horne, Charles F. (Charles Francis), 1870-1942 [Editor]",
-    "gutenbergReference": "26424",
-    "hash": "db786c9dfcd0abc414f9a2055631f0276b82b3fb02cbe33436e693ed56c0f1c1"
+    "quoteLast": " the next morning, when his heart ceased to beat.",
+    "title": "Sketch of the life of Abraham Lincoln",
+    "author": "Arnold, Isaac N., 1815-1884",
+    "gutenbergReference": "37818",
+    "hash": "bfc4e5e90bfcde5d369de8546b50f0e92fa860e3b9f3bdfee3e9c929b545df46"
+  },
+  {
+    "time": "07:22",
+    "quoteFirst": "By dawn, his breath had become stertorous and labored and, at ",
+    "quoteTime": "7:22 a.m.",
+    "quoteLast": ", Surgeon-General Joseph K. Barnes, recorded the last heartbeat.",
+    "title": "... and justice for all",
+    "author": "Kunstler, William M. (William Moses), 1919-1995",
+    "gutenbergReference": "78229",
+    "hash": "83078403035a9ffcf8136bed85b88703df7bce2e09d8167cfcca781359ed4809"
+  },
+  {
+    "time": "07:22",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-two minutes past seven in the morning",
+    "quoteLast": " he died.",
+    "title": "The Boys' Life of Abraham Lincoln",
+    "author": "Nicolay, Helen, 1866-1954",
+    "gutenbergReference": "1815",
+    "hash": "104bff23a899e7e8fd629607419ceeeaa616cf9a978479e435712ffc9e4db65e"
   },
   {
     "time": "07:22",
     "quoteFirst": "He never recovered consciousness, but lingered through the night and died at ",
-    "quoteTime": "twenty-two minutes past seven",
-    "quoteLast": " in the morning.",
+    "quoteTime": "twenty-two minutes past seven in the morning",
+    "quoteLast": ".",
     "title": "Abraham Lincoln",
     "author": "Curtis, William Eleroy, 1850-1911",
     "gutenbergReference": "42526",
-    "hash": "e4a1c000879a2debfb76ffd7d0602522c54eb33878c6263f26e0980663c1a8f3"
-  },
-  {
-    "time": "07:22",
-    "quoteFirst": "On the evening of April 14, 1865, while seated in a box at Ford's Theatre, witnessing the play, \"Our American Cousin,\" he was shot by an actor, J. Wilkes Booth, and at ",
-    "quoteTime": "twenty-two minutes past seven",
-    "quoteLast": " on the morning of the 15th his life ended.",
-    "title": "Great Men and Famous Women. Vol. 4\r\nA series of pen and pencil sketches of the lives of more than 200 of the most prominent personages in History",
-    "author": "Horne, Charles F. (Charles Francis), 1870-1942 [Editor]",
-    "gutenbergReference": "26424",
-    "hash": "db786c9dfcd0abc414f9a2055631f0276b82b3fb02cbe33436e693ed56c0f1c1"
-  },
-  {
-    "time": "07:22",
-    "quoteFirst": "A little later, \"a look of unspeakable peace came over his worn features\"(15), and at ",
-    "quoteTime": "twenty-two minutes after seven",
-    "quoteLast": " on the morning of the fifteenth of April, he died.",
-    "title": "Lincoln; An Account of his Personal Life, Especially of its Springs of Action as Revealed and Deepened by the Ordeal of War",
-    "author": "Stephenson, Nathaniel W. (Nathaniel Wright), 1867-1935",
-    "gutenbergReference": "1713",
-    "hash": "01edcf66eded4cbc54a94062dde7d17e5750100ad13e1294479c5f83ebfd7981"
-  },
-  {
-    "time": "07:22",
-    "quoteFirst": "On the evening of April 14, 1865, while seated in a box at Ford's Theatre, witnessing the play, \"Our American Cousin,\" he was shot by an actor, J. Wilkes Booth, and at ",
-    "quoteTime": "twenty-two minutes past seven",
-    "quoteLast": " on the morning of the 15th his life ended.",
-    "title": "Great Men and Famous Women. Vol. 4\r\nA series of pen and pencil sketches of the lives of more than 200 of the most prominent personages in History",
-    "author": "Horne, Charles F. (Charles Francis), 1870-1942 [Editor]",
-    "gutenbergReference": "26424",
-    "hash": "db786c9dfcd0abc414f9a2055631f0276b82b3fb02cbe33436e693ed56c0f1c1"
+    "hash": "094b66a8f51c4ec1675954e7d151d22c464f81e0cd241413bcc9d0b7655e72d1"
   }
 ]

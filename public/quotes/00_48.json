@@ -31,6 +31,26 @@
   },
   {
     "time": "00:48",
+    "quoteFirst": "When counting was resumed at T minus 130 minutes, the clock read ",
+    "quoteTime": "12:48 a.m.",
+    "quoteLast": " A previously scheduled hold was called at T minus 60 minutes, lasting from 1:58 to 2:38 a.m. The good weather still held.",
+    "title": "Mariner Mission to Venus",
+    "author": "Jet Propulsion Laboratory (U.S.)",
+    "gutenbergReference": "54585",
+    "hash": "b3e453b73d208c96fded392fac6603856557fab67bfdabb8f338359884a52e28"
+  },
+  {
+    "time": "00:48",
+    "quoteFirst": "About an hour later (",
+    "quoteTime": "12:48 A.M.",
+    "quoteLast": ") Mars rose, also in the northeast; and close behind it (1:15 A.M.) came the bright star Aldebaran, which made a striking pair with Mars.",
+    "title": "The World of Flying Saucers: A Scientific Examination of a Major Myth of the Space Age",
+    "author": "Menzel, Donald H. (Donald Howard), 1901-1976; Boyd, Lyle Gifford, 1907-1982",
+    "gutenbergReference": "66639",
+    "hash": "f36e94c71c775983a18772667880d8f2b8529e4ec88b83ac2bb4ae56dcefbf4d"
+  },
+  {
+    "time": "00:48",
     "quoteFirst": "Longstone L.H., same dates, ",
     "quoteTime": "12 to 1 A.M.",
     "quoteLast": "; many round lantern; wind flew to N.E., and birds left.",
@@ -58,6 +78,16 @@
     "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
     "gutenbergReference": "66032",
     "hash": "e0e11fd518fffe7dfffd8825857849a7b3d897f25def2ecf60ace6d8ded86d95"
+  },
+  {
+    "time": "00:48",
+    "quoteFirst": "“",
+    "quoteTime": "Twelve minutes to one",
+    "quoteLast": ".”",
+    "title": "The Crow's Inn tragedy",
+    "author": "Haynes, Annie, 1864-1929",
+    "gutenbergReference": "75307",
+    "hash": "7f521552cb979a06e2913a0ee30727bd85f73f193c7f82dc2d7409ea8d39d4ff"
   },
   {
     "time": "00:48",

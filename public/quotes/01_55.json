@@ -1,53 +1,143 @@
 [
   {
     "time": "01:55",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes to two",
-    "quoteLast": ", expectation began to swell.",
-    "title": "Conrad in Quest of His Youth: An Extravagance of Temperament",
-    "author": "Merrick, Leonard, 1864-1939",
-    "gutenbergReference": "56226",
-    "hash": "c94e3982c6b9c375f32ebc8c8a6dae39806c93ef519f9976744b0b6a45dfcbfc"
+    "quoteFirst": "THE PRESIDENT: We will sit again at ",
+    "quoteTime": "5 minutes to 2",
+    "quoteLast": ".",
+    "title": "Trial of the Major War Criminals Before the International Military Tribunal, Nuremburg, 14 November 1945-1 October 1946, Volume 16",
+    "author": "Various",
+    "gutenbergReference": "71327",
+    "hash": "7470d5164871acc9b27bf8ca7cc867569b3c533058dd962482ac92fab1e13424"
   },
   {
     "time": "01:55",
     "quoteFirst": "At ",
     "quoteTime": "five minutes before two",
-    "quoteLast": ", Job Legh stood upon the door-step of the house where Mr. Bridgenorth lodged at Assize time.",
-    "title": "Mary Barton",
-    "author": "Gaskell, Elizabeth Cleghorn, 1810-1865",
-    "gutenbergReference": "2153",
-    "hash": "db7feb8aa1d7594a9f711ffec8913495d40eb665dfa88f656b8643759927c629"
+    "quoteLast": ", two ordinary red lights were shown at the peak of the flag-ship, the signal to get under way, but it was half-past three before all was ready.",
+    "title": "Naval battles of the world",
+    "author": "Shippen, Edward, 1826-1911",
+    "gutenbergReference": "73068",
+    "hash": "fc14ce34d683e5b5e10b94b7486f47ea6a170649e81bf1ccebfe8aa275460aa1"
+  },
+  {
+    "time": "01:55",
+    "quoteFirst": "_ shorts,) he would have been just the person to coax into one's house of accompt, at ",
+    "quoteTime": "five minutes before two",
+    "quoteLast": " o'clock in the afternoon, to work a little involuntary transmutation,--to change the coal-scuttle into ingots, and the ruler into a great, gorged, glittering _rouleau_.",
+    "title": "The Atlantic Monthly, Volume 03, No. 15, January, 1859\r\nA Magazine of Literature, Art, and Politics",
+    "author": "Various",
+    "gutenbergReference": "10695",
+    "hash": "db73118c67f0d8c99f6ad44b29c7cf7465b55bdf695fcf18684a1beb23b6bcd1"
+  },
+  {
+    "time": "01:55",
+    "quoteFirst": "If, as the landlady stated, on the authority of the kitchen clock, which had been put right on the day previous to the murder, Fitzgerald had come into the house at ",
+    "quoteTime": "five minutes to two",
+    "quoteLast": ", he could not possibly be the man who had alighted from Rankin's cab at two o'clock at Powlett Street.",
+    "title": "The Mystery of a Hansom Cab",
+    "author": "Hume, Fergus, 1859-1932",
+    "gutenbergReference": "4223",
+    "hash": "87fc6226e07b2a68242e7907ee8efd68c2d55998938aa3f4580351d4d207357e"
+  },
+  {
+    "time": "01:55",
+    "quoteFirst": "William James, wireless operator at Father Point, told of being awakened by his assistant at ",
+    "quoteTime": "1.55 A. M.",
+    "quoteLast": " by the news that the Empress had been in collision with another ship.",
+    "title": "The Tragic Story of the Empress of Ireland, and Other Great Sea Disasters",
+    "author": "Marshall, Logan, 1884-1937",
+    "gutenbergReference": "58274",
+    "hash": "698206b809335eb4b41aec5bb9c35e9db000cec50abf44d431ba93887c26e681"
+  },
+  {
+    "time": "01:55",
+    "quoteFirst": "It wanted ",
+    "quoteTime": "five minutes to two",
+    "quoteLast": "; I therefore had still two hours of my watch to stand; and, to stave off a certain feeling of drowsiness that was insidiously taking possession of me, I went down on to the main deck and proceeded to pace to and fro in the waist, satisfied that I might walk there as long as I pleased without disturbing the rest of my companions, each of whom occupied a cabin under the poop.",
+    "title": "Overdue: The Story of a Missing Ship",
+    "author": "Collingwood, Harry, 1851-1922; Holloway, W. Herbert (William Herbert), 1878-1923 [Illustrator]",
+    "gutenbergReference": "21067",
+    "hash": "7066e9867903bf5b3211d0a90dc69efa04286953ba58e89fb8cfd49838f7ec24"
+  },
+  {
+    "time": "01:55",
+    "quoteFirst": "He is sure to make his, fortune at his new shop, for he had not opened the door ",
+    "quoteTime": "five minutes before two",
+    "quoteLast": " of the neighbors crowded in; one of them wanted a loaf of bread on trust, and the other asked change for a shilling.",
+    "title": "Brave Men and Women: Their Struggles, Failures, And Triumphs",
+    "author": "Fuller, Osgood E. (Osgood Eaton), 1835-1900",
+    "gutenbergReference": "13942",
+    "hash": "b258a8b31e6aaac99c30d7ac4643a6c6843592ade527af5eda7f96a94260e08e"
+  },
+  {
+    "time": "01:55",
+    "quoteFirst": "We must leave here at ",
+    "quoteTime": "five minutes before two",
+    "quoteLast": ".",
+    "title": "The Enchanted Canyon",
+    "author": "Morrow, Honoré, 1880-1940",
+    "gutenbergReference": "16889",
+    "hash": "dbd2e949ecd0cf36dab818a0da3a06d4bec0b571e39ae6f60d9f27b7336febbf"
+  },
+  {
+    "time": "01:55",
+    "quoteFirst": "O’Malley’s investigation of Price’s movements on the night of July the seventh had revealed these facts: Price had taken his car from Sommers’ garage at Cedar Brook at eight-thirty, not returning till ",
+    "quoteTime": "five minutes before two",
+    "quoteLast": ".",
+    "title": "Miss Maitland, Private Secretary",
+    "author": "Bonner, Geraldine, 1870-1930; Keller, Arthur Ignatius, 1866-1924 [Illustrator]",
+    "gutenbergReference": "35504",
+    "hash": "be156714df2e6df1a14c901de5584b0ef4f3cb9783b52402e7cc2af72ebabb2a"
+  },
+  {
+    "time": "01:55",
+    "quoteFirst": "Promptly, at ",
+    "quoteTime": "five minutes before two",
+    "quoteLast": ", the clerk of the course came hurrying across the field.",
+    "title": "Dick Randall, the Young Athlete",
+    "author": "Clark, Ellery H. (Ellery Harding), 1874-1949; Biggs, Walter, 1886-1968 [Illustrator]",
+    "gutenbergReference": "38471",
+    "hash": "06e0c46532b3e04ce259f963091ff73d227d89110a3083cab40a3a4a54e116cf"
   },
   {
     "time": "01:55",
     "quoteFirst": "“Some time later I awoke with a start, struck a match and glanced at the clock; it was just ",
     "quoteTime": "five minutes of two",
-    "quoteLast": ". I raised the shade and looked out of the window. The Embassy was not far away. Suddenly I saw a woman’s figure coming slowly down 20th Street. I watched her cross the street, and then hurried downstairs as noiselessly as I could and admitted her. We went at once to the private office, and there I discovered that I had left my wallet containing the money in my bedroom, and I hastened back upstairs to get it. Just as I was returning the telephone rang. Madame de Berriot, thinking the noise might be overheard, removed the receiver, but instead of putting it",
+    "quoteLast": ". I raised the shade and looked out of the window. The Embassy was not far away. Suddenly I saw a woman’s figure coming slowly down 20th Street. I watched her cross the street, and then hurried downstairs as noiselessly as I could and admitted her. We went at once to the private office, and there I discovered that I had left my wallet containing the money in my bedroom, and I hastened back upstairs to get it. Just as I was returning the telephone rang. Madame de Berriot, thinking the noise might be overheard, removed the receiver, but instead of putting it on the table answered the call; then beckoned to me. I talked to the Secretary; then rang off. Immediately afterwards I gave Madame de Berriot her money in gold certificates, and escorted her to the door. That is the last I",
     "title": "The Trevor case",
     "author": "Lincoln, Natalie Sumner, 1881-1935; Frederick, Edmund, 1870-1949 [Illustrator]",
     "gutenbergReference": "69004",
-    "hash": "53bc1a465c2294950cc871fa9c530480a7e7d18c63d85c8e130d54f7efe988e6"
+    "hash": "ea2e8ecb761de4bbbeded8bcc280893f93a49cf129f15dd8ece19aedf0b696bd"
   },
   {
     "time": "01:55",
-    "quoteFirst": "\"At ",
+    "quoteFirst": "As it was, I started out at seven o'clock in the morning, and only by exceeding the speed limit on the last twenty miles of the return trip did I manage to pull into that diner parking space at ",
+    "quoteTime": "five minutes before two",
+    "quoteLast": ".",
+    "title": "Exile from Space",
+    "author": "Merril, Judith, 1923-1997",
+    "gutenbergReference": "31661",
+    "hash": "2e974b1676d0fb1e48348edab337a04390be6781855389f7ce0b2071c74a70a4"
+  },
+  {
+    "time": "01:55",
+    "quoteFirst": "“Some time later I awoke with a start, struck a match and glanced at the clock; it was just ",
+    "quoteTime": "five minutes of two",
+    "quoteLast": ". I raised the shade and looked out of the window. The Embassy was not far away. Suddenly I saw a woman’s figure coming slowly down 20th Street. I watched her cross the street, and then hurried downstairs as noiselessly as I could and admitted her. We went at once to the private office, and there I discovered that I had left my wallet containing the money in my bedroom, and I hastened back upstairs to get it. Just as I was returning the telephone rang. Madame de Berriot, thinking the noise might be overheard, removed the receiver, but instead of putting it on the table answered the call; then beckoned to me. I talked to the Secretary; then rang off. Immediately afterwards I gave Madame de Berriot her money in gold certificates, and escorted her to the door. That is the last I",
+    "title": "The Trevor case",
+    "author": "Lincoln, Natalie Sumner, 1881-1935; Frederick, Edmund, 1870-1949 [Illustrator]",
+    "gutenbergReference": "69004",
+    "hash": "ea2e8ecb761de4bbbeded8bcc280893f93a49cf129f15dd8ece19aedf0b696bd"
+  },
+  {
+    "time": "01:55",
+    "quoteFirst": "It was ",
     "quoteTime": "five minutes to two",
-    "quoteLast": ", just as I got up, I heard a noise outside like a big electric fan. It sounded like it came from directly overhead and I went to the window and looked out. I couldn't see anything, although I could hear it pretty plainly, and then I heard a noise like something had fallen on the roof. Almost at the same time there came a sort of high-pitched whine, a good deal like the noise an electric motor makes when it is running at high speed.",
-    "title": "Astounding Stories, February, 1931",
-    "author": "Various; Bates, Harry, 1900-1981 [Editor]",
-    "gutenbergReference": "30124",
-    "hash": "a8d849c33f5476f9d8812f4bb01ba990db478d3f640a66f4cf0ddc07b1f9ca58"
-  },
-  {
-    "time": "01:55",
-    "quoteFirst": "",
-    "quoteTime": "1:55 A.M.",
-    "quoteLast": " The _Itasca_ sent the weather on 7,500 kilocycles by key and on 3,105 by voice.",
-    "title": "Daughter of the sky",
-    "author": "Briand, Paul L., Jr., 1920-1986",
-    "gutenbergReference": "70263",
-    "hash": "d8c0181cfd5061bfee200d20cafd8a3b446950785508f105e5962b3fdac1fe67"
+    "quoteLast": " when we slid out of Lullaby Coppice and on to the London road.",
+    "title": "Berry and Co.",
+    "author": "Yates, Dornford, 1885-1960",
+    "gutenbergReference": "17469",
+    "hash": "9e1b6e0e5761e6a337c5a42fc18cbdee0aa8ac87e4fc53c0f7c78570908bcdc1"
   },
   {
     "time": "01:55",
@@ -61,42 +151,52 @@
   },
   {
     "time": "01:55",
+    "quoteFirst": "William James, wireless operator at Father Point, told of being awakened by his assistant at ",
+    "quoteTime": "1.55 A. M.",
+    "quoteLast": " by the news that the Empress had been in collision with another ship.",
+    "title": "The Tragic Story of the Empress of Ireland, and Other Great Sea Disasters",
+    "author": "Marshall, Logan, 1884-1937",
+    "gutenbergReference": "58274",
+    "hash": "698206b809335eb4b41aec5bb9c35e9db000cec50abf44d431ba93887c26e681"
+  },
+  {
+    "time": "01:55",
+    "quoteFirst": "And now I must go, for it is ",
+    "quoteTime": "five minutes to two",
+    "quoteLast": ", I am always at home from two till six; I receive my friends; you may come every day, and you must come to see my new squirrel; my darling, funny little grandson gave it me.",
+    "title": "Henrietta Temple: A Love Story",
+    "author": "Disraeli, Benjamin, Earl of Beaconsfield, 1804-1881",
+    "gutenbergReference": "19771",
+    "hash": "e33bb538393c1d691f37a8bb9c0f053932fb1dfd651a0c12cbd2d023f7ca153d"
+  },
+  {
+    "time": "01:55",
     "quoteFirst": "At ",
     "quoteTime": "five minutes to two",
-    "quoteLast": " I take a bell, and go in the fields, ringing as hard as I can to call the boys in.",
-    "title": "John Bull, Junior; or, French as She is Traduced",
-    "author": "O'Rell, Max, 1848-1903; Eggleston, George Cary, 1839-1911 [Author of introduction, etc.]",
-    "gutenbergReference": "33564",
-    "hash": "a666348110b22c93cd28ad911d7104831d20bb5e16631f62798104dd637a34d4"
+    "quoteLast": ", Anna called downstairs to her to ask her when she meant to depart.",
+    "title": "Anna of the Five Towns",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "35505",
+    "hash": "35e83367408ee92ced4938cd2c790706bc0310933ef896cbbe302d19ec45ede4"
   },
   {
     "time": "01:55",
-    "quoteFirst": "THE PRESIDENT: We will sit again at ",
-    "quoteTime": "5 minutes to 2",
-    "quoteLast": ".",
-    "title": "Trial of the Major War Criminals Before the International Military Tribunal, Nuremburg, 14 November 1945-1 October 1946, Volume 16",
-    "author": "Various",
-    "gutenbergReference": "71327",
-    "hash": "7470d5164871acc9b27bf8ca7cc867569b3c533058dd962482ac92fab1e13424"
-  },
-  {
-    "time": "01:55",
-    "quoteFirst": "At ",
+    "quoteFirst": "_ shorts,) he would have been just the person to coax into one's house of accompt, at ",
     "quoteTime": "five minutes before two",
-    "quoteLast": " the mail-bag appeared; and at ten minutes past, the diligence rattled down the narrow cobbled street and pulled up at the door of the café.",
-    "title": "The Fortunate Isles: Life and Travel in Majorca, Minorca and Iviza",
-    "author": "Boyd, Mary Stuart, 1860-1937; Boyd, A. S. (Alexander Stuart), 1854-1930 [Illustrator]",
-    "gutenbergReference": "39199",
-    "hash": "d8fb50f373911f64284f877a7a2bf59280acc4df3317cb7d172cbad6175645c1"
+    "quoteLast": " o'clock in the afternoon, to work a little involuntary transmutation,--to change the coal-scuttle into ingots, and the ruler into a great, gorged, glittering _rouleau_.",
+    "title": "The Atlantic Monthly, Volume 03, No. 15, January, 1859\r\nA Magazine of Literature, Art, and Politics",
+    "author": "Various",
+    "gutenbergReference": "10695",
+    "hash": "db73118c67f0d8c99f6ad44b29c7cf7465b55bdf695fcf18684a1beb23b6bcd1"
   },
   {
     "time": "01:55",
-    "quoteFirst": "It was ",
-    "quoteTime": "five minutes to two",
-    "quoteLast": " when the bus drew up at the station, but no one was in sight.",
-    "title": "Adele Doring at Boarding School",
-    "author": "North, Grace May, 1876-1960; Young, Florence Liley, 1872-1974 [Illustrator]",
-    "gutenbergReference": "62360",
-    "hash": "dfe1a0ba6d66f5a5f57f7d3a94adc8f2927b2918c1e3ea270206952a20d40ed1"
+    "quoteFirst": "The Morningtons appeared at ",
+    "quoteTime": "five minutes before two",
+    "quoteLast": ", the Vicar and his daughter as the clock struck the hour; and then there followed a quarter of an hour of obvious waiting, during which Allan showed Suzette the Chinese enamels and ivories, and the arsenal of deadly swords and daggers displayed against the wall of the Mandarin-room, while the Morningtons were discussing with Lady Emily and her husband the merits of Wiltshire as compared with Suffolk.",
+    "title": "Sons of fire, Vol. I.",
+    "author": "Braddon, M. E. (Mary Elizabeth), 1835-1915",
+    "gutenbergReference": "75173",
+    "hash": "256ca1f2af157aa6322c8fa49f6208d4c9e1ae08ab2168a4ed37073c87d16a99"
   }
 ]

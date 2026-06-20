@@ -1,13 +1,83 @@
 [
   {
     "time": "17:10",
-    "quoteFirst": "Colonel Mannheim was four inches shorter than Stanton's ",
+    "quoteFirst": "was the retort, \"and in another hour it'll be ",
+    "quoteTime": "ten minutes past five",
+    "quoteLast": ".\"",
+    "title": "Malcolm Sage, Detective",
+    "author": "Jenkins, Herbert George, 1876-1923",
+    "gutenbergReference": "28084",
+    "hash": "d03833b96cebf44d3f7f71bdcb513066d3c7c562b3d858dc6299d3dc6e9b5bb7"
+  },
+  {
+    "time": "17:10",
+    "quoteFirst": "\"",
+    "quoteTime": "Ten past five",
+    "quoteLast": ". You might tell the messenger to show those gentlemen in....",
+    "title": "The Teeth of the Tiger",
+    "author": "Leblanc, Maurice, 1864-1941",
+    "gutenbergReference": "13058",
+    "hash": "ed6b83288880cd16bc6d723fea5e9720f8c75540c87a2e1fae57bb99c57c7fb9"
+  },
+  {
+    "time": "17:10",
+    "quoteFirst": "\"The ",
     "quoteTime": "five-ten",
-    "quoteLast": ", and was fifteen years older.",
-    "title": "Anything You Can Do ...",
-    "author": "Garrett, Randall, 1927-1987",
-    "gutenbergReference": "24436",
-    "hash": "da88601d192798c890ff79ab864130c7d9ddf60fba62c42b22a2abd6d79732a0"
+    "quoteLast": " is over the trestle, and they went off and left me!\"",
+    "title": "The Readjustment",
+    "author": "Irwin, Will, 1873-1948",
+    "gutenbergReference": "28443",
+    "hash": "c3f58f0722f8ac96070a038707f0ea6c72896149950bc31401335e0f8c8451a6"
+  },
+  {
+    "time": "17:10",
+    "quoteFirst": "\"Can you give us a complete and detailed narrative of your journey, say from the time you left Brighton by the ",
+    "quoteTime": "5.10 p.m.",
+    "quoteLast": " train, on Saturday, August 1, up to your arrest.\"",
+    "title": "Sixteen Months in Four German Prisons: Wesel, Sennelager, Klingelputz, Ruhleben",
+    "author": "Mahoney, Henry Charles [Editor]; Talbot, Frederick Arthur Ambrose, 1880-1924",
+    "gutenbergReference": "18134",
+    "hash": "b90a71094f6e9a94a47432892d36e3cb111f9a747cc4a2667042387a14685629"
+  },
+  {
+    "time": "17:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past five",
+    "quoteLast": " on the morning of Friday, 18th February 1898, I was wakened by a continuous knock at a door somewhere near my house in Chelsea.",
+    "title": "Personal reminiscences of Henry Irving",
+    "author": "Stoker, Bram, 1847-1912",
+    "gutenbergReference": "68779",
+    "hash": "5a08976016c46aaa7319c87f551fcaed368c7279f0a913f644d73806f0ccbcb7"
+  },
+  {
+    "time": "17:10",
+    "quoteFirst": "and WALL-BOUNCING and KING and MISSINGS OUT and FRENCH FOOT and KNOCKING UP THREE CATCHERS and SWOLO (rather like hockey) and DAYS OF THE YEAR and PUNCH-BALL and BOUNCE-BALL and TOUCH IT RUN and HUNDRED WINS (where you knock bricks out of a ring with a ball) and ONE-TWO-THREE-AND-A-LAIRY (I wish I knew what a-lairy meant) and ALONG THE ROW and UNDER THE ROW and ACROSS THE ROW and RABBIT IN THE HUTCH and ",
+    "quoteTime": "FIVE-TEN",
+    "quoteLast": " and BASE (or DOLL) and WALLIE (because played against a wall) and STRIKE UP KNOCK DOWN and IN THE HAT and DUSTHOLES, and no doubt many more.",
+    "title": "London street games",
+    "author": "Douglas, Norman, 1868-1952",
+    "gutenbergReference": "74350",
+    "hash": "cd99c7d1e4215efcb309138bb76441f5e2e4d808478c3ae1eb6c24d573efbb75"
+  },
+  {
+    "time": "17:10",
+    "quoteFirst": "",
+    "quoteTime": "5.10 p.m.",
+    "quoteLast": " we started and came five and a quarter miles upon well-grassed plains, and encamped near a fine waterhole.",
+    "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
+    "author": "Landsborough, William, 1825-1886",
+    "gutenbergReference": "16243",
+    "hash": "f8c764c30a952b3f0088762cd2acb3f738305b95d23ca6e0acf6fc6ab17d5e76"
+  },
+  {
+    "time": "17:10",
+    "quoteFirst": "",
+    "quoteTime": "Ten minutes past five",
+    "quoteLast": "—no less!",
+    "title": "Fiander's Widow: A Novel",
+    "author": "Francis, M. E., 1859-1930",
+    "gutenbergReference": "66622",
+    "hash": "246603b4d0ebdfd82c3ee9db497c41c94963feeb62e27227cc280c89ca5daa23"
   },
   {
     "time": "17:10",
@@ -21,53 +91,103 @@
   },
   {
     "time": "17:10",
-    "quoteFirst": "They'll be here on the ",
+    "quoteFirst": "Cavalry drill at ",
+    "quoteTime": "5.10 P.M.",
+    "quoteLast": " Six second-classmen turned out.",
+    "title": "Henry Ossian Flipper, the Colored Cadet at West Point\r\nAutobiography of Lieut. Henry Ossian Flipper, U.S.A., First Graduate of Color from the U.S. Military Academy",
+    "author": "Flipper, Henry Ossian, 1856-1940",
+    "gutenbergReference": "2448",
+    "hash": "61054c38dbebb200ccac81f7a27b176b40ab3803b85701288196d710573f4688"
+  },
+  {
+    "time": "17:10",
+    "quoteFirst": "The ",
+    "quoteTime": "five-ten",
+    "quoteLast": " was late as usual, and everybody was dressing for dinner when I arrived at the Hall.",
+    "title": "The Inimitable Jeeves",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "59254",
+    "hash": "ff0aa80b829b5cf8db48016328879fedcfb50ecf04128c8c638699ad973ed910"
+  },
+  {
+    "time": "17:10",
+    "quoteFirst": "As no start was allowed after five-thirty, he hastened zealously and started his official flight at ",
     "quoteTime": "five-ten",
     "quoteLast": ".",
-    "title": "The Second Violin",
-    "author": "Richmond, Grace S. (Grace Smith), 1866-1959",
-    "gutenbergReference": "13209",
-    "hash": "f772cb5a1c846a14c06b9978a690b144dd6070c06028645b4915fb5f4b0582ec"
+    "title": "Aërial Navigation\r\nA Popular Treatise on the Growth of Air Craft and on Aëronautical Meteorology",
+    "author": "Zahm, Albert Francis, 1862-1954",
+    "gutenbergReference": "60277",
+    "hash": "dabf920bbb8d082892c1baa638416fc58078ad90d87ddc65573f98203fde02e6"
   },
   {
     "time": "17:10",
-    "quoteFirst": "He was almost as big as Karns; she was a green-eyed redhead whose ",
+    "quoteFirst": "It was about ",
+    "quoteTime": "ten minutes past five that afternoon",
+    "quoteLast": " when the four Bixbys came.",
+    "title": "The Tangled Threads",
+    "author": "Porter, Eleanor H. (Eleanor Hodgman), 1868-1920",
+    "gutenbergReference": "19336",
+    "hash": "682cb9104d526b21270e64ebeb7f57b42af8d63a38aeeefbc0d0aa3ed8db139c"
+  },
+  {
+    "time": "17:10",
+    "quoteFirst": "\"At ",
+    "quoteTime": "ten minutes past five",
+    "quoteLast": " by Sophy's silver watch (her own property now), letter arrives for Peterssen. Delivered to him by keeper. Evidently unexpected. Evidently of an exciting nature. He reads it, and hurries out of house. What has he done with the key of the private room? Sophy hears a bunch rattle in his pocket as he rushes past her. Almost despairs, but not quite.",
+    "title": "The Mystery of M. Felix",
+    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+    "gutenbergReference": "53263",
+    "hash": "8e615a1fd29af07a265d8c8e9931735a48bcb9e7ce9a995d70c247f954dac2a5"
+  },
+  {
+    "time": "17:10",
+    "quoteFirst": "At a little after 4 Uncle Ernest and my Cousins came up to us and stayed in my room till ",
+    "quoteTime": "10 minutes past 5",
+    "quoteLast": ".",
+    "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
+    "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
+    "gutenbergReference": "75138",
+    "hash": "11ef84343d6c1240faf5cb71a8fdeacc61dba52e480c811f377f5adca6c04da8"
+  },
+  {
+    "time": "17:10",
+    "quoteFirst": "There’s a train at ",
     "quoteTime": "five-ten",
-    "quoteLast": " and one-fifty would have looked big except for the arrangement thereof.",
-    "title": "Masters of Space",
-    "author": "Smith, E. E. (Edward Elmer), 1890-1965; Evans, E. Everett (Edward Everett), 1893-1958; Berry, Phil [Illustrator]",
-    "gutenbergReference": "22754",
-    "hash": "dcb2a74ab4b695092bebe787482373056bdc18cb0cf61655897c2ca9d2785725"
+    "quoteLast": ".",
+    "title": "Less than kin",
+    "author": "Miller, Alice Duer, 1874-1942",
+    "gutenbergReference": "71674",
+    "hash": "398f6db2bea09195a3e4b0d748de433246afe421314ef1c5209285c00e80337e"
   },
   {
     "time": "17:10",
-    "quoteFirst": "Returning, train will leave     Ridgefield at ",
-    "quoteTime": "5:10 P.M.",
-    "quoteLast": ", arriving New York at 7.02 P.M.",
-    "title": "Etiquette",
-    "author": "Post, Emily, 1872-1960",
-    "gutenbergReference": "14314",
-    "hash": "b7fe87276a5ac885a254f1fe95e0e6e4dcc6060cbed8728a1e180ae632f77b1f"
+    "quoteFirst": "They arrived at the shop a little before knocking-off time—about ",
+    "quoteTime": "ten minutes past five",
+    "quoteLast": ".",
+    "title": "The Ragged Trousered Philanthropists",
+    "author": "Tressell, Robert, 1870-1911",
+    "gutenbergReference": "3608",
+    "hash": "792659fdf7dc55374418b9df353f5b46caf1f96c0fccc8c2ed91eec71f533a0b"
   },
   {
     "time": "17:10",
-    "quoteFirst": "The unsuspecting Hicks might have detected the nigger in the woodpile, had he not been so anxious to make ",
+    "quoteFirst": "And T. Haviland Hicks, Jr., vainly essayed to clear ",
     "quoteTime": "five-ten",
-    "quoteLast": " in the high-jump.",
+    "quoteLast": " In the high-jump!",
     "title": "T. Haviland Hicks, Senior",
     "author": "Elderdice, James Raymond, 1889-1967",
     "gutenbergReference": "8550",
-    "hash": "d5b051091968f65d147eb5d21e9c02c9d169323a5b5b96064186c90b36f52d46"
+    "hash": "cccd4f683698d6f4ee51d386dfa49a502fc937526bec7c52759bb6067390dc98"
   },
   {
     "time": "17:10",
-    "quoteFirst": "The order to abandon ship was given at ",
+    "quoteFirst": "I     would suggest the far more interesting route via Willem I.     Starting at 5.57 a.m. or 8.17 a.m., Djocja is reached at 2.16     p.m. or ",
     "quoteTime": "5.10 p.m.",
-    "quoteLast": ", ten minutes after the ship had been struck, and was carried out without casualties.",
-    "title": "The German pirate",
-    "author": "Ajax",
-    "gutenbergReference": "50865",
-    "hash": "a27bd6b6b584a9bb4ad39bb3e028fe3fb6bf66db09b27bd8eed1424af8c25093"
+    "quoteLast": " The 10.50 a.m. train, I found, went only as     far as Magelang, so I started at 2.9 p.m., and, after a     delightful run, reached Kedoeng Djattie, a fine junction     station, where we changed cars.",
+    "title": "Across the Equator: A Holiday Trip in Java",
+    "author": "Reid, Thomas H.",
+    "gutenbergReference": "27556",
+    "hash": "39254b09087d69e631a0f5bb39854ab643ecf084a93507cdbe44b5a3633ca723"
   },
   {
     "time": "17:10",
@@ -78,25 +198,5 @@
     "author": "Garrett, Randall, 1927-1987",
     "gutenbergReference": "30742",
     "hash": "a61edad9790b8982f4489626c28c96f6dab09ab3082641e26552329ec9dfad3a"
-  },
-  {
-    "time": "17:10",
-    "quoteFirst": "was the retort, \"and in another hour it'll be ",
-    "quoteTime": "ten minutes past five",
-    "quoteLast": ".\"",
-    "title": "Malcolm Sage, Detective",
-    "author": "Jenkins, Herbert George, 1876-1923",
-    "gutenbergReference": "28084",
-    "hash": "d03833b96cebf44d3f7f71bdcb513066d3c7c562b3d858dc6299d3dc6e9b5bb7"
-  },
-  {
-    "time": "17:10",
-    "quoteFirst": "When I looked at my watch and told her it was ",
-    "quoteTime": "ten minutes past five",
-    "quoteLast": ", she jumped up in consternation, and exclaimed: \"Oh, come along quickly. I didn't know it was five yet.\"",
-    "title": "Upsidonia",
-    "author": "Marshall, Archibald, 1866-1934",
-    "gutenbergReference": "39905",
-    "hash": "7819eb9205f25edd667bd5a020e55dc98a99a9f72580e8998a6042d76525b1b8"
   }
 ]

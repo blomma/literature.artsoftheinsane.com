@@ -1,102 +1,202 @@
 [
   {
     "time": "05:30",
-    "quoteFirst": "And, of course, if I don’t have my tea now, I shall be hungry _before_ ",
-    "quoteTime": "five-thirty",
-    "quoteLast": ".",
-    "title": "\"Good-Morning, Rosamond!\"",
-    "author": "Skinner, Constance Lindsay, 1882-1939; Fogarty, Thomas, 1873-1938 [Illustrator]",
-    "gutenbergReference": "57254",
-    "hash": "2ff950bc0b81448548615ca437d475b3c68f50ad4358f1c669f4927274feea37"
-  },
-  {
-    "time": "05:30",
-    "quoteFirst": "They had a charming drive, for it was the end of February, the sun did not set until ",
-    "quoteTime": "half-past five",
-    "quoteLast": ", and the clouds had all rolled away, leaving the most brilliant sky that Olwen remembered to have seen since her arrival.",
-    "title": "The Lonely Stronghold",
-    "author": "Reynolds, Baillie, Mrs., 1861-1939",
-    "gutenbergReference": "42625",
-    "hash": "cae9fb22853e38f2dd01f2e40c0ff8d152b38a548549aa614da21b1915220d60"
-  },
-  {
-    "time": "05:30",
-    "quoteFirst": "The general himself set out, accompanied by the vicar and assistant, and we learn incidentally, and only as a means of conveying an idea of the multitude of idols and figures thrown down by the Spaniards, that the taking of the island having been at half past eight in the morning, they were occupied, with but little intermission, in throwing down, breaking, and burning idols and statues, from that hour until ",
+    "quoteFirst": "Caroline, quite overcome, retired at about ",
     "quoteTime": "half past five",
-    "quoteLast": " in the evening, when the drum called them to eat, which, says the historian, was very necessary after so great labour; and if one day served for destroying the idols, one hundred and forty-five years, in which were erected a fort, churches, and other buildings that now exist, may well have effected the complete destruction of all the native edifices for idol worship.",
-    "title": "Incidents of Travel in Yucatan, Vol. II.",
-    "author": "Stephens, John L., 1805-1852",
-    "gutenbergReference": "33130",
-    "hash": "f0b1f4f2f39d86495be7332c65cf383b80deb1ca9c604752724a5cb0f591a1a0"
+    "quoteLast": " in the evening, after having taken a light soup: but she ordered a dainty supper at ten.",
+    "title": "Petty Troubles of Married Life, Complete",
+    "author": "Balzac, Honoré de, 1799-1850",
+    "gutenbergReference": "16146",
+    "hash": "0bc9a3824eeb68dbb2d2778775ee7b916c9bf5973d68f8572048ce9b87726a4b"
   },
   {
     "time": "05:30",
-    "quoteFirst": "He pursued his way uptown, finding it a longer walk than he anticipated, arriving at ",
-    "quoteTime": "half-past five",
-    "quoteLast": " at Union Square.",
-    "title": "Try and Trust; Or, Abner Holden's Bound Boy",
-    "author": "Alger, Horatio, Jr., 1832-1899",
-    "gutenbergReference": "5778",
-    "hash": "a6e2f046934277b23d73bc81c3da95058688645605c0f09b0f8147f2d8f73b12"
+    "quoteFirst": "About ",
+    "quoteTime": "five-thirty",
+    "quoteLast": " the Villino opened its portals to its first refugees.",
+    "title": "A Little House in War Time",
+    "author": "Castle, Agnes, 1860-1922; Castle, Egerton, 1858-1920; Robinson, Charles, 1870-1937 [Illustrator]",
+    "gutenbergReference": "63618",
+    "hash": "aa289a1bc9086a652d80b2473b820d1a5fdc6b5571889d444ca167bdbf2982df"
   },
   {
     "time": "05:30",
-    "quoteFirst": "The hands stood at ",
+    "quoteFirst": "_--The weather was cold and raw, with small rain, but our necessities would not suffer us to wait for a favourable change of it, and at ",
+    "quoteTime": "half past five",
+    "quoteLast": " we arrived at the swampy carrying-place, between this branch and the small river.",
+    "title": "Voyages from Montreal Through the Continent of North America to the Frozen and Pacific Oceans in 1789 and 1793. Vol. II",
+    "author": "Mackenzie, Alexander, 1764-1820",
+    "gutenbergReference": "35659",
+    "hash": "5f35b36b0399a8bb86cd35bd45f1f2f8b8c3fe5270370d15c501f95eb468a1c4"
+  },
+  {
+    "time": "05:30",
+    "quoteFirst": "Their cards of invitation had said \"Two to ",
+    "quoteTime": "five-thirty",
+    "quoteLast": " p.m.,\" and it was now eight o'clock; but they could not resist the temptation to see the last of \"the poor dear thing,\" as they agreed to call the bride.",
+    "title": "The White Wolf and Other Fireside Tales",
+    "author": "Quiller-Couch, Arthur, 1863-1944",
+    "gutenbergReference": "14817",
+    "hash": "f5569a32816dd53ebc227f7c69cacae9e1b4b2f1bda58d029693604d3ed58fad"
+  },
+  {
+    "time": "05:30",
+    "quoteFirst": "Dinner at ",
     "quoteTime": "half-past five",
+    "quoteLast": " going to theatre.\"",
+    "title": "Sandra Belloni — Volume 3",
+    "author": "Meredith, George, 1828-1909",
+    "gutenbergReference": "4415",
+    "hash": "bf7d4c4ef20300e1ca590ea0314baa8a424839516645c6d36a756b33f2b9bedc"
+  },
+  {
+    "time": "05:30",
+    "quoteFirst": "He left the office and arrived in the Gagarinskaya about ",
+    "quoteTime": "half-past five",
+    "quoteLast": " in the evening.",
+    "title": "The Secret City",
+    "author": "Walpole, Hugh, 1884-1941",
+    "gutenbergReference": "12349",
+    "hash": "6a4a5e92f7d91d5f62ee67c0cf0386cda527c92f9690beda0534ec3650c03326"
+  },
+  {
+    "time": "05:30",
+    "quoteFirst": "A church was improvised out of logs and canvas, and services were held daily at ",
+    "quoteTime": "half past five",
+    "quoteLast": " in the morning and in the evening.",
+    "title": "The Scandinavian Element in the United States\nUniversity of Illinois Studies in the Social Sciences, Vol. 111, No. 3, September, 1914",
+    "author": "Babcock, Kendric Charles, 1864-1932",
+    "gutenbergReference": "43939",
+    "hash": "97045129c038207675106f2c013a2a7e91f7ef23f4bf015aa81b257d6981ddbb"
+  },
+  {
+    "time": "05:30",
+    "quoteFirst": "And I shall dine at ",
+    "quoteTime": "half-past five",
+    "quoteLast": " myself, so that we may both be drinking our wine at the same time; and I shall tell my Mary (for I have got a daughter of that name but she is a very small one as yet) to drink your health too; and we shall try and make believe that you are here, or that we are in Russell Square, which is the best thing we can do, I think, under the circumstances.",
+    "title": "The Letters of Charles Dickens. Vol. 1, 1833-1856",
+    "author": "Dickens, Charles, 1812-1870; Dickens, Mamie, 1838-1896 [Editor]; Hogarth, Georgina, 1827-1917 [Editor]",
+    "gutenbergReference": "25852",
+    "hash": "2bfbcd2df9d1c9b77c8ad41ea61f644d4843dc1f40bb111c8538f98923059c07"
+  },
+  {
+    "time": "05:30",
+    "quoteFirst": "\"Two o'clock, Mrs. Lesueur; two-thirty, Miss Mendish; three, the Dean of Greystone; three-thirty, Lady Carle; four, Madame de Lys; four-thirty, Mrs. Harringby; five, Sir Henry Grebe; ",
+    "quoteTime": "five-thirty",
+    "quoteLast": ", Mrs. Chepstow.\"",
+    "title": "Bella Donna: A Novel",
+    "author": "Hichens, Robert, 1864-1950",
+    "gutenbergReference": "17698",
+    "hash": "41c12bbfa3c4d4b010d06c235d720b188fedcc7c233bba34618b6650cfa1b0e4"
+  },
+  {
+    "time": "05:30",
+    "quoteFirst": "\"It is nearly six now, and I told Lord Hemsworth we would be at the entrance at ",
+    "quoteTime": "half-past five",
+    "quoteLast": ".\"",
+    "title": "Diana Tempest, Volume II",
+    "author": "Cholmondeley, Mary, 1859-1925",
+    "gutenbergReference": "37974",
+    "hash": "c4c4a12a0566dec614339416b7546cbbcb9183c3792f4b815a96807fd54a0b23"
+  },
+  {
+    "time": "05:30",
+    "quoteFirst": "We went at ",
+    "quoteTime": "half-past five",
+    "quoteLast": ", which was feeding-time; and there we saw nine thousand five hundred starving wretches all seated on their hunkers [crouched down in a sitting attitude on their heels], awaiting their food.",
+    "title": "Chambers's Journal of Popular Literature, Science, and Art, No. 727, December 1, 1877",
+    "author": "Various; Chambers, Robert, 1802-1871 [Editor]; Chambers, William, 1800-1883 [Editor]",
+    "gutenbergReference": "51784",
+    "hash": "4771707d61ecae3fcaaf242454ef2bb62e3a175174ef951bced5e48305bcccba"
+  },
+  {
+    "time": "05:30",
+    "quoteFirst": "On the following morning we set out at about six o'clock, being awakened at about ",
+    "quoteTime": "half-past five",
+    "quoteLast": " by a numerous army of gnats or _moscos_.",
+    "title": "The Putumayo, the Devil's Paradise\r\nTravels in the Peruvian Amazon Region and an Account of the Atrocities Committed upon the Indians Therein",
+    "author": "Hardenburg, W. E. (Walter Ernest), 1886-1942; Casement, Roger, 1864-1916 [Contributor]; Enock, C. Reginald (Charles Reginald), 1868-1970 [Editor]",
+    "gutenbergReference": "45204",
+    "hash": "92e76961070f86a71b96a15ddc3c93d657af012a031c42a0ea864e689ce92008"
+  },
+  {
+    "time": "05:30",
+    "quoteFirst": "\"I will have to go to the Richardsons' home about ",
+    "quoteTime": "five-thirty",
+    "quoteLast": ". I have been there once already this afternoon, but will need some help when I go there again. I know it is past your hour but I hope you can come with me. Miss Doyle, who is the nurse I called for, is on another case, so I cannot get her.\"",
+    "title": "Mary Lee the Red Cross Girl",
+    "author": "Hart, Helen, 1890-1952; Carsey, Alice [Illustrator]",
+    "gutenbergReference": "41097",
+    "hash": "18a64f7b87e724e805d10767fe7c2fa54edd8f46ed59c705114bc76b76e38c19"
+  },
+  {
+    "time": "05:30",
+    "quoteFirst": "We were up at ",
+    "quoteTime": "half-past five",
+    "quoteLast": ", and it was a cold, sharp morning.",
+    "title": "England and Canada\r\nA Summer Tour Between Old and New Westminster, with Historical Notes",
+    "author": "Fleming, Sandford, 1827-1915",
+    "gutenbergReference": "50433",
+    "hash": "9ebae914c568faffd38f90a6694d7c4c84c91c68a1890c45dcdddb3b2042b328"
+  },
+  {
+    "time": "05:30",
+    "quoteFirst": "The letter was addressed in an unfamiliar hand, and the postmark showed it had passed through the Phœnix post-office at 4 P. M. It was then only ",
+    "quoteTime": "half-past 5",
     "quoteLast": ".",
-    "title": "When God Laughs, and Other Stories",
-    "author": "London, Jack, 1876-1916",
-    "gutenbergReference": "2545",
-    "hash": "a88052fc0a859b9795ea554581a18241d24647a7f645a8132c46394f8e0c96f8"
+    "title": "Buffalo Bill's Girl Pard; Or, Dauntless Dell's Daring",
+    "author": "Ingraham, Prentiss, 1843-1904",
+    "gutenbergReference": "63176",
+    "hash": "e8ca801a69e8014040d677a1c2faaa4e273ee12e39f3a22d206cc68a4268579d"
   },
   {
     "time": "05:30",
-    "quoteFirst": "From then to ",
+    "quoteFirst": "At ",
     "quoteTime": "half-past five",
-    "quoteLast": " she sat the most agonised girl, probably, in all the agonised world.",
-    "title": "The dragon",
-    "author": "Shiel, M. P. (Matthew Phipps), 1865-1947",
-    "gutenbergReference": "77957",
-    "hash": "eb3d26294dba7864903a18d081362ba07c47e8893935a09f2b4ac09ae6f385a2"
+    "quoteLast": ", doors     broken in, taken to the Mill, near the Tile-works.",
+    "title": "The Memoirs of François René Vicomte de Chateaubriand sometime Ambassador to England, Volume 2 (of 6)\r\nMémoires d'outre-tombe, volume 2",
+    "author": "Chateaubriand, François-René, vicomte de, 1768-1848; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
+    "gutenbergReference": "54788",
+    "hash": "80f353ecfca2e6f62546b1329dfd9456d3247d055b9fef80c7cc196e161430d4"
   },
   {
     "time": "05:30",
-    "quoteFirst": "Around ",
-    "quoteTime": "half-past five",
-    "quoteLast": " he would not have been noticed.”",
-    "title": "Harry Harding's Year of Promise",
-    "author": "Raymond, Alfred",
-    "gutenbergReference": "52872",
-    "hash": "cd60b7c6b9e91b588d3843a609305dde623068ed3601a0f3e7fede5264857a6e"
+    "quoteFirst": "Every morning you're up at ",
+    "quoteTime": "five-thirty",
+    "quoteLast": ", then you're at work all day, and I never talk to you - \"",
+    "title": "\"Undo\": A Novel",
+    "author": "Hutsko, Joe, 1963-",
+    "gutenbergReference": "480",
+    "hash": "04c3318b69c4a03fec43384d666553c7e492aa190f69e85ff3508ccb85897bc7"
   },
   {
     "time": "05:30",
-    "quoteFirst": "She may, if she wishes, specify a certain hour for calling on her at-home card, but if she prefers to leave the hour open, she should be prepared to greet her guests from three o'clock in the afternoon until a little before ",
-    "quoteTime": "half-past five",
-    "quoteLast": ".",
-    "title": "Book of Etiquette, Volume I",
-    "author": "Watson, Lillian Eichler, 1902-",
-    "gutenbergReference": "35975",
-    "hash": "93b2a65a4a5f65e197e54882cd0b1519f71b595ccd3a0bf32bb5561c460dd5f7"
+    "quoteFirst": "Come back about ",
+    "quoteTime": "five-thirty",
+    "quoteLast": ", and I’ll take you to my place.”",
+    "title": "Two Boys of the Battleship; Or, For the Honor of Uncle Sam",
+    "author": "Webster, Frank V.",
+    "gutenbergReference": "36323",
+    "hash": "e7cc66335be980f6eb169f34b8959aa0018f4404eef2d947e1e59f1092737ca9"
   },
   {
     "time": "05:30",
-    "quoteFirst": "After the officers had gone I fell in the men and informed them that we were to move at six A.M.; that as they were tired I should post no guard, and as Lieutenant Thompson and myself had business in the city we should not be able to stay with them, but would see them all at ",
+    "quoteFirst": "About ",
     "quoteTime": "half-past five",
-    "quoteLast": " the next morning.",
-    "title": "Reminiscences of the Nineteenth Massachusetts Regiment",
-    "author": "Adams, John G. B. (John Gregory Bishop), 1841-1900",
-    "gutenbergReference": "49014",
-    "hash": "b8391b3e38bd550411d261f6c968a9fce9541d274d86133274fe8626253182af"
+    "quoteLast": " fear was felt by the female servants of the house, in consequence of the volumes of smoke.",
+    "title": "When William IV. Was King",
+    "author": "Ashton, John, 1834-1911",
+    "gutenbergReference": "60415",
+    "hash": "cb545982089398c51d5a7f5347ba60f93011d0c554cfc0d7029858cc59819e24"
   },
   {
     "time": "05:30",
-    "quoteFirst": "\"At ",
+    "quoteFirst": "The boat-swain’s mate got the hose along aft to wash down at ",
     "quoteTime": "half-past five",
-    "quoteLast": " two soldiers, one carrying a spade and the other a lantern, came in. They lit the lantern at a lamp that burned on a table in front of me and went out. Presently I could hear them digging in the yard outside the door.  I believed it was my grave they were digging.  I cannot recall that this made any particular impression upon me.  I considered it in a most casual sort of fashion.  I remember wondering whether it was a deep grave.",
-    "title": "Paths of Glory: Impressions of War Written at and Near the Front",
-    "author": "Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944",
-    "gutenbergReference": "10798",
-    "hash": "19d6c32f6a6d579576c12dad87282120d4add796d82734ac22c9cdc2be20aa26"
+    "quoteLast": "; by-and-by he knocks off and runs up on the bridge--‘Will you please come aft, Mr. Jones,’ he says.",
+    "title": "Lord Jim",
+    "author": "Conrad, Joseph, 1857-1924",
+    "gutenbergReference": "5658",
+    "hash": "56f6b48e9c7e30bb54e4fe1ee14f233c0aec28375e80dda2c449745a5d1b8c2b"
   }
 ]

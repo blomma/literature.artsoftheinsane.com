@@ -1,102 +1,202 @@
 [
   {
     "time": "10:10",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes past ten",
-    "quoteLast": " I saw the soldiers at the door of the prison form up, and then I knew that the twenty prisoners of whom they formed the escort were starting; but the moment they began to move, I fired at the big bell in the campanile, which responded with a loud clang.",
-    "title": "Fashionable Philosophy, and Other Sketches",
-    "author": "Oliphant, Laurence, 1829-1888",
-    "gutenbergReference": "17120",
-    "hash": "24dc92c7ec3aa17ca696d8bde11e893a5403a7cf6fa0432326c06ead9618b504"
+    "quoteFirst": "The third time he called, in a louder tone, \"",
+    "quoteTime": "Ten minutes past ten",
+    "quoteLast": " o'clock!\"",
+    "title": "Men of Our Times; Or, Leading Patriots of the Day\r\nBeing narratives of the lives and deeds of statesmen, generals, and orators. Including biographical sketches and anecdotes of Lincoln, Grant, Garrison, Sumner, Chase, Wilson, Greeley, Farragut, Andrew, Colfax, Stanton, Douglass, Buckingham, Sherman, Sheridan, Howard, Phillips and Beecher.",
+    "author": "Stowe, Harriet Beecher, 1811-1896",
+    "gutenbergReference": "46347",
+    "hash": "6dcd88b1cd855a587514359726b7d143ecb8ae58d2734542c362b0747f89f465"
   },
   {
     "time": "10:10",
-    "quoteFirst": "At ",
+    "quoteFirst": "About ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": " I saw him in a car coming from the direction of Stafford.",
+    "title": "Trial of William Palmer",
+    "author": "Knott, George H., -1924 [Editor]",
+    "gutenbergReference": "52264",
+    "hash": "c381e163fa03f9d6fc5b4768070faf08dfb8a698d919ffa48c2ddc7cb80c1d59"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "“That night I made a reconnaissance of the house and saw Kara's window was lit and at ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": " I rang the bell and I think it was then that I applied the test of the beard. Kara was in his room, the valet told me, and led the way upstairs. I had come prepared to deal with this valet for I had an especial reason for wishing that he should not be interrogated by the police. On a plain card I had written the number he bore in Dartmoor and had added the words, 'I know you, get out of here quick.'",
+    "title": "The Clue of the Twisted Candle",
+    "author": "Wallace, Edgar, 1875-1932",
+    "gutenbergReference": "2688",
+    "hash": "2f08931cd2ced179905bd45a501a7e90d913ef06478d9c3a9f7fc5bf379750cd"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "About ",
     "quoteTime": "ten minutes after ten",
-    "quoteLast": ", a fire was observed on board _L’Orient_, the French Admiral’s Ship, which seemed to proceed from the after part of the cabin, and which increased with great rapidity, presently involving the whole of the after part of the Ship in flames.",
-    "title": "The Boys' Nelson",
-    "author": "Wheeler, Harold, 1877-",
-    "gutenbergReference": "50731",
-    "hash": "8c16ddb3a02c9e531f761929c46fd928b48323e92444922adbfddea7260a83d7"
+    "quoteLast": " by the clock, the moon was near the zenith, and the sun rose an instant later.",
+    "title": "The man who mastered time",
+    "author": "Cummings, Ray, 1887-1957; Valigursky, Ed, 1926-2009 [Illustrator]",
+    "gutenbergReference": "76503",
+    "hash": "90b283157aa54fd097d69c544a41ef55f711bf2da4f2581495d720e8bda58077"
   },
   {
     "time": "10:10",
-    "quoteFirst": "\"I want to catch the ",
+    "quoteFirst": "March 1: ",
+    "quoteTime": "10.10 a. m.",
+    "quoteLast": ", 8 cc 2 per cent caffein (0.1 gram per kilo) solution injected into peritoneal cavity; 10.40 a.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "hash": "95557ade975358051bdb84e407ffc76b4d41af81505092492b5a19b5762deb45"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "The hand went from nine to ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": ".",
+    "title": "Clayhanger",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "21249",
+    "hash": "b662e46205b4aa7e35943599de62772599935868e887d457138529c8cc33c10d"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "On the left there was a chest of drawers, on the right a mantelpiece surmounted by a damaged clock without a pendulum, the hands of which marked ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": ".",
+    "title": "Four Short Stories By Emile Zola",
+    "author": "Zola, Émile, 1840-1902",
+    "gutenbergReference": "1069",
+    "hash": "bc0b54663fa7c4b71f13e03c0bb5e9063f2eb5a5fe65edbba351381de84d007a"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "About ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": " I saw him in a car coming from the direction of Stafford.",
+    "title": "Trial of William Palmer",
+    "author": "Knott, George H., -1924 [Editor]",
+    "gutenbergReference": "52264",
+    "hash": "c381e163fa03f9d6fc5b4768070faf08dfb8a698d919ffa48c2ddc7cb80c1d59"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "'Seven minutes, or ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": ".'",
+    "title": "The Romany Rye\nA Sequel to 'Lavengro'",
+    "author": "Borrow, George, 1803-1881; Sampson, John, 1862-1931 [Editor]",
+    "gutenbergReference": "25071",
+    "hash": "bf9047ddb87fabc90c89600c63b3b04d4d9b5c9fd74c40674155541927c2da3c"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "But he was certainly in company with a man named Harris in Eton Square a little before 6.30, and the two remained together until ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": ".",
+    "title": "Mysteries of Police and Crime, Vol. 1 (of 3)",
+    "author": "Griffiths, Arthur, 1838-1908",
+    "gutenbergReference": "46846",
+    "hash": "c6d7205d2973daec872caea7b1b69b76e041799ed3bee5ed2ca99300cf58c190"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "He was painstakingly writing, and, when the ",
     "quoteTime": "ten-ten",
-    "quoteLast": " for Elizabeth.\"",
-    "title": "That Affair at Elizabeth",
-    "author": "Stevenson, Burton Egbert, 1872-1962",
-    "gutenbergReference": "35247",
-    "hash": "815ce3af42915311599e4efe4df0a6cb932828ec057dd2082cd1bb762ae172a7"
+    "quoteLast": " train arrived, Gibralter Strait was on the platform waiting to send to the nearby city of Boston the very first letter that he had ever written.",
+    "title": "The Phantom Yacht",
+    "author": "Norton, Carol, 1876-; Curley, D. [Illustrator]",
+    "gutenbergReference": "44401",
+    "hash": "e589e9333e028d9e56ef78dc9c243ee0daf66f97c952bbb75e2d407aa3dd7e1b"
   },
   {
     "time": "10:10",
-    "quoteFirst": "Started at ",
-    "quoteTime": "10.10 a.m.",
-    "quoteLast": " on the same bearing as yesterday, 120 degrees, and at four miles ascended the peak on the range.",
-    "title": "Explorations in Australia\r\nThe Journals of John McDouall Stuart During the Years 1858, 1859, 1860, 1861, and 1862, When He Fixed the Centre of the Continent and Successfully Crossed It from Sea to Sea",
-    "author": "Stuart, John McDouall, 1815-1866",
-    "gutenbergReference": "8911",
-    "hash": "8acbb0768b10a20f604c9313d9b39235eccdc9acaaafb1f4437cf5c418a4c1d2"
+    "quoteFirst": "Presently, as the hour of ten o'clock approached, one of his guilty associates called the time; they wait; again, as the moments elapsed, this conspirator upon watch called the time; again, as the appointed hour draws nigh, he calls the time; and finally, when the fatal moment arrives, he repeats in a louder tone, \"",
+    "quoteTime": "Ten minutes past ten",
+    "quoteLast": " o'clock!\"",
+    "title": "Assassination of Lincoln: a History of the Great Conspiracy\r\nTrial of the Conspirators by a Military Commission, and a Review of the Trial of John H. Surratt",
+    "author": "Harris, T. M. (Thomas Mealey), 1817-1906",
+    "gutenbergReference": "42855",
+    "hash": "114287e93b691f8c138137c1bf7272c3b97a600d4a39c1121aaad490fac327da"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "I arrived here really at ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": ", and walked up and down outside till people began to stare at me, so I came in.\"",
+    "title": "Fanny Lambert: A Novel",
+    "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
+    "gutenbergReference": "55454",
+    "hash": "b8245be4a7ffe6f481c143b81ccbcf21709d1438ba17e42d050e3d78255abbd0"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "As they turned in at the gate, the hands of the town clock marked ",
+    "quoteTime": "ten minutes after ten",
+    "quoteLast": ", and Theodora's spirits fell slightly.",
+    "title": "Teddy: Her Book\nA Story of Sweet Sixteen",
+    "author": "Ray, Anna Chapin, 1865-1945; George, Vesper L. [Illustrator]",
+    "gutenbergReference": "24361",
+    "hash": "500d535960f39343ca80ab870b4ac199ece15f59f748cdb2cb58f2509b79b314"
   },
   {
     "time": "10:10",
     "quoteFirst": "At ",
-    "quoteTime": "10 minutes past 10",
-    "quoteLast": " P.M. a very extraordinary meteor alarmed the camp, and awoke every man in it.",
-    "title": "Journal of an Expedition into the Interior of Tropical Australia, in Search of a Route from Sydney to the Gulf of Carpentaria (1848)",
-    "author": "Mitchell, T. L. (Thomas Livingstone), 1792-1855",
-    "gutenbergReference": "9943",
-    "hash": "da7145e569fcbddf38c135e2a961d73ecb3ed311ef5eceefb86df78fe0860750"
+    "quoteTime": "10.10 A.M.",
+    "quoteLast": " a report was received from submarine E 23, on patrol in the Heligoland Bight, that she had sighted ships of the High Sea Fleet steering west at 9.19 A.M.; the position as received in the signal appeared incorrect, and I rightly assumed it to be Lat.",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "hash": "6ebbcbd6580273c4458b6264e4a616615f4a3b82f66109370f4d11eb8d60e013"
   },
   {
     "time": "10:10",
-    "quoteFirst": ", respectively, and reaching Ogdensburgh at ",
-    "quoteTime": "10:10 a. m.",
-    "quoteLast": " As No. 8, the accommodation returned, leaving Ogdensburgh at 4:30 p.",
-    "title": "The Story of the Rome, Watertown, and Ogdensburg Railroad",
-    "author": "Hungerford, Edward, 1875-1948",
-    "gutenbergReference": "39021",
-    "hash": "030feef798fa1c31efb78bb850547e9dc8342e784d25f89d9d64c8ef382e9f7c"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "I got in here at ",
-    "quoteTime": "ten past ten",
-    "quoteLast": ", and the last straw was that Betty had no sandwiches left.",
-    "title": "In the Royal Naval Air Service\r\nBeing the war letters of the late Harold Rosher to his family",
-    "author": "Rosher, Harold, 1893-1916; Bennett, Arnold, 1867-1931 [Author of introduction, etc.]",
-    "gutenbergReference": "53168",
-    "hash": "3c437466bffab75c6f04b904389ad6b7d20f6583b916fae99bbf45b3c1b6102d"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "They were standing in a group, almost where Police Constable Farrow had stood at ",
+    "quoteFirst": "While Müller, who professed to be an animated time-table, swore that we were just too late for the ",
     "quoteTime": "ten minutes past ten",
-    "quoteLast": " the previous morning.",
-    "title": "The Strange Case of Mortimer Fenley",
-    "author": "Tracy, Louis, 1863-1928",
-    "gutenbergReference": "26447",
-    "hash": "02706b994944347b20ac34a71fc6a3c43b3b9305c467124d19a3576c87e8134e"
+    "quoteLast": " train, and that there would be no other before eleven forty-five.",
+    "title": "In the Days of My Youth: A Novel",
+    "author": "Edwards, Amelia B., 1831-1892",
+    "gutenbergReference": "12442",
+    "hash": "e1e8f51805481c900012025a5acd90ea56394d29c50d436d8d79ea1aa7ef02aa"
   },
   {
     "time": "10:10",
-    "quoteFirst": "Look at the time--nearly ",
-    "quoteTime": "ten minutes past ten",
-    "quoteLast": ", and I have been out since half-past eight.\" She bent to kiss Mrs. Brenton, and then gave Caroline a smile and a little nod, as Agnes Brenton hurriedly introduced them.",
-    "title": "Capricious Caroline",
-    "author": "Rowlands, Effie Adelaide, 1866-1936",
-    "gutenbergReference": "34166",
-    "hash": "c7d9fc9a993f5358cd59a2688be67a667ad5e08e43bb7c70f0d3903f8fa6fa23"
-  },
-  {
-    "time": "10:10",
-    "quoteFirst": "\"Why, it's ",
+    "quoteFirst": "\"Why,\" repeated LIBBY, half-frightened, \"it's ",
     "quoteTime": "ten minutes past Ten",
-    "quoteLast": ",\" replied LIBBY, glancing at the face of the watch as it appeared in the mirror, and wondering what would come next.",
+    "quoteLast": ".\"",
     "title": "The Orpheus C. Kerr Papers, Series 2",
     "author": "Newell, R. H. (Robert Henry), 1836-1901",
     "gutenbergReference": "34754",
-    "hash": "88b08b6adc535425d8ad166f56cd7457929d0d84d81892c909bdfee04acde916"
+    "hash": "ec6b3895fb40ba96f5ed8a52bae6e0137c741d86f5cd78c22ddb13c27f7953c2"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "Horrified he looked at his watch, to find that it was ",
+    "quoteTime": "ten minutes after ten",
+    "quoteLast": ".",
+    "title": "Tutt and Mr. Tutt",
+    "author": "Train, Arthur Cheney, 1875-1945",
+    "gutenbergReference": "10440",
+    "hash": "de04a702033a02b46a04845fdedaacae8b47e9b6b9090f86868ed8749e6e409e"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "The hand went from nine to ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": ".",
+    "title": "Clayhanger",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "21249",
+    "hash": "b662e46205b4aa7e35943599de62772599935868e887d457138529c8cc33c10d"
+  },
+  {
+    "time": "10:10",
+    "quoteFirst": "--Mr Morris, it is ",
+    "quoteTime": "ten minutes past ten",
+    "quoteLast": ".",
+    "title": "Glyn Severn's Schooldays",
+    "author": "Fenn, George Manville, 1831-1909; Pears, Charles, 1873-1958 [Illustrator]",
+    "gutenbergReference": "21312",
+    "hash": "b158f6f6b26313c31d144cdd20f8a1e3df33a017353d84768588b9092ca03f24"
   }
 ]

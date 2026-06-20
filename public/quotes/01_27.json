@@ -2,12 +2,12 @@
   {
     "time": "01:27",
     "quoteFirst": "In thirty-six hours she had covered that distance; and on the 14th of December, at ",
-    "quoteTime": "twenty-seven minutes past one",
-    "quoteLast": " at night, she entered the bay of San Francisco.",
+    "quoteTime": "twenty-seven minutes past one at night",
+    "quoteLast": ", she entered the bay of San Francisco.",
     "title": "From the Earth to the moon; and, round the moon",
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "83",
-    "hash": "a7b5e57b38eeb9a1584d75554505b364a55d4e5ec29dd18e98739608f5fa650d"
+    "hash": "fa4ca58aa7baa219b48d4741ea8c9b77577db4f446bb4e83b657070ddf3b6c94"
   },
   {
     "time": "01:27",
@@ -38,5 +38,15 @@
     "author": "Mathiews, Franklin K. [Editor]",
     "gutenbergReference": "26475",
     "hash": "b5aa34fcf69291c122b73f32f67971e130a1d18107ac51b3f9f137257f22920f"
+  },
+  {
+    "time": "01:27",
+    "quoteFirst": "\"Notice was served at ",
+    "quoteTime": "1:27 AM",
+    "quoteLast": ", City time.\"",
+    "title": "Wall of Crystal, Eye of Night",
+    "author": "Budrys, Algis, 1931-2008; Francis, Dick [Illustrator]",
+    "gutenbergReference": "51726",
+    "hash": "30f23e3fbbaf38ed2dc787603a0ec8edb467fce614c42ace608a2aa28997f0a6"
   }
 ]

@@ -1,73 +1,53 @@
 [
   {
     "time": "18:05",
-    "quoteFirst": "'I will wait for you until ",
+    "quoteFirst": "MESS:      First call, followed by mess call, 6.00 p.m.      Assembly, ",
+    "quoteTime": "6.05 p.m.",
+    "quoteLast": "",
+    "title": "Military Instructors Manual",
+    "author": "Cole, J. P. (James Perry), 1889-1977; Schoonmaker, Oliver, 1882-1968",
+    "gutenbergReference": "14625",
+    "hash": "e8b06c703cb6459232a3218b7758895109515ee559d134085117d4c918f495da"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "I’ll give you till ",
+    "quoteTime": "five past six",
+    "quoteLast": ", as you seem to like lying in bed.”",
+    "title": "Mike",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "7423",
+    "hash": "c0467d23f2d5e8ef4a7b95d16338f717d30ef41cc8bdfdbd4194f1bf9ee4c002"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "In the greatest perturbation he tore his watch from his pocket, and found it was ",
     "quoteTime": "five minutes past six",
-    "quoteLast": ",' I say; and then I go off to my business.",
-    "title": "French and Oriental Love in a Harem",
-    "author": "Uchard, Mario, 1824-1893; Avril, Paul, 1849-1928 [Illustrator]",
-    "gutenbergReference": "21868",
-    "hash": "4ec895a83c9f7767cc18d7ac9a3fbe00ca983ac2e4d090dc3138e68e570d8c72"
+    "quoteLast": "; but he knew that he was rather slower than French time.",
+    "title": "Mildred Arkell: A Novel. Vol. 2 (of 3)",
+    "author": "Wood, Henry, Mrs., 1814-1887",
+    "gutenbergReference": "39377",
+    "hash": "b77acdb26b50a79576a5c41f66e693f3c6f9fcfe0efa5a6591c2155631edc36e"
   },
   {
     "time": "18:05",
-    "quoteFirst": "The gallopers rattled across the pool table and went to sleep with a ",
-    "quoteTime": "six-five",
-    "quoteLast": " staring the Spindlin' Spider in the face.",
-    "title": "Lady Luck",
-    "author": "Wiley, Hugh, 1884-",
-    "gutenbergReference": "26165",
-    "hash": "49b45925555f63968d770896f54c9c0285f5be1a8f9a17a665875423abe1b93d"
+    "quoteFirst": "I’ll give you till ",
+    "quoteTime": "five past six",
+    "quoteLast": ", as you seem to like lying in bed.”",
+    "title": "Mike",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "7423",
+    "hash": "c0467d23f2d5e8ef4a7b95d16338f717d30ef41cc8bdfdbd4194f1bf9ee4c002"
   },
   {
     "time": "18:05",
-    "quoteFirst": "It was ",
-    "quoteTime": "five minutes past six",
-    "quoteLast": ".",
-    "title": "McClure's Magazine, Vol. 6, No. 5, April, 1896",
-    "author": "Various",
-    "gutenbergReference": "14663",
-    "hash": "c576bcf2f041adc53fab6f2fc580af615a728e76d4a1604d709c31526d5ae987"
-  },
-  {
-    "time": "18:05",
-    "quoteFirst": "I looked at my watch, and to my horror I saw it was ",
-    "quoteTime": "five minutes past six",
-    "quoteLast": ".",
-    "title": "Pomona's Travels\r\nA Series of Letters to the Mistress of Rudder Grange from her Former Handmaiden",
-    "author": "Stockton, Frank R., 1834-1902; Frost, A. B. (Arthur Burdett), 1851-1928 [Illustrator]",
-    "gutenbergReference": "12460",
-    "hash": "68f32608a69894f4ba8e23199124f777f38953783a250d0006788731f4bb0e8d"
-  },
-  {
-    "time": "18:05",
-    "quoteFirst": "Upon the huge sarcophagus which served for mantelpiece, a gilt clock, under a glass dome, registered ",
-    "quoteTime": "five minutes past six",
-    "quoteLast": ", with stationary hands.",
-    "title": "The Yoke of the Thorah",
-    "author": "Harland, Henry, 1861-1905",
-    "gutenbergReference": "54854",
-    "hash": "b2b383e78fd455480ad9930fe1364021cab5b37f80c12870671c7d5e116fbfb9"
-  },
-  {
-    "time": "18:05",
-    "quoteFirst": "It was about ",
-    "quoteTime": "five minutes past six",
-    "quoteLast": " when I was admitted and I went right up to my client's room.",
-    "title": "Further Adventures of Quincy Adams Sawyer and Mason Corner Folks",
-    "author": "Pidgin, Charles Felton, 1844-1923",
-    "gutenbergReference": "7497",
-    "hash": "55e95a4f6c90db6c4146558eb27cd0a6347001123eef9fbceb0b4986c91f9d1a"
-  },
-  {
-    "time": "18:05",
-    "quoteFirst": "The time during which the Muslim is allowed to eat (commencing, as already stated, at sunset) varies from 11 hours ",
-    "quoteTime": "55 minutes to 7",
-    "quoteLast": " hours 46 minutes (in the latitude of Cairo), according as the night is long or short: the imsák being always twenty minutes before the period of the prayer of daybreak.",
-    "title": "An account of the manners and customs of the modern Egyptians",
-    "author": "Lane, Edward William, 1801-1876",
-    "gutenbergReference": "70796",
-    "hash": "9afeb1dd659f22c1cb0a23fe3f8c181370fef20eaeb6c6be0a375cac1bc55bb2"
+    "quoteFirst": "MESS:      First call, followed by mess call, 6.00 p.m.      Assembly, ",
+    "quoteTime": "6.05 p.m.",
+    "quoteLast": "",
+    "title": "Military Instructors Manual",
+    "author": "Cole, J. P. (James Perry), 1889-1977; Schoonmaker, Oliver, 1882-1968",
+    "gutenbergReference": "14625",
+    "hash": "e8b06c703cb6459232a3218b7758895109515ee559d134085117d4c918f495da"
   },
   {
     "time": "18:05",
@@ -81,6 +61,96 @@
   },
   {
     "time": "18:05",
+    "quoteFirst": "It was ",
+    "quoteTime": "five minutes past six",
+    "quoteLast": ".",
+    "title": "The Four Faces: A Mystery",
+    "author": "Le Queux, William, 1864-1927",
+    "gutenbergReference": "9795",
+    "hash": "99e208e00b60fe0acdf81d4f04193720c772d8e42485835668e02ae4ef1c3659"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "Punctually at ",
+    "quoteTime": "five minutes past six P. M.",
+    "quoteLast": ", the signal to “Look out!”",
+    "title": "Scientific American Architects and Builders Edition, No. 26, Dec., 1887",
+    "author": "Various",
+    "gutenbergReference": "50927",
+    "hash": "617c931b1d0716dd60965b568220cddec70dd271446be57fb3dc3216f31bf865"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "This game is played by two or four persons, with twenty-eight pieces   of oblong ivory, plain at the back, but on the face divided by a black   line in the middle, and indented with spots, from one to a double-six,   which pieces are a double-blank, ace-black, double-ace, deuce-blank,   deuce-ace, double-deuce, trois-blank, trois-ace, trois-deuce,   double-trois, four-blank, four-ace, four-deuce, four-trois,   double-four, five-blank, five-ace, five-deuce, five-trois, five-four,   double-five, six-blank, six-ace, six-deuce, six-trois, six-four,   ",
+    "quoteTime": "six-five",
+    "quoteLast": ", and double-six.",
+    "title": "Enquire within upon everything\r\nThe great Victorian-era domestic standby",
+    "author": "Philp, Robert Kemp, 1819-1882",
+    "gutenbergReference": "10766",
+    "hash": "2feb91d812cc4811c58814e2b35f933948bf5c680c25b7a93b261f11e01bac37"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "",
+    "quoteTime": "6.05 P.M.",
+    "quoteLast": ": got under weigh in line behind the _Courbet_; the _Renan_ and the _Democratie_ behind us.",
+    "title": "Vagabonds of the sea",
+    "author": "Larrouy, Maurice, 1882-1939; Bourne, Randolph Silliman, 1886-1918 [Translator]",
+    "gutenbergReference": "70982",
+    "hash": "f83b87b76428c97d96585a64a098bebcb1707025bbe2d2d64c7d21c56cab516a"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "The gallopers rattled across the pool table and went to sleep with a ",
+    "quoteTime": "six-five",
+    "quoteLast": " staring the Spindlin' Spider in the face.",
+    "title": "Lady Luck",
+    "author": "Wiley, Hugh, 1884-",
+    "gutenbergReference": "26165",
+    "hash": "49b45925555f63968d770896f54c9c0285f5be1a8f9a17a665875423abe1b93d"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "At ",
+    "quoteTime": "five past six",
+    "quoteLast": " the Admiral made the signal to the Princess and Bedford to get into their stations.",
+    "title": "Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II",
+    "author": "Ross, John, Sir, 1777-1856",
+    "gutenbergReference": "27151",
+    "hash": "2f418b6b07d2e970cf68aae0f9942cbe0bdb6e50a310f85964cf714003ab616a"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes past six that evening",
+    "quoteLast": ", Sir Ralph Fairfield was announced.",
+    "title": "The Grell Mystery",
+    "author": "Froest, Frank",
+    "gutenbergReference": "22173",
+    "hash": "7c8b3d6c009a0136587db69aa76d43e98f69cdf7dde14a0f28488ff04ffa3da5"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "Then, at ",
+    "quoteTime": "five minutes past six",
+    "quoteLast": ", he jumped into a cab and was driven to the Place de la Sorbonne.",
+    "title": "A Son of the Immortals",
+    "author": "Tracy, Louis, 1863-1928; Christy, Howard Chandler, 1873-1952 [Illustrator]",
+    "gutenbergReference": "25017",
+    "hash": "6208086df8c34ca7a9eac5ec80cf910e61ab6afeccf5d2c523b7817ef59bba26"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "Between these and the main we ran through a channel in from nine to fifteen fathoms, when an immediate and marked change took place in the general appearance and formation of the land: it became high, precipitous, sterile, and rugged; intersected with deep ravines and water courses, having ",
+    "quoteTime": "six-five",
+    "quoteLast": " fathoms at a quarter of a mile, and fifteen fathoms one hundred yards from the cliffs, which proved exceedingly fortunate as the whole pack, which had apparently only just broken from the shore, was within half a mile, and, in many places, so close to it, that to avoid getting beset, we had nearly to touch the land; indeed, upon several occasions, the boats were compelled to be topped-up, and poles used to keep the vessel off the grounded ice; which extends all along this coast; nor could we round to, fearful of carrying the jib-boom away against the cliffs, which here run nearly east and",
+    "title": "The Great White North\nThe story of polar exploration from the earliest times to the discovery of the pole",
+    "author": "Wright, Helen S. (Helen Saunders), 1874-1957",
+    "gutenbergReference": "65106",
+    "hash": "918a551d1e096062a03edbf1e0fd99f38ef1f1d17c30108017ffa5da971cb435"
+  },
+  {
+    "time": "18:05",
     "quoteFirst": "When I reached the station it was ",
     "quoteTime": "five minutes past six",
     "quoteLast": ".”",
@@ -91,12 +161,42 @@
   },
   {
     "time": "18:05",
-    "quoteFirst": "Leave New York (Pennsylvania Station)      ",
-    "quoteTime": "6:05 P. M.",
-    "quoteLast": ", Saturday",
-    "title": "Reno — a Book of Short Stories and Information",
-    "author": "Stratton, Lilyan",
-    "gutenbergReference": "5951",
-    "hash": "b55c12396d9deec0b4a37c088121b7bd79287fa63668f88e5fb6761d314aad51"
+    "quoteFirst": "The fact is, we do not _go up_ at all; but at about ",
+    "quoteTime": "five minutes past six",
+    "quoteLast": " on the evening of Friday, the 14th of September, 1838--at about that time, Vauxhall Gardens, with all the people in them, _went down_!\" What follows is excellent. \"I can not have been deceived,\" says he; \"I speak from the evidence of my senses, founded upon repetition of the fact.",
+    "title": "Harper's New Monthly Magazine Vol. IV, No. 19, Dec 1851",
+    "author": "Various",
+    "gutenbergReference": "38399",
+    "hash": "48908cd8a09a125846d9060235a3cf73c25e61f4840060bfe67f1e2bac4806f7"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "Quincy had intended after seeing a publisher to leave the manuscripts for examination, then to take tea with his mother and sisters, and go back to Eastborough on the ",
+    "quoteTime": "five minutes past six",
+    "quoteLast": " express.",
+    "title": "Quincy Adams Sawyer and Mason's Corner Folks\nA Picture of New England Home Life",
+    "author": "Pidgin, Charles Felton, 1844-1923",
+    "gutenbergReference": "16414",
+    "hash": "f34f8faa0b7219bb3deee44ec0995d45686d26436851b4b847d59a2afb76013e"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "The ",
+    "quoteTime": "five minutes past six",
+    "quoteLast": " train, express from Boston, arrived on time, and at twenty minutes of eight, Mr. Quincy Adams Sawyer entered the private dining-room in the Eagle Hotel.",
+    "title": "Quincy Adams Sawyer and Mason's Corner Folks\nA Picture of New England Home Life",
+    "author": "Pidgin, Charles Felton, 1844-1923",
+    "gutenbergReference": "16414",
+    "hash": "b0862c9bbc0319a4b2feaf6c337e0179e4cd6e82f5ec099516a8b5f96dff9742"
+  },
+  {
+    "time": "18:05",
+    "quoteFirst": "The fact is, we do not _go up_ at all; but at about ",
+    "quoteTime": "five minutes past six",
+    "quoteLast": " on the evening of Friday, the 14th of September, 1838--at about that time, Vauxhall Gardens, with all the people in them, _went down_!\" What follows is excellent. \"I can not have been deceived,\" says he; \"I speak from the evidence of my senses, founded upon repetition of the fact.",
+    "title": "Harper's New Monthly Magazine Vol. IV, No. 19, Dec 1851",
+    "author": "Various",
+    "gutenbergReference": "38399",
+    "hash": "48908cd8a09a125846d9060235a3cf73c25e61f4840060bfe67f1e2bac4806f7"
   }
 ]

@@ -1,102 +1,202 @@
 [
   {
     "time": "13:57",
-    "quoteFirst": "Continuing our journey, we arrived at Preston ",
-    "quoteTime": "about 2 o’clock in the afternoon",
-    "quoteLast": ", having with us 39 English Recruits, whom I presented to His Grace the Duke of Perth, giving him an account of what had passed.",
-    "title": "Origins of the 'Forty-five",
-    "author": "Blaikie, Walter Biggar, 1847-1928 [Editor]",
-    "gutenbergReference": "71772",
-    "hash": "f0f260712aeb2f5e28afdcb8a9a74a72916875faf20c6b3cbe8c18052dc6d321"
+    "quoteFirst": "",
+    "quoteTime": "About two o'clock",
+    "quoteLast": " we went into camp, found plenty of forage, and built good fires.",
+    "title": "History of the Thirty-sixth Regiment Massachusetts Volunteers. 1862-1865",
+    "author": "Burrage, Henry S. (Henry Sweetser), 1837-1926; Hodgkins, William H. (William Henry), 1840-1905; Noyes, Edmund W.; Ranlett, S. Alonzo; White, Alonzo A.",
+    "gutenbergReference": "50422",
+    "hash": "9eaf3d0882dcb48da5669ab3025da500b0b5bc4888319b6dba3860b7ce2a3ed3"
+  },
+  {
+    "time": "13:57",
+    "quoteFirst": "The attack of fever was not very violent: ",
+    "quoteTime": "about 2 P.M.",
+    "quoteLast": " I was able to continue my journey, and slept that night on an affluent of the Mustang.",
+    "title": "The Backwoodsman; Or, Life on the Indian Frontier",
+    "author": "Wraxall, Lascelles, Sir, 1828-1865 [Editor]",
+    "gutenbergReference": "37100",
+    "hash": "fcb6875127908373979d813c74adba0101ce13a6295b355e425cd1d7f52a1656"
+  },
+  {
+    "time": "13:57",
+    "quoteFirst": "We arrived at the Morley House ",
+    "quoteTime": "about two o'clock in the afternoon",
+    "quoteLast": ".",
+    "title": "Our Girls",
+    "author": "Lewis, Dio, 1823-1886",
+    "gutenbergReference": "41498",
+    "hash": "d216d25f52ec88ab2059c4545b0187605426828e84007deda43fddec47a166a2"
+  },
+  {
+    "time": "13:57",
+    "quoteFirst": "The weather cleared up ",
+    "quoteTime": "about two in the afternoon",
+    "quoteLast": ", when we got sight of Cape Orleans, and of another about 7 leagues N. and by E. from where we were, which we named Cape _Savage_.",
+    "title": "A General History and Collection of Voyages and Travels — Volume 06\r\nArranged in Systematic Order: Forming a Complete History of the Origin and Progress of Navigation, Discovery, and Commerce, by Sea and Land, from the Earliest Ages to the Present Time",
+    "author": "Kerr, Robert, 1755-1813",
+    "gutenbergReference": "13225",
+    "hash": "e7b2538a7fc99c63888dfaec6749c480515818b9b68cce2162279035845945f6"
+  },
+  {
+    "time": "13:57",
+    "quoteFirst": "The next morning he spent much time on brushing and combing its silky coat and ",
+    "quoteTime": "about two in the afternoon",
+    "quoteLast": " with his heart high in hope he set out for Grosvenor Square, the cat curled round in the lidded basket which Jenkins had brought, filled with vegetables, with him from the country.",
+    "title": "The beating heart",
+    "author": "Cross, Victoria, 1868-1952",
+    "gutenbergReference": "75691",
+    "hash": "d103f1cc7cadfc34773f8ec6a7ff70be1c665469988616ab2eaa134f88e6856b"
+  },
+  {
+    "time": "13:57",
+    "quoteFirst": "Yes, the visit was a wholly unexpected one, for it was Sunday, and ",
+    "quoteTime": "about two o'clock in the afternoon",
+    "quoteLast": ", at a time when, of all others, no man in Dutch India looks to be disturbed.",
+    "title": "Baboe Dalima; or, The Opium Fiend",
+    "author": "Perelaer, M. T. H. (Michael Theophile Hubert), 1831-1901; Venning, Edwin James [Translator]",
+    "gutenbergReference": "60751",
+    "hash": "8d2c9dd99d880df786e8420ffeceecdcec1055e8e0b4c650248374cd25d65bfa"
+  },
+  {
+    "time": "13:57",
+    "quoteFirst": "Meanwhile (",
+    "quoteTime": "about 2 p.m.",
+    "quoteLast": ") Capt.",
+    "title": "Troublous Times in Canada\nA History of the Fenian Raids of 1866 and 1870",
+    "author": "MacDonald, John A. (John Alexander), 1846-1922",
+    "gutenbergReference": "19599",
+    "hash": "b69d5b2ca133f4ac0e71b880be035b4c90a698bfd36b512bb8aa2ea2bf71e6ee"
+  },
+  {
+    "time": "13:57",
+    "quoteFirst": "This tendency exhibits itself about ten o'clock in the forenoon, and they gradually form and enlarge until ",
+    "quoteTime": "about two in the afternoon",
+    "quoteLast": "; and after that, if they do not continue to enlarge and form showers, they melt away and disappear before nightfall.",
+    "title": "The Philosophy of the Weather. And a Guide to Its Changes",
+    "author": "Butler, T. B. (Thomas Belden), 1806-1873",
+    "gutenbergReference": "33429",
+    "hash": "9b3d076277033d23e244c07556f93858f143ec24c5af93b5150dd40bdcb36204"
+  },
+  {
+    "time": "13:57",
+    "quoteFirst": "The ordinary hour for the bath was ",
+    "quoteTime": "about two o’clock in the afternoon",
+    "quoteLast": ", but no one was restricted to any hour from the dawn to sunset.",
+    "title": "The seven books of Paulus Ægineta, volume 1 (of 3)",
+    "author": "Paulus, Aegineta, 625?-690?; Adams, Francis, 1796-1861 [Translator]",
+    "gutenbergReference": "70531",
+    "hash": "81485813fcf83ce0019c71b892f83ed22097f66ef58d5213ed5cd72f7fa71f05"
+  },
+  {
+    "time": "13:57",
+    "quoteFirst": "The 25th day of August, 1751, ",
+    "quoteTime": "about two in the afternoon",
+    "quoteLast": ", I, David Balfour, came forth of the British Linen Company, a porter attending me with a bag of money, and some of the chief of these merchants bowing me from their doors.",
+    "title": "The Works of Robert Louis Stevenson - Swanston Edition, Vol. 11",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "gutenbergReference": "30870",
+    "hash": "06b0aa9796f8a88af3b854e01400843d682c39e2116fbbb3dea437c4efee7203"
   },
   {
     "time": "13:57",
     "quoteFirst": "",
-    "quoteTime": "About 2 P.M.",
-    "quoteLast": " we neared the southern mouth of the Gascoyne, pulled two miles up it, and anchored about a mile and a half to the south of our former position.",
-    "title": "Journals of Two Expeditions of Discovery in North-West and Western Australia, Volume 1",
-    "author": "Grey, George, 1812-1898",
-    "gutenbergReference": "16027",
-    "hash": "156460606e84b013235ff6bc34b7ce9a35360750a890a09d968a7c7f0497f01d"
-  },
-  {
-    "time": "13:57",
-    "quoteFirst": "And ",
-    "quoteTime": "about two P.M.",
-    "quoteLast": " Elys and Davy returned and drank beer at Watyrman’s house.",
-    "title": "The Paston Letters, A.D. 1422-1509. Volume 4 (of 6)\r\nNew Complete Library Edition",
-    "author": "Gairdner, James, 1828-1912 [Editor]",
-    "gutenbergReference": "41081",
-    "hash": "f64ee5d33b04717d77b2806479326ea21e33b9a9a72e4c333c4b4575300370f9"
+    "quoteTime": "About 2 o’clock in the afternoon",
+    "quoteLast": " the Guardians came out of the Devonshire yard in a conveyance, which, contrary to expectations, proceed along North-street.",
+    "title": "Adventures and Recollections",
+    "author": "Bill o'th' Hoylus End, 1836-1897",
+    "gutenbergReference": "29085",
+    "hash": "75ecfe0743f7a6bef91f6ad79c077151016d4cf24dfd9970f5afbecf857f0329"
   },
   {
     "time": "13:57",
     "quoteFirst": "",
-    "quoteTime": "About 2 P.M.",
-    "quoteLast": " the grass in the bottom was set on fire, and      followed up by Indians who encouraged its burning, and it was      evident it was done for a purpose, which purpose I discovered,      later on, to be the creation of a dense cloud of smoke, behind      which they were packing and preparing to move their tepees.",
-    "title": "Eleven Years in the Rocky Mountains and Life on the Frontier\nAlso a History of the Sioux War, and a Life of Gen. George A. Custer with Full Account of His Last Battle",
-    "author": "Victor, Frances Fuller, 1826-1902",
-    "gutenbergReference": "39465",
-    "hash": "4bbdef719ab430766780354abf638875196a1e4827df7a207f2bfa5e858d120f"
-  },
-  {
-    "time": "13:57",
-    "quoteFirst": "The artillerymen worked with great vigour, and were only obliged to desist by an unexpected order which arrived ",
-    "quoteTime": "about two p.m.",
-    "quoteLast": " from General Cialdini.",
-    "title": "Complete Short Works of George Meredith",
-    "author": "Meredith, George, 1828-1909",
-    "gutenbergReference": "4499",
-    "hash": "7c13bc5965c0e06cecc76bd570786343ea2f331336f09ee1e04e9b50967d688d"
-  },
-  {
-    "time": "13:57",
-    "quoteFirst": "Writing continuously until ",
-    "quoteTime": "about two p. m.",
-    "quoteLast": ", he would stop for a bite, and then go at it again until four.",
-    "title": "Edgar Saltus: The Man",
-    "author": "Saltus, Marie, 1883?-1960",
-    "gutenbergReference": "37398",
-    "hash": "53b97725cc423c7bc863b8d40c3ce40ade6bda44021ee093717b4cc84965e736"
-  },
-  {
-    "time": "13:57",
-    "quoteFirst": "With Willich’s and Hazen’s brigades in front and Beatty’s in reserve, General Wood moved forward ",
-    "quoteTime": "about 2 p. m.",
-    "quoteLast": " His troops pushed back easily whatever was in their front.",
-    "title": "The Chattanooga Campaign: With especial reference to Wisconsin's participation therein",
-    "author": "Fitch, Michael Hendrick, 1837-",
-    "gutenbergReference": "68855",
-    "hash": "e6efede441fca64974aaa4c7c3dcb9ad50d3b311325e3ea338eabc75be93ff05"
+    "quoteTime": "About 2 p.m.",
+    "quoteLast": " I removed another large and active strongyle larva that had been reared on another fern-pinnule.",
+    "title": "Parasites: A Treatise on the Entozoa of Man and Animals\r\nIncluding Some Account of the Ectozoa",
+    "author": "Cobbold, T. Spencer (Thomas Spencer), 1828-1886",
+    "gutenbergReference": "45923",
+    "hash": "1287076d8879f75c6b7c8320e621de56234232c3913f4f5a9492ed60ceef5f5e"
   },
   {
     "time": "13:57",
     "quoteFirst": "",
-    "quoteTime": "About two in the afternoon",
-    "quoteLast": " a body of natives, armed with spears and krisses, issued with loud yells from the jungle, and advanced towards them.",
-    "title": "Borneo and the Indian Archipelago\nwith drawings of costume and scenery",
-    "author": "Marryat, Frank, 1826-1855",
-    "gutenbergReference": "26844",
-    "hash": "62ec2b2864ad95ce774743be587b9a730d3fa5b6e826ff0cbbf2ecd4f438d878"
+    "quoteTime": "about 2 P.M.",
+    "quoteLast": " I reached the camp found the Indian woman extreemly ill and much reduced by her indisposition.",
+    "title": "The Journals of Lewis and Clark, 1804-1806",
+    "author": "Lewis, Meriwether, 1774-1809; Clark, William, 1770-1838",
+    "gutenbergReference": "8419",
+    "hash": "c8b55b64357b219e8c1c226ca010c8b515c838793e3041977176ce71949f5b37"
   },
   {
     "time": "13:57",
-    "quoteFirst": "Started ",
-    "quoteTime": "about two pm",
-    "quoteLast": ", and rattled through Oxford, only stopping here and there to do our shopping.",
-    "title": "The Cruise of the Land-Yacht \"Wanderer\"; or, Thirteen Hundred Miles in my Caravan",
-    "author": "Stables, Gordon, 1840-1910",
-    "gutenbergReference": "37687",
-    "hash": "53a59eb58ea4f7fd3fdac5b84d4e92c5a6d52df0e730800094b1abd4796dcd4a"
+    "quoteFirst": "The rebel government left Richmond ",
+    "quoteTime": "about two o'clock in the afternoon",
+    "quoteLast": " of the 2d.",
+    "title": "Project Gutenberg Edition of The Memoirs of Four Civil War Generals",
+    "author": "Grant, Ulysses S. (Ulysses Simpson), 1822-1885; Logan, John Alexander, 1826-1886; Sheridan, Philip Henry, 1831-1888; Sherman, William T. (William Tecumseh), 1820-1891; Widger, David, 1932-2021? [Compiler]",
+    "gutenbergReference": "57383",
+    "hash": "d4cd647866cda9112ebae09e1bc345c68c565f97ff9949e1d96ed9ba7ab66b4e"
+  },
+  {
+    "time": "13:57",
+    "quoteFirst": "At half an hour after seven in the morning, they proceeded on their journey, and having emerged from the sand hills ",
+    "quoteTime": "about two in the afternoon",
+    "quoteLast": ", were charmed with the sight of olive and of date trees, of large quantities of white thorn, and of the Spanish broom; yet the soil is dry and stoney, and the few fields of grain which present themselves here and there to the eye, exhibit in their scanty and meagre appearance, the marks of an ungracious and sullen vegetation.",
+    "title": "Proceedings of the Association for Promoting the Discovery of the Interior Parts of Africa [1790]",
+    "author": "Association for Promoting the Discovery of the Interior Parts of Africa; Rennell, James, 1742-1830 [Contributor]",
+    "gutenbergReference": "73779",
+    "hash": "1ce11cb73b96cbda489f7a4f72b89330697b495482f719f84035cdfd112a7b2b"
+  },
+  {
+    "time": "13:57",
+    "quoteFirst": "“",
+    "quoteTime": "About two o’clock P.M.",
+    "quoteLast": " a great alarm was given throughout the   ship, from the effects of a very heavy sea which struck her, and   almost filled the waist, pouring down into the berths below,   through every chink and crevice of the hatches and skylights. From   the motion of the vessel being thus suddenly deadened or checked,   and from the flowing in of the water above, it is believed there   was not an individual on board who did not think, at the moment,   that the vessel had foundered and was in the act of sinking. The   writer could withstand this no longer, and as soon as she again   began to range to the sea, he determined to make another effort to   get upon deck.",
+    "title": "Life of Robert Stevenson, Civil Engineer",
+    "author": "Stevenson, David, 1815-1886",
+    "gutenbergReference": "55596",
+    "hash": "12db69907a5ce366bc598c7ab056c342d9b4ea2dafb1524ebab277c0e44b337e"
+  },
+  {
+    "time": "13:57",
+    "quoteFirst": "I was living at Germantown, a suburb of Philadelphia, and left one day ",
+    "quoteTime": "about 2 P.M.",
+    "quoteLast": " for the city, intending to return for dinner.",
+    "title": "The Land of Contrasts: A Briton's View of His American Kin",
+    "author": "Muirhead, James F. (James Fullarton), 1853-1934",
+    "gutenbergReference": "17648",
+    "hash": "cfa8cac91a1ec640e5065d7ab4f8d17a623da350472a912b15e40ef6ae7b5e0b"
+  },
+  {
+    "time": "13:57",
+    "quoteFirst": "I entered my house, then, at ",
+    "quoteTime": "about two o’clock in the afternoon",
+    "quoteLast": ", intending to repose myself, and in order to do so in security, I closed my door to everybody.",
+    "title": "Memoirs of Louis XIV and His Court and of the Regency — Complete",
+    "author": "Saint-Simon, Louis de Rouvroy, duc de, 1675-1755",
+    "gutenbergReference": "3875",
+    "hash": "d7751955f382d10bae6477545a5c9eec4da43ab8cc331a75985de0a2d8d05c3f"
   },
   {
     "time": "13:57",
     "quoteFirst": "",
-    "quoteTime": "About 2 p. m.",
-    "quoteLast": ", McDowell ordered forward the two splendid, regular batteries of Ricketts and Griffin, directing them to take up an exposed position just south of the Henry House.",
-    "title": "Manassas (Bull Run) National Battlefield Park, Virginia [1953]",
-    "author": "Wilshin, Francis",
-    "gutenbergReference": "47247",
-    "hash": "39aab77f290601a81a3218616cba0a325a498d59cdddb4292f422c083c96d8bd"
+    "quoteTime": "About two o'clock p.m.",
+    "quoteLast": " we were ordered back to our camp on Hatcher's Run.",
+    "title": "Reminiscences of the Guilford Grays, Co. B., 27th N.C. Regiment",
+    "author": "Sloan, John A. (John Alexander), 1839-1886",
+    "gutenbergReference": "44124",
+    "hash": "1c2f370dee0e4ca18a83a2111ca8f57f7e53dd20bbf9933cb77c9fe62faf7217"
+  },
+  {
+    "time": "13:57",
+    "quoteFirst": "“It was ",
+    "quoteTime": "about two o’clock in the afternoon",
+    "quoteLast": " when I at last managed to find my way to the little police station, where the inquest was to be held. There was scarcely standing room, I can tell you, and I had some difficulty in getting a front place from which I could see the principal actors in this village drama.",
+    "title": "The case of Miss Elliott",
+    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947; Brock, H. M. (Henry Matthew), 1875-1960 [Illustrator]",
+    "gutenbergReference": "75461",
+    "hash": "0fe149f8e0ebbd290d5d08b200cbd1af5b7dc116af59891e25d54cfa02b49200"
   }
 ]

@@ -1,6 +1,26 @@
 [
   {
     "time": "16:53",
+    "quoteFirst": "Promptly at ",
+    "quoteTime": "seven minutes before five",
+    "quoteLast": ", up rose Mr. Barth and gave the signal to have the books closed; then, to the unutterable astonishment of the conspirators, he handed the key of the safe to Mr. Dreyer (who knew the combination), and told him to lock the safe and return the key.",
+    "title": "The Modern Vikings: Stories of Life and Sport in the Norseland",
+    "author": "Boyesen, Hjalmar Hjorth, 1848-1895",
+    "gutenbergReference": "53070",
+    "hash": "91df53792dae6215240d1e5b98ab2807eb25e6b65f6643868942cdc4355ec260"
+  },
+  {
+    "time": "16:53",
+    "quoteFirst": "; the middle at ",
+    "quoteTime": "4:53 p. m.",
+    "quoteLast": " Magnitude, 1.533.",
+    "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55218",
+    "hash": "2eeb9b1e9ba9c9113261f954fe69ec727547d678c7f3808b78af93f46aa8b3ec"
+  },
+  {
+    "time": "16:53",
     "quoteFirst": "on the 22nd; first quarter on the 29th, at ",
     "quoteTime": "4:53 p. m.",
     "quoteLast": " On the 1st it sets at 12:11 a.",
@@ -31,53 +51,23 @@
   },
   {
     "time": "16:53",
-    "quoteFirst": "It rises at ",
-    "quoteTime": "4:53 p. m.",
-    "quoteLast": ", 3:55 p.",
-    "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55134",
-    "hash": "d6edb7646457123634faf16319574d33625a0f35125b1e6e15800d878b52a84b"
-  },
-  {
-    "time": "16:53",
-    "quoteFirst": "",
+    "quoteFirst": "Started again at ",
     "quoteTime": "4.53 p.m.",
-    "quoteLast": "  Sciatic nerve stimulated.",
-    "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
-    "author": "Leffingwell, Albert, 1845-1916",
-    "gutenbergReference": "20222",
-    "hash": "c0cdbbaa7f05b70e53b6771aa39c75673ed8b66695483d11dfcc1e6035172949"
+    "quoteLast": " At 5.20 followed up the river, one mile in a westerly direction, over fine ridges of rich soil.",
+    "title": "Journal of Landsborough's expedition from Carpentaria, in search of Burke & Wills",
+    "author": "Landsborough, William, 1825-1886",
+    "gutenbergReference": "16243",
+    "hash": "bec4a826963fad636ded97ca352c2d4cd0701a9479e01761c9535fd2da93dc85"
   },
   {
     "time": "16:53",
-    "quoteFirst": "; the middle at ",
-    "quoteTime": "4:53 p. m.",
-    "quoteLast": " Magnitude, 1.533.",
-    "title": "The Chautauquan, Vol. 05, October 1884, No. 1",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55218",
-    "hash": "2eeb9b1e9ba9c9113261f954fe69ec727547d678c7f3808b78af93f46aa8b3ec"
-  },
-  {
-    "time": "16:53",
-    "quoteFirst": "",
-    "quoteTime": "4.53 p.m.",
-    "quoteLast": "  Sciatic nerve stimulated.",
-    "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
-    "author": "Leffingwell, Albert, 1845-1916",
-    "gutenbergReference": "20222",
-    "hash": "c0cdbbaa7f05b70e53b6771aa39c75673ed8b66695483d11dfcc1e6035172949"
-  },
-  {
-    "time": "16:53",
-    "quoteFirst": "It rises at ",
-    "quoteTime": "4:53 p. m.",
-    "quoteLast": ", 3:55 p.",
-    "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55134",
-    "hash": "d6edb7646457123634faf16319574d33625a0f35125b1e6e15800d878b52a84b"
+    "quoteFirst": "\"At ",
+    "quoteTime": "seven minutes to five",
+    "quoteLast": " Lord Melbourne came to me and stayed till half-past five. He gave me the copies of Anson's conversations with Peel. Lord Melbourne then gave me a letter from the Chancellor to read, strongly advocating a dissolution, and wishing that there should be a division also on Lord John Russell's amendment.",
+    "title": "The letters of Queen Victoria, vol. 1, 1837-1843",
+    "author": "Victoria, Queen of Great Britain, 1819-1901; Benson, Arthur Christopher, 1862-1925 [Editor]; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
+    "gutenbergReference": "20023",
+    "hash": "f8bc721390973bb793eacbe03d07f4e3e698de844fe7c58247fa46c2bdf2edbd"
   },
   {
     "time": "16:53",
@@ -91,12 +81,22 @@
   },
   {
     "time": "16:53",
-    "quoteFirst": "His horse and hat were gone; his watch had stopped at ",
+    "quoteFirst": "It is ",
     "quoteTime": "seven minutes to five",
     "quoteLast": ".",
-    "title": "ODTAA: A novel",
-    "author": "Masefield, John, 1878-1967",
-    "gutenbergReference": "69339",
-    "hash": "ca956bcf5569533514233f92e89e6296dc4891a64084afd3d703fe7b52a80872"
+    "title": "Diminutive dramas",
+    "author": "Baring, Maurice, 1874-1945",
+    "gutenbergReference": "77668",
+    "hash": "0d68cbf303a30e65fc370797851a064a79163f2ae73868c81f774fecde564239"
+  },
+  {
+    "time": "16:53",
+    "quoteFirst": "The south-bound express passed Annandale at exactly ",
+    "quoteTime": "fifty-three minutes after four P. M.",
+    "quoteLast": " It was scheduled to reach Cincinnati at eleven o’clock sharp.",
+    "title": "The House of a Thousand Candles",
+    "author": "Nicholson, Meredith, 1866-1947; Christy, Howard Chandler, 1873-1952 [Illustrator]",
+    "gutenbergReference": "12441",
+    "hash": "b57949810732714a53d34faec9b191182d236747ad94ad5c38325a28cab3a095"
   }
 ]

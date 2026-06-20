@@ -1,6 +1,26 @@
 [
   {
     "time": "00:47",
+    "quoteFirst": "He rose at ",
+    "quoteTime": "thirteen minutes to one",
+    "quoteLast": ", and directed his steps towards the large hall, a sumptuous apartment adorned with lavishly-framed paintings.",
+    "title": "Around the World in Eighty Days",
+    "author": "Verne, Jules, 1828-1905; Towle, George M. (George Makepeace), 1841-1893 [Translator]",
+    "gutenbergReference": "103",
+    "hash": "b29d968b960fe23f08cadb813694f0c6ec9dffae50781ae29bcb89c3ca671098"
+  },
+  {
+    "time": "00:47",
+    "quoteFirst": "\"",
+    "quoteTime": "Thirteen minutes to one",
+    "quoteLast": " in the morning,\" he said, \"and now it's September eighteenth. Take a note of that, Mr. Cazalet. It may be another case of second sight for your psychical research society.\"",
+    "title": "The Thousandth Woman",
+    "author": "Hornung, E. W. (Ernest William), 1866-1921; Snapp, Frank [Illustrator]",
+    "gutenbergReference": "37062",
+    "hash": "ec6752dcb3a4f8a1b262ed328d7a103cd2edaf3df5f8cab8996201fe2983360c"
+  },
+  {
+    "time": "00:47",
     "quoteFirst": "At ",
     "quoteTime": "forty-seven minutes past twelve",
     "quoteLast": " they reached the buoy; it was in perfect condition, and must have shifted but little.",
@@ -58,6 +78,16 @@
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "2154",
     "hash": "b70e9749e67119a38a40b4994c478f3fc0e1c957f99ee7d44eebb1d8b80426a1"
+  },
+  {
+    "time": "00:47",
+    "quoteFirst": "At ",
+    "quoteTime": "thirteen minutes to one",
+    "quoteLast": " the men set-to:—",
+    "title": "Pugilistica: The History of British Boxing, Volume 1 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
+    "author": "Miles, Henry Downes, 1806-1889",
+    "gutenbergReference": "59465",
+    "hash": "3595e250066056dd6137b2de46fd1dd1115f4dc64ecf4afa9f295e5c25cc5f1e"
   },
   {
     "time": "00:47",

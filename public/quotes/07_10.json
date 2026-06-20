@@ -1,83 +1,33 @@
 [
   {
     "time": "07:10",
-    "quoteFirst": "Started at ",
+    "quoteFirst": "_ ",
     "quoteTime": "7.10 a.m.",
-    "quoteLast": " Passed through a very thick scrub seven miles in extent.",
-    "title": "Explorations in Australia\r\nThe Journals of John McDouall Stuart During the Years 1858, 1859, 1860, 1861, and 1862, When He Fixed the Centre of the Continent and Successfully Crossed It from Sea to Sea",
-    "author": "Stuart, John McDouall, 1815-1866",
-    "gutenbergReference": "8911",
-    "hash": "cded84edf3331e5466b87ba7902f9412a6163f5b4ed92145513eb792e2e7012e"
+    "quoteLast": "), crossed Jūn by boat a little above Jalīsīr, and went to the Gold-scattering-garden.",
+    "title": "The Bābur-nāma in English (Memoirs of Bābur)",
+    "author": "Babur, Emperor of Hindustan, 1483-1530; Beveridge, Annette Susannah, 1842-1929 [Translator]",
+    "gutenbergReference": "44608",
+    "hash": "90346e330ca96d02a993832aaa07081d663fd459cf96dcbdb2810d55d63ced4e"
   },
   {
     "time": "07:10",
-    "quoteFirst": "The steamboat was to sail the following morning at 9.15, and to have proceeded direct would have involved leaving London at the inconveniently early hour of ",
-    "quoteTime": "7.10 A.M.",
-    "quoteLast": " The train by Dover and Calais departs fixedly at 7.40 A.M., so that one is not much better off by taking that route.",
-    "title": "Wintering in the Riviera\r\nWith Notes of Travel in Italy and France, and Practical Hints to Travellers",
-    "author": "Miller, William James, 1850-",
-    "gutenbergReference": "47463",
-    "hash": "d63e4d9cd2daca0562bc99241b846dbdeb664e85892757110be885d46146ec52"
+    "quoteFirst": "The entrance into the dining room of James, his valet, with his hat and coat, and the warning words, \"",
+    "quoteTime": "Ten minutes past seven",
+    "quoteLast": ", sir,\" caused him to spring from his chair, glance at his watch with a rueful smile, and hurry out to where his car stood waiting for him.",
+    "title": "Grace Harlowe's First Year at Overton College",
+    "author": "Chase, Josephine, -1931",
+    "gutenbergReference": "17988",
+    "hash": "a797500a70faf893db6bca99fb3820cc12b6562e77f5996fe60d11c0210ff072"
   },
   {
     "time": "07:10",
-    "quoteFirst": "The ship sank at ",
-    "quoteTime": "7.10 A.M.",
-    "quoteLast": ", just as the destroyers _Penn_ and _Oracle_, which had been sent to her assistance, arrived on the scene.",
-    "title": "The Grand Fleet, 1914-1916",
-    "author": "Jellicoe, John Rushworth, 1859-1935",
-    "gutenbergReference": "75323",
-    "hash": "b645de03c3cd54096ff09384b6b80437895c362bffbcf90c4e7e85ba92648cbc"
-  },
-  {
-    "time": "07:10",
-    "quoteFirst": "At ",
+    "quoteFirst": "\"I think you said that Jennifer was cleaning the hall at the time your stepson left the house; and, as, presumably, you wouldn't overwork a crippled old chap like that, how happened it that he was still at his labours at ",
     "quoteTime": "ten minutes past seven",
-    "quoteLast": ", we had five villages of Tamamo three miles on our left; our road was through gentle rising hills, all pasture ground.",
-    "title": "Travels to Discover the Source of the Nile, Volume 3 (of 5)\r\nIn the years 1768, 1769, 1770, 1771, 1772 and 1773",
-    "author": "Bruce, James, 1730-1794",
-    "gutenbergReference": "54531",
-    "hash": "4f2b225c690b53164f1703efd3ec7c3c106261d40a9b1b440d2978ac597ce81d"
-  },
-  {
-    "time": "07:10",
-    "quoteFirst": "The time was somewhere between seven and ",
-    "quoteTime": "seven-ten",
-    "quoteLast": " Tuesday morning; the place; Horace Smith's bathroom.",
-    "title": "Ye of Little Faith",
-    "author": "Phillips, Rog, 1909-1965; Beecham, Tom, 1926-2000 [Illustrator]",
-    "gutenbergReference": "32663",
-    "hash": "2169b685d03515afc3f7e499e7789176dd877486ee9a4b9dc1d748136467e0f2"
-  },
-  {
-    "time": "07:10",
-    "quoteFirst": "He opened a desk drawer, flipped a switch, and said, \"April 20, ",
-    "quoteTime": "seven-ten",
-    "quoteLast": " p.m., interrogation by Lieutenant Prine of suspect picked up by Hillis and Brubaker in vicinity of Hillston Inn. What is your full name?\"",
-    "title": "A Bullet for Cinderella",
-    "author": "MacDonald, John D. (John Dann), 1916-1986",
-    "gutenbergReference": "49931",
-    "hash": "4c38781248067e8e57b590e021b5673c6ccb5dfbb5f275629537b61405736c0b"
-  },
-  {
-    "time": "07:10",
-    "quoteFirst": "The assault was delivered at ",
-    "quoteTime": "7.10 A.M.",
-    "quoteLast": " on the morning of Thursday, the 27th, and was preceded by an artillery bombardment beginning at 5.30 A.M. For this bombardment 1,500 18-pdr.",
-    "title": "The History of the 33rd Divisional Artillery, in the War, 1914-1918.",
-    "author": "Macartney-Filgate, John Victor; Horne, Henry, 1861-1929 [Author of introduction, etc.]",
-    "gutenbergReference": "51776",
-    "hash": "4c6912388ef68760019acfc68d9030572c813f3d89c6b3a2f210ade565bc2d4e"
-  },
-  {
-    "time": "07:10",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes past seven",
-    "quoteLast": " they had all fled below, or submitted, and the pennant of the _Cleopatra_ was hauled down.",
-    "title": "The Life of Admiral Viscount Exmouth",
-    "author": "Osler, Edward, 1798-1863",
-    "gutenbergReference": "17929",
-    "hash": "4841424735047f1e6e9869ffd627936eaa8869c5608df92048fe411063d47f0c"
+    "quoteLast": " o'clock in the evening? That's rather late to be cleaning up a hall, isn't it?\"",
+    "title": "Cleek of Scotland Yard: Detective Stories",
+    "author": "Hanshew, Thomas W., 1857-1914",
+    "gutenbergReference": "32198",
+    "hash": "f0fd40fa58795c430fb8ce5613187484bf32a0eba0c449b7c059b0ead0608357"
   },
   {
     "time": "07:10",
@@ -91,12 +41,162 @@
   },
   {
     "time": "07:10",
-    "quoteFirst": "Cassia tora: conjoint circumnutation of cotyledons and hypocotyl, traced on vertical glass, from ",
-    "quoteTime": "7.10 A.M.",
-    "quoteLast": " Sept.",
-    "title": "The Power of Movement in Plants",
-    "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
-    "gutenbergReference": "5605",
-    "hash": "8f6d413eb07744e1b522ab7ceb8848237ed6f4518016211ab493f68d4601d11a"
+    "quoteFirst": "Left Mezieres ",
+    "quoteTime": "7.10 a.m.",
+    "quoteLast": "     Passed over Vervins, Guise, St Quentin, landed north of Amiens     at 9.55 a.m. to inquire direction aerodrome.",
+    "title": "The Aeroplane in War",
+    "author": "Grahame-White, Claude, 1879-1959; Harper, Harry, 1880-1960",
+    "gutenbergReference": "63597",
+    "hash": "0f7fffe31a7271026492f83990248d4141248f34ecabc31583c927c52180a035"
+  },
+  {
+    "time": "07:10",
+    "quoteFirst": "“The first train’s at ",
+    "quoteTime": "7.10 a.m.",
+    "quoteLast": ",” he said.",
+    "title": "Murder in the maze",
+    "author": "Connington, J. J., 1880-1947",
+    "gutenbergReference": "71351",
+    "hash": "b591196a34ef653b7bd006861215a23fc427a45650ed64c61ed48a57c3fff329"
+  },
+  {
+    "time": "07:10",
+    "quoteFirst": "I can get the ",
+    "quoteTime": "seven-ten",
+    "quoteLast": " easily, and have the pleasure of an early walk.",
+    "title": "Dorothy Dale's School Rivals",
+    "author": "Penrose, Margaret",
+    "gutenbergReference": "54649",
+    "hash": "f889c0e9d29e426c52e5e49ec93865b4b16c99438411f0f9f82e65b3edc92350"
+  },
+  {
+    "time": "07:10",
+    "quoteFirst": "Started at ",
+    "quoteTime": "7.10 a.m.",
+    "quoteLast": " on a bearing of 138 degrees 30 minutes.",
+    "title": "Explorations in Australia\r\nThe Journals of John McDouall Stuart During the Years 1858, 1859, 1860, 1861, and 1862, When He Fixed the Centre of the Continent and Successfully Crossed It from Sea to Sea",
+    "author": "Stuart, John McDouall, 1815-1866",
+    "gutenbergReference": "8911",
+    "hash": "7ebb1b333f74c643bfaa1c776a42b7d6bdf5f4c4e92328eed7958a506a34618d"
+  },
+  {
+    "time": "07:10",
+    "quoteFirst": "It was ",
+    "quoteTime": "ten minutes past seven",
+    "quoteLast": " when the half-hour had expired; the well was sounded and the line carefully measured--_Seven feet six inches!",
+    "title": "The Pirate, and The Three Cutters",
+    "author": "Marryat, Frederick, 1792-1848; Sullivan, Edmund J. (Edmund Joseph), 1869-1933 [Illustrator]",
+    "gutenbergReference": "29291",
+    "hash": "dcad7b1b513878d26bca60a6015468b5ae8f66d823479c2d7b5c9b849989e68d"
+  },
+  {
+    "time": "07:10",
+    "quoteFirst": "“It was about seven-five or ",
+    "quoteTime": "seven-ten",
+    "quoteLast": ", I should judge. She came down the back stairs and went through toward the billiard-room. Sometimes she knocks the balls about in there until the gong sounds, if she is down early.”",
+    "title": "Shadow in the House",
+    "author": "Gluck, Sinclair, 1887-1956",
+    "gutenbergReference": "66859",
+    "hash": "35149959d2165f7aaa66849a85abbd3675ea3256ca59bb0d7514eb90b31c8137"
+  },
+  {
+    "time": "07:10",
+    "quoteFirst": "\"The last train to the city seems to be ",
+    "quoteTime": "seven-ten",
+    "quoteLast": ",\" she said to herself.",
+    "title": "The Girl at Cobhurst",
+    "author": "Stockton, Frank R., 1834-1902",
+    "gutenbergReference": "11106",
+    "hash": "33c55ca23d7cd26b6d6b13fb68ab92ffdcdf2de06ddea97b1cda775dac6f09b9"
+  },
+  {
+    "time": "07:10",
+    "quoteFirst": "She deposed that on the night of the murder, about ",
+    "quoteTime": "ten minutes past seven",
+    "quoteLast": ", she saw two men running away from the scene.",
+    "title": "The case of Oscar Slater",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "gutenbergReference": "69704",
+    "hash": "7e7efb4ee89814c34e88be24930686c899eee20a96087772c8df3a2dfb352901"
+  },
+  {
+    "time": "07:10",
+    "quoteFirst": "It was ",
+    "quoteTime": "ten minutes past seven",
+    "quoteLast": " when we clattered across the bridge and set our faces toward Rye.",
+    "title": "The O'Ruddy: A Romance",
+    "author": "Crane, Stephen, 1871-1900; Barr, Robert, 1850-1912; Williams, C. D. (Charles D.), 1875-1954 [Illustrator]",
+    "gutenbergReference": "29573",
+    "hash": "2f397c34819f60ad8b9113e09c68916f6768fcc04f5a838c06f69bf794ff5f55"
+  },
+  {
+    "time": "07:10",
+    "quoteFirst": "\"",
+    "quoteTime": "Ten minutes after seven",
+    "quoteLast": ",\" said Speed, a bit disturbed.",
+    "title": "Interference and Other Football Stories",
+    "author": "Sherman, Harold M. (Harold Morrow), 1898-1987",
+    "gutenbergReference": "29705",
+    "hash": "be5f077c0a8d65b49fae58e4eea174a3aff329756d346bcecf68ab0de51e5e3c"
+  },
+  {
+    "time": "07:10",
+    "quoteFirst": "He was brought back to the dressing station, and buried at ",
+    "quoteTime": "7.10 a.m.",
+    "quoteLast": " on the following morning in C. Communicating trench between the firing line and twelve tree copse.",
+    "title": "The Roll of Honour, Volume 1",
+    "author": "Ruvigny et Raineval, Melville Henry Massue, marquis de, 1868-1921",
+    "gutenbergReference": "75883",
+    "hash": "9771c1938079f3c7242bc28724d494604c7c119f035be2ee69ba1b9007394723"
+  },
+  {
+    "time": "07:10",
+    "quoteFirst": "27th_) On Thursday the 17th of the month, that ground was left after the 3rd _garī_ (",
+    "quoteTime": "7.10 a.m.",
+    "quoteLast": "), I going by boat.",
+    "title": "The Bābur-nāma in English (Memoirs of Bābur)",
+    "author": "Babur, Emperor of Hindustan, 1483-1530; Beveridge, Annette Susannah, 1842-1929 [Translator]",
+    "gutenbergReference": "44608",
+    "hash": "3109dead1291ff7dc25fe0c0f40605ce316238cce3d042f10e18259f39c29fe0"
+  },
+  {
+    "time": "07:10",
+    "quoteFirst": "Leaving our camp at ",
+    "quoteTime": "7.10 a.m.",
+    "quoteLast": ", steered north-east till 9.0, over level country, which appeared to be very swampy in the rainy season; altered the course to 10 degrees magnetic, and crossed a small dry watercourse which proved to be a continuation of Elsey Creek.",
+    "title": "Journals of Australian Explorations",
+    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
+    "gutenbergReference": "10461",
+    "hash": "30d4a71e35aa78242cd002602d0fe6633a5a4fa6cdea3339274c02b22fd8c262"
+  },
+  {
+    "time": "07:10",
+    "quoteFirst": "On the first of August at five P. M. the order for mobilisation was given, and at ",
+    "quoteTime": "seven-ten",
+    "quoteLast": " P. M. war was declared by Germany on Russia, the Kaiser proclaiming from the balcony of the palace that \"he knew no parties more.\"",
+    "title": "My Four Years in Germany",
+    "author": "Gerard, James W. (James Watson), 1867-1951",
+    "gutenbergReference": "7238",
+    "hash": "74d4c727451812916698d5d5977907ef720910e4044e2adec18820ab160aa954"
+  },
+  {
+    "time": "07:10",
+    "quoteFirst": "The top of the Pikes was reached at ",
+    "quoteTime": "7.10 a.m.",
+    "quoteLast": ", and thirty-five minutes later the couple were on Great End.",
+    "title": "In Lakeland Dells and Fells",
+    "author": "Palmer, William T., 1877-1954",
+    "gutenbergReference": "62607",
+    "hash": "408d268a27ddbb77ba68271544fc8cef022cf83ada95bdae4e2e45f84e8eea6b"
+  },
+  {
+    "time": "07:10",
+    "quoteFirst": "I deduce the time of high-water at full and change to be ",
+    "quoteTime": "ten minutes past seven in the morning",
+    "quoteLast": ".",
+    "title": "A narrative of the mutiny, on board His Majesty's ship Bounty",
+    "author": "Bligh, William, 1754-1817",
+    "gutenbergReference": "20337",
+    "hash": "5a2e591cc10723ae65a9f0deb1ca5a5451e11c8443e613289b3e50490aaf844c"
   }
 ]

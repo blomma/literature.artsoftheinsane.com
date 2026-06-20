@@ -1,13 +1,33 @@
 [
   {
     "time": "04:48",
+    "quoteFirst": "; on the 16th, rise at ",
+    "quoteTime": "4:48 a. m.",
+    "quoteLast": ", set at 6:48 p.",
+    "title": "The Chautauquan, Vol. 05, May 1885, No. 8",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55331",
+    "hash": "982361e11d68b38232c1b95b902f5c1b14a3562ce233a5901df4a138b3ca6940"
+  },
+  {
+    "time": "04:48",
     "quoteFirst": "“It was ",
     "quoteTime": "forty-eight minutes past four",
-    "quoteLast": ",” says Monk-Mason, “that we first saw the line of waves breaking on the shores beneath us. It would have been impossible to have remained unmoved by the grandeur of the spectacle that spread out before us. Behind us were the coasts of England, with their white cliffs half lost in the coming darkness. Beneath us on both sides the ocean spread out far end wide to where the darkness closed in the scene. Opposite us a barrier of thick clouds like a wall, surmounted all along its line with projections like so many towers, bastions, and battlements, rose up from the sea as if to stop",
+    "quoteLast": ",” says Monk-Mason, “that we first saw the line of waves breaking on the shores beneath us. It would have been impossible to have remained unmoved by the grandeur of the spectacle that spread out before us. Behind us were the coasts of England, with their white cliffs half lost in the coming darkness. Beneath us on both sides the ocean spread out far end wide to where the darkness closed in the scene. Opposite us a barrier of thick clouds like a wall, surmounted all along its line with projections like so many towers, bastions, and battlements, rose up from the sea as if to stop our advance. A few minutes afterwards we were in the midst of this cloudy barrier, surrounded with darkness, which the vapours of the night increased. We heard no sound. The noise of the waves breaking on the shores of England had ceased, and our position had for some time",
     "title": "Wonderful Balloon Ascents; Or, The Conquest of the Skies\r\nA History of Balloons and Balloon Voyages",
     "author": "Marion, Fulgence",
     "gutenbergReference": "899",
-    "hash": "70f6e1c4782f2f7e2881291a68c068f7867a9d66af924baa120e79d300f02cd2"
+    "hash": "f9ec09695cf308ce9d7b12d6465ab0540e1cdd0fd2e92f99341b3fd67cede6c3"
+  },
+  {
+    "time": "04:48",
+    "quoteFirst": "The fourth act of the “Huguenots,” which formerly lasted six hours, began, on this evening at half-past four, and ended at ",
+    "quoteTime": "twelve minutes before five",
+    "quoteLast": ".",
+    "title": "A Winter Amid the Ice, and Other Thrilling Stories",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "28657",
+    "hash": "346a4a49f36f63c641c4259f1c4cffaf3e03376d5276d6aee3c2db21120aa1e0"
   },
   {
     "time": "04:48",
@@ -38,6 +58,16 @@
     "author": "Pond, James B. (James Burton), 1838-1903",
     "gutenbergReference": "76861",
     "hash": "b6b6dbd2e8fe44bc3fcf0f291b7614deef9264146112cd099c308062a12c3d76"
+  },
+  {
+    "time": "04:48",
+    "quoteFirst": "It was ",
+    "quoteTime": "forty-eight minutes past four",
+    "quoteLast": " when the first sound of the waves on the sea-beach broke on the voyagers' ears: the sun was sinking below the horizon, and as the balloon was rapidly borne into the region of mist which hung over the ocean, we must suppose something of dread and uncertainty attended the adventurer's minds.",
+    "title": "Thrilling Stories Of The Ocean\nFrom Authentic Accounts Of Modern Voyagers And Travellers; Designed\nFor The Entertainment And Instruction Of Young People",
+    "author": "Park, Marmaduke",
+    "gutenbergReference": "13604",
+    "hash": "f0651e6398b794b51fdc24738e3bc7bb88aa5dc9df88fb9e6d3042e82563acde"
   },
   {
     "time": "04:48",

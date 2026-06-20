@@ -1,6 +1,26 @@
 [
   {
     "time": "10:11",
+    "quoteFirst": "At ",
+    "quoteTime": "eleven minutes past ten",
+    "quoteLast": ", in the vestibule of Judge Gillespie’s house, a young man and a man not so young were buttoning their overcoats and lighting their cigarettes.",
+    "title": "In Partnership: Studies in story-telling",
+    "author": "Matthews, Brander, 1852-1929; Bunner, H. C. (Henry Cuyler), 1855-1896",
+    "gutenbergReference": "53729",
+    "hash": "3ccdf91ece59dbb6dd3545b60adfb269b4a8c16b5bfe539a9f1d4ccd6329a1e3"
+  },
+  {
+    "time": "10:11",
+    "quoteFirst": "Started at ",
+    "quoteTime": "10.11 a.m.",
+    "quoteLast": " to meet the cart on a bearing of about 330 degrees to take them to Appam Barra; meet the camp 10.30 and go on a bearing of 6 1/2 degrees for Appam Barra at 10.40.",
+    "title": "McKinlay's Journal of Exploration in the Interior of Australia",
+    "author": "McKinlay, John, 1819-1872",
+    "gutenbergReference": "13248",
+    "hash": "bebe47b8b38234e6eb5aced7fd1611889183700fb7aac7789aa316d2d5db11f5"
+  },
+  {
+    "time": "10:11",
     "quoteFirst": "The hands of the Dutch clock in the hall pointed to thirteen minutes past nine; those of the ormolu clock in the sitting-room to ",
     "quoteTime": "eleven minutes past ten",
     "quoteLast": "; those of the carriage clock on the bookshelf to fourteen minutes to six.",

@@ -11,6 +11,16 @@
   },
   {
     "time": "14:54",
+    "quoteFirst": "The working of the mechanism is as follows: Suppose the time is ",
+    "quoteTime": "6 minutes of 3",
+    "quoteLast": " o'clock and the contact spring on the back is near the 11 pin.",
+    "title": "The Boy Mechanic, Book 2: 1000 Things for Boys to Do",
+    "author": "Windsor, H. H. (Henry Haven), 1859-1924 [Editor]",
+    "gutenbergReference": "44585",
+    "hash": "a7e7c0ff17af9ac3e2020a1b16a4a848e655161d8e40e099aba87b34ad0caf01"
+  },
+  {
+    "time": "14:54",
     "quoteFirst": "and ",
     "quoteTime": "2:54 p. m.",
     "quoteLast": " on the 1st, 15th and 30th, and sets at 5:09 a.",
@@ -28,5 +38,15 @@
     "author": "Sandilands, James Walter; MacLeod, Norman, 1872-1960",
     "gutenbergReference": "50301",
     "hash": "c42c2ea16b609ddd69a158e9508cf017448944c6c7d8c19dfd1beeaa42ec1579"
+  },
+  {
+    "time": "14:54",
+    "quoteFirst": "Court carriages with lackeys in crimson and gold, ambassadors' sledges with cock-plumed chasseurs and cockaded coachmen, the latter wearing their chevrons on their backs; rude wooden sledges, whose sides are made of knotted ropes, filled with superfluous snow; grand ducal _troikas_ with clinking harnesses studded with metal plaques and flying tassels, the outer horses coquetting, as usual, beside the staid trot of the shaft-horse,--all mingle in the endless procession which flows on up the Nevsky Prospekt through the Bolshaya Morskaya,--Great Sea Street,--and out upon the Neva quays, and back again, to see and be seen, until long after the sun has set on the short days, at ",
+    "quoteTime": "six minutes to three",
+    "quoteLast": ".",
+    "title": "Russian Rambles",
+    "author": "Hapgood, Isabel Florence, 1850-1928",
+    "gutenbergReference": "18165",
+    "hash": "8877a5c6979c5a3ac699f37346e8ef091e80edecf9fb349e8122e677cf95cef3"
   }
 ]

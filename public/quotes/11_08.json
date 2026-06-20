@@ -1,16 +1,6 @@
 [
   {
     "time": "11:08",
-    "quoteFirst": "This miserable accident happened, as the driver of the goods train afterwards stated, at exactly ",
-    "quoteTime": "eight minutes past eleven",
-    "quoteLast": " o'clock.",
-    "title": "The Life of the Fields",
-    "author": "Jefferies, Richard, 1848-1887",
-    "gutenbergReference": "6164",
-    "hash": "28e7f19f09c099c604499afd57ca04ab6750694880548df92a5dc5059547d12a"
-  },
-  {
-    "time": "11:08",
     "quoteFirst": "The outburst began at ",
     "quoteTime": "eight minutes past eleven",
     "quoteLast": " in the forenoon, and in five minutes it was gone again, but in that time it had swept across a space of 35,000 miles on the sun!",
@@ -31,6 +21,16 @@
   },
   {
     "time": "11:08",
+    "quoteFirst": "On the 10th it will be found, at ",
+    "quoteTime": "11:08 a. m.",
+    "quoteLast": ", 1° 37′ north of the moon; and on the 24th, at about 2:00 p.",
+    "title": "The Chautauquan, Vol. 05, December 1884, No. 3",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55250",
+    "hash": "359b88a46d283c59ec46207858bfc18f4be15107a43da7d721b9ec9379427f3a"
+  },
+  {
+    "time": "11:08",
     "quoteFirst": "Saturday at Salt Lake, U. S.   ",
     "quoteTime": "11:08 a. m.",
     "quoteLast": " Saturday at New Orleans, U. S.   11:18 a.",
@@ -38,6 +38,36 @@
     "author": "Various; Jones, William P. [Editor]",
     "gutenbergReference": "70718",
     "hash": "8d8170b8cfa8f62754dccc7147134705e1d15860fa4f932a22e8a52e0b19944d"
+  },
+  {
+    "time": "11:08",
+    "quoteFirst": "17, 1946; ",
+    "quoteTime": "11:08 a. m.",
+    "quoteLast": ")",
+    "title": "Trials of war criminals before the Nuernberg military tribunals under control council law no. 10, volume I",
+    "author": "Various",
+    "gutenbergReference": "54899",
+    "hash": "20ddb88cd8e7165f9e300b7c077433e0f834d9ff0086b0394a91e6f7a9433399"
+  },
+  {
+    "time": "11:08",
+    "quoteFirst": "17, 1946; ",
+    "quoteTime": "11:08 a. m.",
+    "quoteLast": ")",
+    "title": "Trials of war criminals before the Nuernberg military tribunals under control council law no. 10, volume III",
+    "author": "Various",
+    "gutenbergReference": "70342",
+    "hash": "018faa93875b2119d7e716e9f4e9c425427b3726a6a22ad44967288e1d6478d7"
+  },
+  {
+    "time": "11:08",
+    "quoteFirst": "I have an engagement, Dr. Hutton, at ",
+    "quoteTime": "eight minutes past eleven",
+    "quoteLast": "”.",
+    "title": "Cradock Nowell: A Tale of the New Forest. Vol. 1 (of 3)",
+    "author": "Blackmore, R. D. (Richard Doddridge), 1825-1900",
+    "gutenbergReference": "47084",
+    "hash": "1c2a1cd19f5a4f1ac75dcb1057c4617cde1db08e1404b6831158244d7f87a68d"
   },
   {
     "time": "11:08",

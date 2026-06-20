@@ -1,6 +1,16 @@
 [
   {
     "time": "23:43",
+    "quoteFirst": "\"",
+    "quoteTime": "Seventeen minutes to midnight",
+    "quoteLast": ". At midnight, sharp, we take possession. Come!\"",
+    "title": "The Flying Legion",
+    "author": "England, George Allan, 1877-1936",
+    "gutenbergReference": "12265",
+    "hash": "47ecad79f5b85a9fa5497fceeda1a0d5e4f84679ef22617bf9bf2c995baa11bc"
+  },
+  {
+    "time": "23:43",
     "quoteFirst": "the third and fourth eggs were released; these were coherent, as were the fifth and sixth eggs released at ",
     "quoteTime": "11:43 p. m.",
     "quoteLast": " After this, as many as three eggs were dropped at a time.",
@@ -31,6 +41,16 @@
   },
   {
     "time": "23:43",
+    "quoteFirst": "The clock stood at ",
+    "quoteTime": "seventeen minutes to twelve",
+    "quoteLast": ".",
+    "title": "The children of Alsace",
+    "author": "Bazin, René, 1853-1932",
+    "gutenbergReference": "34957",
+    "hash": "cda41e6a62e1780c2713a95a06374040e73eda9518183d0ae8f53a409cbaf2ad"
+  },
+  {
+    "time": "23:43",
     "quoteFirst": "“I should be inclined to put it at 11.44 p.m. at the latest, or perhaps ",
     "quoteTime": "11.43 p.m.",
     "quoteLast": ",” said Sir Clinton, with an air of fastidiousness.",
@@ -58,5 +78,25 @@
     "author": "Verne, Jules, 1828-1905; D'Anvers, N., 1844-1933 [Translator]",
     "gutenbergReference": "8991",
     "hash": "06e6ee8e6826a391e8bd564765828fcd8b6a083f8f70da0e2c2d4d34f18e5434"
+  },
+  {
+    "time": "23:43",
+    "quoteFirst": "“",
+    "quoteTime": "Forty-three minutes past eleven",
+    "quoteLast": ",” announced Hobson, who was attentively watching the minute hand of his chronometer.",
+    "title": "The Fur Country: Or, Seventy Degrees North Latitude",
+    "author": "Verne, Jules, 1828-1905; D'Anvers, N., 1844-1933 [Translator]",
+    "gutenbergReference": "8991",
+    "hash": "e8e95d8b1c66666199c3c2b76b12f272c17db223332475c538b93c708d073b0f"
+  },
+  {
+    "time": "23:43",
+    "quoteFirst": "\"",
+    "quoteTime": "Seventeen minutes of twelve",
+    "quoteLast": ",\" announced the shipowner's son.",
+    "title": "Dave Porter At Bear Camp; Or, The Wild Man of Mirror Lake",
+    "author": "Stratemeyer, Edward, 1862-1930; Rogers, Walter S. (Walter Stanton), 1870-1937 [Illustrator]",
+    "gutenbergReference": "29859",
+    "hash": "adc941dafd47381a354924d890946cb04855b961038ed5244364050601792df8"
   }
 ]

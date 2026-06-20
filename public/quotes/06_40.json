@@ -1,43 +1,23 @@
 [
   {
     "time": "06:40",
-    "quoteFirst": "At ",
-    "quoteTime": "twenty minutes to seven",
-    "quoteLast": ", when the summit of Little Ararat was about on a level with the eye, we paused for awhile and turned towards the prospect, now opening to a wider range.",
-    "title": "Armenia, Travels and Studies (Volume 1 of 2)\nThe Russian Provinces",
-    "author": "Lynch, H. F. B. (Harry Finnis Blosse), 1862-1913",
-    "gutenbergReference": "51492",
-    "hash": "7d8d4d108680cc4f06cd67e6be887057bcf31ab5080ba2e5c2f54c90aec94d64"
-  },
-  {
-    "time": "06:40",
-    "quoteFirst": "But about ",
-    "quoteTime": "twenty minutes to seven",
-    "quoteLast": ", as I knew from bitter experience, the milkman turned up with a great clatter of cans, and deposited my share outside my door.",
-    "title": "The Thirty-Nine Steps",
-    "author": "Buchan, John, 1875-1940",
-    "gutenbergReference": "558",
-    "hash": "20a79949fb0251ee53cea7d184037512ad2e366d67b3967dec33acda3e69cb04"
-  },
-  {
-    "time": "06:40",
-    "quoteFirst": "A filament was fixed to the tip of a young leaf whilst still highly inclined, and the first dot was made on the vertical glass at 8.30 A.M. June 13th, but it curved downwards so quickly that by ",
+    "quoteFirst": "By ",
     "quoteTime": "6.40 A.M.",
-    "quoteLast": " on the following morning it stood only a little above the horizon.",
+    "quoteLast": " on the following morning (18th) both cotyledons had risen greatly, and they continued to rise until 8 A.M., when they stood almost horizontally.",
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "hash": "6d16484f4bf61449b0cbd5b0e8a84a11fd8cb0fa9077a18ed3fa59fcc84e8dc3"
+    "hash": "54177cc120cb14ba1368b2fc2c2337e24e270d3f58d69209f149c4c4ad398307"
   },
   {
     "time": "06:40",
-    "quoteFirst": "As the creek in which we bivouacked seemed to come from the south-west, we followed the valley in that direction; at ",
-    "quoteTime": "6.40 a.m.",
-    "quoteLast": " the hills receding, the grassy flats appeared to extend to the Wickham River and form a continuation of Hutt Plains; the creek now came from the south-south-west and had some fine pools of water in the channel; at 2.10 p.m. camped at a shallow pool in the grassy flat, as the water in the creek was not very easy of access owing to the dense masses of reeds and grass.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "9abfa7f4212e431ffa460dd296199feddc3b85bbdcf167843948a78edaa9e97a"
+    "quoteFirst": "Oh, yes, she understood with no further words, she who knew by heart every way of communication between his sector on the front and her door; he had reached Paris by the 3.20 train, had hurriedly changed stations, had caught the 4.40 train out and reached Méru at ",
+    "quoteTime": "twenty minutes of seven",
+    "quoteLast": ".",
+    "title": "The Day of Glory",
+    "author": "Fisher, Dorothy Canfield, 1879-1958",
+    "gutenbergReference": "61147",
+    "hash": "bdbf33f9597bd4f22b988d1903de72aac383655aaf75e5198d087ce6b6db9db6"
   },
   {
     "time": "06:40",
@@ -51,52 +31,172 @@
   },
   {
     "time": "06:40",
-    "quoteFirst": "Canna Warscewiczii: circumnutation of leaf, traced (A) from 11.30 A.M. June 10th to ",
+    "quoteFirst": "I remember it wanted fully ",
+    "quoteTime": "twenty minutes of seven in the morning",
+    "quoteLast": ", when my servant aroused me.",
+    "title": "Medical Life in the Navy",
+    "author": "Stables, Gordon, 1840-1910",
+    "gutenbergReference": "37328",
+    "hash": "5ae0b5f41192b99e2b42deb4d450940c3c487414757d80e50171fd5352d35458"
+  },
+  {
+    "time": "06:40",
+    "quoteFirst": "“Arrived at Ponce from Guanica with _Massachusetts_ and _Cincinnati_, General Miles and General Wilson and transport, at ",
+    "quoteTime": "6.40 A. M.",
+    "quoteLast": ", 28th; commenced landing army in captured sugar lighters.",
+    "title": "The Boys of '98",
+    "author": "Otis, James, 1848-1912",
+    "gutenbergReference": "30684",
+    "hash": "878289f0e79b455eb9041b480d8db605d6e050d508a130356d1eb98702d4a5cb"
+  },
+  {
+    "time": "06:40",
+    "quoteFirst": "The attack of the Tenth Italian Army across the Piave in the area of the island of Grave di Papodopoli commenced at ",
+    "quoteTime": "6.40 a. m.",
+    "quoteLast": ", October 7, 1918.",
+    "title": "The Story of the Great War, Volume 8\r\nVictory with the Allies; Armistice; Peace Congress; Canada's War Organizations and vast War Industries; Canadian Battles Overseas",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]; Miller, Francis Trevelyan, 1877-1959 [Editor]",
+    "gutenbergReference": "34444",
+    "hash": "574f05c7fe961c388d4e4743853590e263ba94d9c685958db91af8349830ac1f"
+  },
+  {
+    "time": "06:40",
+    "quoteFirst": "“He left the vicarage at ",
+    "quoteTime": "twenty minutes to seven",
+    "quoteLast": ", Mr. Newman being indeed anxious to get rid of him, as he had a meeting to attend that evening. It afterwards transpired that Peace had gone to Gregory’s shop.",
+    "title": "Charles Peace, or The Adventures of a Notorious Burglar",
+    "author": "Anonymous",
+    "gutenbergReference": "65464",
+    "hash": "97eeb6d8980901faee718b9612edbca82b591669be17f451ff9c326ae6bc4704"
+  },
+  {
+    "time": "06:40",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty minutes before seven",
+    "quoteLast": " Nelson made in quick succession the signals, \"To form the order of sailing,\"--which by his previous instructions was to be the order of battle,--and \"To prepare for battle.\"",
+    "title": "The Life of Nelson, Volume 2\r\nThe Embodiment of the Sea Power of Great Britain",
+    "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+    "gutenbergReference": "16915",
+    "hash": "7f6b1340add81d59c77d243751d361ddeeeecd31a354c6683d29191bd5bc4332"
+  },
+  {
+    "time": "06:40",
+    "quoteFirst": "[With a swift upward look] Yes, by the ",
+    "quoteTime": "six-forty",
+    "quoteLast": ".",
+    "title": "The Eldest Son",
+    "author": "Galsworthy, John, 1867-1933",
+    "gutenbergReference": "2909",
+    "hash": "b7f88fc88f883ca5f0cc3887b55b5fa686f0b34c552baefe8c0c72012eb6101b"
+  },
+  {
+    "time": "06:40",
+    "quoteFirst": "Leaving Riobamba at ",
+    "quoteTime": "6.40 a.m.",
+    "quoteLast": " one arrives at Quito at four.",
+    "title": "The South American Tour",
+    "author": "Peck, Annie S. (Annie Smith), 1850-1935",
+    "gutenbergReference": "59715",
+    "hash": "bc93230082da6933c043cd2ad303b1b3f20dc54e9ff3b4696213259ae124c42c"
+  },
+  {
+    "time": "06:40",
+    "quoteFirst": "Gents,' he goes on, turnin' to us, 'it's a ",
+    "quoteTime": "six-forty",
+    "quoteLast": ", an'--side hill, swamp an' bottom--as good a section as any to be crossed up with between the Painted Post an' the 'Possum Trot.",
+    "title": "Faro Nell and Her Friends: Wolfville Stories",
+    "author": "Lewis, Alfred Henry, 1857-1914; Dunton, W. Herbert, 1878-1936 [Illustrator]; Marchand, J. N. [Illustrator]",
+    "gutenbergReference": "29485",
+    "hash": "09247441291a2222e81ae00a003c0a813912dd29dc0690435ad857d12982b53e"
+  },
+  {
+    "time": "06:40",
+    "quoteFirst": "10.53 W., and the time ",
+    "quoteTime": "6.40 a.m.",
+    "quoteLast": " Steaming along at 8 knots, a submarine awash was suddenly sighted by one of the crew named Kaye, an A.B. of the Royal Naval Reserve, about five miles away on the port bow.",
+    "title": "Q-Ships and Their Story",
+    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
+    "gutenbergReference": "54338",
+    "hash": "ce5900d094649af0371c22dbadfb7982070cf742e307f9c2366aef93fd5a17a3"
+  },
+  {
+    "time": "06:40",
+    "quoteFirst": "Upon July 9 at ",
     "quoteTime": "6.40 A.M.",
-    "quoteLast": " 11th; and (B) from 6.40 A.M. 11th to 8.40 A.M. 12th.",
+    "quoteLast": " began the third attack upon Trones Wood led by the 17th Manchesters.",
+    "title": "The British Campaign in France and Flanders, 1916",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "gutenbergReference": "65044",
+    "hash": "8fee7ad370409100de1633a56f8a938805344094fd0643fb21c1d3359cddad3e"
+  },
+  {
+    "time": "06:40",
+    "quoteFirst": "At ",
+    "quoteTime": "6.40 a.m.",
+    "quoteLast": " the shouts of the advancing dervish army became     audible, and a few minutes later their flags appeared over the     rising ground, forming a semi-circle round our left and front     faces.",
+    "title": "Khartoum Campaign, 1898; or the Re-Conquest of the Soudan",
+    "author": "Burleigh, Bennet, 1840?-1914",
+    "gutenbergReference": "25504",
+    "hash": "d22e91b9debe84cef8a0a81b16191f4622da6381b6dd161db7828b878c3c9a73"
+  },
+  {
+    "time": "06:40",
+    "quoteFirst": "But about ",
+    "quoteTime": "twenty minutes to seven",
+    "quoteLast": ", as I knew from bitter experience, the milkman turned up with a great clatter of cans, and deposited my share outside my door.",
+    "title": "The Thirty-Nine Steps",
+    "author": "Buchan, John, 1875-1940",
+    "gutenbergReference": "558",
+    "hash": "20a79949fb0251ee53cea7d184037512ad2e366d67b3967dec33acda3e69cb04"
+  },
+  {
+    "time": "06:40",
+    "quoteFirst": "On the second morning, between ",
+    "quoteTime": "6.40 A.M.",
+    "quoteLast": " and 2 P.M. (at which latter hour the figure here given ends), the apex changed its course five times.",
     "title": "The Power of Movement in Plants",
     "author": "Darwin, Charles, 1809-1882; Darwin, Francis, Sir, 1848-1925",
     "gutenbergReference": "5605",
-    "hash": "da5a86528192774c13fb33a53279bc71e8aad3078ef381b11b9ec4b6e4f56b47"
+    "hash": "1ef132468632994ab265879b608625258092254c1ca1dab53beb4652b5dbce26"
   },
   {
     "time": "06:40",
-    "quoteFirst": "At last the train reached Scarsdale at ",
-    "quoteTime": "twenty minutes to seven",
-    "quoteLast": ".",
-    "title": "The King of Diamonds: A Tale of Mystery and Adventure",
-    "author": "Tracy, Louis, 1863-1928",
-    "gutenbergReference": "40493",
-    "hash": "fd13cff6c03dd741cfc4edd74e807f383c2f144faa9825f91cf0c8bb388adc4d"
+    "quoteFirst": "It was ",
+    "quoteTime": "6.40 a.m.",
+    "quoteLast": ", and along the shore, a little way off, a procession was passing with a tinkling bell, two banners, and processional crosses, preceding a figure in a cope of white and gold beneath a canopy.",
+    "title": "The Shores of the Adriatic\nThe Austrian Side, The Küstenlande, Istria, and Dalmatia",
+    "author": "Jackson, F. Hamilton (Frederick Hamilton), 1848-1923",
+    "gutenbergReference": "30548",
+    "hash": "7756087f4af60998d2f7ad45c7f48eeb9de0a419b0237a9f7f55e29fe49b92c4"
   },
   {
     "time": "06:40",
-    "quoteFirst": "As a consequence, they arrived in the village at ",
-    "quoteTime": "twenty minutes to seven",
-    "quoteLast": ".",
-    "title": "The Girl Scouts at Singing Sands",
-    "author": "Wirt, Mildred A. (Mildred Augustine), 1905-2002; Geyer, Marguerite [Illustrator]",
-    "gutenbergReference": "60977",
-    "hash": "fad0fb5eb6f451d9829c8ae9de774e053ef00e3f0f65f34edb2a7c68806aa03f"
+    "quoteFirst": "The action did not begin till ",
+    "quoteTime": "forty minutes past six",
+    "quoteLast": ", and by fifty minutes past the _Guerrier_ had been dismasted and captured, and ten minutes after that the _Spartiate_ and the _Conquérant_ were almost dismasted and ready to be taken possession of, while the _Aquilon_ and the _Peuple Souverain_ were taken possession of at half-past eight.",
+    "title": "The Admiral: A Romance of Nelson in the Year of the Nile",
+    "author": "Sladen, Douglas Brooke Wheelton, 1856-1947",
+    "gutenbergReference": "47944",
+    "hash": "5898be13db3e37b69def2c2cf6a1c99c9e452d2e8138c719588450508f942daf"
   },
   {
     "time": "06:40",
-    "quoteFirst": "It was now ",
-    "quoteTime": "twenty minutes to seven",
-    "quoteLast": ".",
-    "title": "The Fritz Strafers: A Story of the Great War",
-    "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Wood, Stanley L., 1866-1928 [Illustrator]",
-    "gutenbergReference": "65262",
-    "hash": "d2cb66a0e0768eec8234d9078e399c65cd1207aff6ccca2ead1bc64aa7d2f169"
+    "quoteFirst": "Time to be dressing: sun sets at ",
+    "quoteTime": "six-forty",
+    "quoteLast": ", he said, and glanced at the stained West, with an accompanying vision of outspread primroses flooding banks of shadowy fields near Lakelands.",
+    "title": "Complete Project Gutenberg Works of George Meredith",
+    "author": "Meredith, George, 1828-1909",
+    "gutenbergReference": "4500",
+    "hash": "da66ed104003880ce57db76e278c4da408a855b84de565cf8fa627ae6a990997"
   },
   {
     "time": "06:40",
-    "quoteFirst": "“At ",
-    "quoteTime": "twenty minutes before seven",
-    "quoteLast": ", the balloon entered a long       series of dense cloud, which put me to great trouble, by damaging       my condensing apparatus and wetting me to the skin. This was, to       be sure, a singular recontre, for I had not believed it possible       that a cloud of this nature could be sustained at so great an       elevation. I thought it best, however, to throw out two       five-pound pieces of ballast, reserving still a weight of one       hundred and sixty-five pounds. Upon so doing, I soon rose above       the difficulty, and perceived immediately, that I had obtained a",
-    "title": "The Works of Edgar Allan Poe, The Raven Edition\nTable Of Contents And Index Of The Five Volumes",
-    "author": "Poe, Edgar Allan, 1809-1849",
-    "gutenbergReference": "25525",
-    "hash": "a66b0a16862cd30b94444a0604a3c929e9d8d2062920634dedc5904727c42570"
+    "quoteFirst": "“Arrived at Ponce from Guanica with _Massachusetts_ and _Cincinnati_, General Miles and General Wilson and transport, at ",
+    "quoteTime": "6.40 A. M.",
+    "quoteLast": ", 28th; commenced landing army in captured sugar lighters.",
+    "title": "The Boys of '98",
+    "author": "Otis, James, 1848-1912",
+    "gutenbergReference": "30684",
+    "hash": "878289f0e79b455eb9041b480d8db605d6e050d508a130356d1eb98702d4a5cb"
   }
 ]

@@ -1,63 +1,13 @@
 [
   {
     "time": "04:56",
-    "quoteFirst": "The time of the sun’s rising on the 1st, 15th and 30th, is 4:33, 4:43 and ",
+    "quoteFirst": "; on the 16th, rises at ",
     "quoteTime": "4:56 a. m.",
-    "quoteLast": "; and the time of setting on the same dates is 7:34, 7:29 and 7:17 p.",
-    "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
+    "quoteLast": ", sets at 5:24 p.",
+    "title": "The Chautauquan, Vol. 05, April 1885",
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "55208",
-    "hash": "c1d9226c2aded3e2c4e34ce681bef2e284413d24001158329fbd925ece416f43"
-  },
-  {
-    "time": "04:56",
-    "quoteFirst": "34         ",
-    "quoteTime": "4 to 5 a. m.",
-    "quoteLast": "                .",
-    "title": "The Passaic Flood of 1903",
-    "author": "Leighton, Marshall Ora, 1874-1958",
-    "gutenbergReference": "19878",
-    "hash": "6313f9fe12454567766e54df4f0cd44be66810728e74e1358ea57ee8e48c09f8"
-  },
-  {
-    "time": "04:56",
-    "quoteFirst": "29         ",
-    "quoteTime": "4 to 5 a. m.",
-    "quoteLast": "                .",
-    "title": "The Passaic Flood of 1903",
-    "author": "Leighton, Marshall Ora, 1874-1958",
-    "gutenbergReference": "19878",
-    "hash": "fb4f67d613c4a8ecf6cc016e6670eefed6a3476b894df2c01363d29c8ebfbffa"
-  },
-  {
-    "time": "04:56",
-    "quoteFirst": "“I wish that stupid old judge would bestir himself,” replied Lord Charles, looking at his watch; “it wants ",
-    "quoteTime": "four minutes to five",
-    "quoteLast": ": he 'll scarcely be in court before it strikes, and I shall lose a pony through it.”",
-    "title": "Roland Cashel, Volume II (of II)",
-    "author": "Lever, Charles, 1806-1872; Browne, Hablot Knight, 1815-1882 [Illustrator]",
-    "gutenbergReference": "33469",
-    "hash": "d91c3a9eff77c544f970297793e09d01fa6dff41977c6ff94f84d1d7cfb1e8f6"
-  },
-  {
-    "time": "04:56",
-    "quoteFirst": "05         ",
-    "quoteTime": "4 to 5 a. m.",
-    "quoteLast": "                .",
-    "title": "The Passaic Flood of 1903",
-    "author": "Leighton, Marshall Ora, 1874-1958",
-    "gutenbergReference": "19878",
-    "hash": "02c0b847f6a52e5182b1741c5451621b7746daf29c0fa9ab672765c256de359c"
-  },
-  {
-    "time": "04:56",
-    "quoteFirst": "“I wish that stupid old judge would bestir himself,” replied Lord Charles, looking at his watch; “it wants ",
-    "quoteTime": "four minutes to five",
-    "quoteLast": ": he 'll scarcely be in court before it strikes, and I shall lose a pony through it.”",
-    "title": "Roland Cashel, Volume II (of II)",
-    "author": "Lever, Charles, 1806-1872; Browne, Hablot Knight, 1815-1882 [Illustrator]",
-    "gutenbergReference": "33469",
-    "hash": "d91c3a9eff77c544f970297793e09d01fa6dff41977c6ff94f84d1d7cfb1e8f6"
+    "gutenbergReference": "55061",
+    "hash": "41a3440d0cab415f15dad3a1c101e9d1f11c19a7075f629941d5b797ac6bc423"
   },
   {
     "time": "04:56",
@@ -71,23 +21,13 @@
   },
   {
     "time": "04:56",
-    "quoteFirst": "_, when it is noon in New York it is ",
-    "quoteTime": "fifty-six minutes past four",
-    "quoteLast": " in the afternoon at London.",
-    "title": "How to Travel\r\nHints, Advice, and Suggestions to Travelers by Land and Sea all over the Globe.",
-    "author": "Knox, Thomas Wallace, 1835-1896",
-    "gutenbergReference": "45162",
-    "hash": "ee56b7bc02d8cc25c99568d7ef1b76956550a89eece014f6cab38b3d300e5f39"
-  },
-  {
-    "time": "04:56",
-    "quoteFirst": "34         ",
-    "quoteTime": "4 to 5 a. m.",
-    "quoteLast": "                .",
-    "title": "The Passaic Flood of 1903",
-    "author": "Leighton, Marshall Ora, 1874-1958",
-    "gutenbergReference": "19878",
-    "hash": "6313f9fe12454567766e54df4f0cd44be66810728e74e1358ea57ee8e48c09f8"
+    "quoteFirst": "Oliver realized with a shock that he hadn't phoned his foreman as promised, and it was ",
+    "quoteTime": "four minutes to five",
+    "quoteLast": ".",
+    "title": "The Syndic",
+    "author": "Kornbluth, C. M. (Cyril M.), 1923-1958",
+    "gutenbergReference": "41714",
+    "hash": "cc5d95982932f5191825e7a80ac5cbc47cf5c727a8af47e3729d018d603db44c"
   },
   {
     "time": "04:56",
@@ -98,5 +38,165 @@
     "author": "Bent, Arthur Cleveland, 1866-1954; Tyler, Winsor Marrett, 1876-1954 [Contributor]",
     "gutenbergReference": "40100",
     "hash": "32c4c4289ae959b3e26166a19df1dbc66837baa980215b69029e5dbe87bd7313"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "Official time-bills of the month marked a train for Metaponto at ",
+    "quoteTime": "4.56 A.M.",
+    "quoteLast": ", and this I decided to take, as it seemed probable that I might find a stay of some hours sufficient, and so be able to resume my journey before night.",
+    "title": "By the Ionian Sea: Notes of a Ramble in Southern Italy",
+    "author": "Gissing, George, 1857-1903",
+    "gutenbergReference": "4354",
+    "hash": "9ab018e2a90b807d1a8b989630a25fdc89c8553485d11158c0a670a7d95ff9f5"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "[2] The time indicated is about 4, or from ",
+    "quoteTime": "4 to 5 A.M.",
+    "quoteLast": " Corus, the name of the north-west wind, here stands for that quarter of the heavens.",
+    "title": "The Divine Comedy, Volume 1, Hell",
+    "author": "Dante Alighieri, 1265-1321; Norton, Charles Eliot, 1827-1908 [Translator]",
+    "gutenbergReference": "1995",
+    "hash": "3f2b2b3b17ea94e09b593a8eedd4de7c14466a9a2359903544004444fd0ec1e6"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "From this period it continued to rise till about midnight, when it had again obtained its maximum, and from ",
+    "quoteTime": "four to five a.m.",
+    "quoteLast": " was at its minimum.",
+    "title": "The Mission to Siam, and Hué, the Capital of Cochin China, in the Years 1821-2",
+    "author": "Finlayson, George, 1790-1823",
+    "gutenbergReference": "45505",
+    "hash": "dd9163135d1cf77d187b9fff715ec45cd487f86e3dc1dee3c24766add88b0f47"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "; on the 16th, rises at ",
+    "quoteTime": "4:56 a. m.",
+    "quoteLast": ", sets at 5:24 p.",
+    "title": "The Chautauquan, Vol. 05, April 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55061",
+    "hash": "41a3440d0cab415f15dad3a1c101e9d1f11c19a7075f629941d5b797ac6bc423"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "Our host was usually \"at home\" to distinguished visitors from ",
+    "quoteTime": "four to five a.m.",
+    "quoteLast": "  He sent to say that the state of his health forbade his receiving us at the more conventional hour of noon.",
+    "title": "With the Persian Expedition",
+    "author": "Donohoe, Martin Henry, 1869-1927",
+    "gutenbergReference": "63224",
+    "hash": "b89c77990fd04a96344fd06ebe489642831e588ec447ac1d7ef1fdf3bde1e068"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "25 Bombardment continued, 153 shells (6 from ",
+    "quoteTime": "4 to 5 A. M.",
+    "quoteLast": "; 52 from 4 to    10 P. M.; 95 from 10 P. M. to 2 A. M.).",
+    "title": "The Bombardment of Reims",
+    "author": "Ferree, Barr, 1862-1924",
+    "gutenbergReference": "49649",
+    "hash": "5d50a719761272aacfba77fa73a2359def2aeb94586d96eccf61e66fc0725a50"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "29         ",
+    "quoteTime": "4 to 5 a. m.",
+    "quoteLast": "                .",
+    "title": "The Passaic Flood of 1903",
+    "author": "Leighton, Marshall Ora, 1874-1958",
+    "gutenbergReference": "19878",
+    "hash": "fb4f67d613c4a8ecf6cc016e6670eefed6a3476b894df2c01363d29c8ebfbffa"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "The time of the sun’s rising on the 1st, 15th and 30th, is 4:33, 4:43 and ",
+    "quoteTime": "4:56 a. m.",
+    "quoteLast": "; and the time of setting on the same dates is 7:34, 7:29 and 7:17 p.",
+    "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55208",
+    "hash": "c1d9226c2aded3e2c4e34ce681bef2e284413d24001158329fbd925ece416f43"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "At ",
+    "quoteTime": "four minutes to five",
+    "quoteLast": " by yours.",
+    "title": "The Point Of Honor: A Military Tale",
+    "author": "Conrad, Joseph, 1857-1924; Groesbeck, Dan Sayre, 1878-1950 [Illustrator]",
+    "gutenbergReference": "17620",
+    "hash": "39a01e60e3805679a19b6a5eb180c0404cf21a08a4f98855a262dbcef48fc8dd"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "The time of the sun’s rising on the 1st, 15th and 30th, is 4:33, 4:43 and ",
+    "quoteTime": "4:56 a. m.",
+    "quoteLast": "; and the time of setting on the same dates is 7:34, 7:29 and 7:17 p.",
+    "title": "The Chautauquan, Vol. 04, July 1884, No. 10",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55208",
+    "hash": "c1d9226c2aded3e2c4e34ce681bef2e284413d24001158329fbd925ece416f43"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "At ",
+    "quoteTime": "four minutes to five",
+    "quoteLast": " by yours.",
+    "title": "The Point Of Honor: A Military Tale",
+    "author": "Conrad, Joseph, 1857-1924; Groesbeck, Dan Sayre, 1878-1950 [Illustrator]",
+    "gutenbergReference": "17620",
+    "hash": "39a01e60e3805679a19b6a5eb180c0404cf21a08a4f98855a262dbcef48fc8dd"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "Mr. Smith (1943) heard one begin singing at ",
+    "quoteTime": "4:56 a.m.",
+    "quoteLast": ", \"daylight time,\" and another at 4:05, \"but with only one song until 4:08 when seven were given during the space of one minute. During the song period of fifty minutes, 197 songs were given.\"",
+    "title": "Life histories of North American wood warblers, Part 1 (of 2)",
+    "author": "Bent, Arthur Cleveland, 1866-1954; Tyler, Winsor Marrett, 1876-1954 [Contributor]",
+    "gutenbergReference": "40100",
+    "hash": "32c4c4289ae959b3e26166a19df1dbc66837baa980215b69029e5dbe87bd7313"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "05         ",
+    "quoteTime": "4 to 5 a. m.",
+    "quoteLast": "                .",
+    "title": "The Passaic Flood of 1903",
+    "author": "Leighton, Marshall Ora, 1874-1958",
+    "gutenbergReference": "19878",
+    "hash": "02c0b847f6a52e5182b1741c5451621b7746daf29c0fa9ab672765c256de359c"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "From this period it continued to rise till about midnight, when it had again obtained its maximum, and from ",
+    "quoteTime": "four to five a.m.",
+    "quoteLast": " was at its minimum.",
+    "title": "The Mission to Siam, and Hué, the Capital of Cochin China, in the Years 1821-2",
+    "author": "Finlayson, George, 1790-1823",
+    "gutenbergReference": "45505",
+    "hash": "dd9163135d1cf77d187b9fff715ec45cd487f86e3dc1dee3c24766add88b0f47"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "From this period it continued to rise till about midnight, when it had again obtained its maximum, and from ",
+    "quoteTime": "four to five a.m.",
+    "quoteLast": " was at its minimum.",
+    "title": "The Mission to Siam, and Hué, the Capital of Cochin China, in the Years 1821-2",
+    "author": "Finlayson, George, 1790-1823",
+    "gutenbergReference": "45505",
+    "hash": "dd9163135d1cf77d187b9fff715ec45cd487f86e3dc1dee3c24766add88b0f47"
+  },
+  {
+    "time": "04:56",
+    "quoteFirst": "Official time-bills of the month marked a train for Metaponto at ",
+    "quoteTime": "4.56 A.M.",
+    "quoteLast": ", and this I decided to take, as it seemed probable that I might find a stay of some hours sufficient, and so be able to resume my journey before night.",
+    "title": "By the Ionian Sea: Notes of a Ramble in Southern Italy",
+    "author": "Gissing, George, 1857-1903",
+    "gutenbergReference": "4354",
+    "hash": "9ab018e2a90b807d1a8b989630a25fdc89c8553485d11158c0a670a7d95ff9f5"
   }
 ]

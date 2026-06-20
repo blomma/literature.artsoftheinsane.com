@@ -1,13 +1,33 @@
 [
   {
     "time": "22:05",
+    "quoteFirst": "Having met Colonel Newcome on the steps of her house, she ordered him to come to her evening party; and though he had not been to an evening party for five and thirty years--though he had not been to bed the night before--he never once thought of disobeying Mrs. Newcome's order, but was actually at her door at ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": ", having arrayed himself, to the wonderment of Clive, and left the boy to talk to Mr. Binnie, a friend and fellow-passenger, who had just arrived from Portsmouth, who had dined with him, and taken up his quarters at the same hotel.",
+    "title": "Boys and Girls from Thackeray",
+    "author": "Sweetser, Kate Dickinson, 1870-1939",
+    "gutenbergReference": "10111",
+    "hash": "382cc2520f48dc0efd14bf46b51d22c420662c48ae90806fe3688f3cae7e4110"
+  },
+  {
+    "time": "22:05",
     "quoteFirst": "At ",
     "quoteTime": "five minutes past ten",
-    "quoteLast": ", when      L'Orient blew up, having burnt seventy minutes, the six van ships      had surrendered.",
-    "title": "The Life of the Right Honourable Horatio Lord Viscount Nelson, Volume 2",
-    "author": "Harrison, James",
-    "gutenbergReference": "16913",
-    "hash": "464aeb699dfe78136d7373e6838d032c42b0c0f5b5852bac09ba3730349369b5"
+    "quoteLast": " it would all be over.",
+    "title": "The Happy Golfer\r\nBeing Some Experiences, Reflections, and a Few Deductions of a Wandering Golfer",
+    "author": "Leach, Henry, 1874-",
+    "gutenbergReference": "37136",
+    "hash": "c0a31081b18010cfe952b9e75bd105852953372e5db277c2a7b7aaeac247839f"
+  },
+  {
+    "time": "22:05",
+    "quoteFirst": "\"About ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": ", a few rain-drops fell. The tumbrils were already rattling along amidst the frenzied jeers of the crowd. The first one contained a group of _ci-devant_ aristos, laughing and singing--one elderly vicomtesse was playing on a mouth-organ. In the second tumbril sat two women--one, Marie Topinambour, a poor dancer, was weeping; the other, Julie de Poopinac, was playing at cat's cradles. Her dress was of sprigged muslin, and she wore a rather battered Dolly Varden hat. She was haughtily impervious to the vile epithets of this mob. Upon reaching the guillotine, Marie Topinambour became panic-stricken, and swarmed up one of the posts before any one could stop her. In bell-like tones, Julie bade her descend. 'Fear nothing, _ma petite_,' she cried. 'See, I am smiling!' The terrified Marie looked down and was at once calmed. Julie was indeed smiling. One or two",
+    "title": "Terribly Intimate Portraits",
+    "author": "Coward, Noël, 1899-1973; Loraine, Lorn, -1967 [Illustrator]",
+    "gutenbergReference": "26649",
+    "hash": "09dce27bdf485ef6a4353a2f6968dce629382633036b3018af8e9689afc688c5"
   },
   {
     "time": "22:05",
@@ -18,56 +38,6 @@
     "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
     "gutenbergReference": "54338",
     "hash": "8225d66ff648a29a82345eb230f0dd8ee2b5705a71030c880f2bf61115bffdd5"
-  },
-  {
-    "time": "22:05",
-    "quoteFirst": "\"It's ",
-    "quoteTime": "five minutes after ten",
-    "quoteLast": " already, and the diamond baubles haven't been found yet. If you'll kindly stand aside, and let somebody else without such a large supply of easily outrageable pride have the floor, I'll examine them.\"",
-    "title": "The Adventures of the Eleven Cuff-Buttons\r\nBeing one of the exciting episodes in the career of the famous detective Hemlock Holmes, as recorded by his friend Dr. Watson",
-    "author": "Thierry, James Francis",
-    "gutenbergReference": "31135",
-    "hash": "be9c4382667fe1a7283bf59e6c0fdd636becafe2e750c4e63325ea2259bf33a2"
-  },
-  {
-    "time": "22:05",
-    "quoteFirst": "So you would have left your home about ",
-    "quoteTime": "5 minutes after 10",
-    "quoteLast": ", or 10?",
-    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "58030",
-    "hash": "8224dd9f01183b97b87f975ca50bb1dfe9472de268ee1851f335fbac77af77d4"
-  },
-  {
-    "time": "22:05",
-    "quoteFirst": "It was now ",
-    "quoteTime": "five minutes past ten",
-    "quoteLast": " and U 83 motoring along the surface came past the port side, continuing the scrutiny with less caution born of satisfaction.",
-    "title": "Q-Ships and Their Story",
-    "author": "Chatterton, E. Keble (Edward Keble), 1878-1944",
-    "gutenbergReference": "54338",
-    "hash": "8225d66ff648a29a82345eb230f0dd8ee2b5705a71030c880f2bf61115bffdd5"
-  },
-  {
-    "time": "22:05",
-    "quoteFirst": "By the clock in the hall I could see that it was ",
-    "quoteTime": "five minutes after ten",
-    "quoteLast": " o'clock.",
-    "title": "Lawrence Clavering",
-    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
-    "gutenbergReference": "38718",
-    "hash": "ffaefa00cf98157d3ca1647f348d11621fdb16c60f99b4b7bc6e84bc1c9c6819"
-  },
-  {
-    "time": "22:05",
-    "quoteFirst": "He thinks, or seems to think, that his son came in at about ",
-    "quoteTime": "five minutes past ten",
-    "quoteLast": ".",
-    "title": "The Great Speeches and Orations of Daniel Webster\r\nWith an Essay on Daniel Webster as a Master of English Style",
-    "author": "Webster, Daniel, 1782-1852; Whipple, Edwin Percy, 1819-1886",
-    "gutenbergReference": "12606",
-    "hash": "9a012b88759df95887051b9896ccfd328a776db268f999e29655036d524e32f5"
   },
   {
     "time": "22:05",
@@ -81,22 +51,152 @@
   },
   {
     "time": "22:05",
-    "quoteFirst": "Punctually at ",
-    "quoteTime": "ten-five",
-    "quoteLast": ", the stenographer, whose desk was in the anteroom, brought in the mail; five minutes later the cashier entered for his morning conference with his superior; and at half-past the hour the president was left alone to read his correspondence.",
-    "title": "The Price",
-    "author": "Lynde, Francis, 1856-1930",
-    "gutenbergReference": "19462",
-    "hash": "691686702dd42837adafd159521f9ed1bacc72f6e1ffacb22a0efa4245268d14"
+    "quoteFirst": "At ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": " a youth entered with the \"Times\" under his arm.",
+    "title": "A Man from the North",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "52247",
+    "hash": "bda051101444de7b95121b6414421bb02436dd887d23d801c8827e1a455df7d2"
   },
   {
     "time": "22:05",
-    "quoteFirst": "The clock at Nicholson’s Brewery showed ",
+    "quoteFirst": "At ",
     "quoteTime": "five minutes past ten",
-    "quoteLast": " as they crawled down into the town; opened out again for the Bridge; swished over it past Skindle’s Hotel.",
-    "title": "Peter Jameson: A Modern Romance",
-    "author": "Frankau, Gilbert, 1884-1952",
-    "gutenbergReference": "59936",
-    "hash": "f166fef4b5d56145a6ed4bdff18b7c8bc04e34baf1684b75ed1c2184eda849f5"
+    "quoteLast": ", he was coming up the steps of a residence with Purbeckian marble pillars to the door-way.",
+    "title": "Vanderdecken",
+    "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
+    "gutenbergReference": "54473",
+    "hash": "7f6f6957834681842f9fa2729dbdf0f7f2ea71b514f2da2e3b2165c622bd923d"
+  },
+  {
+    "time": "22:05",
+    "quoteFirst": "In a despatch, dated ",
+    "quoteTime": "10:05 p.m.",
+    "quoteLast": ", telling me of the coming of Warren and Mackenzie, General Grant also said that the Fifth Corps should reach me by 12 o'clock that night, but at that hour not only had none of the corps arrived, but no report from it, so believing that if it came all the way down to Dinwiddie the next morning, our opportunity would be gone, I concluded that it would be best to order Warren to move in on the enemy's rear while the cavalry attacked in front, and, therefore, at 3 o'clock in the morning of April 1 sent this despatch to General Warren:",
+    "title": "Memoirs of the Union's Three Great Civil War Generals",
+    "author": "Grant, Ulysses S. (Ulysses Simpson), 1822-1885; Sheridan, Philip Henry, 1831-1888; Sherman, William T. (William Tecumseh), 1820-1891; Widger, David, 1932-2021? [Editor]",
+    "gutenbergReference": "4546",
+    "hash": "1a644d23c3f7be226784c71e431d8f0d70b37fc2147e49a7c7976d2b41ecdf34"
+  },
+  {
+    "time": "22:05",
+    "quoteFirst": "It was ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": ", but with the exception of himself, not a soul was present.",
+    "title": "The Red Room",
+    "author": "Strindberg, August, 1849-1912; Schleussner, Ellie [Translator]",
+    "gutenbergReference": "37039",
+    "hash": "a6d1d948b51f40ddf565b1fd2ea05ddd805ea3900bf945662a21103beb8192aa"
+  },
+  {
+    "time": "22:05",
+    "quoteFirst": "In the morning we all went back to the _Hector_, and at ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": " o’clock old Billums came along in the port launch, the Governor bringing him off and making more apologies.",
+    "title": "On Foreign Service; Or, The Santa Cruz Revolution",
+    "author": "Jeans, T. T. (Thomas Tendron); Rainey, W. (William), 1852-1936 [Illustrator]",
+    "gutenbergReference": "45914",
+    "hash": "7d80355e462b495268f297bf2c3628fd6342f53fb1209414587994868a010cb4"
+  },
+  {
+    "time": "22:05",
+    "quoteFirst": "It was then ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": " by the clock which stood ticking sonorously in a corner of the landing.",
+    "title": "The Princess Galva: A Romance",
+    "author": "Whitelaw, David, 1875-1970",
+    "gutenbergReference": "34130",
+    "hash": "e31b2ad7827d4ca5306bb40762c8c8d55b81f9113aad66609bffea112572ec11"
+  },
+  {
+    "time": "22:05",
+    "quoteFirst": "15   = ",
+    "quoteTime": "ten-five",
+    "quoteLast": ", one foot, three fives.",
+    "title": "The Number Concept: Its Origin and Development",
+    "author": "Conant, Levi L. (Levi Leonard), 1857-1916",
+    "gutenbergReference": "16449",
+    "hash": "67c26b02fff52120b839b064cee9febb2ffc8a3b03201206914679658e4a46ac"
+  },
+  {
+    "time": "22:05",
+    "quoteFirst": "In the morning we all went back to the _Hector_, and at ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": " o’clock old Billums came along in the port launch, the Governor bringing him off and making more apologies.",
+    "title": "On Foreign Service; Or, The Santa Cruz Revolution",
+    "author": "Jeans, T. T. (Thomas Tendron); Rainey, W. (William), 1852-1936 [Illustrator]",
+    "gutenbergReference": "45914",
+    "hash": "7d80355e462b495268f297bf2c3628fd6342f53fb1209414587994868a010cb4"
+  },
+  {
+    "time": "22:05",
+    "quoteFirst": "\"About ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": ", a few rain-drops fell. The tumbrils were already rattling along amidst the frenzied jeers of the crowd. The first one contained a group of _ci-devant_ aristos, laughing and singing--one elderly vicomtesse was playing on a mouth-organ. In the second tumbril sat two women--one, Marie Topinambour, a poor dancer, was weeping; the other, Julie de Poopinac, was playing at cat's cradles. Her dress was of sprigged muslin, and she wore a rather battered Dolly Varden hat. She was haughtily impervious to the vile epithets of this mob. Upon reaching the guillotine, Marie Topinambour became panic-stricken, and swarmed up one of the posts before any one could stop her. In bell-like tones, Julie bade her descend. 'Fear nothing, _ma petite_,' she cried. 'See, I am smiling!' The terrified Marie looked down and was at once calmed. Julie was indeed smiling. One or two",
+    "title": "Terribly Intimate Portraits",
+    "author": "Coward, Noël, 1899-1973; Loraine, Lorn, -1967 [Illustrator]",
+    "gutenbergReference": "26649",
+    "hash": "09dce27bdf485ef6a4353a2f6968dce629382633036b3018af8e9689afc688c5"
+  },
+  {
+    "time": "22:05",
+    "quoteFirst": "We can catch a through train at ",
+    "quoteTime": "ten-five",
+    "quoteLast": " and--by Jove, look, that's luck!",
+    "title": "Ladies and Gentlemen",
+    "author": "Cobb, Irvin S. (Irvin Shrewsbury), 1876-1944",
+    "gutenbergReference": "45320",
+    "hash": "dbad1210a3cdf09fc422d1d021c37b331c01d583674102e4c62e717cc1e87aa7"
+  },
+  {
+    "time": "22:05",
+    "quoteFirst": "One hour later a suit against the Pacific Shipping Company was filed in the county clerk's office, and at ",
+    "quoteTime": "five minutes after ten",
+    "quoteLast": " a deputy-sheriff appeared at the paying-teller's window in the Marine National Bank and filed a writ of attachment on the funds to their credit.",
+    "title": "Cappy Ricks; Or, the Subjugation of Matt Peasley",
+    "author": "Kyne, Peter B. (Peter Bernard), 1880-1957",
+    "gutenbergReference": "5738",
+    "hash": "1144ae68c4ba7205ef6379dbb8138c66fded9c0c64379399f0b843b8a30d4bab"
+  },
+  {
+    "time": "22:05",
+    "quoteFirst": "So engrossed was Alick in this work that it was ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": " before he looked up at the clock—a cheap one which he had bought from a Jew pedlar, and fixed upon the wall himself—\"to see the time to go home by,\" his mates said.",
+    "title": "Cleg Kelly, Arab of the City: His Progress and Adventures",
+    "author": "Crockett, S. R. (Samuel Rutherford), 1860-1914",
+    "gutenbergReference": "48354",
+    "hash": "38596ec4ba177ee119a9186b7f54b452286b1bb4063d0921cfa4628a81129a6f"
+  },
+  {
+    "time": "22:05",
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes past ten",
+    "quoteLast": ", George. They'll come and carry me out if I don't go.\"",
+    "title": "The Creators: A Comedy",
+    "author": "Sinclair, May, 1863-1946; Keller, Arthur Ignatius, 1866-1924 [Illustrator]",
+    "gutenbergReference": "25971",
+    "hash": "d25da0bc1d7b996354e4117f1e26e6984281686e0e3e67fc2c6587a59a1eaa7a"
+  },
+  {
+    "time": "22:05",
+    "quoteFirst": "So you would have left your home about ",
+    "quoteTime": "5 minutes after 10",
+    "quoteLast": ", or 10?",
+    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58030",
+    "hash": "8224dd9f01183b97b87f975ca50bb1dfe9472de268ee1851f335fbac77af77d4"
+  },
+  {
+    "time": "22:05",
+    "quoteFirst": "It was then ",
+    "quoteTime": "five minutes past ten",
+    "quoteLast": " by the clock which stood ticking sonorously in a corner of the landing.",
+    "title": "The Princess Galva: A Romance",
+    "author": "Whitelaw, David, 1875-1970",
+    "gutenbergReference": "34130",
+    "hash": "e31b2ad7827d4ca5306bb40762c8c8d55b81f9113aad66609bffea112572ec11"
   }
 ]

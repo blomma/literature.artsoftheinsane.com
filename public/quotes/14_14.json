@@ -3,10 +3,20 @@
     "time": "14:14",
     "quoteFirst": "Black Bulb 10.02 to 10.09 10.20 to 10.24 12.03 to 12.10 p.m. 12.22 to 12.25 p.m. 2.04 to 2.08 p.m. 2.10 to ",
     "quoteTime": "2.14 p.m.",
-    "quoteLast": " 19·2 22·6 24·7 25·9 23·3 23·8 71·0 79·0 89·2 95·5",
+    "quoteLast": " 19·2 22·6 24·7 25·9 23·3 23·8 71·0 79·0 89·2 95·5 91·5 93·0 15·8592 16·9048 16·6972 18·6796 15·4479 15·6128 29·861 29·858 64·5 65·6 69·0 70·7 71·2 60·6 61·4 59·3 57·5 61·0 3·9 4·2 9·7 3·2 10·2   ·878 ·872 ·728 ·650 ·718 116·0",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "d49526ad7c76e25c7447bd955bf03ec6ba173ae925f0693f693f3000da2d0e34"
+    "hash": "e1197b949c77be99c256d33c4f0a905d278c6d989c62e3c4d987cbf32fb74902"
+  },
+  {
+    "time": "14:14",
+    "quoteFirst": "At ",
+    "quoteTime": "fourteen minutes after two",
+    "quoteLast": " the men came to the scratch――Peter Taylor and Nick Ward seconding Parker; and Dick Davis and Holland, both of Birmingham, performing the same friendly office for Preston.",
+    "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
+    "author": "Miles, Henry Downes, 1806-1889",
+    "gutenbergReference": "64111",
+    "hash": "ccd538508adad7eaf283eceda3087ca184b431a4a23c9b6a136fcdbb29a56839"
   }
 ]

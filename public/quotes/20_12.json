@@ -31,6 +31,16 @@
   },
   {
     "time": "20:12",
+    "quoteFirst": "(Reporter’s note: ",
+    "quoteTime": "8:12 p.m.",
+    "quoteLast": ")",
+    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "56190",
+    "hash": "6be9ff8ae2759c82752db0bbbc42e18c2db0610188a0a838d26db318c8e9e6f7"
+  },
+  {
+    "time": "20:12",
     "quoteFirst": "Techniques and confidence have improved with practice, and in 1960 IBM’s RAMAC predicted victory for Kennedy at ",
     "quoteTime": "8:12 P.M.",
     "quoteLast": " election night.",

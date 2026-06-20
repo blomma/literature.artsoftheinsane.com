@@ -11,6 +11,26 @@
   },
   {
     "time": "07:26",
+    "quoteFirst": "On the 1st he will rise at ",
+    "quoteTime": "7:26 a. m.",
+    "quoteLast": " and set at 5:22 p.",
+    "title": "The Chautauquan, Vol. 05, February 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55053",
+    "hash": "1e4f1290fe6d25a1f856b4a72ffebbcc269453ce42c3903ebb682988241359e8"
+  },
+  {
+    "time": "07:26",
+    "quoteFirst": "On the 1st, 15th and 30th she will rise at 7:32, 7:25 and ",
+    "quoteTime": "7:26 a. m.",
+    "quoteLast": ", and set at 10:04, 10:31 and 10:48 p.",
+    "title": "The Chautauquan, Vol. 04, April 1884, No. 7",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55134",
+    "hash": "7c18152bbb75cd45b6c1f81c70f2db34831bb4cfe8f8d2ce7c0b048e8a82f6f4"
+  },
+  {
+    "time": "07:26",
     "quoteFirst": "\"'HEAD-QUARTERS ARMY POTOMAC,             ",
     "quoteTime": "7.26 A.M.",
     "quoteLast": ", April 2d, 1865.",

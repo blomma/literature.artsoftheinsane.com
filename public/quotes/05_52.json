@@ -1,6 +1,26 @@
 [
   {
     "time": "05:52",
+    "quoteFirst": "Thank you--at ",
+    "quoteTime": "5.52 A.M.",
+    "quoteLast": ", which will get her to Culoz at 6.48.",
+    "title": "The Passenger from Calais",
+    "author": "Griffiths, Arthur, 1838-1908",
+    "gutenbergReference": "16339",
+    "hash": "71673e34db61197e7e124ab712fab1d63546dfc588f84d8757123364f9adbb0e"
+  },
+  {
+    "time": "05:52",
+    "quoteFirst": "It's ",
+    "quoteTime": "eight minutes to six",
+    "quoteLast": ".",
+    "title": "The Matador of the Five Towns and Other Stories",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "12995",
+    "hash": "35fd66c92ebdd0ad76dc3f51e12270b5359cc47778013f722a135105ab3e34ff"
+  },
+  {
+    "time": "05:52",
     "quoteFirst": "\"Until ",
     "quoteTime": "eight minutes of six",
     "quoteLast": ", precisely; that is the time I have selected for my return.\"",

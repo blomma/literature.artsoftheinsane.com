@@ -11,6 +11,26 @@
   },
   {
     "time": "22:04",
+    "quoteFirst": "It was ",
+    "quoteTime": "four minutes past ten",
+    "quoteLast": ".",
+    "title": "Tragedy in Dedham",
+    "author": "Russell, Francis, 1910-1989",
+    "gutenbergReference": "70970",
+    "hash": "8cf8ed27e65a907bc37e8424eb30e60bcadc75443776617a057e38ee7db48116"
+  },
+  {
+    "time": "22:04",
+    "quoteFirst": "Now, finding the room empty, and knowing it to be ",
+    "quoteTime": "four minutes after ten",
+    "quoteLast": ", she says to herself, \"The first!\"",
+    "title": "Airy Fairy Lilian",
+    "author": "Duchess, 1855?-1897",
+    "gutenbergReference": "35228",
+    "hash": "03de89ec7174b06926feeec1d17fd8f1a3d852383ce5bb3a272814f745bbec13"
+  },
+  {
+    "time": "22:04",
     "quoteFirst": "The Professor had then taken the train which leaves Dijon at eight minutes past seven, and had arrived at Lyons at ",
     "quoteTime": "four minutes after ten",
     "quoteLast": " and at Valence at forty-seven minutes after midnight.",

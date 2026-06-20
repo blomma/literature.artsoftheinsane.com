@@ -1,6 +1,16 @@
 [
   {
     "time": "13:42",
+    "quoteFirst": "The time was ",
+    "quoteTime": "eighteen minutes to two",
+    "quoteLast": ".",
+    "title": "The Turner Twins",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "37209",
+    "hash": "12424bcc3a9041d7d522fd41e1352c2532ef6fac1a1a7b718ec6a506655ea5b2"
+  },
+  {
+    "time": "13:42",
     "quoteFirst": "At ",
     "quoteTime": "1.42 p. m.",
     "quoteLast": ", a wireless message from the steamship _Baltic_ was received by Capt.",

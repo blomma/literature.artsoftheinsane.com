@@ -1,16 +1,6 @@
 [
   {
     "time": "23:08",
-    "quoteFirst": "This miserable accident happened, as the driver of the goods train afterwards stated, at exactly ",
-    "quoteTime": "eight minutes past eleven",
-    "quoteLast": " o'clock.",
-    "title": "The Life of the Fields",
-    "author": "Jefferies, Richard, 1848-1887",
-    "gutenbergReference": "6164",
-    "hash": "a74afa7153f455b01d1603d952ee1025cc97c0f99a217565d28579b1401fb7b3"
-  },
-  {
-    "time": "23:08",
     "quoteFirst": "The outburst began at ",
     "quoteTime": "eight minutes past eleven",
     "quoteLast": " in the forenoon, and in five minutes it was gone again, but in that time it had swept across a space of 35,000 miles on the sun!",
@@ -28,6 +18,16 @@
     "author": "Jet Propulsion Laboratory (U.S.)",
     "gutenbergReference": "54585",
     "hash": "f0c4782267b17a36c640a33610a91e89c49cb302e7cb49ce3df9916d5d2f64d6"
+  },
+  {
+    "time": "23:08",
+    "quoteFirst": "I have an engagement, Dr. Hutton, at ",
+    "quoteTime": "eight minutes past eleven",
+    "quoteLast": "”.",
+    "title": "Cradock Nowell: A Tale of the New Forest. Vol. 1 (of 3)",
+    "author": "Blackmore, R. D. (Richard Doddridge), 1825-1900",
+    "gutenbergReference": "47084",
+    "hash": "d1716bfc5180ef35b728bde75b99ab6c3c491f1d0b56e7f82ecdd36e19223ad8"
   },
   {
     "time": "23:08",

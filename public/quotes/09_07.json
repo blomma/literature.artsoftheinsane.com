@@ -11,6 +11,26 @@
   },
   {
     "time": "09:07",
+    "quoteFirst": "The watch of a man I had chanced to pass near the house of the crime told the people \"",
+    "quoteTime": "Seven minutes after nine",
+    "quoteLast": ".\"",
+    "title": "Last Words",
+    "author": "Crane, Stephen, 1871-1900",
+    "gutenbergReference": "33579",
+    "hash": "076604473c4a24ed8bb18cf9c4460263360906635e5a49e9d08fe873c57ccf1c"
+  },
+  {
+    "time": "09:07",
+    "quoteFirst": "At ",
+    "quoteTime": "seven minutes past nine",
+    "quoteLast": " the Marchesa requested the prefect to ring the bell.",
+    "title": "The Patriot (Piccolo Mondo Antico)",
+    "author": "Fogazzaro, Antonio, 1842-1911; Agnetti, Mary Prichard, 1870-1948 [Translator]",
+    "gutenbergReference": "33778",
+    "hash": "83d8b09d4aa80dd13fb0eba63cdfe6a98d9ab0f8b449c103ada837c8301ecbf7"
+  },
+  {
+    "time": "09:07",
     "quoteFirst": "--The train due at Taunton at ",
     "quoteTime": "seven minutes past nine",
     "quoteLast": " and the \"Flying Dutchman\" reached Taunton at about the same time on Monday night, and were unable to proceed further.",

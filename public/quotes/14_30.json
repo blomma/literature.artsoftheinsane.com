@@ -1,102 +1,202 @@
 [
   {
     "time": "14:30",
-    "quoteFirst": "At ",
+    "quoteFirst": "We embarked at ",
     "quoteTime": "half-past two",
-    "quoteLast": " I was startled by the loud ringing of the front door bell.",
-    "title": "Essays on things",
-    "author": "Phelps, William Lyon, 1865-1943",
-    "gutenbergReference": "72395",
-    "hash": "7d89103766dec0c4ffa5ce152d7aa63216f4531ca758f2e49bccdf5a5ccec5fd"
-  },
-  {
-    "time": "14:30",
-    "quoteFirst": "He left Cambridge House at ",
-    "quoteTime": "half-past two in the afternoon",
-    "quoteLast": ", and at half-past nine in the evening he received a note from Lord Palmerston declining.",
-    "title": "The Life of William Ewart Gladstone, Vol. 1 (of 3)\n1809-1859",
-    "author": "Morley, John, 1838-1923",
-    "gutenbergReference": "21091",
-    "hash": "7f75e5b7a966904ab675df95ea1a8d7a26922fd121c7027be9c4bc8f7cb1f61d"
-  },
-  {
-    "time": "14:30",
-    "quoteFirst": "\"Come on Sunday at ",
-    "quoteTime": "half-past two",
-    "quoteLast": ". You will find papa after lunch.\"",
-    "title": "The Way We Live Now",
-    "author": "Trollope, Anthony, 1815-1882",
-    "gutenbergReference": "5231",
-    "hash": "c416ccefe4e0fe7925c7e9be3a616316f600c5ed3900850af78c850f8804d888"
+    "quoteLast": " on the morning of the 20th, and ran alongshore for two hours with a strong and favourable breeze, when shoals lying off the mouth of a pretty large river, led us six or seven miles from the coast.",
+    "title": "Narrative of a Second Expedition to the Shores of the Polar Sea, in the Years 1825, 1826, and 1827",
+    "author": "Franklin, John, 1786-1847; Richardson, John, Sir, 1787-1865",
+    "gutenbergReference": "33467",
+    "hash": "52e3e9a49607130ad0b8a8eb05d54e977e116d450cfb64cddd64193640ed8485"
   },
   {
     "time": "14:30",
     "quoteFirst": "At about ",
-    "quoteTime": "half-past two in the afternoon",
-    "quoteLast": ", a detachment of a hundred and fifty armed National Guards issued from the Rue du Temple, and stationed themselves before the Hôtel de Ville, crying, “Down with Trochu!”",
-    "title": "Paris under the Commune\r\nThe Seventy-Three Days of the Second Siege; with Numerous Illustrations, Sketches Taken on the Spot, and Portraits (from the Original Photographs)",
-    "author": "Leighton, John, 1822-1912",
-    "gutenbergReference": "10861",
-    "hash": "5f60c3e30874d2c1eb7420b286469c77c99dbfa569c067dc06deab21d5086dc6"
-  },
-  {
-    "time": "14:30",
-    "quoteFirst": "The service commenced at ten o'clock in the morning, and did not conclude until ",
     "quoteTime": "half-past two",
-    "quoteLast": ".",
-    "title": "History of the Opera from its Origin in Italy to the present Time\nWith Anecdotes of the Most Celebrated Composers and Vocalists of Europe",
-    "author": "Edwards, H. Sutherland (Henry Sutherland), 1828-1906",
-    "gutenbergReference": "40164",
-    "hash": "7680e9099168ec8c34dff25a6c00fda47ea901e23411e6f3b7d2607486ee507a"
+    "quoteLast": " we encamped on the border of a dry watercourse with a white sandy bed, such as we had not seen for a long time.",
+    "title": "Travels and discoveries in North and Central Africa, Vol. 1 (of 5)",
+    "author": "Barth, Heinrich, 1821-1865; Bernatz, Johann Martin, 1802-1878 [Illustrator]",
+    "gutenbergReference": "76316",
+    "hash": "ff5fa367cb6fb270959ff3cdf6d45fe3aebf406d0c298fa34cb9f0dcb253bbd3"
   },
   {
     "time": "14:30",
-    "quoteFirst": "The commander of the Confederate Army was killed farther to the right, at ",
-    "quoteTime": "half-past two o'clock in the afternoon",
-    "quoteLast": ".",
-    "title": "From Fort Henry to Corinth",
-    "author": "Force, M. F. (Manning Ferguson), 1824-1899",
-    "gutenbergReference": "24438",
-    "hash": "8b346d6184efff4fd7540e4f1593afc7f607b40a87f00ea782a8ef2defdf935e"
+    "quoteFirst": "It’s ",
+    "quoteTime": "two-thirty",
+    "quoteLast": " an’ a fog’s settlin’!",
+    "title": "The Wilderness Castaways",
+    "author": "Wallace, Dillon, 1863-1939; Watson, Hy S. (Henry Summer), 1868-1933 [Illustrator]",
+    "gutenbergReference": "42382",
+    "hash": "e77a1e96976d0b7906c58bbe97024c63f6aa903d3cc58378bda96240badb5085"
+  },
+  {
+    "time": "14:30",
+    "quoteFirst": "“I haven’t been here since about ",
+    "quoteTime": "half-past two",
+    "quoteLast": ", until just now. I was over at Upton for an hour or more. Then Carl Stevens and I went downtown. What time’s it now? Twenty past five? Well, that’s nearly three hours. When were you up last?”",
+    "title": "Right Tackle Todd",
+    "author": "Barbour, Ralph Henry, 1870-1944; Crump, Leslie, 1894-1962 [Illustrator]",
+    "gutenbergReference": "53518",
+    "hash": "b33bec58b311c769c150c37f69e813e4e4cbbbd70379c9cd6af05864c92d2e81"
+  },
+  {
+    "time": "14:30",
+    "quoteFirst": "It was about ",
+    "quoteTime": "half-past two",
+    "quoteLast": " when the King appeared at the bar.",
+    "title": "Memoirs of the Court of Marie Antoinette, Queen of France, Complete\r\nBeing the Historic Memoirs of Madam Campan, First Lady in Waiting to the Queen",
+    "author": "Campan, Mme. (Jeanne-Louise-Henriette), 1752-1822",
+    "gutenbergReference": "3891",
+    "hash": "e1c79126a00cef0529bf28428cbfcc00c5f4967b6424eabb2a985710ba634fb6"
   },
   {
     "time": "14:30",
     "quoteFirst": "At ",
     "quoteTime": "half-past two",
-    "quoteLast": ", the Cabot, being between us and the enemy, began to engage, and soon after we did the same.",
-    "title": "The Life and Adventures of Rear-Admiral John Paul Jones, Commonly Called Paul Jones",
-    "author": "Abbott, John S. C. (John Stevens Cabot), 1805-1877",
-    "gutenbergReference": "55867",
-    "hash": "7f8d3b7f332bcb41ff7b8b3de896efb67cc8894636c24085567dcb78cc86c520"
+    "quoteLast": ", when the sitting was resumed, the    galleries were crowded and very noisy.",
+    "title": "History for ready reference, Volume 2, El Dorado to Greaves",
+    "author": "Larned, J. N. (Josephus Nelson), 1836-1913; Reiley, Alan C. (Alan Campbell), 1869-1947 [Illustrator]",
+    "gutenbergReference": "66861",
+    "hash": "702ff9b1f852aa61fcc16e0595474c3847c87a85fe891cd6ff413ccb8fa321ba"
   },
   {
     "time": "14:30",
-    "quoteFirst": "Started 7 A.M.  Got to Sandy Hill ",
-    "quoteTime": "2.30 P.M.",
-    "quoteLast": ", and got so soft we could not travel, especially through the portages.",
-    "title": "A Woman's Way Through Unknown Labrador",
-    "author": "Hubbard, Mina, 1870-1956",
-    "gutenbergReference": "4266",
-    "hash": "0aa03debbbeedb7614952aa05ff1df4ce0aea2ee8233f94a7b59ec6005621e2f"
-  },
-  {
-    "time": "14:30",
-    "quoteFirst": "\"At the hour when James Funnell heard Holy Trinity clock striking ",
+    "quoteFirst": "\"John often came home at ",
     "quoteTime": "half-past two",
-    "quoteLast": " Aaron Cohen was already dead. Look how simple the whole thing is,\" he added eagerly, \"and how easy after that--easy, but oh, dear me! how wonderfully, how stupendously clever. As soon as James Funnell has passed on, John Ashley, having opened the gate, lifts the body of Aaron Cohen in his arms and carries him across the Square. The Square is deserted, of course, but the way is easy enough, and we must presume that Ashley had been in it before. Anyway, there was no fear of meeting any one.",
-    "title": "The Old Man in the Corner",
-    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
-    "gutenbergReference": "10556",
-    "hash": "08e36bc370d89f7d6afe0419ff6bc45d9aa388e9939b3f3d5ddacba1f8613b3e"
+    "quoteLast": " from the Yard,\" continued Weymouth; \"so we naturally thought poor Mary was wandering in her mind. But last night--and it's not to be wondered at--my wife couldn't sleep, and she was wide awake at half-past two.\"",
+    "title": "The Insidious Dr. Fu Manchu",
+    "author": "Rohmer, Sax, 1883-1959",
+    "gutenbergReference": "173",
+    "hash": "b6b7b29eed8564ea6786647f68d79fbb1cd73db9ecaa145fe0b97ed7c1de400a"
   },
   {
     "time": "14:30",
-    "quoteFirst": "He received permission, on the condition that he returned not later than mid-day, but he did not come back until ",
+    "quoteFirst": "At ",
+    "quoteTime": "half-past two",
+    "quoteLast": " they were alone in the little salon of the restaurant, and vaguely in their dreamy and feverish minds that were too preoccupied to control with precision their warm, relaxed bodies, there floated the illusion that the restaurant belonged to them and that in it they were at home.",
+    "title": "The Old Wives' Tale",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "5247",
+    "hash": "0cbbde0e7faf4bd863de6517e6bba28a9c7a26a6716adb898770743fa726c4b0"
+  },
+  {
+    "time": "14:30",
+    "quoteFirst": "It was ",
+    "quoteTime": "two-thirty",
+    "quoteLast": " when he saw them coming.",
+    "title": "Casey Ryan",
+    "author": "Bower, B. M., 1871-1940",
+    "gutenbergReference": "12495",
+    "hash": "3794772231ca2fedc4867dad7329ef0335db397a6f60fac06585c66815cca7d3"
+  },
+  {
+    "time": "14:30",
+    "quoteFirst": "Glancing at his watch, and apparently dismissing this particular point from his mind, he added: \"It's now ",
+    "quoteTime": "two-thirty",
+    "quoteLast": ", and I want to run around to the Polo Club. Will you come along?\"",
+    "title": "Ashton-Kirk, Criminologist",
+    "author": "McIntyre, John T. (John Thomas), 1871-1951; Boyer, Ralph L. (Ralph Ludwig), 1879-1952 [Illustrator]",
+    "gutenbergReference": "30838",
+    "hash": "69008ee616a454dedcc83434408e4584c989617a725fc6527f2007f434956fc3"
+  },
+  {
+    "time": "14:30",
+    "quoteFirst": "The water passed over the dam about a foot above its top, beginning at about ",
+    "quoteTime": "half-past 2",
+    "quoteLast": ".",
+    "title": "History of the Johnstown Flood\r\nIncluding all the Fearful Record; the Breaking of the South Fork Dam; the Sweeping Out of the Conemaugh Valley; the Over-Throw of Johnstown; the Massing of the Wreck at the Railroad Bridge; Escapes, Rescues, Searches for Survivors and the Dead; Relief Organizations, Stupendous Charities, etc., etc., With Full Accounts also of the Destruction on the Susquehanna and Juniata Rivers, and the Bald Eagle Creek.",
+    "author": "Johnson, Willis Fletcher, 1857-1931",
+    "gutenbergReference": "41271",
+    "hash": "4af1a3b36c6ec563fbfdcf870adb24eeca705e4613399f08bb1d34761b0f4790"
+  },
+  {
+    "time": "14:30",
+    "quoteFirst": "\"Oh,\" she said, \"if it's ",
+    "quoteTime": "half-past two",
+    "quoteLast": " I might think of coming down for a moment--to look at my roses.... Thank you, Mr. Hamil, I can see my way very clearly. I can usually see my own way clearly--without the aid of your too readily offered hand.... Did you ever dream of such an exquisitely hot night! That means rain, doesn't it?--with so many fragrances mingling? The odour of lilies predominates, and I think some jasmine is in the inland wind, but my roses are very sweet if you only bend down to them. A rose is always worth stooping for.\"",
+    "title": "The Firing Line",
+    "author": "Chambers, Robert W. (Robert William), 1865-1933",
+    "gutenbergReference": "15654",
+    "hash": "41cb0f3e81f1a942d57d16cb83fea843c89f95ee8d9bd87d02669006eda8c6d9"
+  },
+  {
+    "time": "14:30",
+    "quoteFirst": "The “Lioness” made for the scene of the wreck, which she reached about ",
+    "quoteTime": "half-past two in the afternoon",
+    "quoteLast": ", and picked up about forty-five men, who had managed to cling to the still standing mast of the “Birkenhead.”",
+    "title": "The Scottish Highlands, Highland Clans and Highland Regiments, Volume 2 (of 2)",
+    "author": "Keltie, John Scott, Sir, 1840-1927 [Editor]; Maclauchlan, Thomas, 1816-1886 [Contributor]; Wilson, John, 1785-1854 [Contributor]",
+    "gutenbergReference": "59469",
+    "hash": "09975569b4525b000099b1ef62d7ff8d05b970e0ced57d3ab2367cdd380d3e89"
+  },
+  {
+    "time": "14:30",
+    "quoteFirst": "About ",
+    "quoteTime": "half-past two",
+    "quoteLast": ", a slight shock of an earthquake was felt, presenting a rumbling noise, very audible, proceeding from east to west.",
+    "title": "Journals of Travels in Assam, Burma, Bhootan, Afghanistan and the Neighbouring Countries",
+    "author": "Griffith, William, 1810-1845",
+    "gutenbergReference": "15171",
+    "hash": "ca398357d836083ca715d2dbcd1bbdcb9a01c2ee51a17023ebb4237f4adad4df"
+  },
+  {
+    "time": "14:30",
+    "quoteFirst": "\"And then you might get your lunch, and come for me sharp at ",
+    "quoteTime": "half-past two",
+    "quoteLast": ".\"",
+    "title": "The Heart of Rachael",
+    "author": "Norris, Kathleen Thompson, 1880-1966",
+    "gutenbergReference": "4915",
+    "hash": "80bc4e949523cbabcaeda7da50633a882459d60db95410f6457252bfea02122c"
+  },
+  {
+    "time": "14:30",
+    "quoteFirst": "By ",
+    "quoteTime": "half past two",
+    "quoteLast": " all sight or sound of the trailers and the pursuing horsemen was lost in the distance, and a corporal, trotting back from the Sanchez place, reported that Muñoz and some of his fellows had joined in the search, and already with important result.",
+    "title": "Tonio, Son of the Sierras: A Story of the Apache War",
+    "author": "King, Charles, 1844-1933; Post, Charles Johnson, 1873-1956 [Illustrator]",
+    "gutenbergReference": "23487",
+    "hash": "cbdf8f6c7610f3a7eb42ab47cd03b29a2243eec34e531de40489f482d6b1bd2e"
+  },
+  {
+    "time": "14:30",
+    "quoteFirst": "I looked at my watch--just ",
+    "quoteTime": "two-thirty",
+    "quoteLast": " A.M. No one appeared; and to my relief I remembered that this was just the hour when either Miss Hunter or my friend went round to the invalids, giving them milk or bovril, in the night.",
+    "title": "Seen and Unseen",
+    "author": "Bates, E. Katherine (Emily Katherine)",
+    "gutenbergReference": "21041",
+    "hash": "4eb592665a58fb599cf81188617b0c2d4858ba317168111bc0a3256d8ba38bfd"
+  },
+  {
+    "time": "14:30",
+    "quoteFirst": "About ",
     "quoteTime": "2.30 P.M.",
-    "quoteLast": " and we thereby got into a pretty little mess.",
-    "title": "Scrambles Amongst the Alps in the Years 1860-69",
-    "author": "Whymper, Edward, 1840-1911",
-    "gutenbergReference": "41234",
-    "hash": "7b8ea3e3b0403121bb380faf75ff811ce659a6d5e543dc31577e918f41b24117"
+    "quoteLast": " the balloon began to descend rapidly, and they had some difficulty in stopping it at 3000 mètres.",
+    "title": "Adventures on the Roof of the World",
+    "author": "Le Blond, Aubrey, Mrs., 1861-1934",
+    "gutenbergReference": "43314",
+    "hash": "56e1fd0778437beb6175f2de663d29e0bd014bb12899de209c18d9ee929f6789"
+  },
+  {
+    "time": "14:30",
+    "quoteFirst": "The kitchen clock struck ",
+    "quoteTime": "half-past two",
+    "quoteLast": ", then three.",
+    "title": "The Little Colonel in Arizona",
+    "author": "Johnston, Annie F. (Annie Fellows), 1863-1931; Barry, Etheldred B. (Etheldred Breeze), 1870-1967 [Illustrator]",
+    "gutenbergReference": "39599",
+    "hash": "5c34ff261106e7d41a27d090ee2772e5b7e8eb3dc4dd58a977b41b7db9abb38d"
+  },
+  {
+    "time": "14:30",
+    "quoteFirst": "I was at the station at ",
+    "quoteTime": "half-past two",
+    "quoteLast": ".",
+    "title": "Grim Tales",
+    "author": "Nesbit, E. (Edith), 1858-1924",
+    "gutenbergReference": "40321",
+    "hash": "9a10424ce6e4e18210a855247dffa4fd85b7578d9cddf0b48f4eebe08ff3e1ce"
   }
 ]

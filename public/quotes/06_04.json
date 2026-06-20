@@ -1,6 +1,16 @@
 [
   {
     "time": "06:04",
+    "quoteFirst": "“",
+    "quoteTime": "Four minutes after six",
+    "quoteLast": ", in the evening, my Rosannah, shall henceforth--”",
+    "title": "Alonzo Fitz, and Other Stories",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3184",
+    "hash": "f2bc1abf0bf1bf62754902a8c960278df0c95d5566afeaaa5cbfc0c4445e220a"
+  },
+  {
+    "time": "06:04",
     "quoteFirst": "At ",
     "quoteTime": "four minutes after six",
     "quoteLast": " the air went silent, then a new voice took over the microphone.",
@@ -38,5 +48,15 @@
     "author": "Bond, P. S. (Paul Stanley), 1879-1955; McDonough, Michael Joseph, 1877-1921",
     "gutenbergReference": "77863",
     "hash": "279ab887749331f47b871939e494a6964c4c24d1453fb9b4bcdf9bad0d93732d"
+  },
+  {
+    "time": "06:04",
+    "quoteFirst": "\"",
+    "quoteTime": "Four minutes after six",
+    "quoteLast": ", in the evening, my Rosannah, shall henceforth--\"",
+    "title": "The Entire Project Gutenberg Works of Mark Twain",
+    "author": "Twain, Mark, 1835-1910",
+    "gutenbergReference": "3200",
+    "hash": "1fb536c8776233fc2d5804d758c93d9654514c090924ae22ca877e6a917058d8"
   }
 ]

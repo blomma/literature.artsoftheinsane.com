@@ -1,6 +1,16 @@
 [
   {
     "time": "21:17",
+    "quoteFirst": "'",
+    "quoteTime": "9.17 P.M.",
+    "quoteLast": ", 9.50 P.M.' read Mrs. Brown-Smith aloud; 'it gives plenty of time in case of delays.",
+    "title": "The Disentanglers",
+    "author": "Lang, Andrew, 1844-1912",
+    "gutenbergReference": "17031",
+    "hash": "245783d132630b578bd53921e02b9efee933383a4cfafc90b149531a9555ba6d"
+  },
+  {
+    "time": "21:17",
     "quoteFirst": "The news came at ",
     "quoteTime": "9.17 P.M.",
     "quoteLast": "     Before 10 all London was in the streets, gone mad with joy.",

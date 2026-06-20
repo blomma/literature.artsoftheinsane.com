@@ -11,6 +11,26 @@
   },
   {
     "time": "22:17",
+    "quoteFirst": "(“Thirty-nine steps”) was the phrase; and at its last time of use it ran—(“Thirty-nine steps, I counted them—high tide ",
+    "quoteTime": "10.17 p.m.",
+    "quoteLast": "”).",
+    "title": "The Thirty-Nine Steps",
+    "author": "Buchan, John, 1875-1940",
+    "gutenbergReference": "558",
+    "hash": "8abd8c31c4cb5cc37e8206f4cf155412db9296dda553a71f3de45a1dad4601ed"
+  },
+  {
+    "time": "22:17",
+    "quoteFirst": "“_Thirty-nine steps_,” I read, and again, “_Thirty-nine steps—I counted them—High tide_, ",
+    "quoteTime": "10.17 p.m.",
+    "quoteLast": "”",
+    "title": "The Thirty-Nine Steps",
+    "author": "Buchan, John, 1875-1940",
+    "gutenbergReference": "558",
+    "hash": "b2ad28725e0ca5e8939ec057a70c2cf065b83a7b2e0092c28d51aad8a797795b"
+  },
+  {
+    "time": "22:17",
     "quoteFirst": "There was no boat which left for the Continent at ",
     "quoteTime": "10.17 p.m.",
     "quoteLast": "",
@@ -28,5 +48,35 @@
     "author": "Buchan, John, 1875-1940",
     "gutenbergReference": "558",
     "hash": "079deb7a8ad7de45ff255cc87c2f5a038b43337225d4af084ffe3b2852fb8c73"
+  },
+  {
+    "time": "22:17",
+    "quoteFirst": "—Pale Flares the Darkness       V. ",
+    "quoteTime": "10:17 p. m.",
+    "quoteLast": "—Living or Dead?",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "hash": "beef58a1b436aa160f9229554a3166458fb7f8245746288b1e18bd01341559f3"
+  },
+  {
+    "time": "22:17",
+    "quoteFirst": "",
+    "quoteTime": "10:17 p. m.",
+    "quoteLast": "—Living or Dead?",
+    "title": "Murder by the clock",
+    "author": "King, Rufus, 1893-1966",
+    "gutenbergReference": "75500",
+    "hash": "0b97704cf5291f7d2521180fcc674146cd79b0a9efb377cff102b6a9bb8ff624"
+  },
+  {
+    "time": "22:17",
+    "quoteFirst": "Here Boadicea, Joan of Arc, Prince Rupert, and King Charles turned out of the lodge gate, and the exploring expedition began at ",
+    "quoteTime": "seventeen minutes past ten",
+    "quoteLast": ", precisely.",
+    "title": "The Wonderful Garden; or, The Three Cs",
+    "author": "Nesbit, E. (Edith), 1858-1924; Millar, H. R. (Harold Robert), 1869-1942 [Illustrator]",
+    "gutenbergReference": "52907",
+    "hash": "f593fe19b4303003132205b163454dfa94a8166b917b5e1d779185f2b64c3fed"
   }
 ]

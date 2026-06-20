@@ -11,6 +11,16 @@
   },
   {
     "time": "02:12",
+    "quoteFirst": "\"",
+    "quoteTime": "2.12 a.m.",
+    "quoteLast": " IXth Corps to G.H.Q. As far as can be ascertained 33rd Brigade hold line the sea about 91.I.9 to Suvla East corner[2] of Salt Lake to Lala Baba inclusive. North of Salt Lake 31st and 32nd Brigade extended East of Asmak 117.U. preparatory. 34th Brigade advancing having followed retreating enemy towards line diagonally across 117.X. and 117.D. One battalion latter Brigade occupy high ground about square 135.",
+    "title": "Gallipoli Diary, Volume 2",
+    "author": "Hamilton, Ian, 1853-1947",
+    "gutenbergReference": "22021",
+    "hash": "336c8628fd19543fc095c38909b20c260164c252cbdcb6576a439dab3fbe6f86"
+  },
+  {
+    "time": "02:12",
     "quoteFirst": "On Tuesday, June 20 of that year, at ",
     "quoteTime": "twelve minutes past two",
     "quoteLast": ", King William the Fourth died.",
@@ -28,6 +38,16 @@
     "author": "Lovecraft, H. P. (Howard Phillips), 1890-1937",
     "gutenbergReference": "73233",
     "hash": "f90f0723f9f5dacb2ebd6100c6ab757afe08e5fc791e10a48a2d707a9bbcb445"
+  },
+  {
+    "time": "02:12",
+    "quoteFirst": "died at Windsor at ",
+    "quoteTime": "twelve minutes past two",
+    "quoteLast": " on the morning of June 20th.",
+    "title": "Kensington Palace, the birthplace of the Queen\nbeing an historical guide to the state rooms, pictures and gardens",
+    "author": "Law, Ernest, 1854-1930",
+    "gutenbergReference": "43428",
+    "hash": "c73416d87c35b3f54bd4fe3e66cde33d5355a762c4cb6ee4a476d05a4e046a4a"
   },
   {
     "time": "02:12",

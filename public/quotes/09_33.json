@@ -1,6 +1,16 @@
 [
   {
     "time": "09:33",
+    "quoteFirst": "It must have been about ",
+    "quoteTime": "twenty-seven minutes to ten",
+    "quoteLast": " when I reached the summer-house.",
+    "title": "The murder of Roger Ackroyd",
+    "author": "Christie, Agatha, 1890-1976",
+    "gutenbergReference": "69087",
+    "hash": "2a8aca4eaeb3757fd9956ecfcf68a89774ef19fce7c66ed97c31dd8b5e78e516"
+  },
+  {
+    "time": "09:33",
     "quoteFirst": "Next, he remembered that the morrow of Christmas would be the twenty-seventh day of the moon, and that consequently high water would be at twenty-one minutes past three, the half-ebb at a quarter past seven, low water at ",
     "quoteTime": "thirty-three minutes past nine",
     "quoteLast": ", and half flood at thirty-nine minutes past twelve.",
@@ -13,10 +23,10 @@
     "time": "09:33",
     "quoteFirst": "Black Bulb 7.51 to 8.13 a.m. 9.03 to 9.17 a.m. 9.20 to ",
     "quoteTime": "9.33 a.m.",
-    "quoteLast": " 11.15 to 11.28 a.m. 11.32 to 11.45 a.m. 1.20 to 1.33 p.m. 1.40 to 1.53 p.m. 13·0 19·5 21·2 21·1 16·5",
+    "quoteLast": " 11.15 to 11.28 a.m. 11.32 to 11.45 a.m. 1.20 to 1.33 p.m. 1.40 to 1.53 p.m. 13·0 19·5 21·2 21·1 16·5 21·6 21·4   88·0   96·0 107·0 105·0 108·7 108·5 113·7   8·8790 12·5190 12·7836 12·8499   9·8770 12·9348 12·4976 29·698",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "b9df5ab585a44c5985883ec99524e74c68628112843d6781077d3c4666187b79"
+    "hash": "ad58248ebd87928e6d75897c88db79a0096e1438a3e58350c67947f42cae4067"
   }
 ]

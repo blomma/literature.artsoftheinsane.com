@@ -11,6 +11,16 @@
   },
   {
     "time": "04:43",
+    "quoteFirst": "It was ",
+    "quoteTime": "seventeen minutes of five",
+    "quoteLast": ".",
+    "title": "Left Tackle Thayer",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "13542",
+    "hash": "a93ecaf5c9ccf51d2ae9b1adf7727713ec977aef1750467f06e65b6bff38bab0"
+  },
+  {
+    "time": "04:43",
     "quoteFirst": "; on the 15th, at ",
     "quoteTime": "4:43 a. m.",
     "quoteLast": "; and on the 30th, at 3:47 a.",
@@ -18,5 +28,15 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55158",
     "hash": "db6e4641e8e2282eaf329059e75a5dabeb139907c7563fd72430b4ea2085776d"
+  },
+  {
+    "time": "04:43",
+    "quoteFirst": "The other day he made up his mind, not casually or by the way, but in writing, duly signed, sealed and circulated, that \"The moon will rise to-morrow at ",
+    "quoteTime": "4.43 A.M.",
+    "quoteLast": "\" Did the moon comply?",
+    "title": "Punch, or the London Charivari, Vol. 150, March 22, 1916",
+    "author": "Various; Seaman, Owen, 1861-1936 [Editor]",
+    "gutenbergReference": "22805",
+    "hash": "182e3d7b9a83566b25f8946148a9f71f5cc8b04ea1d1d948f8e9f1da8cb91811"
   }
 ]

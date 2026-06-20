@@ -21,13 +21,13 @@
   },
   {
     "time": "16:43",
-    "quoteFirst": "9.44 to 9.51 a.m. 10.46 to 10.53 a.m. 11.50 to 11.57 a.m. 12.06 to 12.13 p.m. 12.58 to 1.02 p.m. 1.45 to 1.52 p.m. 3.15 to 3.22 p.m. 4.27 to 4.34 p.m. 4.36 to ",
+    "quoteFirst": "Black Bulb 7.34 to 7.41 a.m. 8.38 to 8.45 a.m. 9.44 to 9.51 a.m. 10.46 to 10.53 a.m. 11.50 to 11.57 a.m. 12.06 to 12.13 p.m. 12.58 to 1.02 p.m. 1.45 to 1.52 p.m. 3.15 to 3.22 p.m. 4.27 to 4.34 p.m. 4.36 to ",
     "quoteTime": "4.43 p.m.",
-    "quoteLast": " 4.45 to 4.52 p.m. 4.56 to 5.09 p.m. 5.12 to 5.18 p.m. 10·0 16·0 19·5 21·0 21·5 24·1",
+    "quoteLast": " 4.45 to 4.52 p.m. 4.56 to 5.09 p.m. 5.12 to 5.18 p.m. 10·0 16·0 19·5 21·0 21·5 24·1 23·9 21·4 18·1 10·2   9·8   8·5   5·6   3·8 69·4 70·0 74·7 78·2 81·2 88·0 87·2 84·5 82·5 82·0 84·0 85·0 85·0 84·0 8·4200 13·3920 15·3660 15·8550 15·6950 16·4603 16·4432 15·0870 13·0320 7·3746 6·9482 5·9670 3·9312 2·6942 29·948",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "36e9a8ca6ac318bebe46db76294df71308269ec3af7500f767ee130da2da12f4"
+    "hash": "54f48ebc7ade909f59983a605d560672b7124d54250ed682190e52e358b338fe"
   },
   {
     "time": "16:43",
@@ -48,6 +48,16 @@
     "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
     "gutenbergReference": "25963",
     "hash": "bef58e8a94d5fc140c5336ae28515c377326ef386c80c1a6f41d73f61bd71c2c"
+  },
+  {
+    "time": "16:43",
+    "quoteFirst": "It was ",
+    "quoteTime": "seventeen minutes of five",
+    "quoteLast": ".",
+    "title": "Left Tackle Thayer",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "13542",
+    "hash": "4b3a8212f1626940fc8127da5afd42b631ec727187708cd7b5980b978a3b41a8"
   },
   {
     "time": "16:43",

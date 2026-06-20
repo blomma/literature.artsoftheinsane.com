@@ -41,6 +41,16 @@
   },
   {
     "time": "17:23",
+    "quoteFirst": ", sets at ",
+    "quoteTime": "5:23 p. m.",
+    "quoteLast": "; on the 14th, at 12:27 a.",
+    "title": "The Chautauquan, Vol. 05, April 1885",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55061",
+    "hash": "3b8530e0735315d9bf15afd6c87a9110bf3ed68b02a480100bedf408cd4f6530"
+  },
+  {
+    "time": "17:23",
     "quoteFirst": "\"At ",
     "quoteTime": "twenty-three minutes past five in the afternoon",
     "quoteLast": ".\"",

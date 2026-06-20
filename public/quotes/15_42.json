@@ -1,6 +1,16 @@
 [
   {
     "time": "15:42",
+    "quoteFirst": "At ",
+    "quoteTime": "eighteen minutes to four",
+    "quoteLast": " we heard the rustle of David's wings.",
+    "title": "The Little White Bird; Or, Adventures in Kensington Gardens",
+    "author": "Barrie, J. M. (James Matthew), 1860-1937",
+    "gutenbergReference": "1376",
+    "hash": "f07b443447f3dfc4dcc3dbd6b51e42e8fb08bb70cd4e9290a5ecf9598fd55d02"
+  },
+  {
+    "time": "15:42",
     "quoteFirst": "\"M. Gerbois, it is now ",
     "quoteTime": "eighteen minutes to four",
     "quoteLast": ": I authorize you to leave this room at fourteen minutes to four.... Not a moment before fourteen minutes to four.... Is it understood?\"",

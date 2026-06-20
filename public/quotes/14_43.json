@@ -31,6 +31,16 @@
   },
   {
     "time": "14:43",
+    "quoteFirst": "\"",
+    "quoteTime": "2.43 P.M.",
+    "quoteLast": ": Sighted enemy submarine on the surface five points on     the port bow. Dived and flooded both tubes.",
+    "title": "The Story of Our Submarines",
+    "author": "Bower, John Graham, 1886-1940",
+    "gutenbergReference": "40765",
+    "hash": "68a863a5dba84053994614acfc9b56a3bb4f0235eb17343ac970c7556a9a4523"
+  },
+  {
+    "time": "14:43",
     "quoteFirst": "The clock at the bank marked ",
     "quoteTime": "forty-three minutes after two",
     "quoteLast": " as Lee, leaving a sweating horse at the door on Main Street, presented his check at the paying teller's window.",
@@ -48,5 +58,15 @@
     "author": "Matthews, Franklin, 1858-1917; Reuterdahl, Henry, 1871-1925 [Illustrator]",
     "gutenbergReference": "41244",
     "hash": "66139522401d273492881c85c6225276b51a076bde50777caf604dff55c10b6d"
+  },
+  {
+    "time": "14:43",
+    "quoteFirst": "The periods recur at varying lengths of time; in one instance a period began at 1.38 P.M. and was repeated at 2.06, 2.34, 2.55, 3.15, and at 3.36, when the observation ceased; in another instance a period began at ",
+    "quoteTime": "2.43 P.M.",
+    "quoteLast": ", and was repeated at 2.57 and at intervals of from ten to fifteen minutes thereafter while the animal was being watched.",
+    "title": "The A.B.-Z. of our own nutrition",
+    "author": "Fletcher, Horace, 1849-1919; Higgins, Hubert [Contributor]; Someren, Ernest van [Contributor]",
+    "gutenbergReference": "67326",
+    "hash": "36a8644a422ae4a831ba5b2bab2f671760f774b78416ac34a617f2bfa56763a9"
   }
 ]

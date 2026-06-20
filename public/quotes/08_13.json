@@ -51,13 +51,23 @@
   },
   {
     "time": "08:13",
-    "quoteFirst": "Black Bulb 7.51 to ",
+    "quoteFirst": "Black Bulb 8.00 to ",
     "quoteTime": "8.13 a.m.",
-    "quoteLast": " 9.03 to 9.17 a.m. 9.20 to 9.33 a.m. 11.15 to 11.28 a.m. 11.32 to 11.45 a.m. 1.20 to 1.33 p.m. 1.40 to 1.53 p.m. 13·0 19·5 21·2",
+    "quoteLast": " 8.15 to 8.28 a.m. 9.00 to 9.13 a.m. 10.00 to 10.13 a.m. 11.00 to 11.13 a.m. Noon to 12.13 p.m. 1.00 to 1.13 p.m. 2.00 to 2.13 p.m. 11·1 15·0 17·7 19·1 19·0 18·8 17·2 17·4 65·5 69·5 71·5 72·5 75·0 75·0 73·3 74·0   9·9900 12·2645 14·5140 15·4710 14·9150 12·7600 13·8976 13·8330 22·960",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "7a8b3bcae38c24e9b443dcbc21ba58b4a9a7f2cb816c43add631dc689658c1b1"
+    "hash": "2b526fd4af090cd770cae9daf8a9d5d2da371279896ea0f0e5c5437a9b089788"
+  },
+  {
+    "time": "08:13",
+    "quoteFirst": "Black Bulb 7.51 to ",
+    "quoteTime": "8.13 a.m.",
+    "quoteLast": " 9.03 to 9.17 a.m. 9.20 to 9.33 a.m. 11.15 to 11.28 a.m. 11.32 to 11.45 a.m. 1.20 to 1.33 p.m. 1.40 to 1.53 p.m. 13·0 19·5 21·2 21·1 16·5 21·6 21·4   88·0   96·0 107·0 105·0 108·7 108·5 113·7   8·8790 12·5190 12·7836 12·8499   9·8770 12·9348 12·4976 29·698",
+    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6478",
+    "hash": "117a57d6ad05aee3eca61ab9ecb179474cf657c84b3933bc4c580b7127607170"
   },
   {
     "time": "08:13",
@@ -88,5 +98,15 @@
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
     "hash": "eed119e0229943d422203c2bfacc56fcd51778c398cb83c4b8d021d247b0ee7b"
+  },
+  {
+    "time": "08:13",
+    "quoteFirst": "At ",
+    "quoteTime": "thirteen minutes past eight",
+    "quoteLast": " they alighted in a sandy, barren plain, covered with loose stones.",
+    "title": "The Life and Adventures of Bruce, the African Traveller",
+    "author": "Head, Francis Bond, Sir, 1793-1875",
+    "gutenbergReference": "39615",
+    "hash": "c87a920f9aa6882b3fb6cd3ab2b6641686b5679b38641083ef863ff426f9aa60"
   }
 ]

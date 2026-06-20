@@ -1,6 +1,16 @@
 [
   {
     "time": "21:33",
+    "quoteFirst": "It must have been about ",
+    "quoteTime": "twenty-seven minutes to ten",
+    "quoteLast": " when I reached the summer-house.",
+    "title": "The murder of Roger Ackroyd",
+    "author": "Christie, Agatha, 1890-1976",
+    "gutenbergReference": "69087",
+    "hash": "e115b0e23b0dfa5d4f987f6672fc56237a6c768881f70992c637b8b20734a4f9"
+  },
+  {
+    "time": "21:33",
     "quoteFirst": "Next, he remembered that the morrow of Christmas would be the twenty-seventh day of the moon, and that consequently high water would be at twenty-one minutes past three, the half-ebb at a quarter past seven, low water at ",
     "quoteTime": "thirty-three minutes past nine",
     "quoteLast": ", and half flood at thirty-nine minutes past twelve.",
@@ -18,5 +28,15 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55208",
     "hash": "42e05b95f00af67370d05bae1dbb0a872aa0a3369e08944c96b3c7dda18730eb"
+  },
+  {
+    "time": "21:33",
+    "quoteFirst": "; on the 29th, rising at ",
+    "quoteTime": "9:33 p. m.",
+    "quoteLast": ", and setting on the 30th at 9:31 a.",
+    "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55251",
+    "hash": "54b0e5eaff4e98e55bb2be8ec7e95db037adbba64cad81cb09f858809a53803f"
   }
 ]

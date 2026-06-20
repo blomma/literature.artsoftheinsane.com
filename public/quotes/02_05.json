@@ -1,13 +1,123 @@
 [
   {
     "time": "02:05",
-    "quoteFirst": "The ",
-    "quoteTime": "Two-five",
+    "quoteFirst": "Anything that beats that pair, fit and well, a mile and a quarter on a fast track'll have to make it in ",
+    "quoteTime": "two-five",
+    "quoteLast": ", an' that's the record.”",
+    "title": "Thoroughbreds",
+    "author": "Fraser, William Alexander, 1859-1933",
+    "gutenbergReference": "9088",
+    "hash": "7322b833d89c72d1adb807e8359ad5368f79906e3aa4ffe547f6dd918547768f"
+  },
+  {
+    "time": "02:05",
+    "quoteFirst": "It is time to start, honoured madam, the train leaves at ",
+    "quoteTime": "two-five",
     "quoteLast": ".",
-    "title": "Motion pictures and filmstrips, 1978",
-    "author": "Library of Congress. Copyright Office",
-    "gutenbergReference": "78638",
-    "hash": "dbda80eb9150be9f1ce8ef74ad1791fae9729912a1ce44078d6720285ee3cefa"
+    "title": "The sea-gull",
+    "author": "Chekhov, Anton Pavlovich, 1860-1904",
+    "gutenbergReference": "1754",
+    "hash": "c94dbccf41fb9e67fdf9967f953acf043c3ed5c96db2ba327e1e32d6dca4060d"
+  },
+  {
+    "time": "02:05",
+    "quoteFirst": "They got to Wynton at ",
+    "quoteTime": "five minutes after two",
+    "quoteLast": "; their time there was one-twenty-five.",
+    "title": "The Window at the White Cat",
+    "author": "Rinehart, Mary Roberts, 1876-1958",
+    "gutenbergReference": "34020",
+    "hash": "0cef60a213e094a69909cebc9b7164183887143d3ec59599da66270b72ce2738"
+  },
+  {
+    "time": "02:05",
+    "quoteFirst": "THE PRESIDENT: We will adjourn now until ",
+    "quoteTime": "5 minutes past 2",
+    "quoteLast": ".",
+    "title": "Trial of the Major War Criminals Before the International Military Tribunal, Nuremburg, 14 November 1945-1 October 1946, Volume 04",
+    "author": "Various",
+    "gutenbergReference": "54460",
+    "hash": "5b486deddb8f830cd2833f909f19c95df38470583df34ab1f0f9548c8ba0cfe9"
+  },
+  {
+    "time": "02:05",
+    "quoteFirst": "It was ",
+    "quoteTime": "five minutes past two",
+    "quoteLast": " in the morning when Marney, sitting in the drawing-room at the front of the house, heard the sound of an auto stop before the house.",
+    "title": "Room 13",
+    "author": "Wallace, Edgar, 1875-1932",
+    "gutenbergReference": "76168",
+    "hash": "b5689c4330ea3ec6ba2bd068f13ce03c31261501d9ac552f1073b823cab9d7eb"
+  },
+  {
+    "time": "02:05",
+    "quoteFirst": "“",
+    "quoteTime": "Five minutes after two",
+    "quoteLast": ",” he said, “and I suppose we’re about twenty miles from the island. All aboard for Anclote――due there at two thirty-four.”",
+    "title": "The Boy Aeronauts' Club; or, Flying for Fun",
+    "author": "Sayler, H. L. (Harry Lincoln), 1863-1913; Riesenberg, Sidney H., 1885-1971 [Illustrator]",
+    "gutenbergReference": "57000",
+    "hash": "dd9c8fdfed12f149c1ff7e07f23e68d13e1424818f69f881653f636a70deb461"
+  },
+  {
+    "time": "02:05",
+    "quoteFirst": "They got to Wynton at ",
+    "quoteTime": "five minutes after two",
+    "quoteLast": "; their time there was one-twenty-five.",
+    "title": "The Window at the White Cat",
+    "author": "Rinehart, Mary Roberts, 1876-1958",
+    "gutenbergReference": "34020",
+    "hash": "0cef60a213e094a69909cebc9b7164183887143d3ec59599da66270b72ce2738"
+  },
+  {
+    "time": "02:05",
+    "quoteFirst": "They got to Wynton at ",
+    "quoteTime": "five minutes after two",
+    "quoteLast": "; their time there was one-twenty-five.",
+    "title": "The Window at the White Cat",
+    "author": "Rinehart, Mary Roberts, 1876-1958",
+    "gutenbergReference": "34020",
+    "hash": "0cef60a213e094a69909cebc9b7164183887143d3ec59599da66270b72ce2738"
+  },
+  {
+    "time": "02:05",
+    "quoteFirst": "\"I declare,\" said that gentleman, pulling out his watch, after this pleasant talk had been going on a long time, \"it's ",
+    "quoteTime": "five minutes past two",
+    "quoteLast": ".  I'm afraid you'll be late.\"",
+    "title": "Reginald Cruden\nA Tale of City Life",
+    "author": "Reed, Talbot Baines, 1852-1893",
+    "gutenbergReference": "21043",
+    "hash": "bfebc1559b55291c9c92c301259118c507bcd656c89cf6dec36d576edc59cbc0"
+  },
+  {
+    "time": "02:05",
+    "quoteFirst": "Yes, there was a St. Louis train out at ",
+    "quoteTime": "two-five",
+    "quoteLast": ".",
+    "title": "Star-Dust: A Story of an American Girl",
+    "author": "Hurst, Fannie, 1889-1968",
+    "gutenbergReference": "9858",
+    "hash": "17e2042a0befda00f844cb56291ea3193d6436530501644493e311529f2c8763"
+  },
+  {
+    "time": "02:05",
+    "quoteFirst": "It was already ",
+    "quoteTime": "five minutes past two",
+    "quoteLast": " and Petersburg was a mile away.",
+    "title": "Pitcher Pollock",
+    "author": "Mathewson, Christy, 1880-1925; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "50761",
+    "hash": "d80534219bcf428fe0438a55afbc5a081f0e9479cdb120f46d304f8d58f5ffcd"
+  },
+  {
+    "time": "02:05",
+    "quoteFirst": "'At ",
+    "quoteTime": "five minutes after two",
+    "quoteLast": ", the last gun was fired, the cords divided, and the Balloon rose, the company returning my signals of adieu with the most unfeigned acclamations and applauses.",
+    "title": "The War in the Air; Vol. 1\nThe Part played in the Great War by the Royal Air Force",
+    "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
+    "gutenbergReference": "28226",
+    "hash": "ce9f9685101508a2d05aecdd41c068e7271d18d1894b2d2c936d4af1b1d053a3"
   },
   {
     "time": "02:05",
@@ -21,56 +131,6 @@
   },
   {
     "time": "02:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes past two",
-    "quoteLast": " o’clock, after the usual ceremony, the heroes set-to.”",
-    "title": "Pugilistica: The History of British Boxing, Volume 1 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
-    "author": "Miles, Henry Downes, 1806-1889",
-    "gutenbergReference": "59465",
-    "hash": "60909850febeb2add697dd7759377881a33273d87f6bfe3e1c7aea4a2286b616"
-  },
-  {
-    "time": "02:05",
-    "quoteFirst": "At ",
-    "quoteTime": "five minutes after two",
-    "quoteLast": ", there were no children.",
-    "title": "When she came home from college",
-    "author": "McNeely, Marian Hurd, 1877-1930; Wilson, Jean Bingham; Gibbs, George, 1870-1942 [Illustrator]",
-    "gutenbergReference": "54033",
-    "hash": "c0e9b0c397671773326c3b564e29f159ef200b01ba0c3965c9f0803f99b36d3e"
-  },
-  {
-    "time": "02:05",
-    "quoteFirst": "Within the time specified Slasher was brought slowly to the field of battle, having, according to Broome’s account, taken from seven minutes to one to ",
-    "quoteTime": "five minutes after two",
-    "quoteLast": " to come very little more than two miles.",
-    "title": "Pugilistica: The History of British Boxing, Volume 3 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
-    "author": "Miles, Henry Downes, 1806-1889",
-    "gutenbergReference": "64111",
-    "hash": "0938d8e369bfee103f06914a72844c10aa624aeabeef8556209706100c1aa313"
-  },
-  {
-    "time": "02:05",
-    "quoteFirst": "Ten hours a day and clean the car herself for one, and oxyacetyline welding eight hours and overtime for another at ",
-    "quoteTime": "two-five",
-    "quoteLast": " a week.",
-    "title": "H.M.S. ----",
-    "author": "Bower, John Graham, 1886-1940",
-    "gutenbergReference": "34190",
-    "hash": "ad78547e7073e4907c2a709b37b06ffd5c67f2f8cfdc8aee637aac960bc347e3"
-  },
-  {
-    "time": "02:05",
-    "quoteFirst": "At ",
-    "quoteTime": "2.05 a.m.",
-    "quoteLast": " I followed him at about 150 yards distance into the station, and found that the booking office was not yet open, and that some dozen people were waiting to take tickets.",
-    "title": "The Escaping Club",
-    "author": "Evans, A. J. (Alfred John), 1889-",
-    "gutenbergReference": "34421",
-    "hash": "64f1de6431b5cffcfadb287fe7be12fe52889222b54c2b26ea0c076226ed2604"
-  },
-  {
-    "time": "02:05",
     "quoteFirst": "The ",
     "quoteTime": "Two-five",
     "quoteLast": " / producer, Gian R. Grimaldi and Hannah L. Shearer; director, Bruce Kessler.",
@@ -81,22 +141,62 @@
   },
   {
     "time": "02:05",
-    "quoteFirst": "Old Ed Porter's got the _Daily Enterprise_ out on the street, and he's tilted back in his office chair, readin' the _Chicago Tribune_ that's just got in on the ",
-    "quoteTime": "two-five",
-    "quoteLast": " train.",
-    "title": "Inside the Lines",
-    "author": "Biggers, Earl Derr, 1884-1933; Ritchie, Robert Welles, 1879-1942",
-    "gutenbergReference": "56036",
-    "hash": "292bc55721c826bab1a9135b831b95910668feff91c58958de07212819d3886f"
+    "quoteFirst": "Though the church clock in South Audley Street had pointed to ",
+    "quoteTime": "five minutes past two",
+    "quoteLast": ", Felicity had not missed her.",
+    "title": "A waif's progress",
+    "author": "Broughton, Rhoda, 1840-1920",
+    "gutenbergReference": "73654",
+    "hash": "e3c93f3fada46dc2113c4eb64e2dd788ffa150f59a9f17c2c32f93aec61caa0e"
   },
   {
     "time": "02:05",
-    "quoteFirst": "“It was noticed two days ago,” the inspector explained, “that the record shows that the patrolman who found Bronson’s body rang up from the nearest patrol box at ",
+    "quoteFirst": "The first part of the program was carried out to the letter, and at ",
     "quoteTime": "five minutes after two",
-    "quoteLast": ". If the attack was made just before, the watch must have been at least ten minutes fast, so we have the time, after all, only approximately.”",
-    "title": "The achievements of Luther Trant",
-    "author": "Balmer, Edwin, 1883-1959; MacHarg, William, 1872-1951; Oberhardt, William, 1882-1958 [Illustrator]",
-    "gutenbergReference": "75523",
-    "hash": "cb640f120b5da746ee758eaeabcfc39eb174cf3b4c10ed78c16449c25acc591d"
+    "quoteLast": " I was at the entrance of the hall ready for my drive to the station.",
+    "title": "From Pillar to Post: Leaves from a Lecturer's Note-Book",
+    "author": "Bangs, John Kendrick, 1862-1922; Neill, John R. (John Rea), 1877-1943 [Illustrator]",
+    "gutenbergReference": "36026",
+    "hash": "2fa7b6f13446be38120120c5d623687988021b2c392feb76f4576b7be54251ef"
+  },
+  {
+    "time": "02:05",
+    "quoteFirst": "“",
+    "quoteTime": "Five minutes past two",
+    "quoteLast": " is right. How long will it take you to reach Southampton?”",
+    "title": "Arsène Lupin versus Herlock Sholmes",
+    "author": "Leblanc, Maurice, 1864-1941; Morehead, George [Translator]",
+    "gutenbergReference": "40203",
+    "hash": "8a6862edeb105efc218c7b864177bb928c18c63602bfefbe8b853b0e636d01ef"
+  },
+  {
+    "time": "02:05",
+    "quoteFirst": "It is time to start, honoured madam, the train leaves at ",
+    "quoteTime": "two-five",
+    "quoteLast": ".",
+    "title": "The sea-gull",
+    "author": "Chekhov, Anton Pavlovich, 1860-1904",
+    "gutenbergReference": "1754",
+    "hash": "c94dbccf41fb9e67fdf9967f953acf043c3ed5c96db2ba327e1e32d6dca4060d"
+  },
+  {
+    "time": "02:05",
+    "quoteFirst": "M. Deviolaine came in at two o'clock and at ",
+    "quoteTime": "five minutes past two",
+    "quoteLast": " he sent for me.",
+    "title": "My Memoirs, Vol. III, 1826 to 1830",
+    "author": "Dumas, Alexandre, 1802-1870; Waller, E. M. (Emily Mary) [Translator]",
+    "gutenbergReference": "50426",
+    "hash": "83fa6cfa7b64d6e3510fee0280073fca390cbf670c3f08485c629df9376562f2"
+  },
+  {
+    "time": "02:05",
+    "quoteFirst": "“That’s nearly ",
+    "quoteTime": "five minutes after two",
+    "quoteLast": ", isn’t it? Well, it’s close enough.”",
+    "title": "The Airship Boys' Ocean Flyer; Or, New York to London in Twelve Hours",
+    "author": "Sayler, H. L. (Harry Lincoln), 1863-1913; Riesenberg, Sidney H., 1885-1971 [Illustrator]",
+    "gutenbergReference": "49416",
+    "hash": "16dbf083a97f3539e2eedd9d2ab1dd6e7a5ba3a2feca9ac14593020ffa116a86"
   }
 ]

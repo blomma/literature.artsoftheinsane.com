@@ -1,102 +1,202 @@
 [
   {
     "time": "01:03",
-    "quoteFirst": "It was ",
-    "quoteTime": "about 1 A.M.",
-    "quoteLast": " of the night of June 13-14, 2445 A.D. Momentous night of history!",
-    "title": "The shadow girl",
-    "author": "Cummings, Ray, 1887-1957; Smolenski [Illustrator]",
-    "gutenbergReference": "73572",
-    "hash": "46695dfbee30b11e7f823ca061f012e0ae0a554f4699d9a2d56ac5375d465ab1"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "We arrived at the house of the magistrate ",
-    "quoteTime": "about one o'clock at night",
-    "quoteLast": ", and all were soundly sleeping.",
-    "title": "Twenty-Two Years a Slave, and Forty Years a Freeman\r\nEmbracing a Correspondence of Several Years, While President of Wilberforce Colony, London, Canada West",
-    "author": "Steward, Austin, 1794-1860",
-    "gutenbergReference": "11137",
-    "hash": "2ca5ebb888a170d72772ff2790270eb61646bed5fdaba9c60537603e74872b19"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "",
-    "quoteTime": "About one o'clock that night",
-    "quoteLast": ", Sigrun opened her eyes and sat up in bed, looking round her in bewilderment.",
-    "title": "The outcast",
-    "author": "Lagerlöf, Selma, 1858-1940; Worster, W. J. Alexander (William John Alexander), 1882-1929 [Translator]",
-    "gutenbergReference": "71086",
-    "hash": "6702db4188dfd46fd65c8dfe5c44d8193ef56136305518ac418448efaf326f46"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "",
-    "quoteTime": "About 1 a. m.",
-    "quoteLast": " last night when making the rounds considerable firing was heard towards the right of the line.",
-    "title": "Personal Recollections and Civil War Diary, 1864",
-    "author": "Abbott, Lemuel Abijah, 1842-1911",
-    "gutenbergReference": "47332",
-    "hash": "4523fbca311485bcd4705ea2b3ba75c0cee7a5c4b28f5a51a0bc49f61ea2af6b"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "\"It was now ",
+    "quoteFirst": "On February 24, 1912, ",
     "quoteTime": "about 1 A. M.",
-    "quoteLast": "; a beautiful starlight night, with no moon, and so not very light. The sea was as calm as a pond, just a gentle heave as the boat dipped up and down in the swell; an ideal night, except for the bitter cold, for anyone who had to be out in the middle of the Atlantic ocean in an open boat. And if ever there was a time when such a night was needed, surely it was now, with hundreds of people, mostly women and children, afloat hundreds of miles from land.",
-    "title": "Sinking of the Titanic and Great Sea Disasters",
-    "author": "Marshall, Logan, 1884-1937 [Editor]",
-    "gutenbergReference": "781",
-    "hash": "caf03dd339abc615d77a3caf0ef8276111d7861ccf9de4ca8ce779f0f54a6453"
+    "quoteLast": ", investigator saw a young man talking to X 142 in the rear of the flat.",
+    "title": "Commercialized Prostitution in New York City",
+    "author": "Kneeland, George J. (George Jackson), 1872-; Rockefeller, John D., Jr. (John Davison), 1874-1960 [Author of introduction, etc.]; Davis, Katharine Bement, 1860-1935 [Contributor]",
+    "gutenbergReference": "36506",
+    "hash": "eea7f6fb3fc06599ab3131545fcc28f2a467ddaf4ae5a9cb49fdd27c0fe939ce"
   },
   {
     "time": "01:03",
-    "quoteFirst": "Camp outside Watou was reached ",
+    "quoteFirst": "Shortly before we arrived, at ",
+    "quoteTime": "about 1 A.M.",
+    "quoteLast": ", an officer came through the car, caught sight of my shoulder-straps, stopped: \"You are a captain?\"",
+    "title": "History of the Second Massachusetts Regiment of Infantry: A prisoner's diary\nA paper read at the officers' reunion in Boston, May 11, 1877",
+    "author": "Quincy, Samuel M. (Samuel Miller), 1833-1887",
+    "gutenbergReference": "34895",
+    "hash": "2a108009f5af7cbb17d7dbeeacfdfd0d2ba176e3964aff96a1909ef503a8e733"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "Northeast of the salient a counter-attack carried out by us ",
+    "quoteTime": "about 1 A.M.",
+    "quoteLast": " was more successful.",
+    "title": "New York Times Current History; The European War, Vol 2, No. 3, June, 1915\nApril-September, 1915",
+    "author": "Various",
+    "gutenbergReference": "15480",
+    "hash": "d2528f6e55d3f4afe3ed809973cd49adcc8ebf9759cd48e6fc3d5c5c4f5b325e"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "The rest of their talk was in too low a tone to be overheard; but ",
+    "quoteTime": "about one o'clock",
+    "quoteLast": " the next morning Tom Dailey and Harry Barker were both aroused at the same moment by the furious clicking of their sounders.",
+    "title": "Harper's Round Table, August 6, 1895",
+    "author": "Various",
+    "gutenbergReference": "33092",
+    "hash": "9c09fb7fa12da7805d06b6897d372991075d67e33683e9a4fd8905330a88332b"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "Starting from Wolverhampton at ",
+    "quoteTime": "three minutes after one",
+    "quoteLast": " o’clock, they soared swiftly upward, passing through a cloud eleven hundred feet thick and emerging in a glorious field of sunlight with an amethystine sky above and a boundless sea of vapor beneath; a sea of rolling hills and mountain chains, with great snow-white masses steaming up from their surface.",
+    "title": "Aërial Navigation\r\nA Popular Treatise on the Growth of Air Craft and on Aëronautical Meteorology",
+    "author": "Zahm, Albert Francis, 1862-1954",
+    "gutenbergReference": "60277",
+    "hash": "cf0f8ed01daf47403412964c5a9eaa5125db2d4402be66a9e1fae822743b85ab"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "On Monday, ",
+    "quoteTime": "about one o’clock A.M.",
+    "quoteLast": ", there appeared an evident change for the better.",
+    "title": "The patriarch of one hundred years",
+    "author": "Boehm, Henry, 1775-1875; Wakeley, J. B. (Joseph Beaumont), 1809-1875 [Editor]",
+    "gutenbergReference": "76653",
+    "hash": "2515b4406357e5475386b4f1855d1487dbc0075cc9cd4f0d4b1a854aa7158496"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "The 44th Infantry Brigade marched                             to and entrained at 8 a.m. at                             Caestre, and detrained at Arras                             at 9 p.m., marching back from                             Arras to billets at Montenescourt,                             arriving ",
     "quoteTime": "about 1 a.m.",
-    "quoteLast": " on the 3rd, rations and transport arriving a little later.",
-    "title": "The Fourth Battalion, The King's Own (Royal Lancaster Regiment) and the Great War",
-    "author": "Wadham, W. F. A. (Walter F. A.); Crossley, J.",
-    "gutenbergReference": "67393",
-    "hash": "fa903a42b79732b6393baf16b616d923d3ef60e0b1b4fbaddf9ae57004334c19"
+    "quoteLast": " (2/9/17).",
+    "title": "The History of the 7th Battalion Queen's Own Cameron Highlanders",
+    "author": "Sandilands, James Walter; MacLeod, Norman, 1872-1960",
+    "gutenbergReference": "50301",
+    "hash": "df57a0646a8400c32b26d8d5cee1ed4e30910e880d8107a4b059d00b3da30845"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "Lucerne was reached ",
+    "quoteTime": "about one o’clock",
+    "quoteLast": "; and here, at the Englischer Hof, right on the quay, a hospitable welcome met them.",
+    "title": "Oxford Days; or, How Ross Got His Degree",
+    "author": "Weatherly, F. E. (Frederic Edward), 1848-1929",
+    "gutenbergReference": "50618",
+    "hash": "f05d1aebce9cc1c9e13d8f41f904519d8415f899b73e5427779962968c69239a"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "Towards noon, or most frequently ",
+    "quoteTime": "about one o'clock",
+    "quoteLast": ", the sea-breeze sets in, and the weather is completely changed.",
+    "title": "Chambers's Edinburgh Journal, No. 443\nVolume 17, New Series, June 26, 1852",
+    "author": "Various; Chambers, Robert, 1802-1871 [Editor]; Chambers, William, 1800-1883 [Editor]",
+    "gutenbergReference": "20793",
+    "hash": "344f481919c9099c68c9f175a4562456e8944fadce9dfb70823a6feb1fe9ccbf"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "Dawn came at ",
+    "quoteTime": "about 1 A.M.",
+    "quoteLast": " New York time and the temperature had risen until there was practically no remaining danger of sleet.",
+    "title": "\"We\"",
+    "author": "Lindbergh, Charles A. (Charles Augustus), 1902-1974; Herrick, Myron T. (Myron Timothy), 1854-1929 [Author of introduction, etc.]; Green, Fitzhugh, 1888-1947 [Contributor]",
+    "gutenbergReference": "73142",
+    "hash": "1ffe62f0e02a9e0dfaa6ea1f0e30cee87aec4c972a9880ec9f47b2f55205932b"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "According to this account, ",
+    "quoteTime": "about one o’clock that night",
+    "quoteLast": " Mr. Watkins, filled with the responsibility of his position as acting division superintendent, had been making a round of the railroad buildings to see that every thing was all right.",
+    "title": "Under Orders: The story of a young reporter",
+    "author": "Munroe, Kirk, 1850-1930; Snyder, W. P. [Illustrator]",
+    "gutenbergReference": "49492",
+    "hash": "fd8ca45592af97b52a514f08e3ff31478a5ab9b3d0fc7e892dfbcb09e5491b43"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "I’d been waiting on the curb with a machine till ",
+    "quoteTime": "about 1 A. M.",
+    "quoteLast": ", and some of the gents followed you out of the Club and wanted you to come back and go to bed; and when a couple of cops came along, properly not seeing anything, and not letting on, you must up and jump on one of ’em and pound his head.",
+    "title": "The Lords of High Decision",
+    "author": "Nicholson, Meredith, 1866-1947; Keller, Arthur Ignatius, 1866-1924 [Illustrator]",
+    "gutenbergReference": "66455",
+    "hash": "84c643d005b028ef57dc425e4f6144ecc70b91abf0e9ea84c497f77c2dc3ae75"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "Accordingly, at ",
+    "quoteTime": "about one o'clock",
+    "quoteLast": " in the morning, she came alone to the said gate.",
+    "title": "The Old Yellow Book: Source of Robert Browning's The Ring and the Book",
+    "author": "Hodell, Charles W. (Charles Wesley), 1872-1925 [Editor]",
+    "gutenbergReference": "38238",
+    "hash": "f8db2de057128ab2d25c44488f8964ac5d087cc5a5ab2d3276471e69a42e89e1"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "You just ought to hear her pass remarks, ",
+    "quoteTime": "about one o’clock A. M.",
+    "quoteLast": " in the lower hall with the mezzanine floor lined with listening ladies!",
+    "title": "Gloria at Boarding School",
+    "author": "Garis, Lilian, 1873-1954",
+    "gutenbergReference": "65271",
+    "hash": "451a0d45b42e25d7596d86c5be0c1f2f97e53a10a8f904b64a2b7475c844bb7f"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "On 24th September the sledge team retraced their steps from Dunlop Island to a camp near Marble Point, and, after spending a night close to the remnant of Glacier Tongue, they shaped course direct for Cape Evans, which was reached ",
+    "quoteTime": "about 1 a.m.",
+    "quoteLast": " on 29th September.",
+    "title": "South with Scott",
+    "author": "Mountevans, Edward Ratcliffe Garth Russell Evans, Baron, 1880-1957",
+    "gutenbergReference": "18129",
+    "hash": "51813a035bc35c8a97b7a5d73ffae96efd82d5169e83731fadb2c4ba5b3fdc0e"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "Northeast of the salient a counter-attack carried out by us ",
+    "quoteTime": "about 1 A. M.",
+    "quoteLast": " was more successful.",
+    "title": "World's War Events, Vol. I",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
+    "gutenbergReference": "25962",
+    "hash": "1d4a194a239afaf6e0f5315fa5b44f449a4a91bceeec59773bc66159406b0690"
+  },
+  {
+    "time": "01:03",
+    "quoteFirst": "The remainder of the Council in Town had been sent for, and as soon as they arrived, ",
+    "quoteTime": "about one o'clock a.m.",
+    "quoteLast": ", the King sat at their head in his bedchamber, and Fawkes was brought in and placed before them.",
+    "title": "It Might Have Been: The Story of the Gunpowder Plot",
+    "author": "Holt, Emily Sarah, 1836-1893; Irwin, M. (Madelaine) [Illustrator]",
+    "gutenbergReference": "25834",
+    "hash": "fd72ecfcb6c083e94bbca9e31ebf3b0278b29c3f708b4dc6e877dacd221c3033"
   },
   {
     "time": "01:03",
     "quoteFirst": "",
-    "quoteTime": "About 1 A.M.",
-    "quoteLast": " I was waked up by some one inquiring for Gen.",
-    "title": "Two Wars: An Autobiography of General Samuel G. French\r\nMexican War; War between the States, a Diary; Reconstruction Period, His Experience; Incidents, Reminiscences, etc.",
-    "author": "French, Samuel Gibbs, 1818-1910",
-    "gutenbergReference": "45603",
-    "hash": "6068c9c70327da4a55ed199a2d9563f600a6ab6858217979b8c1c724e1baa805"
+    "quoteTime": "About one o’clock",
+    "quoteLast": " in the morning two men might have been observed skulking about the farther side of the pond nearest to the camp.",
+    "title": "The Meadow-Brook Girls Across Country; Or, The Young Pathfinders on a Summer Hike",
+    "author": "Aldridge, Janet",
+    "gutenbergReference": "36391",
+    "hash": "7206a2474d8276c7396769e1604ac28c2e6d4007ebf65a25513caba6899a05c9"
   },
   {
     "time": "01:03",
-    "quoteFirst": "We rode back to Marazion, which was formerly called Marketzew, and has eleven hundred inhabitants, and passing by Helstone, we arrived ",
-    "quoteTime": "about one o’clock at night",
-    "quoteLast": ", much fatigued, at Falmouth.",
-    "title": "Travels Through North America, During the Years 1825 and 1826. v. 1-2",
-    "author": "Bernhard, Duke of Saxe-Weimar-Eisenach, 1792-1862",
-    "gutenbergReference": "41913",
-    "hash": "e80813dcd8f0747a2a57fb83e3582fede973e55000dc6e893094a1084659ba47"
+    "quoteFirst": "",
+    "quoteTime": "About 1 o'clock at night",
+    "quoteLast": " my guide began to stir himself, saddled my horse, and called me to mount.",
+    "title": "A woman's journey round the world",
+    "author": "Pfeiffer, Ida, 1797-1858",
+    "gutenbergReference": "11039",
+    "hash": "835c74165e1dc342a5df4fd6da960d66810ae0b678c686d3b96b28bb983480b4"
   },
   {
     "time": "01:03",
-    "quoteFirst": "She was awakened, ",
-    "quoteTime": "about one o'clock that night",
-    "quoteLast": ", by a broad, ruddy glare of light, which caused her at first to start from her bed, with the impression that the house was on fire.",
-    "title": "Dred: A Tale of the Great Dismal Swamp",
-    "author": "Stowe, Harriet Beecher, 1811-1896",
-    "gutenbergReference": "55012",
-    "hash": "36ce1b75bc1960fb8c67fc7859dcfe4a6b94869db2147372049a0579d8489fb0"
-  },
-  {
-    "time": "01:03",
-    "quoteFirst": "At ",
-    "quoteTime": "about one that night",
-    "quoteLast": " Caleb Morton reached the cottage breathless with running, and before a word was spoken between them, Anastasia had fallen on his shoulder and had fainted.",
-    "title": "Tales of All Countries",
-    "author": "Trollope, Anthony, 1815-1882",
-    "gutenbergReference": "55147",
-    "hash": "3ce7775ea0f8b4a563ea9423c9b2b65101f0c966166e70113226d4af5fbb29e4"
+    "quoteFirst": "They declined, when I asked them to take half my crew out, and lend me two men, to which request I also received a negative; so I returned to Tunis, arriving at ",
+    "quoteTime": "about 1 A.M.",
+    "quoteLast": " on the morning of Tuesday, December 28th.",
+    "title": "Narratives of Shipwrecks of the Royal Navy; between 1793 and 1849",
+    "author": "Gilly, William O. S.",
+    "gutenbergReference": "15301",
+    "hash": "e2d20a7f74298ec3f303049fa2bf730f11d09489f59139b0f14512e036cf4c47"
   }
 ]

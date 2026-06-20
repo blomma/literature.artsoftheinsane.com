@@ -1,53 +1,23 @@
 [
   {
     "time": "20:20",
-    "quoteFirst": "The third phase, which lasted from 6.17 p.m. until ",
-    "quoteTime": "8.20 p.m.",
-    "quoteLast": ", was fought generally at about 12,000 yards, though now and then the range came down to 9,000 yards.",
-    "title": "The Silent Watchers\nEngland's Navy during the Great War: What It Is, and What We Owe to It",
-    "author": "Copplestone, Bennet, 1867-1932",
-    "gutenbergReference": "48497",
-    "hash": "81a40898703c79224c7d40a4251f2aef05e5356a9e81ab814b5d7c7096269581"
+    "quoteFirst": "The express started at 10.5, and it was now but ",
+    "quoteTime": "twenty minutes past eight",
+    "quoteLast": ".",
+    "title": "Lippincott's Magazine of Popular Literature and Science, December 1878",
+    "author": "Various",
+    "gutenbergReference": "26945",
+    "hash": "193db64f82052ff103950cd83bca935ee88f2efbbfff92e4f548dafe4ede9c3f"
   },
   {
     "time": "20:20",
-    "quoteFirst": "We arrive in Colorado Springs at ",
-    "quoteTime": "8.20 P. M.",
-    "quoteLast": " Eastern (6.20 P. M. Mountain) time, and escorted by Brothers Newman, Hart, Smith, and Mr. Hooper, we start out to see the town.",
-    "title": "Nine Thousand Miles on a Pullman Train\r\nAn Account of a Tour of Railroad Conductors from Philadelphia to the Pacific Coast and Return",
-    "author": "Shaw, Milton M.",
-    "gutenbergReference": "51341",
-    "hash": "f5d52286db862c9568a5ca3537f5bf6465b54415d5cd3c086f10652af46a0a24"
-  },
-  {
-    "time": "20:20",
-    "quoteFirst": "Martin never was and he always left the house for his office at exactly ",
+    "quoteFirst": "But on that night still I have consult it to see if I go to New York at ",
     "quoteTime": "eight-twenty",
     "quoteLast": ".",
-    "title": "The Real Adventure",
-    "author": "Webster, Henry Kitchell, 1875-1932; Crosby, Raymond Moreau, 1876-1945 [Illustrator]",
-    "gutenbergReference": "15384",
-    "hash": "65b5feeb57b71880c876362d0998eefaaa4faff0348134d1b7356004ccafba66"
-  },
-  {
-    "time": "20:20",
-    "quoteFirst": "At ",
-    "quoteTime": "twenty minutes past eight",
-    "quoteLast": " Stuart rose and said: \"Gentlemen, in twenty-five minutes the time agreed upon will have expired.\"",
-    "title": "Round the World in Eighty Days",
-    "author": "Verne, Jules, 1828-1905; Frith, Henry, 1840- [Translator]",
-    "gutenbergReference": "32972",
-    "hash": "0fb97359592054566b6add8489e7f8f4531cc895c7a98a0e55cc2ef5f1f15c40"
-  },
-  {
-    "time": "20:20",
-    "quoteFirst": "\"I saw you on the ",
-    "quoteTime": "eight-twenty",
-    "quoteLast": ", didn't I?\"",
-    "title": "The Betrayal",
-    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946",
-    "gutenbergReference": "16998",
-    "hash": "4771d628892acfa00a8425882b7351f24b9067d4e8264a262b940ff7d3c8db9c"
+    "title": "The Bellamy trial",
+    "author": "Hart, Frances Noyes, 1890-1943",
+    "gutenbergReference": "75325",
+    "hash": "0d795bf6489397f3e49f281bf345984f10546ec2a00bf9f557e7ef7510b7b4a8"
   },
   {
     "time": "20:20",
@@ -61,42 +31,172 @@
   },
   {
     "time": "20:20",
-    "quoteFirst": "I look at my watch; it is 11.20 P. M. “Philadelphia” time, ",
+    "quoteFirst": "Did not get to Holkham until ",
+    "quoteTime": "8.20 P.M.",
+    "quoteLast": " Picked up Burys _en route_.",
+    "title": "A sailor's life under four sovereigns, Volume 3 (of 3)",
+    "author": "Keppel, Henry, Sir, 1809-1904",
+    "gutenbergReference": "76810",
+    "hash": "fb8b85b059c90ad354b5a06ab9f00269637f95b7e97620893bcc271d37db241e"
+  },
+  {
+    "time": "20:20",
+    "quoteFirst": "The last up-train from Penzance, due at Grampound Road at about ",
+    "quoteTime": "twenty minutes past eight in the evening",
+    "quoteLast": ", was blocked by the snow a quarter of a mile west of the station.",
+    "title": "The Blizzard in the West\r\nBeing as Record and Story of the Disastrous Storm which Raged Throughout Devon and Cornwall, and West Somerset, On the Night of March 9th, 1891",
+    "author": "Unknown",
+    "gutenbergReference": "43758",
+    "hash": "c3ee1b8b9251e6a45f2e8d741f9ea9134b2d793a5ef6a7164266b6482e54f742"
+  },
+  {
+    "time": "20:20",
+    "quoteFirst": "I am due at the Casino at ",
+    "quoteTime": "twenty past eight",
+    "quoteLast": ".",
+    "title": "The Motor Maids by Palm and Pine",
+    "author": "Stokes, Katherine",
+    "gutenbergReference": "36320",
+    "hash": "c74ba13fd1a023a578ab8bc3b0ac41f867528b947a881474b7a260a6164be5c3"
+  },
+  {
+    "time": "20:20",
+    "quoteFirst": "With the help of the accommodating and hospitable Belgian peasants, we were able in a short time to pack up all our material and carry it to the station at Heyst, where at ",
+    "quoteTime": "twenty minutes past eight",
+    "quoteLast": " we took the train for Paris.",
+    "title": "Original Short Stories — Volume 04",
+    "author": "Maupassant, Guy de, 1850-1893; Henderson, A. E. [Translator]; McMaster, Albert Cohn [Translator]; Quesada, Louise Charlotte Garstin, 1864?- [Translator]",
+    "gutenbergReference": "3080",
+    "hash": "54f8a4289859f7f855093f2f6505b4057c68c1eba6d9edd8a41c68d12906b1e8"
+  },
+  {
+    "time": "20:20",
+    "quoteFirst": "Her mizzen-mast and mainmast were shot away, and after maintaining the dreadful duel for more than an hour, and having 200 of her crew struck down, at ",
+    "quoteTime": "8.20 P.M.",
+    "quoteLast": " the _Bellerophon_ cut her cable and drifted, a disabled wreck, out of the fire.",
+    "title": "Deeds that Won the Empire\nHistoric Battle Scenes",
+    "author": "Fitchett, W. H. (William Henry), 1845-1928",
+    "gutenbergReference": "19255",
+    "hash": "a575c2e2fbd1fbc7f7ad6b9c35b5ecb7afce004e758cbc67454ec658805e8e10"
+  },
+  {
+    "time": "20:20",
+    "quoteFirst": "“It’s ",
+    "quoteTime": "eight-twenty",
+    "quoteLast": " now. As a rule, I think Mr. McGill will want you at the office at eight. It takes forty minutes from here to the office. Fifteen minutes for breakfast.”",
+    "title": "The dark mother",
+    "author": "Frank, Waldo David, 1889-1967",
+    "gutenbergReference": "73745",
+    "hash": "e9e2cbc5a5b2f9fd3554de909a55bcdbc9e561ab6d1105d95e7f2b256e42be9f"
+  },
+  {
+    "time": "20:20",
+    "quoteFirst": "“It’s ",
+    "quoteTime": "eight-twenty",
+    "quoteLast": " now. As a rule, I think Mr. McGill will want you at the office at eight. It takes forty minutes from here to the office. Fifteen minutes for breakfast.”",
+    "title": "The dark mother",
+    "author": "Frank, Waldo David, 1889-1967",
+    "gutenbergReference": "73745",
+    "hash": "e9e2cbc5a5b2f9fd3554de909a55bcdbc9e561ab6d1105d95e7f2b256e42be9f"
+  },
+  {
+    "time": "20:20",
+    "quoteFirst": "But the Prince said: “I am not obliged to go when someone says ‘Teddy’”; and was glad to get out of it when, at ",
+    "quoteTime": "eight-twenty",
+    "quoteLast": ", a letter from Li Ku Yu was placed in his hand:",
+    "title": "The dragon",
+    "author": "Shiel, M. P. (Matthew Phipps), 1865-1947",
+    "gutenbergReference": "77957",
+    "hash": "36b281dedf0f7c18a2fecb30b3b12a49e7effa5c097ba22977edb90b02c0c4f9"
+  },
+  {
+    "time": "20:20",
+    "quoteFirst": "We arrive in Colorado Springs at ",
     "quoteTime": "8.20 P. M.",
-    "quoteLast": " “Territorial Line” time; it is pretty dark for the business on hand, but the post that marks the dividing line is easily found, and in a very short time is so badly cut and splintered by the relic hunters that it looks as though it had been struck by lightning.",
+    "quoteLast": " Eastern (6.20 P. M. Mountain) time, and escorted by Brothers Newman, Hart, Smith, and Mr. Hooper, we start out to see the town.",
     "title": "Nine Thousand Miles on a Pullman Train\r\nAn Account of a Tour of Railroad Conductors from Philadelphia to the Pacific Coast and Return",
     "author": "Shaw, Milton M.",
     "gutenbergReference": "51341",
-    "hash": "0cde8e82f4eff2a34155e53f00d512eba1260105b01c12f7323bf3acbe471c87"
+    "hash": "f5d52286db862c9568a5ca3537f5bf6465b54415d5cd3c086f10652af46a0a24"
   },
   {
     "time": "20:20",
-    "quoteFirst": "In the meantime it was ",
+    "quoteFirst": "It was ",
     "quoteTime": "twenty minutes past eight",
-    "quoteLast": " in the town hall, and Mr. Graves had not rapped for order.",
-    "title": "Coniston — Volume 04",
-    "author": "Churchill, Winston, 1871-1947",
-    "gutenbergReference": "3765",
-    "hash": "7382dc2a4dac49733c437259a49ef5ed34e539bd01345730c1950921652b7d71"
+    "quoteLast": " and she knew that he had to be at his office at eight-thirty.",
+    "title": "In a Yellow Wood",
+    "author": "Vidal, Gore, 1925-2012",
+    "gutenbergReference": "66940",
+    "hash": "80f96f92cdc3b885fa468825dee90e17e7321a8f8114011ac7836405875e34bd"
   },
   {
     "time": "20:20",
-    "quoteFirst": "Paul arrived at the party about ",
+    "quoteFirst": "But they were very soon relocated by the British light cruisers acting as scouts, and between ",
+    "quoteTime": "eight-twenty",
+    "quoteLast": " and eight-thirty-eight P.M. Sir David was once more in action at ten thousand yards.",
+    "title": "Pincher Martin, O.D.: A Story of the Inner Life of the Royal Navy",
+    "author": "Dorling, H. Taprell (Henry Taprell), 1883-1968; Williams, C. Fleming [Illustrator]",
+    "gutenbergReference": "41774",
+    "hash": "a1da8080d45af15feb54174b8871eae727384f176d68d33f81127078c4370298"
+  },
+  {
+    "time": "20:20",
+    "quoteFirst": "\"You'll eat some dinner, pack a bag, and you and Maria'll catch the ",
+    "quoteTime": "eight-twenty",
+    "quoteLast": " to Hinsdale. You won't be buried there. Lots of people winter there. Maria and I used to spend lots of time there before she grew too old to enjoy tobogganing. But I'm not too old. I'll be up to-morrow or the next day, to bring you home. For the real murderer _will_ be found. He _must_ be!\"",
+    "title": "Find the Woman",
+    "author": "Roche, Arthur Somers, 1883-1935; Cornwell, Dean, 1892-1960 [Illustrator]",
+    "gutenbergReference": "42740",
+    "hash": "eff92ccc83cb539ca851b2ccc3b7c1e8322ab9db9889d4a1411725ffddd415b6"
+  },
+  {
+    "time": "20:20",
+    "quoteFirst": "It was badly broken, but the hands still pointed to ",
+    "quoteTime": "8:20 P.M.",
+    "quoteLast": " A large slab of marble was found in a residence on West Madison street which was never there before.",
+    "title": "Great Disasters and Horrors in the World's History",
+    "author": "Godbey, Allen Howard, 1864-1948",
+    "gutenbergReference": "51246",
+    "hash": "b475bd06a3a18b7cd9e81a4dc8d67418f21ca0450643a0278ca94687c847c127"
+  },
+  {
+    "time": "20:20",
+    "quoteFirst": "She, too, had marked the time; it had been on the verge of ",
     "quoteTime": "twenty minutes after eight",
-    "quoteLast": ".",
-    "title": "Adventures of a Telegraph Boy; or, \"Number 91\"",
-    "author": "Alger, Horatio, Jr., 1832-1899",
-    "gutenbergReference": "52616",
-    "hash": "a39185fe28f44a915924de062ccb0a1b5c31a12ec2fc5cab957cdecce8c2bca0"
+    "quoteLast": " as she left the store.",
+    "title": "Man to Man",
+    "author": "Gregory, Jackson, 1882-1943",
+    "gutenbergReference": "18933",
+    "hash": "7097da5431346443990363ebfb1148d5cc78a0fde05751836e62d10ea16f572a"
   },
   {
     "time": "20:20",
-    "quoteFirst": "“Five and ",
-    "quoteTime": "twenty minutes past eight",
-    "quoteLast": ", Winnie.  There’s no sense in going over there so late.  You will never manage to get back to-night.”",
-    "title": "The Secret Agent: A Simple Tale",
-    "author": "Conrad, Joseph, 1857-1924",
-    "gutenbergReference": "974",
-    "hash": "67c5654b5bf4b96718b01651bdad3ebbee03dc10a5e5423e3f196c0237c90986"
+    "quoteFirst": "Martin never was and he always left the house for his office at exactly ",
+    "quoteTime": "eight-twenty",
+    "quoteLast": ".",
+    "title": "The Real Adventure",
+    "author": "Webster, Henry Kitchell, 1875-1932; Crosby, Raymond Moreau, 1876-1945 [Illustrator]",
+    "gutenbergReference": "15384",
+    "hash": "65b5feeb57b71880c876362d0998eefaaa4faff0348134d1b7356004ccafba66"
+  },
+  {
+    "time": "20:20",
+    "quoteFirst": "'",
+    "quoteTime": "Eight-twenty",
+    "quoteLast": " from Charing Cross,' was the reply, given in Trist's most soothing way.",
+    "title": "Suspense, Volume 1 (of 3)",
+    "author": "Merriman, Henry Seton, 1862-1903",
+    "gutenbergReference": "74460",
+    "hash": "221e126ffdf7e0602f3a6fdb0b27adf0c0d7478b915833a1462bd736a15badf1"
+  },
+  {
+    "time": "20:20",
+    "quoteFirst": "—was dodging about our court last night as late as ",
+    "quoteTime": "twenty minutes after eight",
+    "quoteLast": " o’clock.",
+    "title": "Dombey and Son",
+    "author": "Dickens, Charles, 1812-1870",
+    "gutenbergReference": "821",
+    "hash": "0e824ebb1c31d14f8d45e5b7ccac90b7d5a8600a1762434c82eadedd6b69d692"
   }
 ]

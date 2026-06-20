@@ -1,102 +1,202 @@
 [
   {
     "time": "06:50",
-    "quoteFirst": "On the following Monday morning, at ",
+    "quoteFirst": "\"",
+    "quoteTime": "Six-fifty",
+    "quoteLast": " to-night.\"",
+    "title": "Dyke Darrel the Railroad Detective; Or, The Crime of the Midnight Express",
+    "author": "Pinkerton, A. Frank",
+    "gutenbergReference": "5901",
+    "hash": "6a901e7eb451b64c8be90412254605ffb7553f6d4ad856f6fcfa2e3b435014ea"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "\"Well, sir, about ",
+    "quoteTime": "ten minutes to seven",
+    "quoteLast": " I went along to the charge office for a few minutes--five or six minutes. Then at about a quarter to eight I went downstairs into the cellar to get some paraffin for a lamp--I might be away as long, then, sir.\"",
+    "title": "In the Mayor's Parlour",
+    "author": "Fletcher, J. S. (Joseph Smith), 1863-1935",
+    "gutenbergReference": "25424",
+    "hash": "755dcd94f03cf87f30da1acc3f25424324aea505b673d82adfc3b0b20cf510a5"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "For hours they pounded over ploughed fields and the day dragged slowly on to its weary close and two hundred very tired privates at last fell into a ",
+    "quoteTime": "six-fifty",
+    "quoteLast": " train.",
+    "title": "The Loom of Youth",
+    "author": "Waugh, Alec, 1898-1981",
+    "gutenbergReference": "18863",
+    "hash": "6c02220e64690e67a8c3c31902d3b0fb94fcd920248b0f401119780afddf7819"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "\"Don't be alarmed, Jean,\" said Anna; \"it isn't a fire; just the rising bell which rings every morning at ",
     "quoteTime": "ten minutes before seven",
-    "quoteLast": ", Hal presented himself at the armory, ready for work.",
-    "title": "The Guardsman",
-    "author": "Greene, Homer, 1853-1940",
-    "gutenbergReference": "55768",
-    "hash": "659b973be734b2b3b0b5a07a0bbb220feec53d711592bfdea7dbe8450cc42339"
+    "quoteLast": ". There's another one at seven and the breakfast bell at half-past. Of course no one needs forty minutes to dress for breakfast, and before long you will be able to do it in five, or ten at the most. Meals are served promptly here and Mrs. Thompson is very particular about having every one on time. So if you do oversleep I warn you that you'll get no breakfast unless you keep a good supply of food in your room. And there's danger in that, too, for mice fairly haunt these rooms, especially the closets and behind the radiators, for that's a favorite dumping place for crumbs. I remember the winter that our room seemed to be a regular gathering-place for them, and once when I had one of the girls from home out here over night we had a merry chase with five from",
+    "title": "Jean Cabot at Ashton",
+    "author": "Scott, Gertrude Fisher; Scott, A. O. (Arthur Orange), 1882?-1946 [Illustrator]",
+    "gutenbergReference": "53548",
+    "hash": "563e03e91b144813c4c75047d4e76017c53b6c0d0e75f1b3875fab8ece9ad590"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "It was ",
+    "quoteTime": "ten minutes to seven",
+    "quoteLast": ".",
+    "title": "The Man with the Clubfoot",
+    "author": "Williams, Valentine, 1883-1946",
+    "gutenbergReference": "15302",
+    "hash": "834207f70589a14a5db5dbd33c966c03dd688bdca7f3d4e35c127a333142d6e6"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "There I paid a deposit on a room with two meals a day at ",
+    "quoteTime": "six-fifty",
+    "quoteLast": " a week, to take possession at the end of my time with Mrs. Brown.",
+    "title": "Four Years in the Underbrush: Adventures as a Working Woman in New York",
+    "author": "Anonymous",
+    "gutenbergReference": "57480",
+    "hash": "1cb60a56018f0ed847150d881068ee58f0333259cdcf944a6ed72fa5f24defc9"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "I'll put these troutses on now which ought to have been on at ",
+    "quoteTime": "ten minutes to seven",
+    "quoteLast": ", and I'll cook 'em, and cook 'em and cook 'em till I drop fainting on my own kitchen carpet and till they're nasty black cinders that will serve him right.",
+    "title": "The Happy Warrior",
+    "author": "Hutchinson, A. S. M. (Arthur Stuart-Menteth), 1880-1971; Meylan, Paul Julian, 1882-1961 [Illustrator]",
+    "gutenbergReference": "38325",
+    "hash": "1abe9cce0fd70da5a66dca26bef7649dd0de75af45e04ee460dee788859e9f40"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "",
+    "quoteTime": "Six-fifty",
+    "quoteLast": " of a glorious, keen November morning, and sixty troopers of the old regiment were distributed along a spur that crossed, almost at right angles, the line of the Indian trail.",
+    "title": "A Daughter of the Sioux: A Tale of the Indian frontier",
+    "author": "King, Charles, 1844-1933; Deming, Edwin Willard, 1860-1942 [Illustrator]; Remington, Frederic, 1861-1909 [Illustrator]",
+    "gutenbergReference": "19023",
+    "hash": "26ef40f88e362ee7852fa88431890ab71b6e85dc537289c5103b8a16177ad6e9"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "On the 24th, we marched at ",
+    "quoteTime": "6.50 A. M.",
+    "quoteLast": ", to Clark’s Ferry, on the Staunton River, a branch of the Roanoke River, and encamped for the night on the road to Danville.",
+    "title": "The History of Battery H First Regiment Rhode Island Light Artillery in the War to Preserve the Union 1861-1865",
+    "author": "Fenner, Earl, 1841-",
+    "gutenbergReference": "58681",
+    "hash": "f4862ef1dcb99bfa7850893182fd08ba63f9b3213862dc051a2fc21c4b35224a"
   },
   {
     "time": "06:50",
     "quoteFirst": "At ",
-    "quoteTime": "6.50 a.m.",
-    "quoteLast": " steered south-east; we soon entered a grassy plain with ironbark ridges and belts of acacia scrub, trap, and limestone on the plains, and sandstone on the ridges; at noon passed a belt of cypress and entered extensive open downs covered with beautiful green grass.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "797783fdeebdd0b9dd0704c87e73af80053c22ca543377dcfffef3f3cb844f67"
-  },
-  {
-    "time": "06:50",
-    "quoteFirst": "\"About ",
-    "quoteTime": "ten minutes to seven",
-    "quoteLast": ",\" he stammered.",
-    "title": "The Weight of the Crown",
-    "author": "White, Fred M. (Fred Merrick), 1859-1935",
-    "gutenbergReference": "36511",
-    "hash": "d01b357b9b7e3bff5bf90bd81fcd09c4b6f79855b9d33cd779faab776d7d3fd8"
-  },
-  {
-    "time": "06:50",
-    "quoteFirst": "and laughing merrily she slipped away from them, only pausing to add: \"It is ",
     "quoteTime": "ten minutes of seven",
-    "quoteLast": " now.\"",
-    "title": "Caps and Capers: A Story of Boarding-School Life",
-    "author": "Jackson, Gabrielle E. (Gabrielle Emilie), 1861-; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
-    "gutenbergReference": "26549",
-    "hash": "d2aecfbf76b523e9ddefb1d75dbb954bf8ee013e654495d013bd9f2e5b1c69f4"
+    "quoteLast": " Stewart lowered his boat and took possession of His Majesty’s ship _Cyane_, mounting 34 guns, commanded by Captain Gordon Falcon.",
+    "title": "Naval Actions of the War of 1812",
+    "author": "Barnes, James, 1866-1936; Chapman, Carlton T., 1860-1925 [Illustrator]",
+    "gutenbergReference": "57889",
+    "hash": "22c1bd023a47759be11fa6c318b04c02489c0ee8ee8e3a6ba9c0e27a6909b5a9"
   },
   {
     "time": "06:50",
-    "quoteFirst": "At ",
+    "quoteFirst": "We started late, at ",
+    "quoteTime": "6.50 a.m.",
+    "quoteLast": ", and without breakfast, the distance being under-estimated.",
+    "title": "The Leicestershires beyond Baghdad",
+    "author": "Thompson, Edward John, 1886-1946",
+    "gutenbergReference": "19379",
+    "hash": "8edcc4910bb4f4fb989e76fee26bd2c1f0da0343c0b9dcf961d38f02ce99a798"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "It was ",
     "quoteTime": "ten minutes to seven",
-    "quoteLast": " an old lady in a black bonnet and corkscrew curls stepped up to ask the weather.",
-    "title": "Gypsy and Ginger",
-    "author": "Farjeon, Eleanor, 1881-1965",
-    "gutenbergReference": "57444",
-    "hash": "1574055ae36bf31fe2c111434e86ae8d2536e435f8ef72a47fedc20d20b27567"
+    "quoteLast": " when the visitor, having partaken of a hearty dinner in her own room, and gone through the intricacies of a super-elegant toilet, with the assistance of her maid, came down to the reception-room, and was met with outstretched hands by placable Margaret.",
+    "title": "Faithful Margaret: A Novel",
+    "author": "Simpson, J. M., Mrs.",
+    "gutenbergReference": "36360",
+    "hash": "c7fa189b6efdee429b2494d07497ff95cb884a399cbad35a514cc05c0085cba4"
   },
   {
     "time": "06:50",
-    "quoteFirst": "\"I didn't know you were coming to spend the _afternoon_,\" he laughed in return, gazing significantly toward the clock whose hands pointed to ",
+    "quoteFirst": "The misplaced blarney of an Irishwoman had amazed but not cheered her; and the clock on the mantel-shelf warned her that the time was ",
     "quoteTime": "ten minutes before seven",
     "quoteLast": ".",
-    "title": "The high school rivals",
-    "author": "Webster, Frank V.",
-    "gutenbergReference": "71306",
-    "hash": "9e92266697b19349f84af617403a01da680f1e8cc276eb974435d5a4cf2d758d"
+    "title": "Women",
+    "author": "Tarkington, Booth, 1869-1946",
+    "gutenbergReference": "65207",
+    "hash": "992e3def9c1579fe370d89c6b1d42d5bb9891140d6468cdc4b48bbc3ac578bd6"
   },
   {
     "time": "06:50",
-    "quoteFirst": "He indicated a row of handsome books--\"Seven Weeks in the Sahara, seven dollars; Six Months in a Waggon, ",
+    "quoteFirst": "\"They cost fifteen dollars, if you want to know, and the shoes cost ",
     "quoteTime": "six-fifty",
-    "quoteLast": " net; Afternoons in an Oxcart, two volumes, four-thirty, with twenty off.\"",
-    "title": "Moonbeams from the Larger Lunacy",
-    "author": "Leacock, Stephen, 1869-1944",
-    "gutenbergReference": "4064",
-    "hash": "e6a731ff7e0ff9a2bbf4dff19775f7a0b746a560bf6bd0bfe6a1f18584fc47cb"
+    "quoteLast": ". This ring on my cravat cost sixty dollars, and the suit I had on last night cost eighty-five. My suits are made by Breckstein, on Fifth Avenue, if you want to patronize him,\" he ended brutally, spurred on by the sneer in his brother's eyes.",
+    "title": "Main-Travelled Roads",
+    "author": "Garland, Hamlin, 1860-1940",
+    "gutenbergReference": "2809",
+    "hash": "9695acf037050942a1e6143990a2a778e0f3c8231abb5fa87ec7e54c0daae6f1"
   },
   {
     "time": "06:50",
-    "quoteFirst": "On the following Monday morning, at ",
-    "quoteTime": "ten minutes before seven",
-    "quoteLast": ", Hal presented himself at the armory, ready for work.",
-    "title": "The Guardsman",
-    "author": "Greene, Homer, 1853-1940",
-    "gutenbergReference": "55768",
-    "hash": "659b973be734b2b3b0b5a07a0bbb220feec53d711592bfdea7dbe8450cc42339"
-  },
-  {
-    "time": "06:50",
-    "quoteFirst": "Continued an east course; at ",
-    "quoteTime": "6.50 a.m.",
-    "quoteLast": " crossed some wooded ridges, from which ranges of hills were imperfectly seen about twelve miles to the east; descending the ridges, entered a brigalow scrub, and at 11.40 came to the Dawson River, about eighty yards wide, with long shallow pools of water, the scrub coming close to the bank on both sides, leaving a narrow grassy flat; followed the river upwards to the southward till 2.50 p.m., and camped on the left bank of the river.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "6ca7fc940b8e9672817098a9f273c087df69f9126f505564d834769599e366ea"
-  },
-  {
-    "time": "06:50",
-    "quoteFirst": "First one and then another of _Leipzig’s_ guns ceased firing, and by ",
+    "quoteFirst": "“At ",
     "quoteTime": "ten minutes to seven",
-    "quoteLast": " a big fire started forward.",
-    "title": "The British Navy in Battle",
-    "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
-    "gutenbergReference": "54441",
-    "hash": "e09223ad84e5c9903fb357b022da5241a898ffa8149f090a506b7a9ba74bb221"
+    "quoteLast": " I left the house, holding the frock in my arms. I rushed out without a hat, without a coat. I flew along the street, calling out for a cab like a madman.... At last I got one. I told the driver to drive like the furies to the address I gave him in Kensington. In the cab I stamped my feet and rocked the dress in my arms as though it were a fevered child. I don’t know how we got there. It seemed an eternity. I flung into the house, calling out, ‘Lucy! Lucy!’ I found her in the drawing-room. She was dressed in a flaming orange and silver dress, with a sparkling tiara in her hair. She was looking in a mirror and putting finishing touches to her hair. She cried out when she saw me: ‘Hullo! I thought Aunt Sophie had forgotten me. I’ve hired a frock from Roco’s.’ ‘Child,’ I said, ‘your Aunt Sophie has been working out her life’s blood for you. Here is the frock.’ She",
+    "title": "The golden windmill, and other stories",
+    "author": "Aumonier, Stacy, 1887-1928",
+    "gutenbergReference": "74926",
+    "hash": "bc1bd9fb970d02b4b969b3462e545f428dbfe74c071473db1cae78d6f415e954"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "We leave at ",
+    "quoteTime": "ten minutes of seven",
+    "quoteLast": ".",
+    "title": "Steel: The Diary of a Furnace Worker",
+    "author": "Walker, Charles R. (Charles Rumford), 1893-1974",
+    "gutenbergReference": "38932",
+    "hash": "bc37c8998f005fde73d6adc9905cac7936581427b611eb2bb504f50071d44fdd"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "It was ",
+    "quoteTime": "ten minutes to seven",
+    "quoteLast": ", and she could afford to arrange her ideas.",
+    "title": "The rat-trap",
+    "author": "Wyllarde, Dolf, 1871-1950",
+    "gutenbergReference": "69777",
+    "hash": "d4c8fb214dc92e47d56902f0417fc9861e1687189c15291bc3f9301a9d905388"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "Observing every precaution when he left The Chancery Agency, he spent the intervening time at one of his clubs, from which, having made an early dinner, he set off for Pall Mall at ",
+    "quoteTime": "ten minutes to seven",
+    "quoteLast": ".",
+    "title": "Fire-Tongue",
+    "author": "Rohmer, Sax, 1883-1959",
+    "gutenbergReference": "1159",
+    "hash": "f944dfbcbc8559dbf3640c0d21d9b1d231ab127d8e7920139fb109b2dbb04b6a"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "“",
+    "quoteTime": "Ten minutes to seven",
+    "quoteLast": ", sluggard,” replied Peaches, securing a less precarious seat on the edge of the bed.",
+    "title": "Barry Locke, half-back",
+    "author": "Barbour, Ralph Henry, 1870-1944; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "78118",
+    "hash": "a74edfc989a14abe2692aeea6fe07a53ff0fd875f0b87f8e6928beea36c79b03"
+  },
+  {
+    "time": "06:50",
+    "quoteFirst": "“It is ",
+    "quoteTime": "ten minutes of seven",
+    "quoteLast": "; and we have been six hours on the trip. I thought it would take about this time. That must be Tarragona; it is on a hill eight hundred feet high.”",
+    "title": "Vine and Olive; Or, Young America in Spain and Portugal\r\nA Story of Travel and Adventure",
+    "author": "Optic, Oliver, 1822-1897; Reinhart, Charles Stanley, 1844-1896 [Illustrator]",
+    "gutenbergReference": "47423",
+    "hash": "512ae387057e75e3c297ed5e71e79baa8e3f9dd1fd43e085b351ef9c0f5e74d8"
   }
 ]

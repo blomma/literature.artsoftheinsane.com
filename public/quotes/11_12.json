@@ -21,6 +21,16 @@
   },
   {
     "time": "11:12",
+    "quoteFirst": "“It's now ",
+    "quoteTime": "twelve minutes past eleven",
+    "quoteLast": ".”",
+    "title": "Rhoda Fleming — Complete",
+    "author": "Meredith, George, 1828-1909",
+    "gutenbergReference": "4426",
+    "hash": "a5fadc896f5312cac519b700690f55d2ceb7a211eb3d0804ef9785eaf99842d5"
+  },
+  {
+    "time": "11:12",
     "quoteFirst": "; nearest the earth on the 13th, at ",
     "quoteTime": "11:12 a. m.",
     "quoteLast": " Greatest elevation, 66° 56′ 25″, on the 13th; least elevation, 30° 2′ 40″, on the 27th.",
@@ -28,6 +38,26 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55394",
     "hash": "b55495b104ff3bd725267f8a81f72f6083d48689e2203e021c92c2a2815fc336"
+  },
+  {
+    "time": "11:12",
+    "quoteFirst": "\"It's now ",
+    "quoteTime": "twelve minutes past eleven",
+    "quoteLast": ".\"",
+    "title": "Complete Project Gutenberg Works of George Meredith",
+    "author": "Meredith, George, 1828-1909",
+    "gutenbergReference": "4500",
+    "hash": "c539738a1b426dee7285c6e3f144a7333d08d060d74f2f99beb129de31ee8f54"
+  },
+  {
+    "time": "11:12",
+    "quoteFirst": "\"It's now ",
+    "quoteTime": "twelve minutes past eleven",
+    "quoteLast": ".\"",
+    "title": "Rhoda Fleming — Volume 4",
+    "author": "Meredith, George, 1828-1909",
+    "gutenbergReference": "4424",
+    "hash": "3f7826a5b81b88256c6d7e8f7756b885158c531eaa1adbbda66bea33a861c39d"
   },
   {
     "time": "11:12",

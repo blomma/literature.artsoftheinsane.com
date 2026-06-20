@@ -1,6 +1,16 @@
 [
   {
     "time": "14:31",
+    "quoteFirst": "At half-past two I was at the office, and at ",
+    "quoteTime": "twenty-nine minutes to three",
+    "quoteLast": " my lady appeared in the hall.",
+    "title": "The Brother of Daphne",
+    "author": "Yates, Dornford, 1885-1960",
+    "gutenbergReference": "748",
+    "hash": "629235cf26e1436549edd0554b4a5ad533826753ed9c76ec4f98d6e24a4c4e00"
+  },
+  {
+    "time": "14:31",
     "quoteFirst": "For example, a resident of Wahoo wishing to go to Omaha by train leaves at 11:15 A.M., there being only one train a day, arrives at Omaha at 1:15 P.M.; but must wait until the next day to return, as the only train leaves Omaha at 12:41 P.M.; arriving at Wahoo at ",
     "quoteTime": "2:31 P.M.",
     "quoteLast": " The citizen has, therefore, spent practically two days to make the trip.",

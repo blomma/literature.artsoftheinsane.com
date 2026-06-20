@@ -41,16 +41,6 @@
   },
   {
     "time": "03:07",
-    "quoteFirst": "Now Cecily had gone through a good deal since ",
-    "quoteTime": "seven minutes past three",
-    "quoteLast": " that afternoon.",
-    "title": "The Long Trick",
-    "author": "Bartimeus, 1886-1967",
-    "gutenbergReference": "25921",
-    "hash": "d55cc3b464d2577d61963275daf2cc54a1513d5a74907996b98731191db54a18"
-  },
-  {
-    "time": "03:07",
     "quoteFirst": "The unity and suddenness of the assault were thus destroyed; but General Pélissier, without hesitation, ordered the rockets to be fired, and, at ",
     "quoteTime": "seven minutes past three",
     "quoteLast": ", the clustering stars of fire hung for a moment up in the black sky, and then paled and vanished.",
@@ -58,6 +48,16 @@
     "author": "Anonymous",
     "gutenbergReference": "61502",
     "hash": "4aca6ffe36a08e19279b7f07b2f6542fa5253efd6b673a3c8b2f10da37faf46d"
+  },
+  {
+    "time": "03:07",
+    "quoteFirst": "It was ",
+    "quoteTime": "seven minutes after three",
+    "quoteLast": ".",
+    "title": "El Diablo",
+    "author": "Norton, Brayton; Groesbeck, Dan Sayre, 1878-1950 [Illustrator]",
+    "gutenbergReference": "28022",
+    "hash": "a3e8dde809e866700f0d85bc38ca468c71bd703ffd6a377d8e1b313563e790e8"
   },
   {
     "time": "03:07",

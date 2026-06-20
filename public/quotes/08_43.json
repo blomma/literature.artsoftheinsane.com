@@ -1,6 +1,16 @@
 [
   {
     "time": "08:43",
+    "quoteFirst": "“",
+    "quoteTime": "Seventeen minutes to nine",
+    "quoteLast": ",” said Thomas Flanagan, as he cut the cards which Ralph handed to him.",
+    "title": "Around the World in Eighty Days",
+    "author": "Verne, Jules, 1828-1905; Towle, George M. (George Makepeace), 1841-1893 [Translator]",
+    "gutenbergReference": "103",
+    "hash": "e040e28b6d58ae95288f2d60d804da61d551d02b0b00d6ada65614c61eb00d43"
+  },
+  {
+    "time": "08:43",
     "quoteFirst": "The clock showed ",
     "quoteTime": "seventeen minutes to nine",
     "quoteLast": ".",
@@ -38,6 +48,16 @@
     "author": "Hoover, Thomas, 1941-",
     "gutenbergReference": "34320",
     "hash": "8e30470b72affcdb7ba77562369741a71688c1ff977c274ce7cfc95510c921f2"
+  },
+  {
+    "time": "08:43",
+    "quoteFirst": "\"",
+    "quoteTime": "Seventeen minutes to nine",
+    "quoteLast": ",\" said Thomas Flanagan, as he cut the cards which Ralph handed to him.",
+    "title": "Around the World in Eighty Days. Junior Deluxe Edition",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "2154",
+    "hash": "33f9fdb358242bc6ab5e1c6c0ac218484fecf81475eb6508ea25ac72c54cda31"
   },
   {
     "time": "08:43",

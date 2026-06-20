@@ -1,6 +1,16 @@
 [
   {
     "time": "01:20",
+    "quoteFirst": "Flamborough, 5th, ",
+    "quoteTime": "1.20 a.m.",
+    "quoteLast": ", one struck.",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1883. Fifth Report",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "65609",
+    "hash": "629d1f020fb77ea72bc1ba91093556c68ad9cebfaf76a338b4985c494a2c2a69"
+  },
+  {
+    "time": "01:20",
     "quoteFirst": "Three nights ago two windows were lit up at ",
     "quoteTime": "one-twenty",
     "quoteLast": " and remained lit until two-fifty-five.\"",
@@ -11,92 +21,182 @@
   },
   {
     "time": "01:20",
-    "quoteFirst": "It was now ",
+    "quoteFirst": "In bed at ",
+    "quoteTime": "one-twenty",
+    "quoteLast": " last Tuesday morning, eh?",
+    "title": "The house without a key",
+    "author": "Biggers, Earl Derr, 1884-1933",
+    "gutenbergReference": "73771",
+    "hash": "36c1945f87032bf8a76f714f279a383e412a27a5bc990f038ddaaa88583fc9b3"
+  },
+  {
+    "time": "01:20",
+    "quoteFirst": "You declare that you left the Metropolitan Club on Tuesday at midnight, and that you lost your way and spent an hour walking about the streets before reaching this house at ",
     "quoteTime": "twenty minutes past one",
-    "quoteLast": ".",
-    "title": "Guy Deverell, v. 2 of 2",
-    "author": "Le Fanu, Joseph Sheridan, 1814-1873",
-    "gutenbergReference": "41229",
-    "hash": "aceb2a307c7fff9b97f44c53aa3e0e50b611958bb9d3e44127eb5df4801fca7b"
-  },
-  {
-    "time": "01:20",
-    "quoteFirst": "\"They're asking ",
-    "quoteTime": "one-twenty",
-    "quoteLast": ". The house needs painting. There isn't much land with it--four acres.\"",
-    "title": "O+F",
-    "author": "Wetterau, John Moncure",
-    "gutenbergReference": "11005",
-    "hash": "c2f1a6ae0371b400bd1abbe1113159701ab12b1a5c684fe4532ad58cdb5325f3"
-  },
-  {
-    "time": "01:20",
-    "quoteFirst": "“Thirteen-twenty is ",
-    "quoteTime": "one-twenty",
-    "quoteLast": ", goose. There is not another train for just two hours.”",
-    "title": "The story of Fifine",
-    "author": "Capes, Bernard, 1854-1918",
-    "gutenbergReference": "71461",
-    "hash": "63f80bda9c60879202635bf88e7c4c46a10799c005156ea48c15513940bc8000"
-  },
-  {
-    "time": "01:20",
-    "quoteFirst": "You reached this house about ",
-    "quoteTime": "twenty minutes after one",
-    "quoteLast": " this morning; Mrs. Hale and her brother-in-law are still at the French Embassy reception, leaving at home Mr. Hale, ill in bed, your wife, and the female servants.",
+    "quoteLast": " o’clock on Wednesday morning.",
     "title": "The unseen ear",
     "author": "Lincoln, Natalie Sumner, 1881-1935",
     "gutenbergReference": "68679",
-    "hash": "77bfba3d4f1d65489a2cb29eb641129278148b795316ffbfbefea50ba4749278"
+    "hash": "a123d46e0d71f6ddf380ba8b18aa0a5f8dc549bb43bb46a72739529f05e1a03d"
   },
   {
     "time": "01:20",
-    "quoteFirst": "On October 23, thirty-seven tanks took part in a successful moonlight attack at ",
+    "quoteFirst": "Except for a half-hearted attack in front of Courtney's Post, no  assault was made until ",
     "quoteTime": "1.20 a.m.",
-    "quoteLast": " carried out by the Third and Fourth Armies north and south of Le Cateau, with the object of securing the whole line from the Sambre along the edge of the forest of Mormal to the vicinity of Valenciennes.",
-    "title": "Tanks in the Great War, 1914-1918",
-    "author": "Fuller, J. F. C. (John Frederick Charles), 1878-1966",
-    "gutenbergReference": "49808",
-    "hash": "61e31ab4331beb0d7339e5cab34b952c14aaddeed64785f708f4f5b3c2072361"
+    "quoteLast": ", when the enemy left their trenches  and advanced on Quinn's Post.",
+    "title": "Australia in Arms\r\nA Narrative of the Australasian Imperial Force and Their Achievement at Anzac",
+    "author": "Schuler, Phillip F. E. (Frederick Edward), 1879-1917",
+    "gutenbergReference": "46703",
+    "hash": "11f0e10a14ff20db6f31e465d9e25c7109a323a798e0d4e29055f8741f085eed"
   },
   {
     "time": "01:20",
-    "quoteFirst": "He stayed upstairs a coupla hours, come down at ",
-    "quoteTime": "one-twenty",
-    "quoteLast": ", and hopped a taxi.",
-    "title": "The Benson murder case",
-    "author": "Van Dine, S. S., 1888-1939; Stoops, Herbert Morton, 1887-1948 [Illustrator]",
-    "gutenbergReference": "70634",
-    "hash": "535deddaeedf0ee1111788d64227104fdf5149032fc0a6ae7956f2ca06572035"
-  },
-  {
-    "time": "01:20",
-    "quoteFirst": "\"The argument advanced by the defence, that the prisoner could not have left Mrs. Clemmens' house at ten minutes before twelve and arrived at Monteith Quarry Station at ",
+    "quoteFirst": "\"It happened just previous to ",
     "quoteTime": "twenty minutes past one",
-    "quoteLast": ", is not a tenable one, and I purpose to prove it by this witness.\"",
+    "quoteLast": ". Say about one fifteen.\"",
+    "title": "The house without a key",
+    "author": "Biggers, Earl Derr, 1884-1933",
+    "gutenbergReference": "73771",
+    "hash": "1b0c2717291b8e279a448890fc7fdbeab57d295f39c588c92043656d69adbb7c"
+  },
+  {
+    "time": "01:20",
+    "quoteFirst": "The Rifles now dashed over the parapet; and at exactly ",
+    "quoteTime": "twenty minutes past one",
+    "quoteLast": " a tall, slender man with short, bristling, grayish hair stood on it, smoking a cigar and waving a red handkerchief tied to a rifle.",
+    "title": "The War with Mexico, Volume 2 (of 2)",
+    "author": "Smith, Justin Harvey, 1857-1930",
+    "gutenbergReference": "44438",
+    "hash": "2910dd9c9f1fef756cfa66ea34b3a8bd029fbf8eab69f4f599e4ca15f4863190"
+  },
+  {
+    "time": "01:20",
+    "quoteFirst": "When the last column had almost filed upon the bridge, Sedgwick was taken aback by the receipt of Hooker's despatch of ",
+    "quoteTime": "1.20 A.M.",
+    "quoteLast": ", countermanding the order to withdraw as above quoted.",
+    "title": "The Campaign of Chancellorsville",
+    "author": "Dodge, Theodore Ayrault, 1842-1909",
+    "gutenbergReference": "5715",
+    "hash": "2d4f6d240c23ea65495b67bc2d7f6260f2a293f04f2193dee28f9c0416e5ea07"
+  },
+  {
+    "time": "01:20",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty minutes past one",
+    "quoteLast": ".",
+    "title": "Armadale",
+    "author": "Collins, Wilkie, 1824-1889",
+    "gutenbergReference": "1895",
+    "hash": "ec1256cc275030da7d333d1bba405e2d8e49eb3d1d638534420a01574f06f944"
+  },
+  {
+    "time": "01:20",
+    "quoteFirst": "It was now ",
+    "quoteTime": "twenty minutes past one",
+    "quoteLast": ".",
+    "title": "Three years in Tristan da Cunha",
+    "author": "Barrow, Katherine Mary",
+    "gutenbergReference": "8213",
+    "hash": "9f91ac12b36fe4465e63be78cbe8acc3cb0b4729ab17027a8fde0bd86d72d151"
+  },
+  {
+    "time": "01:20",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty minutes past one",
+    "quoteLast": ".",
+    "title": "Miser Farebrother: A Novel (vol. 3 of 3)",
+    "author": "Farjeon, B. L. (Benjamin Leopold), 1833-1903",
+    "gutenbergReference": "39879",
+    "hash": "5dff4046375406fd8f6983b67fe8bf111b992821523b2ccfdb82cdeb27afd19c"
+  },
+  {
+    "time": "01:20",
+    "quoteFirst": "\"She starts to-night at twelve,--first cabin, two dollars; steerage, ",
+    "quoteTime": "one-twenty",
+    "quoteLast": ".\"",
+    "title": "Confessions Of Con Cregan, the Irish Gil Blas",
+    "author": "Lever, Charles, 1806-1872; Browne, Hablot Knight, 1815-1882 [Illustrator]",
+    "gutenbergReference": "32060",
+    "hash": "9c8309347d6edf91c42c7c38a115a56c717d79ce65a9620dfbfcfd8361b0ebde"
+  },
+  {
+    "time": "01:20",
+    "quoteFirst": "As she had handed in the telegram at ",
+    "quoteTime": "twenty minutes past one",
+    "quoteLast": " it seemed more likely that she had found the lad already dead.",
+    "title": "Fruitfulness",
+    "author": "Zola, Émile, 1840-1902; Vizetelly, Ernest Alfred, 1853-1922 [Translator]",
+    "gutenbergReference": "10330",
+    "hash": "c445bcda2ef94d56882c8b5a859da0fa7716cb7143d42b818fcfa6c3ed39fb21"
+  },
+  {
+    "time": "01:20",
+    "quoteFirst": "First, then, we decided that our services should begin at twelve o'clock every Sunday, and close at one or before ",
+    "quoteTime": "twenty minutes after one",
+    "quoteLast": ".",
+    "title": "'Charge It': Keeping Up With Harry",
+    "author": "Bacheller, Irving, 1859-1950",
+    "gutenbergReference": "29568",
+    "hash": "bd5e6ee1d4641b15fda127a367029257123107f5668f74b67568101733cd3a6d"
+  },
+  {
+    "time": "01:20",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty minutes past one",
+    "quoteLast": ".",
+    "title": "Armadale",
+    "author": "Collins, Wilkie, 1824-1889",
+    "gutenbergReference": "1895",
+    "hash": "ec1256cc275030da7d333d1bba405e2d8e49eb3d1d638534420a01574f06f944"
+  },
+  {
+    "time": "01:20",
+    "quoteFirst": "The second of these trains, namely, the 9.42 a.m. from Heathmoor, performs a more sociable journey, for there is less of the _Financial Times_ in it and more of the ladies of Heathmoor, who, with business to transact in the shops, go up to town in the morning with amazing frequency, returning, for the most part, by an equally swift transit, which lands them back at home again at ",
+    "quoteTime": "twenty minutes past one",
+    "quoteLast": ".",
+    "title": "Arundel",
+    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
+    "gutenbergReference": "45719",
+    "hash": "289dff3425f4c6a50832ba0d908835e5e08902d82c331841ebfa8832ad8ec183"
+  },
+  {
+    "time": "01:20",
+    "quoteFirst": "But, your Honor and Gentlemen of the Jury, the prosecution has already shown that the prisoner stepped on to the train at Monteith Quarry Station at ",
+    "quoteTime": "twenty minutes past one",
+    "quoteLast": " of that same day, and has produced witnesses whose testimony positively proves that the road he took there from Mrs. Clemmens' house was the same he had traversed in his secret approach to it the day before--viz.",
     "title": "Hand and Ring",
     "author": "Green, Anna Katharine, 1846-1935",
     "gutenbergReference": "31681",
-    "hash": "8e7c15fe71d839004d0163c77d9fa4a09b455916f623f515292211da9e12f09b"
+    "hash": "492918bd4a3097caaed71f8e4420beb09386dd20e71f526fe46e0f3cc1017b0c"
   },
   {
     "time": "01:20",
-    "quoteFirst": "We then walked to the Waterloo station, on the same side of the river; and at ",
+    "quoteFirst": "He assisted the officer (Boxhall) to fire distress signals until about five and ",
     "quoteTime": "twenty minutes past one",
-    "quoteLast": " took the rail for Hampton Court, distant some twelve or fifteen miles.",
-    "title": "Passages from the English Notebooks, Complete",
-    "author": "Hawthorne, Nathaniel, 1804-1864",
-    "gutenbergReference": "7878",
-    "hash": "48e191a2eb62e6958b4c9549c5c085a4f6cf2933776a2fe831414cbd729ec385"
+    "quoteLast": ".",
+    "title": "The Truth about the Titanic",
+    "author": "Gracie, Archibald, 1858-1912",
+    "gutenbergReference": "67584",
+    "hash": "7dd9b377ca6d6b6a87872683a91d03f557461d1f7ae1eb1adaf25de8b13d9538"
   },
   {
     "time": "01:20",
-    "quoteFirst": "He was to reach       Liverpool Street at ",
-    "quoteTime": "one-twenty",
-    "quoteLast": ".",
-    "title": "The Return of Sherlock Holmes",
-    "author": "Doyle, Arthur Conan, 1859-1930",
-    "gutenbergReference": "108",
-    "hash": "c2cf256e4973dccf06cae1f510ccdb0dce57f5ee1e5aa09b3abf78815cce8891"
+    "quoteFirst": "A stranger arrived at Forkville at ",
+    "quoteTime": "1:20 A.M.",
+    "quoteLast": ", Tuesday, February the tenth.",
+    "title": "Green Timber Thoroughbreds",
+    "author": "Roberts, Theodore Goodridge, 1877-1953",
+    "gutenbergReference": "65555",
+    "hash": "bc97a77e25911260f5992c9f873586fc9d635af28cb021bc60f6249693d7d773"
+  },
+  {
+    "time": "01:20",
+    "quoteFirst": "So, with one of Dr. Mason's cameras under the seat, we started back through the sweet-smelling lanes; and, at about ",
+    "quoteTime": "twenty minutes past one",
+    "quoteLast": ", swung past the gate lodge and up the long avenue, the wheels grinding crisply upon the newly wetted gravel.",
+    "title": "The Haunting of Low Fennel",
+    "author": "Rohmer, Sax, 1883-1959",
+    "gutenbergReference": "41619",
+    "hash": "d1413b6f3783629258a2be1f7d258435c93538b7a24f7ceaf95d383ee38920a3"
   }
 ]

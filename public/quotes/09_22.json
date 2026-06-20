@@ -1,6 +1,26 @@
 [
   {
     "time": "09:22",
+    "quoteFirst": "",
+    "quoteTime": "Twenty-two minutes past nine",
+    "quoteLast": " to the tick.",
+    "title": "The Lighted Way",
+    "author": "Oppenheim, E. Phillips (Edward Phillips), 1866-1946; Wenzell, A. B. (Albert Beck), 1864-1917 [Illustrator]",
+    "gutenbergReference": "15893",
+    "hash": "032b6844241a46bcd0664009f509f1c9575fd3dd286435841f7c862b69c3c7aa"
+  },
+  {
+    "time": "09:22",
+    "quoteFirst": "[2402] I rode from the (Āgra) garden at one watch (_pahr_) and one _garī_ (",
+    "quoteTime": "9.22 a.m.",
+    "quoteLast": "), and I entered the Dūlpūr garden when 5 _garīs_ of the 1st night-watch (_pās_)[2403] had gone (7.40 p.m.).",
+    "title": "The Bābur-nāma in English (Memoirs of Bābur)",
+    "author": "Babur, Emperor of Hindustan, 1483-1530; Beveridge, Annette Susannah, 1842-1929 [Translator]",
+    "gutenbergReference": "44608",
+    "hash": "7a710ea42816c9fb1fa02a275f1cfcc9ff559bb5fe7fc5a68276fe1725f4db77"
+  },
+  {
+    "time": "09:22",
     "quoteFirst": "As the time for our departure from the United States had now arrived, on Wednesday, June 2nd, at ",
     "quoteTime": "9.22 a.m.",
     "quoteLast": ", we started (viâ Syracuse, Richland, and Watertown) for Cape Vincent, at the north-east extremity of Lake Ontario; reached our destination at half past 6, and, embarking in the boat which was waiting, after a pleasant little voyage of eleven miles across the lake, landed at Kingston at half past 8, and went to the \"British American Hotel.\"",
@@ -21,6 +41,16 @@
   },
   {
     "time": "09:22",
+    "quoteFirst": "Instead, the clock pointed to only ",
+    "quoteTime": "twenty-two minutes past nine",
+    "quoteLast": ".",
+    "title": "The Matador of the Five Towns and Other Stories",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "12995",
+    "hash": "d7e6a2d18d81c9129eff3c42044c04097eeea1b9b9f5ea72658e3e131faf5bca"
+  },
+  {
+    "time": "09:22",
     "quoteFirst": "We reached the great sternpost of the lost Terpsichore at ",
     "quoteTime": "9.22 a.m.",
     "quoteLast": ", just two hours before low water at the neap tides, and found it projected five feet nine inches above the water, which was ten feet six inches deep in the swilly close to it, but nowhere shallower than eight feet within a distance of fifty yards from the stump.",
@@ -28,6 +58,16 @@
     "author": "Treanor, Thomas Stanley",
     "gutenbergReference": "24685",
     "hash": "7843b691c8e40d65894ab521920bcd384915f8b6a54967b60d2dc8de1ce8e0f3"
+  },
+  {
+    "time": "09:22",
+    "quoteFirst": "Elizabeth Teresa Howard borne the 6 of April, being Easter Eve, ",
+    "quoteTime": "22 minutes after 9",
+    "quoteLast": " of the clock in the evening.",
+    "title": "Brief Lives, Vol. 1",
+    "author": "Aubrey, John, 1626-1697; Clark, Andrew, 1856-1922 [Editor]",
+    "gutenbergReference": "47787",
+    "hash": "0c4e019ecd92c017cd0e40f5055433af3a400adba86e9058cedc28bb97c13bfb"
   },
   {
     "time": "09:22",

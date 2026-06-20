@@ -1,6 +1,26 @@
 [
   {
     "time": "23:32",
+    "quoteFirst": "As a matter of fact, his track showed that he walked most of the way, which makes the possible time of his arrival a bit later than ",
+    "quoteTime": "11.32 p.m.",
+    "quoteLast": "”",
+    "title": "Mystery at Lynden Sands",
+    "author": "Connington, J. J., 1880-1947",
+    "gutenbergReference": "73126",
+    "hash": "3604ba978161c90aec2f3763f4f002c3880bb53cb2e2073d63eaa65f06df4b8c"
+  },
+  {
+    "time": "23:32",
+    "quoteFirst": "If I pick up a passenger, say, like ",
+    "quoteTime": "28 minutes to 12",
+    "quoteLast": " o'clock, we put 20 minutes to 12.",
+    "title": "Warren Commission (03 of 26): Hearings Vol. III (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44003",
+    "hash": "113a8e5a13f690238685616dd76d9e92de8e3c66d1cba8579710b5cb5857b747"
+  },
+  {
+    "time": "23:32",
     "quoteFirst": "Monday ",
     "quoteTime": "11:32 P.M.",
     "quoteLast": "",

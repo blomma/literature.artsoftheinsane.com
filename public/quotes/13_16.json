@@ -1,6 +1,16 @@
 [
   {
     "time": "13:16",
+    "quoteFirst": "“",
+    "quoteTime": "Sixteen minutes past one",
+    "quoteLast": ",”  he says.",
+    "title": "Carter, and Other People",
+    "author": "Marquis, Don, 1878-1937",
+    "gutenbergReference": "51913",
+    "hash": "96306150e2da2e1e9c674238cf6cf3f97a1e2b56a621fb2d56e4e943aeb8a289"
+  },
+  {
+    "time": "13:16",
     "quoteFirst": "The message was received shortly after ",
     "quoteTime": "1:16 p.m.",
     "quoteLast": "",

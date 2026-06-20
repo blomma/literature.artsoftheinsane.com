@@ -1,6 +1,16 @@
 [
   {
     "time": "09:06",
+    "quoteFirst": "\"Yes, with her father, by the train which gets in at ",
+    "quoteTime": "six minutes past nine",
+    "quoteLast": " to-morrow.\"",
+    "title": "The Immortals: Masterpieces of Fiction, Crowned by the French Academy — Complete",
+    "author": "Various",
+    "gutenbergReference": "4000",
+    "hash": "064c69b275ddd5f0dccd3391a7e0f535a0cac8c2ecb3a1e85229c88f531e06ce"
+  },
+  {
+    "time": "09:06",
     "quoteFirst": "Arrived at Wolverton at ",
     "quoteTime": "6 minutes past 9",
     "quoteLast": ", where the directors alighted and changed engines.",
@@ -8,5 +18,25 @@
     "author": "Ashton, John, 1834-1911",
     "gutenbergReference": "30665",
     "hash": "c86fdcb2556b3244aa4d2d50650f21899a5de27078724596cbdd1d1a1694f985"
+  },
+  {
+    "time": "09:06",
+    "quoteFirst": "“Yes, with her father, by the train which gets in at ",
+    "quoteTime": "six minutes past nine",
+    "quoteLast": " to-morrow.”",
+    "title": "The Ink-Stain (Tache d'encre) — Complete",
+    "author": "Bazin, René, 1853-1932",
+    "gutenbergReference": "3975",
+    "hash": "b61be737bfc55a5baa990796080c0c7ce3450daeea68866d7d2dba6e64c9671a"
+  },
+  {
+    "time": "09:06",
+    "quoteFirst": "\"Yes, with her father, by the train which gets in at ",
+    "quoteTime": "six minutes past nine",
+    "quoteLast": " to-morrow.\"",
+    "title": "The Ink-Stain (Tache d'encre) — Volume 3",
+    "author": "Bazin, René, 1853-1932",
+    "gutenbergReference": "3974",
+    "hash": "a5e98469936e4f5bea45f125e7ac1dfefa2851af4a1fe52efa78332efafc876e"
   }
 ]

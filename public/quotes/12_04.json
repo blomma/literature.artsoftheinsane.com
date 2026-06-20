@@ -1,36 +1,6 @@
 [
   {
     "time": "12:04",
-    "quoteFirst": "│   │    │      │     │     │    ",
-    "quoteTime": "12.04 pm",
-    "quoteLast": " Sample No. 1 blowing,     │..",
-    "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
-    "author": "Levy, Donald M.",
-    "gutenbergReference": "59328",
-    "hash": "eea5065f012bf1a4bc13ed89e65a01d61a96154f440ed3775c522175105645ad"
-  },
-  {
-    "time": "12:04",
-    "quoteFirst": "At ",
-    "quoteTime": "four minutes after twelve",
-    "quoteLast": " she opened her fire from both sides of her deck.",
-    "title": "Journeys Through Bookland, Vol. 8",
-    "author": "Sylvester, Charles Herbert",
-    "gutenbergReference": "24532",
-    "hash": "92814baa29186a911cb1d4835b097e4368ac6a3d55c0d10eda76af4bf12b8e8b"
-  },
-  {
-    "time": "12:04",
-    "quoteFirst": "At ",
-    "quoteTime": "four minutes after twelve",
-    "quoteLast": " she opened her fire from both sides of her deck.",
-    "title": "The Life of Horatio, Lord Nelson",
-    "author": "Southey, Robert, 1774-1843",
-    "gutenbergReference": "947",
-    "hash": "a0e6e9efb5ee794c5271a0f8849e2dc970203c62e5647d607d3e929aa66047c8"
-  },
-  {
-    "time": "12:04",
     "quoteFirst": "The Victory, at ",
     "quoteTime": "four minutes past twelve",
     "quoteLast": ", opened it's fire on the enemy's van, while passing down their line; in about a quarter of an hour after which, finding it impossible to penetrate through, the Victory fell on board the eleventh and twelfth ships.",
@@ -41,13 +11,13 @@
   },
   {
     "time": "12:04",
-    "quoteFirst": "For Carp and Tench early in the morning, from sun rising, until eight of the clock, and from ",
-    "quoteTime": "four after noon",
-    "quoteLast": ", till night; and from sun set, till far in the night in the hot months.",
-    "title": "The Experienced Angler; or Angling Improved\r\nImparting Many of the Aptest Ways and Choicest Experiments for the Taking Most Sorts of Fish in Pond or River",
-    "author": "Venables, Robert, 1612?-1687; Walton, Izaak, 1593-1683 [Author of introduction, etc.]",
-    "gutenbergReference": "67474",
-    "hash": "bdc2facc047fc4d869c8223d36455a30b87aad5f07249d241836e2f01150589d"
+    "quoteFirst": "At ",
+    "quoteTime": "four minutes after twelve",
+    "quoteLast": " she opened fire, and almost immediately ran against the Redoubtable.",
+    "title": "The World's Greatest Books — Volume 10 — Lives and Letters",
+    "author": "Mee, Arthur, 1875-1943 [Editor]; Hammerton, J. A. (John Alexander), 1871-1949 [Editor]",
+    "gutenbergReference": "12572",
+    "hash": "aeac8b4dc2689f3744a9bbf4cd5fc3e45dc94611891be677c5e5ea336375e677"
   },
   {
     "time": "12:04",
@@ -61,36 +31,6 @@
   },
   {
     "time": "12:04",
-    "quoteFirst": "Ask my friend--the vice-president of the telephone company--to find out for us whether Morphy or anybody else in the prison telephoned at ",
-    "quoteTime": "four minutes past twelve",
-    "quoteLast": " this morning.",
-    "title": "Whispering Wires",
-    "author": "Leverage, Henry, 1885-1931",
-    "gutenbergReference": "34046",
-    "hash": "0e6a179bc9dd27b7e369c93f6cee61933dbc7bf31ed476492b7506ce5cb7595d"
-  },
-  {
-    "time": "12:04",
-    "quoteFirst": "│   │    │      │     │     │    ",
-    "quoteTime": "12.04 pm",
-    "quoteLast": " Sample No. 1 blowing,     │..",
-    "title": "Modern Copper Smelting\r\nbeing lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.",
-    "author": "Levy, Donald M.",
-    "gutenbergReference": "59328",
-    "hash": "eea5065f012bf1a4bc13ed89e65a01d61a96154f440ed3775c522175105645ad"
-  },
-  {
-    "time": "12:04",
-    "quoteFirst": "The Victory, at ",
-    "quoteTime": "four minutes past twelve",
-    "quoteLast": ", opened it's fire on the enemy's van, while passing down their line; in about a quarter of an hour after which, finding it impossible to penetrate through, the Victory fell on board the eleventh and twelfth ships.",
-    "title": "The Life of the Right Honourable Horatio Lord Viscount Nelson, Volume 2",
-    "author": "Harrison, James",
-    "gutenbergReference": "16913",
-    "hash": "84bdd0ca728e1eff52a660edbb1bd712c6202b9ffa64747b55990d8545c82e3b"
-  },
-  {
-    "time": "12:04",
     "quoteFirst": "At ",
     "quoteTime": "four after midday",
     "quoteLast": ", the great standard of the Grand Prince went down, and nearly at the same time Brenko died.",
@@ -98,5 +38,165 @@
     "author": "Curtin, Jeremiah, 1835-1906",
     "gutenbergReference": "72764",
     "hash": "fb7ef5994faab5560671614bed49627258436e913ea4203a80cec2dcf697d4e1"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "Reference to the almanac will show that on the 21st August the Sun passes the meridian at about ",
+    "quoteTime": "four minutes after noon",
+    "quoteLast": ", and therefore the Greenwich mean time of the Astral Tide will be 3.52 p.m.",
+    "title": "Cosmic symbolism",
+    "author": "Sepharial, 1864-1929",
+    "gutenbergReference": "70749",
+    "hash": "e31d897c569614afe514428e678a09c3612bb7c2fa9c2ecc4923985af9b6df57"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "At ",
+    "quoteTime": "four minutes past twelve",
+    "quoteLast": " a motor car numbered with a certain number slows up at a certain bit of kerb, and Agent 3, who has transacted his little business, gets in.",
+    "title": "Ireland in Travail",
+    "author": "Loch, Joice NanKivell, 1893-1982; Loch, Sydney, 1889-1954",
+    "gutenbergReference": "63334",
+    "hash": "0410c030b3cbb91d326a1faf8e599c45ef1e04da1877a6a3e3db534e8d32eeeb"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "At ",
+    "quoteTime": "four minutes past twelve",
+    "quoteLast": " a motor car numbered with a certain number slows up at a certain bit of kerb, and Agent 3, who has transacted his little business, gets in.",
+    "title": "Ireland in Travail",
+    "author": "Loch, Joice NanKivell, 1893-1982; Loch, Sydney, 1889-1954",
+    "gutenbergReference": "63334",
+    "hash": "0410c030b3cbb91d326a1faf8e599c45ef1e04da1877a6a3e3db534e8d32eeeb"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "[11] At ",
+    "quoteTime": "four minutes past twelve",
+    "quoteLast": " o'clock she opened her fire, from both sides of her decks, upon the Enemy; when Captain HARDY represented to His LORDSHIP, that \"it appeared impracticable to pass through the Enemy's line without going on board some one of their ships.\"",
+    "title": "Authentic Narrative of the Death of Lord Nelson",
+    "author": "Beatty, William, 1773-1842",
+    "gutenbergReference": "15233",
+    "hash": "798711bbe1ac47bb77334544dec3a5637c0ac2b9d13c08fa92f729c201f16b3a"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "They began a quarter before ten in the morning, and rang very well until ",
+    "quoteTime": "four minutes after twelve",
+    "quoteLast": ", when Mr Brickland, a schoolmaster of St Michael’s parish, who rang the fifth bell, missed a stroke, it put a stop to the whole, so that they presently set them, and so sunk the peal, which is pity, for ’twas really very true ringing, excepting five faults, which I observ’d (for I heard all the time, tho’ ’twas very wet all the while) in that part of the Parks which is on the east side of Wadham college, where I was very private; one of which five faults was the treble, that was rung by Mr Richard Hearne, and the other four were faults committed by the aforesaid Mr Brickland, who ’twas feared by several beforehand would not fully perform his part.",
+    "title": "Springtime and Other Essays",
+    "author": "Darwin, Francis, Sir, 1848-1925",
+    "gutenbergReference": "33668",
+    "hash": "97a1b686732666c4a909db55fb5910479c26174bc52ba86ca8e52f8bb5006a47"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "Nelson steered for his old opponent at Cape St. Vincent, the Santissima Trinidad, distinguished by her size, and opened his fire at ",
+    "quoteTime": "four minutes after twelve",
+    "quoteLast": ", engaging the Redoubtable with his starboard, the Santissima Trinidad and Bucentaur with his larboard guns.",
+    "title": "Great Men and Famous Women. Vol. 2\r\nA series of pen and pencil sketches of the lives of more than 200 of the most prominent personages in History",
+    "author": "Horne, Charles F. (Charles Francis), 1870-1942 [Editor]",
+    "gutenbergReference": "26422",
+    "hash": "a2d011845133561f458f16d28007278cd8f4c500f85e6aa7bd4b441e85eb7571"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "; and on the 31st, by making them show ",
+    "quoteTime": "12:04 p. m.",
+    "quoteLast": " On the 1st, 15th, and 31st, the sun rises at 6:33, 6:11, and 5:44 a.",
+    "title": "The Chautauquan, Vol. 04, March 1884, No. 6",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55133",
+    "hash": "dff9f53cc64a5dec41298a0fbe396f0bf54446db6923b3c420abdbb17be84f21"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "[11] At ",
+    "quoteTime": "four minutes past twelve",
+    "quoteLast": " o'clock she opened her fire, from both sides of her decks, upon the Enemy; when Captain HARDY represented to His LORDSHIP, that \"it appeared impracticable to pass through the Enemy's line without going on board some one of their ships.\"",
+    "title": "Authentic Narrative of the Death of Lord Nelson",
+    "author": "Beatty, William, 1773-1842",
+    "gutenbergReference": "15233",
+    "hash": "798711bbe1ac47bb77334544dec3a5637c0ac2b9d13c08fa92f729c201f16b3a"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "At ",
+    "quoteTime": "four minutes after twelve",
+    "quoteLast": " she opened her fire from both sides of her deck.",
+    "title": "The Cyr Readers: Book 8\nArranged by grades",
+    "author": "Cyr, Ellen M., 1860-1920",
+    "gutenbergReference": "49358",
+    "hash": "f25dfe6460d7db40a1b40677956540123d519b76f10c0d22d1b11704d922d9de"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "At ",
+    "quoteTime": "four minutes after twelve",
+    "quoteLast": " she opened her fire from both sides of her deck.",
+    "title": "Fifty-two Stories of the British Navy, from Damme to Trafalgar.",
+    "author": "Miles, Alfred H. (Alfred Henry), 1848-1929",
+    "gutenbergReference": "40871",
+    "hash": "2e3bab1fd85597e63802f85f8dace77a5fdbee1fc9bd24251b391f37bc396eb6"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "At ",
+    "quoteTime": "four minutes after twelve",
+    "quoteLast": " she opened fire, and almost immediately ran against the Redoubtable.",
+    "title": "The World's Greatest Books — Volume 10 — Lives and Letters",
+    "author": "Mee, Arthur, 1875-1943 [Editor]; Hammerton, J. A. (John Alexander), 1871-1949 [Editor]",
+    "gutenbergReference": "12572",
+    "hash": "aeac8b4dc2689f3744a9bbf4cd5fc3e45dc94611891be677c5e5ea336375e677"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "At ",
+    "quoteTime": "four minutes after twelve",
+    "quoteLast": " she opened her fire from both sides of her deck.",
+    "title": "England and Napoleon (1801-1815)",
+    "author": "Winbolt, S. E. (Samuel Edward), 1868-1944 [Compiler]; Bell, Kenneth (Kenneth Norman), 1884-1951 [Editor]; Winbolt, S. E. (Samuel Edward), 1868-1944 [Editor]",
+    "gutenbergReference": "52514",
+    "hash": "4d06ce0f37da4c98dddb61af3567bbe22275ba5e14cd3ae68608480d1ee9fbdc"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "The Victory's log has this entry: 'At ",
+    "quoteTime": "4 minutes past 12",
+    "quoteLast": " opened our fire on the enemy's van, in passing down their line.'",
+    "title": "Fighting Instructions, 1530-1816\r\nPublications of the Navy Records Society Vol. XXIX.",
+    "author": "Corbett, Julian Stafford, 1854-1922",
+    "gutenbergReference": "16695",
+    "hash": "57845b13850db8e96cc2d8464655957342174dfdaafdbdbc0b95a102e6732d9e"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "; and on the 31st, by making them show ",
+    "quoteTime": "12:04 p. m.",
+    "quoteLast": " On the 1st, 15th, and 31st, the sun rises at 6:33, 6:11, and 5:44 a.",
+    "title": "The Chautauquan, Vol. 04, March 1884, No. 6",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55133",
+    "hash": "dff9f53cc64a5dec41298a0fbe396f0bf54446db6923b3c420abdbb17be84f21"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "At ",
+    "quoteTime": "four minutes after twelve",
+    "quoteLast": " she opened her fire from both sides of her deck.",
+    "title": "The Life of Horatio, Lord Nelson",
+    "author": "Southey, Robert, 1774-1843",
+    "gutenbergReference": "947",
+    "hash": "a0e6e9efb5ee794c5271a0f8849e2dc970203c62e5647d607d3e929aa66047c8"
+  },
+  {
+    "time": "12:04",
+    "quoteFirst": "At about ",
+    "quoteTime": "four minutes after twelve",
+    "quoteLast": " she opened with both her broadsides.",
+    "title": "How Britannia Came to Rule the Waves\nUpdated to 1900",
+    "author": "Kingston, William Henry Giles, 1814-1880",
+    "gutenbergReference": "23496",
+    "hash": "81c5a034ef4c1c980507b3900f7de1abe03ca1cf056058319084e50a63b0fd57"
   }
 ]

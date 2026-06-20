@@ -1,6 +1,16 @@
 [
   {
     "time": "18:22",
+    "quoteFirst": "The 7.45 A.M. train would take you through Norwich to my door, as one may say, and you would be back by the ",
+    "quoteTime": "6.22 P.M.",
+    "quoteLast": "\" In this way he brought himself back again into good-humour, feeling, that in the absence of the widow, he could not do better than make progress with the niece.",
+    "title": "Can You Forgive Her?",
+    "author": "Trollope, Anthony, 1815-1882",
+    "gutenbergReference": "19500",
+    "hash": "612436508a3b0bcb633cb5f6dafe6a7f78b20a0ed47040576c13dd04dd1575b4"
+  },
+  {
+    "time": "18:22",
     "quoteFirst": "Mrs. X—for she was still Mrs. X—must therefore have travelled up by an afternoon train, probably the 5.26 or ",
     "quoteTime": "6.22 p.m.",
     "quoteLast": " from the West Station, which got in 6.58 and 8.20 respectively.",
@@ -8,6 +18,16 @@
     "author": "Crofts, Freeman Wills, 1879-1957",
     "gutenbergReference": "65553",
     "hash": "c7e85a5fe399b6ba6ee25c53ec12a8ac7af7d3af529e83de4a8ca43851b7ad8a"
+  },
+  {
+    "time": "18:22",
+    "quoteFirst": "Say, \"Suppose it is six-twenty-two o'clock, that is, ",
+    "quoteTime": "twenty-two minutes after six",
+    "quoteLast": "; can you see in your mind where the large hand would be, and where the small hand would be?\"",
+    "title": "Condensed guide for the Stanford revision of the Binet-Simon intelligence tests",
+    "author": "Terman, Lewis M. (Lewis Madison), 1877-1956",
+    "gutenbergReference": "34307",
+    "hash": "32f9fb29a1c595ad0aba64e6a2c06cf311f2cdbfec81f0864eee74a810493c8d"
   },
   {
     "time": "18:22",

@@ -12,6 +12,16 @@
   {
     "time": "22:12",
     "quoteFirst": "It was ",
+    "quoteTime": "twelve minutes after ten",
+    "quoteLast": ".",
+    "title": "The Prince and Betty",
+    "author": "Wodehouse, P. G. (Pelham Grenville), 1881-1975",
+    "gutenbergReference": "6955",
+    "hash": "820dfa3fb84431726b6d7713ad378010cc2e67e8189cef6ae4dffaa2d4d0e2db"
+  },
+  {
+    "time": "22:12",
+    "quoteFirst": "It was ",
     "quoteTime": "twelve minutes past ten",
     "quoteLast": ".",
     "title": "Atlantis",

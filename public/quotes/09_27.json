@@ -1,6 +1,16 @@
 [
   {
     "time": "09:27",
+    "quoteFirst": "A fox was once unkennelled near Boroughbridge in Yorkshire, at ",
+    "quoteTime": "twenty-seven minutes past nine",
+    "quoteLast": ", and except half-an-hour taken up in bolting him from a rabbit-burrow, the hounds had a continued run until fourteen minutes past five in the evening, when they killed the fox in good style.",
+    "title": "Anecdotes of Dogs",
+    "author": "Jesse, Edward, 1780-1868",
+    "gutenbergReference": "26500",
+    "hash": "cedadfeba0d4793f1824fbd31a8af5b78444eb2f496e97c707ca5ca0483d0e8d"
+  },
+  {
+    "time": "09:27",
     "quoteFirst": "From twenty minutes past nine until ",
     "quoteTime": "twenty-seven minutes past nine",
     "quoteLast": ", from twenty-five minutes past eleven until twenty-eight minutes past eleven, from ten minutes to three until two minutes to three the heroes of the school met in a large familiarity whose Olympian laughter awed the fearful small boy that flitted uneasily past and chilled the slouching senior that rashly paused to examine the notices in assertion of an unearned right.",
@@ -18,6 +28,16 @@
     "author": "Grote, George, 1794-1871",
     "gutenbergReference": "51181",
     "hash": "b401ec8f07d3389f190b6e3dd63f8de8c0fdbefbeaeb6578c2ceb4aa225ae8ef"
+  },
+  {
+    "time": "09:27",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty-seven minutes past nine",
+    "quoteLast": " by the clock when the servant shut the door, so that I was three minutes before my time.",
+    "title": "\"Farewell\"",
+    "author": "Stacpoole, William Henry",
+    "gutenbergReference": "45104",
+    "hash": "b24c89002af689d90775b612b272548b33d18aadf91c17eb8385f4c58d0d19ce"
   },
   {
     "time": "09:27",

@@ -11,6 +11,16 @@
   },
   {
     "time": "14:21",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-one minutes past two",
+    "quoteLast": " we resumed our journey; and from twenty-two minutes past to half past eight we descended an irregular stair composed of several ledges, shipping much water.",
+    "title": "The Former Philippines Thru Foreign Eyes",
+    "author": "Craig, Austin, 1872-1949 [Editor]; Comyn, Tomás de; Jagor, Fedor, 1816-1900; Virchow, Rudolf, 1821-1902; Wilkes, Charles, 1798-1877",
+    "gutenbergReference": "10770",
+    "hash": "b2c93a609ac2e2c4dc8793f9cc62be879ce1eb086867725ac090a39615661bd1"
+  },
+  {
+    "time": "14:21",
     "quoteFirst": "At 8.30 on this special mornin' there I am, as I said; and at ",
     "quoteTime": "2.21 P.M.",
     "quoteLast": " the same day I'm---- Well, of course, there was a few preliminaries, though I didn't tag 'em as such when they come along.",
@@ -18,5 +28,15 @@
     "author": "Ford, Sewell, 1868-1946; Lincoln, F. Foster (Frederic Foster) [Illustrator]",
     "gutenbergReference": "20627",
     "hash": "be4f5f0533974f49fff915f4660abf17725d402cc70cf9ee1787e8c54ac66426"
+  },
+  {
+    "time": "14:21",
+    "quoteFirst": "When it is noon in Paris, it is already 56 minutes after midday at Vienna; 1.25 P.M. at Athens; ",
+    "quoteTime": "2.21 P.M.",
+    "quoteLast": " at Moscow; 3.16 P.M. at Teheran; 4.42 P.M. at Bombay; and so on.",
+    "title": "Astronomy for Amateurs",
+    "author": "Flammarion, Camille, 1842-1925; Welby, Frances A. (Frances Alice), 1862-1947 [Translator]",
+    "gutenbergReference": "25267",
+    "hash": "4183c1862f749205d51bf73edbf003ba84cf248e4f7538fde7918d05206df2c8"
   }
 ]

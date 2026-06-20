@@ -1,53 +1,103 @@
 [
   {
     "time": "19:05",
-    "quoteFirst": "Nevertheless, at ",
+    "quoteFirst": "It was not till ",
+    "quoteTime": "five minutes past seven",
+    "quoteLast": " that the gate bell rang, and the agent made his appearance.",
+    "title": "The Woman in White",
+    "author": "Collins, Wilkie, 1824-1889",
+    "gutenbergReference": "583",
+    "hash": "f26e40e4090b9f30328647465b1302136741824e1282f021bb4e770cb75c1dd3"
+  },
+  {
+    "time": "19:05",
+    "quoteFirst": "We got there at ",
+    "quoteTime": "five minutes past seven",
+    "quoteLast": ".",
+    "title": "Roads of Destiny",
+    "author": "Henry, O., 1862-1910",
+    "gutenbergReference": "1646",
+    "hash": "52acc4dbeaf7b021c16df80321f50141cd1bf80b318fcfed3bfb1858c51a9c56"
+  },
+  {
+    "time": "19:05",
+    "quoteFirst": "At ",
+    "quoteTime": "7:05 p. m.",
+    "quoteLast": " the hatchling inside made two additional small slits in the shell, and at 7:30 p.",
+    "title": "Natural History of the Racer Coluber constrictor",
+    "author": "Fitch, Henry S. (Henry Sheldon), 1909-2009",
+    "gutenbergReference": "42676",
+    "hash": "fa976d80ca3eb8826e10f0693d1c84afda792180e46531f4d0b98f21788be87d"
+  },
+  {
+    "time": "19:05",
+    "quoteFirst": "It was ",
+    "quoteTime": "five minutes past seven",
+    "quoteLast": ", besides.",
+    "title": "The Truants",
+    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+    "gutenbergReference": "38685",
+    "hash": "b04a75091d29af92434617c094f5da986588b3c7edea4dfe64e52ec1f0544547"
+  },
+  {
+    "time": "19:05",
+    "quoteFirst": "He consulted his watch—a gold one now—and told me it was only ",
+    "quoteTime": "five minutes past seven",
+    "quoteLast": ".",
+    "title": "Agnes Grey",
+    "author": "Brontë, Anne, 1820-1849",
+    "gutenbergReference": "767",
+    "hash": "312f6459f892f6a5a3a99ce19ec86ee7b2fe189e65da8e525e5ca28627d0d6c1"
+  },
+  {
+    "time": "19:05",
+    "quoteFirst": "\"She left here at ",
+    "quoteTime": "five minutes past seven",
+    "quoteLast": ",\" Jerry answered.",
+    "title": "Marjorie Dean, College Sophomore",
+    "author": "Chase, Josephine, -1931",
+    "gutenbergReference": "22071",
+    "hash": "7c0da3477ef88f3454a51565b5489ceccab3fce1a812d8161fb741870c15c956"
+  },
+  {
+    "time": "19:05",
+    "quoteFirst": "in a letter to a person of quality, in which a detailed account is given of Partridge's death, at ",
+    "quoteTime": "five minutes after seven",
+    "quoteLast": ", by which it is clear that Mr. Bickerstaff was mistaken almost four hours in his calculation....",
+    "title": "The Tatler, Volume 1",
+    "author": "Steele, Richard, Sir, 1672-1729; Addison, Joseph, 1672-1719; Aitken, George Atherton, 1860-1917 [Editor]",
+    "gutenbergReference": "13645",
+    "hash": "bba7ad9362ceea5d4c42028792b054304e5361c7ad1591b48525bdb8beb66e1d"
+  },
+  {
+    "time": "19:05",
+    "quoteFirst": "At ",
     "quoteTime": "five past seven",
-    "quoteLast": " all was perfectly quiet and orderly, although it was obvious that little work was being done.",
-    "title": "The passionate year",
-    "author": "Hilton, James, 1900-1954",
-    "gutenbergReference": "68676",
-    "hash": "f1b5f0b0a8fcb64f74c5a65c81ca4d51638c60b31ab652707145323b3123e527"
+    "quoteLast": " he was still moodily waiting.",
+    "title": "Mightier than the Sword",
+    "author": "Courlander, Alphonse, 1881-1914",
+    "gutenbergReference": "55535",
+    "hash": "b0d5be054585c849b4adcd65bc4d4653f03662f9424147875727aa47aed9f72a"
   },
   {
     "time": "19:05",
-    "quoteFirst": "Tony tried to be on hand at the time appointed, but he had more than usual to do, and it was ",
+    "quoteFirst": "He thought it arrived, on the evening in question, at ",
+    "quoteTime": "5 minutes past 7",
+    "quoteLast": "; but could not say certainly that the 8th of January was the night when the mail arrived at that time, though he had no doubt of it, nor had he looked at his register since that night.",
+    "title": "Ten Years Among the Mail Bags\r\nOr, Notes from the Diary of a Special Agent of the Post-Office Department",
+    "author": "Holbrook, James, 1812-1864",
+    "gutenbergReference": "40840",
+    "hash": "52e187fcb427824459f1b676c5c80a9eac45628a45ccd26609ffc9a0c2c6bcd7"
+  },
+  {
+    "time": "19:05",
+    "quoteFirst": "\"Quite old,\" she replied gravely; \"I was eight at ",
     "quoteTime": "five minutes past seven",
-    "quoteLast": " when he entered the field, accompanied by James.",
-    "title": "Tony, the Hero; Or, A Brave Boy's Adventures with a Tramp",
-    "author": "Alger, Horatio, Jr., 1832-1899",
-    "gutenbergReference": "59904",
-    "hash": "32441c5f3b7f2a72e77c04d5758446cbff834489815ce7a720c3d18e8b96c7ff"
-  },
-  {
-    "time": "19:05",
-    "quoteFirst": "",
-    "quoteTime": "7:05 P. M.",
-    "quoteLast": " It seems safe, until leaving the shelter of the bar, we see that we have to cross an open space before reaching the farmhouse.",
-    "title": "Behind the Scenes in Warring Germany",
-    "author": "Fox, Edward Lyell, 1887-",
-    "gutenbergReference": "40792",
-    "hash": "854668bf6f9e0c01fe33b57502c75e5963dac2e9938e3a0188f10b9c48819032"
-  },
-  {
-    "time": "19:05",
-    "quoteFirst": "This continued while with agonised eyes Esther watched the hands of the big clock on the wall creep from ",
-    "quoteTime": "five minutes past seven",
-    "quoteLast": " to eleven past.",
-    "title": "Juggernaut",
-    "author": "Campbell, Alice, 1887-1976",
-    "gutenbergReference": "27824",
-    "hash": "329b38c14fe6e5a9f56311df1b8df9ead7f07aff7d2f75c5ea5533798934e4c5"
-  },
-  {
-    "time": "19:05",
-    "quoteFirst": "\"'Th' special'll be along about ",
-    "quoteTime": "seven-five",
-    "quoteLast": ", I think,' says Nevins, 'an' it'll be a-comin' a mile a minute.'",
-    "title": "The Young Train Dispatcher",
-    "author": "Stevenson, Burton Egbert, 1872-1962; Button, A. P. [Illustrator]",
-    "gutenbergReference": "55624",
-    "hash": "a435cd41db970c5d57f2a95bdea64352eb95bf6e781fc267c04de3dd8698af58"
+    "quoteLast": " Monday fortnight back.\"",
+    "title": "Daddy's Girl",
+    "author": "Meade, L. T., 1854-1914",
+    "gutenbergReference": "30333",
+    "hash": "32493c94900eaa8c0b6f09c8b2c5a88fe3abd9b9553f1c91112c24b542fe0b4b"
   },
   {
     "time": "19:05",
@@ -61,23 +111,33 @@
   },
   {
     "time": "19:05",
-    "quoteFirst": "I'm thinking you'll look a little strange on your way to breakfast aboard the ",
-    "quoteTime": "seven-five",
-    "quoteLast": " trolley.\"",
-    "title": "I Walked in Arden",
-    "author": "Crawford, Jack Randall, 1878-1968",
-    "gutenbergReference": "35796",
-    "hash": "1370b644ec4b9b39f3e481b78b08527ba9381eea3692f0a3cac8798a00b93956"
+    "quoteFirst": "\"",
+    "quoteTime": "Five minutes after seven",
+    "quoteLast": ".  But, Blix, I should think the right one--the captain--would be all put out himself by seeing another chap here wearing marguerites.  Does either one of 'em seem put out to you? Look.  I should think the captain, whichever one he is, would kind of GLARE at the coincidence.\"",
+    "title": "Blix",
+    "author": "Norris, Frank, 1870-1902",
+    "gutenbergReference": "401",
+    "hash": "fc8c138d661cb7ee6de9495b40bfc1fef91486076b63ab70da5b19618cc901e9"
   },
   {
     "time": "19:05",
-    "quoteFirst": "I'm thinking you'll look a little strange on your way to breakfast aboard the ",
-    "quoteTime": "seven-five",
-    "quoteLast": " trolley.\"",
-    "title": "I Walked in Arden",
-    "author": "Crawford, Jack Randall, 1878-1968",
-    "gutenbergReference": "35796",
-    "hash": "1370b644ec4b9b39f3e481b78b08527ba9381eea3692f0a3cac8798a00b93956"
+    "quoteFirst": "It was not till ",
+    "quoteTime": "five minutes past seven",
+    "quoteLast": " that the gate bell rang, and the agent made his appearance.",
+    "title": "The Woman in White",
+    "author": "Collins, Wilkie, 1824-1889",
+    "gutenbergReference": "583",
+    "hash": "f26e40e4090b9f30328647465b1302136741824e1282f021bb4e770cb75c1dd3"
+  },
+  {
+    "time": "19:05",
+    "quoteFirst": "If you'd been later than ",
+    "quoteTime": "five minutes past seven",
+    "quoteLast": ", I was to keep dark.",
+    "title": "A Court of Inquiry",
+    "author": "Richmond, Grace S. (Grace Smith), 1866-1959",
+    "gutenbergReference": "18489",
+    "hash": "a28cde21bb334618ba9639ee3bedf6d931b3edf0cb8e2ba14d60fc46b17fdf39"
   },
   {
     "time": "19:05",
@@ -91,12 +151,52 @@
   },
   {
     "time": "19:05",
-    "quoteFirst": "\"She left here at ",
-    "quoteTime": "five minutes past seven",
-    "quoteLast": ",\" Jerry answered.",
-    "title": "Marjorie Dean, College Sophomore",
-    "author": "Chase, Josephine, -1931",
-    "gutenbergReference": "22071",
-    "hash": "7c0da3477ef88f3454a51565b5489ceccab3fce1a812d8161fb741870c15c956"
+    "quoteFirst": ", which was passed over to me at ",
+    "quoteTime": "7:05 p.m.",
+    "quoteLast": " The actual complaint was signed at 7:04 p.m. and I arraigned Lee Harvey Oswald at 7:10 p.m. on November 22, 1963, advising him of his constitutional rights and that he had to make no statement at all, and that any statement he made may be used in evidence against him for the offense concerning which this affidavit was taken, and remanded the defendant to the custody of the sheriff of Dallas County, Tex.",
+    "title": "Warren Commission (15 of 26): Hearings Vol. XV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "58030",
+    "hash": "fcb136185fec8747198b2985ef154fdbe2e7080fb1345f876cbf135623db8e0b"
+  },
+  {
+    "time": "19:05",
+    "quoteFirst": "He thought it arrived, on the evening in question, at ",
+    "quoteTime": "5 minutes past 7",
+    "quoteLast": "; but could not say certainly that the 8th of January was the night when the mail arrived at that time, though he had no doubt of it, nor had he looked at his register since that night.",
+    "title": "Ten Years Among the Mail Bags\r\nOr, Notes from the Diary of a Special Agent of the Post-Office Department",
+    "author": "Holbrook, James, 1812-1864",
+    "gutenbergReference": "40840",
+    "hash": "52e187fcb427824459f1b676c5c80a9eac45628a45ccd26609ffc9a0c2c6bcd7"
+  },
+  {
+    "time": "19:05",
+    "quoteFirst": "At ",
+    "quoteTime": "five past seven",
+    "quoteLast": " he was still moodily waiting.",
+    "title": "Mightier than the Sword",
+    "author": "Courlander, Alphonse, 1881-1914",
+    "gutenbergReference": "55535",
+    "hash": "b0d5be054585c849b4adcd65bc4d4653f03662f9424147875727aa47aed9f72a"
+  },
+  {
+    "time": "19:05",
+    "quoteFirst": "It said ",
+    "quoteTime": "five minutes after seven",
+    "quoteLast": ".",
+    "title": "Stubble",
+    "author": "Looms, George, 1886-1926",
+    "gutenbergReference": "25158",
+    "hash": "a71228cd8edbb363b1a68ced854e6349253ab940dde3554a54c3eaf92accf9bf"
+  },
+  {
+    "time": "19:05",
+    "quoteFirst": "\"At ",
+    "quoteTime": "7.05 P.M.",
+    "quoteLast": " I sent the following telegram:",
+    "title": "Cyrus W. Field, His Life and Work [1819-1892]",
+    "author": "Judson, Isabella Field, 1846- [Editor]",
+    "gutenbergReference": "43753",
+    "hash": "557c4b64ba29239d319b2d11422d20aa6f840c9e9929e2a768a87a4d310dc36d"
   }
 ]

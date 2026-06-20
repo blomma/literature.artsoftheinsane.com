@@ -1,102 +1,202 @@
 [
   {
     "time": "03:10",
-    "quoteFirst": "I'm off for Stockholm at ",
+    "quoteFirst": "\"Come along, Eugen,\" cried I, \"we have just time to catch the ",
+    "quoteTime": "three-ten",
+    "quoteLast": ", but only just.\"",
+    "title": "The first violin: A novel",
+    "author": "Fothergill, Jessie, 1851-1891",
+    "gutenbergReference": "29219",
+    "hash": "7f900b5df1afabee0c31d81604b3c3cf3639af4660f1dc83bba38fc015333fc4"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "Mabel said, \"Just fancy, Mrs. Smith in a sable stole at church last Sunday, and I know for a fact that he only gets ",
+    "quoteTime": "three-ten",
+    "quoteLast": ". If it was real sable it was wicked, and if it was not she was acting a lie.\"",
+    "title": "If Winter Don't\r\nA.B.C.D.E.F. Notsomuchinson",
+    "author": "Pain, Barry, 1864-1928",
+    "gutenbergReference": "27375",
+    "hash": "61b620bad1a01474e098107de7b91bd137b9f35651305004b4c8516b9734c07e"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "When ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": " came, and no Starr, I was certain that they would not have me.",
+    "title": "The Chauffeur and the Chaperon",
+    "author": "Williamson, C. N. (Charles Norris), 1859-1920; Williamson, A. M. (Alice Muriel), 1869-1933; Anderson, Karl, 1874-1956 [Illustrator]",
+    "gutenbergReference": "21529",
+    "hash": "5ea656506421f529fabb3e6ff2ade13fa0b4fa408431e6c88fcdafe467fcbd3d"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "Got to attend a meeting at ",
+    "quoteTime": "three-ten",
+    "quoteLast": ".",
+    "title": "The reckoning",
+    "author": "Wilde, Percival, 1887-1953",
+    "gutenbergReference": "19931",
+    "hash": "78fb8a0bcb61336646a8364492074de3ffd9c1d67caac622cd8f9fee48dadf53"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "Whereas at present, if the ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": " train steams gently out at twenty minutes to four, or even four o'clock, we do not fall much in the esteem of the public, accustomed to the free and easy methods of the stage-coach.\"",
+    "title": "The Strand Magazine, Vol. 27, February 1904, No. 159.",
+    "author": "Various",
+    "gutenbergReference": "47642",
+    "hash": "57c75756b5bdf11861e69b5b4128d6fbc0268bb74e22bfaf0c492ecc0fa1ecc4"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "“",
+    "quoteTime": "Ten past three",
+    "quoteLast": ". It’s the invasion of England! Is Dollmann at the villa?”",
+    "title": "The Riddle of the Sands",
+    "author": "Childers, Erskine, 1870-1922",
+    "gutenbergReference": "2360",
+    "hash": "721463e296fd0e7cfcbd5a1c51b9478f3e617bfc929f5b8a8f3f435bace2e674"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "\"That young brother of mine's coming down by the ",
     "quoteTime": "three-ten",
     "quoteLast": ".\"",
-    "title": "The atom curtain",
-    "author": "Williams, Nick B. (Nick Boddie), 1906-1992",
-    "gutenbergReference": "73135",
-    "hash": "578861fe5ddeed464ff5727b959456e4d10c7ba6719536fad1062179c70620ba"
+    "title": "Ambrotox and Limping Dick",
+    "author": "Fleming, Oliver",
+    "gutenbergReference": "20119",
+    "hash": "5b1e36e94d148674f835414d1d096827c523e8ebf98d2ab87482270600b22549"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "\"There,\" he said, as he handed one to his father, \"there is a blue print of the man taken in this office at ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": " yesterday afternoon, just as he was about to open the safe in the corner. You see he is kneeling with his hand on the lock, but apparently just then something alarmed him and he cast a hasty glance over his shoulder. At that second the photograph was taken, and so we have a full-face portrait of the man.\"",
+    "title": "Tales of Fantasy and Fact",
+    "author": "Matthews, Brander, 1852-1929",
+    "gutenbergReference": "23678",
+    "hash": "2b596324a9a68900d72f9d23ec95f040622ec6e1035a771027ef0fccc8566b75"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "“",
+    "quoteTime": "Ten past three",
+    "quoteLast": ". It’s the invasion of England! Is Dollmann at the villa?”",
+    "title": "The Riddle of the Sands",
+    "author": "Childers, Erskine, 1870-1922",
+    "gutenbergReference": "2360",
+    "hash": "721463e296fd0e7cfcbd5a1c51b9478f3e617bfc929f5b8a8f3f435bace2e674"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "“",
+    "quoteTime": "Ten past three",
+    "quoteLast": ". It’s the invasion of England! Is Dollmann at the villa?”",
+    "title": "The Riddle of the Sands",
+    "author": "Childers, Erskine, 1870-1922",
+    "gutenbergReference": "2360",
+    "hash": "721463e296fd0e7cfcbd5a1c51b9478f3e617bfc929f5b8a8f3f435bace2e674"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "Got to attend a meeting at ",
+    "quoteTime": "three-ten",
+    "quoteLast": ".",
+    "title": "The reckoning",
+    "author": "Wilde, Percival, 1887-1953",
+    "gutenbergReference": "19931",
+    "hash": "78fb8a0bcb61336646a8364492074de3ffd9c1d67caac622cd8f9fee48dadf53"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "After we had fed, and smoked our cigars (lighted without difficulty from a common match), we found it was ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": ", and high time to be off.",
+    "title": "The Ascent of the Matterhorn",
+    "author": "Whymper, Edward, 1840-1911",
+    "gutenbergReference": "38044",
+    "hash": "6fe846f5f64f1235e284da32aff9d6732114787425a9b61d17cf1f065f421293"
   },
   {
     "time": "03:10",
     "quoteFirst": "At ",
     "quoteTime": "ten minutes past three",
-    "quoteLast": " the clock and the camera took his photograph--in the twinkling of an eye.",
-    "title": "Tales of Fantasy and Fact",
-    "author": "Matthews, Brander, 1852-1929",
-    "gutenbergReference": "23678",
-    "hash": "6e5f7246f1e8c3c1874fbc683eb55974bcefdde613df0117ca2119df23da33a0"
+    "quoteLast": " in a large rather confused hat with a black bird and white feathers Mrs. Trenchard was seated waiting in the drawing-room.",
+    "title": "The Green Mirror: A Quiet Story",
+    "author": "Walpole, Hugh, 1884-1941",
+    "gutenbergReference": "60327",
+    "hash": "fa72aa239517b7fd242f6d268665f344be495edf10fb58a04d9fadac2f61b12d"
   },
   {
     "time": "03:10",
-    "quoteFirst": "“That would be about ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": ".”",
-    "title": "Murder in the maze",
-    "author": "Connington, J. J., 1880-1947",
-    "gutenbergReference": "71351",
-    "hash": "44f7fe82b2c3de8fd03d8010c192e4d3f8fbf140990dfa7f9a0af5cfd05c39b2"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "",
-    "quoteTime": "Ten minutes past three",
-    "quoteLast": " by Lambeth parish church, and no Mr. Ackroyd.",
-    "title": "Thyrza",
-    "author": "Gissing, George, 1857-1903",
-    "gutenbergReference": "4302",
-    "hash": "7f7fa8696d48f616e3d4e101ae27eb16a6d815082b5cbaa56b8c5f2f7cd7f0eb"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "“It doesn’t leave till ",
+    "quoteFirst": "At ",
     "quoteTime": "three-ten",
-    "quoteLast": ".”",
-    "title": "Roy Blakeley's roundabout hike",
-    "author": "Fitzhugh, Percy Keese, 1876-1950; Barbour, Harold S., 1889-1961 [Illustrator]",
-    "gutenbergReference": "75164",
-    "hash": "9788da2306f2e79bc0ef9794e32f755b28df478038543b1d43c52f4c6163adcf"
+    "quoteLast": " we begin the hunt; we go seven miles towards the first blow, when there is a shout from the look-out in the crow’s nest, and we find big spouts within a mile from our left.",
+    "title": "Modern Whaling & Bear-Hunting\r\nA record of present-day whaling with up-to-date appliances in many parts of the world, and of bear and seal hunting in the Arctic regions",
+    "author": "Burn Murdoch, W. G. (William Gordon), 1862-1939",
+    "gutenbergReference": "67446",
+    "hash": "949a6e6f8948977e0e77e335d2fd9af8f02fd9d4c8c5de34881ec5270071e667"
   },
   {
     "time": "03:10",
-    "quoteFirst": "I'll let him know that we'll be down at his office with an ambulance at ",
+    "quoteFirst": "After we had fed and smoked our cigars (lighted without difficulty from a common match), we found it was ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": ", and high time to be off.",
+    "title": "Scrambles Amongst the Alps in the Years 1860-69",
+    "author": "Whymper, Edward, 1840-1911",
+    "gutenbergReference": "41234",
+    "hash": "7b99f6e679b992c5623c9b4aee013ddf5de0fa142ee8cdf483c16cb8a3114feb"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "On one half of the dial we have acted quite scientifically in saying it is ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": " or half-past three, but the moment the point of the half hour is reached we act in a different manner.",
+    "title": "Chats on Old Clocks",
+    "author": "Hayden, Arthur, 1868-1946",
+    "gutenbergReference": "45772",
+    "hash": "35fb08055a7d32c75e8326397b3f32ad8084b254055b12e11449780482e31d04"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "“Your clock says ",
+    "quoteTime": "ten minutes after three",
+    "quoteLast": " right now!”",
+    "title": "The testing of Janice Day",
+    "author": "Long, Helen Beecher; Turner, Corinne [Illustrator]",
+    "gutenbergReference": "69791",
+    "hash": "24c1e160ea13ccc17a4dd0879b80e320029dd93bd402b58fe080274a6efd3987"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "At ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": " in a large rather confused hat with a black bird and white feathers Mrs. Trenchard was seated waiting in the drawing-room.",
+    "title": "The Green Mirror: A Quiet Story",
+    "author": "Walpole, Hugh, 1884-1941",
+    "gutenbergReference": "60327",
+    "hash": "fa72aa239517b7fd242f6d268665f344be495edf10fb58a04d9fadac2f61b12d"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "At a quarter to eleven there was her crew, as many as might be--we could hear 'em singing and laughing as we pulled across the water to 'em--and at ",
+    "quoteTime": "ten minutes past three",
+    "quoteLast": " there wasn't a mother's son of them all alive; and no noise, mind you.",
+    "title": "The Watchers: A Novel",
+    "author": "Mason, A. E. W. (Alfred Edward Woodley), 1865-1948",
+    "gutenbergReference": "38693",
+    "hash": "8bd4a1067903fc250f90804c0644926b8ba9a3aedffd9250de7d8361efc26457"
+  },
+  {
+    "time": "03:10",
+    "quoteFirst": "So it was that at ",
     "quoteTime": "three-ten",
-    "quoteLast": ".",
-    "title": "The Last Penny",
-    "author": "Lefevre, Edwin, 1871-1943",
-    "gutenbergReference": "51966",
-    "hash": "eda08f7c6df6e0a87d531713327a6c9c03ae632825849530dea43489fb96820a"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "\"I'll hurry right back; I'll be here by ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": ".\"",
-    "title": "Through the Wall",
-    "author": "Moffett, Cleveland, 1863-1926",
-    "gutenbergReference": "11373",
-    "hash": "f24f27b6344ea062fa2465e951f23caa9595a277858662935ed634a4e9a76031"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "It was ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": ".",
-    "title": "The Shadow of Ashlydyat",
-    "author": "Wood, Henry, Mrs., 1814-1887",
-    "gutenbergReference": "42200",
-    "hash": "e6589e6604fc429c0ce26ef8d681ef443c08f0ee590404f2e2f01df0ed9a2984"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "By ",
-    "quoteTime": "ten minutes past three",
-    "quoteLast": " the various documents were sealed and signed.",
-    "title": "The Airship \"Golden Hind\"",
-    "author": "Westerman, Percy F. (Percy Francis), 1876-1959; Williams, Fleming [Illustrator]",
-    "gutenbergReference": "39488",
-    "hash": "29ea884596a2411032f5c8ee3bd1f6f2b9b2bcac906c15de421473489297fd44"
-  },
-  {
-    "time": "03:10",
-    "quoteFirst": "_Received_ ",
-    "quoteTime": "3.10 a.m.",
-    "quoteLast": ", _3rd November_.)",
-    "title": "The World Crisis, Volume 1 (of 6)",
-    "author": "Churchill, Winston, 1874-1965",
-    "gutenbergReference": "59794",
-    "hash": "b919b7d15a9be45c6e096db691c2c465d628b3fef9caec0c38a14ce01a49a224"
+    "quoteLast": " Jock McChesney took himself, his hopes, his dread, and his smart walrus bag aboard a train that halted and snuffed and backed, and bumped and halted with maddening frequency.",
+    "title": "Personality Plus: Some Experiences of Emma McChesney and Her Son, Jock",
+    "author": "Ferber, Edna, 1885-1968; Flagg, James Montgomery, 1877-1960 [Illustrator]",
+    "gutenbergReference": "12677",
+    "hash": "c26f73ea57817310aaf46e62ce511186df71423a8c1f43f223b1f35a899a9cbc"
   }
 ]

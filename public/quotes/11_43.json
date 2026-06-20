@@ -21,6 +21,16 @@
   },
   {
     "time": "11:43",
+    "quoteFirst": "The clock stood at ",
+    "quoteTime": "seventeen minutes to twelve",
+    "quoteLast": ".",
+    "title": "The children of Alsace",
+    "author": "Bazin, René, 1853-1932",
+    "gutenbergReference": "34957",
+    "hash": "ace65cf8edc697eab238c0708d36ec5c738fdebdbbe393d5cece6022dcd0ebba"
+  },
+  {
+    "time": "11:43",
     "quoteFirst": "Day Express      Due 10 A.M.  Arrived ",
     "quoteTime": "11.43 A.M.",
     "quoteLast": "  Late 1 hour 43 min.",
@@ -31,6 +41,16 @@
   },
   {
     "time": "11:43",
+    "quoteFirst": "Each time she worked at the nest only fifteen to twenty seconds, until the last trip (at ",
+    "quoteTime": "11:43 A. M.",
+    "quoteLast": ") when she worked about two minutes and then departed, probably to feed, for she did not return again while I watched.",
+    "title": "Life histories of North American wood warblers, Part 1 (of 2)",
+    "author": "Bent, Arthur Cleveland, 1866-1954; Tyler, Winsor Marrett, 1876-1954 [Contributor]",
+    "gutenbergReference": "40100",
+    "hash": "e38f09e580c826cd6c8268a785b0724e5b799a63cd106deddde6e6b349ace8e3"
+  },
+  {
+    "time": "11:43",
     "quoteFirst": "At ",
     "quoteTime": "forty-three minutes past eleven",
     "quoteLast": " the discs of the two luminaries ought to be exactly opposite to each other, that of the moon completely hiding that of the sun.",
@@ -38,5 +58,25 @@
     "author": "Verne, Jules, 1828-1905; D'Anvers, N., 1844-1933 [Translator]",
     "gutenbergReference": "8991",
     "hash": "4287b3818d18a29ebe85754398b1ddca88b2c302c3029c9ae48d7d715e352d7e"
+  },
+  {
+    "time": "11:43",
+    "quoteFirst": "“",
+    "quoteTime": "Forty-three minutes past eleven",
+    "quoteLast": ",” announced Hobson, who was attentively watching the minute hand of his chronometer.",
+    "title": "The Fur Country: Or, Seventy Degrees North Latitude",
+    "author": "Verne, Jules, 1828-1905; D'Anvers, N., 1844-1933 [Translator]",
+    "gutenbergReference": "8991",
+    "hash": "7c1a333ff4d8d7365726030b9bfba063e61656052c88e60cc8d600253771fc45"
+  },
+  {
+    "time": "11:43",
+    "quoteFirst": "\"",
+    "quoteTime": "Seventeen minutes of twelve",
+    "quoteLast": ",\" announced the shipowner's son.",
+    "title": "Dave Porter At Bear Camp; Or, The Wild Man of Mirror Lake",
+    "author": "Stratemeyer, Edward, 1862-1930; Rogers, Walter S. (Walter Stanton), 1870-1937 [Illustrator]",
+    "gutenbergReference": "29859",
+    "hash": "7b4147c3cccc5d4bcb6eb2e177535624c6482c74813909b0aa6feb22ad7c49b7"
   }
 ]

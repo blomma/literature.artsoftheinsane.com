@@ -1,16 +1,6 @@
 [
   {
     "time": "05:12",
-    "quoteFirst": "On Wednesday morning, April 18, 1906, at ",
-    "quoteTime": "twelve minutes past five",
-    "quoteLast": " o’clock, San Francisco, this city of wonderful setting, suffered an earthquake whose sensible duration was about one minute.",
-    "title": "San Francisco Relief Survey; the organization and methods of relief used after the earthquake and fire of April 18, 1906",
-    "author": "O'Connor, Charles J. (Charles James), 1870- [Contributor]; Artieda, Helen Swett, 1875-1938 [Contributor]; Coolidge, Mary Roberts, 1860-1945 [Contributor]; McLean, Francis H. (Francis Herbert), 1869-1945 [Contributor]; Motley, James M. (James Marvin), 1877-1954 [Contributor]; Peixotto, Jessica B. (Jessica Blanche), 1864-1941 [Contributor]",
-    "gutenbergReference": "56217",
-    "hash": "d98e218cd7b1dc1bb6ea3c1b4ef6a20ef22b77a2d6ffcc4f23a7dcb5a282d4ff"
-  },
-  {
-    "time": "05:12",
     "quoteFirst": "At ",
     "quoteTime": "twelve minutes after five",
     "quoteLast": ", Mr. White landed at Hademore, having completed two thirds of the entire journey.",
@@ -28,6 +18,16 @@
     "author": "Miles, Henry Downes, 1806-1889",
     "gutenbergReference": "64111",
     "hash": "ec8d4b1aa8cff1c6942a94fe06e565f7dea3365015c20b21d3d38ed2f4180a37"
+  },
+  {
+    "time": "05:12",
+    "quoteFirst": "\"",
+    "quoteTime": "Twelve minutes past five",
+    "quoteLast": " now. Say, we've been twelve minutes getting you, that leaves five hours. We'll stay here and rest our horses. At twelve minutes past ten we'll start again. That suit you, boys?\"",
+    "title": "Short stories from Life: The 81 prize stories in \"Life's\" Shortest Story Contest",
+    "author": "Masson, Thomas L., 1866-1934 [Author of introduction, etc.]",
+    "gutenbergReference": "68085",
+    "hash": "4f94ca03f92cf128dd6c360f9dc5eb0971a2e7925a69bc9afc90b6d69e38ba6d"
   },
   {
     "time": "05:12",

@@ -1,6 +1,26 @@
 [
   {
     "time": "23:31",
+    "quoteFirst": "\"AT EXACTLY ",
+    "quoteTime": "TWENTY-NINE MINUTES TO TWELVE",
+    "quoteLast": " MR. MURRAY WILL BE DEAD. I got the harmless one. I can tell by the taste.\"",
+    "title": "Danny's Own Story",
+    "author": "Marquis, Don, 1878-1937",
+    "gutenbergReference": "587",
+    "hash": "e7a3cdef2e5c92bb1e9b6d461b7248e4322e9239f3a0af18642dab4cbe62ec45"
+  },
+  {
+    "time": "23:31",
+    "quoteFirst": "“_At exactly ",
+    "quoteTime": "twenty-nine minutes to twelve",
+    "quoteLast": " Mr. Murray will be dead_. I got the harmless one. I can tell by the taste.”",
+    "title": "Danny's Own Story",
+    "author": "Marquis, Don, 1878-1937; Kemble, E. W. (Edward Windsor), 1861-1933 [Illustrator]",
+    "gutenbergReference": "51925",
+    "hash": "0001a3d7c2c18f693cf56d1d0b11f21e4ba43186852283d50f4a0bc5b82563c2"
+  },
+  {
+    "time": "23:31",
     "quoteFirst": "The men moved out in two parties so as to be in position outside our wire at ",
     "quoteTime": "11.31 p.m.",
     "quoteLast": ", at which moment an intense bombardment commenced, directed on the points to be assaulted.",

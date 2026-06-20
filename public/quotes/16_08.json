@@ -1,26 +1,6 @@
 [
   {
     "time": "16:08",
-    "quoteFirst": "The testimony of William J. Newman was taken at ",
-    "quoteTime": "4:08 p.m.",
-    "quoteLast": ", on March 26, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex.",
-    "title": "Warren Commission (12 of 26): Hearings Vol. XII (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44012",
-    "hash": "bc25539ac6b015c5b3f01aa0da7e64f1dfd17a0012a909bcf7d423c170bd609f"
-  },
-  {
-    "time": "16:08",
-    "quoteFirst": "It showed the hour at ",
-    "quoteTime": "eight minutes past four",
-    "quoteLast": ".",
-    "title": "The crime at Black Dudley",
-    "author": "Allingham, Margery, 1904-1966",
-    "gutenbergReference": "75359",
-    "hash": "7f71a724ce432441f761b38c1507e532c2a5e0eac2696b4e5d8d78d1fb67da9b"
-  },
-  {
-    "time": "16:08",
     "quoteFirst": ", convulsions after injection of 9 cc 2 per cent caffein in 14 minutes; ",
     "quoteTime": "4.08 p. m.",
     "quoteLast": ", convulsions after injection of 7 cc caffein in 8 minutes; 4.10 to 4.12 p.",
@@ -31,13 +11,13 @@
   },
   {
     "time": "16:08",
-    "quoteFirst": "It showed the hour at ",
-    "quoteTime": "eight minutes past four",
+    "quoteFirst": "The two ollas were begun at eleven o’clock in the morning; the second of the two was set aside completed at ",
+    "quoteTime": "eight minutes past four in the afternoon",
     "quoteLast": ".",
-    "title": "The crime at Black Dudley",
-    "author": "Allingham, Margery, 1904-1966",
-    "gutenbergReference": "75359",
-    "hash": "7f71a724ce432441f761b38c1507e532c2a5e0eac2696b4e5d8d78d1fb67da9b"
+    "title": "Pueblo pottery making: a study at the village of San Ildefonso",
+    "author": "Guthe, Carl E. (Carl Eugen), 1893-1974",
+    "gutenbergReference": "67221",
+    "hash": "824ed4500043e4f15beaae90f86e4ec658b561df9eebc56cb6253d39654261da"
   },
   {
     "time": "16:08",
@@ -48,6 +28,26 @@
     "author": "Allingham, Margery, 1904-1966",
     "gutenbergReference": "75359",
     "hash": "7f71a724ce432441f761b38c1507e532c2a5e0eac2696b4e5d8d78d1fb67da9b"
+  },
+  {
+    "time": "16:08",
+    "quoteFirst": "_At ",
+    "quoteTime": "eight minutes past four",
+    "quoteLast": ",_ THE JANITOR, _after smoothing his hair with his hands and putting on a pair of detachable cuffs, emerges from the wings and crosses the stage, his shoes squeaking hideously at each step.",
+    "title": "A Book of Burlesques",
+    "author": "Mencken, H. L. (Henry Louis), 1880-1956",
+    "gutenbergReference": "22145",
+    "hash": "59209c9690236416d860953d34a257f49340e5bd3be78c08dfe9adbc27e3ecb0"
+  },
+  {
+    "time": "16:08",
+    "quoteFirst": "The testimony of William J. Newman was taken at ",
+    "quoteTime": "4:08 p.m.",
+    "quoteLast": ", on March 26, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex.",
+    "title": "Warren Commission (12 of 26): Hearings Vol. XII (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "44012",
+    "hash": "bc25539ac6b015c5b3f01aa0da7e64f1dfd17a0012a909bcf7d423c170bd609f"
   },
   {
     "time": "16:08",
@@ -61,42 +61,52 @@
   },
   {
     "time": "16:08",
-    "quoteFirst": "_At ",
+    "quoteFirst": "“It’s only ",
     "quoteTime": "eight minutes past four",
-    "quoteLast": ",_ THE JANITOR, _after smoothing his hair with his hands and putting on a pair of detachable cuffs, emerges from the wings and crosses the stage, his shoes squeaking hideously at each step.",
-    "title": "A Book of Burlesques",
-    "author": "Mencken, H. L. (Henry Louis), 1880-1956",
-    "gutenbergReference": "22145",
-    "hash": "59209c9690236416d860953d34a257f49340e5bd3be78c08dfe9adbc27e3ecb0"
+    "quoteLast": ". There is plenty of time.”",
+    "title": "The Irrational Knot\nBeing the Second Novel of His Nonage",
+    "author": "Shaw, Bernard, 1856-1950",
+    "gutenbergReference": "11354",
+    "hash": "52eb95d4e93e2833958beac23e0ef66f3900537e2b14b43cba17673060e6c7ce"
   },
   {
     "time": "16:08",
-    "quoteFirst": "The testimony of William J. Newman was taken at ",
-    "quoteTime": "4:08 p.m.",
-    "quoteLast": ", on March 26, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex.",
-    "title": "Warren Commission (12 of 26): Hearings Vol. XII (of 15)",
+    "quoteFirst": "9.11 to 9.24 a.m. 9.34 to 9.41 a.m. 9.50 to 9.57 a.m. 10.07 to 10.14 a.m. 11.03 to 11.16 a.m. Noon to 12.03 p.m. 12.58 to 1.11 p.m. 2.51 to 3.04 p.m. 3.55 to ",
+    "quoteTime": "4.08 p.m.",
+    "quoteLast": " 4.09 to 4.22 p.m. 4.23 to 4.36 p.m. 19·4 22·7 25·3 26·5 26·3 26·4 27·6 23·0 17·6 15·5 12·0 69·0 81·0 87·5 91·5 89·0 90·0 94·0 93·0 91·5 93·5 93·7 16·4706 16·5937 17·3558 17·5695 17·5251 17·8144 17·9676 15·0880 11·6688 11·0215   7·8360",
+    "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+    "author": "Hooker, Joseph Dalton, 1817-1911",
+    "gutenbergReference": "6478",
+    "hash": "19bc39d7744ba9ddad07dcbe90053c6f983a54619efc6e60f974cf704be9d973"
+  },
+  {
+    "time": "16:08",
+    "quoteFirst": "(Reporter’s note: ",
+    "quoteTime": "4.08 p.m.",
+    "quoteLast": ")",
+    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
     "author": "United States. Warren Commission",
-    "gutenbergReference": "44012",
-    "hash": "bc25539ac6b015c5b3f01aa0da7e64f1dfd17a0012a909bcf7d423c170bd609f"
+    "gutenbergReference": "56190",
+    "hash": "8efd4f8fb4f32f033d444807f771f42a87ea30d145a0a893d9f177d8b599ab67"
   },
   {
     "time": "16:08",
-    "quoteFirst": "It showed the hour at ",
+    "quoteFirst": "It was this that enabled them, with their inferior speed, to come into action at ",
     "quoteTime": "eight minutes past four",
+    "quoteLast": ", though only then at the very long range of 20,000 yards.",
+    "title": "The British Navy in Battle",
+    "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
+    "gutenbergReference": "54441",
+    "hash": "9c57d54b69aab24caeb52f6e4e9141bcdcde8f9b7bf268d4916347c0d01eca80"
+  },
+  {
+    "time": "16:08",
+    "quoteFirst": "Nothing of the enemy, though, was visible even from the mast-head of the battle-fleet, until, at ",
+    "quoteTime": "eight minutes after four",
     "quoteLast": ".",
-    "title": "The crime at Black Dudley",
-    "author": "Allingham, Margery, 1904-1966",
-    "gutenbergReference": "75359",
-    "hash": "7f71a724ce432441f761b38c1507e532c2a5e0eac2696b4e5d8d78d1fb67da9b"
-  },
-  {
-    "time": "16:08",
-    "quoteFirst": "_At ",
-    "quoteTime": "eight minutes past four",
-    "quoteLast": ",_ THE JANITOR, _after smoothing his hair with his hands and putting on a pair of detachable cuffs, emerges from the wings and crosses the stage, his shoes squeaking hideously at each step.",
-    "title": "A Book of Burlesques",
-    "author": "Mencken, H. L. (Henry Louis), 1880-1956",
-    "gutenbergReference": "22145",
-    "hash": "59209c9690236416d860953d34a257f49340e5bd3be78c08dfe9adbc27e3ecb0"
+    "title": "Famous Fighters of the Fleet\nGlimpses through the Cannon Smoke in the Days of the Old Navy",
+    "author": "Fraser, Edward, 1859?-",
+    "gutenbergReference": "59423",
+    "hash": "6266f2fbc7ef456c93c0b2b5a69695d6a2bbdca63476316ef1175833010efc48"
   }
 ]

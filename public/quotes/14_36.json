@@ -1,6 +1,16 @@
 [
   {
     "time": "14:36",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-four minutes to three",
+    "quoteLast": " the baron flung out the last damning phrase (with the appropriate splendid gesture) at his image in the looking-glass over the mantelpiece.",
+    "title": "Happy Pollyooly: The Rich Little Poor Girl",
+    "author": "Jepson, Edgar, 1863-1938; Birch, Reginald B. (Reginald Bathurst), 1856-1943 [Illustrator]",
+    "gutenbergReference": "19310",
+    "hash": "091ea77b5f111ef258e538aa5323bb0c8048bda20d379d2810d8de688cbfd62e"
+  },
+  {
+    "time": "14:36",
     "quoteFirst": "At twenty-one minutes past two on the afternoon of July 30th the _Agamemnon_ signalled that she had passed her one-hundred-and-fifty-mile limit, and at ",
     "quoteTime": "twenty-four minutes of three",
     "quoteLast": " the same was reported on the _Niagara_.",
@@ -8,6 +18,16 @@
     "author": "Judson, Isabella Field, 1846- [Editor]",
     "gutenbergReference": "43753",
     "hash": "7b6cc328252f3aeb4ef46f181225633a6e25ddc6df0b8ceffd07be18de6e7543"
+  },
+  {
+    "time": "14:36",
+    "quoteFirst": "",
+    "quoteTime": "2.36 P.M.",
+    "quoteLast": ").\"",
+    "title": "Letters and Literary Memorials of Samuel J. Tilden, v. 2",
+    "author": "Tilden, Samuel J. (Samuel Jones), 1814-1886; Bigelow, John, 1817-1911 [Editor]",
+    "gutenbergReference": "47317",
+    "hash": "56e0f278e19e837cbc989be3e82251c6ed45c9c74b662569952495b371dfc0ec"
   },
   {
     "time": "14:36",

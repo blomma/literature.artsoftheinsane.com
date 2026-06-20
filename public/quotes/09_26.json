@@ -1,6 +1,16 @@
 [
   {
     "time": "09:26",
+    "quoteFirst": "9.50 A. M.—From Admiral Knapp: “NC-4 arrived at Plymouth at 14.26.31, English civil time (",
+    "quoteTime": "9.26 A. M.",
+    "quoteLast": " New York time).”",
+    "title": "Aircraft",
+    "author": "David, Evan John, 1877-1961",
+    "gutenbergReference": "74358",
+    "hash": "d8c72ea05dc2134a3379469837370f121888ed0758e023c9b41e462cd241deb7"
+  },
+  {
+    "time": "09:26",
     "quoteFirst": "The New Haven railroad recently, on the occasion of the Harvard-Yale game and the inauguration of Yale Bowl, brought sixty-five trains carrying 33,409 passengers into New Haven between ",
     "quoteTime": "9:26 A.M.",
     "quoteLast": " and 2:00 P.M.--the record passenger movement in the history of American railroading.",
@@ -38,6 +48,16 @@
     "author": "Sternig, Larry, 1908-1999",
     "gutenbergReference": "63657",
     "hash": "f436bca25694d6e32c5fce1923cd4debd8ad46de4e6e6ca1b6de4cd185d44438"
+  },
+  {
+    "time": "09:26",
+    "quoteFirst": "“It’s ",
+    "quoteTime": "twenty-six minutes after nine",
+    "quoteLast": " o’clock.”",
+    "title": "The Boy Aeronauts' Club; or, Flying for Fun",
+    "author": "Sayler, H. L. (Harry Lincoln), 1863-1913; Riesenberg, Sidney H., 1885-1971 [Illustrator]",
+    "gutenbergReference": "57000",
+    "hash": "d6b69559ec1ee6c7ccfa08da833aa08457768c40f0e02a1a0803d6da13d272a1"
   },
   {
     "time": "09:26",

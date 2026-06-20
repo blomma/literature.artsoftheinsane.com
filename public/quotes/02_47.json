@@ -61,6 +61,26 @@
   },
   {
     "time": "02:47",
+    "quoteFirst": "It was now only ",
+    "quoteTime": "thirteen minutes of three",
+    "quoteLast": " o'clock.",
+    "title": "Active Service",
+    "author": "Crane, Stephen, 1871-1900",
+    "gutenbergReference": "2364",
+    "hash": "ab1758cbc42b1b534d58aa61dd2b288acfebdfac44687b5fdb4960fd0eb6c739"
+  },
+  {
+    "time": "02:47",
+    "quoteFirst": "No delay occurred, and Dick, attended by his seconds, Paddington Jones and Ballard, and Street by Dolly Smith and Lancaster, appeared within the ropes at ",
+    "quoteTime": "thirteen minutes to three",
+    "quoteLast": " o’clock, and fought as follows:—",
+    "title": "Pugilistica: The History of British Boxing, Volume 1 (of 3)\r\nContaining Lives of the Most Celebrated Pugilists; Full Reports of Their Battles from Contemporary Newspapers, With Authentic Portraits, Personal Anecdotes, and Sketches of the Principal Patrons of the Prize Ring, Forming a Complete History of the Ring from Fig and Broughton, 1719-40, to the Last Championship Battle Between King and Heenan, in December 1863",
+    "author": "Miles, Henry Downes, 1806-1889",
+    "gutenbergReference": "59465",
+    "hash": "8f545c5a03b5e7c46a05c58354dacdf39815421445bf4aa340c11b0eae98f747"
+  },
+  {
+    "time": "02:47",
     "quoteFirst": "(2) Position of British Fleet “at about ",
     "quoteTime": "2.47 A.M.",
     "quoteLast": ",” (J) June 1, 1916.",
@@ -68,5 +88,15 @@
     "author": "Frothingham, Thomas Goddard, 1865-1945",
     "gutenbergReference": "47949",
     "hash": "6bfb0874b26868f8912b46d7445d0b00dbad03aac62e0863a81658e64185984e"
+  },
+  {
+    "time": "02:47",
+    "quoteFirst": "As dawn was breaking, “at about ",
+    "quoteTime": "2.47 A.M.",
+    "quoteLast": "” (J) June 1, Admiral Jellicoe altered course of his fleet to the north to retrace his path of the night before.",
+    "title": "A True Account of the Battle of Jutland, May 31, 1916",
+    "author": "Frothingham, Thomas Goddard, 1865-1945",
+    "gutenbergReference": "47949",
+    "hash": "8c01fc7dd92d2b18a7cea35c46bd72d77bf11620ab9a4a5849495ebb065ca924"
   }
 ]

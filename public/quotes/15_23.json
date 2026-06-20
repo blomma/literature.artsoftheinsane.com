@@ -11,6 +11,16 @@
   },
   {
     "time": "15:23",
+    "quoteFirst": "(Reporter’s note: ",
+    "quoteTime": "3:23 p.m.",
+    "quoteLast": ")",
+    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "56190",
+    "hash": "c4ddfbca5fa89c477a2b4b22d9f0dacdbb6ef1a52894c51ee6769f60d9fc45ed"
+  },
+  {
+    "time": "15:23",
     "quoteFirst": ", ends at ",
     "quoteTime": "3:23 p. m.",
     "quoteLast": "; Concord, N. H., begins at 12:32 and ends at 3:07 p.",

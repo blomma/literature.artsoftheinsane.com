@@ -51,6 +51,26 @@
   },
   {
     "time": "17:16",
+    "quoteFirst": "You will board the train leaving this province at ",
+    "quoteTime": "5.16 P.M.",
+    "quoteLast": "\"",
+    "title": "The Log of a Noncombatant",
+    "author": "Green, Horace, 1885-1943",
+    "gutenbergReference": "10918",
+    "hash": "f82d0c800e4e48932db375032f6db259e8a9f97b3660cb9cf6ca19c2d6bf4421"
+  },
+  {
+    "time": "17:16",
+    "quoteFirst": "The time at Jerusalem was ",
+    "quoteTime": "5.16 p.m.",
+    "quoteLast": "—“about the sixth hour.”",
+    "title": "Cosmic symbolism",
+    "author": "Sepharial, 1864-1929",
+    "gutenbergReference": "70749",
+    "hash": "2372011dd01fae0e2f5afef3c5730dc7a0769d9b77f48573ca737b25e8b9eadd"
+  },
+  {
+    "time": "17:16",
     "quoteFirst": "\"At four, coffee was given to all the men and at fifteen minutes to five, the shore batteries had shells dropping all around, but we did not fire until ",
     "quoteTime": "sixteen minutes past five",
     "quoteLast": ". The Spanish fleet was in sight off the navy yard. Then the fight started in earnest. For a while I thought my time had come. After we made the signal 'commence firing,' we had nothing to do but watch the fight. The shells flew over our heads so quick I paid no attention to them.",
@@ -58,5 +78,15 @@
     "author": "Holmes, Prescott",
     "gutenbergReference": "17993",
     "hash": "dc4bb5832d90989277f79863d1943baf5a58a824cb46baf54e3744cdb51d74a9"
+  },
+  {
+    "time": "17:16",
+    "quoteFirst": "The Marine Band played a solemn dirge, and at ",
+    "quoteTime": "sixteen minutes past five",
+    "quoteLast": " o’clock the train started for Cleveland.",
+    "title": "The Life and Work of James A. Garfield, Twentieth President of the United States\r\nEmbracing an Account of the Scenes and Incidents of His Boyhood; the Struggles of His Youth; the Might of His Early Manhood; His Valor As a Soldier; His Career As a Statesman; His Election to the Presidency; and the Tragic Story of His Death.",
+    "author": "Ridpath, John Clark, 1840-1900",
+    "gutenbergReference": "59075",
+    "hash": "19437cafbbda270e911466b5e52b13a9a6d5103f42dc444c720ec06be94b92fc"
   }
 ]

@@ -61,6 +61,16 @@
   },
   {
     "time": "16:13",
+    "quoteFirst": "It seemed to fall on him like a cloud of icy vapour, chilling him to the heart, and through that vapour he could see the ormolu clock which stood on a bracket in the recess, and even note the time, which was ",
+    "quoteTime": "thirteen minutes past four",
+    "quoteLast": ".",
+    "title": "Love Eternal",
+    "author": "Haggard, H. Rider (Henry Rider), 1856-1925",
+    "gutenbergReference": "3709",
+    "hash": "f210de1eba1f83e63afc87c0ae21ba953cd735b3ff52e81cc08eea5d3c1fa93b"
+  },
+  {
+    "time": "16:13",
     "quoteFirst": "At 3.35 p.m. the enemy came to the surface 5,000 yards away on the starboard quarter, at 3.39 p.m. opened fire and continued until ",
     "quoteTime": "4.13 p.m.",
     "quoteLast": ", when _Penshurst_ herself started firing at 4,500 yards, succeeding in hitting the enemy sixteen times, and undoubtedly seriously damaging him.",
@@ -88,5 +98,15 @@
     "author": "Twain, Mark, 1835-1910",
     "gutenbergReference": "3200",
     "hash": "b4a2ffe06a5cb76ac9b01078eddb3445a7fc38019be4549d0e0acd8b98fc5ae4"
+  },
+  {
+    "time": "16:13",
+    "quoteFirst": "The big clock in the hall ticking loudly showed ",
+    "quoteTime": "thirteen minutes after four",
+    "quoteLast": ".",
+    "title": "The Adventures of a Freshman",
+    "author": "Williams, Jesse Lynch, 1871-1929",
+    "gutenbergReference": "34986",
+    "hash": "c9d5fd373454d71eb0bba9d99325c73d6c3a08e96ad5d6ff6f0e853c4fc8e878"
   }
 ]

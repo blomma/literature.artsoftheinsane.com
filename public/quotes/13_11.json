@@ -1,6 +1,16 @@
 [
   {
     "time": "13:11",
+    "quoteFirst": "Three officers immediately set off for Chiselhurst, and Mr. Cooper arrived with all possible despatch at Camden Place, but was too late; the wound was mortal, and Mrs. Bonar expired at ",
+    "quoteTime": "eleven minutes past one",
+    "quoteLast": " o'clock, having been through the whole previous time insensible, and having only once uttered the exclamation of \"Oh dear!\"",
+    "title": "The Chronicles of Crime or The New Newgate Calendar. v. 1/2\r\nbeing a series of memoirs and anecdotes of notorious characters who have outraged the laws of Great Britain from the earliest period to 1841.",
+    "author": "Pelham, Camden; Browne, Hablot Knight, 1815-1882 [Illustrator]",
+    "gutenbergReference": "46585",
+    "hash": "b00d78d58c4c7113568c62495641e258da5f21ffb573fd62dcde884874ebfee5"
+  },
+  {
+    "time": "13:11",
     "quoteFirst": "Then bearing along the creek till ",
     "quoteTime": "1.11 p.m.",
     "quoteLast": " on bearing of 325 degrees three-quarters of a mile; distance on proper course 95 1/2 degrees thirteen and a quarter miles.",
@@ -13,10 +23,10 @@
     "time": "13:11",
     "quoteFirst": "9.11 to 9.24 a.m. 9.34 to 9.41 a.m. 9.50 to 9.57 a.m. 10.07 to 10.14 a.m. 11.03 to 11.16 a.m. Noon to 12.03 p.m. 12.58 to ",
     "quoteTime": "1.11 p.m.",
-    "quoteLast": " 2.51 to 3.04 p.m. 3.55 to 4.08 p.m. 4.09 to 4.22 p.m. 4.23 to 4.36 p.m. 19·4 22·7 25·3 26·5 26·3",
+    "quoteLast": " 2.51 to 3.04 p.m. 3.55 to 4.08 p.m. 4.09 to 4.22 p.m. 4.23 to 4.36 p.m. 19·4 22·7 25·3 26·5 26·3 26·4 27·6 23·0 17·6 15·5 12·0 69·0 81·0 87·5 91·5 89·0 90·0 94·0 93·0 91·5 93·5 93·7 16·4706 16·5937 17·3558 17·5695 17·5251 17·8144 17·9676 15·0880 11·6688 11·0215   7·8360",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "b8d8bd421635fd99bf53cd9f93c594adf774e2d9fd76ba0529fce414ad05bdc7"
+    "hash": "d17e3954cd4ebd63c40d8dd4e25fcba73c3d9e9b1501c1aeb95f1f28668172fa"
   }
 ]

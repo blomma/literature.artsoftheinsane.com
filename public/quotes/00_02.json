@@ -1,102 +1,202 @@
 [
   {
     "time": "00:02",
-    "quoteFirst": "And ",
+    "quoteFirst": "",
+    "quoteTime": "About midnight",
+    "quoteLast": " the meeting ended and the _Orion_ set out for Ardvor.",
+    "title": "Masters of Space",
+    "author": "Smith, E. E. (Edward Elmer), 1890-1965; Evans, E. Everett (Edward Everett), 1893-1958; Berry, Phil [Illustrator]",
+    "gutenbergReference": "22754",
+    "hash": "4e5bed2d9e5bcb2865a088c9f475bdb23075bfa66b511416f3e0b85d49d10a1a"
+  },
+  {
+    "time": "00:02",
+    "quoteFirst": "_ Berkeley Castle ",
     "quoteTime": "about midnight",
-    "quoteLast": " the men of Valekau left them and climbed into the forest, so as to descend upon Rara from behind, and intercept the fugitives, saying, “Let us attack just before the birds awake, for then is sleep heaviest upon men.”",
-    "title": "South Sea Yarns",
-    "author": "Thomson, Basil, 1861-1939",
-    "gutenbergReference": "66195",
-    "hash": "0192cebfdaa23706b3d845fe5b77f1b6c18c0ea280563c4a28c22b8c46f8816b"
+    "quoteLast": " 10 Oct.",
+    "title": "Modern English biography, volume 1 (of 4), A-H",
+    "author": "Boase, Frederic, 1843-1916",
+    "gutenbergReference": "55059",
+    "hash": "5be113a41b07c0a1917cc3ab9d528de51100bb66007d5d8634ee613bfbbd0a0b"
+  },
+  {
+    "time": "00:02",
+    "quoteFirst": "He had returned from the Pergola theatre ",
+    "quoteTime": "about midnight",
+    "quoteLast": ", drank a whisky-and-soda in the dining-room, and went straight to his room.",
+    "title": "The indiscretions of a lady's maid",
+    "author": "Le Queux, William, 1864-1927",
+    "gutenbergReference": "77575",
+    "hash": "e34161c04058ff3b2d15747f5935cb0339c994b685de67fa104e0a464f3192a8"
   },
   {
     "time": "00:02",
     "quoteFirst": "It was ",
     "quoteTime": "about midnight",
-    "quoteLast": " when Lem Higgins' motor boat crept up to a spot not far from where the _Peacemaker_ lay at anchor.",
-    "title": "The Boy Scouts for Uncle Sam",
-    "author": "Goldfrap, John Henry, 1879-1917",
-    "gutenbergReference": "32460",
-    "hash": "af213d9974357a4979ce9316b7fc3371b457671788b6e0ee444ccf307e74d760"
-  },
-  {
-    "time": "00:02",
-    "quoteFirst": "“I phoned Al, my cousin, and he came over ",
-    "quoteTime": "about midnight",
-    "quoteLast": " and got me out. But I’ve got to go to court on Thursday when the case comes up.”",
-    "title": "Dig Here!",
-    "author": "Allen, Gladys",
-    "gutenbergReference": "46978",
-    "hash": "044c48caf9ec48130dcac1d835dc451d3e5b8ce79c239f357fd78be545eb3659"
+    "quoteLast": ", and all retired to take a little rest: the crew, above all, had great need of it.",
+    "title": "Narrative of a Voyage to the Northwest Coast of America in the years 1811, 1812, 1813, and 1814 or the First American Settlement on the Pacific",
+    "author": "Franchère, Gabriel, 1786-1863; Huntington, J. V. (Jedediah Vincent), 1815-1862 [Translator]",
+    "gutenbergReference": "15911",
+    "hash": "3c5d41e09ba503298e7a2f5beca464cb9882ebf12e48cb1230224e565c67e6f6"
   },
   {
     "time": "00:02",
     "quoteFirst": "",
     "quoteTime": "About midnight",
-    "quoteLast": ",\" Audrey answered quickly, before Mr. Wyatt could compose his lips.",
-    "title": "The Lion's Share",
-    "author": "Bennett, Arnold, 1867-1931",
-    "gutenbergReference": "14487",
-    "hash": "682c5a60a8de8f6a86591c0a359994b8ba49108bf7654f5f89a49e9cdd6abc0d"
+    "quoteLast": " we were waked up by our two watch-mates, who had come aboard in high dispute.",
+    "title": "Two Years Before the Mast",
+    "author": "Dana, Richard Henry, 1815-1882",
+    "gutenbergReference": "4277",
+    "hash": "5ac9de542a30ea6f4b4e8d6fe5d4df617c6fcdd8ae98e14323ec5b31b81e0524"
   },
   {
     "time": "00:02",
-    "quoteFirst": "Then suppose they go to a party and eat again ",
+    "quoteFirst": "",
+    "quoteTime": "About midnight",
+    "quoteLast": ", gusts of cold wind began to moan amongst the stunted pines that surrounded our tents; then, gathering in force, this demon of the mountains howled round our tents, and snow came down in driven sheets.",
+    "title": "Climbing on the Himalaya and Other Mountain Ranges",
+    "author": "Collie, Norman, 1859-1942",
+    "gutenbergReference": "45747",
+    "hash": "f7957d1311d7e60045e83f71853259766e0f77da7a7355f7a9e59bef8c4c4c44"
+  },
+  {
+    "time": "00:02",
+    "quoteFirst": "About the same hour, ",
+    "quoteTime": "just after midnight",
+    "quoteLast": ", he went to the field, for he knew now what time the cattle would be in it.",
+    "title": "Hero-Tales of Ireland",
+    "author": "Curtin, Jeremiah, 1835-1906 [Compiler]",
+    "gutenbergReference": "63866",
+    "hash": "5d9afacc73369d4813effc3b0d96254af31c945d4eb6b3ac9f2f70430039b2d5"
+  },
+  {
+    "time": "00:02",
+    "quoteFirst": "We got the first batch aboard ",
+    "quoteTime": "about midnight",
+    "quoteLast": ", blind to the world, and the others straggled in at all hours next morning.",
+    "title": "Greenmantle",
+    "author": "Buchan, John, 1875-1940",
+    "gutenbergReference": "559",
+    "hash": "d3ca1a768b503b2741af6b9fed2b8216715cb32c15fe1054c464a08b758cb349"
+  },
+  {
+    "time": "00:02",
+    "quoteFirst": "",
+    "quoteTime": "About midnight",
+    "quoteLast": " Colonel Burrell, Captain Sherive, and Chaplain Sanger, visited the picket sentinel posts in the city, finding the men were drawn in from their original positions, and did not occupy the usual ground.",
+    "title": "History of the Forty-second regiment infantry, Massachusetts volunteers, 1862, 1863, 1864",
+    "author": "Bosson, Charles P. (Charles Palfray)",
+    "gutenbergReference": "52079",
+    "hash": "b42b05b1c45e5c4bd89d85fe25f2df522b39f1ed5499010f1fa8d308a9d6ac20"
+  },
+  {
+    "time": "00:02",
+    "quoteFirst": "\"Macdonald returned ",
+    "quoteTime": "about midnight",
+    "quoteLast": " with some stragglers from Torrijos, and will not relish being disturbed so early.\"",
+    "title": "The Romance of War; or, The Highlanders in Spain, Volume 3 (of 3)",
+    "author": "Grant, James, 1822-1887",
+    "gutenbergReference": "54920",
+    "hash": "067d0a7bc61b7ec9f49bb9c674474c839455fe77b26936ecd3bed4033e859b55"
+  },
+  {
+    "time": "00:02",
+    "quoteFirst": "Some days after, she was taken with compunction or compassion, and ",
+    "quoteTime": "about midnight",
+    "quoteLast": " the forsaken squire, sitting in his library, heard three knocks at the window.",
+    "title": "The Little Review, September 1917 (Vol. 4, No. 5)",
+    "author": "Various; Anderson, Margaret C., 1886-1973 [Editor]",
+    "gutenbergReference": "78252",
+    "hash": "ec34d2537472131d002805060c1ccec9e8205f53e311c76ce2ef1af66765a572"
+  },
+  {
+    "time": "00:02",
+    "quoteFirst": "Travelling all night, we do not go to bed, but merely throw ourselves down for an hour's rest ",
+    "quoteTime": "about midnight",
+    "quoteLast": ", for we must not lose the light effects on this great silent lake.",
+    "title": "The New North",
+    "author": "Cameron, Agnes Deans, 1863-1912",
+    "gutenbergReference": "12874",
+    "hash": "68757057b09457bcf65e5a613938bd949fe868496ec9db756cdb856fe76dd78c"
+  },
+  {
+    "time": "00:02",
+    "quoteFirst": "I was tired that night, but I kept awake an’ was leaning on th’ port rail ",
     "quoteTime": "about midnight",
     "quoteLast": ".",
-    "title": "Principles of Public Health\r\nA Simple Text Book on Hygiene, Presenting the Principles Fundamental to the Conservation of Individual and Community Health",
-    "author": "Tuttle, Thomas Dyer, 1869-",
-    "gutenbergReference": "53974",
-    "hash": "2134067027fd404a885096ea29abdefd978483da1e1ee30a07dc9ceca034fe4b"
+    "title": "The Wind-Jammers",
+    "author": "Hains, T. Jenkins (Thornton Jenkins), 1866-1953",
+    "gutenbergReference": "55274",
+    "hash": "b08b846dab93e2bda24ee49d04dadf1eb67772856866359def3e22195ecfaebc"
   },
   {
     "time": "00:02",
-    "quoteFirst": "It was just ",
+    "quoteFirst": "What dread and overpowering feelings those poor doomed creatures felt upon that last day of life, while anticipating the horrid tortures coming with the morrow's sun, I do not know; but what I can tell is, that suddenly, ",
     "quoteTime": "about midnight",
-    "quoteLast": ".\"",
-    "title": "The French powder mystery",
-    "author": "Queen, Ellery",
-    "gutenbergReference": "78823",
-    "hash": "6e6612b01546a8105fa46950639edce3f0043940a31a9f866a9fa8bef270be9f"
+    "quoteLast": ", the doors of their prison were burst asunder, and the whole of the captives liberated by an insurrection of famine-maddened Chinamen.",
+    "title": "Ti-Ping Tien-Kwoh: The History of the Ti-Ping Revolution (Volume I)",
+    "author": "Lindley, Augustus F.",
+    "gutenbergReference": "39180",
+    "hash": "6c28b592d828dab8bfc4968ad5a1a85f0128d7e9f3ecf0afe194ffa3ace503fb"
   },
   {
     "time": "00:02",
-    "quoteFirst": "The rain came in through the canvas, the pegs gave way, and ",
+    "quoteFirst": "Mr. Murbles was aroused ",
+    "quoteTime": "a little after midnight",
+    "quoteLast": " by a thunderous knocking upon his door.",
+    "title": "Clouds of witness",
+    "author": "Sayers, Dorothy L. (Dorothy Leigh), 1893-1957",
+    "gutenbergReference": "70432",
+    "hash": "1be140930681b6f9247b0f07dbeb7e43ad88cb56b72869865dc15c2257fc9c5e"
+  },
+  {
+    "time": "00:02",
+    "quoteFirst": "It was ",
+    "quoteTime": "just after midnight",
+    "quoteLast": " when Count Keller and I, well mounted on Cossack ponies, rode down into the valley and turned our horses on to the winding road that runs beside the little stream that leaps and gurgles over the rocks on the way to the Dniester.",
+    "title": "The Russian Campaign, April to August, 1915\r\nBeing the Second Volume of \"Field Notes from the Russian Front\"",
+    "author": "Washburn, Stanley, 1878-1950; Mewes, George H. [Photographer]",
+    "gutenbergReference": "51551",
+    "hash": "25cb84caa03feefc1d405e959e9f4a0851c274585774abbcac6b095d3ae172c8"
+  },
+  {
+    "time": "00:02",
+    "quoteFirst": "Kearney, awaking ",
     "quoteTime": "about midnight",
-    "quoteLast": " down came the cold and sloppy cloth in our faces.",
-    "title": "The Boy Travellers in the Far East, Part Fourth\r\nAdventures of Two Youths in a Journey to Egypt and the Holy Land",
-    "author": "Knox, Thomas Wallace, 1835-1896",
-    "gutenbergReference": "58837",
-    "hash": "38dd235935268b30a7db8d238dbecaae19eda65275c8140c90a881306bd7902b"
+    "quoteLast": ", came out for a breath of air.",
+    "title": "The Garden of God",
+    "author": "Stacpoole, H. De Vere (Henry De Vere), 1863-1951",
+    "gutenbergReference": "58593",
+    "hash": "0b28c5630889ab17f0dc61c9c0b8f0c7c88518fe45b2c9dc66ea6e414b332e3a"
   },
   {
     "time": "00:02",
     "quoteFirst": "",
     "quoteTime": "About midnight",
-    "quoteLast": " they reached Themed, the only wells on the journey, watered the camels and drank themselves but did not stay many minutes.",
-    "title": "Lawrence and the Arabs",
-    "author": "Graves, Robert, 1895-1985; Perry, Herry, 1893-1962 [Contributor]; Kennington, Eric, 1888-1960 [Illustrator]",
-    "gutenbergReference": "74014",
-    "hash": "dd217a82bdc57ebeaf912bbe90a2e5afd333ea20f814ccf1533024eebc9aadd7"
+    "quoteLast": ", when Martha remembered that all at home were probably sound asleep, she could not resist the temptation of resting her aching limbs, and sat down, trusting to make up afterwards for lost time, and taking care to be on her feet when the overlooker passed, or when any one else was likely to watch her.",
+    "title": "Illustrations of political economy, Volume 3 (of 9)",
+    "author": "Martineau, Harriet, 1802-1876",
+    "gutenbergReference": "71169",
+    "hash": "7c7cae8f6568ebca30abb074ea560aebb5e7a03e0a0d03a771ef312330c8d2eb"
   },
   {
     "time": "00:02",
-    "quoteFirst": "Detachments of Machine Gunners (55th Division Machine Gun Battalion, 4 Guns; 16th Division Machine Gun Battalion, 2 Guns), Stokes Mortars, Lewis Gunners, and Investigation Parties had all reported at Advanced Guard Headquarters at the Distillery by 8 p.m. ",
+    "quoteFirst": "",
     "quoteTime": "About midnight",
-    "quoteLast": " two patrols were sent out to push forward into Salomé, one along the N. and the other along the S. side of the Canal, and establish a post in Salomé, in touch with each other.",
-    "title": "The Fourth Battalion, The King's Own (Royal Lancaster Regiment) and the Great War",
-    "author": "Wadham, W. F. A. (Walter F. A.); Crossley, J.",
-    "gutenbergReference": "67393",
-    "hash": "25d319e5563d4e793731b855bd3f2498a55ad22d4d4712795c4aad3269482447"
+    "quoteLast": " they again advanced, as the moon was far down in the west.",
+    "title": "Ladysmith: The Diary of a Siege",
+    "author": "Nevinson, Henry Woodd, 1856-1941",
+    "gutenbergReference": "16603",
+    "hash": "7d99e89b6eea6cac08b5d33d50f9d1bbd87f4d3173be2989d53866192d5927d6"
   },
   {
     "time": "00:02",
-    "quoteFirst": "The _Tegetthoff_ laboured through the dense accumulation of floes and ",
+    "quoteFirst": "On the 12th, ",
     "quoteTime": "about midnight",
-    "quoteLast": " reached open water, and the steam was again blown off.",
-    "title": "New lands within the Arctic circle\r\nNarrative of the discoveries of the Austrian ship \"Tegetthoff\" in the years 1872-1874",
-    "author": "Payer, Julius, 1841-1915",
-    "gutenbergReference": "60258",
-    "hash": "950c19b168ddc42cc471436750c38eb1a53a52ddc775b884e245ef504ab80c57"
+    "quoteLast": ", we had a violent squall that at once levelled every tent in the camp to the ground.",
+    "title": "Narrative of an Expedition into Central Australia\r\nPerformed Under the Authority of Her Majesty's Government, During the Years 1844, 5, and 6, Together With A Notice of the Province of South Australia in 1847",
+    "author": "Sturt, Charles, 1795-1869",
+    "gutenbergReference": "4976",
+    "hash": "ca5ee698d2ab2e4975693828a959507d0034ceeb56d9e98596f1ce1d768b84e0"
   }
 ]

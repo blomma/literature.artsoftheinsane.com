@@ -1,6 +1,16 @@
 [
   {
     "time": "08:07",
+    "quoteFirst": "",
+    "quoteTime": "8:07 A. M.",
+    "quoteLast": "—Caddopeak from San Pedro.",
+    "title": "The Maltese falcon",
+    "author": "Hammett, Dashiell, 1894-1961",
+    "gutenbergReference": "77600",
+    "hash": "6de20dbda215c95616ab7c32d5caa8da3ae4cac051375759dce7340f51e1f77d"
+  },
+  {
+    "time": "08:07",
     "quoteFirst": "The Oregon radar unit reported the same object at ",
     "quoteTime": "8:07 A.M.",
     "quoteLast": " It said the object was seven hundred fifty miles high, four hundred miles out at sea, and was headed toward the Oregon coastline, moving northwest to southeast.",
@@ -8,6 +18,16 @@
     "author": "Leinster, Murray, 1896-1975",
     "gutenbergReference": "17870",
     "hash": "af6e488042114ec1e1724988667a071ae50668401a1f4c8e7d20c78e7f3292c7"
+  },
+  {
+    "time": "08:07",
+    "quoteFirst": "\"",
+    "quoteTime": "Seven minutes past eight",
+    "quoteLast": ". What time does the last train start, Jeanne?\"",
+    "title": "The Immortals: Masterpieces of Fiction, Crowned by the French Academy — Complete",
+    "author": "Various",
+    "gutenbergReference": "4000",
+    "hash": "db8d9d5721ca97062beaf465b8cd1cb2e4dd698206f7d0b23aea37599a238c04"
   },
   {
     "time": "08:07",
@@ -21,13 +41,13 @@
   },
   {
     "time": "08:07",
-    "quoteFirst": "No one could say that Letitia was untruthful; to lie was quite outside her code; but if at ",
-    "quoteTime": "seven minutes past eight",
-    "quoteLast": " she was late, she said it was barely eight o'clock, and if you were late she said it was almost a quarter past.",
-    "title": "Are Parents People?",
-    "author": "Miller, Alice Duer, 1874-1942",
-    "gutenbergReference": "64917",
-    "hash": "e806fd2e902227654ccf802a38d7ac46dd81c561763d9395e4d2b63fa22dba6c"
+    "quoteFirst": "\"",
+    "quoteTime": "Seven minutes past eight",
+    "quoteLast": ".  What time does the last train start, Jeanne?\"",
+    "title": "The Ink-Stain (Tache d'encre) — Volume 2",
+    "author": "Bazin, René, 1853-1932",
+    "gutenbergReference": "3973",
+    "hash": "40d8966496c440145986c3b004735ca7d5ed5274b53e6d142d13845c874b1d4f"
   },
   {
     "time": "08:07",
@@ -41,6 +61,16 @@
   },
   {
     "time": "08:07",
+    "quoteFirst": "“",
+    "quoteTime": "Seven minutes past eight",
+    "quoteLast": ". What time does the last train start, Jeanne?”",
+    "title": "The Ink-Stain (Tache d'encre) — Complete",
+    "author": "Bazin, René, 1853-1932",
+    "gutenbergReference": "3975",
+    "hash": "cfb224914df25ebd2e0381dae160eae73e5195296c86c742d02a2c330ad2d40a"
+  },
+  {
+    "time": "08:07",
     "quoteFirst": "This was at exactly ",
     "quoteTime": "seven minutes after eight",
     "quoteLast": " by the town hall clock which wasn’t going, no doubt in honor of the great occasion.",
@@ -48,6 +78,16 @@
     "author": "Fitzhugh, Percy Keese, 1876-1950; Barbour, Harold S., 1889-1961 [Illustrator]",
     "gutenbergReference": "72220",
     "hash": "5fb53f06dfed1408f5f4807a68306f097f6dcc1c82af89eb2befdb87cc2e24ff"
+  },
+  {
+    "time": "08:07",
+    "quoteFirst": "“He will be clear at ",
+    "quoteTime": "seven minutes past eight",
+    "quoteLast": " this evening. Yes, he could just manage it then. He has no one at all from seven past to the quarter past”--and so at the appointed hour I have my patient precipitating himself into my room with the demeanour of the man who charges in for his bowl of hot soup at a railway station.",
+    "title": "The Stark Munro Letters\r\nBeing series of twelve letters written by J. Stark Munro, M.B., to his friend and former fellow-student, Herbert Swanborough, of Lowell, Massachusetts, during the years 1881-1884",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "gutenbergReference": "290",
+    "hash": "04c835926fbf037bfdb31c78c74a5dca97d3e04b556917c50133a9b4f1909342"
   },
   {
     "time": "08:07",

@@ -1,6 +1,16 @@
 [
   {
     "time": "09:32",
+    "quoteFirst": "\"If Mr. St. George is in his studio he will come out of it to-night at ",
+    "quoteTime": "thirty-two minutes past nine",
+    "quoteLast": ". He will be running, and may not wear either a hat or coat.\"",
+    "title": "The problem of Cell 13",
+    "author": "Futrelle, Jacques, 1875-1912",
+    "gutenbergReference": "57669",
+    "hash": "39662609e996b26e5a4ba68cb5363e9008fff293028c962a0a3733d914075778"
+  },
+  {
+    "time": "09:32",
     "quoteFirst": "\"At ",
     "quoteTime": "thirty-two minutes past nine",
     "quoteLast": " to-night,\" said the reporter, and he glanced at his watch.",
@@ -8,6 +18,16 @@
     "author": "Futrelle, Jacques, 1875-1912",
     "gutenbergReference": "57669",
     "hash": "abead21c7d45f6aa269658c7ea892a2b80315c2236e29106703045a195655dfb"
+  },
+  {
+    "time": "09:32",
+    "quoteFirst": "\"If Mr. St. George is in his studio he will come out of it to-night at ",
+    "quoteTime": "thirty-two minutes past nine",
+    "quoteLast": ".  He will be running, and may not wear either a hat or coat.\"",
+    "title": "Master tales of mystery, Volume 2 (of 3)",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]",
+    "gutenbergReference": "77812",
+    "hash": "040d46cd9ad7f3df7fedeffa87ff679c5b59144fa9601e195e1acde12ef0346c"
   },
   {
     "time": "09:32",

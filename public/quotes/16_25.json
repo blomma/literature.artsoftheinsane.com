@@ -1,23 +1,53 @@
 [
   {
     "time": "16:25",
-    "quoteFirst": "[_Karslake was evidently wounded sometime between ten and ",
-    "quoteTime": "twenty-five minutes after four",
-    "quoteLast": ".",
-    "title": "A Deal in Wheat and Other Stories of the New and Old West",
-    "author": "Norris, Frank, 1870-1902",
-    "gutenbergReference": "9905",
-    "hash": "90ca704e2839882db98a5e0e9c99f5752d8270a0d6d7aa15a777efc0049e0c0e"
+    "quoteFirst": "On November 27 a test was made of Aerodrome No. 6, the general disposition of which at this time may be learned from the description in Chapter X, and the photographs in Plates 29A, 29B. The model was launched at ",
+    "quoteTime": "4.25 p. m.",
+    "quoteLast": " with a steam pressure of 125 pounds.",
+    "title": "Langley Memoir on Mechanical Flight, Parts I and II\nSmithsonian Contributions to Knowledge, Volume 27 Number 3, Publication 1948, 1911",
+    "author": "Langley, S. P. (Samuel Pierpont), 1834-1906; Manly, Charles M. (Charles Matthews), 1876-1927",
+    "gutenbergReference": "47981",
+    "hash": "398e7b257648104973b529de8987ad4501775a50b00a65db4d55f243467f5bd0"
   },
   {
     "time": "16:25",
-    "quoteFirst": "at Greenwich, it is 2:25 and ",
-    "quoteTime": "4:25 p. m.",
-    "quoteLast": " respectively in the sections directly west and east of the Greenwich section; and 1:25 and 5:25 p.",
-    "title": "The Chautauquan, Vol. 04, January 1884\r\nA Monthly Magazine Devoted to the Promotion of True Culture.\r\nOrgan of the Chautauqua Literary and Scientific Circle.",
-    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
-    "gutenbergReference": "53652",
-    "hash": "2b92c86d8abdb7103f24914fb2bf54250ed2bb65eaaf8c2f18971bfbcae78f35"
+    "quoteFirst": "At ",
+    "quoteTime": "4.25 P.M.",
+    "quoteLast": " the _Glasgow_ turned to starboard away from the action and took station on the port quarter of the _Cornwall_, who had by that time come into action with the _Leipzig_.",
+    "title": "The Battle of the Falkland Islands, Before and After",
+    "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
+    "gutenbergReference": "50265",
+    "hash": "e39e3d7bffb98f9aee134c9148eeef3a3d965b80ae6ae461f494557148723a5e"
+  },
+  {
+    "time": "16:25",
+    "quoteFirst": "The spurs (latitude 5 degrees ",
+    "quoteTime": "35 minutes to 5",
+    "quoteLast": " degrees 40 minutes) which this peak sends eastward are crossed by the Orinoco in the first Great Cataract (that of Mapura or the Atures); further on they unite together and, rising in a chain, stretch towards the sources of the Cataniapo, the rapids of Ventuari, situated on the north of the confluence of the Asisi (latitude 5 degrees 10 minutes) and the Cerro Cunevo.",
+    "title": "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 3",
+    "author": "Humboldt, Alexander von, 1769-1859; Bonpland, Aimé, 1773-1858; Ross, Thomasina [Translator]",
+    "gutenbergReference": "7254",
+    "hash": "47bd1e2fc2b4ce7daeae1630de63d6bb9683fa2b15af4f680bc4d8213818bee4"
+  },
+  {
+    "time": "16:25",
+    "quoteFirst": "At ",
+    "quoteTime": "twenty-five minutes past four",
+    "quoteLast": " he took a copy of the order to bring the prisoners from jail to trial, and afterward he took names of witnesses.",
+    "title": "The City of the Saints, and Across the Rocky Mountains to California",
+    "author": "Burton, Richard Francis, Sir, 1821-1890",
+    "gutenbergReference": "66791",
+    "hash": "cd18a97df94d0f71351d829007643e6c2253ed84de4236570ee292ecf7c42ac0"
+  },
+  {
+    "time": "16:25",
+    "quoteFirst": ", jumped off the table and had wild convulsions, became very restless, walked about the laboratory; ",
+    "quoteTime": "4.25 p. m.",
+    "quoteLast": ", had convulsions occasionally; 4.30 p.",
+    "title": "The Toxicity of Caffein: An experimental study on different species of animals",
+    "author": "Salant, William; Rieger, J. B. (John Benjamin), 1886-",
+    "gutenbergReference": "46356",
+    "hash": "8d3833ef896c67a25e7853b53863b9ffc36468143b0ae7466dadcd51ef778e9e"
   },
   {
     "time": "16:25",
@@ -31,26 +61,6 @@
   },
   {
     "time": "16:25",
-    "quoteFirst": "After having been out forty-seven hours and eight minutes, the Jury at ",
-    "quoteTime": "4:25 p. m.",
-    "quoteLast": ", April 12, 1907, filed into the court room, and at exactly 4:31 announced a disagreement and was discharged.",
-    "title": "The Great Harry Thaw Case; Or, A Woman's Sacrifice",
-    "author": "Atwell, Benjamin H.",
-    "gutenbergReference": "66056",
-    "hash": "2c7edcdb8088888539e9767cc4ada0f3bb0a84c6b8b40cc9c9e38505eb0f6c99"
-  },
-  {
-    "time": "16:25",
-    "quoteFirst": "It was ",
-    "quoteTime": "twenty-five minutes past four",
-    "quoteLast": ".",
-    "title": "Adventures of Sherlock Holmes\nIllustrated",
-    "author": "Doyle, Arthur Conan, 1859-1930",
-    "gutenbergReference": "48320",
-    "hash": "041d07f7b1f55a38d2a02edc5d609f519138abc4dc878bc461f6404e3bcc1b95"
-  },
-  {
-    "time": "16:25",
     "quoteFirst": "We left the city of St. Paul at ",
     "quoteTime": "4.25 P.M.",
     "quoteLast": " on the 20th, by the Northern Pacific Railroad, and arrived here at 8 A.M. this morning.",
@@ -58,16 +68,6 @@
     "author": "Gillis, Charles J.",
     "gutenbergReference": "40824",
     "hash": "9f56bda05438f255c961b5e5c8382a6f4aee41c4c8232c27bbe6c0fbbc442aec"
-  },
-  {
-    "time": "16:25",
-    "quoteFirst": "\"It's ",
-    "quoteTime": "five-and-twenty past four",
-    "quoteLast": ",\" said Jack Vance, looking at his watch, \"and it's a good six miles by road; we shall never walk it in the time.\"",
-    "title": "The Triple Alliance, Its Trials and Triumphs",
-    "author": "Avery, Harold, 1867-1943",
-    "gutenbergReference": "10027",
-    "hash": "e9a7b62e1f10eba0371d850e06fb33b10a991f50a19d1b103a025440b14caf70"
   },
   {
     "time": "16:25",
@@ -91,12 +91,112 @@
   },
   {
     "time": "16:25",
-    "quoteFirst": "The testimony of William Arthur Smith was taken at ",
+    "quoteFirst": "The spurs (latitude 5 degrees ",
+    "quoteTime": "35 minutes to 5",
+    "quoteLast": " degrees 40 minutes) which this peak sends eastward are crossed by the Orinoco in the first Great Cataract (that of Mapura or the Atures); further on they unite together and, rising in a chain, stretch towards the sources of the Cataniapo, the rapids of Ventuari, situated on the north of the confluence of the Asisi (latitude 5 degrees 10 minutes) and the Cerro Cunevo.",
+    "title": "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 3",
+    "author": "Humboldt, Alexander von, 1769-1859; Bonpland, Aimé, 1773-1858; Ross, Thomasina [Translator]",
+    "gutenbergReference": "7254",
+    "hash": "47bd1e2fc2b4ce7daeae1630de63d6bb9683fa2b15af4f680bc4d8213818bee4"
+  },
+  {
+    "time": "16:25",
+    "quoteFirst": "At ",
+    "quoteTime": "4.25 p. m.",
+    "quoteLast": ", wreckage which was hanging to stern dropped off.",
+    "title": "World's War Events, Vol. II",
+    "author": "Reynolds, Francis J. (Francis Joseph), 1867-1937 [Editor]; Churchill, Allen L. (Allen Leon), 1873-1940 [Editor]",
+    "gutenbergReference": "25963",
+    "hash": "b020ddac9976666598d95327912e2c72e401e1113705758eebb831575315b365"
+  },
+  {
+    "time": "16:25",
+    "quoteFirst": "On November 27 a test was made of Aerodrome No. 6, the general disposition of which at this time may be learned from the description in Chapter X, and the photographs in Plates 29A, 29B. The model was launched at ",
+    "quoteTime": "4.25 p. m.",
+    "quoteLast": " with a steam pressure of 125 pounds.",
+    "title": "Langley Memoir on Mechanical Flight, Parts I and II\nSmithsonian Contributions to Knowledge, Volume 27 Number 3, Publication 1948, 1911",
+    "author": "Langley, S. P. (Samuel Pierpont), 1834-1906; Manly, Charles M. (Charles Matthews), 1876-1927",
+    "gutenbergReference": "47981",
+    "hash": "398e7b257648104973b529de8987ad4501775a50b00a65db4d55f243467f5bd0"
+  },
+  {
+    "time": "16:25",
+    "quoteFirst": "At   4.17 P.M. there were sighted to the south-west at first two   ships, and then at ",
+    "quoteTime": "4.25 P.M.",
+    "quoteLast": " a third ship about fifteen miles   away.",
+    "title": "The Battle of the Falkland Islands, Before and After",
+    "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
+    "gutenbergReference": "50265",
+    "hash": "ee161fbad40f4468d75482270ce469f3a6638fca1fa3923e58f90e51dd9816a7"
+  },
+  {
+    "time": "16:25",
+    "quoteFirst": "It was just ",
+    "quoteTime": "4:25 P. M.",
+    "quoteLast": " He had finished his work, put his affairs in order, and in five minutes would be free to leave on a much needed and well earned vacation.",
+    "title": "Astounding Stories of Super-Science April 1930",
+    "author": "Bates, Harry, 1900-1981 [Editor]; Burks, Arthur J., 1898-1974 [Contributor]; Cummings, Ray, 1887-1957 [Contributor]; Curry, Tom, 1900-1976 [Contributor]; Knight, Thomas H., 1892-1949 [Contributor]; Meek, S. P. (Sterner St. Paul), 1894-1972 [Contributor]; Pelcher, Anthony, 1897-1981",
+    "gutenbergReference": "29390",
+    "hash": "27e6b994d6ca6e1ba3d6bc146725f40dae3895eb217964f60c05bdefac20a70c"
+  },
+  {
+    "time": "16:25",
+    "quoteFirst": "At ",
     "quoteTime": "4:25 p.m.",
-    "quoteLast": ", on April 2, 1964, in the office of the U.S. attorney, 301 Post Office Building, Bryan and Ervay Streets, Dallas, Tex.",
-    "title": "Warren Commission (07 of 26): Hearings Vol. VII (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44007",
-    "hash": "59ae13b5e6bb7c852ce9ea45559b41fbc56711c2b7076990b601e5ef74f596ee"
+    "quoteLast": ", one wolf started toward      a third deer, which had been lying under a tree while the      former chase took place.",
+    "title": "Ecological Studies of the Timber Wolf in Northeastern Minnesota",
+    "author": "Mech, L. David; Frenzel, Louis Daniel; Karns, P. D.; Ream, Robert R.; Winship, John W.",
+    "gutenbergReference": "37595",
+    "hash": "4f97958448bc0594dbfa9120d3ac3a8f5ff385c61bdcd28971c2a40860d71ef1"
+  },
+  {
+    "time": "16:25",
+    "quoteFirst": "At   4.17 P.M. there were sighted to the south-west at first two   ships, and then at ",
+    "quoteTime": "4.25 P.M.",
+    "quoteLast": " a third ship about fifteen miles   away.",
+    "title": "The Battle of the Falkland Islands, Before and After",
+    "author": "Spencer-Cooper, Henry Edmund Harvey, 1884-1968",
+    "gutenbergReference": "50265",
+    "hash": "ee161fbad40f4468d75482270ce469f3a6638fca1fa3923e58f90e51dd9816a7"
+  },
+  {
+    "time": "16:25",
+    "quoteFirst": "At ",
+    "quoteTime": "4:25P.M.",
+    "quoteLast": " the crew of an airliner northwest of Richmond, Virginia, reported a \"silver sphere at eleven o'clock high.\"",
+    "title": "The Report on Unidentified Flying Objects",
+    "author": "Ruppelt, Edward J., 1922-1960",
+    "gutenbergReference": "17346",
+    "hash": "ae25dea1a300d4a994f48187efacb9eeeea92902348ce19514561f9195d41527"
+  },
+  {
+    "time": "16:25",
+    "quoteFirst": "at Greenwich, it is 2:25 and ",
+    "quoteTime": "4:25 p. m.",
+    "quoteLast": " respectively in the sections directly west and east of the Greenwich section; and 1:25 and 5:25 p.",
+    "title": "The Chautauquan, Vol. 04, January 1884\r\nA Monthly Magazine Devoted to the Promotion of True Culture.\r\nOrgan of the Chautauqua Literary and Scientific Circle.",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "53652",
+    "hash": "2b92c86d8abdb7103f24914fb2bf54250ed2bb65eaaf8c2f18971bfbcae78f35"
+  },
+  {
+    "time": "16:25",
+    "quoteFirst": "[_Karslake was evidently wounded sometime between ten and ",
+    "quoteTime": "twenty-five minutes after four",
+    "quoteLast": ".",
+    "title": "A Deal in Wheat and Other Stories of the New and Old West",
+    "author": "Norris, Frank, 1870-1902",
+    "gutenbergReference": "9905",
+    "hash": "90ca704e2839882db98a5e0e9c99f5752d8270a0d6d7aa15a777efc0049e0c0e"
+  },
+  {
+    "time": "16:25",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty-five minutes past four",
+    "quoteLast": ".",
+    "title": "Over Prairie Trails",
+    "author": "Grove, Frederick Philip, 1879-1948",
+    "gutenbergReference": "6111",
+    "hash": "d756ef66570defe6b7b029ef7168a12630291ec74589a01b8494f29ace56376d"
   }
 ]

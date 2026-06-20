@@ -1,6 +1,16 @@
 [
   {
     "time": "21:06",
+    "quoteFirst": "\"Yes, with her father, by the train which gets in at ",
+    "quoteTime": "six minutes past nine",
+    "quoteLast": " to-morrow.\"",
+    "title": "The Immortals: Masterpieces of Fiction, Crowned by the French Academy — Complete",
+    "author": "Various",
+    "gutenbergReference": "4000",
+    "hash": "bb777d6b7cd0938037b13055d776b38b3cf34a59de6b22a4e6bb6fa3c92a0f77"
+  },
+  {
+    "time": "21:06",
     "quoteFirst": "Arrived at Wolverton at ",
     "quoteTime": "6 minutes past 9",
     "quoteLast": ", where the directors alighted and changed engines.",
@@ -21,6 +31,16 @@
   },
   {
     "time": "21:06",
+    "quoteFirst": "“Yes, with her father, by the train which gets in at ",
+    "quoteTime": "six minutes past nine",
+    "quoteLast": " to-morrow.”",
+    "title": "The Ink-Stain (Tache d'encre) — Complete",
+    "author": "Bazin, René, 1853-1932",
+    "gutenbergReference": "3975",
+    "hash": "f69251d27ef8376776d3374c4e8d1f138f759cf5800380c7440b7f49ea88b28e"
+  },
+  {
+    "time": "21:06",
     "quoteFirst": ", 27′ north of moon; on the 29th, at ",
     "quoteTime": "9:06 p. m.",
     "quoteLast": ", 38′ north of moon, making, as does also Saturn, two conjunctions with the moon in one month.",
@@ -28,5 +48,15 @@
     "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
     "gutenbergReference": "55133",
     "hash": "e0d2f95b6ed9d5ff24c03c27671366c0f7087692e620797cefc71c0cfc3668aa"
+  },
+  {
+    "time": "21:06",
+    "quoteFirst": "\"Yes, with her father, by the train which gets in at ",
+    "quoteTime": "six minutes past nine",
+    "quoteLast": " to-morrow.\"",
+    "title": "The Ink-Stain (Tache d'encre) — Volume 3",
+    "author": "Bazin, René, 1853-1932",
+    "gutenbergReference": "3974",
+    "hash": "503479a8f4d9f544dd3487c5c381f5d43ca79047bf780e50c5b7cfc85ac5dde2"
   }
 ]

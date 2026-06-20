@@ -1,33 +1,13 @@
 [
   {
     "time": "19:35",
-    "quoteFirst": "I looked at my watch: it wanted ",
-    "quoteTime": "five-and-twenty minutes to eight",
-    "quoteLast": ".",
-    "title": "Recollections of a Policeman",
-    "author": "Russell, William",
-    "gutenbergReference": "46462",
-    "hash": "042e08bbb1bc00ebb4266b36615f13ca5c9a9d9f8d10a67ff57453b6b51e32e1"
-  },
-  {
-    "time": "19:35",
-    "quoteFirst": "He arrived at ",
-    "quoteTime": "twenty-five minutes before eight",
-    "quoteLast": " and waited contentedly in converse with her aunt until Jane came down.",
-    "title": "Jane Journeys On",
-    "author": "Mitchell, Ruth Comfort, 1882-1954",
-    "gutenbergReference": "20230",
-    "hash": "d1daad0af7b9f11b0e437827e5cc646a2db5228875b71bdfcec0165d00544961"
-  },
-  {
-    "time": "19:35",
-    "quoteFirst": "It was ",
-    "quoteTime": "twenty-five minutes of eight",
-    "quoteLast": ".",
-    "title": "Pawned",
-    "author": "Packard, Frank L. (Frank Lucius), 1877-1942",
-    "gutenbergReference": "51965",
-    "hash": "79ffaf723c7365ab4e7db0a8fc8aa281f1dffaa842c439cf37c66ef31fd2ad72"
+    "quoteFirst": "",
+    "quoteTime": "Thirty-five minutes past seven",
+    "quoteLast": ": Smoke arises from the stacks of the warships, which are getting under way and will soon be within range of the engines.",
+    "title": "Facing the Flag",
+    "author": "Verne, Jules, 1828-1905",
+    "gutenbergReference": "11556",
+    "hash": "ab278b3c37d68b607c9f5462062f92c7f36885a6d2e60996662f01251133848e"
   },
   {
     "time": "19:35",
@@ -41,6 +21,116 @@
   },
   {
     "time": "19:35",
+    "quoteFirst": "Seven clear little bells; then two chimes for the half-hour; then five quick busy strokes; ",
+    "quoteTime": "five-and-twenty minutes to eight",
+    "quoteLast": ".",
+    "title": "The heir: A love story",
+    "author": "Sackville-West, V. (Victoria), 1892-1962",
+    "gutenbergReference": "60368",
+    "hash": "a3539c68fb10219b7d3782ea826442880f65d47bab02b6c0d77005e6a44b96e7"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "They reached the base of the dome, guiding themselves only by the direction of the wind, and at last at ",
+    "quoteTime": "7.35 p.m.",
+    "quoteLast": " crawled into their upper camp.",
+    "title": "The Last Secrets: The Final Mysteries of Exploration",
+    "author": "Buchan, John, 1875-1940",
+    "gutenbergReference": "60948",
+    "hash": "fc5b2744b882d7a091cb1941a0cb836b4cd02a6ac3accc4a39beceb2188222fc"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "The train for Galicia started at ",
+    "quoteTime": "thirty-five minutes past seven",
+    "quoteLast": ", and at that pleasant twilight hour the platform of the Northern Depot was filled with a hurried and animated crowd of travelers and their friends who had come to see them off, the latter envying those who were going to see beautiful scenery, to breathe the sea air, to enjoy a cool temperature, and to spend a few months pleasantly in a healthy and",
+    "title": "Morriña (Homesickness)",
+    "author": "Pardo Bazán, Emilia, condesa de, 1852-1921; Serrano, Mary J. (Mary Jane), -1923 [Translator]",
+    "gutenbergReference": "54742",
+    "hash": "392888710be5604a88dc6600cfd86590a48809662920f47882697d1611077510"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "He arrived at ",
+    "quoteTime": "twenty-five minutes before eight",
+    "quoteLast": " and waited contentedly in converse with her aunt until Jane came down.",
+    "title": "Jane Journeys On",
+    "author": "Mitchell, Ruth Comfort, 1882-1954",
+    "gutenbergReference": "20230",
+    "hash": "d1daad0af7b9f11b0e437827e5cc646a2db5228875b71bdfcec0165d00544961"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "The information as to the visibility of the tracks did not reach me until the return of the Fleet to harbour, as although one torpedo was reported by observers on board the destroyer _Oak_ to have passed close ahead of the _Iron Duke_ at about ",
+    "quoteTime": "7.35 P.M.",
+    "quoteLast": ", finishing its run 2,000 yards beyond that ship, and a second was observed by the _Benbow_ to pass apparently ahead of the _Iron Duke_ at 8.30 P.M., neither of them was seen on board the flagship by the trained look-outs specially stationed for the purpose.",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "hash": "44d19b08529932761f52d3a706fdefec3f67881fc91050ee54750723418ea848"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "The train for Galicia started at ",
+    "quoteTime": "thirty-five minutes past seven",
+    "quoteLast": ", and at that pleasant twilight hour the platform of the Northern Depot was filled with a hurried and animated crowd of travelers and their friends who had come to see them off, the latter envying those who were going to see beautiful scenery, to breathe the sea air, to enjoy a cool temperature, and to spend a few months pleasantly in a healthy and",
+    "title": "Morriña (Homesickness)",
+    "author": "Pardo Bazán, Emilia, condesa de, 1852-1921; Serrano, Mary J. (Mary Jane), -1923 [Translator]",
+    "gutenbergReference": "54742",
+    "hash": "392888710be5604a88dc6600cfd86590a48809662920f47882697d1611077510"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty-five minutes to eight",
+    "quoteLast": "; his guests would be coming to dine at eight o'clock and he had not begun to dress.",
+    "title": "The Reason Why",
+    "author": "Glyn, Elinor, 1864-1943",
+    "gutenbergReference": "12450",
+    "hash": "1975f86787e18b461a42c31714520b76e1e88f230cc3fd9a11773bb21e05bd87"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "As we passed a jeweler's place Grenelli glanced at the electric-clock dial in the window and saw that it was ",
+    "quoteTime": "twenty-five minutes of eight",
+    "quoteLast": ".",
+    "title": "The Gates of Chance",
+    "author": "Sutphen, Van Tassel, 1861-1945",
+    "gutenbergReference": "3758",
+    "hash": "f8ae81bc1a72e8926212c144c60c4550123d5dfbfecfac300fc37e2b367005bc"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "“",
+    "quoteTime": "Thirty-five minutes after seven",
+    "quoteLast": ",” said Athos, “by which you perceive I am five minutes faster than you.”",
+    "title": "The three musketeers",
+    "author": "Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888",
+    "gutenbergReference": "1257",
+    "hash": "a85c2ea01128cc5e64d1f451b14be31574f9ba93543139b2e4690864683736ab"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "The clock before her eyes said ",
+    "quoteTime": "thirty-five minutes past seven",
+    "quoteLast": ".",
+    "title": "The Heart of Rachael",
+    "author": "Norris, Kathleen Thompson, 1880-1966",
+    "gutenbergReference": "4915",
+    "hash": "dc0fbb3cd03c064c31646e054fe694c478ceff9fdb9c748af2e90e9a771865eb"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "I looked at my watch; it was exactly ",
+    "quoteTime": "twenty-five minutes to eight",
+    "quoteLast": ".",
+    "title": "The Black Tortoise: Being the Strange Story of Old Frick's Diamond",
+    "author": "Sparre, Christian, 1859-1940; Brækstad, Gertrude Hughes [Translator]",
+    "gutenbergReference": "46006",
+    "hash": "e08096334b1e0e4d96ef77b2b6c474e97d77e179fa0a18b10d1e47f9d1a5907c"
+  },
+  {
+    "time": "19:35",
     "quoteFirst": "On June 20, at from 6.50 to ",
     "quoteTime": "7.35 p. m.",
     "quoteLast": ", the young had been seven days in the nest.",
@@ -51,33 +141,23 @@
   },
   {
     "time": "19:35",
-    "quoteFirst": "As he let himself out into the road by a little side-gate of which he had pocketed the key, it was ",
-    "quoteTime": "five-and-twenty minutes to eight",
-    "quoteLast": ".",
-    "title": "Lippincott's Magazine of Popular Literature and Science, Volume 20. December, 1877",
-    "author": "Various",
-    "gutenbergReference": "37946",
-    "hash": "d68a9b0b4b35bf577543b31c0c9b0c815233ab16bdcf1a4741acaf1d4da5b0b7"
+    "quoteFirst": "approaching; course altered to avoid torpedoes which passed ahead; and at 8.25 P.M. torpedo track on starboard side, turned at full speed; torpedo broke surface at about 150 yards on the starboard bow”; the _Revenge_ remarked, “at ",
+    "quoteTime": "7.35 P.M.",
+    "quoteLast": " altered course to port to avoid two torpedoes, one passed about ten yards ahead and the other about twenty yards astern, and at 7.43 P.M. altered course to avoid torpedoes, two passing astern”; the _Colossus_ stated, “at 7.35 P.M. turned to port to avoid a torpedo coming from starboard side”; the _Barham_ at this period reported that “at least four torpedoes passed through the line close to the _Barham_”; the _Collingwood_ reported, “torpedo track was seen 20 degrees abaft the beam and coming straight at the ship; large helm was put on and the torpedo passed very close astern; at the same time another was seen to pass about thirty yards ahead.”",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "hash": "d78a3a47c54f5cd776e1818a05ae06c1293022713f5ab7a3dfba5896c0ec1f0e"
   },
   {
     "time": "19:35",
-    "quoteFirst": "I looked at my watch: it wanted ",
-    "quoteTime": "five-and-twenty minutes to eight",
-    "quoteLast": ".",
-    "title": "Recollections of a Policeman",
-    "author": "Russell, William",
-    "gutenbergReference": "46462",
-    "hash": "042e08bbb1bc00ebb4266b36615f13ca5c9a9d9f8d10a67ff57453b6b51e32e1"
-  },
-  {
-    "time": "19:35",
-    "quoteFirst": "Seven clear little bells; then two chimes for the half-hour; then five quick busy strokes; ",
-    "quoteTime": "five-and-twenty minutes to eight",
-    "quoteLast": ".",
-    "title": "The heir: A love story",
-    "author": "Sackville-West, V. (Victoria), 1892-1962",
-    "gutenbergReference": "60368",
-    "hash": "a3539c68fb10219b7d3782ea826442880f65d47bab02b6c0d77005e6a44b96e7"
+    "quoteFirst": "The train for Galicia started at ",
+    "quoteTime": "thirty-five minutes past seven",
+    "quoteLast": ", and at that pleasant twilight hour the platform of the Northern Depot was filled with a hurried and animated crowd of travelers and their friends who had come to see them off, the latter envying those who were going to see beautiful scenery, to breathe the sea air, to enjoy a cool temperature, and to spend a few months pleasantly in a healthy and",
+    "title": "Morriña (Homesickness)",
+    "author": "Pardo Bazán, Emilia, condesa de, 1852-1921; Serrano, Mary J. (Mary Jane), -1923 [Translator]",
+    "gutenbergReference": "54742",
+    "hash": "392888710be5604a88dc6600cfd86590a48809662920f47882697d1611077510"
   },
   {
     "time": "19:35",
@@ -91,12 +171,32 @@
   },
   {
     "time": "19:35",
-    "quoteFirst": "The clock before her eyes said ",
-    "quoteTime": "thirty-five minutes past seven",
-    "quoteLast": ".",
-    "title": "The Heart of Rachael",
-    "author": "Norris, Kathleen Thompson, 1880-1966",
-    "gutenbergReference": "4915",
-    "hash": "dc0fbb3cd03c064c31646e054fe694c478ceff9fdb9c748af2e90e9a771865eb"
+    "quoteFirst": "approaching; course altered to avoid torpedoes which passed ahead; and at 8.25 P.M. torpedo track on starboard side, turned at full speed; torpedo broke surface at about 150 yards on the starboard bow”; the _Revenge_ remarked, “at ",
+    "quoteTime": "7.35 P.M.",
+    "quoteLast": " altered course to port to avoid two torpedoes, one passed about ten yards ahead and the other about twenty yards astern, and at 7.43 P.M. altered course to avoid torpedoes, two passing astern”; the _Colossus_ stated, “at 7.35 P.M. turned to port to avoid a torpedo coming from starboard side”; the _Barham_ at this period reported that “at least four torpedoes passed through the line close to the _Barham_”; the _Collingwood_ reported, “torpedo track was seen 20 degrees abaft the beam and coming straight at the ship; large helm was put on and the torpedo passed very close astern; at the same time another was seen to pass about thirty yards ahead.”",
+    "title": "The Grand Fleet, 1914-1916",
+    "author": "Jellicoe, John Rushworth, 1859-1935",
+    "gutenbergReference": "75323",
+    "hash": "d78a3a47c54f5cd776e1818a05ae06c1293022713f5ab7a3dfba5896c0ec1f0e"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "“",
+    "quoteTime": "Thirty-five minutes after seven",
+    "quoteLast": ",” said Athos, “by which you perceive I am five minutes faster than you.”",
+    "title": "The three musketeers",
+    "author": "Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888",
+    "gutenbergReference": "1257",
+    "hash": "a85c2ea01128cc5e64d1f451b14be31574f9ba93543139b2e4690864683736ab"
+  },
+  {
+    "time": "19:35",
+    "quoteFirst": "He arrived at ",
+    "quoteTime": "twenty-five minutes before eight",
+    "quoteLast": " and waited contentedly in converse with her aunt until Jane came down.",
+    "title": "Jane Journeys On",
+    "author": "Mitchell, Ruth Comfort, 1882-1954",
+    "gutenbergReference": "20230",
+    "hash": "d1daad0af7b9f11b0e437827e5cc646a2db5228875b71bdfcec0165d00544961"
   }
 ]

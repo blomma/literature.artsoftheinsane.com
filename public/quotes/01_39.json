@@ -1,6 +1,26 @@
 [
   {
     "time": "01:39",
+    "quoteFirst": "The fourth mile was passed at ",
+    "quoteTime": "thirty-nine minutes past one",
+    "quoteLast": ", with an air temperature of 8 degrees, and a dew-point of minus 6 degrees and the fifth mile about ten minutes later, with an air temperature minus 5 degrees, and a dew-point minus 36 degrees.",
+    "title": "Wonderful Balloon Ascents; Or, The Conquest of the Skies\r\nA History of Balloons and Balloon Voyages",
+    "author": "Marion, Fulgence",
+    "gutenbergReference": "899",
+    "hash": "a660ab8163559627673c5da9767d3fddcd15056ccbfde93ba9cc3bfe43d93cd0"
+  },
+  {
+    "time": "01:39",
+    "quoteFirst": "All of this had occurred “between half past ",
+    "quoteTime": "one and twenty minutes to two",
+    "quoteLast": ".”",
+    "title": "... and justice for all",
+    "author": "Kunstler, William M. (William Moses), 1919-1995",
+    "gutenbergReference": "78229",
+    "hash": "8c579276d4b64d240e9a9c9146fb4d00c25af76a7cf4ad1c2494b83d71363135"
+  },
+  {
+    "time": "01:39",
     "quoteFirst": "She will rise on the 15th at ",
     "quoteTime": "1:39 a. m.",
     "quoteLast": ", and set on the 1st and 30th at 1:36 a.",

@@ -1,6 +1,16 @@
 [
   {
     "time": "17:17",
+    "quoteFirst": "At length success crowned his efforts; and at ",
+    "quoteTime": "seventeen minutes past five",
+    "quoteLast": " o'clock (less a second) on Saturday afternoon the 6th October 1877, Gale terminated his long and dreary walk in the presence of a large, fashionable, and enthusiastic assemblage, who rewarded his efforts with several rounds of hearty applause.",
+    "title": "Chambers's Journal of Popular Literature, Science, and Art, No. 730\nDecember 22, 1877",
+    "author": "Various; Chambers, Robert, 1802-1871 [Editor]; Chambers, William, 1800-1883 [Editor]",
+    "gutenbergReference": "51841",
+    "hash": "219c6949e4fd69268da3fd8bb0e284b1664ea097f737f22e8b187bbf8f404aca"
+  },
+  {
+    "time": "17:17",
     "quoteFirst": "",
     "quoteTime": "5:17 p. m.",
     "quoteLast": " Saturday at Paris, France.",
@@ -8,6 +18,16 @@
     "author": "Various; Jones, William P. [Editor]",
     "gutenbergReference": "70718",
     "hash": "fb90f26c41693085fb9a088fe3034edf7ad7acbbed70079c8ba18e625a62f790"
+  },
+  {
+    "time": "17:17",
+    "quoteFirst": "When I had crossed the Mississippi it was exactly ",
+    "quoteTime": "seventeen minutes past five",
+    "quoteLast": ".",
+    "title": "On a Donkey's Hurricane Deck\r\nA Tempestous Voyage of Four Thousand and Ninety-Six Miles Across the American Continent on a Burro, in 340 Days and 2 Hours, Starting Without a Dollar and Earning My Way",
+    "author": "Woodward, R. Pitcher (Robert Pitcher)",
+    "gutenbergReference": "42214",
+    "hash": "b27e78c1a0c1838e4beb2fca617609ca886b3e6d17f33e3151d39d1ce8bfc2b6"
   },
   {
     "time": "17:17",

@@ -1,102 +1,202 @@
 [
   {
     "time": "15:57",
-    "quoteFirst": "It was ",
-    "quoteTime": "about four o’clock in the afternoon",
-    "quoteLast": " when, says an eye-witness, “we saw the firing of the muskets in Speen, which discovered the service to be very hot, and with joy and thankfulness beheld the hasty disorderly retreat of the enemy towards Newbury.”",
-    "title": "King and commonwealth",
-    "author": "Gardiner, Bertha Meriton, 1846?-1925; Phillpotts, J. Surtees (James Surtees), 1839-1930",
-    "gutenbergReference": "76676",
-    "hash": "f1aabbd78f8af1494c6a079450416f6a6accde688617372b73ff384442725d7e"
-  },
-  {
-    "time": "15:57",
-    "quoteFirst": "We arrived here ",
-    "quoteTime": "about four o'clock in the afternoon",
-    "quoteLast": "; and, being desirous of purchasing a horse for one of the men, and making some farther arrangements for my journey, I determined to stop for the night.",
-    "title": "Farnham's Travels in the Great Western Prairies, etc., part 1, May 21-October 16, 1839",
-    "author": "Farnham, Thomas Jefferson, 1804-1848; Thwaites, Reuben Gold, 1853-1913 [Editor]",
-    "gutenbergReference": "48046",
-    "hash": "2060ca137178ec270675fcd42ef3d725017122abed3cb8c88dfc481de4d4c7b2"
-  },
-  {
-    "time": "15:57",
-    "quoteFirst": "We reached Encinal ",
-    "quoteTime": "about 4 P. M.",
-    "quoteLast": " after a march of about 17 miles, and almost incessant labor at repairs.",
-    "title": "The Mexican War diary of George B. McClellan",
-    "author": "McClellan, George B. (George Brinton), 1826-1885; Myers, William Starr, 1877-1956 [Editor]",
-    "gutenbergReference": "68308",
-    "hash": "4c672663d30bfaa793e19ab3462cee04aae5e6fae8a6e40ca7d485798c1ecb79"
-  },
-  {
-    "time": "15:57",
-    "quoteFirst": "The Senators and Syndic came again to compliment Whitelocke for the Lords, and to wish him a good journey; and, after ceremonies passed, ",
-    "quoteTime": "about four o'clock in the afternoon",
-    "quoteLast": ", Whitelocke took his coach for Hamburg; he had another coach and four waggons for his people.",
-    "title": "A Journal of the Swedish Embassy in the Years 1653 and 1654, Vol II.",
-    "author": "Whitelocke, Bulstrode, 1605-1675; Morton, Charles, 1716-1799 [Editor]; Reeve, Henry, 1813-1895 [Editor]",
-    "gutenbergReference": "17407",
-    "hash": "14674f9a3f40f7e4af061cff5b38599976f6381c24045f3a455961bfff364cba"
-  },
-  {
-    "time": "15:57",
-    "quoteFirst": "This was the company which, arriving ",
-    "quoteTime": "about four in the afternoon",
-    "quoteLast": " at Marmont's headquarters, presented Napoleon's message.",
-    "title": "The Life of Napoleon Bonaparte. Vol. 4 (of 4)",
-    "author": "Sloane, William Milligan, 1850-1928",
-    "gutenbergReference": "34838",
-    "hash": "f514aacdb244c85b16dfea9fc16a7e6eb70f4f1117997173a98ab4c60ed2268f"
-  },
-  {
-    "time": "15:57",
     "quoteFirst": "",
-    "quoteTime": "About 4 p.m.",
-    "quoteLast": " we managed to dodge away, our heads feeling like pumpkins, the worst of the fire being over, and by six o'clock it had died down, leaving a charred black waste, with innumerable twinkling lights all over it, which, in the gathering dusk, gave the impression of a city seen in the distance by night.",
-    "title": "From Chart House to Bush Hut\nBeing the Record of a Sailor's 7 Years in the Queensland Bush",
-    "author": "Bryde, C. W.",
-    "gutenbergReference": "36340",
-    "hash": "1315b8c7b88482df0fc50e432c8a8d2ec6be09cd9f70956ed6d1ee208a2fd953"
+    "quoteTime": "About four o’clock that afternoon",
+    "quoteLast": " Mr. Harrington had called.",
+    "title": "Inspector French's greatest case",
+    "author": "Crofts, Freeman Wills, 1879-1957",
+    "gutenbergReference": "65553",
+    "hash": "9ff8450230ebc476787ff5b78f67ece75f705fa170edbea6dc4ba68e6a51698e"
   },
   {
     "time": "15:57",
-    "quoteFirst": "There was no appearance of fear among the men I saw at ",
-    "quoteTime": "about four P.M.",
-    "quoteLast": " (I can only guess the time, for my watch had stopped), but abundant evidence of false confidence and still more of the indifference of men who feel they have done all that should be required of them and are utterly fagged out.",
-    "title": "His Sombre Rivals",
-    "author": "Roe, Edward Payson, 1838-1888",
-    "gutenbergReference": "6128",
-    "hash": "3443d720b93f3d8473ef6982c65023fc5358fdb3b6d96d0a62b5fc889d683ce3"
-  },
-  {
-    "time": "15:57",
-    "quoteFirst": "We reached Plouharnel ",
-    "quoteTime": "about four in the afternoon",
-    "quoteLast": ", and took a tram for Carnac at once, and when we reached Carnac Uncle said to pardon the personality of the statement, but that he never again would try to keep up with the eternal activity of a young person.",
-    "title": "Seeing France with Uncle John",
-    "author": "Warner, Anne, 1869-1913; Preston, May Wilson, 1873-1949 [Illustrator]",
-    "gutenbergReference": "35574",
-    "hash": "7d2c34b4da797a6baa2e0b0a7afd679588a6ca7fef4528f9571fc147eda62718"
-  },
-  {
-    "time": "15:57",
-    "quoteFirst": "Much parleying and supplicating on the part of Erfurt: Till at last, ",
+    "quoteFirst": "A cavalry detachment from Campbell's 6th Cavalry Brigade, under Campbell himself, had also appeared ",
     "quoteTime": "about 4 P.M.",
-    "quoteLast": ", French being all off, Erfurt flung its gates open; and the new Power did enter, with some due state: Prussian Majesty in Person (who could have hoped it!)",
-    "title": "History of Friedrich II of Prussia — Volume 18",
-    "author": "Carlyle, Thomas, 1795-1881",
-    "gutenbergReference": "2118",
-    "hash": "b303d003f3f09ce8b37fa257972486d8bbfb2bb8ef6d12039b4da9160c215bdd"
+    "quoteLast": " as a mobile reserve and thrown itself into Loos to strengthen the defence.",
+    "title": "The British Campaign in France and Flanders, 1915",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "gutenbergReference": "65043",
+    "hash": "fcf241768195e36d2a1bb00d9716bd3aed48cbf0633734773b98e43d660b209a"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "The battle cruisers, assisted by the _Carnarvon_, concentrated their fire, first on Admiral von Spee's ship, the _Scharnhorst_, which sank, refusing to cease firing, ",
+    "quoteTime": "about 4 P.M.",
+    "quoteLast": "; next on the _Gneisenau_, which sank two hours afterwards.",
+    "title": "The Annual Register 1914\nA Review of Public Events at Home and Abroad for the Year 1914",
+    "author": "Anonymous",
+    "gutenbergReference": "46471",
+    "hash": "45e79c824a5c285fd1c966d63c808cd44924b34ce9e010238ec6d569aa996356"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "Anxious for the safety of the Confederate left, and fearing that it might be attacked by forces from the north of the Chickahominy, General Johnston had ordered the brigades of Whiting, Hood, Pettigrew, Hatton and Hampton, under Whiting, at ",
+    "quoteTime": "about 4 p. m.",
+    "quoteLast": ", to march by Fair Oaks to attack the Federal right and rear.",
+    "title": "Confederate Military History - Volume 5 (of 12)\nA Library of Confederate States History",
+    "author": "Capers, Ellison, 1837-1908; Evans, Clement A. (Clement Anselm), 1833-1911 [Editor]",
+    "gutenbergReference": "50737",
+    "hash": "071fb37517335f516b23130c339eae7c4ed86fac95c4635f337f8515ec50780a"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "The rest-time is usually the forenoon and till ",
+    "quoteTime": "about four P.M.",
+    "quoteLast": " with another rest for part of the night.",
+    "title": "Impressions of South Africa",
+    "author": "Bryce, James Bryce, Viscount, 1838-1922",
+    "gutenbergReference": "22323",
+    "hash": "0d261def2b10709b1d032663e4988af9b47efc675daab098ea136a8c0b370a66"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "A slow train to Amberieu, a still slower cross journey to Lyons, which I did not reach till ",
+    "quoteTime": "nearly 4 P.M.",
+    "quoteLast": ", and learnt that another hour or more must elapse before the departure of the next Marseilles express.",
+    "title": "The Passenger from Calais",
+    "author": "Griffiths, Arthur, 1838-1908",
+    "gutenbergReference": "16339",
+    "hash": "a25f1feaea104463e621d281fedf0bc33e7078ff68a0828c02afc33946d48716"
   },
   {
     "time": "15:57",
     "quoteFirst": "",
-    "quoteTime": "About 4 P. M.",
-    "quoteLast": " Mr. CAPPER paid us a visit; and having minutely inspected the prison, and conversed with several of the prisoners, he expressed his entire approbation of what he saw.",
-    "title": "Two Voyages to New South Wales and Van Diemen's Land",
-    "author": "Reid, Thomas, 1791-1825",
-    "gutenbergReference": "53643",
-    "hash": "46279452be2df4893b4c39825cc41dce5b4e8e2466040e2c1a5c8d7c19fab11a"
+    "quoteTime": "About 4 o'clock P. M.",
+    "quoteLast": ", the trains stopped and whistled long and loud.",
+    "title": "Andersonville: A Story of Rebel Military Prisons — Volume 4",
+    "author": "McElroy, John, 1846-1929",
+    "gutenbergReference": "4260",
+    "hash": "4dc21bbef5c934c72eb287f41f6c4d5a82bbd75fec95bed6687e0e398304c665"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "I left them still diligently potting the unconscious enemy, and at ",
+    "quoteTime": "about four o'clock in the afternoon",
+    "quoteLast": " I heard a terrific musketry fire back towards Grivitza.",
+    "title": "Under the Red Crescent\r\nAdventures of an English Surgeon with the Turkish Army at Plevna and Erzeroum 1877-1878",
+    "author": "Ryan, Charles S. (Charles Snodgrass), 1853-1926; Sandes, John, 1863-",
+    "gutenbergReference": "42202",
+    "hash": "5fc034a00c13d1141867a865c7af6dc3c289f08a46e608a7215bbc8bc4962f29"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "",
+    "quoteTime": "About four o’clock in the afternoon",
+    "quoteLast": " I felt so badly, I left the office and went home.",
+    "title": "The Marriage of William Durrant",
+    "author": "Cummings, Ray, 1887-1957",
+    "gutenbergReference": "67342",
+    "hash": "0cd6781ab2d22266c4cd3fe31ac99b0ef8fa16bea50878e80ccb2c178cdbd7aa"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "Noon has passed, and there has      been no infantry-firing yet, only the booming of artillery;      but ",
+    "quoteTime": "about 4 P.M.",
+    "quoteLast": " the volleys of musketry fell on the ear,      died away, and then burst out anew, and did not cease until      dark, when they receded in the distance, indicating the      advance of our troops.",
+    "title": "Two Wars: An Autobiography of General Samuel G. French\r\nMexican War; War between the States, a Diary; Reconstruction Period, His Experience; Incidents, Reminiscences, etc.",
+    "author": "French, Samuel Gibbs, 1818-1910",
+    "gutenbergReference": "45603",
+    "hash": "df57a8cb44534f0e4d328ac36107336fa8e379283a7a6dbc34f22f7a1eea9b14"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "** This was overcome after much hard fighting, and at ",
+    "quoteTime": "about four o'clock",
+    "quoteLast": " both forts were invested by the enemy.",
+    "title": "The Pictorial Field-Book of the Revolution, Vol. 1 (of 2)\r\nor, Illustrations, by Pen And Pencil, of the History, Biography, Scenery, Relics, and Traditions of the War for Independence",
+    "author": "Lossing, Benson John, 1813-1891",
+    "gutenbergReference": "49351",
+    "hash": "281081e0a6746cdbfa468de4636386ab07aa04441b31b03dff608fdb6713626a"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "=saru toki=, ",
+    "quoteTime": "about 4 p.m.",
+    "quoteLast": ", T.",
+    "title": "Primitive & Mediaeval Japanese Texts\r\nTransliterated into Roman with introductions, notes and glossaries",
+    "author": "Dickins, F. Victor (Frederick Victor), 1838-1915 [Editor]",
+    "gutenbergReference": "53295",
+    "hash": "f54c7f9a3cdb1f73030d960dbc1c17270004f25adf5bff7a5863d9c53fe68359"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "",
+    "quoteTime": "About four in the afternoon",
+    "quoteLast": ", during a partial cessation of the sleet and rain which had been incessant for so many days, melting the snow on the mountains and swelling the rivers, Quentin found himself posted as an advanced sentinel in front of the line of out-picquets, near the road leading from Lugo to Nogales.",
+    "title": "The King's Own Borderers: A Military Romance, Volume 3 (of 3)",
+    "author": "Grant, James, 1822-1887",
+    "gutenbergReference": "67228",
+    "hash": "b3cfe095db93d618ceaa26e176fa1ff2d3ab2a4ba6e7f728a6a8f1c553c52a6a"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "During the Fight the _English_ Admiral had two Ships disabled under him; and was obliged ",
+    "quoteTime": "about Four in the Afternoon",
+    "quoteLast": " to remove himself a third Time into the _London_, where he remain'd all the rest of the Fight, and till next Morning.",
+    "title": "Military Memoirs of Capt. George Carleton",
+    "author": "Defoe, Daniel, 1661?-1731",
+    "gutenbergReference": "14436",
+    "hash": "4542e2e930a6119adbe7f825f3b061298465ed1c990325ae71c70df53c6f073a"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "“You know it was ",
+    "quoteTime": "about four o’clock in the afternoon",
+    "quoteLast": " of the 18th that Napoleon ordered Grouchy to advance with the first and second brigade of the Old Guard and two regiments of chasseurs, and attack the position occupied by Picton and the regiments under his command. Well, sir, on they came, masked by the smoke of a terrific discharge of artillery, stationed on a small eminence to our left, and which did tremendous execution among our poor fellows—on they came, Sir; and as the smoke cleared partially away we got a glimpse of them, and a more dangerous looking set I should not desire to see: grizzle-bearded, hard-featured, bronzed fellows, about five-and-thirty or forty years of age; their beauty not a whit improved by the red glare thrown upon their faces and along the whole line by each flash of the long twenty-fours that were playing away to the right. Just at this moment Picton rode",
+    "title": "The Confessions of Harry Lorrequer — Complete",
+    "author": "Lever, Charles, 1806-1872; Browne, Hablot Knight, 1815-1882 [Illustrator]",
+    "gutenbergReference": "5240",
+    "hash": "3386a948ff3aceed6c0093b2bebc5accb605e4f62d2187f94203588bd0863954"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "We arrived ",
+    "quoteTime": "about 4 p.m.",
+    "quoteLast": " at the village where we were to spend the night, and I doubt if we could have gone much further, for we were all dead-beat.",
+    "title": "Two years' captivity in German East Africa",
+    "author": "E. C. H. (Ernest Charles Holtom) (Surgeon), 1884-1964",
+    "gutenbergReference": "75773",
+    "hash": "8c328eedb9ad78d932e3020520b5ddc83c87f20d66fca8b957942cdb5eb846ac"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "",
+    "quoteTime": "About 4 P.M.",
+    "quoteLast": " I saddled my horse and made a start for Fort Douglas, but on shaking hands with Mr. and Mrs. Howard, they being the only people beside myself present, and bidding them goodby, they persuaded me to have one more drink at their expense.",
+    "title": "A cowboy detective",
+    "author": "Siringo, Charles A., 1855-1928",
+    "gutenbergReference": "77835",
+    "hash": "86a88b36387bfec85c52cf2ec459928859b5503c3abcf61f2659aa0bdc2b4cff"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "The amphitheatre, to which the viceroy, the nomarch, and the foremost officers betook themselves ",
+    "quoteTime": "about four in the afternoon",
+    "quoteLast": " was built in the garden of the temple.",
+    "title": "The Pharaoh and the Priest: An Historical Novel of Ancient Egypt",
+    "author": "Prus, Bolesław, 1847-1912; Curtin, Jeremiah, 1835-1906 [Translator]",
+    "gutenbergReference": "23646",
+    "hash": "b7616721ba738ecf02f5999e3c7d6d20044a26e85c2db26aeebe8df7563861ab"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "It was ",
+    "quoteTime": "about four o'clock in the afternoon",
+    "quoteLast": " when I entered the dark cell.",
+    "title": "Within Prison Walls\r\nbeing a narrative during a week of voluntary confinement in the state prison at Auburn, New York",
+    "author": "Osborne, Thomas Mott, 1859-1926",
+    "gutenbergReference": "33255",
+    "hash": "dd11c85afb52ef4d0706e9490ee23eb6b974ca01bc64afa22360d58139bd339a"
+  },
+  {
+    "time": "15:57",
+    "quoteFirst": "We waited on the gunboat till ",
+    "quoteTime": "about 4 p.m.",
+    "quoteLast": " Commander Dixon came and wished us good luck, and that I might be found useful to the Staff at Mudros.",
+    "title": "The Secrets of a Kuttite\nAn Authentic Story of Kut, Adventures in Captivity and Stamboul Intrigue",
+    "author": "Mousley, Edward O. (Edward Opotiki), 1886-",
+    "gutenbergReference": "41213",
+    "hash": "df002b641733f94fd39172034ae63eb9145da83b5ebf334e82a9f34cb981858d"
   }
 ]

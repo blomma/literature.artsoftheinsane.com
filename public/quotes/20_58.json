@@ -1,102 +1,202 @@
 [
   {
     "time": "20:58",
-    "quoteFirst": "The Schools are open Free for the inspection of the Public every Saturday, from ",
-    "quoteTime": "2 till 9 p.m.",
-    "quoteLast": "  Entrance through the Museum.",
-    "title": "Allen & Morton's West-London Directory for 1867",
-    "author": "Allen & Morton",
-    "gutenbergReference": "51104",
-    "hash": "242ed655efd79bc72c47f3958f4762b8a1e54bc4195d42df46fdc4440643134f"
-  },
-  {
-    "time": "20:58",
-    "quoteFirst": "He then returned, and continued in the house till ",
+    "quoteFirst": "He started for the ranch ",
     "quoteTime": "about nine in the evening",
-    "quoteLast": ", when, pretending to go to bed, he passed out of a back door, and hastened to the woods for his bundle.",
-    "title": "Israel Potter: His Fifty Years of Exile",
-    "author": "Melville, Herman, 1819-1891",
-    "gutenbergReference": "15422",
-    "hash": "3b33b8f960328ee9f3f0bb89ede76f2f38d56575762b4b9a9e4fe897e6eefa22"
+    "quoteLast": ", and when he struck the hills, close to the place where we met the stampeded herd, somebody roped him from the roadside and jerked him out of the saddle.",
+    "title": "Motor Matt's Race; or, The Last Flight of the Comet",
+    "author": "Matthews, Stanley R.",
+    "gutenbergReference": "47087",
+    "hash": "5f45d7c77ba0b60778fb99124ca9c4654baced4c0b751c1bb804ec5ffa1bd6dc"
   },
   {
     "time": "20:58",
-    "quoteFirst": "We got into Cape Clear ",
-    "quoteTime": "about nine o’clock in the evening",
+    "quoteFirst": "He accordingly drove in that direction, as far as the fog would permit the hansom to go, and walked the rest of the way, reaching the house ",
+    "quoteTime": "about nine o'clock",
     "quoteLast": ".",
-    "title": "Rossa's Recollections, 1838 to 1898\r\nChildhood, boyhood, manhood; customs, habits and manners of the Irish people; Erinach and Sassenach; Catholic and protestant; Englishman and Irishman; English religion; Irish plunder; social life and prison life; the Fenian movement; Travels in Ireland, England, Scotland and America",
-    "author": "O'Donovan Rossa, Jeremiah, 1831-1915",
-    "gutenbergReference": "49978",
-    "hash": "4deaa211d12be4f01521882b21b458cb2d14bd330ab8fba9e22d250e9805be65"
+    "title": "Ranson's Folly",
+    "author": "Davis, Richard Harding, 1864-1916",
+    "gutenbergReference": "5643",
+    "hash": "c4032666a4cd4b2b6d3b74f701084a37839c3afc2e9bf70206d2a0558b780aa7"
   },
   {
     "time": "20:58",
     "quoteFirst": "",
-    "quoteTime": "About nine in the evening",
-    "quoteLast": " the woman-kind, the children, and some of the men, betook themselves to sleeping chambers above, and we were shown a bed in the spacious hall below, on whose floor slept our seamen and some of the inmates.",
-    "title": "Through Bosnia and the Herzegóvina on foot during the insurrection, August and September 1875",
-    "author": "Evans, Arthur, Sir, 1851-1941",
-    "gutenbergReference": "73712",
-    "hash": "ad9eb46f1498c55e533f80da86f2eaf0bcabf8c2dea2ce8c0377521a6adaa145"
+    "quoteTime": "About 9 p.m.",
+    "quoteLast": " the order came to retire; coming up the mountain was bad enough, but going down was worse.",
+    "title": "An English woman-sergeant in the Serbian Army",
+    "author": "Sandes, Flora, 1876-1956; Grujić, Slavko J., 1871-1937 [Author of introduction, etc.]",
+    "gutenbergReference": "71442",
+    "hash": "8e1bab31ef0884c99fee9dde91a3abf63fa1e300421535d53c33fedba2f5cc97"
+  },
+  {
+    "time": "20:58",
+    "quoteFirst": "In the long June gloaming the evening milking was not done till ",
+    "quoteTime": "about nine o'clock",
+    "quoteLast": ".",
+    "title": "Fresh Fields",
+    "author": "Burroughs, John, 1837-1921",
+    "gutenbergReference": "44127",
+    "hash": "39923ddfab05d7fae68a947366555845b21c351bcd460edf2c69c4b2a170d2e3"
   },
   {
     "time": "20:58",
     "quoteFirst": "",
     "quoteTime": "About nine o’clock in the evening",
-    "quoteLast": " he was returning from the plaza, which with its great lighted fires, the stalls of the market-people, the strange garb of the peasantry, and the snow-white sarapos, or cloaks, of the idlers of the town, presented a stirring aspect, when, striking into a dark and narrow street, a group of vagabonds, at the door of a pulque shop, detected that he was a stranger, and, mistaking his nationality, yelled at him: “Let’s kill him, the Texan!”",
-    "title": "Some Heroes of Travel\r\nor, Chapters from the History of Geographical Discovery and Enterprise",
-    "author": "Adams, W. H. Davenport (William Henry Davenport), 1828-1891",
-    "gutenbergReference": "42749",
-    "hash": "4a788ae825fa35769c8a9a59ba6a653641e3b00c0aa1b0e18d41d353fb1e7fcf"
+    "quoteLast": " the wedding party assembles.",
+    "title": "The North American Indian, Vol. 1",
+    "author": "Curtis, Edward S., 1868-1952",
+    "gutenbergReference": "19449",
+    "hash": "bad1475c2c9b4d49eea16024140bceacff607b2ff41140999d8492bd8ca8b49f"
+  },
+  {
+    "time": "20:58",
+    "quoteFirst": "At ",
+    "quoteTime": "about nine o'clock in the evening",
+    "quoteLast": " we could see a fire shining from a neighbouring mountain, and we supposed that the Bushmen were having a feast of grilled hyrax for their supper.",
+    "title": "Sporting Scenes amongst the Kaffirs of South Africa",
+    "author": "Drayson, Alfred W. (Alfred Wilks), 1827-1901",
+    "gutenbergReference": "32558",
+    "hash": "d5325a60c937ce3f8ec23f9a42246db90f3f43621e7b06949def56515ff8d321"
+  },
+  {
+    "time": "20:58",
+    "quoteFirst": "She took the cup in one hand, Marietta in the other, and went, ",
+    "quoteTime": "about nine o’clock",
+    "quoteLast": ", to where Monsieur Hautmartin was wont to sit in judgment.",
+    "title": "Short story classics (Foreign), Vol. 3, German",
+    "author": "Patten, William, 1868-1936 [Editor]",
+    "gutenbergReference": "73630",
+    "hash": "cc669c26013218af131839881e4a93b853136bd8102910e5ccda07b6a7451bf6"
+  },
+  {
+    "time": "20:58",
+    "quoteFirst": "Neither cart nor driver was again seen until long after the battle was over, ",
+    "quoteTime": "about nine o'clock in the evening",
+    "quoteLast": ".",
+    "title": "Impressions of a War Correspondent",
+    "author": "Lynch, George, 1868-1928",
+    "gutenbergReference": "21661",
+    "hash": "074158dfed6f30d6c48bc4e60ec72e557be3c66f85b40fc04609054b006a21de"
+  },
+  {
+    "time": "20:58",
+    "quoteFirst": "A pouring rain and fatigue stopped the combatants ",
+    "quoteTime": "about nine o'clock in the evening",
+    "quoteLast": ".",
+    "title": "Annals of a Fortress",
+    "author": "Viollet-le-Duc, Eugène-Emmanuel, 1814-1879; Bucknall, Benjamin, 1833-1895 [Translator]",
+    "gutenbergReference": "41426",
+    "hash": "c6883cfd31d5e75d171c87614df9547405bb980c3870080e25eabbf7ffcd7378"
   },
   {
     "time": "20:58",
     "quoteFirst": "",
-    "quoteTime": "About 9 P. M.",
-    "quoteLast": " General Mazza, in chief command of the military forces in the Straits, having returned to his headquarters on board the steamer _Duca Di Genova_, the American Ambassador, accompanied by Vice-Consul Lupton; Lieutenant-Commander Belknap, U. S. N.; Major Landis, U. S. N., and Mr. Elliott, as interpreter, visited the General, explaining the nature of the expedition, its approval by the King of Italy and the readiness of everything on board for disposal as General Mazza might direct.",
-    "title": "The American Red Cross Bulletin (Vol. IV, No. 2, April 1909)",
-    "author": "American National Red Cross",
-    "gutenbergReference": "72072",
-    "hash": "713594cce384260a87c0546091e8047839ccd2abd3f818288aec1a880902f199"
+    "quoteTime": "About 9 p.m.",
+    "quoteLast": " that evening I boarded the Gladstone mail train, and found myself one of a herd of males penned up in a bare wooden \"three-in-one\" dog-box of a carriage, with a mouldy odour of mildew, sulphur and antediluvian \"Flor-de-Cabbagios\" hanging about it.",
+    "title": "From Chart House to Bush Hut\nBeing the Record of a Sailor's 7 Years in the Queensland Bush",
+    "author": "Bryde, C. W.",
+    "gutenbergReference": "36340",
+    "hash": "428a6c54372b6e9dd3e02e89ea50bff69947282070b4dcb4bd0642a5cc8974cf"
+  },
+  {
+    "time": "20:58",
+    "quoteFirst": "Glad to escape, even for the brief period of a month, from the monotony of routine parades, the stable duty, the barrack life, and useless hurly-burly of Maidstone—to be free from all bother, mess, band, and ball committees, courts-martial, and courts of inquiry; from having to remember when this parade took place, and when that particular drill, and all that sort of thing—glad, I say, to escape from being saluted by soldiers and sentinels at every turn and corner, and to be once again lord of my own proper person, I relinquished my gay lancer trappings, and resumed the less pretending mufti of the civilian—a suit of warm and strong heather-mixture tweed—and ",
+    "quoteTime": "about nine o’clock P.M.",
+    "quoteLast": " found myself, with some light travelling baggage, my gun-case, railway rugs, &c.",
+    "title": "One of the Six Hundred: A Novel",
+    "author": "Grant, James, 1822-1887",
+    "gutenbergReference": "55179",
+    "hash": "60712616c5c11f7fed25379e8a354a4250cff25c8485f3b8dba6784a41600e17"
+  },
+  {
+    "time": "20:58",
+    "quoteFirst": "",
+    "quoteTime": "About nine p.m.",
+    "quoteLast": " all the canoes turned up and the camp was soon alive with noise and bustle.",
+    "title": "Wanderings among South Sea Savages and in Borneo and the Philippines",
+    "author": "Walker, H. Wilfrid",
+    "gutenbergReference": "2564",
+    "hash": "100be4b562e58ea3d9c17d8f2dd8bdd66dbbba19f26b093e13c08f4497cef50a"
+  },
+  {
+    "time": "20:58",
+    "quoteFirst": "",
+    "quoteTime": "About nine o'clock that evening",
+    "quoteLast": " we found it, and went into camp for the night.",
+    "title": "The Great Salt Lake Trail",
+    "author": "Inman, Henry, 1837-1899; Buffalo Bill, 1846-1917",
+    "gutenbergReference": "5718",
+    "hash": "32fe32d97b271110126baa7d3327c23db344e5dce10e7ea32d7c92a35ca646b3"
   },
   {
     "time": "20:58",
     "quoteFirst": "It was ",
     "quoteTime": "about nine in the evening",
+    "quoteLast": ", when the decks were comparatively clear, that Orellana and his companions, having divested themselves of most of their clothes, came together to the quarter-deck, approaching the door of the great cabin.",
+    "title": "The Sea: Its Stirring Story of Adventure, Peril, & Heroism. Volume 2",
+    "author": "Whymper, Frederick",
+    "gutenbergReference": "39342",
+    "hash": "3e7b9de9e67e491c7e2df76c19acae67bbf8554652b2308895ec58606ff660a5"
+  },
+  {
+    "time": "20:58",
+    "quoteFirst": "",
+    "quoteTime": "About nine o'clock that evening",
+    "quoteLast": " we got the parts of the machine together, and commenced trying it.",
+    "title": "Hidden Treasures; Or, Why Some Succeed While Others Fail",
+    "author": "Lewis, Harry A.",
+    "gutenbergReference": "20151",
+    "hash": "640a6509dea0e6bbe3e20ac40a43bd6b46f0f75c68661bb9065bf635ee5fc4c2"
+  },
+  {
+    "time": "20:58",
+    "quoteFirst": "But, notwithstanding the excellence of the London pavement, I began ",
+    "quoteTime": "about nine o'clock",
+    "quoteLast": " to feel myself thoroughly tired; painfully and slowly did I drag my feet along.",
+    "title": "Lavengro: The Scholar, the Gypsy, the Priest",
+    "author": "Borrow, George, 1803-1881; Birrell, Augustine, 1850-1933 [Commentator]; Sullivan, Edmund J. (Edmund Joseph), 1869-1933 [Illustrator]",
+    "gutenbergReference": "452",
+    "hash": "1f8c9664f93ea581c25af5899e0bc4564da29365b55a77d7cc43d807bb4f63fa"
+  },
+  {
+    "time": "20:58",
+    "quoteFirst": "We get a bit mixed with a couple of stumps between here and the town, but extricate ourselves safely at length, and shortly afterwards we come in sight of the lights of Croydon twinkling ahead, pulling up in a few minutes to deliver the mails at the post-office, from whence we proceed down the main street, and ",
+    "quoteTime": "about 9 p.m.",
+    "quoteLast": " we finally alight at our journey’s end on the verandah of Harries and M‘Cabe’s Imperial Hotel, where a large crowd is assembled to witness our arrival. Host M‘Cabe turns out to be a very old friend whom I had lost sight of for some years, and consequently we were mutually pleased to renew our former acquaintance, and for my own part I felt delighted to meet some one in a new country like this whom I had formerly known so well, as it made me feel quite at home from the start.",
+    "title": "Sydney to Croydon (Northern Queensland)\r\nAn Interesting Account of a Journey to the Gulf Country with a Member of Parliament",
+    "author": "Saltbush",
+    "gutenbergReference": "57437",
+    "hash": "8890a2f723df9e74607db1a0f4029419a463117b0ba8d7873e2f180c06e776a2"
+  },
+  {
+    "time": "20:58",
+    "quoteFirst": "A pouring rain and fatigue stopped the combatants ",
+    "quoteTime": "about nine o'clock in the evening",
     "quoteLast": ".",
-    "title": "Following the Equator: A Journey Around the World. Part 4",
-    "author": "Twain, Mark, 1835-1910",
-    "gutenbergReference": "5811",
-    "hash": "af1560d212d888dde2d5e8abc46bbfb14121ad4faf63133f13f16efdfc9d5ed5"
+    "title": "Annals of a Fortress",
+    "author": "Viollet-le-Duc, Eugène-Emmanuel, 1814-1879; Bucknall, Benjamin, 1833-1895 [Translator]",
+    "gutenbergReference": "41426",
+    "hash": "c6883cfd31d5e75d171c87614df9547405bb980c3870080e25eabbf7ffcd7378"
   },
   {
     "time": "20:58",
-    "quoteFirst": "The moon rose ",
-    "quoteTime": "about nine o'clock that evening",
-    "quoteLast": ", and at that hour the gay party took their way to the little boathouse, where they embarked in a small sailboat which was waiting for them.",
-    "title": "Kristy's Rainy Day Picnic",
-    "author": "Miller, Olive Thorne, 1831-1918; Farnsworth, Ethel N., 1873-1959 [Illustrator]",
-    "gutenbergReference": "29744",
-    "hash": "c4f227675b6b373d5054a9b04a4ce4c82072a8dbd282f22b32ff61bba12c58c9"
+    "quoteFirst": "It was ",
+    "quoteTime": "about nine o'clock in the evening",
+    "quoteLast": ", and they were talking politics and drinking coffee and smoking cigarettes.",
+    "title": "By Advice of Counsel",
+    "author": "Train, Arthur Cheney, 1875-1945",
+    "gutenbergReference": "11987",
+    "hash": "b80a3a85723f8890c87d35f9f649dd13f246d4ca1750d1d8c52641278796eb17"
   },
   {
     "time": "20:58",
-    "quoteFirst": "For a short time the attack was furious, but the Federals being speedily supported the enemy were kept in check, and finally retired ",
-    "quoteTime": "about 9 o’clock P.M.",
-    "quoteLast": ", having lost the day in every quarter.",
-    "title": "A Military Dictionary and Gazetteer\r\nComprising ancient and modern military technical terms, historical accounts of all North American Indians, as well as ancient warlike tribes; also notices of battles from the earliest period to the present time, with a concise explanation of terms used in heraldry and the offices thereof. The work also gives valuable geographical information. Compiled from the best authorities of all nations. With an appendix containing the Articles of war, etc.",
-    "author": "Wilhelm, Thomas",
-    "gutenbergReference": "59563",
-    "hash": "dc4f461e034deeec0cdc9ed73ee37c86903929eb4479cbd4d0b21cde20c62bf2"
-  },
-  {
-    "time": "20:58",
-    "quoteFirst": "45] length, ",
-    "quoteTime": "about nine in the evening",
-    "quoteLast": ", we had the pleasure of seeing a light; and a lonely house, in an open spot, lay before us.",
-    "title": "Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 1",
-    "author": "Wied, Maximilian, Prinz von, 1782-1867; Thwaites, Reuben Gold, 1853-1913 [Editor]; Bodmer, Karl, 1809-1893 [Illustrator]; Lloyd, Hannibal Evans, 1771-1847 [Translator]",
-    "gutenbergReference": "38784",
-    "hash": "92979e723cfc72b17c25e1ce5dfcfd4bcaf8d272a62c97c836aad0cfee4b9cd0"
+    "quoteFirst": "Extreme vigilance continues into the night, through fear of an assault by the enemy, and at ",
+    "quoteTime": "about 9 p. m.",
+    "quoteLast": ", the most of the Regiment goes on picket.",
+    "title": "The Thirty-Ninth Regiment Massachusetts Volunteers, 1862-1865",
+    "author": "Roe, Alfred S. (Alfred Seelye), 1844-1917",
+    "gutenbergReference": "51250",
+    "hash": "9a1ba967321e46f10f0c350d4bfee7199eccdfcc8a1eb18376550d328767935c"
   }
 ]

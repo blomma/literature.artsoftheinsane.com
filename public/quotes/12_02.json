@@ -1,102 +1,202 @@
 [
   {
     "time": "12:02",
-    "quoteFirst": "It was ",
-    "quoteTime": "a little after noon",
-    "quoteLast": " when he came into the drawing-room where Elizabeth was.",
-    "title": "The Fire Within",
-    "author": "Wentworth, Patricia, 1878-1961",
-    "gutenbergReference": "62820",
-    "hash": "863d1e8d48a6ca7f012e12665951dbc267414c38d3befb625523e20408afe884"
-  },
-  {
-    "time": "12:02",
-    "quoteFirst": "",
-    "quoteTime": "About noon",
-    "quoteLast": " on this day, Raja Akbar Khan of Punyal, whom I have before mentioned as meeting us on the march from Shoroh to Suigal, came into camp with fifty Levies, bringing in a convoy of ninety Balti coolies with supplies.",
-    "title": "With Kelly to Chitral",
-    "author": "Beynon, William George Laurence, Sir, 1866-1955",
-    "gutenbergReference": "10603",
-    "hash": "5c202b1eeafab39295d79992b6745206dbee69368e2b9f292c37c45cf0d93bb8"
-  },
-  {
-    "time": "12:02",
-    "quoteFirst": "At length, ",
+    "quoteFirst": "One day, ",
     "quoteTime": "about noon",
-    "quoteLast": ", after sending what wood we had cut on board, we embarked ourselves; and they all retired, some one way and some another.",
-    "title": "A Voyage Towards the South Pole and Round the World Volume 2",
-    "author": "Cook, James, 1728-1779; Furneaux, Tobias, 1735-1781 [Contributor]",
-    "gutenbergReference": "15869",
-    "hash": "0154285b57878784409f0f0e05b06ae7aa2eca9e1291c3577b9a6233a0c52835"
+    "quoteLast": ", two men drove up to the ranch, alighted, hitched, and came in to dinner; standing and general invitations being the custom of the country.",
+    "title": "Heart of the West [Annotated]",
+    "author": "Henry, O., 1862-1910; Loewenstein, Joseph E. [Annotator]",
+    "gutenbergReference": "13094",
+    "hash": "57f1fc482cf0cf89ec1446a443cb3ded0cf27ea2f47503f8a368ffca07f68209"
+  },
+  {
+    "time": "12:02",
+    "quoteFirst": "Then ",
+    "quoteTime": "about noon",
+    "quoteLast": " came a thunderstorm--a sudden blackening and indigoing of the south horizon--a constant darting of lightning flashes very far off, this way and that--no thunder, only the inky storm advancing over the sea.",
+    "title": "A Tatter of Scarlet: Adventurous Episodes of the Commune in the Midi 1871",
+    "author": "Crockett, S. R. (Samuel Rutherford), 1860-1914",
+    "gutenbergReference": "36945",
+    "hash": "7abb53eea7839826e3d6f5219ab3fdecc42b52f8eccc3beede057e7bb7c354b4"
+  },
+  {
+    "time": "12:02",
+    "quoteFirst": "Gerard reached Dromore at ",
+    "quoteTime": "about noon",
+    "quoteLast": ".",
+    "title": "Falkner: A Novel",
+    "author": "Shelley, Mary Wollstonecraft, 1797-1851",
+    "gutenbergReference": "64329",
+    "hash": "aaaf0e6ded8880dacaf1f476888b59bf46a8a9650eb86b16c7e4cc6bfb7bbbca"
+  },
+  {
+    "time": "12:02",
+    "quoteFirst": "It must have been ",
+    "quoteTime": "about noon",
+    "quoteLast": " when I dismounted at his tent.",
+    "title": "Military Reminiscences of the Civil War, Volume 1: April 1861-November 1863",
+    "author": "Cox, Jacob D. (Jacob Dolson), 1828-1900",
+    "gutenbergReference": "6961",
+    "hash": "35a124b4eaae806b34282a1feb8e6a7b450ce6a5453fa4ee3a6e3ea70fd04b5f"
+  },
+  {
+    "time": "12:02",
+    "quoteFirst": "_Stein Callenfels_, and the Councellor _Serooskerken_; yet thirteen Sail remain’d still before the Coast of _Brasile_, under the Command of Captain _John Mast_, who whilest he stood to and again from the Shore, and Cruising up and down, the Governor of _Reciffa_ and Colonel _Rembach_ march’d with five hundred Men and forty _Negro_’s, from _Reciffa_ about six a Clock at Night, by _Olinda_ along the Shore: Whereupon the _Portuguese_ Horse-watch ran instantly to _Real_, two Leagues from _Olinda_, to give notice thereof to _Albuquerque_; but they surmounted all the Difficulties they met with by the Way (which were the greater in regard of the abundance of Rain that had lately fall’n,) and on the first of _May_ 1632, came to the City _Garasu_ ",
+    "quoteTime": "about Noon",
+    "quoteLast": "; where whilest _Rembach_ stood still in good order with three Companies, the Governor of _Reciffa_ fell upon the Town with three Companies.",
+    "title": "America: Being the Latest, and Most Accurate Description of the Nevv VVorld\r\nContaining the Original of the Inhabitants, and the Remarkable Voyages Thither. The Conquest of the Vast Empires of Mexico and Peru, and Other Large Provinces and Territories, with the Several European Plantations in Those Parts. Also Their Cities, Fortresses, Towns, Temples, Mountains, and Rivers. Their Habits, Customs, Manners, and Religions. Their Plants, Beasts, Birds, and Serpents. With an Appendix, Containing, Besides Several Other Considerable Additions, a Brief Survey of What Hath Been Discover'd of the Unknown South-land and the Arctick Region.",
+    "author": "Ogilby, John, 1600-1676",
+    "gutenbergReference": "59745",
+    "hash": "bfb1b10d10040d376ad9e5484805c3da003caad67acff3eb3d655fac6e243dc6"
+  },
+  {
+    "time": "12:02",
+    "quoteFirst": "",
+    "quoteTime": "A little after noon",
+    "quoteLast": " Admiral Sturdee came within suitable range of the five enemy ships, and decided to attack with the _Invincible_, the _Inflexible_, and the _Glasgow_.",
+    "title": "Pen Pictures of British Battles",
+    "author": "Various",
+    "gutenbergReference": "60155",
+    "hash": "7825d6d44322e9d258dfb2f86f78d575d473b89b2cdc66a9ba8ea316fc7ee512"
+  },
+  {
+    "time": "12:02",
+    "quoteFirst": "Of those thirty-six hours the first few had been enlivened (that is, from five in the morning till ",
+    "quoteTime": "about noon",
+    "quoteLast": ") with the sight of a properly made road, of worked stone, of mown grass, and of all that my fellow beings are busily at throughout the world.",
+    "title": "On Everything",
+    "author": "Belloc, Hilaire, 1870-1953",
+    "gutenbergReference": "61076",
+    "hash": "b58ca99d8447a814c40947f1ca80ebcf0d7e087a60dea5d76d18975e07289672"
+  },
+  {
+    "time": "12:02",
+    "quoteFirst": "It began ",
+    "quoteTime": "about mid-day",
+    "quoteLast": ", when Cecil and her pupil were taking their usual rest, and Azim Bey was declaring his views on the subject of a book he had been reading.",
+    "title": "His Excellency's English Governess",
+    "author": "Grier, Sydney C., 1868-1933",
+    "gutenbergReference": "66115",
+    "hash": "03ea0ef55ba289efc2aa7ca9ee800ceb68e6c9359d986d1594702913817d7a51"
+  },
+  {
+    "time": "12:02",
+    "quoteFirst": "Saurogúmji, Fúlbe; arrive ",
+    "quoteTime": "about noon",
+    "quoteLast": ", having some time before left on the right the place Méso.",
+    "title": "Travels and discoveries in North and Central Africa, Vol. 2 (of 5)",
+    "author": "Barth, Heinrich, 1821-1865; Bernatz, Johann Martin, 1802-1878 [Illustrator]",
+    "gutenbergReference": "76317",
+    "hash": "f44108d671cd7b373c25dfc95d83d081d13661e49ec7a74b586b3576926ef069"
   },
   {
     "time": "12:02",
     "quoteFirst": "",
     "quoteTime": "About noon",
-    "quoteLast": " the snow fell more lightly, and we could see around.",
-    "title": "Western Himalaya and Tibet\nA Narrative of a Journey Through the Mountains of Northern India During the Years 1847-8",
-    "author": "Thomson, Thomas, 1817-1878",
-    "gutenbergReference": "42146",
-    "hash": "ad792a35821bc6c8f7419a8c04cf3678680989d3ac2dbdb19b8101f0e5e6de78"
+    "quoteLast": " we see the King again.",
+    "title": "Twenty-One Days in India, or, the Tour Of Sir Ali Baba K.C.B.; and, the Teapot Series",
+    "author": "Aberigh-Mackay, George, 1848-1881",
+    "gutenbergReference": "13068",
+    "hash": "795b235ee7f2f1bdbc6349894497d206b2f162970d0c5643d03e800825814d09"
+  },
+  {
+    "time": "12:02",
+    "quoteFirst": "The next day, ",
+    "quoteTime": "about noon",
+    "quoteLast": ", Dubourg and Ménard prepared for their visit to Allevard, where they planned to arrive for dinner.",
+    "title": "Sister Anne (Novels of Paul de Kock, Volume X)",
+    "author": "Kock, Paul de, 1793-1871",
+    "gutenbergReference": "40133",
+    "hash": "d6702af40fa120f03e7def81f9b033809119144399854e5251565b0e71f73d9b"
+  },
+  {
+    "time": "12:02",
+    "quoteFirst": "After leaving Lausanne, we arrived at Maudon ",
+    "quoteTime": "about noon",
+    "quoteLast": ", where we dined with an English party that came in soon after ourselves.",
+    "title": "The narrative of a journey undertaken in the years 1819, 1820 and 1821 through France, Italy, Savoy, Switzerland, parts of Germany bordering on the Rhine, Holland and the Netherlands",
+    "author": "Holman, James, 1786-1857",
+    "gutenbergReference": "71556",
+    "hash": "200859b66fb3d95b2264a71e0a221462fcda81804b88108ba3644222d3e5b539"
+  },
+  {
+    "time": "12:02",
+    "quoteFirst": "He explained to me that he had translated a signal ",
+    "quoteTime": "about noon",
+    "quoteLast": ", from Pine Mountain to Marietta, \"Send an ambulance for General Polk's body;\" and later in the day another, \"Why don't you send an ambulance for General Polk?\"",
+    "title": "Memoirs of the Union's Three Great Civil War Generals",
+    "author": "Grant, Ulysses S. (Ulysses Simpson), 1822-1885; Sheridan, Philip Henry, 1831-1888; Sherman, William T. (William Tecumseh), 1820-1891; Widger, David, 1932-2021? [Editor]",
+    "gutenbergReference": "4546",
+    "hash": "7f06208e19421982c4c1f5d672f02b2904ebfba1cd1137fa01568837f2e8418d"
+  },
+  {
+    "time": "12:02",
+    "quoteFirst": "And the morrow duly came; with those implacable approvers, those accurate Irish witnesses, those tell-tale documents, that prosecuting crown and bank, that dogged jury, and that sentencing recorder: so then, by ",
+    "quoteTime": "a little after noon",
+    "quoteLast": ", to the scandal of Finsbury square, John Dillaway discovered that the \"wise man's trick or two in the money market\" was about to be rewarded with twenty-one years of transportation.",
+    "title": "Heart: A Social Novel",
+    "author": "Tupper, Martin Farquhar, 1810-1889",
+    "gutenbergReference": "20235",
+    "hash": "a515ba6a3ae2e1d6ef2bd42591868983db28baf654a628d0420ec5249e1e81b2"
   },
   {
     "time": "12:02",
     "quoteFirst": "",
     "quoteTime": "About noon",
-    "quoteLast": " a gaudily-dressed and rough-looking man rode up to the gate, and alighted from a fine bay horse.",
-    "title": "Autobiography of a Female Slave",
-    "author": "Browne, Martha Griffith, 1828-1906",
-    "gutenbergReference": "55813",
-    "hash": "59a0c9c96ae4570674473cdbe3b42a54025b6d21d9945c547d7ac00faf62c25a"
+    "quoteLast": " we came into the shallow vale of the Umpilusi, and left it again for a high ridge, whence all afternoon we had a view of rolling country to the south, with the Slaangaapies mountains on the horizon.",
+    "title": "The African Colony: Studies in the Reconstruction",
+    "author": "Buchan, John, 1875-1940",
+    "gutenbergReference": "34548",
+    "hash": "95034b600a2ef4a8e1ad32b726c6f633c3606604ecfb2a99c9d340db2089aa9f"
   },
   {
     "time": "12:02",
-    "quoteFirst": "",
-    "quoteTime": "About mid-day",
-    "quoteLast": " there is wont to be, high up in the sky, a multitude of rounded clouds, golden-grey, with soft white edges.",
-    "title": "A Sportsman's Sketches\nWorks of Ivan Turgenev, Volume I",
-    "author": "Turgenev, Ivan Sergeevich, 1818-1883; Garnett, Constance, 1861-1946 [Translator]",
-    "gutenbergReference": "8597",
-    "hash": "ee17300a58bc1d2ffdde6a5a13969624f910b77221d8993bc1b7ee79695ff158"
+    "quoteFirst": "It arrived without incident at the next mail station ",
+    "quoteTime": "about noon",
+    "quoteLast": ".",
+    "title": "Alden the Pony Express rider",
+    "author": "Ellis, Edward Sylvester, 1840-1916; Prittie, Edwin John, 1879-1963 [Illustrator]",
+    "gutenbergReference": "72501",
+    "hash": "103eb083179ac4efce049ab02d712381bd4b4895e5d05166105723588418e44f"
   },
   {
     "time": "12:02",
-    "quoteFirst": "",
-    "quoteTime": "About midday",
-    "quoteLast": " his nephew, who was perched in the shrouds, sang out that he had sighted land.",
-    "title": "Faery Lands of the South Seas",
-    "author": "Hall, James Norman, 1887-1951; Nordhoff, Charles, 1887-1947",
-    "gutenbergReference": "56457",
-    "hash": "9d4f1410e375b0ea70b2a4655d466904354269a5d09ce792483662ea828c9f59"
+    "quoteFirst": "Encouraged, however, by the sight of land which they knew, they rallied; and ",
+    "quoteTime": "about noon",
+    "quoteLast": " they pulled, exhausted, to the beach at the bottom of Table Bay, near to which were the houses, and the fort protecting the settlers, who had for some few years resided there.",
+    "title": "The Phantom Ship",
+    "author": "Marryat, Frederick, 1792-1848",
+    "gutenbergReference": "21573",
+    "hash": "9ccfe05de4797f029ef149a0b82f999d7818d16f823189a5ac25466be9682079"
   },
   {
     "time": "12:02",
-    "quoteFirst": "",
-    "quoteTime": "About noon",
-    "quoteLast": " he was visited by Gaspar Alosegui, with whom he was ceremoniously invited to take breakfast; and yielding to the cravings of appetite, he unhesitatingly accepted the proposal, and sat down at the same table with four fellows, who, Gaspar told him, were the greatest cut-throats and most expert bravoes in Spain.",
-    "title": "The Romance of War; or, The Highlanders in France and Belgium, A Sequel to the Highlanders in Spain",
-    "author": "Grant, James, 1822-1887",
-    "gutenbergReference": "54921",
-    "hash": "96606413d523206aa866c283cadb6c1c9cb8d4d5c99e07c8ada57e8e36e0d68b"
+    "quoteFirst": "We ourselves had as yet no idea of making a long stay here, but indulged in the hope of starting the next day, when all of a sudden ",
+    "quoteTime": "about noon",
+    "quoteLast": " our old friend declared solemnly that he was unable to go with us at present, that he himself was obliged to wait for the salt-caravan, while his confidential slave Zinghína was now to go southwards.",
+    "title": "Travels and discoveries in North and Central Africa, Vol. 1 (of 5)",
+    "author": "Barth, Heinrich, 1821-1865; Bernatz, Johann Martin, 1802-1878 [Illustrator]",
+    "gutenbergReference": "76316",
+    "hash": "48fb85505af5fd9ccfea93cfb11dd8475b9beac4428cbef62b1b42526c2c4efd"
   },
   {
     "time": "12:02",
-    "quoteFirst": "",
-    "quoteTime": "About noon",
-    "quoteLast": " Madame de Bernstein sent over a servant to say that she would be glad if her nephew would come over and drink a dish of chocolate with her, whereupon our young friend rose and walked to his aunt's lodgings.",
-    "title": "The Virginians",
-    "author": "Thackeray, William Makepeace, 1811-1863",
-    "gutenbergReference": "8123",
-    "hash": "e6954b0738292cec5fc4eac9dd47977b471616bb3973b7408369c26407974d24"
+    "quoteFirst": "Three of these attempts were at nine in the morning, and two ",
+    "quoteTime": "about noon",
+    "quoteLast": ", just before the accident.",
+    "title": "On chloroform and other anæsthetics: their action and administration",
+    "author": "Snow, John, 1813-1858; Richardson, Benjamin Ward, 1828-1896 [Editor]",
+    "gutenbergReference": "68315",
+    "hash": "e33e3e9d849c3fc17eecf0dba9577833e38fd20b9a118347ba1a99f89d55f942"
   },
   {
     "time": "12:02",
-    "quoteFirst": "",
-    "quoteTime": "About noon",
-    "quoteLast": " we discovered a channel leading among the islands, which we followed, soon becoming involved once more among the mazy laybrinths of the winding creeks.",
-    "title": "Through the Dark Continent, Vol. 2 (of 2)",
-    "author": "Stanley, Henry M. (Henry Morton), 1841-1904",
-    "gutenbergReference": "76825",
-    "hash": "e653de1fd9289585725c3420085bbf9f2d876e9852c5e943fcf51d2a33afb328"
+    "quoteFirst": "I cannot quite remember, but I think it was ",
+    "quoteTime": "about noon",
+    "quoteLast": "—we held them until then—when news came from our camp down on the plain that there was a big bunch of soldiers coming up the river—General Terry with his men.",
+    "title": "The Vanishing Race: The Last Great Indian Council",
+    "author": "Dixon, Joseph K. (Joseph Kossuth), 1856-1926",
+    "gutenbergReference": "27616",
+    "hash": "fde77608375b6fbb4406d70bdba16829f42ea74aa604dad1681bd09267af3e75"
   }
 ]

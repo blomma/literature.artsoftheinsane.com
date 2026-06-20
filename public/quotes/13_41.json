@@ -13,10 +13,30 @@
     "time": "13:41",
     "quoteFirst": "Black Bulb 7.39 to 7.52 a.m. 8.40 to 8.53 a.m. 9.04 to 9.08 a.m. 9.52 to 9.56 a.m. 10.02 to 10.06 a.m. 11.16 to 11.29 a.m. 11.52 to 11.56 a.m. 1.38 to ",
     "quoteTime": "1.41 p.m.",
-    "quoteLast": " 1.47 to 1.51 p.m. 3.10 to 3.17 p.m. 3.18 to 3.25 p.m. 10·0 21·3 23·2 24·3 25·1 24·3",
+    "quoteLast": " 1.47 to 1.51 p.m. 3.10 to 3.17 p.m. 3.18 to 3.25 p.m. 10·0 21·3 23·2 24·3 25·1 24·3 26·6 24·7 25·4 21·1 19·3 70·0 91·5 89·5 87·3 90·5 84·5 92·6 84·0 90·7 86·0 89·3   8·3700 14·1219 15·6136 16·7341 16·7668 17·1558 17·5028 17·5123 16·8418 14·6645 13·0468 29·874",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "15e58a92b7a555a6e85677546bc1e0467f64aa7db36141766950b2b93b80b5a9"
+    "hash": "d8b246beffd1b8ef53ef995719e3466ffafe5276372aa1f8050e836d57214fa2"
+  },
+  {
+    "time": "13:41",
+    "quoteFirst": "Then Captain Boyle put his helm a starboard and ran his foe aboard, when in the act of boarding, her colors were struck at ",
+    "quoteTime": "1.41 P.M.",
+    "quoteLast": ", 15 minutes after the first shot.",
+    "title": "The Naval War of 1812\r\nOr the History of the United States Navy during the Last War with Great Britain to Which Is Appended an Account of the Battle of New Orleans",
+    "author": "Roosevelt, Theodore, 1858-1919",
+    "gutenbergReference": "9104",
+    "hash": "109bb6dc589770f72eae3d0eb9aca8440c4bfeaae757123e6535165a6df3bb9f"
+  },
+  {
+    "time": "13:41",
+    "quoteFirst": "It was twenty-five minutes past one when Raffles, without a stitch of clothing on his body, but with a glass phial, corked with cotton-wool, between his teeth, and a tiny screw-driver behind his ear, squirmed feet first through the ventilator over his berth; and it was ",
+    "quoteTime": "nineteen minutes to two",
+    "quoteLast": " when he returned, head first, with the phial still between his teeth, and the cotton-wool rammed home to still the rattling of that which lay like a great gray bean within.",
+    "title": "The Amateur Cracksman",
+    "author": "Hornung, E. W. (Ernest William), 1866-1921",
+    "gutenbergReference": "706",
+    "hash": "34ea241b5a52eea396c12715459730cda60337be88dee62c5d7e9b2d2ab395b4"
   }
 ]

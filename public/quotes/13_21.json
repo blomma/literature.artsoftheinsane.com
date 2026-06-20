@@ -41,13 +41,23 @@
   },
   {
     "time": "13:21",
+    "quoteFirst": "You will reach Russ-Hersbach at ",
+    "quoteTime": "twenty-one minutes past one",
+    "quoteLast": ", a trap will take us to Schirmeck in a quarter of an hour.",
+    "title": "The children of Alsace",
+    "author": "Bazin, René, 1853-1932",
+    "gutenbergReference": "34957",
+    "hash": "e8cdeb38fbfafb77eb3341a26f884513367b2ea76fa92834e2e516a8ddbbac53"
+  },
+  {
+    "time": "13:21",
     "quoteFirst": "9.53 to 10.06 a.m. 10.50 to 11.03 a.m. 11.31 to 11.44 a.m. 12.33 to 12.46 p.m. 1.07 to ",
     "quoteTime": "1.21 p.m.",
-    "quoteLast": " 2.47 to 3.00 p.m. 3.48 to 4.00 p.m. 4.03 to 4.16 p.m. 25·8 26·1 28·5 30·9 29·1 21·1",
+    "quoteLast": " 2.47 to 3.00 p.m. 3.48 to 4.00 p.m. 4.03 to 4.16 p.m. 25·8 26·1 28·5 30·9 29·1 21·1 16·7 16·2 78·0 80·5 84·0 91·5 90·5 75·0 73·0 75·0 17·5306 19·1835 20·2065 20·4267 20·4388 16·5635 13·4435 12·7170 25·854",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "f8285978a1c1f9c0f16db03576ef979738c063592648beca4290849ca80a6265"
+    "hash": "fa0378bd8637617f0dab7fa28c062e0e70de3be5a01c68e4fb5d81f8f8822397"
   },
   {
     "time": "13:21",
@@ -58,5 +68,15 @@
     "author": "Landsborough, William, 1825-1886",
     "gutenbergReference": "16243",
     "hash": "6ad624f48a7a20c1dd023ad00e78b693caa950ce2d513174eaf2a36368e59fbe"
+  },
+  {
+    "time": "13:21",
+    "quoteFirst": ", on the 2nd; from ",
+    "quoteTime": "1:21 p. m.",
+    "quoteLast": ", on the 15th, to 4:11 a.",
+    "title": "The Chautauquan, Vol. 04, March 1884, No. 6",
+    "author": "Chautauqua Literary and Scientific Circle; Chautauqua Institution; Flood, Theodore L., 1842- [Editor]",
+    "gutenbergReference": "55133",
+    "hash": "16330c668cb0a1768515c37f40a200ce0b14376a3409ecca3597ce1a4bfd50b8"
   }
 ]

@@ -1,6 +1,16 @@
 [
   {
     "time": "11:36",
+    "quoteFirst": "\"",
+    "quoteTime": "Twenty-four minutes to twelve",
+    "quoteLast": ",\" he announced.",
+    "title": "The Challenge of the North",
+    "author": "Hendryx, James B. (James Beardsley), 1880-1963",
+    "gutenbergReference": "18366",
+    "hash": "2cac3268c13ceb97b4d68b928f99e4a77bcf0493bc93f6ad95a22f3aac1089c8"
+  },
+  {
+    "time": "11:36",
     "quoteFirst": "The moon is nearest the earth at ",
     "quoteTime": "11:36 a. m.",
     "quoteLast": " on the 9th; and most distant from the earth at 6:12 a.",

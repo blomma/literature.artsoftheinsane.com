@@ -1,102 +1,202 @@
 [
   {
     "time": "03:30",
-    "quoteFirst": "Hang that string out of your window, and I'll have you up at ",
+    "quoteFirst": "We'll start at ",
+    "quoteTime": "half-past three",
+    "quoteLast": " sharp.",
+    "title": "The Crooked Stick; Or, Pollie's Probation",
+    "author": "Boldrewood, Rolf, 1826-1915",
+    "gutenbergReference": "35165",
+    "hash": "1a331bb10550376acdb654c333b7db9f19d381a1f55d550cd4156e4152374444"
+  },
+  {
+    "time": "03:30",
+    "quoteFirst": "Remember, young lady, ",
+    "quoteTime": "three-thirty",
+    "quoteLast": ", sharp, at the entrance everybody uses, opposite Dizzy's statue--the same which you are never on any account to call Dizzy, but always Lord Disraeli, with the respect that becomes a foreigner!",
+    "title": "An American Girl in London",
+    "author": "Duncan, Sara Jeannette, 1861-1922; Townsend, F. H. (Frederick Henry), 1868-1920 [Illustrator]",
+    "gutenbergReference": "45925",
+    "hash": "8ed5ca4d1c859e419215ff06044a2a16e5a8f08ff51a4670edef61866dcc75f8"
+  },
+  {
+    "time": "03:30",
+    "quoteFirst": "_Nash_ (_E._) L.H., a Wren killed at ",
+    "quoteTime": "3.30 A.M.",
+    "quoteLast": " (N.E., 4; B. C. M.) A large flock of Lapwings passed W.N.W. at 7 A.M.; large flocks of Linnets passed to W. between 7 and 8 A.M.; two flocks of Fieldfares passed W. at 9 and 9.30 A.M. (E.N.E., 4; C. G.) _Eddystone_ L.H., 25th (P.M.) and 26th (A.M.), birds crossing all night; one or two small species coming to lantern.",
+    "title": "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\n(Vol. II, No. 4.)",
+    "author": "Harvie-Brown, J. A. (John Alexander), 1844-1916; Barrington, Richard Manliffe, 1849-1915; Clarke, William Eagle, 1853-1938; Cordeaux, John, 1831-1899; More, Alexander Goodman, 1830-1895",
+    "gutenbergReference": "66152",
+    "hash": "17d6bb4bab336d68f1fa003ba3bf41af5dc326dedace492e54d4100857df5b1d"
+  },
+  {
+    "time": "03:30",
+    "quoteFirst": "We now continued our course North ten miles, West one mile and a half, and North one mile and a half, when the rain came on again, and rendered it absolutely necessary for us to get on shore for the night, at about ",
+    "quoteTime": "half past three",
+    "quoteLast": ".",
+    "title": "Voyages from Montreal Through the Continent of North America to the Frozen and Pacific Oceans in 1789 and 1793. Vol. I",
+    "author": "Mackenzie, Alexander, 1764-1820",
+    "gutenbergReference": "35658",
+    "hash": "dad19a887ac7c69076615193a030f65ea80232d444478a07a35db4cab4c6f908"
+  },
+  {
+    "time": "03:30",
+    "quoteFirst": "We arrive at Harrison River at ",
     "quoteTime": "half-past three",
     "quoteLast": ".",
-    "title": "Two Ways of Becoming a Hunter",
-    "author": "Castlemon, Harry, 1842-1915; White, George G. (George Gorgas), -1898 [Illustrator]",
-    "gutenbergReference": "64280",
-    "hash": "5b4d3782cd8da6657b8010b93bf39d91d6fc93dc08c9ea77d78eea193721fd82"
+    "title": "England and Canada\r\nA Summer Tour Between Old and New Westminster, with Historical Notes",
+    "author": "Fleming, Sandford, 1827-1915",
+    "gutenbergReference": "50433",
+    "hash": "87753ec1d5e08a0fd9bfdb1d62386886d554ce54b6085db3302a9ba2cfb83512"
   },
   {
     "time": "03:30",
-    "quoteFirst": "13 Bombardment 11:30 A. M. to ",
-    "quoteTime": "3:30 A. M.",
-    "quoteLast": ", 117 shells.",
-    "title": "The Bombardment of Reims",
-    "author": "Ferree, Barr, 1862-1924",
-    "gutenbergReference": "49649",
-    "hash": "3b2799f6348e62d3adf32be9889daa78b6e3164ede8f76cbc6969758042b0570"
-  },
-  {
-    "time": "03:30",
-    "quoteFirst": "At three is served another allowance of bread, with vegetables or meat according to the day; and from ",
+    "quoteFirst": "Tea was usually at ",
     "quoteTime": "half-past three",
-    "quoteLast": " to four the courtyard echoes again the monotonous tramp of hundreds of pairs of sabots.",
-    "title": "The Dungeons of Old Paris\r\nBeing the Story and Romance of the Most Celebrated Prisons of the Monarchy and the Revolution",
-    "author": "Hopkins, Tighe, 1856-1919",
-    "gutenbergReference": "54493",
-    "hash": "59cc29d1e83d06d21a40290cbc9795b1eedddf7717662cc91ac7e6279d64e30b"
+    "quoteLast": ", and it is a fact that many well-to-do persons, as they came along the road hot and dusty, used to drop in and rest and take a cup--very little milk and much gossip.",
+    "title": "Field and Hedgerow: Being the Last Essays of Richard Jefferies",
+    "author": "Jefferies, Richard, 1848-1887",
+    "gutenbergReference": "7030",
+    "hash": "d8b6d53b1ec8a8d8c649c73ec2debc0029b6b0cf324ce108e0ceb361a142d106"
   },
   {
     "time": "03:30",
-    "quoteFirst": "The rain cooled about ",
+    "quoteFirst": "We didn't get back till ",
     "quoteTime": "half-past three",
-    "quoteLast": " to a damp mist, through which occasional thin drops swam like dew.",
-    "title": "The Great Gatsby",
-    "author": "Fitzgerald, F. Scott (Francis Scott), 1896-1940",
-    "gutenbergReference": "64317",
-    "hash": "842608be10f8835babb2d9c4de7292c92ea47ed1d59ba71efb6dcd805a46fb4d"
+    "quoteLast": " the next morning.",
+    "title": "A Schoolmaster's Diary\r\nBeing Extracts from the Journal of Patrick Traherne, M.A., Sometime Assistant Master at Radchester and Marlton.",
+    "author": "Traherne, Patrick, 1885-1917; Mais, S. P. B. (Stuart Petre Brodie), 1885-1975 [Editor]",
+    "gutenbergReference": "51633",
+    "hash": "ee140106d23719c9588af7ea42007fbdebe69493777fc5bb0eb41e32f01c0da7"
+  },
+  {
+    "time": "03:30",
+    "quoteFirst": "He would never miss giving the pigs their dinner, he rose at ",
+    "quoteTime": "half-past three",
+    "quoteLast": " in the morning, and foddered the cattle in the grey dawn, or milked a certain number of cows, with unvarying regularity.",
+    "title": "Hodge and His Masters",
+    "author": "Jefferies, Richard, 1848-1887",
+    "gutenbergReference": "11874",
+    "hash": "4b267125adf9af91bc169f648b8b8f230c5a2daeae173a77842060ed3a3778ed"
+  },
+  {
+    "time": "03:30",
+    "quoteFirst": "We therefore took advantage of this warm weather to let the men wash themselves, and mend and dry their clothes, and then set out again at ",
+    "quoteTime": "half past three",
+    "quoteLast": ".",
+    "title": "Three Voyages for the Discovery of a Northwest Passage from the Atlantic to the Pacific, and Narrative of an Attempt to Reach the North Pole, Volume 2",
+    "author": "Parry, William Edward, Sir, 1790-1855",
+    "gutenbergReference": "14350",
+    "hash": "451f791d450e8320b11c993b1ee04d527d34d089b8567df89df613e6acc75672"
+  },
+  {
+    "time": "03:30",
+    "quoteFirst": "Practice begins at ",
+    "quoteTime": "three-thirty",
+    "quoteLast": " sharp this afternoon.",
+    "title": "The Junior Trophy",
+    "author": "Barbour, Ralph Henry, 1870-1944; Boehm, H. Richard, 1871-1914 [Illustrator]",
+    "gutenbergReference": "66055",
+    "hash": "8ee4b74c2ef4bff6e982983a83ff26edd7562f7591c2a05068b704c26121541d"
+  },
+  {
+    "time": "03:30",
+    "quoteFirst": "Half an hour after midnight the Leicesters moved to the salient whence would start the attack, and by ",
+    "quoteTime": "3.30 A.M.",
+    "quoteLast": " deployed and began the advance.",
+    "title": "With the Indians in France",
+    "author": "Willcocks, James, Sir, 1857-1926",
+    "gutenbergReference": "77003",
+    "hash": "e9bc6007659481d5c89b839808969509b128c7237178bb79564376771986759c"
+  },
+  {
+    "time": "03:30",
+    "quoteFirst": "“I left Rock Island about eleven o’clock in the morning, and at ",
+    "quoteTime": "half-past three",
+    "quoteLast": " in a pleasant afternoon, in the cool month of October, run my canoe to the shore of _Mas-co-tin_ Island, where I stepped out upon its beautiful pebbly beach, with my paddle in my hand, having drawn the bow of my canoe, as usual, on to the beach, so as to hold it in its place. This beautiful island, so called from a band of the Illinois Indians of that name, who once dwelt upon it, is twenty-five or thirty miles in length, without habitation on or in sight of it, and the whole way one extended and lovely prairie; with high banks fronting the river, and extending back a great way, covered with a high and luxuriant growth of grass. To the top of this bank I went with my paddle in my hand, quite innocently, just to range my eye over its surface, and to see what might be seen; when, in a minute or two, I turned",
+    "title": "Illustrations of the manners, customs, & condition of the North American Indians, Vol. 2 (of 2)\r\nWith letters and notes, written during eight years of travel and adventure among the wildest and most remarkable tribes now existing",
+    "author": "Catlin, George, 1796-1872",
+    "gutenbergReference": "68841",
+    "hash": "b8abf932ef34f071d0e129f038465403d7e72de22195bf2912f3cc902f89c81e"
   },
   {
     "time": "03:30",
     "quoteFirst": "At ",
-    "quoteTime": "three-thirty",
-    "quoteLast": " you and he are dressed in cutaways and promptly       at three-forty-two you arrive at the church.",
-    "title": "Perfect Behavior: A Guide for Ladies and Gentlemen in All Social Crises",
-    "author": "Stewart, Donald Ogden, 1894-1980; Barton, Ralph, 1891-1931 [Illustrator]",
-    "gutenbergReference": "1446",
-    "hash": "57280fda16d08693a9e0d0c217d21f6199d5f3b263899133310c58d09c2bd940"
+    "quoteTime": "half-past three",
+    "quoteLast": " he was on hand at the _Recorder_ office, received his bundle of papers, slung them at his side by a strap which he had bought on the way from school, and started out.",
+    "title": "First Base Faulkner",
+    "author": "Mathewson, Christy, 1880-1925; Relyea, C. M. (Charles M.), 1863-1932 [Illustrator]",
+    "gutenbergReference": "64435",
+    "hash": "d383336b5b6a95f4c00468bb92089c27d3dd70a021c0bce666d00f7d0282c768"
   },
   {
     "time": "03:30",
-    "quoteFirst": "It must have been evident to him that the end was not far off when he turned at ",
-    "quoteTime": "half past three",
+    "quoteFirst": "As late as ",
+    "quoteTime": "half-past three",
+    "quoteLast": ", Consul Engel, smoking a cigar, went up to the top attic to see if the flag were hoisted; Emilie was just coming down the attic stairs; she was fully dressed, except that she still wore her _peignoir_.",
+    "title": "The Heritage of the Kurts, Volume 2 (of 2)",
+    "author": "Bjørnson, Bjørnstjerne, 1832-1910; Fairfax, Cecil [Translator]",
+    "gutenbergReference": "37802",
+    "hash": "8186a5e32ec6ce6bbbe798c5b841d84d6247208e40f1e8d55bd643acceaa166c"
+  },
+  {
+    "time": "03:30",
+    "quoteFirst": "This is, however, but a short pleasure, and the rope is obliged to be had recourse to, when we go, about ",
+    "quoteTime": "half-past three",
+    "quoteLast": ", east by south; where, right and left, is a village in the reeds.",
+    "title": "Expedition to discover the sources of the White Nile, in the years 1840, 1841, Vol. 1 (of 2)",
+    "author": "Werne, Ferdinand, 1800-1874; O'Reilly, Charles William [Translator]",
+    "gutenbergReference": "73465",
+    "hash": "9622c9b13cc9d9d3b597987eb84f7e029c5135f83283a33a9aecbae241649725"
+  },
+  {
+    "time": "03:30",
+    "quoteFirst": "At ",
+    "quoteTime": "half-past three",
+    "quoteLast": " on the afternoon of February 10th they reached Paris.",
+    "title": "The life of Voltaire",
+    "author": "Hall, Evelyn Beatrice, 1868-1956",
+    "gutenbergReference": "56476",
+    "hash": "532f598a6df37bd8bd7a5c739af0a11455f9aba7307c79b3d8ee2c4144c9f297"
+  },
+  {
+    "time": "03:30",
+    "quoteFirst": "These companies accordingly paraded at ",
+    "quoteTime": "half-past three",
+    "quoteLast": " in the morning; but owing to a delay in the arrival of elephants did not move off till half-past four.",
+    "title": "The History of the Rifle Brigade (the Prince Consort's Own) Formerly the 95th",
+    "author": "Cope, William Henry, 1811-1892",
+    "gutenbergReference": "60048",
+    "hash": "f1ae2168ab6cfc5a4b825e8651b1bfb1e2b7c325bd352f8ff73da8a8126264d8"
+  },
+  {
+    "time": "03:30",
+    "quoteFirst": "It was ",
+    "quoteTime": "three-thirty",
     "quoteLast": ".",
-    "title": "The British Navy in Battle",
-    "author": "Pollen, Arthur Joseph Hungerford, 1866-1937",
-    "gutenbergReference": "54441",
-    "hash": "0a681ed37845bd3700c89cb90aa2fcb699e2e371eb129e7bc04bef6ebeedd4d9"
+    "title": "Scott Burton and the Timber Thieves",
+    "author": "Cheyney, Edward G. (Edward Gheen), 1878-1950",
+    "gutenbergReference": "57147",
+    "hash": "03b8cbe747b37d8248bd31866c8fed41814f177e8b0728f90dce589f7cb3865f"
   },
   {
     "time": "03:30",
-    "quoteFirst": "\"Thomas Jefferson asks the favor of Mr. Merry to dine with a small party of friends on Monday, the 13th, at ",
-    "quoteTime": "half past three",
-    "quoteLast": ".\"",
-    "title": "The Magnificent Adventure\r\nBeing the Story of the World's Greatest Exploration and the Romance of a Very Gallant Gentleman",
-    "author": "Hough, Emerson, 1857-1923; Keller, Arthur Ignatius, 1866-1924 [Illustrator]",
-    "gutenbergReference": "30298",
-    "hash": "3d40eb67e12b4fea58de151bbbe764890a93181ee7df9f64b76f588d6e7fdf8a"
+    "quoteFirst": "The enemy entered the city about ",
+    "quoteTime": "half-past 3",
+    "quoteLast": " and were received at the end of the Faubourg St. Martin by a fusillade directed against them by delayed soldiers and a company armed with machine guns, charged with arresting the pursuit of the French Army, which was bending back toward Paris.",
+    "title": "New York Times Current History; The European War, Vol 2, No. 5, August, 1915",
+    "author": "Various",
+    "gutenbergReference": "22460",
+    "hash": "59929a1854cefe7b260af1d33ef86a5dd3e97f9655af08288da42c1d1ab5824a"
   },
   {
     "time": "03:30",
-    "quoteFirst": "\"At ",
-    "quoteTime": "3.30 A.M.",
-    "quoteLast": " patrols were pushed out on all sides, while the force as silently and rapidly as possible was got ready to move off.",
-    "title": "South Africa and the Transvaal War, Vol. 1 (of 8)\r\nFrom the Foundation of Cape Colony to the Boer Ultimatum of 9th Oct. 1899",
-    "author": "Creswicke, Louis",
-    "gutenbergReference": "23692",
-    "hash": "546a414f75629b9dd392341879dc47d291501683e3f1c6f3aed5c058a5c9fbf3"
-  },
-  {
-    "time": "03:30",
-    "quoteFirst": "On one occasion, when the wounded had been arriving continuously all through the night, I noticed, about ",
-    "quoteTime": "3.30 a.m.",
-    "quoteLast": ", that the wood fires upon which kettles of water were kept boiling, for tea and coffee for the patients, were all getting low.",
-    "title": "The Flaming Sword in Serbia and Elsewhere",
-    "author": "Stobart, M. A. (Mabel Annie), 1862-1954",
-    "gutenbergReference": "43124",
-    "hash": "bb9b41b96b733af2d5fc41406c3a26297aa781b6c1f366120807b309ab54852c"
-  },
-  {
-    "time": "03:30",
-    "quoteFirst": "Evelyn returned to her apartment about ",
-    "quoteTime": "three-thirty",
-    "quoteLast": ", unwrapped her packages, smiling to herself, and fondling her treasures.",
-    "title": "Hookers",
-    "author": "Mann, Richard F.",
-    "gutenbergReference": "36711",
-    "hash": "110416b4a50bd5fe73c97ccadfcfbdc160516c37c80512acc4794aa2e4d7db91"
+    "quoteFirst": "By ",
+    "quoteTime": "half-past three",
+    "quoteLast": " all danger was past, and we began to settle down again, though it took a long time to get rid of the smoke.",
+    "title": "A Voyage in the 'Sunbeam', Our Home on the Ocean for Eleven Months",
+    "author": "Brassey, Annie, 1839-1887",
+    "gutenbergReference": "14836",
+    "hash": "38e8eda50a90733e1dffce5de4a94d85e9f84aceef6d4b35c53c9b4f38d2aea6"
   }
 ]

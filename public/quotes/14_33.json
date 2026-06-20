@@ -21,6 +21,16 @@
   },
   {
     "time": "14:33",
+    "quoteFirst": "“",
+    "quoteTime": "Twenty-seven minutes to three",
+    "quoteLast": ",” said Westbrook, scanning his time-piece.",
+    "title": "Strictly Business: More Stories of the Four Million",
+    "author": "Henry, O., 1862-1910",
+    "gutenbergReference": "2141",
+    "hash": "f59eb11a0d595aa990ad7eba219a47a841673ddff47887e723c355fc005488d7"
+  },
+  {
+    "time": "14:33",
     "quoteFirst": "Thus, at ",
     "quoteTime": "2.33 P.M.",
     "quoteLast": " the length of the filament was 6 µ; at 5.45, 20 µ; at 8 P.M., 70 µ and so on.",
@@ -38,5 +48,15 @@
     "author": "Verne, Jules, 1828-1905",
     "gutenbergReference": "2154",
     "hash": "a598471dd10c4814f5073a1e9a094fd5d1eb84e5cda8ff585ed73103466ec3b9"
+  },
+  {
+    "time": "14:33",
+    "quoteFirst": "‘",
+    "quoteTime": "Thirty-three minutes past two",
+    "quoteLast": ",’ he announced.",
+    "title": "Rudin: A Novel",
+    "author": "Turgenev, Ivan Sergeevich, 1818-1883; Garnett, Constance, 1861-1946 [Translator]",
+    "gutenbergReference": "6900",
+    "hash": "e4fc0b9458548260a8074dd1edbeebc50888fba2eee6efed0cc91d3713a91cad"
   }
 ]

@@ -11,6 +11,16 @@
   },
   {
     "time": "19:21",
+    "quoteFirst": "(Reporter’s note: ",
+    "quoteTime": "7:21 p.m.",
+    "quoteLast": ")",
+    "title": "Warren Commission (14 of 26): Hearings Vol. XIV (of 15)",
+    "author": "United States. Warren Commission",
+    "gutenbergReference": "56190",
+    "hash": "fe8d8a30f6e7118b8bcd1cfd9a7a7e388741338c2bf919816c874251d5aeb19a"
+  },
+  {
+    "time": "19:21",
     "quoteFirst": "Edward Langdon struck and killed by engine at ",
     "quoteTime": "7:21 p.m.",
     "quoteLast": ", August     6, at Water and Orchard streets, Berlin.",
@@ -18,5 +28,25 @@
     "author": "Richards, R. C. (Ralph Coffin), 1855-",
     "gutenbergReference": "38731",
     "hash": "db3087766fdd56ace439e4bf34229a54c03a7bf0bbb49eb8e44cd025a30bf4a4"
+  },
+  {
+    "time": "19:21",
+    "quoteFirst": "Dan Dalzell was the last of the six boys to reach post outside the locked gate of the yard, and he was there no later than ",
+    "quoteTime": "twenty-one minutes past seven",
+    "quoteLast": ".",
+    "title": "The High School Boys' Canoe Club",
+    "author": "Hancock, H. Irving (Harrie Irving), 1868-1922",
+    "gutenbergReference": "12728",
+    "hash": "299ff5ff888a3f562520288d8053261b0f623670855777f5e8547b3133d411fd"
+  },
+  {
+    "time": "19:21",
+    "quoteFirst": "'Let the Holy Ghost descend upon us now,' the revivalist pleaded with restrained passion; and then, opening his eyes and looking at the clock in front of the gallery, he repeated, 'Now, now, at ",
+    "quoteTime": "twenty-one minutes past seven",
+    "quoteLast": ".'",
+    "title": "Anna of the Five Towns",
+    "author": "Bennett, Arnold, 1867-1931",
+    "gutenbergReference": "35505",
+    "hash": "8973a52a3327dbb3dbfe8b42c58d8f80bc8102217d9c44d568c5ae008ba96201"
   }
 ]

@@ -1,12 +1,32 @@
 [
   {
     "time": "11:31",
-    "quoteFirst": "Bulb 6.12 to 6.22 a.m. 6.24 to 6.37 a.m. 7.13 to 7.23 a.m. 7.24 to 7.34 a.m. 8.34 to 8.44 a.m. 8.47 to 9.00 a.m. 9.53 to 10.03 a.m. 10.04 to 10.17 a.m. 11.24 to ",
+    "quoteFirst": "\"AT EXACTLY ",
+    "quoteTime": "TWENTY-NINE MINUTES TO TWELVE",
+    "quoteLast": " MR. MURRAY WILL BE DEAD. I got the harmless one. I can tell by the taste.\"",
+    "title": "Danny's Own Story",
+    "author": "Marquis, Don, 1878-1937",
+    "gutenbergReference": "587",
+    "hash": "62bbcff4b558e46a0b2f2ea75c1325d1162f4b05bd338e26d1ab341ff432963c"
+  },
+  {
+    "time": "11:31",
+    "quoteFirst": "“_At exactly ",
+    "quoteTime": "twenty-nine minutes to twelve",
+    "quoteLast": " Mr. Murray will be dead_. I got the harmless one. I can tell by the taste.”",
+    "title": "Danny's Own Story",
+    "author": "Marquis, Don, 1878-1937; Kemble, E. W. (Edward Windsor), 1861-1933 [Illustrator]",
+    "gutenbergReference": "51925",
+    "hash": "8abc6b2e1c75460d395200696e595d51c6ba7a17561707e1744ad88206ad39ea"
+  },
+  {
+    "time": "11:31",
+    "quoteFirst": "Black Bulb 6.12 to 6.22 a.m. 6.24 to 6.37 a.m. 7.13 to 7.23 a.m. 7.24 to 7.34 a.m. 8.34 to 8.44 a.m. 8.47 to 9.00 a.m. 9.53 to 10.03 a.m. 10.04 to 10.17 a.m. 11.24 to ",
     "quoteTime": "11.31 a.m.",
-    "quoteLast": "   2·9   6·1 12·4 14·7 19·9 21·7 23·5 25·3 33·3 60·6",
+    "quoteLast": "   2·9   6·1 12·4 14·7 19·9 21·7 23·5 25·3 33·3 60·6 66·0 70·8 76·0 82·8 88·8 86·6 89·5 111·5     3·5988   5·4472 10·2672 11·4025 14·2653 14·7343 16·2620 17·0775 20·7014 25·783",
     "title": "Himalayan Journals — Complete\r\nOr, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
     "author": "Hooker, Joseph Dalton, 1817-1911",
     "gutenbergReference": "6478",
-    "hash": "0ccf7dd5e9b5e95f91d6042b14e4492eee0a45746a4a35afae0623f42ba15ab6"
+    "hash": "327ee2ea74efe1dc749112d608296833574ffbd081f8b16621a97cea937fbe93"
   }
 ]

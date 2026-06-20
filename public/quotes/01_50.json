@@ -1,102 +1,202 @@
 [
   {
     "time": "01:50",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes to two",
-    "quoteLast": ", Geneviève heard the sound of a horse's feet, that sound she knew so well.",
-    "title": "Le chevalier de Maison-Rouge",
-    "author": "Dumas, Alexandre, 1802-1870; Maquet, Auguste, 1813-1888",
-    "gutenbergReference": "71356",
-    "hash": "f59d19e798b1c19402552272580ddc11c95e0ab941ea5a8c3ef29499c964cc36"
-  },
-  {
-    "time": "01:50",
-    "quoteFirst": "_Monday, ",
-    "quoteTime": "1.50 a.m.",
-    "quoteLast": ", 1833.",
-    "title": "Juliette Drouet's Love-Letters to Victor Hugo\nEdited with a Biography of Juliette Drouet",
-    "author": "Drouet, Juliette, 1806-1883; Guimbaud, Louis, 1869-1957; Davidson, Theodora, 1862-1945 [Translator]",
-    "gutenbergReference": "44034",
-    "hash": "843c5b1da02b620cd3684f5590e5d1932bc42754de0e907819f7e1a68092b90a"
-  },
-  {
-    "time": "01:50",
-    "quoteFirst": "Colina said clearly: \"The price is to be ",
+    "quoteFirst": "He offers me ",
     "quoteTime": "one-fifty",
-    "quoteLast": " per bushel.\"",
+    "quoteLast": " to bring him down to the coast.",
+    "title": "The Crimson Gardenia and Other Tales of Adventure",
+    "author": "Beach, Rex, 1877-1949",
+    "gutenbergReference": "32101",
+    "hash": "68d07c52475029f217e4377c1779ceffced38619e9c9d3183861cfcd5b350d49"
+  },
+  {
+    "time": "01:50",
+    "quoteFirst": "He had come back to tell him what the white man already knew--that, though Gaviller had been laid low by a mysterious stroke, he had sent word from his sick-bed that he would pay no more than ",
+    "quoteTime": "one-fifty",
+    "quoteLast": " for wheat.",
     "title": "The Fur Bringers: A Story of the Canadian Northwest",
     "author": "Footner, Hulbert, 1879-1944",
     "gutenbergReference": "16289",
-    "hash": "30e6f42fc09a7ce76165c8eff6642d4a5a3fa889a6fa6392e00a43b0f9f17201"
+    "hash": "e4a39eb0836823316baa64f3b15c0fb825538101640d081a46e5f2fad5a6ca5b"
   },
   {
     "time": "01:50",
-    "quoteFirst": "However, by ",
-    "quoteTime": "1.50 a.m.",
-    "quoteLast": " on the 29th the relief was effected, and preparations for the morrow's offensive were immediately undertaken.",
-    "title": "Thirty Canadian V.Cs., 23d April 1915 to 30th March 1918",
-    "author": "Canadian War Records Office; Martin, Stuart, Military Historian; Richards, Robin; Roberts, Theodore Goodridge, 1877-1953",
-    "gutenbergReference": "40649",
-    "hash": "1fb195c6e8e554bfdb0e1b74a57bc813e55645836b58596160cba14d036991e0"
+    "quoteFirst": "Previously Cavanaugh had kept him almost constantly employed, finding him faithful and hard-working, but now owing to stranger associates there were weeks when he had no work at all and others when he had to work for as little as ",
+    "quoteTime": "one-fifty",
+    "quoteLast": " a day.",
+    "title": "Chains",
+    "author": "Dreiser, Theodore, 1871-1945",
+    "gutenbergReference": "72326",
+    "hash": "23a043d9c5c61b0f08d44054a262e21bed5dda246d149d467405324c58067f47"
   },
   {
     "time": "01:50",
-    "quoteFirst": "One hand, draw poker, my roan ag’in’ yore ",
+    "quoteFirst": "If not at the Shadrach by two, or, with all possible allowance for the shortcoming of a generally punctual director, by a quarter past two, he would be too late for his guinea; and now, as he looked at his watch, it wanted only ",
+    "quoteTime": "ten minutes to two",
+    "quoteLast": ".",
+    "title": "Miss Mackenzie",
+    "author": "Trollope, Anthony, 1815-1882",
+    "gutenbergReference": "24000",
+    "hash": "bd40a9e709d4bed2d0a96a73c4a348cabb6726ff336d239f30c77eb2c037e92d"
+  },
+  {
+    "time": "01:50",
+    "quoteFirst": "It will only take you about four days to build the wall, and at ",
+    "quoteTime": "one-fifty",
+    "quoteLast": " per day, that will be six dollars, twice your week's wages right there, and almost enough to pay what you owe me.\"",
+    "title": "Golden Stories\nA Selection of the Best Fiction by the Foremost Writers",
+    "author": "Various",
+    "gutenbergReference": "19356",
+    "hash": "23b2f826836060260ad67e818668fff5b682304f19c6245803a27b35e7bb3eb9"
+  },
+  {
+    "time": "01:50",
+    "quoteFirst": "As far as I know his intention is to offer ",
+    "quoteTime": "one-fifty",
+    "quoteLast": " a bushel, but something may have come up to cause him to change his mind.",
+    "title": "The Fur Bringers: A Story of the Canadian Northwest",
+    "author": "Footner, Hulbert, 1879-1944",
+    "gutenbergReference": "16289",
+    "hash": "8d1c9946a309b20da6e7e6ae432f543aa79552073786d79f43fe95a732cab7ae"
+  },
+  {
+    "time": "01:50",
+    "quoteFirst": "They'll stick you about ",
+    "quoteTime": "one-fifty",
+    "quoteLast": " per, but you can't beat that price in this town and keep clean.\"",
+    "title": "Ronicky Doone",
+    "author": "Brand, Max, 1892-1944",
+    "gutenbergReference": "11880",
+    "hash": "a81184202272e9f83da232aa1ac5a90e9b0a815539cf577ebd1f3c745aac356e"
+  },
+  {
+    "time": "01:50",
+    "quoteFirst": "\"It's ",
+    "quoteTime": "ten minutes to two",
+    "quoteLast": " ... we haven't a second to lose.\"",
+    "title": "The Man with the Clubfoot",
+    "author": "Williams, Valentine, 1883-1946",
+    "gutenbergReference": "15302",
+    "hash": "b49c472ee1c555428be1a22bf4397d4fe52ae706878f30fd12d0d232b1c5eb12"
+  },
+  {
+    "time": "01:50",
+    "quoteFirst": "\"He deposed that on the night in question his master came home at about ",
+    "quoteTime": "ten minutes to two",
+    "quoteLast": ". Chipps had then not yet gone to bed. Five minutes later Mr. Ashley went out again, telling the valet not to sit up for him. Chipps could not say at what time either of the young gentlemen had come home.",
+    "title": "The Old Man in the Corner",
+    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+    "gutenbergReference": "10556",
+    "hash": "22c2a158049eda33293fda17cd909c6ab414145d51876fcf38800df0ee8ee4c6"
+  },
+  {
+    "time": "01:50",
+    "quoteFirst": "You see, if the trapdoor had been left open for any length of time from ",
+    "quoteTime": "ten minutes to two",
+    "quoteLast": " hours, during the snowstorm, there would have been snow or melted snow on the attic floor.",
+    "title": "Footprints",
+    "author": "Strahan, Kay Cleaver, 1888-1941",
+    "gutenbergReference": "75577",
+    "hash": "1452f017d434cb712270d996c922f43a441b28c79b424cc49d5f9919d584579d"
+  },
+  {
+    "time": "01:50",
+    "quoteFirst": "He had come back to tell him what the white man already knew--that, though Gaviller had been laid low by a mysterious stroke, he had sent word from his sick-bed that he would pay no more than ",
+    "quoteTime": "one-fifty",
+    "quoteLast": " for wheat.",
+    "title": "The Fur Bringers: A Story of the Canadian Northwest",
+    "author": "Footner, Hulbert, 1879-1944",
+    "gutenbergReference": "16289",
+    "hash": "e4a39eb0836823316baa64f3b15c0fb825538101640d081a46e5f2fad5a6ca5b"
+  },
+  {
+    "time": "01:50",
+    "quoteFirst": "After bombarding the inner harbour for forty minutes     from ",
+    "quoteTime": "ten minutes to two",
+    "quoteLast": ", the Japanese squadron     retired.",
+    "title": "The Imperial Japanese Navy",
+    "author": "Jane, Fred T. (Frederick Thomas), 1865-1916",
+    "gutenbergReference": "74624",
+    "hash": "18ec1d274e08d1dd275c5b39ec0c16e727b1387b5800f929e5360c7d2aee64ca"
+  },
+  {
+    "time": "01:50",
+    "quoteFirst": "",
+    "quoteTime": "One-fifty",
+    "quoteLast": ".\"",
+    "title": "Three Little Women: A Story for Girls",
+    "author": "Jackson, Gabrielle E. (Gabrielle Emilie), 1861-",
+    "gutenbergReference": "38029",
+    "hash": "cddb39afa63f8ee4871e934536288b87cb4526bafa8634652747eb398ebf063a"
+  },
+  {
+    "time": "01:50",
+    "quoteFirst": "Ten thousand verses; moral, intellectooal, and witty; cloth cover, and the author's own autograph written by himself, all for ",
     "quoteTime": "one-fifty",
     "quoteLast": ".",
-    "title": "\"Tex\"",
-    "author": "Mulford, Clarence Edward, 1883-1956",
-    "gutenbergReference": "43100",
-    "hash": "fde12ca943253100bcb37b37418567fb2dc7be6ea0efbf04726ddf18580fc7bd"
-  },
-  {
-    "time": "01:50",
-    "quoteFirst": "And as a special and extraordinary thing--a sort of guarantee to one and all that they have seen a genooine living author--I write my autograph in each and every volume of this book that I sell at the small sum of ",
-    "quoteTime": "one-fifty",
-    "quoteLast": " per.",
     "title": "Kilo : being the love story of Eliph' Hewlitt, book agent",
     "author": "Butler, Ellis Parker, 1869-1937",
     "gutenbergReference": "3427",
-    "hash": "681ff3d9c6725fdcd51069018e4199eeb5ec05c2898f045b571c88450b22c76e"
+    "hash": "1fd05ae9fdeaaa3bc3ec96d7c23f0782d8bf5114f14fe2b40e7b32205f85d98d"
   },
   {
     "time": "01:50",
-    "quoteFirst": "“This afternoon, at ",
-    "quoteTime": "ten minutes before two",
-    "quoteLast": ", the Queen was     happily delivered of a Princess, His Royal Highness Prince     Albert, Her Royal Highness the Duchess of Kent, several Lords     of Her Majesty’s Most Honourable Privy Council, and the Ladies     of Her Majesty’s Bed-chamber being present.",
-    "title": "Curiosities of Street Literature",
-    "author": "Hindley, Charles, -1893 [Editor]",
-    "gutenbergReference": "49128",
-    "hash": "aed354c038adef56c49f564c37c6a6ba07dbb8dff7f5e5110a7a3ab3efaf0a3e"
+    "quoteFirst": "'",
+    "quoteTime": "One-fifty",
+    "quoteLast": ",' I says, 'an' he's a cheap hoss at the money'; but,\" added the speaker with a laugh, \"I knowed I might 's well of said a thousan'.",
+    "title": "David Harum\nA Story of American Life",
+    "author": "Westcott, Edward Noyes, 1847-1898",
+    "gutenbergReference": "17617",
+    "hash": "2ff55adaea292db52ecb2a2f3bb59270b03699759d597dd556792d89fdc456d4"
   },
   {
     "time": "01:50",
-    "quoteFirst": "The King was in Council, and it was ",
-    "quoteTime": "ten minutes before two",
-    "quoteLast": " when the Ministers left to go to the closing of the Chambers of Peers and Deputies.",
-    "title": "Diaries of Sir Moses and Lady Montefiore, Volume 2 (of 2)\r\nComprising Their Life and Work as Recorded in Their Diaries, from 1812 to 1883",
-    "author": "Montefiore, Moses, Sir, 1784-1885; Montefiore, Judith Cohen, Lady, 1784-1862; Loewe, Louis, 1809-1888 [Editor]",
-    "gutenbergReference": "52779",
-    "hash": "0bc2d0ffef7563fbf857eeea8ae7e05a3e0f617b0d9e34c2e39ea6c579809d5d"
-  },
-  {
-    "time": "01:50",
-    "quoteFirst": "I commence my travels thither-ward through a file of gaping clerks, and arrive there just ",
-    "quoteTime": "ten minutes before two",
-    "quoteLast": " by my repeater; when I am told “they are quite out of merinos; but won’t Lyonnese cloth do just as well?”",
-    "title": "Shadows and sunbeams: Being a second series of Fern leaves from Fanny's portfolio",
-    "author": "Fern, Fanny, 1811-1872; Thomas, George Housman, 1824-1868 [Illustrator]",
-    "gutenbergReference": "69784",
-    "hash": "fc25c3e133afa899a8d3c5f4f3d040b8332d64eddcb88f47a077ac3ee3b1f367"
-  },
-  {
-    "time": "01:50",
-    "quoteFirst": "If you'll be an angel, Ethel, and do the honors until I get here, I could lunch early, get through my business in town, and get the ",
+    "quoteFirst": "It will only take you about four days to build the wall, and at ",
     "quoteTime": "one-fifty",
-    "quoteLast": " train for home--\"",
-    "title": "Poor, Dear Margaret Kirby",
-    "author": "Norris, Kathleen Thompson, 1880-1966",
-    "gutenbergReference": "4348",
-    "hash": "178207632887643dacead0320c664a9750eb5b8938c929ff87f024c0e77a9a64"
+    "quoteLast": " per day, that will be six dollars, twice your week's wages right there, and almost enough to pay what you owe me.\"",
+    "title": "Golden Stories\nA Selection of the Best Fiction by the Foremost Writers",
+    "author": "Various",
+    "gutenbergReference": "19356",
+    "hash": "23b2f826836060260ad67e818668fff5b682304f19c6245803a27b35e7bb3eb9"
+  },
+  {
+    "time": "01:50",
+    "quoteFirst": "I was to meet him on the train for Flagstaff leaving the South Station at 2 P.M.; anxious to impress him with my reputation for being punctual, I boarded the train about ",
+    "quoteTime": "ten minutes before two",
+    "quoteLast": ".",
+    "title": "Biography of Percival Lowell",
+    "author": "Lowell, A. Lawrence (Abbott Lawrence), 1856-1943",
+    "gutenbergReference": "51900",
+    "hash": "82fd172f7b51decb1917c0f011914cae44982835cc9fe82d51c22af2d88e41be"
+  },
+  {
+    "time": "01:50",
+    "quoteFirst": "I reckon we'll come in sight of Candler Field in about an hour-and-a-half--the chart tells me it's something like ",
+    "quoteTime": "one-fifty",
+    "quoteLast": " miles, as the bee flies, between this Southern Pittsburgh and the Capital of Georgia.\"",
+    "title": "Flying the Coast Skyways; Or, Jack Ralston's Swift Patrol",
+    "author": "Newcomb, Ambrose",
+    "gutenbergReference": "45680",
+    "hash": "ed2c4a1d852b9318ca331e52266317c33e5d16b8a9a44f9497f5465d9159c071"
+  },
+  {
+    "time": "01:50",
+    "quoteFirst": "After bombarding the inner harbour for forty minutes     from ",
+    "quoteTime": "ten minutes to two",
+    "quoteLast": ", the Japanese squadron     retired.",
+    "title": "The Imperial Japanese Navy",
+    "author": "Jane, Fred T. (Frederick Thomas), 1865-1916",
+    "gutenbergReference": "74624",
+    "hash": "18ec1d274e08d1dd275c5b39ec0c16e727b1387b5800f929e5360c7d2aee64ca"
+  },
+  {
+    "time": "01:50",
+    "quoteFirst": "He then hurried to the hotel, which he reached at ",
+    "quoteTime": "one-fifty",
+    "quoteLast": ".",
+    "title": "Simon",
+    "author": "Clouston, J. Storer (Joseph Storer), 1870-1944",
+    "gutenbergReference": "26306",
+    "hash": "0066942891cd97b17bee7504236a9809612784dfe610f280bcd8f001b31c514a"
   }
 ]

@@ -1,6 +1,16 @@
 [
   {
     "time": "15:26",
+    "quoteFirst": "It was ",
+    "quoteTime": "twenty-six minutes past three",
+    "quoteLast": ".",
+    "title": "The House of the Secret (La maison des hommes vivants)",
+    "author": "Farrère, Claude, 1876-1957; Livingston, Arthur, 1883-1944 [Translator]",
+    "gutenbergReference": "65709",
+    "hash": "b839dd157210dd2b59b666f302c4f984091422a3c70b6fc0717e9b81fa78247b"
+  },
+  {
+    "time": "15:26",
     "quoteFirst": "The testimony of Alwyn Cole was taken at ",
     "quoteTime": "3:26 p.m.",
     "quoteLast": ", on September 4, 1964, at 200 Maryland Avenue NE.",
@@ -58,6 +68,16 @@
     "author": "Mahan, A. T. (Alfred Thayer), 1840-1914",
     "gutenbergReference": "25912",
     "hash": "c1d99eaf05027df89d14a0a62707f6014070a6553320c92ac6fef694697c6dbb"
+  },
+  {
+    "time": "15:26",
+    "quoteFirst": "The firing began at ",
+    "quoteTime": "3.26 P. M.",
+    "quoteLast": " and lasted until 3.40, fourteen minutes, at close range.",
+    "title": "History of the United States of America, Volume 8 (of 9)",
+    "author": "Adams, Henry, 1838-1918",
+    "gutenbergReference": "73057",
+    "hash": "ed0281060ca15240e561ef54ba9d94fe030ba736f025bcc1f054281f01e7247c"
   },
   {
     "time": "15:26",

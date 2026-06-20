@@ -21,6 +21,16 @@
   },
   {
     "time": "23:33",
+    "quoteFirst": "It was exactly ",
+    "quoteTime": "twenty-seven minutes before midnight",
+    "quoteLast": ", sir!\"",
+    "title": "Dave Dawson, Flight Lieutenant",
+    "author": "Bowen, Robert Sidney, 1900-1977",
+    "gutenbergReference": "50400",
+    "hash": "45c02872f008f5d5fbd27eab13582663ec5fcd62c641d49f5941a8b97748eb00"
+  },
+  {
+    "time": "23:33",
     "quoteFirst": "The countdown was begun at ",
     "quoteTime": "11:33 p.m.",
     "quoteLast": ", EST, July 20, after several delays because of trouble in the Range Safety Command system.",
@@ -28,6 +38,16 @@
     "author": "Jet Propulsion Laboratory (U.S.)",
     "gutenbergReference": "54585",
     "hash": "9d36fb3eef83cff6beec206e744e9a4d2e0621f1bdcce3b82579b2ba5863a494"
+  },
+  {
+    "time": "23:33",
+    "quoteFirst": "\"But, Mr. McCrea,\" urged the \"Luzon's\" executive officer, \"the time, '",
+    "quoteTime": "11.33 P.M.",
+    "quoteLast": ",' has been lettered on the ship's side with great distinctness.\"",
+    "title": "The Submarine Boys on Duty\r\nLife on a Diving Torpedo Boat",
+    "author": "Durham, Victor G.",
+    "gutenbergReference": "17054",
+    "hash": "6d9ebaab23824c70dc30a83df52a34152f267d91abe85882987dbfd46b991fce"
   },
   {
     "time": "23:33",

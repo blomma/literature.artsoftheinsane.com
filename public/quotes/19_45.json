@@ -1,102 +1,202 @@
 [
   {
     "time": "19:45",
-    "quoteFirst": "What did you do between ",
+    "quoteFirst": "So we are authorized to state, and we consider ourselves justified in stating, that on the morning in question, at about ",
+    "quoteTime": "a quarter to eight",
+    "quoteLast": ", the sun and M. Jean-Baptiste Godefroy rose.",
+    "title": "Short story classics (Foreign), Vol. 5, French II",
+    "author": "Patten, William, 1868-1936 [Editor]",
+    "gutenbergReference": "73893",
+    "hash": "f06ebe981bbe5b2734f3e265c08d280e81eca2bc32736e7099b4a5b9a8ef3f98"
+  },
+  {
+    "time": "19:45",
+    "quoteFirst": "At precisely ",
+    "quoteTime": "a quarter to eight",
+    "quoteLast": " a carriage was heard to arrive, and Lady Linton hastened to the hall to be the first to welcome her brother and his wife; but she started back, almost affrighted, as she beheld instead, William Heath, looking pale and thin, but bright and smiling, enter, leaning upon Rupert Hamilton’s arm, and followed by his wife and son.",
+    "title": "Threads gathered up",
+    "author": "Sheldon, Georgie, Mrs., 1843-1926",
+    "gutenbergReference": "70252",
+    "hash": "c925205fd69f002870bdf40acd8bf2579cfc0b62563b41d8312b0e99da3d90a7"
+  },
+  {
+    "time": "19:45",
+    "quoteFirst": "I rose at seven, breakfasted at ",
+    "quoteTime": "quarter to eight",
+    "quoteLast": ", and walked the poop alone till nearly eleven.",
+    "title": "By way of Cape Horn",
+    "author": "Stevenson, Paul Eve, 1868-1910",
+    "gutenbergReference": "75710",
+    "hash": "abb9dd22d906171d4288bbe79cbbe21f5f335a53d7779601254a32a1f16ef499"
+  },
+  {
+    "time": "19:45",
+    "quoteFirst": "It was summoned for ",
+    "quoteTime": "a quarter to eight",
+    "quoteLast": ", and at half-past ten somebody’s carriage would be announced, and she would say, “I hope nobody is thinking of going away yet,” in consequence of which everybody would go away at twenty minutes to eleven instead.",
+    "title": "Mrs. Ames",
+    "author": "Benson, E. F. (Edward Frederic), 1867-1940",
+    "gutenbergReference": "60168",
+    "hash": "89e62d40d19466c30c262ee277097bb38026eb693023889969e499fb2e005b0e"
+  },
+  {
+    "time": "19:45",
+    "quoteFirst": "It was about ",
+    "quoteTime": "a quarter to eight",
+    "quoteLast": " when I sat down to breakfast.",
+    "title": "A Rogue by Compulsion: An Affair of the Secret Service",
+    "author": "Bridges, Victor, 1878-1972",
+    "gutenbergReference": "10511",
+    "hash": "b924cd22673fa2a2711392150905a4e12242531fa5fcefdf91aa6b8266ec9544"
+  },
+  {
+    "time": "19:45",
+    "quoteFirst": "The district contingents turned out strong at the place of meeting, and by ",
+    "quoteTime": "a quarter to eight",
+    "quoteLast": " the procession of postmen in uniform, followed by an enormous crowd of sightseers, moved in the direction of Cannon Street by way of St. Martin’s-le-Grand.",
+    "title": "A history of postal agitation from fifty years ago till the present day",
+    "author": "Swift, H. G.",
+    "gutenbergReference": "57877",
+    "hash": "3cf7bd7c247eeee31b1bc4ff2c42828b200b16efc634784ea0d8f05fc3d0f71b"
+  },
+  {
+    "time": "19:45",
+    "quoteFirst": "WATERFORD MAIL, _Starts ",
+    "quoteTime": "a quarter before 8",
+    "quoteLast": " in the evening_.",
+    "title": "The Scientific Tourist through Ireland\r\nin which the traveller is directed to the principal objects of antiquity, art, science & the picturesque",
+    "author": "Walford, Thomas, 1752-1833",
+    "gutenbergReference": "48757",
+    "hash": "319da4ee8e1e9db91385d6011972548963abdd04ab80ace959417ec03d2327cf"
+  },
+  {
+    "time": "19:45",
+    "quoteFirst": "“Reached Lady Blessington’s about ",
+    "quoteTime": "a quarter before eight",
+    "quoteLast": ",” he writes.",
+    "title": "D'Orsay; or, The complete dandy",
+    "author": "Shore, W. Teignmouth (William Teignmouth), 1865-1932",
+    "gutenbergReference": "56581",
+    "hash": "634c454cf7313f1a6b7e79c06d885eab441ca21a895e5b336f8827c7acfe71e0"
+  },
+  {
+    "time": "19:45",
+    "quoteFirst": "The former are as follows:--He sleeps in the same room with the Queen, but in a separate bed; at ",
+    "quoteTime": "a quarter before eight",
+    "quoteLast": " every morning his _valet de chambre_ knocks at the door, and at ten minutes before eight exactly he gets out of bed, puts on a flannel dressing-gown and trousers, and walks into his dressing-room.",
+    "title": "The Greville Memoirs, Part 1 (of 3), Volume 3 (of 3)\r\nA Journal of the Reigns of King George IV and King William IV",
+    "author": "Greville, Charles, 1794-1865; Reeve, Henry, 1813-1895 [Editor]",
+    "gutenbergReference": "30591",
+    "hash": "39c55b421de26aa291019d74b2252dfc885f2102fda35265c1ecf5b68c6647b0"
+  },
+  {
+    "time": "19:45",
+    "quoteFirst": "",
+    "quoteTime": "a quarter to eight",
+    "quoteLast": "; and the crowd already thick before Rugge's Grand Exhibition,--\" Remorseless Baron and Bandit's Child!  Young Phenomenon,--Juliet Araminta,--Patronized by the Nobility in general, and expecting daily to be summoned to perform before the Queen,--/Vivat Regina!/\"--Ruba-dub- dub!",
+    "title": "What Will He Do with It? — Volume 04",
+    "author": "Lytton, Edward Bulwer Lytton, Baron, 1803-1873",
+    "gutenbergReference": "7662",
+    "hash": "870f4b922420748f726ea6a95fec6cb43924e7b0dd7bc9c4044ae20a1c2c02f7"
+  },
+  {
+    "time": "19:45",
+    "quoteFirst": "The price per ",
+    "quoteTime": "quarter of eight",
+    "quoteLast": " bushels, in January, 1853, was from 30s.",
+    "title": "The Commercial Products of the Vegetable Kingdom\r\nConsidered in Their Various Uses to Man and in Their Relation to the Arts and Manufactures; Forming a Practical Treatise & Handbook of Reference for the Colonist, Manufacturer, Merchant, and Consumer, on the Cultivation, Preparation for Shipment, and Commercial Value, &c. of the Various Substances Obtained From Trees and Plants, Entering into the Husbandry of Tropical and Sub-tropical Regions, &c.",
+    "author": "Simmonds, P. L. (Peter Lund), 1814-1897",
+    "gutenbergReference": "15191",
+    "hash": "426734d5b140fbc9a47a2538febe5ee2387c9d1f29043d53ee1ff1d411bc7767"
+  },
+  {
+    "time": "19:45",
+    "quoteFirst": "He goes away at ",
     "quoteTime": "a quarter of 8",
-    "quoteLast": " and 8:30?",
-    "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
-    "author": "United States. Warren Commission",
-    "gutenbergReference": "44006",
-    "hash": "a024b10d99a353f1fee978e9e5fdff19d1bd84cc50af4041a4e9c751887769d0"
+    "quoteLast": ", and Mr. Borden lets him out and locks the screen door behind him.",
+    "title": "The Fall River Tragedy: A History of the Borden Murders",
+    "author": "Porter, Edwin H.",
+    "gutenbergReference": "57939",
+    "hash": "b508b80566b6d511c092244a612ad3f0b14cff73c75c9947badf23f2ac25259d"
+  },
+  {
+    "time": "19:45",
+    "quoteFirst": "Now get away, and don’t arrive before ",
+    "quoteTime": "a quarter to eight",
+    "quoteLast": " or so.\"",
+    "title": "The Red Widow; or, The Death-Dealers of London",
+    "author": "Le Queux, William, 1864-1927",
+    "gutenbergReference": "46236",
+    "hash": "a34b824d38f57387d55f406ea19aa52f0b07bc572e5e537d841bb8e1434aebc9"
   },
   {
     "time": "19:45",
     "quoteFirst": "At ",
-    "quoteTime": "a quarter to eight",
-    "quoteLast": " we left the hotel and slowly made our way toward the station.",
-    "title": "My Escape from Germany",
-    "author": "Keith, Eric A.",
-    "gutenbergReference": "49509",
-    "hash": "e28f3c16760e55a3dc35da2f17ca9d32f0c199ff5f58c284a6c777cc7f906db6"
-  },
-  {
-    "time": "19:45",
-    "quoteFirst": "At ",
-    "quoteTime": "a quarter to eight",
-    "quoteLast": ", in fact, I found myself trimming my nails, with ten minutes to spare.",
-    "title": "The Second Mrs. Tanqueray: A Play in Four Acts",
-    "author": "Pinero, Arthur Wing, 1855-1934",
-    "gutenbergReference": "40736",
-    "hash": "91fac9f22aa057d43bed8e4c544a968341f5239eb715dc11267d7524e66bcda1"
-  },
-  {
-    "time": "19:45",
-    "quoteFirst": "Be ready by ",
-    "quoteTime": "a quarter to eight",
-    "quoteLast": ", won't you?\"",
-    "title": "Schoolgirl rivals",
-    "author": "Page, Brenda; Hickling, P. B. (Percy Bell), 1876-1951 [Illustrator]",
-    "gutenbergReference": "74919",
-    "hash": "c17656cc51e6f93a9a19a39b0ad27f83d421c40e99aa5f62fb2d934c22559658"
-  },
-  {
-    "time": "19:45",
-    "quoteFirst": "But at ",
     "quoteTime": "a quarter of eight",
-    "quoteLast": " she showed up.",
-    "title": "The Black Eagle Mystery",
-    "author": "Bonner, Geraldine, 1870-1930; Steele, Frederic Dorr, 1873-1944 [Illustrator]",
-    "gutenbergReference": "35484",
-    "hash": "9014c04d2fc2db01e7c20b84bfee056b9e2d8a97a26bc0d3d8c2a30289e6b19f"
+    "quoteLast": " there came a ring at the door bell, and Betty's heart missed a beat.",
+    "title": "The Outdoor Girls in Army Service; Or, Doing Their Bit for the Soldier Boys",
+    "author": "Hope, Laura Lee",
+    "gutenbergReference": "7494",
+    "hash": "bc97f16318141f0795fe3a83364a5c8bc003391c313304f6b3fe1dd28f3c174e"
   },
   {
     "time": "19:45",
-    "quoteFirst": "We were aroused at seven o’clock, and the orderlies for the day at once laid the breakfast, which was taken at ",
+    "quoteFirst": "“He will have finished with his visitor by about half-past seven, or say ",
     "quoteTime": "a quarter to eight",
-    "quoteLast": ".",
-    "title": "A Chronicle of Jails",
-    "author": "Figgis, Darrell, 1882-1925",
-    "gutenbergReference": "57095",
-    "hash": "cb80a7b4baaea69023f3f49caaa91ec39c2bbc1dde820745494bb96e8a5d9719"
+    "quoteLast": ". Could you look in again at eight?”",
+    "title": "Helen Vardon's confession",
+    "author": "Freeman, R. Austin (Richard Austin), 1862-1943",
+    "gutenbergReference": "76728",
+    "hash": "d2ddaef1b84e3d8479901283541734f0ba91c1d3c0297264c3e4163b8604355e"
+  },
+  {
+    "time": "19:45",
+    "quoteFirst": "\"We'll be all dressed up and ready at ",
+    "quoteTime": "quarter of eight",
+    "quoteLast": ". Come to the tavern. I'm going to have supper with Ann. She is just terribly happy. John McNeil has told her that he loves her. It's a secret. Don't you tell.\"",
+    "title": "A Man for the Ages: A Story of the Builders of Democracy",
+    "author": "Bacheller, Irving, 1859-1950; Adams, John Wolcott, 1874-1925 [Illustrator]",
+    "gutenbergReference": "17237",
+    "hash": "59e11ff6b6d91935f023db5cadc143d7c26202993c50ee2dba67fa3b3d3667ce"
   },
   {
     "time": "19:45",
     "quoteFirst": "At ",
     "quoteTime": "a quarter to eight",
-    "quoteLast": " I tapped at his door to ask how he was, and getting no answer went in and found him as if sleeping peacefully but quite dead.",
-    "title": "Letters of Edward FitzGerald, in Two Volumes. Vol. 2",
-    "author": "FitzGerald, Edward, 1809-1883; Wright, William Aldis, 1831-1914 [Editor]",
-    "gutenbergReference": "20539",
-    "hash": "347f417d428d9143bafbfe2bb2f2515f23d9b535a51480f0e4f166fe340b5d0b"
+    "quoteLast": " I stood with ten others in front of the M.O.'s door, on which a white card with the blue-lettered \"No Smoking\" stood out in bold relief.",
+    "title": "The Amateur Army",
+    "author": "MacGill, Patrick, 1890?-1963",
+    "gutenbergReference": "16078",
+    "hash": "8be22b57eaa98b98a0daaf296465ec56db8cabaf07194326103d46029ec93092"
   },
   {
     "time": "19:45",
-    "quoteFirst": "21st. From 7 till ",
-    "quoteTime": "15 minutes before 8",
-    "quoteLast": " in the morning; and from 15 minutes past 5 till 15 minutes before 8 at night.",
-    "title": "How to tell fortunes",
-    "author": "Warford, Aaron A.",
-    "gutenbergReference": "52741",
-    "hash": "fbcb23c65ad0c9e05afd2b76beda998a4c7b48d52b9ec96952de15825a1733b1"
-  },
-  {
-    "time": "19:45",
-    "quoteFirst": "With regard to the insinuation as to the lack of artillery at the end of the battle, it is shown clearly by Siborne, in his model of the battle as it was at ",
-    "quoteTime": "a quarter before 8 P.M.",
-    "quoteLast": ", that thirteen Troops and Brigades of the Royal Artillery were in action, when the final attack took place; _this being the entire number with the army_.",
-    "title": "History of the Royal Regiment of Artillery Vol. 2\r\nCompiled from the Original Records",
-    "author": "Duncan, Francis, 1836-1888",
-    "gutenbergReference": "58209",
-    "hash": "e3e3d27a683a362d63de78f4d1ba6a4cd29c1605eaa41ef1d75af3d537cd73fe"
-  },
-  {
-    "time": "19:45",
-    "quoteFirst": "Albert returned at ",
+    "quoteFirst": "As he spoke, the church clock chimed ",
     "quoteTime": "a quarter to eight",
     "quoteLast": ".",
-    "title": "Leaves From the Journal of Our Life in the Highlands, From 1848 to 1861",
-    "author": "Victoria, Queen of Great Britain, 1819-1901; Helps, Arthur, Sir, 1813-1875 [Editor]",
-    "gutenbergReference": "66173",
-    "hash": "282c86c142c3adde27c022cbe162f14ac4065d4c3c797278066da1eb05394847"
+    "title": "The girl from nowhere",
+    "author": "Reynolds, Baillie, Mrs., 1861-1939",
+    "gutenbergReference": "72969",
+    "hash": "90270de52b3d1e6735a06799b25c94caa56fcabb99968c7944d750677deabaa9"
+  },
+  {
+    "time": "19:45",
+    "quoteFirst": "You may fetch me at ",
+    "quoteTime": "a quarter to eight",
+    "quoteLast": ".\"",
+    "title": "The Hero",
+    "author": "Maugham, W. Somerset (William Somerset), 1874-1965",
+    "gutenbergReference": "27063",
+    "hash": "124d9341da4b7022e9996235b56df91c6f0fb08069a79fc970f9b57895c06a0e"
+  },
+  {
+    "time": "19:45",
+    "quoteFirst": "Yesterday I went at ",
+    "quoteTime": "a quarter before eight",
+    "quoteLast": ", and remained till three this morning, and then sat writing and correcting other men's writing till eight--a good twenty four hours of unpleasant activity!",
+    "title": "Biographia Epistolaris, Volume 1",
+    "author": "Coleridge, Samuel Taylor, 1772-1834; Turnbull, Arthur [Editor]",
+    "gutenbergReference": "8210",
+    "hash": "cdc2c8b32c3daecd6ea2ae73e17964afba81de00ec986363760212d784b84a7b"
   }
 ]

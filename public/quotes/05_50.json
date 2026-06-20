@@ -1,102 +1,202 @@
 [
   {
     "time": "05:50",
-    "quoteFirst": "To her satisfaction Jerry walked into the room at ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": ".",
-    "title": "Marjorie Dean, College Junior",
-    "author": "Chase, Josephine, -1931",
-    "gutenbergReference": "37176",
-    "hash": "a9edeeac34c13dade808990a65e0d39c20fdf75de0173605d93c34c1f54e919a"
-  },
-  {
-    "time": "05:50",
-    "quoteFirst": "Gas turned on at ",
-    "quoteTime": "5.50 a.m.",
-    "quoteLast": " for                             40 minutes.",
-    "title": "The History of the 7th Battalion Queen's Own Cameron Highlanders",
-    "author": "Sandilands, James Walter; MacLeod, Norman, 1872-1960",
-    "gutenbergReference": "50301",
-    "hash": "ea7c0c6edab90a633a87267a34d3a9cfa6c9fd7380b7d1cba1f4675d7a10a4bc"
-  },
-  {
-    "time": "05:50",
-    "quoteFirst": "The hands of the clock pointed to ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": " before the butler gave the longed-for signal, and she smiled at him in her most friendly manner as she crossed the room towards him.",
-    "title": "More about Pixie",
-    "author": "Vaizey, George de Horne, Mrs., 1857-1917; Groome, William H. C., 1860-1914 [Illustrator]",
-    "gutenbergReference": "21122",
-    "hash": "e44681c91c65658308ee83c5cfd2c9eca891d33168faa9e801bf21dcc52819fa"
+    "quoteFirst": "On the 11th June at ",
+    "quoteTime": "5.50 A.M.",
+    "quoteLast": " neither parent was to be seen and the young could scarcely be made to respond; but shortly afterwards both male and female appeared, and, after remaining a few minutes, again disappeared without even approaching the nest.",
+    "title": "Territory in Bird Life",
+    "author": "Howard, Henry Eliot, 1873-1940; Grönvold, Henrik, 1858-1940 [Illustrator]; Lodge, George Edward, 1860-1954 [Illustrator]",
+    "gutenbergReference": "31987",
+    "hash": "defe07143959642814a1124e637343d91213273042de87f1e8c2eeac2f69e338"
   },
   {
     "time": "05:50",
     "quoteFirst": "At ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": " Euphemia went upstairs to see England.",
-    "title": "The Diary of a Girl in France in 1821",
-    "author": "Browne, Mary, 1807-1833; Browne, Euphemia Stewart [Author of introduction, etc.]; Shore, Henry N., 1847-1926 [Editor]",
-    "gutenbergReference": "53908",
-    "hash": "e241396513f8a4c913e9318b8c89ffde17f4aa6360601618fbe394e587b642b6"
+    "quoteTime": "10 minutes to 6",
+    "quoteLast": " came Mrs. Wellesley[232] who is going tomorrow and will reach Stuttgardt on Friday.",
+    "title": "The girlhood of Queen Victoria, vol. 1 (of 2)",
+    "author": "Victoria, Queen of Great Britain, 1819-1901; Esher, Reginald Baliol Brett, Viscount, 1852-1930 [Editor]",
+    "gutenbergReference": "75138",
+    "hash": "644c4fa45ba3609ee887e8c0805392b8a805024a2d6a3bf0dcf6e1ac8a91dd6b"
   },
   {
     "time": "05:50",
-    "quoteFirst": "And at ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": " he alighted outside the old walls of the Parc de Villeneuve.",
-    "title": "813",
-    "author": "Leblanc, Maurice, 1864-1941; Teixeira de Mattos, Alexander, 1865-1921 [Translator]",
-    "gutenbergReference": "34758",
-    "hash": "68bbb9f4bcedee06a24c626a08dbc07280573b28c3996cc06550987fe53c25b8"
-  },
-  {
-    "time": "05:50",
-    "quoteFirst": "At 59th street the clock on the dash-board said ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": ".",
-    "title": "Mr. Carteret and Others",
-    "author": "Gray, David, 1870-1968",
-    "gutenbergReference": "68051",
-    "hash": "160e03f6c0efd18b10af0f5a2a079da0e46fd44dac600e3c52dcb8232ebe4020"
-  },
-  {
-    "time": "05:50",
-    "quoteFirst": "At the present rate of speed, thought Clif, they would reach it about ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": ".",
-    "title": "Hold 'em, Wyndham!",
-    "author": "Barbour, Ralph Henry, 1870-1944",
-    "gutenbergReference": "77370",
-    "hash": "90fff10117b0935f19d5a44d72485084d5cd6e690f9d72a190d564d8fb824828"
-  },
-  {
-    "time": "05:50",
-    "quoteFirst": "Resumed our route at ",
-    "quoteTime": "5.50 a.m.",
-    "quoteLast": " and steered north 20 degrees east till 8.0, then 40 degrees and 60 degrees till 1.0 p.m., when we encamped at a shallow pool of water near the creek, and about three miles above camp 48, as the route only traversed the level flats near the creek.",
-    "title": "Journals of Australian Explorations",
-    "author": "Gregory, Augustus Charles, 1819-1905; Gregory, Francis Thomas, 1821-1888",
-    "gutenbergReference": "10461",
-    "hash": "0428333f5c15e4a9c77c4eaeab374a8a03a2b820b407ca0e1dd194a92717952f"
-  },
-  {
-    "time": "05:50",
-    "quoteFirst": "At ",
-    "quoteTime": "ten minutes to six",
-    "quoteLast": " she sank, but happily not until our destroyers had taken off nearly all her ship's company.",
-    "title": "The Children's Story of the War Volume 4 (of 10)\r\nThe Story of the Year 1915",
-    "author": "Parrott, Edward, 1863-1921",
-    "gutenbergReference": "35386",
-    "hash": "fe41bd101b728f2b2aeb871ffe6018ee84630b0f938836dc87f4b34bc2e13894"
-  },
-  {
-    "time": "05:50",
-    "quoteFirst": "And these are ",
+    "quoteFirst": "\"I've heard ",
     "quoteTime": "five-fifty",
-    "quoteLast": " ...",
-    "title": "Fashions for men, and The swan",
-    "author": "Molnár, Ferenc, 1878-1952; Glazer, Benjamin F. (Benjamin Floyer), 1887-1956 [Translator]",
-    "gutenbergReference": "75610",
-    "hash": "b9efaea9a45357612e09ca5f86c09cf3d0bacc9572ff0fc4e86aa8ce0e889e70"
+    "quoteLast": ",\" he said crooningly.",
+    "title": "Spacerogue",
+    "author": "Silverberg, Robert, 1935-; Emshwiller, Ed, 1925-1990 [Illustrator]",
+    "gutenbergReference": "72234",
+    "hash": "f44a5247df493a9a8589968c8d690c594db3f5020631a48ff671c706194eb567"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "The time was ",
+    "quoteTime": "ten minutes to six",
+    "quoteLast": ".",
+    "title": "Cy Whittaker's Place",
+    "author": "Lincoln, Joseph Crosby, 1870-1944",
+    "gutenbergReference": "3281",
+    "hash": "e7c3c3fd63c2dc41040c4f70d7d744830efb9ea29126b85382f1d3b338018fe3"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "There were none who did not count the hours till zero hour, which was fixed for ",
+    "quoteTime": "5.50 a.m.",
+    "quoteLast": " on September 29th.",
+    "title": "The Australian Victories in France in 1918",
+    "author": "Monash, John, Sir, 1865-1931",
+    "gutenbergReference": "51163",
+    "hash": "93f8344ac8a4f51f760f5c7d917b4f283cd49273e05040e3bd87536286ba3e02"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "From      Kemp's High Wood the hounds took away through Gunworth Warren,      Kemp's Rough Piece, over Slindon Down to Madehurst Parsonage (where      Billy came in with them), over Poor Down up to Madehurst, then down      to Houghton Forest, where His Grace of Richmond, General Hawley,      and Mr. Pauncefort came in (the latter to little purpose, for,      beyond the Ruel Hill, neither Mr. Pauncefort nor his horse Tinker      cared to go, so wisely returned to his impatient friends), up the      Ruel Hill, left Sherwood on the right hand, crossed Ofham Hill to      Southwood, from thence to South Stoke to the wall of Arundel River,      where the glorious 23 hounds put an end to the campaign, and killed      an old bitch fox, ",
+    "quoteTime": "ten minutes before six",
+    "quoteLast": ".",
+    "title": "Highways and Byways in Sussex",
+    "author": "Lucas, E. V. (Edward Verrall), 1868-1938; Griggs, Frederick Landseer Maur, 1876-1938 [Illustrator]",
+    "gutenbergReference": "20696",
+    "hash": "63fc377c67cfe7f776746663ece39ab8ba2212f18b7854668c7c73a00b4be26e"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "At ",
+    "quoteTime": "5.50 A.M.",
+    "quoteLast": " the G.O.C. learned that Brig.",
+    "title": "The history of the 9th (Scottish) Division, 1914-1919",
+    "author": "Ewing, John, M.C.; Plumer of Messines, Herbert Charles Onslow Plumer, Viscount, 1857-1932 [Author of introduction, etc.]; Churchill, Winston, 1874-1965 [Illustrator]; Hodge, F. E. (Francis Edwin), 1883-1949 [Illustrator]",
+    "gutenbergReference": "75001",
+    "hash": "775d51ec3d018b51ac0e6667fa618a01686171012f8ca62b7fc8079fd9d607cc"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "Locke took the ",
+    "quoteTime": "five-fifty",
+    "quoteLast": " train for New York, leaving Weegman, whom he had succeeded in avoiding, frothing around the Grand in search of him.",
+    "title": "Lefty Locke, pitcher-manager",
+    "author": "Standish, Burt L., 1866-1945; Wrenn, Charles L. (Charles Lewis), 1880-1952 [Illustrator]",
+    "gutenbergReference": "34100",
+    "hash": "0ae954f0820634e677c1d0f2d2c99529160370364012e7f495c67969c26fe1af"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "Zero was fixed at ",
+    "quoteTime": "5.50 A.M.",
+    "quoteLast": " on the 25th.",
+    "title": "The history of the Twentieth (Light) Division",
+    "author": "Inglefield, Valentine Erskine, 1886-1947; Cavan, Frederick Rudolph Lambart, Earl of, 1865-1946 [Author of introduction, etc.]",
+    "gutenbergReference": "74129",
+    "hash": "723b306741bf772964a8f37b6f221975ff6473405a3feafdd58d428246d8a597"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "The night breeze, which was in all probability the sea-breeze, set in about ",
+    "quoteTime": "ten minutes to six",
+    "quoteLast": ".",
+    "title": "Journal of an Overland Expedition in Australia\r\nFrom Moreton Bay to Port Essington, a distance of upwards of 3000 miles, during the years 1844-1845",
+    "author": "Leichhardt, Ludwig, 1813-1848",
+    "gutenbergReference": "5005",
+    "hash": "fbcc1c52eba6c791cf909772388e750d8a686749b09346699147531fb5d08d1c"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "It was      ",
+    "quoteTime": "ten minutes to six",
+    "quoteLast": ".",
+    "title": "Thirteen years at the Russian court\r\n(a personal record of the last years and death of the Czar Nicholas II. and his family)",
+    "author": "Gilliard, Pierre, 1879-1962; Holt, F. A. (Frederic Appleby), 1888-1980 [Translator]",
+    "gutenbergReference": "60546",
+    "hash": "a617ef5ea41c893c3a03d1923630e2aa0070017eb2787e53348e2ca2f8fefd56"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "Far down the track the ",
+    "quoteTime": "five-fifty",
+    "quoteLast": " New York express shot into sight from around a curve.",
+    "title": "Marjorie Dean Macy's Hamilton Colony",
+    "author": "Chase, Josephine, -1931",
+    "gutenbergReference": "53987",
+    "hash": "c98d92c4a30e4dea525249e7d3c12fd97059f228e1aa442b1d2a2c2a7bfa78dc"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "The attack started at ",
+    "quoteTime": "5.50 a.m.",
+    "quoteLast": " in a thick mist, and though the 30th American Division reached the Bellicourt tunnel to time, the 27th on its left was held up.",
+    "title": "Tanks in the Great War, 1914-1918",
+    "author": "Fuller, J. F. C. (John Frederick Charles), 1878-1966",
+    "gutenbergReference": "49808",
+    "hash": "61585d3bab77fee0ea1bccc510cb9ef3e4e7f90a5ca4be3a90c3f098731f2146"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "Sally and Ted may be on that ",
+    "quoteTime": "five-fifty",
+    "quoteLast": ", and if Dad went home earlier they'll have to make the trip alone!\"",
+    "title": "The Story of Julia Page",
+    "author": "Norris, Kathleen Thompson, 1880-1966; Gilbert, C. Allan [Illustrator]",
+    "gutenbergReference": "4787",
+    "hash": "e998849f2a0b92add8b7ebf9144edb8de1a3b4164e77cbf5dcedc364c29cefd4"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "\"It's ",
+    "quoteTime": "ten minutes to six",
+    "quoteLast": " now. It will take us fifteen minutes to walk to Vinton's. That leaves twenty-five minutes in which to get ready.\"",
+    "title": "Grace Harlowe's Second Year at Overton College",
+    "author": "Chase, Josephine, -1931",
+    "gutenbergReference": "6858",
+    "hash": "97dfc44e9a6c164e1705f0c4e36c79aca41bec818d78fb48b90ebb95558761e1"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "Mrs. B. J. Gougerling, wife of the banker, stated in a shocked manner, “Any place from three-fifty to ",
+    "quoteTime": "five-fifty",
+    "quoteLast": " a week! I know positively that Mrs. Clark, after swearing that she wouldn't weaken and encourage them in their outrageous demands, went and paid five-fifty--think of it! practically a dollar a day for unskilled work and, of course, her food and room and a chance to do her own washing right in with the rest of the wash. HOW MUCH DO YOU PAY, Mrs. KENNICOTT?”",
+    "title": "Main Street",
+    "author": "Lewis, Sinclair, 1885-1951",
+    "gutenbergReference": "543",
+    "hash": "4f8a811caa5a017dd0916bb09fca495691af55beed5a3c6794d01c2f7ca62f2e"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "When he left his desk again it was ",
+    "quoteTime": "ten minutes of six",
+    "quoteLast": ", and Carleton had already gone.",
+    "title": "The Night Operator",
+    "author": "Packard, Frank L. (Frank Lucius), 1877-1942",
+    "gutenbergReference": "33634",
+    "hash": "6fc952e76e39edf9b6d99ac871a0cf4abb38fc83867ebc169cda4f08526d6264"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "\"May 23rd, ",
+    "quoteTime": "5.50 A.M.",
+    "quoteLast": ": Observed Turkish torpedo-gunboat at anchor     off Constantinople. Attacked and sank her with port-bow torpedo,     striking her amidships on the starboard side. While sinking she     opened fire with a 6-pdr. gun, the first round hitting the     foremost periscope. Proceeded to position north of Kalolimno     Island. Rose to surface, and prepared damaged periscope for new     top.",
+    "title": "The Story of Our Submarines",
+    "author": "Bower, John Graham, 1886-1940",
+    "gutenbergReference": "40765",
+    "hash": "0ec987e2f03fdb6da6ee1dff09642000619f50bacb8069b7c72dab907b6a1a3f"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "McCray stuck out for ",
+    "quoteTime": "five-fifty",
+    "quoteLast": ".",
+    "title": "Sketches in Crude-oil\r\nSome accidents and incidents of the petroleum development in all parts of the globe",
+    "author": "McLaurin, John J. (John James), 1841-1923",
+    "gutenbergReference": "53672",
+    "hash": "2b210a85a1f34a79e22e98ec53d8d334bfeca63a2ef845b5cc9a285bc93645c5"
+  },
+  {
+    "time": "05:50",
+    "quoteFirst": "When the other lawyer finished, Arthur waived a reply, although it was only ",
+    "quoteTime": "ten minutes of six",
+    "quoteLast": ", and the Court did not adjourn until six o’clock.",
+    "title": "Justice is a woman",
+    "author": "Haberman, Helen",
+    "gutenbergReference": "78006",
+    "hash": "702f713f78782ccb940c0e44f0d69b829910157b46af987cd13905328c23bca3"
   }
 ]

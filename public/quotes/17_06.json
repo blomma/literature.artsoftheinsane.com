@@ -1,6 +1,16 @@
 [
   {
     "time": "17:06",
+    "quoteFirst": "The lightning of calamity struck Ug one afternoon at ",
+    "quoteTime": "six minutes past five",
+    "quoteLast": ".",
+    "title": "Apes and Angels",
+    "author": "Connell, Richard Edward, 1893-1949",
+    "gutenbergReference": "65201",
+    "hash": "7587e3cdb03707cfa35667e6c5b3c6125f969e8a935fc46bfbde2451252ab4bb"
+  },
+  {
+    "time": "17:06",
     "quoteFirst": "\"Special passed here ",
     "quoteTime": "six past five",
     "quoteLast": ".--Earlstown.\"",
@@ -18,5 +28,15 @@
     "author": "Doyle, Arthur Conan, 1859-1930; Castaigne, J. André, 1861-1929 [Illustrator]",
     "gutenbergReference": "54109",
     "hash": "a700e800a4543a525e340a921e88522ff679cccca4fd2372e00408084feff927"
+  },
+  {
+    "time": "17:06",
+    "quoteFirst": "\"",
+    "quoteTime": "Six minutes past five",
+    "quoteLast": ",\" said she, looking at the watch again.",
+    "title": "Jimmy, Lucy, and All",
+    "author": "May, Sophie, 1833-1906",
+    "gutenbergReference": "14608",
+    "hash": "6abf2f538d1836d4ae2ad3825a8491e77e7577d9ed9e6211f31e646688c567c0"
   }
 ]
